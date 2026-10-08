@@ -19,6 +19,7 @@ Levantamento de 08/10/2026. Cada matéria foi aberta e lida; só entraram na lis
 - **Duplicatas fundidas:** Lúcia Barbosa e Lúcia Martins Coelho Barbosa; Elias Brandão de Aquino e Elias de Aquino; Lenilde Ramos e Silvia Odinei Cesco com as coordenadoras da Academia Sul-Mato-Grossense de Letras; Carlos Diehl e o autor Diehl (2009); "Retrato do Artista Quando Coisa" (2021) e o documentário de Pizzini sobre Manoel de Barros.
 - **Ginga:** Ginga Espaço de Dança (escola e espaço físico) e Ginga Cia de Dança (grupo de espetáculos) são coisas diferentes, geridas pelas mesmas pessoas. Ficam como duas linhas. A linha existente chama-se "Ginga Espaço de Dança"; falta criar a linha do grupo.
 - **Vitor Brauer:** removido.
+- **Duplicatas antigas:** Roma Román = Romã Rosario Roman Anez (fundidas), mas pessoa diferente de Rubén Darío Román Añez. Aplausos Cia Teatral = Cia Aplausos (fundidas). Os dois Anderson Lima, Flora/Francisco Thomé, Pedro Medeiros, Nelly Martins, Arrebol Coletivo/Arrebol Cultural e Cia do Mato/Circo do Mato ficam separados.
 - **"Paralelos Trágicos":** as duas datas (1965–66 ou 1965, e 1967) ficam na lista; corrigir depois.
 - **Música:** explorar bandas e também os músicos que as compõem. Os cinco integrantes do Codinome Winchester ganharam linha própria.
 - **Novas áreas:** literatura (já existia), ilustração, quadrinhos e fotografia.

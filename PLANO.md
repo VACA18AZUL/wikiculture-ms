@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual, música, ilustração, quadrinhos e fotografia.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 (lista-mestra) com as sete áreas levantadas em 08/10/2026 e aguardando revisão de Helton: artes plásticas, música, teatro, dança, literatura, audiovisual e circo (`dados/fontes-*.md` lista as fontes lidas de cada uma). Depois, uma leitura de matérias do Lado B (Campo Grande News) acrescentou nomes em todas as áreas (`dados/fontes-lado-b.md`). Em 08/10/2026 Helton fundiu duplicatas, dispensou Vitor Brauer e pediu mais três áreas (ilustração, quadrinhos, fotografia) e, em música, bandas e integrantes (decisões em `dados/fontes-lado-b.md`); as três áreas novas ainda não foram levantadas. Sobre a lista: 572 nomes; as áreas com mais cobertura são música, literatura e artes plásticas; circo e dança são as mais fracas. Próximo passo: Helton revisa (corta, acrescenta, reordena); depois a Fase 2 (piloto de 35 verbetes).
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 (lista-mestra) com as sete áreas levantadas em 08/10/2026 e aguardando revisão de Helton: artes plásticas, música, teatro, dança, literatura, audiovisual e circo (`dados/fontes-*.md` lista as fontes lidas de cada uma). Depois, uma leitura de matérias do Lado B (Campo Grande News) acrescentou nomes em todas as áreas (`dados/fontes-lado-b.md`). Em 08/10/2026 Helton fundiu duplicatas, dispensou Vitor Brauer e pediu mais três áreas (ilustração, quadrinhos, fotografia) e, em música, bandas e integrantes (decisões em `dados/fontes-lado-b.md`); as três áreas novas e as bandas foram levantadas no mesmo dia com apoio do Perplexity e conferência página a página (`dados/fontes-novas-areas.md`). Sobre a lista: 723 nomes; as áreas com mais cobertura são música, literatura e artes plásticas; circo e dança são as mais fracas. Próximo passo: Helton revisa (corta, acrescenta, reordena); depois a Fase 2 (piloto de 35 verbetes).
 
 ## Decisão central
 
@@ -30,7 +30,7 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 | Fase | Entrega | Marco | Situação |
 |---|---|---|---|
 | 0. Fundação | Estrutura, modelo de ficha, verbetes-modelo, publicação automática | Navegação funcionando | Concluída |
-| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | Levantamento das sete áreas feito em 08/10/2026 (449 linhas) e passagem pelo Lado B (572 linhas); aguarda revisão de Helton |
+| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | Levantamento das sete áreas feito em 08/10/2026 (449 linhas) e passagem pelo Lado B (723 linhas, incluindo fotografia, ilustração, quadrinhos e bandas); aguarda revisão de Helton |
 | 2. Piloto | 35 verbetes completos (5 por área), revisados | Padrão de qualidade validado | A fazer |
 | 3. Expansão | Lotes por área, um pull request por lote | Cobertura da lista-mestra | A fazer |
 | 4. Design | Identidade visual aplicada sobre o conteúdo pronto | Lançamento público | A fazer |
