@@ -1,6 +1,6 @@
 # WikiCulture MS
 
-Enciclopédia aberta de agentes culturais e produções artísticas de Mato Grosso do Sul: teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
+Enciclopédia aberta de agentes culturais e produções artísticas de Mato Grosso do Sul: teatro, dança, circo, literatura, artes plásticas, audiovisual, música, ilustração, quadrinhos e fotografia.
 
 Site: ainda sem endereço público (ver "Decisões em aberto" em `PLANO.md`).
 

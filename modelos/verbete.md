@@ -5,7 +5,7 @@
 
 titulo: Nome como deve aparecer no topo da página
 tipo: pessoa            # pessoa | grupo | obra | espaco | evento
-areas: [teatro]         # uma ou mais: teatro, danca, circo, literatura, artes-plasticas, audiovisual, musica
+areas: [teatro]         # uma ou mais: teatro, danca, circo, literatura, artes-plasticas, audiovisual, musica, ilustracao, quadrinhos, fotografia
 cidade: Campo Grande    # cidade de MS a que o verbete está ligado. Apague a linha se a fonte não disser.
 resumo: Uma frase, até 240 caracteres, que explica quem é ou o que é.
 ficha:                  # linhas da caixa lateral; use só o que tiver fonte. Sugestões por tipo:
