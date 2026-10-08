@@ -1,0 +1,36 @@
+---
+import Base from '../../layouts/Base.astro';
+import { AREAS, TIPOS, todos, url } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const verbetes = await todos();
+  return Object.keys(AREAS).map((area) => ({
+    params: { area },
+    props: { lista: verbetes.filter((v) => v.data.areas.includes(area as any)) },
+  }));
+}
+const { area } = Astro.params;
+const { lista } = Astro.props;
+---
+<Base titulo={AREAS[area]}>
+  <h1>{AREAS[area]}</h1>
+  <p class="sub">{lista.length} {lista.length === 1 ? 'verbete' : 'verbetes'} nesta área</p>
+  {lista.length === 0 && <p>Ainda não há verbetes nesta área.</p>}
+  {Object.entries(TIPOS).map(([tipo, nome]) => {
+    const grupo = lista.filter((v) => v.data.tipo === tipo);
+    return grupo.length > 0 && (
+      <>
+        <h2 class="secao">{nome}</h2>
+        <ul class="lista">
+          {grupo.map((v) => (
+            <li>
+              <a href={url(`/verbetes/${v.id}/`)}>{v.data.titulo}</a>
+              {v.data.cidade && <span class="etiqueta">{v.data.cidade}</span>}
+              <span class="resumo">{v.data.resumo}</span>
+            </li>
+          ))}
+        </ul>
+      </>
+    );
+  })}
+</Base>

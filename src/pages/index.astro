@@ -1,0 +1,38 @@
+---
+import Base from '../layouts/Base.astro';
+import { AREAS, TIPOS, todos, url } from '../lib/site';
+const verbetes = await todos();
+const recentes = [...verbetes]
+  .sort((a, b) => b.data.atualizado.getTime() - a.data.atualizado.getTime())
+  .slice(0, 10);
+---
+<Base>
+  <h1>WikiCulture MS</h1>
+  <p class="sub">
+    Enciclopédia aberta de agentes culturais e produções artísticas de Mato Grosso do Sul.
+    {verbetes.length === 1 ? 'Um verbete' : `${verbetes.length} verbetes`} até agora.
+  </p>
+
+  <h2 class="secao">Áreas</h2>
+  <ul class="grade">
+    {Object.entries(AREAS).map(([id, nome]) => (
+      <li>
+        <a href={url(`/areas/${id}/`)}>
+          {nome}
+          <span class="n">{verbetes.filter((v) => v.data.areas.includes(id as any)).length} verbetes</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+
+  <h2 class="secao">Atualizados recentemente</h2>
+  <ul class="lista">
+    {recentes.map((v) => (
+      <li>
+        <a href={url(`/verbetes/${v.id}/`)}>{v.data.titulo}</a>
+        <span class="etiqueta">{TIPOS[v.data.tipo]}</span>
+        <span class="resumo">{v.data.resumo}</span>
+      </li>
+    ))}
+  </ul>
+</Base>

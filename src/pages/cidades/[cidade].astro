@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import { TIPOS, todos, slug, url } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const verbetes = await todos();
+  const cidades = new Map<string, string>();
+  for (const v of verbetes) if (v.data.cidade) cidades.set(slug(v.data.cidade), v.data.cidade);
+  return [...cidades].map(([id, nome]) => ({
+    params: { cidade: id },
+    props: { nome, lista: verbetes.filter((v) => v.data.cidade && slug(v.data.cidade) === id) },
+  }));
+}
+const { nome, lista } = Astro.props;
+---
+<Base titulo={nome}>
+  <h1>{nome}</h1>
+  <p class="sub">{lista.length} {lista.length === 1 ? 'verbete' : 'verbetes'} ligados a esta cidade</p>
+  <ul class="lista">
+    {lista.map((v) => (
+      <li>
+        <a href={url(`/verbetes/${v.id}/`)}>{v.data.titulo}</a>
+        <span class="etiqueta">{TIPOS[v.data.tipo]}</span>
+        <span class="resumo">{v.data.resumo}</span>
+      </li>
+    ))}
+  </ul>
+</Base>

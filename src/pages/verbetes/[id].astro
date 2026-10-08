@@ -1,0 +1,72 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { AREAS, TIPOS, REPO, todos, citados, slug, url } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const verbetes = await todos();
+  return verbetes.map((verbete) => ({
+    params: { id: verbete.id },
+    props: {
+      verbete,
+      apontam: verbetes.filter((o) => o.id !== verbete.id && citados(o.body).has(verbete.id)),
+    },
+  }));
+}
+
+const { verbete, apontam } = Astro.props;
+const { Content } = await render(verbete);
+const d = verbete.data;
+const data = d.atualizado.toLocaleDateString('pt-BR', { timeZone: 'UTC' });
+const correcao = `${REPO}/issues/new?title=${encodeURIComponent('Correção: ' + d.titulo)}`;
+---
+<Base titulo={d.titulo} descricao={d.resumo}>
+  <h1>{d.titulo}</h1>
+  <p class="sub">{TIPOS[d.tipo]} · {d.areas.map((a) => AREAS[a]).join(', ')}</p>
+
+  {d.status === 'rascunho' && (
+    <p class="aviso">
+      Este verbete é um <strong>rascunho</strong>: foi escrito a partir das fontes citadas, mas
+      ainda não passou por revisão editorial.
+    </p>
+  )}
+
+  <table class="ficha">
+    <caption>{d.titulo}</caption>
+    <tbody>
+      <tr><th>Tipo</th><td>{TIPOS[d.tipo]}</td></tr>
+      <tr>
+        <th>{d.areas.length > 1 ? 'Áreas' : 'Área'}</th>
+        <td>
+          {d.areas.map((a, i) => (
+            <>{i > 0 && ', '}<a href={url(`/areas/${a}/`)}>{AREAS[a]}</a></>
+          ))}
+        </td>
+      </tr>
+      {d.cidade && (
+        <tr><th>Cidade</th><td><a href={url(`/cidades/${slug(d.cidade)}/`)}>{d.cidade}</a></td></tr>
+      )}
+      {Object.entries(d.ficha ?? {}).map(([rotulo, valor]) => (
+        <tr><th>{rotulo}</th><td>{valor}</td></tr>
+      ))}
+    </tbody>
+  </table>
+
+  <div class="conteudo">
+    <Content />
+  </div>
+
+  {apontam.length > 0 && (
+    <div class="caixa">
+      <strong>Páginas que apontam para cá:</strong>{' '}
+      {apontam.map((o, i) => (
+        <>{i > 0 && ' · '}<a href={url(`/verbetes/${o.id}/`)}>{o.data.titulo}</a></>
+      ))}
+    </div>
+  )}
+
+  <div class="caixa">
+    Atualizado em {data}. <a href={`${REPO}/blob/main/verbetes/${verbete.id}.md`}>Ver fonte do verbete</a>
+    {' · '}<a href={correcao}>Pedir correção ou remoção</a>
+  </div>
+</Base>

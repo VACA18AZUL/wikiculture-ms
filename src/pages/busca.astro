@@ -1,0 +1,44 @@
+---
+import Base from '../layouts/Base.astro';
+import { AREAS, TIPOS, todos, url } from '../lib/site';
+const verbetes = await todos();
+---
+<Base titulo="Todos os verbetes">
+  <h1>Todos os verbetes</h1>
+  <p class="sub">{verbetes.length} verbetes em ordem alfabética. Digite para filtrar por nome, área, cidade ou resumo.</p>
+  <input class="filtro" id="filtro" type="search" placeholder="Filtrar" aria-label="Filtrar verbetes" style="width:100%;max-width:480px" />
+  <ul class="lista" id="lista">
+    {verbetes.map((v) => (
+      <li data-texto={[v.data.titulo, v.data.resumo, v.data.cidade ?? '', TIPOS[v.data.tipo], ...v.data.areas.map((a) => AREAS[a])].join(' ')}>
+        <a href={url(`/verbetes/${v.id}/`)}>{v.data.titulo}</a>
+        <span class="etiqueta">{TIPOS[v.data.tipo]} · {v.data.areas.map((a) => AREAS[a]).join(', ')}</span>
+        <span class="resumo">{v.data.resumo}</span>
+      </li>
+    ))}
+  </ul>
+  <p id="vazio" hidden>Nenhum verbete encontrado.</p>
+  <script is:inline>
+    (function () {
+      var limpar = function (s) {
+        return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+      };
+      var campo = document.getElementById('filtro');
+      var itens = Array.prototype.slice.call(document.querySelectorAll('#lista li'));
+      var vazio = document.getElementById('vazio');
+      var filtrar = function () {
+        var termos = limpar(campo.value).split(/\s+/).filter(Boolean);
+        var visiveis = 0;
+        itens.forEach(function (li) {
+          var texto = limpar(li.getAttribute('data-texto'));
+          var ok = termos.every(function (t) { return texto.indexOf(t) !== -1; });
+          li.hidden = !ok;
+          if (ok) visiveis++;
+        });
+        vazio.hidden = visiveis > 0;
+      };
+      campo.value = new URLSearchParams(location.search).get('q') || '';
+      campo.addEventListener('input', filtrar);
+      filtrar();
+    })();
+  </script>
+</Base>

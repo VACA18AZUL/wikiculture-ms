@@ -1,0 +1,58 @@
+---
+import { NOME, AREAS, REPO, url } from '../lib/site';
+interface Props {
+  titulo?: string;
+  descricao?: string;
+}
+const { titulo, descricao } = Astro.props;
+const tituloPagina = titulo ? `${titulo} — ${NOME}` : NOME;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloPagina}</title>
+    <meta
+      name="description"
+      content={descricao ?? 'Enciclopédia aberta de agentes culturais e produções artísticas de Mato Grosso do Sul.'}
+    />
+    <link rel="stylesheet" href={url('/estilo.css')} />
+  </head>
+  <body>
+    <header class="topo">
+      <a class="marca" href={url('/')}>{NOME}</a>
+      <form class="busca" action={url('/busca/')} method="get" role="search">
+        <input type="search" name="q" placeholder="Buscar verbete" aria-label="Buscar verbete" />
+        <button type="submit">Buscar</button>
+      </form>
+    </header>
+    <div class="moldura">
+      <nav class="lateral" aria-label="Navegação">
+        <h2>Navegação</h2>
+        <ul>
+          <li><a href={url('/')}>Página inicial</a></li>
+          <li><a href={url('/busca/')}>Todos os verbetes</a></li>
+          <li><a href={url('/desejados/')}>Verbetes desejados</a></li>
+          <li><a href={url('/sobre/')}>Sobre o projeto</a></li>
+        </ul>
+        <h2>Áreas</h2>
+        <ul>
+          {Object.entries(AREAS).map(([id, nome]) => (
+            <li><a href={url(`/areas/${id}/`)}>{nome}</a></li>
+          ))}
+        </ul>
+      </nav>
+      <main>
+        <slot />
+      </main>
+    </div>
+    <footer class="rodape">
+      <p>
+        Todo conteúdo cita suas fontes. Encontrou um erro ou quer pedir correção ou remoção de um
+        verbete? <a href={url('/sobre/#correcoes')}>Veja como</a>.
+      </p>
+      <p><a href={REPO}>Código e conteúdo no GitHub</a></p>
+    </footer>
+  </body>
+</html>

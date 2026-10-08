@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import { todos, citados, url } from '../lib/site';
+const verbetes = await todos();
+const existentes = new Set(verbetes.map((v) => v.id));
+const desejados = new Map<string, { rotulo: string; origem: typeof verbetes }>();
+for (const v of verbetes) {
+  for (const [id, rotulo] of citados(v.body)) {
+    if (existentes.has(id)) continue;
+    if (!desejados.has(id)) desejados.set(id, { rotulo, origem: [] });
+    desejados.get(id)!.origem.push(v);
+  }
+}
+const lista = [...desejados].sort((a, b) => b[1].origem.length - a[1].origem.length || a[0].localeCompare(b[0]));
+---
+<Base titulo="Verbetes desejados">
+  <h1>Verbetes desejados</h1>
+  <p class="sub">
+    Nomes já citados em algum verbete, mas que ainda não têm página própria. Os mais citados vêm primeiro.
+  </p>
+  {lista.length === 0 && <p>Nenhum verbete pendente.</p>}
+  <ul class="lista">
+    {lista.map(([id, { rotulo, origem }]) => (
+      <li>
+        <span class="inexistente">{rotulo}</span>
+        <span class="etiqueta">{id}</span>
+        <span class="resumo">
+          Citado em:{' '}
+          {origem.map((o, i) => (
+            <>{i > 0 && ', '}<a href={url(`/verbetes/${o.id}/`)}>{o.data.titulo}</a></>
+          ))}
+        </span>
+      </li>
+    ))}
+  </ul>
+</Base>
