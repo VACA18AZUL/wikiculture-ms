@@ -7,7 +7,7 @@ resumo: Pintor nascido em Corumbá em 1937, de nome civil José Ramão Pinto de 
 ficha:
   Nome civil: José Ramão Pinto de Moraes
   Nascimento: 24 de novembro de 1937, Corumbá
-  Morte: 2009
+  Morte: "2009"
   Atividade: Pintura
 status: rascunho
 atualizado: 2026-10-08
