@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Próxima: Fase 1 (lista-mestra).
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 em andamento: lista de artes plásticas pronta para revisão (`dados/fontes-artes-plasticas.md` lista as fontes lidas). Próxima área: música.
 
 ## Decisão central
 
@@ -30,7 +30,7 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 | Fase | Entrega | Marco | Situação |
 |---|---|---|---|
 | 0. Fundação | Estrutura, modelo de ficha, verbetes-modelo, publicação automática | Navegação funcionando | Concluída |
-| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | A fazer |
+| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | Em andamento: artes plásticas levantada (130 linhas), aguarda sua revisão |
 | 2. Piloto | 35 verbetes completos (5 por área), revisados | Padrão de qualidade validado | A fazer |
 | 3. Expansão | Lotes por área, um pull request por lote | Cobertura da lista-mestra | A fazer |
 | 4. Design | Identidade visual aplicada sobre o conteúdo pronto | Lançamento público | A fazer |
