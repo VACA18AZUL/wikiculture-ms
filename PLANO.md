@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 em andamento: lista de artes plásticas pronta para revisão (`dados/fontes-artes-plasticas.md` lista as fontes lidas). Próxima área: música.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 em andamento: lista de artes plásticas pronta para revisão (`dados/fontes-artes-plasticas.md` lista as fontes lidas). Lista de música em revisão (`dados/fontes-musica.md`). Próxima área: teatro.
 
 ## Decisão central
 
@@ -66,6 +66,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 | Mapas da Cultura (MinC) | Cadastro público de agentes, filtrável por UF | https://mapas.cultura.gov.br |
 | Lado B (Campo Grande News) | Cobertura cultural contínua; datas e estreias | https://www.campograndenews.com.br/lado-b |
 | Correio B (Correio do Estado) | Cobertura cultural contínua | https://correiodoestado.com.br/correio-b |
+| Overmundo (matérias de Rodrigo Teixeira sobre música de MS) | Fonte indicada por Helton; o site não abriu em 08/10/2026 (robots.txt) | https://www.overmundo.com.br |
 | Enciclopédia Itaú Cultural | Verbetes nacionais já consolidados | https://enciclopedia.itaucultural.org.br |
 
 ### A confirmar na Fase 1
