@@ -2,7 +2,7 @@
 
 Enciclopédia aberta de agentes culturais e produções artísticas de Mato Grosso do Sul: teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-Site: https://vaca18azul.github.io/wikiculture-ms/
+Site: ainda sem endereço público (ver "Decisões em aberto" em `PLANO.md`).
 
 ## Onde está cada coisa
 
@@ -31,4 +31,4 @@ npm run conferir   # verifica as regras editoriais
 npm run build      # gera o site em dist/
 ```
 
-Requer Node 22 ou mais recente. Cada envio para a branch `main` publica o site automaticamente.
+Requer Node 22 ou mais recente. Cada envio para a branch `main` confere as regras e gera o site no GitHub; a publicação automática liga quando a hospedagem for definida.

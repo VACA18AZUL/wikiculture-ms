@@ -30,12 +30,15 @@ jobs:
       - name: Gerar o site
         run: npm run build
       - uses: actions/upload-pages-artifact@v3
-        if: github.event_name != 'pull_request'
+        if: github.event_name != 'pull_request' && vars.PUBLICAR_PAGES == 'sim'
         with:
           path: dist
 
+  # Só publica quando a variável PUBLICAR_PAGES do repositório vale 'sim'
+  # (Settings > Secrets and variables > Actions > Variables). Até lá, cada
+  # envio apenas confere as regras editoriais e gera o site.
   publicar:
-    if: github.event_name != 'pull_request'
+    if: github.event_name != 'pull_request' && vars.PUBLICAR_PAGES == 'sim'
     needs: construir
     runs-on: ubuntu-latest
     environment:
