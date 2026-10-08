@@ -8,7 +8,7 @@ Levantamento de 08/10/2026. Cada fonte foi aberta e lida; a lista-mestra só con
 |---|---|
 | [Assis (2013), dissertação, UFGD: grafismos kadiwéu e o Movimento Cultural Guaicuru](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf) | Linha do tempo da AMA e do MCG; expositores de 1966; dezenas de nomes |
 | [Oliveira (2012), "Obra, memória e instituição: o papel de Lídia Baís", Memória em Rede](https://periodicos.ufpel.edu.br/index.php/Memoria/article/view/9493/6274) | Lídia Baís, MARCO, salões, exposição de 1966 |
-| [Oliveira (2014), "Patrimônio que incomoda: museus e coleções de arte", ANPUH](https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945025_fb6237f6542ee315861019a6a0dcfbac.pdf) | MARCO, Salão de Artes, Justyne Cadamuro (autora do texto: ano deduzido pelo conteúdo) |
+| [Oliveira (2014), "Patrimônio que incomoda: museus e coleções de arte", ANPUH](https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945025_fb6237f6542ee315861019a6a0dcfbac.pdf) | MARCO, Salão de Artes, Justyne Cadamuro (ano 2014 deduzido pelo conteúdo) |
 | [Amizo (2015), "Poética dos Bugres", dissertação, UFMS](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2239) | Conceição dos Bugres, família, exposições, AMA |
 | [Rondon (2025), "Artistas da Cidade Branca no Ensino de Arte em Corumbá", TCC, UFMS](https://repositorio.ufms.br/retrieve/5e05cbd6-202e-40f9-aa5e-47600dd44668/32225.pdf) | Artistas de Corumbá, com datas e obras |
 | [Souza (2025), "Caro Professor", TCC, UFMS](https://repositorio.ufms.br/retrieve/a7f072cc-2bdd-464d-83ed-8aa7cf71b0a9/23004.pdf) | Panorama por décadas, dezenas de nomes |
