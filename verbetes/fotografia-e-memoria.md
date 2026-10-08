@@ -1,0 +1,38 @@
+---
+titulo: Fotografia e Memória (exposição, 2026)
+tipo: evento
+areas: [fotografia]
+cidade: Campo Grande
+resumo: Exposição no MIS-MS, em 2026, que homenageia o fotógrafo Rachid Waqued e reúne acervos de 15 fotógrafos de Mato Grosso do Sul. Abriu as comemorações dos 50 anos do estado.
+ficha:
+  Primeira edição: "2026"
+  Local: Museu da Imagem e do Som de MS
+  Realização: Rota Cine MS (Fundação de Cultura de MS)
+  Visitação: "Até 30 de abril de 2026"
+status: rascunho
+atualizado: 2026-10-08
+---
+
+**Fotografia e Memória** é uma exposição realizada no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]], em Campo Grande, em 2026.[^acr1][^acr2]
+
+## Exposição
+
+A mostra homenageia [[rachid-waqued|Rachid Waqued]], descrito como um dos principais documentaristas da história sul-mato-grossense, com mais de quatro décadas de registros. A obra dele foi organizada em seis eixos: cultura, natureza, indústrias e infraestrutura, colaboradores de MS, coordenadores de MS e arquitetura urbana.[^acr1]
+
+A curadoria é de Melly Senna, Cris Freire, Ligia Rocha, Pedro Ortale, Elis Regina e do próprio Waqued.[^acr1] Outra matéria do mesmo jornal grafa o primeiro nome como "Melly Sena" ao citar a diretora de Memória e Patrimônio Cultural da Fundação de Cultura.[^cgn]
+
+Um painel coletivo reúne trabalhos de 14 outros fotógrafos: André Bittar, Alexis Prappas, Bolivar Porto, Denilson Secreta Nantes, Elis Regina Nogueira, Gabriel Gabino, Luiz Felipe Mendes, Marithê do Céu, Marycleide Vasques, Saul Schramm, Sebastião Guimarães, Vânia Jucá, Wagner Guimarães e Melina Moraes.[^acr1]
+
+A entrada é gratuita. A exposição tem piso tátil, intérprete de Libras no vídeo-depoimento de Waqued e audiodescrição das fotos.[^acr1]
+
+## Realização
+
+A mostra é a primeira do projeto Rota Cine MS, da Fundação de Cultura de MS, e inaugurou o ciclo de comemorações dos 50 anos do estado. O financiamento vem da Política Nacional Aldir Blanc, por meio de termo de fomento firmado com o Instituto Curumins e outros órgãos estaduais.[^acr1]
+
+## Datas
+
+A matéria de 24 de fevereiro de 2026 dá a abertura como "próxima quinta-feira", mas o quadro de serviço informa 27 de fevereiro, uma sexta-feira. Visitação até 30 de abril.[^acr1] A matéria de 28 de fevereiro diz que o museu reabriu na quinta-feira, 26 de fevereiro, com a exposição em cartaz. As datas ficam registradas sem escolha entre elas.[^acr2]
+
+[^acr1]: Iury de Oliveira, ["MIS reabre com mostra sobre memória da fotografia em Mato Grosso do Sul"](https://acritica.net/cultura/mis-ms-exposicao-fotografia-e-memoria-rachid-waqued/), *A Crítica de Campo Grande*, 24 fev. 2026. Acesso em 8 out. 2026.
+[^acr2]: Carlos Guilherme, ["Museu da Imagem e do Som reabre com nova estrutura e laboratórios de audiovisual em Campo Grande"](https://acritica.net/light/mis-reabre-laboratorios-audiovisual-campo-grande/), *A Crítica de Campo Grande*, 28 fev. 2026. Acesso em 8 out. 2026.
+[^cgn]: Geniffer Valeriano, ["Museu fecha para reforma e reabre em janeiro com 3 mostras sobre MS"](https://www.campograndenews.com.br/lado-b/arquitetura-23-08-2011-08/museu-fecha-para-reforma-e-reabre-em-janeiro-com-3-mostras-sobre-ms), *Campo Grande News*, 18 dez. 2025. Acesso em 8 out. 2026.
