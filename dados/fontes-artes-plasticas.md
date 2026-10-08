@@ -23,9 +23,13 @@ Levantamento de 08/10/2026. Cada fonte foi aberta e lida; a lista-mestra só con
 
 Campo Grande News (matérias de 2013 a 2025), Fundação de Cultura de MS (2016 e 2019), Midiamax (2026), A Crítica (2026), MASP (exposição Conceição dos Bugres) e Confea (2006). Os links estão na coluna `url_fonte` e `outras_fontes` de `lista-mestra.csv`.
 
+## Lidas depois
+
+- [Catálogo "MARCO 30 anos" (Fundação de Cultura de MS, 2021)](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf): criação do museu, números do acervo, nomes de artistas. Já citado em `verbetes/marco.md` e na coluna `outras_fontes`.
+- [Prêmio Glorinha de Sá Rosa tem adesão de 69 expoentes (Fundação de Cultura, 6 set. 2023)](https://www.fundacaodecultura.ms.gov.br/premio-glorinha-de-sa-rosa-tem-adesao-de-69-expoentes-da-cultura-sul-mato-grossense/): a matéria lista 67 inscritos, sem área nem cidade (o título diz 69). Os nomes **não foram importados**; serviram só para conferência cruzada. Totais por área: artes visuais 16, artesanato 22, teatro 10, literatura 5, música 5, audiovisual 3, dança 3, patrimônio cultural 3, circo 1.
+
 ## Não lidas
 
-- Catálogo "MARCO 30 anos" e a matéria do Prêmio Glorinha de Sá Rosa (Fundação de Cultura): a leitura foi interrompida. São as melhores fontes pendentes: o catálogo deve listar o acervo.
 - Três matérias do Correio do Estado sobre o MARCO não abriram (erro de redirecionamento).
 - Livro "Memória da arte em Mato Grosso do Sul: histórias de vida" (1992): só encontrado como referência; é a obra de base citada por várias fontes.
 
