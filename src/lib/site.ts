@@ -11,6 +11,9 @@ export const AREAS: Record<string, string> = {
   'artes-plasticas': 'Artes plásticas',
   audiovisual: 'Audiovisual',
   musica: 'Música',
+  ilustracao: 'Ilustração',
+  quadrinhos: 'Quadrinhos',
+  fotografia: 'Fotografia',
 };
 
 export const TIPOS: Record<string, string> = {

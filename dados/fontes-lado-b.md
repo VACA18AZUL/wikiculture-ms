@@ -13,12 +13,18 @@ Levantamento de 08/10/2026. Cada matéria foi aberta e lida; só entraram na lis
 | Teatro | Cia OFIT; Mercado Cênico (20 mar. 2014); Adote (6 nov. 2018); "Cora do Rio Vermelho"; "Carne Viva"; "Tamboril Estelar" (19 dez. 2021) |
 | Literatura | Nelson Araújo Filho; Academia Sul-Mato-Grossense de Letras (clube de leitura); Edson Lodi; Erode Lino (26 jul. 2012) |
 
-## Cuidados
+## Decisões de Helton (08/10/2026)
 
-- **"Solidão e Meia" (2015):** a matéria atribui a direção do curta a Helton Pérez. A linha existe na lista, mas decida se ela entra na enciclopédia, por causa do conflito de interesse.
-- **Datas divergentes:** "Paralelos Trágicos" aparece como de 1965 nesta fonte e de 1967 na lista-mestra. As duas versões estão na coluna `observacoes`, sem escolha.
-- **Possíveis duplicatas, não unidas:** Lúcia Martins Coelho Barbosa e Lúcia Barbosa; Elias de Aquino e Elias Brandão de Aquino; Lenilde Ramos e Silvia Odinei Cesco (música) com as coordenadoras da ASL; Ginga Cia de Dança e Ginga Espaço de Dança; Carlos Diehl (editor) e o autor Diehl (2009); "Retrato do Artista Quando Coisa" (2021) e o documentário de Pizzini sobre Manoel de Barros.
-- **Artistas de fora:** Vitor Brauer é de Minas Gerais e fica em Campo Grande por residência de três meses. Entrou como `media` para decisão de Helton sobre o critério de inclusão.
+- **"Solidão e Meia":** pode entrar. A matéria atribui a direção a ele.
+- **Duplicatas fundidas:** Lúcia Barbosa e Lúcia Martins Coelho Barbosa; Elias Brandão de Aquino e Elias de Aquino; Lenilde Ramos e Silvia Odinei Cesco com as coordenadoras da Academia Sul-Mato-Grossense de Letras; Carlos Diehl e o autor Diehl (2009); "Retrato do Artista Quando Coisa" (2021) e o documentário de Pizzini sobre Manoel de Barros.
+- **Ginga:** Ginga Espaço de Dança (escola e espaço físico) e Ginga Cia de Dança (grupo de espetáculos) são coisas diferentes, geridas pelas mesmas pessoas. Ficam como duas linhas. A linha existente chama-se "Ginga Espaço de Dança"; falta criar a linha do grupo.
+- **Vitor Brauer:** removido.
+- **"Paralelos Trágicos":** as duas datas (1965–66 ou 1965, e 1967) ficam na lista; corrigir depois.
+- **Música:** explorar bandas e também os músicos que as compõem. Os cinco integrantes do Codinome Winchester ganharam linha própria.
+- **Novas áreas:** literatura (já existia), ilustração, quadrinhos e fotografia.
+
+## Outros cuidados
+
 - **Matéria "artistas nascidos no interior":** traz resumo gerado por IA; só o texto principal foi usado. Ney Matogrosso: a matéria liga a origem a Bela Vista, mas ele diz ter nascido em "Mato Grosso". Luan Santana: nasceu em Campo Grande e cresceu em Jaraguari.
 - **Dados pessoais:** idades, saúde, família e identidade de gênero ficaram de fora, assim como endereços e nomes de menores premiados.
 
