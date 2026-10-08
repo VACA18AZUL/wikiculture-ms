@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 em andamento: lista de artes plásticas pronta para revisão (`dados/fontes-artes-plasticas.md` lista as fontes lidas). Listas de música, teatro, dança e literatura em revisão (`dados/fontes-*.md`). Audiovisual também em revisão. Próxima área: circo.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 (lista-mestra) com as sete áreas levantadas em 08/10/2026 e aguardando revisão de Helton: artes plásticas, música, teatro, dança, literatura, audiovisual e circo (`dados/fontes-*.md` lista as fontes lidas de cada uma). Sobre a lista: 449 nomes; as áreas com mais cobertura são música, literatura e artes plásticas; circo e dança são as mais fracas. Próximo passo: Helton revisa (corta, acrescenta, reordena); depois a Fase 2 (piloto de 35 verbetes).
 
 ## Decisão central
 
