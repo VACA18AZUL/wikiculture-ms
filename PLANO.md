@@ -29,7 +29,7 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 
 | Fase | Entrega | Marco | Situação |
 |---|---|---|---|
-| 0. Fundação | Estrutura, modelo de ficha, verbetes-modelo, publicação automática | Navegação funcionando | Concluída (falta definir hospedagem) |
+| 0. Fundação | Estrutura, modelo de ficha, verbetes-modelo, publicação automática | Navegação funcionando | Concluída |
 | 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | A fazer |
 | 2. Piloto | 35 verbetes completos (5 por área), revisados | Padrão de qualidade validado | A fazer |
 | 3. Expansão | Lotes por área, um pull request por lote | Cobertura da lista-mestra | A fazer |
@@ -83,7 +83,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 
 ## Decisões em aberto
 
-- **Hospedagem.** O repositório é privado e o GitHub Pages não está ativado, então o site ainda não tem endereço público. A cada envio o GitHub já confere as regras e gera o site; a publicação fica desligada até a variável `PUBLICAR_PAGES` valer `sim`. Caminhos: tornar o repositório público e ativar o Pages, ou manter privado e publicar por outro serviço.
+- **Hospedagem (decidido em 08/10/2026):** o repositório fica privado até o lançamento da Fase 4. Até lá o site não tem endereço público; a cada envio o GitHub confere as regras e gera o site, e a publicação segue desligada (variável `PUBLICAR_PAGES`). Para ver o site: `npm run dev` no computador ou capturas de tela enviadas pelo agente. No lançamento, escolher entre tornar o repositório público com GitHub Pages ou publicar por outro serviço.
 - Domínio próprio ou endereço do GitHub Pages.
 - Canal de correção para quem não usa GitHub (formulário ou e-mail), previsto para a Fase 5.
 - Critério de inclusão: quem entra e quem fica fora (tempo de atuação, premiações, registro em fonte pública).
