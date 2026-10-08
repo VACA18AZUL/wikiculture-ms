@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 em andamento: lista de artes plásticas pronta para revisão (`dados/fontes-artes-plasticas.md` lista as fontes lidas). Lista de música em revisão (`dados/fontes-musica.md`). Próxima área: teatro.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 em andamento: lista de artes plásticas pronta para revisão (`dados/fontes-artes-plasticas.md` lista as fontes lidas). Listas de música e teatro em revisão (`dados/fontes-musica.md`, `dados/fontes-teatro.md`). Próxima área: dança.
 
 ## Decisão central
 
