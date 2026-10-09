@@ -1,0 +1,23 @@
+---
+titulo: Sila Passarelli
+tipo: pessoa
+areas: [artes-plasticas]
+resumo: Artista plástica citada como organizadora da exposição coletiva de 1977, em que Jonir Figueiredo estreou.
+ficha:
+  Atividade: Artes plásticas
+status: rascunho
+atualizado: 2026-10-08
+---
+
+**Sila Passarelli** é artista plástica mato-grossense. Aparece em duas fontes: como participante da primeira exposição de pinturas de artistas do estado, em 1966, e como organizadora de uma mostra coletiva de 1977.[^assis2013][^fcms2016]
+
+## Trajetória
+
+Em outubro de 1966, participou da [[exposicao-pintores-mato-grossenses-1966|Primeira Exposição de Pinturas dos Artistas Mato-grossenses]]. A dissertação de 2013 grafa o nome como Sila Passareli.[^assis2013]
+
+Em 1977, organizou a exposição coletiva em que [[jonir-figueiredo|Jonir Figueiredo]] mostrou pela primeira vez o seu trabalho. Segundo a reportagem, o escritor Sylvia Cesco o indicou para a mostra. O texto não informa o local da exposição.[^fcms2016]
+
+A grafia do nome muda entre as fontes: Passareli, na dissertação, e Passarelli, na reportagem da Fundação de Cultura. Este verbete usa a forma da lista-mestra e registra as duas, sem escolher.[^assis2013][^fcms2016]
+
+[^assis2013]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2013, p. 26. Acesso em 8 out. 2026.
+[^fcms2016]: Daiana Schio, ["Artistas plásticos celebram todos os dias a vida com a arte"](https://www.fundacaodecultura.ms.gov.br/artistas-plasticos-celebram-todos-os-dias-a-vida-com-a-arte/), *Fundação de Cultura de Mato Grosso do Sul*, 6 mai. 2016. Acesso em 8 out. 2026.
