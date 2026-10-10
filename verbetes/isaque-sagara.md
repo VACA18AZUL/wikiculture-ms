@@ -26,7 +26,7 @@ As fontes abertas lidas não dizem onde Sagara nasceu ou vive. A ligação dele 
 
 ## Quebra Torto On
 
-Em julho de 2026, o programa Quebra Torto On anunciou que ele daria aula sobre referências e processos criativos ligados a temas sociais e históricos.[^acrs]
+Em julho de 2026, o programa [[quebra-torto|Quebra Torto On]], idealizado por [[fabio-quill|Fabio Quill]], anunciou que ele daria aula sobre referências e processos criativos ligados a temas sociais e históricos.[^acrs]
 
 Em outubro, a reportagem informa que a aula, prevista para 21 de outubro de 2026, tem o título "O Que Te Inspira?" e trata da música como fonte de inspiração para histórias. A mesma reportagem diz que a lista de convidados mudou desde a chamada de julho.[^acro]
 

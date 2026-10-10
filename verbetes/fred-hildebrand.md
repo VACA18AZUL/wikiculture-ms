@@ -32,6 +32,8 @@ Na mesma reportagem, Hildebrand disse ter impresso o primeiro capítulo por cont
 
 Em novembro de 2025, o *Spaceshit – Volume 1* foi um dos títulos de quadrinhos selecionados no edital da Política Nacional Aldir Blanc (PNAB) para obras literárias independentes de MS. O governo estadual comprou 100 exemplares impressos, para bibliotecas públicas, e a versão digital, que ficará dois anos na plataforma Leia MS.[^ccp2025]
 
+O programa PantaNOW, da Fiems, lista o artista entre os selecionados para apoio e o descreve como quadrinista de Campo Grande com mais de 19 anos de experiência como professor de mangá. O mesmo texto cita *Patre Primordium*, *Nanquim Descartável*, *Homem-Grilo* e *Spaceshit* como seus títulos.[^pantanow] A descrição do canal dele no YouTube o apresenta ainda como cocriador da HQ *Opposyte* e desenhista do Universo Guará.[^yt]
+
 ## Ensino
 
 Em janeiro de 2023, deu oficinas de férias de quadrinhos no [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul]] (10 a 20 de janeiro). No fim do mesmo mês, anunciou dois cursos regulares de mangá, de cinco meses, na Banca Modular: um sobre criação de personagens e outro sobre narrativa.[^cde2023]
@@ -50,6 +52,10 @@ Em outubro de 2026, a reportagem informa que a aula de Fred Hildebrand está pre
 
 ## Para saber mais
 
+- [Fred Hildebrand no Behance](https://www.behance.net/fredhildebrandart) — portfólio do quadrinista, com a indicação de Campo Grande e o link para *Spaceshit*; canal oficial dele, indicado pelo próprio perfil.[^behance]
+- [Fred Hildebrand no YouTube](https://www.youtube.com/@fredhildebrandart) — canal oficial dele, cuja descrição o identifica como criador de *Spaceshit* e desenhista de *Homem-Grilo*.[^yt]
+- [Spaceshit na Fliptru](https://fliptru.com.br/comic/spaceshit) — página da webcomic, assinada por @Fred_Hildebrand, linkada pelo Behance dele. A página indica 12 capítulos em 10 out. 2026, número que difere dos quatro capítulos citados pelo Correio do Estado em 2023.[^flip]
+
 - [Fred Hildebrand, na Wikipédia](https://pt.wikipedia.org/wiki/Fred_Hildebrand) — verbete curto, com lista de matérias sobre ele e sobre *Homem-Grilo* e *Spaceshit*.
 - [Fred Hildebrand lança o último capítulo da webcomic "Spaceshit"](https://correiodoestado.com.br/correio-b/fred-hildebrand-lanca-o-ultimo-capitulo-da-webcomic-spaceshit/410560/) — reportagem com entrevista, de 30 jan. 2023, sobre a série e os cursos de mangá.
 
@@ -58,3 +64,7 @@ Em outubro de 2026, a reportagem informa que a aula de Fred Hildebrand está pre
 [^cde2023]: Marcos Pierry, ["Fred Hildebrand lança o último capítulo da webcomic 'Spaceshit'"](https://correiodoestado.com.br/correio-b/fred-hildebrand-lanca-o-ultimo-capitulo-da-webcomic-spaceshit/410560/), *Correio do Estado*, 30 jan. 2023. Acesso em 10 out. 2026.
 [^ccp2025]: Laureane Schimidt (assessoria de imprensa), ["Quadrinista sul-mato-grossense, Fred Hildebrand, é contemplado em edital da PNAB com a obra Spaceshit – Volume 1"](https://www.correiodecorumbapantanal.com.br/cultura/quadrinista-sul-mato-grossense-fred-hildebrand-e-contemplado-em-edital-da-pnab-com-a-obra-spaceshit-volume-1), *Correio de Corumbá*, 25 nov. 2025. Acesso em 10 out. 2026.
 [^wpfh]: ["Fred Hildebrand"](https://pt.wikipedia.org/wiki/Fred_Hildebrand), *Wikipédia em português*, texto colaborativo. Acesso em 10 out. 2026.
+[^pantanow]: ["Fred Hildebrand"](https://pantanow.fiems.com.br/artista-selecionado/frederico-hildebrand/), *PantaNOW*, Fiems. Acesso em 10 out. 2026.
+[^yt]: ["Fred Hildebrand"](https://www.youtube.com/@fredhildebrandart), canal no *YouTube*, descrição do canal. Acesso em 10 out. 2026.
+[^behance]: ["Fred Hildebrand – Quadrinista, ilustrador e professor de mangá"](https://www.behance.net/fredhildebrandart), *Behance*. Acesso em 10 out. 2026.
+[^flip]: ["SPACESHIT"](https://fliptru.com.br/comic/spaceshit), *Fliptru*. Acesso em 10 out. 2026.
