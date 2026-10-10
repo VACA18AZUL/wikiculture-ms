@@ -15,7 +15,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Escreveu *Os Pioneiros: a origem da música sertaneja em Mato Grosso do Sul*. Segundo o artigo de Alan Silus, a primeira edição é de 2010 e a segunda, de 2014, com apoio da UFMS. O mesmo artigo cita "Teixeira (2012)", o que aparenta ser uma inconsistência nas referências.[^trilhas]
+Escreveu *Os Pioneiros: a origem da música sertaneja em Mato Grosso do Sul*. Segundo o artigo de Alan Silus, a primeira edição é de 2010 e a segunda, de 2014, com apoio da UFMS. O mesmo artigo cita "Teixeira (2012)", o que aparenta ser uma inconsistência nas referências.[^trilhas] O PDF do livro, divulgado no Overmundo, traz copyright de 2009 e "1ª edição, dezembro 2009", e o Overmundo o divulgou em 15 de janeiro de 2010. As datas divergem.[^pdfpio][^ovpio]
 
 Em 2014, o Museu da Imagem e do Som (MIS), ligado à Fundação de Cultura de Mato Grosso do Sul, abriu uma exposição com um recorte de *Os Pioneiros*, desenvolvido a partir do trabalho de Teixeira. O acervo de discos exibido foi doado pelo projeto Memória Fonográfica.[^cgn]
 
@@ -55,3 +55,4 @@ Segundo Silus, o livro de 2016 narra a história do projeto *Prata da Casa*, da 
 [^ovherm]: Rodrigo Teixeira, ["Hermanos Irmãos • Show Teatro Prosa"](https://www.overmundo.com.br/banco/hermanos-irmaos-show-teatro-prosa), *Overmundo* (conteúdo colaborativo), 12 nov. 2010. Acesso em 10 out. 2026.
 [^ovpio]: Rodrigo Teixeira, ["Os Pioneiros mira primeiros compositores de MS"](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), *Overmundo* (conteúdo colaborativo), 15 jan. 2010. Acesso em 10 out. 2026.
 [^ovsert]: Rodrigo Teixeira, ["A Música Sertaneja de MS • Rodrigo Teixeira"](https://www.overmundo.com.br/banco/a-musica-sertaneja-de-ms-rodrigo-teixeira), *Overmundo* (conteúdo colaborativo), 5 jan. 2011. Acesso em 10 out. 2026.
+[^pdfpio]: Rodrigo Teixeira, [*Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul*](https://www.overmundo.com.br/download_banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro em PDF, *Overmundo*, folha de rosto e créditos. Acesso em 10 out. 2026.

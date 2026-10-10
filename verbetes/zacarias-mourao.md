@@ -50,7 +50,7 @@ O *Correio do Estado* de 24 de maio de 1989, reproduzido no livro, noticiou que 
 
 ## Para saber mais
 
-- [Os Pioneiros - A Origem da Música Sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro de Rodrigo Teixeira (2010), em PDF no Overmundo, com capítulo, depoimentos e discografia de Zacarias Mourão.[^pio]
+- [Os Pioneiros - A Origem da Música Sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro de Rodrigo Teixeira (2009, segundo o próprio PDF; divulgado no Overmundo em jan. 2010), em PDF no Overmundo, com capítulo, depoimentos e discografia de Zacarias Mourão.[^pio]
 - [Os Pioneiros mira primeiros compositores de MS](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), apresentação do livro. O autor cita o documentário *Tió e a Árvore - Vida e Obra de Zacarias Mourão*.[^piop]
 
 [^cgn2012]: Elverson Cardozo, ["Zacarias Mourão, o compositor que atraiu holofotes para MS com 'Pé de Cedro'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/zacarias-mourao-o-compositor-que-atraiu-holofotes-para-ms-com-pe-de-cedro), *Campo Grande News*, 11 out. 2012. Acesso em 8 out. 2026.
