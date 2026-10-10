@@ -26,6 +26,12 @@ Segundo a Wikipédia em português, o primeiro disco individual, *Paulo Simões 
 
 A Wikipédia em português data a expedição Comitiva Esperança de 1986, e não de 1983-1984 como em Bonny; as datas divergem.[^wikialmir] A Wikipédia registra canções suas gravadas por Sérgio Reis ("O Lobo da Estrada", com Pedro Aurélio), Maria Bethânia ("Planície de Prata"), Chitãozinho e Xororó e outros, e canções em trilhas de telenovelas, como "Comitiva Esperança" em *Pantanal* (1990). A mesma fonte lista o Prêmio Sharp de melhor composição regional por "Paiaguás", com Guilherme Rondon (1992), e a indicação ao Grammy Latino de 2016 por "D de Destino", com [[almir-sater|Almir Sater]] e Renato Teixeira.[^wikipt]
 
+## Para saber mais
+
+- [Site oficial de Paulo Simões](https://www.paulosimoes.com.br/) — página do artista, com biografia e discografia.[^psite]
+- [Paulo Simões Oficial no YouTube](https://www.youtube.com/channel/UCWijixuTQu2QXYYZKvpvndw) — canal oficial do artista, indicado no site oficial.[^psite]
+- [@paulosimoesoficial no Instagram](https://www.instagram.com/paulosimoesoficial/) — perfil oficial do artista, indicado no site oficial.[^psite]
+
 [^bonny]: Carina Bonny, [*A Música como Representação Cultural do Pantanal Sul Mato Grossense: no dedilhar da viola*](https://periodicos.ufms.br/index.php/fatver/article/view/1300/826), *Fato & Verso*/UFMS, fragmento de monografia de 2013. Acesso em 8 out. 2026.
 [^trem]: Natália Olliver, ["Canção Trem do Pantanal fez 50 anos, mas vagões são só lembrança"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/cancao-trem-do-pantanal-fez-50-anos-mas-vagoes-sao-so-lembranca), *Campo Grande News*, 10 set. 2025. Acesso em 8 out. 2026.
 [^cgn2016]: Naiane Mesquita, ["Entre amigos, Delinha comemora 80 anos com documentário emocionante"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/entre-amigos-delinha-comemora-80-anos-com-documentario-emocionante), *Campo Grande News*, 6 set. 2016. Acesso em 8 out. 2026.
@@ -33,3 +39,4 @@ A Wikipédia em português data a expedição Comitiva Esperança de 1986, e nã
 [^omvida]: Rodrigo Teixeira, ["Paulo Simões em 'Vida Bela, Vida'"](https://www.overmundo.com.br/guia/paulo-simoes-em-vida-bela-vida), *Overmundo*, 4 mar. 2006. Acesso em 10 out. 2026.
 [^wikipt]: ["Paulo Simões"](https://pt.wikipedia.org/wiki/Paulo_Sim%C3%B5es), *Wikipédia* (edição em português; conteúdo colaborativo). Acesso em 10 out. 2026.
 [^wikialmir]: ["Almir Sater"](https://pt.wikipedia.org/wiki/Almir_Sater), *Wikipédia* (edição em português; conteúdo colaborativo). Acesso em 10 out. 2026.
+[^psite]: ["Músico"](https://www.paulosimoes.com.br/), site oficial de Paulo Simões. Acesso em 10 out. 2026.

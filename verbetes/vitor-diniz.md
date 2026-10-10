@@ -31,7 +31,7 @@ O arquivo municipal ARCA, da Prefeitura de Campo Grande, registra que, na décad
 
 Em 2009, Diniz foi um dos três músicos eruditos entrevistados por [[idara-duncan|Idara Duncan]] e Glória Sá Rosa para o livro *A Música de Mato Grosso do Sul: histórias de vida*, com [[evandro-higa|Evandro Higa]] e [[manoel-rasslan|Manoel Rasslan]], segundo Silus.[^trilhas]
 
-O tributo publicado pela FAALC cita concertos em escolas públicas de bairros de Campo Grande e em uma fazenda-escola no Pantanal sul-mato-grossense, sem datas.[^faalc]
+O tributo publicado pela FAALC, de 24 de agosto de 2020, é assinado por [[evandro-higa|Evandro Higa]] e [[manoel-rasslan|Manoel Rasslan]], e cita concertos em escolas públicas de bairros de Campo Grande e em uma fazenda-escola no Pantanal sul-mato-grossense, sem datas.[^faalc]
 
 Morreu em agosto de 2020. A reportagem do Correio do Estado, de 25 de agosto de 2020, diz que a classe artística perdeu o maestro na véspera. Nenhuma das duas fontes informa o dia exato.[^correio][^faalc]
 

@@ -48,6 +48,8 @@ Em entrevista à Revista E, do Sesc São Paulo, em janeiro de 2025, a cantora fa
 
 - [Tetê Espíndola](https://enciclopedia.itaucultural.org.br/pessoa375596/tete-espindola), verbete da Enciclopédia Itaú Cultural, com análise da obra e da relação com a Vanguarda Paulista.[^itau]
 - [Tetê Espíndola, a cantora com pássaros na garganta](https://www.sescsp.org.br/editorial/tete-espindola-a-cantora-com-passaros-na-garganta/), depoimento à Revista E do Sesc São Paulo, 2025.[^sesc]
+- [@tete_espindola no Instagram](https://www.instagram.com/tete_espindola/) — perfil de Tetê Espíndola, identificado como dela em reportagem da *Billboard Brasil*.[^billboard]
+- [Tetê Espíndola Oficial no YouTube](https://www.youtube.com/c/teteespindolaoficial) — canal que se apresenta como o canal oficial da cantora.[^ytte]
 
 [^uai]: Devana Babu, ["Cantora Tetê Espíndola completa 40 anos de carreira em 2020"](https://www.uai.com.br/app/noticia/musica/2020/07/03/noticias-musica,260102/cantora-tete-espindola-completa-40-anos-de-carreira-em-2020.shtml), *Correio Braziliense*, publicado no Portal Uai, 3 jul. 2020. Acesso em 8 out. 2026.
 [^billboard]: ["Quem é Tetê Espíndola, a dona do hit viral 'Escrito nas Estrelas'?"](https://billboard.com.br/quem-e-tete-espindola-a-dona-do-hit-viral-escrito-nas-estrelas/), *Billboard Brasil*, 3 jan. 2024. Acesso em 8 out. 2026.
@@ -59,3 +61,4 @@ Em entrevista à Revista E, do Sesc São Paulo, em janeiro de 2025, a cantora fa
 [^omdvd]: Rodrigo Teixeira, ["A música pantaneira dos Espíndola em DVD"](https://www.overmundo.com.br/overblog/a-musica-pantaneira-dos-espindola-em-dvd), *Overmundo*, 24 abr. 2006. Acesso em 10 out. 2026.
 [^agua]: Alan Silus da Cruz Silva e Marta Bastos Catunda, ["Água dos Matos: a ecosofia atravessando o Pantanal Mato-Grossense (Norte e Sul)"](https://periodicos.ufac.br/index.php/SAJEBTT/article/view/1278), *South American Journal of Basic Education, Technical and Technological*, 2017 (resumo). Acesso em 10 out. 2026.
 [^sesc]: Lígia Scalise, ["Tetê Espíndola, a cantora com pássaros na garganta"](https://www.sescsp.org.br/editorial/tete-espindola-a-cantora-com-passaros-na-garganta/), *Revista E*, Sesc São Paulo, 2 jan. 2025. Acesso em 10 out. 2026.
+[^ytte]: ["Tetê Espíndola Oficial"](https://www.youtube.com/c/teteespindolaoficial), canal no YouTube (descrição do canal: "Canal oficial de Tetê Espíndola"). Acesso em 10 out. 2026.
