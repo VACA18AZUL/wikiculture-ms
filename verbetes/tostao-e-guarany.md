@@ -46,7 +46,7 @@ Tostão e Guarany contam que montaram, por falta de espaço para se apresentar, 
 
 ## Para saber mais
 
-- [Os Pioneiros - A Origem da Música Sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro de Rodrigo Teixeira (2010), em PDF no Overmundo, com depoimentos de Tostão e Guarany e discografia.[^pio]
+- [Os Pioneiros - A Origem da Música Sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro de Rodrigo Teixeira (2009, segundo o próprio PDF; divulgado no Overmundo em jan. 2010), em PDF no Overmundo, com depoimentos de Tostão e Guarany e discografia.[^pio]
 
 [^senado]: Marluci Ribeiro, ["Tostão & Guarany - Mato Grosso do Sul"](https://www12.senado.leg.br/radio/1/som-brasilis-1/2020/01/17/tostao-guarani), *Rádio Senado*, 17 jan. 2020. Acesso em 8 out. 2026.
 [^cgn]: Anny Malagolini, ["Tostão e Guarany fazem 30 anos de carreira recusando convites para mudar de lado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/tostao-e-guarany-fazem-30-anos-de-carreira-recusando-convites-para-mudar-de-lado), *Campo Grande News*, 6 nov. 2013. Acesso em 8 out. 2026.

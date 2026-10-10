@@ -37,7 +37,7 @@ Existe uma biografia de Delinha, *Uma Biografia de Delinha: por onde andei*, de 
 
 ## Para saber mais
 
-- [Os Pioneiros - A Origem da Música Sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro de Rodrigo Teixeira (2010), em PDF no Overmundo, com depoimentos de Délio e Delinha e discografia.[^pio]
+- [Os Pioneiros - A Origem da Música Sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro de Rodrigo Teixeira (2009, segundo o próprio PDF; divulgado no Overmundo em jan. 2010), em PDF no Overmundo, com depoimentos de Délio e Delinha e discografia.[^pio]
 
 [^ribeiro]: Laura Lopes Ribeiro, [*Délio e Delinha: a união poética de uma história musical no MS*](https://portal.uems.br/assets/uploads/biblioteca/2019-05-16_09-02-44.pdf), dissertação de mestrado em Letras, Universidade Estadual de Mato Grosso do Sul, 2014. Acesso em 8 out. 2026.
 [^cgn2016]: Naiane Mesquita, ["Entre amigos, Delinha comemora 80 anos com documentário emocionante"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/entre-amigos-delinha-comemora-80-anos-com-documentario-emocionante), *Campo Grande News*, 6 set. 2016. Acesso em 8 out. 2026.
