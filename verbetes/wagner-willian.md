@@ -25,7 +25,7 @@ Lançou *O Maestro, o Cuco e a Lenda* no fim de 2017, com referências à sua in
 
 ## Quebra Torto On
 
-Em julho de 2026, o programa anunciou que ele falaria sobre a relação entre roteiro e desenho. A Crítica o descreve como vencedor dos prêmios Jabuti e HQ Mix.[^acrs] Em outubro, a reportagem diz que a aula ficou para 2027, sem data, com o tema de desenhar histórias escritas por outros autores.[^acro]
+Em julho de 2026, o programa, idealizado por [[fabio-quill|Fabio Quill]], anunciou que ele falaria sobre a relação entre roteiro e desenho. A Crítica o descreve como vencedor dos prêmios Jabuti e HQ Mix.[^acrs] Em outubro, a reportagem diz que a aula ficou para 2027, sem data, com o tema de desenhar histórias escritas por outros autores.[^acro]
 
 ## Obras
 

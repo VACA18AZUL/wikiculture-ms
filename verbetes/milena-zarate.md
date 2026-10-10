@@ -27,11 +27,11 @@ A série é assinada por Milena Zarate e [[moaccyr-k|Moaccyr K]]. Em 26 de janei
 
 ## Quebra Torto On
 
-Em julho de 2026, o programa anunciou aula de Milena Zarate sobre quadrinhos de humor.[^acrs] Em outubro, a aula aparece como sobre webcomics, quadrinhos feitos para celular, tablet e computador, com data prevista para 18 de novembro de 2026. A mesma reportagem diz que ela estava inicialmente na lista para uma aula de humor.[^acro]
+Em julho de 2026, o programa, idealizado por [[fabio-quill|Fabio Quill]], anunciou aula de Milena Zarate sobre quadrinhos de humor.[^acrs] Em outubro, a aula aparece como sobre webcomics, quadrinhos feitos para celular, tablet e computador, com data prevista para 18 de novembro de 2026. A mesma reportagem diz que ela estava inicialmente na lista para uma aula de humor.[^acro]
 
 ## Para saber mais
 
-- [Catálogo de obras nacionais da NewPOP](https://www.newpop.com.br/hq_np/) — página da editora com a sinopse de *Paranormal Panic!!*.
+- [Catálogo de obras nacionais da NewPOP](https://www.newpop.com.br/hq_np/) — página da editora com a sinopse de *Paranormal Panic!!*.[^newpop]
 
 [^jbox]: ["'Paranormal Panic!!' será publicado pela NewPOP"](https://www.jbox.com.br/2023/01/26/paranormal-panic-sera-publicado-pela-newpop/), *JBox*, 26 jan. 2023. Acesso em 10 out. 2026.
 [^newpop]: ["Conheça as obras nacionais da NewPOP"](https://www.newpop.com.br/hq_np/), *NewPOP Editora*, data não consta na página. Acesso em 10 out. 2026.

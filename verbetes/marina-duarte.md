@@ -29,13 +29,20 @@ Em 2021, o trabalho "LGBTfobia está atrelada ao processo de colonização?", da
 
 Em 2026, a Universidade Estadual de Mato Grosso do Sul (UEMS) noticiou que Marina, estudante de Letras e integrante do [[nucleo-de-pesquisa-em-quadrinhos|Núcleo de Pesquisa em Quadrinhos]] (NuPeQ), venceu duas categorias do 42º Troféu Angelo Agostini: Melhor Desenhista, por *Aí Vêm os Super-Humanos*, e Melhor Fanzine, por *O Pai Tá On*, feito com [[guilherme-smee|Guilherme Smee]]. A lista de vencedores, divulgada em 29 de maio de 2026, confirma as duas categorias. Segundo Marina, os quadrinhos premiados têm caráter documental e tratam de masculinidade e relações de gênero.[^uems][^fdp]
 
+## Vozes Invisíveis
+
+Em janeiro de 2025, o Correio do Estado noticiou o lançamento de *Vozes Invisíveis: Relatos de Resistência LBT em Campo Grande (MS)*, HQ-reportagem de Marina sobre as vivências de mulheres lésbicas, bissexuais e transexuais na capital. Segundo a matéria, a obra foi publicada em e-book, de acesso gratuito, pela [[avua-edicoes|Avuá Edições]]. O lançamento foi marcado para 16 de janeiro, na Casa de Cultura, com mediação de [[mayara-dempsey|Mayara Dempsey]].[^cde2025] O Campo Grande News acrescenta que [[fabio-quill|Fabio Quill]] foi consultor artístico e editor e que a obra é o primeiro trabalho solo de Marina em reportagem longa; o projeto durou cerca de um ano, com entrevistas, levantamento de dados e audiodescrição.[^cgn2025v]
+
 ## Obras
 
 - *O Último Pedaço de Terra* (2020), com roteiro de Tayran Valiente[^cgn2020b]
 - *Aí Vêm os Super-Humanos* (desenhos; roteiro de Guilherme Smee)[^uems]
 - *O Pai Tá On* (fanzine, com Guilherme Smee)[^uems][^fdp]
+- *Vozes Invisíveis: Relatos de Resistência LBT em Campo Grande (MS)* (HQ-reportagem em e-book; lançamento em jan. 2025, Avuá Edições)[^cde2025]
 
 ## Para saber mais
+
+- ["Vozes Invisíveis", de Marina Duarte](https://correiodoestado.com.br/correio-b/vozes-invisiveis-de-marina-duarte/442218/) — reportagem do Correio do Estado sobre a HQ-reportagem; menciona o site da autora, marinaduarte.com.br, que não foi aberto nesta rodada.[^cde2025]
 
 - [Acadêmica da UEMS vence duas categorias da principal premiação de quadrinhos do Brasil](https://www.uems.br/noticias/detalhes/Academica-da-UEMS-vence-duas-categorias-da-principal-premiacao-de-quadrinhos-do-Brasil) — notícia da UEMS, com declarações de Marina sobre o trabalho.
 - [Marina Duarte, na Wikipédia](https://pt.wikipedia.org/wiki/Marina_Duarte) — verbete com lista de referências sobre a Badaró e os prêmios.
@@ -49,3 +56,5 @@ Em 2026, a Universidade Estadual de Mato Grosso do Sul (UEMS) noticiou que Marin
 [^fdp]: Miller Corrêa de Brito, ["Troféu Angelo Agostini: veja a lista completa dos vencedores da 42ª edição"](https://foradoplastico.com.br/trofeu-angelo-agostini-veja-a-lista-completa-dos-vencedores-da-42a-edicao/), *Fora do Plástico*, 29 maio 2026. Acesso em 10 out. 2026.
 [^wpmd]: ["Marina Duarte"](https://pt.wikipedia.org/wiki/Marina_Duarte), *Wikipédia em português*, texto colaborativo. Acesso em 10 out. 2026.
 [^acr2026]: Ricardo Eugenio, ["Projeto oferece aulas gratuitas sobre como criar histórias em quadrinhos"](https://acritica.net/cultura/projeto-aulas-gratuitas-como-criar-historias-em-quadrinhos/), *A Crítica*, 5 out. 2026. Acesso em 10 out. 2026.
+[^cde2025]: Da Redação, ["'Vozes Invisíveis', de Marina Duarte"](https://correiodoestado.com.br/correio-b/vozes-invisiveis-de-marina-duarte/442218/), *Correio do Estado*, 15 jan. 2025. Acesso em 10 out. 2026.
+[^cgn2025v]: Idaicy Solano, ["Dados e relatos sobre violência contra mulheres LBGTs viram HQ"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/dados-e-relatos-sobre-violencia-contra-mulheres-lbgts-viram-hq), *Campo Grande News*, 15 jan. 2025. Acesso em 10 out. 2026.

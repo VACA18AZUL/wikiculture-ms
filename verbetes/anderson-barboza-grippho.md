@@ -19,7 +19,7 @@ O Itaú Cultural, que apoiou o projeto pelo Rumos 2019-2020, lista seis autores:
 
 ## Grafia do nome e dúvida de identidade
 
-A reportagem do Campo Grande News de 23 de janeiro de 2023 cita cinco quadrinistas e escreve "Anderson Barboza Grippho" como um só nome, embora diga que o livro reúne seis histórias.[^cgnq] Três outras fontes listam Anderson Barboza e Grippho como dois autores, somando seis: o Itaú Cultural, o portal Outro Dia News e o site de Fabio Quill.[^ic2023][^odn][^fq]
+A reportagem do Campo Grande News de 23 de janeiro de 2023 cita cinco quadrinistas e escreve "Anderson Barboza Grippho" como um só nome, embora diga que o livro reúne seis histórias.[^cgnq] Quatro outras fontes listam Anderson Barboza e Grippho como dois autores, somando seis: o Itaú Cultural, o portal Outro Dia News, o site de Fabio Quill e o site Torre de Vigilância.[^ic2023][^odn][^fq][^tdv]
 
 Em julho de 2026, A Crítica, o Diário Digital e o Correio de Corumbá, com base em material de divulgação do projeto, disseram que [[jaqueline-cabral|Jaqueline Cabral]] assinou como "Grippho" na coletânea e que ela integra a comissão de seleção do programa Quebra Torto On. Esses textos não citam Anderson Barboza.[^acrs][^dd][^ccj]
 
@@ -32,3 +32,4 @@ Segundo essas fontes, "Grippho" é a assinatura de Jaqueline Cabral e aparece co
 [^acrs]: Iury de Oliveira, ["Projeto abre seleção em MS para formar autores e publicar histórias em quadrinhos"](https://acritica.net/cultura/quebra-torto-on-seleciona-autores-de-ms-para-criacao-de-historias-em-quadrinhos/), *A Crítica*, 22 jul. 2026. Acesso em 10 out. 2026.
 [^ccj]: Assessoria de imprensa, ["Projeto seleciona autores de Mato Grosso do Sul para criação e publicação de histórias em quadrinhos"](https://www.correiodecorumbapantanal.com.br/cultura/projeto-seleciona-autores-de-mato-grosso-do-sul-para-criacao-e-publicacao-de-historias-em-quadrinhos), *Correio de Corumbá*, 21 jul. 2026. Acesso em 10 out. 2026.
 [^dd]: Sandra Salvatierre, ["Projeto seleciona autores para publicar histórias em quadrinhos"](https://www.diariodigital.com.br/geral/projeto-seleciona-autores-para-publicar-historias-em-quadrinhos), *Diário Digital*, 25 jul. 2026. Acesso em 10 out. 2026.
+[^tdv]: ["Quebra Torto, HQ de autores do Mato Grosso do Sul, está no Catarse"](https://www.torredevigilancia.com/quebra-torto-hq-de-autores-do-mato-grosso-do-sul-esta-no-catarse/), *Torre de Vigilância*. Acesso em 10 out. 2026.
