@@ -5,7 +5,7 @@ areas: [quadrinhos]
 cidade: Campo Grande
 resumo: História em quadrinhos de Olímpio Leme, lançada em 2024, sobre Januário Garcia Leal, o Garcia Sete Orelhas, pioneiro do século XIX na região do Bolsão.
 ficha:
-  Autor: Olímpio Leme
+  Autor: "[[olimpio-leme|Olímpio Leme]]"
   Ano: "2024"
   Formato: HQ, 136 pranchas desenhadas a nanquim
   Editora: Life Editora

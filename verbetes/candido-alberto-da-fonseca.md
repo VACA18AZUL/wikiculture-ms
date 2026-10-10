@@ -7,7 +7,7 @@ resumo: Cineasta, roteirista, dramaturgo e jornalista de Mato Grosso do Sul, mor
 ficha:
   Atividade: Cinema, roteiro, dramaturgia e jornalismo
   Morte: 23 de abril de 2025, Campo Grande
-  Obra: 'Conceição dos Bugres (curta, 1980)'
+  Obra: "[[conceicao-dos-bugres|Conceição dos Bugres]] (curta, 1980)"
   Livro: Festivais de música em MS, coautoria de 1982
 status: rascunho
 atualizado: 2026-10-10

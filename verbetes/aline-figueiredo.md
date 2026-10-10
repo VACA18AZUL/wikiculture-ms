@@ -6,8 +6,8 @@ cidade: Corumbá
 resumo: Artista visual e crítica de arte nascida em Corumbá, organizadora de mostras em Campo Grande nos anos 1960 e cofundadora, com Humberto Espíndola, da associação de artistas de Mato Grosso.
 ficha:
   Atividade: Artes visuais, crítica de arte e produção cultural
-  Grupos: Associação Mato-Grossense de Artes
-  Obras: "Artes Plásticas no Centro-Oeste (1979); Arte Aqui é Mato (1990); A Propósito do Boi (1994); Dalva Maria de Barros – Garimpos da Memória (2001)"
+  Grupos: "[[ama|Associação Mato-Grossense de Artes]]"
+  Obras: "Artes Plásticas no Centro-Oeste (1979); Arte Aqui é Mato (1990); A Propósito do Boi (1994); [[dalva-maria-de-barros|Dalva Maria de Barros]] – Garimpos da Memória (2001)"
 status: rascunho
 atualizado: 2026-10-10
 ---

@@ -4,7 +4,7 @@ tipo: obra
 areas: [literatura]
 resumo: Livro de poemas de Lobivar Matos, publicado no Rio de Janeiro em 1935, com poemas escritos na voz de um sábio boróro.
 ficha:
-  Autor: Lobivar Matos
+  Autor: "[[lobivar-matos|Lobivar Matos]]"
   Ano: "1935"
   Formato: Poemas, 73 páginas
   Editora: Irmãos Pongetti

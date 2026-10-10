@@ -5,7 +5,7 @@ const verbetes = await todos();
 const existentes = new Set(verbetes.map((v) => v.id));
 const desejados = new Map<string, { rotulo: string; origem: typeof verbetes }>();
 for (const v of verbetes) {
-  for (const [id, rotulo] of citados(v.body)) {
+  for (const [id, rotulo] of citados(v.body, v.data.ficha)) {
     if (existentes.has(id)) continue;
     if (!desejados.has(id)) desejados.set(id, { rotulo, origem: [] });
     desejados.get(id)!.origem.push(v);

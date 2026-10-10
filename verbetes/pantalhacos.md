@@ -5,7 +5,7 @@ areas: [circo]
 cidade: Campo Grande
 resumo: Mostra de palhaçaria de Campo Grande, organizada pelo Circo do Mato e pela Cia. Flor e Espinho Teatro, com artistas regionais e internacionais e entrada gratuita.
 ficha:
-  Realização: Circo do Mato e Flor e Espinho Teatro
+  Realização: "[[circo-do-mato|Circo do Mato]] e [[flor-e-espinho-teatro|Flor e Espinho Teatro]]"
   Apoio: FIC/MS, Fundação de Cultura de MS
 status: rascunho
 atualizado: 2026-10-10

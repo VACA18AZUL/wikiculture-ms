@@ -10,7 +10,7 @@ ficha:
   Morte: 26 de julho de 2025, Bonito
   Atividade: Pintura, desenho e gravura
   Formação: Bacharelado em Educação Artística, Faculdades Unidas de Marília (SP)
-  Grupos: Movimento Cultural Guaicuru
+  Grupos: "[[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

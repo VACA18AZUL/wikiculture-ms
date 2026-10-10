@@ -7,7 +7,7 @@ resumo: Cantora e compositora nascida em Campo Grande em 1954, ligada à Vanguar
 ficha:
   Nascimento: "1954, Campo Grande"
   Atividade: Canto e composição
-  Grupos: LuzAzul, Tetê e o Lírio Selvagem
+  Grupos: "LuzAzul, [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

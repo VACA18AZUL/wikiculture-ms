@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Artista circense e palhaço de Campo Grande, integrante da Aplausos Cia Teatral desde 2010.
 ficha:
   Atividade: Palhaço e artista circense
-  Grupos: Aplausos Cia Teatral; Circo do Mato; Fulano Di Tal; Grupo Ubu
+  Grupos: "[[aplausos-cia-teatral|Aplausos Cia Teatral]]; [[circo-do-mato|Circo do Mato]]; [[fulano-di-tal|Fulano Di Tal]]; [[grupo-ubu-de-artes-cenicas|Grupo Ubu]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

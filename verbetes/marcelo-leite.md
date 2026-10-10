@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Diretor, produtor e ator, um dos fundadores do grupo Fulano di Tal, de Campo Grande; codirigiu Lápide inconclusa em quarta-feira de cinzas (2017) e dirigiu O bem-amado (2024).
 ficha:
   Atividade: Direção, produção e atuação
-  Grupos: Fulano di Tal
+  Grupos: "[[fulano-di-tal|Fulano di Tal]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

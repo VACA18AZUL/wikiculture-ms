@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Atriz, produtora e gestora do Teatral Grupo de Risco, com atuação no grupo desde pelo menos 2006 e no elenco de Guardiões.
 ficha:
   Atividade: Atuação, produção e gestão
-  Grupos: Teatral Grupo de Risco
+  Grupos: "[[teatral-grupo-de-risco|Teatral Grupo de Risco]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

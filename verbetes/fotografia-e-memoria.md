@@ -7,7 +7,7 @@ resumo: Exposição no MIS-MS, em 2026, que homenageia o fotógrafo Rachid Waque
 ficha:
   Primeira edição: "2026"
   Local: Museu da Imagem e do Som de MS
-  Realização: Rota Cine MS (Fundação de Cultura de MS)
+  Realização: "Rota Cine MS ([[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]])"
   Visitação: "Até 30 de abril de 2026"
 status: rascunho
 atualizado: 2026-10-10

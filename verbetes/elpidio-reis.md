@@ -8,7 +8,7 @@ ficha:
   Nascimento: fevereiro de 1920, Ponta Porã
   Morte: "1997, Campo Grande"
   Atividade: Contos, crônicas e poesia
-  Grupos: Academia Sul-Mato-Grossense de Letras (cadeira 29)
+  Grupos: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (cadeira 29)"
 status: rascunho
 atualizado: 2026-10-10
 ---

@@ -7,7 +7,7 @@ resumo: Curta documental de 2023 sobre os fotógrafos lambe-lambe de Campo Grand
 ficha:
   Ano: "2023"
   Formato: Curta documental
-  Realização: Marineti Pinheiro e Rachid Waqued
+  Realização: "[[marineti-pinheiro|Marineti Pinheiro]] e [[rachid-waqued|Rachid Waqued]]"
   Apoio: Prêmio Ipê Audiovisual (Sectur)
 status: rascunho
 atualizado: 2026-10-10

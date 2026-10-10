@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Compositora, cantora e instrumentista de Campo Grande, conhecida também como Alzira E, com carreira desenvolvida em São Paulo e ligada à Vanguarda Paulista.
 ficha:
   Atividade: Composição, canto e instrumento
-  Grupos: LuzAzul, Tetê e o Lírio Selvagem
+  Grupos: "LuzAzul, [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]]"
   Nomes: Alzira E (adotado em 2007)
   Nascimento: '1957, Campo Grande'
 status: rascunho

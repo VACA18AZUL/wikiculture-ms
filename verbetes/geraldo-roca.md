@@ -7,7 +7,7 @@ resumo: Compositor e cantor de Campo Grande, morto em 2015, coautor de "Trem do 
 ficha:
   Morte: 25 de dezembro de 2015, Campo Grande
   Atividade: Composição e canto
-  Parcerias: Paulo Simões
+  Parcerias: "[[paulo-simoes|Paulo Simões]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

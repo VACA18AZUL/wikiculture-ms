@@ -8,7 +8,7 @@ ficha:
   Nascimento: 15 de agosto de 1937, Corumbá
   Morte: 11 de junho de 2023
   Atividade: Contos, história e roteiro
-  Grupos: Academia Sul-Mato-Grossense de Letras
+  Grupos: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Grupo de teatro de Campo Grande, fundado em 2003 e dirigido por Marcelo Leite, com 18 espetáculos, sede própria desde 2022 e circulação nacional pelo Sesc Palco Giratório.
 ficha:
   Fundação: "2003"
-  Direção: Marcelo Leite
+  Direção: "[[marcelo-leite|Marcelo Leite]]"
   Espaço: Espaço Fulano di Tal
 status: rascunho
 atualizado: 2026-10-10

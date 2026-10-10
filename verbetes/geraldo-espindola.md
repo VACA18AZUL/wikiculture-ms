@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Cantor, compositor e violonista de Campo Grande, em atividade desde 1970, autor de boa parte das canções do primeiro disco de Tetê e o Lírio Selvagem.
 ficha:
   Atividade: Canto, composição e violão
-  Grupos: LuzAzul, Tetê e o Lírio Selvagem
+  Grupos: "LuzAzul, [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

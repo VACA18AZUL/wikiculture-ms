@@ -9,7 +9,7 @@ ficha:
   Nascimento: "1957, São Manoel (SP)"
   Morte: "28 de janeiro de 2025"
   Atividade: Pintura
-  Grupos: Movimento Cultural Guaicuru
+  Grupos: "[[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

@@ -9,7 +9,7 @@ ficha:
   Nascimento: 14 de novembro de 1930, Três Lagoas
   Morte: 1º de abril de 2014, Três Lagoas
   Atividade: Poesia, haicai e crônica
-  Grupos: Academia Sul-Mato-Grossense de Letras (cadeira 33)
+  Grupos: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (cadeira 33)"
 status: rascunho
 atualizado: 2026-10-10
 ---

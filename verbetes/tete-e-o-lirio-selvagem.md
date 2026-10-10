@@ -5,7 +5,7 @@ areas: [musica]
 resumo: Grupo vocal formado pelos irmãos Espíndola, antes chamado LuzAzul, que gravou o primeiro LP pela PolyGram no fim da década de 1970.
 ficha:
   Nome anterior: LuzAzul
-  Integrantes: Alzira, Celito, Geraldo e Tetê Espíndola
+  Integrantes: "Alzira, Celito, Geraldo e [[tete-espindola|Tetê Espíndola]]"
   Primeiro LP: '"1979", PolyGram, 12 faixas'
 status: rascunho
 atualizado: 2026-10-10

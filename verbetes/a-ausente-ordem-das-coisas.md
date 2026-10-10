@@ -5,7 +5,7 @@ areas: [quadrinhos]
 cidade: Campo Grande
 resumo: Graphic novel de Fabio Quill, publicada pela Avuá Edições em 2023, com apoio do Fundo de Investimentos Culturais de MS e prefácio de Henrique Komatsu.
 ficha:
-  Autor: Fabio Quill
+  Autor: "[[fabio-quill|Fabio Quill]]"
   Ano: "2023"
   Formato: "Graphic novel em cores, em brochura, com 120 páginas"
   Editora: Avuá Edições

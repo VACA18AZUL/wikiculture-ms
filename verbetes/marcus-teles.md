@@ -7,7 +7,7 @@ ficha:
   Atividade: Direção e roteiro
   Origem: Coxim (MS)
   Formação: Cinema e Relações Internacionais
-  Obras: '"Mapago"; "A Trovadora e a Poeta" (pré-estreia em 2026); "Refúgio" (produção, 2024)'
+  Obras: "\"Mapago\"; \"[[a-trovadora-e-a-poeta|A Trovadora e a Poeta]]\" (pré-estreia em 2026); \"Refúgio\" (produção, 2024)"
 status: rascunho
 atualizado: 2026-10-10
 ---

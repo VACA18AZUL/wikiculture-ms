@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Ilustradora e quadrinista de Campo Grande, formada em Jornalismo e conhecida pelo jornalismo em quadrinhos da Revista Badaró. Venceu duas categorias do 42º Troféu Angelo Agostini (2026) e integra a coletânea Quebra Torto.
 ficha:
   Atividade: Ilustração, quadrinhos
-  Obras: O Último Pedaço de Terra (2020)
+  Obras: "[[o-ultimo-pedaco-de-terra|O Último Pedaço de Terra]] (2020)"
   Formação: "Jornalismo; em 2026, cursava Letras na UEMS"
   Prêmios: "Troféu Angelo Agostini 2026 (Melhor Desenhista e Melhor Fanzine); menção honrosa no Prêmio Vladimir Herzog 2021"
 status: rascunho

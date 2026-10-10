@@ -6,7 +6,7 @@ resumo: Artista plástico, arqueólogo e professor, fundador do Movimento Cultur
 ficha:
   Morte: 15 de agosto de 2012, Bonito
   Atividade: Artes plásticas, arqueologia e docência
-  Grupos: Movimento Cultural Guaicuru
+  Grupos: "[[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]]"
   Obra escrita: Imaginário e representação na pintura de Lídia Baís (2009)
 status: rascunho
 atualizado: 2026-10-10

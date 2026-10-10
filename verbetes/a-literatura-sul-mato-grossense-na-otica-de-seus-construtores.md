@@ -5,7 +5,7 @@ areas: [literatura]
 cidade: Campo Grande
 resumo: Livro de 2011 de Maria da Glória Sá Rosa e Albana Xavier Nogueira sobre a construção da literatura de Mato Grosso do Sul, com depoimentos de 21 escritores e 4 críticos literários.
 ficha:
-  Autoria: Maria da Glória Sá Rosa e Albana Xavier Nogueira
+  Autoria: "[[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e [[albana-xavier-nogueira|Albana Xavier Nogueira]]"
   Ano: "2011"
   Editora: 'divergente entre fontes; ver texto'
 status: rascunho

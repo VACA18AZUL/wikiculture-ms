@@ -7,7 +7,7 @@ ficha:
   Nome civil: Henrique de Melo Spengler
   Nascimento: 1958, Campo Grande
   Morte: 2003, Coxim
-  Grupos: Movimento Cultural Guaicuru
+  Grupos: "[[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

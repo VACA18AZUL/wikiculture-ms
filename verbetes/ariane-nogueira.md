@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Bailarina de danças urbanas e intérprete-criadora da Cia Dançurbana, em Campo Grande, integrante do elenco de "Cavucada" (2023).
 ficha:
   Atividade: Danças urbanas
-  Grupos: Cia Dançurbana, Trio AYA, FEMME CREW, DHALLCREW
+  Grupos: "[[cia-dancurbana|Cia Dançurbana]], Trio AYA, FEMME CREW, DHALLCREW"
   Obras: A Pele de Dentro (2020), Código Genético (2026)
 status: rascunho
 atualizado: 2026-10-10

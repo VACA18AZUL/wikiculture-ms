@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Dupla de irmãos que produziu cinejornais em Campo Grande a partir de 1958 e o longa "Paralelos Trágicos", considerado o primeiro longa-metragem feito na cidade.
 ficha:
   Produtora: Lahdo Produções Cinematográficas
-  Obras: Mato Grosso em Marcha (cinejornais); Paralelos Trágicos
+  Obras: "Mato Grosso em Marcha (cinejornais); [[paralelos-tragicos|Paralelos Trágicos]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

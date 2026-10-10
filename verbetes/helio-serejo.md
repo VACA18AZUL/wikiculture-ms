@@ -8,7 +8,7 @@ ficha:
   Nascimento: 1º de junho de 1912, Nioaque
   Morte: 8 de outubro de 2007, Campo Grande
   Atividade: Contos, crônicas e memórias
-  Grupos: Academia Sul-Mato-Grossense de Letras
+  Grupos: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Quadrinista, muralista, arte-educador e editor de Campo Grande; organizou a coletânea "Quebra Torto" e conduz o programa Quebra Torto On de formação de autores de HQ.
 ficha:
   Atividade: Quadrinhos, muralismo, edição
-  Obras: A Ausente Ordem das Coisas (2023)
+  Obras: "[[a-ausente-ordem-das-coisas|A Ausente Ordem das Coisas]] (2023)"
   Projetos: Quebra Torto (2023), Quebra Torto On (2026), Avuá Edições
 status: rascunho
 atualizado: 2026-10-10

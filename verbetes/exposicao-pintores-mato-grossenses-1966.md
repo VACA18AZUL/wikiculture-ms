@@ -7,7 +7,7 @@ resumo: Mostra coletiva de pintores de Mato Grosso realizada no Rádio Clube de 
 ficha:
   Primeira edição: "1966"
   Local: Rádio Clube, Campo Grande
-  Realização: Aline Figueiredo, Adelaide Vieira e Humberto Espíndola
+  Realização: "[[aline-figueiredo|Aline Figueiredo]], [[adelaide-vieira|Adelaide Vieira]] e [[humberto-espindola|Humberto Espíndola]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

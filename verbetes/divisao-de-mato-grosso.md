@@ -4,7 +4,7 @@ tipo: obra
 areas: [artes-plasticas]
 resumo: Série de oito pinturas de Humberto Espíndola, de 1978 e 1979, sobre a criação do estado de Mato Grosso do Sul.
 ficha:
-  Autor: Humberto Espíndola
+  Autor: "[[humberto-espindola|Humberto Espíndola]]"
   Ano: "1978-1979"
   Técnica: Óleo sobre tela
   Onde ver: Acervo do MARCO, Campo Grande

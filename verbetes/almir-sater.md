@@ -7,7 +7,7 @@ resumo: Violeiro, cantor e compositor nascido em Campo Grande em 1956, ligado à
 ficha:
   Nascimento: 14 de novembro de 1956, Campo Grande
   Atividade: Viola, canto e composição
-  Parcerias: Paulo Simões, Renato Teixeira
+  Parcerias: "[[paulo-simoes|Paulo Simões]], Renato Teixeira"
 status: rascunho
 atualizado: 2026-10-10
 ---

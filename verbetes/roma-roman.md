@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Artista do núcleo do Teatral Grupo de Risco, citada como diretora do espetáculo Guardiões em trabalho acadêmico de 2017, no folheto do Boca de Cena 2017 e em matéria de 2023.
 ficha:
   Atividade: Direção teatral
-  Grupos: Teatral Grupo de Risco
+  Grupos: "[[teatral-grupo-de-risco|Teatral Grupo de Risco]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

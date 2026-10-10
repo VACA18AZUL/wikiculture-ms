@@ -8,7 +8,7 @@ ficha:
   Criação: "Decreto nº 6.266, de 17 de dezembro de 1991"
   Local: Parque das Nações Indígenas
   Acervo: "mais de 1.700 obras catalogadas (2021); cerca de 1.600 (2016 e 2024); mais de 1.600 (2023); cerca de 900 segundo página de 2013"
-  Gestão: Fundação de Cultura de MS
+  Gestão: "[[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Associação de artes plásticas fundada em Campo Grande em 1967 para difundir a arte regional, transferida para Cuiabá em 1972.
 ficha:
   Fundação: "1967"
-  Fundadores: Aline Figueiredo e Humberto Espíndola
+  Fundadores: "[[aline-figueiredo|Aline Figueiredo]] e [[humberto-espindola|Humberto Espíndola]]"
   Sede: Campo Grande, depois Cuiabá
 status: rascunho
 atualizado: 2026-10-10
