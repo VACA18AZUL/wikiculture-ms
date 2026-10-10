@@ -39,8 +39,13 @@ O artigo da *PROA* descreve o método de trabalho como "cinema de mutirão": os 
 - *Jepea'yta – A lenha principal* (2012), curta com direção de Gilmar Galache e [[nataly-foscaches|Nataly Foscaches]], segundo o artigo da *PROA*.[^proa]
 - *Ava Yvy Vera – terra do Povo do Raio*, exibido na abertura do 27º Encontro da Socine, em 2024.[^teatrine]
 
+## Para saber mais
+
+- [Site da ASCURI](https://ascuri.org/): site oficial da associação, com a seção "Nosso jeito".[^siteasc]
+
 [^cgn]: Thailla Torres, ["Dois nomes importantes do cinema de MS recebem homenagem"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/dois-nomes-importantes-do-cinema-de-ms-recebem-homenagem), *Campo Grande News*, 24 out. 2024. Acesso em 8 out. 2026.
 [^tese]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI – Associação Cultural dos Realizadores Indígenas*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese, UFGD, 2023, p. 17, 24-25, 38. Acesso em 8 out. 2026.
 [^proa]: Maria Gorges, ["Cinema de mutirão: os caminhos entre um cinema hierárquico e um cinema horizontal"](https://econtents.sbu.unicamp.br/inpec/index.php/proa/article/download/16577/11426/42771), *PROA: Revista de Antropologia e Arte*, Campinas, v. 11, n. 1, jan./jun. 2021, p. 31-50. Acesso em 10 out. 2026.
 [^diss]: Miguel Angelo Corrêa, [*Audiovisual autoral dos povos indígenas de Mato Grosso do Sul: mapeamento e análise*](https://ppgcom.ufms.br/files/2015/12/Audiovisual-Autoral-dos-Povos-Indigenas-de-Mato-Grosso-do-Sul-mapeamento-e-analise.pdf), dissertação, UFMS, 2015, seção 3.2.1. Acesso em 10 out. 2026.
 [^teatrine]: ["Cineasta Marineti Pinheiro e ASCURI recebem homenagem da Socine"](https://www.teatrinetv.com.br/audiovisual/cineasta-marineti-pinheiro-e-ascuri-recebem-homenagem-da-socine/18913/), *Teatrine TV*, 24 out. 2024. Acesso em 10 out. 2026.
+[^siteasc]: ASCURI – Associação Cultural de Realizadores Indígenas, [página inicial](https://ascuri.org/) e ["Nosso jeito"](https://ascuri.org/nosso-jeito). Acesso em 10 out. 2026.

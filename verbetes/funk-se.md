@@ -30,6 +30,12 @@ Em junho de 2026, o Espaço FNK, na região central de Campo Grande, promoveu o 
 
 Um trabalho acadêmico de 2017 sobre o grupo Contempurban descreve o Funk-se como espaço de dança de Campo Grande e cita o Street Pop como um dos grupos ligados a ele.[^uems2017]
 
+## Para saber mais
+
+- [Blog do Espaço FNK](https://espacofnk.wordpress.com/grupo-funk-se/) — página mantida pelo próprio grupo, com a apresentação do Funk-se.[^fnk]
+- [Espaço FNK no Instagram](https://www.instagram.com/espacofnk/) — canal oficial do espaço dirigido por Edson Clair, indicado pelo *Diário Digital*.[^dd2026]
+
+
 [^tl2007]: ["Três Lagoas recebe o circuito Dança do Mato"](https://treslagoas.ms.gov.br/tres-lagoas-recebe-o-circuito-%c2%93danca-do-mato%c2%94), Prefeitura de Três Lagoas, 5 nov. 2007. Acesso em 8 out. 2026.
 [^cgn2016]: Paula Maciulevicius, ["Aniversário do grupo Funk-se começa com acampamento de 3 dias de dança"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aniversario-do-grupo-funk-se-comeca-com-acampamento-de-3-dias-de-danca), *Campo Grande News*, 24 jan. 2016. Acesso em 8 out. 2026.
 [^fnk]: ["Grupo Funk-se"](https://espacofnk.wordpress.com/grupo-funk-se/), blog Espaço FNK. Acesso em 10 out. 2026.

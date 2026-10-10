@@ -39,6 +39,11 @@ Divergência de grafia: a reportagem de 2017 chama o dançarino de Brasília de 
 - Prêmio Onça Pintada (2018)[^cgn2020]
 - Festival Canindé (2019), nas categorias solo e duo[^cgn2020]
 
+## Para saber mais
+
+- [House of Hands Up MS no Instagram](https://www.instagram.com/handsupms/) — canal oficial do grupo, indicado pelo *Eu Sou MS*.[^eusoums2026]
+
+
 [^oe2026]: ["Vogue de MS faz história! House of Hands UP MS é selecionada para circular pelo país pelo Palco Giratório, em mais de 15 cidades"](https://oestadoonline.com.br/arte-e-lazer/vogue-de-ms-faz-historia-house-of-hands-up-ms-e-selecionada-para-circular-pelo-pais-pelo-palco-giratorio-em-mais-de-15-cidades/), *O Estado Online*, 31 mar. 2026. Acesso em 10 out. 2026.
 [^cgn2026]: Thailla Torres, ["Depois de rodar o Brasil, espetáculo de vogue volta a Campo Grande hoje"](https://www.campograndenews.com.br/lado-b/diversao/depois-de-rodar-o-brasil-espetaculo-de-vogue-volta-a-campo-grande-hoje), *Campo Grande News*, 8 set. 2026. Acesso em 10 out. 2026.
 [^eusoums2026]: ["Depois de circular pelo Brasil, House of Hands Up leva cultura Ballroom ao palco em Campo Grande"](https://www.eusoums.com.br/post/depois-de-circular-pelo-brasil-house-of-hands-up-leva-cultura-ballroom-ao-palco-em-campo-grande), *Eu Sou MS*, 2026. Acesso em 10 out. 2026.

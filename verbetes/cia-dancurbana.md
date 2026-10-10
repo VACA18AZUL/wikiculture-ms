@@ -49,6 +49,12 @@ Em 2024, Mattos representou a [[associacao-arado-cultural|Associação Arado Cul
 - *Singulares* (2012), espetáculo de repertório[^ce2014]
 - *Cavucada – a festa não será amanhã* (2023)[^cgn2023]
 
+## Para saber mais
+
+- [Cia. Dançurbana no Vimeo](https://vimeo.com/dancurbana): página de vídeos da companhia, que se apresenta como companhia de dança profissional de Campo Grande.[^vimeo]
+- [Cia Dançurbana no Instagram](https://www.instagram.com/ciadancurbana/) — canal oficial da companhia, indicado pelo *Correio do Estado*.[^ce2025]
+
+
 [^cgn2023]: Thailla Torres, ["Cia Dançurbana celebra 20 anos com espetáculo-festa Cavucada"](https://www.campograndenews.com.br/lado-b/diversao/cia-dancurbana-celebra-20-anos-com-espetaculo-festa-cavucada), *Campo Grande News*, 3 mai. 2023. Acesso em 8 out. 2026.
 [^tl2007]: ["Três Lagoas recebe o circuito Dança do Mato"](https://treslagoas.ms.gov.br/tres-lagoas-recebe-o-circuito-%c2%93danca-do-mato%c2%94), Prefeitura de Três Lagoas, 5 nov. 2007. Acesso em 8 out. 2026.
 [^ce2014]: ["Depois de percorrer 43 cidades, companhia de dança se prepara para últimas apresentações"](https://correiodoestado.com.br/correio-b/depois-de-percorrer-43-cidades-companhia-de-danca-se-prepara-para-ult/232399/), *Correio do Estado*, 15 nov. 2014. Acesso em 10 out. 2026.
@@ -59,3 +65,4 @@ Em 2024, Mattos representou a [[associacao-arado-cultural|Associação Arado Cul
 [^cgn2026]: Thailla Torres, ["Depois de rodar o Brasil, espetáculo de vogue volta a Campo Grande hoje"](https://www.campograndenews.com.br/lado-b/diversao/depois-de-rodar-o-brasil-espetaculo-de-vogue-volta-a-campo-grande-hoje), *Campo Grande News*, 8 set. 2026. Acesso em 10 out. 2026.
 [^cgn2021]: Thailla Torres, ["Bailarina usa dança para mostrar tudo o que vive no corpo da mulher"](https://www.campograndenews.com.br/lado-b/diversao/bailarina-usa-danca-para-mostrar-tudo-o-que-vive-no-corpo-da-mulher), *Campo Grande News*, 9 jun. 2021. Acesso em 8 out. 2026.
 [^semana2024]: Thailla Torres, ["Semana Pra Dança terá espetáculos, oficinas e ações de graça pela cidade"](https://www.campograndenews.com.br/lado-b/diversao/semana-pra-danca-tera-espetaculos-oficinas-e-acoes-de-graca-pela-cidade), *Campo Grande News*, 25 set. 2024. Acesso em 8 out. 2026.
+[^vimeo]: Cia. Dançurbana, [página no Vimeo](https://vimeo.com/dancurbana). Acesso em 10 out. 2026.
