@@ -8,7 +8,7 @@ ficha:
   Atividade: Direção teatral
   Grupos: Teatral Grupo de Risco
 status: rascunho
-atualizado: 2026-10-08
+atualizado: 2026-10-10
 ---
 
 **Roma Román** é artista de teatro de Campo Grande, ligada ao [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^borioli]
@@ -19,7 +19,7 @@ Um trabalho acadêmico de 2017 a lista, com a grafia "Roma Roman", entre os seis
 
 O folheto da mostra Boca de Cena 2017 informa a direção de *Os guardiões* por Roma Román, em sessão de 27 de maio no Teatro Prosa.[^boca]
 
-Matéria de abril de 2023 também a nomeia como diretora de *Guardiões*. O texto usa a grafia "Roma Román".[^cgn2023p]
+Matéria de abril de 2023 também a nomeia como diretora de *Guardiões*. O texto usa a grafia "Roma Román" e informa que a dramaturgia é de [[lu-bigattao|Lú Bigatão Rios]] e a cenografia, de Márcia Gomes. Em cena estavam [[fernanda-kunzler|Fernanda Kunzler]], [[yago-garcia|Yago Garcia]] e João Bosco Echeverria.[^cgn2023p]
 
 ## Obras
 
