@@ -24,7 +24,7 @@ A coletânea nasceu do projeto GIBI-MS, criado por Fabio Quill com apoio do Rumo
 
 ## Publicação
 
-O livro reúne seis histórias de seis quadrinistas: Fabio Quill, [[marina-duarte|Marina Duarte]], [[anderson-barboza-grippho|Anderson Barboza]], Grippho, Neiton Benitez (grafado Benites em outras fontes) e Daniel Shaman.[^icq][^odn] A reportagem do Campo Grande News de 23 de janeiro de 2023 escreveu "Anderson Barboza Grippho" como um único nome e citou cinco autores. Em julho de 2026, A Crítica disse que Jaqueline Cabral assinou como Grippho na coletânea. Ver o verbete de Anderson Barboza.[^cgnq][^acrs]
+O livro reúne seis histórias de seis quadrinistas: Fabio Quill, [[marina-duarte|Marina Duarte]], [[anderson-barboza-grippho|Anderson Barboza]], Grippho, [[neiton-benitez|Neiton Benitez]] (grafado Benites em outras fontes) e [[daniel-shaman|Daniel Shaman]].[^icq][^odn] A reportagem do Campo Grande News de 23 de janeiro de 2023 escreveu "Anderson Barboza Grippho" como um único nome e citou cinco autores. Em julho de 2026, A Crítica disse que [[jaqueline-cabral|Jaqueline Cabral]] assinou como Grippho na coletânea. Ver o verbete de Anderson Barboza.[^cgnq][^acrs]
 
 Fabio Quill descreveu as histórias como um conjunto variado: uma mitologia feminista, a nostalgia de uma infância nos anos 1980, uma aventura fantástica com traços de anime, o conflito de gerações diante de uma banca de jornal, a violência fascista de homens gananciosos e o encontro entre um saci e um jovem empregado de fazenda. A reportagem não atribui cada história a um autor.[^odn][^cgnq]
 
@@ -40,7 +40,7 @@ Segundo a reportagem de julho, o programa seleciona oito projetos, cada um com a
 
 Jaqueline Cabral, que assinou a primeira coletânea como Grippho, integra a comissão de seleção do programa.[^acrs]
 
-As aulas abertas ao público são on-line e gratuitas. Em 2026, estão previstas Isaque Sagara (21 de outubro), Milena Zarate (18 de novembro) e Benson Chin (9 de dezembro). Marina Duarte, Fred Hildebrand e Wagner Willian ficam para 2027, sem data.[^acro] Os convidados são [[isaque-sagara|Isaque Sagara]], [[milena-zarate|Milena Zarate]], Benson Chin, [[fred-hildebrand|Fred Hildebrand]], [[wagner-willian|Wagner Willian]] e [[marina-duarte|Marina Duarte]]. A reportagem de outubro diz que a lista mudou desde a chamada de julho, quando Benson Chin não constava.[^acro]
+As aulas abertas ao público são on-line e gratuitas. Em 2026, estão previstas Isaque Sagara (21 de outubro), Milena Zarate (18 de novembro) e [[benson-chin|Benson Chin]] (9 de dezembro). Marina Duarte, Fred Hildebrand e Wagner Willian ficam para 2027, sem data.[^acro] Os convidados são [[isaque-sagara|Isaque Sagara]], [[milena-zarate|Milena Zarate]], Benson Chin, [[fred-hildebrand|Fred Hildebrand]], [[wagner-willian|Wagner Willian]] e [[marina-duarte|Marina Duarte]]. A reportagem de outubro diz que a lista mudou desde a chamada de julho, quando Benson Chin não constava.[^acro]
 
 ## Obras
 

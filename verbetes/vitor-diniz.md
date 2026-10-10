@@ -27,9 +27,9 @@ Em 1981 fixou-se em Campo Grande e fundou a Orquestra Filarmônica de Mato Gross
 
 Entre 1986 e 1988 atuou na Universidade Federal de Mato Grosso do Sul, contratado pela FAPEC. Ali implantou o Projeto Arsis, com concertos didáticos itinerantes e cursos de cordas, canto coral e flauta doce.[^correio][^faalc]
 
-O arquivo municipal ARCA, da Prefeitura de Campo Grande, registra que, na década de 1980, a professora Henedina Hugo Rodrigues contou com o maestro para dar nova roupagem musical ao Hino de Campo Grande, de 1918. Em 1996, o prefeito oficializou o hino com a letra de Trajano Balduíno de Souza, os versos finais adaptados por [[hildebrando-campestrini|Hildebrando Campestrini]] e o arranjo de Vitor Marques Diniz.[^arca]
+O arquivo municipal ARCA, da Prefeitura de Campo Grande, registra que, na década de 1980, a professora [[henedina-hugo-rodrigues|Henedina Hugo Rodrigues]] contou com o maestro para dar nova roupagem musical ao Hino de Campo Grande, de 1918. Em 1996, o prefeito oficializou o hino com a letra de Trajano Balduíno de Souza, os versos finais adaptados por [[hildebrando-campestrini|Hildebrando Campestrini]] e o arranjo de Vitor Marques Diniz.[^arca]
 
-Em 2009, Diniz foi um dos três músicos eruditos entrevistados por Idara Duncan e Glória Sá Rosa para o livro *A Música de Mato Grosso do Sul: histórias de vida*, com [[evandro-higa|Evandro Higa]] e [[manoel-rasslan|Manoel Rasslan]], segundo Silus.[^trilhas]
+Em 2009, Diniz foi um dos três músicos eruditos entrevistados por [[idara-duncan|Idara Duncan]] e Glória Sá Rosa para o livro *A Música de Mato Grosso do Sul: histórias de vida*, com [[evandro-higa|Evandro Higa]] e [[manoel-rasslan|Manoel Rasslan]], segundo Silus.[^trilhas]
 
 O tributo publicado pela FAALC cita concertos em escolas públicas de bairros de Campo Grande e em uma fazenda-escola no Pantanal sul-mato-grossense, sem datas.[^faalc]
 

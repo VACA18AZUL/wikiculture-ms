@@ -17,21 +17,21 @@ atualizado: 2026-10-10
 
 Um trabalho acadêmico de 2017 o lista entre os seis integrantes do núcleo artístico do [[teatral-grupo-de-risco|Teatral Grupo de Risco]] e o inclui no elenco de três atores de *Guardiões*, ao lado de [[andre-tristao|André Tristão]] e [[fernanda-kunzler|Fernanda Kunzler]].[^borioli]
 
-Na mostra Boca de Cena 2017, integrou o elenco de *Os guardiões*, em 27 de maio no Teatro Prosa. O folheto também lhe atribui o figurino de *Os malefícios do tabaco*, do Grupo Identidade Teatral, apresentado em 25 de maio.[^boca]
+Na mostra Boca de Cena 2017, integrou o elenco de *Os guardiões*, em 27 de maio no Teatro Prosa. O folheto também lhe atribui o figurino de *Os malefícios do tabaco*, do [[grupo-identidade-teatral|Grupo Identidade Teatral]], apresentado em 25 de maio.[^boca]
 
 O portfólio do grupo, divulgado no cadastro do TGR nos Mapas da Cultura (documento de 28 de junho de 2024), traz uma sequência mais longa de trabalhos dele. Em 2008 está no elenco de *Lótus*, espetáculo de Teatro Fórum sobre violência contra a mulher. Em 2010 divide com [[roma-roman|Roma Román]] a direção da montagem de *A lenda do vale da lua*. Atua em *Princesa engasgada* (ficha de 2015), em *Flor de Lótus* e *E com você, como é que é* (2012-2013), em *Mito do Mato* (2014-2018), em *Revolução* (2017-2021) e em *Do jeito que é hoje em dia* (2021), neste último também com figurino e maquiagem.[^portf]
 
-Em 2023 assina o texto de *Tesoura*, com Fábio Umeda no elenco, direção de [[ewerton-goulart|Ewerton Goulart]] e assistência de direção dele. Dirige no mesmo ano *Circo do Absurdo*, trilogia com texto original de Ewerton Goulart.[^portf] A matéria do *Correio do Estado* de abril de 2023 confirma a autoria de *Tesoura* e informa que a estreia, em 5 e 6 de maio, marcava os 35 anos do grupo.[^ce2023]
+Em 2023 assina o texto de *Tesoura*, com [[fabio-umeda|Fábio Umeda]] no elenco, direção de [[ewerton-goulart|Ewerton Goulart]] e assistência de direção dele. Dirige no mesmo ano *Circo do Absurdo*, trilogia com texto original de Ewerton Goulart.[^portf] A matéria do *Correio do Estado* de abril de 2023 confirma a autoria de *Tesoura* e informa que a estreia, em 5 e 6 de maio, marcava os 35 anos do grupo.[^ce2023]
 
 ## Circo do Mato
 
 Um artigo de 2015 sobre o [[circo-do-mato|Circo do Mato]] traz o nome dele nas legendas de fotos dos anexos, como integrante do elenco de *O palhaço no ½ da rua*, *Encruzilhada: o último cabaré*, *Navalha na carne* e *Um pé de circo*. O corpo do texto não o menciona.[^guimaraes]
 
-Matéria de março de 2014 informa que *Navalha de carne*, apresentado pelo grupo naquele mês, tinha no elenco Josiane Vargas, Mauro Guimarães e Yago Garcia.[^cgn2014] O título aparece com grafias diferentes nas duas fontes: "Navalha na Carne" no artigo e "Navalha de Carne" na matéria.[^guimaraes][^cgn2014]
+Matéria de março de 2014 informa que *Navalha de carne*, apresentado pelo grupo naquele mês, tinha no elenco Josiane Vargas, [[mauro-guimaraes|Mauro Guimarães]] e Yago Garcia.[^cgn2014] O título aparece com grafias diferentes nas duas fontes: "Navalha na Carne" no artigo e "Navalha de Carne" na matéria.[^guimaraes][^cgn2014]
 
-Matéria do Overmundo de outubro de 2009, assinada por Carol Alencar, anuncia a estreia de *A encruzilhada: o último cabaré*, no Teatro Prosa, com recursos do FIC, direção de Larissa Câmara e cinco atores. Yago Garcia interpreta Yagon, personagem que entra como patrocinador do cabaré falido. O texto é uma colaboração do site e não foi confirmado em outra fonte.[^om2009]
+Matéria do Overmundo de outubro de 2009, assinada por Carol Alencar, anuncia a estreia de *A encruzilhada: o último cabaré*, no Teatro Prosa, com recursos do FIC, direção de [[larissa-camara|Larissa Câmara]] e cinco atores. Yago Garcia interpreta Yagon, personagem que entra como patrocinador do cabaré falido. O texto é uma colaboração do site e não foi confirmado em outra fonte.[^om2009]
 
-Um trabalho de 2015 sobre o palhaço na cena teatral de Campo Grande lista o nome como "Iago Garcia", entre os artistas do Circo do Mato, ao lado de Mauro Guimarães, Aline Duenha e Douglas Caetano.[^vieira]
+Um trabalho de 2015 sobre o palhaço na cena teatral de Campo Grande lista o nome como "Iago Garcia", entre os artistas do Circo do Mato, ao lado de Mauro Guimarães, [[aline-duenha|Aline Duenha]] e Douglas Caetano.[^vieira]
 
 ## Obras
 

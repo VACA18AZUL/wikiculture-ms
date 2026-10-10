@@ -21,17 +21,17 @@ Em outra entrevista, comenta que o financiamento público é transitório, pois 
 
 Aparece como intérprete em legendas de fotos de espetáculos do grupo, como *O Palhaço no ½ da Rua*.[^guimaraes]
 
-Uma monografia de 2015 sobre o palhaço no teatro cita Aline Duenha entre os integrantes do Circo do Mato, ao lado de Mauro Guimarães, Iago Garcia e Douglas Caetano.[^vieira]
+Uma monografia de 2015 sobre o palhaço no teatro cita Aline Duenha entre os integrantes do Circo do Mato, ao lado de [[mauro-guimaraes|Mauro Guimarães]], Iago Garcia e Douglas Caetano.[^vieira]
 
 ## Percurso em outras fontes
 
-Em março de 2006, um texto de Rodrigo Teixeira no Overmundo lista Aline Duenha entre os integrantes do [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^om2006] O portfólio do grupo, de 2024, a inclui no elenco de *Lótus*, de 2008, montagem de teatro fórum sobre violência contra a mulher, e lhe atribui a trilha do documentário *Primeiro ato – a liberdade é dentro*, também de 2008.[^portfolio]
+Em março de 2006, um texto de [[rodrigo-teixeira|Rodrigo Teixeira]] no Overmundo lista Aline Duenha entre os integrantes do [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^om2006] O portfólio do grupo, de 2024, a inclui no elenco de *Lótus*, de 2008, montagem de teatro fórum sobre violência contra a mulher, e lhe atribui a trilha do documentário *Primeiro ato – a liberdade é dentro*, também de 2008.[^portfolio]
 
 Uma reportagem do *Campo Grande News* de abril de 2012 diz que ela estudou artes cênicas no Rio de Janeiro e ali conheceu Mauro Guimarães, na Escola Nacional de Circo. Os dois voltaram a Mato Grosso do Sul e, com [[yago-garcia|Yago Garcia]] e [[laila-pulcherio|Laila Pulchério]], formavam o Circo do Mato havia oito anos. Aline atua, dirige em conjunto e ajuda a escrever projetos. Na matéria, comenta as dificuldades de formação de plateia e a instalação da sede do grupo.[^cgn2012]
 
 Em outubro de 2009, segundo texto colaborativo do Overmundo, interpretou uma equilibrista em *A Encruzilhada – O Último Cabaré*, estreia do grupo no Teatro Prosa, com apoio do FIC. Ela diz no texto que estar em atividade é o que mais alegra os integrantes.[^om2009]
 
-Em março de 2014, aparece como assistente de direção de *Navalha na carne*, de Plínio Marcos, montagem do grupo dirigida por Leandro Melo e premiada pelo Rubéns Corrêa 2013.[^cgn2014]
+Em março de 2014, aparece como assistente de direção de *Navalha na carne*, de Plínio Marcos, montagem do grupo dirigida por [[leandro-melo|Leandro Melo]] e premiada pelo Rubéns Corrêa 2013.[^cgn2014]
 
 ## Obras
 

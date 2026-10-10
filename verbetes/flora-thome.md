@@ -20,7 +20,7 @@ atualizado: 2026-10-10
 
 Um estudo a registra como nascida em Três Lagoas.[^freire] Outro a apresenta como escritora cuja obra, de poemas e crônicas de memória, trata da memória coletiva da cidade.[^lljournal] O livro *Ervais, pantanais e guavirais* a chama de poeta "trilacunense" e dedica um capítulo aos seus haicais, assinado por Maria Helena de Queiroz.[^ervais] A lista de referências de um artigo traz só "F. Thomé", o que não permite confirmar o prenome ali.[^souza]
 
-Segundo o *Correio do Estado*, nasceu em 14 de novembro de 1930 e morreu em 1º de abril de 2014, em Três Lagoas.[^cgnews2014] Maria da Glória Sá Rosa dá a mesma data de nascimento.[^asl25] Uma reportagem do RCN67 informa que ela tinha 83 anos na ocasião.[^rcn2014]
+Segundo o *Correio do Estado*, nasceu em 14 de novembro de 1930 e morreu em 1º de abril de 2014, em Três Lagoas.[^cgnews2014] [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] dá a mesma data de nascimento.[^asl25] Uma reportagem do RCN67 informa que ela tinha 83 anos na ocasião.[^rcn2014]
 
 ## Magistério e academia
 
@@ -30,7 +30,7 @@ Ocupou a cadeira 33 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato
 
 ## Estudos e homenagens
 
-Segundo reportagem de abril de 2013, a professora Daura Del Vigna Galvão apresentou na UFGD a dissertação "Nas águas do tempo: memorialismo em Flora Thomé", orientada por Paulo Bungart Neto, com *Retratos* como objeto principal. O estudo da obra dela havia começado em 2009, com a monografia "Flora Thomé, uma flâneuse em Três Lagoas".[^rcn2013]
+Segundo reportagem de abril de 2013, a professora [[daura-del-vigna-galvao|Daura Del Vigna Galvão]] apresentou na UFGD a dissertação "Nas águas do tempo: memorialismo em Flora Thomé", orientada por Paulo Bungart Neto, com *Retratos* como objeto principal. O estudo da obra dela havia começado em 2009, com a monografia "Flora Thomé, uma flâneuse em Três Lagoas".[^rcn2013]
 
 Em 2025, a Feira Literária de Bonito (FLIB) homenageou Flora Egídio Thomé em sua nona edição, com a escritora Carolina Maria de Jesus.[^enfoque2025]
 

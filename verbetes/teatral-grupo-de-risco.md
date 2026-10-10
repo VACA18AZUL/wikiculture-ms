@@ -15,7 +15,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Foi fundado por [[lu-bigattao|Lu Bigattão]], Leandro Melo, Sérgio Carvalho e Murilo Flores, jovens do teatro independente. O nome vem da ideia de que fazer teatro era arriscado poucos anos após o fim da ditadura militar. O grupo diz ter mais de 30 espetáculos, além de documentários, programas de TV e mais de dez projetos sociais e culturais. Os processos de criação são colaborativos e partem de pesquisa teórica.[^borioli]
+Foi fundado por [[lu-bigattao|Lu Bigattão]], [[leandro-melo|Leandro Melo]], [[sergio-carvalho|Sérgio Carvalho]] e [[murilo-flores|Murilo Flores]], jovens do teatro independente. O nome vem da ideia de que fazer teatro era arriscado poucos anos após o fim da ditadura militar. O grupo diz ter mais de 30 espetáculos, além de documentários, programas de TV e mais de dez projetos sociais e culturais. Os processos de criação são colaborativos e partem de pesquisa teórica.[^borioli]
 
 ## Trilogia
 
@@ -35,7 +35,7 @@ Segundo o portfólio do próprio grupo, a primeira montagem foi *A lenda do vale
 
 Entre os espetáculos de repertório citados pela imprensa estão *A princesa engasgada*, de Márcia Frederico, que em 2020 estava em cartaz havia mais de 18 anos, *Revolução*, adaptação de *A revolução na América do Sul*, de Augusto Boal, e *Do jeito que é hoje em dia*, adaptação sobre prevenção de infecções sexualmente transmissíveis.[^dd2020][^ce2023a]
 
-Em 2020, o projeto "Para além do centro", aprovado no edital Fomteatro, levou apresentações a bairros de Campo Grande e gravou dois espetáculos para a TV da rede municipal de ensino.[^dd2020] Em 2023, o projeto "Depois do fim do mundo", também do Fomteatro, previu doze apresentações em bairros, oficinas e a estreia de *Tesoura*, de Yago Garcia, com direção de Ewerton Goulart.[^ce2023a] Ainda em 2023, o projeto "TGR entre furnas e distritos", com recursos do Fundo de Investimentos Culturais (FIC), levou quinze apresentações a furnas rurais e distritos de Campo Grande e estreou *Circo do absurdo*, com dramaturgia de Ewerton Goulart e direção de Yago Garcia.[^ce2023b]
+Em 2020, o projeto "Para além do centro", aprovado no edital Fomteatro, levou apresentações a bairros de Campo Grande e gravou dois espetáculos para a TV da rede municipal de ensino.[^dd2020] Em 2023, o projeto "Depois do fim do mundo", também do Fomteatro, previu doze apresentações em bairros, oficinas e a estreia de *Tesoura*, de [[yago-garcia|Yago Garcia]], com direção de [[ewerton-goulart|Ewerton Goulart]].[^ce2023a] Ainda em 2023, o projeto "TGR entre furnas e distritos", com recursos do Fundo de Investimentos Culturais (FIC), levou quinze apresentações a furnas rurais e distritos de Campo Grande e estreou *Circo do absurdo*, com dramaturgia de Ewerton Goulart e direção de Yago Garcia.[^ce2023b]
 
 ## Sede
 

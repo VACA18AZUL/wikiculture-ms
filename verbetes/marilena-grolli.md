@@ -21,13 +21,13 @@ A tese descreve a artista como natural de Cáceres (MT), bacharel em Artes Visua
 
 Em novembro de 2021, a Prefeitura de Campo Grande a apresentou como artista visual e curadora da Mostra Diversos, parte da programação de artes visuais do festival Campão Cultural (22 de novembro a 5 de dezembro de 2021), que reuniu 21 artistas de MS e de outros estados.[^cgcampao2021]
 
-De 20 de março a 2 de abril de 2023, apresentou *Grolli – Das ruas pras ruas* na Galeria de Vidro, em Campo Grande, projeto premiado no I Prêmio Ipê de Artes Visuais, com peças feitas de objetos descartados, como galões de óleo e discos de vinil.[^cg2023][^cgnews2023] A nota da Prefeitura e a reportagem do O Estado Online trazem, no mesmo texto, dois períodos: 20 de março a 2 de abril e 20 a 31 de março. Este verbete registra as duas versões, sem escolher.[^cg2023][^oestado2023]
+De 20 de março a 2 de abril de 2023, apresentou *Grolli – Das ruas pras ruas* na [[galeria-de-vidro|Galeria de Vidro]], em Campo Grande, projeto premiado no I [[premio-ipe-de-artes-visuais|Prêmio Ipê de Artes Visuais]], com peças feitas de objetos descartados, como galões de óleo e discos de vinil.[^cg2023][^cgnews2023] A nota da Prefeitura e a reportagem do O Estado Online trazem, no mesmo texto, dois períodos: 20 de março a 2 de abril e 20 a 31 de março. Este verbete registra as duas versões, sem escolher.[^cg2023][^oestado2023]
 
-Em setembro de 2025, a Casa de Cultura de Campo Grande abriu a exposição *Grolli: Entre o Urbano e o Íntimo*, em cartaz até 10 de outubro daquele ano.[^cgnews2025] Segundo o Enfoque MS, ela também esteve à frente do Free Art Festival entre 2009 e 2025.[^enfoque2025]
+Em setembro de 2025, a [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]] abriu a exposição *Grolli: Entre o Urbano e o Íntimo*, em cartaz até 10 de outubro daquele ano.[^cgnews2025] Segundo o Enfoque MS, ela também esteve à frente do [[free-art-festival|Free Art Festival]] entre 2009 e 2025.[^enfoque2025]
 
 As fontes divergem sobre a graduação: a tese (2023) e o Campo Grande News (2025) indicam a UFMS, e a Prefeitura de Campo Grande (2023) indica a UFMT. Este verbete registra as duas versões, sem escolher.[^lima2023][^cgnews2025][^cg2023]
 
-Em dezembro de 2019, a Fundação de Cultura de Mato Grosso do Sul publicou nota sobre a exposição *Espelho das Artes Plásticas* e a identificou como coordenadora do Núcleo de Artes Visuais da instituição.[^fcms2019] Em 2025, o Campo Grande News a descreve como curadora e gestora do Núcleo desde 2006.[^cgnews2025]
+Em dezembro de 2019, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] publicou nota sobre a exposição *[[espelho-das-artes-plasticas|Espelho das Artes Plásticas]]* e a identificou como coordenadora do Núcleo de Artes Visuais da instituição.[^fcms2019] Em 2025, o Campo Grande News a descreve como curadora e gestora do Núcleo desde 2006.[^cgnews2025]
 
 ## Obra
 

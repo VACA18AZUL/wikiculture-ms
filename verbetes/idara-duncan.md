@@ -20,7 +20,7 @@ Uma dissertação sobre a poesia de [[raquel-naveira|Raquel Naveira]] a cita ent
 
 ## Gestão cultural
 
-Segundo o *Correio do Estado*, foi professora de Letras, especialista em língua portuguesa, presidente da Fundação de Cultura de Mato Grosso do Sul de 1985 a 1987 e secretária de Estado de Cultura e Esportes de 1995 a 1998. A matéria diz que, à frente da secretaria, ela inspirou e ajudou a criar espaços culturais, entre eles o [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]], do qual foi a primeira gestora.[^cestado2019]
+Segundo o *Correio do Estado*, foi professora de Letras, especialista em língua portuguesa, presidente da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] de 1985 a 1987 e secretária de Estado de Cultura e Esportes de 1995 a 1998. A matéria diz que, à frente da secretaria, ela inspirou e ajudou a criar espaços culturais, entre eles o [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]], do qual foi a primeira gestora.[^cestado2019]
 
 Um texto de 2007 dos Amigos do MIS-MS, publicado no Overmundo, a chama de idealizadora do museu. Segundo o texto, o projeto foi enviado ao Ministério da Cultura em 1996, a aprovação levou mais de um ano e a concepção do MIS foi concretizada no fim de sua gestão como secretária.[^om2007] O mesmo texto é um trecho de um livro de Marinete Pinheiro, segundo a nota de quem o publicou.[^om2007]
 
@@ -28,13 +28,13 @@ Em maio de 2019, o MIS abriu uma exposição de fotografias em sua homenagem, co
 
 ## Obra
 
-Aparece como coautora de duas obras com Maria da Glória Sá Rosa: *Artes plásticas em Mato Grosso do Sul* (2005), também com Yara Penteado, e *A música de Mato Grosso do Sul* (2009, FIC-MS).[^philologus] O estudo de Freire cita ainda *Memória da Arte em Mato Grosso do Sul*, com Sá Rosa e Maria Adélia Menegazzo, sem data, e grafa o sobrenome "Duncam".[^freire] O texto do Overmundo data esse livro de 1992 e o subtitula *histórias de vida*, e diz que ela o organizou com Sá Rosa e Menegazzo.[^om2007]
+Aparece como coautora de duas obras com Maria da Glória Sá Rosa: *Artes plásticas em Mato Grosso do Sul* (2005), também com [[yara-penteado|Yara Penteado]], e *A música de Mato Grosso do Sul* (2009, FIC-MS).[^philologus] O estudo de Freire cita ainda *Memória da Arte em Mato Grosso do Sul*, com Sá Rosa e [[maria-adelia-menegazzo|Maria Adélia Menegazzo]], sem data, e grafa o sobrenome "Duncam".[^freire] O texto do Overmundo data esse livro de 1992 e o subtitula *histórias de vida*, e diz que ela o organizou com Sá Rosa e Menegazzo.[^om2007]
 
 ## Obras
 
 - *Artes plásticas em Mato Grosso do Sul* (2005), com Maria da Glória Sá Rosa e Yara Penteado.[^philologus][^freire]
 - *A música de Mato Grosso do Sul* (2009), com Maria da Glória Sá Rosa.[^philologus]
-- *Memória da Arte em Mato Grosso do Sul: histórias de vida* (1992), com Maria da Glória Sá Rosa e Maria Adélia Menegazzo. Freire não dá a data; o Overmundo dá 1992.[^freire][^om2007]
+- *[[memoria-da-arte-em-mato-grosso-do-sul-historias-de-vida|Memória da Arte em Mato Grosso do Sul: histórias de vida]]* (1992), com Maria da Glória Sá Rosa e Maria Adélia Menegazzo. Freire não dá a data; o Overmundo dá 1992.[^freire][^om2007]
 
 ## Para saber mais
 

@@ -19,15 +19,15 @@ atualizado: 2026-10-10
 
 A mostra homenageia [[rachid-waqued|Rachid Waqued]], descrito como um dos principais documentaristas da história sul-mato-grossense, com mais de quatro décadas de registros. A obra dele foi organizada em seis eixos: cultura, natureza, indústrias e infraestrutura, colaboradores de MS, coordenadores de MS e arquitetura urbana.[^acr1]
 
-A curadoria é de Melly Senna, Cris Freire, Ligia Rocha, Pedro Ortale, Elis Regina e do próprio Waqued.[^acr1] Outra matéria do mesmo jornal grafa o primeiro nome como "Melly Sena" ao citar a diretora de Memória e Patrimônio Cultural da Fundação de Cultura.[^cgn]
+A curadoria é de [[melly-senna|Melly Senna]], [[cris-freire|Cris Freire]], [[ligia-rocha|Ligia Rocha]], [[pedro-ortale|Pedro Ortale]], Elis Regina e do próprio Waqued.[^acr1] Outra matéria do mesmo jornal grafa o primeiro nome como "Melly Sena" ao citar a diretora de Memória e Patrimônio Cultural da Fundação de Cultura.[^cgn]
 
-Um painel coletivo reúne trabalhos de 14 outros fotógrafos: André Bittar, Alexis Prappas, Bolivar Porto, Denilson Secreta Nantes, Elis Regina Nogueira, Gabriel Gabino, Luiz Felipe Mendes, Marithê do Céu, Marycleide Vasques, Saul Schramm, Sebastião Guimarães, Vânia Jucá, Wagner Guimarães e Melina Moraes.[^acr1]
+Um painel coletivo reúne trabalhos de 14 outros fotógrafos: [[andre-bittar|André Bittar]], [[alexis-prappas|Alexis Prappas]], [[bolivar-porto|Bolivar Porto]], [[denilson-secreta-nantes|Denilson Secreta Nantes]], [[elis-regina-nogueira|Elis Regina Nogueira]], [[gabriel-gabino|Gabriel Gabino]], [[luiz-felipe-mendes|Luiz Felipe Mendes]], [[marithe-do-ceu|Marithê do Céu]], [[marycleide-vasques|Marycleide Vasques]], [[saul-schramm|Saul Schramm]], Sebastião Guimarães, [[vania-juca|Vânia Jucá]], [[wagner-guimaraes|Wagner Guimarães]] e [[melina-moraes|Melina Moraes]].[^acr1]
 
 A entrada é gratuita. A exposição tem piso tátil, intérprete de Libras no vídeo-depoimento de Waqued e audiodescrição das fotos.[^acr1]
 
 ## Realização
 
-A mostra é a primeira do projeto Rota Cine MS, da Fundação de Cultura de MS, e inaugurou o ciclo de comemorações dos 50 anos do estado. O financiamento vem da Política Nacional Aldir Blanc, por meio de termo de fomento firmado com o Instituto Curumins e outros órgãos estaduais.[^acr1]
+A mostra é a primeira do projeto Rota Cine MS, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], e inaugurou o ciclo de comemorações dos 50 anos do estado. O financiamento vem da Política Nacional Aldir Blanc, por meio de termo de fomento firmado com o Instituto Curumins e outros órgãos estaduais.[^acr1]
 
 ## Programação do projeto
 

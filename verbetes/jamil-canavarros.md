@@ -25,7 +25,7 @@ Sua pintura trata de paisagens, fauna, flora e do homem pantaneiro. Ele trabalha
 
 Segundo a pesquisa de Rondon, sua primeira venda veio de uma mostra de 2012 no Sindicato Rural de Corumbá. Em 2016, fez uma mostra no Sesc de Corumbá para marcar 35 anos de trabalho.[^rondon2025] Expôs também em Campo Grande, Dourados, Aquidauana, Miranda, São Paulo, Rio de Janeiro e Brasília.[^rondon2025]
 
-Em dezembro de 2019, participou da coletiva *Espelho das Artes Plásticas*, com 14 expositores, no Espaço Jorapimo, no saguão do Memorial da Cultura e Cidadania, em Campo Grande. A mostra ficou aberta até 28 de fevereiro de 2020.[^fundac2019]
+Em dezembro de 2019, participou da coletiva *[[espelho-das-artes-plasticas|Espelho das Artes Plásticas]]*, com 14 expositores, no [[espaco-jorapimo|Espaço Jorapimo]], no saguão do Memorial da Cultura e Cidadania, em Campo Grande. A mostra ficou aberta até 28 de fevereiro de 2020.[^fundac2019]
 
 Em reportagem do *Diário Corumbaense* de fevereiro de 2016, o artista disse que sua primeira exposição foi em 1982, quando ainda havia um museu na Rua Delamare, e que a primeira venda só ocorreu em 2012. Segundo a mesma reportagem, a mostra de 35 anos reuniu doze telas, de épocas diferentes, no Sesc do Porto Geral, até 18 de março, e começou a ser planejada em 2013.[^diario2016]
 

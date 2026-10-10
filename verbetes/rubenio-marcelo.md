@@ -21,17 +21,17 @@ A Wikipédia em português registra que ele nasceu em Aracati (CE), cresceu em F
 
 Na ASL, o site da academia dá a ele a cadeira 35, cujo patrono é Múcio Teixeira e cujo antecessor foi Argus Cirino.[^aslcad] Em entrevista publicada no Overmundo em outubro de 2008, ele disse ter sido eleito para a academia em 2004.[^gisele] A *Revista da ASL* de 2009 o lista, porém, entre os acadêmicos recém-empossados que compuseram a diretoria aclamada em 30 de janeiro de 2003, como secretário-geral. As duas datas ficam registradas.[^rasl15]
 
-Aparece como secretário-geral nas diretorias de 2005–2008, 2011–2014, 2014–2017, 2017–2020 e 2023–2026. Na gestão de 2020–2023, o cargo consta com Valmir Batista Corrêa.[^asldir] Foi coordenador geral e revisor da 24ª edição da *Revista da ASL* (Life Editora, 2013).[^rasl24] Em 8 de agosto de 2026, conduziu a cerimônia de posse de André Alvez na cadeira 28 da ASL.[^acritica2026]
+Aparece como secretário-geral nas diretorias de 2005–2008, 2011–2014, 2014–2017, 2017–2020 e 2023–2026. Na gestão de 2020–2023, o cargo consta com Valmir Batista Corrêa.[^asldir] Foi coordenador geral e revisor da 24ª edição da *Revista da ASL* (Life Editora, 2013).[^rasl24] Em 8 de agosto de 2026, conduziu a cerimônia de posse de [[andre-alvez|André Alvez]] na cadeira 28 da ASL.[^acritica2026]
 
 Com Henrique de Medeiros, é autor do hino da ASL, a canção "Luz das Letras", lançada oficialmente em 10 de novembro de 2021, no cinquentenário da academia.[^aslh] Foi conselheiro estadual de cultura de Mato Grosso do Sul.[^pantaneiro]
 
 ## Poesia
 
-Um artigo sobre a crítica literária de Maria da Glória Sá Rosa cita o nome de Rubênio Marcelo ao lado de Raquel Naveira e Manoel de Barros como poetas do mundo literário do estado. O texto não traz datas nem títulos de obras.[^godinho2021] Ver [[raquel-naveira|Raquel Naveira]] e [[manoel-de-barros|Manoel de Barros]].
+Um artigo sobre a crítica literária de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] cita o nome de Rubênio Marcelo ao lado de Raquel Naveira e Manoel de Barros como poetas do mundo literário do estado. O texto não traz datas nem títulos de obras.[^godinho2021] Ver [[raquel-naveira|Raquel Naveira]] e [[manoel-de-barros|Manoel de Barros]].
 
 A *Revista da ASL* de 2013 o apresenta como autor de nove livros e dois CDs, também crítico literário e compositor.[^rasl24] Uma reportagem de 2024 fala em treze livros, três deles em coautoria, e três CDs.[^pantaneiro]
 
-O livro *Vias do Infinito Ser* (Letra Livre, 2017) entrou na lista de leituras obrigatórias da UFMS para o Passe 2020 e o Vestibular 2021, segundo texto do poeta Geraldo Ramon Pereira. Os textos críticos citados ali o aproximam da estética simbolista.[^cgnot]
+O livro *Vias do Infinito Ser* (Letra Livre, 2017) entrou na lista de leituras obrigatórias da UFMS para o Passe 2020 e o Vestibular 2021, segundo texto do poeta [[geraldo-ramon-pereira|Geraldo Ramon Pereira]]. Os textos críticos citados ali o aproximam da estética simbolista.[^cgnot]
 
 Em 7 de maio de 2024, lançou em Campo Grande *Caminhos... 100 Poemas Escolhidos*, antologia publicada pela [[editora-life|Life Editora]] com apoio do Fundo de Investimentos Culturais de MS (FIC-MS). A obra reúne poemas inéditos e poemas de livros de 2007 em diante e traz um QR-Code com versão em audiolivro.[^pantaneiro][^cgn2024]
 

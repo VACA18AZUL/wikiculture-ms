@@ -18,7 +18,7 @@ atualizado: 2026-10-10
 
 Formou-se em Direito e em Letras pela Universidade Católica Dom Bosco (UCDB) e fez mestrado em Comunicação e Literatura na Universidade Presbiteriana Mackenzie, em São Paulo. Lecionou literaturas brasileira, latina e portuguesa na UCDB, onde se aposentou, e deu aulas em outras instituições no Rio de Janeiro e em São Paulo.[^acad]
 
-A página da própria Academia Sul-Mato-Grossense de Letras acrescenta que ela é doutora em Língua e Literatura Francesas pela Universidade de Nancy, na França, e que o mestrado na Mackenzie foi em "Comunicação e Letras". Segundo a mesma página, começou a atuar na imprensa e a publicar poemas em 1977, foi diretora cultural do Rádio Clube de 1987 a 1990, apresentou o programa cultural "Prosa e verso" na TV UCDB e foi eleita membro titular do PEN Clube do Brasil em 14 de janeiro de 2000. A página registra ainda aulas na Universidade Santa Úrsula (RJ), em 2006 e 2007, e na Faculdade Anchieta, em São Bernardo do Campo (SP), a partir de 2008.[^aslr]
+A página da própria Academia Sul-Mato-Grossense de Letras acrescenta que ela é doutora em Língua e Literatura Francesas pela Universidade de Nancy, na França, e que o mestrado na Mackenzie foi em "Comunicação e Letras". Segundo a mesma página, começou a atuar na imprensa e a publicar poemas em 1977, foi diretora cultural do [[radio-clube-campo-grande|Rádio Clube]] de 1987 a 1990, apresentou o programa cultural "Prosa e verso" na TV UCDB e foi eleita membro titular do PEN Clube do Brasil em 14 de janeiro de 2000. A página registra ainda aulas na Universidade Santa Úrsula (RJ), em 2006 e 2007, e na Faculdade Anchieta, em São Bernardo do Campo (SP), a partir de 2008.[^aslr]
 
 ## Obra e reconhecimento
 
@@ -42,7 +42,7 @@ Segundo a página da academia: primeiro lugar no concurso literário "Daclobe" (
 
 ## Na crítica local
 
-Em entrevista publicada no Overmundo em 2008, o poeta Ruberval Cunha apontou Raquel Naveira, ao lado de [[manoel-de-barros|Manoel de Barros]] e de [[emmanuel-marinho|Emmanuel Marinho]], entre os nomes de destaque da poesia do estado. Ele afirmou que ela divulgou a obra no circuito universitário e enviando livros a escritores de outras regiões. Trata-se de opinião de um colega de ofício.[^cunha]
+Em entrevista publicada no Overmundo em 2008, o poeta [[ruberval-cunha|Ruberval Cunha]] apontou Raquel Naveira, ao lado de [[manoel-de-barros|Manoel de Barros]] e de [[emmanuel-marinho|Emmanuel Marinho]], entre os nomes de destaque da poesia do estado. Ele afirmou que ela divulgou a obra no circuito universitário e enviando livros a escritores de outras regiões. Trata-se de opinião de um colega de ofício.[^cunha]
 
 [^chisini]: Josenia Marisa Chisini, *A difusão do trabalho literário de Raquel Naveira*, Multitemas (UCDB), p. 61-73, [texto em PDF](https://multitemas.ucdb.br/multitemas/article/download/1134/1073/3247). Acesso em 8 out. 2026.
 [^acad]: Academia das Ciências de Lisboa, ["Raquel Naveira"](https://www.acad-ciencias.pt/eng/scholars/raquel-naveira/). Acesso em 8 out. 2026.

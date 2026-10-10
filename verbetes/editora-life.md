@@ -15,11 +15,11 @@ A **Life Editora** é uma editora que aparece como responsável por livros publi
 
 ## Publicações
 
-Um artigo de 2017 sobre a literatura contemporânea do estado cita a Life como editora de três livros: *Rodeio a céu aberto*, de A. C. Proença (2009); *Ecos: contos ilustrados*, de Arlindo Fernandez (2011), listado como FCMS/LIFE Editora; e *Contos Quase Causos*, de Samuel X. Medeiros (2014).[^araujo2017]
+Um artigo de 2017 sobre a literatura contemporânea do estado cita a Life como editora de três livros: *Rodeio a céu aberto*, de A. C. Proença (2009); *Ecos: contos ilustrados*, de [[arlindo-fernandez|Arlindo Fernandez]] (2011), listado como FCMS/LIFE Editora; e *Contos Quase Causos*, de [[samuel-x-medeiros|Samuel X. Medeiros]] (2014).[^araujo2017]
 
-Um estudo de 2024 sobre a literatura de Mato Grosso do Sul cita a editora em *Vila Pequena: causos, contos e lorotas*, de Gleycielli Nonato, publicado em Campo Grande em 2017.[^sena2024]
+Um estudo de 2024 sobre a literatura de Mato Grosso do Sul cita a editora em *Vila Pequena: causos, contos e lorotas*, de [[gleycielli-nonato|Gleycielli Nonato]], publicado em Campo Grande em 2017.[^sena2024]
 
-Um trabalho de 2019 sobre a literatura do estado cita uma segunda edição de *Grandezas da Literatura Sul-Mato-Grossense*, de Guimarães Rocha, publicada pela Editora Life em Campo Grande.[^carvalho2019]
+Um trabalho de 2019 sobre a literatura do estado cita uma segunda edição de *Grandezas da Literatura Sul-Mato-Grossense*, de [[guimaraes-rocha|Guimarães Rocha]], publicada pela Editora Life em Campo Grande.[^carvalho2019]
 
 ## Revista da Academia Sul-Mato-Grossense de Letras
 
@@ -31,14 +31,14 @@ Segundo o catálogo do ARCA, a Life Editora publicou em Campo Grande:[^arca]
 
 - *Águas do Povo*, crônicas, de [[reginaldo-alves-de-araujo|Reginaldo Alves de Araújo]] (2008), sobre a cidade de Aquidauana;
 - *Nas trilhas da literatura sul-mato-grossense* (2011), referências bibliográficas do acervo regional da Biblioteca Pública Estadual, de Aparecido Toledo Melchiades, Fabio Pellegrini, Sheila Bittencourt e Prado Radich;
-- *Antologia de textos da literatura sul-mato-grossense* (2013), organizada por Maria da Glória Sá Rosa, Albana Xavier Nogueira e Maria Adélia Menegazzo.
+- *Antologia de textos da literatura sul-mato-grossense* (2013), organizada por [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], [[albana-xavier-nogueira|Albana Xavier Nogueira]] e [[maria-adelia-menegazzo|Maria Adélia Menegazzo]].
 
 Outros livros publicados pela editora, segundo fontes abertas, são os seguintes.[^jn2015]
 
 - *Crônicas de um Povo Feliz*, de Reginaldo Alves de Araújo, lançado em 3 de setembro de 2015.[^jn2015]
 - Livros de [[rubenio-marcelo|Rubenio Marcelo]]: *Horizonte d'Versos* (2009), *Voo de polens* (2012, segundo a Wikipédia; 2011, segundo reportagem de 2024), *Veleiros da Essência* (2014), *Palavras em Plenitude* (2018) e *Caminhos: 100 poemas escolhidos* (2024, com apoio do FIC-MS), além de títulos em coautoria.[^wprm][^pantaneiro]
-- Reginaldo Costa de Albuquerque: *Sonetos no azul da tarde* (2009) e o livro de contos *O Santo que não tinha os pés*, citados como publicados pela Life em texto de José Couto Vieira Pontes na revista da ASL de 2013.[^rasl23]
-- *Lobivar Matos: obra reunida*, organizada por Susylene Dias de Araujo e lançada em Corumbá em 20 de março de 2025 e em Campo Grande dois dias depois. Ver [[lobivar-matos|Lobivar Matos]].[^cc2025]
+- [[reginaldo-costa-de-albuquerque|Reginaldo Costa de Albuquerque]]: *Sonetos no azul da tarde* (2009) e o livro de contos *O Santo que não tinha os pés*, citados como publicados pela Life em texto de [[jose-couto-vieira-pontes|José Couto Vieira Pontes]] na revista da ASL de 2013.[^rasl23]
+- *Lobivar Matos: obra reunida*, organizada por [[susylene-dias-de-araujo|Susylene Dias de Araujo]] e lançada em Corumbá em 20 de março de 2025 e em Campo Grande dois dias depois. Ver [[lobivar-matos|Lobivar Matos]].[^cc2025]
 
 O título mais antigo da Life no catálogo do ARCA é de 2008. O catálogo não traz a data de fundação da editora, e o site dela não pôde ser aberto nesta consulta.[^arca]
 

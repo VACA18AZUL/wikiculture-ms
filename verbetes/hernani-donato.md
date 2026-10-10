@@ -17,13 +17,13 @@ atualizado: 2026-10-10
 
 A crítica o inclui entre os autores de romances sobre Mato Grosso do Sul que não nasceram no estado.[^freire] Em entrevista de 2005, contou que se dedicou a projetos de colonização em Mato Grosso em 1952 e pesquisou a indústria da erva-mate.[^prada] O capítulo que lhe é dedicado em *Ervais, pantanais e guavirais* o chama de autor "multifacetado e inclassificável".[^ervais]
 
-Um artigo de Albana Xavier Nogueira, publicado originalmente em 2014 no site do IHGMS, cita *Selva trágica* entre os romances ambientados no estado escritos por autores de outros estados que nunca fixaram residência em Mato Grosso do Sul.[^albana]
+Um artigo de [[albana-xavier-nogueira|Albana Xavier Nogueira]], publicado originalmente em 2014 no site do IHGMS, cita *Selva trágica* entre os romances ambientados no estado escritos por autores de outros estados que nunca fixaram residência em Mato Grosso do Sul.[^albana]
 
 Na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], ocupou a cadeira 1, cujo antecessor foi Antônio Lopes Lins e cujo sucessor foi [[manoel-de-barros|Manoel de Barros]], segundo a lista de cadeiras da casa. O histórico da academia registra que ele esteve na sessão solene de instalação, em 13 de outubro de 1972, no Hotel Campo Grande, representando a Academia Paulista de Letras.[^aslcad][^aslh]
 
 ## Obra
 
-*Selva trágica* trata da exploração dos ervais na região de fronteira e expõe poderosos que fizeram fortuna à custa dos trabalhadores.[^godinho] Um artigo o liga a *Chão bruto* e a Hélio Serejo ao estudar a venda e o aluguel de mulheres na fronteira com o Paraguai, entre história e ficção.[^marin] Os dois romances foram adaptados para o cinema.[^marin] A entrevista de 2005 diz que ele escreveu 72 livros de ficção, biografia, história e divulgação científica; o artigo de 2015 fala em mais de 73 publicações. As duas contagens ficam registradas.[^prada][^marin]
+*Selva trágica* trata da exploração dos ervais na região de fronteira e expõe poderosos que fizeram fortuna à custa dos trabalhadores.[^godinho] Um artigo o liga a *Chão bruto* e a [[helio-serejo|Hélio Serejo]] ao estudar a venda e o aluguel de mulheres na fronteira com o Paraguai, entre história e ficção.[^marin] Os dois romances foram adaptados para o cinema.[^marin] A entrevista de 2005 diz que ele escreveu 72 livros de ficção, biografia, história e divulgação científica; o artigo de 2015 fala em mais de 73 publicações. As duas contagens ficam registradas.[^prada][^marin]
 
 Foi membro da Academia Paulista de Letras e presidente de honra do Instituto Histórico e Geográfico de São Paulo.[^prada] A Wikipédia em português diz que ocupou a cadeira 20 da Academia Paulista desde 1972 e que presidiu o instituto paulista em duas gestões sucessivas. O mesmo texto o descreve como escritor, historiador, jornalista, professor, tradutor e roteirista e registra uma expedição pela trilha indígena do Peabiru até o Paraguai.[^wp]
 

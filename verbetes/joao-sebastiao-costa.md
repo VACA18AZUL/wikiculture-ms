@@ -19,7 +19,7 @@ atualizado: 2026-10-10
 
 Renata Rodrigues de Assis o cita junto com Clovis Irigaray, como parte do grupo que, ao lado de [[humberto-espindola|Humberto Espíndola]], trabalhou com temas regionais notados pela crítica.[^assis2013]
 
-Segundo a Enciclopédia Itaú Cultural, ele começou a estudar pintura em 1965, em Cuiabá, com Bartira de Mendonça. Por volta de 1969, passou a frequentar o ateliê de Humberto Espíndola, em Campo Grande. Desde 1973, desenvolveu atividades no Museu de Arte e Cultura Popular da Universidade Federal de Mato Grosso (UFMT), em Cuiabá.[^itau]
+Segundo a Enciclopédia Itaú Cultural, ele começou a estudar pintura em 1965, em Cuiabá, com Bartira de Mendonça. Por volta de 1969, passou a frequentar o ateliê de Humberto Espíndola, em Campo Grande. Desde 1973, desenvolveu atividades no [[museu-de-arte-e-cultura-popular|Museu de Arte e Cultura Popular]] da Universidade Federal de Mato Grosso (UFMT), em Cuiabá.[^itau]
 
 O Almanaque Cuiabá informa que ele atuou em Campo Grande até 1972, junto ao movimento da [[ama|Associação Mato-grossense de Artes]], e voltou a Cuiabá em 1973.[^almanaque] Um texto de apresentação da sala de acervo do [[marco|MARCO]], sem autoria indicada na página, diz que ele veio a Campo Grande por causa dos ecos da exposição de 1966 e ficou até 1974.[^marcolonga] As fontes divergem sobre o ano da volta (1973 ou 1974); este verbete registra as duas versões, sem escolher.
 

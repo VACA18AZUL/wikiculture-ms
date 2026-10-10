@@ -18,7 +18,7 @@ Segundo a notícia da Confea, a série retrata mulheres como figuras calmas e fo
 
 Um material didático de 2025 da UFMS grafa o nome como Kátia Ângelo e a cita como autora da série *Bairros* (1995), que mostra cenas do cotidiano.[^souza2025] As duas fontes não dizem se *Bairros* e *Maria de todos os dias* são parte de um mesmo conjunto; o verbete registra as duas sem escolher entre elas.
 
-Em fevereiro de 2017, o *Campo Grande News* noticiou a abertura de uma mostra de "Kátia D´Ângelo" no Espaço Energia, em Campo Grande, aberta até março e com curadoria de Yara Penteado. O texto diz que ela é sul-mato-grossense, começou a pintar aos 12 anos, usa formas arredondadas e retrata olhos e mulheres, com tom de denúncia social e de proteção maternal.[^cgn2017] A reportagem não cita *Maria de todos os dias* nem *Bairros*; este verbete só reúne os dados pelo nome e pela atividade, sem confirmação documental de que se trate da mesma pessoa citada na nota da Confea.
+Em fevereiro de 2017, o *Campo Grande News* noticiou a abertura de uma mostra de "Kátia D´Ângelo" no Espaço Energia, em Campo Grande, aberta até março e com curadoria de [[yara-penteado|Yara Penteado]]. O texto diz que ela é sul-mato-grossense, começou a pintar aos 12 anos, usa formas arredondadas e retrata olhos e mulheres, com tom de denúncia social e de proteção maternal.[^cgn2017] A reportagem não cita *Maria de todos os dias* nem *Bairros*; este verbete só reúne os dados pelo nome e pela atividade, sem confirmação documental de que se trate da mesma pessoa citada na nota da Confea.
 
 A atriz carioca Kátia D'Angelo, que tem página na Wikipédia em português, é outra pessoa e não tem relação com este verbete.[^wiki]
 

@@ -26,7 +26,7 @@ Segundo uma reportagem de 2023, ele pintou em Ponta Porã, teve problemas durant
 
 ## Lugar na arte de Mato Grosso do Sul
 
-Uma dissertação de 2013 reproduz a opinião do crítico Pietro Bardi, que o chamou de "artista máximo" do estado e o situou em Nova York.[^assis] A introdução do catálogo do MARCO lista gravuras suas no acervo do museu.[^marco] O texto da mostra *Longa Duração*, do MARCO, o apresenta como um dos maiores gravadores brasileiros de reconhecimento internacional, nascido em Ponta Porã, que partiu adolescente para o Rio de Janeiro e se consagrou em Nova York.[^longa]
+Uma dissertação de 2013 reproduz a opinião do crítico Pietro Bardi, que o chamou de "artista máximo" do estado e o situou em Nova York.[^assis] A introdução do catálogo do [[marco|MARCO]] lista gravuras suas no acervo do museu.[^marco] O texto da mostra *Longa Duração*, do MARCO, o apresenta como um dos maiores gravadores brasileiros de reconhecimento internacional, nascido em Ponta Porã, que partiu adolescente para o Rio de Janeiro e se consagrou em Nova York.[^longa]
 
 Em entrevista publicada no Overmundo em 2007, [[humberto-espindola|Humberto Espíndola]] citou Lamonica como exemplo de artista que se mudou para Nova York e deixou a obra lá, e disse que ele saiu de Ponta Porã aos 16 anos. É a fala de um colega, em texto colaborativo.[^ov]
 

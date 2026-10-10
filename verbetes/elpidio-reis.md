@@ -31,7 +31,7 @@ O histórico da ASL divide a vida da casa em antes e depois da presidência de E
 
 Araújo conta 20 projetos educacionais e literários no período, entre eles a abertura permanente da biblioteca ao público, e diz que a campanha de livros formou mais de cem minibibliotecas pelo estado. Segundo ele, Elpídio chamava de "o algo mais" o hábito de escrever e publicar muito.[^asl15] Araújo diz que ele e Elpídio Reis idealizaram e fundaram a Associação de Novos Escritores em 13 de junho de 1989, com os acadêmicos José Barbosa Rodrigues e Júlio Alfredo Guimarães. Elpídio participava dos lançamentos de livros da entidade em nome da academia.[^asl15]
 
-Na lista de cadeiras do site da academia, ele consta como ocupante da cadeira 29, antecessor de José Pedro Frazão, com Elmano Soares como patrono.[^aslcad]
+Na lista de cadeiras do site da academia, ele consta como ocupante da cadeira 29, antecessor de [[jose-pedro-frazao|José Pedro Frazão]], com Elmano Soares como patrono.[^aslcad]
 
 ## Imprensa e morte
 

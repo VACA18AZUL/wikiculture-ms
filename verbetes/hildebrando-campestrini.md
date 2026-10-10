@@ -20,17 +20,17 @@ Começou no magistério em 1961 e se formou em Filosofia e Pedagogia pelo Semin�
 
 Presidiu o Instituto Histórico e Geográfico de Mato Grosso do Sul (IHGMS) desde 2000, segundo o *Campo Grande News*. Em 2017, o prédio do instituto passou a se chamar Casa Hildebrando Campestrini, em cerimônia descrita por um ex-vice-presidente da casa.[^cgn][^heitor]
 
-Ocupou a cadeira 31 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]]. O histórico da academia o cita como secretário-geral, autor da sugestão do dístico *Litterarum Lumen* para o brasão e, depois da renúncia de José Pereira Lins, em 13 de novembro de 2002, presidente da casa.[^aslh][^aslcad] Um artigo de 2015 sobre a obra de Raquel Naveira o cita, ao lado de outros nomes, como professor e aliado cultural no círculo da escritora em Campo Grande.[^moncoes]
+Ocupou a cadeira 31 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]]. O histórico da academia o cita como secretário-geral, autor da sugestão do dístico *Litterarum Lumen* para o brasão e, depois da renúncia de [[jose-pereira-lins|José Pereira Lins]], em 13 de novembro de 2002, presidente da casa.[^aslh][^aslcad] Um artigo de 2015 sobre a obra de [[raquel-naveira|Raquel Naveira]] o cita, ao lado de outros nomes, como professor e aliado cultural no círculo da escritora em Campo Grande.[^moncoes]
 
 ## Edição e pesquisa
 
-Segundo o artigo de Heitor Freire, ele revisou e anotou cerca de 50 livros de [[helio-serejo|Hélio Serejo]], editou *Inocência*, de Visconde de Taunay, coordenou a *Enciclopédia das Águas de Mato Grosso do Sul* e editou mais de quarenta livros da série Memórias Sul-Mato-Grossenses. O autor diz ainda que a *História de Mato Grosso do Sul* estava na oitava edição.[^heitor]
+Segundo o artigo de [[heitor-freire|Heitor Freire]], ele revisou e anotou cerca de 50 livros de [[helio-serejo|Hélio Serejo]], editou *Inocência*, de Visconde de Taunay, coordenou a *Enciclopédia das Águas de Mato Grosso do Sul* e editou mais de quarenta livros da série Memórias Sul-Mato-Grossenses. O autor diz ainda que a *História de Mato Grosso do Sul* estava na oitava edição.[^heitor]
 
 ## Obras
 
 - *A Saga da Divisão*, escrito com João Pereira da Rosa.[^freire]
 - *Breve Memória da Justiça Sul-mato-grossense* (1987).[^cgn][^freire]
-- *História de Mato Grosso do Sul*, em coautoria com Acyr Vaz Guimarães. O *Campo Grande News* a data de 2002; o histórico da academia a inclui na Série Historiográfica, criada em 1988.[^cgn][^aslh]
+- *História de Mato Grosso do Sul*, em coautoria com [[acyr-vaz-guimaraes|Acyr Vaz Guimarães]]. O *Campo Grande News* a data de 2002; o histórico da academia a inclui na Série Historiográfica, criada em 1988.[^cgn][^aslh]
 - *Santana do Paranaíba* (2002).[^cgn] O estudo de 2015 de Zélia Freire traz o título como *História de Mato Grosso do Sul e Santana do Livramento*, com 2002 depois do último nome. As duas grafias ficam registradas.[^freire]
 - Livros didáticos e de redação, entre eles *Português para o Segundo Grau* (1980), *Literatura Brasileira para o Segundo Grau* (1976), *Cartas a Sara* (1990), *Como Redigir Ementas* (1994), *Cantares de Menestrel* (1995), *Questões Gramaticais Sul-Mato-Grossenses* (1997) e *Como Redigir Petição Inicial* (2001, com Ruy Celso Barbosa Florence).[^cgn]
 

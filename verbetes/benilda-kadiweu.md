@@ -27,11 +27,11 @@ Suas pinturas mostram mulheres da comunidade, em cores vivas e com os grafismos 
 
 ## Exposições
 
-Sua obra integrou a mostra *Elas em Corumbá – Mulheres Indígenas Artistas*, no Festival América do Sul, de 9 a 12 de novembro de 2023.[^cgn2023expo]
+Sua obra integrou a mostra *[[elas-em-corumba|Elas em Corumbá – Mulheres Indígenas Artistas]]*, no Festival América do Sul, de 9 a 12 de novembro de 2023.[^cgn2023expo]
 
 Em julho de 2023, Benilda foi citada entre os artistas de Mato Grosso do Sul da mostra *Elas Indígenas*, na Escola de Artes Visuais do Parque Lage, no Rio de Janeiro. A exposição tinha cerca de 50 obras de oito artistas indígenas.[^cgn2023rio]
 
-Em 11 de abril de 2024, na reinauguração das galerias Wega Nery e Ignêz Corrêa da Costa, no Centro Cultural José Octávio Guizzo, em Campo Grande, ela protestou contra duas telas da coletiva *Entrosamento*, que usavam grafismos indígenas e eram de artistas não indígenas. Para ela, o uso sem participação de artistas indígenas contribuía para o apagamento da arte das mulheres do povo. A coordenação do centro retirou as telas. O arqueólogo Gilson Rodolfo Martins, ouvido pela reportagem, disse que a medida podia se aproximar de censura.[^teatrine]
+Em 11 de abril de 2024, na reinauguração das galerias [[wega-nery|Wega Nery]] e Ignêz Corrêa da Costa, no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], em Campo Grande, ela protestou contra duas telas da coletiva *Entrosamento*, que usavam grafismos indígenas e eram de artistas não indígenas. Para ela, o uso sem participação de artistas indígenas contribuía para o apagamento da arte das mulheres do povo. A coordenação do centro retirou as telas. O arqueólogo [[gilson-rodolfo-martins|Gilson Rodolfo Martins]], ouvido pela reportagem, disse que a medida podia se aproximar de censura.[^teatrine]
 
 ## Literatura
 

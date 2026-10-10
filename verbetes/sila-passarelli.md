@@ -15,9 +15,9 @@ atualizado: 2026-10-10
 
 Em outubro de 1966, participou da [[exposicao-pintores-mato-grossenses-1966|Primeira Exposição de Pinturas dos Artistas Mato-grossenses]]. A dissertação de 2013 grafa o nome como Sila Passareli.[^assis2013]
 
-Em 1977, organizou a exposição coletiva em que [[jonir-figueiredo|Jonir Figueiredo]] mostrou pela primeira vez o seu trabalho. Segundo a reportagem, o escritor Sylvia Cesco o indicou para a mostra. O texto não informa o local da exposição.[^fcms2016]
+Em 1977, organizou a exposição coletiva em que [[jonir-figueiredo|Jonir Figueiredo]] mostrou pela primeira vez o seu trabalho. Segundo a reportagem, o escritor [[sylvia-cesco|Sylvia Cesco]] o indicou para a mostra. O texto não informa o local da exposição.[^fcms2016]
 
-Um texto de apresentação da sala de acervo do [[marco|MARCO]], sem autoria indicada na página, conta que a artista paulistana Ernestina Karman morou em Campo Grande entre 1946 e 1954, deu aulas de pintura e fundou o Grêmio de Amadores de Pintura em 1950. Segundo o texto, ela fez exposições de alunos nos anos seguintes e registrou, em 1951, a presença de Sila Passarelli, descrita como "pintora ainda atuante" na data de redação do texto.[^marcolonga]
+Um texto de apresentação da sala de acervo do [[marco|MARCO]], sem autoria indicada na página, conta que a artista paulistana [[ernestina-karman|Ernestina Karman]] morou em Campo Grande entre 1946 e 1954, deu aulas de pintura e fundou o [[gremio-de-amadores-de-pintura|Grêmio de Amadores de Pintura]] em 1950. Segundo o texto, ela fez exposições de alunos nos anos seguintes e registrou, em 1951, a presença de Sila Passarelli, descrita como "pintora ainda atuante" na data de redação do texto.[^marcolonga]
 
 A grafia do nome muda entre as fontes: Passareli, na dissertação, e Passarelli, na reportagem da Fundação de Cultura e no texto do MARCO. Este verbete usa a forma da lista-mestra e registra as duas, sem escolher.[^assis2013][^fcms2016][^marcolonga]
 

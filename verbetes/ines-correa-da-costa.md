@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**Inês Correa da Costa** é artista plástica listada entre os participantes da [[exposicao-pintores-mato-grossenses-1966|Primeira Exposição de Pinturas dos Artistas Mato-grossenses]], realizada em outubro de 1966, no Rádio Clube.[^assis2013]
+**Inês Correa da Costa** é artista plástica listada entre os participantes da [[exposicao-pintores-mato-grossenses-1966|Primeira Exposição de Pinturas dos Artistas Mato-grossenses]], realizada em outubro de 1966, no [[radio-clube-campo-grande|Rádio Clube]].[^assis2013]
 
 ## Trajetória
 
@@ -24,7 +24,7 @@ As duas fontes grafam o nome de forma diferente. Este verbete usa a forma da lis
 
 Um texto de apresentação da sala de acervo do [[marco|MARCO]], sem autoria indicada na página, a nomeia Ignez Corrêa da Costa (1907-1986) e a descreve como cuiabana, em trânsito constante por Campo Grande. Segundo o texto, estudou no Rio de Janeiro com bolsa de estudos e foi aluna de Portinari na Universidade do Brasil. Entre suas participações, cita o Salão Nacional de Belas Artes de 1931. Diz que ela retratou a paisagem cuiabana e tipos regionais e que passou as duas últimas décadas de vida em Campo Grande, onde deu aulas de pintura e cerâmica e morreu.[^marcolonga]
 
-Uma reportagem de estudantes publicada no blog Factório MT, em 2023, também a chama de Ignêz Maria Luiza Corrêa da Costa e diz que foi aluna de Portinari na Universidade do Distrito Federal, no Rio de Janeiro. Segundo o texto, ela ganhou medalhas no Salão Nacional de Belas Artes e expôs na Royal Academy of Arts, no Reino Unido, em 1944. A obra *O casamento* (1974) integrou a exposição *Bio*, no Museu de Arte e Cultura Popular da UFMT, em 2023. As fontes divergem sobre a instituição em que estudou com Portinari (Universidade do Brasil ou Universidade do Distrito Federal); este verbete registra as duas.[^factorio2023][^marcolonga]
+Uma reportagem de estudantes publicada no blog Factório MT, em 2023, também a chama de Ignêz Maria Luiza Corrêa da Costa e diz que foi aluna de Portinari na Universidade do Distrito Federal, no Rio de Janeiro. Segundo o texto, ela ganhou medalhas no Salão Nacional de Belas Artes e expôs na Royal Academy of Arts, no Reino Unido, em 1944. A obra *O casamento* (1974) integrou a exposição *Bio*, no [[museu-de-arte-e-cultura-popular|Museu de Arte e Cultura Popular]] da UFMT, em 2023. As fontes divergem sobre a instituição em que estudou com Portinari (Universidade do Brasil ou Universidade do Distrito Federal); este verbete registra as duas.[^factorio2023][^marcolonga]
 
 Em palestra sobre a história das artes plásticas, relatada em texto colaborativo do Overmundo (2007), [[humberto-espindola|Humberto Espíndola]] citou Inês Correa da Costa entre as pintoras presentes em Mato Grosso ao falar das décadas de 1930 a 1950.[^overmundo2007]
 

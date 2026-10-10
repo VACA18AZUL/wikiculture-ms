@@ -16,11 +16,11 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Aos 20 anos, mudou-se para o Rio de Janeiro para cursar Direito. Começou a cantar com o pseudônimo Lupe, na dupla Lupe e Lampião. Segundo a Wikipédia, participou em 1979 da banda de [[tete-espindola|Tetê Espíndola]], o Lírio Selvagem, que se desfez no mesmo ano.[^wiki]
+Aos 20 anos, mudou-se para o Rio de Janeiro para cursar Direito. Começou a cantar com o pseudônimo Lupe, na dupla Lupe e Lampião. Segundo a Wikipédia, participou em 1979 da banda de [[tete-espindola|Tetê Espíndola]], o [[tete-e-o-lirio-selvagem|Lírio Selvagem]], que se desfez no mesmo ano.[^wiki]
 
 Seu primeiro álbum, *Estradeiro*, é de 1981. *Doma* saiu em 1982, pela RGE.[^wiki][^bonny] Uma matéria oficial do governo do Paraná diz que ele começou a carreira em 1981 e gravou pouco mais de uma dezena de álbuns, e que foi um dos responsáveis por resgatar a viola de dez cordas.[^aen]
 
-Com [[paulo-simoes|Paulo Simões]], assinou "Comitiva Esperança" (1983). A canção nasceu de uma expedição ao Pantanal entre novembro de 1983 e janeiro de 1984 e ficou conhecida pela novela *Pantanal*, da Rede Manchete. Os dois também produziram, com Wagner Carvalho, o documentário *Comitiva Esperança* (1986).[^bonny]
+Com [[paulo-simoes|Paulo Simões]], assinou "Comitiva Esperança" (1983). A canção nasceu de uma expedição ao Pantanal entre novembro de 1983 e janeiro de 1984 e ficou conhecida pela novela *Pantanal*, da Rede Manchete. Os dois também produziram, com Wagner Carvalho, o documentário *[[comitiva-esperanca|Comitiva Esperança]]* (1986).[^bonny]
 
 Segundo o Campo Grande News, ganhou projeção nacional com "Trem do Pantanal", canção de [[geraldo-roca|Geraldo Roca]] e Paulo Simões, e se destacou a partir dos anos 1980.[^mapa] A reportagem sobre o aniversário da canção confirma que ele cantou uma versão dela.[^trem]
 
@@ -30,7 +30,7 @@ Na televisão, atuou nas duas versões de *Pantanal* (1990 e 2022), em *A Histó
 
 Segundo entrevista de 2007 publicada no Overmundo, fez sua primeira apresentação em Campo Grande aos 12 anos, na Rádio Cultura. Formou a dupla Lupe e Lampião com Maurício Barros, tocou com o grupo chileno Água e integrou a banda Tapyara. A mesma entrevista diz que começou a se profissionalizar ao acompanhar Tetê e o Lírio Selvagem a partir de 1979, em um show em Cuiabá.[^omsater] A Wikipédia em português registra o início da parceria com Tetê Espíndola em 1979, em São Paulo.[^wikipt] Um comentário de leitor no Overmundo, assinado por Guimo Fowler, contesta a data e o local: afirma que o primeiro show com o grupo ocorreu em dezembro de 1978, em São Paulo, na Sala Gil Vicente do Teatro Ruth Escobar. Trata-se de testemunho de quem diz ter organizado o espetáculo e não foi confirmado por outra fonte aberta.[^omfowler]
 
-Segundo a Wikipédia em português, *Estradeiro* teve produção de Pena Schmidt e participações de Tetê Espíndola, Alzira Espíndola e Paulo Simões. O texto o associa à geração do projeto Prata da Casa, do início dos anos 1980.[^wikipt] Ainda conforme a Wikipédia, o disco *Rasta Bonito* (1989) foi gravado em Nashville, nos Estados Unidos, com Eric Silver.[^wikipt] Almir Sater contou na entrevista de 2007 que o disco foi feito nos Estados Unidos e que, na época, recebeu convite para morar lá e montar um trabalho instrumental, antes de o convite para a novela *Pantanal* surgir.[^omsater]
+Segundo a Wikipédia em português, *Estradeiro* teve produção de Pena Schmidt e participações de Tetê Espíndola, [[alzira-espindola|Alzira Espíndola]] e Paulo Simões. O texto o associa à geração do projeto Prata da Casa, do início dos anos 1980.[^wikipt] Ainda conforme a Wikipédia, o disco *Rasta Bonito* (1989) foi gravado em Nashville, nos Estados Unidos, com Eric Silver.[^wikipt] Almir Sater contou na entrevista de 2007 que o disco foi feito nos Estados Unidos e que, na época, recebeu convite para morar lá e montar um trabalho instrumental, antes de o convite para a novela *Pantanal* surgir.[^omsater]
 
 A Wikipédia em português data a expedição Comitiva Esperança de 1986 e cita como participantes Paulo Simões, Zé Gomes, o crítico Zuza Homem de Mello e o fotógrafo Raimundo Alves Filho. Esta data difere da apresentada por Bonny (novembro de 1983 a janeiro de 1984); as duas versões ficam registradas, sem escolha.[^wikipt][^bonny]
 
@@ -47,7 +47,7 @@ Sobre os discos de Renato Teixeira, a Wikipédia em português data *AR* de deze
 
 ## Para saber mais
 
-- [Almir Sater: "Não sou sertanejo. Eu sou roqueiro"](https://www.overmundo.com.br/overblog/almir-sater-nao-sou-sertanejo-eu-sou-roqueiro), entrevista de Rodrigo Teixeira ao Overmundo, 2007, sobre carreira, parcerias e o disco *Sete Sinais*.[^omsater]
+- [Almir Sater: "Não sou sertanejo. Eu sou roqueiro"](https://www.overmundo.com.br/overblog/almir-sater-nao-sou-sertanejo-eu-sou-roqueiro), entrevista de [[rodrigo-teixeira|Rodrigo Teixeira]] ao Overmundo, 2007, sobre carreira, parcerias e o disco *Sete Sinais*.[^omsater]
 - [Almir Sater no 4º Festival América do Sul, em Corumbá](https://www.overmundo.com.br/overblog/almir-sater-no-4-festival-america-do-sul-corumba), reportagem de Gisele Colombo ao Overmundo, 2007.[^omcorumba]
 
 [^wiki]: ["Almir Sater"](https://en.wikipedia.org/wiki/Almir_Sater), *Wikipédia* (edição em inglês). Acesso em 8 out. 2026.

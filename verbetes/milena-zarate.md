@@ -23,7 +23,7 @@ Produz quadrinhos digitais desde 2010. Sua série *Paranormal Panic!!* está pub
 
 ## Paranormal Panic!!
 
-A série é assinada por Milena Zarate e Moaccyr K. Em 26 de janeiro de 2023, no NewPOP Day, a editora NewPOP anunciou a publicação impressa. O site JBox informou que a série tinha 25 episódios no Tapas e viria em três volumes, em cores. A sinopse oficial apresenta Renato, que desiste de provar que alienígenas existem até que uma aluna nova aparece em uma nave espacial.[^jbox] Segundo o JBox, os autores disseram ter buscado referências nacionais, como o ET de Varginha e o Xou da Xuxa.[^jbox] O catálogo de obras nacionais da NewPOP lista a série como primeiro arco em três volumes. As páginas lidas não informam data de lançamento dos volumes.[^newpop]
+A série é assinada por Milena Zarate e [[moaccyr-k|Moaccyr K]]. Em 26 de janeiro de 2023, no NewPOP Day, a editora NewPOP anunciou a publicação impressa. O site JBox informou que a série tinha 25 episódios no Tapas e viria em três volumes, em cores. A sinopse oficial apresenta Renato, que desiste de provar que alienígenas existem até que uma aluna nova aparece em uma nave espacial.[^jbox] Segundo o JBox, os autores disseram ter buscado referências nacionais, como o ET de Varginha e o Xou da Xuxa.[^jbox] O catálogo de obras nacionais da NewPOP lista a série como primeiro arco em três volumes. As páginas lidas não informam data de lançamento dos volumes.[^newpop]
 
 ## Quebra Torto On
 

@@ -19,7 +19,7 @@ Em nota de rodapé, o artigo de Marin e Pereira informa que ele participou, em 1
 
 ## Possível homonímia
 
-O livro *Os Pioneiros*, de [[rodrigo-teixeira|Rodrigo Teixeira]], disponibilizado na íntegra no Overmundo em 2010, trata de um Zé Corrêa, sanfoneiro, como um dos pioneiros da música sertaneja do sul de Mato Grosso, entre os nomes que desde os anos 1950 formaram a cena musical da região.[^ovpion] Nesse mesmo texto, o radialista Juca Ganso relata que esse Zé Corrêa foi morto em abril de 1974, aos 29 anos, diante da Rádio Educação Rural, em Campo Grande, no dia em que voltaria a se apresentar na emissora.[^ovpion]
+O livro *[[os-pioneiros|Os Pioneiros]]*, de [[rodrigo-teixeira|Rodrigo Teixeira]], disponibilizado na íntegra no Overmundo em 2010, trata de um Zé Corrêa, sanfoneiro, como um dos pioneiros da música sertaneja do sul de Mato Grosso, entre os nomes que desde os anos 1950 formaram a cena musical da região.[^ovpion] Nesse mesmo texto, o radialista [[juca-ganso|Juca Ganso]] relata que esse Zé Corrêa foi morto em abril de 1974, aos 29 anos, diante da Rádio Educação Rural, em Campo Grande, no dia em que voltaria a se apresentar na emissora.[^ovpion]
 
 Se for a mesma pessoa, a data conflita com a informação de Marin e Pereira de que um Zé Corrêa participou da Comitiva Esperança em 1984.[^hgr] A identidade entre os dois não está comprovada em nenhuma das fontes consultadas, e pode haver dois músicos com o mesmo nome. Também é incerto se o Zé Corrêa de Silus, que aparece entre os "relatos" da seção de música sertaneja e de fronteira, é o sanfoneiro de 1974 ou outro.[^trilhas] O verbete mantém, por ora, as duas informações separadas.
 

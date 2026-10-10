@@ -19,9 +19,9 @@ atualizado: 2026-10-10
 
 A banda foi fundada por Edson David e pelos irmãos Adilson e Marcos Fernandes, que haviam se mudado de São Paulo para Campo Grande. O último show da formação original aconteceu em 1993, no extinto Jamaica Bar.[^cgn2017]
 
-Em 2017, após 24 anos, o grupo retornou aos palcos com show no Blues Bar. A formação era Helder Domingues (guitarra e voz), Neylor Dutra (baixo) e João Bosco (bateria), que havia entrado na banda em 1984.[^cgn2017]
+Em 2017, após 24 anos, o grupo retornou aos palcos com show no Blues Bar. A formação era [[helder-domingues|Helder Domingues]] (guitarra e voz), Neylor Dutra (baixo) e João Bosco (bateria), que havia entrado na banda em 1984.[^cgn2017]
 
-A Alta Tensão está entre as bandas retratadas em [[barulho-do-mato|"Barulho do Mato"]], documentário de 2024 sobre o heavy metal de Campo Grande, dirigido por Lucas Arruda e Mariana Sena.[^cgn2024]
+A Alta Tensão está entre as bandas retratadas em [[barulho-do-mato|"Barulho do Mato"]], documentário de 2024 sobre o heavy metal de Campo Grande, dirigido por [[lucas-arruda|Lucas Arruda]] e [[mariana-sena|Mariana Sena]].[^cgn2024]
 
 Segundo a resenha do blog Roadie Metal, a banda atuava desde 1981 e só lançou o primeiro disco em 1985. O texto a descreve como a principal representante do Centro-Oeste no metal brasileiro da época e diz que outras bandas locais, como Sacrament e Necroterium, não passaram das fitas demo.[^roadie]
 

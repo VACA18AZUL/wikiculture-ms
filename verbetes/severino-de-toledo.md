@@ -18,7 +18,7 @@ atualizado: 2026-10-10
 
 Segundo a pesquisa de Freire, Severino de Toledo publicou *Colméia de Afetos* e *Cintilação de Lâmpadas Suspensas*, além de outros títulos não listados no texto.[^cadec] Segundo o artigo de Godinho e Abrão, ele é um dos poetas mais antigos da região, conhecido pelas trovas, e sua obra é estudada nas escolas.[^philo2021]
 
-Em texto de 2014 republicado no site do Instituto Histórico e Geográfico de Mato Grosso do Sul, a pesquisadora Albana Xavier Nogueira diz que quem pesquisar os jornais de Aquidauana encontrará o nome do poeta Severino de Toledo entre os precursores da literatura local, ainda no tempo do Mato Grosso uno.[^albana]
+Em texto de 2014 republicado no site do Instituto Histórico e Geográfico de Mato Grosso do Sul, a pesquisadora [[albana-xavier-nogueira|Albana Xavier Nogueira]] diz que quem pesquisar os jornais de Aquidauana encontrará o nome do poeta Severino de Toledo entre os precursores da literatura local, ainda no tempo do Mato Grosso uno.[^albana]
 
 ## Para saber mais
 

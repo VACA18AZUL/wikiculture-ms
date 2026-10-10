@@ -18,17 +18,17 @@ atualizado: 2026-10-10
 
 Em março de 2014, uma reportagem dizia que o grupo completava dez anos naquele ano, o que indica criação por volta de 2004. A matéria não dá data exata.[^cgn2014] Em 2020, outra reportagem falava em 15 anos de história. As duas contagens diferem em cerca de um ano e ficam registradas.[^cgn2020]
 
-Uma reportagem de abril de 2012 diz que o grupo existia havia oito anos, o que coincide com a data de cerca de 2004. [[aline-duenha|Aline Duenha]], Mauro Guimarães, [[yago-garcia|Yago Garcia]] e [[laila-pulcherio|Laila Pulchério]] aparecem como integrantes: os três primeiros atuam, dirigem coletivamente e ajudam a escrever projetos, e Laila cuida da administração e da parte técnica. Na época, o grupo dava aulas gratuitas de circo a 30 alunos em um galpão no bairro Sargento Amaral, com recursos públicos, e preparava uma nova montagem.[^cgn2012]
+Uma reportagem de abril de 2012 diz que o grupo existia havia oito anos, o que coincide com a data de cerca de 2004. [[aline-duenha|Aline Duenha]], [[mauro-guimaraes|Mauro Guimarães]], [[yago-garcia|Yago Garcia]] e [[laila-pulcherio|Laila Pulchério]] aparecem como integrantes: os três primeiros atuam, dirigem coletivamente e ajudam a escrever projetos, e Laila cuida da administração e da parte técnica. Na época, o grupo dava aulas gratuitas de circo a 30 alunos em um galpão no bairro Sargento Amaral, com recursos públicos, e preparava uma nova montagem.[^cgn2012]
 
-Em outubro de 2009, segundo texto colaborativo do Overmundo, o grupo estreou *A Encruzilhada – O Último Cabaré* no Teatro Prosa, do Sesc Horto, com apoio do FIC. O texto cita a direção de Larissa Câmara e um elenco de cinco atores: Aline Duenha, Arce Correa, Mauro Guimarães, Luciana Kreutzer e Yago Garcia.[^om2009]
+Em outubro de 2009, segundo texto colaborativo do Overmundo, o grupo estreou *A Encruzilhada – O Último Cabaré* no Teatro Prosa, do Sesc Horto, com apoio do FIC. O texto cita a direção de [[larissa-camara|Larissa Câmara]] e um elenco de cinco atores: Aline Duenha, Arce Correa, Mauro Guimarães, Luciana Kreutzer e Yago Garcia.[^om2009]
 
-Em 2014, estreou *Navalha na carne*, de Plínio Marcos, com direção de Leandro Melo e elenco de Josiane Vargas, Mauro Guimarães e [[yago-garcia|Yago Garcia]]. A montagem recebeu o prêmio Rubéns Corrêa de 2013, da Fundação de Cultura de MS.[^cgn2014]
+Em 2014, estreou *Navalha na carne*, de Plínio Marcos, com direção de [[leandro-melo|Leandro Melo]] e elenco de Josiane Vargas, Mauro Guimarães e [[yago-garcia|Yago Garcia]]. A montagem recebeu o prêmio Rubéns Corrêa de 2013, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]].[^cgn2014]
 
 Em junho de 2020, o grupo fez uma campanha de arrecadação para não fechar as portas durante a pandemia.[^cgn2020]
 
-Em janeiro de 2025, estreou *Ponto de Partida*, descrito como o primeiro solo do grupo em mais de 20 anos. O texto é de Breno Moroni, a direção de João Lima e a atuação de Mauro Guimarães, que interpreta um palhaço idoso à espera de uma última apresentação. Teve sessões em Campo Grande e em Salvador e foi financiado pelo Programa Funarte Retomada 2023 – Circo.[^ce2025][^cgn2025b] Voltou à sede do grupo em 1º e 3 de agosto de 2025, com entrada gratuita.[^cgn2025c]
+Em janeiro de 2025, estreou *Ponto de Partida*, descrito como o primeiro solo do grupo em mais de 20 anos. O texto é de [[breno-moroni|Breno Moroni]], a direção de [[joao-lima|João Lima]] e a atuação de Mauro Guimarães, que interpreta um palhaço idoso à espera de uma última apresentação. Teve sessões em Campo Grande e em Salvador e foi financiado pelo Programa Funarte Retomada 2023 – Circo.[^ce2025][^cgn2025b] Voltou à sede do grupo em 1º e 3 de agosto de 2025, com entrada gratuita.[^cgn2025c]
 
-Em abril de 2025, iniciou o projeto "De Ponto a Ponto", com espetáculo, oficinas e rodas de conversa em cinco pontos de cultura: Ponta Porã, Campo Grande, Aquidauana, Corumbá e Ivinhema. O espetáculo foi *O grandioso mini cirquim nas Arábias*, com apoio da Lei Paulo Gustavo e da Fundação de Cultura de MS.[^cgn2025]
+Em abril de 2025, iniciou o projeto "[[de-ponto-a-ponto|De Ponto a Ponto]]", com espetáculo, oficinas e rodas de conversa em cinco pontos de cultura: Ponta Porã, Campo Grande, Aquidauana, Corumbá e Ivinhema. O espetáculo foi *O grandioso mini cirquim nas Arábias*, com apoio da Lei Paulo Gustavo e da Fundação de Cultura de MS.[^cgn2025]
 
 ## Pantalhaços
 

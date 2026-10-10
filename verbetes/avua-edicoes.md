@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**Avuá Edições** é um selo editorial criado por [[fabio-quill|Fabio Quill]] e pela preparadora de texto Mayara Dempsey.[^cgnha][^cdes]
+**Avuá Edições** é um selo editorial criado por [[fabio-quill|Fabio Quill]] e pela preparadora de texto [[mayara-dempsey|Mayara Dempsey]].[^cgnha][^cdes]
 
 ## Atividade
 

@@ -18,11 +18,11 @@ atualizado: 2026-10-10
 
 Uma dissertação de 2013 o nomeia entre os fundadores do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]], em 1981, e entre os artistas que participaram das exposições do grupo.[^assis]
 
-Em 2013, a Fundação de Cultura de MS o incluiu na mostra *In Memoriam*, que reuniu oito artistas mortos.[^cgn]
+Em 2013, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] o incluiu na mostra *In Memoriam*, que reuniu oito artistas mortos.[^cgn]
 
 A apresentação de seu livro de 2009 o descreve como arqueólogo, pintor, desenhista, gravador e pesquisador.[^rigotti] Ele conta que se interessou por [[lidia-bais|Lídia Baís]] na segunda metade dos anos 1990, quando fez sobre ela a monografia de uma especialização em história do Brasil na UFMS, em Dourados. Em 2001 entrou no mestrado em História da universidade com um projeto sobre as pinturas da artista.[^rigotti]
 
-Segundo um artigo de 2023, coordenou por alguns anos a Unidade Guaicuru de Dourados e incorporou elementos da iconografia kadiwéu à sua pesquisa artística.[^paes] Uma obra sua de 1994-95, em técnica mista (90 x 70 cm), consta da galeria digital Unidade Guaicuru Viva, com indicação de Dourados.[^ug] Em 2007, participou da mostra "Panorama – 30 anos da Divisão do Estado", no [[marco|MARCO]], na geração dos anos 1990, com o nome grafado "Paulo Rigoti".[^dourados]
+Segundo um artigo de 2023, coordenou por alguns anos a Unidade Guaicuru de Dourados e incorporou elementos da iconografia kadiwéu à sua pesquisa artística.[^paes] Uma obra sua de 1994-95, em técnica mista (90 x 70 cm), consta da galeria digital [[unidade-guaicuru-viva|Unidade Guaicuru Viva]], com indicação de Dourados.[^ug] Em 2007, participou da mostra "Panorama – 30 anos da Divisão do Estado", no [[marco|MARCO]], na geração dos anos 1990, com o nome grafado "Paulo Rigoti".[^dourados]
 
 Morreu em 15 de agosto de 2012, em Bonito, aos 48 anos. Um jornal regional o chamou de artista plástico e professor universitário e disse que ele foi um dos idealizadores do Projeto Nace, de cursos gratuitos de educação, esporte e cultura.[^jn]
 

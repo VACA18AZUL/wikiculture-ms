@@ -31,7 +31,7 @@ A Wikipédia em português lista, na filmografia de [[joel-pizzini|Joel Pizzini]
 
 ## Curta de 2021
 
-Uma lista de curtas campo-grandenses publicada em 2021 inclui *Retrato do Artista Quando Coisa*, de 2021, produzido por Larissa Neves e Filipi Silveira, que relembra a trajetória de Manoel de Barros e sua poesia lúdica. A matéria não nomeia o diretor e diz que o filme seria disponibilizado no aniversário de Campo Grande.[^cgn2021] Os títulos são parecidos, mas as fontes não dizem se há relação entre os filmes.[^cgn2019][^cgn2021]
+Uma lista de curtas campo-grandenses publicada em 2021 inclui *Retrato do Artista Quando Coisa*, de 2021, produzido por [[larissa-neves|Larissa Neves]] e [[filipi-silveira|Filipi Silveira]], que relembra a trajetória de Manoel de Barros e sua poesia lúdica. A matéria não nomeia o diretor e diz que o filme seria disponibilizado no aniversário de Campo Grande.[^cgn2021] Os títulos são parecidos, mas as fontes não dizem se há relação entre os filmes.[^cgn2019][^cgn2021]
 
 [^cgn2019]: Thailla Torres, ["Cineasta grava documentário com imagens inéditas de Manoel de Barros"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/cineasta-grava-documentario-com-imagens-ineditas-de-manoel-de-barros), *Campo Grande News*, 10 ago. 2019. Acesso em 8 out. 2026.
 [^cgn2021]: Vanessa Ayala, ["Veja 11 curtas para se encantar com o cinema campo-grandense"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/veja-11-curtas-para-se-encantar-com-o-cinema-campo-grandense), *Campo Grande News*, 23 ago. 2021. Acesso em 8 out. 2026.

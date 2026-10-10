@@ -18,7 +18,7 @@ atualizado: 2026-10-10
 
 Em 2023, organizou a coletânea [[quebra-torto|"Quebra Torto"]], com seis histórias em quadrinhos de 20 páginas de autores locais, financiada por campanha no Catarse.[^cgn2023a]
 
-No mesmo ano lançou a HQ *A Ausente Ordem das Coisas*, que mistura cultura pop, mitologias e lendas de Mato Grosso do Sul, com prefácio do escritor Henrique Komatsu. A obra foi publicada pela Avuá Edições, selo que Quill idealizou com a preparadora de texto Mayara Dempsey.[^cgn2023b] A HQ teve financiamento do Fundo de Investimentos Culturais de MS (FIC), e Quill foi indicado ao Prêmio HQMIX em 2020 e 2022.[^cghq]
+No mesmo ano lançou a HQ *[[a-ausente-ordem-das-coisas|A Ausente Ordem das Coisas]]*, que mistura cultura pop, mitologias e lendas de Mato Grosso do Sul, com prefácio do escritor [[henrique-komatsu|Henrique Komatsu]]. A obra foi publicada pela [[avua-edicoes|Avuá Edições]], selo que Quill idealizou com a preparadora de texto [[mayara-dempsey|Mayara Dempsey]].[^cgn2023b] A HQ teve financiamento do Fundo de Investimentos Culturais de MS (FIC), e Quill foi indicado ao Prêmio HQMIX em 2020 e 2022.[^cghq]
 
 Em 2026, passou a conduzir o programa Quebra Torto On – Formação e Difusão, financiado pelo FIC, que selecionou oito projetos de autores de MS com apoio financeiro, aulas on-line, mentoria e publicação em e-book.[^acr2026a] O programa também promove aulas abertas com quadrinistas convidados.[^acr2026b]
 
@@ -30,11 +30,11 @@ Quill é paulistano e mora em Campo Grande desde 2017, segundo matéria do *Corr
 
 ## Quebra Torto: datas e financiamento
 
-A coletânea *Quebra Torto* foi contemplada pelo Rumos Itaú Cultural 2019-2020. Os autores são Quill, Marina Duarte, Anderson Barboza (Grippho), Neiton Benites e Daniel Shaman. O lançamento on-line foi marcado para 17 de janeiro, em texto publicado em 16 jan. 2023, e o presencial para o dia 22.[^dia2023] Matérias de 2026 sobre o Quebra Torto On datam a coletânea de 2022. As fontes divergem e as duas datas ficam registradas.[^rcn2026][^via2026]
+A coletânea *Quebra Torto* foi contemplada pelo Rumos Itaú Cultural 2019-2020. Os autores são Quill, [[marina-duarte|Marina Duarte]], [[anderson-barboza-grippho|Anderson Barboza]] (Grippho), [[neiton-benites|Neiton Benites]] e [[daniel-shaman|Daniel Shaman]]. O lançamento on-line foi marcado para 17 de janeiro, em texto publicado em 16 jan. 2023, e o presencial para o dia 22.[^dia2023] Matérias de 2026 sobre o Quebra Torto On datam a coletânea de 2022. As fontes divergem e as duas datas ficam registradas.[^rcn2026][^via2026]
 
 ## Quebra Torto On (2026)
 
-Segundo o *RCN67*, as inscrições foram abertas até 22 de agosto de 2026, para autores residentes em MS, individualmente ou em dupla. A formação tem 40 horas-aula, três meses de criação de HQs de 5 a 30 páginas e bolsa de R$ 2,5 mil em duas parcelas, com masterclasses de nomes como Wagner Willian, Fred Hildebrand e Marina Duarte.[^rcn2026] Em 17 set. 2026 foram anunciados oito projetos selecionados entre 41 inscrições.[^via2026]
+Segundo o *RCN67*, as inscrições foram abertas até 22 de agosto de 2026, para autores residentes em MS, individualmente ou em dupla. A formação tem 40 horas-aula, três meses de criação de HQs de 5 a 30 páginas e bolsa de R$ 2,5 mil em duas parcelas, com masterclasses de nomes como [[wagner-willian|Wagner Willian]], [[fred-hildebrand|Fred Hildebrand]] e Marina Duarte.[^rcn2026] Em 17 set. 2026 foram anunciados oito projetos selecionados entre 41 inscrições.[^via2026]
 
 ## Obras
 

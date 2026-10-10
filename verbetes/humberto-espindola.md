@@ -21,7 +21,7 @@ Formou-se em jornalismo na Universidade Católica do Paraná, em 1965.[^itau] Em
 
 Segundo um texto colaborativo do Overmundo, em 1969 a censura do governo militar o impediu de integrar a representação brasileira na Bienal de Paris e, em 1972, ele expôs na Bienal de Veneza.[^om1] Um artigo acadêmico de 2023 também situa sua obra na Bienal de Veneza de 1972.[^diogo]
 
-Em 1973 criou o Museu de Arte e Cultura Popular, ligado à Universidade Federal de Mato Grosso, em Cuiabá, que dirigiu até 1982.[^itau] Um artigo de 2023 data a fundação do museu em janeiro de 1974 e diz que Espíndola o dirigiu.[^diogo] Em 1974 fez um mural para o Palácio Paiaguás, sede do governo de Mato Grosso, e em 1977 recebeu o prêmio de melhor do ano em pintura da Associação Paulista de Críticos de Arte.[^itau]
+Em 1973 criou o [[museu-de-arte-e-cultura-popular|Museu de Arte e Cultura Popular]], ligado à Universidade Federal de Mato Grosso, em Cuiabá, que dirigiu até 1982.[^itau] Um artigo de 2023 data a fundação do museu em janeiro de 1974 e diz que Espíndola o dirigiu.[^diogo] Em 1974 fez um mural para o Palácio Paiaguás, sede do governo de Mato Grosso, e em 1977 recebeu o prêmio de melhor do ano em pintura da Associação Paulista de Críticos de Arte.[^itau]
 
 Em 1983 foi cofundador do Centro de Cultura Referencial de Mato Grosso do Sul.[^itau] Foi o primeiro secretário de cultura do estado. A Wikipédia em português fixa o período em 1986-1990, e a entrevista de 2007 ao Overmundo o dá como 1987-1990.[^wiki][^om1] Em 2003, segundo o Overmundo, aceitou dirigir o [[marco|MARCO]] com a condição de que o governo restaurasse a obra de [[lidia-bais|Lídia Baís]]. Deixou o cargo em dezembro de 2005.[^om2]
 

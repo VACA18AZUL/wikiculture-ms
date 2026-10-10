@@ -22,7 +22,7 @@ Segundo a dissertação, o Movimento Cultural Guaicuru foi criado em 1981, e Kin
 ## Obra
 
 - *500 Anos de Espelhos que Vêm Lá de Fora*, obra creditada a Kinho no material de apoio pedagógico de 2025, no eixo "O Eu e o Outro" (ano não informado).[^tcc2025]
-- *Espera Avessa III*, acrílica sobre tela, 110 x 90 cm, indicada como de Dourados, 1996, na galeria digital Unidade Guaicuru Viva.[^ug]
+- *Espera Avessa III*, acrílica sobre tela, 110 x 90 cm, indicada como de Dourados, 1996, na galeria digital [[unidade-guaicuru-viva|Unidade Guaicuru Viva]].[^ug]
 
 ## Atuação em Dourados
 

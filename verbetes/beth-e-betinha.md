@@ -30,11 +30,11 @@ Betinha morreu em 17 de dezembro de 2025, em Campo Grande.[^cgnko]
 
 ## Início e carreira segundo *Os Pioneiros*
 
-No livro *Os Pioneiros*, de [[rodrigo-teixeira|Rodrigo Teixeira]], as duas contam que nasceram em Entre Rios, nome antigo de Rio Brilhante, e que a família se mudou para Ponta Porã em 1942. Betinha diz que aprendeu violão e acordeom com o pai e que começou a tocar em 1951, aos 10 anos, em outra dupla, chamada Nhô Chico e Nhá Xica.[^pio]
+No livro *[[os-pioneiros|Os Pioneiros]]*, de [[rodrigo-teixeira|Rodrigo Teixeira]], as duas contam que nasceram em Entre Rios, nome antigo de Rio Brilhante, e que a família se mudou para Ponta Porã em 1942. Betinha diz que aprendeu violão e acordeom com o pai e que começou a tocar em 1951, aos 10 anos, em outra dupla, chamada Nhô Chico e Nhá Xica.[^pio]
 
 Pelo depoimento, a dupla Beth e Betinha começou a se apresentar em 16 de junho de 1956, no Clube Amambay, em Pedro Juan Caballero, no Paraguai. Cantavam em castelhano e em guarani. O nome vem do diminutivo de Josabeth, nome de Beth. O apelido "Princesinhas da Fronteira" veio, segundo elas, de um concurso de composição em castelhano e guarani, numa rádio de Assunção, que venceram.[^pio] A mesma história aparece no capítulo de abertura do livro.[^pio]
 
-Entre 1958 e 1959, foram tocar na Rádio PRI-7, em Campo Grande. Nhô Pai, autor de "Beijinho Doce", tinha um circo montado onde hoje fica o Mercadão Municipal. Ele ouviu a dupla no rádio e a convidou para cantar. Ali conheceram a dupla Rodrigues e Rodriguinho, com quem fizeram uma excursão de sete anos por Mato Grosso, a cavalo e de avião pequeno em alguns trechos, em cidades sem energia elétrica.[^pio]
+Entre 1958 e 1959, foram tocar na Rádio PRI-7, em Campo Grande. Nhô Pai, autor de "Beijinho Doce", tinha um circo montado onde hoje fica o Mercadão Municipal. Ele ouviu a dupla no rádio e a convidou para cantar. Ali conheceram a dupla [[rodrigues-e-rodriguinho|Rodrigues e Rodriguinho]], com quem fizeram uma excursão de sete anos por Mato Grosso, a cavalo e de avião pequeno em alguns trechos, em cidades sem energia elétrica.[^pio]
 
 O primeiro disco, de 78 rotações, foi gravado em 1959 em São Paulo, na gravadora Inspiração, com as músicas "Oh, Campo Grande" e "Malvado". Betinha diz que foi disco pago pelas artistas. Em 1964, elas participaram do LP *Os Reis de Mato Grosso*, de Rodrigues e Rodriguinho, e Betinha calcula ter gravado cerca de oito LPs, com um intervalo sem gravar entre 1974 e 1980.[^pio] A discografia do livro lista também *C-10 Branca* (1983), com direção de [[zacarias-mourao|Zacarias Mourão]] e a faixa-título assinada com [[lenilde-ramos|Lenilde Ramos]].[^pio]
 
@@ -42,11 +42,11 @@ Betinha conta que, em 1968, as duas participaram de uma atração chamada "Mulhe
 
 ## Pioneirismo
 
-O Campo Grande News aponta a dupla como a primeira dupla feminina do estado.[^cgnth] No livro, Beth diz que, quando começaram, não havia outra mulher cantando no estado, e Betinha lembra de Delinha, que já cantava com Délio ([[delio-e-delinha|Délio e Delinha]]). Betinha diz ainda que as Irmãs Castro foram a primeira dupla a cantar em guarani, e que ela e Beth se espelhavam nelas.[^pio]
+O Campo Grande News aponta a dupla como a primeira dupla feminina do estado.[^cgnth] No livro, Beth diz que, quando começaram, não havia outra mulher cantando no estado, e Betinha lembra de Delinha, que já cantava com Délio ([[delio-e-delinha|Délio e Delinha]]). Betinha diz ainda que as [[irmas-castro|Irmãs Castro]] foram a primeira dupla a cantar em guarani, e que ela e Beth se espelhavam nelas.[^pio]
 
 ## CD *GerAções* (2006)
 
-Em 2006, as duas gravaram "Flor mato-grossense" no CD *GerAções*, produzido por [[marcio-de-camillo|Márcio de Camillo]], ao lado das cantoras Maria Alice e Maria Cláudia, com viola de [[aurelio-miranda|Aurélio Miranda]]. A canção é de Anacleto Rosas Jr., segundo o Overmundo.[^omflor] Na reportagem sobre o show de lançamento, na Concha Acústica Helena Meirelles, o autor cita as duas, ao lado de [[amambay-e-amambai|Amambay e Amambaí]], como veteranas presentes no palco.[^omshow]
+Em 2006, as duas gravaram "Flor mato-grossense" no CD *[[geracoes|GerAções]]*, produzido por [[marcio-de-camillo|Márcio de Camillo]], ao lado das cantoras Maria Alice e Maria Cláudia, com viola de [[aurelio-miranda|Aurélio Miranda]]. A canção é de Anacleto Rosas Jr., segundo o Overmundo.[^omflor] Na reportagem sobre o show de lançamento, na Concha Acústica [[helena-meirelles|Helena Meirelles]], o autor cita as duas, ao lado de [[amambay-e-amambai|Amambay e Amambaí]], como veteranas presentes no palco.[^omshow]
 
 ## Obras
 

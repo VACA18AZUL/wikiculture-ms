@@ -17,11 +17,11 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-A *Revista da ASL* de 2013 o dá como nascido em 1946, professor e escritor, presidente da Associação dos Novos Escritores de MS (ANE) e fundador do jornal *Arauto*, titular da cadeira 21 da academia.[^rasl24] Uma reportagem de 2015 diz que ele morava havia 37 anos no estado, tinha formação em Teologia e Pedagogia e licenciatura em Educação Escolar.[^jn2015] O site da ASL informa que a cadeira 21 tem como patrono Arlindo de Andrade Gomes e que o antecessor de Reginaldo foi Paulo Coelho Machado.[^aslcad]
+A *Revista da ASL* de 2013 o dá como nascido em 1946, professor e escritor, presidente da [[associacao-dos-novos-escritores-de-ms|Associação dos Novos Escritores de MS]] (ANE) e fundador do jornal *Arauto*, titular da cadeira 21 da academia.[^rasl24] Uma reportagem de 2015 diz que ele morava havia 37 anos no estado, tinha formação em Teologia e Pedagogia e licenciatura em Educação Escolar.[^jn2015] O site da ASL informa que a cadeira 21 tem como patrono Arlindo de Andrade Gomes e que o antecessor de Reginaldo foi [[paulo-coelho-machado|Paulo Coelho Machado]].[^aslcad]
 
 ## Presidência da ASL
 
-Foi eleito para o triênio 2005–2008 e reeleito duas vezes. Tomou posse na renovação do mandato em 31 de outubro de 2008, e o último mandato terminou em 30 de outubro de 2017.[^aslh][^rasl15] Segundo o histórico da academia, reativou projetos tradicionais, entre eles o Chá Acadêmico mensal.[^aslh] Antes disso, a *Revista da ASL* de 2009 o cita como vice-presidente da diretoria aclamada em janeiro de 2003.[^rasl15] A ASL passou então à presidência de Henrique Alberto de Medeiros Filho.[^aslh]
+Foi eleito para o triênio 2005–2008 e reeleito duas vezes. Tomou posse na renovação do mandato em 31 de outubro de 2008, e o último mandato terminou em 30 de outubro de 2017.[^aslh][^rasl15] Segundo o histórico da academia, reativou projetos tradicionais, entre eles o Chá Acadêmico mensal.[^aslh] Antes disso, a *Revista da ASL* de 2009 o cita como vice-presidente da diretoria aclamada em janeiro de 2003.[^rasl15] A ASL passou então à presidência de [[henrique-de-medeiros|Henrique Alberto de Medeiros Filho]].[^aslh]
 
 ## Obras
 
@@ -29,8 +29,8 @@ Foi eleito para o triênio 2005–2008 e reeleito duas vezes. Tomou posse na ren
 - *A outra Mona Lisa*, citada por Freire sem data no trecho lido.[^freire]
 - *Mato Grosso do Sul num sorriso*, poesias, publicado pela ANE em Campo Grande, em 1995, segundo o catálogo do acervo regional do portal ARCA, da Prefeitura de Campo Grande.[^arca]
 - *Águas do Povo*, crônicas e histórias sobre Aquidauana, Life Editora, 2008, segundo o catálogo do ARCA.[^arca] A *Revista da ASL* de 2009 traz uma apresentação do livro, que o descreve em duas partes: uma de ficção e memória, com o rio Aquidauana como cenário, e outra de crônicas.[^rasl15] Ver [[editora-life|Life Editora]].
-- *Itabaiana: deslumbramento de uma época*, crônicas de infância no agreste paraibano, com prefácio de Geraldo Ramon Pereira datado de 6 de abril de 2010.[^rasl18]
-- *Crônicas de um Povo Feliz*, Life Editora, lançado em Campo Grande em 3 de setembro de 2015, no Teatro Aracy Balabanian. Reúne crônicas sobre a história de Campo Grande e de Mato Grosso do Sul e sobre a cidade natal do autor.[^jn2015]
+- *Itabaiana: deslumbramento de uma época*, crônicas de infância no agreste paraibano, com prefácio de [[geraldo-ramon-pereira|Geraldo Ramon Pereira]] datado de 6 de abril de 2010.[^rasl18]
+- *Crônicas de um Povo Feliz*, Life Editora, lançado em Campo Grande em 3 de setembro de 2015, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]]. Reúne crônicas sobre a história de Campo Grande e de Mato Grosso do Sul e sobre a cidade natal do autor.[^jn2015]
 - *Futebol: uma fantástica paixão*, *Futebol Campo-Grandense*, *O Paladino do Pantanal* e *Os Meninos da Poeira*, citados como obras suas, sem dados de edição nas fontes lidas.[^rasl24][^jn2015]
 - *Frei Gregório de Protásio Alves*, citado na lista de obras da revista de 2009.[^rasl15]
 

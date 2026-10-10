@@ -21,9 +21,9 @@ O fotógrafo [[marcelo-santos-braga|Marcelo Santos Braga]] registrou a comunidad
 
 ## Audiovisual
 
-Em 9 de abril de 2022, uma mostra em Dourados exibiu quatro filmes feitos por 15 indígenas do Tekoha Guaviry, no Casulo Espaço de Arte e Cultura. A matéria não identifica os realizadores individualmente.[^cgn2022]
+Em 9 de abril de 2022, uma mostra em Dourados exibiu quatro filmes feitos por 15 indígenas do Tekoha Guaviry, no [[casulo-espaco-de-arte-e-cultura|Casulo Espaço de Arte e Cultura]]. A matéria não identifica os realizadores individualmente.[^cgn2022]
 
-- *Ava Yvy Vera* (Terra do Povo do Raio)[^cgn2022]
+- *[[ava-yvy-vera|Ava Yvy Vera]]* (Terra do Povo do Raio)[^cgn2022]
 - *Yvy Pyte* (Coração da Terra)[^cgn2022]
 - *Pohã Re'yi* (Família dos Remédios)[^cgn2022]
 - *Guahuí Guyra Kuera* (Encanto dos Pássaros)[^cgn2022]

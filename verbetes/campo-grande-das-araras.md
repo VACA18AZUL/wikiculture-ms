@@ -19,11 +19,11 @@ atualizado: 2026-10-10
 
 O filme principal trata da migração das araras-canindé do Pantanal de Mato Grosso do Sul para Campo Grande, com suas causas e efeitos. Cinco vídeos complementares abordam outros aspectos da vida das aves, e imagens de drone mostram a cidade do ponto de vista delas. A equipe acompanhou as aves por quase um ano e entrevistou moradores, pesquisadores e observadores de aves.[^cgn2021b]
 
-Outra matéria descreve o filme como um retrato da cidade pelo olhar das araras, com o modo de vida, a alimentação, a convivência com as pessoas e os riscos urbanos à sobrevivência da espécie. Indica duração de cerca de 27 minutos.[^cgn2021a] O *Correio do Estado* informou duração de 30 minutos, com entrevistas de pesquisadores do Instituto Arara Azul e do Centro de Reabilitação de Animais Silvestres e de fotógrafos. As duas durações ficam registradas.[^ce2021]
+Outra matéria descreve o filme como um retrato da cidade pelo olhar das araras, com o modo de vida, a alimentação, a convivência com as pessoas e os riscos urbanos à sobrevivência da espécie. Indica duração de cerca de 27 minutos.[^cgn2021a] O *Correio do Estado* informou duração de 30 minutos, com entrevistas de pesquisadores do [[instituto-arara-azul|Instituto Arara Azul]] e do Centro de Reabilitação de Animais Silvestres e de fotógrafos. As duas durações ficam registradas.[^ce2021]
 
 ## Projeto multimídia
 
-O site do projeto o apresenta como um trabalho multimídia, que inclui filmes, o Bosque das Araras e o Circuito das Araras. Os idealizadores são [[lu-bigattao|Lú Bigattão Rios]], [[rosiney-bigattao|Rosiney Bigattão]] e Carlos Diehl, e o projeto teve parceria do Instituto Arara Azul, da TV Morena e do Imasul.[^site]
+O site do projeto o apresenta como um trabalho multimídia, que inclui filmes, o Bosque das Araras e o Circuito das Araras. Os idealizadores são [[lu-bigattao|Lú Bigattão Rios]], [[rosiney-bigattao|Rosiney Bigattão]] e [[carlos-diehl|Carlos Diehl]], e o projeto teve parceria do Instituto Arara Azul, da [[tv-morena|TV Morena]] e do Imasul.[^site]
 
 O Bosque das Araras foi plantado no Parque das Nações Indígenas, com 50 mudas de árvores e palmeiras usadas na alimentação das aves, sob coordenação do viverista Nereu Rios. O Circuito das Araras reúne totens com informações e código QR, criados pelo arquiteto e fotógrafo Marcelo Oliveira, em cinco pontos: Lagoa Itatiaia, UFMS, Parque das Nações Indígenas, canteiro da avenida Afonso Pena e locomotiva da Orla Ferroviária.[^site][^ce2021]
 

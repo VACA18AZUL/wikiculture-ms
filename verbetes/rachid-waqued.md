@@ -15,11 +15,11 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Sua obra reúne registros feitos ao longo de mais de quatro décadas, organizados em seis eixos: cultura, natureza, indústrias e infraestrutura, colaboradores e coordenadores do estado e arquitetura urbana. As fotos incluem manifestações culturais, paisagens, obras de infraestrutura, trabalhadores, lideranças políticas e panorâmicas urbanas, entre elas imagens de Bonito e dos cantores Délio e Delinha.[^acr2026]
+Sua obra reúne registros feitos ao longo de mais de quatro décadas, organizados em seis eixos: cultura, natureza, indústrias e infraestrutura, colaboradores e coordenadores do estado e arquitetura urbana. As fotos incluem manifestações culturais, paisagens, obras de infraestrutura, trabalhadores, lideranças políticas e panorâmicas urbanas, entre elas imagens de Bonito e dos cantores [[delio-e-delinha|Délio e Delinha]].[^acr2026]
 
 Em 2023, participou da pesquisa do curta [[a-magica-da-foto-lambe-lambe|"A mágica da foto lambe lambe"]], de [[marineti-pinheiro|Marineti Pinheiro]], sobre os fotógrafos lambe-lambe da Praça Ary Coelho.[^cgn2023]
 
-Em 2026, foi o homenageado da exposição [[fotografia-e-memoria|"Fotografia e Memória"]], no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]], que abriu as celebrações dos 50 anos do estado. A mostra, dentro do projeto Rota Cine MS da Fundação de Cultura, teve curadoria compartilhada por ele, Melly Senna, Cris Freire, Ligia Rocha, Pedro Ortale e Elis Regina, e um painel com outros 14 fotógrafos sul-mato-grossenses.[^acr2026]
+Em 2026, foi o homenageado da exposição [[fotografia-e-memoria|"Fotografia e Memória"]], no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]], que abriu as celebrações dos 50 anos do estado. A mostra, dentro do projeto Rota Cine MS da Fundação de Cultura, teve curadoria compartilhada por ele, [[melly-senna|Melly Senna]], [[cris-freire|Cris Freire]], [[ligia-rocha|Ligia Rocha]], [[pedro-ortale|Pedro Ortale]] e Elis Regina, e um painel com outros 14 fotógrafos sul-mato-grossenses.[^acr2026]
 
 ## Formação e carreira
 
@@ -29,7 +29,7 @@ A reportagem registra ainda formação em História e Artes Visuais, pós-gradua
 
 ## Exposições
 
-Em 2017, a exposição "Noroeste do Brasil: um trem para o Oeste" foi aberta em 22 de agosto no Sesc Morada dos Baís, dentro da programação do aniversário de Campo Grande, e ficou em cartaz até 30 de setembro. Reuniu 20 fotos feitas entre 1985 e 2012, em sua maioria anteriores a 1996, ano em que o trem de passageiros deixou de circular, com cenas da capital e de pontos do Pantanal como Miranda e Porto Esperança.[^cgn2017]
+Em 2017, a exposição "Noroeste do Brasil: um trem para o Oeste" foi aberta em 22 de agosto no Sesc [[morada-dos-bais|Morada dos Baís]], dentro da programação do aniversário de Campo Grande, e ficou em cartaz até 30 de setembro. Reuniu 20 fotos feitas entre 1985 e 2012, em sua maioria anteriores a 1996, ano em que o trem de passageiros deixou de circular, com cenas da capital e de pontos do Pantanal como Miranda e Porto Esperança.[^cgn2017]
 
 Sobre "Fotografia e Memória", o Correio do Estado informou que a mostra abriria em 26 de fevereiro de 2026, às 19h, com visitação gratuita até 30 de abril, como parte do projeto Rota Cine MS. Entre os registros do eixo Cultura estão a entrega da Bandeira do Divino em Coxim; o eixo Natureza inclui o Pantanal do Rio Negro. No eixo Coordenadores de MS, a mostra reúne retratos de todos os governadores do estado.[^ce2026]
 

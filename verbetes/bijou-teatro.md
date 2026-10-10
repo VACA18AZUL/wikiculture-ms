@@ -29,7 +29,7 @@ Segundo Siqueira, a sala tinha 500 lugares, 34 camarotes e galerias, com palco p
 
 A dissertação registra, em 1911, um número de ilusionismo e a apresentação do transformista Henrique Fredolli. Em 1912, registra uma matinê para crianças das escolas públicas da Companhia Citá de Milano e a estreia de uma companhia de óperas e operetas com 53 integrantes.[^santos]
 
-Uma resenha de 2003 sobre o livro *Corumbá de todas as graças*, de Augusto César Proença, diz que o Theatro Bijou ficava na parte alta da cidade e encenava peças de centros como Buenos Aires e Rio de Janeiro, além de obras europeias. A resenha o associa ao ar cosmopolita de Corumbá no auge do comércio fluvial, antes da Primeira Guerra.[^domingos]
+Uma resenha de 2003 sobre o livro *Corumbá de todas as graças*, de [[augusto-cesar-proenca|Augusto César Proença]], diz que o Theatro Bijou ficava na parte alta da cidade e encenava peças de centros como Buenos Aires e Rio de Janeiro, além de obras europeias. A resenha o associa ao ar cosmopolita de Corumbá no auge do comércio fluvial, antes da Primeira Guerra.[^domingos]
 
 ## Outras fontes
 

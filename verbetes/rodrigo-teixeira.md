@@ -17,7 +17,7 @@ atualizado: 2026-10-10
 
 Escreveu *Os Pioneiros: a origem da música sertaneja em Mato Grosso do Sul*. Segundo o artigo de Alan Silus, a primeira edição é de 2010 e a segunda, de 2014, com apoio da UFMS. O mesmo artigo cita "Teixeira (2012)", o que aparenta ser uma inconsistência nas referências.[^trilhas] O PDF do livro, divulgado no Overmundo, traz copyright de 2009 e "1ª edição, dezembro 2009", e o Overmundo o divulgou em 15 de janeiro de 2010. As datas divergem.[^pdfpio][^ovpio]
 
-Em 2014, o Museu da Imagem e do Som (MIS), ligado à Fundação de Cultura de Mato Grosso do Sul, abriu uma exposição com um recorte de *Os Pioneiros*, desenvolvido a partir do trabalho de Teixeira. O acervo de discos exibido foi doado pelo projeto Memória Fonográfica.[^cgn]
+Em 2014, o [[mis-ms|Museu da Imagem e do Som]] (MIS), ligado à [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], abriu uma exposição com um recorte de *[[os-pioneiros|Os Pioneiros]]*, desenvolvido a partir do trabalho de Teixeira. O acervo de discos exibido foi doado pelo projeto Memória Fonográfica.[^cgn]
 
 Em 2016, publicou *Prata da Casa: um marco da música sul-mato-grossense*.[^trilhas]
 
@@ -25,19 +25,19 @@ Em 2016, publicou *Prata da Casa: um marco da música sul-mato-grossense*.[^tril
 
 Um usuário do Overmundo com o mesmo nome, de Campo Grande, publicou entre 2006 e 2011 dezenas de textos sobre a música e a cultura do estado. Ele se apresenta como autor de canções e como jornalista, e um texto de outro colaborador o chama de "cantautor".[^ovnav][^ovrol] Pela atividade descrita (música, jornalismo e livros sobre a música local), tudo indica tratar-se da mesma pessoa deste verbete, mas as fontes não afirmam a identidade. Os fatos desta seção valem com essa ressalva.
 
-Nesses textos, ele diz que compôs "Navegantes" em 1988, no primeiro ano de jornalismo, em Mogi das Cruzes (SP), e que a canção saiu no disco *Sambone*, de 1998, hoje esgotado.[^ovnav] Gravou "Salinger Polck", uma polca-rock, na coletânea *Novidade Nativa* (2005), coordenada por Geraldo Roca, com a banda Mandioca Loca.[^ovsal] Em 2006, gravou "Colisão", de Jerry Espíndola e Ciro Pinheiro, com [[alzira-espindola|Alzira Espíndola]], no CD *Gerações*, produzido por [[marcio-de-camillo|Márcio de Camillo]] com patrocínio da Petrobras. O lançamento foi em 17 de setembro de 2006, na Concha Acústica do Parque das Nações Indígenas, em Campo Grande.[^ovcol][^ovclube] Em 2010, formou com [[jerry-espindola|Jerry Espíndola]] e Márcio de Camillo o projeto *Hermanos Irmãos*, cujo show de lançamento foi em 30 de outubro daquele ano, no Teatro Prosa, do Sesc Horto.[^ovherm]
+Nesses textos, ele diz que compôs "Navegantes" em 1988, no primeiro ano de jornalismo, em Mogi das Cruzes (SP), e que a canção saiu no disco *Sambone*, de 1998, hoje esgotado.[^ovnav] Gravou "Salinger Polck", uma polca-rock, na coletânea *Novidade Nativa* (2005), coordenada por [[geraldo-roca|Geraldo Roca]], com a banda Mandioca Loca.[^ovsal] Em 2006, gravou "Colisão", de Jerry Espíndola e Ciro Pinheiro, com [[alzira-espindola|Alzira Espíndola]], no CD *Gerações*, produzido por [[marcio-de-camillo|Márcio de Camillo]] com patrocínio da Petrobras. O lançamento foi em 17 de setembro de 2006, na Concha Acústica do Parque das Nações Indígenas, em Campo Grande.[^ovcol][^ovclube] Em 2010, formou com [[jerry-espindola|Jerry Espíndola]] e Márcio de Camillo o projeto *[[hermanos-irmaos|Hermanos Irmãos]]*, cujo show de lançamento foi em 30 de outubro daquele ano, no Teatro Prosa, do Sesc Horto.[^ovherm]
 
 Em reportagem de 2009 sobre uma visita a Campo Grande, o músico paraguaio Rolando Chaparro diz que a parceria com Teixeira nasceu de uma viagem dele a Assunção em 2004, e que Teixeira participou do lançamento do disco *Afropolka 2*, na capital paraguaia.[^ovrol]
 
 ## Sobre *Os Pioneiros*
 
-Em janeiro de 2010, antes da edição em papel, Teixeira publicou o livro na íntegra no Overmundo e escreveu, na apresentação, que a pesquisa começou em 2008. Disse que partiu de um projeto sobre Délio & Delinha e ampliou o escopo para outros nomes, como Zacarias Mourão e [[ze-correa|Zé Corrêa]]. Segundo ele, o livro reúne entrevistas, discografia restrita a LPs e compactos, dados biográficos e a catalogação de 110 álbuns e 1.149 músicas.[^ovpio] O texto de apresentação cita também [[beth-e-betinha|Beth & Betinha]], [[amambay-e-amambai|Amambay & Amambaí]], [[dino-rocha|Dino Rocha]], [[tostao-e-guarany|Tostão & Guarany]] e [[aurelio-miranda|Aurélio Miranda]].[^ovpio]
+Em janeiro de 2010, antes da edição em papel, Teixeira publicou o livro na íntegra no Overmundo e escreveu, na apresentação, que a pesquisa começou em 2008. Disse que partiu de um projeto sobre Délio & Delinha e ampliou o escopo para outros nomes, como [[zacarias-mourao|Zacarias Mourão]] e [[ze-correa|Zé Corrêa]]. Segundo ele, o livro reúne entrevistas, discografia restrita a LPs e compactos, dados biográficos e a catalogação de 110 álbuns e 1.149 músicas.[^ovpio] O texto de apresentação cita também [[beth-e-betinha|Beth & Betinha]], [[amambay-e-amambai|Amambay & Amambaí]], [[dino-rocha|Dino Rocha]], [[tostao-e-guarany|Tostão & Guarany]] e [[aurelio-miranda|Aurélio Miranda]].[^ovpio]
 
 Em 2011, Teixeira publicou no Overmundo o texto "A Música Sertaneja de MS", escrito para o projeto *Do Caipira ao Digital*, que ele diz marcar o lançamento da Matula Editora.[^ovsert]
 
 ## Sobre *Prata da Casa*
 
-Segundo Silus, o livro de 2016 narra a história do projeto *Prata da Casa*, da UFMS, e reúne 21 entrevistas, notícias, fotogramas e links. O projeto reuniu em 1982 uma geração de artistas, e Teixeira também é citado como fonte sobre o ciclo de eventos *Músicas & Sons*, de 2012.[^trilhas]
+Segundo Silus, o livro de 2016 narra a história do projeto *[[prata-da-casa|Prata da Casa]]*, da UFMS, e reúne 21 entrevistas, notícias, fotogramas e links. O projeto reuniu em 1982 uma geração de artistas, e Teixeira também é citado como fonte sobre o ciclo de eventos *[[musicas-e-sons-2012|Músicas & Sons]]*, de 2012.[^trilhas]
 
 ## Obras
 

@@ -16,9 +16,9 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Em 2010, entraram para a companhia Glaucia Pires e [[douglas-moreira|Douglas Moreira]]. Na mesma época formou-se um núcleo de pesquisa em torno do trabalho com palhaço no contexto teatral.[^vieira]
+Em 2010, entraram para a companhia [[glaucia-pires|Glaucia Pires]] e [[douglas-moreira|Douglas Moreira]]. Na mesma época formou-se um núcleo de pesquisa em torno do trabalho com palhaço no contexto teatral.[^vieira]
 
-O espetáculo *Cadê?!* estreou em março de 2012, no projeto Teatro na Orla, com Glaucia Pires, Douglas Moreira e Thathy d'Meo. Entre 2012 e 2015 teve 60 apresentações, em escolas, mostras de teatro e palhaços e projetos do Sesc. Em 2013 e 2014 circulou por dez cidades do estado pelo Circuito Sul-mato-grossense de Teatro.[^vieira]
+O espetáculo *Cadê?!* estreou em março de 2012, no projeto Teatro na Orla, com Glaucia Pires, Douglas Moreira e [[thathy-dmeo|Thathy d'Meo]]. Entre 2012 e 2015 teve 60 apresentações, em escolas, mostras de teatro e palhaços e projetos do Sesc. Em 2013 e 2014 circulou por dez cidades do estado pelo Circuito Sul-mato-grossense de Teatro.[^vieira]
 
 Em uma montagem de *Cadê?!* apresentada no Teatro Prosa, em Campo Grande, em 27 de maio, a direção é de Thathy d'Meo e o elenco reúne Douglas Moreira, Thathy d'Meo e Glaucia Pires. A trilha é creditada à companhia.[^boca]
 

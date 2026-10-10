@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**Lídia Baís** (Campo Grande, 1900 – 1985) foi uma pintora sul-mato-grossense, apontada pela imprensa local como uma das artistas mais importantes de Mato Grosso do Sul.[^cgn2025] Paulo Rigotti, em livro de 2009, dá como datas 22 de abril de 1900 e 19 de outubro de 1985.[^rigotti] O texto colaborativo do Overmundo, de 2006, escreve 1901 para o nascimento.[^om]
+**Lídia Baís** (Campo Grande, 1900 – 1985) foi uma pintora sul-mato-grossense, apontada pela imprensa local como uma das artistas mais importantes de Mato Grosso do Sul.[^cgn2025] [[paulo-rigotti|Paulo Rigotti]], em livro de 2009, dá como datas 22 de abril de 1900 e 19 de outubro de 1985.[^rigotti] O texto colaborativo do Overmundo, de 2006, escreve 1901 para o nascimento.[^om]
 
 ## Trajetória
 
@@ -35,7 +35,7 @@ Entre as obras conhecidas estão *Última Ceia de Nosso Senhor Jesus Cristo*, ó
 
 O acervo da artista foi doado à [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] por sua sobrinha, Nelly Martins.[^cgn2025] Parte das obras integra o acervo do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]].[^cgn2025]
 
-Segundo o Overmundo, [[humberto-espindola|Humberto Espíndola]] aceitou dirigir o MARCO em 2003 com a condição de que o governo restaurasse a obra de Lídia. Em dezembro de 2005, 25 quadros haviam sido restaurados pela restauradora Áurea Katsuren. Cinco obras foram cedidas, por comodato, à Morada dos Baís, casarão da família que pertence ao município.[^om] Em 2005 ela foi uma das homenageadas do Festival América do Sul.[^om][^wiki]
+Segundo o Overmundo, [[humberto-espindola|Humberto Espíndola]] aceitou dirigir o MARCO em 2003 com a condição de que o governo restaurasse a obra de Lídia. Em dezembro de 2005, 25 quadros haviam sido restaurados pela restauradora Áurea Katsuren. Cinco obras foram cedidas, por comodato, à [[morada-dos-bais|Morada dos Baís]], casarão da família que pertence ao município.[^om] Em 2005 ela foi uma das homenageadas do Festival América do Sul.[^om][^wiki]
 
 A Itaú Cultural lista mostras com sua obra em Campo Grande em 1990 (de 15 de agosto a 14 de setembro), em 2004 e em 2009.[^itau] Em maio de 2025, os 125 anos de seu nascimento foram lembrados na exposição "As várias faces de Lídia Baís", montada no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]] com obras do acervo do MARCO, dentro da programação da Semana Nacional de Museus.[^cgn2025]
 

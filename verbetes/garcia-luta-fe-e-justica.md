@@ -24,7 +24,7 @@ A HQ se passa no século XIX e acompanha Januário Garcia Leal, conhecido como G
 
 O autor dedicou cinco anos de pesquisa ao projeto, inspirado por um relato familiar ouvido na infância.[^cm2024] As 136 pranchas foram desenhadas à mão, com nanquim.[^cgn2024]
 
-A publicação teve financiamento do Fundo de Investimentos Culturais de Mato Grosso do Sul (FIC) e saiu pela Life Editora. O lançamento, com entrada gratuita, aconteceu no Sindicato dos Bancários de Campo Grande.[^cgn2024][^cm2024]
+A publicação teve financiamento do Fundo de Investimentos Culturais de Mato Grosso do Sul (FIC) e saiu pela [[editora-life|Life Editora]]. O lançamento, com entrada gratuita, aconteceu no Sindicato dos Bancários de Campo Grande.[^cgn2024][^cm2024]
 
 ## Contexto da produção
 

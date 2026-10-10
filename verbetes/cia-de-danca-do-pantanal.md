@@ -13,17 +13,17 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-A **Cia. de Dança do Pantanal** é uma companhia de dança de Corumbá vinculada ao Instituto Moinho Cultural Sul-Americano.[^cgn2022]
+A **Cia. de Dança do Pantanal** é uma companhia de dança de Corumbá vinculada ao [[instituto-moinho-cultural-sul-americano|Instituto Moinho Cultural Sul-Americano]].[^cgn2022]
 
 ## Trajetória
 
-Em setembro de 2022, a companhia representou Mato Grosso do Sul no festival Dança em Trânsito, em Paris, com o espetáculo *Carne Quebrada*, inspirado no romance *A Carne*, de Júlio Ribeiro (1888). A coreografia é de Wellington Júlio, que também dança, com direção de Rolando Candia e direção artística de Márcia Rolon. Os bailarinos eram Agustin Salcedo Martin, Núbia Santos e Wellington Júlio.[^cgn2022]
+Em setembro de 2022, a companhia representou Mato Grosso do Sul no festival Dança em Trânsito, em Paris, com o espetáculo *[[carne-quebrada|Carne Quebrada]]*, inspirado no romance *A Carne*, de Júlio Ribeiro (1888). A coreografia é de [[wellington-julio|Wellington Júlio]], que também dança, com direção de [[rolando-candia|Rolando Candia]] e direção artística de [[marcia-rolon|Márcia Rolon]]. Os bailarinos eram Agustin Salcedo Martin, Núbia Santos e Wellington Júlio.[^cgn2022]
 
 Segundo reportagem de 2026, a companhia completou nove anos naquele ano, o que a situa em 2017; em 2023, a diretora do instituto falava em seis anos de existência. O Instituto Moinho Cultural Sul-Americano foi fundado em 2004, em Corumbá, e mantém também a Orquestra de Câmara do Pantanal. A companhia é formada por intérpretes-criadores que passaram pela formação do instituto.[^ac2026][^cc2023]
 
 Em 2023, o instituto lançou novas marcas para a companhia e para a orquestra; a da companhia combina o voo da garça-branca com o movimento dos bailarinos.[^cc2023]
 
-Em 2024, apresentou *Janela do Dia* na [[semana-pra-danca|Semana Pra Dança]], em Campo Grande, evento organizado pelo Colegiado Estadual de Dança de MS e pela Associação Arado Cultural.[^cgn2024] O espetáculo abriu a programação em 30 de setembro, no teatro Aracy Balabanian, com Libras. Márcia Rolon o apresentou como trabalho do coreógrafo Wellington Júlio, que morou em Corumbá, e disse que trata de novos olhares e de preconceito.[^eusoums2024]
+Em 2024, apresentou *Janela do Dia* na [[semana-pra-danca|Semana Pra Dança]], em Campo Grande, evento organizado pelo [[colegiado-estadual-de-danca-de-ms|Colegiado Estadual de Dança de MS]] e pela [[associacao-arado-cultural|Associação Arado Cultural]].[^cgn2024] O espetáculo abriu a programação em 30 de setembro, no [[teatro-aracy-balabanian|teatro Aracy Balabanian]], com Libras. Márcia Rolon o apresentou como trabalho do coreógrafo Wellington Júlio, que morou em Corumbá, e disse que trata de novos olhares e de preconceito.[^eusoums2024]
 
 Em fevereiro de 2026, apresentou *Estado Fantasma II* no Sesc Teatro Prosa, em Campo Grande, com entrada gratuita. A obra parte do livro *A Queda do Céu*, de Davi Kopenawa e Bruce Albert. Tem direção geral de Márcia Rolon, dramaturgia e concepção coreográfica de Fernando Martins, e luz de Rodrigo Silbat. O elenco reúne Agustin Salcedo, Aline Espírito Santo, Izabelle Paiva, Kelven Alex, Marcos Souza, Nayara Conceição, Núbia Santos, Luz Coelho e Pedro de Barros.[^cc2026]
 

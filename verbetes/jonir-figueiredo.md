@@ -21,29 +21,29 @@ atualizado: 2026-10-10
 
 Em 2016, uma reportagem o descrevia como autodidata, pintor, desenhista, gravador, performer cultural e arte-educador. Expôs em Portugal, na Alemanha e em Nova York, onde se apresentou na ONU, e presidiu três vezes a Associação dos Artistas Plásticos de MS.[^fcms]
 
-O site Unidade Guaicuru Viva registra que ele era bacharel em Educação Artística pelas Faculdades Unidas de Marília (SP) e que fez sua primeira obra aos 19 anos. O texto diz que ele expôs em outros estados, no Mercosul, no Japão, em cinco cidades da União Soviética, na Europa e na ONU, em Nova York.[^ugv]
+O site [[unidade-guaicuru-viva|Unidade Guaicuru Viva]] registra que ele era bacharel em Educação Artística pelas Faculdades Unidas de Marília (SP) e que fez sua primeira obra aos 19 anos. O texto diz que ele expôs em outros estados, no Mercosul, no Japão, em cinco cidades da União Soviética, na Europa e na ONU, em Nova York.[^ugv]
 
 Em 2008, a exposição *Síntese da Criatividade – Ecologia Pantaneira*, no Espaço Cultural do Kikão Restaurante, em Dourados, reuniu gravuras impressas a laser. O curador foi Cello Lima, e a mostra marcou 40 anos de atividade do artista, segundo o jornal. A matéria cita as séries *Colete de Jacaré – Export Brazil*, sobre a matança de jacarés no Pantanal, *Nativo Export Brazil I e II* e *Mapas do Paraíso – Pantanal Brazil*.[^da08]
 
 Em fevereiro de 2014, ele fez em Campo Grande a exposição *Do Pantanal a Nova York*, para custear a viagem à mostra *MS Visto pelo Mundo*, na sede da ONU, de 12 a 27 de março de 2014. Ele era o curador da parte de artes plásticas dessa mostra e levaria o solo *Pantaneiro Guaicuru*, fantasia premiada em 2011. A notícia diz que, no ano anterior, ele havia se apresentado na Alemanha.[^da14]
 
-Um texto do Primeira Página informa que ele fez sua primeira exposição na sede da Prefeitura de Paris, a convite da escritora Mazé Torquato Choril. A página não traz o ano.[^pp]
+Um texto do Primeira Página informa que ele fez sua primeira exposição na sede da Prefeitura de Paris, a convite da escritora [[maze-torquato-choril|Mazé Torquato Choril]]. A página não traz o ano.[^pp]
 
 Desde dezembro de 2005, ele organizava o Sarau Cultural da Praça das Araras, no bairro Amambaí, em Campo Grande, que acontecia mensalmente, segundo texto colaborativo do Overmundo de 2007.[^ovpraca]
 
 ## Obra
 
-O catálogo do MARCO diz que sua obra se inspira no Pantanal, com ipês, angicos, aroeiras, canafístulas e fauna, e o considera um dos ícones da arte sul-mato-grossense.[^marco] Uma dissertação de 2013 o aponta como um dos fundadores do Movimento Cultural Guaicuru, ao lado de [[henrique-spengler|Henrique Spengler]], e cita sua obra *Jacaré*.[^assis]
+O catálogo do [[marco|MARCO]] diz que sua obra se inspira no Pantanal, com ipês, angicos, aroeiras, canafístulas e fauna, e o considera um dos ícones da arte sul-mato-grossense.[^marco] Uma dissertação de 2013 o aponta como um dos fundadores do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]], ao lado de [[henrique-spengler|Henrique Spengler]], e cita sua obra *Jacaré*.[^assis]
 
 O pesquisador Gilberto Luiz Alves considera sua produção a mais distante, em tema, das demais do grupo guaicuru, e a vê como pioneira no estado por tornar central a questão ecológica. Ele cita os desenhos de coletes de jacaré, com a etiqueta "Brazil Export", feitos quando caçadores de couro operavam no Pantanal, e a série *Mapas do Paraíso*, que relê levantamentos topográficos do pai do artista. Entre as obras reproduzidas no texto está *Colete de jacaré* (técnica mista, década de 1980).[^alves]
 
 ## Movimento Cultural Guaicuru
 
-O site Unidade Guaicuru Viva diz que ele esteve na Unidade Guaicuru desde a criação, foi importante continuador do movimento e coordenou o grupo em Campo Grande enquanto [[henrique-spengler|Henrique Spengler]] trabalhava em Coxim. Ele também assina a curadoria das Mostras Guaicuru de Artes, em formato digital.[^ugv2] Quando Spengler morreu, em 2003, ele criou, com Wagner Rondon e Paulo Carvalho, o espetáculo *O Voo do Guerreiro Guaicuru*.[^ugv]
+O site Unidade Guaicuru Viva diz que ele esteve na Unidade Guaicuru desde a criação, foi importante continuador do movimento e coordenou o grupo em Campo Grande enquanto [[henrique-spengler|Henrique Spengler]] trabalhava em Coxim. Ele também assina a curadoria das Mostras Guaicuru de Artes, em formato digital.[^ugv2] Quando Spengler morreu, em 2003, ele criou, com [[wagner-rondon|Wagner Rondon]] e [[paulo-carvalho|Paulo Carvalho]], o espetáculo *[[o-voo-do-guerreiro-guaicuru|O Voo do Guerreiro Guaicuru]]*.[^ugv]
 
 ## Morte e homenagens
 
-O artista morreu em Bonito, na manhã de 26 de julho de 2025, depois de ir à abertura do Festival Bonito CineSur. A Fundação de Cultura de MS divulgou nota de pesar.[^dd] Em agosto de 2025, o Museu de História do Pantanal (MUHPAN), de Corumbá, abriu a exposição *Jonir*, em sua homenagem, de 5 a 29 de agosto.[^muhpan]
+O artista morreu em Bonito, na manhã de 26 de julho de 2025, depois de ir à abertura do Festival Bonito CineSur. A [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] divulgou nota de pesar.[^dd] Em agosto de 2025, o Museu de História do Pantanal (MUHPAN), de Corumbá, abriu a exposição *Jonir*, em sua homenagem, de 5 a 29 de agosto.[^muhpan]
 
 ## Para saber mais
 

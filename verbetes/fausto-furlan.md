@@ -14,13 +14,13 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-A exposição, intitulada "Primeira Exposição de Pinturas dos Artistas Mato-grossenses", ocorreu em outubro de 1966 no Rádio Clube, com artistas de Cuiabá, Campo Grande e cidades do sul do estado. Foi organizada por [[aline-figueiredo|Aline Figueiredo]] e [[adelaide-vieira|Adelaide Vieira]], com apoio de [[humberto-espindola|Humberto Espíndola]].[^assis2013]
+A exposição, intitulada "Primeira Exposição de Pinturas dos Artistas Mato-grossenses", ocorreu em outubro de 1966 no [[radio-clube-campo-grande|Rádio Clube]], com artistas de Cuiabá, Campo Grande e cidades do sul do estado. Foi organizada por [[aline-figueiredo|Aline Figueiredo]] e [[adelaide-vieira|Adelaide Vieira]], com apoio de [[humberto-espindola|Humberto Espíndola]].[^assis2013]
 
 Um material didático de 2025 da UFMS o inclui entre os artistas citados como atuantes antes dos anos 1960, com [[reginaldo-araujo|Reginaldo Araújo]].[^souza2025]
 
 A [[exposicao-pintores-mato-grossenses-1966|exposição de 1966]] é tema de divergência. A dissertação de Assis o inclui entre os artistas participantes.[^assis2013] Já um texto de apresentação da sala de acervo do [[marco|MARCO]], sem autoria indicada na página, afirma que Fausto Furlan, de origem italiana, não participou dessa coletiva. O mesmo texto o descreve como professor de pintura e retratista, preferido dos gabinetes políticos, que recompõe em suas telas figuras e locais históricos de Campo Grande e personalidades contemporâneas.[^marcolonga] Este verbete registra as duas versões, sem escolher.
 
-Em julho de 2018, a Prefeitura de Campo Grande divulgou a exposição *Retratos de Campo Grande – Ontem Hoje*, na Galeria de Vidro da Plataforma Cultural, com obras dele sobre a cidade e os imigrantes da década de 1970. A nota o apresenta como artista italiano, pintor e coreógrafo, nascido em 1927 em Oderzo, que passou por grandes cidades brasileiras e por países da América do Sul e da Europa antes de escolher Campo Grande para morar.[^cg2018]
+Em julho de 2018, a Prefeitura de Campo Grande divulgou a exposição *Retratos de Campo Grande – Ontem Hoje*, na [[galeria-de-vidro|Galeria de Vidro]] da Plataforma Cultural, com obras dele sobre a cidade e os imigrantes da década de 1970. A nota o apresenta como artista italiano, pintor e coreógrafo, nascido em 1927 em Oderzo, que passou por grandes cidades brasileiras e por países da América do Sul e da Europa antes de escolher Campo Grande para morar.[^cg2018]
 
 A Enciclopédia Itaú Cultural registra um evento intitulado *Individual de Fausto Furlan*. A página consultada não traz data nem local legíveis.[^itau-evento]
 

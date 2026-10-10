@@ -16,15 +16,15 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Em novembro de 2007, o grupo foi um dos participantes do Circuito Dança do Mato, projeto da Fundação de Cultura de MS e da Prefeitura de Três Lagoas, que apresentava um panorama da dança no estado. A prefeitura só cita o nome do grupo na lista de participantes.[^tl2007]
+Em novembro de 2007, o grupo foi um dos participantes do [[circuito-danca-do-mato|Circuito Dança do Mato]], projeto da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] e da Prefeitura de Três Lagoas, que apresentava um panorama da dança no estado. A prefeitura só cita o nome do grupo na lista de participantes.[^tl2007]
 
-Em janeiro de 2016, a imprensa noticiou que o grupo completava 20 anos, com direção de Edson Clair. A data de fundação não consta na reportagem. As comemorações começaram com a 12ª edição do Curso de Férias Espaço FNK, em formato de acampamento, com aulas de danças urbanas como krumping, vogue e breaking.[^cgn2016]
+Em janeiro de 2016, a imprensa noticiou que o grupo completava 20 anos, com direção de [[edson-clair|Edson Clair]]. A data de fundação não consta na reportagem. As comemorações começaram com a 12ª edição do Curso de Férias [[espaco-fnk|Espaço FNK]], em formato de acampamento, com aulas de danças urbanas como krumping, vogue e breaking.[^cgn2016]
 
 O blog do Espaço FNK, mantido pelo próprio grupo, diz que o Funk-se existe como organização amadora desde 1996 e que o nome vem da canção "Funk-se quem puder", de Gilberto Gil (1983). A página afirma que, em 17 anos, o grupo dançou em Santos, Curitiba, Ponta Grossa, Goiânia, Poços de Caldas, Cuiabá, Cáceres, Tangará da Serra e mais de 30 cidades de Mato Grosso do Sul. Também lista os espetáculos *Ser Tão na Rua* (2000), *Resumix* (2001), *Pop* (2003), *Preview* (2004), *Rua em Cena*, *Street Dance Meeting* e *(Na)Batida* (2008), além de *Mosaico Urbano*, estreado em junho de 2013 no Teatro Prosa, do Sesc Horto. Cita ainda o Prêmio Funarte Petrobras Klauss Vianna de 2012, para circulação de *Frágil ou o Sentido da Ruptura*, a participação no festival América do Sul, em Corumbá (2007 e 2010), e no Festival de Inverno de Bonito (2009). Por ser texto do próprio grupo, a lista não foi conferida em fonte independente.[^fnk]
 
 Em 2022, Edson Clair, apresentado como bailarino, coreógrafo, diretor do grupo e estilista formado, levou 20 peças da marca FNK, surgida dos figurinos do grupo, à 1ª Semana da Moda Autoral de MS, com desfile em formato de dança improvisada. Ele conta que começou a dançar aos 14 anos.[^teatrine2022]
 
-Em 2025, a 12ª edição do MS Dance Fest, idealizado por Clair, voltou a Campo Grande depois de dois anos, no Rádio Clube, com apoio da Política Nacional Aldir Blanc. A matéria diz que foi na praça do Rádio Clube, 29 anos antes, que nasceu o projeto Funk-se, o que a situa em 1996 e coincide com a data do grupo.[^ppi2025]
+Em 2025, a 12ª edição do [[ms-dance-fest|MS Dance Fest]], idealizado por Clair, voltou a Campo Grande depois de dois anos, no [[radio-clube-campo-grande|Rádio Clube]], com apoio da Política Nacional Aldir Blanc. A matéria diz que foi na praça do Rádio Clube, 29 anos antes, que nasceu o projeto Funk-se, o que a situa em 1996 e coincide com a data do grupo.[^ppi2025]
 
 Em junho de 2026, o Espaço FNK, na região central de Campo Grande, promoveu o Dia D de Dança, aulão gratuito de danças urbanas com o carioca Ítalo Ramos e o b-boy Kadux, como contrapartida de edital da PNAB. Clair é descrito como diretor e fundador do grupo Funk-se e do Espaço FNK.[^dd2026]
 

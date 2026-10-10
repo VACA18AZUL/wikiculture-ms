@@ -22,11 +22,11 @@ O mesmo texto diz que o espetáculo que marcou a trajetória foi *O Santo e a Po
 
 ## Trajetória
 
-Em setembro de 2023, a imprensa noticiou os 20 anos do grupo com novas apresentações de *Seco*, espetáculo criado de forma colaborativa a partir de conversas dos atores Edner Gustavo e Bruna Neto durante o isolamento da pandemia. As sessões ocorreram no Espaço Fulano di Tal, no centro da cidade.[^cgn2023]
+Em setembro de 2023, a imprensa noticiou os 20 anos do grupo com novas apresentações de *Seco*, espetáculo criado de forma colaborativa a partir de conversas dos atores [[edner-gustavo|Edner Gustavo]] e Bruna Neto durante o isolamento da pandemia. As sessões ocorreram no Espaço Fulano di Tal, no centro da cidade.[^cgn2023]
 
 Em 2017, apresentou *Lápide inconclusa em quarta-feira de cinzas* na mostra Boca de Cena, em sessão extra no espaço do [[teatral-grupo-de-risco|Teatral Grupo de Risco]], com Rayra Calin, Vini Ferreira e Yuri Tavares no elenco.[^boca]
 
-Em 2024, o projeto "Fulano di Tal – Ato 20" levou *O bem-amado*, adaptação livre da peça de Dias Gomes, a cidades como Naviraí, Dourados, Rio Brilhante, Nova Andradina e Três Lagoas. O projeto teve apoio do FIC/MS e incluiu oficinas, entre elas uma com Ewerton Goulart, que também fez a música ao vivo do espetáculo.[^cgn2024]
+Em 2024, o projeto "Fulano di Tal – Ato 20" levou *O bem-amado*, adaptação livre da peça de Dias Gomes, a cidades como Naviraí, Dourados, Rio Brilhante, Nova Andradina e Três Lagoas. O projeto teve apoio do FIC/MS e incluiu oficinas, entre elas uma com [[ewerton-goulart|Ewerton Goulart]], que também fez a música ao vivo do espetáculo.[^cgn2024]
 
 Em junho de 2022, *A fabulosa história do Guri-Árvore*, livremente inspirada na obra de [[manoel-de-barros|Manoel de Barros]], constava da programação da mostra Boca de Cena, em 24 e 25 de junho de 2022, na praça Ary Coelho, com Edner Gustavo e [[douglas-moreira|Douglas Moreira]] nos papéis dos irmãos Palmiro e Abílio.[^tv2022] Em 2022, o grupo teve recursos do FIC/MS para o projeto "Os Bocós e suas Andanças pelo MS", que levou o espetáculo a 12 cidades do estado entre 27 de fevereiro e 11 de março de 2023.[^oe2023]
 

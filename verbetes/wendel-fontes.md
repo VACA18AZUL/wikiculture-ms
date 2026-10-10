@@ -21,13 +21,13 @@ Segundo A Crítica, ele já expôs no MARCO, na Galeria de Artes Visuais da UFMS
 
 A Crítica de Campo Grande e o *Diário Digital* acrescentam o Centro Cultural Teatro do Mundo e o Campão Cultural à lista de espaços e eventos em que ele participou, e dizem que parte de sua produção integra acervos públicos do estado.[^acritica2026b][^dd2026]
 
-Em julho de 2026, a exposição *Olhar Suspenso*, de pinturas sobre infância, memórias e cenas do cotidiano, ficou na Galeria de Vidro, no Complexo da Esplanada Ferroviária, de 8 a 22 de julho.[^acritica2026b][^dd2026]
+Em julho de 2026, a exposição *Olhar Suspenso*, de pinturas sobre infância, memórias e cenas do cotidiano, ficou na [[galeria-de-vidro|Galeria de Vidro]], no Complexo da Esplanada Ferroviária, de 8 a 22 de julho.[^acritica2026b][^dd2026]
 
 Em agosto de 2026, o projeto Arte no Paço, no segundo andar do Paço Municipal de Campo Grande, recebeu pinturas sobre a infância do artista.[^acritica2026]
 
-Em setembro de 2026, a Midiamax anunciou a mostra *O que permanece em nós?*, com 21 pinturas e uma instalação sonora na Galeria Wega Nery, no Centro Cultural José Octávio Guizzo, de 2 a 30 de outubro de 2026.[^midiamax2026]
+Em setembro de 2026, a Midiamax anunciou a mostra *O que permanece em nós?*, com 21 pinturas e uma instalação sonora na Galeria Wega Nery, no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], de 2 a 30 de outubro de 2026.[^midiamax2026]
 
-A Campo Grande News informa que as 21 pinturas de *O que permanece em nós?* foram feitas entre 2023 e 2026 e retratam crianças brincando, observando o mundo ou em introspecção, com objetos fora do lugar e cores fortes. Segundo a reportagem, o artista parte de fotografias suas, cenas de filmes e imagens da internet, que passam por colagens, rascunhos e sobreposições. A instalação sonora usa uma árvore seca de cerca de 2,5 metros com latas penduradas, nas quais se ouvem relatos de pessoas idosas sobre a infância. O projeto teve recursos da Política Nacional Aldir Blanc, executada pela Fundação de Cultura de MS, e a mostra teve visitas guiadas e oficinas aos sábados de outubro, com intérprete de Libras e audiodescrição por QR Code.[^cgn2026]
+A Campo Grande News informa que as 21 pinturas de *O que permanece em nós?* foram feitas entre 2023 e 2026 e retratam crianças brincando, observando o mundo ou em introspecção, com objetos fora do lugar e cores fortes. Segundo a reportagem, o artista parte de fotografias suas, cenas de filmes e imagens da internet, que passam por colagens, rascunhos e sobreposições. A instalação sonora usa uma árvore seca de cerca de 2,5 metros com latas penduradas, nas quais se ouvem relatos de pessoas idosas sobre a infância. O projeto teve recursos da Política Nacional Aldir Blanc, executada pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], e a mostra teve visitas guiadas e oficinas aos sábados de outubro, com intérprete de Libras e audiodescrição por QR Code.[^cgn2026]
 
 ## Obra
 

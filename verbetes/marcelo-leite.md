@@ -17,7 +17,7 @@ atualizado: 2026-10-10
 
 Em setembro de 2023, matéria sobre os 20 anos do grupo o apresenta como diretor e registra sua descrição de *Seco* como "um processo cênico".[^cgn2023]
 
-O folheto da mostra Boca de Cena 2017 informa que ele codirigiu *Lápide inconclusa em quarta-feira de cinzas*, com Manolo Schittcowisck, autor do texto. A sessão ocorreu em 24 de maio, no espaço do [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^boca]
+O folheto da mostra Boca de Cena 2017 informa que ele codirigiu *Lápide inconclusa em quarta-feira de cinzas*, com [[manolo-schittcowisck|Manolo Schittcowisck]], autor do texto. A sessão ocorreu em 24 de maio, no espaço do [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^boca]
 
 Em 2024, no projeto "Fulano di Tal – Ato 20", dirigiu *O bem-amado*. A matéria o chama de um dos diretores do grupo e informa que ele conduziria em setembro uma oficina on-line sobre gestão de grupo de teatro.[^cgn2024]
 

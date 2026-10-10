@@ -19,7 +19,7 @@ Ele integra o trio Hermanos Irmãos, com [[jerry-espindola|Jerry Espíndola]] e 
 
 Com Rodrigo Sater, compôs "Rio de Ilusões".[^cgnhm]
 
-Em setembro de 2024, estreou em Campo Grande o show *Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca*, dirigido por Luiz André Cherubini. A apresentação foi gratuita, no Teatro Glauce Rocha, da UFMS, e reúne canções de [[geraldo-roca|Geraldo Roca]], a quem ele se refere como amigo e vizinho.[^cgnsh]
+Em setembro de 2024, estreou em Campo Grande o show *Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca*, dirigido por Luiz André Cherubini. A apresentação foi gratuita, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], da UFMS, e reúne canções de [[geraldo-roca|Geraldo Roca]], a quem ele se refere como amigo e vizinho.[^cgnsh]
 
 Segundo a mesma reportagem, ele afirma que Roca influenciou a música de sua geração.[^cgnsh]
 
@@ -31,19 +31,19 @@ A grafia do sobrenome varia entre as fontes (Camillo e Camilo). Este verbete seg
 
 Segundo o Jornal da Unesp, que o entrevistou, Camillo se aproximou da música aos 12 anos, ao ouvir [[almir-sater|Almir Sater]] tocar viola caipira na casa de um amigo, o futuro parceiro Rodrigo Sater. Estudou violão clássico, trabalhou com jingles ao lado de Renato Teixeira e se formou em publicidade.[^unesp]
 
-O Dicionário Cravo Albin e o Jornal da Unesp dão como primeiro CD *Olhos d'Água*, de 1996, pela gravadora Paradoxx. Um texto colaborativo do Overmundo, de 2009, cita como primeiro disco *Luz D'Água*, de 1994, com Rodrigo Sater e Toninho Ferragutti. Esta divergência não foi esclarecida.[^cravo][^unesp][^omcant] Os outros discos são *Telepaticamente* (2001), *Márcio de Camillo Ao Vivo* (CD e DVD, 2005), *Me Deixar Levar* (2007; o Cravo Albin o data de 2008 no texto biográfico e 2007 na discografia), *Hermanos Irmãos* (2011) e *Crianceiras* (2012).[^cravo][^omcant]
+O Dicionário Cravo Albin e o Jornal da Unesp dão como primeiro CD *Olhos d'Água*, de 1996, pela gravadora Paradoxx. Um texto colaborativo do Overmundo, de 2009, cita como primeiro disco *Luz D'Água*, de 1994, com Rodrigo Sater e Toninho Ferragutti. Esta divergência não foi esclarecida.[^cravo][^unesp][^omcant] Os outros discos são *Telepaticamente* (2001), *Márcio de Camillo Ao Vivo* (CD e DVD, 2005), *Me Deixar Levar* (2007; o Cravo Albin o data de 2008 no texto biográfico e 2007 na discografia), *[[hermanos-irmaos|Hermanos Irmãos]]* (2011) e *Crianceiras* (2012).[^cravo][^omcant]
 
 Sobre o *Ao Vivo*, o Overmundo registra que o espetáculo foi bancado com patrocínio de uma empresa de telefonia, registrado em vídeo em parceria com uma universidade particular e finalizado com recursos do Fundo de Investimentos Culturais de MS.[^omvivo]
 
 ## Produção cultural
 
-Em 2003, a convite da Unesco, participou do workshop "Artists in Development", em Salvador, e foi convidado a trabalhar com música em Sevilha, na Espanha. De volta, criou a Associação de Músicos do Pantanal (AMP).[^cravo][^unesp] Dirigiu a Criatto Produções, em Campo Grande, que realizou o "Violas do Brasil" (CCBB do Rio de Janeiro, 2004) e o "Música do Brasil Central" (CCBB, 2011).[^unesp]
+Em 2003, a convite da Unesco, participou do workshop "Artists in Development", em Salvador, e foi convidado a trabalhar com música em Sevilha, na Espanha. De volta, criou a [[associacao-de-musicos-do-pantanal|Associação de Músicos do Pantanal]] (AMP).[^cravo][^unesp] Dirigiu a [[criatto-producoes|Criatto Produções]], em Campo Grande, que realizou o "Violas do Brasil" (CCBB do Rio de Janeiro, 2004) e o "Música do [[brasil-central|Brasil Central]]" (CCBB, 2011).[^unesp]
 
-Produziu o CD *GerAções* (2006), com patrocínio da Petrobras. O disco reuniu cerca de 60 artistas sul-mato-grossenses em 14 faixas, cada uma com dois intérpretes de gerações diferentes, e foi lançado em 17 de setembro de 2006, na Concha Acústica Helena Meirelles, diante de cerca de 2 mil pessoas, segundo o Overmundo. Ele próprio cantou com [[geraldo-roca|Geraldo Roca]] "Lá vem você de novo", de Paulo Simões e Geraldo Espíndola.[^omcd][^omshow]
+Produziu o CD *[[geracoes|GerAções]]* (2006), com patrocínio da Petrobras. O disco reuniu cerca de 60 artistas sul-mato-grossenses em 14 faixas, cada uma com dois intérpretes de gerações diferentes, e foi lançado em 17 de setembro de 2006, na Concha Acústica [[helena-meirelles|Helena Meirelles]], diante de cerca de 2 mil pessoas, segundo o Overmundo. Ele próprio cantou com [[geraldo-roca|Geraldo Roca]] "Lá vem você de novo", de [[paulo-simoes|Paulo Simões]] e [[geraldo-espindola|Geraldo Espíndola]].[^omcd][^omshow]
 
 Entre os participantes do disco estavam [[beth-e-betinha|Beth e Betinha]], [[amambay-e-amambai|Amambay e Amambaí]], [[antonio-porto|Antonio Porto]] e [[jerry-espindola|Jerry Espíndola]].[^omcd] Depois do projeto, Camillo viveu cerca de um ano em Barcelona e trabalhou em Portugal.[^cravo][^unesp]
 
-Em 2010, formou com Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]] o trio Hermanos Irmãos, que lançou CD em 2011.[^cravo] Em 2012, lançou *Crianceiras*, com poemas de [[manoel-de-barros|Manoel de Barros]] musicados, e apresentou o programa "Meu Mato Grosso do Sul", na TV Morena.[^cravo][^unesp]
+Em 2010, formou com Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]] o trio Hermanos Irmãos, que lançou CD em 2011.[^cravo] Em 2012, lançou *Crianceiras*, com poemas de [[manoel-de-barros|Manoel de Barros]] musicados, e apresentou o programa "Meu Mato Grosso do Sul", na [[tv-morena|TV Morena]].[^cravo][^unesp]
 
 No início do segundo semestre letivo de 2024, estreou na UFMS o show solo *Ilumini*, descrito pela universidade como um "monólogo musical" com iluminação e efeitos sonoros.[^ufms]
 

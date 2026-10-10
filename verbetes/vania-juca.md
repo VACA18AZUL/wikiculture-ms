@@ -16,11 +16,11 @@ atualizado: 2026-10-10
 
 ## Nosso Olhar
 
-Vânia Jucá e a fotógrafa Elis Regina Nogueira são organizadoras do projeto Nosso Olhar – Fotografia para a Cidadania, de oficinas de fotografia para crianças e adolescentes. A primeira edição começou em 2002. Em 2021, o projeto foi retomado no Jardim Noroeste, em Campo Grande, com 70 inscritos de 7 a 15 anos.[^cgno]
+Vânia Jucá e a fotógrafa [[elis-regina-nogueira|Elis Regina Nogueira]] são organizadoras do projeto [[nosso-olhar|Nosso Olhar – Fotografia para a Cidadania]], de oficinas de fotografia para crianças e adolescentes. A primeira edição começou em 2002. Em 2021, o projeto foi retomado no Jardim Noroeste, em Campo Grande, com 70 inscritos de 7 a 15 anos.[^cgno]
 
 Segundo a reportagem, as aulas da retomada começaram em 3 de agosto de 2021, na sede da Associação Amigos de Maria, e a produção das crianças seria reunida em exposição no MIS. Desde 2002, as duas fotógrafas levaram oficinas a aldeias, comunidades pantaneiras e bairros com menos acesso à informação.[^cgno]
 
-Segundo a reportagem, mais de 500 crianças participaram das oficinas ao longo de sete anos. O projeto foi aprovado em 2019 pelo Fundo de Investimentos Culturais da Fundação de Cultura de MS.[^cgno]
+Segundo a reportagem, mais de 500 crianças participaram das oficinas ao longo de sete anos. O projeto foi aprovado em 2019 pelo Fundo de Investimentos Culturais da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]].[^cgno]
 
 ## Fest Foto Cerrado
 

@@ -17,7 +17,7 @@ atualizado: 2026-10-10
 
 ## Origem
 
-A União Brasileira de Escritores de MS (UBE-MS) informa que ele nasceu em Bella Vista Norte, no Paraguai, em 8 de outubro de 1947, com registro no distrito de Nunca-Te-Vi, em Bela Vista (MS).[^ube] Em entrevista de 2012 ao *Dourados Agora*, deu o mesmo local e a mesma data e disse que "atravessou ao outro lado do rio" ainda criança.[^da2012] Segundo o prefácio que ele mesmo escreveu para o livro *Ervais, pantanais e guavirais*, mudou-se para o Brasil ainda menino.[^ervais2013] A *Folha de Dourados*, em 2016, o apresenta como "nascido em Bela Vista".[^fd2016] As versões ficam registradas.
+A [[uniao-brasileira-de-escritores-de-ms|União Brasileira de Escritores de MS]] (UBE-MS) informa que ele nasceu em Bella Vista Norte, no Paraguai, em 8 de outubro de 1947, com registro no distrito de Nunca-Te-Vi, em Bela Vista (MS).[^ube] Em entrevista de 2012 ao *Dourados Agora*, deu o mesmo local e a mesma data e disse que "atravessou ao outro lado do rio" ainda criança.[^da2012] Segundo o prefácio que ele mesmo escreveu para o livro *Ervais, pantanais e guavirais*, mudou-se para o Brasil ainda menino.[^ervais2013] A *Folha de Dourados*, em 2016, o apresenta como "nascido em Bela Vista".[^fd2016] As versões ficam registradas.
 
 ## Trajetória
 
@@ -25,7 +25,7 @@ Em 1960, segundo a entrevista, ganhou um concurso de poesia no seminário de Pon
 
 O primeiro livro, *Silvino Jacques, o Último dos Bandoleiros*, foi lançado em 30 de maio de 1986, em Sidrolândia, com prefácio do professor Antônio Lopes Lins. Segundo o autor, o livro foi apreendido pela Justiça e liberado pelo Tribunal de Justiça de MS em 1992. Naquele ano, ele foi adotado pelo Pen Club Internacional, no 58º Congresso de Escritores, no Rio de Janeiro.[^da2012][^fd2016]
 
-Foi empossado na Academia Douradense de Letras (ADL) em 1993.[^ervais2013] A tese de Prado diz que ele foi eleito presidente da ADL no ano de 2008, para o biênio 2009–2010, em seu "primeiro mandato", e de novo para 2011–2012, quando se criou a ADL-Jovem. A Wikipédia diz que ele foi fundador da ADL em 1991 e seu primeiro presidente, eleito em novembro de 1992, reeleito em 2008 e 2011. As versões divergem quanto ao primeiro mandato.[^prado][^wp] A tese também registra sua participação na Executiva do Fórum Estadual de Cultura (2005) e a indicação, em janeiro de 2007, pela Federação das Academias de Letras e Artes de MS, ao Prêmio Nobel de Literatura.[^prado]
+Foi empossado na [[academia-douradense-de-letras|Academia Douradense de Letras]] (ADL) em 1993.[^ervais2013] A tese de Prado diz que ele foi eleito presidente da ADL no ano de 2008, para o biênio 2009–2010, em seu "primeiro mandato", e de novo para 2011–2012, quando se criou a ADL-Jovem. A Wikipédia diz que ele foi fundador da ADL em 1991 e seu primeiro presidente, eleito em novembro de 1992, reeleito em 2008 e 2011. As versões divergem quanto ao primeiro mandato.[^prado][^wp] A tese também registra sua participação na Executiva do Fórum Estadual de Cultura (2005) e a indicação, em janeiro de 2007, pela Federação das Academias de Letras e Artes de MS, ao Prêmio Nobel de Literatura.[^prado]
 
 Em agosto de 2026, foi eleito para a Academia Sul-Mato-Grossense de Letras. Na data da reportagem, a posse ainda não tinha ocorrido.[^acritica2026] O site da academia, consultado em 10 de outubro de 2026, o lista como ocupante da cadeira 13, cujo patrono é Estêvão de Mendonça.[^aslcad] Ver [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].
 

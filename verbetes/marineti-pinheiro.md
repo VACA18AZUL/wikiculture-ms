@@ -18,13 +18,13 @@ atualizado: 2026-10-10
 
 A imprensa destaca sua contribuição ao cinema e ao audiovisual do estado, sobretudo pela pesquisa sobre a história das salas de cinema, e seu trabalho com mulheres indígenas guarani-kaiowá. Coordenou o [[mis-ms|Museu da Imagem e do Som de MS]].[^cgn2024]
 
-Em 2024, foi homenageada com outro nome do cinema do estado na cerimônia do 27º Encontro da Socine, na UFMS.[^cgn2024] A cerimônia estava marcada para 25 de outubro, e a indicação dela partiu, de forma unânime, dos professores do curso de Audiovisual da UFMS. Os livros sobre o cinema em Mato Grosso do Sul foram o motivo da escolha. A outra homenageada foi a Associação Cultural de Realizadores Indígenas (Ascuri).[^teatrine]
+Em 2024, foi homenageada com outro nome do cinema do estado na cerimônia do [[socine-27-encontro|27º Encontro da Socine]], na UFMS.[^cgn2024] A cerimônia estava marcada para 25 de outubro, e a indicação dela partiu, de forma unânime, dos professores do curso de Audiovisual da UFMS. Os livros sobre o cinema em Mato Grosso do Sul foram o motivo da escolha. A outra homenageada foi a Associação Cultural de Realizadores Indígenas (Ascuri).[^teatrine]
 
 Em outubro de 2023, o jornal *O Estado* a descreveu como jornalista, produtora cultural e audiovisual e a ouviu sobre o fechamento do Cine Campo Grande. Para ela, os cinemas de rua fecharam por causa das salas comerciais em shoppings e das mudanças nos hábitos de consumo de filmes, com TV, vídeo e DVD, e depois com o streaming.[^oestado]
 
 ## Obras
 
-- [[salas-de-sonhos|*Salas de sonhos – Histórias dos cinemas de Campo Grande*]] (2008). O catálogo da Editora UFMS dá a autoria a "Marinete Pinheiro e Neide Fischer", com a grafia "Marinete" para o primeiro nome. O livro reúne relatos de pessoas que frequentaram as salas de cinema da cidade.[^ufms]
+- [[salas-de-sonhos|*Salas de sonhos – Histórias dos cinemas de Campo Grande*]] (2008). O catálogo da Editora UFMS dá a autoria a "Marinete Pinheiro e [[neide-fischer|Neide Fischer]]", com a grafia "Marinete" para o primeiro nome. O livro reúne relatos de pessoas que frequentaram as salas de cinema da cidade.[^ufms]
 - *Salas de sonhos II – Memória dos cinemas de Mato Grosso do Sul* (2010).[^cgn2024]
 - [[a-magica-da-foto-lambe-lambe|*A mágica da foto lambe lambe*]] (2023), curta documental sobre os fotógrafos lambe-lambe de Campo Grande, feito com o fotógrafo [[rachid-waqued|Rachid Waqued]] e contemplado pelo Prêmio Ipê Audiovisual, da Sectur. O lançamento foi marcado para 1º de novembro de 2023, no Sesc Cultura.[^cgn2023]
 - *A Campo Grande de Roberto Higa* (2026), documentário de 30 minutos sobre o fotojornalista [[roberto-higa|Roberto Higa]], codirigido com [[israel-miranda|Israel Miranda]] e produzido ao longo de um ano. Foi lançado na noite de 13 de fevereiro de 2026. Marineti disse à reportagem que a ideia nasceu da admiração pelo trabalho do fotógrafo e que o filme trata da relação dele com a cidade, mais do que de uma biografia tradicional.[^cgn2026]

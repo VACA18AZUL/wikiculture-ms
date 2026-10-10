@@ -16,13 +16,13 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Escreveu "Trem do Pantanal" com [[paulo-simoes|Paulo Simões]], em 1975. Em entrevista de 2012 ao livro *Prata da Casa*, contou que a música se chamava originalmente "Todos os trilhos da terra". Em 1990, disse que o público de São Paulo já conhecia a canção quando a tocou em um show. [[almir-sater|Almir Sater]] cantou uma versão que a tornou conhecida.[^trem][^camillo]
+Escreveu "Trem do Pantanal" com [[paulo-simoes|Paulo Simões]], em 1975. Em entrevista de 2012 ao livro *[[prata-da-casa|Prata da Casa]]*, contou que a música se chamava originalmente "Todos os trilhos da terra". Em 1990, disse que o público de São Paulo já conhecia a canção quando a tocou em um show. [[almir-sater|Almir Sater]] cantou uma versão que a tornou conhecida.[^trem][^camillo]
 
 O Campo Grande News o descreve como um dos principais compositores da música regional do estado, de produção pequena em número de composições e discos. Seu repertório inclui polcas, rocks, chamamés, guarânias e baladas. Colegas o chamavam de "maldito", e Arrigo Barnabé, de "Príncipe".[^camillo]
 
 Lançou o disco *Veneno Light* em 2006.[^camillo] Um estudo bibliográfico de 2024 diz que criou o conceito de "Música do Litoral Central", analisado por Neder em 2014, e o lista entre os entrevistados do livro *A Música de Mato Grosso do Sul* (2009).[^silus]
 
-Segundo o músico Márcio de Camillo, Roca integrou a "geração de ouro" da música pantaneira do estado, ao lado de Paulo Simões, Alzira E, [[geraldo-espindola|Geraldo Espíndola]], [[tete-espindola|Tetê Espíndola]] e Almir Sater. Em setembro de 2024, Camillo estreou no Teatro Glauce Rocha, em Campo Grande, um show em homenagem a ele, com direção de Luiz André Cherubini.[^camillo]
+Segundo o músico [[marcio-de-camillo|Márcio de Camillo]], Roca integrou a "geração de ouro" da música pantaneira do estado, ao lado de Paulo Simões, Alzira E, [[geraldo-espindola|Geraldo Espíndola]], [[tete-espindola|Tetê Espíndola]] e Almir Sater. Em setembro de 2024, Camillo estreou no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, um show em homenagem a ele, com direção de Luiz André Cherubini.[^camillo]
 
 Segundo a Wikipédia em português, nasceu no Rio de Janeiro em 9 de junho de 1954.[^wikipt] Em entrevista ao Overmundo em 2007, Roca se descreveu como carioca de nascimento, com família proprietária de fazendas em Mato Grosso do Sul, e disse que só se mudou para Campo Grande em 1988.[^omtrilhos]
 
@@ -32,7 +32,7 @@ A Wikipédia afirma que a canção foi eleita em 2002, por concurso popular, a m
 
 Roca disse ao Overmundo que gravou com Renato Teixeira, tocando viola de dez cordas, o LP *Garapa*, nos anos 1980. Afirmou também que "Polca Outra Vez" é a canção que o liga ao surgimento da polca-rock, e explicou "Litoral Central" como uma expressão que reúne a música de beira de rio (chamamé, "litoraleña") e a ideia de um mar interior, o Mar de Xaraés.[^omtrilhos]
 
-Sobre os discos, a Wikipédia lista *Geraldo Roca* (LP, 1988), *Litoral Central* (1997) e *Veneno Light* (2003), além da coletânea *GerAções* (2006).[^wikipt] O Campo Grande News data *Veneno Light* de 2006, e uma nota do Overmundo de 17 de maio de 2006 já o chamava de último disco do compositor; as datas divergem.[^camillo][^omveneno] Segundo o Overmundo, o CD tem 10 faixas, com regravações de "Cavalo Bravo" (Renato Teixeira) e "Flores" (Titãs), e a balada "Sobre a Cidade Média" como destaque.[^omveneno] Em 2007, o mesmo site disse que Roca havia lançado um LP e dois CDs.[^omtrilhos]
+Sobre os discos, a Wikipédia lista *Geraldo Roca* (LP, 1988), *Litoral Central* (1997) e *Veneno Light* (2003), além da coletânea *[[geracoes|GerAções]]* (2006).[^wikipt] O Campo Grande News data *Veneno Light* de 2006, e uma nota do Overmundo de 17 de maio de 2006 já o chamava de último disco do compositor; as datas divergem.[^camillo][^omveneno] Segundo o Overmundo, o CD tem 10 faixas, com regravações de "Cavalo Bravo" (Renato Teixeira) e "Flores" (Titãs), e a balada "Sobre a Cidade Média" como destaque.[^omveneno] Em 2007, o mesmo site disse que Roca havia lançado um LP e dois CDs.[^omtrilhos]
 
 ## Obras
 
@@ -42,7 +42,7 @@ Sobre os discos, a Wikipédia lista *Geraldo Roca* (LP, 1988), *Litoral Central*
 
 ## Para saber mais
 
-- [Geraldo Roca: Sobre Todos os Trilhos da Terra](https://www.overmundo.com.br/overblog/geraldo-roca-sobre-todos-os-trilhos-da-terra), entrevista de Rodrigo Teixeira ao Overmundo, 2007, com Roca falando de "Trem do Pantanal", "Litoral Central" e da cena musical do estado.[^omtrilhos]
+- [Geraldo Roca: Sobre Todos os Trilhos da Terra](https://www.overmundo.com.br/overblog/geraldo-roca-sobre-todos-os-trilhos-da-terra), entrevista de [[rodrigo-teixeira|Rodrigo Teixeira]] ao Overmundo, 2007, com Roca falando de "Trem do Pantanal", "Litoral Central" e da cena musical do estado.[^omtrilhos]
 - [Geraldo Roca – Veneno Light](https://www.overmundo.com.br/guia/geraldo-roca-veneno-light), nota do Overmundo sobre o disco.[^omveneno]
 
 [^trem]: Natália Olliver, ["Canção Trem do Pantanal fez 50 anos, mas vagões são só lembrança"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/cancao-trem-do-pantanal-fez-50-anos-mas-vagoes-sao-so-lembranca), *Campo Grande News*, 10 set. 2025. Acesso em 8 out. 2026.

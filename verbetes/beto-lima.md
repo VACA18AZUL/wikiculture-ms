@@ -28,7 +28,7 @@ Em 2021, a Quyquyho Produções lançou o documentário *Beto Lima – Um Artist
 
 Segundo a *Folha de Campo Grande*, as bicicletas resultaram da influência de viagens para expor em outros países.[^folhacg2021]
 
-Sobre o documentário, a *Folha de Campo Grande* informa produção executiva de Dalila Saldanha, curadoria de Humberto Espíndola e produção de campo de Geraldo Espíndola, com apoio da Prefeitura de Campo Grande e do governo federal, além da Lei Aldir Blanc, e registro no [[mis-ms|Museu da Imagem e do Som]].[^folhacg2021]
+Sobre o documentário, a *Folha de Campo Grande* informa produção executiva de [[dalila-saldanha|Dalila Saldanha]], curadoria de Humberto Espíndola e produção de campo de [[geraldo-espindola|Geraldo Espíndola]], com apoio da Prefeitura de Campo Grande e do governo federal, além da Lei Aldir Blanc, e registro no [[mis-ms|Museu da Imagem e do Som]].[^folhacg2021]
 
 ## Obra
 

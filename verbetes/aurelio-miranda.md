@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**Aurélio Miranda** é um cantor, compositor e instrumentista de viola caipira de Mato Grosso do Sul. Segundo a Fundação de Cultura de MS, tem mais de 300 composições.[^fasp]
+**Aurélio Miranda** é um cantor, compositor e instrumentista de viola caipira de Mato Grosso do Sul. Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], tem mais de 300 composições.[^fasp]
 
 ## Trajetória
 
@@ -30,13 +30,13 @@ Em 2003, recebeu na Festa de Peão de Barretos o título de compositor da melhor
 
 ## Segundo *Os Pioneiros*
 
-O livro *Os Pioneiros* (Rodrigo Teixeira, 2009) dedica um capítulo a ele, formado por entrevista e depoimentos de Tostão e de Onésimo Filho. A ficha da discografia dá como nascimento 5 de março de 1950, em Mutum, na cabeceira do rio Manso (MT), e lista três LPs e três CDs.[^pio]
+O livro *[[os-pioneiros|Os Pioneiros]]* ([[rodrigo-teixeira|Rodrigo Teixeira]], 2009) dedica um capítulo a ele, formado por entrevista e depoimentos de Tostão e de [[onesimo-filho|Onésimo Filho]]. A ficha da discografia dá como nascimento 5 de março de 1950, em Mutum, na cabeceira do rio Manso (MT), e lista três LPs e três CDs.[^pio]
 
-Na entrevista, ele diz que começou aos 13 anos, em Cuiabá, ao vencer um festival da Rádio Noroeste e assinar contrato de um ano com a emissora, em 1963, na dupla Cigano & Ciganinho. Conta que chegou ao sul de Mato Grosso por volta de 1969 e cantou em Coxim, Rio Verde e Campo Grande. Em 1972 cantou "Terra do Pantanal" no programa *Show 6*, da TV Morena, e ganhou uma televisão e o direito de participar do programa de Bolinha na TV Record, em São Paulo. Trabalhou na Rádio Cultura de Jales (SP) em 1974 e voltou a Campo Grande de vez em 1977.[^pio]
+Na entrevista, ele diz que começou aos 13 anos, em Cuiabá, ao vencer um festival da Rádio Noroeste e assinar contrato de um ano com a emissora, em 1963, na dupla Cigano & Ciganinho. Conta que chegou ao sul de Mato Grosso por volta de 1969 e cantou em Coxim, Rio Verde e Campo Grande. Em 1972 cantou "Terra do Pantanal" no programa *Show 6*, da [[tv-morena|TV Morena]], e ganhou uma televisão e o direito de participar do programa de Bolinha na TV Record, em São Paulo. Trabalhou na Rádio Cultura de Jales (SP) em 1974 e voltou a Campo Grande de vez em 1977.[^pio]
 
-Por volta de 1977, hospedado no hotel da família de Tostão, convenceu o pai do rapaz a investir na carreira dele e ensinou-lhe violão. A dupla, chamada Cruzeiro & Tostão, gravou em 1978, na gravadora Califórnia, de Mário Vieira, o disco *Os rouxinóis do Brasil*, com apoio de Delinha, da dupla [[delio-e-delinha|Délio e Delinha]]. A canção "Menina rica" estourou, segundo ele, e a dupla passou a se apresentar em circos.[^pio]
+Por volta de 1977, hospedado no hotel da família de Tostão, convenceu o pai do rapaz a investir na carreira dele e ensinou-lhe violão. A dupla, chamada Cruzeiro & Tostão, gravou em 1978, na gravadora Califórnia, de [[mario-vieira|Mário Vieira]], o disco *Os rouxinóis do Brasil*, com apoio de Delinha, da dupla [[delio-e-delinha|Délio e Delinha]]. A canção "Menina rica" estourou, segundo ele, e a dupla passou a se apresentar em circos.[^pio]
 
-Em 1979 entrou o sanfoneiro João Silvestre da Silva, o Centavo, e o trio, Cruzeiro, Tostão e Centavo, venceu o primeiro Festão, em 26 de agosto de 1979, no estádio Morenão, em Campo Grande. Ficou em primeiro lugar com "Estrada de Chão" e em segundo com "Lavrador, rei sem coroa". Onésimo Filho, organizador do festival, diz que Aurélio Miranda ganhou também o segundo Festão. Tostão afirma que o trio venceu essa edição com "Fogo Humano", já como Cruzeiro, Tostão e Guarany, nome adotado quando o acordeonista Orlei substituiu Centavo.[^pio]
+Em 1979 entrou o sanfoneiro [[joao-silvestre-da-silva|João Silvestre da Silva]], o Centavo, e o trio, Cruzeiro, Tostão e Centavo, venceu o primeiro Festão, em 26 de agosto de 1979, no estádio Morenão, em Campo Grande. Ficou em primeiro lugar com "Estrada de Chão" e em segundo com "Lavrador, rei sem coroa". Onésimo Filho, organizador do festival, diz que Aurélio Miranda ganhou também o segundo Festão. Tostão afirma que o trio venceu essa edição com "Fogo Humano", já como Cruzeiro, Tostão e Guarany, nome adotado quando o acordeonista Orlei substituiu Centavo.[^pio]
 
 Tostão relata que "Estrada de Chão" devia ser creditada ao trio, por ter passado por ensaios e correções dos três, mas reconhece a harmonia e a letra como de Aurélio; o LP *Estrada de Chão* (Chantecler, 1979) a credita só a Aurélio Miranda.[^pio] O trio fez shows no Rio de Janeiro, em São Paulo e em Brasília, e se separou em 1982, depois de desentendimentos com a gravadora, segundo Tostão. Depois, Tostão formou dupla com outro parceiro e, mais adiante, com Guarany; o livro diz que Aurélio passou a formar dupla com outros parceiros.[^pio]
 
@@ -45,7 +45,7 @@ A discografia do livro registra, entre as faixas de Aurélio Miranda, "Seu ender
 ## Obras
 
 - "Estrada de Chão", apontada como seu maior sucesso; vencedora do primeiro Festão (1979)[^fasp][^pio]
-- *Os rouxinóis do Brasil* (LP de Cruzeiro e Tostão, Califórnia, 1978)[^pio]
+- *Os rouxinóis do Brasil* (LP de [[cruzeiro-e-tostao|Cruzeiro e Tostão]], Califórnia, 1978)[^pio]
 - *Estrada de Chão* (LP de Cruzeiro, Tostão e Centavo, Chantecler, 1979)[^pio]
 - "Flor da Fronteira", com Tostão, canção que encerra o programa da Rádio Senado. A fonte não informa o ano.[^senado]
 

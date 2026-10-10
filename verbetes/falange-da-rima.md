@@ -19,13 +19,13 @@ atualizado: 2026-10-10
 
 O grupo surgiu no fim dos anos 1990. Entre seus fundadores estavam o rapper [[flynt|Flynt]], que foi sua voz, e [[bolinho|Bolinho]], dançarino e pioneiro do hip hop em Campo Grande.[^fly2025][^bol2025]
 
-Segundo reportagem do MS Notícias, o grupo nasceu no ambiente da "cultura das gangues" de Campo Grande e do pós-ditadura. Mano Cley contou que conheceu o rap e o hip hop entre o fim de 1989 e o início dos anos 1990, passou a dançar break e se afastou das gangues. Os integrantes dizem que enfrentaram desconfiança por serem pioneiros e que recebiam advertências sobre o que cantavam.[^msn] O Correio do Estado registra que os integrantes já atuavam na cena urbana desde os anos 1990 pelo breaking.[^ce2024]
+Segundo reportagem do MS Notícias, o grupo nasceu no ambiente da "cultura das gangues" de Campo Grande e do pós-ditadura. [[mano-cley|Mano Cley]] contou que conheceu o rap e o hip hop entre o fim de 1989 e o início dos anos 1990, passou a dançar break e se afastou das gangues. Os integrantes dizem que enfrentaram desconfiança por serem pioneiros e que recebiam advertências sobre o que cantavam.[^msn] O Correio do Estado registra que os integrantes já atuavam na cena urbana desde os anos 1990 pelo breaking.[^ce2024]
 
 O MS Notícias diz que o grupo teve um hiato e voltou em 2013, com nova formação, e que dividiu palco com Racionais MC's, Thaíde e DJ Hum, MV Bill, Facção Central, Emicida e Marcelo D2, entre outros. Cita ainda o Festival América do Sul, em Corumbá, e o Amostra Grátis, em Cuiabá.[^msn]
 
 Em 2020, a Falange da Rima participou da live do Dia do Rock promovida pela Secretaria Municipal de Cultura e Turismo na Esplanada Ferroviária, ao lado de outras cinco bandas da capital.[^esp2020]
 
-Em 2025, após a morte de Flynt, a formação era Jhon Geral, Mano Cley e DJ Magão.[^fly2025]
+Em 2025, após a morte de Flynt, a formação era [[jhon-geral|Jhon Geral]], Mano Cley e [[dj-magao|DJ Magão]].[^fly2025]
 
 ## Discos
 
@@ -39,7 +39,7 @@ A faixa "Capital sem Favela" foi feita, segundo Mano Cley, por volta de 2011, em
 
 ## Espetáculo de 2024
 
-Em dezembro de 2024, o grupo encerrou o projeto Som da Concha com o show "Falange da Rima homenageia a música de MS", na Concha Acústica Helena Meirelles, com trechos de canções de [[delio-e-delinha|Délio e Delinha]], [[almir-sater|Almir Sater]] e Bêbados Habilidosos. A formação anunciada era Flynt, Mano Xis, Jhon Geral, Mano Cley e DJ Magão.[^ce2024]
+Em dezembro de 2024, o grupo encerrou o projeto Som da Concha com o show "Falange da Rima homenageia a música de MS", na Concha Acústica [[helena-meirelles|Helena Meirelles]], com trechos de canções de [[delio-e-delinha|Délio e Delinha]], [[almir-sater|Almir Sater]] e [[bebados-habilidosos|Bêbados Habilidosos]]. A formação anunciada era Flynt, Mano Xis, Jhon Geral, Mano Cley e DJ Magão.[^ce2024]
 
 ## Para saber mais
 

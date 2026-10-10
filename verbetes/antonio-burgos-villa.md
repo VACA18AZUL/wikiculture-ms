@@ -12,13 +12,13 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**Antônio Burgos Villa** é artista plástico listado entre os participantes da [[exposicao-pintores-mato-grossenses-1966|Primeira Exposição de Pinturas dos Artistas Mato-grossenses]], realizada em outubro de 1966, no Rádio Clube.[^assis2013]
+**Antônio Burgos Villa** é artista plástico listado entre os participantes da [[exposicao-pintores-mato-grossenses-1966|Primeira Exposição de Pinturas dos Artistas Mato-grossenses]], realizada em outubro de 1966, no [[radio-clube-campo-grande|Rádio Clube]].[^assis2013]
 
 ## Trajetória
 
 A exposição reuniu artistas de Cuiabá, Campo Grande e do sul do estado, e foi organizada por [[aline-figueiredo|Aline Figueiredo]], [[adelaide-vieira|Adelaide Vieira]] e [[humberto-espindola|Humberto Espíndola]]. O crítico Pietro Bardi participou do júri.[^assis2013]
 
-Um texto de apresentação da sala de acervo do [[marco|MARCO]], sem autoria indicada na página, o chama de professor Antonio Burgos Villa (1900-1983), espanhol com formação artística acadêmica entre Barcelona e Paris. Segundo o texto, chegou ao Brasil em 1951 para trabalhar numa construtora e foi enviado a Corumbá para decorar a Matriz da Candelária e o Colégio Imaculada Conceição. Também decorou o Cine Tupi da cidade, que o texto aponta como talvez o primeiro registro iconográfico da flora e da fauna pantaneiras na arquitetura. Com Núria Burgos (1927-2003), formada em belas artes em Barcelona, fundou em Corumbá a primeira escola de pintura com fundamentos acadêmicos, que formou vários artistas locais, entre eles Marina Gattass.[^marcolonga] O texto do MARCO não menciona a exposição de 1966 em relação a ele.
+Um texto de apresentação da sala de acervo do [[marco|MARCO]], sem autoria indicada na página, o chama de professor Antonio Burgos Villa (1900-1983), espanhol com formação artística acadêmica entre Barcelona e Paris. Segundo o texto, chegou ao Brasil em 1951 para trabalhar numa construtora e foi enviado a Corumbá para decorar a Matriz da Candelária e o Colégio Imaculada Conceição. Também decorou o Cine Tupi da cidade, que o texto aponta como talvez o primeiro registro iconográfico da flora e da fauna pantaneiras na arquitetura. Com [[nuria-burgos|Núria Burgos]] (1927-2003), formada em belas artes em Barcelona, fundou em Corumbá a primeira escola de pintura com fundamentos acadêmicos, que formou vários artistas locais, entre eles [[marina-gattass|Marina Gattass]].[^marcolonga] O texto do MARCO não menciona a exposição de 1966 em relação a ele.
 
 Em palestra sobre a história das artes plásticas, relatada em texto colaborativo do Overmundo (2007), [[humberto-espindola|Humberto Espíndola]] citou o pintor Antônio Burgos entre os artistas de Mato Grosso nas décadas de 1930 a 1950. Essa data difere da chegada ao Brasil em 1951 informada pelo MARCO; as duas versões ficam registradas, sem escolha.[^overmundo2007]
 

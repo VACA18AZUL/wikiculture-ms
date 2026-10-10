@@ -26,9 +26,9 @@ Segundo o mesmo artigo, a autora afirmou em entrevista, em 2 de abril de 2019, q
 
 Segundo o estudo de 2013, a peça foi a primeira de Cristina Mato Grosso encenada em âmbito nacional pelo GUTAC, companhia que a autora ajudou a fundar. Foi classificada para maiores de 18 anos após censura.[^antares]
 
-Uma crítica de Flora Thomé, de 1980, publicada no *Jornal do Povo*, de Três Lagoas, é citada pelo estudo.[^antares]
+Uma crítica de [[flora-thome|Flora Thomé]], de 1980, publicada no *Jornal do Povo*, de Três Lagoas, é citada pelo estudo.[^antares]
 
-O GUTAC, de acordo com entrevista de Américo Calheiros publicada no Overmundo em 2008, foi criado em 1971 por ele, por Cristina Mato Grosso e por outros colegas. Ele diz que o grupo representou o estado no projeto Mambembão em 1979, com apresentações em São Paulo, Brasília, Rio de Janeiro e Goiânia. A entrevista não menciona esta peça.[^om2008]
+O GUTAC, de acordo com entrevista de [[americo-calheiros|Américo Calheiros]] publicada no Overmundo em 2008, foi criado em 1971 por ele, por Cristina Mato Grosso e por outros colegas. Ele diz que o grupo representou o estado no projeto Mambembão em 1979, com apresentações em São Paulo, Brasília, Rio de Janeiro e Goiânia. A entrevista não menciona esta peça.[^om2008]
 
 ## Data
 

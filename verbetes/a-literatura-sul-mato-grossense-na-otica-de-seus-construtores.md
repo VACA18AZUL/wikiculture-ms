@@ -18,15 +18,15 @@ atualizado: 2026-10-10
 
 Segundo um estudo de 2019, o livro trata da construção da literatura de Mato Grosso do Sul a partir das vozes de 21 escritores.[^carvalho2019] Um estudo de 2024 o cita entre as principais obras de referência sobre a literatura do estado, ao lado de um livro de Pontes, de 1982, e de Sena e Pellegrini, de 2014.[^sena2024]
 
-O noticiário da Academia Sul-Mato-Grossense de Letras (ASL) de dezembro de 2011 descreve o livro como obra apoiada pelo FIC/MS, com prefácio de José Fernandes, doutor em Letras pela UFRJ e membro da Academia Goiana de Letras. Segundo o noticiário, a obra apresenta 21 escritores e 4 críticos literários do estado.[^asl20]
+O noticiário da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL) de dezembro de 2011 descreve o livro como obra apoiada pelo FIC/MS, com prefácio de [[jose-fernandes|José Fernandes]], doutor em Letras pela UFRJ e membro da Academia Goiana de Letras. Segundo o noticiário, a obra apresenta 21 escritores e 4 críticos literários do estado.[^asl20]
 
-Os escritores listados são [[manoel-de-barros|Manoel de Barros]], Abílio de Barros, Adair José de Aguiar, [[augusto-cesar-proenca|Augusto César Proença]], [[brigido-ibanhes|Brígido Ibanhes]], Cláudio Valério da Silva, [[emmanuel-marinho|Emmanuel Marinho]], [[flora-thome|Flora Thomé]], Geraldo Ramon Pereira, Guimarães Rocha, Heliophar Serra, Henrique de Medeiros, [[jose-couto-vieira-pontes|José Couto Vieira Pontes]], José Pedro Frazão, Lucilene Machado, Orlando Antunes Batista, [[raquel-naveira|Raquel Naveira]], Reginaldo Araújo, [[rubenio-marcelo|Rubenio Marcelo]], [[samuel-x-medeiros|Samuel Medeiros]] e Thereza Hilcar. Os críticos são Afonso de Castro, Marcelo Marinho, Maria Adélia Menegazzo e [[paulo-s-nolasco|Paulo Nolasco]].[^asl20]
+Os escritores listados são [[manoel-de-barros|Manoel de Barros]], Abílio de Barros, Adair José de Aguiar, [[augusto-cesar-proenca|Augusto César Proença]], [[brigido-ibanhes|Brígido Ibanhes]], Cláudio Valério da Silva, [[emmanuel-marinho|Emmanuel Marinho]], [[flora-thome|Flora Thomé]], [[geraldo-ramon-pereira|Geraldo Ramon Pereira]], [[guimaraes-rocha|Guimarães Rocha]], [[heliophar-serra|Heliophar Serra]], Henrique de Medeiros, [[jose-couto-vieira-pontes|José Couto Vieira Pontes]], [[jose-pedro-frazao|José Pedro Frazão]], [[lucilene-machado|Lucilene Machado]], Orlando Antunes Batista, [[raquel-naveira|Raquel Naveira]], Reginaldo Araújo, [[rubenio-marcelo|Rubenio Marcelo]], [[samuel-x-medeiros|Samuel Medeiros]] e [[thereza-hilcar|Thereza Hilcar]]. Os críticos são Afonso de Castro, Marcelo Marinho, [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] e [[paulo-s-nolasco|Paulo Nolasco]].[^asl20]
 
 Em texto próprio sobre o livro, citado no noticiário, Maria da Glória Sá Rosa diz que a obra nasceu do desejo de caminhar junto com os autores pesquisados. Os depoimentos, nos quais cada um organizou suas lembranças em ordem cronológica, mostrariam os traços de uma literatura de muitas influências.[^asl20] Em 2014, ela contou que entrevistou [[flora-thome|Flora Thomé]] em Três Lagoas para o livro.[^asl25]
 
 ## Lançamento
 
-Em texto publicado em 2011, José Couto Vieira Pontes diz que o lançamento ocorreu em 31 de março daquele ano, em noite de autógrafos no Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO). Ele afirma que o livro aborda a obra de 25 autores e destaca o prefácio de José Fernandes.[^asl19]
+Em texto publicado em 2011, José Couto Vieira Pontes diz que o lançamento ocorreu em 31 de março daquele ano, em noite de autógrafos no [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]]. Ele afirma que o livro aborda a obra de 25 autores e destaca o prefácio de José Fernandes.[^asl19]
 
 Antes dele, as duas autoras haviam publicado em coautoria a obra didática *Cultura, Literatura e Língua Nacional*, em três volumes, em 1976.[^asl19]
 
@@ -36,7 +36,7 @@ As fontes contam de modo diferente. O estudo de 2019 fala em 21 escritores.[^car
 
 ## Editora
 
-As fontes não concordam sobre a editora. Um estudo de 2019 indica apenas Campo Grande como local de publicação e registra o financiamento do Fundo Cultural do Estado, por meio da FIC/MS.[^carvalho2019] Um estudo de 2024 indica a Fundação de Cultura de Mato Grosso do Sul como editora, com local em Campo Grande.[^sena2024] O noticiário da ASL registra o apoio do FIC/MS, sem nomear a editora.[^asl20] As versões ficam registradas.
+As fontes não concordam sobre a editora. Um estudo de 2019 indica apenas Campo Grande como local de publicação e registra o financiamento do Fundo Cultural do Estado, por meio da FIC/MS.[^carvalho2019] Um estudo de 2024 indica a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] como editora, com local em Campo Grande.[^sena2024] O noticiário da ASL registra o apoio do FIC/MS, sem nomear a editora.[^asl20] As versões ficam registradas.
 
 Um artigo de 2021 lista o livro entre as publicações de Maria da Glória Sá Rosa, em parceria com Albana Xavier Nogueira.[^godinho2021]
 

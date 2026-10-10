@@ -22,15 +22,15 @@ Segundo a mesma reportagem, passou cerca de dez anos na Europa, excursionando co
 
 Entre os parceiros citados estão Renato Teixeira, Pena Branca & Xavantinho e o Bianca Gismonti Trio. Mantém carreira solo paralela e atua como produtor e arranjador de trilhas para cinema e TV.[^senado]
 
-Foi um dos músicos entrevistados por Glorinha Sá Rosa e Idara Duncan no livro *A Música de Mato Grosso do Sul: histórias de vida*, de 2009, citado em artigo da *Trilhas da História*.[^silus]
+Foi um dos músicos entrevistados por Glorinha Sá Rosa e [[idara-duncan|Idara Duncan]] no livro *A Música de Mato Grosso do Sul: histórias de vida*, de 2009, citado em artigo da *Trilhas da História*.[^silus]
 
 Alvaro Neder, em estudo sobre a canção urbana do estado, diz que Antonio Porto é coautor, com [[celito-espindola|Celito Espíndola]], da canção "Abril". Neder cita a música entre obras sem traços regionais reconhecíveis.[^neder]
 
 ## Trabalhos em Campo Grande
 
-No CD *Polck* (2004), de [[rodrigo-teixeira|Rodrigo Teixeira]], a banda que acompanha os compositores convidados era dirigida por Antônio Porto, segundo texto de Maria da Glória Sá Rosa reproduzido pelo Matula Cultural.[^matula]
+No CD *Polck* (2004), de [[rodrigo-teixeira|Rodrigo Teixeira]], a banda que acompanha os compositores convidados era dirigida por Antônio Porto, segundo texto de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] reproduzido pelo Matula Cultural.[^matula]
 
-No CD *GerAções* (2006), produzido por [[marcio-de-camillo|Márcio de Camillo]], ele cantou e tocou "Flor do Limo" com a cantora lírica Clarice Maciel. A canção, composta nos anos 1980 por Paulo Gê, teve arranjo de Porto. A ficha técnica lista voz, violões, teclados, percussão, sax soprano e baixo acústico.[^omflor] Na faixa "Recuerdos de Ypacaraí", de [[amambay-e-amambai|Amambay e Amambaí]] com João Fígar, ele aparece no baixo acústico e no requinto.[^omrec]
+No CD *[[geracoes|GerAções]]* (2006), produzido por [[marcio-de-camillo|Márcio de Camillo]], ele cantou e tocou "Flor do Limo" com a cantora lírica [[clarice-maciel|Clarice Maciel]]. A canção, composta nos anos 1980 por [[paulo-ge|Paulo Gê]], teve arranjo de Porto. A ficha técnica lista voz, violões, teclados, percussão, sax soprano e baixo acústico.[^omflor] Na faixa "Recuerdos de Ypacaraí", de [[amambay-e-amambai|Amambay e Amambaí]] com [[joao-figar|João Fígar]], ele aparece no baixo acústico e no requinto.[^omrec]
 
 ## Obras
 
