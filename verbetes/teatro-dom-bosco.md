@@ -20,6 +20,8 @@ Um artigo de 2013 sobre o teatro de uma escola técnica registra a inauguração
 
 Matéria de janeiro de 2025 anunciou duas sessões, em 15 e 16 de março, de *Hermanoteu na terra de Godah*, da Companhia de Comédia [[os-melhores-do-mundo|Os Melhores do Mundo]], no Teatro Dom Bosco. O texto não informa a cidade da sala, mas diz que a turnê passava "pela Capital".[^cgn2025]
 
+Entre 5 e 7 de setembro de 2026, o palco recebeu o Festival Compondo Talentos, com entrada franca, que marcou o encerramento das oficinas do Instituto Cerrado Central. Reuniu mais de 150 alunos de 12 núcleos de formação, com orquestras, corais e grupos de percussão. Na primeira noite, a [[orquestra-indigena-de-ms|Orquestra Indígena]], mantida pela Fundação Ueze Zahran na Aldeia Urbana Darcy Ribeiro, tocou peças de Villa-Lobos e uma versão em tupi de "Kikio", de [[geraldo-espindola|Geraldo Espíndola]].[^rcn2026]
+
 ## Outras datas e fontes
 
 O histórico oficial do Colégio Salesiano Dom Bosco registra a construção, em 1973, da biblioteca e do teatro, no atual bloco B do colégio, na avenida Mato Grosso. Essa data difere da inauguração em 1974 citada no artigo de Ziliani, e as duas ficam registradas sem escolha entre elas.[^cdb][^ziliani] A Wikipédia em português descreve o teatro como localizado no Colégio Dom Bosco, com 600 lugares, em verbete que ela mesma marca como sem fontes confiáveis.[^wiki]
@@ -45,3 +47,4 @@ Um texto colaborativo do Overmundo, assinado por Ângelo Arruda, lembra que em 1
 [^t360]: ["Teatro Dom Bosco"](https://www.ticket360.com.br/locais/teatro-dom-bosco), *Ticket360*, página do local. Acesso em 10 out. 2026.
 [^amigos]: Amigos da Cidade Morena, ["Teatros: o guia de Campo Grande"](https://amigosdacidademorena.com.br/teatros-o-guia-de-campo-grande/), item 173. Acesso em 10 out. 2026.
 [^om]: Ângelo Arruda, ["Os anos 80 e a música em Campo Grande – Parte 2"](https://www.overmundo.com.br/overblog/os-anos-80-e-a-musica-em-campo-grande-parte-2), *Overmundo*, 18 mar. 2007. Acesso em 10 out. 2026.
+[^rcn2026]: Fernando de Carvalho, ["Teatro Dom Bosco recebe apresentações musicais gratuitas com mais de 150 alunos a partir deste sábado"](https://www.rcn67.com.br/campo-grande/teatro-dom-bosco-recebe-apresentacoes-musicais-gratuitas-com-mais-de-150-alunos-a-partir-deste-sabado), *RCN67*, 5 set. 2026. Acesso em 10 out. 2026.

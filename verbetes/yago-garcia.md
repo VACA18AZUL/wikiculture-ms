@@ -27,6 +27,8 @@ Em 2023 assina o texto de *Tesoura*, com [[fabio-umeda|Fábio Umeda]] no elenco,
 
 Um artigo de 2015 sobre o [[circo-do-mato|Circo do Mato]] traz o nome dele nas legendas de fotos dos anexos, como integrante do elenco de *O palhaço no ½ da rua*, *Encruzilhada: o último cabaré*, *Navalha na carne* e *Um pé de circo*. O corpo do texto não o menciona.[^guimaraes]
 
+Reportagem do *Campo Grande News* de 2 de abril de 2012 o apresenta como um dos fundadores do grupo, com [[mauro-guimaraes|Mauro Guimarães]], Aline (ver [[aline-duenha|Aline Duenha]]) e [[laila-pulcherio|Laila Pulchério]], havia oito anos. Segundo o texto, Aline, Mauro e Yago atuam, fazem direção coletiva e ajudam a elaborar projetos para fundos de incentivo à cultura; Laila cuida da administração e da parte técnica da cena.[^cgn2012]
+
 Matéria de março de 2014 informa que *Navalha de carne*, apresentado pelo grupo naquele mês, tinha no elenco Josiane Vargas, [[mauro-guimaraes|Mauro Guimarães]] e Yago Garcia.[^cgn2014] O título aparece com grafias diferentes nas duas fontes: "Navalha na Carne" no artigo e "Navalha de Carne" na matéria.[^guimaraes][^cgn2014]
 
 Matéria do Overmundo de outubro de 2009, assinada por Carol Alencar, anuncia a estreia de *A encruzilhada: o último cabaré*, no Teatro Prosa, com recursos do FIC, direção de [[larissa-camara|Larissa Câmara]] e cinco atores. Yago Garcia interpreta Yagon, personagem que entra como patrocinador do cabaré falido. O texto é uma colaboração do site e não foi confirmado em outra fonte.[^om2009]
@@ -51,3 +53,4 @@ Um trabalho de 2015 sobre o palhaço na cena teatral de Campo Grande lista o nom
 [^portf]: Teatral Grupo de Risco, [*Portfólio TGR*](https://mapa.cultura.gov.br/files/agent/251895/curriculo-do-tgr-atual-com-portifolio.pdf), PDF no cadastro do grupo nos *Mapas da Cultura*, documento datado de 28 jun. 2024. Acesso em 10 out. 2026.
 [^ce2023]: ["Teatral Grupo de Risco inaugura espaço com montagem 'Tesoura'"](https://correiodoestado.com.br/correio-b/teatral-grupo-de-risco-inaugura-espaco-com-montagem-tesoura/414004/), *Correio do Estado*, 24 abr. 2023. Acesso em 10 out. 2026.
 [^om2009]: Carol Alencar, ["Circo do Mato em novo espetáculo 'A Encruzilhada'"](https://www.overmundo.com.br/overblog/circo-do-mato-em-novo-espetaculo-a-encruzilhada), *Overmundo*, 10 out. 2009 (texto colaborativo). Acesso em 10 out. 2026.
+[^cgn2012]: Ângela Kempfer, ["Campo Grande merece um grupo de teatro como o Circo do Mato"](https://www.campograndenews.com.br/lado-b/artes/campo-grande-merece-um-grupo-de-teatro-como-o-circo-do-mato), *Campo Grande News*, 2 abr. 2012. Acesso em 10 out. 2026.

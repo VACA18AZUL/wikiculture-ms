@@ -24,6 +24,8 @@ Em outubro de 2024, apresentou na praça Ary Coelho, ao lado de [[leonardo-lopes
 
 Em 2023, foi codiretora e uma das intérpretes de [[chafica-espetaculo|*Chafica*]], da [[cia-do-mato|Cia do Mato]], criado em homenagem a [[sarah-abussafi-figueiro|Sarah Abussafi Figueiró]]. Ela diz que o espetáculo busca aproximar o público da história artística do estado.[^cgn2023]
 
+Em 2026, foi uma das artistas selecionadas por convocatória pública para a Mostra 1, 2 na Dança, retomada em Belo Horizonte após dez anos, no Teatro Marília, de 6 a 9 de agosto. A reportagem a identifica como de Campo Grande.[^otempo2026]
+
 ## Obras
 
 - *Quem a mim nomeou o mundo*, com codireção de [[vanessa-macedo|Vanessa Macedo]]. O espetáculo foi feito só por mulheres, da técnica à cena, e trata de gênero na contemporaneidade. Um trecho foi levado a Lyon, e a estreia oficial estava marcada para 17 de outubro de 2025, no Sesc Cultura, em Campo Grande.[^cgn2025] Divergência de local: o *Correio do Estado* de 15 de outubro de 2025 informa estreia no Sesc Teatro Prosa, em duas sessões (16h e 19h), com Libras e audiodescrição, e apoio do Fundo Municipal de Investimentos Culturais (Fmic 2024). Segundo essa matéria, o trabalho de criação durou cinco meses, a partir de maio, em diálogo remoto e presencial com Vanessa Macedo, diretora e coreógrafa da Cia. Fragmento de Dança (SP). A produção é da Manaká Cultural.[^ce2025b]
@@ -35,3 +37,4 @@ Em 2023, foi codiretora e uma das intérpretes de [[chafica-espetaculo|*Chafica*
 [^educativa2025]: Magna Melo, ["Bailarina representa Mato Grosso do Sul na Bienal de Dança de Lyon – França"](https://educativa.ms/2025/09/09/bailarina-representa-mato-grosso-do-sul-na-bienal-de-danca-de-lyon-franca/), *Educativa MS*, 9 set. 2025. Acesso em 10 out. 2026.
 [^semana2024]: Thailla Torres, ["Semana Pra Dança terá espetáculos, oficinas e ações de graça pela cidade"](https://www.campograndenews.com.br/lado-b/diversao/semana-pra-danca-tera-espetaculos-oficinas-e-acoes-de-graca-pela-cidade), *Campo Grande News*, 25 set. 2024. Acesso em 8 out. 2026.
 [^cgn2023]: Thailla Torres, ["Espetáculo homenageia Sarah Abussafi Figueiró, ícone da cultura de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/espetaculo-homenageia-sarah-abussafi-figueiro-icone-da-cultura-de-ms), *Campo Grande News*, 27 set. 2023. Acesso em 8 out. 2026.
+[^otempo2026]: ["Mostra 1, 2 na Dança retorna após dez anos e coloca o protagonismo feminino no centro da cena em BH"](https://www.otempo.com.br/entretenimento/2026/8/3/mostra-1-2-na-danca-retorna-apos-dez-anos-e-coloca-o-protagonismo-feminino-no-centro-da-cena-em-bh), *O Tempo*, 3 ago. 2026. Acesso em 10 out. 2026.
