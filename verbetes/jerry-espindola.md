@@ -6,6 +6,7 @@ resumo: Cantor e compositor de Mato Grosso do Sul, em atividade desde os anos 19
 ficha:
   Atividade: Canto e composição
   Grupo: Hermanos Irmãos
+  Parcerias: "[[alzira-espindola|Alzira E]]; [[rodrigo-teixeira|Rodrigo Teixeira]]; [[paulo-simoes|Paulo Simões]]; [[antonio-porto|Antônio Porto]]"
   Discos: 12 até 2026, entre solos e coletivos
 status: rascunho
 atualizado: 2026-10-10
@@ -17,9 +18,11 @@ atualizado: 2026-10-10
 
 Em 2022, o trio Hermanos Irmãos era formado por ele, [[marcio-de-camillo|Márcio de Camillo]] e [[rodrigo-teixeira|Rodrigo Teixeira]]. Segundo o Campo Grande News, o grupo fazia circuitos em campi da UFMS desde 2010.[^cgnhm]
 
-Com Rodrigo Teixeira, compôs "Delta da Vida", que dá nome a um EP de três músicas inéditas e uma regravação de "Litoral Central", de [[geraldo-roca|Geraldo Roca]]. As gravações foram feitas em julho e agosto de 2021, em um estúdio de Campo Grande.[^cgnhm]
+Com [[rodrigo-teixeira|Rodrigo Teixeira]], compôs "Delta da Vida", que dá nome a um EP de três músicas inéditas e uma regravação de "Litoral Central", de [[geraldo-roca|Geraldo Roca]]. As gravações foram feitas em julho e agosto de 2021, em um estúdio de Campo Grande.[^cgnhm]
 
 Em fevereiro de 2026, estreou no Sesc Teatro Prosa, em Campo Grande, o show *40 Tons*, que celebrava 43 anos de carreira. Segundo a matéria, o álbum *40 Tons* é o 12º de sua trajetória, entre discos solos e coletivos.[^afc]
+
+Segundo a matéria de março de 2026 do Tribuna do Sertão, *40 Tons* saiu nas plataformas digitais em 27 de fevereiro, pela Orum Sounds, com 12 faixas, e foi viabilizado pela Lei Paulo Gustavo por edital da Fundação de Cultura de Mato Grosso do Sul. A faixa "Teu" é dividida com Chico César, e o disco traz parcerias com [[alzira-espindola|Alzira E]] (quatro canções), [[rodrigo-teixeira|Rodrigo Teixeira]], Anelis Assumpção e outros. Em "Velho Hospício", compôs com [[paulo-simoes|Paulo Simões]] e [[antonio-porto|Antônio Porto]]. [[geraldo-espindola|Geraldo Espíndola]] canta em "Caia no Samba", e [[tete-espindola|Tetê Espíndola]] participa de "Velho Hospício".[^tribsertao]
 
 ## Origem e polca-rock
 
@@ -33,7 +36,7 @@ Jerry atua também como produtor cultural e participou da [[associacao-de-musico
 
 ## GerAções e Hermanos Irmãos
 
-No CD *[[geracoes|GerAções]]* (2006), produzido por Márcio de Camillo, Jerry cantou "Polka outra vez" com [[karina-marques|Karina Marques]]. A canção é de [[geraldo-roca|Geraldo Roca]], que a compôs em meados dos anos 1970, segundo o texto do Overmundo sobre a faixa.[^omger] O trio Hermanos Irmãos, com Márcio de Camillo e [[rodrigo-teixeira|Rodrigo Teixeira]], foi formado em 2010 e lançou um CD em 2011, segundo o Dicionário Cravo Albin.[^cravo]
+No CD *[[geracoes|GerAções]]* (2006), produzido por [[marcio-de-camillo|Márcio de Camillo]], Jerry cantou "Polka outra vez" com [[karina-marques|Karina Marques]]. A canção é de [[geraldo-roca|Geraldo Roca]], que a compôs em meados dos anos 1970, segundo o texto do Overmundo sobre a faixa.[^omger] O trio Hermanos Irmãos, com Márcio de Camillo e [[rodrigo-teixeira|Rodrigo Teixeira]], foi formado em 2010 e lançou um CD em 2011, segundo o Dicionário Cravo Albin.[^cravo]
 
 ## Show de 2025
 
@@ -50,6 +53,7 @@ Em março de 2025, na terceira edição do Campão Cultural, Jerry apresentou um
 
 ## Para saber mais
 
+- [Jerry Espíndola (@jerryespindola) no Instagram](https://www.instagram.com/jerryespindola/) — canal de Jerry Espíndola, indicado pelo Tribuna do Sertão como lugar para acompanhar seus trabalhos.[^tribsertao]
 - [Jerry Espíndola, na série Som Brasilis](https://www12.senado.leg.br/radio/1/som-brasilis-1/2023/01/06/jerry-espindola-ms) — perfil curto da Rádio Senado, com áudio.[^sen]
 - [Jerry Espíndola aposta no impacto da polca-rock](https://www.cliquemusic.com.br/materias/ver/jerry-espindola-aposta-no-impacto-da-polcarock.html) — reportagem de 2001 sobre a origem da polca-rock.[^clique]
 
@@ -61,3 +65,4 @@ Em março de 2025, na terceira edição do Campão Cultural, Jerry apresentou um
 [^wiki]: ["Jerry Espíndola"](https://pt.wikipedia.org/wiki/Jerry_Esp%C3%ADndola), *Wikipédia em português* (texto colaborativo; a página trata do mesmo músico). Acesso em 10 out. 2026.
 [^omger]: Rodrigo Teixeira, ["CD GerAções • Polka outra vez • Jerry Espíndola e Karina Marques • II"](https://www.overmundo.com.br/banco/cd-geracoes-polka-outra-vez-jerry-espindola-e-karina-marques-ii), *Overmundo*, 4 set. 2006. Acesso em 10 out. 2026.
 [^cravo]: ["Márcio de Camillo"](https://dicionariompb.com.br/artista/marcio-de-camillo/), *Dicionário Cravo Albin da Música Popular Brasileira*. Acesso em 10 out. 2026.
+[^tribsertao]: ["Cantor e compositor Jerry Espíndola lança Lyric Video de \"Teu\", faixa que divide a autoria com Chico César"](https://www.tribunadosertao.com.br/variedades/2026/03/24/877722-cantor-e-compositor-jerry-espindola-lanca-lyric-video-de-teu-faixa-que-divide-a-autoria-com-chico-cesar), *Tribuna do Sertão*, 24 mar. 2026. Acesso em 10 out. 2026.

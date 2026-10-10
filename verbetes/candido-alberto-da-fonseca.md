@@ -23,7 +23,7 @@ Foi coautor, com [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e [[paulo
 
 Também desenvolveu o documentário que acompanha o livro *Memória da Arte em MS*, de 1992.[^silus]
 
-Em 1980 dirigiu o curta *Conceição dos Bugres*, de cerca de 10 minutos, sobre a artesã Conceição, gravado na casa em que ela vivia, na região da UFMS, em Campo Grande. Após pronto, o filme chegou a ser exibido em cinemas do Rio de Janeiro.[^cgn]
+Em 1980 dirigiu o curta *[[conceicao-dos-bugres|Conceição dos Bugres]]*, de cerca de 10 minutos, sobre a artesã Conceição, gravado na casa em que ela vivia, na região da UFMS, em Campo Grande. Após pronto, o filme chegou a ser exibido em cinemas do Rio de Janeiro.[^cgn]
 
 Em 2016, a reportagem do Campo Grande News informou que parte dos negativos havia se deteriorado após 36 anos. Foram recuperados com recursos de emenda parlamentar e ficaram com a Fundação Estadual de Cultura. Segundo o cineasta, o Estado comprou a propriedade dos negativos.[^cgn]
 
@@ -43,7 +43,7 @@ As reportagens de 2025 citam ainda o documentário *Silvino Jacques – Itinerá
 - *Silvino Jacques – Itinerário de um Matador*, documentário. A fonte não informa o ano.[^cgn25]
 - *Sasha Siemel*, documentário. A fonte não informa o ano.[^mis]
 - *O Caçador de Onças*, filme com participação do produtor Bill Footman. A fonte não informa o ano.[^rcn]
-- Livro sobre festivais de música em MS, de 1982, com Maria da Glória Sá Rosa e Paulo Simões[^silus]
+- Livro sobre festivais de música em MS, de 1982, com [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e [[paulo-simoes|Paulo Simões]][^silus]
 
 [^rcn]: Duda Schindler, ["Morre Cândido Alberto da Fonseca, nome importante da cultura de MS"](https://www.rcn67.com.br/campo-grande/massafm/morre-candido-alberto-da-fonseca-nome-importante-da-cultura-de-ms), *RCN67*, 23 abr. 2025. Acesso em 8 out. 2026.
 [^cgn]: Thailla Torres, ["Documentário sobre Conceição é recuperado e pode se tornar patrimônio de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/-documentario-sobre-conceicao-e-recuperado-e-pode-se-tornar-patrimonio-de-ms), *Campo Grande News*, 26 jul. 2016. Acesso em 8 out. 2026.

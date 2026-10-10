@@ -58,7 +58,7 @@ Em 2006, as duas gravaram "Flor mato-grossense" no CD *[[geracoes|GerAções]]*,
 
 ## Para saber mais
 
-- [Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1) — livro de Rodrigo Teixeira, em PDF, com entrevista longa das irmãs e discografia.[^pio]
+- [Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1) — livro de [[rodrigo-teixeira|Rodrigo Teixeira]], em PDF, com entrevista longa das irmãs e discografia.[^pio]
 
 [^cgnth]: Thailla Torres, ["Betinha cantou sem medo em tempos difíceis e virou documentário"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/betinha-cantou-sem-medo-em-tempos-dificeis-e-virou-documentario), *Campo Grande News*, 18 dez. 2025. Acesso em 8 out. 2026.
 [^cgnko]: Kamila Alcântara, ["Princesinha da fronteira de MS, cantora Betinha morre aos 84 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/princesinha-da-fronteira-de-ms-cantora-betinha-morre-aos-84-anos), *Campo Grande News*, 18 dez. 2025. Acesso em 8 out. 2026. A própria reportagem dá 84 anos no título e 83 no resumo; este verbete não informa a idade.

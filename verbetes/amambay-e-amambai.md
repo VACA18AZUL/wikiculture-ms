@@ -20,7 +20,7 @@ Segundo a reportagem de 2016, a dupla foi pioneira do sertanejo no estado. Canta
 
 A matéria de 2016 traz "60 anos" no título e fala em "50 anos de carreira" no texto. A de 2022 também fala em 50 anos. Ambas dão cerca de 18 discos gravados.[^cgn16][^cgn22]
 
-Segundo a reportagem de 2016, [[ze-correa|Zé Corrêa]] convidou a dupla para formar um trio, em 1969. Depois, eles gravaram um disco com Dino Rocha.[^cgn16]
+Segundo a reportagem de 2016, [[ze-correa|Zé Corrêa]] convidou a dupla para formar um trio, em 1969. Depois, eles gravaram um disco com [[dino-rocha|Dino Rocha]].[^cgn16]
 
 Em 1977, a dupla lançou um disco com o sucesso "Vila Guilhermina".[^cgn16] Amambai também apareceu em três capítulos da novela *Pantanal*, de 1990.[^cgn16]
 
@@ -36,7 +36,7 @@ Amambay afirma que a dupla se diferenciava por misturar boleros, guarânias e ta
 
 ## Trio e gravações
 
-Por volta de 1961, a dupla formou um trio com o acordeonista [[elinho-do-bandoneon|Elinho do Bandoneon]], que tocava na Rádio Educação Rural, em Campo Grande. Eles também faziam programas em rádios de São Paulo, onde Zacarias Mourão os levou a emissoras como Bandeirantes, Excelsior e Nacional.[^pio]
+Por volta de 1961, a dupla formou um trio com o acordeonista [[elinho-do-bandoneon|Elinho do Bandoneon]], que tocava na Rádio Educação Rural, em Campo Grande. Eles também faziam programas em rádios de São Paulo, onde [[zacarias-mourao|Zacarias Mourão]] os levou a emissoras como Bandeirantes, Excelsior e Nacional.[^pio]
 
 Segundo o livro, em 1964 a dupla passou a tocar com [[ze-correa|Zé Corrêa]], que depois foi gravar com [[delio-e-delinha|Délio e Delinha]] na gravadora Califórnia e iniciou carreira solo. A reportagem do Campo Grande News de 2016 situa o convite de Zé Corrêa para o trio em 1969. As duas versões constam das fontes; este verbete não escolhe entre elas.[^pio][^cgn16]
 
@@ -46,7 +46,7 @@ Dino Rocha tocou com a dupla a partir do fim de 1972, segundo o livro, e depois 
 
 ## GerAções e despedida
 
-Em 2006, a dupla gravou "Recuerdos de Ypacaraí" com [[joao-figar|João Fígar]] no CD *[[geracoes|GerAções]]*, produzido por [[marcio-de-camillo|Márcio de Camillo]], com [[antonio-porto|Antonio Porto]] no baixo acústico e requinto. O texto do Overmundo fala em 35 anos de carreira e 15 discos.[^omrec] Márcio de Camillo apontou a dupla como um dos três pilares da história da música de MS, ao lado de [[geraldo-roca|Geraldo Roca]] e do curso de música da UFMS.[^omcam]
+Em 2006, a dupla gravou "Recuerdos de Ypacaraí" com [[joao-figar|João Fígar]] no CD *[[geracoes|GerAções]]*, produzido por [[marcio-de-camillo|Márcio de Camillo]], com [[antonio-porto|Antonio Porto]] no baixo acústico e requinto. O texto do Overmundo fala em 35 anos de carreira e 15 discos.[^omrec] [[marcio-de-camillo|Márcio de Camillo]] apontou a dupla como um dos três pilares da história da música de MS, ao lado de [[geraldo-roca|Geraldo Roca]] e do curso de música da UFMS.[^omcam]
 
 Amambaí morreu em 2018. Amambai morreu na noite de 3 de maio de 2022, segundo o Campo Grande News.[^cgn22]
 
@@ -59,7 +59,7 @@ Amambaí morreu em 2018. Amambai morreu na noite de 3 de maio de 2022, segundo o
 
 ## Para saber mais
 
-- [Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1) — livro de Rodrigo Teixeira em PDF, com entrevista da dupla e discografia.[^pio]
+- [Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1) — livro de [[rodrigo-teixeira|Rodrigo Teixeira]] em PDF, com entrevista da dupla e discografia.[^pio]
 
 [^cgn16]: Thailla Torres, ["Amambai e Amambaí se separaram, mas cobram apoio após 60 anos na música"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/amambai-e-amambai-se-separaram-mas-cobram-apoio-apos-60-anos-na-musica), *Campo Grande News*, 28 ago. 2016. Acesso em 8 out. 2026.
 [^cgn22]: Thailla Torres, ["Quatro anos após se despedir do parceiro de música, cantor Amambai morre"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/quatro-anos-apos-se-despedir-do-parceiro-de-musica-cantor-amambai-morre), *Campo Grande News*, 4 maio 2022. Acesso em 8 out. 2026.

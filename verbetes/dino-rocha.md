@@ -24,9 +24,9 @@ Aos 12 anos mudou-se para Ponta Porã. Um ano depois tocava em bailes e tinha um
 
 Chegou a Campo Grande em 1972, segundo a reportagem de 2016. A Midiamax diz 1971.[^cgn][^midiamax]
 
-A reportagem de 2016 diz que ele tocou com Dominguinhos. Afirma também que Zacarias Mourão o apelidou e o levou a São Paulo.[^cgn]
+A reportagem de 2016 diz que ele tocou com Dominguinhos. Afirma também que [[zacarias-mourao|Zacarias Mourão]] o apelidou e o levou a São Paulo.[^cgn]
 
-A "Gaivota Pantaneira", gravada em 1973 no primeiro disco dele, com a dupla Amambai e Amambaí, tornou-se seu maior sucesso depois da novela *Pantanal*, de 1990.[^cgn][^midiamax] A Midiamax o descreve como autor da música. Ele participou de capítulos da novela ao lado de [[almir-sater|Almir Sater]]. A reportagem de 2016 fala em três participações, junto com Sérgio Reis e Almir Sater.[^cgn][^midiamax]
+A "Gaivota Pantaneira", gravada em 1973 no primeiro disco dele, com a dupla Amambai e Amambaí, tornou-se seu maior sucesso depois da novela *Pantanal*, de 1990.[^cgn][^midiamax] A Midiamax o descreve como autor da música. Ele participou de capítulos da novela ao lado de [[almir-sater|Almir Sater]]. A reportagem de 2016 fala em três participações, junto com Sérgio Reis e [[almir-sater|Almir Sater]].[^cgn][^midiamax]
 
 Em 1991 venceu o prêmio Jacaré de Prata, segundo a Midiamax, que o cita como melhor instrumentista do Brasil naquele ano.[^midiamax]
 
@@ -52,7 +52,7 @@ A discografia do livro, que reproduz o conteúdo dos encartes, lista ainda *Meus
 
 ## Os Filhos de Goiás e outros trabalhos
 
-Amambay conta que a dupla indicou Dino ao grupo [[os-filhos-de-goias|Os Filhos de Goiás]], de São Paulo, e Dino diz que passou a acompanhá-los em 1976, quando o sanfoneiro anterior saiu. Com eles gravou *Os Reis do Chamamé* (1976, Continental), *Helena Maria* e *Cotovelo do Povo*. De volta a Campo Grande, participou, em 1979, de disco de Amambay e Amambaí.[^pio]
+Amambay conta que a dupla indicou Dino ao grupo [[os-filhos-de-goias|Os Filhos de Goiás]], de São Paulo, e Dino diz que passou a acompanhá-los em 1976, quando o sanfoneiro anterior saiu. Com eles gravou *Os Reis do Chamamé* (1976, Continental), *Helena Maria* e *Cotovelo do Povo*. De volta a Campo Grande, participou, em 1979, de disco de [[amambay-e-amambai|Amambay e Amambaí]].[^pio]
 
 Nos últimos anos, integrou o grupo [[chalana-de-prata|Chalana de Prata]], ao lado de [[paulo-simoes|Paulo Simões]], [[guilherme-rondon|Guilherme Rondon]] e [[celito-espindola|Celito Espíndola]].[^cgn19][^cor19] O Campo Grande News cita ainda sua participação nos projetos "Balaio Brasil" (Sesc São Paulo, 2000) e "Sanfona brasileira" (CCBB), em "Brasil da Sanfona" (Sesc São Paulo, 2002) e no Festival de Inverno de Bonito de 2017.[^cgn19] O Diário Corumbaense diz que ele foi homenageado no Festival América do Sul de 2012, em Corumbá.[^diario]
 
@@ -66,7 +66,7 @@ Nos últimos anos, integrou o grupo [[chalana-de-prata|Chalana de Prata]], ao la
 
 ## Para saber mais
 
-- [Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1) — livro de Rodrigo Teixeira, em PDF, com entrevista de Dino Rocha e discografia.[^pio]
+- [Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1) — livro de [[rodrigo-teixeira|Rodrigo Teixeira]], em PDF, com entrevista de Dino Rocha e discografia.[^pio]
 - [Morre aos 68 anos Dino Rocha, o maior sanfoneiro do Brasil](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/morre-aos-68-anos-dino-rocha-o-maior-sanfoneiro-do-brasil) — nota biográfica do Campo Grande News, de 2019.[^cgn19]
 - [Dino Rocha foi, é, e será, pois se tornou imortal](https://www.topmidianews.com.br/in-memoriam/dino-rocha-foi-e-e-sera-pois-se-tornou-imortal-a-despedida-de/106129/) — matéria da TOP Mídia News sobre a morte e a despedida do músico.
 

@@ -34,9 +34,9 @@ No CD *[[geracoes|GerAções]]* (2006), produzido por [[marcio-de-camillo|Márci
 
 ## Obras
 
-- "Abril", com Celito Espíndola[^neder]
+- "Abril", com [[celito-espindola|Celito Espíndola]][^neder]
 - Arranjo e interpretação de "Flor do Limo" (Paulo Gê), com Clarice Maciel, no CD *GerAções* (2006)[^omflor]
-- Direção da banda do CD *Polck* (2004), de Rodrigo Teixeira[^matula]
+- Direção da banda do CD *Polck* (2004), de [[rodrigo-teixeira|Rodrigo Teixeira]][^matula]
 - "Desumanidade", "Fases da Lua" e "Cordel chinês", faixas de sua autoria que a Rádio Senado incluiu em sua seleção musical[^senado]
 
 ## Para saber mais

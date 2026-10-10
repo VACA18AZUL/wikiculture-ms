@@ -32,6 +32,8 @@ Teixeira escreve que ela gravou três discos pela Eldorado (1994, 1996 e 1997), 
 
 A Wikipédia data o documentário *Dona Helena*, de Dainara Toffoli, de 2006.[^wikipt]
 
+Em agosto de 2026, a RCN67 noticiou outro documentário de longa-metragem, *Helena Meirelles, Som e Cor do Pantanal*, dirigido por Cyro Clemente. Faz parte de um projeto financiado pela Lei Paulo Gustavo, que inclui uma música de [[jerry-espindola|Jerry Espíndola]] em homenagem a ela e um mural do artista Marcos Rezende. O filme usou pesquisa em acervos do Museu da Imagem e do Som e da Concha Acústica Helena Meirelles e vinha sendo exibido em escolas de Campo Grande.[^rcn2026]
+
 ## Obras
 
 - *Helena Meirelles* (1994)[^cgn2014]
@@ -42,7 +44,7 @@ A Wikipédia data o documentário *Dona Helena*, de Dainara Toffoli, de 2006.[^w
 
 ## Para saber mais
 
-- [Os Pioneiros mira primeiros compositores de MS](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), apresentação do livro de Rodrigo Teixeira no Overmundo, com um texto sobre a trajetória de Helena Meirelles e os motivos de ela ficar de fora do livro.[^piop]
+- [Os Pioneiros mira primeiros compositores de MS](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), apresentação do livro de [[rodrigo-teixeira|Rodrigo Teixeira]] no Overmundo, com um texto sobre a trajetória de Helena Meirelles e os motivos de ela ficar de fora do livro.[^piop]
 
 [^tribuna]: Redação, ["Dama da viola pára de tocar para sempre"](https://www.tribunapr.com.br/mais-pop/dama-da-viola-para-de-tocar-para-sempre/), *Tribuna do Paraná*, 30 set. 2005 (atualizado em 19 jan. 2013). Acesso em 8 out. 2026.
 [^cgn2014]: Paula Maciulevicius, ["Produzido na Capital, documentário narra vida e obra de Helena Meirelles"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/produzido-na-capital-documentario-narra-vida-e-obra-de-helena-meirelles), *Campo Grande News*, 15 fev. 2014. Acesso em 8 out. 2026.
@@ -50,3 +52,4 @@ A Wikipédia data o documentário *Dona Helena*, de Dainara Toffoli, de 2006.[^w
 [^wikipt]: ["Helena Meirelles"](https://pt.wikipedia.org/wiki/Helena_Meirelles), *Wikipédia* (edição em português; conteúdo colaborativo). Acesso em 10 out. 2026.
 [^pio]: Rodrigo Teixeira, ["Os Pioneiros mira primeiros compositores de MS"](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms) (texto de apresentação do livro *Os Pioneiros*), *Overmundo*, 15 jan. 2010. Acesso em 10 out. 2026.
 [^piop]: Rodrigo Teixeira, ["Os Pioneiros mira primeiros compositores de MS"](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), *Overmundo*, 15 jan. 2010. Acesso em 10 out. 2026.
+[^rcn2026]: Ana Lorena Franco, ["Helena Meirelles ganha documentário sobre legado na música sul-mato-grossense"](https://www.rcn67.com.br/campo-grande/helena-meirelles-ganha-documentario-sobre-legado-na-musica-sul-mato-grossense/), *RCN67*, 17 ago. 2026. Acesso em 10 out. 2026.

@@ -22,7 +22,7 @@ O Campo Grande News o descreve como um dos principais compositores da música re
 
 Lançou o disco *Veneno Light* em 2006.[^camillo] Um estudo bibliográfico de 2024 diz que criou o conceito de "Música do Litoral Central", analisado por Neder em 2014, e o lista entre os entrevistados do livro *A Música de Mato Grosso do Sul* (2009).[^silus]
 
-Segundo o músico [[marcio-de-camillo|Márcio de Camillo]], Roca integrou a "geração de ouro" da música pantaneira do estado, ao lado de Paulo Simões, Alzira E, [[geraldo-espindola|Geraldo Espíndola]], [[tete-espindola|Tetê Espíndola]] e Almir Sater. Em setembro de 2024, Camillo estreou no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, um show em homenagem a ele, com direção de Luiz André Cherubini.[^camillo]
+Segundo o músico [[marcio-de-camillo|Márcio de Camillo]], Roca integrou a "geração de ouro" da música pantaneira do estado, ao lado de [[paulo-simoes|Paulo Simões]], Alzira E, [[geraldo-espindola|Geraldo Espíndola]], [[tete-espindola|Tetê Espíndola]] e [[almir-sater|Almir Sater]]. Em setembro de 2024, Camillo estreou no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, um show em homenagem a ele, com direção de Luiz André Cherubini.[^camillo]
 
 Segundo a Wikipédia em português, nasceu no Rio de Janeiro em 9 de junho de 1954.[^wikipt] Em entrevista ao Overmundo em 2007, Roca se descreveu como carioca de nascimento, com família proprietária de fazendas em Mato Grosso do Sul, e disse que só se mudou para Campo Grande em 1988.[^omtrilhos]
 
