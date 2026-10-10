@@ -7,7 +7,7 @@ resumo: Cineasta, roteirista, dramaturgo e jornalista de Mato Grosso do Sul, mor
 ficha:
   Atividade: Cinema, roteiro, dramaturgia e jornalismo
   Morte: 23 de abril de 2025, Campo Grande
-  Obra: "[[conceicao-dos-bugres|Conceição dos Bugres]] (curta, 1980)"
+  Obra: "[[conceicao-dos-bugres-curta|Conceição dos Bugres]] (curta, 1980)"
   Livro: Festivais de música em MS, coautoria de 1982
 status: rascunho
 atualizado: 2026-10-10
@@ -23,7 +23,7 @@ Foi coautor, com [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e [[paulo
 
 Também desenvolveu o documentário que acompanha o livro *Memória da Arte em MS*, de 1992.[^silus]
 
-Em 1980 dirigiu o curta *[[conceicao-dos-bugres|Conceição dos Bugres]]*, de cerca de 10 minutos, sobre a artesã Conceição, gravado na casa em que ela vivia, na região da UFMS, em Campo Grande. Após pronto, o filme chegou a ser exibido em cinemas do Rio de Janeiro.[^cgn]
+Em 1980 dirigiu o curta *[[conceicao-dos-bugres-curta|Conceição dos Bugres]]*, de cerca de 10 minutos, sobre a artesã Conceição, gravado na casa em que ela vivia, na região da UFMS, em Campo Grande. Após pronto, o filme chegou a ser exibido em cinemas do Rio de Janeiro.[^cgn]
 
 Em 2016, a reportagem do Campo Grande News informou que parte dos negativos havia se deteriorado após 36 anos. Foram recuperados com recursos de emenda parlamentar e ficaram com a Fundação Estadual de Cultura. Segundo o cineasta, o Estado comprou a propriedade dos negativos.[^cgn]
 
@@ -33,7 +33,7 @@ Segundo a matéria de 2025, também participou de movimentos de defesa dos direi
 
 ## Filmes
 
-O Campo Grande News de 2025 descreve *Conceição dos Bugres* como filmado em 35 mm, com cerca de 30 minutos, e diz que ele integra o acervo da Fundação Estadual de Cultura, com processo para reconhecimento como patrimônio cultural do estado. A reportagem de 2016 fala em cerca de 10 minutos; as duas durações não coincidem.[^cgn25][^mis][^cgn] A escultora retratada tem verbete próprio: [[conceicao-dos-bugres|Conceição dos Bugres]].[^cgn25]
+O Campo Grande News de 2025 descreve *Conceição dos Bugres* como filmado em 35 mm, com cerca de 30 minutos, e diz que ele integra o acervo da Fundação Estadual de Cultura, com processo para reconhecimento como patrimônio cultural do estado. A reportagem de 2016 fala em cerca de 10 minutos; as duas durações não coincidem.[^cgn25][^mis][^cgn] A escultora retratada tem verbete próprio: [[conceicao-dos-bugres-curta|Conceição dos Bugres]].[^cgn25]
 
 As reportagens de 2025 citam ainda o documentário *Silvino Jacques – Itinerário de um Matador*, sobre uma figura do início do século XX, cujos negativos desapareceram por um tempo e foram recuperados com apoio da Cinemateca Brasileira, e o documentário *Sasha Siemel*, sobre o caçador letão radicado no Pantanal.[^cgn25][^mis] Em 25 de abril de 2025, o [[mis-ms|Museu da Imagem e do Som]] de MS exibiu *Conceição dos Bugres* e *Sasha Siemel* em homenagem a ele.[^mis]
 
