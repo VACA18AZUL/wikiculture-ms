@@ -8,6 +8,7 @@ ficha:
   Fundação: "2003"
   Direção: "[[marcelo-leite|Marcelo Leite]]"
   Espaço: Espaço Fulano di Tal
+  Gestão: "[[marcelo-leite|Marcelo Leite]] e [[edner-gustavo|Edner Gustavo]] (segundo o Diário Digital, 2026)"
 status: rascunho
 atualizado: 2026-10-10
 ---
@@ -37,6 +38,10 @@ Em 2022, o grupo inaugurou um espaço cultural no centro de Campo Grande para es
 ## Palco Giratório e Petúnia
 
 Em dezembro de 2025, o grupo iniciou a circulação de *Petúnia*, que encerra o projeto "Fulano di Tal – Ato 20" e marca os 22 anos da companhia. A reportagem diz que o grupo já apresentou 18 espetáculos e que percorreu 31 cidades de 18 estados no Palco Giratório do Sesc, na primeira vez em que um grupo de teatro do estado integrou o circuito, antes restrito a companhias de dança locais, segundo Marcelo Leite. *Petúnia* tem dramaturgia, direção e produção de Edner Gustavo e elenco de Kelly Figueiredo, Luana Vilela e Nicoli Dichoff. A circulação previa seis cidades, com apoio do FIC/MS.[^enfoque]
+
+## Para saber mais
+
+- [Fulano di Tal no Instagram](https://www.instagram.com/fulanodital/) — perfil oficial do grupo (@fulanodital), indicado em reportagem de 2026 como canal de reservas e informações.[^dd2026]
 
 [^cgn2023]: Jéssica Fernandes, ["Fulano di Tal celebra 20 anos com apresentações do espetáculo Seco"](https://www.campograndenews.com.br/lado-b/diversao/fulano-di-tal-celebra-20-anos-com-apresentacoes-do-espetaculo-seco), *Campo Grande News*, 18 set. 2023. Acesso em 8 out. 2026.
 [^boca]: UFMS, [folheto da mostra Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf). Acesso em 8 out. 2026.

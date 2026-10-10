@@ -34,6 +34,7 @@ Na diretoria da ASL, o site da academia o lista como secretário (2020–2023) e
 - *Senhorinha Barbosa Lopes: uma história de resistência feminina na Guerra do Paraguai*, romance histórico de 2007. Uma segunda edição foi lançada em 12 de março de 2012 no Instituto Histórico e Geográfico de MS, pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], com apoio do Fundo de Investimentos Culturais (FIC-MS).[^ufgd2022][^ce2012] O livro retrata a fazendeira de mesmo nome, ligada ao sul do antigo Mato Grosso.[^sena2024][^ce2012]
 - *Contos a Gotas*, citado como obra sua.[^ce2015]
 - *Contos Quase Causos* (2014), publicado pela [[editora-life|Life Editora]].[^araujo2017]
+- *O Certo e o Incerto*, minicontos, 132 páginas, [[editora-life|Life Editora]], com lançamento anunciado, em matéria de 12 de junho de 2023, para uma sexta-feira na Sala de Música do Sesc Cultura, em Campo Grande. O *Correio do Estado* o chama de sétima obra do autor e diz que o livro resulta do I Prêmio Ipê de Literatura (2021), da Secretaria Municipal de Cultura e Turismo. A matéria cita *Minicontos de A a Z*, de 2012, como livro semelhante. No lançamento, a escritora [[lenilde-ramos|Lenilde Ramos]] fez um recital de piano.[^ce2023]
 
 Organizou o n. 4 da *Revista UBE-MS* (2014), com prosa e poesia, segundo o catálogo do acervo regional do portal ARCA, da Prefeitura de Campo Grande.[^arca]
 
@@ -47,6 +48,7 @@ A dissertação de Bruno Rafael Almeida da Silva, defendida no mestrado em Hist�
 - [Memória, história e narrativa na obra Senhorinha Barbosa Lopes, de Samuel Medeiros](https://repositorio.ufgd.edu.br/jspui/handle/prefix/5117) — dissertação aberta da UFGD (2022).
 - [Academia de Letras de MS elege três novos imortais](https://correiodoestado.com.br/cidades/academia-de-letras-de-ms-elege-tres-novos-imortais/254988/) — reportagem do *Correio do Estado*, 2015.
 
+[^ce2023]: ["Livro de Samuel Medeiros traz temas da vida cotidiana, humor e crítica social"](https://correiodoestado.com.br/correio-b/livro-de-samuel-medeiros-traz-temas-da-vida-cotidiana-humor-e-critica/416127/), *Correio do Estado*, 12 jun. 2023. Acesso em 10 out. 2026.
 [^araujo2017]: Susylene Dias de Araujo, ["Novas vozes na fronteira: a literatura contemporânea em Mato Grosso do Sul"](https://abralic.org.br/anais/arquivos/2017_1522196811.pdf), XV Congresso Internacional da ABRALIC, simpósio "Interculturalidade e outras textualidades", p. 3062–3071, 2017. Acesso em 8 out. 2026.
 [^sena2024]: Melly Fatima Goes Sena, ["Violência e memória na literatura de Mato Grosso do Sul: confluências nas obras de Aglay Trindade Nantes, Tania Souza e Gleycielli Nonato"](https://periodicosonline.uems.br/index.php/REV/article/download/8627/6325/37311), *REVELL – Revista de Estudos Literários da UEMS*, v. 2, n. 38, 2024, p. 60–70. Acesso em 8 out. 2026.
 [^ce2012]: ["Fundação de Cultura lança a 2ª edição do livro 'Senhorinha Barbosa Lopes'"](https://correiodoestado.com.br/correio-b/fundacao-de-cultura-lanca-a-2-edicao-do-livro-senhorinha-barbosa-lop/143649/), *Correio do Estado*, 12 mar. 2012. Acesso em 10 out. 2026.
