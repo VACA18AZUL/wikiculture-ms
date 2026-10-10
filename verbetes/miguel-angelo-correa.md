@@ -15,7 +15,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Em 2015, registrou no repositório da UFMS a dissertação *Audiovisual autoral dos povos indígenas de Mato Grosso do Sul: mapeamento e análise*. O trabalho mapeia filmes do século XXI feitos por indígenas no estado, localiza seus realizadores e analisa algumas obras.[^diss] A dissertação foi apresentada ao Programa de Pós-Graduação em Comunicação da UFMS, sob orientação de Álvaro Banducci Júnior. Segundo o resumo, o texto é descritivo, parte de pesquisa de campo com entrevistas e traz informações sobre filmes, realizadores, associações e coletivos, entre eles a [[ascuri|ASCURI]].[^dissufms]
+Em 2015, registrou no repositório da UFMS a dissertação *Audiovisual autoral dos povos indígenas de Mato Grosso do Sul: mapeamento e análise*. O trabalho mapeia filmes do século XXI feitos por indígenas no estado, localiza seus realizadores e analisa algumas obras.[^diss] A dissertação foi apresentada ao Programa de Pós-Graduação em Comunicação da UFMS, sob orientação de [[alvaro-banducci-junior|Álvaro Banducci Júnior]]. Segundo o resumo, o texto é descritivo, parte de pesquisa de campo com entrevistas e traz informações sobre filmes, realizadores, associações e coletivos, entre eles a [[ascuri|ASCURI]].[^dissufms]
 
 Em 2017, a Editora UFMS publicou o livro *O índio e o cinema em Mato Grosso do Sul: mapeamento e análise*, com autoria de Corrêa. O catálogo da editora o descreve como estudo sobre o domínio das tecnologias de comunicação pelos povos indígenas, com mapeamento e análise dos trabalhos filmográficos de cineastas indígenas do estado.[^livro]
 

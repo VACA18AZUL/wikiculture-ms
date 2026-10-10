@@ -1,0 +1,96 @@
+id,rede,url,indicado_em,aberto,observacao,no_verbete
+almir-sater,instagram,https://www.instagram.com/oficialalmirsater/,https://pt.wikipedia.org/wiki/Almir_Sater,"sim 200 (3a tentativa 429; 1a abriu, og:title Almir Sater @oficialalmirsater)",,sim
+alzira-espindola,site,https://www.alzirae.com.br/,https://www.alzirae.com.br/,sim 200,entrou no verbete,sim
+alzira-espindola,instagram,https://www.instagram.com/_alzirae/,resultado de busca (metadados do canal YouTube),sim 200 (og:title Alzira E @_alzirae),nenhuma fonte aberta aponta o perfil como oficial; site oficial nao o linka,nao
+alzira-espindola,youtube,https://www.youtube.com/channel/UCzluf92QS8tEKUFMLOzfvrA,resultado de busca,"sim 200 (titulo ""alzira e"")",sem fonte aberta que o aponte como oficial,nao
+geraldo-espindola,site,https://www.geraldoespindola.com.br/,https://www.geraldoespindola.com.br/,sim 200,entrou no verbete,sim
+geraldo-espindola,facebook,https://www.facebook.com/geraldoespindola/,resultado de busca,nao (login),,nao
+jerry-espindola,facebook,https://www.facebook.com/jerryespindolaoficial,https://pt.wikipedia.org/wiki/Jerry_Esp%C3%ADndola,nao (login),,nao
+jerry-espindola,youtube,https://www.youtube.com/user/espindolajerry,resultado de busca,"sim 200 (descricao ""Cantor, compositor e produtor musical"")",nenhuma fonte aberta o aponta como oficial,nao
+bro-mcs,instagram,https://www.instagram.com/bromcsoficial/,https://pt.wikipedia.org/wiki/Br%C3%B4_Mc's,sim 200 (og:title Bro Mc's @bromcsoficial),entrou no verbete,sim
+guilherme-rondon,youtube,https://www.youtube.com/channel/UCKH2OBVNwDr50NHlw2_paZw,resultado de busca,"sim 200 (descricao propria: compositor, violonista, cantor, 8 CDs)",sem fonte aberta externa que o aponte como oficial,nao
+falange-da-rima,instagram,(nao localizado),https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/morre-flynt-pioneiro-do-rap-em-mato-grosso-do-sul-e-voz-da-falange-da-rima,nao,"materia cita ""perfil oficial"" sem o endereco",nao
+alta-tensao,facebook,https://www.facebook.com/www.bandaaltatensao.com.br/,resultado de busca,nao (login),provavelmente outro grupo; nao usar,nao
+jerry-espindola,instagram,https://www.instagram.com/jerryespindola/,https://www.tribunadosertao.com.br/variedades/2026/03/24/877722-cantor-e-compositor-jerry-espindola-lanca-lyric-video-de-teu-faixa-que-divide-a-autoria-com-chico-cesar,"sim 200 (og:title Jerry Espindola @jerryespindola, 3a tentativa)",entrou no verbete,sim
+paulo-simoes,site,https://www.paulosimoes.com.br/,https://www.paulosimoes.com.br/,sim 200,,sim
+paulo-simoes,youtube,https://www.youtube.com/channel/UCWijixuTQu2QXYYZKvpvndw,https://www.paulosimoes.com.br/,sim 200 (og:title Paulo Simões Oficial),,sim
+paulo-simoes,instagram,https://www.instagram.com/paulosimoesoficial/,https://www.paulosimoes.com.br/,"sim (og:title @paulosimoesoficial, após 429 em tentativas anteriores)",,sim
+paulo-simoes,facebook,https://www.facebook.com/paulosimoesoficial/,https://www.paulosimoes.com.br/,nao (login),,nao
+tete-espindola,instagram,https://www.instagram.com/tete_espindola/,https://billboard.com.br/quem-e-tete-espindola-a-dona-do-hit-viral-escrito-nas-estrelas/,sim (og:title @tete_espindola),,sim
+tete-espindola,youtube,https://www.youtube.com/c/teteespindolaoficial,o próprio canal (descrição: Canal oficial de Tetê Espíndola),sim 200,,sim
+tete-espindola,site,http://teteespindola.com,https://pt.wikipedia.org/wiki/Tet%C3%AA_Esp%C3%ADndola,nao (proxy 502/000),site não aberto; não entrou no verbete,nao
+tete-espindola,x,https://x.com/teteoficial,busca; X liga a teteespindola.com,sim 200 (título Tetê Espíndola (@teteoficial)),"rede X, não incluída",nao
+tete-espindola,instagram,https://www.instagram.com/espindolatete/,busca,nao,provável perfil secundário; não incluído,nao
+tete-e-o-lirio-selvagem,instagram,-,-,-,grupo sem canal próprio; ver tete-espindola,sim
+marcio-de-camillo,instagram,https://www.instagram.com/marciodecamillo/,busca (nenhuma fonte aberta aponta como oficial),sim (og:title Márcio De Camillo @marciodecamillo),"nome e descrição coerentes, mas nenhuma fonte aberta o indica como oficial; não incluído",nao
+orquestra-indigena-de-ms,site,https://www.orquestraindigena.com.br/orquestra/,https://www.orquestraindigena.com.br/orquestra/,sim 200,,sim
+orquestra-indigena-de-ms,youtube,https://www.youtube.com/@orquestraind%C3%ADgenadobrasil,https://www.orquestraindigena.com.br/orquestra/,sim 200 (título: orquestra indigena),,sim
+orquestra-indigena-de-ms,instagram,https://www.instagram.com/orquestraindigena.oficial/,https://www.orquestraindigena.com.br/orquestra/,nao (200 sem og:title legível),link do site oficial; não confirmado o conteúdo,nao
+orquestra-indigena-de-ms,facebook,https://www.facebook.com/profile.php?id=61576189187548,https://www.orquestraindigena.com.br/orquestra/,nao (login),,nao
+rodrigo-teixeira,blog,https://matulacultural.wordpress.com/,o próprio blog,sim 200,blog do próprio; entrou no verbete,sim
+marco,instagram,https://www.instagram.com/marcomuseums/,https://visite.museus.gov.br/instituicoes/museu-de-arte-contemporanea-de-mato-gross-do-sul/,sim 200 (na 2a tentativa),,sim
+marco,site,http://www.marcovirtual.com.br,https://pt.wikipedia.org/wiki/Museu_de_Arte_Contempor%C3%A2nea_de_Campo_Grande,nao (DNS nao resolve),site listado como Pagina oficial na Wikipedia,nao
+carla-de-capua,instagram,https://www.instagram.com/carladecapua/,https://www.carladecapua.com/,nao 429,,nao
+katia-d-angelo,instagram,https://www.instagram.com/katiadangelo_art/,WebSearch (nao prova),"sim 200, titulo Katia D angelo",nenhuma fonte aberta liga o perfil ao nome do verbete; identidade ja incerta,nao
+katia-d-angelo,facebook,https://www.facebook.com/katiadangeloartistaplastica/,WebSearch,nao,,nao
+henrique-spengler,instagram,https://www.instagram.com/unidadeguaicuruviva/,WebSearch (pagina Facebook do projeto),nao 429,"canal do projeto Unidade Guaicuru Viva, nao pessoal",nao
+henrique-spengler,facebook,https://www.facebook.com/unidadeguaicuruviva/,WebSearch,nao,,nao
+henrique-spengler,youtube,"(canal do projeto de extensao UFMS Coxim, URL nao informada)",https://www.diariox.com.br/brasil/projeto-da-ufms-cria-visita-virtual-ao-memorial-henrique-spengler-de/22995/,nao (sem URL),URL do canal nao aparece na materia,nao
+academia-sul-mato-grossense-de-letras,site,https://acletrasms.org.br/,https://pt.wikipedia.org/wiki/Academia_Sul-Mato-Grossense_de_Letras,sim 200,,sim
+academia-sul-mato-grossense-de-letras,instagram,https://www.instagram.com/academiadeletrasms/,https://pt.wikipedia.org/wiki/Academia_Sul-Mato-Grossense_de_Letras,sim 200 (title: Academia Sul-Mato-Grossense de Letras @academiadeletrasms),,sim
+academia-sul-mato-grossense-de-letras,facebook,https://www.facebook.com/academiadeletrasmsoficial/,https://pt.wikipedia.org/wiki/Academia_Sul-Mato-Grossense_de_Letras,nao (Facebook exige login),,nao
+rabisco-easy,instagram,https://www.instagram.com/rabiscoeasy/,https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/lucas-espalha-arte-pelo-comercio-doando-paineis-de-grafite,sim 200 (Rabisco Easy @rabiscoeasy),,sim
+rabisco-easy,tiktok,@rabiscoeasy (sem URL aberta),https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/lucas-espalha-arte-pelo-comercio-doando-paineis-de-grafite,nao,,nao
+marilena-grolli,instagram,https://www.instagram.com/marilenagrolli/,https://www.rcn67.com.br/campo-grande/casa-de-cultura-recebe-mostra-de-grafite-entre-o-urbano-e-o-intimo-de-marilena-grolli/ (credita imagens a @marilenagrolli),nao (429 em 5 tentativas),perfil nao aberto,nao
+wega-nery,facebook,https://www.facebook.com/weganery/,WebSearch (nao aberto),nao,artista morta em 2007; pagina provavelmente de terceiros/memorial; nao entra,nao
+manoel-de-barros,instagram,https://www.instagram.com/casaquintalmanoeldebarros/,https://visite.museus.gov.br/instituicoes/casa-quintal-manoel-de-barros/,sim 200 (titulo confere),"canal do museu, nao do poeta",sim
+manoel-de-barros,facebook,https://www.facebook.com/casaquintalmanoeldebarros/,https://www.google.com (busca),nao,Facebook nao abre,nao
+henrique-komatsu,instagram,https://www.instagram.com/henriqkomatsu/,WebSearch,nao 429,bio 'filmmaker | editor | creator'; pode ser homonimo do escritor,nao
+emmanuel-marinho,site,http://www.emmanuelmarinho.com.br/,https://pt.wikipedia.org/wiki/Emmanuel_Marinho,nao (DNS),,nao
+hernani-donato,site,https://hernanidonato.com.br/,WebSearch (resultado de busca),nao (proxy 502),"provavel site oficial do autor, nao aberto",nao
+life-editora,site,https://lifeeditora.com.br/,WebSearch,nao (429/timeout),,nao
+editora-life,facebook,https://www.facebook.com/LifeEditora/,WebSearch,nao,Facebook nao abre,nao
+teatral-grupo-de-risco,instagram,https://www.instagram.com/teatralgrupoderisco/,"busca web (blog do grupo, nao aberto: sem DNS)","sim, HTTP 200 (og:title ""Teatral Grupo de Risco"")",nenhuma fonte aberta aponta como oficial; nao entrou,nao
+teatral-grupo-de-risco,blog,http://teatralgrupoderisco.blogspot.com.br/,https://correiodoestado.com.br/correio-b/teatral-grupo-de-risco-segue-na-celebracao-dos-seus-35-anos-com/421728/,nao (DNS),"indicado em materia aberta, mas nao abriu",nao
+teatral-grupo-de-risco,facebook,https://www.facebook.com/teatralgrupoderisco.tgr/,busca web,nao (login),,nao
+teatral-grupo-de-risco,facebook,https://www.facebook.com/grupoderisco/,busca web,nao (login),duvida: pagina antiga ou outra,nao
+fulano-di-tal,instagram,https://www.instagram.com/fulanodital/,https://www.diariodigital.com.br/geral/fulano-di-tal-celebra-4-anos-de-espaco-cultural-com-temporada-gratuita,"sim, HTTP 200",entrou no verbete,sim
+flor-e-espinho-teatro,instagram,https://www.instagram.com/floreespinhooficial/,https://www.floreespinho.com/pt/quem-somos,"sim, HTTP 200",entrou no verbete,sim
+flor-e-espinho-teatro,youtube,https://www.youtube.com/@associacaofloreespinho,https://www.floreespinho.com/pt/quem-somos,"sim, HTTP 200",entrou no verbete,sim
+flor-e-espinho-teatro,facebook,https://facebook.com/florespinhoteatro,https://www.floreespinho.com/pt/quem-somos,nao (login),,nao
+"circo-do-mato (aline-duenha, laila-pulcherio)",blog,http://circodomato.blogspot.com/,busca web,nao (DNS),nao abriu,nao
+ascuri,facebook,https://www.facebook.com/ascuri.brasil/,https://ascuri.org/,nao (login),,nao
+ascuri,x,https://x.com/ascuriorg,busca web,nao,nao aberto,nao
+cia-dancurbana,instagram,https://www.instagram.com/ciadancurbana/,"busca web (site dancurbana.com.br segundo a busca; site nao abriu, 502 no proxy)",nao (429),,sim
+cia-dancurbana,facebook,https://www.facebook.com/paginadancurbana/,busca web,nao (login),,nao
+cia-dancurbana,vimeo,https://vimeo.com/dancurbana,https://vimeo.com/dancurbana,sim 200,,sim
+cia-dancurbana,site,https://www.dancurbana.com.br/,busca web,nao (proxy 502),,nao
+cia-de-danca-do-pantanal,site,https://ciadedancadopantanal.com.br/,busca web,nao (proxy 502),,nao
+cia-de-danca-do-pantanal,instagram,https://www.instagram.com/ciadedancadopantanal/,busca web (metadados do site),nao (429),,nao
+funk-se,instagram,@espacofnk (sem URL aberta),https://semanaon.com.br/coluna/cia-funk-se-promove-masterclass-com-renomados-bailarinos-na-capital/,nao,duvida: pode ser o espaco/escola e nao o grupo,nao
+funk-se,site,https://espacofnk.wordpress.com/grupo-funk-se/,busca web,nao testado,,sim
+hands-up-ms,instagram,(handle nao encontrado),Campo Grande News 2021 diz que ha Instagram,nao,,nao
+hands-up-ms,instagram,https://www.instagram.com/handsupms/,https://www.eusoums.com.br/post/depois-de-circular-pelo-brasil-house-of-hands-up-leva-cultura-ballroom-ao-palco-em-campo-grande,sim 200 (PIONEER HOUSE OF HANDS UP MS),entrou no verbete,sim
+funk-se,instagram (espaco fnk),https://www.instagram.com/espacofnk/,https://www.diariodigital.com.br/geral/dia-d-de-danca-tem-aulao-gratuito-de-dancas-urbanas-na-capital,sim 200 (ESPACO FNK),entrou no verbete (canal do espaco),sim
+funk-se,facebook,https://facebook.com/EspacoFNK,https://espacofnk.wordpress.com/grupo-funk-se/,nao (login),,nao
+ascuri,youtube,https://www.youtube.com/channel/UC_EvIOBMTbte94t3YtJWT_Q,https://ascuri.org/nosso-jeito,sim 200,entrou; indicacao indireta (titulo coincidente),nao
+ascuri,site,https://ascuri.org/,-,sim 200,entrou,sim
+fred-hildebrand,instagram,https://www.instagram.com/fredquadrinista/,https://www.behance.net/fredhildebrandart,"nao (login shell, 200 sem perfil)",,nao
+fred-hildebrand,twitter,http://twitter.com/fredehildebrand,https://www.behance.net/fredhildebrandart,nao,,nao
+fred-hildebrand,facebook,http://facebook.com/fredhildebrandart,https://www.behance.net/fredhildebrandart,nao (facebook),,nao
+fabio-quill,instagram,https://www.instagram.com/fabioquill/,https://www.rcn67.com.br/campo-grande/projeto-quebra-torto-abre-inscricoes-para-capacitacao-bolsas-e-publicacao-de-hqs-em-mato-grosso-do-sul,nao (429/login shell),,nao
+avua-edicoes,instagram,https://www.instagram.com/avuaedicoes/,https://www.rcn67.com.br/campo-grande/projeto-quebra-torto-abre-inscricoes-para-capacitacao-bolsas-e-publicacao-de-hqs-em-mato-grosso-do-sul,nao (429/login shell),,nao
+anderson-barboza-grippho,instagram,https://www.instagram.com/andersonbarboza/,https://portale.icnetworks.org/secoes/rumos/quebra-torto-coletanea-hqs-autores-ms,nao (login shell),perfil indicado como de Anderson Barboza; decisao aberta sobre Grippho,nao
+anderson-barboza-grippho,instagram,https://www.instagram.com/grippho/,https://portale.icnetworks.org/secoes/rumos/quebra-torto-coletanea-hqs-autores-ms,nao (login shell),perfil separado listado para Grippho,nao
+marina-duarte,instagram,https://www.instagram.com/marinailustrando/,https://portale.icnetworks.org/secoes/rumos/quebra-torto-coletanea-hqs-autores-ms,nao (login shell),,nao
+wagner-willian,instagram,https://www.instagram.com/wagner.willian/,https://pt.wikipedia.org/wiki/Wagner_Willian,nao (429),,nao
+wagner-willian,facebook,https://www.facebook.com/wagnerwillian,https://pt.wikipedia.org/wiki/Wagner_Willian,nao (facebook),,nao
+quebra-torto (nao meu),instagram,https://www.instagram.com/quebratortohq,https://acritica.net/cultura/projeto-aulas-gratuitas-como-criar-historias-em-quadrinhos/,nao (login shell),perfil do projeto,nao
+marina-duarte,site,https://marinaduarte.com.br/,https://correiodoestado.com.br/correio-b/vozes-invisiveis-de-marina-duarte/442218/,nao (proxy 502),,nao
+milena-zarate,bluesky,https://bsky.app/profile/miileskine.bsky.social,proprio perfil,sim 200,entrou no verbete,nao
+milena-zarate,site,https://www.miccy.studio,perfil Bluesky,"sim 200 (Google Sites, pouco texto)",entrou,nao
+milena-zarate,youtube,https://www.youtube.com/watch?v=bWlGeT5S8LQ,WebSearch,nao,"video, nao canal",nao
+fred-hildebrand,behance+youtube,-,-,sim (entraram),,sim
+rachid-waqued,youtube,https://www.youtube.com/@rachidwaqued1470,"https://oestadoonline.com.br/politica/rachid-waqued-da-velha-camera-ao-youtube-campo-grande-sempre-em-foco/ (diz que ele criou canal, sem link)",sim 200 (so nome),canal chamado Rachid Waqued achado por busca no YouTube; nao confirmado como dele,nao
+circo-do-mato,blog,http://circodomato.blogspot.com/,WebSearch (resultado de busca),nao (DNS),blog do grupo com secao redes sociais,nao
+pantalhacos,blog,http://pantalhacos.blogspot.com/,https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2025-12/gargalhadas-pantaneiras-campo-grande-vira-palco-da-pantalhacos,nao (DNS),"blog de inscricoes da mostra, citado pela Agencia Brasil",nao

@@ -36,7 +36,7 @@ A coletânea *Quebra Torto* foi contemplada pelo Rumos Itaú Cultural 2019-2020.
 
 Segundo o *RCN67*, as inscrições foram abertas até 22 de agosto de 2026, para autores residentes em MS, individualmente ou em dupla. A formação tem 40 horas-aula, três meses de criação de HQs de 5 a 30 páginas e bolsa de R$ 2,5 mil em duas parcelas, com masterclasses de nomes como [[wagner-willian|Wagner Willian]], [[fred-hildebrand|Fred Hildebrand]] e Marina Duarte.[^rcn2026] Em 17 set. 2026 foram anunciados oito projetos selecionados entre 41 inscrições.[^via2026]
 
-Segundo o ArapuaNews (8 out. 2026), as masterclasses abertas começam em 21 de outubro, com [[isaque-sagara|Isaque Sagara]], seguem em 18 de novembro com [[milena-zarate|Milena Zarate]] e em 9 de dezembro com Benson Chin, e as de 2027 serão de Marina Duarte, Fred Hildebrand e Wagner Willian. A produção cultural do projeto é de [[rubia-sibele|Rubia Sibele]].[^arapua]
+Segundo o ArapuaNews (8 out. 2026), as masterclasses abertas começam em 21 de outubro, com [[isaque-sagara|Isaque Sagara]], seguem em 18 de novembro com [[milena-zarate|Milena Zarate]] e em 9 de dezembro com [[benson-chin|Benson Chin]], e as de 2027 serão de Marina Duarte, Fred Hildebrand e Wagner Willian. A produção cultural do projeto é de [[rubia-sibele|Rubia Sibele]].[^arapua]
 
 ## Obras
 
@@ -48,7 +48,7 @@ Segundo o ArapuaNews (8 out. 2026), as masterclasses abertas começam em 21 de o
 
 A Universo HQ (4 fev. 2020) noticiou o lançamento de *Amálgama – Memórias, Processos e Narrativas* para 6 de fevereiro de 2020, em Campo Grande, e 12 de fevereiro, em São Paulo. Segundo a matéria, o livro traz oito HQs inéditas, dois contos e registros de murais e pinturas, e é a quinta publicação do artista. O site do autor dá 2019 como ano do livro. As duas datas ficam registradas.[^uhq][^site]
 
-Em 2024, assinou com Mayara Dempsey o projeto gráfico de *Eles Vieram Com o Amanhecer*, de [[tania-souza|Tânia Souza]], publicado pela Avuá Edições.[^cgn2024c] Em 2025, foi consultor artístico e editor de *Vozes Invisíveis*, HQ-reportagem de [[marina-duarte|Marina Duarte]], também da Avuá.[^cgn2025v]
+Em 2024, assinou com Mayara Dempsey o projeto gráfico de *[[eles-vieram-com-o-amanhecer|Eles Vieram Com o Amanhecer]]*, de [[tania-souza|Tânia Souza]], publicado pela Avuá Edições.[^cgn2024c] Em 2025, foi consultor artístico e editor de *[[vozes-invisiveis|Vozes Invisíveis]]*, HQ-reportagem de [[marina-duarte|Marina Duarte]], também da Avuá.[^cgn2025v]
 
 ## Indicações ao HQMIX
 

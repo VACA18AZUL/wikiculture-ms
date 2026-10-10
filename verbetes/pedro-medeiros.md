@@ -42,7 +42,7 @@ O poeta [[lobivar-matos|Lobivar Matos]] dedicou a ele seu primeiro poema, public
 
 Na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], é patrono da cadeira 26, ocupada por [[samuel-x-medeiros|Samuel Xavier Medeiros]].[^aslcad] Em 23 de agosto de 2022, o Chá Acadêmico da ASL foi dedicado a ele, com resenha de [[raquel-naveira|Raquel Naveira]] e Henrique de Medeiros, segundo reportagem do *Correio do Estado*.[^ce2022] A mesma reportagem diz que o nome dele batiza ruas e órgãos públicos em Corumbá e Campo Grande.[^ce2022]
 
-Em setembro de 2026, o *Correio do Estado* publicou reportagem sobre uma homenagem a ele e a Lobivar Matos, com poemas de autores e autoras residentes em Corumbá, reunidos pelo escritor Eneo da Nóbrega, que a matéria apresenta como membro da UBE-MS e da Associação Pantaneira de Escritores. O texto o descreve como jornalista, poeta e agitador cultural, autor de "Lenda Bororo", e reproduz o poema.[^ce2026]
+Em setembro de 2026, o *Correio do Estado* publicou reportagem sobre uma homenagem a ele e a Lobivar Matos, com poemas de autores e autoras residentes em Corumbá, reunidos pelo escritor [[eneo-da-nobrega|Eneo da Nóbrega]], que a matéria apresenta como membro da UBE-MS e da Associação Pantaneira de Escritores. O texto o descreve como jornalista, poeta e agitador cultural, autor de "Lenda Bororo", e reproduz o poema.[^ce2026]
 
 ## Nome
 

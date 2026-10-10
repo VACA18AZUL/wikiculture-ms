@@ -7,7 +7,7 @@ resumo: Artista visual e crítica de arte nascida em Corumbá, organizadora de m
 ficha:
   Atividade: Artes visuais, crítica de arte e produção cultural
   Grupos: "[[ama|Associação Mato-Grossense de Artes]]"
-  Obras: "Artes Plásticas no Centro-Oeste (1979); Arte Aqui é Mato (1990); A Propósito do Boi (1994); Ao Pé da Letra (2026); [[dalva-maria-de-barros|Dalva Maria de Barros]] – Garimpos da Memória (2001)"
+  Obras: "Artes Plásticas no Centro-Oeste (1979); Arte Aqui é Mato (1990); A Propósito do Boi (1994); [[ao-pe-da-letra|Ao Pé da Letra]] (2026); [[dalva-maria-de-barros|Dalva Maria de Barros]] – Garimpos da Memória (2001)"
 status: rascunho
 atualizado: 2026-10-10
 ---
@@ -36,7 +36,7 @@ Segundo o perfil do PIPA, ela publicou *Artes Plásticas no Centro-Oeste* (UFMT,
 
 Em 2021, a Secretaria de Cultura de Mato Grosso divulgou o livro *O Propósito de Aline*, do jornalista [[rodrigo-vargas|Rodrigo Vargas]], e o documentário *Eu Sou Capim Navalha*, sobre ela.[^secel] Naquele ano, ela também lançou um livro sobre o artista João Sebastião.[^leiagora]
 
-Em março de 2026, com apoio da Secretaria de Estado de Cultura, Esporte e Lazer de Mato Grosso, lançou *Ao Pé da Letra – de como a arte mato-grossense provoca e se reinventa*, no MACP da UFMT, em Cuiabá, em 12 de março. O livro traz reproduções de obras com textos, mapas conceituais e contextualização histórica, e analisa trabalhos de artistas como [[humberto-espindola|Humberto Espíndola]], [[joao-sebastiao-costa|João Sebastião]] e [[dalva-maria-de-barros|Dalva de Barros]]. O posfácio é do jornalista Protásio Morais. Segundo a autora, o livro segue o formato de *Arte Aqui é Mato*.[^olhar]
+Em março de 2026, com apoio da Secretaria de Estado de Cultura, Esporte e Lazer de Mato Grosso, lançou *[[ao-pe-da-letra|Ao Pé da Letra]] – de como a arte mato-grossense provoca e se reinventa*, no MACP da UFMT, em Cuiabá, em 12 de março. O livro traz reproduções de obras com textos, mapas conceituais e contextualização histórica, e analisa trabalhos de artistas como [[humberto-espindola|Humberto Espíndola]], [[joao-sebastiao-costa|João Sebastião]] e [[dalva-maria-de-barros|Dalva de Barros]]. O posfácio é do jornalista Protásio Morais. Segundo a autora, o livro segue o formato de *Arte Aqui é Mato*.[^olhar]
 
 ## Para saber mais
 

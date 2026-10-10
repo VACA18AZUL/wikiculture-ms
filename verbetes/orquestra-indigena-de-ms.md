@@ -17,7 +17,7 @@ A **Orquestra Indígena de Mato Grosso do Sul** é um projeto social de ensino m
 
 ## Trajetória
 
-O projeto foi concebido e é coordenado pelo maestro [[eduardo-martinelli|Eduardo Martinelli]]. Um artigo acadêmico de 2026 situa o início em 2015, em parceria com a Fundação Ueze Zahran, mas também cita 2016 como ano de começo do ensino musical, sem esclarecer a diferença. O mesmo artigo traz números divergentes de participantes: mais de 300 alunos atendidos ao longo do projeto e mais de 150 em atividade.[^recima]
+O projeto foi concebido e é coordenado pelo maestro [[eduardo-martinelli|Eduardo Martinelli]]. Um artigo acadêmico de 2026 situa o início em 2015, em parceria com a [[fundacao-ueze-zahran|Fundação Ueze Zahran]], mas também cita 2016 como ano de começo do ensino musical, sem esclarecer a diferença. O mesmo artigo traz números divergentes de participantes: mais de 300 alunos atendidos ao longo do projeto e mais de 150 em atividade.[^recima]
 
 Os alunos recebem gratuitamente instrumentos de cordas, percussão e sopro. O repertório mistura músicas do Pantanal, do cancioneiro brasileiro e tradições indígenas.[^recima]
 

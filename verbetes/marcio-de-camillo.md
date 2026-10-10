@@ -19,7 +19,7 @@ Ele integra o trio Hermanos Irmãos, com [[jerry-espindola|Jerry Espíndola]] e 
 
 Com Rodrigo Sater, compôs "Rio de Ilusões".[^cgnhm]
 
-Em setembro de 2024, estreou em Campo Grande o show *Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca*, dirigido por Luiz André Cherubini. A apresentação foi gratuita, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], da UFMS, e reúne canções de [[geraldo-roca|Geraldo Roca]], a quem ele se refere como amigo e vizinho.[^cgnsh]
+Em setembro de 2024, estreou em Campo Grande o show *Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca*, dirigido por [[luiz-andre-cherubini|Luiz André Cherubini]]. A apresentação foi gratuita, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], da UFMS, e reúne canções de [[geraldo-roca|Geraldo Roca]], a quem ele se refere como amigo e vizinho.[^cgnsh]
 
 Segundo a mesma reportagem, ele afirma que Roca influenciou a música de sua geração.[^cgnsh]
 
@@ -47,7 +47,7 @@ Em 2010, formou com Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]] o t
 
 No início do segundo semestre letivo de 2024, estreou na UFMS o show solo *Ilumini*, descrito pela universidade como um "monólogo musical" com iluminação e efeitos sonoros.[^ufms]
 
-Em setembro de 2026, apresentou *Crianceiras Mário Quintana – Poesias Musicadas por Márcio de Camillo* nos dias 19 e 20, no Teatro Glauce Rocha, da UFMS. O espetáculo usa o teatro de papel, tem direção de Luiz André Cherubini, do Grupo Sobrevento, e cenário de Carlo Giovani. Reúne poemas de Mario Quintana musicados em ritmos como valsa, forró, jazz e rock. A matéria diz que a primeira edição do projeto *Crianceiras* foi dedicada a [[manoel-de-barros|Manoel de Barros]].[^oestado]
+Em setembro de 2026, apresentou *Crianceiras Mário Quintana – Poesias Musicadas por Márcio de Camillo* nos dias 19 e 20, no Teatro Glauce Rocha, da UFMS. O espetáculo usa o teatro de papel, tem direção de Luiz André Cherubini, do Grupo Sobrevento, e cenário de [[carlo-giovani|Carlo Giovani]]. Reúne poemas de Mario Quintana musicados em ritmos como valsa, forró, jazz e rock. A matéria diz que a primeira edição do projeto *Crianceiras* foi dedicada a [[manoel-de-barros|Manoel de Barros]].[^oestado]
 
 ## Obras
 

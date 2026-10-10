@@ -32,7 +32,7 @@ Teixeira escreve que ela gravou três discos pela Eldorado (1994, 1996 e 1997), 
 
 A Wikipédia data o documentário *Dona Helena*, de Dainara Toffoli, de 2006.[^wikipt]
 
-Em agosto de 2026, a RCN67 noticiou outro documentário de longa-metragem, *Helena Meirelles, Som e Cor do Pantanal*, dirigido por Cyro Clemente. Faz parte de um projeto financiado pela Lei Paulo Gustavo, que inclui uma música de [[jerry-espindola|Jerry Espíndola]] em homenagem a ela e um mural do artista Marcos Rezende. O filme usou pesquisa em acervos do Museu da Imagem e do Som e da Concha Acústica Helena Meirelles e vinha sendo exibido em escolas de Campo Grande.[^rcn2026]
+Em agosto de 2026, a RCN67 noticiou outro documentário de longa-metragem, *[[helena-meirelles-som-e-cor-do-pantanal|Helena Meirelles, Som e Cor do Pantanal]]*, dirigido por [[cyro-clemente|Cyro Clemente]]. Faz parte de um projeto financiado pela Lei Paulo Gustavo, que inclui uma música de [[jerry-espindola|Jerry Espíndola]] em homenagem a ela e um mural do artista [[marcos-rezende|Marcos Rezende]]. O filme usou pesquisa em acervos do [[mis-ms|Museu da Imagem e do Som]] e da Concha Acústica Helena Meirelles e vinha sendo exibido em escolas de Campo Grande.[^rcn2026]
 
 ## Obras
 

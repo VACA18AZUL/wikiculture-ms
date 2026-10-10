@@ -20,7 +20,7 @@ Um artigo de 2013 sobre o teatro de uma escola técnica registra a inauguração
 
 Matéria de janeiro de 2025 anunciou duas sessões, em 15 e 16 de março, de *Hermanoteu na terra de Godah*, da Companhia de Comédia [[os-melhores-do-mundo|Os Melhores do Mundo]], no Teatro Dom Bosco. O texto não informa a cidade da sala, mas diz que a turnê passava "pela Capital".[^cgn2025]
 
-Entre 5 e 7 de setembro de 2026, o palco recebeu o Festival Compondo Talentos, com entrada franca, que marcou o encerramento das oficinas do Instituto Cerrado Central. Reuniu mais de 150 alunos de 12 núcleos de formação, com orquestras, corais e grupos de percussão. Na primeira noite, a [[orquestra-indigena-de-ms|Orquestra Indígena]], mantida pela Fundação Ueze Zahran na Aldeia Urbana Darcy Ribeiro, tocou peças de Villa-Lobos e uma versão em tupi de "Kikio", de [[geraldo-espindola|Geraldo Espíndola]].[^rcn2026]
+Entre 5 e 7 de setembro de 2026, o palco recebeu o [[festival-compondo-talentos|Festival Compondo Talentos]], com entrada franca, que marcou o encerramento das oficinas do [[instituto-cerrado-central|Instituto Cerrado Central]]. Reuniu mais de 150 alunos de 12 núcleos de formação, com orquestras, corais e grupos de percussão. Na primeira noite, a [[orquestra-indigena-de-ms|Orquestra Indígena]], mantida pela [[fundacao-ueze-zahran|Fundação Ueze Zahran]] na Aldeia Urbana Darcy Ribeiro, tocou peças de Villa-Lobos e uma versão em tupi de "Kikio", de [[geraldo-espindola|Geraldo Espíndola]].[^rcn2026]
 
 ## Outras datas e fontes
 

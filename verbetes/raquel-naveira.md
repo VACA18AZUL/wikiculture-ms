@@ -36,7 +36,7 @@ A lista abaixo segue a página da Academia Sul-Mato-Grossense de Letras, que tra
 
 A página da academia lista *Abadia* em 1995 e, ao tratar das indicações ao Jabuti, usa 1996, ano que o estudo de Chisini também registra para a indicação. As duas datas ficam registradas.[^aslr][^chisini]
 
-Em 2026, lançou *O Ombro e outros textos poéticos* (Evoluce Editora, São Paulo), com primeiro lançamento em Campo Grande em 3 de março. Segundo o poeta e acadêmico [[rubenio-marcelo|Rubenio Marcelo]], em coluna no *Campo Grande Notícias*, o volume mistura prosa e poesia, reúne textos que ela publicou em blogs, revistas e sites em 2025 e se divide em três partes: "Ombro Amigo", "Ombro a Ombro" e "Ombro Rebelde".[^ombro]
+Em 2026, lançou *O Ombro e outros textos poéticos* ([[evoluce-editora|Evoluce Editora]], São Paulo), com primeiro lançamento em Campo Grande em 3 de março. Segundo o poeta e acadêmico [[rubenio-marcelo|Rubenio Marcelo]], em coluna no *Campo Grande Notícias*, o volume mistura prosa e poesia, reúne textos que ela publicou em blogs, revistas e sites em 2025 e se divide em três partes: "Ombro Amigo", "Ombro a Ombro" e "Ombro Rebelde".[^ombro]
 
 ## Prêmios
 

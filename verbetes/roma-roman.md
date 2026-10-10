@@ -25,7 +25,7 @@ Matéria de abril de 2023 também a nomeia como diretora de *Guardiões*. O text
 
 O portfólio do Teatral Grupo de Risco (2024) lhe atribui, com a grafia "Roma Román" ou "Roma Roman", estes créditos:[^portfolio]
 
-- Direção: *Quem matou Zefinha?* (1998, com [[leandro-melo|Leandro Melo]]); *O segredo de João Cuiúdo* (2002, com Leandro Melo); *A lenda do vale da lua* (versão de 2010, com [[yago-garcia|Yago Garcia]]); *Lótus* (2008, com Arce Correia); *Flor de Lótus* (2012–2013, direção coletiva assinada por ela); *E com você como é que é* (2012–2013); *A princesa engasgada* (ficha de 2015); *Guardiões*.[^portfolio]
+- Direção: *Quem matou Zefinha?* (1998, com [[leandro-melo|Leandro Melo]]); *O segredo de João Cuiúdo* (2002, com Leandro Melo); *A lenda do vale da lua* (versão de 2010, com [[yago-garcia|Yago Garcia]]); *Lótus* (2008, com [[arce-correia|Arce Correia]]); *Flor de Lótus* (2012–2013, direção coletiva assinada por ela); *E com você como é que é* (2012–2013); *A princesa engasgada* (ficha de 2015); *Guardiões*.[^portfolio]
 - Assistência de direção: *Sacra-folia* (2001, direção de Leandro Melo) e *AparecEu a Margarida* (direção de [[joao-lima|João Lima]]).[^portfolio]
 - Figurino e adereços: *Quem matou Zefinha?*, *Sacra-folia*, *Mbureo – A saga dos ervais* (2004), *Guaicuru – Histórias de admirar* (2006, também como manipuladora) e *E com você como é que é*.[^portfolio]
 - Elenco: *Mito do Mato* (2014–2018), ao lado de [[andre-tristao|André Tristão]], [[ewerton-goulart|Ewerton Goulart]], [[fernanda-kunzler|Fernanda Kunzler]] e Yago Garcia.[^portfolio]

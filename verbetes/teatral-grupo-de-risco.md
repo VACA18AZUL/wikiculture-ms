@@ -33,7 +33,7 @@ A maior parte das fontes data a criação em 1988: o trabalho de Borioli, o port
 
 Segundo o portfólio do próprio grupo, a primeira montagem foi *A lenda do vale da lua* (1988), texto de João das Neves, direção de Lú Bigattão, que ficou em cartaz por quase dez anos. O texto lista prêmios de festivais de 1988 e 1989 e uma nova versão, de 2010, ligada ao Prêmio Funarte de Teatro na Rua.[^portfolio] O mesmo documento descreve *Quem matou Zefinha?* (1998), espetáculo de rua que, segundo o grupo, mobilizou cinco anos de pesquisa e foi considerado o melhor do 3º Encontro Internacional de Teatro Zicosur, no Chile, em 2001. Como é texto do próprio grupo, a informação não foi confirmada em fonte independente.[^portfolio]
 
-Entre os espetáculos de repertório citados pela imprensa estão *A princesa engasgada*, de Márcia Frederico, que em 2020 estava em cartaz havia mais de 18 anos, *Revolução*, adaptação de *A revolução na América do Sul*, de Augusto Boal, e *Do jeito que é hoje em dia*, adaptação sobre prevenção de infecções sexualmente transmissíveis.[^dd2020][^ce2023a]
+Entre os espetáculos de repertório citados pela imprensa estão *A princesa engasgada*, de [[marcia-frederico|Márcia Frederico]], que em 2020 estava em cartaz havia mais de 18 anos, *Revolução*, adaptação de *A revolução na América do Sul*, de Augusto Boal, e *Do jeito que é hoje em dia*, adaptação sobre prevenção de infecções sexualmente transmissíveis.[^dd2020][^ce2023a]
 
 Em 2020, o projeto "Para além do centro", aprovado no edital Fomteatro, levou apresentações a bairros de Campo Grande e gravou dois espetáculos para a TV da rede municipal de ensino.[^dd2020] Em 2023, o projeto "Depois do fim do mundo", também do Fomteatro, previu doze apresentações em bairros, oficinas e a estreia de *Tesoura*, de [[yago-garcia|Yago Garcia]], com direção de [[ewerton-goulart|Ewerton Goulart]].[^ce2023a] Ainda em 2023, o projeto "TGR entre furnas e distritos", com recursos do Fundo de Investimentos Culturais (FIC), levou quinze apresentações a furnas rurais e distritos de Campo Grande e estreou *Circo do absurdo*, com dramaturgia de Ewerton Goulart e direção de Yago Garcia.[^ce2023b]
 
@@ -45,7 +45,7 @@ O grupo mantém sede própria desde 2002. Em abril de 2023, mudou-se da rua Jos�
 
 O portfólio do grupo (2024) dá estes créditos, que ligam o TGR a outros artistas:[^portfolio]
 
-- *A lenda do vale da lua* (1988): texto de João das Neves, direção de [[lu-bigattao|Lu Bigattão]], cenário e bonecos de [[wilson-motta|Wilson Motta]]. Na versão de 2010, a direção é de [[yago-garcia|Yago Garcia]] e [[roma-roman|Roma Román]], com produção de Fernanda Kunzler e Emmanuel Mayer.[^portfolio]
+- *A lenda do vale da lua* (1988): texto de João das Neves, direção de [[lu-bigattao|Lu Bigattão]], cenário e bonecos de [[wilson-motta|Wilson Motta]]. Na versão de 2010, a direção é de [[yago-garcia|Yago Garcia]] e [[roma-roman|Roma Román]], com produção de Fernanda Kunzler e [[emmanuel-mayer|Emmanuel Mayer]].[^portfolio]
 - *Quem matou Zefinha?* (1998): texto de [[virginia-fonseca-de-menezes|Virginia de Menezes]], direção de [[leandro-melo|Leandro Melo]] e Roma Román.[^portfolio]
 - *Mbureo – A saga dos ervais* (2004): texto e direção de Lu Bigattão, direção musical de [[lenilde-ramos|Lenilde Ramos]], assistência de Leandro Melo.[^portfolio]
 - *Dois perdidos numa noite suja* (2004), de Plínio Marcos, com direção de Leandro Melo.[^portfolio]

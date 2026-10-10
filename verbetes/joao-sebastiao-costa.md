@@ -33,7 +33,7 @@ Em maio de 2006, um texto colaborativo do Overmundo sobre o Festival América do
 
 Morreu em Cuiabá em 28 de fevereiro de 2016, aos 66 anos.[^g1]
 
-Em junho de 2018, a exposição "Na mão junto ao peito", na Casa do Parque, em Cuiabá, homenageou João Sebastião, Nilson Pimenta e Osvaldina Santos, com cerca de 43 obras de 35 artistas e abertura em 27 de junho. A matéria do *Olhar Direto* situa a estadia dele em Campo Grande entre 1969 e 1973, no ateliê de Espíndola e na [[ama|AMA]], período que o Almanaque Cuiabá limita a 1972.[^olhar2018][^almanaque]
+Em junho de 2018, a exposição "Na mão junto ao peito", na Casa do Parque, em Cuiabá, homenageou João Sebastião, [[nilson-pimenta|Nilson Pimenta]] e [[osvaldina-santos|Osvaldina Santos]], com cerca de 43 obras de 35 artistas e abertura em 27 de junho. A matéria do *Olhar Direto* situa a estadia dele em Campo Grande entre 1969 e 1973, no ateliê de Espíndola e na [[ama|AMA]], período que o Almanaque Cuiabá limita a 1972.[^olhar2018][^almanaque]
 
 A Wikipédia em português tem página sobre o mesmo artista, com dados que coincidem com o Itaú Cultural.[^wiki]
 

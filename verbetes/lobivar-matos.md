@@ -42,7 +42,7 @@ Há estudos dedicados a ele: *Lobivar de Matos: o poeta desconhecido* (1994), de
 
 Em março de 2012, o [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]] e a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] promoveram em Campo Grande uma edição do evento "Sarobá", com seminário sobre o poeta, exposição de desenhos e um sarau com performances de poemas do livro.[^dc]
 
-Em 17 de julho de 2025, a Temporada de Inverno de Corumbá incluiu a leitura pública de *Sarobá*, conduzida pelo musicista Virgílio Miranda no Museu Casa Dr. Gabi, e a leitura do conto "O menino dos níqueis", pela atriz Marcelle Saboya. O Campo Grande News data o livro de 1934, enquanto as demais fontes deste verbete dão 1936. As duas datas ficam registradas.[^cgn2025] Em setembro de 2026, o *Correio do Estado* noticiou uma homenagem conjunta a Lobivar e a [[pedro-medeiros|Pedro de Medeiros]], com poemas de autores residentes em Corumbá reunidos pelo escritor Eneo da Nóbrega.[^ce2026]
+Em 17 de julho de 2025, a Temporada de Inverno de Corumbá incluiu a leitura pública de *Sarobá*, conduzida pelo musicista [[virgilio-miranda|Virgílio Miranda]] no Museu Casa Dr. Gabi, e a leitura do conto "O menino dos níqueis", pela atriz [[marcelle-saboya|Marcelle Saboya]]. O Campo Grande News data o livro de 1934, enquanto as demais fontes deste verbete dão 1936. As duas datas ficam registradas.[^cgn2025] Em setembro de 2026, o *Correio do Estado* noticiou uma homenagem conjunta a Lobivar e a [[pedro-medeiros|Pedro de Medeiros]], com poemas de autores residentes em Corumbá reunidos pelo escritor [[eneo-da-nobrega|Eneo da Nóbrega]].[^ce2026]
 
 ## Para saber mais
 
