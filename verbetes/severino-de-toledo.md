@@ -9,7 +9,7 @@ ficha:
   Atividade: Poesia e trovas
   Obras: Colméia de Afetos; Cintilação de Lâmpadas Suspensas
 status: rascunho
-atualizado: 2026-10-08
+atualizado: 2026-10-10
 ---
 
 **Severino de Toledo** foi um poeta e trovador de Aquidauana, morto em 1980.[^philo2021][^cadec]
@@ -18,10 +18,14 @@ atualizado: 2026-10-08
 
 Segundo a pesquisa de Freire, Severino de Toledo publicou *Colméia de Afetos* e *Cintilação de Lâmpadas Suspensas*, além de outros títulos não listados no texto.[^cadec] Segundo o artigo de Godinho e Abrão, ele é um dos poetas mais antigos da região, conhecido pelas trovas, e sua obra é estudada nas escolas.[^philo2021]
 
+Em texto de 2014 republicado no site do Instituto Histórico e Geográfico de Mato Grosso do Sul, a pesquisadora Albana Xavier Nogueira diz que quem pesquisar os jornais de Aquidauana encontrará o nome do poeta Severino de Toledo entre os precursores da literatura local, ainda no tempo do Mato Grosso uno.[^albana]
+
 ## Para saber mais
 
 - [Perspectivas teóricas na crítica literária de Maria da Glória Sá Rosa](https://revistaphilologus.org.br:443/index.php/rph/article/download/1019/1087/1414) — artigo de Cleonice Godinho e Daniel Abrão com o panorama da literatura do estado.
+- [Percurso da Literatura em Mato Grosso do Sul](https://ihgms.org.br/artigos/percurso-da-literatura-em-mato-grosso-do-sul-77) — texto de Albana Xavier Nogueira sobre os primeiros escritores do sul de Mato Grosso, com a menção ao poeta.
 - [A literatura de fronteira e suas particularidades locais](https://periodicos.ufms.br/index.php/cadec/article/view/3354/2638) — artigo de Zélia Freire que cita o poeta.
 
 [^philo2021]: Cleonice da Costa Godinho e Daniel Abrão, ["Perspectivas teóricas na crítica literária de Maria da Glória Sá Rosa"](https://revistaphilologus.org.br:443/index.php/rph/article/download/1019/1087/1414), *Revista Philologus*, ano 27, n. 81 suplemento, 2021. Acesso em 8 out. 2026.
 [^cadec]: Zélia R. Nolasco dos S. Freire, ["A literatura de fronteira e suas particularidades locais: uma visada para a margem"](https://periodicos.ufms.br/index.php/cadec/article/view/3354/2638), *Cadernos do CEDEC*, *Universidade Federal de Mato Grosso do Sul*, data não identificada no texto lido. Acesso em 8 out. 2026.
+[^albana]: Albana Xavier Nogueira, ["Percurso da Literatura em Mato Grosso do Sul"](https://ihgms.org.br/artigos/percurso-da-literatura-em-mato-grosso-do-sul-77), Instituto Histórico e Geográfico de Mato Grosso do Sul (texto de 2014). Acesso em 10 out. 2026.
