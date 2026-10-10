@@ -41,11 +41,33 @@ Em 2020, o projeto "Para além do centro", aprovado no edital Fomteatro, levou a
 
 O grupo mantém sede própria desde 2002. Em abril de 2023, mudou-se da rua José Antônio Pereira, no bairro São Francisco, para um novo espaço no Jardim Paulista, inaugurado com *Guardiões* e *Tesoura*.[^ce2023a]
 
+## Fichas técnicas e colaboradores
+
+O portfólio do grupo (2024) dá estes créditos, que ligam o TGR a outros artistas:[^portfolio]
+
+- *A lenda do vale da lua* (1988): texto de João das Neves, direção de [[lu-bigattao|Lu Bigattão]], cenário e bonecos de [[wilson-motta|Wilson Motta]]. Na versão de 2010, a direção é de [[yago-garcia|Yago Garcia]] e [[roma-roman|Roma Román]], com produção de Fernanda Kunzler e Emmanuel Mayer.[^portfolio]
+- *Quem matou Zefinha?* (1998): texto de [[virginia-fonseca-de-menezes|Virginia de Menezes]], direção de [[leandro-melo|Leandro Melo]] e Roma Román.[^portfolio]
+- *Mbureo – A saga dos ervais* (2004): texto e direção de Lu Bigattão, direção musical de [[lenilde-ramos|Lenilde Ramos]], assistência de Leandro Melo.[^portfolio]
+- *Dois perdidos numa noite suja* (2004), de Plínio Marcos, com direção de Leandro Melo.[^portfolio]
+- *AparecEu a Margarida* (monólogo, prêmio Myriam Muniz 2009): direção de [[joao-lima|João Lima]], com [[arce-correia|Arce Correia]] no elenco.[^portfolio]
+- *Lótus* (2008) e *Flor de Lótus* (2012–2013), de teatro fórum sobre violência contra a mulher; na primeira, o elenco inclui [[aline-duenha|Aline Duenha]] e Yago Garcia.[^portfolio]
+- *Guardiões*: direção de Roma Román, dramaturgia de Lu Bigattão, produção de [[fernanda-kunzler|Fernanda Kunzler]]; ver [[guardioes-tgr|Guardiões]]. Ewerton Goulart faz som e projeção e [[fabio-umeda|Fábio Umeda]] a técnica de luz.[^portfolio]
+- *Mito do Mato* (2014–2018): texto de Virginia Fonseca, com [[andre-tristao|André Tristão]], [[ewerton-goulart|Ewerton Goulart]], Fernanda Kunzler, Roma Román e Yago Garcia no elenco.[^portfolio]
+- *Tesoura* (2023): texto de Yago Garcia, direção de Ewerton Goulart.[^portfolio]
+
+## Atividades recentes
+
+Em novembro de 2022, a sede do grupo recebeu a Mostra Campo Grande de Teatro de Bonecos, realizada pela Deslimites com recursos do Fomteatro. O projeto é de autoria de Lu Bigattão, que também dirigiu a mostra, com produção de Fernanda Kunzler.[^msn2022]
+
+Em fevereiro de 2026, o jornal *O Estado* noticiou o projeto "TGR: Riso, Risco e Resistência", feito com a Lei Paulo Gustavo e parcialmente adiado de 2025 para 2026. Fernanda Kunzler, chamada de coordenadora do grupo, disse que o TGR completou 37 anos em agosto de 2025. A circulação previa apresentações de *Revolução*, *A Princesa Engasgada*, *Impróbito* e *Tesoura* em escolas, projetos sociais e na sede.[^oe2026]
+
 ## Para saber mais
 
 - [Portfólio do TGR no Mapa da Cultura](https://mapa.cultura.gov.br/files/agent/251895/curriculo-do-tgr-atual-com-portifolio.pdf): currículo e fichas técnicas de espetáculos, produzido pelo próprio grupo.[^portfolio]
 - [Teatral Grupo de Risco segue na celebração dos seus 35 anos](https://correiodoestado.com.br/correio-b/teatral-grupo-de-risco-segue-na-celebracao-dos-seus-35-anos-com/421728/): reportagem de 2023 sobre *Circo do absurdo* e *Guardiões*.[^ce2023b]
 
+[^oe2026]: ["Teatral Grupo de Risco celebra 37 anos com arte e oficinas"](https://oestadoonline.com.br/arte-e-lazer/teatral-grupo-de-risco-celebra-37-anos-com-arte-e-oficinas/), *O Estado Online*, 28 fev. 2026. Acesso em 10 out. 2026.
+[^msn2022]: Tero Queiroz, ["Começa hoje (4.nov) a Mostra Campo Grande de Teatro de Bonecos"](https://www.msnoticias.com.br/editorias/geral-ms-noticias/comeca-hoje-4nov-a-mostra-campo-grande-de-teatro-de-bonecos/138771/), *MS Notícias*, 4 nov. 2022. Acesso em 10 out. 2026.
 [^borioli]: Nathália Tomassini dos Santos Borioli, [*Teatral Grupo de Risco: poética e composição artística na cultura local de Mato Grosso do Sul*](https://portal.uems.br/assets/uploads/cursos/81f7af02b1a7a7e7107b971c31ea3b4c/tcc/1_81f7af02b1a7a7e7107b971c31ea3b4c_2017-12-19_16-40-41.pdf), TCC, UEMS, 2017, p. 1-18. Acesso em 8 out. 2026.
 [^boca]: UFMS, [folheto da mostra Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf). Acesso em 8 out. 2026.
 [^portfolio]: Teatral Grupo de Risco, [portfólio TGR](https://mapa.cultura.gov.br/files/agent/251895/curriculo-do-tgr-atual-com-portifolio.pdf), documento do grupo no Mapa da Cultura, versão de 28 jun. 2024. Acesso em 10 out. 2026.

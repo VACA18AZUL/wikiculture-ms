@@ -40,6 +40,11 @@ Com o Circo do Mato, o grupo realiza o [[pantalhacos|Pantalhaços]], mostra de p
 
 Em junho de 2024, o artista Anderson Lima disse à imprensa que alguns artistas seguiram outros rumos e que o Flor e Espinho e o Circo do Mato deram continuidade à mostra. A matéria informa que a mostra recebeu recursos do Fundo de Investimentos Culturais (FIC), da Fundação de Cultura de MS.[^cgn2024]
 
+## Para saber mais
+
+- [Flor e Espinho no Instagram](https://www.instagram.com/floreespinhooficial/) — perfil oficial da associação, indicado pelo site institucional da entidade.[^ytsite]
+- [Associação Flor e Espinho no YouTube](https://www.youtube.com/@associacaofloreespinho) — canal oficial da associação, indicado pelo site institucional da entidade.[^ytsite]
+
 [^guimaraes]: Mauro Alves Guimarães, *"Um ciclo-de-vida": práticas de sustentabilidade do Circo do Mato*, artigo, UEMS, 2015, p. 10. [Texto](https://portal.uems.br/assets/uploads/biblioteca/2017-09-14_10-09-28.pdf). Acesso em 8 out. 2026.
 [^vieira]: Tatiana Vieira, *O palhaço na cena teatral. Cadê?!*, artigo, UEMS, 2015, seção 2. [Texto](https://portal.uems.br/assets/uploads/biblioteca/2017-09-14_09-27-11.pdf). Acesso em 8 out. 2026.
 [^cgn2020]: Alana Portela, ["Sem apoio, Circo do Mato faz vaquinha para não fechar as portas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sem-apoio-circo-do-mato-faz-vaquinha-para-nao-fechar-as-portas), *Campo Grande News*, 22 jun. 2020. Acesso em 8 out. 2026.
@@ -48,3 +53,4 @@ Em junho de 2024, o artista Anderson Lima disse à imprensa que alguns artistas 
 [^luz]: ["Anderson Lima"](https://daideiaaluz.com/artistas/anderson-lima/), *Da ideia à luz*, perfil de artistas dos bastidores, 2024. Acesso em 10 out. 2026.
 [^portf]: Teatral Grupo de Risco, [*Portfólio TGR*](https://mapa.cultura.gov.br/files/agent/251895/curriculo-do-tgr-atual-com-portifolio.pdf), PDF no cadastro do grupo nos *Mapas da Cultura*, documento datado de 28 jun. 2024. Acesso em 10 out. 2026.
 [^ce2011]: ["FestCamp será aberto hoje na Praça do Rádio"](https://correiodoestado.com.br/cidades/festcamp-sera-aberto-hoje-na-praca-do-radio/128212/), *Correio do Estado*, 14 out. 2011. Acesso em 10 out. 2026.
+[^ytsite]: Associação Flor e Espinho, [site institucional](https://www.floreespinho.com/pt/quem-somos), links para as redes da entidade. Acesso em 10 out. 2026.

@@ -25,6 +25,8 @@ Em novembro de 2020, o *Diário Digital* a citou como atriz e produtora do proje
 
 Em fevereiro de 2023, uma reportagem da Teatrine TV a descreveu como produtora cultural, atriz e uma das gestoras do grupo. Ela disse que a primeira sede, na rua José Antônio, fora ocupada em janeiro de 2002 e deixada no início de 2023, por pedido do proprietário, quando o grupo se instalava em um novo imóvel alugado, no Jardim Paulista.[^tv2023]
 
+Em novembro de 2022, foi a produtora da Mostra Campo Grande de Teatro de Bonecos, projeto de autoria de [[lu-bigattao|Lú Bigattão]] realizado na sede do grupo.[^msn2022] Nas fichas técnicas do portfólio, trabalha com [[roma-roman|Roma Román]] (direção de *Guardiões*, *Mito do Mato* e *A princesa engasgada*) e com [[ewerton-goulart|Ewerton Goulart]] e [[yago-garcia|Yago Garcia]] (*Tesoura*, *Revolução*, *Circo do absurdo*).[^portfolio]
+
 Em fevereiro de 2026, o jornal *O Estado* a chamou de coordenadora do grupo, que então comemorava 37 anos.[^oe2026]
 
 ## Obras
@@ -45,6 +47,7 @@ O portfólio do grupo, atualizado em junho de 2024, lhe atribui estes créditos:
 - [Galpão parece "mecânica", mas abriga um dos maiores grupos de teatro do estado](https://www.teatrinetv.com.br/pontos-de-cultura/2023/03/21/galpao-parece-mecanica-mas-abriga-um-dos-maiores-grupos-de-teatro-do-estado.html): reportagem de 2023 sobre a mudança de sede, com fala da atriz.[^tv2023]
 - [Portfólio do TGR no Mapa da Cultura](https://mapa.cultura.gov.br/files/agent/251895/curriculo-do-tgr-atual-com-portifolio.pdf): fichas técnicas dos espetáculos, produzido pelo próprio grupo.[^portfolio]
 
+[^msn2022]: Tero Queiroz, ["Começa hoje (4.nov) a Mostra Campo Grande de Teatro de Bonecos"](https://www.msnoticias.com.br/editorias/geral-ms-noticias/comeca-hoje-4nov-a-mostra-campo-grande-de-teatro-de-bonecos/138771/), *MS Notícias*, 4 nov. 2022. Acesso em 10 out. 2026.
 [^borioli]: Nathalia Tomassini dos Santos Borioli e Marcos Antônio Bessa-Oliveira, [*Teatral Grupo de Risco: poética e composição artística na cultura local de Mato Grosso do Sul*](https://portal.uems.br/assets/uploads/cursos/81f7af02b1a7a7e7107b971c31ea3b4c/tcc/1_81f7af02b1a7a7e7107b971c31ea3b4c_2017-12-19_16-40-41.pdf), TCC, UEMS, 2017, p. 5, 14-16. Acesso em 8 out. 2026.
 [^boca]: UFMS, [folheto da mostra Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf). Acesso em 8 out. 2026.
 [^om2006]: Rodrigo Teixeira, ["Teatral Grupo de Risco: resistência"](https://www.overmundo.com.br/overblog/teatral-grupo-de-risco-resistencia), *Overmundo* (texto colaborativo), 6 mar. 2006. Acesso em 10 out. 2026.
