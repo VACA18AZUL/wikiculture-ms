@@ -34,6 +34,10 @@ Há um busto de Zacarias no centro de Coxim, e a Praça Zacarias Mourão recebeu
 
 Segundo Lígia Mourão, o pai voltou a Coxim em 1959, abraçou o tronco do cedro e escreveu a letra, que Goiá musicou. Ele sugeriu a gravação à dupla Tibagi e Miltinho, e a música lhe deu projeção como compositor. Sérgio Reis a gravou em 1975.[^pio] Dino Rocha, no mesmo livro, disse que Zacarias era letrista e não musicava, e que Goiá o ajudou muito.[^pio]
 
+A estátua do compositor, concebida pelo artista plástico Ique, foi inaugurada em 30 de setembro de 2022 na Praça Zacarias Mourão, em Coxim, sob a árvore que ele plantou. A cerimônia teve shows de [[almir-sater|Almir Sater]] e Sérgio Reis, e a filha, Lígia Mourão, esteve presente.[^cgn2022]
+
+O ano de nascimento diverge. A ficha deste verbete usa 1928, conforme o artigo acadêmico, mas um texto do Viamorena de março de 2024, baseado em pesquisa do jornalista Sergio Cruz, do IHGMS, dá o nascimento como 15 de março de 1926 e atribui as informações ao livro *Os Pioneiros*.[^viamorena]
+
 ## Atuação em São Paulo e em Campo Grande
 
 Os depoimentos do livro apontam Zacarias como intermediário entre artistas de Mato Grosso do Sul e o meio radiofônico e fonográfico de São Paulo. [[delio-e-delinha|Délio e Delinha]] contam que ele os apresentou ao Capitão Barduíno e ao Biguá, da Rádio Bandeirantes, em 1958.[^pio] Segundo Dino Rocha, foi ele quem lhe deu o nome artístico, durante uma apresentação em uma rádio de Araçatuba, quando levava o trio formado por [[amambay-e-amambai|Amambay e Amambaí]] e o sanfoneiro para gravar em São Paulo.[^pio]
@@ -58,3 +62,5 @@ O *Correio do Estado* de 24 de maio de 1989, reproduzido no livro, noticiou que 
 [^mapa]: Natália Olliver, ["Mapa que ninguém decorou é berço de artistas improváveis de MS"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/mapa-que-ninguem-decorou-e-berco-de-artistas-improvaveis-de-ms), *Campo Grande News*, 11 out. 2025. Acesso em 8 out. 2026.
 [^pio]: Rodrigo Teixeira, [*Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul*](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro, versão integral em PDF disponibilizada no *Overmundo*, 15 jan. 2010. Acesso em 10 out. 2026.
 [^piop]: Rodrigo Teixeira, ["Os Pioneiros mira primeiros compositores de MS"](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), *Overmundo*, 15 jan. 2010. Acesso em 10 out. 2026.
+[^cgn2022]: Adriano Fernandes e Sidney Assis, ["Coxim ganha estátua de Zacarias Mourão ao som de Almir Sater e Sérgio Reis"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/coxim-ganha-estatua-de-zacarias-mourao-ao-som-de-almir-sater-e-sergio-reis), *Campo Grande News*, 30 set. 2022. Acesso em 10 out. 2026.
+[^viamorena]: ["Diário da História! 15 de março de 1926: nasce Zacarias Mourão, compositor do 'Pé de Cedro'"](https://www.viamorena.com/historia/diario-da-historia-15-de-marco-de-1926-nasce-zacarias-mourao-compositor-do-pe-de-cedro/), *Viamorena*, 15 mar. 2024. Acesso em 10 out. 2026.

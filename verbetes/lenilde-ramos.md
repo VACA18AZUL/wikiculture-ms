@@ -36,9 +36,18 @@ Em setembro de 2006, gravou a canção "Coração Ventania", de Carlos Colman, c
 
 Reportagem do Campo Grande News de 7 de outubro de 2026 a chama de acadêmica da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] e informa que ela coordenaria, com [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] e [[sylvia-cesco|Sylvia Cesco]], o encontro do projeto *Leituras & Conversas* de 8 de outubro de 2026, dedicado ao escritor Elias Borges.[^cgnasl]
 
+## Livros
+
+Em texto publicado no *Correio do Estado* em maio de 2025, ela conta que coordenou por cinco anos, na [[fundacao-de-cultura-de-ms|Fundação de Cultura]], o projeto Pixinguinha, da Funarte, que levava shows de música popular ao Teatro Glauce Rocha, e relembra a temporada de 1983, em que [[idara-duncan|Idara Duncan]] era a secretária de cultura. O texto anuncia a terceira edição de *História sem Nome* e o livro inédito *Margarida – Retratos Culturais de Mato Grosso do Sul*.[^cenana]
+
+Segundo o *Correio do Estado* de 14 de outubro de 2025, *Margarida – Retratos Culturais de Mato Grosso do Sul* (Life Editora) usa a trajetória de Margarida Simões Corrêa Neder e de Norma Jornada para tratar da formação da identidade cultural do estado. O livro passa pela criação do espaço Eme Ene e da [[pena-eme-ene|Peña Eme-Ene]], e cita [[paulo-simoes|Paulo Simões]], [[almir-sater|Almir Sater]], [[geraldo-roca|Geraldo Roca]] e [[humberto-espindola|Humberto Espíndola]]. A matéria a identifica como ocupante da cadeira 31 da Academia Sul-Mato-Grossense de Letras e como autora de *História sem Nome* e *João da Moto*. O lançamento foi marcado para 15 de outubro de 2025, na Estação Cultural Teatro do Mundo.[^cemarg]
+
 ## Obras
 
 - *Onça Pintada*, disco que reúne suas canções[^cgnlen]
+- *História sem Nome* (3ª edição anunciada em 2025)[^cenana][^cemarg]
+- *João da Moto*[^cemarg]
+- *Margarida – Retratos Culturais de Mato Grosso do Sul* (Life Editora, 2025)[^cemarg]
 
 [^cgnlen]: Autor não identificado, ["Lenilde Ramos e Guilherme Rondon recebem prêmio Grão de Música"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/lenilde-ramos-e-guilherme-rondon-recebem-premio-grao-de-musica), *Campo Grande News*, conteúdo marcado como post patrocinado, 1 nov. 2023. Acesso em 8 out. 2026.
 [^silus]: Alan Silus, ["Pelos caminhos da música sul-mato-grossense: um estudo bibliográfico"](https://trilhasdahistoria.ufms.br/index.php/RevTH/article/view/19958/14805), *Revista Trilhas da História*, UFMS, texto aprovado em 31 out. 2024. Acesso em 8 out. 2026.
@@ -49,3 +58,5 @@ Reportagem do Campo Grande News de 7 de outubro de 2026 a chama de acadêmica da
 [^ovcv]: Rodrigo Teixeira, ["CD GERAÇÕES • CORAÇÃO VENTANIA • O Bando & Lenilde Ramos • XI"](https://www.overmundo.com.br/banco/cd-geracoes-coracao-ventania-o-bando-lenilde-ramos-xi), *Overmundo* (conteúdo colaborativo), 16 set. 2006. Acesso em 10 out. 2026.
 [^ovlanc]: Assum Preto, ["Lançamento do CD Gerações mexe com sentimentos"](https://www.overmundo.com.br/overblog/lancamento-do-cd-geracoes-mexe-com-sentimentos-1), *Overmundo* (conteúdo colaborativo), 23 set. 2006. Acesso em 10 out. 2026.
 [^cgnasl]: Thailla Torres, ["Academia realiza clube de leitura com obra de Elias Borges"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/academia-realiza-clube-de-leitura-com-obra-de-elias-borges), *Campo Grande News*, 7 out. 2026. Acesso em 10 out. 2026.
+[^cenana]: Lenilde Ramos, ["Nana Caymmi no coração"](https://correiodoestado.com.br/correio-b/nana-caymmi-no-coracao/447732/), *Correio do Estado*, 6 mai. 2025 (texto assinado por ela). Acesso em 10 out. 2026.
+[^cemarg]: ["Lenilde Ramos faz o resgate da identidade cultural de MS a partir da trajetória de Margarida Neder"](https://correiodoestado.com.br/correio-b/lenilde-ramos-faz-o-resgate-da-identidade-cultural-de-ms-a-partir-da/455902/), *Correio do Estado*, 14 out. 2025. Acesso em 10 out. 2026.

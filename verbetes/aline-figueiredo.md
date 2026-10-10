@@ -7,7 +7,7 @@ resumo: Artista visual e crítica de arte nascida em Corumbá, organizadora de m
 ficha:
   Atividade: Artes visuais, crítica de arte e produção cultural
   Grupos: "[[ama|Associação Mato-Grossense de Artes]]"
-  Obras: "Artes Plásticas no Centro-Oeste (1979); Arte Aqui é Mato (1990); A Propósito do Boi (1994); [[dalva-maria-de-barros|Dalva Maria de Barros]] – Garimpos da Memória (2001)"
+  Obras: "Artes Plásticas no Centro-Oeste (1979); Arte Aqui é Mato (1990); A Propósito do Boi (1994); Ao Pé da Letra (2026); [[dalva-maria-de-barros|Dalva Maria de Barros]] – Garimpos da Memória (2001)"
 status: rascunho
 atualizado: 2026-10-10
 ---
@@ -36,6 +36,8 @@ Segundo o perfil do PIPA, ela publicou *Artes Plásticas no Centro-Oeste* (UFMT,
 
 Em 2021, a Secretaria de Cultura de Mato Grosso divulgou o livro *O Propósito de Aline*, do jornalista [[rodrigo-vargas|Rodrigo Vargas]], e o documentário *Eu Sou Capim Navalha*, sobre ela.[^secel] Naquele ano, ela também lançou um livro sobre o artista João Sebastião.[^leiagora]
 
+Em março de 2026, com apoio da Secretaria de Estado de Cultura, Esporte e Lazer de Mato Grosso, lançou *Ao Pé da Letra – de como a arte mato-grossense provoca e se reinventa*, no MACP da UFMT, em Cuiabá, em 12 de março. O livro traz reproduções de obras com textos, mapas conceituais e contextualização histórica, e analisa trabalhos de artistas como [[humberto-espindola|Humberto Espíndola]], [[joao-sebastiao-costa|João Sebastião]] e [[dalva-maria-de-barros|Dalva de Barros]]. O posfácio é do jornalista Protásio Morais. Segundo a autora, o livro segue o formato de *Arte Aqui é Mato*.[^olhar]
+
 ## Para saber mais
 
 - ["Aline Anima"](https://www.overmundo.com.br/overblog/aline-anima) — entrevista com Aline Figueiredo no Overmundo (2006), sobre a AMA, o MACP e o Salão Jovem Arte.
@@ -54,3 +56,4 @@ Como entrevistadora e fotógrafa, registrou o trabalho de [[conceicao-dos-bugres
 [^secel]: Cida Rodrigues, ["Livro e documentário narram papel de Aline Figueiredo na construção da cena cultural em Mato Grosso"](https://www.secel.mt.gov.br/-/17857184-livro-e-documentario-narram-papel-de-aline-figueiredo-na-construcao-da-cena-cultural-em-mato-grosso), Secretaria de Estado de Cultura, Esporte e Lazer de Mato Grosso, 2 set. 2021. Acesso em 10 out. 2026.
 [^leiagora]: ["Aline Figueiredo: o olhar da alma para a arte mato-grossense"](https://www.leiagora.com.br/noticia/107069/aline-figueiredo-o-olhar-da-alma-para-a-arte-mato-grossense), *Leiagora*, 26 set. 2021. Acesso em 10 out. 2026.
 [^wiki]: ["Aline Figueiredo"](https://pt.wikipedia.org/wiki/Aline_Figueiredo), *Wikipédia em português* (texto colaborativo). Acesso em 10 out. 2026.
+[^olhar]: Da Redação, ["Novo livro de Aline Figueiredo apresenta recorte atualizado e didático da produção artística de MT"](https://www.olharconceito.com.br/noticias/exibir.asp?id=26570&noticia=novo-livro-de-aline-figueiredo-apresenta-recorte-atualizado-e-didatico-da-producao-artistica-de-mt), *Olhar Direto*, 6 mar. 2026. Acesso em 10 out. 2026.

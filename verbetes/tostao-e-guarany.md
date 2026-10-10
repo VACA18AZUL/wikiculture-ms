@@ -37,6 +37,8 @@ A dupla Tostão e Guarany reuniu Tostão e o sanfoneiro e cantor Guarany, depois
 
 Tostão e Guarany contam que montaram, por falta de espaço para se apresentar, dois circos: o Circo Teatro Tostão e o Rouxinóis do Brasil. Em 1986, em campanha eleitoral, segundo eles passaram a atuar com equipamento próprio, banda e ônibus, e dizem ter sido a primeira dupla do estado nessas condições. Separaram-se em 1992 ou 1993 e voltaram em 1995, em show no aniversário de Campo Grande. Nesse intervalo, Guarany formou a dupla Frank e Martin, e Tostão, a dupla Tostão e Mano César. Depois, os dois se reuniram novamente.[^pio]
 
+Em março de 2009, o projeto Som da Concha, da Fundação de Cultura de MS, programou a dupla com o show "25 anos na estrada", uma retrospectiva, na Concha Acústica [[helena-meirelles|Helena Meirelles]], no Parque das Nações Indígenas, com a banda São Roque na abertura. O texto data a formação da dupla em 1983 e cita entre os sucessos "Flor da Fronteira" e "Estrada de Chão".[^da2009]
+
 ## Obras
 
 - Primeiro compacto duplo, de 1982, segundo a Fundação de Cultura de MS[^fasp]
@@ -52,3 +54,4 @@ Tostão e Guarany contam que montaram, por falta de espaço para se apresentar, 
 [^cgn]: Anny Malagolini, ["Tostão e Guarany fazem 30 anos de carreira recusando convites para mudar de lado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/tostao-e-guarany-fazem-30-anos-de-carreira-recusando-convites-para-mudar-de-lado), *Campo Grande News*, 6 nov. 2013. Acesso em 8 out. 2026.
 [^fasp]: Daiana Schio, ["Aurélio Miranda e Tostão & Guarany sobem ao palco para show memorável no FASP"](https://www.fundacaodecultura.ms.gov.br/aurelio-miranda-e-tostao-guarany-sobem-ao-palco-para-show-memoravel-no-fasp/), *Fundação de Cultura de Mato Grosso do Sul*, 9 mai. 2018. Acesso em 8 out. 2026.
 [^pio]: Rodrigo Teixeira, [*Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul*](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro, versão integral em PDF disponibilizada no *Overmundo*, 15 jan. 2010. Acesso em 10 out. 2026.
+[^da2009]: ["Tostão & Guarani e banda São Roque animam show em CG"](https://www.douradosagora.com.br/2009/03/14/tostao-guarani-e-banda-sao-roque-animam-show-em-cg/), *Dourados Agora*, 14 mar. 2009. Acesso em 10 out. 2026.

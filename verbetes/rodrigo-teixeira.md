@@ -45,6 +45,10 @@ Segundo Silus, o livro de 2016 narra a história do projeto *[[prata-da-casa|Pra
 - *Prata da Casa: um marco da música sul-mato-grossense* (2016)[^trilhas]
 - *Sambone* (disco, 1998), segundo texto do próprio Teixeira no Overmundo[^ovnav]
 
+## Para saber mais
+
+- [Matula Cultural](https://matulacultural.wordpress.com/) — blog do próprio Rodrigo Teixeira, no ar desde abril de 2006, com críticas, crônicas e entrevistas sobre a cultura de Mato Grosso do Sul, segundo a descrição do blog.[^matula]
+
 [^trilhas]: Alan Silus, ["Pelos Caminhos da Música Sul-Mato-Grossense: um estudo bibliográfico"](https://trilhasdahistoria.ufms.br/index.php/RevTH/article/view/19958/14805), *Revista Trilhas da História*, UFMS, recebido em 4 jan. 2024 e aprovado em 31 out. 2024. Acesso em 8 out. 2026.
 [^cgn]: Renan Nucci, ["Exposição traz resgate da música sul-mato-grossense na Capital"](https://www.campograndenews.com.br/lado-b/diversao/exposicao-traz-resgate-da-musica-sul-mato-grossense-na-capital), *Campo Grande News*, 7 set. 2014. Acesso em 8 out. 2026.
 [^ovnav]: Rodrigo Teixeira, ["NAVEGANTES • RODRIGO TEIXEIRA (MS)"](https://www.overmundo.com.br/banco/navegantes-rodrigo-teixeira-ms), *Overmundo* (conteúdo colaborativo), 3 jan. 2007. Acesso em 10 out. 2026.
@@ -56,3 +60,4 @@ Segundo Silus, o livro de 2016 narra a história do projeto *[[prata-da-casa|Pra
 [^ovpio]: Rodrigo Teixeira, ["Os Pioneiros mira primeiros compositores de MS"](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), *Overmundo* (conteúdo colaborativo), 15 jan. 2010. Acesso em 10 out. 2026.
 [^ovsert]: Rodrigo Teixeira, ["A Música Sertaneja de MS • Rodrigo Teixeira"](https://www.overmundo.com.br/banco/a-musica-sertaneja-de-ms-rodrigo-teixeira), *Overmundo* (conteúdo colaborativo), 5 jan. 2011. Acesso em 10 out. 2026.
 [^pdfpio]: Rodrigo Teixeira, [*Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul*](https://www.overmundo.com.br/download_banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro em PDF, *Overmundo*, folha de rosto e créditos. Acesso em 10 out. 2026.
+[^matula]: ["Matula Cultural: blog do jornalista e músico Rodrigo Teixeira"](https://matulacultural.wordpress.com/). Acesso em 10 out. 2026.

@@ -47,6 +47,8 @@ Em 2010, formou com Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]] o t
 
 No início do segundo semestre letivo de 2024, estreou na UFMS o show solo *Ilumini*, descrito pela universidade como um "monólogo musical" com iluminação e efeitos sonoros.[^ufms]
 
+Em setembro de 2026, apresentou *Crianceiras Mário Quintana – Poesias Musicadas por Márcio de Camillo* nos dias 19 e 20, no Teatro Glauce Rocha, da UFMS. O espetáculo usa o teatro de papel, tem direção de Luiz André Cherubini, do Grupo Sobrevento, e cenário de Carlo Giovani. Reúne poemas de Mario Quintana musicados em ritmos como valsa, forró, jazz e rock. A matéria diz que a primeira edição do projeto *Crianceiras* foi dedicada a [[manoel-de-barros|Manoel de Barros]].[^oestado]
+
 ## Obras
 
 - *Do Litoral Central do Brasil*, show de 2024 com canções de Geraldo Roca[^cgnsh]
@@ -54,6 +56,7 @@ No início do segundo semestre letivo de 2024, estreou na UFMS o show solo *Ilum
 - *Olhos d'Água* (1996), *Telepaticamente* (2001), *Márcio de Camillo Ao Vivo* (2005), *Me Deixar Levar* (2007), *Hermanos Irmãos* (2011) e *Crianceiras* (2012)[^cravo]
 - Produção do CD *GerAções* (2006)[^omcd]
 - Show *Ilumini* (2024)[^ufms]
+- *Crianceiras Mário Quintana* (espetáculo, 2026)[^oestado]
 
 ## Para saber mais
 
@@ -70,3 +73,4 @@ No início do segundo semestre letivo de 2024, estreou na UFMS o show solo *Ilum
 [^omcd]: Rodrigo Teixeira, ["CD GERAÇÕES: Clube da 'outra' Esquina"](https://www.overmundo.com.br/overblog/cd-geracoes-clube-da-outra-esquina), *Overmundo*, 14 set. 2006. Acesso em 10 out. 2026.
 [^omshow]: Rodrigo Teixeira, ["GerAções reativa corrente da música de MS"](https://www.overmundo.com.br/overblog/geracoes-reativa-corrente-da-musica-de-ms), *Overmundo*, 23 set. 2006. Acesso em 10 out. 2026.
 [^ufms]: Rebeca Ferro, ["Cantor e compositor Márcio de Camillo estreia espetáculo no Teatro Glauce Rocha"](https://www.ufms.br/cantor-e-compositor-marcio-de-camillo-estreia-espetaculo-no-teatro-glauce-rocha/), *UFMS*, 2024. Acesso em 10 out. 2026.
+[^oestado]: Laura Brasil, ["Márcio de Camillo leva poesias de Mario Quintana ao palco em Campo Grande"](https://oestadoonline.com.br/sem-categoria/marcio-de-camillo-leva-poesias-de-mario-quintana-ao-palco-em-campo-grande/), *O Estado Online*, 12 set. 2026. Acesso em 10 out. 2026.
