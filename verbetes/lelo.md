@@ -21,7 +21,7 @@ Começou a pintar aos 14 anos, em telas improvisadas com lençóis velhos e reta
 
 A Prefeitura de Campo Grande diz que ele reúne mais de 4.000 trabalhos em tinta acrílica e a óleo, espalhados por todos os continentes. Segundo a mesma fonte, boa parte da obra mostra a natureza, o povo e a história do estado.[^cg]
 
-O texto "Longa Duração", do MARCO, que traça um panorama das artes plásticas no estado, cita "Lelo (Élios Longo)" entre os artistas que, "na busca identitária", trabalham temas regionais.[^marco] A identificação do nome artístico com o nome completo consta nas duas fontes.
+O texto "Longa Duração", do [[marco|MARCO]], que traça um panorama das artes plásticas no estado, cita "Lelo (Élios Longo)" entre os artistas que, "na busca identitária", trabalham temas regionais.[^marco] A identificação do nome artístico com o nome completo consta nas duas fontes.
 
 ## Exposições
 

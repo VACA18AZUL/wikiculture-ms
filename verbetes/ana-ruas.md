@@ -18,7 +18,7 @@ atualizado: 2026-10-10
 
 Segundo o Tribunal de Contas de MS, ela começou a pintar temas ligados à natureza em 2016, depois de visitar o Jardim de Monet, em Giverny, na França. O órgão cita os prêmios Funarte Mulheres nas Artes Visuais e PIPA e diz que o ateliê dela recebe pessoas interessadas em discutir temas da contemporaneidade.[^tce]
 
-Um texto do [[marco|MARCO]] sobre a história das artes plásticas no estado a situa na tendência construtiva, ao lado de [[ana-karla-zahran|Ana Karla Zahran]] e Renato Arakaki, e diz que ela leva seus trabalhos a viadutos e ruas da cidade.[^ld]
+Um texto do [[marco|MARCO]] sobre a história das artes plásticas no estado a situa na tendência construtiva, ao lado de [[ana-karla-zahran|Ana Karla Zahran]] e [[renato-arakaki|Renato Arakaki]], e diz que ela leva seus trabalhos a viadutos e ruas da cidade.[^ld]
 
 ## Exposições
 

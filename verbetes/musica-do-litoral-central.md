@@ -23,9 +23,9 @@ Antes, o jornalista [[jose-octavio-guizzo|José Octávio Guizzo]] chamou o movim
 
 Segundo Neder, o movimento começou no fim dos anos 1960, teve pleno desenvolvimento nos anos 1970 e auge de popularidade nos anos 1980. Nunca se articulou por manifestos e se organizou de modo flexível em torno de [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]] e Geraldo Roca. O [[grupo-acaba|Grupo Acaba]] tinha proposta própria, mas ficou na mesma categoria em projetos coletivos.[^neder]
 
-Neder vê na música a ausência de unidade estética, estilística e ideológica. Para os três compositores iniciais, o rock e a contracultura foram influências fundamentais, junto com as músicas caipira, paraguaia, boliviana e argentina.[^neder] Ele situa o nascimento do movimento nos festivais de música de 1967 e 1968 e vê em Os Bizarros, de Espíndola e Simões, no II Festival, o primeiro passo na hibridação entre rural e urbano (ver [[festivais-de-musica-popular-ms|Festivais de Música Popular de Mato Grosso do Sul]]).[^neder]
+Neder vê na música a ausência de unidade estética, estilística e ideológica. Para os três compositores iniciais, o rock e a contracultura foram influências fundamentais, junto com as músicas caipira, paraguaia, boliviana e argentina.[^neder] Ele situa o nascimento do movimento nos festivais de música de 1967 e 1968 e vê em [[os-bizarros|Os Bizarros]], de Espíndola e Simões, no II Festival, o primeiro passo na hibridação entre rural e urbano (ver [[festivais-de-musica-popular-ms|Festivais de Música Popular de Mato Grosso do Sul]]).[^neder]
 
-Evandro Higa resume que Neder identifica uma "poética do deslocamento", em que o rio Paraguai, o Pantanal e o trem aparecem como imagens recorrentes.[^higa] Cita entre os compositores analisados Geraldo Espíndola, [[almir-sater|Almir Sater]], Paulo Simões, Geraldo Roca, [[lenilde-ramos|Lenilde Ramos]] e o Grupo Acaba.[^higa]
+[[evandro-higa|Evandro Higa]] resume que Neder identifica uma "poética do deslocamento", em que o rio Paraguai, o Pantanal e o trem aparecem como imagens recorrentes.[^higa] Cita entre os compositores analisados Geraldo Espíndola, [[almir-sater|Almir Sater]], Paulo Simões, Geraldo Roca, [[lenilde-ramos|Lenilde Ramos]] e o Grupo Acaba.[^higa]
 
 ## Divisão do estado e declínio
 

@@ -15,13 +15,13 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-O músico Lincoln Gouveia, vocalista da banda [[canaroots|Canaroots]], foi um dos idealizadores da associação. Ele morreu em junho de 2021.[^lin]
+O músico [[lincoln-gouveia|Lincoln Gouveia]], vocalista da banda [[canaroots|Canaroots]], foi um dos idealizadores da associação. Ele morreu em junho de 2021.[^lin]
 
-Em abril de 2024, o Correio do Estado identificava [[diego-manciba|Diego Manciba]], que também atua como DJ, como presidente da ARMS. A matéria diz que a entidade levou à Câmara Municipal a proposta de criar o Dia Municipal do Reggae, em 17 de junho, data da morte de Lincoln Gouveia. A instituição da data foi publicada no Diário Oficial naquele mês, por iniciativa do vereador Beto Avelar.[^ce]
+Em abril de 2024, o Correio do Estado identificava [[diego-manciba|Diego Manciba]], que também atua como DJ, como presidente da ARMS. A matéria diz que a entidade levou à Câmara Municipal a proposta de criar o [[dia-municipal-do-reggae|Dia Municipal do Reggae]], em 17 de junho, data da morte de Lincoln Gouveia. A instituição da data foi publicada no Diário Oficial naquele mês, por iniciativa do vereador Beto Avelar.[^ce]
 
-A mesma matéria registra uma sessão do documentário *Marley* (2012), organizada pela ARMS com o [[mis-ms|Museu da Imagem e do Som]] em 8 de maio de 2024, e a previsão de um tributo a Bob Marley no Armazém Cultural, em 11 de maio.[^ce]
+A mesma matéria registra uma sessão do documentário *Marley* (2012), organizada pela ARMS com o [[mis-ms|Museu da Imagem e do Som]] em 8 de maio de 2024, e a previsão de um tributo a Bob Marley no [[armazem-cultural|Armazém Cultural]], em 11 de maio.[^ce]
 
-Em 11 de maio de 2024, a ARMS realizou no Centro Cultural José Octávio Guizzo a comemoração do Dia Nacional do Reggae, com tributo a Bob Marley, sistemas de som Rockers Sound System e Radiola Reggae MS, artesanato e atividades para crianças. A entrada era franca, com arrecadação de doações. O evento teve apoio da Fundação de Cultura de MS.[^cgn2024]
+Em 11 de maio de 2024, a ARMS realizou no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]] a comemoração do Dia Nacional do Reggae, com tributo a Bob Marley, sistemas de som [[rockers-sound-system|Rockers Sound System]] e [[radiola-reggae-ms|Radiola Reggae MS]], artesanato e atividades para crianças. A entrada era franca, com arrecadação de doações. O evento teve apoio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]].[^cgn2024]
 
 ## Ligações
 

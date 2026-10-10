@@ -23,7 +23,7 @@ O coletivo se apresenta como organização sem fins lucrativos e, segundo a *Ama
 
 O primeiro livro, o *Álbum Biográfico Guerreiras da Ancestralidade*, foi organizado por Eva Potiguara e publicado em 2022. Reúne mais de 60 escritoras e poetas de várias etnias, com biografias e textos de cada uma. O livro e o e-book foram lançados de graça no V Encontro Nacional do Mulherio das Letras, em novembro de 2022, em João Pessoa (PB).[^ruido][^amazonia]
 
-Em dezembro de 2023, o álbum venceu o Prêmio Jabuti na categoria Fomento à Leitura.[^ruido][^wiki] O *Campo Grande News* noticiou o prêmio a partir de Benilda Kadiwéu, indígena de Mato Grosso do Sul que figura entre as 63 coautoras. A matéria conta que ela foi apresentada a Eva Potiguara pela escritora cearense Auritha Tabajara e que enviou dois poemas, sendo um em língua kadiwéu.[^cgn2023]
+Em dezembro de 2023, o álbum venceu o Prêmio Jabuti na categoria Fomento à Leitura.[^ruido][^wiki] O *Campo Grande News* noticiou o prêmio a partir de Benilda Kadiwéu, indígena de Mato Grosso do Sul que figura entre as 63 coautoras. A matéria conta que ela foi apresentada a Eva Potiguara pela escritora cearense [[auritha-tabajara|Auritha Tabajara]] e que enviou dois poemas, sendo um em língua kadiwéu.[^cgn2023]
 
 ## Eva Potiguara
 

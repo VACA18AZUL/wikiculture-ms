@@ -21,19 +21,19 @@ Neder afirma que, no festival de 1967, a canção regionalista "[[mane-bento-vaq
 
 ## Edições e canções vencedoras
 
-Reportagem de 2021 do *Campo Grande News*, sobre o filme *Sonoras Imagens de Uma Época*, lista as canções vencedoras. A numeração e os nomes dos festivais são os da reportagem.[^cgn]
+Reportagem de 2021 do *Campo Grande News*, sobre o filme *[[sonoras-imagens-de-uma-epoca|Sonoras Imagens de Uma Época]]*, lista as canções vencedoras. A numeração e os nomes dos festivais são os da reportagem.[^cgn]
 
-- 1967, I Festival de Música Popular Brasileira de Campo Grande, Clube Surian: "Mané Bento", de Guizzo e Paulo Mendonça de Souza, interpretada por Jorge Siufi.[^cgn]
+- 1967, I Festival de Música Popular Brasileira de Campo Grande, Clube Surian: "Mané Bento", de Guizzo e [[paulo-mendonca-de-souza|Paulo Mendonça de Souza]], interpretada por Jorge Siufi.[^cgn]
 - 1968, II Festival, Clube Surian: "O Amor Vence a Cor", de [[lenilde-ramos|Lenilde Ramos]].[^cgn]
-- 1969, III Festival, Clube Surian: "Norma", de José Roberto Amin.[^cgn]
+- 1969, III Festival, Clube Surian: "Norma", de [[jose-roberto-amin|José Roberto Amin]].[^cgn]
 - 1971, III Festival de Música Estudantil de Mato Grosso, Restaurante Universitário da UEMT: "Na Minha Canoa Só Cabe Lucinda", de [[moacir-lacerda|Moacir Lacerda]].[^cgn]
-- 1972, Festival de Música Estudantil Campograndense, Teatro Glauce Rocha: "Ponha na Sua Cabeça", de Geraldo Espíndola.[^cgn]
-- 1973, VI Festival Matogrossense de Criatividade Musical, Teatro Glauce Rocha: "Meteorito", de José Boaventura e Rubens de Aquino.[^cgn]
+- 1972, Festival de Música Estudantil Campograndense, [[teatro-glauce-rocha|Teatro Glauce Rocha]]: "Ponha na Sua Cabeça", de Geraldo Espíndola.[^cgn]
+- 1973, VI Festival Matogrossense de Criatividade Musical, Teatro Glauce Rocha: "Meteorito", de [[jose-boaventura|José Boaventura]] e [[rubens-de-aquino|Rubens de Aquino]].[^cgn]
 - 1974, VI Festival de Música Popular Brasileira, Teatro Glauce Rocha: "Recado", de Lenilde Ramos.[^cgn]
-- 1977, Festival Sulmatogrossense de Música, Clube Libanês: "Voos Claros", de Geraldo Espíndola e Antonio Mário.[^cgn]
-- 1979, I Festival Sulmatogrossense de Música (Fessul), Ginásio da UCE: "Kananciuê", de Moacir Lacerda e J. Luz Bittencourt, interpretada pelo [[grupo-acaba|Grupo Acaba]].[^cgn]
+- 1977, Festival Sulmatogrossense de Música, Clube Libanês: "Voos Claros", de Geraldo Espíndola e [[antonio-mario|Antonio Mário]].[^cgn]
+- 1979, I Festival Sulmatogrossense de Música (Fessul), Ginásio da UCE: "Kananciuê", de Moacir Lacerda e [[j-luz-bittencourt|J. Luz Bittencourt]], interpretada pelo [[grupo-acaba|Grupo Acaba]].[^cgn]
 
-Segundo Marin e Pereira, [[jose-octavio-guizzo|José Octávio Guizzo]] organizou alguns dos Festivais Sul-mato-grossenses de Música, produzidos pela TV Morena de 1979 a 1981, e atuou como jurado.[^hgr]
+Segundo Marin e Pereira, [[jose-octavio-guizzo|José Octávio Guizzo]] organizou alguns dos Festivais Sul-mato-grossenses de Música, produzidos pela [[tv-morena|TV Morena]] de 1979 a 1981, e atuou como jurado.[^hgr]
 
 ## Registros
 

@@ -14,13 +14,13 @@ atualizado: 2026-10-10
 
 ## Teatro e arte-educação
 
-Em entrevista publicada pelo *Blog do Alex Fraga*, num texto sem data visível sobre o projeto Teatro Brasileiro Fora do Eixo, ela diz que começou no teatro na adolescência. Com amigos da escola, criou o grupo Gente Nova para montar *Saltimbanco*, em 1986. O grupo circulou por escolas de Campo Grande e durou pouco mais de um ano. No fim da década de 1980, participou do grupo Alma de Circo, da UFMS. O texto diz que a maior parte dos integrantes do Alma de Circo fundou depois o [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^alex1]
+Em entrevista publicada pelo *Blog do Alex Fraga*, num texto sem data visível sobre o projeto Teatro Brasileiro Fora do Eixo, ela diz que começou no teatro na adolescência. Com amigos da escola, criou o grupo [[gente-nova|Gente Nova]] para montar *Saltimbanco*, em 1986. O grupo circulou por escolas de Campo Grande e durou pouco mais de um ano. No fim da década de 1980, participou do grupo [[alma-de-circo|Alma de Circo]], da UFMS. O texto diz que a maior parte dos integrantes do Alma de Circo fundou depois o [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^alex1]
 
 Uma nota de 2010 chama de "atriz, diretora teatral e arte-educadora" a idealizadora do grupo infantil de teatro Brincarte, nascido de uma oficina de teatro para crianças, que montou o espetáculo *Palhashow* sob a direção dela.[^amaral]
 
 ## Ateliê Ramona Rodrigues
 
-O *Blog do Alex Fraga* diz que ela realiza saraus há cerca de 25 anos e que o Sarau Multicultural acontece no ateliê, no centro de Campo Grande, com apresentações de alunos das oficinas de teatro e circo.[^alex2] O *Teatrine TV* registrou no ateliê, em dezembro de 2024, o espetáculo *Histórias Mágicas de Natal*, da Trupe Teatro de Brincar, e, em janeiro de 2025, o projeto "Férias Brincantes", de contação de histórias para bebês.[^teat1][^teat2] Em outubro de 2026, o ateliê aparece como um dos locais de intercâmbio do circuito Aproximando Fronteiras.[^gazeta]
+O *Blog do Alex Fraga* diz que ela realiza saraus há cerca de 25 anos e que o Sarau Multicultural acontece no ateliê, no centro de Campo Grande, com apresentações de alunos das oficinas de teatro e circo.[^alex2] O *Teatrine TV* registrou no ateliê, em dezembro de 2024, o espetáculo *Histórias Mágicas de Natal*, da [[trupe-teatro-de-brincar|Trupe Teatro de Brincar]], e, em janeiro de 2025, o projeto "Férias Brincantes", de contação de histórias para bebês.[^teat1][^teat2] Em outubro de 2026, o ateliê aparece como um dos locais de intercâmbio do circuito Aproximando Fronteiras.[^gazeta]
 
 ## Figurino em *Gran FinaLLe*
 

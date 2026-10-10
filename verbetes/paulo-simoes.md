@@ -16,7 +16,7 @@ atualizado: 2026-10-10
 
 Com [[geraldo-roca|Geraldo Roca]], escreveu "Trem do Pantanal" em 1975. Segundo Simões, a canção começou a ser feita perto de Aquidauana, durante uma viagem de trem em abril de 1975 rumo a Machu Picchu, no Peru, via Bolívia. Em entrevista de 2012 ao livro *[[prata-da-casa|Prata da Casa]]*, Roca contou que a música se chamava originalmente "Todos os trilhos da terra".[^trem]
 
-Em 1983, assinou com Almir Sater a canção "Comitiva Esperança". Participou, com Sater e Zé Gomes, da expedição ao Pantanal feita entre novembro de 1983 e janeiro de 1984, e produziu o documentário *[[comitiva-esperanca|Comitiva Esperança]]* (1986), dirigido por Wagner Carvalho.[^bonny]
+Em 1983, assinou com Almir Sater a canção "Comitiva Esperança". Participou, com Sater e [[ze-gomes|Zé Gomes]], da expedição ao Pantanal feita entre novembro de 1983 e janeiro de 1984, e produziu o documentário *[[comitiva-esperanca|Comitiva Esperança]]* (1986), dirigido por [[wagner-carvalho|Wagner Carvalho]].[^bonny]
 
 Em 2016, foi um dos entrevistados do documentário *A Dama do Rasqueado*, sobre a cantora Delinha, da dupla [[delio-e-delinha|Délio e Delinha]].[^cgn2016]
 
@@ -24,7 +24,7 @@ Em entrevista ao Overmundo em 2008, o jornalista [[rodrigo-teixeira|Rodrigo Teix
 
 Segundo a Wikipédia em português, o primeiro disco individual, *Paulo Simões & o Expresso Arrasta-Pé Volume I*, é de 1992 e marcou o lançamento do selo Sauá, criado por ele e [[guilherme-rondon|Guilherme Rondon]]. Em 1994, ele iniciou o projeto [[chalana-de-prata|Chalana de Prata]], com [[celito-espindola|Celito Espíndola]], Guilherme Rondon e o sanfoneiro [[dino-rocha|Dino Rocha]], que lançou o primeiro CD em 1998. A mesma fonte lista ainda *Expresso Arrasta-Pé Volume II* (1997), *Rumo a Dois Mil e... Uns!* (2002), *Vida Bela Vida* (2004), *Canções, Simplesmente Canções* (2013) e *Outras Canções* (2018).[^wikipt] Uma nota do Overmundo de março de 2006 descreve o álbum *Vida Bela, Vida* como compilação de 35 anos de carreira, com "Trem do Pantanal", "Comitiva Esperança" e "Sonhos Guaranis".[^omvida]
 
-A Wikipédia em português data a expedição Comitiva Esperança de 1986, e não de 1983-1984 como em Bonny; as datas divergem.[^wikialmir] A Wikipédia registra canções suas gravadas por Sérgio Reis ("O Lobo da Estrada", com Pedro Aurélio), Maria Bethânia ("Planície de Prata"), Chitãozinho e Xororó e outros, e canções em trilhas de telenovelas, como "Comitiva Esperança" em *Pantanal* (1990). A mesma fonte lista o Prêmio Sharp de melhor composição regional por "Paiaguás", com Guilherme Rondon (1992), e a indicação ao Grammy Latino de 2016 por "D de Destino", com [[almir-sater|Almir Sater]] e Renato Teixeira.[^wikipt]
+A Wikipédia em português data a expedição Comitiva Esperança de 1986, e não de 1983-1984 como em Bonny; as datas divergem.[^wikialmir] A Wikipédia registra canções suas gravadas por [[sergio-reis|Sérgio Reis]] ("O Lobo da Estrada", com Pedro Aurélio), Maria Bethânia ("Planície de Prata"), Chitãozinho e Xororó e outros, e canções em trilhas de telenovelas, como "Comitiva Esperança" em *Pantanal* (1990). A mesma fonte lista o Prêmio Sharp de melhor composição regional por "Paiaguás", com Guilherme Rondon (1992), e a indicação ao Grammy Latino de 2016 por "D de Destino", com [[almir-sater|Almir Sater]] e Renato Teixeira.[^wikipt]
 
 ## Para saber mais
 

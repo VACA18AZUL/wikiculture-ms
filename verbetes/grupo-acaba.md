@@ -18,7 +18,7 @@ atualizado: 2026-10-10
 
 Um texto colaborativo do Overmundo, assinado por Luca Maribondo em 2007, diz que o grupo foi fundado em 1969, em Campo Grande, para pesquisar e divulgar o folclore do antigo Mato Grosso e do atual Mato Grosso do Sul.[^ovacaba] A Wikipédia em português também indica 1969, mas diz que a fundação foi no Pantanal.[^wikiacaba] Marin e Pereira, por sua vez, tratam do grupo no período posterior à criação do estado, em 1977, sem dar data de fundação.[^hgr] As fontes divergem, e este verbete registra as três versões.
 
-O Overmundo lista nove integrantes: [[adriano-praca-de-almeida|Adriano Praça de Almeida]] (flauta, saxofone), Vandir Nunes Barreto, José Charbel Filho, Eduardo Lincoln Gouveia, Francisco Saturnino Lacerda Filho, [[moacir-lacerda|Moacir Saturnino de Lacerda]], Jairo Henrique de Almeida Lara, Alaor Pereira de Oliveira e Antonio Luiz Porfírio. A Wikipédia repete a lista.[^ovacaba][^wikiacaba]
+O Overmundo lista nove integrantes: [[adriano-praca-de-almeida|Adriano Praça de Almeida]] (flauta, saxofone), Vandir Nunes Barreto, José Charbel Filho, Eduardo [[lincoln-gouveia|Lincoln Gouveia]], Francisco Saturnino Lacerda Filho, [[moacir-lacerda|Moacir Saturnino de Lacerda]], Jairo Henrique de Almeida Lara, Alaor Pereira de Oliveira e Antonio Luiz Porfírio. A Wikipédia repete a lista.[^ovacaba][^wikiacaba]
 
 ## Trajetória
 
@@ -45,7 +45,7 @@ Discos, segundo o Overmundo e a Wikipédia:[^ovacaba][^wikiacaba]
 - *Pantanal 2000* (CD, Sauá, 2000)[^ovacaba]
 - *Pantanal: Coração da América* (CD, 2001), só na Wikipédia[^wikiacaba]
 
-O grupo também participou, sem ser o titular, de *A Música Regional do Brasil* (1980), *Prata da Casa* (1982) e *Caramujo Som* (1995).[^ovacaba] Entre os livros, o Overmundo cita *Grupo Acaba: 30 Anos de Música, Cultura e Pesquisa* (1998) e *Pantanal, Coração da América* (2002).[^ovacaba]
+O grupo também participou, sem ser o titular, de *A Música Regional do Brasil* (1980), *Prata da Casa* (1982) e *[[caramujo-som|Caramujo Som]]* (1995).[^ovacaba] Entre os livros, o Overmundo cita *Grupo Acaba: 30 Anos de Música, Cultura e Pesquisa* (1998) e *Pantanal, Coração da América* (2002).[^ovacaba]
 
 ## Recepção crítica
 

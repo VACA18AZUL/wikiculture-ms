@@ -43,7 +43,7 @@ A peça retoma mitos e lendas do Pantanal e pergunta quem vive na região, para 
 
 ## Apresentações
 
-Na Mostra Boca de Cena, o espetáculo foi apresentado no Teatro Prosa, em Campo Grande, no dia 27 de maio, com classificação indicativa de 16 anos.[^boca]
+Na [[mostra-boca-de-cena|Mostra Boca de Cena]], o espetáculo foi apresentado no Teatro Prosa, em Campo Grande, no dia 27 de maio, com classificação indicativa de 16 anos.[^boca]
 
 Depois da estreia, o espetáculo voltou ao cartaz em várias ocasiões. Em novembro de 2020, integrou o projeto "Para Além do Centro – 31 Anos", com apresentações gratuitas em espaços públicos e periféricos de Campo Grande.[^dd2020] Em abril de 2023, foi reapresentado na inauguração da nova sede do grupo, no Jardim Paulista.[^ce2023a] Em outubro de 2023, voltou ao cartaz na programação dos 35 anos do grupo.[^ce2023b] Em 25 de fevereiro de 2026, constava da programação do projeto "TGR: Riso, Risco e Resistência", na sede do grupo.[^cgn2026]
 

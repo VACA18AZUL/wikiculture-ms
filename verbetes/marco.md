@@ -21,13 +21,13 @@ O acervo nasceu da antiga Pinacoteca Estadual e cresceu com prêmios aquisitivos
 
 Outras fontes dão números intermediários. Um texto do Overmundo de 2006 falava em mais de 800 peças.[^omguia] A Wikipédia em português registra cerca de 1.500 obras.[^wiki] Em novembro de 2016, a diretora [[maysa-barros|Maysa Barros]] disse ao *Correio do Estado* que o acervo tinha 1,6 mil obras.[^ce2016] Uma dissertação de 2023 fala em mais de 1.600 obras, e uma reportagem de 2024, em aproximadamente 1.600.[^lima][^ce2024] As contagens diferem por data e, possivelmente, por critério, e o verbete registra todas.[^lima][^ce2024]
 
-A dissertação de 2023 descreve uma coleção especial com o acervo de [[lidia-bais|Lídia Baís]] e de [[ines-correa-da-costa|Ignês Corrêa da Costa]], com diários, fotografias, pinturas e documentos. Cita também obras de [[wega-nery]], gravuras de [[vania-pereira|Vânia Pereira]] e de [[roberto-de-lamonica|Roberto de Lamônica]], trinta xilogravuras de Oswald Goeldi e coleções de artistas brasileiros doadas por Pietro Maria Bardi.[^lima]
+A tese de 2023 descreve uma coleção especial com o acervo de [[lidia-bais|Lídia Baís]] e de [[ines-correa-da-costa|Ignês Corrêa da Costa]], com diários, fotografias, pinturas e documentos. Cita também obras de [[wega-nery]], gravuras de [[vania-pereira|Vânia Pereira]] e de [[roberto-de-lamonica|Roberto de Lamônica]], trinta xilogravuras de Oswald Goeldi e coleções de artistas brasileiros doadas por Pietro Maria Bardi.[^lima]
 
 Em 2008, o museu recebeu obras de Wega Nery, Ignês Corrêa da Costa e [[jorapimo|Jorapimo]] pelo Prêmio Marcantonio Vilaça/Funarte. Em 2013, recebeu 64 gravuras em *cliché-verre* de Alex Cerveny, pela quinta edição do mesmo prêmio.[^lima] Em 2016, uma exposição de acervo mostrou as obras dos três artistas de 2008, adquiridas por meio desse prêmio.[^ce2016]
 
 ## História e sedes
 
-Segundo a dissertação de 2023, o museu funcionou primeiro em sede provisória na avenida Calógeras, de 1991 a 1999, e depois na rua Barão do Rio Branco, de 1999 a 2002. A sede definitiva, projetada pelo arquiteto [[emmanuel-de-oliveira|Emmanuel de Oliveira]], teve as obras iniciadas em 1993 e concluídas em 2002, com recursos da Lei de Incentivo à Cultura.[^lima] O *Correio do Estado* de 2024 informa que a conclusão foi em julho de 2002 e que o prédio tem 4 mil metros quadrados de área construída.[^ce2024]
+Segundo a tese de 2023, o museu funcionou primeiro em sede provisória na avenida Calógeras, de 1991 a 1999, e depois na rua Barão do Rio Branco, de 1999 a 2002. A sede definitiva, projetada pelo arquiteto [[emmanuel-de-oliveira|Emmanuel de Oliveira]], teve as obras iniciadas em 1993 e concluídas em 2002, com recursos da Lei de Incentivo à Cultura.[^lima] O *Correio do Estado* de 2024 informa que a conclusão foi em julho de 2002 e que o prédio tem 4 mil metros quadrados de área construída.[^ce2024]
 
 ## Programação
 

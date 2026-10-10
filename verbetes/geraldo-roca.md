@@ -20,7 +20,7 @@ Escreveu "Trem do Pantanal" com [[paulo-simoes|Paulo Simões]], em 1975. Em entr
 
 O Campo Grande News o descreve como um dos principais compositores da música regional do estado, de produção pequena em número de composições e discos. Seu repertório inclui polcas, rocks, chamamés, guarânias e baladas. Colegas o chamavam de "maldito", e Arrigo Barnabé, de "Príncipe".[^camillo]
 
-Lançou o disco *Veneno Light* em 2006.[^camillo] Um estudo bibliográfico de 2024 diz que criou o conceito de "Música do Litoral Central", analisado por Neder em 2014, e o lista entre os entrevistados do livro *A Música de Mato Grosso do Sul* (2009).[^silus]
+Lançou o disco *Veneno Light* em 2006.[^camillo] Um estudo bibliográfico de 2024 diz que criou o conceito de "[[musica-do-litoral-central|Música do Litoral Central]]", analisado por Neder em 2014, e o lista entre os entrevistados do livro *A Música de Mato Grosso do Sul* (2009).[^silus]
 
 Segundo o músico [[marcio-de-camillo|Márcio de Camillo]], Roca integrou a "geração de ouro" da música pantaneira do estado, ao lado de [[paulo-simoes|Paulo Simões]], Alzira E, [[geraldo-espindola|Geraldo Espíndola]], [[tete-espindola|Tetê Espíndola]] e [[almir-sater|Almir Sater]]. Em setembro de 2024, Camillo estreou no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, um show em homenagem a ele, com direção de [[luiz-andre-cherubini|Luiz André Cherubini]].[^camillo]
 

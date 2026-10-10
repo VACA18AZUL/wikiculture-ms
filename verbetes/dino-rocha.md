@@ -26,7 +26,7 @@ Chegou a Campo Grande em 1972, segundo a reportagem de 2016. A Midiamax diz 1971
 
 A reportagem de 2016 diz que ele tocou com Dominguinhos. Afirma também que [[zacarias-mourao|Zacarias Mourão]] o apelidou e o levou a São Paulo.[^cgn]
 
-A "Gaivota Pantaneira", gravada em 1973 no primeiro disco dele, com a dupla Amambai e Amambaí, tornou-se seu maior sucesso depois da novela *Pantanal*, de 1990.[^cgn][^midiamax] A Midiamax o descreve como autor da música. Ele participou de capítulos da novela ao lado de [[almir-sater|Almir Sater]]. A reportagem de 2016 fala em três participações, junto com Sérgio Reis e [[almir-sater|Almir Sater]].[^cgn][^midiamax]
+A "Gaivota Pantaneira", gravada em 1973 no primeiro disco dele, com a dupla Amambai e Amambaí, tornou-se seu maior sucesso depois da novela *Pantanal*, de 1990.[^cgn][^midiamax] A Midiamax o descreve como autor da música. Ele participou de capítulos da novela ao lado de [[almir-sater|Almir Sater]]. A reportagem de 2016 fala em três participações, junto com [[sergio-reis|Sérgio Reis]] e [[almir-sater|Almir Sater]].[^cgn][^midiamax]
 
 Em 1991 venceu o prêmio Jacaré de Prata, segundo a Midiamax, que o cita como melhor instrumentista do Brasil naquele ano.[^midiamax]
 

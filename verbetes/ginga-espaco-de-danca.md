@@ -25,20 +25,20 @@ Uma reportagem de julho de 2025 fala em 39 anos de atuação da companhia em Cam
 ## Obras
 
 - *[[silencio-branco|Silêncio Branco]]*: espetáculo sobre violência contra a mulher. Uma matéria de 2024 o dá como lançado em 2022 e o credita à coreografia de Chico Neller.[^cgn2024][^dd2024] Em 2025, a pesquisadora [[maria-fernanda-figueiro|Maria Fernanda Figueiró]] disse que o tema central é o feminicídio.[^cgn2025]
-- *[[rompendo-silencios|Rompendo Silêncios]]*: releitura de *Silêncio Branco*, com coreografia e dramaturgia de [[vanessa-macedo|Vanessa Macedo]]. Estreou de 2 a 4 de setembro de 2024 no Teatro Glauce Rocha, no campus da UFMS, com recursos do Fundo de Investimentos Culturais de MS e apoio do Sesc/MS, da UFMS e da FAPEC.[^cgn2024][^dd2024]
+- *[[rompendo-silencios|Rompendo Silêncios]]*: releitura de *Silêncio Branco*, com coreografia e dramaturgia de [[vanessa-macedo|Vanessa Macedo]]. Estreou de 2 a 4 de setembro de 2024 no [[teatro-glauce-rocha|Teatro Glauce Rocha]], no campus da UFMS, com recursos do Fundo de Investimentos Culturais de MS e apoio do Sesc/MS, da UFMS e da FAPEC.[^cgn2024][^dd2024]
 - *Cultura Bovina?*: espetáculo sobre o boi como símbolo econômico e cultural, segundo o site da companhia.[^site]
 
 ## Os Afetos dos Silêncios
 
-O projeto "Os Afetos dos Silêncios" foi idealizado pelas bailarinas e pesquisadoras Ana Carolina Brindarolli e Maria Fernanda Figueiró. Teve financiamento do Fundo Municipal de Investimentos Culturais de Campo Grande. Previu apresentações de *Silêncio Branco* e *Rompendo Silêncios* no Sesc Teatro Prosa, uma mesa-redonda e a digitalização do acervo da companhia, com um site que reuniria o material das quase quatro décadas de atividade. A produção foi da Manaká Cultural.[^cgn2025]
+O projeto "Os Afetos dos Silêncios" foi idealizado pelas bailarinas e pesquisadoras [[ana-carolina-brindarolli|Ana Carolina Brindarolli]] e Maria Fernanda Figueiró. Teve financiamento do Fundo Municipal de Investimentos Culturais de Campo Grande. Previu apresentações de *Silêncio Branco* e *Rompendo Silêncios* no Sesc Teatro Prosa, uma mesa-redonda e a digitalização do acervo da companhia, com um site que reuniria o material das quase quatro décadas de atividade. A produção foi da Manaká Cultural.[^cgn2025]
 
 ## Ginga Espaço de Dança
 
-O Ginga Espaço de Dança aparece em duas matérias do *Campo Grande News*. Em 2025, foi o local da mesa-redonda do projeto "Os Afetos dos Silêncios".[^cgn2025] Em 2024, a matéria sobre o concurso CIAD, em Buenos Aires, diz que a Catarina Marquesi Cia de Dança, de Estephanie Cristine e Monica Helena, foi fundada em parceria com o Ginga Espaço de Dança.[^cgn2024b] As fontes abertas não descrevem a relação formal entre a companhia e o espaço nem informam quando o espaço foi aberto.[^cgn2025]
+O Ginga Espaço de Dança aparece em duas matérias do *Campo Grande News*. Em 2025, foi o local da mesa-redonda do projeto "Os Afetos dos Silêncios".[^cgn2025] Em 2024, a matéria sobre o concurso CIAD, em Buenos Aires, diz que a [[catarina-marquesi-cia-de-danca|Catarina Marquesi Cia de Dança]], de Estephanie Cristine e Monica Helena, foi fundada em parceria com o Ginga Espaço de Dança.[^cgn2024b] As fontes abertas não descrevem a relação formal entre a companhia e o espaço nem informam quando o espaço foi aberto.[^cgn2025]
 
 ## Nomes
 
-As fontes usam "Ginga Cia de Dança" (ou "Cia.") para o grupo e "Ginga Espaço de Dança" para o local. Na Semana da Dança de 2024, o grupo apresentou *Rompendo Silêncios* no Teatro Aracy Balabanian.[^cgnsemana]
+As fontes usam "Ginga Cia de Dança" (ou "Cia.") para o grupo e "Ginga Espaço de Dança" para o local. Na Semana da Dança de 2024, o grupo apresentou *Rompendo Silêncios* no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].[^cgnsemana]
 
 [^site]: Ginga Cia de Dança, ["Sobre a Ginga"](https://gingaciadedanca.com.br/sobre-a-ginga/), site institucional (texto da própria companhia). Acesso em 10 out. 2026.
 [^tl2007]: ["Três Lagoas recebe o circuito Dança do Mato"](https://treslagoas.ms.gov.br/tres-lagoas-recebe-o-circuito-%c2%93danca-do-mato%c2%94), Prefeitura de Três Lagoas, 5 nov. 2007. Acesso em 10 out. 2026.

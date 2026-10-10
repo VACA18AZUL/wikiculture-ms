@@ -10,19 +10,19 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**"Sonhos guaranis"** é uma canção de [[almir-sater|Almir Sater]] e [[paulo-simoes|Paulo Simões]]. O musicólogo Evandro Higa a descreve como guarânia que trata da Guerra da Tríplice Aliança no século XIX.[^higa]
+**"Sonhos guaranis"** é uma canção de [[almir-sater|Almir Sater]] e [[paulo-simoes|Paulo Simões]]. O musicólogo [[evandro-higa|Evandro Higa]] a descreve como guarânia que trata da Guerra da Tríplice Aliança no século XIX.[^higa]
 
 ## Tema
 
 A letra se refere a Mato Grosso do Sul como a "fronteira onde o Brasil foi Paraguai", verso que Álvaro Neder usa para abrir sua análise da região e de suas tensões com o projeto nacional.[^neder][^higa] O Overmundo também a cita como exemplo de canção de compositores do estado que combinam guarânias, polcas e chamamés e usam fatos da história como inspiração.[^ompy]
 
-Em entrevista ao Overmundo em 2008, Simões disse que a música foi feita no período da Guerra das Malvinas. Contou que Sater havia lido o livro *Genocídio Americano*, sobre a Guerra do Paraguai, e que ele o leu em seguida. Segundo Simões, os livros escolares tratavam o conflito de forma simplista. Ele disse que a canção começa com versos contundentes e que era delicado mexer com o tema. Ele disse ainda que a dupla conheceu o cineasta Sylvio Back, que lhes disse que os paraguaios chamam a guerra de "Guerra do Brasil".[^ompaulo]
+Em entrevista ao Overmundo em 2008, Simões disse que a música foi feita no período da Guerra das Malvinas. Contou que Sater havia lido o livro *Genocídio Americano*, sobre a Guerra do Paraguai, e que ele o leu em seguida. Segundo Simões, os livros escolares tratavam o conflito de forma simplista. Ele disse que a canção começa com versos contundentes e que era delicado mexer com o tema. Ele disse ainda que a dupla conheceu o cineasta [[sylvio-back|Sylvio Back]], que lhes disse que os paraguaios chamam a guerra de "Guerra do Brasil".[^ompaulo]
 
-O entrevistador menciona que a cantora paraguaia Liza Bogallo gravou a canção em castelhano. Simões respondeu que isso tem importância cultural, como reconhecimento do tributo do Brasil ao Paraguai. Contou que tocou a música em uma festa no Paraguai diante de um dos músicos considerados criadores da guarânia, que se emocionou. Disse também que Sater, em um show em Assunção, preferiu não tocá-la.[^ompaulo]
+O entrevistador menciona que a cantora paraguaia [[liza-bogallo|Liza Bogallo]] gravou a canção em castelhano. Simões respondeu que isso tem importância cultural, como reconhecimento do tributo do Brasil ao Paraguai. Contou que tocou a música em uma festa no Paraguai diante de um dos músicos considerados criadores da guarânia, que se emocionou. Disse também que Sater, em um show em Assunção, preferiu não tocá-la.[^ompaulo]
 
 ## Apresentações e registros
 
-A canção está entre as apresentadas no projeto *[[prata-da-casa|Prata da Casa]]*, segundo o jornalista Rodrigo Teixeira.[^cgnprata] Uma nota do Overmundo de 2006 a lista, com "[[trem-do-pantanal|Trem do Pantanal]]" e "[[comitiva-esperanca|Comitiva Esperança]]", entre os clássicos do álbum *Vida Bela, Vida*, compilação de 35 anos de carreira de Simões.[^omvida]
+A canção está entre as apresentadas no projeto *[[prata-da-casa|Prata da Casa]]*, segundo o jornalista [[rodrigo-teixeira|Rodrigo Teixeira]].[^cgnprata] Uma nota do Overmundo de 2006 a lista, com "[[trem-do-pantanal|Trem do Pantanal]]" e "[[comitiva-esperanca|Comitiva Esperança]]", entre os clássicos do álbum *Vida Bela, Vida*, compilação de 35 anos de carreira de Simões.[^omvida]
 
 As fontes abertas não informam o ano da composição nem o disco de estreia da canção.[^neder][^ompaulo]
 

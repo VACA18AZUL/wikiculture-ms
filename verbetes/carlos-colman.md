@@ -25,11 +25,11 @@ Participou de projetos coletivos de gravação. A Wikipédia cita *Prata da casa
 
 ## Obras
 
-Segundo o *Caderno B*, a canção mais conhecida dele é "Pra você que vem de longe", feita em parceria com Miriam Camacho e usada como tema de um comercial da [[tv-morena|TV Morena]] sobre o estado.[^cadb] O Campo Grande News chama "Castelânea" (grafada "Castelênea" na matéria) e "Coração Ventania" de canções já consagradas dele.[^cgn]
+Segundo o *Caderno B*, a canção mais conhecida dele é "Pra você que vem de longe", feita em parceria com [[miriam-camacho|Miriam Camacho]] e usada como tema de um comercial da [[tv-morena|TV Morena]] sobre o estado.[^cadb] O Campo Grande News chama "Castelânea" (grafada "Castelênea" na matéria) e "Coração Ventania" de canções já consagradas dele.[^cgn]
 
-Em 2020, lançou o clipe de "A Ponte", escrita no início da pandemia. O vídeo é o primeiro todo em animação da carreira dele, com ilustrações de Marina Duarte e animação de Adrian Albuquerque.[^ce]
+Em 2020, lançou o clipe de "A Ponte", escrita no início da pandemia. O vídeo é o primeiro todo em animação da carreira dele, com ilustrações de [[marina-duarte|Marina Duarte]] e animação de Adrian Albuquerque.[^ce]
 
-Em 27 de abril de 2018, apresentou o álbum *Parceria*, com 14 canções inéditas, no Sesc Morada dos Baís, em Campo Grande.[^cgn]
+Em 27 de abril de 2018, apresentou o álbum *Parceria*, com 14 canções inéditas, no Sesc [[morada-dos-bais|Morada dos Baís]], em Campo Grande.[^cgn]
 
 ## Discografia
 

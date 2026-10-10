@@ -17,7 +17,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Segundo texto do acadêmico Abrão Razuk, ele nasceu em Campo Grande em 13 de setembro de 1932 e morreu na mesma cidade em 14 de março de 2011.[^sedep] O mesmo texto transcreve um perfil de Guimarães Rocha: formado pela Universidade do Estado do Rio de Janeiro (UERJ) em 1958, com curso na Escola Superior de Guerra em 1980, professor titular de Direito Penal na UCDB, sócio fundador e primeiro presidente do Lions Clube de Campo Grande. Advogou em Dourados a partir de 1960 e foi promotor de justiça de 1961 a 1963. Atuou como advogado da Justiça Militar federal e presidiu a seção campo-grandense da OAB entre 1969 e 1970.[^sedep]
+Segundo texto do acadêmico Abrão Razuk, ele nasceu em Campo Grande em 13 de setembro de 1932 e morreu na mesma cidade em 14 de março de 2011.[^sedep] O mesmo texto transcreve um perfil de [[guimaraes-rocha|Guimarães Rocha]]: formado pela Universidade do Estado do Rio de Janeiro (UERJ) em 1958, com curso na Escola Superior de Guerra em 1980, professor titular de Direito Penal na UCDB, sócio fundador e primeiro presidente do Lions Clube de Campo Grande. Advogou em Dourados a partir de 1960 e foi promotor de justiça de 1961 a 1963. Atuou como advogado da Justiça Militar federal e presidiu a seção campo-grandense da OAB entre 1969 e 1970.[^sedep]
 
 ## O hino
 

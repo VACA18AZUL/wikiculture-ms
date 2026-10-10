@@ -26,7 +26,7 @@ A matéria do Campo Grande News de 2023 diz que, antes das emissoras FM, ele pro
 
 Em 2020, durante o isolamento social, o Blog do Alex Fraga registrou uma transmissão ao vivo diária em que ele tocava música. Num dos dias, a seleção foi dedicada a discos de artistas de Mato Grosso do Sul, a começar por [[guilherme-rondon|Guilherme Rondon]]. O texto é um comentário do autor do blog.[^alex]
 
-A pesquisa de Carina Bonny sobre a música como representação do Pantanal inclui seu nome na lista de artistas e comunicadores que, depois da divisão do estado, contribuíram para a identidade musical sul-mato-grossense.[^bonny] Alan Silus, ao resumir o livro *A Música de Mato Grosso do Sul: histórias de vida* (2009), de Glorinha Sá Rosa e [[idara-duncan|Idara Duncan]], diz que ele foi um dos quatro entrevistados da parte sobre a música na mídia, ao lado de Cândido Alberto, [[lizoel-costa|Lizoel Costa]] e Oscar Rocha.[^silus]
+A pesquisa de Carina Bonny sobre a música como representação do Pantanal inclui seu nome na lista de artistas e comunicadores que, depois da divisão do estado, contribuíram para a identidade musical sul-mato-grossense.[^bonny] Alan Silus, ao resumir o livro *A Música de Mato Grosso do Sul: histórias de vida* (2009), de Glorinha Sá Rosa e [[idara-duncan|Idara Duncan]], diz que ele foi um dos quatro entrevistados da parte sobre a música na mídia, ao lado de Cândido Alberto, [[lizoel-costa|Lizoel Costa]] e [[oscar-rocha|Oscar Rocha]].[^silus]
 
 ## Acervo
 

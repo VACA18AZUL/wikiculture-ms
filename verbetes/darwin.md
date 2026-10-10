@@ -15,9 +15,9 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Um texto do [[marco|MARCO]] sobre a história das artes plásticas no estado o cita entre os artistas-professores do curso de Artes Visuais da UFMS, ao lado de Richard Perassi, [[carla-de-capua|Carla de Cápua]] e [[lucia-monte-serrat|Lúcia Monte Serrat]]. O texto o situa na geração que consolidou o movimento moderno e pós-moderno no estado nos anos 1980 e 1990.[^ld]
+Um texto do [[marco|MARCO]] sobre a história das artes plásticas no estado o cita entre os artistas-professores do curso de Artes Visuais da UFMS, ao lado de [[richard-perassi|Richard Perassi]], [[carla-de-capua|Carla de Cápua]] e [[lucia-monte-serrat|Lúcia Monte Serrat]]. O texto o situa na geração que consolidou o movimento moderno e pós-moderno no estado nos anos 1980 e 1990.[^ld]
 
-Em outubro de 2018, o *Campo Grande News* o descreveu como professor de Artes Visuais da UFMS à frente da curadoria que seleciona e premia as obras do Festival de Artes Plásticas de Campo Grande, em sua segunda edição, no Armazém Cultural. A mostra reuniu 167 artistas e 501 obras e ficou em cartaz até 31 de outubro.[^cgn2018]
+Em outubro de 2018, o *Campo Grande News* o descreveu como professor de Artes Visuais da UFMS à frente da curadoria que seleciona e premia as obras do [[festival-de-artes-plasticas-de-campo-grande|Festival de Artes Plásticas de Campo Grande]], em sua segunda edição, no [[armazem-cultural|Armazém Cultural]]. A mostra reuniu 167 artistas e 501 obras e ficou em cartaz até 31 de outubro.[^cgn2018]
 
 As fontes consultadas usam só o nome Darwin Longo. O nome completo não foi confirmado em fonte aberta.[^ld][^cgn2018]
 

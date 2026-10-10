@@ -31,7 +31,7 @@ Segundo o texto institucional, a missão é planejar, promover, incentivar e exe
 
 Matéria do *Campo Grande News* mostra o Fundo de Investimentos Culturais (FIC) como recurso "oriundo da" fundação para espetáculos e mostras, como o [[pantalhacos|Pantalhaços]] em 2024.[^cgn2024]
 
-Em fevereiro de 2026, *A Crítica* informou que a exposição *Fotografia e Memória*, no [[mis-ms|MIS-MS]], integra o projeto Rota Cine MS, iniciativa da fundação. A matéria cita o diretor-presidente, Eduardo Mendes Pinto.[^acritica]
+Em fevereiro de 2026, *A Crítica* informou que a exposição *[[fotografia-e-memoria|Fotografia e Memória]]*, no [[mis-ms|MIS-MS]], integra o projeto Rota Cine MS, iniciativa da fundação. A matéria cita o diretor-presidente, Eduardo Mendes Pinto.[^acritica]
 
 [^wiki]: ["Fundação de Cultura de Mato Grosso do Sul"](https://pt.wikipedia.org/wiki/Funda%C3%A7%C3%A3o_de_Cultura_de_Mato_Grosso_do_Sul), *Wikipédia*, enciclopédia colaborativa (texto e notas citam a Lei nº 422/1983, o Decreto-Lei nº 117/1979 e a Lei nº 548/1985). Acesso em 10 out. 2026.
 [^prosas]: Fundação de Cultura de Mato Grosso do Sul, texto institucional em ["Prosas: patrocinador"](https://prosas.com.br/patrocinadores/1418-fundacao-de-cultura-de-mato-grosso-do-sul), plataforma Prosas (texto da própria entidade). Acesso em 10 out. 2026.
