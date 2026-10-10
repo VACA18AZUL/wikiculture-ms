@@ -27,7 +27,9 @@ O primeiro livro, *Silvino Jacques, o Último dos Bandoleiros*, foi lançado em 
 
 Foi empossado na [[academia-douradense-de-letras|Academia Douradense de Letras]] (ADL) em 1993.[^ervais2013] A tese de Prado diz que ele foi eleito presidente da ADL no ano de 2008, para o biênio 2009–2010, em seu "primeiro mandato", e de novo para 2011–2012, quando se criou a ADL-Jovem. A Wikipédia diz que ele foi fundador da ADL em 1991 e seu primeiro presidente, eleito em novembro de 1992, reeleito em 2008 e 2011. As versões divergem quanto ao primeiro mandato.[^prado][^wp] A tese também registra sua participação na Executiva do Fórum Estadual de Cultura (2005) e a indicação, em janeiro de 2007, pela Federação das Academias de Letras e Artes de MS, ao Prêmio Nobel de Literatura.[^prado]
 
-Em agosto de 2026, foi eleito para a Academia Sul-Mato-Grossense de Letras. Na data da reportagem, a posse ainda não tinha ocorrido.[^acritica2026] O site da academia, consultado em 10 de outubro de 2026, o lista como ocupante da cadeira 13, cujo patrono é Estêvão de Mendonça.[^aslcad] Ver [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].
+Em agosto de 2026, foi eleito para a Academia Sul-Mato-Grossense de Letras. Na data da reportagem, a posse ainda não tinha ocorrido.[^acritica2026] O site da academia, consultado em 10 de outubro de 2026, o lista como ocupante da cadeira 13, cujo patrono é Estêvão de Mendonça.[^aslcad] O jornal *Contraponto MS* informa que a posse foi no sábado, 22 de agosto de 2026, na sede da academia, em Campo Grande. Segundo a reportagem, ele assumiu a cadeira 13, antes ocupada por J. Barbosa Rodrigues e Antônio João Hugo Rodrigues, foi saudado pelo acadêmico Samuel Medeiros e teve o ato conduzido pelo secretário-geral [[rubenio-marcelo|Rubenio Marcelo]].[^cp2026] A mesma matéria diz que ele é autor de onze livros e que foi membro fundador e primeiro presidente da Academia Douradense de Letras.[^cp2026] Ver [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].
+
+Em setembro de 2026, a *Folha de Dourados* noticiou a circulação de um novo livro seu, *Os três poderes da corrupção*, sobre bastidores da política local, estadual e federal e sobre o Movimento de Moralização e Ética no Trato da Coisa Pública (Metra), que ele fundou em Dourados na década de 1990. Segundo a reportagem, o autor não pretende fazer lançamento oficial e deixaria o livro à venda em uma livraria da cidade.[^fd2026]
 
 ## Obras
 
@@ -58,6 +60,8 @@ A obra é tema da tese *Brígido Ibanhes: entre narrativas históricas e represe
 - [André Alvez toma posse na Academia Sul-Mato-Grossense de Letras](https://acritica.net/cultura/andre-alvez-posse-academia-sul-mato-grossense-letras/) — reportagem de *A Crítica* sobre a eleição de Ibanhes.
 - [A literatura de fronteira e suas particularidades locais](https://periodicos.ufms.br/index.php/cadec/article/view/3354/2638) — artigo de Zélia Freire com leitura da obra dele.
 - [Brígido Ibanhes: (...) escreva nas nuvens para que todos vejam as suas mensagens](https://www.douradosagora.com.br/2012/08/16/nao-da-para-se-viver-como-escritor-por-isso-e-que-o-chamam-de-imortal/) — entrevista de Tácito Loureiro, 2012, com a história dos livros.
+- [Brígido Ibanhes, o novo imortal da ASL](https://contrapontoms.com.br/2026/08/24/brigido-ibanhes-o-novo-imortal-da-asl/) — reportagem sobre a posse na ASL, em agosto de 2026.[^cp2026]
+- ['Os três poderes da corrupção'](https://www.folhadedourados.com.br/os-tres-poderes-da-corrupcao-o-livro-h-com-novas-revelacoes-de-brigido-ibanhes/) — reportagem da *Folha de Dourados* sobre o livro de 2026.[^fd2026]
 - [Brígido Ibanhes](https://www.ubems.org.br/brigido-ibanhes) — perfil na página da UBE-MS.
 - [Tese de Rosana Prado dos Santos](https://www.ppghufgd.com/wp-content/uploads/2020/12/Tese-Rosana-O-Prado-dos-Santos.pdf) — estudo da obra, com biografia e lista de livros.
 
@@ -70,3 +74,5 @@ A obra é tema da tese *Brígido Ibanhes: entre narrativas históricas e represe
 [^prado]: Rosana de Oliveira Prado dos Santos, [*Brígido Ibanhes: entre narrativas históricas e representações literárias*](https://www.ppghufgd.com/wp-content/uploads/2020/12/Tese-Rosana-O-Prado-dos-Santos.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2020, cap. 1. Acesso em 10 out. 2026.
 [^wp]: Wikipédia em português, ["Brígido Ibanhes"](https://pt.wikipedia.org/wiki/Br%C3%ADgido_Ibanhes), texto colaborativo. Acesso em 10 out. 2026.
 [^aslcad]: Academia Sul-Mato-Grossense de Letras, ["Cadeiras"](https://acletrasms.org.br/cadeiras/). Acesso em 10 out. 2026.
+[^cp2026]: ["Brígido Ibanhes, o novo imortal da ASL"](https://contrapontoms.com.br/2026/08/24/brigido-ibanhes-o-novo-imortal-da-asl/), *Contraponto MS*, 24 ago. 2026. Acesso em 10 out. 2026.
+[^fd2026]: José Henrique Marques, ["'Os três poderes da corrupção', o livro 'H' com novas revelações de Brígido Ibanhes"](https://www.folhadedourados.com.br/os-tres-poderes-da-corrupcao-o-livro-h-com-novas-revelacoes-de-brigido-ibanhes/), *Folha de Dourados*, 7 set. 2026. Acesso em 10 out. 2026.

@@ -42,6 +42,8 @@ Há estudos dedicados a ele: *Lobivar de Matos: o poeta desconhecido* (1994), de
 
 Em março de 2012, o [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]] e a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] promoveram em Campo Grande uma edição do evento "Sarobá", com seminário sobre o poeta, exposição de desenhos e um sarau com performances de poemas do livro.[^dc]
 
+Em 17 de julho de 2025, a Temporada de Inverno de Corumbá incluiu a leitura pública de *Sarobá*, conduzida pelo musicista Virgílio Miranda no Museu Casa Dr. Gabi, e a leitura do conto "O menino dos níqueis", pela atriz Marcelle Saboya. O Campo Grande News data o livro de 1934, enquanto as demais fontes deste verbete dão 1936. As duas datas ficam registradas.[^cgn2025] Em setembro de 2026, o *Correio do Estado* noticiou uma homenagem conjunta a Lobivar e a [[pedro-medeiros|Pedro de Medeiros]], com poemas de autores residentes em Corumbá reunidos pelo escritor Eneo da Nóbrega.[^ce2026]
+
 ## Para saber mais
 
 - [Pesquisadora lança obra com material inédito de Lobivar Matos](https://www.correiodecorumbapantanal.com.br/cultura/pesquisadora-lanca-obra-com-material-inedito-de-grande-nome-da-literatura-de-ms-corumbaense-lobivar-matos) — matéria de 2025 sobre a edição de obra reunida.
@@ -58,3 +60,5 @@ Em março de 2012, o [[teatro-imaginario-maracangalha|Teatro Imaginário Maracan
 [^albana]: Albana Xavier Nogueira, ["Percurso da Literatura em Mato Grosso do Sul"](https://ihgms.org.br/artigos/percurso-da-literatura-em-mato-grosso-do-sul-77), Instituto Histórico e Geográfico de Mato Grosso do Sul (texto de 2014). Acesso em 10 out. 2026.
 [^cunha]: Gisele Colombo, ["Considerações sobre a poesia sul-mato-grossense"](https://www.overmundo.com.br/overblog/consideracoes-sobre-a-poesia-sul-mato-grossense), *Overmundo*, 24 mar. 2008. Acesso em 10 out. 2026.
 [^aslcad]: Academia Sul-Mato-Grossense de Letras, ["Cadeiras"](https://acletrasms.org.br/cadeiras/). Acesso em 10 out. 2026.
+[^cgn2025]: Thailla Torres, ["Com programação gratuita, temporada homenageia Lobivar de Matos"](https://www.campograndenews.com.br/lado-b/diversao/com-programacao-gratuita-temporada-homenageia-lobivar-de-matos), *Campo Grande News*, 17 jul. 2025. Acesso em 10 out. 2026.
+[^ce2026]: Mariana Piell, ["Poetas de Corumbá celebram legado de Pedro de Medeiros e Lobivar de Matos"](https://correiodoestado.com.br/correio-b/poetas-de-corumba-celebram-legado-de-pedro-de-medeiros-e-lobivar-de/472471/), *Correio do Estado*, 10 set. 2026. Acesso em 10 out. 2026.
