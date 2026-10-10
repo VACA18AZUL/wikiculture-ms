@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-***Do Sul, a Vingança*** é um longa-metragem de ficção dirigido por [[fabio-flecha|Fábio Flecha]], com produção da Render Brasil. Estreou nos cinemas em 15 de maio de 2025. A imprensa o apresenta como o primeiro filme de ficção produzido integralmente em Mato Grosso do Sul a entrar no circuito comercial do país.[^cgn][^tv1]
+***Do Sul, a Vingança*** é um longa-metragem de ficção dirigido por [[fabio-flecha|Fábio Flecha]], com produção da [[render-brasil|Render Brasil]]. Estreou nos cinemas em 15 de maio de 2025. A imprensa o apresenta como o primeiro filme de ficção produzido integralmente em Mato Grosso do Sul a entrar no circuito comercial do país.[^cgn][^tv1]
 
 ## Origem
 
@@ -29,7 +29,7 @@ O escritor Lauriano viaja à fronteira entre Brasil, Paraguai e Bolívia em busc
 
 ## Estreia e prêmios
 
-A pré-estreia foi em 12 de maio de 2025, no Cinemark do Shopping Campo Grande. O filme foi distribuído pela Kolbe Arte.[^tv1][^tv2] A exibição tem legenda descritiva, Libras e audiodescrição.[^cgn]
+A pré-estreia foi em 12 de maio de 2025, no Cinemark do Shopping Campo Grande. O filme foi distribuído pela [[kolbe-arte|Kolbe Arte]].[^tv1][^tv2] A exibição tem legenda descritiva, Libras e audiodescrição.[^cgn]
 
 O Campo Grande News registra que o filme venceu o Los Angeles Film Awards 2025 como melhor longa indie e foi finalista do World Film Festival. A informação vem da matéria e não foi conferida em fonte do festival.[^cgn]
 

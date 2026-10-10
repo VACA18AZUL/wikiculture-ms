@@ -38,13 +38,13 @@ O filme acompanha Roberto, professor de História que perde a esposa no parto, a
 
 ## Censura e exibição
 
-Abboud contou em 2016 que o filme foi inicialmente censurado como subversivo e que ele foi a Brasília para obter a liberação. Depois, o filme passou a ser exibido no Cine Acapulco, da família.[^cgn2016] Bernardo disse em 2026 que a censura o considerou terrorista e pornográfico por uma cena de banho, sem nudez completa.[^cgn2026]
+Abboud contou em 2016 que o filme foi inicialmente censurado como subversivo e que ele foi a Brasília para obter a liberação. Depois, o filme passou a ser exibido no [[cine-acapulco|Cine Acapulco]], da família.[^cgn2016] Bernardo disse em 2026 que a censura o considerou terrorista e pornográfico por uma cena de banho, sem nudez completa.[^cgn2026]
 
 Segundo Diehl, o filme ficou dois meses em cartaz nos cinemas locais e passou por cidades do país e do exterior.[^diehl] A reportagem de 2026 cita circulação em São Paulo, Rio de Janeiro, Brasília e Campinas.[^cgn2026]
 
 ## Custo
 
-Bernardo citou o custo de cerca de 80 milhões de cruzeiros.[^cgn2026] A dissertação de Diehl, apoiada no livro *Salas de sonhos* (2008), fala em 80 mil dólares.[^diehl] As duas cifras ficam registradas.
+Bernardo citou o custo de cerca de 80 milhões de cruzeiros.[^cgn2026] A dissertação de Diehl, apoiada no livro *[[salas-de-sonhos|Salas de sonhos]]* (2008), fala em 80 mil dólares.[^diehl] As duas cifras ficam registradas.
 
 ## Cópias
 

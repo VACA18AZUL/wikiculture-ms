@@ -19,7 +19,7 @@ atualizado: 2026-10-10
 
 ## Produção
 
-A dissertação de Diehl chama o filme de "premiado curta" de 1980 e diz que foi produzido pela Seriema Filmes, em parceria com [[jose-octavio-guizzo|José Octávio Guizzo]] e João José de Souza Leite. A dissertação não diz qual foi o prêmio.[^diehl] Cândido contou ao *Campo Grande News* que ganhou um concurso de roteiros e, com isso, pôde produzir o filme.[^cgn2016]
+A dissertação de Diehl chama o filme de "premiado curta" de 1980 e diz que foi produzido pela [[seriema-filmes|Seriema Filmes]], em parceria com [[jose-octavio-guizzo|José Octávio Guizzo]] e [[joao-jose-de-souza-leite|João José de Souza Leite]]. A dissertação não diz qual foi o prêmio.[^diehl] Cândido contou ao *Campo Grande News* que ganhou um concurso de roteiros e, com isso, pôde produzir o filme.[^cgn2016]
 
 O filme foi gravado na casa em que a artista vivia, na região da UFMS, em Campo Grande. Segundo a reportagem de 2016, Cândido foi o único a fazer imagens da artesã. Conceição aparece esculpindo a madeira, e um trecho do teaser a mostra descrevendo o sonho de ter casa própria.[^cgn2016]
 

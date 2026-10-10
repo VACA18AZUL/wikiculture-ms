@@ -15,7 +15,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Segundo entrevista publicada no Blog do Alex Fraga em abril de 2020, ele começou a tocar na noite aos 14 anos e participou de bandas em Campo Grande e no Guarujá (SP). A entrevistadora o apresenta como produtor de artistas de Campo Grande, entre eles DoValle, Geraldo Ribeiro, [[guile|Guilé]], Franke, Beget de Lucena e Erika Espíndola, além de trilhas de filmes e séries feitas em Mato Grosso do Sul.[^alexent]
+Segundo entrevista publicada no Blog do Alex Fraga em abril de 2020, ele começou a tocar na noite aos 14 anos e participou de bandas em Campo Grande e no Guarujá (SP). A entrevistadora o apresenta como produtor de artistas de Campo Grande, entre eles DoValle, Geraldo Ribeiro, [[guile|Guilé]], Franke, Beget de Lucena e [[erika-espindola|Erika Espíndola]], além de trilhas de filmes e séries feitas em Mato Grosso do Sul.[^alexent]
 
 ## Disco solo
 

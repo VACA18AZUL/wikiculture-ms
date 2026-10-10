@@ -15,7 +15,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-A página oficial da orquestra municipal diz que ele foi professor de violão no curso de música da UFMS e que, em 2007, assumiu a regência titular da [[orquestra-sinfonica-municipal-de-campo-grande|Orquestra Sinfônica Municipal de Campo Grande]]. A mesma página o apresenta como maestro e diretor artístico da Orquestra Jovem da Fundação Barbosa Rodrigues e fundador da Orquestra Barroca de Mato Grosso do Sul.[^pmcg] Um aviso da UFMS de 2017 repete o ano de 2007 para a titularidade.[^ufms]
+A página oficial da orquestra municipal diz que ele foi professor de violão no curso de música da UFMS e que, em 2007, assumiu a regência titular da [[orquestra-sinfonica-municipal-de-campo-grande|Orquestra Sinfônica Municipal de Campo Grande]]. A mesma página o apresenta como maestro e diretor artístico da [[orquestra-jovem-da-fundacao-barbosa-rodrigues|Orquestra Jovem da Fundação Barbosa Rodrigues]] e fundador da Orquestra Barroca de Mato Grosso do Sul.[^pmcg] Um aviso da UFMS de 2017 repete o ano de 2007 para a titularidade.[^ufms]
 
 Antes de Campo Grande, atuou em Santos e Itanhaém (SP), onde a mesma página lista festivais e concursos que coordenou entre 1997 e 2003.[^pmcg]
 
@@ -23,7 +23,7 @@ O *Correio do Estado* o chamou, em 2015, de maestro fundador da orquestra munici
 
 ## Direção artística e ensino
 
-Segundo a página oficial, foi diretor artístico do festival Encontro com a Música Clássica, em Campo Grande, de 2007 a 2012, e idealizador do Prêmio Campo Grande de Música de Concerto, de 2010 a 2012.[^pmcg] O *Correio do Estado* o descreve como responsável por vários projetos de ensino de instrumentos de orquestra e organizador de festivais e concursos.[^ce2015]
+Segundo a página oficial, foi diretor artístico do festival Encontro com a Música Clássica, em Campo Grande, de 2007 a 2012, e idealizador do [[premio-campo-grande-de-musica-de-concerto|Prêmio Campo Grande de Música de Concerto]], de 2010 a 2012.[^pmcg] O *Correio do Estado* o descreve como responsável por vários projetos de ensino de instrumentos de orquestra e organizador de festivais e concursos.[^ce2015]
 
 A Wikipédia, texto colaborativo, diz que ele dirige artisticamente o festival Encontro com a Música Clássica e que criou a música do espetáculo *Arapy Aguasu – Sinfonia entre Dois Mundos*, feito com a [[orquestra-indigena-de-ms|Orquestra Indígena]].[^wiki]
 

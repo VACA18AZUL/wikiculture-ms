@@ -10,13 +10,13 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**Fábio Flecha** é um cineasta que trabalha em Mato Grosso do Sul. As fontes abertas não informam onde nasceu. Dirigiu o longa [[do-sul-a-vinganca|*Do Sul, a Vingança*]], produzido pela Render Brasil.[^cgn][^tv1]
+**Fábio Flecha** é um cineasta que trabalha em Mato Grosso do Sul. As fontes abertas não informam onde nasceu. Dirigiu o longa [[do-sul-a-vinganca|*Do Sul, a Vingança*]], produzido pela [[render-brasil|Render Brasil]].[^cgn][^tv1]
 
 ## Trajetória
 
 Em 2013, dirigiu o curta *Do Sul*, que, segundo ele, entrou em festivais e ficou cinco anos na SINE Brasil TV. O curta deu origem ao longa.[^cgn] Flecha diz que o filme "começou em 2018" e foi finalizado em 2024.[^tv1]
 
-*Do Sul, a Vingança* estreou nos cinemas em 15 de maio de 2025, com distribuição da Kolbe Arte, depois de pré-estreia em Campo Grande.[^tv1] O diretor afirmou que a estreia marca a primeira vez que uma produção feita só em MS chega ao circuito comercial nacional.[^tv1] A produtora [[tania-sozza|Tania Sozza]] trabalhou com ele no projeto.[^tv2]
+*Do Sul, a Vingança* estreou nos cinemas em 15 de maio de 2025, com distribuição da [[kolbe-arte|Kolbe Arte]], depois de pré-estreia em Campo Grande.[^tv1] O diretor afirmou que a estreia marca a primeira vez que uma produção feita só em MS chega ao circuito comercial nacional.[^tv1] A produtora [[tania-sozza|Tania Sozza]] trabalhou com ele no projeto.[^tv2]
 
 Em entrevista, disse querer produzir mais filmes e séries no estado, com poucos recursos e muita criatividade.[^cgn]
 

@@ -15,7 +15,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-O Correio do Estado a chama de atriz e diretora e diz que ela idealizou o projeto com a gestora cultural Maria Auxiliadora Bezerra.[^ce2024] Na matéria do Campo Grande News de dezembro de 2024, ela aparece com direção e produção do curta, ao lado de [[breno-moroni|Breno Moroni]] (roteiro e preparação de elenco).[^cgn2024] Em agosto de 2025, a direção do documentário é creditada a Thaís Umar e Breno Moroni.[^cgn2025]
+O Correio do Estado a chama de atriz e diretora e diz que ela idealizou o projeto com a gestora cultural [[maria-auxiliadora-bezerra|Maria Auxiliadora Bezerra]].[^ce2024] Na matéria do Campo Grande News de dezembro de 2024, ela aparece com direção e produção do curta, ao lado de [[breno-moroni|Breno Moroni]] (roteiro e preparação de elenco).[^cgn2024] Em agosto de 2025, a direção do documentário é creditada a Thaís Umar e Breno Moroni.[^cgn2025]
 
 Ela disse ao jornal que as oficinas de audiovisual deram a adolescentes e adultos da aldeia noções de filmagem, fotografia e edição, aplicáveis a projetos futuros.[^ce2024] Para a estreia, na própria comunidade, afirmou que o lançamento reafirma o compromisso de dar espaço às vozes indígenas.[^cgn2025]
 

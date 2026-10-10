@@ -24,7 +24,7 @@ Os dois textos descrevem uma produção de vídeos, fotografias, blog, jornal im
 
 ## Audiovisual
 
-Segundo a dissertação, oficinas de cinema de 2006 e 2007 ensinaram câmera, som, montagem e roteiro. Delas saíram documentários, reportagens e ficção, entre eles *Saúde e terra*, *De mão em mão*, *Universitário indígena* e *Que país é este*, exibidos no Vídeo Índio Brasil de 2008 e 2009. *Que país é este* foi ao Festival Kinoforum de curtas de São Paulo. O vídeo *Ore Reko* foi apresentado no México, em 2007.[^diss]
+Segundo a dissertação, oficinas de cinema de 2006 e 2007 ensinaram câmera, som, montagem e roteiro. Delas saíram documentários, reportagens e ficção, entre eles *Saúde e terra*, *De mão em mão*, *Universitário indígena* e *Que país é este*, exibidos no [[video-indio-brasil|Vídeo Índio Brasil]] de 2008 e 2009. *Que país é este* foi ao Festival Kinoforum de curtas de São Paulo. O vídeo *Ore Reko* foi apresentado no México, em 2007.[^diss]
 
 A dissertação cita uma integrante, Indianara Ramires Machado, para quem a AJI teve papel central na chegada do audiovisual aos jovens indígenas do sul do estado. A tese reproduz a fala e diz que a associação alternou períodos de muita produção e de estagnação.[^diss][^tese]
 

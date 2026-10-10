@@ -33,7 +33,7 @@ Segundo a matéria de 2025, também participou de movimentos de defesa dos direi
 
 ## Filmes
 
-O Campo Grande News de 2025 descreve *Conceição dos Bugres* como filmado em 35 mm, com cerca de 30 minutos, e diz que ele integra o acervo da Fundação Estadual de Cultura, com processo para reconhecimento como patrimônio cultural do estado. A reportagem de 2016 fala em cerca de 10 minutos; as duas durações não coincidem.[^cgn25][^mis][^cgn] A escultora retratada tem verbete próprio: [[conceicao-dos-bugres-curta|Conceição dos Bugres]].[^cgn25]
+O Campo Grande News de 2025 descreve *[[conceicao-dos-bugres|Conceição dos Bugres]]* como filmado em 35 mm, com cerca de 30 minutos, e diz que ele integra o acervo da Fundação Estadual de Cultura, com processo para reconhecimento como patrimônio cultural do estado. A reportagem de 2016 fala em cerca de 10 minutos; as duas durações não coincidem.[^cgn25][^mis][^cgn] A escultora retratada tem verbete próprio: [[conceicao-dos-bugres-curta|Conceição dos Bugres]].[^cgn25]
 
 As reportagens de 2025 citam ainda o documentário *Silvino Jacques – Itinerário de um Matador*, sobre uma figura do início do século XX, cujos negativos desapareceram por um tempo e foram recuperados com apoio da Cinemateca Brasileira, e o documentário *Sasha Siemel*, sobre o caçador letão radicado no Pantanal.[^cgn25][^mis] Em 25 de abril de 2025, o [[mis-ms|Museu da Imagem e do Som]] de MS exibiu *Conceição dos Bugres* e *Sasha Siemel* em homenagem a ele.[^mis]
 

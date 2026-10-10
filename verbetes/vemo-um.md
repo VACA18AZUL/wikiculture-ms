@@ -20,11 +20,11 @@ atualizado: 2026-10-10
 
 ## Realização
 
-O Correio do Estado diz que o projeto foi idealizado pela gestora cultural Maria Auxiliadora Bezerra e pela atriz [[thais-umar|Thaís Umar]].[^ce2024] As primeiras gravações ocorreram em 14 e 15 de dezembro de 2024, com depoimentos de oito moradores de gerações diferentes. Os relatos tratam de memória, identidade e dos desafios de viver como indígena na cidade.[^cgn2024]
+O Correio do Estado diz que o projeto foi idealizado pela gestora cultural [[maria-auxiliadora-bezerra|Maria Auxiliadora Bezerra]] e pela atriz [[thais-umar|Thaís Umar]].[^ce2024] As primeiras gravações ocorreram em 14 e 15 de dezembro de 2024, com depoimentos de oito moradores de gerações diferentes. Os relatos tratam de memória, identidade e dos desafios de viver como indígena na cidade.[^cgn2024]
 
 O projeto incluiu oficinas de noções de filmagem, fotografia e edição para adolescentes e adultos da aldeia. Sâmara Figueiredo, que fez as oficinas, atuou como entrevistadora no filme.[^cgn2024][^ce2024] O Campo Grande News de agosto de 2025 cita ainda os jovens Bruno e Cauê na equipe técnica.[^cgn2025]
 
-A equipe, segundo a matéria de dezembro de 2024, tinha direção e produção de Thaís Umar, roteiro e preparação de elenco de [[breno-moroni|Breno Moroni]], fotografia e edição de vídeo de Antônio Lopes e áudio de Rodrigo Bezerra. O financiamento veio da Lei Paulo Gustavo, com apoio da Fundação de Cultura de MS.[^cgn2024] O Campo Grande News de agosto de 2025 credita a direção a Thaís Umar e Breno Moroni.[^cgn2025]
+A equipe, segundo a matéria de dezembro de 2024, tinha direção e produção de Thaís Umar, roteiro e preparação de elenco de [[breno-moroni|Breno Moroni]], fotografia e edição de vídeo de Antônio Lopes e áudio de Rodrigo Bezerra. O financiamento veio da Lei Paulo Gustavo, com apoio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]].[^cgn2024] O Campo Grande News de agosto de 2025 credita a direção a Thaís Umar e Breno Moroni.[^cgn2025]
 
 O [[memorial-da-cultura-indigena-cacique-enir-terena|Memorial da Cultura Indígena Cacique Enir Terena]] foi o cenário central.[^cgn2024]
 

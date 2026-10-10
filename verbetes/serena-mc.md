@@ -14,7 +14,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-O Campo Grande News a descreve, em 2023, como artista douradense e primeira mulher sul-mato-grossense a chegar ao Estadual da Batalha de MCs e SoulRa. Ela é uma das quatro artistas do documentário *A Cena das Mina*, dirigido por Alicce Rodrigues e lançado em 22 de agosto de 2023 no YouTube. O filme também mostra MC Anarandá e Mel Dias, além de outra artista.[^cgn]
+O Campo Grande News a descreve, em 2023, como artista douradense e primeira mulher sul-mato-grossense a chegar ao Estadual da Batalha de MCs e SoulRa. Ela é uma das quatro artistas do documentário *A Cena das Mina*, dirigido por [[alicce-rodrigues|Alicce Rodrigues]] e lançado em 22 de agosto de 2023 no YouTube. O filme também mostra [[mc-anaranda|MC Anarandá]] e [[mel-dias|Mel Dias]], além de outra artista.[^cgn]
 
 A Crítica diz que ela se identifica como indígena do povo Guató e traz referências da região da Nhecolândia, no Pantanal, e de Forte Coimbra. O jornal registra ainda trabalhos como artesã, com foco em moda e customização indígena e periférica.[^acritica]
 

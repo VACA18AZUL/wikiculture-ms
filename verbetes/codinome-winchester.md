@@ -7,7 +7,7 @@ resumo: Banda de rock autoral de Campo Grande, formada em encontros na UFMS e pr
 ficha:
   Fundação: "Formalizada como banda em 2013, Campo Grande"
   Gênero: Rock autoral
-  Integrantes: "Sal dos Santos (voz); Paula Fregatto (guitarra e voz); Guilherme Napa (bateria e voz); Arthur Maximilliano (guitarra); Gabriel Penajo (baixo) — formação de 2025"
+  Integrantes: "Sal dos Santos (voz); Paula Fregatto (guitarra e voz); [[guilherme-napa|Guilherme Napa]] (bateria e voz); [[arthur-maximilliano|Arthur Maximilliano]] (guitarra); Gabriel Penajo (baixo) — formação de 2025"
   Discos: "10% Alien (EP, 2014); Ocasiões Espaciais (EP); Acoustic Sessions (2016); Reunião entre Céu e Inferno (2018); Custo, Vida, Tempo, Trabalho (EP, 2024)"
 status: rascunho
 atualizado: 2026-10-10
@@ -23,7 +23,7 @@ O EP *10% Alien* saiu em 2014, e em 2015 a banda estrelou dois clipes. Outro EP,
 
 Em dezembro de 2018, o Campo Grande News noticiou o lançamento oficial do primeiro álbum, *Reunião entre Céu e Inferno*, no Capivara's Pub. O disco foi financiado por campanha de arrecadação online e pelos próprios músicos, e estava havia três meses nas plataformas digitais. Traz canções inéditas e regravações, entre elas "Mensagem de Outras Horas" e "O Paulista". Em 2016, a banda também participou, com uma versão de "Índios", da coletânea *Viva Renato Russo 20 anos*, ligada à revista *Rolling Stone*, conforme a mesma matéria. Na época, os integrantes tinham se mudado para São Paulo.[^cgn2018]
 
-A formação de 2018 reunia Fillipe Saldanha (voz), Arthur Maximilliano (guitarra e teremim), Guilherme Napa (bateria), Luciano Armstrong (guitarra e sintetizador) e Thiago Souto (baixo).[^cgn2018] Em 2021, o Blog do Alex Fraga ainda listava essa formação e anunciava uma transmissão ao vivo pela TVE Cultura MS.[^alex2021]
+A formação de 2018 reunia [[fillipe-saldanha|Fillipe Saldanha]] (voz), [[arthur-maximilliano|Arthur Maximilliano]] (guitarra e teremim), [[guilherme-napa|Guilherme Napa]] (bateria), [[luciano-armstrong|Luciano Armstrong]] (guitarra e sintetizador) e [[thiago-souto|Thiago Souto]] (baixo).[^cgn2018] Em 2021, o Blog do Alex Fraga ainda listava essa formação e anunciava uma transmissão ao vivo pela TVE Cultura MS.[^alex2021]
 
 Em 2024, a banda voltou com nova formação e o EP *Custo, Vida, Tempo, Trabalho*. Em maio de 2025, estava na votação popular do Concurso de Bandas do João Rock, festival realizado em Ribeirão Preto (SP) em 14 de junho; as fontes consultadas não informam o resultado.[^teatrine][^cgn2025]
 
