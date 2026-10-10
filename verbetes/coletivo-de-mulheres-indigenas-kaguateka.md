@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: "Coletivo de mulheres indígenas de povos diferentes que vivem em Campo Grande. Realizou o curta documental \"Kaguateka: Aquelas que Resistem\", dirigido por Gleycielli Nonato Guató."
 ficha:
   Povos: Guarani, Kaiowá, Guató, Terena e Kadiwéu (segundo a diretora do filme)
-  Integrantes: "Suzie Guarani; Luana Kadiwéu; Matilde Kaiowá; Mirian Terena; [[gleycielli-nonato-guato|Gleycielli Nonato Guató]]"
+  Integrantes: "[[suzie-guarani|Suzie Guarani]]; Luana Kadiwéu; Matilde Kaiowá; Mirian Terena; [[gleycielli-nonato-guato|Gleycielli Nonato Guató]]"
   Obras: "[[kaguateka-aquelas-que-resistem|Kaguateka: Aquelas que Resistem]]"
 status: rascunho
 atualizado: 2026-10-10
@@ -16,7 +16,7 @@ O **Coletivo de Mulheres Indígenas Kaguateka** reúne mulheres de diferentes po
 
 ## Atuação
 
-As cinco mulheres do filme [[kaguateka-aquelas-que-resistem|*Kaguateka: Aquelas que Resistem*]] são apontadas como integrantes: Suzie Guarani, Luana Kadiwéu, Matilde Kaiowá, Mirian Terena e [[gleycielli-nonato-guato|Gleycielli Nonato Guató]].[^cgn2025][^cgn2026] O curta é uma realização do coletivo, com recursos da Política Nacional Aldir Blanc.[^cgn2025]
+As cinco mulheres do filme [[kaguateka-aquelas-que-resistem|*Kaguateka: Aquelas que Resistem*]] são apontadas como integrantes: [[suzie-guarani|Suzie Guarani]], Luana Kadiwéu, Matilde Kaiowá, Mirian Terena e [[gleycielli-nonato-guato|Gleycielli Nonato Guató]].[^cgn2025][^cgn2026] O curta é uma realização do coletivo, com recursos da Política Nacional Aldir Blanc.[^cgn2025]
 
 Gleycielli disse ao Campo Grande News, em junho de 2026, que o coletivo resiste "dentro do contexto urbano, pela voz de mulheres". Suzie Guarani afirmou que o grupo planta uma semente para as novas gerações.[^cgn2026]
 

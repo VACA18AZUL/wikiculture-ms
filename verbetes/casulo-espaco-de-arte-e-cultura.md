@@ -15,9 +15,9 @@ O **Casulo Espaço de Arte e Cultura** é um espaço cultural em Dourados, no ba
 
 ## Atividades
 
-Em abril e maio de 2022, o Campo Grande News registrou uma programação do espaço com artistas indígenas e não indígenas: exposição de desenhos do artista kaiowá Misael Concianza Jorge com artistas visuais de Dourados, lançamento de livros bilíngues kaiowá-português, rodas de conversa e festival de música indígena.[^cgn2022] A programação incluiu, em 9 de abril de 2022, uma mostra de filmes feitos por 15 indígenas do [[tekoha-guaviry|Tekoha Guaviry]]. A matéria também anunciou um intercâmbio entre o Grupo de Dança Arandu, de Amambai, e a [[cia-dancurbana|Cia Dançurbana]].[^cgn2022]
+Em abril e maio de 2022, o Campo Grande News registrou uma programação do espaço com artistas indígenas e não indígenas: exposição de desenhos do artista kaiowá [[misael-concianza-jorge|Misael Concianza Jorge]] com artistas visuais de Dourados, lançamento de livros bilíngues kaiowá-português, rodas de conversa e festival de música indígena.[^cgn2022] A programação incluiu, em 9 de abril de 2022, uma mostra de filmes feitos por 15 indígenas do [[tekoha-guaviry|Tekoha Guaviry]]. A matéria também anunciou um intercâmbio entre o Grupo de Dança Arandu, de Amambai, e a [[cia-dancurbana|Cia Dançurbana]].[^cgn2022]
 
-Em agosto de 2026, o Teatrine TV chamou o local de Pontão de Cultura Casulo. A 3ª rodada do IV Festival de Música Indígena foi unida à 21ª Feira das Pulgas, com oficinas, cineclube infantil, conversa sobre livro e moda, show do grupo de rap indígena Odiados e outras bandas. A coordenadora, Julia Aissa, disse que a feira começou como um evento de desapego no jardim do espaço e que parte da renda das inscrições paga artistas.[^teatrine2026]
+Em agosto de 2026, o Teatrine TV chamou o local de Pontão de Cultura Casulo. A 3ª rodada do IV [[festival-de-musica-indigena|Festival de Música Indígena]] foi unida à 21ª [[feira-das-pulgas|Feira das Pulgas]], com oficinas, cineclube infantil, conversa sobre livro e moda, show do grupo de rap indígena Odiados e outras bandas. A coordenadora, [[julia-aissa|Julia Aissa]], disse que a feira começou como um evento de desapego no jardim do espaço e que parte da renda das inscrições paga artistas.[^teatrine2026]
 
 ## Divergência de nome
 

@@ -25,7 +25,7 @@ Uma coluna de 2022 do mesmo jornal o descreve como centro cultural importante da
 
 ## Divergência sobre a propriedade
 
-A matéria de 2023 atribui a administração a Nelson Borges de Barros Filho, que teria entrado como sócio a convite do pai, fundador do bar, e vendido o negócio em 1964.[^cgn2023] A coluna de 2022 diz que o restaurante pertencia ao paraguaio Ricardo Apolinário Granda, exilado voluntário no Brasil. Segundo o texto, ele foi preso em 1965 por ter emprestado uma chácara em Aquidauana a exilados paraguaios, foi condenado pelo Superior Tribunal Militar e recebeu indulto em dezembro de 1966. O colunista afirma que, depois disso, o lugar deixou de ser o ponto de encontro cultural de antes.[^lorenzetto]
+A matéria de 2023 atribui a administração a Nelson Borges de Barros Filho, que teria entrado como sócio a convite do pai, fundador do bar, e vendido o negócio em 1964.[^cgn2023] A coluna de 2022 diz que o restaurante pertencia ao paraguaio [[ricardo-apolinario-granda|Ricardo Apolinário Granda]], exilado voluntário no Brasil. Segundo o texto, ele foi preso em 1965 por ter emprestado uma chácara em Aquidauana a exilados paraguaios, foi condenado pelo Superior Tribunal Militar e recebeu indulto em dezembro de 1966. O colunista afirma que, depois disso, o lugar deixou de ser o ponto de encontro cultural de antes.[^lorenzetto]
 
 As duas versões ficam registradas, sem escolha entre elas. As datas também não coincidem: a primeira fala em fim das atividades em 1964, e a segunda trata o bar como ainda em atividade em 1965.[^cgn2023][^lorenzetto]
 

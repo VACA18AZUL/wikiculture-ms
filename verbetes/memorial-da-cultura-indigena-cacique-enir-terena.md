@@ -16,13 +16,13 @@ O **Memorial da Cultura Indígena Cacique Enir Terena** é um centro cultural na
 
 ## Histórico
 
-O Diário Digital diz que o espaço foi criado em 1999, tem estrutura em formato de ema e comercializa artesanato terena, kinikinau, guarani e kadiwéu. Em 2018, uma lei municipal (6006/18) deu a ele o nome de Enir da Silva Bezerra, descrita como a primeira mulher cacique do estado.[^dd2023] Em abril de 2023, o memorial recebeu um mural com o rosto de Enir Terena, pintado por Caio Mendes, na semana do Dia dos Povos Originários.[^dd2023]
+O Diário Digital diz que o espaço foi criado em 1999, tem estrutura em formato de ema e comercializa artesanato terena, kinikinau, guarani e kadiwéu. Em 2018, uma lei municipal (6006/18) deu a ele o nome de Enir da Silva Bezerra, descrita como a primeira mulher cacique do estado.[^dd2023] Em abril de 2023, o memorial recebeu um mural com o rosto de [[enir-terena|Enir Terena]], pintado por Caio Mendes, na semana do Dia dos Povos Originários.[^dd2023]
 
-Em fevereiro de 2025, o Teatrine TV noticiou um convênio entre o grupo de mulheres artesãs da aldeia e o Instituto Federal de MS para criar o Instituto Enir Terena, em homenagem a ela. A matéria registra que Enir morreu em 2016.[^teatrine2025]
+Em fevereiro de 2025, o Teatrine TV noticiou um convênio entre o grupo de mulheres artesãs da aldeia e o Instituto Federal de MS para criar o [[instituto-enir-terena|Instituto Enir Terena]], em homenagem a ela. A matéria registra que Enir morreu em 2016.[^teatrine2025]
 
 ## Audiovisual
 
-Em dezembro de 2024, o Correio do Estado e o Campo Grande News descreveram o memorial como cenário central do curta [[vemo-um|Vémo'um]]. A gestora do espaço, Maria Auxiliadora Bezerra, disse que o projeto nasceu da preocupação com os jovens da aldeia.[^cgn2024][^ce2024] O lançamento do filme, segundo o Campo Grande News, foi marcado para 15 de agosto de 2025, no próprio memorial.[^cgn2025]
+Em dezembro de 2024, o Correio do Estado e o Campo Grande News descreveram o memorial como cenário central do curta [[vemo-um|Vémo'um]]. A gestora do espaço, [[maria-auxiliadora-bezerra|Maria Auxiliadora Bezerra]], disse que o projeto nasceu da preocupação com os jovens da aldeia.[^cgn2024][^ce2024] O lançamento do filme, segundo o Campo Grande News, foi marcado para 15 de agosto de 2025, no próprio memorial.[^cgn2025]
 
 [^dd2023]: Suzy Jarde Vera, ["Dia dos Povos Originários: espaço recebe pintura da fundadora indígena Enir Terena"](https://www.diariodigital.com.br/geral/dia-dos-povos-originarios-espaco-recebe-pintura-da-fundadora-indigena-enir-terena), *Diário Digital*, 19 abr. 2023. Acesso em 10 out. 2026.
 [^teatrine2025]: Tero Queiroz, ["IFMS e mulheres artesãs firmam convênio para criar instituto da 1ª mulher cacique do Brasil"](https://www.teatrinetv.com.br/patrimonio-cultural/2025/02/09/ifms-e-mulheres-artesas-firmam-convenio-para-criar-instituto-da-1a-mulher-cacique-do-brasil.html), *Teatrine TV*, 9 fev. 2025. Acesso em 10 out. 2026.

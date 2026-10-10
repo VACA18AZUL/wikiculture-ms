@@ -21,7 +21,7 @@ Em entrevista de 2022, ela disse ao Correio do Estado que sempre morou em Sete Q
 
 ## Trajetória
 
-Na pandemia, publicou na internet vídeos de covers cantados a capela. Segundo o Correio do Estado, o cantor Rodolfo Alessi, da dupla Fabinho & Rodolfo, viu um deles e a levou para o selo Agroplay.[^ce] A canção "Boiadeira", que deu origem ao apelido, saiu em fevereiro de 2021, gravada com o DJ Lucas Beat, segundo essa entrevista. A Wikipédia a data apenas como de 2021 e a credita em parceria com Us Agroboy.[^ce][^wp]
+Na pandemia, publicou na internet vídeos de covers cantados a capela. Segundo o Correio do Estado, o cantor [[rodolfo-alessi|Rodolfo Alessi]], da dupla Fabinho & Rodolfo, viu um deles e a levou para o selo Agroplay.[^ce] A canção "Boiadeira", que deu origem ao apelido, saiu em fevereiro de 2021, gravada com o DJ Lucas Beat, segundo essa entrevista. A Wikipédia a data apenas como de 2021 e a credita em parceria com Us Agroboy.[^ce][^wp]
 
 Em 2022, "Pipoco", em parceria com Melody e DJ Chris No Beat, a tornou conhecida no país. O Correio do Estado diz que a faixa chegou ao topo da parada do Spotify em julho daquele ano.[^ce] O Campo Grande News e a Wikipédia registram o prêmio Revelação do Ano do Multishow, em 2022.[^mapa][^wp] A Wikipédia informa ainda que *Boiadeira Internacional*, gravado em 2023 e lançado em quatro EPs, venceu o Grammy Latino em 2024.[^wp]
 

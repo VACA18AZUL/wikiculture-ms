@@ -43,7 +43,7 @@ O site Unidade Guaicuru Viva diz que ele esteve na Unidade Guaicuru desde a cria
 
 ## Morte e homenagens
 
-O artista morreu em Bonito, na manhã de 26 de julho de 2025, depois de ir à abertura do Festival Bonito CineSur. A [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] divulgou nota de pesar.[^dd] Em agosto de 2025, o Museu de História do Pantanal (MUHPAN), de Corumbá, abriu a exposição *Jonir*, em sua homenagem, de 5 a 29 de agosto.[^muhpan]
+O artista morreu em Bonito, na manhã de 26 de julho de 2025, depois de ir à abertura do Festival [[bonito-cinesur|Bonito CineSur]]. A [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] divulgou nota de pesar.[^dd] Em agosto de 2025, o Museu de História do Pantanal (MUHPAN), de Corumbá, abriu a exposição *Jonir*, em sua homenagem, de 5 a 29 de agosto.[^muhpan]
 
 ## Para saber mais
 

@@ -16,7 +16,7 @@ atualizado: 2026-10-10
 
 ## Fotografia
 
-O Campo Grande News de 2021 a apresenta, com [[vania-juca|Vânia Jucá]], como idealizadora do projeto *Nosso Olhar – Fotografia para a Cidadania*, que começou em 2002 com crianças da periferia. Segundo a matéria, as duas passaram por aldeias, comunidades pantaneiras e áreas com menos acesso à informação, e atenderam mais de 500 crianças em sete anos de oficinas. O projeto foi retomado em 2021, no Jardim Noroeste, com aprovação no edital do Fundo de Investimentos Culturais da Fundação de Cultura de MS, de 2019.[^cgn2021]
+O Campo Grande News de 2021 a apresenta, com [[vania-juca|Vânia Jucá]], como idealizadora do projeto *[[nosso-olhar|Nosso Olhar – Fotografia para a Cidadania]]*, que começou em 2002 com crianças da periferia. Segundo a matéria, as duas passaram por aldeias, comunidades pantaneiras e áreas com menos acesso à informação, e atenderam mais de 500 crianças em sete anos de oficinas. O projeto foi retomado em 2021, no Jardim Noroeste, com aprovação no edital do Fundo de Investimentos Culturais da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], de 2019.[^cgn2021]
 
 Em 2026, ela integrou a curadoria da exposição [[fotografia-e-memoria|Fotografia e Memória]], no [[mis-ms|Museu da Imagem e do Som]], ao lado de [[melly-senna|Melly Senna]], [[cris-freire|Cris Freire]], [[ligia-rocha|Ligia Rocha]], [[pedro-ortale|Pedro Ortale]] e [[rachid-waqued|Rachid Waqued]]. Também teve trabalhos no painel coletivo da mostra.[^acr2026]
 

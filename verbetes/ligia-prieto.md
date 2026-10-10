@@ -18,7 +18,7 @@ atualizado: 2026-10-10
 
 Em 2023, o Teatrine TV a apresentou como atriz, poeta, dramaturga e diretora teatral, fundadora do Grupo Casa. Na ocasião, ela abriu inscrições para uma mentoria de processos criativos voltada a mulheres, chamada Escuta da Criação.[^tv23] A mesma matéria diz que ela integra o coletivo de poetas e escritores Tarja Preta.[^tv23]
 
-Segundo o Teatrine TV, desde 2022 ela ganhou destaque no cinema e na televisão nacionais. Estreou na TV com participação na novela *Pantanal*, da Rede Globo. Em 2024, fez a preparação de elenco e a personagem Mira na série *Entre Longes*, dirigida por Samantha Col Debella e exibida na TV Brasil.[^tv24] A matéria de 2023 cita ainda o filme *Beatriz Vira Folhas*, no qual ela atuou e fez a preparação de elenco.[^tv23]
+Segundo o Teatrine TV, desde 2022 ela ganhou destaque no cinema e na televisão nacionais. Estreou na TV com participação na novela *Pantanal*, da Rede Globo. Em 2024, fez a preparação de elenco e a personagem Mira na série *Entre Longes*, dirigida por [[samantha-col-debella|Samantha Col Debella]] e exibida na TV Brasil.[^tv24] A matéria de 2023 cita ainda o filme *Beatriz Vira Folhas*, no qual ela atuou e fez a preparação de elenco.[^tv23]
 
 ## Cinema
 
@@ -26,7 +26,7 @@ O Campo Grande News a descreve como cineasta e dramaturga à frente do Grupo Cas
 
 *Eleonora* (2024, 18 min, ficção) integrou a mostra competitiva Filme Sul-Mato-Grossense do 3º [[bonito-cinesur|Bonito CineSur]], realizado de 25 de julho a 2 de agosto de 2025. O livreto do festival resume o enredo: no interior do Pantanal, Eleonora enfrenta o preconceito por viver sozinha e amar livremente depois dos 60 anos.[^cinesur]
 
-[[quando-a-gente-se-encontrar|*Quando a Gente se Encontrar*]] é seu primeiro longa. O Campo Grande News o apresentou, em maio de 2025, como o primeiro longa de R$ 1 milhão dirigido por uma mulher em Mato Grosso do Sul, viabilizado pela Lei Paulo Gustavo.[^cgn1] As filmagens começaram em junho de 2025 em Campo Grande, com produção do Grupo Casa Produções e equipe de mais de 130 profissionais.[^cgn2] O roteiro nasceu do método "Escuta da Criação", criação coletiva, com orientação do roteirista Pedro Reinato.[^cgn1][^cgn2] A estreia estava prevista para 2026; as fontes abertas não confirmam a data.[^cgn2]
+[[quando-a-gente-se-encontrar|*Quando a Gente se Encontrar*]] é seu primeiro longa. O Campo Grande News o apresentou, em maio de 2025, como o primeiro longa de R$ 1 milhão dirigido por uma mulher em Mato Grosso do Sul, viabilizado pela Lei Paulo Gustavo.[^cgn1] As filmagens começaram em junho de 2025 em Campo Grande, com produção do Grupo Casa Produções e equipe de mais de 130 profissionais.[^cgn2] O roteiro nasceu do método "Escuta da Criação", criação coletiva, com orientação do roteirista [[pedro-reinato|Pedro Reinato]].[^cgn1][^cgn2] A estreia estava prevista para 2026; as fontes abertas não confirmam a data.[^cgn2]
 
 ## Obras
 

@@ -21,9 +21,9 @@ Caetano cita como integrantes, além de [[geraldo-espindola|Geraldo Espíndola]]
 
 ## Recepção
 
-Segundo Caetano, o grupo causou estranheza entre os participantes e foi considerado exótico para o público de classe média do festival. Ele reproduz o depoimento do organizador Ailton Guerra, que se lembra de um "conjunto estranho" que "veio, impressionou e sumiu". O mesmo autor registra a opinião contrária do advogado Renê Siufi, para quem o tropicalismo teria degenerado a boa música.[^caetano]
+Segundo Caetano, o grupo causou estranheza entre os participantes e foi considerado exótico para o público de classe média do festival. Ele reproduz o depoimento do organizador [[ailton-guerra|Ailton Guerra]], que se lembra de um "conjunto estranho" que "veio, impressionou e sumiu". O mesmo autor registra a opinião contrária do advogado [[rene-siufi|Renê Siufi]], para quem o tropicalismo teria degenerado a boa música.[^caetano]
 
-O conjunto também tocou em eventos populares da época, como os do Rádio Clube e do Clube Surian, com roupas que Paulo Simões chamava de "escalafobéticas".[^caetano] Ainda no festival de 1968, a canção "Será que ela gosta de mim", de Paulo Simões, gerou polêmica entre concorrentes e júri.[^caetano]
+O conjunto também tocou em eventos populares da época, como os do [[radio-clube-campo-grande|Rádio Clube]] e do Clube Surian, com roupas que Paulo Simões chamava de "escalafobéticas".[^caetano] Ainda no festival de 1968, a canção "Será que ela gosta de mim", de Paulo Simões, gerou polêmica entre concorrentes e júri.[^caetano]
 
 Em um festival estudantil do Surian, cuja primeira edição a fonte situa em 1970, o grupo ficou em segundo lugar com o baião "Porque gosto dela, porque ela gosta de mim", de Paulo Simões e Geraldo Espíndola.[^caetano]
 

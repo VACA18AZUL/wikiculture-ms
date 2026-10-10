@@ -26,7 +26,7 @@ As duas obras acadêmicas dizem que ele ajudou a fundar o Conselho do Povo Teren
 - *Ilegalmente, PF confisca equipamento de jornalista que cobria ocupação indígena* (2013, 4 min 33 s). Documentário sobre a operação de reintegração de posse da fazenda Buriti, em Sidrolândia. Produzido com Cristiano Navarro.[^diss]
 - *Terra Livre* (2015, 15 min). Documentário sobre o Acampamento Terra Livre, em Brasília. A dissertação o credita a Dionédison e a [[marineti-pinheiro|Marineti Pinheiro]]. Foi apresentado na edição de Campo Grande do Vídeo Índio Brasil.[^diss]
 - Documentário sobre a missão de ativistas à fazenda Madama, na área reivindicada como Terra Indígena Kurussu Ambá (Coronel Sapucaia e Amambai), com título provisório *Kurussu Ambá*. Em 2015, a dissertação o registra como inédito.[^diss]
-- *Noneti – Uma câmera, um índio e 500 anos de opressão* (exposição, 2017). Reúne 32 fotografias em preto e branco sobre os povos terena, guató, ofaié e guarani-kaiowá. Ficou no [[mis-ms|Museu da Imagem e do Som]] de 18 de abril a 15 de maio de 2017, com curadoria de Marineti Pinheiro.[^cgn2017]
+- *[[noneti|Noneti – Uma câmera, um índio e 500 anos de opressão]]* (exposição, 2017). Reúne 32 fotografias em preto e branco sobre os povos terena, guató, ofaié e guarani-kaiowá. Ficou no [[mis-ms|Museu da Imagem e do Som]] de 18 de abril a 15 de maio de 2017, com curadoria de Marineti Pinheiro.[^cgn2017]
 
 ## Divergências
 

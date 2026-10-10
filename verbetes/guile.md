@@ -24,9 +24,9 @@ O primeiro álbum foi lançado nas plataformas digitais em 19 de dezembro de 202
 
 As canções foram compostas nos dois anos anteriores e falam do tempo vivido em Campo Grande. Ele cita a viola caipira, referências ao Rio Paraguai e às queimadas no Pantanal, e o maracá, usado na faixa de abertura em homenagem aos povos indígenas. Entre as faixas citadas estão "Mundo Doente", "Tuiuiu Capoeira", "Não Venha Me Endireitar" e "Vai Ficar Tudo Bem". A matéria aponta samba, rock, música regional sul-mato-grossense, folk e MPB entre os gêneros.[^cgn]
 
-A produção musical é de [[julio-queiroz|Júlio Queiroz]], que trabalhou à distância, por videoconferência, porque vivia em Portugal naquele ano. Segundo o Campo Grande News, participam do disco Beca Rodrigues, LLEZ, Franke, DoValle e Raphael Vital, entre outros.[^cgn] O Blog do Alex Fraga acrescenta o instrumentista português Aníbal Zola e informa que o álbum tem 10 faixas e que houve pré-lançamento em plataforma de contribuição.[^alexlan]
+A produção musical é de [[julio-queiroz|Júlio Queiroz]], que trabalhou à distância, por videoconferência, porque vivia em Portugal naquele ano. Segundo o Campo Grande News, participam do disco Beca Rodrigues, LLEZ, Franke, DoValle e Raphael Vital, entre outros.[^cgn] O Blog do Alex Fraga acrescenta o instrumentista português [[anibal-zola|Aníbal Zola]] e informa que o álbum tem 10 faixas e que houve pré-lançamento em plataforma de contribuição.[^alexlan]
 
-Há divergência sobre o estúdio da captação de áudio, feita por Anderson Rocha: o Campo Grande News o liga à Toca do Jedi, e o Blog do Alex Fraga, ao Estúdio 45.[^cgn][^alexlan]
+Há divergência sobre o estúdio da captação de áudio, feita por [[anderson-rocha|Anderson Rocha]]: o Campo Grande News o liga à Toca do Jedi, e o Blog do Alex Fraga, ao Estúdio 45.[^cgn][^alexlan]
 
 ## Para saber mais
 
