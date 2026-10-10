@@ -5,7 +5,7 @@ areas: [audiovisual, musica]
 cidade: Campo Grande
 resumo: Museu de Campo Grande ligado à Fundação de Cultura de MS, com acervo de mais de 108 mil itens de fotografia, cinema, vídeo e música. Reabriu em fevereiro de 2026 com laboratórios de audiovisual.
 ficha:
-  Gestão: Fundação de Cultura de Mato Grosso do Sul
+  Gestão: "[[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]]"
   Local: Campo Grande
   Acervo: Mais de 108 mil itens
 status: rascunho

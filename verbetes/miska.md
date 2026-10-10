@@ -7,7 +7,7 @@ resumo: Artista visual nascida em Campo Grande, citada entre os fundadores do Mo
 ficha:
   Nascimento: Campo Grande
   Atividade: Artes visuais, colagem e canto
-  Grupos: Movimento Cultural Guaicuru; Trovadores do Tempo
+  Grupos: "[[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]]; Trovadores do Tempo"
 status: rascunho
 atualizado: 2026-10-10
 ---

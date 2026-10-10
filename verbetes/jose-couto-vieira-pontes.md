@@ -5,7 +5,7 @@ areas: [literatura]
 resumo: Escritor e crítico, autor de História da Literatura Sul-Mato-Grossense (1981 ou 1982) e cofundador da Academia de Letras e História de Campo Grande, atual Academia Sul-Mato-Grossense de Letras.
 ficha:
   Atividade: Crítica e história literária, contos, romance
-  Grupos: Academia Sul-Mato-Grossense de Letras (fundador)
+  Grupos: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (fundador)"
 status: rascunho
 atualizado: 2026-10-10
 ---

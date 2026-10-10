@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Artista da dança de Campo Grande, criadora com Marcos Mattos do espetáculo "Desenho do Tempo" e intérprete-criadora em "Cavucada", da Cia Dançurbana.
 ficha:
   Atividade: Dança
-  Grupos: Cia Dançurbana
+  Grupos: "[[cia-dancurbana|Cia Dançurbana]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

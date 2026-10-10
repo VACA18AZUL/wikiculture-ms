@@ -5,7 +5,7 @@ areas: [audiovisual]
 cidade: Campo Grande
 resumo: Série de pesquisa de Marineti Pinheiro sobre as salas de cinema de Campo Grande e de Mato Grosso do Sul, publicada em dois livros (2008 e 2010) e exibida também como documentário.
 ficha:
-  Autor: "Marineti Pinheiro (vol. 1, com Neide Fischer)"
+  Autor: "[[marineti-pinheiro|Marineti Pinheiro]] (vol. 1, com [[neide-fischer|Neide Fischer]])"
   Editora: Editora UFMS
   Ano: "2008; 2010"
   Formato: Livros e documentário

@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Grupo e espaço de danças urbanas de Campo Grande, dirigido por Edson Clair, que festejou 20 anos em 2016 e participou do Circuito Dança do Mato em 2007.
 ficha:
   Fundação: "1996 (segundo o próprio grupo)"
-  Direção: Edson Clair
+  Direção: "[[edson-clair|Edson Clair]]"
   Sede: Campo Grande
 status: rascunho
 atualizado: 2026-10-10

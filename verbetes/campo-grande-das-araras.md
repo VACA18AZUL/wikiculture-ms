@@ -5,7 +5,7 @@ areas: [audiovisual]
 cidade: Campo Grande
 resumo: Documentário de Lú Bigattão Rios e Rosiney Bigattão sobre a chegada de araras-canindé a Campo Grande, visto do ponto de vista das aves. Estreou on-line em 2021.
 ficha:
-  Direção: Lú Bigattão Rios e Rosiney Bigattão
+  Direção: "Lú Bigattão Rios e [[rosiney-bigattao|Rosiney Bigattão]]"
   Ano: "2020 ou 2021 (ver texto)"
   Formato: Documentário
   Onde ver: YouTube

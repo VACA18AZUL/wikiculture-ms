@@ -5,7 +5,7 @@ areas: [musica]
 resumo: Músico sul-mato-grossense, integrante do LuzAzul e de Tetê e o Lírio Selvagem, que se mudou para São Paulo com Tetê Espíndola em 1977.
 ficha:
   Atividade: Música
-  Grupos: LuzAzul, Tetê e o Lírio Selvagem
+  Grupos: "LuzAzul, [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

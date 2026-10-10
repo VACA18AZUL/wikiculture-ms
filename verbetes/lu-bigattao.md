@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Artista de Campo Grande, fundadora do Teatral Grupo de Risco e dramaturga de "Guardiões", que também dirige documentários curtos.
 ficha:
   Atividade: Teatro, dramaturgia e direção de documentários
-  Grupos: Teatral Grupo de Risco
+  Grupos: "[[teatral-grupo-de-risco|Teatral Grupo de Risco]]"
   Grafias: Bigattão; Bigatão; Lú Bigattão; Bigatão Rios
 status: rascunho
 atualizado: 2026-10-10

@@ -9,7 +9,7 @@ ficha:
   Morte: 15 de março de 1995, Campo Grande
   Atividade: Memorialismo e política
   Cargos: 'Prefeito de Campo Grande (1942–1945); prefeito de Nioaque (1921, segundo a maioria das fontes); intendente de Bela Vista (1923)'
-  Obra: 'A poeira da jornada – Memórias (1980)'
+  Obra: "[[a-poeira|A poeira]] da jornada – Memórias (1980)"
   Academia: 'Academia Mato-Grossense de Letras, cadeira 28 (1974); Academia Sul-Mato-Grossense de Letras, cadeira 5'
 status: rascunho
 atualizado: 2026-10-10

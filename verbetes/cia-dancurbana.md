@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Companhia de dança criada em Campo Grande em 2002, com foco em danças urbanas e dirigida por Marcos Mattos, que já circulou por 54 cidades do país.
 ficha:
   Fundação: "2002"
-  Direção: Marcos Mattos
+  Direção: "[[marcos-mattos|Marcos Mattos]]"
   Sede: Campo Grande
 status: rascunho
 atualizado: 2026-10-10

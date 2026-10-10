@@ -7,7 +7,7 @@ resumo: Ator, professor e diretor de Campo Grande, ex-integrante do Teatral Grup
 ficha:
   Atividade: Atuação, direção e oficinas
   Formação: Teatro (Universidade Anhembi Morumbi) e extensão em Técnica Klauss Vianna (PUC-SP)
-  Grupos: Teatral Grupo de Risco (ex-integrante)
+  Grupos: "[[teatral-grupo-de-risco|Teatral Grupo de Risco]] (ex-integrante)"
 status: rascunho
 atualizado: 2026-10-10
 ---

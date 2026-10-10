@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Grupo de vogue de Campo Grande, em atividade desde 2017 e ligado ao coletivo House of Hands Up, com premiações em festivais de dança entre 2017 e 2019.
 ficha:
   Fundação: "2017 (2016 em reportagens de 2026)"
-  Direção: Roger Pacheco (2020)
+  Direção: "[[roger-pacheco|Roger Pacheco]] (2020)"
   Integrantes: "11 (2020)"
   Sede: Campo Grande
 status: rascunho

@@ -8,7 +8,7 @@ ficha:
   Nascimento: 4 de novembro de 1927, Mombaça (CE)
   Morte: 28 de julho de 2016, Campo Grande
   Atividade: Crítica literária, magistério e gestão cultural
-  Grupos: Academia Sul-Mato-Grossense de Letras (cadeira 19); Cineclube de Campo Grande
+  Grupos: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (cadeira 19); [[cineclube-de-campo-grande|Cineclube de Campo Grande]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Integrante do núcleo artístico do Teatral Grupo de Risco em 2017, diretor de Tesoura (2023) e músico ao vivo de O bem-amado, do grupo Fulano di Tal (2024).
 ficha:
   Atividade: Teatro, música e preparação vocal
-  Grupos: Teatral Grupo de Risco
+  Grupos: "[[teatral-grupo-de-risco|Teatral Grupo de Risco]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

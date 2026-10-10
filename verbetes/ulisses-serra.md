@@ -8,7 +8,7 @@ ficha:
   Nascimento: 1º de setembro de 1906, Corumbá
   Morte: 30 de junho de 1972, Rio de Janeiro
   Atividade: Crônicas e contos
-  Grupos: Academia Sul-Mato-Grossense de Letras (fundador; patrono da cadeira 3); Academia Mato-Grossense de Letras
+  Grupos: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (fundador; patrono da cadeira 3); Academia Mato-Grossense de Letras"
 status: rascunho
 atualizado: 2026-10-10
 ---

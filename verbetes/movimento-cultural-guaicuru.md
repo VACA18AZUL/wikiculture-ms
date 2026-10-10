@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Grupo de artistas plásticos criado em Campo Grande nos anos 1980 que tomou a iconografia kadiwéu e guaicuru como referência.
 ficha:
   Fundação: "1981"
-  Fundador: Henrique Spengler
+  Fundador: "[[henrique-spengler|Henrique Spengler]]"
   Sedes: Campo Grande, Dourados e Coxim
 status: rascunho
 atualizado: 2026-10-10

@@ -4,7 +4,7 @@ tipo: obra
 areas: [audiovisual]
 resumo: Documentário de Joel Pizzini sobre Manoel de Barros, anunciado em 2019 com entrevistas inéditas dos anos 1990. Uma matéria de 2021 cita curta de título semelhante, de outros produtores.
 ficha:
-  Direção: Joel Pizzini
+  Direção: "[[joel-pizzini|Joel Pizzini]]"
   Ano: "Em produção em 2019"
   Formato: Documentário
 status: rascunho

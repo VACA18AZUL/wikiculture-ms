@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Ator de Campo Grande, integrante do núcleo do Teatral Grupo de Risco em 2017 e do elenco do Circo do Mato em espetáculos entre 2009 e 2014.
 ficha:
   Atividade: Atuação, dramaturgia, direção e figurino
-  Grupos: Teatral Grupo de Risco; Circo do Mato
+  Grupos: "[[teatral-grupo-de-risco|Teatral Grupo de Risco]]; [[circo-do-mato|Circo do Mato]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

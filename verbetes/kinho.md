@@ -7,7 +7,7 @@ resumo: Artista plástico identificado como Francisco Chamorro (Kinho), citado e
 ficha:
   Nome: 'Francisco Chamorro (Kinho)'
   Atividade: Artes plásticas
-  Grupos: Movimento Cultural Guaicuru
+  Grupos: "[[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]]"
   Cargo público: Secretário municipal de Cultura de Dourados (anunciado em janeiro de 2021)
 status: rascunho
 atualizado: 2026-10-10

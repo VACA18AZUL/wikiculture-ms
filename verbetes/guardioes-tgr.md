@@ -5,7 +5,7 @@ areas: [teatro]
 cidade: Campo Grande
 resumo: Espetáculo do Teatral Grupo de Risco, terceira parte de uma trilogia sobre a história e o Pantanal de Mato Grosso do Sul; as fontes divergem sobre o ano de estreia.
 ficha:
-  Autor: 'Lu Bigattão (dramaturgia)'
+  Autor: "[[lu-bigattao|Lu Bigattão]] (dramaturgia)"
   Ano: "divergente: 2010 ou 2013-2015, ver o texto"
   Formato: espetáculo teatral com três atores
   Companhia: Teatral Grupo de Risco

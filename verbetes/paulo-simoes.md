@@ -5,7 +5,7 @@ areas: [musica]
 resumo: Compositor e produtor de Mato Grosso do Sul, parceiro de Almir Sater em "Comitiva Esperança" e coautor, com Geraldo Roca, de "Trem do Pantanal".
 ficha:
   Atividade: Composição e produção musical
-  Parcerias: Almir Sater, Geraldo Roca
+  Parcerias: "[[almir-sater|Almir Sater]], [[geraldo-roca|Geraldo Roca]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

@@ -4,7 +4,7 @@ tipo: obra
 areas: [teatro]
 resumo: Peça em um ato de Cristina Mato Grosso sobre uma família pobre de Mato Grosso do Sul, apontada por um estudo como marco do teatro do Centro-Oeste.
 ficha:
-  Autor: Cristina Mato Grosso
+  Autor: "[[cristina-mato-grosso|Cristina Mato Grosso]]"
   Formato: peça em um ato e quinze cenas
   Ano: divergente, ver o texto
   Companhia de estreia: GUTAC

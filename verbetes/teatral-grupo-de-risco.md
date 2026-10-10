@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Grupo de teatro independente de Campo Grande criado em 1988, com mais de 30 espetáculos e uma trilogia sobre a história de Mato Grosso do Sul.
 ficha:
   Fundação: "1988"
-  Fundadores: Lu Bigattão, Leandro Melo, Sérgio Carvalho e Murilo Flores
+  Fundadores: "[[lu-bigattao|Lu Bigattão]], [[leandro-melo|Leandro Melo]], [[sergio-carvalho|Sérgio Carvalho]] e [[murilo-flores|Murilo Flores]]"
 status: rascunho
 atualizado: 2026-10-10
 ---

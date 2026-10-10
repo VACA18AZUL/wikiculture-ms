@@ -5,7 +5,7 @@ areas: [quadrinhos]
 resumo: Quadrinista de Mato Grosso do Sul, um dos seis autores da coletânea Quebra Torto. A reportagem do Campo Grande News o grafou "Anderson Barboza Grippho", mas outras fontes tratam Anderson Barboza e Grippho como autores distintos.
 ficha:
   Atividade: Quadrinhos
-  Obra: "'Quebra Torto' (coletânea, lançada em jan. 2023 ou 2022, conforme a fonte)"
+  Obra: "'[[quebra-torto|Quebra Torto]]' (coletânea, lançada em jan. 2023 ou 2022, conforme a fonte)"
   Situação: "Grafia 'Anderson Barboza Grippho' contestada por outras fontes (ver texto)"
 status: rascunho
 atualizado: 2026-10-10

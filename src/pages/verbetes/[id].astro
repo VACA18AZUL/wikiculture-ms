@@ -1,20 +1,22 @@
 ---
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { AREAS, TIPOS, REPO, todos, citados, slug, url } from '../../lib/site';
+import { AREAS, TIPOS, REPO, todos, citados, fichaHtml, slug, url } from '../../lib/site';
 
 export async function getStaticPaths() {
   const verbetes = await todos();
+  const existentes = new Set(verbetes.map((v) => v.id));
   return verbetes.map((verbete) => ({
     params: { id: verbete.id },
     props: {
       verbete,
-      apontam: verbetes.filter((o) => o.id !== verbete.id && citados(o.body).has(verbete.id)),
+      existentes,
+      apontam: verbetes.filter((o) => o.id !== verbete.id && citados(o.body, o.data.ficha).has(verbete.id)),
     },
   }));
 }
 
-const { verbete, apontam } = Astro.props;
+const { verbete, apontam, existentes } = Astro.props;
 const { Content } = await render(verbete);
 const d = verbete.data;
 const data = d.atualizado.toLocaleDateString('pt-BR', { timeZone: 'UTC' });
@@ -47,7 +49,7 @@ const correcao = `${REPO}/issues/new?title=${encodeURIComponent('Correção: ' +
         <tr><th>Cidade</th><td><a href={url(`/cidades/${slug(d.cidade)}/`)}>{d.cidade}</a></td></tr>
       )}
       {Object.entries(d.ficha ?? {}).map(([rotulo, valor]) => (
-        <tr><th>{rotulo}</th><td>{valor}</td></tr>
+        <tr><th>{rotulo}</th><td set:html={fichaHtml(valor, existentes)} /></tr>
       ))}
     </tbody>
   </table>

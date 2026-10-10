@@ -5,7 +5,7 @@ areas: [musica]
 resumo: Músico e jornalista de Mato Grosso do Sul, autor de Os Pioneiros, sobre a origem da música sertaneja no estado, e de Prata da Casa.
 ficha:
   Atividade: Música e jornalismo
-  Obras: '"Os Pioneiros" (2010; 2ª edição 2014); "Prata da Casa" (2016)'
+  Obras: "\"[[os-pioneiros|Os Pioneiros]]\" (2010; 2ª edição 2014); \"[[prata-da-casa|Prata da Casa]]\" (2016)"
   Disco: Sambone (1998)
 status: rascunho
 atualizado: 2026-10-10

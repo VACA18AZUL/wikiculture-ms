@@ -6,7 +6,7 @@ resumo: Professora, doutora em Letras e pesquisadora da linguagem e da cultura p
 ficha:
   Atividade: Escrita literária e organização de antologias
   Formação: 'Doutora em Letras pela Universidade Presbiteriana Mackenzie (1989)'
-  Obras: 'O que é Pantanal (1990); Pantanal: Homem e Cultura (2002); A Literatura Sul-Mato-Grossense na Ótica de seus Construtores (2011); Antologia de textos da literatura sul-mato-grossense (2013)'
+  Obras: "O que é Pantanal (1990); Pantanal: Homem e Cultura (2002); [[a-literatura-sul-mato-grossense-na-otica-de-seus-construtores|A Literatura Sul-Mato-Grossense na Ótica de seus Construtores]] (2011); Antologia de textos da literatura sul-mato-grossense (2013)"
 status: rascunho
 atualizado: 2026-10-10
 ---

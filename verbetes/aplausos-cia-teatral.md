@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Companhia de teatro e palhaçaria de Campo Grande, fundada em 2001 e conhecida pelo espetáculo Cadê?!, estreado em 2012.
 ficha:
   Fundação: "2001"
-  Integrantes: Thathy d'Meo, Douglas Moreira, Glaucia Pires
+  Integrantes: "[[thathy-dmeo|Thathy d'Meo]], [[douglas-moreira|Douglas Moreira]], [[glaucia-pires|Glaucia Pires]]"
   Espetáculo: Cadê?!
 status: rascunho
 atualizado: 2026-10-10
