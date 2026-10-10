@@ -20,11 +20,11 @@ atualizado: 2026-10-10
 
 Renata Rodrigues de Assis o cita, junto com [[joao-sebastiao-costa|João Sebastião]], entre os artistas que trabalharam com [[humberto-espindola|Humberto Espíndola]] em temas regionais, notados pela crítica. A autora grafa o nome sem acento.[^assis2013]
 
-Em 1967 entrou na Faculdade de Direito, em Campo Grande, mas não concluiu o curso. A partir de abril de 1968 aproximou-se da [[ama|Associação Mato-Grossense de Artes]], presidida por [[aline-figueiredo|Aline Figueiredo]], e mudou seu estilo. Espíndola o orientou em seu ateliê, segundo o artigo de Túlio Diogo.[^diogo] O site Unidade Guaicuru Viva, citando o curador Jonir Figueiredo, repete que ele começou a produzir arte no ateliê de Espíndola, nos anos 1960.[^ug]
+Em 1967 entrou na Faculdade de Direito, em Campo Grande, mas não concluiu o curso. A partir de abril de 1968 aproximou-se da [[ama|Associação Mato-Grossense de Artes]], presidida por [[aline-figueiredo|Aline Figueiredo]], e mudou seu estilo. Espíndola o orientou em seu ateliê, segundo o artigo de Túlio Diogo.[^diogo] O site [[unidade-guaicuru-viva|Unidade Guaicuru Viva]], citando o curador [[jonir-figueiredo|Jonir Figueiredo]], repete que ele começou a produzir arte no ateliê de Espíndola, nos anos 1960.[^ug]
 
 Participou de "5 Artistas de Mato Grosso", em São Paulo (Galeria do Cine Belas Artes, 11 a 30 de agosto de 1968), com Espíndola, [[jorapimo|Jorapimo]], [[ilton-silva|Ilton Silva]] e [[adelaide-vieira|Adelaide Vieira]]. A mostra foi remontada em 1971, no Rio de Janeiro.[^diogo] O Almanaque Cuiabá data o início da carreira em 1968 com essa mostra.[^alm] Em 1969 expôs no Salão Nacional de Arte Moderna, no Rio, e em agosto de 1970 integrou o "Panorama de Artes Plásticas em Campo Grande", com 139 obras.[^diogo]
 
-De 1974 a 1978 trabalhou no Museu de Arte e Cultura Popular da Universidade Federal de Mato Grosso, em Cuiabá, então dirigido por Espíndola.[^diogo] Em 2013 foi nomeado "Embaixador das Artes" pela Academia Francesa de Artes, Letras e Cultura, segundo a imprensa de Mato Grosso.[^gazeta][^alm]
+De 1974 a 1978 trabalhou no [[museu-de-arte-e-cultura-popular|Museu de Arte e Cultura Popular]] da Universidade Federal de Mato Grosso, em Cuiabá, então dirigido por Espíndola.[^diogo] Em 2013 foi nomeado "Embaixador das Artes" pela Academia Francesa de Artes, Letras e Cultura, segundo a imprensa de Mato Grosso.[^gazeta][^alm]
 
 Um material didático de 2025 da UFMS o menciona brevemente no capítulo de artes plásticas, no período posterior à criação da [[ama|Associação Mato-Grossense de Arte]], em 1966.[^souza2025]
 

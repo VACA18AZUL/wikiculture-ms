@@ -16,11 +16,11 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-O catálogo do MARCO a considera pioneira da gravura em metal no estado e destaca a técnica da ponta-seca. A introdução do mesmo catálogo registra gravuras suas no acervo do museu.[^marco] Em 2013, uma reportagem a chamou de maior expoente da gravura em Mato Grosso do Sul, ao noticiar a mostra *In Memoriam*, da Fundação de Cultura, que reuniu oito artistas já mortos.[^cgn]
+O catálogo do [[marco|MARCO]] a considera pioneira da gravura em metal no estado e destaca a técnica da ponta-seca. A introdução do mesmo catálogo registra gravuras suas no acervo do museu.[^marco] Em 2013, uma reportagem a chamou de maior expoente da gravura em Mato Grosso do Sul, ao noticiar a mostra *In Memoriam*, da Fundação de Cultura, que reuniu oito artistas já mortos.[^cgn]
 
 Uma dissertação a cita entre os artistas que participaram das exposições e salões do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]], que difundiram temas regionais.[^assis]
 
-O texto da mostra *Longa Duração*, do MARCO, diz que a gravura era pouco divulgada no estado e que Vânia foi sua maior expoente. Ela se formou na Fundação Armando Álvares Penteado (FAAP), em São Paulo, e movimentou a área com seu ateliê em Campo Grande. Grande parte de sua obra foi doada pela família ao acervo do MARCO. A mesma página registra que Lu Sant'Anna, depois também professora, foi sua aluna.[^longa]
+O texto da mostra *Longa Duração*, do MARCO, diz que a gravura era pouco divulgada no estado e que Vânia foi sua maior expoente. Ela se formou na Fundação Armando Álvares Penteado (FAAP), em São Paulo, e movimentou a área com seu ateliê em Campo Grande. Grande parte de sua obra foi doada pela família ao acervo do MARCO. A mesma página registra que [[lu-sant-anna|Lu Sant'Anna]], depois também professora, foi sua aluna.[^longa]
 
 Em 2007, ela esteve entre os 30 artistas da exposição *Panorama – 30 anos da Divisão do Estado*, no MARCO.[^dourados] Em palestra de outubro de 2007, relatada no Overmundo, [[humberto-espindola|Humberto Espíndola]] a citou entre os nomes que surgiram depois da divisão do estado e buscaram afirmar a arte sul-mato-grossense em salões brasileiros.[^ov]
 

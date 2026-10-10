@@ -15,17 +15,17 @@ atualizado: 2026-10-10
 
 ## Cinejornais
 
-A partir de 1958, produziram cinejornais pela Lahdo Produções Cinematográficas, que começou com a série *Mato Grosso em Marcha*. Uma dissertação estima cerca de 70 cinejornais dos Lahdo, contra cerca de 100 de Michel Saddi.[^diehl]
+A partir de 1958, produziram cinejornais pela Lahdo Produções Cinematográficas, que começou com a série *Mato Grosso em Marcha*. Uma dissertação estima cerca de 70 cinejornais dos Lahdo, contra cerca de 100 de [[michel-saddi|Michel Saddi]].[^diehl]
 
 ## Paralelos Trágicos
 
 O longa conta a história de dois jovens que não vivem um romance por causa de diferenças sociais. Segundo a dissertação, foi gravado em Campo Grande entre 1965 e 1966 e exibido por dois meses nos cinemas locais e em outras cidades do país e do exterior. A cópia original teria derretido no incêndio do cine Acapulco, em 2000, e a família guarda partes da película e uma cópia incompleta em 16 mm.[^diehl]
 
-Um trabalho de 2023 cita 1967 como o ano em que Hermínio Giménez assinou a trilha sonora do filme, descrito como o primeiro longa produzido em Campo Grande. As datas das duas fontes ficam registradas, sem escolha entre elas.[^caceres]
+Um trabalho de 2023 cita 1967 como o ano em que [[herminio-gimenez|Hermínio Giménez]] assinou a trilha sonora do filme, descrito como o primeiro longa produzido em Campo Grande. As datas das duas fontes ficam registradas, sem escolha entre elas.[^caceres]
 
 ## Cinemas
 
-Em depoimento de 2016, Abboud Lahdo disse que a família abriu o Cine Acapulco depois de existirem na cidade três salas, o Alhambra, o Santa Helena e o Rialto.[^cgn2016] Um artigo de 2016 sobre os espaços cinematográficos de Campo Grande cita os irmãos como fundadores de dois cinemas, o Acapulco e o Jalisco, e como produtores de um filme feito com equipe toda da cidade.[^cordis]
+Em depoimento de 2016, Abboud Lahdo disse que a família abriu o [[cine-acapulco|Cine Acapulco]] depois de existirem na cidade três salas, o Alhambra, o Santa Helena e o Rialto.[^cgn2016] Um artigo de 2016 sobre os espaços cinematográficos de Campo Grande cita os irmãos como fundadores de dois cinemas, o Acapulco e o Jalisco, e como produtores de um filme feito com equipe toda da cidade.[^cordis]
 
 ## Mais sobre *Paralelos Trágicos*
 
@@ -33,7 +33,7 @@ Segundo o Campo Grande News, Abboud dirigiu e atuou no filme, e Bernardo, autor 
 
 A trama acompanha Roberto, professor de História que perde a esposa no parto, abandona a filha em um internato e passa a viver nas ruas. Antes disso, ele tem um romance com uma aluna e enfrenta o pai dela.[^cgn2026]
 
-Em abril de 2026, o jornalista Rodrigo Teixeira lançou, na UFMS, o catálogo digital *Em Busca do Lendário Paralelos Trágicos*, que reúne 215 matérias publicadas ao longo de seis décadas. Segundo a reportagem, duas cópias do filme estão na Cinemateca Brasileira desde 1989, uma delas danificada, e Bernardo Lahdo guardava outro material em 16 mm. A matéria afirma que o negativo de 35 mm queimou com o Cine Acapulco, em 2000.[^cgn2026] A dissertação de 2009 diz que a cópia original teria derretido nesse incêndio e que a família guardava partes da película e uma cópia incompleta em 16 mm.[^diehl] As duas fontes coincidem quanto ao incêndio e ao material em 16 mm, e divergem sobre a existência de cópias na Cinemateca.
+Em abril de 2026, o jornalista [[rodrigo-teixeira|Rodrigo Teixeira]] lançou, na UFMS, o catálogo digital *Em Busca do Lendário Paralelos Trágicos*, que reúne 215 matérias publicadas ao longo de seis décadas. Segundo a reportagem, duas cópias do filme estão na Cinemateca Brasileira desde 1989, uma delas danificada, e Bernardo Lahdo guardava outro material em 16 mm. A matéria afirma que o negativo de 35 mm queimou com o Cine Acapulco, em 2000.[^cgn2026] A dissertação de 2009 diz que a cópia original teria derretido nesse incêndio e que a família guardava partes da película e uma cópia incompleta em 16 mm.[^diehl] As duas fontes coincidem quanto ao incêndio e ao material em 16 mm, e divergem sobre a existência de cópias na Cinemateca.
 
 Outra matéria do mesmo jornal, de 2016, traz o lançamento como "13 de janeiro de 1964". A data destoa de todas as demais fontes (1965-1966 para as filmagens, 1967 para a estreia) e deve ser tratada como provável erro de grafia, sem confirmação.[^cgn2016] A mesma matéria cita a crítica do cineasta Rogério Sganzerla ao filme, publicada em 18 de janeiro de 1967 no jornal *A Luta Matogrossense*.[^cgn2016]
 

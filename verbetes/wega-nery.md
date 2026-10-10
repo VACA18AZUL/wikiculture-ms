@@ -33,9 +33,9 @@ Entre os prêmios estão o de aquisição da 7ª Bienal de São Paulo (1963) e o
 
 ## Relação com Mato Grosso do Sul
 
-Em 1969, depois de expor na Europa, a artista fez mostras em Cuiabá, Campo Grande e Corumbá. Em Corumbá, segundo o historiador Valmir Batista Corrêa citado por Amaral, uma das telas foi danificada com instrumento cortante.[^amaral] A Associação Mato-Grossense de Artes publicou em 1969 um catálogo sobre ela, com apresentação de [[aline-figueiredo|Aline Figueiredo]].[^itau] Voltou a expor em Campo Grande em 1989.[^amaral]
+Em 1969, depois de expor na Europa, a artista fez mostras em Cuiabá, Campo Grande e Corumbá. Em Corumbá, segundo o historiador Valmir Batista Corrêa citado por Amaral, uma das telas foi danificada com instrumento cortante.[^amaral] A [[ama|Associação Mato-Grossense de Artes]] publicou em 1969 um catálogo sobre ela, com apresentação de [[aline-figueiredo|Aline Figueiredo]].[^itau] Voltou a expor em Campo Grande em 1989.[^amaral]
 
-Amaral registra que um crítico, Gilberto Luiz Alves, lamentou em 2007 a ausência da artista na mostra "Panorama – 30 anos da Divisão do Estado", no [[marco|MARCO]].[^amaral] A lista dos 30 artistas dessa mostra, divulgada pela imprensa, não traz seu nome.[^dourados] A galeria de exposições do Centro Cultural José Octávio Guizzo, em Campo Grande, leva o nome da artista.[^om]
+Amaral registra que um crítico, Gilberto Luiz Alves, lamentou em 2007 a ausência da artista na mostra "Panorama – 30 anos da Divisão do Estado", no [[marco|MARCO]].[^amaral] A lista dos 30 artistas dessa mostra, divulgada pela imprensa, não traz seu nome.[^dourados] A galeria de exposições do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], em Campo Grande, leva o nome da artista.[^om]
 
 ## Para saber mais
 

@@ -24,7 +24,7 @@ Segundo Araujo, o livro tem 29 poemas escritos na voz de um sábio boróro, que 
 
 Cardoso traduz o título como "o índio sábio da tribo" na cultura bororo.[^cardoso] A Wikipédia em português, que cita uma carta "A minha gente" no início do livro, diz que Areôtorare é o profeta e contador de histórias da tribo, e que os boróros são os ouvintes. A informação vem só desse texto colaborativo.[^wp]
 
-O título se refere a uma figura de prestígio numa aldeia boróro, uma mistura de profeta, contador de histórias e guardião da tradição, segundo Maria Adélia Menegazzo citada por Araujo.[^abralic]
+O título se refere a uma figura de prestígio numa aldeia boróro, uma mistura de profeta, contador de histórias e guardião da tradição, segundo [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] citada por Araujo.[^abralic]
 
 Cardoso registra que, no prefácio, Lobivar Matos afirma ser dever dos poetas da sua geração falar dos miseráveis e dos párias sem pão, amor e trabalho. O estudo vê essa orientação social ganhar força no livro seguinte, *Sarobá* (1936).[^cardoso] Uma coluna de 2026 no *Correio de Corumbá* destaca o verso livre, o tom regional e a denúncia da catequização e da dominação dos boróros, além da exploração de trabalhadores, indígenas e negros. A coluna cita "Destino do Poeta Desconhecido" como o poema de abertura.[^barcellos]
 
@@ -34,7 +34,7 @@ Araujo lê os poemas como ligados à vida do autor e os situa entre os modernist
 
 ## Edições posteriores
 
-Uma edição de 2008, de Cuiabá, pela Academia Mato-Grossense de Letras e pela Unemat, na Coleção Obras Raras, reúne *Areôtorare* e *Sarobá*, segundo a lista de referências de um trabalho apresentado em Penápolis (SP).[^souza] Para as edições organizadas por Susylene Araujo (UFMS, 2009, e Life Editora, 2025), ver o verbete de [[lobivar-matos|Lobivar Matos]].
+Uma edição de 2008, de Cuiabá, pela Academia Mato-Grossense de Letras e pela Unemat, na Coleção Obras Raras, reúne *Areôtorare* e *Sarobá*, segundo a lista de referências de um trabalho apresentado em Penápolis (SP).[^souza] Para as edições organizadas por Susylene Araujo (UFMS, 2009, e [[editora-life|Life Editora]], 2025), ver o verbete de [[lobivar-matos|Lobivar Matos]].
 
 ## Para saber mais
 

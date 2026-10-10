@@ -26,7 +26,7 @@ O nome completo aparece no sumário do trabalho de Rondon; no texto e nas legend
 
 ## Outras menções
 
-O portfólio do Teatral Grupo de Risco, divulgado no cadastro do grupo nos Mapas da Cultura (documento de 28 de junho de 2024), credita as ilustrações do espetáculo *Guardiões* a "Rubén Dario Román Añez". O documento não informa a cidade nem a trajetória da pessoa citada e não diz se é o pintor de Corumbá deste verbete.[^portf]
+O portfólio do [[teatral-grupo-de-risco|Teatral Grupo de Risco]], divulgado no cadastro do grupo nos Mapas da Cultura (documento de 28 de junho de 2024), credita as ilustrações do espetáculo *Guardiões* a "Rubén Dario Román Añez". O documento não informa a cidade nem a trajetória da pessoa citada e não diz se é o pintor de Corumbá deste verbete.[^portf]
 
 ## Obra
 

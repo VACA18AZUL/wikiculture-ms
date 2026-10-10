@@ -17,9 +17,9 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Desenha desde a infância e passou a trabalhar profissionalmente com ilustração no fim de 2017. Formada em Jornalismo, integrou a equipe da Revista Badaró, publicação que combina ilustração e reportagem. Faz ilustrações comerciais, murais e aquarela, com traço de cores vivas e temas sociais e políticos.[^cgn2020a]
+Desenha desde a infância e passou a trabalhar profissionalmente com ilustração no fim de 2017. Formada em Jornalismo, integrou a equipe da [[revista-badaro|Revista Badaró]], publicação que combina ilustração e reportagem. Faz ilustrações comerciais, murais e aquarela, com traço de cores vivas e temas sociais e políticos.[^cgn2020a]
 
-Em 2020, foi a única artista de Mato Grosso do Sul selecionada para o Artist's Valley da CCXP, realizada on-line, onde lançou a HQ *O Último Pedaço de Terra*, sua primeira obra de ficção, com roteiro de Tayran Valiente. A história se passa em um Brasil distópico dominado por religião e agronegócio.[^cgn2020b]
+Em 2020, foi a única artista de Mato Grosso do Sul selecionada para o Artist's Valley da CCXP, realizada on-line, onde lançou a HQ *[[o-ultimo-pedaco-de-terra|O Último Pedaço de Terra]]*, sua primeira obra de ficção, com roteiro de [[tayran-valiente|Tayran Valiente]]. A história se passa em um Brasil distópico dominado por religião e agronegócio.[^cgn2020b]
 
 Participou da coletânea [[quebra-torto|"Quebra Torto"]], organizada por [[fabio-quill|Fabio Quill]]. As fontes divergem sobre o ano: o Campo Grande News noticiou o lançamento em janeiro de 2023, e A Crítica fala em coletânea de 2022. A Wikipédia em português registra que ela foi selecionada em 2021 para o projeto GIBI-MS, do Itaú Cultural, que originou o livro.[^cgn2023][^acr2026][^wpmd] Em 2026, foi anunciada como palestrante do programa Quebra Torto On, com aula sobre jornalismo em quadrinhos prevista para 2027.[^acr2026]
 
@@ -27,7 +27,7 @@ Participou da coletânea [[quebra-torto|"Quebra Torto"]], organizada por [[fabio
 
 Em 2021, o trabalho "LGBTfobia está atrelada ao processo de colonização?", da Revista Badaró, creditado a Norberto Liberator, Marina Duarte Maidana e Aline Correia Antonini, recebeu menção honrosa na categoria Arte do 43º Prêmio Jornalístico Vladimir Herzog.[^herzog] O Campo Grande News descreve o trabalho como entrevista ilustrada com indígenas LGBT+.[^megafone] A Revista Badaró foi fundada em 2019 por estudantes e recém-graduados de Jornalismo da UFMS. Em abril de 2023, venceu o Prêmio Megafone de Ativismo, na categoria Reportagem em Mídia Independente, com a reportagem em quadrinhos "Um povo, três massacres", sobre violações contra o povo guarani-kaiowá em MS.[^megafone] A Wikipédia em português lista Marina entre os autores dessa reportagem e atribui a ela o segundo lugar na categoria universitária do Prêmio Mosca de 2020.[^wpmd]
 
-Em 2026, a Universidade Estadual de Mato Grosso do Sul (UEMS) noticiou que Marina, estudante de Letras e integrante do Núcleo de Pesquisa em Quadrinhos (NuPeQ), venceu duas categorias do 42º Troféu Angelo Agostini: Melhor Desenhista, por *Aí Vêm os Super-Humanos*, e Melhor Fanzine, por *O Pai Tá On*, feito com Guilherme Smee. A lista de vencedores, divulgada em 29 de maio de 2026, confirma as duas categorias. Segundo Marina, os quadrinhos premiados têm caráter documental e tratam de masculinidade e relações de gênero.[^uems][^fdp]
+Em 2026, a Universidade Estadual de Mato Grosso do Sul (UEMS) noticiou que Marina, estudante de Letras e integrante do [[nucleo-de-pesquisa-em-quadrinhos|Núcleo de Pesquisa em Quadrinhos]] (NuPeQ), venceu duas categorias do 42º Troféu Angelo Agostini: Melhor Desenhista, por *Aí Vêm os Super-Humanos*, e Melhor Fanzine, por *O Pai Tá On*, feito com [[guilherme-smee|Guilherme Smee]]. A lista de vencedores, divulgada em 29 de maio de 2026, confirma as duas categorias. Segundo Marina, os quadrinhos premiados têm caráter documental e tratam de masculinidade e relações de gênero.[^uems][^fdp]
 
 ## Obras
 

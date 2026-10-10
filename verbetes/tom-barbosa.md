@@ -18,7 +18,7 @@ O projeto Arte no Paço recebia um novo nome a cada trinta dias, segundo a pági
 
 Em outubro de 2009, Tom Barbosa integrou a mesa-redonda *A representação do espaço na arte regional*, realizada na UEMS, unidade de Jardim. O evento é citado num artigo sobre a obra de [[jorapimo|Jorapimo]], escrito por Waldilene Galeano e Carla Villamaina Centeno.[^semex2009]
 
-Em novembro de 2014, o Correio do Estado noticiou a abertura, em 26 de novembro, de exposição de Ton Barbosa na Galeria de Vidro da Esplanada Ferroviária, em Campo Grande, promovida pela Fundação Municipal de Cultura (Fundac). O texto o descreve como sul-mato-grossense e autodidata, que começou pelo desenho e passou ao acrílico sobre tela e à experimentação com técnicas mistas e escultura em madeira, metal e cerâmica.[^ce2014]
+Em novembro de 2014, o Correio do Estado noticiou a abertura, em 26 de novembro, de exposição de Ton Barbosa na [[galeria-de-vidro|Galeria de Vidro]] da Esplanada Ferroviária, em Campo Grande, promovida pela Fundação Municipal de Cultura (Fundac). O texto o descreve como sul-mato-grossense e autodidata, que começou pelo desenho e passou ao acrílico sobre tela e à experimentação com técnicas mistas e escultura em madeira, metal e cerâmica.[^ce2014]
 
 Em junho de 2026, A Crítica de Campo Grande informou que o Slaviero Prime Hotel, em Campo Grande, abriria em 26 de junho uma coletiva de artes visuais com obras inéditas de Carlos Vera, Mabbi, Patricia Bissoli e Ton Barbosa.[^acritica2026]
 

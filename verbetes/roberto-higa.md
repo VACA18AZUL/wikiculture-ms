@@ -19,7 +19,7 @@ Começou a carreira no jornal Diário da Serra, hoje extinto. Seu acervo cobre m
 
 Em 2019, com cerca de 51 anos de fotografia, inaugurou uma exposição na Câmara de Vereadores de Campo Grande durante a sessão solene do Dia do Jornalista. A mostra reunia um mural, montado ao longo de 11 anos, com fotos de profissionais da imprensa de Mato Grosso do Sul, e fotos históricas da cidade, algumas colorizadas, como um jogo lotado no Morenão em 1972.[^cgn2019]
 
-Em fevereiro de 2026 foi lançado um documentário de cerca de 30 minutos sobre seu acervo, dirigido por [[marineti-pinheiro|Marineti Pinheiro]] e Israel Miranda, que levou um ano para ser produzido. O filme apresenta a capital pela relação do fotógrafo com a cidade, mais do que como biografia.[^cgn2026]
+Em fevereiro de 2026 foi lançado um documentário de cerca de 30 minutos sobre seu acervo, dirigido por [[marineti-pinheiro|Marineti Pinheiro]] e [[israel-miranda|Israel Miranda]], que levou um ano para ser produzido. O filme apresenta a capital pela relação do fotógrafo com a cidade, mais do que como biografia.[^cgn2026]
 
 ## Registros e reconhecimento
 
@@ -27,13 +27,13 @@ Segundo *A Crítica*, Higa entrou no Diário da Serra como office-boy por volta 
 
 O acervo é estimado em cerca de 250 mil registros. A matéria menciona o livro *Olhar*, com 192 páginas, quase 200 fotos e nove capítulos, lançado na Estação Ferroviária, sem indicar o ano com clareza.[^acr2026a] Em 25 de agosto de 2026, a Câmara Municipal de Campo Grande o homenageou em sessão solene com a Medalha Destaques da Década Juvêncio César da Fonseca.[^acr2026a]
 
-Em 2006, segundo texto colaborativo do Overmundo sobre o Festival de Inverno de Bonito, uma exposição de fotos da artista Conceição dos Bugres, feita por ele, esteve em exibição no evento.[^om2006]
+Em 2006, segundo texto colaborativo do Overmundo sobre o Festival de Inverno de Bonito, uma exposição de fotos da artista [[conceicao-dos-bugres|Conceição dos Bugres]], feita por ele, esteve em exibição no evento.[^om2006]
 
 ## Documentários
 
-Dois filmes tratam de Higa, segundo a imprensa de 2026. *A Campo Grande de Roberto Higa* (cerca de 30 min) é atribuído a Marineti Pinheiro e Israel Miranda por *O Estado Online*, com exibição restrita em 13 fev. 2026; a equipe o acompanhou por um ano.[^oe2026] A matéria de *A Crítica* de agosto de 2026 atribui esse mesmo filme a Conrado Roel e fala em doze anos de filmagem. As fontes divergem e as duas versões ficam registradas.[^acr2026a]
+Dois filmes tratam de Higa, segundo a imprensa de 2026. *A Campo Grande de Roberto Higa* (cerca de 30 min) é atribuído a Marineti Pinheiro e Israel Miranda por *O Estado Online*, com exibição restrita em 13 fev. 2026; a equipe o acompanhou por um ano.[^oe2026] A matéria de *A Crítica* de agosto de 2026 atribui esse mesmo filme a [[conrado-roel|Conrado Roel]] e fala em doze anos de filmagem. As fontes divergem e as duas versões ficam registradas.[^acr2026a]
 
-*Higa Ke – Olho por Olho*, dirigido por Conrado Roel e Débora Bah, foi feito ao longo de mais de dez anos. Recebeu o prêmio de Melhor Filme Sul-Mato-Grossense pelo Júri Popular no Festival de Cinema de Bonito 2026 e foi exibido em 25 set. 2026 no Autocine da UFMS, dentro do Festival Mais Cultura.[^oe2026b][^acr2026b]
+*Higa Ke – Olho por Olho*, dirigido por Conrado Roel e [[debora-bah|Débora Bah]], foi feito ao longo de mais de dez anos. Recebeu o prêmio de Melhor Filme Sul-Mato-Grossense pelo Júri Popular no Festival de Cinema de Bonito 2026 e foi exibido em 25 set. 2026 no Autocine da UFMS, dentro do Festival Mais Cultura.[^oe2026b][^acr2026b]
 
 [^cgn2019]: Thailla Torres, ["Em exposição, Higa exibe mural feito durante 11 anos de trabalho"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-exposicao-higa-exibe-mural-feito-durante-11-anos-de-trabalho), *Campo Grande News*, 11 abr. 2019. Acesso em 8 out. 2026.
 [^cgn2026]: Clayton Neves, ["Documentário retrata Campo Grande sob os olhos de Roberto Higa"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/documentario-retrata-campo-grande-sobre-os-olhos-de-roberto-higa), *Campo Grande News*, 14 fev. 2026. Acesso em 8 out. 2026.

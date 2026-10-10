@@ -14,7 +14,7 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**José Octávio Guizzo** nasceu em Campo Grande, em março de 1938, e morreu em novembro de 1989, durante uma palestra sobre a atriz Glauce Rocha.[^marin]
+**José Octávio Guizzo** nasceu em Campo Grande, em março de 1938, e morreu em novembro de 1989, durante uma palestra sobre a atriz [[glauce-rocha|Glauce Rocha]].[^marin]
 
 ## Trajetória
 
@@ -30,19 +30,19 @@ Em um livro reeditado em 2012, Guizzo descreveu Corumbá como o berço musical d
 
 ## Outras informações
 
-A Wikipédia em português registra que Guizzo foi filho de imigrantes italianos, passou a infância no bairro do Cascudo e estudou no Colégio Dom Bosco. Diz que, aos 15 anos, foi locutor da Rádio Difusora PRI-7 e que se formou em Direito em Curitiba, onde também trabalhou em rádio. A página cita como referência uma página do Centro Cultural José Octávio Guizzo, que não abriu nesta consulta, e a obra *Série Campo Grande – Personalidades* (2003).[^wiki]
+A Wikipédia em português registra que Guizzo foi filho de imigrantes italianos, passou a infância no bairro do Cascudo e estudou no Colégio Dom Bosco. Diz que, aos 15 anos, foi locutor da Rádio Difusora PRI-7 e que se formou em Direito em Curitiba, onde também trabalhou em rádio. A página cita como referência uma página do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], que não abriu nesta consulta, e a obra *Série Campo Grande – Personalidades* (2003).[^wiki]
 
-Segundo a mesma fonte, em 1967 ele ganhou o primeiro lugar no Primeiro Festival da Música Popular de Campo Grande com "Mané Bento Vaqueiro do Pantanal", de sua letra, melodia de Paulo Mendonça de Sousa e interpretação de Jorge Antonio Siufi.[^wiki] O artigo de Neder, por sua vez, cita a canção como de Paulo Mendonça de Souza e José Otávio Guizzo.[^neder]
+Segundo a mesma fonte, em 1967 ele ganhou o primeiro lugar no Primeiro Festival da Música Popular de Campo Grande com "Mané Bento Vaqueiro do Pantanal", de sua letra, melodia de Paulo Mendonça de Sousa e interpretação de Jorge Antonio Siufi.[^wiki] O artigo de Neder, por sua vez, cita a canção como de [[paulo-mendonca-de-souza|Paulo Mendonça de Souza]] e José Otávio Guizzo.[^neder]
 
 A Wikipédia também lhe atribui os trabalhos *Esboço Histórico do Cinema em Mato Grosso do Sul* e *Alma do Brasil*, a participação, em 1981, no grupo de trabalho que elaborou o documento da Política Estadual de Cultura, e a presença no Conselho Estadual de Cultura. Como presidente da Fundação de Cultura, teria iniciado os levantamentos para o tombamento do Casario do Porto de Corumbá e promovido os primeiros Encontros Estaduais de Cultura. Teria morrido em 20 de novembro de 1989, após palestra na UFMS sobre sua pesquisa de 17 anos sobre a atriz Glauce Rocha, e o livro *Glauce Rocha – Atriz, Mulher, Guerreira* teria sido publicado em 1996. Esses dados não foram confirmados em fonte acadêmica nesta consulta.[^wiki]
 
 ## Recepção da obra
 
-Álvaro Neder afirma que o termo "moderna música popular urbana do MS", cunhado por Guizzo, designa o movimento de Geraldo Espíndola, Paulo Simões e Geraldo Roca, e cita o livro de 1982 (Imprensa da UFMS) como referência.[^neder] Na resenha do livro de Neder, Evandro Higa registra a crítica do autor a Guizzo, que teria um "nacionalismo andradiano" e teria buscado negar influências paraguaias na música regional.[^higa]
+Álvaro Neder afirma que o termo "moderna música popular urbana do MS", cunhado por Guizzo, designa o movimento de [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]] e [[geraldo-roca|Geraldo Roca]], e cita o livro de 1982 (Imprensa da UFMS) como referência.[^neder] Na resenha do livro de Neder, [[evandro-higa|Evandro Higa]] registra a crítica do autor a Guizzo, que teria um "nacionalismo andradiano" e teria buscado negar influências paraguaias na música regional.[^higa]
 
 ## Homenagem
 
-A Fundação de Cultura de Mato Grosso do Sul mantém em Campo Grande o Centro Cultural José Octávio Guizzo, na Rua 26 de Agosto, que abriga o Teatro Aracy Balabanian, o Auditório Rubens Corrêa e a Galeria Wega Nery. Um texto do Overmundo de 2010 diz que o centro completava 25 anos, o que o situa em 1984 ou 1985.[^ovcc]
+A [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] mantém em Campo Grande o Centro Cultural José Octávio Guizzo, na Rua 26 de Agosto, que abriga o [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], o Auditório Rubens Corrêa e a Galeria Wega Nery. Um texto do Overmundo de 2010 diz que o centro completava 25 anos, o que o situa em 1984 ou 1985.[^ovcc]
 
 ## Obras
 

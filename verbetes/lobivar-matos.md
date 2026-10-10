@@ -21,26 +21,26 @@ Formou-se em Direito e atuou como advogado. Colaborou com crônicas e poemas no 
 
 Uma nota do *Diário Corumbaense* de 2012 dá os anos de 1915 a 1947 e Corumbá como cidade natal.[^dc] A Wikipédia em português registra nascimento em 11 de janeiro de 1915 e morte em 27 de outubro de 1947, no Rio de Janeiro, o que concorda com os 32 anos citados por Freire. A data completa vem só do texto colaborativo.[^wp]
 
-Segundo a Wikipédia, que reproduz trechos de um artigo de José Octávio Guizzo (1979) e da tese de Susylene Araujo (2009), ele se mudou para Campo Grande por volta de 1928. Seu primeiro poema, dedicado ao poeta corumbaense Pedro de Medeiros, saiu na revista *Folha da Serra* em fevereiro de 1932. Aos 18 anos foi para o Rio de Janeiro, onde cursou a Faculdade Nacional de Direito. Na década de 1940, voltou a Corumbá e passou a usar os jornais locais para dar voz a reivindicações sociais.[^wp] A mesma página afirma que Manoel de Barros e ele foram amigos de infância em Corumbá e que se reencontraram no Rio na década de 1930.[^wp] Uma matéria de 2025 diz que ele era próximo de [[manoel-de-barros|Manoel de Barros]] e o apresentou em um artigo de jornal como um grande poeta por vir.[^cc]
+Segundo a Wikipédia, que reproduz trechos de um artigo de [[jose-octavio-guizzo|José Octávio Guizzo]] (1979) e da tese de Susylene Araujo (2009), ele se mudou para Campo Grande por volta de 1928. Seu primeiro poema, dedicado ao poeta corumbaense [[pedro-medeiros|Pedro de Medeiros]], saiu na revista *[[revista-folha-da-serra|Folha da Serra]]* em fevereiro de 1932. Aos 18 anos foi para o Rio de Janeiro, onde cursou a Faculdade Nacional de Direito. Na década de 1940, voltou a Corumbá e passou a usar os jornais locais para dar voz a reivindicações sociais.[^wp] A mesma página afirma que Manoel de Barros e ele foram amigos de infância em Corumbá e que se reencontraram no Rio na década de 1930.[^wp] Uma matéria de 2025 diz que ele era próximo de [[manoel-de-barros|Manoel de Barros]] e o apresentou em um artigo de jornal como um grande poeta por vir.[^cc]
 
 ## Obra
 
 Um estudo apresentado na Abralic o considera precursor da literatura sul-mato-grossense e modernista importante dos anos 1930. Segundo o texto, *Areôtorare* reúne 29 poemas na voz de um sábio índio boróro.[^abralic] Freire cita o ensaísta Paulo Nolasco, que o descreve como um "ethos errático", à deriva da história oficial.[^freire] Uma antologia crítica o lista entre quatro nomes de referência da literatura do estado, ao lado de [[manoel-de-barros|Manoel de Barros]], [[raquel-naveira|Raquel Naveira]] e Visconde de Taunay.[^souza]
 
-Em texto de 2014 publicado pelo IHGMS, a pesquisadora Albana Xavier Nogueira o descreve como o poeta de vanguarda de Corumbá, que usava formas livres para denunciar problemas sociais e cantar o cotidiano da cidade.[^albana] Em entrevista de 2008 no Overmundo, o poeta Ruberval Cunha o incluiu entre os nomes históricos que o influenciaram.[^cunha] Na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], ele é o patrono da cadeira 24.[^aslcad]
+Em texto de 2014 publicado pelo IHGMS, a pesquisadora [[albana-xavier-nogueira|Albana Xavier Nogueira]] o descreve como o poeta de vanguarda de Corumbá, que usava formas livres para denunciar problemas sociais e cantar o cotidiano da cidade.[^albana] Em entrevista de 2008 no Overmundo, o poeta [[ruberval-cunha|Ruberval Cunha]] o incluiu entre os nomes históricos que o influenciaram.[^cunha] Na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], ele é o patrono da cadeira 24.[^aslcad]
 
-Há estudos dedicados a ele: *Lobivar de Matos: o poeta desconhecido* (1994), de José Pereira Lins, e *A vida e a obra de Lobivar Matos: o modernista (des)conhecido* (2009), de Susylene Dias de Araujo.[^freire][^leite]
+Há estudos dedicados a ele: *Lobivar de Matos: o poeta desconhecido* (1994), de [[jose-pereira-lins|José Pereira Lins]], e *A vida e a obra de Lobivar Matos: o modernista (des)conhecido* (2009), de [[susylene-dias-de-araujo|Susylene Dias de Araujo]].[^freire][^leite]
 
 ## Obras
 
 - *Areôtorare: poemas boróros* (Rio de Janeiro: Irmãos Pongetti, 1935, 73 p.). O texto da Abralic também a data de 1936, e Freire grafa o título "Aerotorare". As datas ficam registradas.[^leite][^abralic][^freire]
 - *Sarobá: poemas* (Rio de Janeiro: Minha Livraria Editora, 1936, 98 p.).[^leite][^abralic]
 - *Obras reunidas de Lobivar Matos*, organizada por Susylene Dias de Araujo (Campo Grande: Editora da UFMS, 2009), com as duas obras em fac-símile e artigos de pesquisadores, segundo a Wikipédia.[^wp]
-- *Lobivar Matos: obra reunida*, organizada por Susylene Dias de Araujo (Life Editora, 2025), lançada em Corumbá em 20 de março de 2025 e em Campo Grande dois dias depois. Inclui contos inéditos, com o título provisório de *Cacos de vida*, que a pesquisadora diz ter obtido por meio do professor José Pereira Lins. Ela pesquisa o autor desde 1999.[^cc]
+- *Lobivar Matos: obra reunida*, organizada por Susylene Dias de Araujo ([[editora-life|Life Editora]], 2025), lançada em Corumbá em 20 de março de 2025 e em Campo Grande dois dias depois. Inclui contos inéditos, com o título provisório de *Cacos de vida*, que a pesquisadora diz ter obtido por meio do professor José Pereira Lins. Ela pesquisa o autor desde 1999.[^cc]
 
 ## Homenagens
 
-Em março de 2012, o Teatro Imaginário Maracangalha e a Fundação de Cultura de Mato Grosso do Sul promoveram em Campo Grande uma edição do evento "Sarobá", com seminário sobre o poeta, exposição de desenhos e um sarau com performances de poemas do livro.[^dc]
+Em março de 2012, o [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]] e a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] promoveram em Campo Grande uma edição do evento "Sarobá", com seminário sobre o poeta, exposição de desenhos e um sarau com performances de poemas do livro.[^dc]
 
 ## Para saber mais
 

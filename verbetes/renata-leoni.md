@@ -15,17 +15,17 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Criou com [[marcos-mattos|Marcos Mattos]] o espetáculo *Desenho do Tempo*, que traça a relação dos dois por meio de memórias de seus encontros. A direção e a coreografia são de Esther Weitzman. O trabalho começou em 2020, teve apoio do Prêmio Ipê de Dança, da Secretaria de Cultura e Turismo de Campo Grande, e estreou em julho de 2022 com curta temporada no Sesc Cultura e na Casa de Ensaio. Uma nova temporada gratuita foi marcada para 3 e 4 de março de 2023.[^cgn2023a]
+Criou com [[marcos-mattos|Marcos Mattos]] o espetáculo *[[desenho-do-tempo|Desenho do Tempo]]*, que traça a relação dos dois por meio de memórias de seus encontros. A direção e a coreografia são de [[esther-weitzman|Esther Weitzman]]. O trabalho começou em 2020, teve apoio do Prêmio Ipê de Dança, da Secretaria de Cultura e Turismo de Campo Grande, e estreou em julho de 2022 com curta temporada no Sesc Cultura e na Casa de Ensaio. Uma nova temporada gratuita foi marcada para 3 e 4 de março de 2023.[^cgn2023a]
 
 Em maio de 2023, esteve entre os 12 intérpretes-criadores de *Cavucada*, da [[cia-dancurbana|Cia Dançurbana]].[^cgn2023b]
 
-Em 2024, integrava a Associação Arado Cultural, ao lado de [[marcos-mattos|Marcos Mattos]] e Roberta Siqueira. A associação, com o Colegiado Estadual de Dança, organizou a Semana Pra Dança, retomada naquele ano depois de cinco anos. A fonte grafa o sobrenome como "Leone", variante do nome que consta neste verbete.[^eusoums2024]
+Em 2024, integrava a [[associacao-arado-cultural|Associação Arado Cultural]], ao lado de [[marcos-mattos|Marcos Mattos]] e Roberta Siqueira. A associação, com o Colegiado Estadual de Dança, organizou a [[semana-pra-danca|Semana Pra Dança]], retomada naquele ano depois de cinco anos. A fonte grafa o sobrenome como "Leone", variante do nome que consta neste verbete.[^eusoums2024]
 
 Em 2025, assinou a direção artística de *R.U.I.A – Realidade Ultrassônica de Invasão Aleatória*, espetáculo infantil da [[cia-dancurbana|Cia Dançurbana]], com colaboração de Paula Bueno e Miraíra Noal.[^cgn2025]
 
 Em setembro de 2026, como produtora da Arado Cultural, falou da 6ª Mostra Cerrado Abierto, voltada à infância, com 15 atrações gratuitas em Campo Grande entre 2 e 9 de outubro. A matéria diz que a mostra foi criada em 2016 e que as cinco edições anteriores reuniram mais de 10 mil pessoas.[^rcn2026]
 
-Em 2021, colaborou no solo *Nu(m) corpo só*, de Rose Mendonça, dirigido por Marcos Mattos.[^cgn2021]
+Em 2021, colaborou no solo *Nu(m) corpo só*, de [[rose-mendonca|Rose Mendonça]], dirigido por Marcos Mattos.[^cgn2021]
 
 ## Obras
 

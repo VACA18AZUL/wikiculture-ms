@@ -15,13 +15,13 @@ atualizado: 2026-10-10
 
 ## Coletânea
 
-O Itaú Cultural, que apoiou o projeto pelo Rumos 2019-2020, lista seis autores: Anderson Barboza, Daniel Shaman, Grippho, [[marina-duarte|Marina Duarte]], Neiton Benitez e Fabio Quill. A divulgação do lançamento on-line, em 17 de janeiro de 2023, traz perfis de Instagram diferentes para Anderson Barboza e para Grippho.[^ic2023]
+O Itaú Cultural, que apoiou o projeto pelo Rumos 2019-2020, lista seis autores: Anderson Barboza, [[daniel-shaman|Daniel Shaman]], Grippho, [[marina-duarte|Marina Duarte]], [[neiton-benitez|Neiton Benitez]] e Fabio Quill. A divulgação do lançamento on-line, em 17 de janeiro de 2023, traz perfis de Instagram diferentes para Anderson Barboza e para Grippho.[^ic2023]
 
 ## Grafia do nome e dúvida de identidade
 
 A reportagem do Campo Grande News de 23 de janeiro de 2023 cita cinco quadrinistas e escreve "Anderson Barboza Grippho" como um só nome, embora diga que o livro reúne seis histórias.[^cgnq] Três outras fontes listam Anderson Barboza e Grippho como dois autores, somando seis: o Itaú Cultural, o portal Outro Dia News e o site de Fabio Quill.[^ic2023][^odn][^fq]
 
-Em julho de 2026, A Crítica, o Diário Digital e o Correio de Corumbá, com base em material de divulgação do projeto, disseram que Jaqueline Cabral assinou como "Grippho" na coletânea e que ela integra a comissão de seleção do programa Quebra Torto On. Esses textos não citam Anderson Barboza.[^acrs][^dd][^ccj]
+Em julho de 2026, A Crítica, o Diário Digital e o Correio de Corumbá, com base em material de divulgação do projeto, disseram que [[jaqueline-cabral|Jaqueline Cabral]] assinou como "Grippho" na coletânea e que ela integra a comissão de seleção do programa Quebra Torto On. Esses textos não citam Anderson Barboza.[^acrs][^dd][^ccj]
 
 Segundo essas fontes, "Grippho" é a assinatura de Jaqueline Cabral e aparece como autor separado de Anderson Barboza, o que contradiz a grafia do Campo Grande News. As fontes lidas não explicam a diferença, e este verbete registra as duas versões sem decidir a favor da reportagem de janeiro de 2023.[^ic2023][^cgnq][^acrs]
 

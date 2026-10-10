@@ -19,7 +19,7 @@ atualizado: 2026-10-10
 
 *Salas de sonhos – Histórias dos cinemas de Campo Grande* saiu em 2008. *Salas de sonhos II – Memória dos cinemas de Mato Grosso do Sul* saiu em 2010. A homenagem a Marineti, em 2024, citou os dois livros como a base de sua contribuição ao audiovisual do estado.[^cgn2024]
 
-A Editora UFMS lista o primeiro volume (2008) com autoria de Marinete Pinheiro e Neide Fischer, grafando o nome da cineasta com um "t" a menos que as demais fontes. Segundo o catálogo, o livro reúne relatos de pessoas que frequentaram as salas de cinema de Campo Grande, já esquecidas diante de outras tecnologias de exibição.[^ufms1] O segundo volume (2010) consta no mesmo catálogo com autoria só de Marinete Pinheiro. Segundo a descrição, o livro registra a memória cultural do estado e o desaparecimento dos cinemas de rua.[^ufms2]
+A Editora UFMS lista o primeiro volume (2008) com autoria de Marinete Pinheiro e [[neide-fischer|Neide Fischer]], grafando o nome da cineasta com um "t" a menos que as demais fontes. Segundo o catálogo, o livro reúne relatos de pessoas que frequentaram as salas de cinema de Campo Grande, já esquecidas diante de outras tecnologias de exibição.[^ufms1] O segundo volume (2010) consta no mesmo catálogo com autoria só de Marinete Pinheiro. Segundo a descrição, o livro registra a memória cultural do estado e o desaparecimento dos cinemas de rua.[^ufms2]
 
 Um artigo acadêmico de 2016 sobre os espaços de cinema em Campo Grande cita o livro de 2008 para a chegada da primeira exibição, em 1910. Segundo esse artigo, o italiano Rafael Orrico, vindo de Aquidauana, trouxe uma máquina de projeção e fez a sessão no Hotel Democrata. O artigo registra também que o Cine Campo Grande fechou em 2012.[^cordis]
 

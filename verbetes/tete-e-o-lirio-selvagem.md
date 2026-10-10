@@ -21,7 +21,7 @@ A gravadora pediu a mudança de nome quando o grupo começou a se apresentar em 
 
 O primeiro LP foi gravado nos estúdios Gazeta, em São Paulo, com produção de Marcos Maynard e Roberto Menescal. Tem 12 faixas, e a maioria das canções é de [[geraldo-espindola|Geraldo Espíndola]].[^cgn] O Campo Grande News data o disco de 1979, mas o artigo de Marin e Pereira afirma que a gravação ocorreu no segundo semestre de 1978.[^cgn][^hgr] Os dois textos concordam que o grupo apareceu no programa *Fantástico*, da Rede Globo, em 1978.[^cgn][^hgr]
 
-O artigo de Marin e Pereira relata que José Octávio Guizzo criticou o grupo por diluir o caráter regional de algumas canções. Caetano e a própria [[tete-espindola|Tetê Espíndola]] discordaram, segundo o mesmo texto, argumentando que o grupo manteve temas naturais e regionais.[^hgr]
+O artigo de Marin e Pereira relata que [[jose-octavio-guizzo|José Octávio Guizzo]] criticou o grupo por diluir o caráter regional de algumas canções. Caetano e a própria [[tete-espindola|Tetê Espíndola]] discordaram, segundo o mesmo texto, argumentando que o grupo manteve temas naturais e regionais.[^hgr]
 
 Em 2014, o grupo voltou a se apresentar no Teatro Municipal de São Paulo com o repertório do primeiro disco, no projeto Álbuns Clássicos no Municipal, da Virada Cultural. O show foi gravado para CD e DVD e dirigido por Dani Black, filho de Tetê. A reportagem diz que a reedição veio 35 anos depois do disco original.[^cgn]
 

@@ -15,13 +15,13 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Em uma monografia de 2015 sobre o grupo, ela afirma que os projetos ajudam a sustentabilidade, porque parte da renda fica em caixa próprio para despesas da sede e do grupo. Também destaca a Mostra Pantalhaços, feita com o Flor e Espinho Teatro, pelas oficinas de palhaçaria.[^guimaraes]
+Em uma monografia de 2015 sobre o grupo, ela afirma que os projetos ajudam a sustentabilidade, porque parte da renda fica em caixa próprio para despesas da sede e do grupo. Também destaca a Mostra Pantalhaços, feita com o [[flor-e-espinho-teatro|Flor e Espinho Teatro]], pelas oficinas de palhaçaria.[^guimaraes]
 
 É autora de grande parte das fotografias do anexo da mesma monografia.[^guimaraes]
 
-Uma reportagem do *Campo Grande News* de abril de 2012 a apresenta ao lado de [[aline-duenha|Aline Duenha]], Mauro Guimarães e [[yago-garcia|Yago Garcia]] como uma das pessoas que formavam o grupo havia oito anos. Segundo o texto, os três primeiros atuam, dirigem em conjunto e ajudam a escrever projetos para fundos de incentivo, e ela cuida da administração e ajuda na parte técnica da cena.[^cgn2012]
+Uma reportagem do *Campo Grande News* de abril de 2012 a apresenta ao lado de [[aline-duenha|Aline Duenha]], [[mauro-guimaraes|Mauro Guimarães]] e [[yago-garcia|Yago Garcia]] como uma das pessoas que formavam o grupo havia oito anos. Segundo o texto, os três primeiros atuam, dirigem em conjunto e ajudam a escrever projetos para fundos de incentivo, e ela cuida da administração e ajuda na parte técnica da cena.[^cgn2012]
 
-Em março de 2014, a mesma publicação creditou a ela a produção de *Navalha na carne*, de Plínio Marcos, montagem do grupo premiada pelo Rubens Corrêa 2013, da Fundação de Cultura de MS. A fotografia ficou com Larissa Pulchério.[^cgn2014]
+Em março de 2014, a mesma publicação creditou a ela a produção de *Navalha na carne*, de Plínio Marcos, montagem do grupo premiada pelo Rubens Corrêa 2013, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. A fotografia ficou com Larissa Pulchério.[^cgn2014]
 
 Na edição de 2017 do Festival de Inverno de Bonito, o programa divulgado pela imprensa lhe atribui a produção executiva e a comunicação de *João e o Pé de Feijão na Terra do Nunca*, espetáculo do grupo contemplado pelo Prêmio Rubens Correa de Teatro 2016.[^jn2017]
 

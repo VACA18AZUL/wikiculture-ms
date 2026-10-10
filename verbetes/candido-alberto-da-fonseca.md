@@ -17,9 +17,9 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Atuou nas áreas de comunicação, artes cênicas e produção audiovisual do estado. Foi diretor executivo da Fundação de Cultura de Mato Grosso do Sul durante a década de 1980.[^rcn]
+Atuou nas áreas de comunicação, artes cênicas e produção audiovisual do estado. Foi diretor executivo da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] durante a década de 1980.[^rcn]
 
-Foi coautor, com Maria da Glória Sá Rosa e [[paulo-simoes|Paulo Simões]], do livro sobre festivais de música em Mato Grosso do Sul, de 1982.[^silus]
+Foi coautor, com [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e [[paulo-simoes|Paulo Simões]], do livro sobre festivais de música em Mato Grosso do Sul, de 1982.[^silus]
 
 Também desenvolveu o documentário que acompanha o livro *Memória da Arte em MS*, de 1992.[^silus]
 
@@ -35,7 +35,7 @@ Segundo a matéria de 2025, também participou de movimentos de defesa dos direi
 
 O Campo Grande News de 2025 descreve *Conceição dos Bugres* como filmado em 35 mm, com cerca de 30 minutos, e diz que ele integra o acervo da Fundação Estadual de Cultura, com processo para reconhecimento como patrimônio cultural do estado. A reportagem de 2016 fala em cerca de 10 minutos; as duas durações não coincidem.[^cgn25][^mis][^cgn] A escultora retratada tem verbete próprio: [[conceicao-dos-bugres|Conceição dos Bugres]].[^cgn25]
 
-As reportagens de 2025 citam ainda o documentário *Silvino Jacques – Itinerário de um Matador*, sobre uma figura do início do século XX, cujos negativos desapareceram por um tempo e foram recuperados com apoio da Cinemateca Brasileira, e o documentário *Sasha Siemel*, sobre o caçador letão radicado no Pantanal.[^cgn25][^mis] Em 25 de abril de 2025, o Museu da Imagem e do Som de MS exibiu *Conceição dos Bugres* e *Sasha Siemel* em homenagem a ele.[^mis]
+As reportagens de 2025 citam ainda o documentário *Silvino Jacques – Itinerário de um Matador*, sobre uma figura do início do século XX, cujos negativos desapareceram por um tempo e foram recuperados com apoio da Cinemateca Brasileira, e o documentário *Sasha Siemel*, sobre o caçador letão radicado no Pantanal.[^cgn25][^mis] Em 25 de abril de 2025, o [[mis-ms|Museu da Imagem e do Som]] de MS exibiu *Conceição dos Bugres* e *Sasha Siemel* em homenagem a ele.[^mis]
 
 ## Obras
 

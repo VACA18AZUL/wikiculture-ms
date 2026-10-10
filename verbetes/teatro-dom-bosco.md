@@ -14,11 +14,11 @@ atualizado: 2026-10-10
 
 ## Histórico
 
-Um artigo de 2013 sobre o teatro de uma escola técnica registra a inauguração em 1974, na capital do estado. Segundo o texto, a sala era menor que o Teatro Glauce Rocha, de 800 lugares, no campus da então universidade estadual. O artigo cita como base dessa informação o livro *Memória da Arte em Mato Grosso do Sul: histórias de vida*, de 1992.[^ziliani]
+Um artigo de 2013 sobre o teatro de uma escola técnica registra a inauguração em 1974, na capital do estado. Segundo o texto, a sala era menor que o [[teatro-glauce-rocha|Teatro Glauce Rocha]], de 800 lugares, no campus da então universidade estadual. O artigo cita como base dessa informação o livro *[[memoria-da-arte-em-mato-grosso-do-sul-historias-de-vida|Memória da Arte em Mato Grosso do Sul: histórias de vida]]*, de 1992.[^ziliani]
 
 ## Programação
 
-Matéria de janeiro de 2025 anunciou duas sessões, em 15 e 16 de março, de *Hermanoteu na terra de Godah*, da Companhia de Comédia Os Melhores do Mundo, no Teatro Dom Bosco. O texto não informa a cidade da sala, mas diz que a turnê passava "pela Capital".[^cgn2025]
+Matéria de janeiro de 2025 anunciou duas sessões, em 15 e 16 de março, de *Hermanoteu na terra de Godah*, da Companhia de Comédia [[os-melhores-do-mundo|Os Melhores do Mundo]], no Teatro Dom Bosco. O texto não informa a cidade da sala, mas diz que a turnê passava "pela Capital".[^cgn2025]
 
 ## Outras datas e fontes
 

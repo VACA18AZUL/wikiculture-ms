@@ -28,7 +28,7 @@ Em 2016, a dupla já estava sem shows e separada havia cerca de cinco anos. Amam
 
 ## Origem da dupla, segundo *Os Pioneiros*
 
-No livro *Os Pioneiros*, de [[rodrigo-teixeira|Rodrigo Teixeira]], os dois são identificados como Ermídio (ou Emídio) Umar, o Amambay, e Cecílio da Silva, o Amambaí, ambos naturais de Bela Vista. A ficha dá 1940 e 1937 como anos de nascimento; o Campo Grande News de 2016 dá 76 anos para os dois.[^pio][^cgn16]
+No livro *[[os-pioneiros|Os Pioneiros]]*, de [[rodrigo-teixeira|Rodrigo Teixeira]], os dois são identificados como Ermídio (ou Emídio) Umar, o Amambay, e Cecílio da Silva, o Amambaí, ambos naturais de Bela Vista. A ficha dá 1940 e 1937 como anos de nascimento; o Campo Grande News de 2016 dá 76 anos para os dois.[^pio][^cgn16]
 
 Amambay conta que formou em 1955, aos 15 anos, a dupla Alvarenga e Umar, que gravou um disco de 78 rotações pela Philips, quase sem circulação. Amambaí diz que começou em 1947, aos 10 anos, na dupla Campanha e Corumbá, na Rádio Difusora de Aquidauana, e depois integrou a dupla Garimpo e Garimpeiro. Segundo o livro, Amambay e Amambaí passaram a cantar juntos depois disso, com o nome sugerido por [[zacarias-mourao|Zacarias Mourão]].[^pio]
 
@@ -36,17 +36,17 @@ Amambay afirma que a dupla se diferenciava por misturar boleros, guarânias e ta
 
 ## Trio e gravações
 
-Por volta de 1961, a dupla formou um trio com o acordeonista Elinho do Bandoneon, que tocava na Rádio Educação Rural, em Campo Grande. Eles também faziam programas em rádios de São Paulo, onde Zacarias Mourão os levou a emissoras como Bandeirantes, Excelsior e Nacional.[^pio]
+Por volta de 1961, a dupla formou um trio com o acordeonista [[elinho-do-bandoneon|Elinho do Bandoneon]], que tocava na Rádio Educação Rural, em Campo Grande. Eles também faziam programas em rádios de São Paulo, onde Zacarias Mourão os levou a emissoras como Bandeirantes, Excelsior e Nacional.[^pio]
 
-Segundo o livro, em 1964 a dupla passou a tocar com [[ze-correa|Zé Corrêa]], que depois foi gravar com Délio e Delinha na gravadora Califórnia e iniciou carreira solo. A reportagem do Campo Grande News de 2016 situa o convite de Zé Corrêa para o trio em 1969. As duas versões constam das fontes; este verbete não escolhe entre elas.[^pio][^cgn16]
+Segundo o livro, em 1964 a dupla passou a tocar com [[ze-correa|Zé Corrêa]], que depois foi gravar com [[delio-e-delinha|Délio e Delinha]] na gravadora Califórnia e iniciou carreira solo. A reportagem do Campo Grande News de 2016 situa o convite de Zé Corrêa para o trio em 1969. As duas versões constam das fontes; este verbete não escolhe entre elas.[^pio][^cgn16]
 
-Amambay e Amambaí gravaram "A Mato-grossense" com Zé Corrêa, em 1969, e a canção virou sucesso. Segundo Amambaí, o disco saiu em 1970. O produtor Mário Vieira os chamou então para gravar um LP.[^pio] A discografia do livro lista, pela Califórnia, *Os Mensageiros de Mato Grosso* (1969, com Zé Corrêa) e *Segredo de Amor* (1971); *Meu Ranchinho* (1973); *Voltei Amor* (1973, Tapecar, com [[dino-rocha|Dino Rocha]]); *Os Mensageiros da Fronteira* (1975, Cerro Corá), creditado no livro a "Amambai e Mbakarai", sem explicação sobre o segundo nome; *Os Carreteiros do Brasil* (1977, Continental); e *Os Mestiços* (1979, Chantecler, com Dino Rocha). A ficha atribui a cada um 1 disco de 78 rotações e 15 LPs.[^pio] O Campo Grande News fala em cerca de 18 discos.[^cgn16]
+Amambay e Amambaí gravaram "A Mato-grossense" com Zé Corrêa, em 1969, e a canção virou sucesso. Segundo Amambaí, o disco saiu em 1970. O produtor [[mario-vieira|Mário Vieira]] os chamou então para gravar um LP.[^pio] A discografia do livro lista, pela Califórnia, *Os Mensageiros de Mato Grosso* (1969, com Zé Corrêa) e *Segredo de Amor* (1971); *Meu Ranchinho* (1973); *Voltei Amor* (1973, Tapecar, com [[dino-rocha|Dino Rocha]]); *Os Mensageiros da Fronteira* (1975, Cerro Corá), creditado no livro a "Amambai e Mbakarai", sem explicação sobre o segundo nome; *Os Carreteiros do Brasil* (1977, Continental); e *Os Mestiços* (1979, Chantecler, com Dino Rocha). A ficha atribui a cada um 1 disco de 78 rotações e 15 LPs.[^pio] O Campo Grande News fala em cerca de 18 discos.[^cgn16]
 
-Dino Rocha tocou com a dupla a partir do fim de 1972, segundo o livro, e depois foi para o grupo Os Filhos de Goiás, em São Paulo, por indicação de Amambay e Amambaí.[^pio]
+Dino Rocha tocou com a dupla a partir do fim de 1972, segundo o livro, e depois foi para o grupo [[os-filhos-de-goias|Os Filhos de Goiás]], em São Paulo, por indicação de Amambay e Amambaí.[^pio]
 
 ## GerAções e despedida
 
-Em 2006, a dupla gravou "Recuerdos de Ypacaraí" com João Fígar no CD *GerAções*, produzido por [[marcio-de-camillo|Márcio de Camillo]], com [[antonio-porto|Antonio Porto]] no baixo acústico e requinto. O texto do Overmundo fala em 35 anos de carreira e 15 discos.[^omrec] Márcio de Camillo apontou a dupla como um dos três pilares da história da música de MS, ao lado de [[geraldo-roca|Geraldo Roca]] e do curso de música da UFMS.[^omcam]
+Em 2006, a dupla gravou "Recuerdos de Ypacaraí" com [[joao-figar|João Fígar]] no CD *[[geracoes|GerAções]]*, produzido por [[marcio-de-camillo|Márcio de Camillo]], com [[antonio-porto|Antonio Porto]] no baixo acústico e requinto. O texto do Overmundo fala em 35 anos de carreira e 15 discos.[^omrec] Márcio de Camillo apontou a dupla como um dos três pilares da história da música de MS, ao lado de [[geraldo-roca|Geraldo Roca]] e do curso de música da UFMS.[^omcam]
 
 Amambaí morreu em 2018. Amambai morreu na noite de 3 de maio de 2022, segundo o Campo Grande News.[^cgn22]
 

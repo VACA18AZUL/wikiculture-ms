@@ -17,13 +17,13 @@ atualizado: 2026-10-10
 
 Começou a carreira em 1970, com canções que combinam identidade regional, MPB, folk e rock. O Campo Grande News o descreve como um dos compositores mais gravados do estado, com músicas interpretadas por artistas locais e nacionais.[^cgn2026]
 
-Integrou o LuzAzul, depois chamado Tetê e o Lírio Selvagem, com [[tete-espindola|Tetê]], [[celito-espindola|Celito]] e [[alzira-espindola|Alzira Espíndola]]. Boa parte das canções do primeiro disco do grupo é dele, entre elas "É necessário", "Rio de Luar", "Voos Claros", "Bem-te-vi" e "Santa Branca".[^cgn2014] O site Letras.com.br data a formação do grupo em 1968 e diz que ele ensinou violão a Tetê.[^letras]
+Integrou o LuzAzul, depois chamado [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]], com [[tete-espindola|Tetê]], [[celito-espindola|Celito]] e [[alzira-espindola|Alzira Espíndola]]. Boa parte das canções do primeiro disco do grupo é dele, entre elas "É necessário", "Rio de Luar", "Voos Claros", "Bem-te-vi" e "Santa Branca".[^cgn2014] O site Letras.com.br data a formação do grupo em 1968 e diz que ele ensinou violão a Tetê.[^letras]
 
 ## Anos 1960 e 1970
 
-Em entrevista de 2006 ao Overmundo, feita por Rodrigo Teixeira, o músico aparece como nascido em Campo Grande em 1952, dado repetido em texto de 2012 do mesmo site. Segundo a matéria, ele teve papel central na cena de rock da cidade no fim dos anos 1960, com o grupo Bizarros, Fetos e Pára-quedistas de Alfa Centauro, criado com [[paulo-simoes|Paulo Simões]] e outros companheiros. Na década de 1970 morou no Rio de Janeiro, onde tocou no grupo Lodo, e depois ficou mais tempo em São Paulo com o Lírio Selvagem. Tetê e ele teriam sido influenciados por [[humberto-espindola|Humberto Espíndola]], segundo o texto.[^omgeo]
+Em entrevista de 2006 ao Overmundo, feita por [[rodrigo-teixeira|Rodrigo Teixeira]], o músico aparece como nascido em Campo Grande em 1952, dado repetido em texto de 2012 do mesmo site. Segundo a matéria, ele teve papel central na cena de rock da cidade no fim dos anos 1960, com o grupo Bizarros, Fetos e Pára-quedistas de Alfa Centauro, criado com [[paulo-simoes|Paulo Simões]] e outros companheiros. Na década de 1970 morou no Rio de Janeiro, onde tocou no grupo Lodo, e depois ficou mais tempo em São Paulo com o Lírio Selvagem. Tetê e ele teriam sido influenciados por [[humberto-espindola|Humberto Espíndola]], segundo o texto.[^omgeo]
 
-Na mesma matéria, o clipe de "Bem-te-vi" aparece como produção do programa *Fantástico*, com os quatro irmãos em figurinos de bichos do Pantanal pintados pelo artista cuiabano João Sebastião da Costa. O texto diz que metade do repertório do LP *Tetê e o Lírio Selvagem* (Philips/Polygram, 1978) é de Geraldo, enquanto a discografia publicada com a entrevista dá 1979 para o disco.[^omgeo]
+Na mesma matéria, o clipe de "Bem-te-vi" aparece como produção do programa *Fantástico*, com os quatro irmãos em figurinos de bichos do Pantanal pintados pelo artista cuiabano [[joao-sebastiao-costa|João Sebastião]] da Costa. O texto diz que metade do repertório do LP *Tetê e o Lírio Selvagem* (Philips/Polygram, 1978) é de Geraldo, enquanto a discografia publicada com a entrevista dá 1979 para o disco.[^omgeo]
 
 ## "Vida Cigana"
 
@@ -35,9 +35,9 @@ Em dezembro de 2005, a convite da ONG francesa Apreis, fez nove concertos na Fra
 
 A discografia publicada com a entrevista de 2006 lista *Tetê e o Lírio Selvagem* (Phillips, 1979), *Geraldo Espíndola* (independente, 1998, produzido por Tetê e Humberto Espíndola), *Espíndola Canta* (LuzAzul, 2003, produzido por [[jerry-espindola|Jerry Espíndola]]) e *30 anos neste mato* (independente, 2004, produzido por Arrigo Barnabé e Mario Campos).[^omgeo]
 
-Em 29 de novembro de 2012, no Teatro Glauce Rocha, em Campo Grande, lançou o CD *Pra depois*, produzido com recursos do Fundo Municipal de Cultura, no show em que comemorou os 60 anos. O texto promocional que acompanha o registro diz que ele toca todos os instrumentos do disco, que "Bonito" é parceria com Arandas Jr. e que ele recebeu o Prêmio Fiat de MPB em 2002 e fundou a Associação dos Músicos do Pantanal (AMP).[^ombon] Outro texto de 2012 descreve o disco como de canções com apelo ecológico, como "Rio Formoso" e "Rios da Liberdade".[^omsom]
+Em 29 de novembro de 2012, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, lançou o CD *Pra depois*, produzido com recursos do Fundo Municipal de Cultura, no show em que comemorou os 60 anos. O texto promocional que acompanha o registro diz que ele toca todos os instrumentos do disco, que "Bonito" é parceria com Arandas Jr. e que ele recebeu o Prêmio Fiat de MPB em 2002 e fundou a Associação dos Músicos do Pantanal (AMP).[^ombon] Outro texto de 2012 descreve o disco como de canções com apelo ecológico, como "Rio Formoso" e "Rios da Liberdade".[^omsom]
 
-No CD *GerAções* (2006), de [[marcio-de-camillo|Márcio de Camillo]], ele é coautor, com Paulo Simões, de "Lá vem você de novo", gravada por [[geraldo-roca|Geraldo Roca]] e Márcio de Camillo.[^omger]
+No CD *[[geracoes|GerAções]]* (2006), de [[marcio-de-camillo|Márcio de Camillo]], ele é coautor, com Paulo Simões, de "Lá vem você de novo", gravada por [[geraldo-roca|Geraldo Roca]] e Márcio de Camillo.[^omger]
 
 ## Projeto em escolas
 

@@ -16,7 +16,7 @@ atualizado: 2026-10-10
 
 Um artigo de 2015 sobre o [[circo-do-mato|Circo do Mato]] o descreve como importante grupo de teatro e circo da cidade. O texto diz que o grupo realizou cinco vezes o FESTCAMP, Festival de Teatro de Campo Grande, que o autor considera o festival de maior retorno e visibilidade para artistas locais. As fontes consultadas não informam o ano de fundação nem listam todos os integrantes.[^guimaraes]
 
-Um trabalho de 2015 sobre o palhaço na cena teatral cita o grupo, ao lado do Circo do Mato, entre os que trabalhavam com palhaçaria em Campo Grande por volta de 2010. Entre os palhaços do repertório do grupo, lista Anderson Lima e Luís Claudio Dias.[^vieira]
+Um trabalho de 2015 sobre o palhaço na cena teatral cita o grupo, ao lado do Circo do Mato, entre os que trabalhavam com palhaçaria em Campo Grande por volta de 2010. Entre os palhaços do repertório do grupo, lista [[anderson-lima|Anderson Lima]] e Luís Claudio Dias.[^vieira]
 
 ## A associação
 
@@ -24,7 +24,7 @@ O site institucional apresenta a Associação Cultural Flor e Espinho Teatro com
 
 O site lista projetos próprios e em parceria: o cinema itinerante Cine Flor, o programa multilinguagem Kombinado, a coletânea literária Nascentes, a série de entrevistas Campo do Riso (apoiada pela Lei Aldir Blanc em 2020), a iniciativa Aflora, o circuito Circula Cultura MS, que a associação diz levar a 40 municípios, e o festival Boca de Cena, cuja 15ª edição, em 2024, teria sido realizada em parceria com os colegiados estaduais de teatro e de circo. A associação também se apresenta como a OSCIP responsável, com o Ministério da Cultura, pelo Comitê de Cultura de MS.[^site]
 
-Entre os espetáculos do repertório, o site cita *Bebê a bordo* (direção de João Lima), *Godgle* (direção de Breno Moroni), *Depois da chuva*, *Aqui* e *Verdades inversas*, apresentado como espetáculo de rua dirigido por Anderson Lima.[^site]
+Entre os espetáculos do repertório, o site cita *Bebê a bordo* (direção de [[joao-lima|João Lima]]), *Godgle* (direção de [[breno-moroni|Breno Moroni]]), *Depois da chuva*, *Aqui* e *Verdades inversas*, apresentado como espetáculo de rua dirigido por Anderson Lima.[^site]
 
 ## Anderson Lima
 
@@ -32,7 +32,7 @@ O perfil de Anderson Lima no projeto "Da ideia à luz" (2024) o descreve como il
 
 ## FESTCAMP
 
-Matéria de outubro de 2011 informa que a Fundação de Cultura de MS abria, em 14 de outubro, o 5º Festival Nacional de Teatro de Campo Grande (Festcamp), que ocorreria de 15 a 23 daquele mês, com recursos do FIC e 388 inscrições. O texto lista o templo-sede do Flor e Espinho Teatro entre os locais de apresentação, mas não diz quem organizava o festival.[^ce2011] O artigo de 2015 atribui ao grupo a realização de cinco edições.[^guimaraes]
+Matéria de outubro de 2011 informa que a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] abria, em 14 de outubro, o 5º Festival Nacional de Teatro de Campo Grande (Festcamp), que ocorreria de 15 a 23 daquele mês, com recursos do FIC e 388 inscrições. O texto lista o templo-sede do Flor e Espinho Teatro entre os locais de apresentação, mas não diz quem organizava o festival.[^ce2011] O artigo de 2015 atribui ao grupo a realização de cinco edições.[^guimaraes]
 
 ## Pantalhaços
 

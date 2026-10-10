@@ -14,7 +14,7 @@ atualizado: 2026-10-10
 
 ## Obras
 
-- *Em cantos verdes* (2025), curta de 15 minutos sobre as árvores de Campo Grande, em que assina a fotografia e as imagens. Direção de [[lu-bigattao|Lu Bigattão]] e roteiro de [[rosiney-bigattao|Rosiney Bigattão]].[^cgn2025] A realização é da Deslimites Teatro e Cinema, com edição de Carlos Diehl, produção de Fernanda Kunzler e recursos da Lei Paulo Gustavo. O crédito dele é de direção de fotografia e imagens.[^ce2025]
+- *Em cantos verdes* (2025), curta de 15 minutos sobre as árvores de Campo Grande, em que assina a fotografia e as imagens. Direção de [[lu-bigattao|Lu Bigattão]] e roteiro de [[rosiney-bigattao|Rosiney Bigattão]].[^cgn2025] A realização é da [[deslimites-teatro-e-cinema|Deslimites Teatro e Cinema]], com edição de [[carlos-diehl|Carlos Diehl]], produção de [[fernanda-kunzler|Fernanda Kunzler]] e recursos da Lei Paulo Gustavo. O crédito dele é de direção de fotografia e imagens.[^ce2025]
 - *A Campo Grande de Roberto Higa*, documentário de 30 minutos, produzido ao longo de um ano e codirigido com [[marineti-pinheiro|Marineti Pinheiro]]. O filme trata do fotógrafo [[roberto-higa|Roberto Higa]]. Foi lançado na noite de sexta-feira, 13 de fevereiro de 2026, segundo matéria publicada no dia seguinte.[^cgn2026]
 
 [^ce2025]: Correio do Estado, ["Conheça a relação de moradores de Campo Grande com as árvores"](https://correiodoestado.com.br/correio-b/conheca-a-relacao-de-moradores-de-campo-grande-com-as-arvores/445290/), 18 mar. 2025. Acesso em 10 out. 2026.

@@ -17,7 +17,7 @@ atualizado: 2026-10-10
 
 Em junho de 2020, a imprensa afirmava que a mostra era promovida havia dez anos e reunia artistas regionais e internacionais para fortalecer a arte do palhaço. O número de edições não aparece na matéria.[^cgn2020]
 
-Em 2024, segundo outra reportagem, a mostra começou como "Risada di Cena", com artistas locais, e depois passou a se chamar Pantalhaços. A edição daquele ano teve encerramento em 2 de junho, no Teatro Aracy Balabanian e no Centro Cultural José Octávio Guizzo, com entrada gratuita e recursos do FIC/MS e da Fundação de Cultura. A programação do último dia incluiu o Circo Os Kaco (Taquaruçu, TO), a argentina Cami Basterra e o espetáculo "Cabaré".[^cgn2024]
+Em 2024, segundo outra reportagem, a mostra começou como "Risada di Cena", com artistas locais, e depois passou a se chamar Pantalhaços. A edição daquele ano teve encerramento em 2 de junho, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]] e no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], com entrada gratuita e recursos do FIC/MS e da Fundação de Cultura. A programação do último dia incluiu o Circo Os Kaco (Taquaruçu, TO), a argentina Cami Basterra e o espetáculo "Cabaré".[^cgn2024]
 
 O artista [[anderson-lima|Anderson Lima]], da Flor e Espinho, é citado como organizador e contou na mesma matéria que a primeira edição, com o título "Risada di Cena", reuniu só artistas locais que queriam estudar palhaçaria. Depois, Flor e Espinho e Circo do Mato deram continuidade e mudaram o nome para Pantalhaços.[^cgn2024]
 

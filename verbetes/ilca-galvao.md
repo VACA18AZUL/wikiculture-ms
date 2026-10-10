@@ -16,7 +16,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Estudou arquitetura na Universidade Federal do Rio de Janeiro nos anos 1960.[^marco30] Sua produção ganhou força nos anos 1980, período em que trabalhou na Fundação de Cultura de Mato Grosso do Sul, recém-criada.[^marco30]
+Estudou arquitetura na Universidade Federal do Rio de Janeiro nos anos 1960.[^marco30] Sua produção ganhou força nos anos 1980, período em que trabalhou na [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], recém-criada.[^marco30]
 
 Participou do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]], criado em 1981, e está entre os participantes fundadores listados pela pesquisa de Renata Rodrigues de Assis.[^assis2013]
 
@@ -26,7 +26,7 @@ Segundo Assis, que se apoia em Rosa (2005), Ilca Galvão foi para Cuiabá na dé
 
 ## Obras
 
-- *Cigana* (2004): Assis a descreve como nanquim sobre gravura, de 24,5 x 35 cm, com insígnias kadiwéu sobre um rosto feminino.[^assis2013b] A galeria digital do site *Unidade Guaicuru Viva* lista uma *Cigana* como serigrafia sobre papel, de 33 x 23 cm. As duas fontes não dizem se são a mesma peça.[^ugmostras]
+- *Cigana* (2004): Assis a descreve como nanquim sobre gravura, de 24,5 x 35 cm, com insígnias kadiwéu sobre um rosto feminino.[^assis2013b] A galeria digital do site *[[unidade-guaicuru-viva|Unidade Guaicuru Viva]]* lista uma *Cigana* como serigrafia sobre papel, de 33 x 23 cm. As duas fontes não dizem se são a mesma peça.[^ugmostras]
 - *Fragmentos de Formas II* (2006), serigrafia sobre papel, 34 x 48 cm.[^ugmostras]
 
 O site *Unidade Guaicuru Viva* diz que ela e outros artistas tiveram influência passageira da iconografia kadiwéu, ao contrário de nomes que seguiram nela de forma contínua.[^ug]

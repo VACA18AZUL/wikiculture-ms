@@ -21,7 +21,7 @@ atualizado: 2026-10-10
 
 Dois textos publicados na revista da Academia Sul-Mato-Grossense de Letras (ASL) dão a data de nascimento: 26 de outubro de 1894, em Goiana, Pernambuco.[^asl15rocha][^suplemento2017] Rocha registra a morte em 15 de março de 1995, em Campo Grande, data também citada por Araújo.[^asl15rocha][^asl15araujo]
 
-Segundo José Couto Vieira Pontes, ele participou na juventude, no Pará, da campanha de Lauro Sodré contra a oligarquia Lemos. De 1911 a 1919, trabalhou com telegrafia.[^suplemento2017] Araújo diz que ele veio para Mato Grosso em 1915, onde se tornou advogado provisionado, promotor e prefeito de Nioaque.[^asl15araujo] Rocha fala em 50 anos de advocacia ativa.[^asl15rocha]
+Segundo [[jose-couto-vieira-pontes|José Couto Vieira Pontes]], ele participou na juventude, no Pará, da campanha de Lauro Sodré contra a oligarquia Lemos. De 1911 a 1919, trabalhou com telegrafia.[^suplemento2017] Araújo diz que ele veio para Mato Grosso em 1915, onde se tornou advogado provisionado, promotor e prefeito de Nioaque.[^asl15araujo] Rocha fala em 50 anos de advocacia ativa.[^asl15rocha]
 
 Segundo um artigo sobre o memorialismo no estado, foi prefeito de Nioaque em 1921 e intendente de Bela Vista em 1923. Foi prefeito de Campo Grande de 1942 a 1945, secretário de Interior, Justiça e Finanças do estado em 1951 e presidiu o diretório regional da UDN em 1962. O mesmo artigo diz que ele conseguiu para Nioaque o primeiro serviço de iluminação da vila e a rodovia Aquidauana–Nioaque–Bela Vista, e que foi redator-chefe do jornal *O Progressista* em 1938.[^bungart2008]
 
@@ -64,7 +64,7 @@ Um estudo sobre a literatura de fronteira atribui a ele o livro *A História de 
 
 - [O memorialismo no Mato Grosso do Sul como testemunho da formação do Estado](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271) — artigo de Paulo Bungart Neto que analisa a obra de memorialistas do estado.
 - [A Figura Emblemática de Demosthenes Martins](https://acletrasms.org.br/wp-content/uploads/2020/01/ASL-SUPLEMENTO-CULTURAL-17-02-25.pdf) — texto de José Couto Vieira Pontes no Suplemento Cultural do *Correio do Estado* (25 fev. 2017), hospedado no site da ASL.
-- [Revista da ASL, n. 15 (dez. 2009)](https://acletrasms.org.br/wp-content/uploads/2021/02/REVISTA-ASL-15.pdf) — traz os perfis de Demosthenes Martins escritos por Guimarães Rocha e Reginaldo Alves de Araújo.
+- [Revista da ASL, n. 15 (dez. 2009)](https://acletrasms.org.br/wp-content/uploads/2021/02/REVISTA-ASL-15.pdf) — traz os perfis de Demosthenes Martins escritos por [[guimaraes-rocha|Guimarães Rocha]] e Reginaldo Alves de Araújo.
 
 [^bungart2008]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do Estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, 2008, p. 77–90. Acesso em 8 out. 2026.
 [^bungart2009]: Paulo Bungart Neto, "O memorialismo no Mato Grosso do Sul como testemunho da formação do estado", em Paulo Sérgio Nolasco dos Santos, [*Literatura e práticas culturais*](https://files.ufgd.edu.br/arquivos/arquivos/78/EDITORA/catalogo/literatura-e-praticas-culturais-nolasco-paulo-org.pdf), Dourados: Editora UFGD, 2009, p. 111–114. Acesso em 10 out. 2026.

@@ -30,7 +30,7 @@ A associação nasceu depois da [[exposicao-pintores-mato-grossenses-1966|primei
 
 Em entrevista publicada no Overmundo em 2006, Aline Figueiredo diz que a AMA funcionou em Campo Grande de 1967 a 1972 e levou artistas como Dalva, [[joao-sebastiao-costa|João Sebastião]], [[clovis-irigaray|Clóvis Irigaray]] e Conceição Freitas da Silva a coletivas no Rio de Janeiro e em São Paulo. Ela cita ainda exposições trazidas a Campo Grande e Cuiabá, entre elas 50 guaches de Di Cavalcanti (1968), "28 artistas das novas gerações" (1968, do acervo do MAC-USP) e uma individual de "Weja Néri" (1969, grafia da entrevista), além de palestras dos críticos Geraldo Ferraz, Walter Zanini e Clarival Valadares.[^overmundo2006]
 
-Espíndola (2004) soma ao grupo [[ilton-silva|Ilton Silva]], Maria Augusta Cambará e, nos anos seguintes, [[conceicao-dos-bugres|Conceição Freitas da Silva]], mãe de Ilton.[^espindola2004] Ele afirma que esses artistas formaram a primeira geração atuante em Campo Grande, que se projetou nacionalmente na virada dos anos 1960 para os 1970.[^espindola2004]
+Espíndola (2004) soma ao grupo [[ilton-silva|Ilton Silva]], [[maria-augusta-cambara|Maria Augusta Cambará]] e, nos anos seguintes, [[conceicao-dos-bugres|Conceição Freitas da Silva]], mãe de Ilton.[^espindola2004] Ele afirma que esses artistas formaram a primeira geração atuante em Campo Grande, que se projetou nacionalmente na virada dos anos 1960 para os 1970.[^espindola2004]
 
 Um texto colaborativo do Overmundo sobre palestra de Espíndola em 2007 situa a "Associação Mato-grossense de Arte" nos anos 1970 e com sede na UFMT, em Cuiabá, o que difere das demais fontes, que a dão como criada em Campo Grande em 1967.[^overmundo2007]
 

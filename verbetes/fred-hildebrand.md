@@ -18,11 +18,11 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Os textos de divulgação publicados pelo Correio do Estado (2023) e pelo Correio de Corumbá (2025) dizem que ele trabalha com quadrinhos e ilustração desde 2008. A Wikipédia em português registra outro ponto de partida: 2005, quando começou a desenhar a série independente em estilo mangá *Patre Primordium*, escrita por Ana Recalde. As duas versões ficam registradas.[^cde2023][^ccp2025][^wpfh]
+Os textos de divulgação publicados pelo Correio do Estado (2023) e pelo Correio de Corumbá (2025) dizem que ele trabalha com quadrinhos e ilustração desde 2008. A Wikipédia em português registra outro ponto de partida: 2005, quando começou a desenhar a série independente em estilo mangá *Patre Primordium*, escrita por [[ana-recalde|Ana Recalde]]. As duas versões ficam registradas.[^cde2023][^ccp2025][^wpfh]
 
-Segundo o Correio do Estado, ele participou de *Patre Primordium* (2009-2012) como desenhista e na criação. Desenhou dois capítulos de *Nanquim Descartável* (2011), roteiro de Daniel Esteves, e fez a arte de *Os Desviantes* (2022), no Almanaque Guará, revista mensal da editora carioca Universo Guará.[^cde2023] A Wikipédia acrescenta que ele foi arte-finalista de *Hansel & Gretel*, mangá steampunk publicado pela NewPOP em 2016.[^wpfh]
+Segundo o Correio do Estado, ele participou de *Patre Primordium* (2009-2012) como desenhista e na criação. Desenhou dois capítulos de *Nanquim Descartável* (2011), roteiro de [[daniel-esteves|Daniel Esteves]], e fez a arte de *Os Desviantes* (2022), no Almanaque Guará, revista mensal da editora carioca Universo Guará.[^cde2023] A Wikipédia acrescenta que ele foi arte-finalista de *Hansel & Gretel*, mangá steampunk publicado pela NewPOP em 2016.[^wpfh]
 
-Faz toda a arte da webcomic *Homem-Grilo*, do roteirista Cadu Simões.[^cde2023] A Wikipédia informa que ele assumiu como desenhista oficial do personagem em 2021 e que a webcomic recebeu o Troféu HQ Mix de melhor web quadrinhos em 2023, a 35ª edição do prêmio.[^wpfh] O texto de divulgação do Correio de Corumbá diz que ele e Cadu Simões venceram nessa categoria no 35º e no 37º Troféu HQ Mix. A Wikipédia só cita a edição de 2023, e este verbete registra a menção à segunda vitória apenas como afirmação daquele texto.[^ccp2025][^wpfh]
+Faz toda a arte da webcomic *Homem-Grilo*, do roteirista [[cadu-simoes|Cadu Simões]].[^cde2023] A Wikipédia informa que ele assumiu como desenhista oficial do personagem em 2021 e que a webcomic recebeu o Troféu HQ Mix de melhor web quadrinhos em 2023, a 35ª edição do prêmio.[^wpfh] O texto de divulgação do Correio de Corumbá diz que ele e Cadu Simões venceram nessa categoria no 35º e no 37º Troféu HQ Mix. A Wikipédia só cita a edição de 2023, e este verbete registra a menção à segunda vitória apenas como afirmação daquele texto.[^ccp2025][^wpfh]
 
 ## Spaceshit
 

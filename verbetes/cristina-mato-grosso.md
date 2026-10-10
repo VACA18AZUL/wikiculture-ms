@@ -18,7 +18,7 @@ atualizado: 2026-10-10
 
 Foi uma das criadoras do GUTAC, o Grupo Teatral Amador Campo Grandense, hoje INECON. O artigo de 2013 descreve seu trabalho como teatro militante e popular. Ela fez doutorado em Teatro na Escola de Comunicações e Artes da USP. O texto não informa os anos de fundação do grupo nem de conclusão do doutorado.[^antares]
 
-Texto da Funarte reproduzido pelo *Jornal do Brasil* em outubro de 2013 informa o nome civil, Maria Cristina Moreira Oliveira, e diz que ela é graduada em Letras, deu aulas em universidades e era então doutoranda em Teatro na ECA/USP. A mesma fonte afirma que, com Américo Calheiros, ela foi sustentáculo do movimento teatral do estado e que o GUTAC, surgido em 1971, ficou conhecido pelo "teatro de resistência" durante a ditadura, sofrendo censura.[^jb] Em entrevista ao Overmundo (2008), o próprio Américo Calheiros diz que criou o GUTAC em 1971 com Cristina Mato Grosso e outros colegas, e que atuou como diretor e produtor do grupo por 16 anos.[^omam] Há divergência entre as fontes sobre o doutorado: o artigo da *Antares* diz que ela o fez, e a Funarte, em 2013, a trata como doutoranda.[^antares][^jb]
+Texto da Funarte reproduzido pelo *Jornal do Brasil* em outubro de 2013 informa o nome civil, Maria Cristina Moreira Oliveira, e diz que ela é graduada em Letras, deu aulas em universidades e era então doutoranda em Teatro na ECA/USP. A mesma fonte afirma que, com [[americo-calheiros|Américo Calheiros]], ela foi sustentáculo do movimento teatral do estado e que o GUTAC, surgido em 1971, ficou conhecido pelo "teatro de resistência" durante a ditadura, sofrendo censura.[^jb] Em entrevista ao Overmundo (2008), o próprio Américo Calheiros diz que criou o GUTAC em 1971 com Cristina Mato Grosso e outros colegas, e que atuou como diretor e produtor do grupo por 16 anos.[^omam] Há divergência entre as fontes sobre o doutorado: o artigo da *Antares* diz que ela o fez, e a Funarte, em 2013, a trata como doutoranda.[^antares][^jb]
 
 Outro artigo de 2013 a descreve como intelectual dramaturga que se posiciona sobre a função social do teatro.[^raido]
 
@@ -28,7 +28,7 @@ O artigo de 2013 data a peça de 1979. Ele a descreve como um ato com quinze cen
 
 Um trabalho apresentado em 2018 na UEMS situa o texto em "meados da década de 1970", sem citar 1979. Ele analisa as personagens femininas da peça, cuja protagonista é Maria.[^mathias] As fontes divergem quanto à data.[^antares][^mathias]
 
-A Funarte registra que *Foi no belo Sul Mato Grosso* e *Contramão* foram censuradas durante a ditadura e que a primeira é considerada por muitos um divisor de águas no teatro da região.[^jb] Uma foto publicada com a entrevista de Américo Calheiros no Overmundo legenda a peça como texto de Cristina Mato Grosso com direção dele.[^omam]
+A Funarte registra que *[[foi-no-belo-sul-mato-grosso|Foi no belo Sul Mato Grosso]]* e *Contramão* foram censuradas durante a ditadura e que a primeira é considerada por muitos um divisor de águas no teatro da região.[^jb] Uma foto publicada com a entrevista de Américo Calheiros no Overmundo legenda a peça como texto de Cristina Mato Grosso com direção dele.[^omam]
 
 ## Outras peças e prêmios
 

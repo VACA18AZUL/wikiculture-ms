@@ -17,7 +17,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-A exposição, intitulada "Primeira Exposição de Pinturas dos Artistas Mato-grossenses", ocorreu em outubro de 1966 no Rádio Clube, com artistas de Cuiabá, Campo Grande e cidades do sul do estado. Foi organizada por [[aline-figueiredo|Aline Figueiredo]] e [[adelaide-vieira|Adelaide Vieira]], com apoio de [[humberto-espindola|Humberto Espíndola]]. Reginaldo Araújo está na lista de participantes reunida por Assis a partir de Aline Figueiredo (1979).[^assis2013] Veja [[exposicao-pintores-mato-grossenses-1966|o verbete da mostra]].
+A exposição, intitulada "Primeira Exposição de Pinturas dos Artistas Mato-grossenses", ocorreu em outubro de 1966 no [[radio-clube-campo-grande|Rádio Clube]], com artistas de Cuiabá, Campo Grande e cidades do sul do estado. Foi organizada por [[aline-figueiredo|Aline Figueiredo]] e [[adelaide-vieira|Adelaide Vieira]], com apoio de [[humberto-espindola|Humberto Espíndola]]. Reginaldo Araújo está na lista de participantes reunida por Assis a partir de Aline Figueiredo (1979).[^assis2013] Veja [[exposicao-pintores-mato-grossenses-1966|o verbete da mostra]].
 
 Humberto Espíndola, em texto de 2004 para a sala de exposição permanente do [[marco|MARCO]], chama Reginaldo de "grande revelação" de Campo Grande na mostra e o descreve como pintor e minucioso desenhista a bico de pena. Diz que a morte precoce privou a arte do estado de um trabalho original.[^espindola2004]
 

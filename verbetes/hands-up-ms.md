@@ -19,7 +19,7 @@ atualizado: 2026-10-10
 
 Segundo uma reportagem de 2017, o dançarino Eduardo Kon Zaion, de Brasília, esteve em Campo Grande em janeiro daquele ano e criou, com dançarinos locais, a House of Hands Up MS, casa irmã da House of Hands Up original. Em outubro, ministrou aula de vogue durante o Big Field Crew, na Unigran, para cerca de 60 pessoas, seguida de uma festa Vogue Ball.[^cgn2017]
 
-Em 2020, o grupo tinha 11 integrantes e era dirigido por Roger Pacheco. Ensaiava aos domingos em espaço cedido pelo Ballet Isadora Duncan. O coletivo House of HandsUp, fundado em 2011 pela dançarina que apadrinhou o grupo, é outra entidade.[^cgn2020]
+Em 2020, o grupo tinha 11 integrantes e era dirigido por [[roger-pacheco|Roger Pacheco]]. Ensaiava aos domingos em espaço cedido pelo [[ballet-isadora-duncan|Ballet Isadora Duncan]]. O coletivo House of HandsUp, fundado em 2011 pela dançarina que apadrinhou o grupo, é outra entidade.[^cgn2020]
 
 Em 2026, a House of Hands Up MS foi selecionada para o Palco Giratório do Sesc, com o espetáculo *Peça Única*, que une vogue, moda e performance para tratar de beleza, identidade e organização de um coletivo. Segundo *O Estado Online*, foi a primeira house de vogue do país escolhida para o circuito e *Peça Única* foi o primeiro espetáculo do coletivo. Roger Pacheco, apresentado como "mother" da casa, afirma que o estado entrou na rota da cena Ballroom nacional cerca de dois anos antes.[^oe2026]
 

@@ -25,13 +25,13 @@ Em 2024, tocou ao vivo em *O bem-amado*, do grupo [[fulano-di-tal|Fulano di Tal]
 
 O portfólio do grupo, divulgado no cadastro do TGR nos Mapas da Cultura (documento de 28 de junho de 2024), registra a participação dele em vários espetáculos. Na ficha de *Princesa engasgada* (montagem de 2015), assina a música. Em *Guardiões* é técnico de som e projeção. Em *Mito do Mato* (2014-2018, espetáculo de rua) integra o elenco e faz a preparação de voz. Em *Revolução* (2017-2021, adaptação de texto de Augusto Boal) e em *Do jeito que é hoje em dia* (2021, sobre prevenção de IST/aids) atua e é responsável pela trilha sonora ou pela preparação musical.[^portf]
 
-Em *Tesoura* (2023), o portfólio confirma a direção e a trilha sonora de Ewerton Goulart e dá o texto a [[yago-garcia|Yago Garcia]], que também atua ao lado de Fábio Umeda.[^portf] A matéria do *Correio do Estado* de abril de 2023 traz a mesma divisão de funções e informa que a montagem integrava o projeto "Depois do Fim do Mundo", aprovado no edital Fomteatro, de Campo Grande, e marcava os 35 anos do grupo.[^ce2023]
+Em *Tesoura* (2023), o portfólio confirma a direção e a trilha sonora de Ewerton Goulart e dá o texto a [[yago-garcia|Yago Garcia]], que também atua ao lado de [[fabio-umeda|Fábio Umeda]].[^portf] A matéria do *Correio do Estado* de abril de 2023 traz a mesma divisão de funções e informa que a montagem integrava o projeto "Depois do Fim do Mundo", aprovado no edital Fomteatro, de Campo Grande, e marcava os 35 anos do grupo.[^ce2023]
 
 Em *Circo do Absurdo* (2023), trilogia com direção de Yago Garcia, ele está no elenco e é apontado como autor do texto original.[^portf]
 
 ## Outros trabalhos
 
-Matéria de fevereiro de 2023 diz que as composições da trilha de *A fabulosa história do Guri-Árvore*, do [[fulano-di-tal|Fulano di Tal]], foram feitas especialmente para o espetáculo pelo músico e ator Ewerton Goulart.[^ce2023g] Matéria de janeiro de 2023 sobre o solo *Eu preciso que vocês me escutem*, de [[andre-tristao|André Tristão]], lista textos de Ewerton Goulart, ao lado de Giordano Castro e Raquel Naveira, e a preparação vocal sob sua responsabilidade.[^dd2023]
+Matéria de fevereiro de 2023 diz que as composições da trilha de *A fabulosa história do Guri-Árvore*, do [[fulano-di-tal|Fulano di Tal]], foram feitas especialmente para o espetáculo pelo músico e ator Ewerton Goulart.[^ce2023g] Matéria de janeiro de 2023 sobre o solo *Eu preciso que vocês me escutem*, de [[andre-tristao|André Tristão]], lista textos de Ewerton Goulart, ao lado de Giordano Castro e [[raquel-naveira|Raquel Naveira]], e a preparação vocal sob sua responsabilidade.[^dd2023]
 
 ## Obras
 

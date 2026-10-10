@@ -23,7 +23,7 @@ Uma nota biográfica publicada na revista da Academia Sul-Mato-Grossense de Letr
 
 ## Academia Sul-Mato-Grossense de Letras
 
-Ocupa a cadeira 20 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], cujo patrono, segundo a lista de cadeiras do site da academia, é o Visconde de Taunay. O antecessor indicado é Otávio Gonçalves Gomes.[^aslcad] A revista da academia de dezembro de 2010 traz um texto seu.[^asl18]
+Ocupa a cadeira 20 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], cujo patrono, segundo a lista de cadeiras do site da academia, é o Visconde de Taunay. O antecessor indicado é [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]].[^aslcad] A revista da academia de dezembro de 2010 traz um texto seu.[^asl18]
 
 ## Coordenação de eventos
 

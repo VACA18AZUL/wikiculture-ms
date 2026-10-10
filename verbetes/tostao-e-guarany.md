@@ -17,7 +17,7 @@ atualizado: 2026-10-10
 
 Segundo a Rádio Senado, a dupla nasceu de um trio e é descrita como uma das mais representativas da música de raiz.[^senado]
 
-A Fundação de Cultura de MS, em 2018, diz que a dupla se formou no final de 1982 e que gravou em 1982 o primeiro compacto duplo.[^fasp] A Rádio Senado, em 2020, e o Campo Grande News, em 2013, dizem que a dupla está em atividade desde 1983.[^senado][^cgn]
+A [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], em 2018, diz que a dupla se formou no final de 1982 e que gravou em 1982 o primeiro compacto duplo.[^fasp] A Rádio Senado, em 2020, e o Campo Grande News, em 2013, dizem que a dupla está em atividade desde 1983.[^senado][^cgn]
 
 Segundo a reportagem de 2013, Tostão já tinha estreado em dupla com [[aurelio-miranda|Aurélio Miranda]] antes de cantar com Guarany, o que aconteceu em 1983.[^cgn]
 
@@ -29,7 +29,7 @@ Segundo a mesma matéria, a dupla recusou convites para mudar de estilo e seguir
 
 A Rádio Senado cita apresentações com Tonico e Tinoco, Milionário e José Rico e Trio Parada Dura.[^senado]
 
-No livro *Os Pioneiros*, de Rodrigo Teixeira, Tostão relata que começou a cantar por volta de 1977 com o cantor Aurélio Miranda, na dupla Cruzeiro e Tostão, e que o primeiro disco, *Os Rouxinóis do Brasil* (1978, Califórnia, produção de Mário Vieira), foi gravado com o apoio de Delinha, da dupla [[delio-e-delinha|Délio e Delinha]]. Em 1979, a dupla virou trio com o sanfoneiro João Silvestre da Silva, o Centavo, e venceu o primeiro Festão (festival de música realizado em Campo Grande, em 26 de agosto de 1979) com "Estrada de Chão", de Aurélio Miranda. O LP *Estrada de Chão* saiu pela Chantecler em 1979.[^pio]
+No livro *[[os-pioneiros|Os Pioneiros]]*, de [[rodrigo-teixeira|Rodrigo Teixeira]], Tostão relata que começou a cantar por volta de 1977 com o cantor Aurélio Miranda, na dupla [[cruzeiro-e-tostao|Cruzeiro e Tostão]], e que o primeiro disco, *Os Rouxinóis do Brasil* (1978, Califórnia, produção de [[mario-vieira|Mário Vieira]]), foi gravado com o apoio de Delinha, da dupla [[delio-e-delinha|Délio e Delinha]]. Em 1979, a dupla virou trio com o sanfoneiro [[joao-silvestre-da-silva|João Silvestre da Silva]], o Centavo, e venceu o primeiro Festão (festival de música realizado em Campo Grande, em 26 de agosto de 1979) com "Estrada de Chão", de Aurélio Miranda. O LP *Estrada de Chão* saiu pela Chantecler em 1979.[^pio]
 
 Segundo o mesmo depoimento, Centavo foi tocar com Léo Canhoto, e o trio passou a se chamar Cruzeiro, Tostão e Guarany, com o acordeonista Orlei no lugar. Esse trio venceu o segundo Festão com "Fogo Humano". A formação terminou em 1982, segundo Tostão, depois de desentendimentos com a gravadora.[^pio] Esta versão se refere a um primeiro "Guarany", Orlei, e não ao Guarany da dupla atual.
 

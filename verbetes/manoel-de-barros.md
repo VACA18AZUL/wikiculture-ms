@@ -54,7 +54,7 @@ Segundo a Wikipédia, ele recebeu ainda o prêmio Jacaré de Prata da Secretaria
 
 ## Na tela
 
-O filme *Caramujo Flor* (1988), de [[joel-pizzini|Joel Pizzini]], faz um itinerário da poesia de Manoel de Barros com fragmentos sonoros e visuais e foi exibido pela TVE Regional em 1989. Outro documentário, *O poeta é um ente que lambe as palavras e se alucina*, de Arlindo Fernandez, venceu a primeira edição do DocTV e foi gravado em Corumbá, Campo Grande e Rio de Janeiro. Ambos entraram na programação especial dos 90 anos do poeta, em dezembro de 2006, segundo texto colaborativo do Overmundo.[^tve] Veja também [[manual-de-barros-retrato-do-poeta-quando-coisa|Manual de Barros: Retrato do poeta quando coisa]].[^tve]
+O filme *Caramujo Flor* (1988), de [[joel-pizzini|Joel Pizzini]], faz um itinerário da poesia de Manoel de Barros com fragmentos sonoros e visuais e foi exibido pela TVE Regional em 1989. Outro documentário, *O poeta é um ente que lambe as palavras e se alucina*, de [[arlindo-fernandez|Arlindo Fernandez]], venceu a primeira edição do DocTV e foi gravado em Corumbá, Campo Grande e Rio de Janeiro. Ambos entraram na programação especial dos 90 anos do poeta, em dezembro de 2006, segundo texto colaborativo do Overmundo.[^tve] Veja também [[manual-de-barros-retrato-do-poeta-quando-coisa|Manual de Barros: Retrato do poeta quando coisa]].[^tve]
 
 ## Para saber mais
 

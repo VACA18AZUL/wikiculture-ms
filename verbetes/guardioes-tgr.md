@@ -17,9 +17,9 @@ atualizado: 2026-10-10
 
 ## Montagem
 
-A dramaturgia é de Lu Bigattão e se baseia em pesquisas, depoimentos e documentários sobre o Pantanal. A direção é creditada a Roma Román, embora o estudo descreva o processo como colaborativo.[^borioli][^boca]
+A dramaturgia é de [[lu-bigattao|Lu Bigattão]] e se baseia em pesquisas, depoimentos e documentários sobre o Pantanal. A direção é creditada a Roma Román, embora o estudo descreva o processo como colaborativo.[^borioli][^boca]
 
-O elenco tem três atores: André Tristão, Fernanda Kunzler e Yago Garcia.[^borioli][^boca]
+O elenco tem três atores: [[andre-tristao|André Tristão]], [[fernanda-kunzler|Fernanda Kunzler]] e [[yago-garcia|Yago Garcia]].[^borioli][^boca]
 
 O nome do autor aparece grafado de duas formas: "Bigattão" no estudo de 2017 e "Bigatão" no folheto da mostra Boca de Cena.[^borioli][^boca]
 
@@ -31,7 +31,7 @@ O portfólio do grupo, de junho de 2024, indica "2014/2015 - 2021" e diz que o t
 
 ## Ficha técnica
 
-Segundo o portfólio do grupo, a direção é de Roma Román e a dramaturgia, de Lú Bigattão. A produção é de Fernanda Kunzler, a cenografia de Márcia Gomes, o vídeo cenário de Maíra Espindola e Rafael Mareco e as ilustrações de [[ruben-dario-roman-anez|Rubén Dario Román Añez]]. Anderson Lima assina a iluminação, Fábio Umeda é técnico de iluminação e Ewerton Goulart cuida do som e da projeção.[^portfolio]
+Segundo o portfólio do grupo, a direção é de Roma Román e a dramaturgia, de Lú Bigattão. A produção é de Fernanda Kunzler, a cenografia de Márcia Gomes, o vídeo cenário de Maíra Espindola e Rafael Mareco e as ilustrações de [[ruben-dario-roman-anez|Rubén Dario Román Añez]]. [[anderson-lima|Anderson Lima]] assina a iluminação, [[fabio-umeda|Fábio Umeda]] é técnico de iluminação e [[ewerton-goulart|Ewerton Goulart]] cuida do som e da projeção.[^portfolio]
 
 ## Encenação
 

@@ -20,13 +20,13 @@ Uma nota de 2006 o chamou de um dos maiores talentos das artes plásticas sul-ma
 
 Outra dissertação lista um artista chamado Ilton Silva na exposição de 1966 e, mais adiante, entre os que retrataram os guarani-kaiowá. A fonte não permite confirmar se é a mesma pessoa.[^assis]
 
-Em relato publicado no Overmundo em 2007, Humberto Espíndola citou Ilton Silva entre os 17 artistas da primeira exposição de pintores mato-grossenses, em Campo Grande, em 1966. Em entrevista do mesmo ano, também o incluiu no grupo de artistas que, antes da divisão do estado, formavam o núcleo de Campo Grande, ao lado de Jorapimo e do próprio Espíndola.[^omcuriosidades][^omboi] Os dois textos não dizem que se trata do filho de Conceição dos Bugres, mas confirmam que um artista com esse nome já atuava em 1966. Outro texto do Overmundo, de 2007, chama Ilton de "o outro filho de Conceição" e artista plástico.[^ommariano]
+Em relato publicado no Overmundo em 2007, [[humberto-espindola|Humberto Espíndola]] citou Ilton Silva entre os 17 artistas da primeira exposição de pintores mato-grossenses, em Campo Grande, em 1966. Em entrevista do mesmo ano, também o incluiu no grupo de artistas que, antes da divisão do estado, formavam o núcleo de Campo Grande, ao lado de Jorapimo e do próprio Espíndola.[^omcuriosidades][^omboi] Os dois textos não dizem que se trata do filho de Conceição dos Bugres, mas confirmam que um artista com esse nome já atuava em 1966. Outro texto do Overmundo, de 2007, chama Ilton de "o outro filho de Conceição" e artista plástico.[^ommariano]
 
 A Wikipédia em português registra, no verbete de Conceição dos Bugres, que Ilton apresentou o trabalho da mãe a Humberto Espíndola e a [[aline-figueiredo|Aline Figueiredo]] na década de 1960 e que continuou a produção dos bugres depois da morte dela.[^wikicb]
 
 ## Exposições
 
-Um texto colaborativo do Overmundo, de 15 de maio de 2006, anunciou que o Festival América do Sul, em Corumbá, teria a mostra "Introdução à História do Modernismo na Fronteira Extrema do Centro-Oeste Brasileiro – Mato Grosso e Mato Grosso do Sul". Entre os artistas com obras previstas estavam Ilton Silva, Jorapimo, João Sebastião Costa, Clóvis Irigaray, Conceição dos Bugres e Dalva de Barros.[^omfas]
+Um texto colaborativo do Overmundo, de 15 de maio de 2006, anunciou que o Festival América do Sul, em Corumbá, teria a mostra "Introdução à História do Modernismo na Fronteira Extrema do Centro-Oeste Brasileiro – Mato Grosso e Mato Grosso do Sul". Entre os artistas com obras previstas estavam Ilton Silva, Jorapimo, [[joao-sebastiao-costa|João Sebastião]] Costa, [[clovis-irigaray|Clóvis Irigaray]], Conceição dos Bugres e Dalva de Barros.[^omfas]
 
 ## Obra
 

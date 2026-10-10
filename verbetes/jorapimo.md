@@ -23,7 +23,7 @@ Participou da Primeira Exposição de Pinturas dos Artistas Mato-grossenses, em 
 
 ## Exposições e reconhecimento
 
-Em 1966, participou da primeira exposição de artistas mato-grossenses, no Rádio Clube, em Campo Grande (veja [[exposicao-pintores-mato-grossenses-1966|a mostra]]). Segundo o Overmundo, a exposição reuniu 17 artistas e deu o primeiro prêmio a [[reginaldo-araujo|Reginaldo Araújo]], o segundo a Jorapimo e o terceiro a Dalva Barros; a Wikipédia em português também o registra entre os premiados.[^om][^wiki] A Enciclopédia Itaú Cultural lista a mostra em sua cronologia.[^itau]
+Em 1966, participou da primeira exposição de artistas mato-grossenses, no [[radio-clube-campo-grande|Rádio Clube]], em Campo Grande (veja [[exposicao-pintores-mato-grossenses-1966|a mostra]]). Segundo o Overmundo, a exposição reuniu 17 artistas e deu o primeiro prêmio a [[reginaldo-araujo|Reginaldo Araújo]], o segundo a Jorapimo e o terceiro a Dalva Barros; a Wikipédia em português também o registra entre os premiados.[^om][^wiki] A Enciclopédia Itaú Cultural lista a mostra em sua cronologia.[^itau]
 
 Em 1968, esteve em São Paulo, na Galeria do Cine Belas Artes, com a mostra "5 Artistas de Mato Grosso", ao lado de [[humberto-espindola|Humberto Espíndola]], [[clovis-irigaray|Clóvis Irigaray]], [[ilton-silva|Ilton Silva]] e [[adelaide-vieira|Adelaide Vieira]].[^diogo] A Itaú Cultural registra ainda a coletiva "Artistas de Mato Grosso do Sul" (1981), uma individual (30 de agosto a 21 de setembro de 1984), a mostra "Panorama – 30 Anos da Divisão do Estado", no [[marco|MARCO]] (2007), e "A Arte de Colecionar-te" (2009).[^itau]
 

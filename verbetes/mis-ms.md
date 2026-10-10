@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-O **Museu da Imagem e do Som de Mato Grosso do Sul** (MIS-MS) é um museu vinculado à Fundação de Cultura de Mato Grosso do Sul (FCMS), em Campo Grande.[^cgn2025][^cgn2014]
+O **Museu da Imagem e do Som de Mato Grosso do Sul** (MIS-MS) é um museu vinculado à [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] (FCMS), em Campo Grande.[^cgn2025][^cgn2014]
 
 ## Acervo e atividades
 
@@ -33,13 +33,13 @@ A programação de 2026 integra o projeto Rota Cine MS, da FCMS com o Instituto 
 
 As matérias de 2025 e 2026 não informam a data de criação do museu. A Prefeitura de Campo Grande, em página de turismo, diz que ele foi criado em 9 de dezembro de 1997 e instalado primeiro no Palácio Popular da Cultura, no Parque dos Poderes, hoje Centro de Convenções Rubens Gil de Camilo. Segundo a mesma página, hoje funciona no prédio da Fundação de Cultura.[^pmcg]
 
-Um texto de 2007 assinado pelos Amigos do MIS-MS no Overmundo, plataforma colaborativa, acrescenta que o museu foi criado pela lei n. 1.793 e inaugurado em 28 de dezembro de 1998, no subsolo do Palácio Popular da Cultura, abrindo ao público em janeiro de 1999. Em 2000, mudou-se para a avenida Afonso Pena, em frente à praça do Rádio Clube, e reabriu em 18 de maio, Dia Internacional dos Museus, depois de cinco meses fechado.[^om2007a] O mesmo texto tem uma incongruência interna sobre o mês da mudança (janeiro de 2000, mas funcionamento no palácio "até dezembro de 2000"), por isso o mês não é dado aqui.[^om2007a]
+Um texto de 2007 assinado pelos Amigos do MIS-MS no Overmundo, plataforma colaborativa, acrescenta que o museu foi criado pela lei n. 1.793 e inaugurado em 28 de dezembro de 1998, no subsolo do Palácio Popular da Cultura, abrindo ao público em janeiro de 1999. Em 2000, mudou-se para a avenida Afonso Pena, em frente à praça do [[radio-clube-campo-grande|Rádio Clube]], e reabriu em 18 de maio, Dia Internacional dos Museus, depois de cinco meses fechado.[^om2007a] O mesmo texto tem uma incongruência interna sobre o mês da mudança (janeiro de 2000, mas funcionamento no palácio "até dezembro de 2000"), por isso o mês não é dado aqui.[^om2007a]
 
 Outro texto dos Amigos do MIS-MS atribui a idealização do museu à professora [[idara-duncan|Idara Duncan]], então secretária de Cultura. Segundo o relato, o projeto foi enviado ao Ministério da Cultura em 1996, e o governo federal arcou com 90% do valor e o estadual com 10%.[^om2007b]
 
 ## Acervo e programas em anos anteriores
 
-Em 2006, um verbete do guia do Overmundo, assinado por Rodrigo Teixeira, falava em acervo de 5 mil peças, entre LPs, CDs, fitas VHS, fotografias, livros, documentários e filmes em 16 mm, e citava o curta *Caramujo-Flor*, de [[joel-pizzini|Joel Pizzini]], entre as raridades.[^om2006] A matéria de dezembro de 2025 fala em mais de 108 mil itens, e a página da Prefeitura, sem data, em mais de 170 mil. Os números não são comparáveis sem a data e o critério de contagem de cada fonte.[^cgn2025][^pmcg]
+Em 2006, um verbete do guia do Overmundo, assinado por [[rodrigo-teixeira|Rodrigo Teixeira]], falava em acervo de 5 mil peças, entre LPs, CDs, fitas VHS, fotografias, livros, documentários e filmes em 16 mm, e citava o curta *Caramujo-Flor*, de [[joel-pizzini|Joel Pizzini]], entre as raridades.[^om2006] A matéria de dezembro de 2025 fala em mais de 108 mil itens, e a página da Prefeitura, sem data, em mais de 170 mil. Os números não são comparáveis sem a data e o critério de contagem de cada fonte.[^cgn2025][^pmcg]
 
 Em 2007, a agenda do museu incluía os projetos Cinema no Museu, Cultura em Situação e Amplificadores de Cultura, com exibições, palestras e cursos.[^om2007a][^om2007b] Em maio de 2008, o Overmundo noticiou que o projeto Memória Fonográfica de Mato Grosso do Sul, idealizado por Carlos Luz, havia digitalizado cerca de 8 mil músicas, com discografia de artistas do estado desde 1950, e que o banco de dados ficaria disponível para consulta no MIS.[^om2008]
 

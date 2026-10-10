@@ -16,18 +16,18 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Em 2023, foi uma das 12 intérpretes-criadoras de *Cavucada – a festa não será amanhã*, espetáculo da companhia dirigido por Jorge Alencar e Neto Machado. O elenco reúne experiências que vão do hip hop à dança contemporânea, passando por vogue e danças sensuais de empoderamento feminino.[^cgn2023]
+Em 2023, foi uma das 12 intérpretes-criadoras de *[[cavucada|Cavucada – a festa não será amanhã]]*, espetáculo da companhia dirigido por Jorge Alencar e Neto Machado. O elenco reúne experiências que vão do hip hop à dança contemporânea, passando por vogue e danças sensuais de empoderamento feminino.[^cgn2023]
 
 Segundo a divulgação do solo *Código Genético*, é intérprete-criadora da Cia Dançurbana desde 2006 e integra também os coletivos Trio AYA, FEMME CREW e DHALLCREW.[^dd2026]
 
 Também em 2023, foi uma das seis bailarinas retratadas no trabalho de conclusão de curso *A diversidade em fotovídeo*, de Larissa Adami da Silva, sobre corpos femininos nos estilos de dança em Campo Grande. A autora fotografou apresentações no Sesc Cultura, em 5 de outubro, e no Ponto Bar, em 27 e 28 de outubro, e gravou uma entrevista com ela. Nela, a bailarina diz sentir-se outra pessoa no palco e relaciona isso à autoconfiança.[^ufms2023]
 
-Em 2025, integrou o elenco de *K-zuu*, espetáculo da Dançurbana para crianças de 0 a 7 anos, com Maura Menezes e Rose Mendonça, e o de *R.U.I.A – Realidade Ultrassônica de Invasão Aleatória*, para crianças de 7 a 14 anos. Os dois circularam por escolas de Três Lagoas, Dourados e Campo Grande no projeto Circula Dançurbana IV.[^ce2025][^cgn2025]
+Em 2025, integrou o elenco de *K-zuu*, espetáculo da Dançurbana para crianças de 0 a 7 anos, com Maura Menezes e [[rose-mendonca|Rose Mendonça]], e o de *R.U.I.A – Realidade Ultrassônica de Invasão Aleatória*, para crianças de 7 a 14 anos. Os dois circularam por escolas de Três Lagoas, Dourados e Campo Grande no projeto Circula Dançurbana IV.[^ce2025][^cgn2025]
 
 ## Obras
 
 - *A Pele de Dentro*, solo criado em 2020.[^dd2026]
-- *Código Genético*, solo do projeto *EntreLaçadas*, que se vale do afrofuturismo e da dramaturgia negra. O processo de criação começou em 2023, com direção da paulista Munique Costa. Foi apresentado em 6 de março de 2026, no Sesc Teatro Prosa, em Campo Grande, com entrada gratuita. A ficha técnica inclui trilha sonora de [[reginaldo-borges|Reginaldo Borges]] e produção executiva de [[marcos-mattos|Marcos Mattos]]. O projeto teve apoio do Fundo Municipal de Investimentos Culturais.[^dd2026]
+- *Código Genético*, solo do projeto *EntreLaçadas*, que se vale do afrofuturismo e da dramaturgia negra. O processo de criação começou em 2023, com direção da paulista [[munique-costa|Munique Costa]]. Foi apresentado em 6 de março de 2026, no Sesc Teatro Prosa, em Campo Grande, com entrada gratuita. A ficha técnica inclui trilha sonora de [[reginaldo-borges|Reginaldo Borges]] e produção executiva de [[marcos-mattos|Marcos Mattos]]. O projeto teve apoio do Fundo Municipal de Investimentos Culturais.[^dd2026]
 - Oficina "Vivência sobre o processo", dada em 5 de março de 2026 na Escola Estadual Zumbi dos Palmares, na comunidade quilombola Furnas do Dionísio, em Jaraguari. Misturou danças urbanas, dancehall e danças africanas.[^dd2026]
 
 [^cgn2023]: Thailla Torres, ["Cia Dançurbana celebra 20 anos com espetáculo-festa Cavucada"](https://www.campograndenews.com.br/lado-b/diversao/cia-dancurbana-celebra-20-anos-com-espetaculo-festa-cavucada), *Campo Grande News*, 3 mai. 2023. Acesso em 8 out. 2026.

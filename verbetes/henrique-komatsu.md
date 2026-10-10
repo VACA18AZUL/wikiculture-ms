@@ -34,7 +34,7 @@ Há divergência quanto ao ano. A reportagem do *Campo Grande News* de abril de 
 
 ## Avuá Edições
 
-A [[avua-edicoes|Avuá Edições]] foi criada por Fabio Quill e pela preparadora de textos Mayara Dempsey para estimular a literatura de Mato Grosso do Sul. Seu primeiro título foi *A Ausente Ordem das Coisas*, com 120 páginas coloridas.[^cgn2023hq][^correio] A obra teve financiamento do Fundo de Investimentos Culturais de MS (FIC/MS), e 210 exemplares foram destinados a professores e bibliotecas da rede estadual.[^cgn2023hq][^correio]
+A [[avua-edicoes|Avuá Edições]] foi criada por Fabio Quill e pela preparadora de textos [[mayara-dempsey|Mayara Dempsey]] para estimular a literatura de Mato Grosso do Sul. Seu primeiro título foi *A Ausente Ordem das Coisas*, com 120 páginas coloridas.[^cgn2023hq][^correio] A obra teve financiamento do Fundo de Investimentos Culturais de MS (FIC/MS), e 210 exemplares foram destinados a professores e bibliotecas da rede estadual.[^cgn2023hq][^correio]
 
 ## Para saber mais
 

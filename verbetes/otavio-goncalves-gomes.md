@@ -13,23 +13,23 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**Otávio Gonçalves Gomes** é um escritor de Mato Grosso do Sul, autor do livro *Onde cantam as seriemas* e coautor da letra do Hino de Mato Grosso do Sul.[^ervais][^philologus][^hinowp]
+**Otávio Gonçalves Gomes** é um escritor de Mato Grosso do Sul, autor do livro *Onde cantam as seriemas* e coautor da letra do [[hino-de-mato-grosso-do-sul|Hino de Mato Grosso do Sul]].[^ervais][^philologus][^hinowp]
 
 ## Trajetória
 
 Segundo texto do *Rio Pardo News*, ele viveu a infância, a adolescência e parte da vida adulta em Ribas do Rio Pardo e se mudou para Campo Grande por volta de 1930.[^rpn1] O mesmo veículo diz que ele escreveu a letra do hino do município de Ribas do Rio Pardo, já morando em Campo Grande.[^rpn1]
 
-Na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL), consta da relação original de nomes aprovada em 13 de novembro de 1971, ao lado de Ulisses Serra, José Couto Vieira Pontes e outros.[^rasl24] Presidiu a academia de 1982 a 1985, entre as gestões de [[jose-couto-vieira-pontes|José Couto Vieira Pontes]] e de J. Barbosa Rodrigues. Na presidência dele, o brasão da casa foi alterado: 14 das 54 estrelas saíram, ficando 40, o número de cadeiras, e entrou o lema *Litterarum Lumen*, por sugestão de [[hildebrando-campestrini|Hildebrando Campestrini]].[^aslh] O site da ASL o lista como antecessor do atual titular da cadeira 20.[^aslcad]
+Na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL), consta da relação original de nomes aprovada em 13 de novembro de 1971, ao lado de [[ulisses-serra|Ulisses Serra]], José Couto Vieira Pontes e outros.[^rasl24] Presidiu a academia de 1982 a 1985, entre as gestões de [[jose-couto-vieira-pontes|José Couto Vieira Pontes]] e de J. Barbosa Rodrigues. Na presidência dele, o brasão da casa foi alterado: 14 das 54 estrelas saíram, ficando 40, o número de cadeiras, e entrou o lema *Litterarum Lumen*, por sugestão de [[hildebrando-campestrini|Hildebrando Campestrini]].[^aslh] O site da ASL o lista como antecessor do atual titular da cadeira 20.[^aslcad]
 
 Em 2013, a antologia de memorialistas organizada por Alexandra Santos Pinheiro e Paulo Bungart Neto o incluiu entre dez escritores do estado. No prefácio, Brígido Ibanhes descreve o percurso do autor pelo sul do estado, seguindo caminhos ligados aos hinos de Ribas do Rio Pardo e de Mato Grosso do Sul.[^ervais] Ver [[brigido-ibanhes|Brígido Ibanhes]].
 
 Um estudo de 2021 o inclui entre os poetas de Campo Grande e discute *Onde cantam as seriemas* a partir de um trabalho de Paulo Bungart Neto, de 2008, sobre o regionalismo na obra memorialística do autor.[^philologus]
 
-Um artigo de 2015 sobre a memorialista Raquel Naveira cita um trabalho dele, de 1982, sobre a poesia de Mato Grosso do Sul, ao tratar dos debates culturais do estado.[^moncoes]
+Um artigo de 2015 sobre a memorialista [[raquel-naveira|Raquel Naveira]] cita um trabalho dele, de 1982, sobre a poesia de Mato Grosso do Sul, ao tratar dos debates culturais do estado.[^moncoes]
 
 ## Hino de Mato Grosso do Sul
 
-A Wikipédia em português e o *Rio Pardo News* atribuem a letra do Hino de Mato Grosso do Sul a Jorge Antônio Siufi e Otávio Gonçalves Gomes, com música de Radamés Gnattali. O hino foi instituído por decreto de 1º de janeiro de 1979.[^hinowp][^rpn2] A *Revista da ASL* de 2013 diz, no perfil de Siufi, que ele compôs a letra com Otávio Gomes na instalação do governo do estado.[^rasl24b]
+A Wikipédia em português e o *Rio Pardo News* atribuem a letra do Hino de Mato Grosso do Sul a [[jorge-antonio-siufi|Jorge Antônio Siufi]] e Otávio Gonçalves Gomes, com música de Radamés Gnattali. O hino foi instituído por decreto de 1º de janeiro de 1979.[^hinowp][^rpn2] A *Revista da ASL* de 2013 diz, no perfil de Siufi, que ele compôs a letra com Otávio Gomes na instalação do governo do estado.[^rasl24b]
 
 O *JD1 Notícias* informou em 8 de outubro de 2026 que o Arquivo Público Estadual localizou 92 propostas do concurso de 1978 para o hino. Segundo a reportagem, a Funarte rejeitou o concurso em dezembro de 1978, e uma nova música foi encomendada, a partir da qual se construiu o hino oficial. Uma filha do autor, ouvida pela reportagem, disse que a letra foi escrita por ele a partir dessa melodia.[^jd1]
 

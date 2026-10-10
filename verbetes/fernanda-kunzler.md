@@ -15,7 +15,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Um texto de Rodrigo Teixeira publicado no Overmundo em março de 2006 inclui Fernanda Kunzler na lista de integrantes do Teatral Grupo de Risco.[^om2006] Em 2022, ela contou à imprensa que trabalha com teatro de bonecos desde 2005.[^cgn2022]
+Um texto de [[rodrigo-teixeira|Rodrigo Teixeira]] publicado no Overmundo em março de 2006 inclui Fernanda Kunzler na lista de integrantes do Teatral Grupo de Risco.[^om2006] Em 2022, ela contou à imprensa que trabalha com teatro de bonecos desde 2005.[^cgn2022]
 
 Um trabalho acadêmico de 2017 a lista entre os seis integrantes do núcleo artístico do grupo e a inclui no elenco de três atores de *Guardiões*, ao lado de [[andre-tristao|André Tristão]] e [[yago-garcia|Yago Garcia]].[^borioli]
 

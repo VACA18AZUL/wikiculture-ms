@@ -19,13 +19,13 @@ Segundo o Campo Grande News, a associação foi idealizada em 2008. A matéria d
 
 A tese descreve a produção do coletivo como numerosa e com preocupações diferentes das de muitos grupos ligados ao projeto Vídeo nas Aldeias. Algumas obras foram feitas em parceria com não indígenas. O trabalho também registra oficinas de audiovisual da associação.[^tese]
 
-Em 25 de outubro de 2024, a ASCURI foi homenageada, junto com a cineasta [[marineti-pinheiro|Marineti Pinheiro]], na cerimônia do 27º Encontro da Socine, na UFMS.[^cgn]
+Em 25 de outubro de 2024, a ASCURI foi homenageada, junto com a cineasta [[marineti-pinheiro|Marineti Pinheiro]], na cerimônia do [[socine-27-encontro|27º Encontro da Socine]], na UFMS.[^cgn]
 
 ## Origem e formação
 
-Segundo um artigo de 2021 na revista *PROA*, a ASCURI foi idealizada em 2008 por Gilmar Galache e Eliel Benites. Os dois se conheceram na oficina Cine Sin Fronteras, realizada em 2008 numa aldeia aimará da Bolívia, com 45 dias de duração, sob coordenação da Escuela de Cine y Arte de La Paz e com participação da Universidade Federal de Goiás e do Museu das Culturas Dom Bosco. O boliviano Ivan Molina, do povo quéchua, foi uma das figuras centrais da oficina.[^proa]
+Segundo um artigo de 2021 na revista *PROA*, a ASCURI foi idealizada em 2008 por [[gilmar-galache|Gilmar Galache]] e [[eliel-benites|Eliel Benites]]. Os dois se conheceram na oficina Cine Sin Fronteras, realizada em 2008 numa aldeia aimará da Bolívia, com 45 dias de duração, sob coordenação da Escuela de Cine y Arte de La Paz e com participação da Universidade Federal de Goiás e do Museu das Culturas Dom Bosco. O boliviano [[ivan-molina|Ivan Molina]], do povo quéchua, foi uma das figuras centrais da oficina.[^proa]
 
-O mesmo artigo diz que a ideia só se efetivou com projetos de política cultural que trouxeram equipamentos e pagaram oficinas, como o Vídeo Índio Brasil (2008 a 2014) e o Ava Marandu – Os Guarani Convidam (2010).[^proa] Segundo o artigo, o Ava Marandu teve seis oficinas de audiovisual em aldeias entre fevereiro e abril de 2010, e três delas foram coordenadas por Molina e Galache.[^proa]
+O mesmo artigo diz que a ideia só se efetivou com projetos de política cultural que trouxeram equipamentos e pagaram oficinas, como o [[video-indio-brasil|Vídeo Índio Brasil]] (2008 a 2014) e o Ava Marandu – Os Guarani Convidam (2010).[^proa] Segundo o artigo, o Ava Marandu teve seis oficinas de audiovisual em aldeias entre fevereiro e abril de 2010, e três delas foram coordenadas por Molina e Galache.[^proa]
 
 A dissertação de [[miguel-angelo-correa|Miguel Angelo Corrêa]], de 2015, afirma que a associação foi fundada no começo de 2012, enquanto o Campo Grande News e o artigo da *PROA* falam em idealização em 2008. As datas não se excluem: 2008 aparece como ano da ideia, e 2012, como ano da fundação segundo Corrêa.[^diss][^proa][^cgn]
 
@@ -36,7 +36,7 @@ O artigo da *PROA* descreve o método de trabalho como "cinema de mutirão": os 
 ## Filmes
 
 - *Jepea'yta – A lenha principal*, *Yvy reñoi, semente da terra* e *Ta'anga ymã – imagens nunca morrem*, analisados na tese.[^tese]
-- *Jepea'yta – A lenha principal* (2012), curta com direção de Gilmar Galache e Nataly Foscaches, segundo o artigo da *PROA*.[^proa]
+- *Jepea'yta – A lenha principal* (2012), curta com direção de Gilmar Galache e [[nataly-foscaches|Nataly Foscaches]], segundo o artigo da *PROA*.[^proa]
 - *Ava Yvy Vera – terra do Povo do Raio*, exibido na abertura do 27º Encontro da Socine, em 2024.[^teatrine]
 
 [^cgn]: Thailla Torres, ["Dois nomes importantes do cinema de MS recebem homenagem"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/dois-nomes-importantes-do-cinema-de-ms-recebem-homenagem), *Campo Grande News*, 24 out. 2024. Acesso em 8 out. 2026.

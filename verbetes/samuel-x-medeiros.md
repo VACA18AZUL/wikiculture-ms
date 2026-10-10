@@ -24,14 +24,14 @@ Um estudo de 2017 sobre a literatura contemporânea do estado diz que ele nasceu
 
 O estudo de 2017 diz que ele presidiu a União Brasileira de Escritores de Mato Grosso do Sul (UBE-MS).[^araujo2017] Outro estudo, sobre a violência e a memória na literatura do estado, o identifica como Samuel Medeiros, autor do romance *Senhorinha Barbosa Lopes*.[^sena2024]
 
-Em 13 de agosto de 2015, a [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] o elegeu, com Emmanuel Marinho e Ileides Muller. Ele passou a ocupar a cadeira 26, que foi do poeta Adair José de Aguiar. A reportagem o descreve como membro do Instituto Histórico e Geográfico de MS, presidente da UBE-MS na época e ex-presidente do Conselho Municipal de Cultura de Campo Grande.[^ce2015] O patrono da cadeira 26 é [[pedro-medeiros|Pedro de Medeiros]].[^aslcad]
+Em 13 de agosto de 2015, a [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] o elegeu, com [[emmanuel-marinho|Emmanuel Marinho]] e Ileides Muller. Ele passou a ocupar a cadeira 26, que foi do poeta Adair José de Aguiar. A reportagem o descreve como membro do [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de MS]], presidente da UBE-MS na época e ex-presidente do Conselho Municipal de Cultura de Campo Grande.[^ce2015] O patrono da cadeira 26 é [[pedro-medeiros|Pedro de Medeiros]].[^aslcad]
 
 Na diretoria da ASL, o site da academia o lista como secretário (2020–2023) e primeiro tesoureiro (2023–2026). Integra as comissões da Biblioteca, da Revista e do Patrimônio e Auditório.[^asldir]
 
 ## Obras
 
 - *Memórias de Jardim*, obra de ficção histórico-biográfica, citada em conjunto com *Senhorinha Barbosa Lopes*.[^araujo2017][^ce2012]
-- *Senhorinha Barbosa Lopes: uma história de resistência feminina na Guerra do Paraguai*, romance histórico de 2007. Uma segunda edição foi lançada em 12 de março de 2012 no Instituto Histórico e Geográfico de MS, pela Fundação de Cultura de Mato Grosso do Sul, com apoio do Fundo de Investimentos Culturais (FIC-MS).[^ufgd2022][^ce2012] O livro retrata a fazendeira de mesmo nome, ligada ao sul do antigo Mato Grosso.[^sena2024][^ce2012]
+- *Senhorinha Barbosa Lopes: uma história de resistência feminina na Guerra do Paraguai*, romance histórico de 2007. Uma segunda edição foi lançada em 12 de março de 2012 no Instituto Histórico e Geográfico de MS, pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], com apoio do Fundo de Investimentos Culturais (FIC-MS).[^ufgd2022][^ce2012] O livro retrata a fazendeira de mesmo nome, ligada ao sul do antigo Mato Grosso.[^sena2024][^ce2012]
 - *Contos a Gotas*, citado como obra sua.[^ce2015]
 - *Contos Quase Causos* (2014), publicado pela [[editora-life|Life Editora]].[^araujo2017]
 
@@ -43,7 +43,7 @@ A dissertação de Bruno Rafael Almeida da Silva, defendida no mestrado em Hist�
 
 ## Para saber mais
 
-- [Novas vozes na fronteira: a literatura contemporânea em Mato Grosso do Sul](https://abralic.org.br/anais/arquivos/2017_1522196811.pdf) — artigo de Susylene Dias de Araujo com análise de contos do autor, incluindo "Dia de Reis".
+- [Novas vozes na fronteira: a literatura contemporânea em Mato Grosso do Sul](https://abralic.org.br/anais/arquivos/2017_1522196811.pdf) — artigo de [[susylene-dias-de-araujo|Susylene Dias de Araujo]] com análise de contos do autor, incluindo "Dia de Reis".
 - [Memória, história e narrativa na obra Senhorinha Barbosa Lopes, de Samuel Medeiros](https://repositorio.ufgd.edu.br/jspui/handle/prefix/5117) — dissertação aberta da UFGD (2022).
 - [Academia de Letras de MS elege três novos imortais](https://correiodoestado.com.br/cidades/academia-de-letras-de-ms-elege-tres-novos-imortais/254988/) — reportagem do *Correio do Estado*, 2015.
 

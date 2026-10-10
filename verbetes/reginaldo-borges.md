@@ -16,7 +16,7 @@ atualizado: 2026-10-10
 
 Em 2014, a imprensa o apontava como um dos bailarinos mais antigos da [[cia-dancurbana|Cia Dançurbana]], com nove anos de companhia, durante a circulação de *Plagium?* pelo Palco Giratório do Sesc. Ele disse que as conversas com o público ao fim de cada sessão foram o que mais o marcou.[^ce2014]
 
-Em 2021, criou e produziu, com [[jackeline-mourao|Jackeline Mourão]], o audiovisual do solo *Nu(m) corpo só*, de Rose Mendonça, dirigido por [[marcos-mattos|Marcos Mattos]]. Compôs a trilha sonora e assinou o desenho de luz da obra.[^cgn2021]
+Em 2021, criou e produziu, com [[jackeline-mourao|Jackeline Mourão]], o audiovisual do solo *Nu(m) corpo só*, de [[rose-mendonca|Rose Mendonça]], dirigido por [[marcos-mattos|Marcos Mattos]]. Compôs a trilha sonora e assinou o desenho de luz da obra.[^cgn2021]
 
 Em 2023, integrou o elenco de 12 intérpretes-criadores de *Cavucada*, da [[cia-dancurbana|Cia Dançurbana]].[^cgn2023]
 
@@ -24,7 +24,7 @@ Em 2025, integrou o elenco de *R.U.I.A*, espetáculo infantil da Dançurbana, e 
 
 Em julho de 2024, participou como convidado do projeto *Sala de Visita*, de Jackeline Mourão, descrito como artista da dança e videomaker.[^oe2024]
 
-Em outubro de 2024, apresentou *Procedimento #6* com Jackeline Mourão no teatro Aracy Balabanian, em Campo Grande. A obra, que reúne dança, tecnologia e experimentação, circulou pelo Palco Giratório do Sesc em 2024.[^semana2024]
+Em outubro de 2024, apresentou *Procedimento #6* com Jackeline Mourão no [[teatro-aracy-balabanian|teatro Aracy Balabanian]], em Campo Grande. A obra, que reúne dança, tecnologia e experimentação, circulou pelo Palco Giratório do Sesc em 2024.[^semana2024]
 
 Segundo o *Estado Online*, *Procedimento #6* foi criada em 2021 pela dupla e circulou por 20 cidades na 26ª edição do Palco Giratório, em 2024.[^oe2024] Em 2025, a dupla idealizou o projeto *Lugares para existir: Procedimento #6*, com apoio da Política Nacional Aldir Blanc, que levou espetáculo e oficina a Dourados, São Gabriel do Oeste, Campo Grande e Três Lagoas. Segundo o mesmo texto, a obra esteve ainda na 2ª Mostra Internacional de Dança de São Paulo, realizada pelo Itaú Cultural, e no 33º Festival de Inverno de Garanhuns, em 2025, e no encontro Crear en Libertad, no Paraguai, em 2024.[^dd2025]
 

@@ -18,7 +18,7 @@ Os irmãos criaram o grupo a partir de experiências da infância no Pantanal e 
 
 Um texto colaborativo do Overmundo, de 2007, lista Moacir Saturnino de Lacerda entre os nove integrantes do grupo, como compositor, percussionista e cantor. A Wikipédia em português traz a mesma lista.[^ov][^wiki] As duas fontes datam a fundação do grupo em 1969, o que difere da cronologia de Marin e Pereira, que tratam do grupo depois da criação do estado, em 1977. Os detalhes estão no verbete [[grupo-acaba|Grupo Acaba]].[^ov][^wiki][^hgr]
 
-Silus informa que Moacir Lacerda está entre os entrevistados da parte de música urbana do livro *A Música de Mato Grosso do Sul: histórias de vida* (2009), de Glória Sá Rosa e Idara Duncan.[^trilhas2]
+Silus informa que Moacir Lacerda está entre os entrevistados da parte de música urbana do livro *A Música de Mato Grosso do Sul: histórias de vida* (2009), de Glória Sá Rosa e [[idara-duncan|Idara Duncan]].[^trilhas2]
 
 ## Para saber mais
 
