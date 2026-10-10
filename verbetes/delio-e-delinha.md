@@ -21,7 +21,7 @@ Délio nasceu em 1925 e morreu em 2010.[^ribeiro][^cgn2016] Delinha seguiu canta
 
 Em 2016, a reportagem do mesmo jornal diz que Delinha tinha mais de 50 anos de carreira e a maior discografia entre os músicos do estado. Naquele ano, estreou o documentário *A Dama do Rasqueado*, dirigido por Marinete Pinheiro e baseado no livro *[[os-pioneiros|Os Pioneiros]]*, de [[rodrigo-teixeira|Rodrigo Teixeira]]. Entre os entrevistados estão [[paulo-simoes|Paulo Simões]] e Michel Teló. Canções de Delinha foram regravadas no filme por [[tete-espindola|Tetê]] e [[alzira-espindola|Alzira Espíndola]], [[marina-peralta|Marina Peralta]] e Douglas Almeida.[^cgn2016]
 
-No livro *Os Pioneiros*, de Rodrigo Teixeira, a ficha biográfica dá Délio (José Pompeu) como nascido em 18 de março de 1925 e Delinha (Delanira Pereira Gonçalves) em 7 de setembro de 1936, ambos em Vista Alegre, distrito de Maracaju. O livro lista 14 discos de 78 rotações, 19 LPs, 4 CDs e 1 DVD da dupla.[^pio]
+No livro *Os Pioneiros*, de [[rodrigo-teixeira|Rodrigo Teixeira]], a ficha biográfica dá Délio (José Pompeu) como nascido em 18 de março de 1925 e Delinha (Delanira Pereira Gonçalves) em 7 de setembro de 1936, ambos em Vista Alegre, distrito de Maracaju. O livro lista 14 discos de 78 rotações, 19 LPs, 4 CDs e 1 DVD da dupla.[^pio]
 
 Os dois relatam que se mudaram para São Paulo em 1958. Com o auxílio de [[zacarias-mourao|Zacarias Mourão]], a dupla, que se apresentava como Duo Pintassilgo, entrou na Rádio Bandeirantes, onde o diretor artístico Capitão Barduíno lhe deu o nome Délio e Delinha. Delinha diz que ficaram cinco anos e um mês na emissora sem remuneração, e que Barduíno os anunciava como "Casal de Onça de Mato Grosso".[^pio] Esta versão de que o nome foi dado por Barduíno é confirmada pelo texto de apresentação do livro.[^piop] A contracapa de um LP, reproduzida no livro, situa a entrada da dupla no rádio em 1957, na Rádio Cultura de Campo Grande, antes da ida a São Paulo.[^pio]
 
@@ -31,7 +31,7 @@ Délio compôs "Triste Verdade", que a acordeonista Biguazinha gravou na trilha 
 
 A dupla voltou a morar em Campo Grande em 1966, segundo Delinha. Ela diz que a dupla parou em 1978 e lançou *O Sol e a Lua* em 1981, com o acordeonista [[maciel-correa|Maciel Corrêa]]. Os shows de reencontro ocorreram em 1992 (segundo Maciel Corrêa) ou em 23 de outubro de 1993 (segundo Delinha), no Círculo Militar de Campo Grande, que as fontes situam em anos diferentes.[^pio] Em 2009, Teixeira chamou Délio de patrono da música sul-mato-grossense e escreveu que se completavam 50 anos da primeira gravação da dupla.[^piop]
 
-Delinha também ajudou a levar ao estúdio, em 1978, a dupla [[tostao-e-guarany|Cruzeiro e Tostão]], antecessora de Tostão e Guarany.[^pio]
+Delinha também ajudou a levar ao estúdio, em 1978, a dupla [[tostao-e-guarany|Cruzeiro e Tostão]], antecessora de [[tostao-e-guarany|Tostão e Guarany]].[^pio]
 
 Existe uma biografia de Delinha, *Uma Biografia de Delinha: por onde andei*, de Wilson Werner Koller.[^ribeiro]
 

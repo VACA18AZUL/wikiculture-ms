@@ -23,7 +23,7 @@ Integrou o LuzAzul, depois chamado [[tete-e-o-lirio-selvagem|Tetê e o Lírio Se
 
 Em entrevista de 2006 ao Overmundo, feita por [[rodrigo-teixeira|Rodrigo Teixeira]], o músico aparece como nascido em Campo Grande em 1952, dado repetido em texto de 2012 do mesmo site. Segundo a matéria, ele teve papel central na cena de rock da cidade no fim dos anos 1960, com o grupo Bizarros, Fetos e Pára-quedistas de Alfa Centauro, criado com [[paulo-simoes|Paulo Simões]] e outros companheiros. Na década de 1970 morou no Rio de Janeiro, onde tocou no grupo Lodo, e depois ficou mais tempo em São Paulo com o Lírio Selvagem. Tetê e ele teriam sido influenciados por [[humberto-espindola|Humberto Espíndola]], segundo o texto.[^omgeo]
 
-Na mesma matéria, o clipe de "Bem-te-vi" aparece como produção do programa *Fantástico*, com os quatro irmãos em figurinos de bichos do Pantanal pintados pelo artista cuiabano [[joao-sebastiao-costa|João Sebastião]] da Costa. O texto diz que metade do repertório do LP *Tetê e o Lírio Selvagem* (Philips/Polygram, 1978) é de Geraldo, enquanto a discografia publicada com a entrevista dá 1979 para o disco.[^omgeo]
+Na mesma matéria, o clipe de "Bem-te-vi" aparece como produção do programa *Fantástico*, com os quatro irmãos em figurinos de bichos do Pantanal pintados pelo artista cuiabano [[joao-sebastiao-costa|João Sebastião]] da Costa. O texto diz que metade do repertório do LP *[[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]]* (Philips/Polygram, 1978) é de Geraldo, enquanto a discografia publicada com a entrevista dá 1979 para o disco.[^omgeo]
 
 ## "Vida Cigana"
 
@@ -33,11 +33,11 @@ A matéria de 2006 chama "Vida Cigana" de canção composta nos anos 1970, que t
 
 Em dezembro de 2005, a convite da ONG francesa Apreis, fez nove concertos na França, dois deles no anfiteatro Richelieu da Sorbonne. A matéria de 2006 diz que a viagem foi custeada com ajuda de amigos e que as gravações renderiam um DVD, *Um brasileiro na França*.[^omgeo] O texto de 2012 acrescenta que, antes do lançamento de *Pra depois*, ele tocou na Espanha em um projeto de intercâmbio e que havia previsão de apresentações na Alemanha e na França.[^ombon]
 
-A discografia publicada com a entrevista de 2006 lista *Tetê e o Lírio Selvagem* (Phillips, 1979), *Geraldo Espíndola* (independente, 1998, produzido por Tetê e Humberto Espíndola), *Espíndola Canta* (LuzAzul, 2003, produzido por [[jerry-espindola|Jerry Espíndola]]) e *30 anos neste mato* (independente, 2004, produzido por Arrigo Barnabé e Mario Campos).[^omgeo]
+A discografia publicada com a entrevista de 2006 lista *Tetê e o Lírio Selvagem* (Phillips, 1979), *Geraldo Espíndola* (independente, 1998, produzido por Tetê e [[humberto-espindola|Humberto Espíndola]]), *Espíndola Canta* (LuzAzul, 2003, produzido por [[jerry-espindola|Jerry Espíndola]]) e *30 anos neste mato* (independente, 2004, produzido por Arrigo Barnabé e Mario Campos).[^omgeo]
 
 Em 29 de novembro de 2012, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, lançou o CD *Pra depois*, produzido com recursos do Fundo Municipal de Cultura, no show em que comemorou os 60 anos. O texto promocional que acompanha o registro diz que ele toca todos os instrumentos do disco, que "Bonito" é parceria com Arandas Jr. e que ele recebeu o Prêmio Fiat de MPB em 2002 e fundou a Associação dos Músicos do Pantanal (AMP).[^ombon] Outro texto de 2012 descreve o disco como de canções com apelo ecológico, como "Rio Formoso" e "Rios da Liberdade".[^omsom]
 
-No CD *[[geracoes|GerAções]]* (2006), de [[marcio-de-camillo|Márcio de Camillo]], ele é coautor, com Paulo Simões, de "Lá vem você de novo", gravada por [[geraldo-roca|Geraldo Roca]] e Márcio de Camillo.[^omger]
+No CD *[[geracoes|GerAções]]* (2006), de [[marcio-de-camillo|Márcio de Camillo]], ele é coautor, com [[paulo-simoes|Paulo Simões]], de "Lá vem você de novo", gravada por [[geraldo-roca|Geraldo Roca]] e [[marcio-de-camillo|Márcio de Camillo]].[^omger]
 
 ## Projeto em escolas
 
@@ -46,6 +46,10 @@ Em 1º de setembro de 2023, o projeto "Nossa Escola Canta Geraldo Espíndola", d
 Em 2026, fez um show intimista de voz e violão em um ateliê de Campo Grande, revisitando fases da carreira.[^cgn2026]
 
 Aparece entre os entrevistados dos levantamentos *Memória da Arte em MS* (1992) e *A Música de Mato Grosso do Sul* (2009), e suas composições são o corpus de um estudo de 2022.[^silus] O Campo Grande News o inclui, com [[geraldo-roca|Geraldo Roca]], Tetê, Alzira e [[almir-sater|Almir Sater]], na "geração de ouro" da música pantaneira sul-mato-grossense, segundo o músico Márcio de Camillo.[^camillo]
+
+## Para saber mais
+
+- [Geraldo Espíndola — site oficial](https://www.geraldoespindola.com.br/) — site do músico e compositor, com projetos, livro e documentário.[^siteof]
 
 [^cgn2026]: Natália Olliver, ["Geraldo Espíndola faz show intimista em 'teatro de bolso'"](https://www.campograndenews.com.br/lado-b/diversao/geraldo-espindola-faz-show-intimista-em-teatro-de-bolso), *Campo Grande News*, 1 fev. 2026. Acesso em 8 out. 2026.
 [^cgn2014]: Paula Maciulevicius, ["Do tempo que aqui não tinha rock, eles foram os primeiros a gravar fora"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/do-tempo-que-aqui-nao-tinha-rock-eles-foram-os-primeiros-a-gravar-fora), *Campo Grande News*, 14 maio 2014. Acesso em 8 out. 2026.
@@ -57,3 +61,4 @@ Aparece entre os entrevistados dos levantamentos *Memória da Arte em MS* (1992)
 [^omsom]: Bosco Martins, ["O som eco-romântico de Geraldo Espíndola"](https://www.overmundo.com.br/overblog/o-som-eco-romantico-de-geraldo-espindola), *Overmundo*, 28 nov. 2012 (texto colaborativo). Acesso em 10 out. 2026.
 [^omger]: Rodrigo Teixeira, ["CD GerAções: Clube da 'outra' Esquina"](https://www.overmundo.com.br/overblog/cd-geracoes-clube-da-outra-esquina), *Overmundo*, 14 set. 2006 (texto colaborativo). Acesso em 10 out. 2026.
 [^escola]: ["Projeto 'Nossa Escola Canta Geraldo Espíndola' recebe cantor em tarde de show e homenagens"](https://www.campogrande.ms.gov.br/cgnoticias/noticia/projeto-nossa-escola-canta-geraldo-espindola-recebe-cantor-em-tarde-de-show-e-homenagens/), *CGNotícias*, Prefeitura de Campo Grande, 4 set. 2023. Acesso em 10 out. 2026.
+[^siteof]: ["Geraldo Espíndola | Músico Compositor"](https://www.geraldoespindola.com.br/), site oficial de Geraldo Espíndola. Acesso em 10 out. 2026.
