@@ -42,6 +42,8 @@ O poeta [[lobivar-matos|Lobivar Matos]] dedicou a ele seu primeiro poema, public
 
 Na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], é patrono da cadeira 26, ocupada por [[samuel-x-medeiros|Samuel Xavier Medeiros]].[^aslcad] Em 23 de agosto de 2022, o Chá Acadêmico da ASL foi dedicado a ele, com resenha de [[raquel-naveira|Raquel Naveira]] e Henrique de Medeiros, segundo reportagem do *Correio do Estado*.[^ce2022] A mesma reportagem diz que o nome dele batiza ruas e órgãos públicos em Corumbá e Campo Grande.[^ce2022]
 
+Em setembro de 2026, o *Correio do Estado* publicou reportagem sobre uma homenagem a ele e a Lobivar Matos, com poemas de autores e autoras residentes em Corumbá, reunidos pelo escritor Eneo da Nóbrega, que a matéria apresenta como membro da UBE-MS e da Associação Pantaneira de Escritores. O texto o descreve como jornalista, poeta e agitador cultural, autor de "Lenda Bororo", e reproduz o poema.[^ce2026]
+
 ## Nome
 
 O nome aparece em grafias diferentes. O corpo do artigo de 2020 traz "Pedro Paulo de Medeiros Júnior", o resumo usa "Pedro Paulo de Medeiros", o título e as palavras-chave usam "Pedro de Medeiros", e um trabalho de 2017 citado no mesmo artigo usa "Pedro Medeiros".[^raido2020] O artigo de 2021 usa "Pedro Medeiros".[^godinho2021] As formas ficam registradas.
@@ -60,3 +62,4 @@ O nome aparece em grafias diferentes. O corpo do artigo de 2020 traz "Pedro Paul
 [^dalmoro2016]: Nataniél Dal Moro, Ana Cristina Medeiros Rodrigues, Deisi Graziela de Lima Martins e Dolores Pereira Ribeiro Coutinho, ["Pedro de Medeiros: vida e obra de um poeta pantaneiro"](https://periodicos.set.edu.br/humanas/article/view/2516), *Interfaces Científicas – Humanas e Sociais*, v. 5, n. 1, 2016, p. 45–58 (resumo). Acesso em 10 out. 2026.
 [^wplob]: Wikipédia em português, ["Lobivar Matos"](https://pt.wikipedia.org/wiki/Lobivar_Matos), texto colaborativo. Acesso em 10 out. 2026.
 [^aslcad]: Academia Sul-Mato-Grossense de Letras, ["Cadeiras"](https://acletrasms.org.br/cadeiras/). Acesso em 10 out. 2026.
+[^ce2026]: Mariana Piell, ["Poetas de Corumbá celebram legado de Pedro de Medeiros e Lobivar de Matos"](https://correiodoestado.com.br/correio-b/poetas-de-corumba-celebram-legado-de-pedro-de-medeiros-e-lobivar-de/472471/), *Correio do Estado*, 10 set. 2026. Acesso em 10 out. 2026.

@@ -39,6 +39,8 @@ Outros livros publicados pela editora, segundo fontes abertas, são os seguintes
 - Livros de [[rubenio-marcelo|Rubenio Marcelo]]: *Horizonte d'Versos* (2009), *Voo de polens* (2012, segundo a Wikipédia; 2011, segundo reportagem de 2024), *Veleiros da Essência* (2014), *Palavras em Plenitude* (2018) e *Caminhos: 100 poemas escolhidos* (2024, com apoio do FIC-MS), além de títulos em coautoria.[^wprm][^pantaneiro]
 - [[reginaldo-costa-de-albuquerque|Reginaldo Costa de Albuquerque]]: *Sonetos no azul da tarde* (2009) e o livro de contos *O Santo que não tinha os pés*, citados como publicados pela Life em texto de [[jose-couto-vieira-pontes|José Couto Vieira Pontes]] na revista da ASL de 2013.[^rasl23]
 - *Lobivar Matos: obra reunida*, organizada por [[susylene-dias-de-araujo|Susylene Dias de Araujo]] e lançada em Corumbá em 20 de março de 2025 e em Campo Grande dois dias depois. Ver [[lobivar-matos|Lobivar Matos]].[^cc2025]
+- [[paulo-s-nolasco|Paulo Nolasco dos Santos]]: *A felicidade pela literatura: ensaios críticos* e *Frases enternecidas: belas e melancólicas*, lançados em Dourados em 2 de junho de 2023.[^dn2023]
+- [[jose-couto-vieira-pontes|José Couto Vieira Pontes]]: o romance *O rio por onde veio Garcia*, lançado em 4 de dezembro de 2023 na sede da ASL.[^ce2023]
 
 O título mais antigo da Life no catálogo do ARCA é de 2008. O catálogo não traz a data de fundação da editora, e o site dela não pôde ser aberto nesta consulta.[^arca]
 
@@ -59,3 +61,5 @@ O título mais antigo da Life no catálogo do ARCA é de 2008. O catálogo não 
 [^wprm]: Wikipédia em português, ["Rubenio Marcelo"](https://pt.wikipedia.org/wiki/Rubenio_Marcelo), texto colaborativo. Acesso em 10 out. 2026.
 [^pantaneiro]: Sandra Luz, ["Rubenio Marcelo lança Antologia Poética com apoio do FIC-MS no dia 7"](https://www.opantaneiro.com.br/cultura/rubenio-marcelo-lanca-antologia-poetica-com-apoio-do-fic-ms-no-dia-7/214287/), *O Pantaneiro*, 3 maio 2024. Acesso em 10 out. 2026.
 [^cc2025]: ["Pesquisadora lança obra com material inédito de grande nome da literatura de MS, corumbaense Lobivar Matos"](https://www.correiodecorumbapantanal.com.br/cultura/pesquisadora-lanca-obra-com-material-inedito-de-grande-nome-da-literatura-de-ms-corumbaense-lobivar-matos), *Correio de Corumbá*, 20 mar. 2025. Acesso em 10 out. 2026.
+[^dn2023]: ["Escritor Paulo Nolasco comemora aniversário amanhã com lançamento de dois livros"](https://www.douranews.com.br/dourados/escritor-paulo-nolasco-comemora-aniversario-amanha-com-lancamento-de/169421/), *Douranews*, 1 jun. 2023. Acesso em 10 out. 2026.
+[^ce2023]: ["Romance histórico de José do Couto Vieira Pontes será lançado hoje na ASL"](https://correiodoestado.com.br/correio-b/romance-historico-de-jose-do-couto-vieira-pontes-sera-lancado-hoje-na/423409/), *Correio do Estado*, 4 dez. 2023. Acesso em 10 out. 2026.

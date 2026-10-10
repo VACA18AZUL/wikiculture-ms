@@ -56,8 +56,14 @@ Segundo a Wikipédia, ele recebeu ainda o prêmio Jacaré de Prata da Secretaria
 
 O filme *Caramujo Flor* (1988), de [[joel-pizzini|Joel Pizzini]], faz um itinerário da poesia de Manoel de Barros com fragmentos sonoros e visuais e foi exibido pela TVE Regional em 1989. Outro documentário, *O poeta é um ente que lambe as palavras e se alucina*, de [[arlindo-fernandez|Arlindo Fernandez]], venceu a primeira edição do DocTV e foi gravado em Corumbá, Campo Grande e Rio de Janeiro. Ambos entraram na programação especial dos 90 anos do poeta, em dezembro de 2006, segundo texto colaborativo do Overmundo.[^tve] Veja também [[manual-de-barros-retrato-do-poeta-quando-coisa|Manual de Barros: Retrato do poeta quando coisa]].[^tve]
 
+## Casa-Quintal
+
+A casa onde o poeta viveu nas últimas décadas, em Campo Grande, virou o museu literário Casa-Quintal Manoel de Barros, aberto à visitação em 25 de setembro de 2022. Segundo o Campo Grande News, o projeto foi realizado pela Fundação Nelito Câmara e pela Pólo Filme, com correalização do Sesc e apoio da Energisa, a partir de um movimento de artistas reunidos na Sociedade dos Amigos da Casa-Quintal. A matéria cita a biblioteca, o escritório "Lugar de Ser Inútil", cartas e desenhos expostos e uma sala imersiva com imagens de *Caramujo Flor*, de [[joel-pizzini|Joel Pizzini]], e de *Planuras*, de Maurício Copetti. A reportagem de fevereiro de 2023 anuncia visitas guiadas diárias, com agendamento. Desde a abertura, a casa recebeu a cantora [[tete-espindola|Tetê Espíndola]] e o músico [[marcio-de-camillo|Márcio de Camillo]], com o show *Crianceiras*.[^cgn2023]
+
 ## Para saber mais
 
+- [Casa-Quintal Manoel de Barros no Instagram](https://www.instagram.com/casaquintalmanoeldebarros/) — canal oficial do museu, indicado pelo cadastro da instituição no Visite Museus.[^vm]
+- [Museu Casa-Quintal Manoel de Barros, no Visite Museus](https://visite.museus.gov.br/instituicoes/casa-quintal-manoel-de-barros/) — cadastro da instituição, com tipo, horários de visita e canais.[^vm]
 - [Entrevista à *Caros Amigos*, reproduzida no Overmundo](https://www.overmundo.com.br/overblog/a-caros-amigos-traz-a-poesia-de-manoel-de-barros) — trechos de conversa de 2008 em que o poeta fala de leituras, influências e do seu "escritório de ser inútil".
 - [Programação especial da TVE Regional](https://www.overmundo.com.br/overblog/manoel-de-barros-se-considera-um-songo-parte-iii) — texto de 2006 que descreve documentários e entrevistas feitos para os 90 anos do poeta.
 - [Morre o poeta Manoel de Barros, aos 97 anos](https://www.gazetadopovo.com.br/caderno-g/morre-o-poeta-manoel-de-barros-aos-97-anos-eg48v7xupb0lxc9yxw745rtji) — perfil e lista de obras publicada na Gazeta do Povo.
@@ -71,3 +77,5 @@ O filme *Caramujo Flor* (1988), de [[joel-pizzini|Joel Pizzini]], faz um itiner�
 [^tve]: Bosco Martins, ["Manoel de Barros se considera um songo - Parte III"](https://www.overmundo.com.br/overblog/manoel-de-barros-se-considera-um-songo-parte-iii), *Overmundo*, 11 dez. 2006. Acesso em 10 out. 2026.
 [^aslcad]: Academia Sul-Mato-Grossense de Letras, ["Cadeiras"](https://acletrasms.org.br/cadeiras/). Acesso em 10 out. 2026.
 [^aslpres]: Academia Sul-Mato-Grossense de Letras, ["Academia Sul-Mato-Grossense de Letras elege novo presidente: Pedro Chaves"](https://acletrasms.org.br/academia-sul-mato-grossense-de-letras-elege-novo-presidente-pedro-chaves/), 2 out. 2026. Acesso em 10 out. 2026.
+[^cgn2023]: Thailla Torres, ["Casa de Manoel de Barros abre as portas diariamente para visitação"](https://www.campograndenews.com.br/lado-b/diversao/casa-de-manoel-de-barros-abre-as-portas-diariamente-para-visitacao), *Campo Grande News*, 15 fev. 2023. Acesso em 10 out. 2026.
+[^vm]: Instituto Brasileiro de Museus, ["Museu Casa-Quintal Manoel de Barros"](https://visite.museus.gov.br/instituicoes/casa-quintal-manoel-de-barros/), *Visite Museus*. Acesso em 10 out. 2026.

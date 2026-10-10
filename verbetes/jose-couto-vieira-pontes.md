@@ -18,6 +18,8 @@ Nasceu em 1933, em Três Lagoas, segundo reportagens de dezembro de 2023, que o 
 
 Cofundou, em 30 de outubro de 1971, com [[ulisses-serra|Ulisses Serra]] e [[germano-de-souza|Germano de Souza]], a Academia de Letras e História de Campo Grande. A entidade adotou o nome de [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] no fim de 1978.[^acritica] Segundo o Correio do Estado, ocupa a cadeira nº 11 e presidiu a academia de 1972 a 1982.[^ce2023] Texto colaborativo do Overmundo, de 2008, com fala do então secretário-geral [[rubenio-marcelo|Rubênio Marcelo]], diz que o escritor foi um dos nomes convidados para as primeiras cadeiras e que a fundação ocorreu 17 dias depois do lançamento de *Camalotes e Guavirais*, de Ulisses Serra, em 13 de outubro de 1971.[^om2008] A Wikipédia em português registra o nome dele na lista de membros titulares da academia.[^wp]
 
+A página do autor no site da Academia Sul-Mato-Grossense de Letras dá 10 de maio de 1933 como data de nascimento, Três Lagoas como local e cadeira nº 11. Registra ainda o prêmio Santos Vahlis de Literatura (Rio de Janeiro, 1956), o cargo de procurador-geral do estado em 1979 e a atuação como assessor da Procuradoria-Geral do Estado de 1980 a 1983.[^aslp]
+
 ## Obra
 
 Um trabalho apresentado na UEMS o descreve como crítico que procurou definir a identidade da literatura de Mato Grosso do Sul e distingui-la da de Mato Grosso.[^sedia] Em outro estudo, a *História da literatura sul-mato-grossense* é citada como obra de referência sobre a literatura do estado. O texto observa que ela inclui poucas escritoras e traz a análise que o autor faz de *A retirada da Laguna*, de Visconde de Taunay.[^revell]
@@ -30,8 +32,14 @@ Em 1982, comentou a estreia de [[raquel-naveira|Raquel Naveira]], *Sonhos a quat
 - *Deste lado do horizonte*, contos. A fonte acadêmica não traz data; as reportagens de 2023 dão 1972.[^freire][^ce2023]
 - *Jorge Luiz Borges, a erudição e os espelhos* (1976), na grafia das reportagens de 2023.[^ce2023]
 - *Os vinte anos da Academia Sul-Mato-Grossense de Letras* (1991).[^ce2023]
+- *Do diário de Cândido Hambre Del Calabozo* e *A casa dos Ofendículos*, títulos que a página da academia lista entre as obras publicadas, sem ano.[^aslp]
 - *O rio por onde veio Garcia* ([[editora-life|Life Editora]], 2023), romance histórico e ficcional de 160 páginas e dez capítulos, sobre o navegador português Aleixo Garcia. Foi lançado em 4 de dezembro de 2023, na sede da academia, com prefácio de Rubenio Marcelo. As reportagens dizem que foi o primeiro livro do autor em mais de três décadas.[^ce2023][^jn2023]
 
+## Para saber mais
+
+- [José Couto Vieira Pontes, no site da ASL](https://acletrasms.org.br/portfolio-item/jose-couto-vieira-pontes/) — ficha biográfica e lista de obras publicadas pela própria academia.[^aslp]
+
+[^aslp]: Academia Sul-Mato-Grossense de Letras, ["José Couto Vieira Pontes"](https://acletrasms.org.br/portfolio-item/jose-couto-vieira-pontes/). Acesso em 10 out. 2026.
 [^ce2023]: ["Romance histórico de José do Couto Vieira Pontes será lançado hoje na ASL"](https://correiodoestado.com.br/correio-b/romance-historico-de-jose-do-couto-vieira-pontes-sera-lancado-hoje-na/423409/), *Correio do Estado*, 4 dez. 2023. Acesso em 10 out. 2026.
 [^jn2023]: Raquel de Souza, ["Cofundador da ASL lança amanhã novo livro após 32 anos"](https://jornaldanova.com.br/noticia/445760/cofundador-da-asl-lanca-amanha-novo-livro-apos-32-anos), *Jornal da Nova*, 3 dez. 2023. Acesso em 10 out. 2026.
 [^om2008]: Gisele Colombo, ["A história da expressão literária de MS"](https://www.overmundo.com.br/overblog/a-historia-da-expressao-literaria-de-ms), *Overmundo*, 6 out. 2008. Acesso em 10 out. 2026.

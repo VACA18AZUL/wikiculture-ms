@@ -36,9 +36,11 @@ A lista abaixo segue a página da Academia Sul-Mato-Grossense de Letras, que tra
 
 A página da academia lista *Abadia* em 1995 e, ao tratar das indicações ao Jabuti, usa 1996, ano que o estudo de Chisini também registra para a indicação. As duas datas ficam registradas.[^aslr][^chisini]
 
+Em 2026, lançou *O Ombro e outros textos poéticos* (Evoluce Editora, São Paulo), com primeiro lançamento em Campo Grande em 3 de março. Segundo o poeta e acadêmico [[rubenio-marcelo|Rubenio Marcelo]], em coluna no *Campo Grande Notícias*, o volume mistura prosa e poesia, reúne textos que ela publicou em blogs, revistas e sites em 2025 e se divide em três partes: "Ombro Amigo", "Ombro a Ombro" e "Ombro Rebelde".[^ombro]
+
 ## Prêmios
 
-Segundo a página da academia: primeiro lugar no concurso literário "Daclobe" (1978); menção honrosa no prêmio "Augusto dos Anjos" (1982); Jacaré de Prata, de melhor poeta do ano, da prefeitura de Campo Grande (1991); prêmio Escriba, de Piracicaba (1994); primeiro lugar no concurso nacional Zumbi, de Salvador (1995); prêmio Henriqueta Lisboa, da Academia Mineira de Letras (2000); e, por *Senhora*, o prêmio Jorge de Lima (novembro de 2000). *Abadia* e *Casa de Tecla* foram indicados ao Jabuti de poesia, e *Sangue português* recebeu o II Prêmio Guavira de Literatura de Mato Grosso do Sul, em 2013, na categoria poesia.[^aslr]
+Segundo a página da academia: primeiro lugar no concurso literário "Daclobe" (1978); menção honrosa no prêmio "Augusto dos Anjos" (1982); Jacaré de Prata, de melhor poeta do ano, da prefeitura de Campo Grande (1991); prêmio Escriba, de Piracicaba (1994); primeiro lugar no concurso nacional Zumbi, de Salvador (1995); prêmio Henriqueta Lisboa, da Academia Mineira de Letras (2000); e, por *Senhora*, o prêmio Jorge de Lima (novembro de 2000). *Abadia* e *Casa de Tecla* foram indicados ao Jabuti de poesia, e *Sangue português* recebeu o II Prêmio Guavira de Literatura de Mato Grosso do Sul, em 2013, na categoria poesia.[^aslr] A mesma coluna de 2026 acrescenta uma menção honrosa no Prêmio Ribeiro Couto, da UBE do Rio de Janeiro, por *Caraguatá* (1997), e atribui o prêmio Jorge de Lima, de 2000, à Academia Cristã de Letras.[^ombro]
 
 ## Na crítica local
 
@@ -50,3 +52,4 @@ Em entrevista publicada no Overmundo em 2008, o poeta [[ruberval-cunha|Ruberval 
 [^aslh]: Academia Sul-Mato-Grossense de Letras, ["Histórico"](https://acletrasms.org.br/historico/). Acesso em 10 out. 2026.
 [^asldir]: Academia Sul-Mato-Grossense de Letras, ["Diretoria"](https://acletrasms.org.br/diretoria/). Acesso em 10 out. 2026.
 [^cunha]: Gisele Colombo, ["Considerações sobre a poesia sul-mato-grossense"](https://www.overmundo.com.br/overblog/consideracoes-sobre-a-poesia-sul-mato-grossense), *Overmundo*, 24 mar. 2008. Acesso em 10 out. 2026.
+[^ombro]: Rubenio Marcelo, ["O Ombro e outros textos poéticos – o novo livro de Raquel Naveira"](https://www.campograndenoticias.com.br/o-ombro-e-outros-textos-poeticos-o-novo-livro-de-raquel-naveira/), *Campo Grande Notícias*, 2026 (data de publicação não identificada na página). Acesso em 10 out. 2026.

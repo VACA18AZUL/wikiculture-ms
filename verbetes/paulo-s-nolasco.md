@@ -45,6 +45,7 @@ Em 2011, foi um dos quatro críticos literários ouvidos no livro [[a-literatura
 - *Literatura e práticas culturais* (Dourados: Editora UFGD, 2009, 240 p.), livro com textos de vários autores sobre o seminário de 2008; a ficha catalográfica o indica como autor e traz dele a apresentação e o capítulo "Situação crítica: o regionalismo revisitado".[^lpc]
 - "Uma trajetória de pesquisa: a literatura no extremo oeste do Brasil", artigo na revista *Cerrados*, da pós-graduação em Literatura da UnB, n. 19, 2005, p. 143–158.[^lpc]
 - Capítulo "Um outdoor invisível: imagens do pantanal sul-mato-grossense", em *Culturas, Contextos e Discursos* (1999), organizado por Carvalhal.[^freire]
+- *A felicidade pela literatura: ensaios críticos*, coletânea de ensaios publicados em diversos veículos, e *Frases enternecidas: belas e melancólicas*, seleção de frases e textos de autores que ele admira. Os dois saíram pela [[editora-life|Life Editora]] e foram lançados em 2 de junho de 2023, em Dourados, data em que, segundo o *Douranews*, ele completava 65 anos. A matéria diz que ele tem cinco livros de autoria própria e muitos organizados em coautoria.[^dn2023]
 
 ## Para saber mais
 
@@ -58,3 +59,4 @@ Em 2011, foi um dos quatro críticos literários ouvidos no livro [[a-literatura
 [^escavador]: Perfil de Paulo Sérgio Nolasco dos Santos, ["Paulo Sérgio Nolasco dos Santos"](https://www.escavador.com/sobre/898954/paulo-sergio-nolasco-dos-santos), *Escavador*, com dados do Lattes coletados em 10 nov. 2024. Acesso em 8 out. 2026.
 [^freire]: Zélia R. Nolasco dos S. Freire, ["A literatura de fronteira e suas particularidades locais: uma visada para a margem"](https://periodicos.ufms.br/index.php/cadec/article/view/3354/2638), revista hospedada no portal de periódicos da UFMS, p. 150–180. Acesso em 8 out. 2026.
 [^ervais]: Alexandra Santos Pinheiro e Paulo Bungart Neto (orgs.), [*Ervais, pantanais e guavirais: cultura e literatura em Mato Grosso do Sul*](https://omp.ufgd.edu.br/livrosabertos/catalog/download/100/241/522?inline=1), Editora UFGD, 2013, sumário, p. 73. Acesso em 8 out. 2026.
+[^dn2023]: ["Escritor Paulo Nolasco comemora aniversário amanhã com lançamento de dois livros"](https://www.douranews.com.br/dourados/escritor-paulo-nolasco-comemora-aniversario-amanha-com-lancamento-de/169421/), *Douranews*, 1 jun. 2023. Acesso em 10 out. 2026.
