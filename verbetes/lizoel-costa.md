@@ -22,13 +22,13 @@ Em texto assinado na revista Soul Brasil, ele aparece descrito como jornalista e
 
 ## Escritos sobre música
 
-Escreveu o texto de apresentação do primeiro disco da cantora Maria Alice, *No mundo a passeio* (1997), reproduzido no site dela. O texto cita [[geraldo-roca|Geraldo Roca]], [[geraldo-espindola|Geraldo Espíndola]] e [[paulo-simoes|Paulo Simões]] entre os compositores gravados. O site afirma que ele já faleceu e diz que sua visão contribuiu para a cena cultural de MS. A ficha técnica do disco lista "Lizoel Costa" entre os compositores.[^alice]
+Escreveu o texto de apresentação do primeiro disco da cantora [[maria-alice|Maria Alice]], *No mundo a passeio* (1997), reproduzido no site dela. O texto cita [[geraldo-roca|Geraldo Roca]], [[geraldo-espindola|Geraldo Espíndola]] e [[paulo-simoes|Paulo Simões]] entre os compositores gravados. O site afirma que ele já faleceu e diz que sua visão contribuiu para a cena cultural de MS. A ficha técnica do disco lista "Lizoel Costa" entre os compositores.[^alice]
 
 Em outro texto, na Soul Brasil, escreveu sobre a violonista [[helena-meirelles|Helena Meirelles]].[^soul]
 
 ## Na bibliografia sobre a música de MS
 
-Alan Silus cita Lizoel Costa entre os quatro entrevistados da parte "Música na mídia" do livro *A Música de Mato Grosso do Sul: histórias de vida* (2009), de Glorinha Sá Rosa e [[idara-duncan|Idara Duncan]]. Para o autor, são comunicadores que divulgam a música do estado em rádios, TVs e outros meios. Os outros três são [[ciro-de-oliveira|Ciro de Oliveira]], Cândido Alberto e Oscar Rocha.[^silus] O nome também está na lista de artistas do estado do artigo de Carina Bonny.[^bonny] Nenhuma dessas duas fontes traz dados biográficos; a identificação com o músico das demais fontes se apoia na coincidência do nome e da atividade.
+Alan Silus cita Lizoel Costa entre os quatro entrevistados da parte "Música na mídia" do livro *A Música de Mato Grosso do Sul: histórias de vida* (2009), de Glorinha Sá Rosa e [[idara-duncan|Idara Duncan]]. Para o autor, são comunicadores que divulgam a música do estado em rádios, TVs e outros meios. Os outros três são [[ciro-de-oliveira|Ciro de Oliveira]], Cândido Alberto e [[oscar-rocha|Oscar Rocha]].[^silus] O nome também está na lista de artistas do estado do artigo de Carina Bonny.[^bonny] Nenhuma dessas duas fontes traz dados biográficos; a identificação com o músico das demais fontes se apoia na coincidência do nome e da atividade.
 
 ## Morte
 

@@ -16,7 +16,7 @@ atualizado: 2026-10-10
 
 ## Primeira edição
 
-O Campo Grande News anunciou em outubro de 2013 o "primeiro festival de Blues e Jazz de Bonito", marcado para 14 a 16 de novembro. A programação trazia [[ze-pretim|Zé Pretim]] na abertura, com Simão Ghandy Trio e Mr. Willie, de Campo Grande, e o gaitista paulistano Robson Fernandes. Nos dias seguintes, constavam Miguelito e banda, Blues Company, Fabio Brum, Jazz Monde, [[bebados-habilidosos|Bêbados Habilidosos]] e o britânico Peter Hassle.[^cgn2013]
+O Campo Grande News anunciou em outubro de 2013 o "primeiro festival de Blues e Jazz de Bonito", marcado para 14 a 16 de novembro. A programação trazia [[ze-pretim|Zé Pretim]] na abertura, com [[simao-ghandy|Simão Ghandy]] Trio e Mr. Willie, de Campo Grande, e o gaitista paulistano Robson Fernandes. Nos dias seguintes, constavam Miguelito e banda, Blues Company, Fabio Brum, Jazz Monde, [[bebados-habilidosos|Bêbados Habilidosos]] e o britânico Peter Hassle.[^cgn2013]
 
 ## Edições seguintes
 
@@ -26,9 +26,9 @@ Em outubro de 2016, o lançamento do festival foi feito junto com a estreia do [
 
 ## 10ª edição (2023)
 
-A 10ª edição foi de 8 a 10 de junho de 2023, no Selina Hotel, com nove atrações. Entre elas estavam El Trio (MS), Walter Pinheiro Quarteto (SP), Boldrini Quarteto (PR), as paraguaias Band'Elaschica e VPL Blues, o baterista paraguaio Toti Morel, o argentino Rula Cancino, Big Gilson (RJ) e o projeto "Mato Grosso do Blues", de Luis Ávila & Friends, em homenagem a [[jose-boaventura|José Boaventura]], Zé Pretim e [[renato-fernandes|Renato Fernandes]].[^cgn2023a][^alex2023]
+A 10ª edição foi de 8 a 10 de junho de 2023, no Selina Hotel, com nove atrações. Entre elas estavam [[el-trio|El Trio]] (MS), Walter Pinheiro Quarteto (SP), Boldrini Quarteto (PR), as paraguaias Band'Elaschica e VPL Blues, o baterista paraguaio Toti Morel, o argentino Rula Cancino, Big Gilson (RJ) e o projeto "[[mato-grosso-do-blues|Mato Grosso do Blues]]", de Luis Ávila & Friends, em homenagem a [[jose-boaventura|José Boaventura]], Zé Pretim e [[renato-fernandes|Renato Fernandes]].[^cgn2023a][^alex2023]
 
-Na edição de 2023, uma noite foi dedicada a músicos paraguaios. O Campo Grande News informou que o Circuito Cultural Guarani, associação de Assunção, propôs ao festival uma parceria com o AsuJazz, festival de jazz do Paraguai. A ideia era que músicos de MS tocassem no AsuJazz e atrações paraguaias viessem a Bonito.[^cgn2023b]
+Na edição de 2023, uma noite foi dedicada a músicos paraguaios. O Campo Grande News informou que o [[circuito-cultural-guarani|Circuito Cultural Guarani]], associação de Assunção, propôs ao festival uma parceria com o AsuJazz, festival de jazz do Paraguai. A ideia era que músicos de MS tocassem no AsuJazz e atrações paraguaias viessem a Bonito.[^cgn2023b]
 
 [^cgn2013]: ["Festival de Blues e Jazz de Bonito divulga a programação de 14 a 16 de novembro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/festival-de-blues-e-jazz-de-bonito-divulga-a-programacao-de-14-a-16-de-novembro), *Campo Grande News* (Lado B), 6 out. 2013. Acesso em 10 out. 2026.
 [^cgn2016]: Naiane Mesquita, ["Banda de blues resgata história do gênero em MS com canções em português"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/banda-de-blues-resgata-historia-do-genero-em-ms-com-cancoes-em-portugues), *Campo Grande News*, 13 out. 2016. Acesso em 10 out. 2026.

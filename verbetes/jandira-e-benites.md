@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-10-10
 ---
 
-**Jandira e Benites** é uma dupla de música de fronteira de Campo Grande, formada por Jandira Rosa Pereira e Ciriaco Benites. Rodrigo Teixeira, em *Os Pioneiros*, a inclui entre os artistas que fizeram a primeira cena musical do sul de Mato Grosso.[^pio] O nome aparece também como "Jandira e Benitez" ou "Jandira & Benitez" em um disco.[^pio][^rc]
+**Jandira e Benites** é uma dupla de música de fronteira de Campo Grande, formada por Jandira Rosa Pereira e Ciriaco Benites. [[rodrigo-teixeira|Rodrigo Teixeira]], em *[[os-pioneiros|Os Pioneiros]]*, a inclui entre os artistas que fizeram a primeira cena musical do sul de Mato Grosso.[^pio] O nome aparece também como "Jandira e Benitez" ou "Jandira & Benitez" em um disco.[^pio][^rc]
 
 ## Integrantes
 
@@ -22,13 +22,13 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-Benites contou a Rodrigo Teixeira que chegou a Campo Grande em 1962 para o serviço militar, voltou a Ponta Porã e retornou com o grupo paraguaio Ases del Ritmo. O grupo foi contratado por 90 dias na boate Caravelle, de Jandira. Benites passou a cantar na casa com ela, e assim a dupla se formou, entre 1963 e 1964, segundo o relato.[^pio] O Recanto Caipira conta a história de modo parecido: o grupo de Benites tocou na boate, foi contratado, e ele ficou na cidade.[^rc]
+Benites contou a Rodrigo Teixeira que chegou a Campo Grande em 1962 para o serviço militar, voltou a Ponta Porã e retornou com o grupo paraguaio [[ases-del-ritmo|Ases del Ritmo]]. O grupo foi contratado por 90 dias na boate Caravelle, de Jandira. Benites passou a cantar na casa com ela, e assim a dupla se formou, entre 1963 e 1964, segundo o relato.[^pio] O Recanto Caipira conta a história de modo parecido: o grupo de Benites tocou na boate, foi contratado, e ele ficou na cidade.[^rc]
 
 Segundo o Recanto Caipira, Jandira procurava músicos que incluíssem no repertório chamamé, guarânia, polca e rasqueado.[^rc] Em *Os Pioneiros*, Benites diz que passaram a incluir no repertório as polcas e os primeiros chamamés que chegavam a Campo Grande.[^pio]
 
 A dupla cantou de mesa em mesa na churrascaria Braseiro, depois chamada Cabana Gaúcha, na avenida Afonso Pena. Segundo Benites, a casa era ponto de encontro da sociedade campo-grandense.[^pio] O Recanto Caipira diz que eles inauguraram a época da música ao vivo nos restaurantes da cidade e que depois se apresentaram em casas como Vitório's e Ponteio.[^rc] Rodrigo Teixeira escreve que a dupla se destacou na noite campo-grandense dos anos 1980, em um tempo de música de mesa em mesa, e que essa geração se apresentou muito nos circos do interior.[^pio]
 
-Abriram o restaurante La Carreta, que recebeu artistas latino-americanos e sul-mato-grossenses. Em 1982, o ponto foi transferido a empresários do Rio Grande do Sul.[^rc]
+Abriram o restaurante [[la-carreta|La Carreta]], que recebeu artistas latino-americanos e sul-mato-grossenses. Em 1982, o ponto foi transferido a empresários do Rio Grande do Sul.[^rc]
 
 ## Discos
 

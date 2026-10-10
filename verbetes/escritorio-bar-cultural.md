@@ -19,7 +19,7 @@ O proprietário, Luciano Yonaka, disse ao jornal que o bar nunca deixou de ter m
 
 O bar recebe, uma vez por mês, o Encontro de Choro, com vários grupos. Na terceira edição, em 2 de agosto de 2025, tocaram [[quinteto-virgisanta|Quinteto Virgisanta]], [[quarteto-samba-choro|Quarteto Samba Choro]], [[trio-vibracoes|Trio Vibrações]] e [[som-que-chora|Som Que Chora]]. O dono atribui a escolha do gênero à carência de espaços para ritmos como o choro.[^cgn0802]
 
-A Confraria foi lançada ali em 31 de maio de 2025, em evento anunciado com Quinteto Virgisanta, Som Que Chora, Samba Choro e Bibi do Cavaco, e com presença do Iphan.[^cgn0527]
+A Confraria foi lançada ali em 31 de maio de 2025, em evento anunciado com Quinteto Virgisanta, Som Que Chora, Samba Choro e [[bibi-do-cavaco|Bibi do Cavaco]], e com presença do Iphan.[^cgn0527]
 
 Em 14 de março de 2026, o espaço, chamado nessa matéria de Escritório Cultural, sediou o 6º encontro do projeto "Música Popular e o Choro de Campo Grande", com entrada gratuita.[^cgn0314]
 

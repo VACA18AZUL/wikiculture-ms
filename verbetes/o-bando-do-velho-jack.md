@@ -36,7 +36,7 @@ A Wikipédia em inglês lista cinco álbuns, quatro lançados oficialmente: *Old
 
 ## Noites em Claro
 
-O curta-metragem [[noites-em-claro|*Noites em Claro*]], com recorte da história do grupo, estreou em 13 de julho de 2024, Dia Mundial do Rock, no Shopping Bosque dos Ipês, em Campo Grande. A direção é da jornalista Gabriela Dias. O filme traz depoimentos de [[miska|Miska Thomé]], Guilherme Cruz, [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]] e Oswaldo Vecchione, fundador da Made in Brazil. A estreia integrou a exposição "Rock Cine".[^cgn2024]
+O curta-metragem [[noites-em-claro|*Noites em Claro*]], com recorte da história do grupo, estreou em 13 de julho de 2024, Dia Mundial do Rock, no Shopping Bosque dos Ipês, em Campo Grande. A direção é da jornalista [[gabriela-dias|Gabriela Dias]]. O filme traz depoimentos de [[miska|Miska Thomé]], Guilherme Cruz, [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]] e Oswaldo Vecchione, fundador da Made in Brazil. A estreia integrou a exposição "Rock Cine".[^cgn2024]
 
 ## Para saber mais
 

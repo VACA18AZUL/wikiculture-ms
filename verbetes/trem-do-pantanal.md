@@ -32,7 +32,7 @@ Simões, por sua vez, disse que a letra usa a natureza como cenário e que a mú
 
 O jornalista [[jose-octavio-guizzo|José Octávio Guizzo]] chamou a canção, em 1982, de "uma espécie de hino" da moderna música popular urbana do estado, segundo o antropólogo Álvaro Neder.[^neder] Em 1990, Roca disse que o público de São Paulo já a conhecia quando a tocou em um show.[^cgn]
 
-Em 2001, uma votação em todo o estado, feita em urnas eletrônicas cedidas pelo TRE, escolheu a música mais representativa de Mato Grosso do Sul. Participaram 27.698 pessoas. A canção teve 12.112 votos (43,73%) e venceu em 52 dos 77 municípios. Segundo Neder, o estado tem um hino oficial, de Radamés Gnattali (música) e Jorge Antonio Siufi e Otávio Gonçalves Gomes (letra), que a população largamente desconhece.[^neder] Em 2005, o coral da Assembleia Legislativa a cantou na abertura dos Jogos Abertos Brasileiros, ao lado do Hino Nacional.[^neder]
+Em 2001, uma votação em todo o estado, feita em urnas eletrônicas cedidas pelo TRE, escolheu a música mais representativa de Mato Grosso do Sul. Participaram 27.698 pessoas. A canção teve 12.112 votos (43,73%) e venceu em 52 dos 77 municípios. Segundo Neder, o estado tem um hino oficial, de Radamés Gnattali (música) e Jorge Antonio Siufi e [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]] (letra), que a população largamente desconhece.[^neder] Em 2005, o coral da Assembleia Legislativa a cantou na abertura dos Jogos Abertos Brasileiros, ao lado do Hino Nacional.[^neder]
 
 Neder trata a canção como parte da [[musica-do-litoral-central|Música do Litoral Central]].[^neder] [[almir-sater|Almir Sater]] a incluiu em seu repertório, e o Overmundo a chama de hit dele há mais de uma década.[^omroca]
 

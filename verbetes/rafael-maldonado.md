@@ -22,7 +22,7 @@ Em 2007, assinou com [[maysa-barros|Maysa Barros]], coordenadora do MARCO, a cur
 
 ## Exposições
 
-A Itaú Cultural lista a obra *Ornamento* (2000, óleo sobre tela) e a participação dele em *Artistas do Centro-Oeste* (dez. 2004 a jan. 2005), na Mostra Brasil Central de Artes Plásticas 2005, em *Habemus Cocam* (2006), em *A Arte de Colecionar-te* (2009) e em *A Impressão que Fica* (2012).[^itau]
+A Itaú Cultural lista a obra *Ornamento* (2000, óleo sobre tela) e a participação dele em *Artistas do Centro-Oeste* (dez. 2004 a jan. 2005), na Mostra [[brasil-central|Brasil Central]] de Artes Plásticas 2005, em *Habemus Cocam* (2006), em *A Arte de Colecionar-te* (2009) e em *A Impressão que Fica* (2012).[^itau]
 
 ## Obras
 

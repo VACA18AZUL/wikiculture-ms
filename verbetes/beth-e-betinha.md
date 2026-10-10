@@ -46,7 +46,7 @@ O Campo Grande News aponta a dupla como a primeira dupla feminina do estado.[^cg
 
 ## CD *GerAções* (2006)
 
-Em 2006, as duas gravaram "Flor mato-grossense" no CD *[[geracoes|GerAções]]*, produzido por [[marcio-de-camillo|Márcio de Camillo]], ao lado das cantoras Maria Alice e Maria Cláudia, com viola de [[aurelio-miranda|Aurélio Miranda]]. A canção é de Anacleto Rosas Jr., segundo o Overmundo.[^omflor] Na reportagem sobre o show de lançamento, na Concha Acústica [[helena-meirelles|Helena Meirelles]], o autor cita as duas, ao lado de [[amambay-e-amambai|Amambay e Amambaí]], como veteranas presentes no palco.[^omshow]
+Em 2006, as duas gravaram "Flor mato-grossense" no CD *[[geracoes|GerAções]]*, produzido por [[marcio-de-camillo|Márcio de Camillo]], ao lado das cantoras [[maria-alice|Maria Alice]] e Maria Cláudia, com viola de [[aurelio-miranda|Aurélio Miranda]]. A canção é de Anacleto Rosas Jr., segundo o Overmundo.[^omflor] Na reportagem sobre o show de lançamento, na Concha Acústica [[helena-meirelles|Helena Meirelles]], o autor cita as duas, ao lado de [[amambay-e-amambai|Amambay e Amambaí]], como veteranas presentes no palco.[^omshow]
 
 ## Obras
 

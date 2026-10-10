@@ -26,7 +26,7 @@ Em 1982, a UFMS promoveu no teatro vários shows do projeto [[prata-da-casa|Prat
 
 ## Outros usos
 
-O folheto da Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena (promovida pela Fundação de Cultura de MS) lista o Teatro Glauce Rocha como local da abertura oficial e de espetáculos.[^boca] A Wikipédia informa também que o Cine Glauce, projeto de extensão da UFMS, exibe filmes às terças-feiras no local.[^wiki]
+O folheto da Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena (promovida pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]) lista o Teatro Glauce Rocha como local da abertura oficial e de espetáculos.[^boca] A Wikipédia informa também que o [[cine-glauce|Cine Glauce]], projeto de extensão da UFMS, exibe filmes às terças-feiras no local.[^wiki]
 
 [^candil]: ["Candil, n. 24"](https://www.ufms.br/wp-content/uploads/2026/08/Candil-24_1set-1.pdf), revista da UFMS, 2026. Acesso em 10 out. 2026.
 [^wiki]: ["Teatro Glauce Rocha"](https://pt.wikipedia.org/wiki/Teatro_Glauce_Rocha), *Wikipédia* (conteúdo colaborativo, artigo sem fontes). Acesso em 10 out. 2026.

@@ -21,7 +21,7 @@ Em 2010, publicou *Polca paraguaia, guarânia e chamamé*, cujo subtítulo na UF
 
 Segundo Silus, Higa também é graduado em Ciências Jurídicas pelas Faculdades Unidas Católicas de Mato Grosso e fez o bacharelado em piano no Conservatório Brasileiro de Música, no Rio de Janeiro.[^trilhas]
 
-Em 2007, de acordo com reportagem de [[rodrigo-teixeira|Rodrigo Teixeira]] no Overmundo, compôs a música da montagem de *Dorotéia*, de Nelson Rodrigues, da Oficina de Criação Teatral, com direção de Andréa Freire, apresentada no Armazém Cultural, em Campo Grande. Ele se inspirou no teatro kabuki.[^ovdor]
+Em 2007, de acordo com reportagem de [[rodrigo-teixeira|Rodrigo Teixeira]] no Overmundo, compôs a música da montagem de *Dorotéia*, de Nelson Rodrigues, da Oficina de Criação Teatral, com direção de Andréa Freire, apresentada no [[armazem-cultural|Armazém Cultural]], em Campo Grande. Ele se inspirou no teatro kabuki.[^ovdor]
 
 Em 2016, publicou na revista *Per Musi* uma resenha do livro de Álvaro Neder sobre música popular urbana e fronteiras em Mato Grosso do Sul. No texto, assina como professor do curso de música da UFMS.[^permusi]
 

@@ -15,7 +15,7 @@ atualizado: 2026-10-10
 
 ## Trajetória
 
-O site da Associação Flor e Espinho também o descreve como um dos fundadores do grupo e diz que ele dirigiu *Verdades Inversas*, espetáculo de rua que trata da imprensa sensacionalista, da razão e da loucura.[^site]
+O site da [[associacao-flor-e-espinho|Associação Flor e Espinho]] também o descreve como um dos fundadores do grupo e diz que ele dirigiu *Verdades Inversas*, espetáculo de rua que trata da imprensa sensacionalista, da razão e da loucura.[^site]
 
 Em julho de 2019, o *Campo Grande News* o apresentou como um dos organizadores do [[pantalhacos|Pantalhaços]] e diretor da companhia Flor e Espinho. A matéria cobria a 7ª edição da mostra, organizada pelo [[circo-do-mato|Circo do Mato]] em conjunto com o Flor e Espinho.[^cgn2019]
 

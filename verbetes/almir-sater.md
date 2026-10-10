@@ -20,7 +20,7 @@ Aos 20 anos, mudou-se para o Rio de Janeiro para cursar Direito. Começou a cant
 
 Seu primeiro álbum, *Estradeiro*, é de 1981. *Doma* saiu em 1982, pela RGE.[^wiki][^bonny] Uma matéria oficial do governo do Paraná diz que ele começou a carreira em 1981 e gravou pouco mais de uma dezena de álbuns, e que foi um dos responsáveis por resgatar a viola de dez cordas.[^aen]
 
-Com [[paulo-simoes|Paulo Simões]], assinou "Comitiva Esperança" (1983). A canção nasceu de uma expedição ao Pantanal entre novembro de 1983 e janeiro de 1984 e ficou conhecida pela novela *Pantanal*, da Rede Manchete. Os dois também produziram, com Wagner Carvalho, o documentário *[[comitiva-esperanca|Comitiva Esperança]]* (1986).[^bonny]
+Com [[paulo-simoes|Paulo Simões]], assinou "Comitiva Esperança" (1983). A canção nasceu de uma expedição ao Pantanal entre novembro de 1983 e janeiro de 1984 e ficou conhecida pela novela *Pantanal*, da Rede Manchete. Os dois também produziram, com [[wagner-carvalho|Wagner Carvalho]], o documentário *[[comitiva-esperanca|Comitiva Esperança]]* (1986).[^bonny]
 
 Segundo o Campo Grande News, ganhou projeção nacional com "Trem do Pantanal", canção de [[geraldo-roca|Geraldo Roca]] e Paulo Simões, e se destacou a partir dos anos 1980.[^mapa] A reportagem sobre o aniversário da canção confirma que ele cantou uma versão dela.[^trem]
 
@@ -32,7 +32,7 @@ Segundo entrevista de 2007 publicada no Overmundo, fez sua primeira apresentaç�
 
 Segundo a Wikipédia em português, *Estradeiro* teve produção de Pena Schmidt e participações de Tetê Espíndola, [[alzira-espindola|Alzira Espíndola]] e Paulo Simões. O texto o associa à geração do projeto Prata da Casa, do início dos anos 1980.[^wikipt] Ainda conforme a Wikipédia, o disco *Rasta Bonito* (1989) foi gravado em Nashville, nos Estados Unidos, com Eric Silver.[^wikipt] Almir Sater contou na entrevista de 2007 que o disco foi feito nos Estados Unidos e que, na época, recebeu convite para morar lá e montar um trabalho instrumental, antes de o convite para a novela *Pantanal* surgir.[^omsater]
 
-A Wikipédia em português data a expedição Comitiva Esperança de 1986 e cita como participantes Paulo Simões, Zé Gomes, o crítico Zuza Homem de Mello e o fotógrafo Raimundo Alves Filho. Esta data difere da apresentada por Bonny (novembro de 1983 a janeiro de 1984); as duas versões ficam registradas, sem escolha.[^wikipt][^bonny]
+A Wikipédia em português data a expedição Comitiva Esperança de 1986 e cita como participantes Paulo Simões, [[ze-gomes|Zé Gomes]], o crítico Zuza Homem de Mello e o fotógrafo Raimundo Alves Filho. Esta data difere da apresentada por Bonny (novembro de 1983 a janeiro de 1984); as duas versões ficam registradas, sem escolha.[^wikipt][^bonny]
 
 Sobre os discos de Renato Teixeira, a Wikipédia em português data *AR* de dezembro de 2015 e *+AR* de 9 de março de 2018. A matéria do governo do Paraná cita 2005 e 2008 para os mesmos títulos; as datas divergem.[^wikipt][^aen] Segundo a Wikipédia, *AR* rendeu à dupla o Prêmio da Música Brasileira de melhor dupla regional (2016) e o Grammy Latino de melhor álbum de música de raízes em língua portuguesa (2016), e *+AR* recebeu o mesmo prêmio em 2018. A canção "D de Destino", de Sater, Paulo Simões e Teixeira, foi indicada ao Grammy Latino de melhor canção em língua portuguesa.[^wikipt] A mesma fonte registra que a UFMS lhe concedeu o título de doutor honoris causa em 2019.[^wikipt]
 

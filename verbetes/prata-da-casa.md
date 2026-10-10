@@ -18,7 +18,7 @@ atualizado: 2026-10-10
 
 Segundo o *Campo Grande News*, o projeto durou de 1979 a 1983 e foi desenvolvido na Pró-Reitoria de Extensão e Serviços Complementares (Presc). Foi idealizado por [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]], que veio do Rio de Janeiro a convite de [[jose-octavio-guizzo|José Octávio Guizzo]]. [[moacir-lacerda|Moacir Lacerda]], do [[grupo-acaba|Grupo Acaba]], colaborou. A Presc foi depois dirigida por [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], apontada como uma das articuladoras.[^cgn]
 
-Para Silus, em 1982 a UFMS realizou o projeto com vários shows no [[teatro-glauce-rocha|Teatro Glauce Rocha]] e um especial com a TV Morena.[^silus] Segundo [[rodrigo-teixeira|Rodrigo Teixeira]], o projeto incluiu shows, gravação de videoclipe, o LP de 1982 e depois um projeto de circulação.[^cgn]
+Para Silus, em 1982 a UFMS realizou o projeto com vários shows no [[teatro-glauce-rocha|Teatro Glauce Rocha]] e um especial com a [[tv-morena|TV Morena]].[^silus] Segundo [[rodrigo-teixeira|Rodrigo Teixeira]], o projeto incluiu shows, gravação de videoclipe, o LP de 1982 e depois um projeto de circulação.[^cgn]
 
 ## O LP
 
@@ -26,7 +26,7 @@ Silus reproduz nota de 2012 segundo a qual o LP foi gravado nos dias 15 e 16 de 
 
 Entre as canções apresentadas no projeto, a reportagem cita "[[trem-do-pantanal|Trem do Pantanal]]", "Cunhataiporã", "Quyquyho", "[[sonhos-guaranis|Sonhos Guaranis]]", "Piraretã", "Waradzu", "Estradeiro", "Violeiros", "Ciranda Pantaneira", "Descuidado", "Horizontes" e "Coração Ventania".[^cgn] Entre os artistas, cita [[almir-sater|Almir Sater]], [[lenilde-ramos|Lenilde Ramos]], [[celito-espindola|Celito Espíndola]], [[carlos-colman|Carlos Colman]] e [[guilherme-rondon|Guilherme Rondon]], que ficaram conhecidos como Geração Prata da Casa.[^cgn] O [[grupo-acaba|Grupo Acaba]] também se apresentou.[^silus]
 
-Evandro Higa, na resenha do livro de Neder, descreve o LP como uma espécie de manifesto informal da [[musica-do-litoral-central|Música do Litoral Central]].[^higa]
+[[evandro-higa|Evandro Higa]], na resenha do livro de Neder, descreve o LP como uma espécie de manifesto informal da [[musica-do-litoral-central|Música do Litoral Central]].[^higa]
 
 ## Desdobramentos
 
