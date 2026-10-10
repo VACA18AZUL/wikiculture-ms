@@ -50,6 +50,12 @@ A academia promove o clube de leitura "Leituras & Conversas", com encontro marca
 
 A poeta [[raquel-naveira|Raquel Naveira]] ocupa a cadeira 8.[^chisini]
 
+## Para saber mais
+
+- [Site da ASL](https://acletrasms.org.br/) — site oficial da Academia Sul-Mato-Grossense de Letras, indicado pela Wikipédia em português.[^aslwp]
+- [Instagram da ASL (@academiadeletrasms)](https://www.instagram.com/academiadeletrasms/) — canal oficial da Academia, indicado pela Wikipédia em português.[^aslwp]
+
+[^aslwp]: ["Academia Sul-Mato-Grossense de Letras"](https://pt.wikipedia.org/wiki/Academia_Sul-Mato-Grossense_de_Letras), seção Ligações externas, *Wikipédia, a enciclopédia livre*. Acesso em 10 out. 2026.
 [^acr2026]: Iury de Oliveira, [matéria sobre a posse de André Alvez](https://acritica.net/cultura/andre-alvez-posse-academia-sul-mato-grossense-letras/), *A Crítica de Campo Grande*, 10 ago. 2026. Acesso em 8 out. 2026.
 [^cgn2026]: Thailla Torres, ["Academia realiza clube de leitura com obra de Elias Borges"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/academia-realiza-clube-de-leitura-com-obra-de-elias-borges), *Campo Grande News*, 7 out. 2026. Acesso em 8 out. 2026.
 [^chisini]: Josenia Marisa Chisini, *A difusão do trabalho literário de Raquel Naveira*, Multitemas (UCDB), p. 61, [texto em PDF](https://multitemas.ucdb.br/multitemas/article/download/1134/1073/3247). Acesso em 8 out. 2026.

@@ -31,6 +31,11 @@ Segundo o *Campo Grande News*, em junho de 2023 o artista começou a presentear 
 - Fachadas de bares, lanchonete, barbearia e espaço infantil de igreja, pintadas como presente em Campo Grande (2023).[^cgn2023]
 - Mural em ponto de ônibus, Avenida Ministro João Arinos, com desenho escolhido por seguidores (outubro de 2026).[^cgn2026]
 
+## Para saber mais
+
+- [Instagram de Rabisco Easy (@rabiscoeasy)](https://www.instagram.com/rabiscoeasy/) — perfil de Rabisco Easy, indicado como canal do artista pelo *Campo Grande News*.[^cgnperfil]
+
+[^cgnperfil]: Jéssica Fernandes, ["Lucas espalha arte pelo comércio doando painéis de grafite"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/lucas-espalha-arte-pelo-comercio-doando-paineis-de-grafite), *Campo Grande News*, 29 jun. 2023, que informa que o perfil no Instagram e no TikTok é @rabiscoeasy. Acesso em 10 out. 2026.
 [^cgn2026]: Thailla Torres, ["Seguidores escolhem desenho e artista transforma muro de ponto de ônibus"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/seguidores-escolhem-desenho-e-artista-transforma-muro-de-ponto-de-onibus), *Campo Grande News*, 8 out. 2026. Acesso em 8 out. 2026.
 [^midiamax2026]: Ana Cavalcante, ["Inspirado por doguinhos em situação de rua, artista revitaliza espaço público em Campo Grande"](https://midiamax.com.br/midiamais/2026/inspirado-doguinhos-situacao-rua-artista-revitaliza-espaco-puiblico-campo-grande/), *Midiamax*, 18 ago. 2026. Acesso em 8 out. 2026.
 [^cgn2023]: Jéssica Fernandes, ["Lucas espalha arte pelo comércio doando painéis de grafite"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/lucas-espalha-arte-pelo-comercio-doando-paineis-de-grafite), *Campo Grande News*, 29 jun. 2023. Acesso em 10 out. 2026.
