@@ -36,7 +36,9 @@ Em entrevista publicada no Overmundo em 2007, o artista Baldinir Bezerra disse q
 
 O artista morreu em março de 2003, aos 45 anos, segundo o site Unidade Guaicuru Viva, que diz que o corpo era velado em 21 de março daquele ano.[^ugv] Um texto do blog de Alex Fraga, escrito 17 anos depois, dá o dia 21 de março de 2003 como data da morte.[^alex] O site também registra que, em 2004, o cineasta [[alexandre-basso|Alexandre Basso]] realizou o documentário *[[guerreiro-de-paz|Guerreiro de Paz]]* em sua homenagem.[^ugv]
 
-O acervo dele fica no Memorial Henrique Spengler, no campus de Coxim da UFMS, junto a um centro de documentação formado pela biblioteca que foi sua.[^estado] Em maio de 2011, a Prefeitura de Coxim promoveu um tributo a ele, com apresentações musicais e a restauração de pinturas suas num muro da praça às margens do rio Taquari.[^idest] Quase duas décadas após a morte, a memória do movimento ganhou o site *Unidade Guaicuru Viva*, organizado por Caroline Garcia e Paulo Duarte Paes, com exposição virtual de obras de artistas ligados ao grupo.[^ugv2]
+O acervo dele fica no Memorial Henrique Spengler, no campus de Coxim da UFMS, junto a um centro de documentação formado pela biblioteca que foi sua.[^estado] Em 2020, o projeto de extensão "A obra de Henrique Spengler: diálogos com a cultura Mbayá-Kadiwéu-Guaicuru", do campus de Coxim da UFMS, criou um canal no YouTube para visitas virtuais ao memorial, segundo o *Diário X*. A nota registra que o memorial é cadastrado no Ibram e que o projeto chegava ao quarto ano.[^diariox]
+
+Em maio de 2011, a Prefeitura de Coxim promoveu um tributo a ele, com apresentações musicais e a restauração de pinturas suas num muro da praça às margens do rio Taquari.[^idest] Quase duas décadas após a morte, a memória do movimento ganhou o site *Unidade Guaicuru Viva*, organizado por Caroline Garcia e Paulo Duarte Paes, com exposição virtual de obras de artistas ligados ao grupo.[^ugv2]
 
 ## Para saber mais
 
@@ -56,4 +58,5 @@ O acervo dele fica no Memorial Henrique Spengler, no campus de Coxim da UFMS, ju
 [^ovbal]: Gisele Colombo, ["Baldinir Bezerra: retrato tocante dos anos 80 II"](https://www.overmundo.com.br/overblog/baldinir-bezerra-retrato-tocante-dos-anos-80-ii), *Overmundo*, 28 mar. 2007. Acesso em 10 out. 2026.
 [^ce]: Laura Brasil, ["Morre Adilson Schieffer, conhecido por representar a cultura Kadiwéu"](https://correiodoestado.com.br/cidades/morre-adilson-schieffer-conhecido-por-representar-a-cultura-kadiweu/442896/), *Correio do Estado*, 28 jan. 2025. Acesso em 10 out. 2026.
 [^alex]: ["Memória: Henrique Spengler, 17 anos sem esse grande artista"](https://www.blogdoalexfraga.com.br/post/mem%C3%B3ria-henrique-spengler-17-anos-sem-esse-grande-artista), *Blog do Alex Fraga*, sem data legível (17 anos após a morte). Acesso em 10 out. 2026.
+[^diariox]: Paulo Ricardo, ["Projeto da UFMS cria visita virtual ao Memorial Henrique Spengler de Coxim"](https://www.diariox.com.br/brasil/projeto-da-ufms-cria-visita-virtual-ao-memorial-henrique-spengler-de/22995/), *Diário X*, 30 dez. 2020. Acesso em 10 out. 2026.
 [^idest]: ["Apresentações culturais marcam o tributo à Henrique Spengler em Coxim"](https://idest.com.br/cidades/apresentacoes-culturais-marcam-o-tributo-a-henrique-spengler-em-coxim), *Idest*, 30 maio 2011. Acesso em 10 out. 2026.

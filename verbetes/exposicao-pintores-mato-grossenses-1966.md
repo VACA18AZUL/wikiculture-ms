@@ -26,7 +26,7 @@ As fontes divergem sobre o júri. Assis diz que o crítico Pietro Bardi, então 
 
 ## Participantes e prêmios
 
-Assis lista, entre os participantes, Ignez Correa da Costa, Antônio Burgos, Humberto Espíndola, [[miguel-peres|Miguel Peres]], [[reginaldo-araujo|Reginaldo Araújo]], [[fausto-furlan|Fausto Furlan]], [[sila-passarelli|Sila Passarelli]], [[dalva-maria-de-barros|Dalva Maria de Barros]], [[flavio-taveira|Flávio Taveira]], [[jorapimo|Jorapimo]] e [[ilton-silva|Ilton Silva]].[^assis2013] Espíndola diz que Fausto Furlan não participou dessa coletiva, o que diverge da lista de Assis.[^espindola2004]
+Assis lista, entre os participantes, [[ines-correa-da-costa|Ignez Correa da Costa]], [[antonio-burgos-villa|Antônio Burgos]], Humberto Espíndola, [[miguel-peres|Miguel Peres]], [[reginaldo-araujo|Reginaldo Araújo]], [[fausto-furlan|Fausto Furlan]], [[sila-passarelli|Sila Passarelli]], [[dalva-maria-de-barros|Dalva Maria de Barros]], [[flavio-taveira|Flávio Taveira]], [[jorapimo|Jorapimo]] e [[ilton-silva|Ilton Silva]].[^assis2013] Espíndola diz que Fausto Furlan não participou dessa coletiva, o que diverge da lista de Assis.[^espindola2004]
 
 Segundo Espíndola, Reginaldo Araújo, de Campo Grande, obteve o primeiro prêmio.[^espindola2004] O texto do Overmundo acrescenta que Jorapimo ficou em segundo e Dalva Barros em terceiro.[^overmundo2007]
 

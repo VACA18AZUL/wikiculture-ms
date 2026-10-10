@@ -39,16 +39,25 @@ Segundo o Overmundo, [[humberto-espindola|Humberto Espíndola]] aceitou dirigir 
 
 A Itaú Cultural lista mostras com sua obra em Campo Grande em 1990 (de 15 de agosto a 14 de setembro), em 2004 e em 2009.[^itau] Em maio de 2025, os 125 anos de seu nascimento foram lembrados na exposição "As várias faces de Lídia Baís", montada no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]] com obras do acervo do MARCO, dentro da programação da Semana Nacional de Museus.[^cgn2025]
 
+Em abril de 2026, o Museu Casa Amarela, em Campo Grande, abriu o projeto "Pontes Imaginárias: Lídia Baís e a arte de unir mundos", pelos 126 anos de seu nascimento. A mostra apresentou o catálogo original da exposição que ela fez em vida, documento sem data precisa, que a organização estima ser do início da década de 1930. Ficou aberta até 23 de maio, com oficinas de arteterapia baseadas no livro de Tatiana De Conto, de 2023.[^cgn2026] A datação do catálogo (c. 1930-1935) difere de dezembro de 1929, data que Rigotti, o Overmundo e a Itaú Cultural dão para a exposição no Rio; as fontes não esclarecem se se trata do mesmo evento.[^cgn2026][^rigotti]
+
+## No cinema
+
+O longa-metragem de ficção *Lydia*, da produtora Pólofilme, foi filmado majoritariamente na [[morada-dos-bais|Morada dos Baís]] a partir de maio de 2026, com término previsto para junho. Tem direção de Ricardo Câmara e codireção de Mariana Villas-Bôas, e se inspira no livro *História de T. Lídia Baís* (1960). O roteiro é de Melina Delboni, e a produção, de [[joel-pizzini|Joel Pizzini]] e Juliana Domingos. O eixo da narrativa é 1929, ano da exposição no Rio. O filme recebeu recursos da Lei Paulo Gustavo, por meio da Fundação de Cultura de MS.[^ce2026]
+
 ## Para saber mais
 
 - [Arte sul-mato-grossense: o legado de Lídia Baís e o acervo do MARCO](https://periodicos.ufpel.edu.br/index.php/Memoria/article/view/9493/6274) — artigo acadêmico (periódicos UFPel) sobre o lugar da artista no acervo do museu.
 - [Imaginário e representação na pintura de Lídia Baís](https://files.ufgd.edu.br/arquivos/arquivos/78/EDITORA/catalogo/imaginario-e-representacao-na-pintura-de-lidia-bais.pdf) — livro de Paulo Rigotti (Editora UFGD/UEMS, 2009), com biografia, documentos e análise das obras.[^rigotti]
 - [Lídia Baís: Santa ou Pagã](https://www.overmundo.com.br/overblog/lidia-bais-santa-ou-paga) — reportagem de 2006 no Overmundo, com entrevista de Espíndola sobre a artista.[^om]
+- [Longa-metragem filmado na Morada dos Baís, "Lydia"](https://correiodoestado.com.br/correio-b/longa-metragem-filmado-na-morada-dos-bais-lydia-resgata-a/466355/) — reportagem de 2026 sobre o filme de ficção inspirado na autobiografia da artista.[^ce2026]
 - [Getúlio e as estrelas: política e feminismo de Lídia Baís](https://files.ufgd.edu.br/arquivos/arquivos/78/EDITORA/catalogo/mulheres_na_historia_de_ms.pdf) — capítulo de Alda Maria Quadros do Couto sobre *Dr. Getúlio* e a fotomontagem (p. 135-165).[^couto]
 
 [^cgn2025]: Thailla Torres, ["Exposição homenageia artista Lídia Baís no MIS a partir de 12 de maio"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-homenageia-artista-lidia-bais-no-mis-a-partir-de-12-de-maio), *Campo Grande News*, 7 mai. 2025. Acesso em 8 out. 2026.
 [^itau]: ["Lídia Baís"](https://enciclopedia.itaucultural.org.br/pessoa10195/lidia-bais), *Enciclopédia Itaú Cultural*. Acesso em 10 out. 2026.
 [^wiki]: ["Lídia Baís"](https://pt.wikipedia.org/wiki/L%C3%ADdia_Ba%C3%ADs), *Wikipédia, a enciclopédia livre*. Acesso em 10 out. 2026.
 [^om]: Rodrigo Teixeira, ["Lídia Baís: Santa ou Pagã"](https://www.overmundo.com.br/overblog/lidia-bais-santa-ou-paga), *Overmundo*, 15 jul. 2006. Acesso em 10 out. 2026.
+[^cgn2026]: Thailla Torres, ["Casa celebra os 126 anos de Lídia Baís com exposição inédita"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/casa-celebra-os-126-anos-de-lidia-bais-com-exposicao-inedita), *Campo Grande News*, 19 abr. 2026. Acesso em 10 out. 2026.
+[^ce2026]: Mariana Piell, ["Longa-metragem filmado na Morada dos Baís, \"Lydia\" resgata a trajetória da artista de MS"](https://correiodoestado.com.br/correio-b/longa-metragem-filmado-na-morada-dos-bais-lydia-resgata-a/466355/), *Correio do Estado*, 11 maio 2026. Acesso em 10 out. 2026.
 [^rigotti]: Paulo Roberto Rigotti, [*Imaginário e representação na pintura de Lídia Baís*](https://files.ufgd.edu.br/arquivos/arquivos/78/EDITORA/catalogo/imaginario-e-representacao-na-pintura-de-lidia-bais.pdf), Dourados: Editora UEMS/UFGD, 2009, p. 22-38. Acesso em 10 out. 2026.
 [^couto]: Alda Maria Quadros do Couto, "Getúlio e as estrelas: política e feminismo de Lídia Baís", em Marisa de Fátima Lomba de Farias, Alexandra Lopes da Costa e Luciana Branco Vieira (orgs.), [*Mulheres na história de Mato Grosso do Sul*](https://files.ufgd.edu.br/arquivos/arquivos/78/EDITORA/catalogo/mulheres_na_historia_de_ms.pdf), Dourados: EdUFGD, 2017, p. 135-165. Acesso em 10 out. 2026.

@@ -26,6 +26,8 @@ A Wikipédia em português registra, no verbete de Conceição dos Bugres, que I
 
 ## Exposições
 
+Em maio de 2014, a exposição "Cores e Mitos" voltou a ser exibida na [[morada-dos-bais|Morada dos Baís]], em Campo Grande, com abertura em 6 de maio. O *Campo Grande News* descreve a obra como de mulheres em cores chapadas, contornos filetados e moldura de madeira integrada ao quadro. A reportagem o apresenta como autodidata, pintor, entalhador e escultor, com prêmios em salões do estado e individuais na Argentina, Alemanha, Portugal e Estados Unidos.[^cgn14]
+
 Um texto colaborativo do Overmundo, de 15 de maio de 2006, anunciou que o Festival América do Sul, em Corumbá, teria a mostra "Introdução à História do Modernismo na Fronteira Extrema do Centro-Oeste Brasileiro – Mato Grosso e Mato Grosso do Sul". Entre os artistas com obras previstas estavam Ilton Silva, Jorapimo, [[joao-sebastiao-costa|João Sebastião]] Costa, [[clovis-irigaray|Clóvis Irigaray]], Conceição dos Bugres e Dalva de Barros.[^omfas]
 
 ## Obra
@@ -33,6 +35,7 @@ Um texto colaborativo do Overmundo, de 15 de maio de 2006, anunciou que o Festiv
 Um material didático de 2025 cita a série *Lida de Peão* e inclui o nome do artista entre os mencionados no capítulo de artes visuais do livro *Cultura e Arte em Mato Grosso do Sul* (2006).[^souza]
 
 [^cgn15]: Naiane Mesquita, ["Aos 72 anos, Ilton Silva quer virar grafiteiro e atuar para o cinema"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aos-72-anos-ilton-silva-quer-virar-grafiteiro-e-atuar-para-o-cinema), *Campo Grande News*, 15 out. 2015. Acesso em 8 out. 2026.
+[^cgn14]: Ângela Kempfer, ["Ilton Silva volta com exposição \"Cores e Mitos\" na Morada dos Baís"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ilton-silva-volta-com-exposicao-cores-e-mitos-na-morada-dos-bais), *Campo Grande News*, 4 maio 2014. Acesso em 10 out. 2026.
 [^confea]: ["Artistas plásticos expõem obras no Espaço Cultural do Crea-MS"](https://www.confea.org.br/node/104388), Última Hora News, via Confea, 20 nov. 2006. Acesso em 8 out. 2026.
 [^amizo]: Isabella Banducci Amizo, [*Poética dos Bugres: uma incursão sobre arte, identidade e o outro*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2239), dissertação, UFMS, 2015, p. 20, 22 e 42. Acesso em 8 out. 2026.
 [^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação, UFGD, 2013, p. 26 e 42. Acesso em 8 out. 2026.

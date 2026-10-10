@@ -39,13 +39,17 @@ Obras do artista integram o acervo do [[marco|Museu de Arte Contemporânea de Ma
 
 Em abril de 2023, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] homenageou os 80 anos do artista com a exposição "Marco visita o MIS – Humberto Espíndola", que levou nove obras do acervo do MARCO ao [[mis-ms|Museu da Imagem e do Som]], em Campo Grande.[^cgn2023] A abertura foi marcada para 19 de abril de 2023.[^cc2023]
 
+Em 2026, a galeria MT Projetos de Arte, no Rio de Janeiro, apresentou a individual *Entremeios*, com curadoria de Victor Gorgulho. A revista ELLE Brasil descreve pinturas, esculturas e peças em couro pirografado de 2025, ao lado de trabalhos antigos, como a sequência fotográfica da performance "Ritual do sacrifício" (Fazenda Conceição, Pantanal, 1971) e o totem de chifres de boi exibido na Bienal de Veneza. A mostra ficou em cartaz até 26 de setembro.[^elle2026]
+
 ## Para saber mais
 
 - [Humberto Espíndola: O Dono dos Bois (parte 1)](https://www.overmundo.com.br/overblog/humberto-espindola-o-dono-dos-bois-1) e [parte 2](https://www.overmundo.com.br/overblog/humberto-espindola-o-dono-dos-bois-2) — entrevista de 2007 ao Overmundo, com o artista falando da Bovinocultura, da divisão do estado e do movimento artístico dos anos 1960.[^om1]
 - [Uma obra, uma vida, uma marca, vários traumas: o artista plástico Humberto Espíndola](https://ojs.ufgd.edu.br/Raido/article/download/1321/980/4720) — artigo da revista *Raído* (UFGD) sobre a série "Divisão de Mato Grosso".[^raido]
+- [Humberto Espíndola disseca a figura do boi em exposição](https://elle.com.br/cultura/exposicao-humberto-espindola-e-o-boi) — reportagem da ELLE Brasil (2026) sobre a individual *Entremeios*.[^elle2026]
 - [Humberto Espíndola](https://enciclopedia.itaucultural.org.br/pessoas/2159-humberto-espindola) — verbete da Enciclopédia Itaú Cultural, com bibliografia e lista de exposições.[^itau]
 
 [^cgn2023]: Thailla Torres, ["MIS realiza exposição gratuita com obras de Humberto Espíndola"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mis-realiza-exposicao-gratuita-com-obras-de-humberto-espindola), *Campo Grande News*, 13 abr. 2023. Acesso em 8 out. 2026.
+[^elle2026]: ["Humberto Espíndola disseca a figura do boi em exposição"](https://elle.com.br/cultura/exposicao-humberto-espindola-e-o-boi), *ELLE Brasil*, 2026. Acesso em 10 out. 2026.
 [^itau]: ["Humberto Espíndola"](https://enciclopedia.itaucultural.org.br/pessoas/2159-humberto-espindola), *Enciclopédia Itaú Cultural*. Acesso em 10 out. 2026.
 [^wiki]: ["Humberto Espíndola"](https://pt.wikipedia.org/wiki/Humberto_Esp%C3%ADndola), *Wikipédia, a enciclopédia livre*. Acesso em 10 out. 2026.
 [^diogo]: Túlio Cesar de Arruda Ferreira Diogo, ["Clóvis Hugueney Irigaray: estética e humanização Juruna do Brasil Central – 1975"](https://revistaihgmt.com.br/index.php/revistaihgmt/article/download/703/715), *Revista do Instituto Histórico e Geográfico de Mato Grosso*, n. 85, 2023, p. 189-192. Acesso em 10 out. 2026.

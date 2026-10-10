@@ -33,6 +33,10 @@ Em julho de 2023, Benilda foi citada entre os artistas de Mato Grosso do Sul da 
 
 Em 11 de abril de 2024, na reinauguração das galerias [[wega-nery|Wega Nery]] e Ignêz Corrêa da Costa, no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], em Campo Grande, ela protestou contra duas telas da coletiva *Entrosamento*, que usavam grafismos indígenas e eram de artistas não indígenas. Para ela, o uso sem participação de artistas indígenas contribuía para o apagamento da arte das mulheres do povo. A coordenação do centro retirou as telas. O arqueólogo [[gilson-rodolfo-martins|Gilson Rodolfo Martins]], ouvido pela reportagem, disse que a medida podia se aproximar de censura.[^teatrine]
 
+## Posicionamento público
+
+Em dezembro de 2024, a Mongabay relatou que a editora francesa Éditions du Seuil adiou um livro com mais de 30 desenhos feitos por mulheres kadiwéu e dados a Claude Lévi-Strauss em 1935, depois de uma carta aberta do povo Ejiwajegi/Kadiwéu que reclamava de falta de consulta. A reportagem identifica Benilda Vergílio como designer, estilista e pós-graduanda em antropologia na UFMS, e cita sua declaração de que a propriedade intelectual dos grafismos é parte da identidade coletiva do povo e de que a consulta prévia deve ser respeitada.[^mongabay]
+
 ## Literatura
 
 Benilda contribuiu com dois poemas para o *Álbum Guerreiras da Ancestralidade*, organizado por Eva Potiguara, e com uma frase em língua kadiwéu. O livro reúne 63 coautoras e foi premiado pelo Jabuti de 2023, na categoria Fomento à Leitura.[^cgn2023jabuti] Um dos poemas, "Godamipi", segundo ela, surgiu em sonho.[^cgn2023jabuti]
@@ -40,6 +44,7 @@ Benilda contribuiu com dois poemas para o *Álbum Guerreiras da Ancestralidade*,
 ## Para saber mais
 
 - [Telas são retiradas de exposição do Centro Cultural após protesto de Beni Kadiwéu](https://www.teatrinetv.com.br/politica-cultural/telas-sao-retiradas-de-exposicao-do-centro-cultural-apos-protesto-de/18566/) — reportagem do Teatrine TV, de 2024, com depoimento de Beni sobre apropriação de grafismos kadiwéu.
+- [Brazil's Kadiwéu force international debate about authorship of Indigenous art](https://news.mongabay.com/2024/12/brazils-kadiweu-force-international-debate-about-authorship-of-indigenous-art/) — reportagem da Mongabay (2024), com declaração de Benilda sobre propriedade intelectual dos grafismos.[^mongabay]
 - [Benilda Vergílio](https://pt.wikipedia.org/wiki/Benilda_Verg%C3%ADlio) — página da Wikipédia em português sobre a estilista (texto colaborativo, curto).
 - [Indígena de MS ganha maior prêmio de literatura com poema sonhado](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/indigena-de-ms-ganha-maior-premio-de-literatura-com-poema-sonhado) — reportagem sobre o Jabuti e os poemas de Benilda.
 - [Exposição de mulheres indígenas mostra arte "sagrada" das etnias de MS](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-mulheres-indigenas-mostra-arte-sagrada-das-etnias-de-ms) — a mostra *Elas em Corumbá*, com a obra de Benilda.
@@ -48,4 +53,5 @@ Benilda contribuiu com dois poemas para o *Álbum Guerreiras da Ancestralidade*,
 [^cgn2023expo]: Thailla Torres, ["Exposição de mulheres indígenas mostra arte "sagrada" das etnias de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-mulheres-indigenas-mostra-arte-sagrada-das-etnias-de-ms), *Campo Grande News*, 10 nov. 2023. Acesso em 8 out. 2026.
 [^cgn2023rio]: Thailla Torres, ["Coletivo de MS está entre 8 artistas de exposição no Rio de Janeiro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/coletivo-de-ms-esta-entre-8-artistas-de-exposicao-no-rio-de-janeiro), *Campo Grande News*, 23 jul. 2023. Acesso em 8 out. 2026.
 [^teatrine]: Tero Queiroz, ["Telas são retiradas de exposição do Centro Cultural após protesto de Beni Kadiwéu"](https://www.teatrinetv.com.br/politica-cultural/telas-sao-retiradas-de-exposicao-do-centro-cultural-apos-protesto-de/18566/), *Teatrine TV*, 19 abr. 2024. Acesso em 10 out. 2026.
+[^mongabay]: Júlia Moa, ["Brazil's Kadiwéu force international debate about authorship of Indigenous art"](https://news.mongabay.com/2024/12/brazils-kadiweu-force-international-debate-about-authorship-of-indigenous-art/), *Mongabay*, 26 dez. 2024. Acesso em 10 out. 2026.
 [^wiki]: ["Benilda Vergílio"](https://pt.wikipedia.org/wiki/Benilda_Verg%C3%ADlio), *Wikipédia em português*. Acesso em 10 out. 2026.

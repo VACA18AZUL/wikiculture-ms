@@ -46,9 +46,11 @@ O museu fica no Parque das Nações Indígenas. Em 2013, tinha cinco salas de ex
 ## Para saber mais
 
 - Mariana Rodrigues de Oliveira, [*O Museu de Arte Contemporânea de Campo Grande – MS: história e memória*](https://site.ucdb.br/public/md-dissertacoes/1029125-dissertacao-mariana-rodrigues-de-oliveira.pdf) — dissertação de mestrado (UCDB) sobre a criação do museu e a formação do acervo.
+- [Museu de Arte Contemporânea MS (@marcomuseums)](https://www.instagram.com/marcomuseums/) — perfil do museu no Instagram, indicado como rede social oficial pela ficha do MARCO no portal Visite Museus, do Ibram.[^visite]
 
 [^guia]: ["MARCO – Museu de Arte Contemporânea de Mato Grosso do Sul"](https://www.guiadasemana.com.br/campo-grande/arte/estabelecimento/marco-museu-de-arte-contemporanea-de-mato-grosso-do-sul), *Guia da Semana*, página atualizada em 17 jul. 2013. Acesso em 8 out. 2026.
 [^anpuh]: ["Patrimônio que incomoda: museus e coleções de arte"](https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945025_fb6237f6542ee315861019a6a0dcfbac.pdf), anais de simpósio da ANPUH. Acesso em 8 out. 2026.
+[^visite]: ["Museu de Arte Contemporânea de Mato Grosso do Sul"](https://visite.museus.gov.br/instituicoes/museu-de-arte-contemporanea-de-mato-gross-do-sul/), *Visite Museus* (Ibram). Acesso em 10 out. 2026.
 [^cgn2025]: Thailla Torres, ["Exposição homenageia artista Lídia Baís no MIS a partir de 12 de maio"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-homenageia-artista-lidia-bais-no-mis-a-partir-de-12-de-maio), *Campo Grande News*, 7 mai. 2025. Acesso em 8 out. 2026.
 [^cgn2023]: Thailla Torres, ["MIS realiza exposição gratuita com obras de Humberto Espíndola"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mis-realiza-exposicao-gratuita-com-obras-de-humberto-espindola), *Campo Grande News*, 13 abr. 2023. Acesso em 8 out. 2026.
 [^cat]: Fundação de Cultura de MS, [*MARCO 30 anos: catálogo comemorativo*](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf), 2021. Acesso em 8 out. 2026.
