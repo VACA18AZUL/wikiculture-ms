@@ -38,12 +38,15 @@ O cineasta [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]] fez um doc
 
 A data da morte também varia. A Itaú Cultural, a Wikipédia em português e a reportagem de 2016 dão 1984. O Overmundo traz 1987 na reportagem de 2007 e 1984 no guia de 2006.[^itau][^wiki][^cgn2016][^om][^omguia]
 
-A produção dos bugres seguiu na família. O neto Mariano Neto, que ajudava a avó desde criança, passou a fazer as peças em eucalipto, em padrão mais acabado, segundo o Overmundo.[^om] Segundo a Wikipédia em português, a Assembleia Legislativa de Mato Grosso do Sul concede a Medalha Conceição dos Bugres a artesãos do estado.[^wiki]
+A produção dos bugres seguiu na família. O neto Mariano Neto, que ajudava a avó desde criança, passou a fazer as peças em eucalipto, em padrão mais acabado, segundo o Overmundo.[^om] Em 2026, o Museu de Folclore Edison Carneiro, no Rio de Janeiro (unidade do Centro Nacional de Folclore e Cultura Popular, do Iphan), exibiu na Sala do Artista Popular a mostra "Sobre bugres e totens: a arte de Sotera Sanches e Mariano Neto", com obras do neto Mariano e de sua mãe, Sotera Sanches, nora da escultora, que faz esculturas próprias chamadas totens. Foi a primeira exposição da família no Rio. A abertura foi em 9 de julho, com visitação até 9 de setembro. A Agência Brasil informa que o museu tem peças de Conceição em seu acervo e que o centro documentou o ateliê dela, em fotografias, na década de 1970.[^ab2026]
+
+Segundo a Wikipédia em português, a Assembleia Legislativa de Mato Grosso do Sul concede a Medalha Conceição dos Bugres a artesãos do estado.[^wiki]
 
 ## Para saber mais
 
 - [Mariano: multiplicador de bugres da Conceição](https://www.overmundo.com.br/overblog/mariano-multiplicador-de-bugres-da-conceicao) — reportagem e entrevista de 2007 no Overmundo com o neto que continua o ofício.[^om]
 - [Conceição dos Bugres](https://enciclopedia.itaucultural.org.br/pessoa216460/conceicao-dos-bugres) — verbete da Enciclopédia Itaú Cultural, com bibliografia e eventos.[^itau]
+- [Família da escultora Conceição dos Bugres apresenta suas obras no Rio](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/familia-da-escultora-conceicao-dos-bugres-apresenta-suas-obras-no-rio) — reportagem de 2026 sobre a mostra de Mariano Neto e Sotera Sanches.[^ab2026]
 - [Documentário sobre Conceição é recuperado e pode se tornar patrimônio de MS](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/-documentario-sobre-conceicao-e-recuperado-e-pode-se-tornar-patrimonio-de-ms) — reportagem sobre a restauração do filme.[^cgn2016]
 
 [^masp]: ["Conceição dos Bugres: Tudo é da natureza do mundo"](https://masp.org.br/exposicoes/conceicao-dos-bugres), Masp. Acesso em 8 out. 2026.
@@ -53,4 +56,5 @@ A produção dos bugres seguiu na família. O neto Mariano Neto, que ajudava a a
 [^wiki]: ["Conceição dos Bugres"](https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_dos_Bugres), *Wikipédia, a enciclopédia livre*. Acesso em 10 out. 2026.
 [^om]: Rodrigo Teixeira, ["Mariano: multiplicador de bugres da Conceição"](https://www.overmundo.com.br/overblog/mariano-multiplicador-de-bugres-da-conceicao), *Overmundo*, 17 jan. 2007. Acesso em 10 out. 2026.
 [^omguia]: Rodrigo Teixeira, ["Bugrinho da Conceição"](https://www.overmundo.com.br/guia/bugrinho-da-conceicao), *Overmundo*, 4 mar. 2006. Acesso em 10 out. 2026.
+[^ab2026]: Alana Gandra, ["Família da escultora Conceição dos Bugres apresenta suas obras no Rio"](https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/familia-da-escultora-conceicao-dos-bugres-apresenta-suas-obras-no-rio), *Agência Brasil*, 7 jul. 2026. Acesso em 10 out. 2026.
 [^cgn2016]: Thailla Torres, ["Documentário sobre Conceição é recuperado e pode se tornar patrimônio de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/-documentario-sobre-conceicao-e-recuperado-e-pode-se-tornar-patrimonio-de-ms), *Campo Grande News*, 26 jul. 2016. Acesso em 10 out. 2026.

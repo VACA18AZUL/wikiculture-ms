@@ -33,6 +33,8 @@ Em maio de 2006, um texto colaborativo do Overmundo sobre o Festival América do
 
 Morreu em Cuiabá em 28 de fevereiro de 2016, aos 66 anos.[^g1]
 
+Em junho de 2018, a exposição "Na mão junto ao peito", na Casa do Parque, em Cuiabá, homenageou João Sebastião, Nilson Pimenta e Osvaldina Santos, com cerca de 43 obras de 35 artistas e abertura em 27 de junho. A matéria do *Olhar Direto* situa a estadia dele em Campo Grande entre 1969 e 1973, no ateliê de Espíndola e na [[ama|AMA]], período que o Almanaque Cuiabá limita a 1972.[^olhar2018][^almanaque]
+
 A Wikipédia em português tem página sobre o mesmo artista, com dados que coincidem com o Itaú Cultural.[^wiki]
 
 Um material didático de 2025 da UFMS o menciona brevemente, com Clovis Irigaray, [[ilton-silva|Ilton Silva]] e [[adelaide-vieira|Adelaide Vieira]], no capítulo de artes plásticas citado no material.[^souza2025]
@@ -63,6 +65,7 @@ Um material didático de 2025 da UFMS o menciona brevemente, com Clovis Irigaray
 [^itau-obras]: ["Obras de João Sebastião"](https://enciclopedia.itaucultural.org.br/pessoa8724/joao-sebastiao/obras), *Enciclopédia Itaú Cultural*. Acesso em 10 out. 2026.
 [^almanaque]: André Santana, ["João Sebastião, conhecido como artista das onças"](https://almanaquecuiaba.com.br/joao-sebastiao-o-artista-das-oncas-e-recorrencia-de-tematicas-femininas/), *Almanaque Cuiabá*. Acesso em 10 out. 2026.
 [^g1]: ["Morre aos 66 anos o artista plástico cuiabano João Sebastião"](https://g1.globo.com/mato-grosso/noticia/2016/02/morre-aos-66-anos-artista-plastico-mato-grossense-joao-sebastiao.html), *G1 MT*, 28 fev. 2016. Acesso em 10 out. 2026.
+[^olhar2018]: Isabela Mercuri, ["Obras de 35 artistas integram exposição em homenagem a Nilson Pimenta, João Sebastião e Osvaldina Santos"](https://www.olhardireto.com.br/conceito/noticias/obras-de-35-artistas-integram-exposicao-em-homenagem-a-nilson-pimenta-joao-sebastiao-e-osvaldina-santos), *Olhar Direto*, 26 jun. 2018. Acesso em 10 out. 2026.
 [^marcolonga]: ["Longa Duração: um panorama da história das artes plásticas em Mato Grosso do Sul através do acervo do MARCO"](https://marcovirtual.wordpress.com/longa-duracao/), *MARCO* (blog), texto sem autoria indicada. Acesso em 10 out. 2026.
 [^overmundo2006]: Marcelo Armoa, ["Festival promove encontro da cultura sul-americana"](https://www.overmundo.com.br/overblog/festival-promove-encontro-da-cultura-sul-americana), *Overmundo*, 15 mai. 2006. Acesso em 10 out. 2026.
 [^wiki]: ["João Sebastião Costa"](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Sebasti%C3%A3o_Costa), *Wikipédia*. Acesso em 10 out. 2026.

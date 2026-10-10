@@ -27,6 +27,8 @@ Em 1966, participou da primeira exposição de artistas mato-grossenses, no [[ra
 
 Em 1968, esteve em São Paulo, na Galeria do Cine Belas Artes, com a mostra "5 Artistas de Mato Grosso", ao lado de [[humberto-espindola|Humberto Espíndola]], [[clovis-irigaray|Clóvis Irigaray]], [[ilton-silva|Ilton Silva]] e [[adelaide-vieira|Adelaide Vieira]].[^diogo] A Itaú Cultural registra ainda a coletiva "Artistas de Mato Grosso do Sul" (1981), uma individual (30 de agosto a 21 de setembro de 1984), a mostra "Panorama – 30 Anos da Divisão do Estado", no [[marco|MARCO]] (2007), e "A Arte de Colecionar-te" (2009).[^itau]
 
+Em entrevista de 2008 ao Overmundo, o pintor corumbaense Daltro o chamou de precursor da pintura modernista no estado, que teria aberto espaço para outras vertentes, e disse que sua luta vinha de cerca de 40 anos antes, desde a época do Mato Grosso uno. É a opinião de um colega de ofício em texto colaborativo.[^daltro]
+
 Em 2009, o Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) iniciou o levantamento de sua obra. Em setembro daquele ano, cerca de 50 pinturas já haviam sido localizadas, e o material deveria resultar em um catálogo. A reportagem diz que ele pintou casarios do porto de Corumbá, barcas e pescadores e expôs no Japão, na Alemanha, nos Estados Unidos, no Paraguai, na Bolívia e no Uruguai. Em 2008, foi um dos homenageados do 5º Festival América do Sul.[^cgn2009] Morreu em 22 de novembro de 2009, segundo a Wikipédia em português.[^wiki]
 
 ## Para saber mais
@@ -41,5 +43,6 @@ Em 2009, o Instituto do Patrimônio Histórico e Artístico Nacional (Iphan) ini
 [^om]: Gisele Colombo, ["Curiosidades da história das artes plásticas de MS"](https://www.overmundo.com.br/overblog/curiosidades-da-historia-das-artes-plasticas-de-ms), *Overmundo*, 13 out. 2007. Acesso em 10 out. 2026.
 [^wiki]: ["Jorapimo"](https://pt.wikipedia.org/wiki/Jorapimo), *Wikipédia, a enciclopédia livre*. Acesso em 10 out. 2026.
 [^itau]: ["Jorapimo"](https://enciclopedia.itaucultural.org.br/pessoas/7131-jorapimo), *Enciclopédia Itaú Cultural*. Acesso em 10 out. 2026.
+[^daltro]: Gisele Colombo, ["Daltro: um pintor expressionista pantaneiro"](https://www.overmundo.com.br/overblog/daltro-um-pintor-expressionista-pantaneiro), *Overmundo*, 19 maio 2008 (entrevista; texto colaborativo). Acesso em 10 out. 2026.
 [^diogo]: Túlio Cesar de Arruda Ferreira Diogo, ["Clóvis Hugueney Irigaray: estética e humanização Juruna do Brasil Central – 1975"](https://revistaihgmt.com.br/index.php/revistaihgmt/article/download/703/715), *Revista do Instituto Histórico e Geográfico de Mato Grosso*, n. 85, 2023, p. 190. Acesso em 10 out. 2026.
 [^cgn2009]: ["Iphan faz levantamento da obra de Jorapimo"](https://www.campograndenews.com.br/entretenimento/iphan-faz-levantamento-da-obra-de-jorapimo-09-29-2009), *Campo Grande News*, 29 set. 2009. Acesso em 10 out. 2026.

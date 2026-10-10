@@ -26,6 +26,8 @@ Um texto de apresentação da sala de acervo do [[marco|MARCO]], sem autoria ind
 
 Uma reportagem de estudantes publicada no blog Factório MT, em 2023, também a chama de Ignêz Maria Luiza Corrêa da Costa e diz que foi aluna de Portinari na Universidade do Distrito Federal, no Rio de Janeiro. Segundo o texto, ela ganhou medalhas no Salão Nacional de Belas Artes e expôs na Royal Academy of Arts, no Reino Unido, em 1944. A obra *O casamento* (1974) integrou a exposição *Bio*, no [[museu-de-arte-e-cultura-popular|Museu de Arte e Cultura Popular]] da UFMT, em 2023. As fontes divergem sobre a instituição em que estudou com Portinari (Universidade do Brasil ou Universidade do Distrito Federal); este verbete registra as duas.[^factorio2023][^marcolonga]
 
+Uma coluna de Neila Barreto no *MidiaNews*, de março de 2024, a chama de Ignêz Maria Luiza Corrêa da Costa e a apresenta como a primeira artista plástica de Mato Grosso, nascida em Cuiabá em 1907 e morta em Campo Grande em 1987. A data de morte difere de 1986, que consta no texto do MARCO. O texto diz que ela estudou na Academia Nacional de Belas Artes, no Rio, com Portinari, e que vivia em Cuiabá, no Rio e em Campo Grande. Segundo a autora, a obra segue em grande parte com familiares e amigos. A coluna a descreve como irmã de Fernando Corrêa da Costa. As fontes divergem sobre os detalhes do estudo com Portinari (Universidade do Brasil, Universidade do Distrito Federal ou Academia Nacional de Belas Artes), e este verbete registra as versões sem escolher.[^midianews2024]
+
 Em palestra sobre a história das artes plásticas, relatada em texto colaborativo do Overmundo (2007), [[humberto-espindola|Humberto Espíndola]] citou Inês Correa da Costa entre as pintoras presentes em Mato Grosso ao falar das décadas de 1930 a 1950.[^overmundo2007]
 
 ## Obra
@@ -35,10 +37,12 @@ Em palestra sobre a história das artes plásticas, relatada em texto colaborati
 ## Para saber mais
 
 - [Longa Duração, MARCO](https://marcovirtual.wordpress.com/longa-duracao/) — panorama da história das artes plásticas de MS a partir do acervo do museu.
+- [Mulheres extraordinárias de MT - 2](https://www.midianews.com.br/amp/opiniao/464872) — coluna de 2024 sobre mulheres pioneiras na literatura e nas artes de Mato Grosso, com trecho sobre a artista.[^midianews2024]
 - [Resgatando história: conheça a primeira artista plástica de Mato Grosso](https://factoriomt.wordpress.com/2023/09/27/resgatando-historia-conheca-a-primeira-artista-plastica-de-mato-grosso/) — reportagem de estudantes sobre a artista e a dispersão de sua obra.
 
 [^assis2013]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2013, p. 26. Acesso em 8 out. 2026.
 [^tcc2025]: [*Caro professor: proposta de material de apoio sobre arte sul-mato-grossense*](https://repositorio.ufms.br/retrieve/a7f072cc-2bdd-464d-83ed-8aa7cf71b0a9/23004.pdf), trabalho de conclusão de curso, Licenciatura em Artes Visuais, Universidade Federal de Mato Grosso do Sul, 2025, p. 14. Acesso em 8 out. 2026.
 [^marcolonga]: ["Longa Duração: um panorama da história das artes plásticas em Mato Grosso do Sul através do acervo do MARCO"](https://marcovirtual.wordpress.com/longa-duracao/), *MARCO* (blog), texto sem autoria indicada. Acesso em 10 out. 2026.
 [^factorio2023]: Maryelle Campos, Millena Teixeira Barros e Rebeca Cruz, ["Resgatando história: conheça a primeira artista plástica de Mato Grosso"](https://factoriomt.wordpress.com/2023/09/27/resgatando-historia-conheca-a-primeira-artista-plastica-de-mato-grosso/), *Factório MT*, 27 set. 2023. Acesso em 10 out. 2026.
+[^midianews2024]: Neila Barreto, ["Mulheres extraordinárias de MT - 2"](https://www.midianews.com.br/amp/opiniao/464872), *MidiaNews*, 16 mar. 2024. Acesso em 10 out. 2026.
 [^overmundo2007]: Gisele Colombo, ["Curiosidades da história das artes plásticas de MS"](https://www.overmundo.com.br/overblog/curiosidades-da-historia-das-artes-plasticas-de-ms), *Overmundo*, 13 out. 2007. Acesso em 10 out. 2026.
