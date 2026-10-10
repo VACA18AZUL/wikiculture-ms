@@ -19,7 +19,7 @@ A **Cia. de Dança do Pantanal** é uma companhia de dança de Corumbá vinculad
 
 Em setembro de 2022, a companhia representou Mato Grosso do Sul no festival Dança em Trânsito, em Paris, com o espetáculo *[[carne-quebrada|Carne Quebrada]]*, inspirado no romance *A Carne*, de Júlio Ribeiro (1888). A coreografia é de [[wellington-julio|Wellington Júlio]], que também dança, com direção de [[rolando-candia|Rolando Candia]] e direção artística de [[marcia-rolon|Márcia Rolon]]. Os bailarinos eram Agustin Salcedo Martin, Núbia Santos e Wellington Júlio.[^cgn2022]
 
-Segundo reportagem de 2026, a companhia completou nove anos naquele ano, o que a situa em 2017; em 2023, a diretora do instituto falava em seis anos de existência. O Instituto Moinho Cultural Sul-Americano foi fundado em 2004, em Corumbá, e mantém também a Orquestra de Câmara do Pantanal. A companhia é formada por intérpretes-criadores que passaram pela formação do instituto.[^ac2026][^cc2023]
+Segundo reportagem de 2026, a companhia completou nove anos naquele ano, o que a situa em 2017; em 2023, a diretora do instituto falava em seis anos de existência. O Instituto Moinho Cultural Sul-Americano foi fundado em 2004, em Corumbá, e mantém também a [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]]. A companhia é formada por intérpretes-criadores que passaram pela formação do instituto.[^ac2026][^cc2023]
 
 Em 2023, o instituto lançou novas marcas para a companhia e para a orquestra; a da companhia combina o voo da garça-branca com o movimento dos bailarinos.[^cc2023]
 

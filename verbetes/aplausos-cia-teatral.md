@@ -24,7 +24,7 @@ Em uma montagem de *Cadê?!* apresentada no Teatro Prosa, em Campo Grande, em 27
 
 Em 30 de julho de 2017, *Cadê?!* integrou a programação do 18º Festival de Inverno de Bonito, na Praça da Liberdade. O programa divulgado pela imprensa grafa o nome como "Cia Aplausos" e traz a sinopse: a personagem Coisinha desiste da vida e os palhaços Xico e Zureta tentam ajudá-la, recorrendo a brincadeiras infantis, pantomima e números clássicos de palhaço. A direção é de Thathy d'Meo e o elenco repete o das outras fontes: Douglas Moreira, Thathy d'Meo e Glaucia Pires.[^jn2017]
 
-Em 24 de junho de 2022, na mostra Boca de Cena, a "Aplausos e Cia Teatral" apresentou *Lídia Bais: uma mulher à frente de seu tempo*, às 20h30, na sede do [[teatral-grupo-de-risco|Teatral Grupo de Risco]]. Segundo o release, o espetáculo parte de rodas de contação de histórias: Tatiana De Conto narra a trajetória da artista [[lidia-bais|Lídia Baís]], com direção de Thathy D. Meo.[^tv2022]
+Em 24 de junho de 2022, na mostra Boca de Cena, a "Aplausos e Cia Teatral" apresentou *Lídia Bais: uma mulher à frente de seu tempo*, às 20h30, na sede do [[teatral-grupo-de-risco|Teatral Grupo de Risco]]. Segundo o release, o espetáculo parte de rodas de contação de histórias: [[tatiana-de-conto|Tatiana De Conto]] narra a trajetória da artista [[lidia-bais|Lídia Baís]], com direção de Thathy D. Meo.[^tv2022]
 
 ## Nomes e identificação
 

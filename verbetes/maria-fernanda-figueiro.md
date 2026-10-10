@@ -24,7 +24,7 @@ Em outubro de 2024, apresentou na praça Ary Coelho, ao lado de [[leonardo-lopes
 
 Em 2023, foi codiretora e uma das intérpretes de [[chafica-espetaculo|*Chafica*]], da [[cia-do-mato|Cia do Mato]], criado em homenagem a [[sarah-abussafi-figueiro|Sarah Abussafi Figueiró]]. Ela diz que o espetáculo busca aproximar o público da história artística do estado.[^cgn2023]
 
-Em 2026, foi uma das artistas selecionadas por convocatória pública para a Mostra 1, 2 na Dança, retomada em Belo Horizonte após dez anos, no Teatro Marília, de 6 a 9 de agosto. A reportagem a identifica como de Campo Grande.[^otempo2026]
+Em 2026, foi uma das artistas selecionadas por convocatória pública para a [[mostra-1-2-na-danca|Mostra 1, 2 na Dança]], retomada em Belo Horizonte após dez anos, no Teatro Marília, de 6 a 9 de agosto. A reportagem a identifica como de Campo Grande.[^otempo2026]
 
 ## Obras
 

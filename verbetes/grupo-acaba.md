@@ -36,7 +36,7 @@ Segundo o texto do Overmundo, a partir de 1979 o grupo passou a defender a prese
 
 Em 1992, ganhou o prêmio de melhor intérprete no Festival ECO-MS com "Rancho do Jaú", o que levou o grupo a representar o estado no Fórum Global da Eco-92.[^ovacaba] Em 1997, elaborou o projeto Mapeamento Musical de Mato Grosso do Sul, que resultou na caixa de três CDs *Mato Grosso do Som*.[^ovacaba] O artigo de Neder cita uma coletânea com esse título, de 1994, como a primeira gravação do hino estadual (referindo-se a Nacasato, 2009); a diferença de ano entre as fontes não está explicada, e pode se tratar de obras distintas.[^neder]
 
-A partir de 2000, o grupo ensaiava com a Orquestra de Câmara do Pantanal, da UFMS, sob regência de [[joao-guilherme-ripper|João Guilherme Ripper]], o concerto *Sinfonia Pantaneira*.[^ovacaba] A Wikipédia registra ainda o espetáculo *Sinfonia Ecológica*, com a cantora [[tete-espindola|Tetê Espíndola]] e a Orquestra Sinfônica de Campinas, em 2007, apresentado em Campinas, Campo Grande e Havana.[^wikiacaba]
+A partir de 2000, o grupo ensaiava com a [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]], da UFMS, sob regência de [[joao-guilherme-ripper|João Guilherme Ripper]], o concerto *Sinfonia Pantaneira*.[^ovacaba] A Wikipédia registra ainda o espetáculo *Sinfonia Ecológica*, com a cantora [[tete-espindola|Tetê Espíndola]] e a Orquestra Sinfônica de Campinas, em 2007, apresentado em Campinas, Campo Grande e Havana.[^wikiacaba]
 
 Discos, segundo o Overmundo e a Wikipédia:[^ovacaba][^wikiacaba]
 

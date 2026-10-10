@@ -39,7 +39,7 @@ Obras do artista integram o acervo do [[marco|Museu de Arte Contemporânea de Ma
 
 Em abril de 2023, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] homenageou os 80 anos do artista com a exposição "Marco visita o MIS – Humberto Espíndola", que levou nove obras do acervo do MARCO ao [[mis-ms|Museu da Imagem e do Som]], em Campo Grande.[^cgn2023] A abertura foi marcada para 19 de abril de 2023.[^cc2023]
 
-Em 2026, a galeria MT Projetos de Arte, no Rio de Janeiro, apresentou a individual *Entremeios*, com curadoria de Victor Gorgulho. A revista ELLE Brasil descreve pinturas, esculturas e peças em couro pirografado de 2025, ao lado de trabalhos antigos, como a sequência fotográfica da performance "Ritual do sacrifício" (Fazenda Conceição, Pantanal, 1971) e o totem de chifres de boi exibido na Bienal de Veneza. A mostra ficou em cartaz até 26 de setembro.[^elle2026]
+Em 2026, a galeria MT Projetos de Arte, no Rio de Janeiro, apresentou a individual *Entremeios*, com curadoria de [[victor-gorgulho|Victor Gorgulho]]. A revista ELLE Brasil descreve pinturas, esculturas e peças em couro pirografado de 2025, ao lado de trabalhos antigos, como a sequência fotográfica da performance "Ritual do sacrifício" (Fazenda Conceição, Pantanal, 1971) e o totem de chifres de boi exibido na Bienal de Veneza. A mostra ficou em cartaz até 26 de setembro.[^elle2026]
 
 ## Para saber mais
 

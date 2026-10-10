@@ -18,9 +18,9 @@ atualizado: 2026-10-10
 
 Segundo a reportagem, o selo busca impulsionar a produção literária de Mato Grosso do Sul.[^cgnha] Seu primeiro título é [[a-ausente-ordem-das-coisas|A Ausente Ordem das Coisas]], publicado em 2023.[^cgnha][^cdes]
 
-Em setembro de 2024, o selo publicou *Eles Vieram Com o Amanhecer*, conto epistolar de [[tania-souza|Tânia Souza]] ambientado na Guerra do Paraguai, em que um tenente escreve ao Visconde de Taunay. O projeto gráfico é de Fabio Quill e Mayara Dempsey, com exemplares envelhecidos à mão. O lançamento foi marcado para 20 de setembro de 2024, em Campo Grande, e o livro também era vendido no site do selo.[^cgn2024]
+Em setembro de 2024, o selo publicou *[[eles-vieram-com-o-amanhecer|Eles Vieram Com o Amanhecer]]*, conto epistolar de [[tania-souza|Tânia Souza]] ambientado na Guerra do Paraguai, em que um tenente escreve ao Visconde de Taunay. O projeto gráfico é de Fabio Quill e Mayara Dempsey, com exemplares envelhecidos à mão. O lançamento foi marcado para 20 de setembro de 2024, em Campo Grande, e o livro também era vendido no site do selo.[^cgn2024]
 
-Em janeiro de 2025, o selo publicou em e-book gratuito *Vozes Invisíveis*, HQ-reportagem de [[marina-duarte|Marina Duarte]]. Fabio Quill atuou como consultor artístico e editor, e Mayara Dempsey como produtora e preparadora de texto.[^cgn2025]
+Em janeiro de 2025, o selo publicou em e-book gratuito *[[vozes-invisiveis|Vozes Invisíveis]]*, HQ-reportagem de [[marina-duarte|Marina Duarte]]. Fabio Quill atuou como consultor artístico e editor, e Mayara Dempsey como produtora e preparadora de texto.[^cgn2025]
 
 Em 2026, o selo e o perfil de Fabio Quill foram indicados como os canais que anunciariam os oito projetos selecionados no programa [[quebra-torto|Quebra Torto On]].[^rcn2026]
 

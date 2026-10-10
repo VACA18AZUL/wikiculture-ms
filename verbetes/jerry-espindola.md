@@ -22,7 +22,7 @@ Com [[rodrigo-teixeira|Rodrigo Teixeira]], compôs "Delta da Vida", que dá nome
 
 Em fevereiro de 2026, estreou no Sesc Teatro Prosa, em Campo Grande, o show *40 Tons*, que celebrava 43 anos de carreira. Segundo a matéria, o álbum *40 Tons* é o 12º de sua trajetória, entre discos solos e coletivos.[^afc]
 
-Segundo a matéria de março de 2026 do Tribuna do Sertão, *40 Tons* saiu nas plataformas digitais em 27 de fevereiro, pela Orum Sounds, com 12 faixas, e foi viabilizado pela Lei Paulo Gustavo por edital da Fundação de Cultura de Mato Grosso do Sul. A faixa "Teu" é dividida com Chico César, e o disco traz parcerias com [[alzira-espindola|Alzira E]] (quatro canções), [[rodrigo-teixeira|Rodrigo Teixeira]], Anelis Assumpção e outros. Em "Velho Hospício", compôs com [[paulo-simoes|Paulo Simões]] e [[antonio-porto|Antônio Porto]]. [[geraldo-espindola|Geraldo Espíndola]] canta em "Caia no Samba", e [[tete-espindola|Tetê Espíndola]] participa de "Velho Hospício".[^tribsertao]
+Segundo a matéria de março de 2026 do Tribuna do Sertão, *40 Tons* saiu nas plataformas digitais em 27 de fevereiro, pela [[orum-sounds|Orum Sounds]], com 12 faixas, e foi viabilizado pela Lei Paulo Gustavo por edital da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]]. A faixa "Teu" é dividida com [[chico-cesar|Chico César]], e o disco traz parcerias com [[alzira-espindola|Alzira E]] (quatro canções), [[rodrigo-teixeira|Rodrigo Teixeira]], [[anelis-assumpcao|Anelis Assumpção]] e outros. Em "Velho Hospício", compôs com [[paulo-simoes|Paulo Simões]] e [[antonio-porto|Antônio Porto]]. [[geraldo-espindola|Geraldo Espíndola]] canta em "Caia no Samba", e [[tete-espindola|Tetê Espíndola]] participa de "Velho Hospício".[^tribsertao]
 
 ## Origem e polca-rock
 
