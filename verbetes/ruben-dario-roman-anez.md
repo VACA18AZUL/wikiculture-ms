@@ -9,7 +9,7 @@ ficha:
   Atividade: Pintura e pastel
   Grafias: 'Rubén Darío; Rubem Dario'
 status: rascunho
-atualizado: 2026-10-08
+atualizado: 2026-10-10
 ---
 
 **Rubén Darío Román Añez** é um pintor nascido em Santa Cruz de la Sierra, na Bolívia, em 1947, e radicado em Corumbá.[^rondon2025]
@@ -24,6 +24,10 @@ Uma reportagem da Campo Grande News de 2023, sobre uma coleção particular em C
 
 O nome completo aparece no sumário do trabalho de Rondon; no texto e nas legendas predomina a forma "Rubén Darío".[^rondon2025]
 
+## Outras menções
+
+O portfólio do Teatral Grupo de Risco, divulgado no cadastro do grupo nos Mapas da Cultura (documento de 28 de junho de 2024), credita as ilustrações do espetáculo *Guardiões* a "Rubén Dario Román Añez". O documento não informa a cidade nem a trajetória da pessoa citada e não diz se é o pintor de Corumbá deste verbete.[^portf]
+
 ## Obra
 
 - *Protesto* (pastel, 1992)[^rondon2025]
@@ -37,3 +41,4 @@ O nome completo aparece no sumário do trabalho de Rondon; no texto e nas legend
 
 [^rondon2025]: Ana Laura Rodrigues Batista Rondon, ["Artistas da cidade branca no ensino de arte em Corumbá"](https://repositorio.ufms.br/retrieve/5e05cbd6-202e-40f9-aa5e-47600dd44668/32225.pdf), trabalho de conclusão de curso, *Universidade Federal de Mato Grosso do Sul*, 2025. Acesso em 8 out. 2026.
 [^cgn2023]: Aletheya Alves, ["Coleção de vida faz Gilberto ter obras de arte do quarto ao banheiro"](https://www.campograndenews.com.br/lado-b/arquitetura-23-08-2011-08/colecao-de-vida-faz-gilberto-ter-obras-de-arte-do-quarto-ao-banheiro), *Campo Grande News*, 23 mar. 2023. Acesso em 8 out. 2026.
+[^portf]: Teatral Grupo de Risco, [*Portfólio TGR*](https://mapa.cultura.gov.br/files/agent/251895/curriculo-do-tgr-atual-com-portifolio.pdf), PDF no cadastro do grupo nos *Mapas da Cultura*, documento datado de 28 jun. 2024. Acesso em 10 out. 2026.
