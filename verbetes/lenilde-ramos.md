@@ -1,7 +1,7 @@
 ---
 titulo: Lenilde Ramos
 tipo: pessoa
-areas: [musica]
+areas: [musica, literatura]
 cidade: Campo Grande
 resumo: Compositora nascida em Campo Grande em 1952, que musicou poemas de Manoel de Barros e textos de Joel Pizzini, com temas do Pantanal.
 ficha:
@@ -9,7 +9,7 @@ ficha:
   Atividade: Composição
   Disco: Onça Pintada
 status: rascunho
-atualizado: 2026-10-08
+atualizado: 2026-10-10
 ---
 
 **Lenilde Ramos** é uma compositora nascida em Campo Grande, em 1952.[^cgnlen]
@@ -24,9 +24,28 @@ Em 1982, seu nome aparece entre os entrevistados do livro sobre os festivais de 
 
 Em 2023, ela esteve entre os 15 homenageados do Prêmio Grão de Música, em sua 10ª edição, representando Mato Grosso do Sul.[^cgnlen]
 
+## Cena musical e Praça do Peixe
+
+Em textos de 2006 e 2007 no Overmundo, Lenilde Ramos é descrita como sanfoneira, compositora e cantora, atuante na cena de Campo Grande desde a década de 1980.[^ovcv][^ovpeixe][^ovcamara] Em entrevista publicada por Teixeira, o produtor Márcio de Camillo a chama de "madrinha do rock de botina", expressão que, segundo ele, evoluiu para a polca-rock.[^ovclube]
+
+Reportagem de Rodrigo Teixeira de janeiro de 2007 diz que moradores do entorno da Praça do Peixe (Praça Demósthenes Martins), liderados por ela, recuperaram a praça com apoio da prefeitura cerca de dois anos e meio antes. O espaço passou a receber shows de artistas locais, e o texto a descreve como "guerrilheira cultural".[^ovpraca] O guia do Overmundo informa que ela comandava um quiosque na praça e promovia shows quinzenais com apoio municipal.[^ovpeixe]
+
+Em setembro de 2006, gravou a canção "Coração Ventania", de Carlos Colman, com O Bando do Velho Jack, no CD *Gerações*, produzido por [[marcio-de-camillo|Márcio de Camillo]]. A canção tinha estado no LP *Prata da Casa*. Na ocasião, Teixeira escreveu que ela estava prestes a lançar o primeiro disco solo, e outro colaborador relatou sua apresentação com a banda no lançamento do CD, em 17 de setembro de 2006, na Concha Acústica Helena Meirelles.[^ovcv][^ovlanc] O mesmo relato diz que ela já havia trabalhado com a Banda do Pasto, que tinha Celito Espíndola na formação nos anos 1970.[^ovlanc]
+
+## Academia Sul-Mato-Grossense de Letras
+
+Reportagem do Campo Grande News de 7 de outubro de 2026 a chama de acadêmica da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] e informa que ela coordenaria, com Maria Adélia Menegazzo e Sylvia Cesco, o encontro do projeto *Leituras & Conversas* de 8 de outubro de 2026, dedicado ao escritor Elias Borges.[^cgnasl]
+
 ## Obras
 
 - *Onça Pintada*, disco que reúne suas canções[^cgnlen]
 
 [^cgnlen]: Autor não identificado, ["Lenilde Ramos e Guilherme Rondon recebem prêmio Grão de Música"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/lenilde-ramos-e-guilherme-rondon-recebem-premio-grao-de-musica), *Campo Grande News*, conteúdo marcado como post patrocinado, 1 nov. 2023. Acesso em 8 out. 2026.
 [^silus]: Alan Silus, ["Pelos caminhos da música sul-mato-grossense: um estudo bibliográfico"](https://trilhasdahistoria.ufms.br/index.php/RevTH/article/view/19958/14805), *Revista Trilhas da História*, UFMS, texto aprovado em 31 out. 2024. Acesso em 8 out. 2026.
+[^ovclube]: Rodrigo Teixeira, ["CD GERAÇÕES: Clube da 'outra' Esquina"](https://www.overmundo.com.br/overblog/cd-geracoes-clube-da-outra-esquina), *Overmundo* (conteúdo colaborativo), 14 set. 2006. Acesso em 10 out. 2026.
+[^ovcamara]: Karine Pegoraro, ["Vivência: Uma quase-repórter na Câmara"](https://www.overmundo.com.br/overblog/vivencia-uma-quase-reporter-na-camara), *Overmundo* (conteúdo colaborativo), 4 out. 2007. Acesso em 10 out. 2026.
+[^ovpraca]: Rodrigo Teixeira, ["Arte na praça ou praça da arte?"](https://www.overmundo.com.br/overblog/arte-na-praca-ou-praca-da-arte), *Overmundo* (conteúdo colaborativo), 2 jan. 2007. Acesso em 10 out. 2026.
+[^ovpeixe]: Rodrigo Teixeira, ["Praça do Peixe"](https://www.overmundo.com.br/guia/praca-do-peixe), *Overmundo* (conteúdo colaborativo), 4 mar. 2006. Acesso em 10 out. 2026.
+[^ovcv]: Rodrigo Teixeira, ["CD GERAÇÕES • CORAÇÃO VENTANIA • O Bando & Lenilde Ramos • XI"](https://www.overmundo.com.br/banco/cd-geracoes-coracao-ventania-o-bando-lenilde-ramos-xi), *Overmundo* (conteúdo colaborativo), 16 set. 2006. Acesso em 10 out. 2026.
+[^ovlanc]: Assum Preto, ["Lançamento do CD Gerações mexe com sentimentos"](https://www.overmundo.com.br/overblog/lancamento-do-cd-geracoes-mexe-com-sentimentos-1), *Overmundo* (conteúdo colaborativo), 23 set. 2006. Acesso em 10 out. 2026.
+[^cgnasl]: Thailla Torres, ["Academia realiza clube de leitura com obra de Elias Borges"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/academia-realiza-clube-de-leitura-com-obra-de-elias-borges), *Campo Grande News*, 7 out. 2026. Acesso em 10 out. 2026.
