@@ -26,7 +26,7 @@ Uma colaboração do Overmundo de 2007, que relata uma palestra de [[humberto-es
 
 Uma coluna do *Campo Grande News* de 2024 chama o fotógrafo de Miguel Perez Lopes, espanhol, e diz que ele registrou Campo Grande no início, com câmera de fole e negativos de vidro, e depois se dedicou à pintura. A coluna afirma que ele abriu um espaço para vender material de pintura e era autodidata.[^cgn]
 
-Uma dissertação o relaciona entre os artistas da exposição de 1966 em Campo Grande. Na crítica de Pietro Bardi citada nessa dissertação, ele aparece como um veterano espanhol de 86 anos, autor de obras de estilo romântico-realista, como gado do Pantanal e retratos do marechal Rondon.[^assis] A idade é compatível com o nascimento em 1881 informado pelo MARCO.[^longa]
+Uma dissertação o relaciona entre os artistas da exposição de 1966 em Campo Grande (a [[exposicao-pintores-mato-grossenses-1966|Primeira Exposição de Pinturas dos Artistas Mato-grossenses]]). Na crítica de Pietro Bardi citada nessa dissertação, ele aparece como um veterano espanhol de 86 anos, autor de obras de estilo romântico-realista, como gado do Pantanal e retratos do marechal Rondon.[^assis] A idade é compatível com o nascimento em 1881 informado pelo MARCO.[^longa]
 
 Um material didático de 2025 o menciona entre os artistas anteriores à década de 1960 no capítulo de artes visuais do livro *Cultura e Arte em Mato Grosso do Sul* (2006).[^souza]
 
