@@ -21,6 +21,10 @@ Tudo em português do Brasil. Verbetes em tom enciclopédico: frases curtas, sem
 - Verbete novo: copie `modelos/verbete.md`. O nome do arquivo é o identificador (minúsculas, números, hífens, sem acentos).
 - Ligue verbetes com `[[identificador|texto]]`. Citar um verbete que ainda não existe é desejável: ele entra na página de verbetes desejados.
 - Atualize `dados/lista-mestra.csv` quando criar um verbete ou descobrir um nome novo.
+- Conferência com a Wikipédia: antes de fechar um verbete, veja se há artigo em pt.wikipedia.org e anote o link na coluna `wikipedia_pt` da lista-mestra. A Wikipédia é lista de conferência, não fonte: um fato dela só entra no verbete com fonte aberta e lida nesta sessão. Artigo sem referências não serve de nota.
+- Resumo de busca ou de página não é leitura. Antes de escrever data, número ou título, confira no texto da fonte.
+- Divergência com a Wikipédia segue a regra de divergência de fontes: as duas versões, citadas, sem escolher. Registre a diferença em `observacoes` da lista-mestra.
+- Dados pessoais que a Wikipédia traz (estado de saúde, vida familiar, mudança de dados pessoais) ficam fora, como em qualquer fonte.
 - Antes de qualquer commit, rode `npm run conferir` e `npm run build`. Os dois precisam passar.
 - Verbetes vão em lotes de até 10 por pull request, em branch própria. Não envie verbetes direto para `main`.
 - Na descrição do pull request, liste cada verbete com as fontes usadas e aponte o que ficou incerto.

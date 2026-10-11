@@ -41,7 +41,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 ### Fase 1 em passos
 
 1. Uma área por sessão, na ordem: artes plásticas, música, teatro, dança, literatura, audiovisual, circo.
-2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade.
+2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade, e link do artigo na Wikipédia (pt), se houver.
 3. Prioridade alta: quem aparece em duas ou mais fontes independentes, ou em fonte acadêmica.
 4. Não redigir verbetes nesta fase.
 5. Ao fim de cada área, você revisa a lista: corta, acrescenta e reordena.
@@ -67,6 +67,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 | Lado B (Campo Grande News) | Cobertura cultural contínua; datas e estreias | https://www.campograndenews.com.br/lado-b |
 | Correio B (Correio do Estado) | Cobertura cultural contínua | https://correiodoestado.com.br/correio-b |
 | Enciclopédia Itaú Cultural | Verbetes nacionais já consolidados | https://enciclopedia.itaucultural.org.br |
+| Wikipédia (pt) | Conferência cruzada e lista de links para verificar; não é citável no verbete | https://pt.wikipedia.org |
 
 ### A confirmar na Fase 1
 
