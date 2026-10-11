@@ -9,7 +9,7 @@ ficha:
   Gênero: Rock, blues e southern rock
   Integrantes: "Rodrigo Tozzette; Marcos Yallouz; Fábio \"Corvo\" Terra; Alex \"Fralda\" Cavalheri; João Bosco"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **O Bando do Velho Jack** é uma banda de rock de Campo Grande, ativa desde 1995. O Campo Grande News a descreve como grupo de southern rock, estilo influenciado pelo blues e pelo country.[^cgn2024]
@@ -28,7 +28,7 @@ Em 2025, o grupo esteve entre os músicos regionais selecionados para o [[campao
 
 A formação clássica, segundo o Campo Grande News em 2024, reúne Rodrigo Tozzette, Marcos Yallouz, Fábio "Corvo" Terra, Alex "Fralda" Cavalheri e João Bosco.[^cgn2024] Em 2010, o jornal listava Tozzette (guitarra e voz principal), Yallouz (baixo), Cavalheri (teclado e vocais), Bosco (bateria) e Terra (guitarra), e dizia que o grupo já passara por formações diferentes.[^cgn2010]
 
-A Wikipédia em inglês, de edição colaborativa, afirma que a banda nasceu da união de duas outras, Blues Band e [[alta-tensao|Alta Tensão]], e cita ainda os ex-integrantes Alex Batata, Fábio Brum e Gilson Júnior. Não encontrei segunda fonte aberta para essa origem.[^wp]
+A Wikipédia em inglês, de edição colaborativa, afirma que a banda nasceu da união de duas outras, Blues Band e [[alta-tensao|Alta Tensão]], e cita ainda os ex-integrantes Alex Batata, Fábio Brum e Gilson Júnior.[^wp] Depoimentos reunidos no documentário *Ele é o Blues* confirmam a origem na Blues Band: em meados da década de 1990 o grupo se dividiu, e dois de seus integrantes formaram O Bando do Velho Jack, enquanto [[renato-fernandes|Renato Fernandes]] e outros colegas formaram os [[bebados-habilidosos|Bêbados Habilidosos]]. O documentário não menciona a Alta Tensão.[^doc]
 
 ## Discografia
 
@@ -48,3 +48,4 @@ O curta-metragem [[noites-em-claro|*Noites em Claro*]], com recorte da história
 [^cgn2023]: Thailla Torres, ["O Bando do Velho Jack faz homenagem a músico do Lynyrd Skynyrd"](https://www.campograndenews.com.br/lado-b/diversao/o-bando-do-velho-jack-faz-homenagem-a-musico-do-lynyrd-skynyrd), *Campo Grande News*, 17 mar. 2023. Acesso em 10 out. 2026.
 [^cgn2025]: Aletheya Alves, ["No Campão Cultural, de 5 atrações 'nacionais', três músicos são de MS"](https://www.campograndenews.com.br/lado-b/diversao/no-campao-cultural-de-5-atracoes-nacionais-tres-musicos-sao-de-ms), *Campo Grande News*, 11 jan. 2025. Acesso em 10 out. 2026.
 [^wp]: ["O Bando do Velho Jack"](https://en.wikipedia.org/wiki/O_Bando_do_Velho_Jack), *Wikipedia* (edição em inglês; conteúdo colaborativo). Acesso em 10 out. 2026.
+[^doc]: *Ele é o Blues* (documentário), canal Blues & Cia José Luiz Gonçalves, YouTube, 3 mai. 2021. Transcrição por legenda automática; usados só os trechos sobre a formação da banda. Acesso em 10 out. 2026.
