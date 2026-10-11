@@ -10,7 +10,7 @@ ficha:
   Atividade: Fotografia e vídeo documental
   Nomes: "Dionédison Terena; Dionedison Terena; Dionédison Cândido Terena (créditos de filmes)"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Dionédison Terena** é fotógrafo e videasta indígena do povo terena. Nasceu na aldeia Bananal, em Aquidauana, e vive na aldeia urbana Água Bonita, em Campo Grande.[^cgn2017][^diss]
@@ -28,6 +28,8 @@ As duas obras acadêmicas dizem que ele ajudou a fundar o Conselho do Povo Teren
 - Documentário sobre a missão de ativistas à fazenda Madama, na área reivindicada como Terra Indígena Kurussu Ambá (Coronel Sapucaia e Amambai), com título provisório *Kurussu Ambá*. Em 2015, a dissertação o registra como inédito.[^diss]
 - *[[noneti|Noneti – Uma câmera, um índio e 500 anos de opressão]]* (exposição, 2017). Reúne 32 fotografias em preto e branco sobre os povos terena, guató, ofaié e guarani-kaiowá. Ficou no [[mis-ms|Museu da Imagem e do Som]] de 18 de abril a 15 de maio de 2017, com curadoria de Marineti Pinheiro.[^cgn2017]
 
+Também aparece, como "Dionédson Cândido", entre os entrevistados da websérie *Campo Grande na Tela* (2018, episódio 6, região Bandeira), falando sobre o significado do audiovisual para a afirmação e a difusão das identidades indígenas.[^cgtela]
+
 ## Divergências
 
 A grafia do nome varia entre as fontes: Dionédison, Dionedison e Dionedson. A dissertação e a tese trazem também o sobrenome Cândido.[^diss][^tese]
@@ -35,3 +37,4 @@ A grafia do nome varia entre as fontes: Dionédison, Dionedison e Dionedson. A d
 [^cgn2017]: Thailla Torres, ["Em preto e branco, exposição fotográfica é um autorretrato da luta de um povo"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-preto-e-branco-exposicao-fotografica-e-um-autorretrato-da-luta-de-um-povo), *Campo Grande News*, 19 abr. 2017. Acesso em 10 out. 2026.
 [^diss]: Miguel Angelo Corrêa, [*Audiovisual autoral dos povos indígenas de Mato Grosso do Sul: mapeamento e análise*](https://ppgcom.ufms.br/files/2015/12/Audiovisual-Autoral-dos-Povos-Indigenas-de-Mato-Grosso-do-Sul-mapeamento-e-analise.pdf), dissertação, UFMS, 2015, seção 3.2.1.4 e filmografia. Acesso em 10 out. 2026.
 [^tese]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese, UFGD, 2023, seção 2.2.2.6. Acesso em 10 out. 2026.
+[^cgtela]: ["BANDEIRA - CAMPO GRANDE NA TELA (EP.6)"](https://www.youtube.com/watch?v=m-dTPnV9W9A), canal Marruá Arte e Cultura, YouTube, 2018. Acesso em 11 out. 2026.
