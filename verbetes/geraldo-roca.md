@@ -9,7 +9,7 @@ ficha:
   Atividade: Composição e canto
   Parcerias: "[[paulo-simoes|Paulo Simões]]"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Geraldo Roca** foi um compositor e cantor de Campo Grande, morto em 25 de dezembro de 2015, aos 61 anos.[^trem]
@@ -34,6 +34,14 @@ Roca disse ao Overmundo que gravou com Renato Teixeira, tocando viola de dez cor
 
 Sobre os discos, a Wikipédia lista *Geraldo Roca* (LP, 1988), *Litoral Central* (1997) e *Veneno Light* (2003), além da coletânea *[[geracoes|GerAções]]* (2006).[^wikipt] O Campo Grande News data *Veneno Light* de 2006, e uma nota do Overmundo de 17 de maio de 2006 já o chamava de último disco do compositor; as datas divergem.[^camillo][^omveneno] Segundo o Overmundo, o CD tem 10 faixas, com regravações de "Cavalo Bravo" (Renato Teixeira) e "Flores" (Titãs), e a balada "Sobre a Cidade Média" como destaque.[^omveneno] Em 2007, o mesmo site disse que Roca havia lançado um LP e dois CDs.[^omtrilhos]
 
+## Litoral Central e pesquisa de campo
+
+Segundo depoimentos reunidos em um vídeo sobre o conceito de Música do Litoral Central, Roca pesquisou e comprou gravações antigas da música de fronteira, incluindo discos do dueto [[delio-e-delinha|Délio e Delinha]], num esforço descrito como resgate de um repertório que se perdia. O mesmo material cita [[zacarias-mourao|Zacarias Mourão]], de Coxim, como outro pesquisador dedicado a reunir esse som da fronteira.[^doclc]
+
+O mesmo vídeo, com conteúdo que parece gravado após a morte de Roca, atribui a ele a criação do termo para reunir a influência das músicas argentina, boliviana e paraguaia na produção regional, e descreve "Trem do Pantanal" como parte desse conjunto. Segundo esse material, a canção foi eleita "a música de Mato Grosso do Sul" num concurso promovido pela TV Morena cerca de três anos antes da gravação do vídeo; não foi possível confirmar se esse concurso é o mesmo da votação de 2001 com urnas do TRE, já registrada no verbete da canção.[^doclc]
+
+Um vídeo do canal Folk + Brasil discute sua obra dentro da classificação internacional de música "folk", ao lado de nomes como Renato Teixeira e [[paulo-simoes|Paulo Simões]], e questiona a ausência de um festival que reunisse num só gênero a música sul-mato-grossense de fronteira com o Paraguai e a Argentina.[^docfolk]
+
 ## Obras
 
 - "Trem do Pantanal" (1975), com Paulo Simões[^trem]
@@ -52,3 +60,5 @@ Sobre os discos, a Wikipédia lista *Geraldo Roca* (LP, 1988), *Litoral Central*
 [^omtrilhos]: Rodrigo Teixeira, ["Geraldo Roca: Sobre Todos os Trilhos da Terra"](https://www.overmundo.com.br/overblog/geraldo-roca-sobre-todos-os-trilhos-da-terra), *Overmundo*, 14 mar. 2007. Acesso em 10 out. 2026.
 [^ompaulo]: Rodrigo Teixeira, ["Paulo Simões • Passageiro do Oeste"](https://www.overmundo.com.br/overblog/paulo-simoes-passageiro-do-oeste), *Overmundo*, 2 abr. 2008. Acesso em 10 out. 2026.
 [^omveneno]: Rodrigo Teixeira, ["Geraldo Roca – Veneno Light"](https://www.overmundo.com.br/guia/geraldo-roca-veneno-light), *Overmundo*, 17 maio 2006. Acesso em 10 out. 2026.
+[^doclc]: ["Geraldo Roca e a Música do Litoral Central"](https://www.youtube.com/watch?v=7T5D4l5wn9g), canal Shopping Bosque dos Ipês, YouTube. Transcrição por legenda automática. Acesso em 11 out. 2026.
+[^docfolk]: ["Geraldo Roca e o Folk Brasileiro"](https://www.youtube.com/watch?v=L87dEi9NoT0), canal Folk + Brasil, YouTube. Transcrição por legenda automática. Acesso em 11 out. 2026.
