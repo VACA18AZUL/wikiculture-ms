@@ -8,7 +8,7 @@ ficha:
   Instituição: UFMS, Licenciatura em Música
   Obras: '"Polca paraguaia, guarânia e chamamé" (2010); "Para fazer chorar as pedras" (2019)'
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Evandro Higa** é maestro e professor do curso de Licenciatura em Música da UFMS.[^trilhas]
@@ -29,6 +29,8 @@ Em 2020, assinou com [[manoel-rasslan|Manoel Rasslan]] o tributo ao maestro [[vi
 
 Em 2023, foi orientador de um trabalho de conclusão de curso da UFMS sobre o compositor [[herminio-gimenez|Hermínio Giménez]], e integrou a banca examinadora.[^tcc]
 
+Participou como compositor do Festival Universitário da Canção (FUC UFMS): em 2021, assinou "A profundidade do nada", com Luciana Fisher, e "Nosso Jardim", com Antônio Coura; em 2022, "Azul", com Luma Heyn, na categoria canção de câmara.[^fuc]
+
 ## Obras
 
 - *Polca paraguaia, guarânia e chamamé* (2010)[^trilhas][^tcc]
@@ -39,3 +41,4 @@ Em 2023, foi orientador de um trabalho de conclusão de curso da UFMS sobre o co
 [^ovdor]: Rodrigo Teixeira, ["O doce pecado rodrigueano 57 anos depois"](https://www.overmundo.com.br/overblog/o-doce-pecado-rodrigueano-57-anos-depois), *Overmundo* (conteúdo colaborativo), 25 abr. 2007. Acesso em 10 out. 2026.
 [^permusi]: Evandro Higa, ["Música popular urbana e fronteiras em Mato Grosso do Sul no livro de Álvaro Neder"](https://periodicos.ufmg.br/index.php/permusi/article/download/5208/3233/16425), resenha, *Per Musi*, n. 34, p. 206-210, 2016. Acesso em 10 out. 2026.
 [^faalc]: Evandro Rodrigues Higa e Manoel Camara Rasslan, ["Tributo ao Maestro Vitor Marques Diniz"](https://faalc.ufms.br/tributo-ao-maestro-vitor-marques-diniz/), *FAALC/UFMS*, 24 ago. 2020. Acesso em 10 out. 2026.
+[^fuc]: Canal TV UFMS, YouTube: ["FUC UFMS 2021: A profundidade do nada - Evandro Higa e Luciana Fisher"](https://www.youtube.com/watch?v=fKgNuHnTt7U), ["FUC UFMS 2021: Nosso Jardim - Evandro Higa e Antônio Coura"](https://www.youtube.com/watch?v=zCq1z09dkIc) e ["FUC UFMS 2022: Azul - Luma Heyn e Evandro Higa"](https://www.youtube.com/watch?v=5AQZBBcR4PQ). Lista de títulos lida nesta sessão. Acesso em 11 out. 2026.
