@@ -8,7 +8,7 @@ ficha:
   Atividade: Canto, composição e violão
   Grupos: "LuzAzul, [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]]"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Geraldo Espíndola** é um cantor, compositor e violonista nascido em Campo Grande.[^cgn2026]
@@ -39,6 +39,10 @@ Em 29 de novembro de 2012, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Ca
 
 No CD *[[geracoes|GerAções]]* (2006), de [[marcio-de-camillo|Márcio de Camillo]], ele é coautor, com [[paulo-simoes|Paulo Simões]], de "Lá vem você de novo", gravada por [[geraldo-roca|Geraldo Roca]] e [[marcio-de-camillo|Márcio de Camillo]].[^omger]
 
+## Sobre música regional
+
+Em entrevista ao documentário *CenAlternativa: MS Geração 20* (canal Vozmecê, YouTube), definiu ser um compositor regional como uma espécie de lealdade a um sentimento de lugar e à música que esse lugar produziu, sem fidelidade absoluta a um dogma ou a uma linguagem musical já estabelecida; para ele, trata-se de uma interpretação pessoal do ambiente e das pessoas que nele vivem.[^z8doc]
+
 ## Projeto em escolas
 
 Em 1º de setembro de 2023, o projeto "Nossa Escola Canta Geraldo Espíndola", da rede municipal de Campo Grande, recebeu o músico em tarde de show e homenagens na Escola Municipal Professora Eulália Neto Lessa, depois de os alunos estudarem a obra dele.[^escola]
@@ -62,3 +66,4 @@ Aparece entre os entrevistados dos levantamentos *Memória da Arte em MS* (1992)
 [^omger]: Rodrigo Teixeira, ["CD GerAções: Clube da 'outra' Esquina"](https://www.overmundo.com.br/overblog/cd-geracoes-clube-da-outra-esquina), *Overmundo*, 14 set. 2006 (texto colaborativo). Acesso em 10 out. 2026.
 [^escola]: ["Projeto 'Nossa Escola Canta Geraldo Espíndola' recebe cantor em tarde de show e homenagens"](https://www.campogrande.ms.gov.br/cgnoticias/noticia/projeto-nossa-escola-canta-geraldo-espindola-recebe-cantor-em-tarde-de-show-e-homenagens/), *CGNotícias*, Prefeitura de Campo Grande, 4 set. 2023. Acesso em 10 out. 2026.
 [^siteof]: ["Geraldo Espíndola | Músico Compositor"](https://www.geraldoespindola.com.br/), site oficial de Geraldo Espíndola. Acesso em 10 out. 2026.
+[^z8doc]: *CenAlternativa: MS Geração 20* (documentário), canal Vozmecê, YouTube. Transcrição por legenda automática. Acesso em 10 out. 2026.
