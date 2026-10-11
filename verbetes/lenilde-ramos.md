@@ -9,7 +9,7 @@ ficha:
   Atividade: Composição
   Disco: Onça Pintada
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Lenilde Ramos** é uma compositora nascida em Campo Grande, em 1952.[^cgnlen]
@@ -31,6 +31,10 @@ Em textos de 2006 e 2007 no Overmundo, Lenilde Ramos é descrita como sanfoneira
 Reportagem de [[rodrigo-teixeira|Rodrigo Teixeira]] de janeiro de 2007 diz que moradores do entorno da Praça do Peixe (Praça Demósthenes Martins), liderados por ela, recuperaram a praça com apoio da prefeitura cerca de dois anos e meio antes. O espaço passou a receber shows de artistas locais, e o texto a descreve como "guerrilheira cultural".[^ovpraca] O guia do Overmundo informa que ela comandava um quiosque na praça e promovia shows quinzenais com apoio municipal.[^ovpeixe]
 
 Em setembro de 2006, gravou a canção "Coração Ventania", de Carlos Colman, com [[o-bando-do-velho-jack|O Bando do Velho Jack]], no CD *Gerações*, produzido por [[marcio-de-camillo|Márcio de Camillo]]. A canção tinha estado no LP *[[prata-da-casa|Prata da Casa]]*. Na ocasião, Teixeira escreveu que ela estava prestes a lançar o primeiro disco solo, e outro colaborador relatou sua apresentação com a banda no lançamento do CD, em 17 de setembro de 2006, na Concha Acústica [[helena-meirelles|Helena Meirelles]].[^ovcv][^ovlanc] O mesmo relato diz que ela já havia trabalhado com a Banda do Pasto, que tinha [[celito-espindola|Celito Espíndola]] na formação nos anos 1970.[^ovlanc]
+
+## Memória dos cinemas de rua
+
+Na websérie *Campo Grande na Tela* (2018), foi ouvida sobre [[tarsizio-dal-farra|Tarsízio Dal Farra]], administrador das salas de cinema Alhambra, Rialto, Center e Plaza para a empresa Pedute, que ela conheceu.[^cgtela]
 
 ## Academia Sul-Mato-Grossense de Letras
 
@@ -60,3 +64,4 @@ Segundo o *Correio do Estado* de 14 de outubro de 2025, *Margarida – Retratos 
 [^cgnasl]: Thailla Torres, ["Academia realiza clube de leitura com obra de Elias Borges"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/academia-realiza-clube-de-leitura-com-obra-de-elias-borges), *Campo Grande News*, 7 out. 2026. Acesso em 10 out. 2026.
 [^cenana]: Lenilde Ramos, ["Nana Caymmi no coração"](https://correiodoestado.com.br/correio-b/nana-caymmi-no-coracao/447732/), *Correio do Estado*, 6 mai. 2025 (texto assinado por ela). Acesso em 10 out. 2026.
 [^cemarg]: ["Lenilde Ramos faz o resgate da identidade cultural de MS a partir da trajetória de Margarida Neder"](https://correiodoestado.com.br/correio-b/lenilde-ramos-faz-o-resgate-da-identidade-cultural-de-ms-a-partir-da/455902/), *Correio do Estado*, 14 out. 2025. Acesso em 10 out. 2026.
+[^cgtela]: Transcrição da websérie *Campo Grande na Tela* (2018), episódio ["BANDEIRA (EP. 6)"](https://www.youtube.com/watch?v=m-dTPnV9W9A), canal Marruá Arte e Cultura, YouTube, enviada pelo usuário. Acesso em 11 out. 2026.

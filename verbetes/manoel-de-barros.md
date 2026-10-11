@@ -8,7 +8,7 @@ ficha:
   Morte: 13 de novembro de 2014, Campo Grande (MS)
   Atividade: Poesia
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Manoel de Barros** foi um poeta nascido em Cuiabá, em 19 de dezembro de 1916, e morto em Campo Grande, em 13 de novembro de 2014.[^barbara2016]
@@ -52,6 +52,10 @@ A data do Prêmio Jabuti de *O guardador de águas* varia. Um estudo registra 19
 
 Segundo a Wikipédia, ele recebeu ainda o prêmio Jacaré de Prata da Secretaria de Cultura de Mato Grosso do Sul em 1990 e o título de doutor honoris causa das universidades federais de Mato Grosso e de Mato Grosso do Sul e da Universidade Católica Dom Bosco.[^wp]
 
+## Crianceiras
+
+Segundo depoimento de [[marcio-de-camillo|Márcio de Camillo]] à websérie *Campo Grande na Tela* (2018), ao ser procurado para musicar sua obra, o poeta reagiu com uma bronca, preocupado com o destino de seus poemas, e disse apenas "só não invente palavras". O espetáculo resultante, *[[crianceiras|Crianceiras]]*, tornou-se material paradidático usado em escolas de várias regiões do país.[^cgtela]
+
 ## Na tela
 
 O filme *Caramujo Flor* (1988), de [[joel-pizzini|Joel Pizzini]], faz um itinerário da poesia de Manoel de Barros com fragmentos sonoros e visuais e foi exibido pela TVE Regional em 1989. Outro documentário, *O poeta é um ente que lambe as palavras e se alucina*, de [[arlindo-fernandez|Arlindo Fernandez]], venceu a primeira edição do DocTV e foi gravado em Corumbá, Campo Grande e Rio de Janeiro. Ambos entraram na programação especial dos 90 anos do poeta, em dezembro de 2006, segundo texto colaborativo do Overmundo.[^tve] Veja também [[manual-de-barros-retrato-do-poeta-quando-coisa|Manual de Barros: Retrato do poeta quando coisa]].[^tve]
@@ -78,4 +82,5 @@ A casa onde o poeta viveu nas últimas décadas, em Campo Grande, virou o museu 
 [^aslcad]: Academia Sul-Mato-Grossense de Letras, ["Cadeiras"](https://acletrasms.org.br/cadeiras/). Acesso em 10 out. 2026.
 [^aslpres]: Academia Sul-Mato-Grossense de Letras, ["Academia Sul-Mato-Grossense de Letras elege novo presidente: Pedro Chaves"](https://acletrasms.org.br/academia-sul-mato-grossense-de-letras-elege-novo-presidente-pedro-chaves/), 2 out. 2026. Acesso em 10 out. 2026.
 [^cgn2023]: Thailla Torres, ["Casa de Manoel de Barros abre as portas diariamente para visitação"](https://www.campograndenews.com.br/lado-b/diversao/casa-de-manoel-de-barros-abre-as-portas-diariamente-para-visitacao), *Campo Grande News*, 15 fev. 2023. Acesso em 10 out. 2026.
+[^cgtela]: Transcrição da websérie *Campo Grande na Tela* (2018), episódio ["LAGOA (EP. 9)"](https://www.youtube.com/watch?v=DG33Odoxc0A), canal Marruá Arte e Cultura, YouTube, enviada pelo usuário. Acesso em 11 out. 2026.
 [^vm]: Instituto Brasileiro de Museus, ["Museu Casa-Quintal Manoel de Barros"](https://visite.museus.gov.br/instituicoes/casa-quintal-manoel-de-barros/), *Visite Museus*. Acesso em 10 out. 2026.
