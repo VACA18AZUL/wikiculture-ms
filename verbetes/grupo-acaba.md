@@ -47,7 +47,7 @@ Discos, segundo o Overmundo e a Wikipédia:[^ovacaba][^wikiacaba]
 
 O grupo também participou, sem ser o titular, de *A Música Regional do Brasil* (1980), *Prata da Casa* (1982) e *[[caramujo-som|Caramujo Som]]* (1995).[^ovacaba] Entre os livros, o Overmundo cita *Grupo Acaba: 30 Anos de Música, Cultura e Pesquisa* (1998) e *Pantanal, Coração da América* (2002).[^ovacaba]
 
-O acervo digital Memória Fonográfica de MS preserva duas gravações do grupo classificadas como "manifestação folclórica": "Cantigas de Siriri", de Generosa Freitas de Moraes, e "Cururu de Santa Fé", de M. Lacerda, V. Barreto e J. Lara.[^mfms]
+O acervo digital Memória Fonográfica de MS preserva duas gravações classificadas como "manifestação folclórica" e atribuídas ao grupo no título do vídeo: "Cantigas de Siriri", de Generosa Freitas de Moraes, sem disco de origem indicado na descrição, e "Cururu de Santa Fé", de M. Lacerda, V. Barreto e J. Lara, parte da coletânea regional em vídeo *A Chama da Paz* (2021), que reúne outras faixas de intérpretes variados, entre eles [[jose-boaventura|José Boaventura]].[^mfms]
 
 ## Recepção crítica
 
@@ -67,4 +67,4 @@ Na resenha do livro de Álvaro Neder, publicada na *Per Musi* em 2016, [[evandro
 [^neder]: Álvaro Neder, ["Roda em volta de mim, que a polca paraguaia é assim"](https://periodicos.ufmg.br/index.php/permusi/article/download/39701/30469/127654), *Per Musi*, n. 29, p. 209-219, 2014. Acesso em 10 out. 2026.
 [^higa]: Evandro Higa, ["Música popular urbana e fronteiras em Mato Grosso do Sul no livro de Álvaro Neder"](https://periodicos.ufmg.br/index.php/permusi/article/download/5208/3233/16425), resenha, *Per Musi*, n. 34, p. 206-210, 2016. Acesso em 10 out. 2026.
 [^cge2026]: João Pedro Zequini, ["Grupo ACABA celebra 60 anos com sessões especiais de documentário em Campo Grande"](https://correiodoestado.com.br/cidades/grupo-acaba-celebra-60-anos-com-sessoes-especiais-de-documentario-em/471555/), *Correio do Estado*, 22 ago. 2026. Acesso em 10 out. 2026.
-[^mfms]: ["Manifestação Folclôrica - 205 - Cantigas de Siriri - Generosa Freitas de Moraes - Grupo ACABA"](https://www.youtube.com/watch?v=00binXj21Jg) e ["Manifestação Folclórica - 206 - Cururu de Santa Fé - M. Lacerda, V. Barreto e J. Lara - Grupo Acaba"](https://www.youtube.com/watch?v=s_cg6SF9I8w), canal Acervo Digital Memória Fonográfica de MS, YouTube. Acesso em 11 out. 2026 (listagem de títulos).
+[^mfms]: ["Manifestação Folclôrica - 205 - Cantigas de Siriri - Generosa Freitas de Moraes - Grupo ACABA"](https://www.youtube.com/watch?v=00binXj21Jg) e ["Manifestação Folclórica - 206 - Cururu de Santa Fé - M. Lacerda, V. Barreto e J. Lara - Grupo Acaba"](https://www.youtube.com/watch?v=s_cg6SF9I8w), canal Acervo Digital Memória Fonográfica de MS, YouTube, títulos e descrições dos vídeos. Acesso em 11 out. 2026.
