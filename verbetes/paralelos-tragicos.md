@@ -12,7 +12,7 @@ ficha:
   Formato: Longa-metragem de ficção
   Estreia: 13 de janeiro de 1967, Cine Alhambra (Campo Grande News, 2026)
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 ***Paralelos Trágicos*** é um longa-metragem de ficção realizado em Campo Grande pelos [[irmaos-lahdo|irmãos Lahdo]]. É apontado como o primeiro longa de ficção da cidade.[^cgn2026][^cgn2016]
@@ -36,9 +36,21 @@ O filme acompanha Roberto, professor de História que perde a esposa no parto, a
 - A lista do mesmo jornal (2021) fala em 1965.[^cgn2021]
 - A reportagem de 2016 traz o lançamento em "13 de janeiro de 1964", mas também cita a crítica de Rogério Sganzerla, publicada em 18 de janeiro de 1967, e fala em exibição ao ar livre em 1966 ou 1967, segundo Abboud. A data de 1964 destoa das demais e não foi confirmada.[^cgn2016]
 
+## Origem no Cine Jalisco
+
+Segundo a websérie *Campo Grande na Tela* (2018), o filme nasceu do Cine Jalisco, inaugurado em 1969 na Rua 14 de Julho, que era abastecido por uma empresa de distribuição fundada pelos irmãos Lahdo; os dois irmãos sentiram a necessidade de produzir, além de exibir filmes de fora, um longa-metragem com equipe e elenco da própria cidade.[^cgtela]
+
+## Visita de cineastas e técnica
+
+Abboud Lahdo contou à websérie que o cineasta francês Claude Lelouch, vencedor da Palma de Ouro em Cannes, visitou Campo Grande e acompanhou por cerca de um mês as filmagens, assistindo ao material e ouvindo o que as pessoas diziam sobre o filme. Segundo o mesmo depoimento, o filme foi gravado sem estúdio, com movimentos de câmera feitos com uma cadeira de escritório de rodinhas no lugar de um travelling.[^cgtela]
+
+A websérie também traz o relato de Joel Pizzini sobre a visita do cineasta Rogério Sganzerla, então nas vésperas de filmar *O Bandido da Luz Vermelha*: Sganzerla teria dito a Pizzini que ver *Paralelos Trágicos*, feito com recursos modestos, foi um estímulo importante para ele realizar seu próprio filme com baixo orçamento.[^cgtela] Essa visita de Sganzerla já era conhecida por fonte anterior, que registra sua presença na estreia no Cine Alhambra, em 13 de janeiro de 1967, e cita a crítica dele, publicada cinco dias depois.[^cgn2016]
+
+Segundo Abboud, o livro que deu origem ao filme — de autoria de Bernardo, conforme a fonte citada acima — foi escrito por ele aos 14 anos e lançado com sucesso em São Paulo, em várias edições.[^cgtela][^cgn2026]
+
 ## Censura e exibição
 
-Abboud contou em 2016 que o filme foi inicialmente censurado como subversivo e que ele foi a Brasília para obter a liberação. Depois, o filme passou a ser exibido no [[cine-acapulco|Cine Acapulco]], da família.[^cgn2016] Bernardo disse em 2026 que a censura o considerou terrorista e pornográfico por uma cena de banho, sem nudez completa.[^cgn2026]
+Abboud contou em 2016 que o filme foi inicialmente censurado como subversivo e que ele foi a Brasília para obter a liberação. Depois, o filme passou a ser exibido no [[cine-acapulco|Cine Acapulco]], da família.[^cgn2016] Bernardo disse em 2026 que a censura o considerou terrorista e pornográfico por uma cena de banho, sem nudez completa.[^cgn2026] A websérie *Campo Grande na Tela* traz uma versão semelhante contada por Abboud: um general, hospedado no mesmo hotel em Brasília, teria dito que o filme estava preso por "subversivo, imoral e anti-religioso", mas depois o liberou, reduzindo a classificação indicativa de 18 para 16 anos.[^cgtela]
 
 Segundo Diehl, o filme ficou dois meses em cartaz nos cinemas locais e passou por cidades do país e do exterior.[^diehl] A reportagem de 2026 cita circulação em São Paulo, Rio de Janeiro, Brasília e Campinas.[^cgn2026]
 
@@ -62,3 +74,4 @@ A dissertação de Diehl diz que a crítica nacional teve opiniões divergentes,
 [^cgn2021]: Vanessa Ayala, ["Veja 11 curtas para se encantar com o cinema campo-grandense"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/veja-11-curtas-para-se-encantar-com-o-cinema-campo-grandense), *Campo Grande News*, 23 ago. 2021. Acesso em 10 out. 2026.
 [^cordis]: Flaviana Miranda da Silva de Sá e Maria Augusta de Castilho, ["Os espaços cinematográficos em Campo Grande – MS"](https://revistas.pucsp.br/index.php/cordis/article/download/28098/19770/74033), *Cordis: História, Cinema e Política*, n. 16, jan./jun. 2016, p. 246. Acesso em 10 out. 2026.
 [^teatrine]: Tero Queiroz, ["Cineclube 'renasce' com filme incendiado no Teatro Glauce Rocha"](https://www.teatrinetv.com.br/audiovisual/2023/10/19/cineclube-renasce-com-filme-incendiado-no-teatro-glauce-rocha.html), *Teatrine TV*, 18 out. 2023. Acesso em 10 out. 2026.
+[^cgtela]: Transcrição da websérie *Campo Grande na Tela* (2018), episódio ["PROSA (EP. 5)"](https://www.youtube.com/watch?v=PqSKw4PPX84), canal Marruá Arte e Cultura, YouTube, enviada pelo usuário. Acesso em 11 out. 2026.

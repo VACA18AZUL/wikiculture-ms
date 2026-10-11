@@ -7,7 +7,7 @@ ficha:
   Atividade: Direção e produção de cinema
   Obras: Caramujo-Flor (1988); 500 Almas (2004)
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Joel Pizzini** é um cineasta carioca que se considera sul-mato-grossense, porque foi morar em Dourados aos seis meses de vida.[^cgn2019] A Enciclopédia Itaú Cultural e a Wikipédia em português dão 1960 como ano de nascimento, no Rio de Janeiro.[^itau][^wiki]
@@ -21,6 +21,8 @@ Em 1986, foi curador de uma mostra de Júlio Bressane no Cinesesc. Em 1987, foi 
 De 1996 a 2001, realizou cinebiografias para o Canal Brasil, entre elas *Um Homem Só* (2000), sobre o ator Leonardo Villar, e *Glauces: Estudo de um Rosto* (2001), sobre a atriz [[glauce-rocha|Glauce Rocha]]. Nos anos 2000, foi curador da restauração da obra de Glauber Rocha e, em 2010, da Ocupação Sganzerla, do Itaú Cultural.[^itau]
 
 Em 2008, a [[mostra-do-filme-livre|Mostra do Filme Livre]] o homenageou e exibiu *Caramujo-Flor*, segundo um balanço publicado no Overmundo, plataforma colaborativa.[^om2008]
+
+Segundo depoimento dele à websérie *Campo Grande na Tela* (2018), dublou a própria voz de Glauce Rocha em *Glauces: Estudo de um Rosto*, como se a estivesse convidando a atuar outra vez, numa escolha deliberada para fugir do tom nostálgico e saudosista. O filme circulou pelo festival de Locarno e, segundo ele, foi exibido também na Tate Modern, em Londres, numa mostra sobre tropicalismo. Disse ainda que o documentário atravessa 30 anos de história do cinema brasileiro, de Mazzaropi a Glauber Rocha, e citou a frase atribuída a Glauce Rocha "não existe pequenos papéis, e sim pequenos atores".[^cgtela]
 
 ## Obras
 
@@ -44,3 +46,4 @@ Em 2008, a [[mostra-do-filme-livre|Mostra do Filme Livre]] o homenageou e exibiu
 [^om2007]: Rodrigo Teixeira, ["Pizzini em transe!"](https://www.overmundo.com.br/overblog/pizzini-em-transe), *Overmundo*, 26 jun. 2007. Acesso em 10 out. 2026.
 [^om2008]: Saulo Frauches, ["À procura do filme livre perfeito"](https://www.overmundo.com.br/overblog/a-procura-do-filme-livre-perfeito), *Overmundo*, 1 abr. 2008. Acesso em 10 out. 2026.
 [^om2006]: Bosco Martins, ["Manoel de Barros se considera um songo – Parte III"](https://www.overmundo.com.br/overblog/manoel-de-barros-se-considera-um-songo-parte-iii), *Overmundo*, 11 dez. 2006. Acesso em 10 out. 2026.
+[^cgtela]: Transcrições das websérie *Campo Grande na Tela* (2018), episódios ["UEMS (EP. 4)"](https://www.youtube.com/watch?v=xZ_OUoLn_nQ) e ["UFMS (EP.10)"](https://www.youtube.com/watch?v=7eNtNyMncnM), canal Marruá Arte e Cultura, YouTube, enviadas pelo usuário. Acesso em 11 out. 2026.
