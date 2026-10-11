@@ -10,7 +10,7 @@ ficha:
   Atividade: Crítica literária, magistério e gestão cultural
   Grupos: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (cadeira 19); [[cineclube-de-campo-grande|Cineclube de Campo Grande]]"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Maria da Glória Sá Rosa** foi uma escritora, professora e gestora cultural nascida no Ceará e radicada em Mato Grosso do Sul desde os seis anos de idade.[^philologus] Conhecida como Glorinha, morreu em Campo Grande em 28 de julho de 2016, aos 88 anos.[^cgn2016][^ufms2016]
@@ -31,13 +31,19 @@ Segundo o mesmo estudo, criou o Teatro Universitário Campo-grandense e o [[cine
 
 Foi cofundadora da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] e ocupou a cadeira 19 por 44 anos, de acordo com o estudo de Godinho e Abrão.[^philologus]
 
+Segundo o artigo de 2024 sobre o acervo, ela se radicou em Campo Grande na década de 1930, com a família, atraída pelo desenvolvimento ligado à agropecuária e à Estrada de Ferro Noroeste do Brasil.[^acervo] O mesmo texto diz, em outro trecho, que ela chegou à cidade na década de 1920. Godinho e Abrão dão a idade de seis anos na chegada, sem ano.[^philologus] As duas datas ficam registradas, sem escolha entre elas.
+
+Em 1967, segundo o artigo de 2024, esteve à frente do 1º Festival de Música Brasileira de Campo Grande, e uma década depois participou da organização do 1º Festival Sul-Mato-Grossense de Música. O mesmo artigo a associa à fundação do Teatro Universitário Campo-grandense, em 1967.[^acervo] Ver [[festivais-de-musica-popular-ms|Festivais de Música Popular de Mato Grosso do Sul]].
+
 ## Obra
 
 Escreveu estudos de crítica literária sobre Guimarães Rosa e o romance brasileiro, além de crônicas, contos e livros de memória da cultura de Mato Grosso do Sul.[^philologus] Organizou ou coorganizou antologias e obras de referência. Entre elas está a *Antologia de textos da literatura sul-mato-grossense* (2013), com Albana Xavier Nogueira e [[maria-adelia-menegazzo|Maria Adélia Menegazzo]].[^abralic]
 
-Seu arquivo pessoal foi doado à UEMS em 2017, e o Acervo Maria da Glória Sá Rosa foi aberto em 2019.[^philologus]
+Seu arquivo pessoal foi doado à UEMS em 2017, e o Acervo Maria da Glória Sá Rosa foi aberto em 2019.[^philologus] Segundo o artigo de 2024, a biblioteca do acervo tem mais de três mil obras, parte delas de sua própria autoria, e o conjunto inclui diários, material audiovisual e objetos da residência.[^acervo]
 
 Um livro póstumo, *[[a-gloria-desta-morena|A glória desta morena]]*, foi lançado em 25 de agosto de 2020, em sessão drive-in em Campo Grande, organizado por [[sylvia-cesco|Sylvia Cesco]]. Segundo o *Campo Grande News*, reúne cinco textos inéditos dela e textos de outros 29 autores convidados.[^cgn2020]
+
+Um artigo de 2023 reuniu os escritos dela na Revista da Academia Sul-Mato-Grossense de Letras. Segundo esse estudo, ela publicou na revista entre 2004, com cinco textos no número 3, e 2014, quando escreveu pela última vez para a revista, em um total de dezesseis volumes.[^antologia]
 
 ## Obras
 
@@ -45,16 +51,20 @@ Um livro póstumo, *[[a-gloria-desta-morena|A glória desta morena]]*, foi lanç
 - *Estudo sobre Guimarães Rosa* (1967) e *Análise estrutural do romance* (1971).[^philologus]
 - *Análise interpretativa do conto "Casa de Bronze" de João Guimarães Rosa* (1974) e *O romance brasileiro atual: realismo mágico e realismo mimético* (1976).[^philologus]
 - *Memórias da cultura e da educação em Mato Grosso do Sul* (1990); Freire dá o subtítulo *histórias de vida*.[^philologus][^freire]
-- *[[memoria-da-arte-em-mato-grosso-do-sul-historias-de-vida|Memória da Arte em Mato Grosso do Sul: histórias de vida]]* (1992), com Idara Duncan e Maria Adélia Menegazzo, segundo texto colaborativo do Overmundo e a revista da ASL.[^om2007][^asl16]
-- *Deus quer, o homem sonha, a cidade nasce: Campo Grande cem anos de história*, título sem data nas listas de obras consultadas.[^ucdb]
+- *Projeto Universidade 81: festivais de música em Mato Grosso do Sul* (1981), com Fonseca e Simões, segundo o artigo de 2024; o livro é o mesmo tratado em [[festivais-de-musica-popular-ms|Festivais de Música Popular de Mato Grosso do Sul]], que registra a apresentação em maio de 1982.[^acervo]
+- *[[memoria-da-arte-em-mato-grosso-do-sul-historias-de-vida|Memória da Arte em Mato Grosso do Sul: histórias de vida]]* (1992), com Idara Duncan e Maria Adélia Menegazzo, segundo texto colaborativo do Overmundo e a revista da ASL.[^om2007][^asl16] O artigo de 2024 indica Menegazzo e um coautor de sobrenome Rodrigues, sem citar Idara Duncan; as duas versões ficam registradas.[^acervo]
+- *Deus quer, o homem sonha, a cidade nasce: Campo Grande cem anos de história* (1992), com Maria Adélia Menegazzo e Idara Duncan, segundo o artigo de 2024; as listas de obras consultadas pela UCDB não traziam data.[^ucdb][^acervo]
 - *Crônicas de fim de século* (2001).[^philologus][^freire]
 - *Contos de hoje e sempre* (2002): o subtítulo é *Tecendo palavras* em Godinho e Abrão e *Tecendo versos* em Freire. As duas versões ficam registradas.[^philologus][^freire]
 - *Artes plásticas em Mato Grosso do Sul* (2005), com [[idara-duncan|Idara Duncan]] e [[yara-penteado|Yara Penteado]].[^philologus][^freire]
 - *A música de Mato Grosso do Sul: histórias de vida* (2009), com Idara Duncan, publicado pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^philologus][^siel]
 - [[a-literatura-sul-mato-grossense-na-otica-de-seus-construtores|*A literatura sul-mato-grossense na ótica de seus construtores*]] (2011), com Albana Xavier Nogueira.[^philologus][^freire]
 - *Antologia de textos da literatura sul-mato-grossense* (2013), com Albana Xavier Nogueira e Maria Adélia Menegazzo, segundo Araujo (2017) e a revista da ASL.[^abralic][^asl24]
+- *A crônica dos quatro* (2014), com Menegazzo, Barros e Hilcar, segundo o artigo de 2024.[^acervo]
 
 ## Prêmios e honrarias
+
+Em 2016, ano de sua morte, a Assembleia Legislativa de Mato Grosso do Sul instituiu a Medalha do Mérito Legislativo Cultural Maria da Glória Sá Rosa.[^acervo]
 
 Recebeu o título de doutora honoris causa da UFMS e o de professora honorária da Unigran, em Dourados.[^philologus] Segundo a revista da ASL de 2013, o título da UFMS é de 2007.[^asl24] A UCDB informa que ela recebeu o título de doutora honoris causa da UCDB em 19 de junho de 2012, e a nota da universidade lista ainda os títulos de cidadã sul-mato-grossense (Assembleia Legislativa) e as medalhas do Mérito Legislativo, da Ordem do Mérito do Estado e de Honra ao Mérito.[^ucdb]
 
@@ -82,3 +92,5 @@ Recebeu o título de doutora honoris causa da UFMS e o de professora honorária 
 [^sacis]: ["[Entrevista] Albana Xavier – Cultura Pantaneira entre a tradição e o novo"](https://colecionadordesacis.com.br/2018/01/08/entrevista-albana-xavier-cultura-pantaneira-entre-a-tradicao-e-o-novo/), *Cultura em MS*, n. 1, nov. 2008, reproduzida em *Colecionador de Sacis*, 8 jan. 2018. Acesso em 10 out. 2026.
 [^cgn2020]: Paula Maciulevicius Brasil, ["Contos inéditos de professora Glorinha são lançados em livro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/contos-ineditos-de-professora-glorinha-sao-lancados-em-livro), *Campo Grande News*, 25 ago. 2020. Acesso em 10 out. 2026.
 [^siel]: Samara de Sousa Moreira e Aline Saddi Chaves, ["Antologia dos escritos de Maria da Glória Sá Rosa na Revista da Academia Sul-Mato-Grossense de Letras"](https://periodicos.ufms.br/index.php/SIEL/article/view/18190), Anais dos Seminários Internacionais de Estudos de Linguagens e das Semanas de Letras, FAALC/UFMS, 2023, referências. Acesso em 10 out. 2026.
+[^acervo]: Aline Saddi Chaves e Rosana Cristina Zanelatto Santos, ["Memória (auto)biográfica e memória histórica: o Acervo Maria da Glória Sá Rosa"](https://dialnet.unirioja.es/descarga/articulo/10086357.pdf), *História e Cultura*, v. 13, n. 2, dez. 2024. Acesso em 11 out. 2026.
+[^antologia]: Samara de Sousa Moreira e Aline Saddi Chaves, ["Antologia dos escritos de Maria da Glória Sá Rosa na Revista da Academia Sul-Mato-Grossense de Letras"](https://periodicos.ufms.br/index.php/SIEL/article/download/18190/12980), *Anais SIEL e Semanas de Letras*, FAALC/UFMS, n. 4, 2023, p. 129–136. Acesso em 11 out. 2026.
