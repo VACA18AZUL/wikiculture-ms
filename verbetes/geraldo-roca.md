@@ -9,7 +9,7 @@ ficha:
   Atividade: Composição e canto
   Parcerias: "[[paulo-simoes|Paulo Simões]]"
 status: rascunho
-atualizado: 2026-10-11
+atualizado: 2026-10-12
 ---
 
 **Geraldo Roca** foi um compositor e cantor de Campo Grande, morto em 25 de dezembro de 2015, aos 61 anos.[^trem]
@@ -33,6 +33,10 @@ A Wikipédia afirma que a canção foi eleita em 2002, por concurso popular, a m
 Roca disse ao Overmundo que gravou com Renato Teixeira, tocando viola de dez cordas, o LP *Garapa*, nos anos 1980. Afirmou também que "Polca Outra Vez" é a canção que o liga ao surgimento da polca-rock, e explicou "Litoral Central" como uma expressão que reúne a música de beira de rio (chamamé, "litoraleña") e a ideia de um mar interior, o Mar de Xaraés.[^omtrilhos]
 
 Sobre os discos, a Wikipédia lista *Geraldo Roca* (LP, 1988), *Litoral Central* (1997) e *Veneno Light* (2003), além da coletânea *[[geracoes|GerAções]]* (2006).[^wikipt] O Campo Grande News data *Veneno Light* de 2006, e uma nota do Overmundo de 17 de maio de 2006 já o chamava de último disco do compositor; as datas divergem.[^camillo][^omveneno] Segundo o Overmundo, o CD tem 10 faixas, com regravações de "Cavalo Bravo" (Renato Teixeira) e "Flores" (Titãs), e a balada "Sobre a Cidade Média" como destaque.[^omveneno] Em 2007, o mesmo site disse que Roca havia lançado um LP e dois CDs.[^omtrilhos]
+
+## Juventude e primeiras bandas
+
+Uma dissertação de 2024 sobre as canções de Roca, citando o pesquisador Rogério Valdez (2009), diz que ele começou a carreira por volta dos 13 anos no Rio de Janeiro, tocando violão e guitarra numa banda de covers de Beatles e Rolling Stones chamada The Yellow Bird; mais tarde o grupo viraria a banda Kaos, de "canções mais pesadas", de que cita o título "Mate a Família e Vá ao Cinema". A mesma fonte diz que, aos 17 anos, repetiu o ano escolar e foi morar em Campo Grande com os tios, e que seu primeiro disco foi um compacto pela gravadora Bandeirantes Discos, depois de uma temporada em São Paulo nos anos 1970. A dissertação afirma ainda que ele se estabeleceu em Campo Grande já aos 30 anos de idade — o que diverge do relato do próprio Roca ao Overmundo, citado acima, de que só se mudou para a cidade em 1988 (aos 34 anos). As duas versões ficam registradas.[^ianrari]
 
 ## Litoral Central e pesquisa de campo
 
@@ -58,6 +62,7 @@ Um vídeo do canal Folk + Brasil discute sua obra dentro da classificação inte
 [^silus]: Alan Silus, [*Pelos caminhos da música sul-mato-grossense: um estudo bibliográfico*](https://trilhasdahistoria.ufms.br/index.php/RevTH/article/view/19958/14805), *Revista Trilhas da História*, UFMS (recebido em 4 jan. 2024, aprovado em 31 out. 2024). Acesso em 8 out. 2026.
 [^wikipt]: ["Geraldo Roca"](https://pt.wikipedia.org/wiki/Geraldo_Roca), *Wikipédia* (edição em português; conteúdo colaborativo). Acesso em 10 out. 2026.
 [^omtrilhos]: Rodrigo Teixeira, ["Geraldo Roca: Sobre Todos os Trilhos da Terra"](https://www.overmundo.com.br/overblog/geraldo-roca-sobre-todos-os-trilhos-da-terra), *Overmundo*, 14 mar. 2007. Acesso em 10 out. 2026.
+[^ianrari]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação, UFMS (Aquidauana), 2024, p. 65 (citando Rogério Valdez, 2009). Acesso em 12 out. 2026.
 [^ompaulo]: Rodrigo Teixeira, ["Paulo Simões • Passageiro do Oeste"](https://www.overmundo.com.br/overblog/paulo-simoes-passageiro-do-oeste), *Overmundo*, 2 abr. 2008. Acesso em 10 out. 2026.
 [^omveneno]: Rodrigo Teixeira, ["Geraldo Roca – Veneno Light"](https://www.overmundo.com.br/guia/geraldo-roca-veneno-light), *Overmundo*, 17 maio 2006. Acesso em 10 out. 2026.
 [^doclc]: ["Geraldo Roca e a Música do Litoral Central"](https://www.youtube.com/watch?v=7T5D4l5wn9g), canal Shopping Bosque dos Ipês, YouTube. Transcrição por legenda automática. Acesso em 11 out. 2026.

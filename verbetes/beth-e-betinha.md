@@ -9,7 +9,7 @@ ficha:
   Atividade: Canto; Betinha tocava acordeom
   Documentário: 'Beth e Betinha (2019)'
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-12
 ---
 
 **Beth e Betinha** é uma dupla de cantoras formada por duas irmãs, nascidas em Rio Brilhante.[^cgnth]
@@ -44,6 +44,10 @@ Betinha conta que, em 1968, as duas participaram de uma atração chamada "Mulhe
 
 O Campo Grande News aponta a dupla como a primeira dupla feminina do estado.[^cgnth] No livro, Beth diz que, quando começaram, não havia outra mulher cantando no estado, e Betinha lembra de Delinha, que já cantava com Délio ([[delio-e-delinha|Délio e Delinha]]). Betinha diz ainda que as [[irmas-castro|Irmãs Castro]] foram a primeira dupla a cantar em guarani, e que ela e Beth se espelhavam nelas.[^pio]
 
+## Prata da Casa (1982)
+
+Uma dissertação de 2012 sobre a música regional urbana do estado cita um texto de divulgação do disco *[[prata-da-casa|Prata da Casa]]* segundo o qual a dupla também se apresentou naquele evento, de 1982, mas não teve o nome estampado na capa do LP nem registro no documentário da TV Morena sobre o projeto.[^gilmar]
+
 ## CD *GerAções* (2006)
 
 Em 2006, as duas gravaram "Flor mato-grossense" no CD *[[geracoes|GerAções]]*, produzido por [[marcio-de-camillo|Márcio de Camillo]], ao lado das cantoras [[maria-alice|Maria Alice]] e Maria Cláudia, com viola de [[aurelio-miranda|Aurélio Miranda]]. A canção é de Anacleto Rosas Jr., segundo o Overmundo.[^omflor] Na reportagem sobre o show de lançamento, na Concha Acústica [[helena-meirelles|Helena Meirelles]], o autor cita as duas, ao lado de [[amambay-e-amambai|Amambay e Amambaí]], como veteranas presentes no palco.[^omshow]
@@ -65,3 +69,4 @@ Em 2006, as duas gravaram "Flor mato-grossense" no CD *[[geracoes|GerAções]]*,
 [^pio]: Rodrigo Teixeira, [*Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul*](https://www.overmundo.com.br/banco/os-pioneiros-a-origem-da-musica-sertaneja-de-mato-grosso-do-sul-1), livro, Campo Grande, 2009 (PDF integral divulgado no *Overmundo* em 15 jan. 2010), p. 32 e 59-68 e discografia. Acesso em 10 out. 2026.
 [^omflor]: Rodrigo Teixeira, ["CD GerAções • Flor matogrossense • Beth e Betinha & Maria Alice e Maria Cláudia • IV"](https://www.overmundo.com.br/banco/cd-geracoesflor-matogrossense-beth-e-betinha-maria-alice-e-maria-claudiaiv), *Overmundo*, 5 set. 2006. Acesso em 10 out. 2026.
 [^omshow]: Rodrigo Teixeira, ["GerAções reativa corrente da música de MS"](https://www.overmundo.com.br/overblog/geracoes-reativa-corrente-da-musica-de-ms), *Overmundo*, 23 set. 2006. Acesso em 10 out. 2026.
+[^gilmar]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação, UFGD, 2012, p. 64. Acesso em 12 out. 2026.
