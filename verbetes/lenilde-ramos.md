@@ -9,7 +9,7 @@ ficha:
   Atividade: Composição
   Disco: Onça Pintada
 status: rascunho
-atualizado: 2026-10-11
+atualizado: 2026-10-12
 ---
 
 **Lenilde Ramos** é uma compositora nascida em Campo Grande, em 1952.[^cgnlen]
@@ -23,6 +23,10 @@ Ela musicou o poema "Pertences de Uso Pessoal", do livro *Gramática Expositiva 
 Em 1982, seu nome aparece entre os entrevistados do livro sobre os festivais de música do estado, feito no projeto Universidade 81. O livro analisa os festivais de 1967 a 1981 e se baseia em 15 entrevistas.[^silus]
 
 Em 2023, ela esteve entre os 15 homenageados do Prêmio Grão de Música, em sua 10ª edição, representando Mato Grosso do Sul.[^cgnlen]
+
+## Poranguetê
+
+Nos anos 1980, integrou o grupo [[poranguete|Poranguetê]], ao lado de [[pedro-ortale|Pedro Ortale]], Geraldo Ribeiro e [[antonio-porto|Antônio Porto]], citado como referência do chamado "rock de botina" e precursor da geração da polca-rock em Campo Grande.[^gilmar]
 
 ## Cena musical e Praça do Peixe
 
@@ -65,3 +69,4 @@ Segundo o *Correio do Estado* de 14 de outubro de 2025, *Margarida – Retratos 
 [^cenana]: Lenilde Ramos, ["Nana Caymmi no coração"](https://correiodoestado.com.br/correio-b/nana-caymmi-no-coracao/447732/), *Correio do Estado*, 6 mai. 2025 (texto assinado por ela). Acesso em 10 out. 2026.
 [^cemarg]: ["Lenilde Ramos faz o resgate da identidade cultural de MS a partir da trajetória de Margarida Neder"](https://correiodoestado.com.br/correio-b/lenilde-ramos-faz-o-resgate-da-identidade-cultural-de-ms-a-partir-da/455902/), *Correio do Estado*, 14 out. 2025. Acesso em 10 out. 2026.
 [^cgtela]: Transcrição da websérie *Campo Grande na Tela* (2018), episódio ["BANDEIRA (EP. 6)"](https://www.youtube.com/watch?v=m-dTPnV9W9A), canal Marruá Arte e Cultura, YouTube, enviada pelo usuário. Acesso em 11 out. 2026.
+[^gilmar]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação, UFGD, 2012, p. 155, citando depoimento de Rodrigo Teixeira. Acesso em 12 out. 2026.
