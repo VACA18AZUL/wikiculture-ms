@@ -10,7 +10,7 @@ ficha:
   Atividade: Fotografia e vídeo documental
   Nomes: "Dionédison Terena; Dionedison Terena; Dionédison Cândido Terena (créditos de filmes)"
 status: rascunho
-atualizado: 2026-10-11
+atualizado: 2026-10-12
 ---
 
 **Dionédison Terena** é fotógrafo e videasta indígena do povo terena. Nasceu na aldeia Bananal, em Aquidauana, e vive na aldeia urbana Água Bonita, em Campo Grande.[^cgn2017][^diss]
@@ -30,6 +30,8 @@ As duas obras acadêmicas dizem que ele ajudou a fundar o Conselho do Povo Teren
 
 Também aparece, como "Dionédson Cândido", entre os entrevistados da websérie *Campo Grande na Tela* (2018, episódio 6, região Bandeira), falando sobre o significado do audiovisual para a afirmação e a difusão das identidades indígenas.[^cgtela]
 
+No episódio da região Segredo da mesma websérie, é identificado como "fotógrafo cineasta Dionette São Cândido" (outra variação de grafia da legenda automática, compatível com o mesmo percurso já registrado nas fontes acadêmicas). Ali conta que participou de um curso de audiovisual do Pontão Guaicurus, através do Vídeo Índio Brasil, e que depois devolveu esse aprendizado ao seu povo, registrando o cotidiano de aldeias, a fala de anciãos e as lutas pela demarcação de terras indígenas, das mulheres indígenas e da juventude indígena.[^cgtela2]
+
 ## Divergências
 
 A grafia do nome varia entre as fontes: Dionédison, Dionedison e Dionedson. A dissertação e a tese trazem também o sobrenome Cândido.[^diss][^tese]
@@ -38,3 +40,4 @@ A grafia do nome varia entre as fontes: Dionédison, Dionedison e Dionedson. A d
 [^diss]: Miguel Angelo Corrêa, [*Audiovisual autoral dos povos indígenas de Mato Grosso do Sul: mapeamento e análise*](https://ppgcom.ufms.br/files/2015/12/Audiovisual-Autoral-dos-Povos-Indigenas-de-Mato-Grosso-do-Sul-mapeamento-e-analise.pdf), dissertação, UFMS, 2015, seção 3.2.1.4 e filmografia. Acesso em 10 out. 2026.
 [^tese]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese, UFGD, 2023, seção 2.2.2.6. Acesso em 10 out. 2026.
 [^cgtela]: ["BANDEIRA - CAMPO GRANDE NA TELA (EP.6)"](https://www.youtube.com/watch?v=m-dTPnV9W9A), canal Marruá Arte e Cultura, YouTube, 2018. Acesso em 11 out. 2026.
+[^cgtela2]: Transcrição da websérie *Campo Grande na Tela* (2018), episódio ["SEGREDO (EP. 2)"](https://www.youtube.com/watch?v=sGsv-f_P9Jg), canal Marruá Arte e Cultura, YouTube, enviada pelo usuário. Acesso em 12 out. 2026.
