@@ -9,7 +9,7 @@ ficha:
   Morte: 29 de setembro de 2005, Campo Grande
   Atividade: Viola, violão, bandolim e rabeca
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-12
 ---
 
 **Helena Meirelles** foi uma violeira e instrumentista, conhecida como "Dama da viola". Nasceu em 13 de agosto de 1924 e morreu em Campo Grande, em 29 de setembro de 2005.[^tribuna]
@@ -19,6 +19,8 @@ atualizado: 2026-10-10
 A Tribuna do Paraná diz que ela nasceu na fazenda Jararaca, na Estrada Boiadeira, que liga Campo Grande ao Porto 15 do Rio Paraná.[^tribuna] O Campo Grande News de 2014 situa a fazenda na região de Bataguassu, e o de 2024 repete Bataguassu a partir de um trabalho acadêmico.[^cgn2014][^cgn2024]
 
 Tocava viola, bandolim, rabeca e violão. Sua música mistura ritmos do estado com influências paraguaias, como chamamé, rasqueado e polca. Na juventude, tocava em festas, bailes e bares.[^tribuna] Só foi conhecida fora da região depois dos 60 anos.[^cgn2014][^cgn2024]
+
+Segundo o site do Museu da Imagem e do Som de Mato Grosso do Sul (MIS-MS), ela cresceu numa época em que a viola era considerada instrumento proibido às mulheres, e aprendeu a tocar sozinha, às escondidas. A mesma fonte cita uma apresentação dela ao lado da dupla Tonico e Tinoco, em São Paulo, em 1993.[^mis]
 
 Em 1980, Inezita Barroso a apresentou no programa *Mutirão*, da Rádio USP, e no *Viola, minha viola*, da TV Cultura. Em 1992, tocou no Teatro do Sesc, em São Paulo, com Inezita Barroso e a dupla Pena Branca e Xavantinho. Em 1993, a revista norte-americana *Guitar Player* lhe deu o prêmio Spotlight de instrumentista revelação.[^tribuna] As reportagens do Campo Grande News dizem que a revista a incluiu entre os cem melhores músicos ou guitarristas do mundo.[^cgn2014][^cgn2024]
 
@@ -53,3 +55,4 @@ Em agosto de 2026, a RCN67 noticiou outro documentário de longa-metragem, *[[he
 [^pio]: Rodrigo Teixeira, ["Os Pioneiros mira primeiros compositores de MS"](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms) (texto de apresentação do livro *Os Pioneiros*), *Overmundo*, 15 jan. 2010. Acesso em 10 out. 2026.
 [^piop]: Rodrigo Teixeira, ["Os Pioneiros mira primeiros compositores de MS"](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), *Overmundo*, 15 jan. 2010. Acesso em 10 out. 2026.
 [^rcn2026]: Ana Lorena Franco, ["Helena Meirelles ganha documentário sobre legado na música sul-mato-grossense"](https://www.rcn67.com.br/campo-grande/helena-meirelles-ganha-documentario-sobre-legado-na-musica-sul-mato-grossense/), *RCN67*, 17 ago. 2026. Acesso em 10 out. 2026.
+[^mis]: ["Helena Meirelles, a dama da viola"](https://amigosdomis.webnode.com.br/news/helena-meirelles-a-dama-da-viola/), site Amigos do MIS (Museu da Imagem e do Som de Mato Grosso do Sul), citando [netsaber.com.br](https://www.netsaber.com.br/biografias/ver_biografia_c_2204.html). Acesso em 12 out. 2026.
