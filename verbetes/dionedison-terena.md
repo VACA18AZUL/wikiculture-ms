@@ -30,7 +30,7 @@ As duas obras acadêmicas dizem que ele ajudou a fundar o Conselho do Povo Teren
 
 Também aparece, como "Dionédson Cândido", entre os entrevistados da websérie *Campo Grande na Tela* (2018, episódio 6, região Bandeira), falando sobre o significado do audiovisual para a afirmação e a difusão das identidades indígenas.[^cgtela]
 
-No episódio da região Segredo da mesma websérie, é identificado como "fotógrafo cineasta Dionette São Cândido" (outra variação de grafia da legenda automática, compatível com o mesmo percurso já registrado nas fontes acadêmicas). Ali conta que participou de um curso de audiovisual do Pontão Guaicurus, através do Vídeo Índio Brasil, e que depois devolveu esse aprendizado ao seu povo, registrando o cotidiano de aldeias, a fala de anciãos e as lutas pela demarcação de terras indígenas, das mulheres indígenas e da juventude indígena.[^cgtela2]
+No episódio da região Segredo da mesma websérie, é identificado como "fotógrafo cineasta Dionette São Cândido" (outra variação de grafia da legenda automática, compatível com o mesmo percurso já registrado nas fontes acadêmicas). Ali conta que participou de um curso de audiovisual do Pontão Guaicuru, através do Vídeo Índio Brasil, e que depois devolveu esse aprendizado ao seu povo, registrando o cotidiano de aldeias, a fala de anciãos e as lutas pela demarcação de terras indígenas, das mulheres indígenas e da juventude indígena.[^cgtela2]
 
 ## Divergências
 

@@ -14,7 +14,7 @@ atualizado: 2026-10-12
 
 Compôs, cantou e produziu a trilha sonora original dos dez episódios da websérie *Campo Grande na Tela* (2018), da produtora Marruá Arte e Cultura.[^cgtela]
 
-Participou do debate realizado após a exibição do videoclipe "Nova Lima Mil Pecados", do grupo [[la-firma|Lá Firma]], numa escola da região Segredo, ao lado do grupo, do cineasta [[joel-pizzini|Joel Pizzini]] e da diretora Vânia Lúcia.[^cgtela]
+Participou do debate realizado após a exibição do videoclipe "Nova Lima Mil Pecados", do grupo [[la-firma|La Firma]], numa escola da região Segredo, ao lado do grupo, do cineasta [[joel-pizzini|Joel Pizzini]] e da diretora Vânia Lúcia.[^cgtela]
 
 Em janeiro de 2025, foi selecionada para a pré-programação de música do Campão Cultural 2025.[^cgn2025]
 

@@ -31,7 +31,7 @@ O portfólio do grupo, de junho de 2024, indica "2014/2015 - 2021" e diz que o t
 
 ## Ficha técnica
 
-Segundo o portfólio do grupo, a direção é de Roma Román e a dramaturgia, de Lú Bigattão. A produção é de Fernanda Kunzler, a cenografia de Márcia Gomes, o vídeo cenário de [[maira-espindola|Maíra Espindola]] e [[rafael-mareco|Rafael Mareco]] e as ilustrações de [[ruben-dario-roman-anez|Rubén Dario Román Añez]]. [[anderson-lima|Anderson Lima]] assina a iluminação, [[fabio-umeda|Fábio Umeda]] é técnico de iluminação e [[ewerton-goulart|Ewerton Goulart]] cuida do som e da projeção.[^portfolio]
+Segundo o portfólio do grupo, a direção é de Roma Román e a dramaturgia, de Lú Bigattão. A produção é de Fernanda Kunzler, a cenografia de Márcia Gomes, o vídeo cenário de [[maira-monan|Maíra Espíndola]] e [[rafael-mareco|Rafael Mareco]] e as ilustrações de [[ruben-dario-roman-anez|Rubén Dario Román Añez]]. [[anderson-lima|Anderson Lima]] assina a iluminação, [[fabio-umeda|Fábio Umeda]] é técnico de iluminação e [[ewerton-goulart|Ewerton Goulart]] cuida do som e da projeção.[^portfolio]
 
 ## Encenação
 
