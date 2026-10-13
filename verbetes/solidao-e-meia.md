@@ -5,7 +5,7 @@ areas: [audiovisual, musica]
 cidade: Campo Grande
 resumo: Curta-metragem de 2015, dirigido por Helton Pérez, inspirado na vida e nas canções do bluesman Renato Fernandes, com Chico Neller no papel do músico.
 ficha:
-  Direção: Helton Pérez
+  Direção: "[[helton-perez|Helton Pérez]]"
   Elenco: "Chico Neller; Paula Bueno"
   Ano: "2015"
   Formato: Curta-metragem (podendo virar média ou longa)
@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-10-13
 ---
 
-***Solidão e Meia*** é um curta-metragem dirigido por Helton Pérez, inspirado na vida e nas canções do bluesman [[renato-fernandes|Renato Fernandes]], morto em fevereiro de 2015, pouco antes do início das filmagens. [[chico-neller|Chico Neller]] interpreta o músico; a bailarina e atriz Paula Bueno é a protagonista de uma história de amor construída a partir do disco *Vida Dura*, da banda [[bebados-habilidosos|Bêbados Habilidosos]].[^cgn2015]
+***Solidão e Meia*** é um curta-metragem dirigido por [[helton-perez|Helton Pérez]], inspirado na vida e nas canções do bluesman [[renato-fernandes|Renato Fernandes]], morto em fevereiro de 2015, pouco antes do início das filmagens. [[chico-neller|Chico Neller]] interpreta o músico; a bailarina e atriz Paula Bueno é a protagonista de uma história de amor construída a partir do disco *Vida Dura*, da banda [[bebados-habilidosos|Bêbados Habilidosos]].[^cgn2015]
 
 ## Produção
 
@@ -23,4 +23,8 @@ Pérez contou que Renato Fernandes dissera a ele e a Paula Bueno que sua cena pr
 
 Na data da matéria, em 2015, o filme ainda estava em pós-produção, e o diretor dizia não ter certeza se o resultado seria um curta, média ou longa-metragem.[^cgn2015]
 
+Nos currículos de [[helton-perez|Helton Pérez]] e de [[hana-chaves|Hana Chaves]] (catering na equipe), enviados pelo usuário em 2026, o filme aparece listado no período de 2018-2019 da carreira de ambos, e não em 2015, ano da reportagem sobre as filmagens. Este verbete registra as duas datas, sem optar por uma: é possível que o filme, com produção iniciada em 2015, só tenha sido finalizado alguns anos depois.[^cvhelton][^cvhana]
+
 [^cgn2015]: Naiane Mesquita, ["Em Solidão e Meia, coreógrafo incorpora a lenda do blues Renato Fernandes"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-solidao-e-meia-coreografo-incorpora-a-lenda-do-blues-renato-fernandes), *Campo Grande News*, 22 ago. 2015. Acesso em 13 out. 2026.
+[^cvhelton]: Currículo de Helton Pérez, documento enviado pelo usuário, 14 ago. 2026.
+[^cvhana]: Currículo de Hana Chaves, documento enviado pelo usuário, 14 ago. 2026.
