@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Próxima: Fase 1 (lista-mestra).
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 em andamento: artes plásticas triada em 27/10/2026 (68 linhas na lista-mestra), aguardando revisão. Próxima área: música.
 
 ## Decisão central
 
@@ -33,7 +33,7 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 | Fase | Entrega | Marco | Situação |
 |---|---|---|---|
 | 0. Fundação | Estrutura, modelo de ficha, verbetes-modelo, publicação automática | Navegação funcionando | Concluída |
-| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | A fazer |
+| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | Em andamento (1 de 7 áreas) |
 | 2. Piloto | 35 verbetes completos (5 por área), revisados | Padrão de qualidade validado | A fazer |
 | 3. Expansão | Lotes por área, um pull request por lote | Cobertura da lista-mestra | A fazer |
 | 4. Design | Identidade visual aplicada sobre o conteúdo pronto | Lançamento público | A fazer |
@@ -47,6 +47,10 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade, e link do artigo na Wikipédia (pt), se houver.
 3. Prioridade alta: quem aparece em duas ou mais fontes independentes, ou em fonte acadêmica.
 4. Não redigir verbetes nesta fase.
+   - Várias fontes para um nome: separe por `;` em `fonte_de_origem` e em `url_fonte`.
+   - Prioridade **alta**: fonte acadêmica que trata do nome com substância, ou duas ou mais fontes distintas com ao menos uma em profundidade (obituário, perfil, mostra individual, premiação). **Média**: uma fonte, ou citação em lista. **Baixa**: ligação com MS pouco clara ou item periférico.
+   - Nome citado sem ligação com MS confirmada pela fonte não entra; fica em `observacoes` do item relacionado.
+   - Ao registrar, anote em `observacoes` a divergência entre fontes e se a leitura foi feita por subagente.
 5. Ao fim de cada área, você revisa a lista: corta, acrescenta e reordena.
 
 ### Tamanho de lote na Fase 3
