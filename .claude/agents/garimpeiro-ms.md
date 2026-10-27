@@ -31,6 +31,8 @@ Antes de começar, leia `CLAUDE.md`, `PLANO.md` (seção "Fontes para a pesquisa
 
 Abra e leia cada fonte antes de registrar algo a partir dela. Nome lido em um resultado de busca, sem abrir a página, não entra.
 
+Wikipédia e redes sociais são pista, não fonte: use-as para achar a fonte primária (matéria, tese, catálogo) e registre essa. Nome que só aparece na Wikipédia entra, no máximo, com prioridade `baixa` e `observacoes: confirmar em fonte primária`. Relação sustentada só pela Wikipédia não entra em `relacoes.csv`.
+
 ## O que registrar
 
 Em `dados/lista-mestra.csv`, uma linha por nome novo, com todas as colunas do cabeçalho:
