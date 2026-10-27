@@ -6,3 +6,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 
 ---
 
+2026-10-27T19:45Z | garimpeiro | garimpeiro | concluída | US$ 1.11 | modelo claude-sonnet-5-5
