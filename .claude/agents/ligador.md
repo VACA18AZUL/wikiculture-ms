@@ -37,6 +37,10 @@ O primeiro lista os verbetes desejados. O segundo lista, por verbete, as mençõ
 
 Rode `npm run conferir` e `npm run build`. Os dois precisam passar.
 
+## Quando rodar em paralelo com outros agentes
+
+No fluxo paralelo (`dados/fluxo/LEIA-ME.md`) você roda dentro do fechamento, sozinho naquele momento, e por isso pode escrever direto em `dados/lista-mestra.csv` e `dados/relacoes.csv`. Mude situação só com `node scripts/fila.mjs marcar <id> <situacao>`.
+
 ## Relatório final
 
 1. Links criados, por verbete.

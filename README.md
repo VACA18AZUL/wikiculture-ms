@@ -19,6 +19,8 @@ Site: ainda sem endereço público (ver "Decisões em aberto" em `PLANO.md`).
 | `src/`, `public/estilo.css` | Código e visual do site. |
 | `scripts/conferir.mjs` | Verificação automática das regras editoriais. |
 | `scripts/ligacoes.mjs` | Aponta menções a nomes conhecidos que ainda não têm link interno. |
+| `scripts/fila.mjs` | Fila de trabalho dos agentes por situação; `marcar` muda a situação de um nome. |
+| `dados/fluxo/`, `.github/workflows/agentes.yml` | Fluxo paralelo dos agentes na nuvem (GitHub Actions, créditos de API). |
 
 ## Criar um verbete
 

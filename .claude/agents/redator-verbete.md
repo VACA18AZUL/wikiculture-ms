@@ -42,6 +42,14 @@ Abra cada link antes de colocá-lo na nota, mesmo que o dossiê já o traga. Lin
 3. Atualize a linha do nome em `dados/lista-mestra.csv`: `situacao: rascunho`.
 4. Atualize `dados/dossies/<id>.md` com a seção "Uso no verbete": o que do dossiê entrou e o que ficou de fora, com motivo.
 
+## Quando rodar em paralelo com outros agentes
+
+Se existir a pasta `dados/propostas/`, você está no fluxo paralelo descrito em `dados/fluxo/LEIA-ME.md`. Nesse caso:
+
+- Não acrescente linhas a `dados/lista-mestra.csv` nem a `dados/relacoes.csv`. Escreva nomes novos em `dados/propostas/nomes-<id-da-rodada>.csv` e relações novas em `dados/propostas/relacoes-<id-da-rodada>.csv`, com os mesmos cabeçalhos desses arquivos. O garimpeiro integra.
+- Mude a situação do seu nome só com `node scripts/fila.mjs marcar <id> <situacao>`.
+- Edite só os arquivos do seu nome. Outro agente pode estar mexendo no resto ao mesmo tempo.
+
 ## Relatório final
 
 1. Caminho do verbete e número de fontes citadas.

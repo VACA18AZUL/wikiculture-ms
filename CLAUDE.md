@@ -22,6 +22,7 @@ Tudo em português do Brasil. Verbetes em tom enciclopédico: frases curtas, sem
 - Ligue verbetes com `[[identificador|texto]]`. Citar um verbete que ainda não existe é desejável: ele entra na página de verbetes desejados.
 - Atualize `dados/lista-mestra.csv` quando criar um verbete ou descobrir um nome novo. Relação entre dois nomes, com fonte, vai em `dados/relacoes.csv`.
 - Antes de qualquer commit, rode `npm run conferir` e `npm run build`. Os dois precisam passar.
+- Rodando em paralelo com outros agentes (existe `dados/propostas/`): siga `dados/fluxo/LEIA-ME.md`. Nomes e relações novos vão para `dados/propostas/`; situação muda só com `node scripts/fila.mjs marcar`.
 - Verbetes vão em lotes de até 10 por pull request, em branch própria. Não envie verbetes direto para `main`.
 - Na descrição do pull request, liste cada verbete com as fontes usadas e aponte o que ficou incerto.
 - Ao concluir uma fase ou um lote, atualize a situação em `PLANO.md`.

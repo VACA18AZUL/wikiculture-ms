@@ -33,6 +33,14 @@ Antes de começar, leia `CLAUDE.md`, a linha do nome em `dados/lista-mestra.csv`
 - Wikipédia serve como pista para achar a fonte primária; cite a fonte que ela cita, depois de abrir.
 - Página de evento sem data ou autor: registre como fonte fraca.
 
+## Quando rodar em paralelo com outros agentes
+
+Se existir a pasta `dados/propostas/`, você está no fluxo paralelo descrito em `dados/fluxo/LEIA-ME.md`. Nesse caso:
+
+- Não acrescente linhas a `dados/lista-mestra.csv` nem a `dados/relacoes.csv`. Escreva nomes novos em `dados/propostas/nomes-<id-da-rodada>.csv` e relações novas em `dados/propostas/relacoes-<id-da-rodada>.csv`, com os mesmos cabeçalhos desses arquivos. O garimpeiro integra.
+- Mude a situação do seu nome só com `node scripts/fila.mjs marcar <id> <situacao>`.
+- Edite só os arquivos do seu nome. Outro agente pode estar mexendo no resto ao mesmo tempo.
+
 ## Relatório final
 
 1. Quantas fontes foram abertas, quantas entraram e quantas foram descartadas, com o motivo.

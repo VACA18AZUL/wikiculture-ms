@@ -75,19 +75,47 @@ Vários pesquisadores podem rodar em paralelo, um por nome. Redatores também. O
 
 O garimpeiro-ms é o único agente feito para descobrir, não para aprofundar. Trabalha por bola de neve: cada nome pesquisado rende os nomes ligados a ele, e os mais conectados sobem na fila. O resultado não é só uma lista, é uma rede: cada relação registrada em `relacoes.csv` vira, mais tarde, um link `[[...]]` entre verbetes e uma frase com fonte. Os cinco nomes mais conectados de cada rodada são os melhores candidatos a verbete, porque já nascem ligados ao que existe.
 
-## Rodadas automáticas (garimpo contínuo)
+## Operação na nuvem, em paralelo, com créditos de API
 
-Na Fase 1, o garimpeiro pode rodar sem ninguém olhando. Uma tarefa agendada abre uma sessão nova a cada 2 horas; cada sessão faz uma rodada de até 30 nomes em uma área, registra o estado em `dados/garimpo/` e envia para a branch `fase1-garimpo`. O estado compartilhado está descrito em `dados/garimpo/LEIA-ME.md`.
+Os agentes rodam como jobs do GitHub Actions (`.github/workflows/agentes.yml`), pagos pela chave `ANTHROPIC_API_KEY` do repositório, sem depender de ninguém com o Claude aberto. O desenho completo, as situações da fila e as regras de concorrência estão em `dados/fluxo/LEIA-ME.md`; o prompt de cada papel está em `dados/fluxo/rodada-<papel>.md` e pode ser editado sem mexer no workflow.
 
-Salvaguardas:
+Em cada ciclo (a cada 3 horas, por padrão):
 
-- **Trava** em `dados/garimpo/registro.md`: duas rodadas nunca trabalham ao mesmo tempo.
-- **Rodízio de áreas**: artes plásticas, música, teatro, dança, literatura, audiovisual, circo; área coberta é pulada.
-- **Prazo**: a rodada confere a data antes de começar e desativa a tarefa quando o prazo passa.
-- **Limites por rodada**: 30 nomes ou 90 minutos.
-- **O que nunca faz**: escrever verbete, abrir pull request, enviar para `main`.
+1. `preparar` monta a fila com `scripts/fila.mjs`.
+2. Em paralelo: **garimpeiro** (1), **pesquisadores** (até 4, um por nome), **reforços** (até 2, atualizador em verbete de fonte única).
+3. `refila` recalcula e os **redatores** (até 4) escrevem um verbete por dossiê novo.
+4. **fechamento** roda ligador, revisor (até 10 verbetes) e empacota a branch `lote-NN` quando há 10 prontos.
 
-Ao fim do período, o Helton revisa `dados/lista-mestra.csv` na branch `fase1-garimpo` (corta, acrescenta, reordena) antes de a Fase 2 começar. Os outros cinco agentes só entram depois dessa revisão.
+Retroalimentação: nomes e relações que qualquer agente encontra entram em `dados/propostas/` e viram candidatos na rodada seguinte, com prioridade maior se apareceram mais de uma vez; o grau de conexão em `relacoes.csv` ordena a fila; o revisor devolve ao redator com relatório; fonte única vai ao atualizador.
+
+### Para ligar (uma vez, pelo Helton)
+
+1. Mesclar esta branch em `main` (o agendamento só roda a partir de `main`).
+2. Settings > Secrets and variables > Actions: segredo `ANTHROPIC_API_KEY`.
+3. Variáveis: `AGENTES_LIGADOS = sim` e `AGENTES_ATE = <data-hora UTC do fim>`, por exemplo `2026-10-29T19:30Z` para 48 horas.
+4. Settings > Branches: proteger `main` contra push direto. Os jobs só escrevem em `producao`, `lote-NN` e `producao-conflito-*`.
+5. Testar antes: Actions > Agentes > Run workflow, com `papeis = garimpeiro`.
+
+Para desligar: `AGENTES_LIGADOS` vazio, ou qualquer valor diferente de `sim`.
+
+### Custo
+
+| Item | Estimativa |
+|---|---|
+| Rodada de pesquisador, redator ou reforço (Sonnet) | US$ 1 a 3; teto 3 |
+| Rodada de garimpeiro (Sonnet) | US$ 3 a 8; teto 8 |
+| Rodada de fechamento (Opus) | US$ 4 a 12; teto 12 |
+| Um ciclo com 4 pesquisadores, 4 redatores, 2 reforços | US$ 15 a 45; teto 50 |
+| 48 horas, 16 ciclos | US$ 250 a 700; teto 800 |
+| Minutos do GitHub Actions por ciclo | 150 a 250 |
+
+Repositório privado tem 2.000 minutos grátis por mês; 48 horas de ciclos passam disso (3.000 a 4.000 minutos). O excedente custa US$ 0,008 por minuto, cerca de US$ 10 a 20. Repositório público não paga minutos, mas o `PLANO.md` decidiu manter privado até a Fase 4.
+
+Os tetos estão nas variáveis `AGENTES_ORCAMENTO_*`; o tamanho do ciclo, em `AGENTES_PESQUISADORES`, `AGENTES_REDATORES` e `AGENTES_REFORCOS`. Para gastar menos, reduza o ciclo antes de reduzir os tetos: rodada cortada pelo teto é rodada perdida.
+
+### Ressalva sobre o plano
+
+O `PLANO.md` previa a Fase 1 inteira (lista-mestra) antes de qualquer verbete, com revisão humana da lista entre as áreas. O fluxo paralelo pula essa espera: escreve verbetes enquanto a lista cresce. O que protege a qualidade é o portão: nada vai para `main` sem passar pelo revisor e pelo pull request. A revisão humana da lista pode ser feita a qualquer momento, marcando nomes como `sem-fonte` ou apagando linhas; o ciclo seguinte respeita.
 
 ## Modelo e esforço de cada agente
 

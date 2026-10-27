@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Mapa de agentes criado em 27/10/2026 (`AGENTES.md`). Próxima: Fase 1 (lista-mestra), com o agente garimpeiro-ms, começando por artes plásticas.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Mapa de agentes e fluxo paralelo na nuvem criados em 27/10/2026 (`AGENTES.md`, `dados/fluxo/`). Próxima: ligar o ciclo automático (`AGENTES_LIGADOS`) e, em paralelo, o Helton revisar a lista-mestra na branch `producao`.
 
 ## Decisão central
 
