@@ -94,6 +94,32 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 - **Erro factual** de agentes de IA (datas, prêmios): regra da fonte, conferência automática e revisão humana por lote.
 - **Imagens:** começar sem fotos; entram só com licença ou autorização.
 - **Fontes únicas:** vários verbetes-modelo se apoiam em uma única matéria. Na Fase 2, o padrão é ao menos duas fontes independentes por verbete.
+- **Dados de vida desatualizados:** verbetes de `tipo: pessoa` podem ficar descrevendo alguém no presente depois que a pessoa morreu, se a fonte usada for anterior à morte e ninguém avisar. Caso real em 27/10/2026: o verbete de Falange da Rima e a lista-mestra não registravam a morte de Mano Xis (11/10/2026), apesar de o grupo já ter perdido Flynt (set. 2025) e Bolinho (abr. 2025) no mesmo ano. Ver plano de conferência abaixo.
+
+## Conferência de dados de vida
+
+Criado em 27/10/2026, depois do caso Mano Xis. Objetivo: reduzir o atraso entre uma morte real e o registro dela nos verbetes, sem virar um trabalho full-time de checagem individual de cada uma das (hoje) centenas de pessoas catalogadas.
+
+**Sinais de que um verbete de pessoa é candidato a reconferência** (quanto mais sinais, maior a prioridade):
+- O texto fala da pessoa no presente ("atua", "está na ativa", "continua") ou menciona idade avançada (acima de ~65-70 anos no momento da fonte).
+- A fonte mais recente usada no verbete tem mais de 2 anos.
+- A pessoa integra um grupo/coletivo em que outro integrante já morreu (como aconteceu com Flynt/Bolinho/Mano Xis no Falange da Rima) — nesse caso, reconferir todo o grupo, não só quem motivou o alerta.
+- A pessoa é descrita como fundadora, pioneira ou histórica de um movimento antigo (cineclubismo, primeiras bandas de rock/rap, festivais dos anos 1960-80): tende a ser gente mais velha.
+
+**Como checar, sem abrir uma aba por nome:**
+1. Busca direta e específica: `"morre" OU "morreu" OU "faleceu" [nome completo ou artístico]`, restrita quando possível ao Campo Grande News, Correio do Estado e Midiamax (os três já de uso corrente no projeto).
+2. Seções dedicadas a monitorar por amostragem, não por nome a nome: a editoria de notícias gerais do Correio do Estado usa a tag **"Luto"** (como no caso Mano Xis); o Campo Grande News não tem uma editoria própria de óbitos, mas o Lado B republica esse tipo de nota — vale testar buscas do tipo `site:campograndenews.com.br "morre" [área cultural]` por lote, em vez de pessoa por pessoa.
+3. Quando um grupo/coletivo tiver uma morte confirmada, aproveitar a mesma sessão para checar todos os outros integrantes vivos citados no mesmo verbete.
+
+**Cadência:**
+- Não é em toda sessão: a reconferência de vida entra como parte do fluxo normal de "refinar verbetes" sempre que um verbete de pessoa com os sinais acima for reaberto por outro motivo (nova fonte, complemento, correção) — conferir de passagem, sem lote dedicado.
+- Lote dedicado periódico (sugestão: a cada fase ou a cada ~10 lotes de verbetes): passar uma lista de nomes de prioridade alta e média com os sinais de risco acima por uma rodada de buscas em bloco, não individualmente.
+
+**Ao confirmar uma morte:**
+- Atualizar a ficha do verbete (campo `Morte: data`), o resumo e a prosa, no tempo verbal correto.
+- Nunca incluir causa da morte, estado de saúde anterior ou dados de velório/sepultamento — só a confirmação do falecimento e, quando disponível, a data. (Regra já vigente no projeto, reforçada aqui porque é exatamente o tipo de informação que aparece junto das notícias de morte.)
+- Atualizar também qualquer verbete de grupo, coletivo ou obra que cite a pessoa no presente.
+- Registrar a atualização nesta seção do PLANO.md e na lista-mestra (observação com a data da morte).
 
 ## Decisões em aberto
 
