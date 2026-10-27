@@ -52,6 +52,10 @@ Relação sem fonte aberta não entra. Relação em que a fonte é vaga ("influe
 - Nomes homônimos: se não tiver certeza de que é a mesma pessoa, registre como dois candidatos e anote a dúvida.
 - Não crie nem edite arquivos em `verbetes/`.
 
+## Registro de progresso
+
+Se existir `dados/garimpo/`, leia `dados/garimpo/LEIA-ME.md` e mantenha o arquivo `dados/garimpo/<area>.md`: fontes varridas, nomes expandidos e fila de candidatos. É assim que a rodada seguinte sabe onde você parou. Candidato que ficou sem pesquisar vai para a fila, não para o relatório apenas.
+
 ## Relatório final
 
 Entregue ao final, em português, nesta ordem:
