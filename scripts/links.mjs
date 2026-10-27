@@ -3,7 +3,7 @@
 //   QUEBRADO   -> responde com erro ou não existe: corrija, troque por cópia em archive.org ou remova
 //   VERIFICAR  -> a plataforma bloqueia acesso automático (Instagram, Facebook): abra no navegador
 import { readdirSync, readFileSync } from 'node:fs';
-import { dominioAceito } from '../src/lib/links.mjs';
+import { dominioAceito, CANAIS_ACERVO } from '../src/lib/links.mjs';
 
 const PASTA = './verbetes';
 const BLOQUEIAM = ['instagram.com', 'facebook.com'];
@@ -52,5 +52,23 @@ for (let i = 0; i < lista.length; i += 6) {
     if (r !== 'ok') console.log(`${r.padEnd(22)} ${u}  [${[...onde].join(', ')}]`);
   });
 }
+// De que canal é cada vídeo do YouTube: acervo aceito ou canal a confirmar como oficial.
+const videos = lista.filter(([u]) => /youtube\.com\/(watch|shorts|playlist)|youtu\.be\//.test(u));
+if (videos.length) console.log('\nCanais dos vídeos do YouTube:');
+for (const [u, onde] of videos) {
+  let autor = '?';
+  let situacao = 'NÃO IDENTIFICADO';
+  try {
+    const r = await fetch(`https://www.youtube.com/oembed?format=json&url=${encodeURIComponent(u)}`, { signal: AbortSignal.timeout(15000) });
+    if (r.ok) {
+      const j = await r.json();
+      autor = `${j.author_name} (${j.author_url})`;
+      const acervo = CANAIS_ACERVO.some((c) => j.author_url.toLowerCase().endsWith('/' + c.handle.toLowerCase()) || j.author_url.endsWith('/channel/' + c.canal));
+      situacao = acervo ? 'acervo aceito' : 'CONFIRMAR OFICIAL';
+    }
+  } catch {}
+  console.log(`${situacao.padEnd(18)} ${autor}  ${u}  [${[...onde].join(', ')}]`);
+}
+
 console.log(`\n${lista.length} links testados em ${arquivos.length} verbetes; ${quebrados} quebrado(s).`);
 if (quebrados) process.exit(1);

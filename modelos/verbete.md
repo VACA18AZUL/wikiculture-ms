@@ -38,7 +38,8 @@ Cada parágrafo termina com a nota da fonte de onde a informação saiu.[^fonte1
 
 <!-- Seções por área. Use só as que couberem e apague as outras.
      Nelas, cada item precisa da própria nota de fonte. O link de escuta ou vídeo vem depois da nota,
-     só se for o canal oficial do artista, do grupo, da gravadora ou da produtora.
+     só se for o canal oficial do artista, do grupo, da gravadora ou da produtora,
+     ou um dos canais de acervo aceitos (Memória Fonográfica de MS e Vaca Azul; ver CLAUDE.md).
      Sem parâmetros de rastreamento (?si=, ?igsh=, utm_). -->
 
 ## Discografia
@@ -52,6 +53,10 @@ Cada parágrafo termina com a nota da fonte de onde a informação saiu.[^fonte1
 ## Filmografia
 
 - *Título do filme* (ano) — formato (longa, curta, série, videoclipe); função (atuação, direção, fotografia, som).[^fonte1] [Assistir no Vimeo](https://vimeo.com/...)
+
+## Videografia
+
+- *Título do vídeo* (ano) — videoclipe, registro de show ou espetáculo, documentário, making of; direção, se a fonte disser.[^fonte1] [Assistir no YouTube](https://www.youtube.com/watch?v=...)
 
 ## Para saber mais
 

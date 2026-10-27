@@ -24,7 +24,14 @@ export const DOMINIOS_MIDIA = [
   'music.apple.com', 'bandcamp.com', 'soundcloud.com', 'archive.org',
 ];
 
-export const SECOES_MIDIA = ['Discografia', 'Espetáculos', 'Filmografia'];
+// Canais de acervo aceitos como origem de vídeo e áudio, mesmo sem serem o canal do próprio artista.
+// O identificador do canal (UC...) não muda se o @ for trocado.
+export const CANAIS_ACERVO = [
+  { nome: 'Acervo Digital Memória Fonográfica de MS', handle: '@memoriafonograficadems', canal: 'UCZnDqnz3xEaAo_APPFCEifQ' },
+  { nome: 'Vaca Azul', handle: '@vaca18azul', canal: 'UCUvitpfNj5CMkxiY6diymCA' },
+];
+
+export const SECOES_MIDIA = ['Discografia', 'Espetáculos', 'Filmografia', 'Videografia'];
 
 // Parâmetros de rastreamento que não devem ficar nos links publicados.
 export const RASTREIO = /[?&](si|igsh|igshid|utm_[a-z]+|fbclid|feature|pp)=/i;

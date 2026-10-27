@@ -70,7 +70,7 @@ for (const arquivo of arquivos) {
     if (secao === 'Para saber mais') continue; // lista de links, não de afirmações
     const ehLista = /^([-*]|\d+\.)\s/.test(b);
     if (ehLista && SECOES_MIDIA.includes(secao)) {
-      // Cada disco, espetáculo ou filme precisa da própria nota de fonte.
+      // Cada disco, espetáculo, filme ou vídeo precisa da própria nota de fonte.
       for (const item of b.split(/\n(?=[-*]\s|\d+\.\s)/)) {
         if (!/\[\^[^\]]+\]/.test(item)) erros.push(`${arquivo}: item de ${secao} sem fonte -> "${item.slice(0, 70)}..."`);
         for (const m of item.matchAll(/\]\((https?:[^)\s]+)\)/g)) {
