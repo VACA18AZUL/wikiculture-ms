@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Próxima: Fase 1 (lista-mestra).
+**Estado atual:** Fase 0 concluída em 08/10/2026. Mapa de agentes criado em 27/10/2026 (`AGENTES.md`). Próxima: Fase 1 (lista-mestra), com o agente garimpeiro-ms, começando por artes plásticas.
 
 ## Decisão central
 
@@ -41,7 +41,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 ### Fase 1 em passos
 
 1. Uma área por sessão, na ordem: artes plásticas, música, teatro, dança, literatura, audiovisual, circo.
-2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade.
+2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade. Relações entre nomes (integrou, fundou, expôs em...) vão em `dados/relacoes.csv`, com fonte; são elas que viram links entre verbetes nas fases 2 e 3.
 3. Prioridade alta: quem aparece em duas ou mais fontes independentes, ou em fonte acadêmica.
 4. Não redigir verbetes nesta fase.
 5. Ao fim de cada área, você revisa a lista: corta, acrescenta e reordena.
