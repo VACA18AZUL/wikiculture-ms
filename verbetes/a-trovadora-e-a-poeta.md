@@ -16,7 +16,7 @@ atualizado: 2026-10-13
 
 ## Conteúdo
 
-No filme, Terezinha Pantaneira, de 77 anos, interpreta uma versão de si mesma: uma senhora cadeirante que transforma as dores da vida em poesia popular, depois de enfrentar um câncer e sequelas da covid-19. A personagem divide a história com Lucila, jovem indígena recém-chegada a Campo Grande, interpretada por [[gleycielli-nonato-guato|Gleycielli Nonato Guató]], também corroteirista do curta.[^cgn2026]
+No filme, Terezinha Pantaneira, de 77 anos, interpreta uma versão de si mesma: uma senhora cadeirante que transforma as dores da vida em poesia popular. A personagem divide a história com Lucila, jovem indígena recém-chegada a Campo Grande, interpretada por [[gleycielli-nonato-guato|Gleycielli Nonato Guató]], também corroteirista do curta.[^cgn2026]
 
 Segundo o diretor Marcus Teles, o filme foi construído a partir das vivências reais das duas protagonistas: "A Terezinha aguardou 77 anos para mostrar ao mundo a atriz que existia dentro dela. Já a Gleycielle chega trazendo a força da ancestralidade Guató e uma poesia pantaneira muito própria." Terezinha descreveu a experiência como uma forma de "manifestar uma existência de forma poética, no enfrentamento das dificuldades da vida".[^cgn2026]
 
