@@ -26,6 +26,20 @@ Tudo em português do Brasil. Verbetes em tom enciclopédico: frases curtas, sem
 - Na descrição do pull request, liste cada verbete com as fontes usadas e aponte o que ficou incerto.
 - Ao concluir uma fase ou um lote, atualize a situação em `PLANO.md`.
 
+## Equipes técnicas
+
+- **Função técnica é agente cultural.** Iluminador, coreógrafo, diretor de arte, cenógrafo, figurinista, diretor de fotografia, montador/editor, sonoplasta, produtor executivo e funções equivalentes entram na lista-mestra e podem ganhar verbete próprio nas mesmas condições de diretores, autores e intérpretes — mesma regra de fonte aberta, mesmo padrão de duas fontes na Fase 2 quando aplicável. Não deixe de registrar alguém só porque a função dele numa obra é de bastidor.
+- Quando a fonte creditar uma equipe técnica (ficha técnica de espetáculo, making of, release), registre cada nome com a função exata que a fonte dá; não generalize "equipe técnica" para um nome só, nem invente função não citada.
+- No campo `ficha` do verbete da obra/espetáculo, uma função técnica vira uma chave própria (ex. `Iluminação:`, `Coreografia:`, `Direção de arte:`, `Cenografia:`), ligando para o verbete da pessoa quando ele existir.
+
+## Literatura: links para a obra
+
+- Em verbete de obra de literatura (`tipo: obra`, área `literatura`), sempre que a pesquisa encontrar, acrescente um link para o texto:
+  - Primeira opção: PDF de acesso aberto (site da editora, repositório institucional, biblioteca digital, Google Livros com prévia ou texto completo).
+  - Na falta de PDF aberto: link de compra na Amazon Brasil, quando a obra estiver listada lá.
+- Vale a regra geral: link que você não abriu e conferiu não entra. Nunca adivinhe a URL de uma página de produto ou de um PDF.
+- Se não houver nem PDF aberto nem página de venda na Amazon, não invente alternativa: o verbete fica sem esse link.
+
 ## Economia de créditos
 
 - Uma área cultural por sessão.
