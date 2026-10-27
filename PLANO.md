@@ -14,7 +14,9 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 - Um arquivo Markdown por verbete, com ficha estruturada no topo. Modelo em `modelos/verbete.md`.
 - Cinco tipos de verbete: pessoa, grupo ou coletivo, obra ou produção, espaço ou instituição, evento ou festival.
 - Navegação tipo Wikipedia: links internos `[[...]]`, "páginas que apontam para cá", páginas por área e por cidade, busca, caixa lateral e lista de verbetes desejados.
-- `npm run conferir` verifica as regras editoriais e roda antes de cada publicação.
+- Seções de obra por área: Discografia (música), Espetáculos (teatro, dança e circo) e Filmografia (audiovisual, atores e técnicos). Cada item tem fonte própria e, quando existir, link para escuta ou vídeo no canal oficial.
+- Campo `links` na ficha para site oficial, portfólio e perfis (Instagram, YouTube, Spotify, Vimeo etc.). Aparece como "Ligações externas" no fim da página.
+- `npm run conferir` verifica as regras editoriais e roda antes de cada publicação. `npm run links` testa links quebrados; depende de rede e roda só no computador, antes de cada lote.
 
 ## Regras editoriais
 

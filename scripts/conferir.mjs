@@ -2,6 +2,7 @@
 //   ERRO  -> impede a publicação (o comando termina com falha)
 //   AVISO -> não impede, mas merece atenção
 import { readdirSync, readFileSync } from 'node:fs';
+import { TIPOS_LINK, DOMINIOS_MIDIA, SECOES_MIDIA, RASTREIO, dominioAceito } from '../src/lib/links.mjs';
 
 const PASTA = './verbetes';
 const arquivos = readdirSync(PASTA).filter((f) => f.endsWith('.md'));
@@ -17,7 +18,31 @@ for (const arquivo of arquivos) {
     erros.push(`${arquivo}: ficha (bloco entre ---) ausente ou mal formada`);
     continue;
   }
+  const ficha = partes[1];
   const corpo = partes[2];
+
+  // Ligações externas da ficha (campo links).
+  const blocoLinks = ficha.match(/^links:\n((?:[ \t]+.*\n?)*)/m);
+  if (blocoLinks) {
+    const itens = blocoLinks[1].split(/^\s*-\s+/m).filter((x) => x.trim());
+    for (const item of itens) {
+      const campo = (nome) => item.match(new RegExp(`(?:^|\\n)\\s*${nome}:\\s*(.+)`))?.[1].trim().replace(/^["']|["']$/g, '');
+      const tipo = campo('tipo');
+      const endereco = campo('url');
+      if (!tipo || !endereco) continue; // o build acusa campos ausentes
+      if (!campo('acesso')) erros.push(`${arquivo}: link ${endereco} sem data de acesso`);
+      const regra = TIPOS_LINK[tipo];
+      if (regra?.dominios && !dominioAceito(endereco, regra.dominios)) {
+        erros.push(`${arquivo}: link do tipo "${tipo}" aponta para outro domínio -> ${endereco}`);
+      }
+    }
+  }
+  for (const m of texto.matchAll(/https?:\/\/[^\s)"'>\]]+/g)) {
+    if (RASTREIO.test(m[0])) avisos.push(`${arquivo}: link com parâmetro de rastreamento (remova) -> ${m[0]}`);
+  }
+  if (/^##\s+Ligações externas/m.test(corpo)) {
+    avisos.push(`${arquivo}: use o campo links da ficha em vez de uma seção "Ligações externas" no texto`);
+  }
 
   if (!/^[a-z0-9]+(-[a-z0-9]+)*\.md$/.test(arquivo)) {
     erros.push(`${arquivo}: nome de arquivo deve ter só minúsculas, números e hífens, sem acentos`);
@@ -44,6 +69,17 @@ for (const arquivo of arquivos) {
     for (const m of b.matchAll(/\[\^([^\]]+)\](?!:)/g)) usadas.add(m[1]);
     if (secao === 'Para saber mais') continue; // lista de links, não de afirmações
     const ehLista = /^([-*]|\d+\.)\s/.test(b);
+    if (ehLista && SECOES_MIDIA.includes(secao)) {
+      // Cada disco, espetáculo ou filme precisa da própria nota de fonte.
+      for (const item of b.split(/\n(?=[-*]\s|\d+\.\s)/)) {
+        if (!/\[\^[^\]]+\]/.test(item)) erros.push(`${arquivo}: item de ${secao} sem fonte -> "${item.slice(0, 70)}..."`);
+        for (const m of item.matchAll(/\]\((https?:[^)\s]+)\)/g)) {
+          if (!m[1].startsWith('https://')) erros.push(`${arquivo}: link de ${secao} sem https -> ${m[1]}`);
+          else if (!dominioAceito(m[1], DOMINIOS_MIDIA)) avisos.push(`${arquivo}: link de ${secao} fora das plataformas de escuta e vídeo -> ${m[1]}`);
+        }
+      }
+      continue;
+    }
     if (!ehLista && !/\[\^[^\]]+\]/.test(b)) {
       erros.push(`${arquivo}: parágrafo sem fonte -> "${b.slice(0, 70)}..."`);
     }

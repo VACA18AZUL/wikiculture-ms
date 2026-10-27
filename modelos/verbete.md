@@ -15,6 +15,13 @@ ficha:                  # linhas da caixa lateral; use só o que tiver fonte. Su
   # espaco: Criação, Local, Gestão
   # evento: Primeira edição, Periodicidade, Realização
   Atividade: Direção teatral
+links:                  # sites e perfis que você abriu nesta sessão. Apague o bloco se não houver.
+  # tipos: site, portfolio, instagram, facebook, youtube, vimeo, spotify, deezer, apple-music,
+  #        bandcamp, soundcloud, mapas-cultura, itau-cultural, wikipedia, outro (com rotulo)
+  # Só perfis públicos e profissionais mantidos pelo próprio artista, grupo ou instituição.
+  - tipo: site
+    url: https://exemplo.org
+    acesso: 2026-01-31  # dia em que você abriu o link
 status: rascunho        # rascunho | revisado (só uma pessoa muda para revisado)
 atualizado: 2026-01-31  # ano-mês-dia da última alteração
 ---
@@ -28,6 +35,23 @@ Cada parágrafo termina com a nota da fonte de onde a informação saiu.[^fonte1
 ## Obras
 
 - *Título da obra* (ano)
+
+<!-- Seções por área. Use só as que couberem e apague as outras.
+     Nelas, cada item precisa da própria nota de fonte. O link de escuta ou vídeo vem depois da nota,
+     só se for o canal oficial do artista, do grupo, da gravadora ou da produtora.
+     Sem parâmetros de rastreamento (?si=, ?igsh=, utm_). -->
+
+## Discografia
+
+- *Título do disco* (ano) — álbum, EP ou single; selo, se a fonte disser.[^fonte1] [Ouvir no Spotify](https://open.spotify.com/album/...) · [YouTube](https://www.youtube.com/playlist?list=...)
+
+## Espetáculos
+
+- *Título do espetáculo* (ano de estreia) — função (direção, atuação, coreografia); grupo.[^fonte1] [Vídeo no YouTube](https://www.youtube.com/watch?v=...)
+
+## Filmografia
+
+- *Título do filme* (ano) — formato (longa, curta, série, videoclipe); função (atuação, direção, fotografia, som).[^fonte1] [Assistir no Vimeo](https://vimeo.com/...)
 
 ## Para saber mais
 

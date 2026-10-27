@@ -6,8 +6,12 @@ resumo: Pintor sul-mato-grossense, autor da série "Divisão de Mato Grosso" (19
 ficha:
   Atividade: Pintura
   Obra em destaque: Série "Divisão de Mato Grosso" (1978)
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Humberto_Esp%C3%ADndola
+    acesso: 2026-10-11
 status: rascunho
-atualizado: 2026-10-08
+atualizado: 2026-10-27
 ---
 
 **Humberto Espíndola** é um pintor sul-mato-grossense. Completou 80 anos em abril de 2023.[^cgn2023]

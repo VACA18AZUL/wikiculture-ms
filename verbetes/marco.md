@@ -9,8 +9,12 @@ ficha:
   Local: Parque das Nações Indígenas
   Acervo: cerca de 900 obras
   Gestão: Fundação de Cultura de MS
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Museu_de_Arte_Contempor%C3%A2nea_de_Campo_Grande
+    acesso: 2026-10-11
 status: rascunho
-atualizado: 2026-10-08
+atualizado: 2026-10-27
 ---
 
 O **Museu de Arte Contemporânea de Mato Grosso do Sul**, conhecido como **MARCO**, é um museu de arte criado em 1991 em Campo Grande.[^guia] É administrado pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], órgão do governo do estado.[^anpuh]

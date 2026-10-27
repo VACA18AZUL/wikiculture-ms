@@ -9,8 +9,15 @@ ficha:
   Morte: "1985"
   Atividade: Pintura e desenho
   Acervo: Fundação de Cultura de MS
+links:
+  - tipo: itau-cultural
+    url: https://enciclopedia.itaucultural.org.br/pessoa10195/lidia-bais
+    acesso: 2026-10-12
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/L%C3%ADdia_Ba%C3%ADs
+    acesso: 2026-10-12
 status: rascunho
-atualizado: 2026-10-12
+atualizado: 2026-10-27
 ---
 
 **Lídia Baís** (Campo Grande, 1900 ou 1901 – 1985) foi uma pintora e desenhista sul-mato-grossense, apontada pela imprensa local como uma das artistas mais importantes de Mato Grosso do Sul.[^cgn2025][^overmundo2006][^itau]
@@ -35,7 +42,6 @@ Em maio de 2025, os 125 anos de seu nascimento foram lembrados na exposição "A
 
 ## Para saber mais
 
-- [Lídia Baís – Biografia](https://enciclopedia.itaucultural.org.br/pessoa10195/lidia-bais) — verbete da Enciclopédia Itaú Cultural com datas, formação e obra.
 - [Lídia Baís: uma mulher à frente de seu tempo](http://www.campograndenoticias.com.br/2010/10/18/lidia-bais-uma-mulher-a-frente-de-seu-tempo/488/) — reportagem de 2010 sobre a vida e a obra da artista.
 - [Lídia Baís: Santa ou Pagã](http://www.overmundo.com.br/overblog/lidia-bais-santa-ou-paga) — texto de 2006 sobre a artista; traz datas diferentes das da matéria de 2025.
 - [Arte sul-mato-grossense: o legado de Lídia Baís e o acervo do MARCO](https://periodicos.ufpel.edu.br/index.php/Memoria/article/view/9493/6274) — artigo acadêmico (periódicos UFPel) sobre o lugar da artista no acervo do museu.
