@@ -6,10 +6,11 @@ cidade: Campo Grande
 resumo: Curta-metragem de 2026 que mistura ficção e histórias reais de Terezinha Pantaneira e Gleycielli Nonato Guató, dirigido e corroteirizado por Marcus Teles.
 ficha:
   Direção: "[[marcus-teles|Marcus Teles]]"
+  Roteiro: "[[marcus-teles|Marcus Teles]]; [[gleycielli-nonato-guato|Gleycielli Nonato Guató]]"
   Elenco: "Terezinha Pantaneira; [[gleycielli-nonato-guato|Gleycielli Nonato Guató]]"
   Ano: "2026"
 status: rascunho
-atualizado: 2026-10-13
+atualizado: 2026-10-27
 ---
 
 ***A Trovadora e a Poeta*** é um curta-metragem sul-mato-grossense que mistura ficção e memória, dirigido e corroteirizado por [[marcus-teles|Marcus Teles]]. Teve pré-estreia gratuita em 28 de maio de 2026, na Casa de Ciência e Cultura da UFMS, em Campo Grande, seguida de um cine-debate sobre envelhecimento, ancestralidade, memória e troca de saberes entre gerações.[^cgn2026]

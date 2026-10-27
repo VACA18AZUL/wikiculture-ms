@@ -9,8 +9,16 @@ ficha:
   Ano: "divergente: 2010 ou 2013-2015, ver o texto"
   Formato: espetáculo teatral com três atores
   Companhia: Teatral Grupo de Risco
+  Direcao: Roma Román
+  Producao: Fernanda Kunzler
+  Cenografia: Márcia Gomes
+  Video_cenario: "[[maira-monan|Maíra Espíndola]]; [[rafael-mareco|Rafael Mareco]]"
+  Ilustracoes: "[[ruben-dario-roman-anez|Rubén Dario Román Añez]]"
+  Iluminacao: "[[anderson-lima|Anderson Lima]]"
+  Tecnico_de_iluminacao: "[[fabio-umeda|Fábio Umeda]]"
+  Som_e_projecao: "[[ewerton-goulart|Ewerton Goulart]]"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-27
 ---
 
 ***Guardiões* é um espetáculo do [[teatral-grupo-de-risco|Teatral Grupo de Risco]] e a terceira e última parte da trilogia do grupo sobre Mato Grosso do Sul.**[^borioli]

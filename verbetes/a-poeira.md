@@ -9,8 +9,11 @@ ficha:
   Roteiro: Augusto César Proença
   Duração: 13 min.
   Formato: Curta-metragem de ficção
+  Fotografia: Fabio Moreira
+  Direcao_de_arte: Sara Grubert
+  Edicao_de_som: Julio Feliz
 status: rascunho
-atualizado: 2026-10-12
+atualizado: 2026-10-27
 ---
 
 ***A Poeira*** é um curta-metragem de ficção baseado no conto "Nessa Poeira Não Vem Mais Seu Pai", do escritor corumbaense [[augusto-cesar-proenca|Augusto César Proença]], que também assina o roteiro. O projeto foi premiado pelo Ministério da Cultura e pela TVE Brasil, selecionado entre 170 propostas de todo o país.[^mis]

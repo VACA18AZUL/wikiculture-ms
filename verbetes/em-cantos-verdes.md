@@ -8,15 +8,16 @@ ficha:
   Direção: "[[lu-bigattao|Lu Bigattão Rios]]"
   Roteiro: Rosiney Bigattão
   Edição: "[[carlos-diehl|Carlos Diehl]]"
+  Fotografia: "[[israel-miranda|Israel Miranda]]"
   Narração: "Gleycielli Nonato Guató"
   Produção: "[[deslimites-teatro-e-cinema|Deslimites Teatro e Cinema]]"
   Duração: 15 minutos
   Ano: "2025"
 status: rascunho
-atualizado: 2026-10-13
+atualizado: 2026-10-27
 ---
 
-***Em Cantos Verdes*** é um documentário de 15 minutos sobre as árvores de Campo Grande, lançado em março de 2025 pela produtora [[deslimites-teatro-e-cinema|Deslimites Teatro e Cinema]]. É dirigido por [[lu-bigattao|Lu Bigattão Rios]], com roteiro de Rosiney Bigattão e edição de [[carlos-diehl|Carlos Diehl]]; a narração é de [[gleycielli-nonato-guato|Gleycielli Nonato Guató]] e a direção de fotografia, de Israel Miranda.[^cgn2025]
+***Em Cantos Verdes*** é um documentário de 15 minutos sobre as árvores de Campo Grande, lançado em março de 2025 pela produtora [[deslimites-teatro-e-cinema|Deslimites Teatro e Cinema]]. É dirigido por [[lu-bigattao|Lu Bigattão Rios]], com roteiro de Rosiney Bigattão e edição de [[carlos-diehl|Carlos Diehl]]; a narração é de [[gleycielli-nonato-guato|Gleycielli Nonato Guató]] e a direção de fotografia, de [[israel-miranda|Israel Miranda]].[^cgn2025]
 
 ## Conteúdo
 

@@ -8,8 +8,14 @@ ficha:
   Roteiro: "[[alexandre-basso|Alexandre Basso]]"
   Duração: 15 min.
   Formato: Curta-metragem de ficção, 35mm
+  Direcao_de_elenco: Fernando Cruz
+  Arte_e_cenario: "Haroldo Garay; Salim Hassan"
+  Fotografia: André Luís da Cunha
+  Montagem: "Lia Mattos; Bau Carvalho"
+  Trilha_sonora: Fernando Basso
+  Producao_local: "Fabianne Rezek; Alex Bernardes (produtora Traktanas)"
 status: rascunho
-atualizado: 2026-10-12
+atualizado: 2026-10-27
 ---
 
 ***Paralelos*** é um curta-metragem de ficção em 35mm sobre o fim do trem de passageiros da antiga Ferrovia Noroeste do Brasil, conhecido como "Trem do Pantanal", com direção e roteiro de [[alexandre-basso|Alexandre Basso]].[^mis]

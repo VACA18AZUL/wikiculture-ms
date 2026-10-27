@@ -7,8 +7,10 @@ ficha:
   Autor: "[[marcio-de-camillo|Márcio de Camillo]]"
   Ano: 2012 (CD), 2026 (edição dedicada a Mário Quintana)
   Formato: Espetáculo musical, CD e aplicativo
+  Direcao_2026: "[[luiz-andre-cherubini|Luiz André Cherubini]]"
+  Cenario_2026: "[[carlo-giovani|Carlo Giovani]]"
 status: rascunho
-atualizado: 2026-10-11
+atualizado: 2026-10-27
 ---
 
 ***Crianceiras*** é um espetáculo musical de [[marcio-de-camillo|Márcio de Camillo]] que musica poemas de [[manoel-de-barros|Manoel de Barros]]. O Dicionário Cravo Albin registra o CD de 2012.[^cravo]
