@@ -75,6 +75,20 @@ Vários pesquisadores podem rodar em paralelo, um por nome. Redatores também. O
 
 O garimpeiro-ms é o único agente feito para descobrir, não para aprofundar. Trabalha por bola de neve: cada nome pesquisado rende os nomes ligados a ele, e os mais conectados sobem na fila. O resultado não é só uma lista, é uma rede: cada relação registrada em `relacoes.csv` vira, mais tarde, um link `[[...]]` entre verbetes e uma frase com fonte. Os cinco nomes mais conectados de cada rodada são os melhores candidatos a verbete, porque já nascem ligados ao que existe.
 
+## Rodadas automáticas (garimpo contínuo)
+
+Na Fase 1, o garimpeiro pode rodar sem ninguém olhando. Uma tarefa agendada abre uma sessão nova a cada 2 horas; cada sessão faz uma rodada de até 30 nomes em uma área, registra o estado em `dados/garimpo/` e envia para a branch `fase1-garimpo`. O estado compartilhado está descrito em `dados/garimpo/LEIA-ME.md`.
+
+Salvaguardas:
+
+- **Trava** em `dados/garimpo/registro.md`: duas rodadas nunca trabalham ao mesmo tempo.
+- **Rodízio de áreas**: artes plásticas, música, teatro, dança, literatura, audiovisual, circo; área coberta é pulada.
+- **Prazo**: a rodada confere a data antes de começar e desativa a tarefa quando o prazo passa.
+- **Limites por rodada**: 30 nomes ou 90 minutos.
+- **O que nunca faz**: escrever verbete, abrir pull request, enviar para `main`.
+
+Ao fim do período, o Helton revisa `dados/lista-mestra.csv` na branch `fase1-garimpo` (corta, acrescenta, reordena) antes de a Fase 2 começar. Os outros cinco agentes só entram depois dessa revisão.
+
 ## Modelo e esforço de cada agente
 
 Cada agente tem modelo e esforço fixados no frontmatter de `.claude/agents/<nome>.md`. O critério: modelo mais barato que dá conta da tarefa, esforço alto só onde errar custa caro (fato inventado, frase sem fonte).
