@@ -15,6 +15,7 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 - Cinco tipos de verbete: pessoa, grupo ou coletivo, obra ou produção, espaço ou instituição, evento ou festival.
 - Navegação tipo Wikipedia: links internos `[[...]]`, "páginas que apontam para cá", páginas por área e por cidade, busca, caixa lateral e lista de verbetes desejados.
 - Seções de obra por área: Discografia (música), Espetáculos (teatro, dança e circo), Filmografia (audiovisual, atores e técnicos) e Videografia (videoclipes, registros de shows e espetáculos, documentários; qualquer área). Cada item tem fonte própria e, quando existir, link para escuta ou vídeo no canal oficial ou nos canais de acervo aceitos (Memória Fonográfica de MS e Vaca Azul).
+- Produções audiovisuais têm Ficha técnica com a equipe ligada por `[[...]]`. O link da produção se repete na Filmografia ou Videografia de cada integrante com verbete, e o `conferir` avisa o que falta.
 - Campo `links` na ficha para site oficial, portfólio e perfis (Instagram, YouTube, Spotify, Vimeo etc.). Aparece como "Ligações externas" no fim da página.
 - `npm run conferir` verifica as regras editoriais e roda antes de cada publicação. `npm run links` testa links quebrados; depende de rede e roda só no computador, antes de cada lote.
 

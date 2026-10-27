@@ -5,6 +5,7 @@ export const TIPOS_LINK = {
   portfolio: { rotulo: 'Portfólio', dominios: null },
   instagram: { rotulo: 'Instagram', dominios: ['instagram.com'] },
   facebook: { rotulo: 'Facebook', dominios: ['facebook.com'] },
+  video: { rotulo: 'Assistir', dominios: null }, // a própria produção (filme, clipe, registro); domínio conferido abaixo
   youtube: { rotulo: 'Canal no YouTube', dominios: ['youtube.com'] },
   vimeo: { rotulo: 'Vimeo', dominios: ['vimeo.com'] },
   spotify: { rotulo: 'Spotify', dominios: ['open.spotify.com'] },

@@ -16,7 +16,7 @@ ficha:                  # linhas da caixa lateral; use só o que tiver fonte. Su
   # evento: Primeira edição, Periodicidade, Realização
   Atividade: Direção teatral
 links:                  # sites e perfis que você abriu nesta sessão. Apague o bloco se não houver.
-  # tipos: site, portfolio, instagram, facebook, youtube, vimeo, spotify, deezer, apple-music,
+  # tipos: video (a própria produção: filme, clipe, registro), site, portfolio, instagram, facebook, youtube, vimeo, spotify, deezer, apple-music,
   #        bandcamp, soundcloud, mapas-cultura, itau-cultural, wikipedia, outro (com rotulo)
   # Só perfis públicos e profissionais mantidos pelo próprio artista, grupo ou instituição.
   - tipo: site
@@ -41,6 +41,15 @@ Cada parágrafo termina com a nota da fonte de onde a informação saiu.[^fonte1
      só se for o canal oficial do artista, do grupo, da gravadora ou da produtora,
      ou um dos canais de acervo aceitos (Memória Fonográfica de MS e Vaca Azul; ver CLAUDE.md).
      Sem parâmetros de rastreamento (?si=, ?igsh=, utm_). -->
+
+## Ficha técnica
+
+<!-- Só em verbete de produção audiovisual (tipo obra: longa, curta, documentário, videoclipe).
+     Uma função por linha, com nota de fonte. Ligue cada pessoa ou grupo com [[...]], mesmo sem verbete.
+     O link para assistir vai no campo links da ficha, com tipo: video. -->
+
+- Direção: [[identificador|Nome]][^fonte1]
+- Roteiro: [[identificador|Nome]][^fonte1]
 
 ## Discografia
 

@@ -10,6 +10,9 @@ const ids = new Set(arquivos.map((f) => f.replace(/\.md$/, '')));
 const erros = [];
 const avisos = [];
 const desejados = new Set();
+// Produções audiovisuais e suas equipes, para conferir os verbetes de quem fez cada obra.
+const producoes = new Map();
+const obrasNaTrajetoria = new Map();
 
 for (const arquivo of arquivos) {
   const texto = readFileSync(`${PASTA}/${arquivo}`, 'utf8');
@@ -21,6 +24,11 @@ for (const arquivo of arquivos) {
   const ficha = partes[1];
   const corpo = partes[2];
 
+  const id = arquivo.replace(/\.md$/, '');
+  const videos = [];
+  const equipe = new Map();
+  let trechoObras = '';
+
   // Ligações externas da ficha (campo links).
   const blocoLinks = ficha.match(/^links:\n((?:[ \t]+.*\n?)*)/m);
   if (blocoLinks) {
@@ -31,6 +39,10 @@ for (const arquivo of arquivos) {
       const endereco = campo('url');
       if (!tipo || !endereco) continue; // o build acusa campos ausentes
       if (!campo('acesso')) erros.push(`${arquivo}: link ${endereco} sem data de acesso`);
+      if (tipo === 'video') {
+        if (!dominioAceito(endereco, DOMINIOS_MIDIA)) erros.push(`${arquivo}: link do tipo "video" fora das plataformas de vídeo -> ${endereco}`);
+        videos.push(endereco);
+      }
       const regra = TIPOS_LINK[tipo];
       if (regra?.dominios && !dominioAceito(endereco, regra.dominios)) {
         erros.push(`${arquivo}: link do tipo "${tipo}" aponta para outro domínio -> ${endereco}`);
@@ -69,6 +81,15 @@ for (const arquivo of arquivos) {
     for (const m of b.matchAll(/\[\^([^\]]+)\](?!:)/g)) usadas.add(m[1]);
     if (secao === 'Para saber mais') continue; // lista de links, não de afirmações
     const ehLista = /^([-*]|\d+\.)\s/.test(b);
+    if (secao === 'Filmografia' || secao === 'Videografia') trechoObras += b + '\n';
+    if (ehLista && secao === 'Ficha técnica') {
+      for (const item of b.split(/\n(?=[-*]\s|\d+\.\s)/)) {
+        if (!/\[\^[^\]]+\]/.test(item)) erros.push(`${arquivo}: item da Ficha técnica sem fonte -> "${item.slice(0, 70)}..."`);
+        const funcao = item.replace(/^[-*]\s+/, '').split(':')[0].trim();
+        for (const m of item.matchAll(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g)) equipe.set(m[1].trim(), funcao);
+      }
+      continue;
+    }
     if (ehLista && SECOES_MIDIA.includes(secao)) {
       // Cada disco, espetáculo, filme ou vídeo precisa da própria nota de fonte.
       for (const item of b.split(/\n(?=[-*]\s|\d+\.\s)/)) {
@@ -88,10 +109,30 @@ for (const arquivo of arquivos) {
   for (const n of definidas) if (!usadas.has(n)) avisos.push(`${arquivo}: nota [^${n}] definida mas não usada`);
   if (definidas.size === 0) erros.push(`${arquivo}: nenhuma fonte citada`);
 
+  const titulo = ficha.match(/^titulo:\s*(.+)$/m)?.[1].trim().replace(/^["']|["']$/g, '') ?? id;
+  if (equipe.size) producoes.set(id, { titulo, equipe, videos });
+  obrasNaTrajetoria.set(id, trechoObras);
+
   // Links internos.
   for (const m of corpo.matchAll(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g)) {
     const id = m[1].trim();
     if (!ids.has(id)) desejados.add(id);
+  }
+}
+
+// Cada pessoa ou grupo da ficha técnica que já tem verbete deve listar a produção, com o mesmo link de vídeo.
+for (const [obra, { titulo, equipe, videos }] of producoes) {
+  for (const [pessoa, funcao] of equipe) {
+    if (!ids.has(pessoa)) continue;
+    const trecho = obrasNaTrajetoria.get(pessoa) ?? '';
+    const sugestao = `- [[${obra}|${titulo}]] (ano) — ${funcao.toLowerCase()}.[^fonte]${videos.map((v) => ` [Assistir](${v})`).join('')}`;
+    if (!new RegExp(`\\[\\[${obra}(\\||\\]\\])`).test(trecho)) {
+      avisos.push(`${pessoa}.md: falta "${titulo}" em Filmografia ou Videografia (está na ficha técnica de ${obra}.md). Sugestão: ${sugestao}`);
+      continue;
+    }
+    for (const v of videos) {
+      if (!trecho.includes(v)) avisos.push(`${pessoa}.md: "${titulo}" está sem o link de vídeo da produção -> ${v}`);
+    }
   }
 }
 
