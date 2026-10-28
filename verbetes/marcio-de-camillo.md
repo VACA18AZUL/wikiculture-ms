@@ -8,7 +8,7 @@ ficha:
   Atividade: 'Canto, composição e instrumentos (violão e viola caipira)'
   Grupo: Hermanos Irmãos
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Márcio de Camillo** é um cantor, compositor e instrumentista. Nasceu em São Paulo e cresceu em Mato Grosso do Sul, estado que, segundo o Campo Grande News, adotou.[^cgnjan] A mesma reportagem o descreve como multiartista e referência da música ligada ao Pantanal.[^cgnjan]
@@ -47,6 +47,12 @@ Em 2010, formou com Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]] o t
 
 No início do segundo semestre letivo de 2024, estreou na UFMS o show solo *Ilumini*, descrito pela universidade como um "monólogo musical" com iluminação e efeitos sonoros.[^ufms]
 
+## Origem de *Crianceiras*
+
+Em depoimento à websérie *Campo Grande na Tela* (2018), Camillo contou que foi conversar com [[manoel-de-barros|Manoel de Barros]] sobre musicar sua obra e levou uma bronca do poeta, preocupado com o que fariam com seus poemas; Manoel teria dito apenas "só não invente palavras". Segundo ele, não imaginava no início o alcance que *[[crianceiras|Crianceiras]]* teria: o espetáculo se tornou material paradidático usado em escolas de norte a sul do Brasil, somando os poemas de Manoel de Barros e de Mário Quintana, e uma orquestra sinfônica (citada no depoimento com um nome que a legenda automática não deixa claro) passou a usar o CD no repertório e levou o material para uma turnê na Alemanha.[^cgtela]
+
+Contou ainda que, ao notar nos livros as ilustrações da artista Marta Barros, viu nelas o movimento das palavras de Manoel e convidou o animador conhecido como "Júnior da Animatronic" para animar os desenhos; o canal infantil Globy, então lançado pela Globosat, encomendou cinco videoclipes animados do espetáculo. Também relatou uma parceria com um escritório de São Paulo para criar o aplicativo *Crianceiras*, com download gratuito, patrocinado por uma lei de incentivo do governo de São Paulo.[^cgtela]
+
 Em setembro de 2026, apresentou *Crianceiras Mário Quintana – Poesias Musicadas por Márcio de Camillo* nos dias 19 e 20, no Teatro Glauce Rocha, da UFMS. O espetáculo usa o teatro de papel, tem direção de Luiz André Cherubini, do Grupo Sobrevento, e cenário de [[carlo-giovani|Carlo Giovani]]. Reúne poemas de Mario Quintana musicados em ritmos como valsa, forró, jazz e rock. A matéria diz que a primeira edição do projeto *Crianceiras* foi dedicada a [[manoel-de-barros|Manoel de Barros]].[^oestado]
 
 ## Obras
@@ -74,3 +80,4 @@ Em setembro de 2026, apresentou *Crianceiras Mário Quintana – Poesias Musicad
 [^omshow]: Rodrigo Teixeira, ["GerAções reativa corrente da música de MS"](https://www.overmundo.com.br/overblog/geracoes-reativa-corrente-da-musica-de-ms), *Overmundo*, 23 set. 2006. Acesso em 10 out. 2026.
 [^ufms]: Rebeca Ferro, ["Cantor e compositor Márcio de Camillo estreia espetáculo no Teatro Glauce Rocha"](https://www.ufms.br/cantor-e-compositor-marcio-de-camillo-estreia-espetaculo-no-teatro-glauce-rocha/), *UFMS*, 2024. Acesso em 10 out. 2026.
 [^oestado]: Laura Brasil, ["Márcio de Camillo leva poesias de Mario Quintana ao palco em Campo Grande"](https://oestadoonline.com.br/sem-categoria/marcio-de-camillo-leva-poesias-de-mario-quintana-ao-palco-em-campo-grande/), *O Estado Online*, 12 set. 2026. Acesso em 10 out. 2026.
+[^cgtela]: Transcrição da websérie *Campo Grande na Tela* (2018), episódio ["LAGOA (EP. 9)"](https://www.youtube.com/watch?v=DG33Odoxc0A), canal Marruá Arte e Cultura, YouTube, enviada pelo usuário. Acesso em 11 out. 2026.

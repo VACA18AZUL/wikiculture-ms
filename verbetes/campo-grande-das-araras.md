@@ -9,8 +9,12 @@ ficha:
   Ano: "2020 ou 2021 (ver texto)"
   Formato: Documentário
   Onde ver: YouTube
+  Roteiro: "[[rosiney-bigattao|Rosiney Bigattão]]"
+  Edicao: "[[carlos-diehl|Carlos Diehl]]"
+  Producao: "Mariângela Yule; [[fernanda-kunzler|Fernanda Kunzler]]"
+  Fotografia: Alex Sanches Taveira
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-27
 ---
 
 ***Campo Grande das Araras*** é um documentário sobre as araras que vivem na capital sul-mato-grossense, dirigido por Lú Bigattão Rios e Rosiney Bigattão.[^cgn2021a][^cgn2021b]

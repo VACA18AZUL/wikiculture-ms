@@ -9,7 +9,7 @@ ficha:
   Atividade: Multi-instrumentista, compositor, produtor e arranjador
   Parcerias: Renato Teixeira, Pena Branca & Xavantinho, Bianca Gismonti Trio
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-12
 ---
 
 **Antonio Porto** é um multi-instrumentista e compositor nascido em Campo Grande, em 1965.[^senado]
@@ -25,6 +25,10 @@ Entre os parceiros citados estão Renato Teixeira, Pena Branca & Xavantinho e o 
 Foi um dos músicos entrevistados por Glorinha Sá Rosa e [[idara-duncan|Idara Duncan]] no livro *A Música de Mato Grosso do Sul: histórias de vida*, de 2009, citado em artigo da *Trilhas da História*.[^silus]
 
 Alvaro Neder, em estudo sobre a canção urbana do estado, diz que Antonio Porto é coautor, com [[celito-espindola|Celito Espíndola]], da canção "Abril". Neder cita a música entre obras sem traços regionais reconhecíveis.[^neder]
+
+## Poranguetê
+
+Nos anos 1980, integrou o grupo [[poranguete|Poranguetê]], ao lado de [[lenilde-ramos|Lenilde Ramos]], [[pedro-ortale|Pedro Ortale]] e Geraldo Ribeiro, citado como referência do chamado "rock de botina" e precursor da geração da polca-rock em Campo Grande.[^gilmar]
 
 ## Trabalhos em Campo Grande
 
@@ -48,4 +52,5 @@ No CD *[[geracoes|GerAções]]* (2006), produzido por [[marcio-de-camillo|Márci
 [^neder]: Alvaro Neder, ["Roda em volta de mim, que a polca paraguaia é assim"](https://periodicos.ufmg.br/index.php/permusi/article/download/39701/30469), *Per Musi*, Belo Horizonte, n. 29, 2014, p. 210. Acesso em 8 out. 2026.
 [^matula]: Maria da Glória Sá Rosa, ["A Música de MS: Histórias de Vida – Rodrigo Teixeira"](https://matulacultural.wordpress.com/2011/11/13/a-musica-de-ms-historias-de-vida-rodrigo-teixeira/), *Matula Cultural*, 13 nov. 2011. Acesso em 10 out. 2026.
 [^omflor]: Rodrigo Teixeira, ["CD GerAções • Flor do Limo • Antônio Porto e Clarice Maciel • IX"](https://www.overmundo.com.br/banco/cd-geracoes-flor-do-limo-antonio-porto-e-clarice-maciel-ix), *Overmundo*, 8 set. 2006. Acesso em 10 out. 2026.
+[^gilmar]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação, UFGD, 2012, p. 155, citando depoimento de Rodrigo Teixeira. Acesso em 12 out. 2026.
 [^omrec]: Rodrigo Teixeira, ["CD GerAções • Recuerdos de Ypacaraí • João Fígar & Amambay e Amambaí • VI"](https://www.overmundo.com.br/banco/cd-geracoes-recuerdos-de-ypacarai-joao-figar-amambay-e-amambai-vi), *Overmundo*, 6 set. 2006. Acesso em 10 out. 2026.

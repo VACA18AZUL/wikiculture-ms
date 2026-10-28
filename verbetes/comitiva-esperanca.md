@@ -9,7 +9,7 @@ ficha:
   Formato: Canção e documentário
   Direção: "[[wagner-carvalho|Wagner Carvalho]]"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-12
 ---
 
 **Comitiva Esperança** é o nome de uma canção de [[almir-sater|Almir Sater]] e [[paulo-simoes|Paulo Simões]], da expedição ao Pantanal que a originou e do documentário feito sobre essa viagem.[^bonny][^wiki]
@@ -32,7 +32,12 @@ Bonny afirma que a equipe de filmagem originou um documentário de média-metrag
 
 Uma nota do Overmundo de 2006 lista a canção, com "[[trem-do-pantanal|Trem do Pantanal]]" e "[[sonhos-guaranis|Sonhos guaranis]]", entre os clássicos do álbum *Vida Bela, Vida*, de Simões.[^omvida]
 
+## Origem, segundo Wagner Carvalho
+
+O site do [[mis-ms|Museu da Imagem e do Som de MS]] traz um relato do próprio [[wagner-carvalho|Wagner Carvalho]] sobre a origem do projeto: ele e Sater conversavam sobre o Pantanal na fazenda de um amigo, na Nhecolândia, quando o pai do amigo, "seu Bandeira", teria dito que só conheceriam a região de verdade viajando como os peões, em lombo de burro — e a dupla topou o desafio. A ideia, inicialmente de apenas fotografar a viagem, virou o documentário em 16 mm, coproduzido com a produtora paulistana Tatu Filmes, responsável também por *Marvada Carne*, *Feliz Ano Velho* e *Cidade Oculta*. Esse relato acrescenta aos participantes já citados o fotógrafo Aluísio Raulino, o técnico de som Artur Bandeira e o trovador André Preto, conhecido como "Xô Dé", personagem retratado no filme.[^mis]
+
 [^bonny]: Carina Bonny, [*A Música como Representação Cultural do Pantanal Sul Mato Grossense: no dedilhar da viola*](https://periodicos.ufms.br/index.php/fatver/article/view/1300/826), *Fato & Versões*, UFMS, v. 5, n. 10, 2013. Acesso em 10 out. 2026.
 [^wiki]: ["Almir Sater"](https://pt.wikipedia.org/wiki/Almir_Sater), *Wikipédia* (edição em português; conteúdo colaborativo). Acesso em 10 out. 2026.
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, Campo Grande, 2009. Acesso em 10 out. 2026.
 [^omvida]: Rodrigo Teixeira, ["Paulo Simões em 'Vida Bela, Vida'"](https://www.overmundo.com.br/guia/paulo-simoes-em-vida-bela-vida), *Overmundo* (conteúdo colaborativo), 4 mar. 2006. Acesso em 10 out. 2026.
+[^mis]: ["Comitiva Esperança"](https://amigosdomis.webnode.com.br/products/comitiva%20esperan%c3%a7a/), site Amigos do MIS (Museu da Imagem e do Som de Mato Grosso do Sul). Acesso em 12 out. 2026.

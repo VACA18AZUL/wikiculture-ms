@@ -9,7 +9,7 @@ ficha:
   Direção: "[[chico-neller|Chico Neller]]"
   Sede: Campo Grande
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-13
 ---
 
 **Ginga Cia de Dança** é uma companhia de dança contemporânea de Campo Grande, criada e dirigida por [[chico-neller|Chico Neller]]. O site da própria companhia diz que ela nasceu em 1986.[^site]
@@ -27,6 +27,7 @@ Uma reportagem de julho de 2025 fala em 39 anos de atuação da companhia em Cam
 - *[[silencio-branco|Silêncio Branco]]*: espetáculo sobre violência contra a mulher. Uma matéria de 2024 o dá como lançado em 2022 e o credita à coreografia de Chico Neller.[^cgn2024][^dd2024] Em 2025, a pesquisadora [[maria-fernanda-figueiro|Maria Fernanda Figueiró]] disse que o tema central é o feminicídio.[^cgn2025]
 - *[[rompendo-silencios|Rompendo Silêncios]]*: releitura de *Silêncio Branco*, com coreografia e dramaturgia de [[vanessa-macedo|Vanessa Macedo]]. Estreou de 2 a 4 de setembro de 2024 no [[teatro-glauce-rocha|Teatro Glauce Rocha]], no campus da UFMS, com recursos do Fundo de Investimentos Culturais de MS e apoio do Sesc/MS, da UFMS e da FAPEC.[^cgn2024][^dd2024]
 - *Cultura Bovina?*: espetáculo sobre o boi como símbolo econômico e cultural, segundo o site da companhia.[^site]
+- *Ginga Documenta: cultura bovina em trânsito*: documentário sobre a companhia, cujo tema de fundo parece ser o mesmo de *Cultura Bovina?*. Segundo o currículo de [[helton-perez|Helton Pérez]], documento enviado pelo usuário em 2026, ele assinou a direção, a fotografia e a edição do filme, entre 2007 e 2015.[^cvhelton]
 
 ## Os Afetos dos Silêncios
 
@@ -47,3 +48,4 @@ As fontes usam "Ginga Cia de Dança" (ou "Cia.") para o grupo e "Ginga Espaço d
 [^cgn2025]: Thailla Torres, ["Na ausência das palavras, o palco acolhe a dor que habita o corpo feminino"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/na-ausencia-das-palavras-o-palco-acolhe-a-dor-que-habita-o-corpo-feminino), *Campo Grande News*, 20 jul. 2025. Acesso em 10 out. 2026.
 [^cgn2024b]: Thailla Torres, ["Grupo de dança de MS volta para casa com 5 coreografias premiadas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grupo-de-danca-de-ms-volta-para-casa-com-5-coreografias-premiadas), *Campo Grande News*, 29 set. 2024. Acesso em 10 out. 2026.
 [^cgnsemana]: ["Semana pra dança terá espetáculos, oficinas e ações de graça pela cidade"](https://www.campograndenews.com.br/lado-b/diversao/semana-pra-danca-tera-espetaculos-oficinas-e-acoes-de-graca-pela-cidade), *Campo Grande News*, set. 2024. Acesso em 10 out. 2026.
+[^cvhelton]: Currículo de Helton Pérez, documento enviado pelo usuário, 14 ago. 2026.

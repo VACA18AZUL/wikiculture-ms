@@ -9,7 +9,7 @@ ficha:
   Morte: 23 de maio de 1989, Campo Grande
   Atividade: Composição, poesia e radiodifusão
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-12
 ---
 
 **Zacarias dos Santos Mourão** (Coxim, 1928 – Campo Grande, 23 de maio de 1989) foi um compositor, poeta e intérprete conhecido pela letra de "Pé de Cedro".[^cgn2012][^mapa]
@@ -48,9 +48,16 @@ Em 1981 mudou-se definitivamente para Campo Grande. Segundo Lígia Mourão, trab
 
 O *Correio do Estado* de 24 de maio de 1989, reproduzido no livro, noticiou que Zacarias dos Santos Mourão, de 61 anos, foi morto em Campo Grande em circunstâncias descritas como misteriosas. O corpo seguiu para Coxim, onde foi sepultado, e a polícia investigava o caso.[^pio]
 
+## Documentário
+
+O site do Museu da Imagem e do Som de Mato Grosso do Sul (MIS-MS) traz uma versão da letra de "Pé de Cedro", atribuída a Mourão, ligeiramente diferente da reproduzida em outras fontes, e dá mais detalhes sobre o documentário [[tio-e-a-arvore|*Tió e a Árvore - Vida e Obra de Zacarias Mourão*]]: foi dirigido por Conrado Coel, com Ângela Kempfer, [[rodolfo-ikeda|Rodolfo Ikeda]] e o cinegrafista Lyo Nakamura, e reúne depoimentos de intérpretes de sua obra, como Sérgio Reis, Milionário e Zé Rico e a dupla Tinoco e Amambaí.[^mis]
+
+Segundo essa fonte, ele teve programas de rádio e televisão, escreveu em revistas do gênero sertanejo e produziu vários discos; em 1985, teria voltado a Coxim e se dedicado à política.[^mis]
+
 ## Obras
 
 - "Pé de Cedro" (1959), letra de Zacarias Mourão, música de Goiá[^cgn2012][^diniz]
+- Outras composições, segundo o MIS-MS, citando o Dicionário Cravo Albin: "Copo na Mesa" (com Goiá), "Desventura" (com Zé do Rancho), "Índia Soberana" (com Goiá), "Feitiço Espanhol" (com Goiá), "Flor Mato-Grossense", "Luar de Aquidauana" (com Anacleto Rosas Jr.), "O Cantar da Siriema" (com Nízio) e "O Que Passou" (com Pechincha).[^mis]
 
 ## Para saber mais
 
@@ -64,3 +71,4 @@ O *Correio do Estado* de 24 de maio de 1989, reproduzido no livro, noticiou que 
 [^piop]: Rodrigo Teixeira, ["Os Pioneiros mira primeiros compositores de MS"](https://www.overmundo.com.br/overblog/os-pioneiros-mira-primeiros-compositores-de-ms), *Overmundo*, 15 jan. 2010. Acesso em 10 out. 2026.
 [^cgn2022]: Adriano Fernandes e Sidney Assis, ["Coxim ganha estátua de Zacarias Mourão ao som de Almir Sater e Sérgio Reis"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/coxim-ganha-estatua-de-zacarias-mourao-ao-som-de-almir-sater-e-sergio-reis), *Campo Grande News*, 30 set. 2022. Acesso em 10 out. 2026.
 [^viamorena]: ["Diário da História! 15 de março de 1926: nasce Zacarias Mourão, compositor do 'Pé de Cedro'"](https://www.viamorena.com/historia/diario-da-historia-15-de-marco-de-1926-nasce-zacarias-mourao-compositor-do-pe-de-cedro/), *Viamorena*, 15 mar. 2024. Acesso em 10 out. 2026.
+[^mis]: ["Tió e a Árvore - Vida e Obra de Zacarias Mourão"](https://amigosdomis.webnode.com.br/products/tio%20e%20a%20arvore%20-%20vida%20e%20obra%20de%20zacarias%20mour%c3%a3o/), site Amigos do MIS (Museu da Imagem e do Som de Mato Grosso do Sul). Acesso em 12 out. 2026.

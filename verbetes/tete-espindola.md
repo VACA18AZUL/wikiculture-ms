@@ -9,7 +9,7 @@ ficha:
   Atividade: Canto e composição
   Grupos: "LuzAzul, [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]]"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-12
 ---
 
 **Tetê Espíndola** é uma cantora e compositora nascida em Campo Grande, em 1954, com o nome de Terezinha Maria Miranda Espíndola.[^uai]
@@ -34,8 +34,13 @@ Em 2006, participou da expedição Água dos Matos, que levou oficinas de arte, 
 
 Em entrevista à Revista E, do Sesc São Paulo, em janeiro de 2025, a cantora falou do sucesso renovado de "Escrito nas estrelas" depois de a canção ser cantada em um programa de televisão, e de seus 50 anos de carreira. O texto cita ainda sua participação nos filmes *Mônica e a Sereia do Rio* (1987) e *Caramujo-Flor* (1988).[^sesc]
 
+## Manifesto *Adeus, Pantanal*
+
+Em outubro de 2020, no programa *Colibri na Quarentena*, da Rede TVT, ela e os irmãos [[geraldo-espindola|Geraldo]], [[celito-espindola|Celito]], [[alzira-espindola|Alzira]], Sérgio e Gilson contaram a organização, por ela, de uma regravação coletiva da canção "Adeus, Pantanal" como manifesto contra as queimadas que atingiram o Pantanal naquele ano. Segundo o relato, a canção já constava de um disco de 1988 e passou a reunir, na nova versão, dezenas de artistas brasileiros.[^tvt]
+
 ## Obras
 
+- *Piraretã* (1980), primeiro LP solo, pelo selo Polygram, segundo uma dissertação de 2012 sobre a música regional urbana do estado, que lista entre as faixas "Piraretã", "Melro", "Beija-Flor", "Matogrossense", as regravações "Refazenda" e "Cio da Terra", "Tamarana" (com Arrigo Barnabé) e "Cunhataiporã", de [[geraldo-espindola|Geraldo Espíndola]].[^gilmar]
 - *Pássaros na Garganta* (1982)[^uai][^letras]
 - *Gaiola* (1986)[^letras]
 - *Ouvir* (1991)[^billboard][^letras]
@@ -62,3 +67,5 @@ Em entrevista à Revista E, do Sesc São Paulo, em janeiro de 2025, a cantora fa
 [^agua]: Alan Silus da Cruz Silva e Marta Bastos Catunda, ["Água dos Matos: a ecosofia atravessando o Pantanal Mato-Grossense (Norte e Sul)"](https://periodicos.ufac.br/index.php/SAJEBTT/article/view/1278), *South American Journal of Basic Education, Technical and Technological*, 2017 (resumo). Acesso em 10 out. 2026.
 [^sesc]: Lígia Scalise, ["Tetê Espíndola, a cantora com pássaros na garganta"](https://www.sescsp.org.br/editorial/tete-espindola-a-cantora-com-passaros-na-garganta/), *Revista E*, Sesc São Paulo, 2 jan. 2025. Acesso em 10 out. 2026.
 [^ytte]: ["Tetê Espíndola Oficial"](https://www.youtube.com/c/teteespindolaoficial), canal no YouTube (descrição do canal: "Canal oficial de Tetê Espíndola"). Acesso em 10 out. 2026.
+[^tvt]: Transcrição (legenda automática) do programa ["🔴 Colibri na Quarentena - 15.10.2020 - Família Espíndola"](https://www.youtube.com/watch?v=Og6lN7w9BHc), *Rede TVT*, YouTube, 15 out. 2020. Acesso em 12 out. 2026.
+[^gilmar]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação, UFGD, 2012, p. 104-106. Acesso em 12 out. 2026.

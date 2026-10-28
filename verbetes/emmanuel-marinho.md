@@ -10,7 +10,7 @@ ficha:
   Academia: Cadeira 33, Academia Sul-Mato-Grossense de Letras
   Obra principal: Caixa de Poemas
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-11
 ---
 
 **Emmanuel Marinho** é um poeta de Mato Grosso do Sul, com livros publicados entre 1980 e 1997.[^freire][^igarape]
@@ -33,6 +33,8 @@ Tomou posse na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossen
 
 Em entrevista de 2008 no Overmundo, o poeta [[ruberval-cunha|Ruberval Cunha]] o citou entre os nomes de destaque da poesia do estado, por aproximar poesia e teatro. É a opinião de um colega de ofício.[^cunha]
 
+O acervo digital Memória Fonográfica de MS preserva quatro faixas do disco *Teré*: "Genocindio I", com [[pedro-ortale|Pedro Ortale]], "Genocindio II", sem coautoria indicada, e mais duas classificadas como poesia cantada, "Gwyrá Mi" e "Índio", ligadas respectivamente a temas do canto kaiowá e à etnia ofaié-xavante. O título do vídeo grafa o nome como "Emannuel Marinho"; a descrição do acervo usa "Emmanuel".[^mfms]
+
 ## Obras
 
 - *Ópera 3* (1980)[^freire]
@@ -51,3 +53,4 @@ Em entrevista de 2008 no Overmundo, o poeta [[ruberval-cunha|Ruberval Cunha]] o 
 [^aslcad]: Academia Sul-Mato-Grossense de Letras, ["Cadeiras"](https://acletrasms.org.br/cadeiras/). Acesso em 10 out. 2026.
 [^wp]: Wikipédia em português, ["Emmanuel Marinho"](https://pt.wikipedia.org/wiki/Emmanuel_Marinho), texto colaborativo. Acesso em 10 out. 2026.
 [^cunha]: Gisele Colombo, ["Considerações sobre a poesia sul-mato-grossense"](https://www.overmundo.com.br/overblog/consideracoes-sobre-a-poesia-sul-mato-grossense), *Overmundo*, 24 mar. 2008. Acesso em 10 out. 2026.
+[^mfms]: Canal Acervo Digital Memória Fonográfica de MS, YouTube: descrições dos vídeos das faixas do CD *Teré* (2001), por exemplo ["Poesia Cantada - 207 - Genocindio I - Emannuel Marinho e Pedro Ortale"](https://www.youtube.com/watch?v=Ci2pDfWwn5s). Acesso em 11 out. 2026.

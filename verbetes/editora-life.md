@@ -17,7 +17,7 @@ A **Life Editora** é uma editora que aparece como responsável por livros publi
 
 Um artigo de 2017 sobre a literatura contemporânea do estado cita a Life como editora de três livros: *Rodeio a céu aberto*, de A. C. Proença (2009); *Ecos: contos ilustrados*, de [[arlindo-fernandez|Arlindo Fernandez]] (2011), listado como FCMS/LIFE Editora; e *Contos Quase Causos*, de [[samuel-x-medeiros|Samuel X. Medeiros]] (2014).[^araujo2017]
 
-Um estudo de 2024 sobre a literatura de Mato Grosso do Sul cita a editora em *Vila Pequena: causos, contos e lorotas*, de [[gleycielli-nonato|Gleycielli Nonato]], publicado em Campo Grande em 2017.[^sena2024]
+Um estudo de 2024 sobre a literatura de Mato Grosso do Sul cita a editora em *Vila Pequena: causos, contos e lorotas*, de [[gleycielli-nonato-guato|Gleycielli Nonato Guató]], publicado em Campo Grande em 2017.[^sena2024]
 
 Um trabalho de 2019 sobre a literatura do estado cita uma segunda edição de *Grandezas da Literatura Sul-Mato-Grossense*, de [[guimaraes-rocha|Guimarães Rocha]], publicada pela Editora Life em Campo Grande.[^carvalho2019]
 

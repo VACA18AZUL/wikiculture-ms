@@ -10,10 +10,12 @@ ficha:
   Ano: "2025"
   Direção: "[[thais-umar|Thaís Umar]]; [[breno-moroni|Breno Moroni]]"
   Roteiro: "[[breno-moroni|Breno Moroni]]"
+  Fotografia_e_edicao: Antônio Lopes
+  Audio: Rodrigo Bezerra
   Financiamento: Lei Paulo Gustavo
   Onde ver: "Lançamento no [[memorial-da-cultura-indigena-cacique-enir-terena|Memorial da Cultura Indígena Cacique Enir Terena]]"
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-27
 ---
 
 ***Vémo'um*** ("nossa voz", em terena) é o nome de um projeto e de um curta documental feitos na Aldeia Urbana Marçal de Souza, em Campo Grande.[^ce2024][^cgn2025]

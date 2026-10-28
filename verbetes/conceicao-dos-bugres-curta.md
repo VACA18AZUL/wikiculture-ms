@@ -12,7 +12,7 @@ ficha:
   Duração: "cerca de 10 minutos (2016) ou cerca de 30 minutos (2025), segundo o Campo Grande News"
   Onde ver: Acervo da Fundação Estadual de Cultura; exibido no MIS em 25 de abril de 2025
 status: rascunho
-atualizado: 2026-10-10
+atualizado: 2026-10-12
 ---
 
 ***Conceição dos Bugres*** é um curta documental de 1980, dirigido por [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]], sobre a escultora [[conceicao-dos-bugres|Conceição dos Bugres]]. Este verbete trata do filme; a artista tem verbete próprio.[^cgn2016][^diehl]
@@ -31,6 +31,12 @@ Em 2016, 36 anos depois da filmagem, parte dos negativos tinha se deteriorado. F
 
 Em 25 de abril de 2025, dois dias depois da morte do diretor, o [[mis-ms|Museu da Imagem e do Som]] exibiu o filme junto com *Sasha Siemel*, em homenagem a ele.[^mis2025]
 
+## Sinopse e ficha técnica, segundo o site do MIS-MS
+
+O site do Museu da Imagem e do Som de Mato Grosso do Sul (MIS-MS) traz uma sinopse e uma ficha técnica do filme: no documentário, a escultora mostra os instrumentos usados para fazer os bugres — facão e machadinha para dar forma às toras de madeira bruta, e cera de abelha para "vestir" as peças, técnica que, segundo o relato ali reproduzido, surgiu de um sonho em que o marido dela trazia mel do mato. A fotografia é creditada a Noiton Nunes e o som a "Morena – Tecniso". A mesma página data o filme de 1979 e dá a duração de 10 minutos.[^mis]
+
+O site também resume a biografia da escultora: nascida em 1914 e morta em 1984, aos 70 anos, veio ainda criança de carroça do Rio Grande do Sul para o então Mato Grosso; depois de sua morte, o marido, Abílio, continuou fazendo os bugres, e quem mantém a tradição hoje é o neto Mariano, que ajudava a avó desde os oito anos.[^mis]
+
 ## Divergências entre as fontes
 
 - **Ano:** Diehl e o *Campo Grande News* indicam 1980. A Wikipédia diz que Cândido realizou o documentário em 1979.[^diehl][^cgn2016][^wiki]
@@ -41,3 +47,4 @@ Em 25 de abril de 2025, dois dias depois da morte do diretor, o [[mis-ms|Museu d
 [^cgn2025]: Lucas Mamédio, ["Morre Cândido Alberto da Fonseca, cineasta que documentou a cultura de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/morre-candido-alberto-da-fonseca-cineasta-que-documentou-a-cultura-de-ms), *Campo Grande News*, 23 abr. 2025. Acesso em 10 out. 2026.
 [^mis2025]: Natália Olliver, ["Documentários de Cândido Fonseca serão exibidos no MIS nesta sexta"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/documentarios-de-candido-fonseca-serao-exibidos-no-mis-nesta-sexta), *Campo Grande News*, 24 abr. 2025. Acesso em 10 out. 2026.
 [^wiki]: ["Conceição dos Bugres"](https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_dos_Bugres), *Wikipédia*, seção "Documentário". Acesso em 10 out. 2026.
+[^mis]: ["Conceição do Bugres"](https://amigosdomis.webnode.com.br/products/concei%c3%a7%c3%a3o%20do%20bugres/), site Amigos do MIS (Museu da Imagem e do Som de Mato Grosso do Sul). Acesso em 12 out. 2026.
