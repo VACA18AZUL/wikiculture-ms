@@ -75,4 +75,5 @@ Fontes descartadas e o motivo:
 
 ## Uso no verbete
 
-- 
+- Usado: criação em 1983, contexto do Conselho (1990), vínculo do MIS e Memorial (2011), calendário MS Cultural, FIC, Campão Cultural e dirigente (2024).
+- Fora: Teatro Aracy Balabanian e Castelinho (a fonte não diz quem os gere); relações de relacoes.csv sem fonte aberta nesta rodada (Lídia Bais, Humberto Espíndola, MARCO, Salão, Galvão Pretto, In Memorian).
