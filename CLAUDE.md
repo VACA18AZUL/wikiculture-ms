@@ -34,11 +34,10 @@ Tudo em português do Brasil. Verbetes em tom enciclopédico: frases curtas, sem
 
 ## Literatura: links para a obra
 
-- Em verbete de obra de literatura (`tipo: obra`, área `literatura`), sempre que a pesquisa encontrar, acrescente um link para o texto:
-  - Primeira opção: PDF de acesso aberto (site da editora, repositório institucional, biblioteca digital, Google Livros com prévia ou texto completo).
-  - Na falta de PDF aberto: link de compra na Amazon Brasil, quando a obra estiver listada lá.
+- Em verbete de obra de literatura (`tipo: obra`, área `literatura`), sempre que a pesquisa encontrar, acrescente um link para o texto: PDF de acesso aberto (site da editora, repositório institucional, biblioteca digital, Google Livros com prévia ou texto completo).
 - Vale a regra geral: link que você não abriu e conferiu não entra. Nunca adivinhe a URL de uma página de produto ou de um PDF.
-- Se não houver nem PDF aberto nem página de venda na Amazon, não invente alternativa: o verbete fica sem esse link.
+- **Link de compra na Amazon, por ora, não entra.** `amazon.com.br` está bloqueado para as ferramentas de navegação deste agente (falha de DNS) e, por linha de comando, o próprio site devolve erro 503 de proteção antibô; contornar isso trocando o identificador do navegador foi barrado pelo classificador de segurança do ambiente, e não deve ser tentado de novo. Decisão do usuário em 27/10/2026: enquanto o acesso à Amazon não for resolvido, nenhum link de loja entra — nem Amazon nem alternativa. Se, numa sessão futura, o acesso for restabelecido (ambiente diferente, ou agente com navegador funcional) ou o usuário enviar o link já pronto, essa regra pode ser retomada.
+- Se não houver PDF aberto, não invente alternativa: o verbete fica sem esse link.
 
 ## Economia de créditos
 
