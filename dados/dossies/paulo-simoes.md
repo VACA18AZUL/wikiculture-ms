@@ -99,6 +99,16 @@ Pistas sem fonte aberta que as sustente. Não entram no verbete.
 
 ## Uso no verbete
 
-Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
+Preenchido pelo redator em 2026-10-28.
 
-- 
+Entrou:
+- Todas as cinco fontes marcadas "sim" (acritica2026, acritica2026b, cgn2021, cgn2022, cgn2024), com os links reabertos nesta sessão.
+- Naturalidade e criação, descrição como compositor/cantor/instrumentista, intérpretes das composições, discografia (sem títulos), parcerias, obras (Trem do Pantanal, Sonhos Guaranis, D de Destino, Assim os Dias Passarão, Sonhos de Caim), turnê de 2021, turnê-tributo de 2024, show de 2026 e pocket show de 31/10/2026.
+- Relações do quadro "Ligações com outros nomes": todas aparecem no texto, com ligação [[id|texto]]. Os nomes novos já estavam em `dados/propostas/nomes-paulo-simoes.csv` e as relações em `dados/propostas/relacoes-paulo-simoes.csv`; nada foi acrescentado.
+
+Ficou de fora:
+- Seção "Não confirmado" inteira (indicação ao Grammy Latino, Chalana de Prata, Violas Pantaneiras, dados dependentes da tese de Faccioni, Grupo Acaba), por falta de fonte aberta. A relação com o Grupo Acaba e a canção "Vida bela vida" (com Guilherme Rondon) constam em `relacoes.csv`, mas suas fontes não foram abertas nesta rodada; não entraram.
+- Ano de nascimento e prêmios: nenhuma fonte aberta.
+- Nomes da banda da turnê de 2021, mediadores dos "Diálogos Musicais", valores de ingresso, ações solidárias e a fala de Maria Alice sobre o homenageado: detalhes sem peso para o verbete (a fala é avaliação de terceiro).
+- Sandy e Junior, Maria Bethânia, Ivan Lins e Michel Teló: citados sem link, por não terem linha na lista-mestra nem na proposta e serem intérpretes de passagem.
+- cgn2017: não menciona Paulo Simões.
