@@ -135,4 +135,22 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
-- 
+Verbete: `verbetes/almir-sater.md` (rascunho, 9 notas: ce2019, dmpb, cgn2022, cgn2022b, cgn2024, cgn2024b, jusp2021, acr2026 e ce2024).
+
+Entrou:
+- Todas as fontes do dossiê. As sete abertas na pesquisa foram reabertas nesta sessão e os links funcionam.
+- Nova fonte: Correio do Estado, 23/09/2024 ("Márcio de Camillo estreia amanhã... tributo à Geraldo Roca", id ce2024), aberta nesta sessão; sustenta que "Trem do Pantanal" ficou conhecida na voz de Sater (relação já existente em relacoes.csv, que o dossiê dizia não ter sido reaberta).
+- Trajetória, formação, grupos, audiovisual, parcerias, apresentações de 2022, análise de Sales, honoris causa, prêmios, Carnaval 2024, discografia.
+- Divergências registradas com as duas versões: ida a São Paulo (1978 x 1979), formação (Educação Física), Festival da Record, prêmios de 2016 e ano de *Ar*, grafias (*Luzeiro*/"Luzero", "Rocca", *7 Sinais*/*Sete Sinais*, *AR*/*Ar*).
+- Do Dicionário, só conferido ao reabrir a página: documentário (1985) e disco instrumental da Comitiva Esperança.
+
+Ficou de fora:
+- Cunhataiporã e a leitura de "irmão Geraldo" (instrução e dúvida do dossiê); a canção também não foi listada no repertório de 2022.
+- Vida familiar, incluindo o filho citado nas matérias de 2024 e a turnê com ele.
+- Lista do Correio de discos sem ano (*Doma*, *Cria*, *Caminhos Me Levem*, *7 Sinais*) além do que já consta com ano no Dicionário.
+- Frase da página do Correio sobre aulas com Paulo Simões: aparece só no resumo da ferramenta, não confirmada.
+- Detalhes do Dicionário não ligados ao dossiê (Faculdade Cândido Mendes, Sérgio Reis, *Terra de sonhos* 1994, *Paraíso* 2009): ficaram de fora por economia e por não terem sido estudados na pesquisa.
+- Prêmio Sharp aparece só como citado pelo Dicionário.
+- Itens de "Não confirmado" e fontes descartadas.
+
+Nomes novos propostos em `dados/propostas/nomes-almir-sater.csv`: rei-do-gado-novela, renascer-novela, altas-horas, paula-fernandes, tocando-em-frente. Relações novas em `relacoes-almir-sater.csv`.
