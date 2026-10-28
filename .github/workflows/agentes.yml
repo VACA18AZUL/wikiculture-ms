@@ -1,0 +1,166 @@
+# Ciclo dos agentes de IA, na nuvem, pago com a chave de API do projeto.
+# Como funciona: dados/fluxo/LEIA-ME.md. Ligar: variável AGENTES_LIGADOS=sim.
+# O agendamento só vale na branch main; "Run workflow" funciona em qualquer branch.
+name: Agentes
+
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      papeis:
+        description: 'Papéis a rodar (todos | garimpeiro | pesquisa | redacao | fechamento)'
+        default: 'todos'
+        type: string
+
+permissions:
+  contents: write
+
+# Um ciclo de cada vez. Dentro do ciclo, os jobs do mesmo papel rodam em paralelo.
+concurrency:
+  group: agentes
+  cancel-in-progress: false
+
+env:
+  BRANCH_PRODUCAO: producao
+  PAPEIS: ${{ github.event.inputs.papeis || 'todos' }}
+
+jobs:
+  preparar:
+    if: vars.AGENTES_LIGADOS == 'sim' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      rodar: ${{ steps.prazo.outputs.rodar }}
+      pesquisa: ${{ steps.fila.outputs.pesquisa }}
+      reforco: ${{ steps.fila.outputs.reforco }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - id: prazo
+        name: Conferir prazo
+        run: |
+          ate="${{ vars.AGENTES_ATE }}"
+          if [ -n "$ate" ] && [ "$(date -u +%s)" -gt "$(date -u -d "$ate" +%s)" ]; then
+            echo "Prazo $ate passou. Nada a fazer."; echo "rodar=nao" >> "$GITHUB_OUTPUT"
+          else
+            echo "rodar=sim" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Garantir a branch de produção
+        if: steps.prazo.outputs.rodar == 'sim'
+        run: |
+          if git ls-remote --exit-code --heads origin "$BRANCH_PRODUCAO" >/dev/null; then
+            git checkout -B "$BRANCH_PRODUCAO" "origin/$BRANCH_PRODUCAO"
+          else
+            git checkout -B "$BRANCH_PRODUCAO"
+            git push -u origin "$BRANCH_PRODUCAO"
+          fi
+      - id: fila
+        name: Montar a fila
+        if: steps.prazo.outputs.rodar == 'sim'
+        run: |
+          fila=$(node scripts/fila.mjs --json \
+            --pesquisa "${{ vars.AGENTES_PESQUISADORES || 4 }}" \
+            --reforco "${{ vars.AGENTES_REFORCOS || 2 }}")
+          echo "$fila"
+          echo "pesquisa=$(echo "$fila" | node -pe 'JSON.stringify(JSON.parse(require("fs").readFileSync(0,"utf8")).pesquisa)')" >> "$GITHUB_OUTPUT"
+          echo "reforco=$(echo "$fila" | node -pe 'JSON.stringify(JSON.parse(require("fs").readFileSync(0,"utf8")).reforco)')" >> "$GITHUB_OUTPUT"
+
+  garimpeiro:
+    needs: preparar
+    if: needs.preparar.outputs.rodar == 'sim' && contains(fromJSON('["todos","garimpeiro"]'), github.event.inputs.papeis || 'todos')
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4   # a action local precisa estar no checkout
+      - uses: ./.github/actions/rodada
+        with:
+          papel: garimpeiro
+          chave: ${{ secrets.ANTHROPIC_API_KEY }}
+          orcamento: ${{ vars.AGENTES_ORCAMENTO_GARIMPEIRO || 8 }}
+
+  pesquisador:
+    needs: preparar
+    if: needs.preparar.outputs.rodar == 'sim' && needs.preparar.outputs.pesquisa != '[]' && contains(fromJSON('["todos","pesquisa"]'), github.event.inputs.papeis || 'todos')
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        id: ${{ fromJSON(needs.preparar.outputs.pesquisa) }}
+    steps:
+      - uses: actions/checkout@v4   # a action local precisa estar no checkout
+      - uses: ./.github/actions/rodada
+        with:
+          papel: pesquisador
+          id: ${{ matrix.id }}
+          chave: ${{ secrets.ANTHROPIC_API_KEY }}
+          orcamento: ${{ vars.AGENTES_ORCAMENTO_PESQUISADOR || 3 }}
+
+  reforco:
+    needs: preparar
+    if: needs.preparar.outputs.rodar == 'sim' && needs.preparar.outputs.reforco != '[]' && contains(fromJSON('["todos","redacao"]'), github.event.inputs.papeis || 'todos')
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        id: ${{ fromJSON(needs.preparar.outputs.reforco) }}
+    steps:
+      - uses: actions/checkout@v4   # a action local precisa estar no checkout
+      - uses: ./.github/actions/rodada
+        with:
+          papel: reforco
+          id: ${{ matrix.id }}
+          chave: ${{ secrets.ANTHROPIC_API_KEY }}
+          orcamento: ${{ vars.AGENTES_ORCAMENTO_REDATOR || 3 }}
+
+  # Recalcula a fila de redação depois que os pesquisadores desta rodada entregaram.
+  refila:
+    needs: [preparar, pesquisador, reforco]
+    if: always() && needs.preparar.outputs.rodar == 'sim' && contains(fromJSON('["todos","redacao"]'), github.event.inputs.papeis || 'todos')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      redacao: ${{ steps.fila.outputs.redacao }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: producao
+      - id: fila
+        run: |
+          fila=$(node scripts/fila.mjs --json --redacao "${{ vars.AGENTES_REDATORES || 4 }}")
+          echo "$fila"
+          echo "redacao=$(echo "$fila" | node -pe 'JSON.stringify(JSON.parse(require("fs").readFileSync(0,"utf8")).redacao)')" >> "$GITHUB_OUTPUT"
+
+  redator:
+    needs: refila
+    if: always() && needs.refila.result == 'success' && needs.refila.outputs.redacao != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        id: ${{ fromJSON(needs.refila.outputs.redacao) }}
+    steps:
+      - uses: actions/checkout@v4   # a action local precisa estar no checkout
+      - uses: ./.github/actions/rodada
+        with:
+          papel: redator
+          id: ${{ matrix.id }}
+          chave: ${{ secrets.ANTHROPIC_API_KEY }}
+          orcamento: ${{ vars.AGENTES_ORCAMENTO_REDATOR || 3 }}
+
+  fechamento:
+    needs: [preparar, garimpeiro, redator]
+    if: always() && needs.preparar.outputs.rodar == 'sim' && contains(fromJSON('["todos","fechamento"]'), github.event.inputs.papeis || 'todos')
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4   # a action local precisa estar no checkout
+      - uses: ./.github/actions/rodada
+        with:
+          papel: fechamento
+          chave: ${{ secrets.ANTHROPIC_API_KEY }}
+          orcamento: ${{ vars.AGENTES_ORCAMENTO_FECHAMENTO || 12 }}

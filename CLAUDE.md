@@ -1,6 +1,6 @@
 # Instruções para agentes
 
-Este repositório é o WikiCulture MS, uma enciclopédia de agentes culturais e produções de Mato Grosso do Sul. Leia `PLANO.md` antes de qualquer tarefa: ele diz em que fase o projeto está e o que vem a seguir.
+Este repositório é o WikiCulture MS, uma enciclopédia de agentes culturais e produções de Mato Grosso do Sul. Leia `PLANO.md` antes de qualquer tarefa: ele diz em que fase o projeto está e o que vem a seguir. `AGENTES.md` diz qual agente faz cada tarefa (pesquisa, redação, links, revisão, atualização) e como eles passam trabalho um ao outro.
 
 ## Idioma e tom
 
@@ -20,8 +20,9 @@ Tudo em português do Brasil. Verbetes em tom enciclopédico: frases curtas, sem
 
 - Verbete novo: copie `modelos/verbete.md`. O nome do arquivo é o identificador (minúsculas, números, hífens, sem acentos).
 - Ligue verbetes com `[[identificador|texto]]`. Citar um verbete que ainda não existe é desejável: ele entra na página de verbetes desejados.
-- Atualize `dados/lista-mestra.csv` quando criar um verbete ou descobrir um nome novo.
+- Atualize `dados/lista-mestra.csv` quando criar um verbete ou descobrir um nome novo. Relação entre dois nomes, com fonte, vai em `dados/relacoes.csv`.
 - Antes de qualquer commit, rode `npm run conferir` e `npm run build`. Os dois precisam passar.
+- Rodando em paralelo com outros agentes (existe `dados/propostas/`): siga `dados/fluxo/LEIA-ME.md`. Nomes e relações novos vão para `dados/propostas/`; situação muda só com `node scripts/fila.mjs marcar`.
 - Verbetes vão em lotes de até 10 por pull request, em branch própria. Não envie verbetes direto para `main`.
 - Na descrição do pull request, liste cada verbete com as fontes usadas e aponte o que ficou incerto.
 - Ao concluir uma fase ou um lote, atualize a situação em `PLANO.md`.
