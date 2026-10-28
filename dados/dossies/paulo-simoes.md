@@ -101,4 +101,7 @@ Pistas sem fonte aberta que as sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
-- 
+- Entrou: naturalidade, atividade, parcerias, composições (Trem do Pantanal, Sonhos Guaranis, D de Destino, Assim os Dias Passarão, Sonhos de Caim), discografia em números, shows e turnês de 2021, 2024 e 2026, com as cinco fontes marcadas "sim".
+- Ficou de fora: ano de nascimento, formação, prêmios, indicação ao Grammy Latino, Grupo Acaba e detalhes de Chalana de Prata e Violas Pantaneiras (sem fonte aberta que os sustente); ingressos e público dos shows (irrelevantes).
+- Não entrou o elogio de Maria Alice a ele em cgn2024 ("um dos maiores compositores do País"), por ser tom promocional.
+
