@@ -41,15 +41,15 @@ Em fevereiro de 2024, segundo o Campo Grande News, atuava no remake da novela *P
 
 ### Parcerias
 
-O Dicionário aponta [[renato-teixeira|Renato Teixeira]] como o parceiro de composição mais frequente. Cita também Paulo Simões, Paulo Klein, [[geraldo-roca|Geraldo Roca]] (grafado "Rocca") e João Bá. Segundo a mesma fonte, canções coescritas por ele entraram em 2017 no musical *Bem sertanejo*.[^dmpb]
+O Dicionário aponta [[renato-teixeira|Renato Teixeira]] como o parceiro de composição mais frequente. Cita também [[paulo-simoes|Paulo Simões]], Paulo Klein, [[geraldo-roca|Geraldo Roca]] (grafado "Rocca") e João Bá. Segundo a mesma fonte, canções coescritas por ele entraram em 2017 no musical *Bem sertanejo*.[^dmpb]
 
-Em novembro de 2024, o Campo Grande News registrou que Paulo Simões tem muitas canções de sucesso feitas em parceria com Sater.[^cgn2024b] Em abril de 2026, A Crítica de Campo Grande citou Sater entre os intérpretes de composições de Simões, ao noticiar o show dos 50 anos de "Trem do Pantanal".[^acr2026] Segundo o Correio do Estado, "[[trem-do-pantanal|Trem do Pantanal]]", composta por Geraldo Roca e Paulo Simões, ficou conhecida na voz de Sater.[^ce2024]
+Em novembro de 2024, o Campo Grande News registrou que [[paulo-simoes|Paulo Simões]] tem muitas canções de sucesso feitas em parceria com Sater.[^cgn2024b] Em abril de 2026, A Crítica de Campo Grande citou Sater entre os intérpretes de composições de Simões, ao noticiar o show dos 50 anos de "Trem do Pantanal".[^acr2026] Segundo o Correio do Estado, "[[trem-do-pantanal|Trem do Pantanal]]", composta por [[geraldo-roca|Geraldo Roca]] e Paulo Simões, ficou conhecida na voz de Sater.[^ce2024]
 
-A canção [[assim-os-dias-passarao|"Assim os Dias Passarão"]] é de autoria de Sater, Renato Teixeira e Paulo Simões. Foi tocada no último capítulo da novela *Pantanal* e, segundo o Campo Grande News, remete à partida de Geraldo Roca, amigo e compositor.[^cgn2022]
+A canção [[assim-os-dias-passarao|"Assim os Dias Passarão"]] é de autoria de Sater, [[renato-teixeira|Renato Teixeira]] e [[paulo-simoes|Paulo Simões]]. Foi tocada no último capítulo da novela *Pantanal* e, segundo o Campo Grande News, remete à partida de [[geraldo-roca|Geraldo Roca]], amigo e compositor.[^cgn2022]
 
 ### Apresentações recentes
 
-Em outubro de 2022, depois de mais de dois anos sem shows por causa da pandemia, Sater voltava à estrada. Em 22 de outubro participou do programa [[altas-horas|Altas Horas]] com Renato Teixeira, onde tocou "[[tocando-em-frente|Tocando em Frente]]", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]". Cantou também "Jeito de Mato" com [[paula-fernandes|Paula Fernandes]].[^cgn2022b]
+Em outubro de 2022, depois de mais de dois anos sem shows por causa da pandemia, Sater voltava à estrada. Em 22 de outubro participou do programa [[altas-horas|Altas Horas]] com [[renato-teixeira|Renato Teixeira]], onde tocou "[[tocando-em-frente|Tocando em Frente]]", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]". Cantou também "Jeito de Mato" com [[paula-fernandes|Paula Fernandes]].[^cgn2022b]
 
 Em 12 de novembro de 2022 fez show no Espaço Bosque Expo, no Shopping Bosque dos Ipês, em Campo Grande. A matéria do Campo Grande News fala em mais de 5 mil pessoas. O repertório percorreu os álbuns *AR* e *+AR*, e a banda incluía o acordeonista Marcelus, de Aquidauana. Na entrevista, Sater disse que Campo Grande é um dos lugares mais difíceis para tocar, por causa do público crítico.[^cgn2022]
 
@@ -59,9 +59,9 @@ Uma dissertação de Max Junior Sales (ECA-USP, orientação de Ivan Vilela), *A
 
 ## Reconhecimentos
 
-Em 22 de julho de 2019, recebeu da UFMS o título de doutor honoris causa, junto com [[humberto-espindola|Humberto Espíndola]] e [[isaac-de-oliveira|Isaac de Oliveira]]. Segundo o Correio do Estado, foi a primeira vez que a universidade concedeu o título a artistas. A cerimônia ocorreu no contexto da 71ª reunião da SBPC.[^ce2019]
+Em 22 de julho de 2019, recebeu da [[ufms|UFMS]] o título de doutor honoris causa, junto com [[humberto-espindola|Humberto Espíndola]] e [[isaac-de-oliveira|Isaac de Oliveira]]. Segundo o Correio do Estado, foi a primeira vez que a universidade concedeu o título a artistas. A cerimônia ocorreu no contexto da 71ª reunião da SBPC.[^ce2019]
 
-Sobre prêmios, as fontes divergem. Para o Correio do Estado, o álbum *AR*, com Renato Teixeira, venceu em 2016 o Prêmio da Música Brasileira (melhor dupla regional) e o Grammy Latino de melhor álbum de raízes em língua portuguesa. Em 2018, *+AR* ganhou o Grammy Latino na mesma categoria.[^ce2019] O Dicionário data *Ar* em 2015 e cita apenas o Grammy Latino de 2018 por *+Ar*, além do Prêmio Sharp de melhor álbum instrumental (1990, *Instrumental II*) e do Prêmio Sharp de melhor canção para "Tocando em frente".[^dmpb]
+Sobre prêmios, as fontes divergem. Para o Correio do Estado, o álbum *AR*, com [[renato-teixeira|Renato Teixeira]], venceu em 2016 o Prêmio da Música Brasileira (melhor dupla regional) e o Grammy Latino de melhor álbum de raízes em língua portuguesa. Em 2018, *+AR* ganhou o Grammy Latino na mesma categoria.[^ce2019] O Dicionário data *Ar* em 2015 e cita apenas o Grammy Latino de 2018 por *+Ar*, além do Prêmio Sharp de melhor álbum instrumental (1990, *Instrumental II*) e do Prêmio Sharp de melhor canção para "Tocando em frente".[^dmpb]
 
 Em fevereiro de 2024, a escola de samba [[mocidade-independente-da-nova-corumba|Mocidade Independente da Nova Corumbá]], de Corumbá, o escolheu como tema do samba-enredo "A Mocidade Apresenta Almir Sater, o Pantaneiro Cantador da Esperança". Sater agradeceu a homenagem e informou que não poderia ir ao desfile, por compromissos anteriores.[^cgn2024]
 
@@ -77,8 +77,8 @@ Discos com ano, segundo o Dicionário Cravo Albin:[^dmpb]
 - *Caminhos me levem* (1997)
 - *Um violeiro toca* (2006)
 - *Sete Sinais* (2007)
-- *Ar* (2015, com Renato Teixeira)
-- *+Ar* (2018, com Renato Teixeira)
+- *Ar* (2015, com [[renato-teixeira|Renato Teixeira]])
+- *+Ar* (2018, com [[renato-teixeira|Renato Teixeira]])
 
 O Correio do Estado cita ainda, sem ano, *Terra de Sonhos* e [[prata-da-casa|*Prata da Casa*]], descrito como o primeiro disco coletivo gravado em Mato Grosso do Sul e produzido pela UFMS.[^ce2019] O Jornal da USP data em 1985 o álbum *Instrumental*.[^jusp2021]
 

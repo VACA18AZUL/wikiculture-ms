@@ -32,6 +32,6 @@ O Fundo de Investimentos Culturais (FIC) abre no primeiro quadrimestre, com R$ 1
 
 - [MS Cultural promete abrir as portas do teatro e mantém festivais anuais](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ms-cultural-promete-abrir-as-portas-do-teatro-e-mantem-festivais-anuais) — calendário de ações de 2024.
 
-[^santos-fernandes]: Vanderlei José dos Santos e Enilda Fernandes, ["Arte e Cultura em Mato Grosso do Sul: um percurso histórico"](https://anaisonline.uems.br/index.php/enic/article/view/4504/4524), *Anais ENIC*, UEMS, sem data visível. Fonte única da data de criação.
-[^ce2011]: Redação, ["Museu da Imagem e Som reinaugura hoje"](https://correiodoestado.com.br/correio-b/museu-da-imagem-e-som-reinaugura-hoje/109346/), *Correio do Estado* (Correio B), 3 maio 2011.
-[^cgn2024]: Gabriela Couto e Thailla Torres, ["MS Cultural promete abrir as portas do teatro e mantém festivais anuais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ms-cultural-promete-abrir-as-portas-do-teatro-e-mantem-festivais-anuais), *Campo Grande News*, 5 fev. 2024.
+[^santos-fernandes]: Vanderlei José dos Santos e Enilda Fernandes, ["Arte e Cultura em Mato Grosso do Sul: um percurso histórico"](https://anaisonline.uems.br/index.php/enic/article/view/4504/4524), *Anais ENIC*, UEMS, sem data visível. Fonte única da data de criação. Acesso em 28 out. 2026.
+[^ce2011]: Redação, ["Museu da Imagem e Som reinaugura hoje"](https://correiodoestado.com.br/correio-b/museu-da-imagem-e-som-reinaugura-hoje/109346/), *Correio do Estado* (Correio B), 3 maio 2011. Acesso em 28 out. 2026.
+[^cgn2024]: Gabriela Couto e Thailla Torres, ["MS Cultural promete abrir as portas do teatro e mantém festivais anuais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ms-cultural-promete-abrir-as-portas-do-teatro-e-mantem-festivais-anuais), *Campo Grande News*, 5 fev. 2024. Acesso em 28 out. 2026.

@@ -7,7 +7,7 @@ ficha:
   Atividade: Pintura
   Obra em destaque: Série "Divisão de Mato Grosso" (1978)
 status: rascunho
-atualizado: 2026-10-08
+atualizado: 2026-10-28
 ---
 
 **Humberto Espíndola** é um pintor sul-mato-grossense. Completou 80 anos em abril de 2023.[^cgn2023]
@@ -20,6 +20,6 @@ Obras do artista integram o acervo do [[marco|Museu de Arte Contemporânea de Ma
 
 ## Exposições
 
-Em abril de 2023, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] homenageou os 80 anos do artista com a exposição "Marco visita o MIS – Humberto Espíndola", que levou nove obras do acervo do MARCO ao [[mis-ms|Museu da Imagem e do Som]], em Campo Grande.[^cgn2023]
+Em abril de 2023, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] homenageou os 80 anos do artista com a exposição "Marco visita o MIS – Humberto Espíndola", que levou nove obras do acervo do [[marco|MARCO]] ao [[mis-ms|Museu da Imagem e do Som]], em Campo Grande.[^cgn2023]
 
 [^cgn2023]: Thailla Torres, ["MIS realiza exposição gratuita com obras de Humberto Espíndola"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mis-realiza-exposicao-gratuita-com-obras-de-humberto-espindola), *Campo Grande News*, 13 abr. 2023. Acesso em 8 out. 2026.
