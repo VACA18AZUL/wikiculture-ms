@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 triada nas sete áreas entre 27 e 28/10/2026 (351 linhas na lista-mestra), aguardando sua revisão: cortar, acrescentar e reordenar. Próxima: Fase 2 (piloto de 35 verbetes), que depende de decisões em aberto abaixo.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 triada nas sete áreas entre 27 e 28/10/2026 (351 linhas na lista-mestra), aguardando sua revisão: cortar, acrescentar e reordenar. Fase 2 (piloto de 35 rascunhos, 5 por área) redigida em 29/10/2026 e enviada em quatro PRs empilhados (lotes 1 a 4), aguardando revisão: verbetes ficam em `rascunho` até você revisar. Próxima: Fase 3 (expansão por área, até 10 verbetes por PR), que depende das decisões em aberto abaixo.
 
 ## Decisão central
 
