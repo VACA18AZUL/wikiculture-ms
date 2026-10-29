@@ -10,6 +10,8 @@ Em 13/10/2026, resolução de um grupo de pendências médias de audiovisual na 
 
 Em 27/10/2026, retomada autônoma da pesquisa (sem fonte nova enviada pelo usuário), seguindo o próprio plano: seis verbetes completados a partir de nomes já citados, com link pendente, nos verbetes de [[alta-tensao|Alta Tensão]] e [[falange-da-rima|Falange da Rima]] — o documentário *[[barulho-do-mato|Barulho do Mato]]* (2024) e seus diretores [[lucas-arruda|Lucas Arruda]] e [[mariana-sena|Mariana Sena]]; o guitarrista [[helder-domingues|Helder Domingues]]; e os rappers [[flynt|Flynt]] e [[bolinho|Bolinho]], fundadores do Falange da Rima, mortos em 2025 (dados de saúde e de velório das reportagens sobre as mortes ficaram de fora). Mais três verbetes a partir de uma reportagem nova do Campo Grande News (jun. 2026): o documentário *[[integracionistas-o-rio-a-rota-e-o-mundo|Integracionistas: O Rio, a Rota e o Mundo]]*, sobre a Rota Bioceânica, a diretora [[mara-silvestre|Mara Silvestre]] e a produtora [[agua-comunicacao-tv|Água Comunicação TV]]. Nesta revisão, foi corrigida uma falha de uma sessão anterior: o verbete de *A Trovadora e a Poeta* trazia um dado de saúde de Terezinha Pantaneira (histórico de câncer e covid-19), vedado pelo CLAUDE.md; o trecho foi removido. A dissertação sobre a história social do rock campo-grandense (Silva, 2021) segue redigida e retida fora dos PRs, como já registrado em 10/10/2026, sem explicação guardada do motivo — não foi usada nesta rodada até esclarecer com Helton. Próximo passo: dos nomes de prioridade alta em música/audiovisual, restam só Aral Cardoso e Oscar Rocha, já duas vezes recusados por falta de fonte aberta (a obra "A Música de Mato Grosso do Sul: histórias de vida" não está online); seguem os de prioridade média em música/audiovisual (ainda uns 180 nomes `a-pesquisar` na lista-mestra, incluindo os novos desta sessão) e, depois, as demais áreas, área por área.
 
+**Estado atual:** Fase 0 concluída em 08/10/2026. Mapa de agentes e fluxo paralelo na nuvem criados em 27/10/2026 (`AGENTES.md`, `dados/fluxo/`). Garimpo de 27/10/2026: artes-plasticas, 36 nomes na lista-mestra (+30). Próxima: ligar o ciclo automático (`AGENTES_LIGADOS`) e, em paralelo, o Helton revisar a lista-mestra na branch `producao`.
+
 ## Decisão central
 
 O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `verbetes/`; o site é gerado a partir deles. A identidade visual definitiva (Fase 4) troca `public/estilo.css` e `src/layouts/Base.astro` sem tocar nos verbetes.
@@ -47,7 +49,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 ### Fase 1 em passos
 
 1. Uma área por sessão, na ordem: artes plásticas, música, teatro, dança, literatura, audiovisual, circo.
-2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade.
+2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade. Relações entre nomes (integrou, fundou, expôs em...) vão em `dados/relacoes.csv`, com fonte; são elas que viram links entre verbetes nas fases 2 e 3.
 3. Prioridade alta: quem aparece em duas ou mais fontes independentes, ou em fonte acadêmica.
 4. Não redigir verbetes nesta fase.
 5. Ao fim de cada área, você revisa a lista: corta, acrescenta e reordena.

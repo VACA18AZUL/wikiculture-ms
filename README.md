@@ -12,10 +12,16 @@ Site: ainda sem endereço público (ver "Decisões em aberto" em `PLANO.md`).
 | `modelos/verbete.md` | Modelo comentado para criar um verbete novo. |
 | `dados/lista-mestra.csv` | Nomes e obras a pesquisar, com fonte, outras fontes e prioridade (alta: duas ou mais fontes independentes). |
 | `dados/fontes-artes-plasticas.md` | Índice das fontes lidas por área. |
+| `dados/relacoes.csv` | Quem se liga a quem (integrou, fundou, expôs em...), com fonte. |
+| `dados/dossies/` | Fatos e fontes reunidos antes de escrever cada verbete. Modelo em `modelos/dossie.md`. |
 | `PLANO.md` | Fases do projeto, fontes de pesquisa e regras editoriais. |
 | `CLAUDE.md` | Instruções para agentes de IA que trabalham no repositório. |
+| `AGENTES.md`, `.claude/agents/` | Mapa dos agentes de IA: quem pesquisa, escreve, liga, revisa e atualiza. |
 | `src/`, `public/estilo.css` | Código e visual do site. |
 | `scripts/conferir.mjs` | Verificação automática das regras editoriais. |
+| `scripts/ligacoes.mjs` | Aponta menções a nomes conhecidos que ainda não têm link interno. |
+| `scripts/fila.mjs` | Fila de trabalho dos agentes por situação; `marcar` muda a situação de um nome. |
+| `dados/fluxo/`, `.github/workflows/agentes.yml` | Fluxo paralelo dos agentes na nuvem (GitHub Actions, créditos de API). |
 
 ## Criar um verbete
 
@@ -29,6 +35,7 @@ Site: ainda sem endereço público (ver "Decisões em aberto" em `PLANO.md`).
 npm install
 npm run dev        # abre o site em http://localhost:4321/wikiculture-ms/
 npm run conferir   # verifica as regras editoriais
+node scripts/ligacoes.mjs   # lista menções sem link interno
 npm run build      # gera o site em dist/
 ```
 

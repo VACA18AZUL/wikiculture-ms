@@ -1,0 +1,49 @@
+# Passos comuns a toda rodada de agente: baixar a branch de produção, instalar,
+# rodar scripts/rodada.sh e enviar. Usado por .github/workflows/agentes.yml.
+name: Rodada de agente
+description: Roda um papel do fluxo dos agentes na branch de produção.
+
+inputs:
+  papel:
+    description: garimpeiro | pesquisador | redator | reforco | fechamento
+    required: true
+  id:
+    description: identificador da lista-mestra (quando o papel trabalha um nome)
+    required: false
+    default: ''
+  chave:
+    description: ANTHROPIC_API_KEY
+    required: true
+  orcamento:
+    description: limite em US$ para esta rodada
+    required: true
+  modelo:
+    description: modelo a usar (vazio = padrão do papel em scripts/rodada.sh)
+    required: false
+    default: ''
+
+runs:
+  using: composite
+  steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: producao
+        fetch-depth: 0
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 22
+        cache: npm
+    - shell: bash
+      run: npm ci --no-audit --no-fund
+    - shell: bash
+      run: npm install -g @anthropic-ai/claude-code
+    - shell: bash
+      env:
+        ANTHROPIC_API_KEY: ${{ inputs.chave }}
+        ORCAMENTO_USD: ${{ inputs.orcamento }}
+        MODELO: ${{ inputs.modelo }}
+        BRANCH_PRODUCAO: producao
+      run: |
+        [ -z "$MODELO" ] && unset MODELO
+        chmod +x scripts/*.sh
+        scripts/rodada.sh "${{ inputs.papel }}" "${{ inputs.id }}"

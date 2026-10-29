@@ -1,0 +1,3 @@
+dados/lista-mestra.csv merge=union
+dados/relacoes.csv merge=union
+dados/fluxo/registro.md merge=union
