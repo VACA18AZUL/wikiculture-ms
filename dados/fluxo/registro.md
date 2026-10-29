@@ -28,3 +28,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-29T00:09Z | redator | almir-sater | concluída | US$ 0.17 | modelo claude-sonnet-5-5
 2026-10-29T00:10Z | fechamento | fechamento | concluída | US$ 2.26 | modelo claude-opus-5-5
 2026-10-29T05:47Z | pesquisador | teatro-glauce-rocha | concluída | US$ 0.58 | modelo claude-sonnet-5-5
+2026-10-29T05:47Z | pesquisador | cia-de-danca-do-pantanal | concluída | US$ 0.61 | modelo claude-sonnet-5-5
