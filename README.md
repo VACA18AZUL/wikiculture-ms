@@ -1,6 +1,6 @@
 # WikiCulture MS
 
-Enciclopédia aberta de agentes culturais e produções artísticas de Mato Grosso do Sul: teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
+Enciclopédia aberta de agentes culturais e produções artísticas de Mato Grosso do Sul: teatro, dança, circo, literatura, artes plásticas, audiovisual, música, ilustração, quadrinhos e fotografia.
 
 Site: ainda sem endereço público (ver "Decisões em aberto" em `PLANO.md`).
 
@@ -10,7 +10,8 @@ Site: ainda sem endereço público (ver "Decisões em aberto" em `PLANO.md`).
 |---|---|
 | `verbetes/` | Um arquivo por verbete. É aqui que o conteúdo vive. |
 | `modelos/verbete.md` | Modelo comentado para criar um verbete novo. |
-| `dados/lista-mestra.csv` | Nomes e obras a pesquisar, com fonte e prioridade. |
+| `dados/lista-mestra.csv` | Nomes e obras a pesquisar, com fonte, outras fontes e prioridade (alta: duas ou mais fontes independentes). |
+| `dados/fontes-artes-plasticas.md` | Índice das fontes lidas por área. |
 | `dados/relacoes.csv` | Quem se liga a quem (integrou, fundou, expôs em...), com fonte. |
 | `dados/dossies/` | Fatos e fontes reunidos antes de escrever cada verbete. Modelo em `modelos/dossie.md`. |
 | `PLANO.md` | Fases do projeto, fontes de pesquisa e regras editoriais. |

@@ -17,6 +17,9 @@ const verbetes = defineCollection({
           'artes-plasticas',
           'audiovisual',
           'musica',
+          'ilustracao',
+          'quadrinhos',
+          'fotografia',
         ]),
       )
       .min(1),
