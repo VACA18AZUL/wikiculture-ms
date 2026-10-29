@@ -17,7 +17,7 @@ links:
     url: https://pt.wikipedia.org/wiki/L%C3%ADdia_Ba%C3%ADs
     acesso: 2026-10-12
 status: rascunho
-atualizado: 2026-10-27
+atualizado: 2026-10-29
 ---
 
 **Lídia Baís** (Campo Grande, 1900 ou 1901 – 1985) foi uma pintora e desenhista sul-mato-grossense, apontada pela imprensa local como uma das artistas mais importantes de Mato Grosso do Sul.[^cgn2025][^overmundo2006][^itau]
@@ -30,15 +30,15 @@ Em 1926 começou a estudar pintura no Rio de Janeiro com Henrique Bernardelli.[^
 
 De volta a Campo Grande, não foi compreendida por boa parte da população, mas seguiu produzindo. Sua obra trata de religião, astrologia e questões existenciais.[^cgn2025] Segundo a reportagem de 2010, a obra recebeu influência de religiões como o catolicismo, o rosacrucianismo e a umbanda.[^cgn2010]
 
-Em 1950 fundou o Museu Baís, em Campo Grande, que não chegou a abrir ao público. Na mesma época ingressou na Ordem Terceira de São Francisco, com o nome religioso de Irmã Trindade, e passou a dedicar-se a estudos religiosos e filosóficos.[^itau] Por volta de 1960 publicou, sob o pseudônimo de Maria Tereza Trindade, o livro *História de T. Lídia Baís*.[^itau]
+Em 1950 fundou o [[museu-bais|Museu Baís]], em Campo Grande, que não chegou a abrir ao público. Na mesma época ingressou na Ordem Terceira de São Francisco, com o nome religioso de Irmã Trindade, e passou a dedicar-se a estudos religiosos e filosóficos.[^itau] Por volta de 1960 publicou, sob o pseudônimo de Maria Tereza Trindade, o livro *História de T. Lídia Baís*.[^itau]
 
-Em 2008 e 2010, reportagens descrevem um museu com o seu nome, instalado na Morada dos Baís, com obras da artista. As fontes lidas não informam quando ele abriu.[^dourados2008][^cgn2010] A matéria de 2025 diz que ela queria abrir um museu e que isso não aconteceu enquanto viveu.[^cgn2025] Morreu em outubro de 1985, em Campo Grande.[^itau][^cgn2010]
+Em 2008 e 2010, reportagens descrevem um museu com o seu nome, instalado na [[morada-dos-bais|Morada dos Baís]], com obras da artista. As fontes lidas não informam quando ele abriu.[^dourados2008][^cgn2010] A matéria de 2025 diz que ela queria abrir um museu e que isso não aconteceu enquanto viveu.[^cgn2025] Morreu em outubro de 1985, em Campo Grande.[^itau][^cgn2010]
 
 ## Acervo e exposições
 
 O acervo da artista foi doado à [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] por sua sobrinha, Nelly Martins.[^cgn2025][^dourados2008] Em 2008, o acervo somava 65 telas, 45 desenhos e esboços, 28 fotografias, discos com composições musicais e manuscritos.[^dourados2008] Parte das obras integra o acervo do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]].[^cgn2025][^cgn2010] Em 2008, nove obras estavam no MARCO, e doze obras tinham sido reproduzidas em cartões-postais.[^dourados2008]
 
-Em maio de 2025, os 125 anos de seu nascimento foram lembrados na exposição "As várias faces de Lídia Baís", montada no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]] com obras do acervo do MARCO, dentro da programação da Semana Nacional de Museus.[^cgn2025]
+Em maio de 2025, os 125 anos de seu nascimento foram lembrados na exposição "As várias faces de Lídia Baís", montada no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]] com obras do acervo do [[marco|MARCO]], dentro da programação da Semana Nacional de Museus.[^cgn2025]
 
 ## Para saber mais
 

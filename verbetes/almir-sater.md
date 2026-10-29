@@ -37,7 +37,7 @@ O Correio do Estado afirma que atuou nas novelas [[pantanal-novela|*Pantanal*]],
 
 Participou dos curtas [[as-bellas-de-billings|*As Bellas de Billings*]] e [[caramujo-flor|*Caramujo Flor*]], sobre a poesia de [[manoel-de-barros|Manoel de Barros]].[^ce2019]
 
-Em fevereiro de 2024, segundo o Campo Grande News, atuava no remake da novela *Pantanal* e estava escalado para a novela [[renascer-novela|*Renascer*]], da TV Globo.[^cgn2024]
+Em fevereiro de 2024, segundo o Campo Grande News, atuava no remake da novela [[pantanal-novela|*Pantanal*]] e estava escalado para a novela [[renascer-novela|*Renascer*]], da TV Globo.[^cgn2024]
 
 ### Parcerias
 
@@ -45,7 +45,7 @@ O Dicionário aponta [[renato-teixeira|Renato Teixeira]] como um de seus parceir
 
 Em novembro de 2024, o Campo Grande News registrou que [[paulo-simoes|Paulo Simões]] tem muitas canções de sucesso feitas em parceria com Sater.[^cgn2024b] Em abril de 2026, A Crítica de Campo Grande citou Sater entre os intérpretes de composições de Simões, ao noticiar o show dos 50 anos de "Trem do Pantanal".[^acr2026] Segundo o Correio do Estado, "[[trem-do-pantanal|Trem do Pantanal]]", composta por [[geraldo-roca|Geraldo Roca]] e Paulo Simões, ficou conhecida na voz de Sater.[^ce2024]
 
-A canção [[assim-os-dias-passarao|"Assim os Dias Passarão"]] é de autoria de Sater, [[renato-teixeira|Renato Teixeira]] e [[paulo-simoes|Paulo Simões]]. Foi tocada no último capítulo da novela *Pantanal* e, segundo o Campo Grande News, remete à partida de [[geraldo-roca|Geraldo Roca]], amigo e compositor.[^cgn2022]
+A canção [[assim-os-dias-passarao|"Assim os Dias Passarão"]] é de autoria de Sater, [[renato-teixeira|Renato Teixeira]] e [[paulo-simoes|Paulo Simões]]. Foi tocada no último capítulo da novela [[pantanal-novela|*Pantanal*]] e, segundo o Campo Grande News, remete à partida de [[geraldo-roca|Geraldo Roca]], amigo e compositor.[^cgn2022]
 
 ### Apresentações recentes
 
