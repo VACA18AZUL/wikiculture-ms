@@ -15,7 +15,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Trem do Pantanal** é uma canção de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]], composta em 1975 durante uma viagem de trem. A Crítica de Campo Grande a trata como "uma das músicas mais simbólicas" da cultura sul-mato-grossense.[^acritica2026] Ficou conhecida na voz de [[almir-sater|Almir Sater]].[^ce2024]
+**Trem do Pantanal** é uma canção de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]], composta em 1975 durante uma viagem de trem.[^cgn2025a] A Crítica de Campo Grande a trata como "uma das músicas mais simbólicas" da cultura sul-mato-grossense.[^acritica2026] Ficou conhecida na voz de [[almir-sater|Almir Sater]].[^ce2024]
 
 ## Origem
 
@@ -23,7 +23,7 @@ Segundo o Campo Grande News, em abril de 1975 os dois pegaram o trem entre Campo
 
 Simões afirma que o início da canção surgiu perto de Aquidauana, talvez no distrito de Camisão, como esboço da primeira estrofe. Roca disse que o rascunho ficou pronto em cerca de 15 minutos e que concluiu a letra por insistência do parceiro. Disse também que, no começo, não gostou da literalidade do texto.[^cgn2025a]
 
-As fontes divergem sobre o ponto em que a composição começou e sobre o tempo que levou. Uma matéria de 2012 diz que a música foi feita em cerca de meia hora, numa cabine do trem, durante a travessia do Pantanal rumo a Santa Cruz de la Sierra, e que só a primeira estrofe foi escrita nesse momento.[^cgn2012] Em reportagem da UFMS, Simões diz que os primeiros acordes vieram logo depois de passarem por Miranda.[^ufms2020] Em 2016, [[marcio-de-camillo|Márcio de Camillo]] afirmou que a composição começou em Corumbá, primeira parada da viagem.[^cgn2016]
+As fontes divergem sobre o ponto em que a composição começou e sobre o tempo que levou. Uma matéria de 2012 diz que a música foi feita em cerca de meia hora, numa cabine do trem, durante a travessia do Pantanal rumo a Santa Cruz de la Sierra, e que só a primeira estrofe foi escrita nesse momento.[^cgn2012] Em reportagem da [[ufms|UFMS]], Simões diz que os primeiros acordes vieram logo depois de passarem por Miranda.[^ufms2020] Em 2016, [[marcio-de-camillo|Márcio de Camillo]] afirmou que a composição começou em Corumbá, primeira parada da viagem.[^cgn2016]
 
 O destino da viagem também aparece de dois modos. O Campo Grande News de 2025 fala em Machu Picchu,[^cgn2025a] e A Crítica de Campo Grande diz que a canção foi composta em viagem rumo a Santa Cruz de la Sierra, na Bolívia.[^acritica2026] Quanto ao motivo, Roca disse ao Campo Grande News que o objetivo principal era comprar pinturas do estilo cusquenho.[^cgn2025a] Outra matéria do mesmo jornal fala em busca de um quadro peruano.[^cgn2025b] Segundo Roca, a canção foi a primeira a citar o Pantanal pelo nome.[^cgn2025a]
 
@@ -61,7 +61,7 @@ Em 2024, a DJ [[nathalia-albuquerque|Nathalia Albuquerque]] e [[jay-jenner|Jay J
 
 ## Reconhecimento
 
-A canção é descrita de várias formas como símbolo do estado. O Campo Grande News a trata como um dos hinos de Mato Grosso do Sul,[^cgn2025b] e a Rádio Senado como o hino não oficial do estado.[^senado2017] O pesquisador Flávio Faccioni também a considera hino não oficial, segundo a UFMS.[^ufms2020] Para o pesquisador José Octávio Guizzo, citado pelo Dicionário Cravo Albin, é uma espécie de hino da música popular urbana moderna do estado.[^cravo] A Crítica de Campo Grande a chama de marco da música regional e de patrimônio afetivo e cultural da música brasileira.[^acritica2026]
+A canção é descrita de várias formas como símbolo do estado. O Campo Grande News a trata como um dos hinos de Mato Grosso do Sul,[^cgn2025b] e a Rádio Senado como o hino não oficial do estado.[^senado2017] O pesquisador Flávio Faccioni também a considera hino não oficial, segundo a [[ufms|UFMS]].[^ufms2020] Para o pesquisador José Octávio Guizzo, citado pelo Dicionário Cravo Albin, é uma espécie de hino da música popular urbana moderna do estado.[^cravo] A Crítica de Campo Grande a chama de marco da música regional e de patrimônio afetivo e cultural da música brasileira.[^acritica2026]
 
 ## Apresentações recentes
 

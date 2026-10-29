@@ -73,11 +73,11 @@ Os números da discografia da dupla divergem. O Correio do Estado e o Campo Gran
 
 - [Délio e Delinha, no Recanto Caipira](https://www.recantocaipira.com.br/duplas/delio_delinha/delio_delinha.html) — biografia e lista de discos da dupla.
 
-[^cde2022]: Rodrigo Almeida, ["Dama do Rasqueado, cantora Delinha morre aos 85 anos em Campo Grande"](https://correiodoestado.com.br/cidades/dama-do-rasqueado-cantora-delinha-morre-aos-85-anos-em-campo-grande/401352/), *Correio do Estado*, 16 jun. 2022.
-[^dc2022]: ["Morre Delinha, a 'Dama do Rasqueado'"](https://www.diarionline.com.br/?s=noticia&id=131905), *Diário Corumbaense*, 16 jun. 2022 (matéria atribuída ao Campo Grande News).
-[^msn2022]: Tero Queiroz, ["Morre cantora Delinha, aos 85 anos"](https://www.msnoticias.com.br/editorias/geral-ms-noticias/morre-cantora-delinha-aos-85-anos/137350/), *MS Notícias*, 16 jun. 2022.
-[^rc]: Sandra Cristina Peripato, ["Délio e Delinha"](https://www.recantocaipira.com.br/duplas/delio_delinha/delio_delinha.html), *Recanto Caipira*, sem data.
-[^gms2020]: ["Délio e Delinha"](https://glossariomusicasms.wordpress.com/delio-e-delinha/), *Glossário da Música Sul-Mato-Grossense*, sem autor e sem data.
-[^cde2010]: Scheila Canto, ["Cantor e compositor Délio morre na Capital"](http://correiodoestado.com.br/cidades/cantor-e-compositor-delio-morre-na-capital/1208/), *Correio do Estado*, 9 fev. 2010.
-[^tdms2013]: Hosana de Lourdes, ["Biografia da cantora Delinha é prestigiada pelo prefeito Maurílio, primeira-dama Leila e amigos de Maracaju"](https://www.tudodoms.com.br/m/noticia/47778/briografia-da-cantora-delinha-e-prestigiada-pelo-prefeito-maurilio-primeira-dama-leila-e-amigos-de-maracaju), *Tudo do MS*, 9 nov. 2013.
-[^jne2017]: Daniele Silva, ["Longa de MS 'A Dama do Rasqueado' é vencedor da Mostra Nacional do Sesc"](https://jnediario.com.br/longa-de-ms-a-dama-do-rasqueado-e-vencedor-da-mostra-nacional-do-sesc/), *Jornal Notícias do Estado*, 14 jul. 2017.
+[^cde2022]: Rodrigo Almeida, ["Dama do Rasqueado, cantora Delinha morre aos 85 anos em Campo Grande"](https://correiodoestado.com.br/cidades/dama-do-rasqueado-cantora-delinha-morre-aos-85-anos-em-campo-grande/401352/), *Correio do Estado*, 16 jun. 2022. Acesso em 29 out. 2026.
+[^dc2022]: ["Morre Delinha, a 'Dama do Rasqueado'"](https://www.diarionline.com.br/?s=noticia&id=131905), *Diário Corumbaense*, 16 jun. 2022 (matéria atribuída ao Campo Grande News). Acesso em 29 out. 2026.
+[^msn2022]: Tero Queiroz, ["Morre cantora Delinha, aos 85 anos"](https://www.msnoticias.com.br/editorias/geral-ms-noticias/morre-cantora-delinha-aos-85-anos/137350/), *MS Notícias*, 16 jun. 2022. Acesso em 29 out. 2026.
+[^rc]: Sandra Cristina Peripato, ["Délio e Delinha"](https://www.recantocaipira.com.br/duplas/delio_delinha/delio_delinha.html), *Recanto Caipira*, sem data. Acesso em 29 out. 2026.
+[^gms2020]: ["Délio e Delinha"](https://glossariomusicasms.wordpress.com/delio-e-delinha/), *Glossário da Música Sul-Mato-Grossense*, sem autor e sem data. Acesso em 29 out. 2026.
+[^cde2010]: Scheila Canto, ["Cantor e compositor Délio morre na Capital"](http://correiodoestado.com.br/cidades/cantor-e-compositor-delio-morre-na-capital/1208/), *Correio do Estado*, 9 fev. 2010. Acesso em 29 out. 2026.
+[^tdms2013]: Hosana de Lourdes, ["Biografia da cantora Delinha é prestigiada pelo prefeito Maurílio, primeira-dama Leila e amigos de Maracaju"](https://www.tudodoms.com.br/m/noticia/47778/briografia-da-cantora-delinha-e-prestigiada-pelo-prefeito-maurilio-primeira-dama-leila-e-amigos-de-maracaju), *Tudo do MS*, 9 nov. 2013. Acesso em 29 out. 2026.
+[^jne2017]: Daniele Silva, ["Longa de MS 'A Dama do Rasqueado' é vencedor da Mostra Nacional do Sesc"](https://jnediario.com.br/longa-de-ms-a-dama-do-rasqueado-e-vencedor-da-mostra-nacional-do-sesc/), *Jornal Notícias do Estado*, 14 jul. 2017. Acesso em 29 out. 2026.
