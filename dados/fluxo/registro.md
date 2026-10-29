@@ -37,3 +37,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-29T05:53Z | redator | almir-sater | concluída | US$ 0.15 | modelo claude-sonnet-5-5
 2026-10-29T05:53Z | redator | fundacao-de-cultura-de-ms | concluída | US$ 0.11 | modelo claude-sonnet-5-5
 2026-10-29T05:54Z | fechamento | fechamento | concluída | US$ 2.43 | modelo claude-opus-5-5
+2026-10-29T12:59Z | pesquisador | renato-teixeira | concluída | US$ 0.56 | modelo claude-sonnet-5-5
