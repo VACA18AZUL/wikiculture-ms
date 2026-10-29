@@ -32,7 +32,7 @@ saida="saida-$papel${id:+-$id}.json"
 # repositório e os comandos de conferência. Nada de push aqui: quem envia é enviar.sh.
 FERRAMENTAS=(
   Read Write Edit Glob Grep Agent WebFetch WebSearch
-  "Bash(npm run conferir)" "Bash(npm run build)" "Bash(node scripts/fila.mjs:*)"
+  "Bash(npm run:*)" "Bash(node scripts/fila.mjs:*)"
   "Bash(node scripts/integrar-propostas.mjs:*)" "Bash(node scripts/ligacoes.mjs:*)" "Bash(node scripts/conferir.mjs:*)"
   "Bash(scripts/empacotar-lote.sh:*)" "Bash(git status:*)" "Bash(git diff:*)"
   "Bash(git log:*)" "Bash(git show:*)" "Bash(git ls-files:*)" "Bash(git checkout:*)"
