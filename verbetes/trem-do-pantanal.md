@@ -15,7 +15,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Trem do Pantanal** é uma canção de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]], composta em 1975 durante uma viagem de trem. A imprensa a descreve como uma das músicas mais simbólicas da cultura de Mato Grosso do Sul.[^acritica2026] Ficou conhecida na voz de [[almir-sater|Almir Sater]].[^ce2024]
+**Trem do Pantanal** é uma canção de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]], composta em 1975 durante uma viagem de trem. A Crítica de Campo Grande a trata como "uma das músicas mais simbólicas" da cultura sul-mato-grossense.[^acritica2026] Ficou conhecida na voz de [[almir-sater|Almir Sater]].[^ce2024]
 
 ## Origem
 
@@ -33,7 +33,7 @@ Há duas versões para o título original. Roca disse, em entrevista de 2012 ao 
 
 ## Letra e interpretações
 
-Em entrevista publicada no Overmundo em 2007, Roca rejeitou a leitura da canção como peça ecológica ou elegia ao Pantanal. Descreveu-a como canção de um proscrito que foge de uma ditadura, inspirada em um amigo que fez o percurso até Santa Cruz de la Sierra depois da repressão a uma célula do chamado Partidão. A letra se refere ao trem que saía de Bauru (SP), passava por Campo Grande e Corumbá e seguia para a Bolívia. Sobre a associação do personagem a Che Guevara, Roca disse que ela até caberia, mas que ele e Simões não tinham consciência disso na época.[^overmundo]
+Em entrevista publicada no Overmundo em 2007, Roca rejeitou a leitura da canção como peça ecológica ou elegia ao Pantanal. Descreveu-a como canção de um proscrito que foge de uma ditadura, inspirada em um amigo que fez o percurso até Santa Cruz de la Sierra depois da repressão a uma célula do chamado Partidão. Segundo o texto da entrevista, a letra se refere ao trem que saía de Bauru (SP), passava por Campo Grande e Corumbá e seguia para a Bolívia. Sobre a associação do personagem a Che Guevara, Roca disse que ela até caberia, mas que ele e Simões não tinham consciência disso na época.[^overmundo]
 
 A letra é objeto de pesquisa acadêmica. Flávio Zancheta Faccioni analisou a canção pela análise do discurso, a partir da letra e de uma entrevista com Simões de junho de 2019. O resumo do trabalho diz que o texto combina itens de formações discursivas bélicas com ideais de liberdade.[^faccioni2023] Arlinda Cantero Dorsa usou a canção como texto-base de uma análise intertextual e interdiscursiva de letras de músicas do sul do Pantanal, publicada na revista *InterMeio*, da [[ufms|UFMS]].[^dorsa]
 
@@ -65,7 +65,7 @@ A canção é descrita de várias formas como símbolo do estado. O Campo Grande
 
 ## Apresentações recentes
 
-O show [[trem-do-pantanal-50-anos|*Trem do Pantanal | 50 Anos*]], de Simões, estava marcado, segundo matéria de 10 de abril de 2026, para 16 de abril, às 19h, no [[sesc-teatro-prosa|Sesc Teatro Prosa]], em Campo Grande, com entrada gratuita e banda de músicos do estado. O show abre uma retrospectiva da carreira e antecipa um álbum ao vivo previsto para 2026. A matéria diz que o público teria acesso a uma versão inédita da canção, gravada ao vivo em 2023 no [[estacao-cultural-teatro-do-mundo|Teatro do Mundo]]. Por ser anterior ao evento, a matéria não confirma que ele ocorreu.[^acritica2026]
+O show [[trem-do-pantanal-50-anos|*Trem do Pantanal | 50 Anos*]], de Simões, estava marcado, segundo matéria de 10 de abril de 2026, para 16 de abril, às 19h, no [[sesc-teatro-prosa|Sesc Teatro Prosa]], em Campo Grande, com entrada gratuita e banda de músicos do estado. Segundo a matéria, o show abriria uma retrospectiva da carreira e antecederia um álbum ao vivo previsto para 2026. A matéria diz que o público teria acesso a uma versão inédita da canção, gravada ao vivo em 2023 no [[estacao-cultural-teatro-do-mundo|Teatro do Mundo]]. Por ser anterior ao evento, a matéria não confirma que ele ocorreu.[^acritica2026]
 
 ## Para saber mais
 
