@@ -143,4 +143,5 @@ Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e 
 
 - Entrou: trajetória (Unesco, Xarabanda, AMP, residências), Crianceiras (2011, 2012, 2018, 2022, 2024, 2026), Hermanos Irmãos, Música Poética, shows Ilumini e Do Litoral Central.
 - Ficou de fora: local do show de 2019 (nome ligado a vida familiar), ficha técnica detalhada, Catraca Livre, cidade natal (sem fonte), horários e ingressos.
+- Devolução (P1): eventos antes narrados no passado (2026, dez. 2022, set. 2024, lançamento de 2022, Música Poética 2025) agora aparecem como anunciados pelas matérias, sem confirmar realização. Nota cgn2012multi acrescentada à indicação ao prêmio; removidos o link sesc-teatro-prosa (identidade não confirmada) e a palavra "coletivo".
 - Atenção: WebFetch devolveu 403 nas fontes do Campo Grande News nesta rodada; o texto foi escrito a partir do dossiê, sem releitura.
