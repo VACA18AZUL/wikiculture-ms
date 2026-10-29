@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 triada nas sete áreas entre 27 e 28/10/2026 (351 linhas na lista-mestra), aguardando sua revisão: cortar, acrescentar e reordenar. Fase 2 (piloto de 35 rascunhos, 5 por área) redigida em 29/10/2026 e enviada em quatro PRs empilhados (lotes 1 a 4), aguardando revisão: verbetes ficam em `rascunho` até você revisar. Próxima: Fase 3 (expansão por área, até 10 verbetes por PR), que depende das decisões em aberto abaixo.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 triada nas sete áreas (361 linhas na lista-mestra). Fase 2 (piloto de 35 rascunhos, PRs #77 a #80) e Fase 3 (todas as prioridades: 295 rascunhos em 36 PRs, #82 a #93 e #95 a #118) redigidas em 29/10/2026 e enviadas, todas em `rascunho`, aguardando sua revisão. Uma integração local de todos os PRs (334 verbetes) passou em `conferir` e `build` sem conflitos de arquivo. Próximas: revisão humana por lote (`rascunho` para `revisado`), Fase 4 e Fase 5, que dependem das decisões em aberto abaixo.
 
 ## Decisão central
 
@@ -95,3 +95,24 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 - Domínio próprio ou endereço do GitHub Pages.
 - Canal de correção para quem não usa GitHub (formulário ou e-mail), previsto para a Fase 5.
 - Critério de inclusão: quem entra e quem fica fora (tempo de atuação, premiações, registro em fonte pública).
+
+
+## Pendências após o merge dos PRs da Fase 2 e da Fase 3
+
+Quando os PRs forem mesclados em `main`, o `npm run conferir` avisa que faltam linhas de Filmografia. Adicionar, com a nota de fonte de cada obra:
+
+- `dannon-lacerda`: *As Marias* (`[[as-marias|As Marias]]`, direção).
+- `casa-de-cinema-de-aquidauana`: *As Quatro Estações da Juventude* (produção); `essi-rafael` também deve listá-lo.
+- `jerry-espindola`: *A Dama do Rasqueado, Delinha* (produção).
+- `gilmar-galache`: *Jepea'yta – A lenha principal* (direção).
+- `fabiana-fernandes`: *Kuña Porã* (direção).
+- `irmaos-lahdo`: *Paralelos Trágicos* (realização).
+
+Outras pendências:
+
+- Trocar a base dos PRs para `main` depois do merge do #75.
+- Verbetes com escopo duvidoso para decidir: `heitor-ferreira-lima`, `geni-nunez`, `ney-matogrosso` (fonte prévia, superficial), `curso-de-audiovisual-da-ufms` (sem fonte sobre criação) e `conjunto-ponta-pora` (vínculo com MS frágil).
+- Conferência com a Wikipédia: só os verbetes que têm link `wikipedia` foram marcados na lista-mestra; os demais seguem "a conferir" (a API da Wikipédia limitou as consultas).
+- `kohixoti-kipae` usa `links` com `tipo: outro` e `rotulo`; conferir se o esquema aceita o campo.
+- Verbetes que dependem só de Moser/Sá Rosa (fonte secundária) ou só de descrições do canal Memória Fonográfica merecem segunda fonte.
+- O `conferir` ainda não valida o YAML do cabeçalho; quatro verbetes com `:` sem aspas quebraram o build na integração e foram corrigidos. Vale incluir essa checagem no script.
