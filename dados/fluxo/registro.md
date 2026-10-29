@@ -47,3 +47,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-29T13:08Z | redator | moinho-cultural | concluída | US$ 0.65 | modelo claude-sonnet-5-5
 2026-10-29T13:08Z | redator | trem-do-pantanal | concluída | US$ 0.76 | modelo claude-sonnet-5-5
 2026-10-29T13:13Z | fechamento | fechamento | concluída | US$ 4.85 | modelo claude-opus-5-5
+2026-10-29T20:17Z | pesquisador | marcia-rolon | concluída | US$ 0.25 | modelo claude-sonnet-5-5
