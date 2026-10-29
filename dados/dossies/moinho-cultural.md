@@ -149,6 +149,25 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 ## Uso no verbete
 
-Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
+Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê. Todas as fontes de "Fontes abertas" foram reabertas em 29/10/2026 antes de escrever (exceto a dissertação da UFMS e o PDF da UNIR, que seguem fora).
 
--
+**Entrou:** origem (2004, 2002 e 2011, as três versões com fonte); sede e comodato (opovo2025, marcado como coluna); ciclo de formação, atividades, ingresso, cidades e números de atendimento sempre com ano; Cia. de Dança do Pantanal, Ocamp, OSB, Vale Música, Instituto Cultural Vale; Paris 2022, concertos no Rio (dez. 2022), Guadakan, Moinho In Concert, carnaval 2023, United Dance 2025, Joinville 2026, Melhores ONGs; prêmios de 2007, 2010 e Voa 2019; rede do Pontão e Amigos do Moinho (só site oficial, dito no texto). Links: site, Facebook (título da página "Moinho Cultural | Corumbá MS", linkado pelo site) e YouTube ("Moinho Cultural - Oficial", linkado pelo site) e Wikipédia.
+
+**Ajustes em relação ao dossiê:**
+- Regência de Guadakan: o Correio do Estado cita Martinelli e José Maikon sem atribuir claramente a regência; o verbete não atribui regência a ninguém. A Agência Brasil (ab2023) não cita José Maikon; a relação formou-se-com passou a usar o Correio do Estado como fonte.
+- Márcia Rolon como "diretora-executiva": mantida para cgn2022paris e folhams2019; a segunda ocorrência do dossiê (correio2022, cgn2023carnaval) também a dá assim, mas foi citada só onde necessário.
+- Direção artística de Rolon em 2026 (acritica2026aud) ficou subentendida; o texto diz "fundadora" para essa fonte.
+- "Cursos de geração de renda para mães" [bf]: a página fala em projetos de geração de renda para mães; a frase não entrou. Entrou a geração de renda para famílias, da Folha MS.
+- Link da BrazilFoundation: o endereço ?p=18174 redireciona para /en/project/instituto-moinho-cultural-sul-americano-2/; usei o final.
+
+**Ficou de fora:**
+- Instagram: o perfil devolveu erro 429 e não foi aberto; não entra em `links`.
+- Dissertação UFMS, texto completo da UNIR, Wikipédia como fonte: não lidos ou não servem de nota.
+- Prêmio Rodrigo Melo Franco de Andrade 2007, finalista Itaú-Unicef 2013, "+Criança na Rio+20", Concurso do Porto: sem fonte aberta.
+- Grupo Ubu / turnê "Escambo UBU": matéria não aberta.
+- Dados do edital de ingresso (documentos exigidos), valores de ingresso do samba, endereço do Centro de Convenções: sem relevância ou dado de endereço.
+- Tempo de existência (18, 21, 22 anos): não virou divergência no texto; as datas das matérias bastam.
+- Grupo J. Macêdo, Fundação Dias Macêdo, BrazilFoundation, Ambev: citados sem link, por serem empresas e financiadoras.
+- Duplicata `instituto-moinho-cultural-sul-americano` na lista-mestra (linha 205) segue para o garimpeiro; há relação em relacoes-marcio-de-camillo.csv usando esse id.
+
+**Nomes novos propostos** (`dados/propostas/nomes-moinho-cultural.csv`): beatriz-de-almeida, luiz-gugliatto, grupo-vozes-especiais, sociedade-comunitaria-gibiteca, fundacao-nelito-camara, grupo-tez. Relações novas em `dados/propostas/relacoes-moinho-cultural.csv`.
