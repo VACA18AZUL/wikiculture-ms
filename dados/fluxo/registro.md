@@ -22,3 +22,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-29T00:02Z | pesquisador | fulano-di-tal | concluída | US$ 0.60 | modelo claude-sonnet-5-5
 2026-10-29T00:02Z | garimpeiro | garimpeiro | concluída | US$ 1.03 | modelo claude-sonnet-5-5
 2026-10-29T00:02Z | pesquisador | geraldo-roca | concluída | US$ 0.70 | modelo claude-sonnet-5-5
+2026-10-29T00:09Z | redator | marco | concluída | US$ 0.03 | modelo claude-sonnet-5-5
