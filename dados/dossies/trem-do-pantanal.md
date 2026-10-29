@@ -173,4 +173,35 @@ Pistas sem fonte aberta que as sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
-- 
+Verbete: `verbetes/trem-do-pantanal.md` (14 fontes: cgn2025a, cgn2025b, cgn2022, cgn2016, cgn2012, acritica2026, ce2024, senado2017, ufms2020, overmundo, cravo, faccioni2023, dorsa, slipcue). Todos os links foram reabertos nesta sessão antes de entrar nas notas.
+
+**Entrou**
+- Autoria, 1975, viagem de trem, relatos de Roca e Simões sobre o começo da composição, com as divergências (Aquidauana/Camisão, Miranda, Corumbá, cabine; 15 minutos x meia hora; Machu Picchu x Santa Cruz de la Sierra; pinturas cusquenhas x quadro peruano).
+- Título original: duas versões, de cgn2025a e ufms2020 (ver correção abaixo).
+- Leitura de Roca sobre a letra [overmundo]; existência de análises acadêmicas [faccioni2023, dorsa], só pelo resumo.
+- Fesul 1980, festival não nomeado e Teatro Tablado [cgn2025b, cgn2012]; show de São Paulo em 1990 [cgn2025a].
+- Gravações: Diana Pequeno (1981 x 1982), Almir Sater (1982), Bando do Velho Jack, Renato Teixeira (não gravou), Luan Santana e Michel Teló, Hermanos Irmãos (2016 e 2022), remix de 2024, versão ao vivo de 2023; contagem 57 x mais de 100.
+- Reconhecimento como hino, com as atribuições de cada fonte; show de 2026.
+- Ficha: Autor, Ano, Formato. Link `wikipedia` (página aberta e com referências, só leitura complementar).
+
+**Correções ao dossiê, feitas ao reabrir as fontes**
+- cgn2025a traz, sim, o título inicial dado por Roca: "Todos os trilhos da terra" (o dossiê dizia que a matéria não o dava). Overmundo não explica o título; "Todos os Trilhos da Terra" no dossiê vinha só do título da página sobre Roca, e por isso não foi usado como terceira versão.
+- senado2017 diz só que o LP *Sinal de Amor* (RCA, 1981) de Diana Pequeno traz a canção; não diz "primeira gravação". O "pioneira" vem de cgn2025b, que data a gravação em 1982.
+- ce2016 não classifica a canção como hino (chama de hinos "Comitiva Esperança" e "Sonhos Guaranis"); cgn2012 chama de "hino de MS" sem a ressalva "não oficial" que o dossiê lhe atribuía. Nenhuma das duas entra no parágrafo de reconhecimento.
+- cgn2025a não usa "marco da música regional"; essa expressão e "patrimônio afetivo e cultural da música brasileira" são de acritica2026.
+- overmundo mostra autor (Rodrigo Teixeira) e data (14/03/2007) na página.
+
+**Ficou de fora**
+- Citação de gênero de fdc2016 e a votação de 2001, por instrução; todos os itens de "Não confirmado" (Sérgio Reis 1985, *Doma*, fim do trem de passageiros, links de vídeo).
+- fdc2016 e ce2016: não citados; não eram necessários.
+- Disco de Sater não nomeado: cgn2025b só diz "disco de estreia" (o verbete de Almir Sater, que cita o Dicionário Cravo Albin, data o primeiro disco em 1981 e *Doma* em 1982; não foi reconciliado aqui).
+- Testemunhos de Miska Thomé e Moacir Lacerda (cgn2025a): identificação de quem fala não confirmada.
+- Rodrigo Teixeira dizer que a viagem foi "tranquila": a matéria é ambígua sobre qual viagem (1975 ou 2016).
+- "Trem da Morte", idade de Roca na composição, `cgn2012b`, `Inezita Barroso`, Onésimo Filho (só como atribuição de Roca), Jorge Drexler, Grammy de Campi, Ecad: detalhe periférico, risco de erro ou fora do escopo.
+- Dados pessoais e circunstâncias da morte de Roca.
+- Livro *Prata da Casa* citado em texto simples, sem link, porque não se sabe se é o mesmo item de `prata-da-casa` na lista-mestra.
+
+**Propostas**
+- Nomes novos em `dados/propostas/nomes-trem-do-pantanal.csv`: luan-santana, michel-telo, rolando-boldrin, alex-batata. Relações em `dados/propostas/relacoes-trem-do-pantanal.csv`. As demais relações do dossiê já estão em `dados/relacoes.csv`.
+- `wikipedia_pt` da lista-mestra: https://pt.wikipedia.org/wiki/Trem_do_Pantanal_(canção) (não editei a lista-mestra).
+- Situação marcada como `rascunho` com `fila.mjs marcar`.
