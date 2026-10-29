@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Mapa de agentes e fluxo paralelo na nuvem criados em 27/10/2026 (`AGENTES.md`, `dados/fluxo/`). Garimpo de 27/10/2026: artes-plasticas, 36 nomes na lista-mestra (+30). Próxima: ligar o ciclo automático (`AGENTES_LIGADOS`) e, em paralelo, o Helton revisar a lista-mestra na branch `producao`.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 triada nas sete áreas (361 linhas na lista-mestra). Fase 2 (piloto de 35 rascunhos, PRs #77 a #80) e Fase 3 (todas as prioridades: 295 rascunhos em 36 PRs, #82 a #93 e #95 a #118) redigidas em 29/10/2026 e enviadas, todas em `rascunho`, aguardando sua revisão. Uma integração local de todos os PRs (334 verbetes) passou em `conferir` e `build` sem conflitos de arquivo. Próximas: revisão humana por lote (`rascunho` para `revisado`), Fase 4 e Fase 5, que dependem das decisões em aberto abaixo. Mapa de agentes e fluxo paralelo na nuvem criados em 27/10/2026 (`AGENTES.md`, `dados/fluxo/`); o garimpo automático de 27/10/2026 acrescentou 16 nomes de artes plásticas à lista-mestra (361 + 16 = 377 linhas). Próxima: ligar o ciclo automático (`AGENTES_LIGADOS`) e, em paralelo, o Helton revisar a lista-mestra na branch `producao`.
 
 ## Decisão central
 
@@ -14,7 +14,10 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 - Um arquivo Markdown por verbete, com ficha estruturada no topo. Modelo em `modelos/verbete.md`.
 - Cinco tipos de verbete: pessoa, grupo ou coletivo, obra ou produção, espaço ou instituição, evento ou festival.
 - Navegação tipo Wikipedia: links internos `[[...]]`, "páginas que apontam para cá", páginas por área e por cidade, busca, caixa lateral e lista de verbetes desejados.
-- `npm run conferir` verifica as regras editoriais e roda antes de cada publicação.
+- Seções de obra por área: Discografia (música), Espetáculos (teatro, dança e circo), Filmografia (audiovisual, atores e técnicos) e Videografia (videoclipes, registros de shows e espetáculos, documentários; qualquer área). Cada item tem fonte própria e, quando existir, link para escuta ou vídeo no canal oficial ou nos canais de acervo aceitos (Memória Fonográfica de MS e Vaca Azul).
+- Produções audiovisuais têm Ficha técnica com a equipe ligada por `[[...]]`. O link da produção se repete na Filmografia ou Videografia de cada integrante com verbete, e o `conferir` avisa o que falta.
+- Campo `links` na ficha para site oficial, portfólio e perfis (Instagram, YouTube, Spotify, Vimeo etc.). Aparece como "Ligações externas" no fim da página.
+- `npm run conferir` verifica as regras editoriais e roda antes de cada publicação. `npm run links` testa links quebrados; depende de rede e roda só no computador, antes de cada lote.
 
 ## Regras editoriais
 
@@ -30,7 +33,7 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 | Fase | Entrega | Marco | Situação |
 |---|---|---|---|
 | 0. Fundação | Estrutura, modelo de ficha, verbetes-modelo, publicação automática | Navegação funcionando | Concluída |
-| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | A fazer |
+| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | Triagem feita nas 7 áreas; aguarda revisão |
 | 2. Piloto | 35 verbetes completos (5 por área), revisados | Padrão de qualidade validado | A fazer |
 | 3. Expansão | Lotes por área, um pull request por lote | Cobertura da lista-mestra | A fazer |
 | 4. Design | Identidade visual aplicada sobre o conteúdo pronto | Lançamento público | A fazer |
@@ -41,9 +44,13 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 ### Fase 1 em passos
 
 1. Uma área por sessão, na ordem: artes plásticas, música, teatro, dança, literatura, audiovisual, circo.
-2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade. Relações entre nomes (integrou, fundou, expôs em...) vão em `dados/relacoes.csv`, com fonte; são elas que viram links entre verbetes nas fases 2 e 3.
+2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade, e link do artigo na Wikipédia (pt), se houver. Relações entre nomes (integrou, fundou, expôs em...) vão em `dados/relacoes.csv`, com fonte; são elas que viram links entre verbetes nas fases 2 e 3.
 3. Prioridade alta: quem aparece em duas ou mais fontes independentes, ou em fonte acadêmica.
 4. Não redigir verbetes nesta fase.
+   - Várias fontes para um nome: separe por `;` em `fonte_de_origem` e em `url_fonte`.
+   - Prioridade **alta**: fonte acadêmica que trata do nome com substância, ou duas ou mais fontes distintas com ao menos uma em profundidade (obituário, perfil, mostra individual, premiação). **Média**: uma fonte, ou citação em lista. **Baixa**: ligação com MS pouco clara ou item periférico.
+   - Nome citado sem ligação com MS confirmada pela fonte não entra; fica em `observacoes` do item relacionado.
+   - Ao registrar, anote em `observacoes` a divergência entre fontes e se a leitura foi feita por subagente.
 5. Ao fim de cada área, você revisa a lista: corta, acrescenta e reordena.
 
 ### Tamanho de lote na Fase 3
@@ -67,6 +74,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 | Lado B (Campo Grande News) | Cobertura cultural contínua; datas e estreias | https://www.campograndenews.com.br/lado-b |
 | Correio B (Correio do Estado) | Cobertura cultural contínua | https://correiodoestado.com.br/correio-b |
 | Enciclopédia Itaú Cultural | Verbetes nacionais já consolidados | https://enciclopedia.itaucultural.org.br |
+| Wikipédia (pt) | Conferência cruzada e lista de links para verificar; não é citável no verbete | https://pt.wikipedia.org |
 
 ### A confirmar na Fase 1
 
@@ -87,3 +95,24 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 - Domínio próprio ou endereço do GitHub Pages.
 - Canal de correção para quem não usa GitHub (formulário ou e-mail), previsto para a Fase 5.
 - Critério de inclusão: quem entra e quem fica fora (tempo de atuação, premiações, registro em fonte pública).
+
+
+## Pendências após o merge dos PRs da Fase 2 e da Fase 3
+
+Quando os PRs forem mesclados em `main`, o `npm run conferir` avisa que faltam linhas de Filmografia. Adicionar, com a nota de fonte de cada obra:
+
+- `dannon-lacerda`: *As Marias* (`[[as-marias|As Marias]]`, direção).
+- `casa-de-cinema-de-aquidauana`: *As Quatro Estações da Juventude* (produção); `essi-rafael` também deve listá-lo.
+- `jerry-espindola`: *A Dama do Rasqueado, Delinha* (produção).
+- `gilmar-galache`: *Jepea'yta – A lenha principal* (direção).
+- `fabiana-fernandes`: *Kuña Porã* (direção).
+- `irmaos-lahdo`: *Paralelos Trágicos* (realização).
+
+Outras pendências:
+
+- Trocar a base dos PRs para `main` depois do merge do #75.
+- Verbetes com escopo duvidoso para decidir: `heitor-ferreira-lima`, `geni-nunez`, `ney-matogrosso` (fonte prévia, superficial), `curso-de-audiovisual-da-ufms` (sem fonte sobre criação) e `conjunto-ponta-pora` (vínculo com MS frágil).
+- Conferência com a Wikipédia: só os verbetes que têm link `wikipedia` foram marcados na lista-mestra; os demais seguem "a conferir" (a API da Wikipédia limitou as consultas).
+- `kohixoti-kipae` usa `links` com `tipo: outro` e `rotulo`; conferir se o esquema aceita o campo.
+- Verbetes que dependem só de Moser/Sá Rosa (fonte secundária) ou só de descrições do canal Memória Fonográfica merecem segunda fonte.
+- O `conferir` ainda não valida o YAML do cabeçalho; quatro verbetes com `:` sem aspas quebraram o build na integração e foram corrigidos. Vale incluir essa checagem no script.

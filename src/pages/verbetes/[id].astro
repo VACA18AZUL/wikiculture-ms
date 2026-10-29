@@ -2,6 +2,7 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import { AREAS, TIPOS, REPO, todos, citados, slug, url } from '../../lib/site';
+import { TIPOS_LINK } from '../../lib/links.mjs';
 
 export async function getStaticPaths() {
   const verbetes = await todos();
@@ -18,7 +19,9 @@ const { verbete, apontam } = Astro.props;
 const { Content } = await render(verbete);
 const d = verbete.data;
 const data = d.atualizado.toLocaleDateString('pt-BR', { timeZone: 'UTC' });
-const correcao = `${REPO}/issues/new?title=${encodeURIComponent('Correção: ' + d.titulo)}`;
+const ordem = Object.keys(TIPOS_LINK);
+const links = [...(d.links ?? [])].sort((a, b) => ordem.indexOf(a.tipo) - ordem.indexOf(b.tipo));
+const correcao =`${REPO}/issues/new?title=${encodeURIComponent('Correção: ' + d.titulo)}`;
 ---
 <Base titulo={d.titulo} descricao={d.resumo}>
   <h1>{d.titulo}</h1>
@@ -55,6 +58,17 @@ const correcao = `${REPO}/issues/new?title=${encodeURIComponent('Correção: ' +
   <div class="conteudo">
     <Content />
   </div>
+
+  {links.length > 0 && (
+    <section class="links">
+      <h2 class="secao">Ligações externas</h2>
+      <ul>
+        {links.map((l) => (
+          <li><a href={l.url} rel="noopener">{l.rotulo ?? TIPOS_LINK[l.tipo].rotulo}</a></li>
+        ))}
+      </ul>
+    </section>
+  )}
 
   {apontam.length > 0 && (
     <div class="caixa">
