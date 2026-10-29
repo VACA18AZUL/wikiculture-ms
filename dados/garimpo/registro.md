@@ -19,3 +19,5 @@ Uma linha por evento, em ordem. Formato:
 2026-10-29 06:05 | literatura | concluída | rodada 5 | +30 nomes, +58 relações | sem commit a pedido; PDFs (UEMS, UFMS, Philologus) sem extração de texto; Midiamax 403; Itaú Cultural, Mapas, editais e Acervo Glorinha pendentes
 2026-10-29 13:00 | audiovisual | em andamento | rodada 6
 2026-10-29 13:40 | audiovisual | concluída | rodada 6 | +30 nomes, +65 relações | sem commit a pedido; PDFs Diehl (UFMS) e Corrêa (UFGD) não abriram; Itaú Cultural, Mapas, editais pendentes
+2026-10-29 20:18 | circo | em andamento | rodada 7
+2026-10-29 21:10 | circo | concluída | rodada 7 | +30 nomes, +63 relações | sem commit a pedido; dissertação UFU (Dourados) não abriu como texto; BDTD, repositórios, Mapas, Itaú Cultural e editais pendentes
