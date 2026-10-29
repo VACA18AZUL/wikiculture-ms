@@ -13,3 +13,5 @@ Uma linha por evento, em ordem. Formato:
 2026-10-28 16:30 | musica | concluída | rodada 2 | +30 nomes, +45 relações | sem commit a pedido; PDFs acadêmicos não abriram; Itaú Cultural, Mapas e editais pendentes
 2026-10-28 22:35 | teatro | em andamento | rodada 3
 2026-10-28 23:30 | teatro | concluída | rodada 3 | +30 nomes, +29 relações | sem commit a pedido; PDFs UEMS e UFMS não abriram; Itaú Cultural, Mapas e editais pendentes
+2026-10-29 00:02 | danca | em andamento | rodada 4
+2026-10-29 00:40 | danca | concluída | rodada 4 | +30 nomes, +45 relações | sem commit a pedido; PDF UCDB não abriu; Itaú Cultural, Mapas, repositórios e editais pendentes

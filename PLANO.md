@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Mapa de agentes e fluxo paralelo na nuvem criados em 27/10/2026 (`AGENTES.md`, `dados/fluxo/`). Garimpo de 27/10/2026: artes-plasticas, 36 nomes na lista-mestra (+30). Garimpo de 28/10/2026: musica, 66 nomes na lista-mestra (+30). Garimpo de 28/10/2026: teatro, 96 nomes na lista-mestra (+30). Fechamento de 28/10/2026: 120 nomes na lista-mestra (112 a-pesquisar, 1 dossie, 7 devolvido, 0 pronto-para-lote); 7 verbetes revisados e todos devolvidos ao redator; nenhum lote aberto aguardando o Helton. Próxima: ligar o ciclo automático (`AGENTES_LIGADOS`) e, em paralelo, o Helton revisar a lista-mestra na branch `producao`.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Mapa de agentes e fluxo paralelo na nuvem criados em 27/10/2026 (`AGENTES.md`, `dados/fluxo/`). Garimpo de 27/10/2026: artes-plasticas, 36 nomes na lista-mestra (+30). Garimpo de 28/10/2026: musica, 66 nomes na lista-mestra (+30). Garimpo de 28/10/2026: teatro, 96 nomes na lista-mestra (+30). Fechamento de 28/10/2026: 120 nomes na lista-mestra (112 a-pesquisar, 1 dossie, 7 devolvido, 0 pronto-para-lote); 7 verbetes revisados e todos devolvidos ao redator; nenhum lote aberto aguardando o Helton. Garimpo de 29/10/2026: danca, 150 nomes na lista-mestra (+30). Próxima: ligar o ciclo automático (`AGENTES_LIGADOS`) e, em paralelo, o Helton revisar a lista-mestra na branch `producao`.
 
 ## Decisão central
 

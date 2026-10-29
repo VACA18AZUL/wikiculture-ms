@@ -3,9 +3,53 @@
 Situação: em-andamento
 
 ## Fontes já varridas
+- Correio B, acervo digital de Sarah Abussafi (https://correiodoestado.com.br/correio-b/acervo-digital-de-mato-grosso-do-sul-preserva-legado-de-sarah-abussafi/467620/), rodada 4
+- Correio B, Prêmio Onça Pintada 2019 (https://correiodoestado.com.br/correio-b/premio-onca-pintada-reune-diversos-grupos-de-danca-da-capital/359942/), rodada 4
+- Campo Grande News (Lado B): Chico Neller, Cia do Mato 20 anos, Chafica, Omolú/Ginga, Semana pra Dança 2024, Catarina Marquesi/CIAD 2024, Cia de Dança do Pantanal (Paris, Colker), Moinho Cultural (United Dance Festival, Guadakan), Escola de Dança da UFMS, Prêmio Onça Pintada 2016, rodada 4
+- A Crítica de Campo Grande: Prêmio Onça Pintada 2026, Studio 2 em Joinville 2026, Marcos Souza (audição), rodada 4
 
 ## Expandidos
+- sarah-abussafi-figueiro
+- chico-neller (parcial: Ginga, Cia do Mato, Chafica)
+- neide-garrido (parcial)
+- marcia-rolon (parcial)
+- cia-de-danca-do-pantanal (parcial)
+- premio-onca-pintada-da-danca (edições 2016, 2019, 2026)
 
 ## Fila
+Já estão na lista-mestra, vizinhança ainda não pesquisada. Mais conectados primeiro.
+- chafica (8 relações)
+- cia-de-danca-do-pantanal (6 relações)
+- chico-neller (5 relações)
+- moinho-cultural (5 relações)
+- ginga-cia-de-danca (5 relações)
+- premio-onca-pintada-da-danca (5 relações)
+- neide-garrido (4 relações)
+- sarah-abussafi-figueiro (4 relações)
+- asmpd (3 relações)
+- studio-2 (3 relações)
+- escola-de-danca-da-ufms (3 relações)
+- cia-do-mato (2 relações)
+- diogenes-pivatto, marcia-rolon, izabelle-paiva, mariana-cavalcanti, nedem, semana-pra-danca, colegiado-estadual-de-danca-de-ms (2 a 3 relações)
+- demais pessoas e espaços da rodada 4 (1 a 2 relações)
+
+## Candidatos vistos em fonte aberta e ainda sem linha na lista-mestra
+Nomes lidos em páginas abertas; entram quando houver segunda fonte ou vínculo com MS claro.
+- Ginga, fundadores em 1986 (CGN 2012): Renata Leoni, Romano Vargas, Miriam Jimenez, Luciane Mamoré, Roberta Siqueira, Gisele, Janine Freire
+- Personagens citados pelo Correio B (2025/2026): Maria Helena Pettengill (Embrujos da España), Sandramaria Gomes
+- Comissão julgadora dos festivais (Correio B): Beth Oliosi, Toshie Kobayashi, Roseli Rodrigues, Mariana Muniz, Tony Abott, Regina Sawer, Penha de Souza, Valéria Mattos, Lourdes Bastos (vínculo com MS não informado)
+- Embrujos da España (grupo)
+- Corpo de Dança Sesc MS (A Crítica, Joinville 2026)
+- Orquestra de Câmara do Pantanal (OCAMP)
+- Espetáculos: Guadakan, Carne Quebrada, Migrantes, Omolú, Serenade, Velado, A Criação, Tempos Idos, Monólogos da Dor, Conceição de Todos os Bugres (Ginga)
+- Eventos: Festival de Dança de Joinville (nacional), United Dance Festival 2025 (Campo Grande), Festival Dança em Trânsito, CIAD 2024 (Buenos Aires), Festival da Sapatilha
+- Pessoas: Welligton Junior (coreógrafo de Janela do Dia; talvez Wellington Júlio), Rolando Candia, Frantielly Ycasat, Monica Helena, Yasmin Salame, Thayna Moura, Felipe Pires, Arnaldo Black (trilha de Chafica), Cícero Gomes (convidado do United Dance Festival, nacional)
+- Associação Arado Cultural (co-organizadora da Semana pra Dança)
 
 ## Observações
+- Fontes de PLANO.md ainda não varridas para dança: Repositório UFMS e UFGD, BDTD, Itaú Cultural, Mapas da Cultura, listas de editais (FIC, FMIC, LPG, PNAB). O PDF da dissertação UCDB (Mariana Cavalcante de Brito, 2021) abriu como página inicial da UCDB, sem conteúdo; tentar outra via (BDTD). Outras dissertações UCDB que apareceram em busca e não foram abertas: https://site.ucdb.br/public/md-dissertacoes/21327-dissertacao-amanda-ramires-guedes.pdf (possível trabalho sobre Ginga). Repositório UFMS tem trabalho sobre ensino de dança em Corumbá (não aberto).
+- Acervo da Dança Sul-Mato-Grossense: endereço do site não confirmado.
+- Matéria de conteúdo patrocinado (Neide Garrido, Ballet Isadora Duncan) precisa de fonte independente.
+- Contagem das edições do Prêmio Onça Pintada diverge entre fontes (3ª em 2016, 6ª em 2019, 7ª em 2021, 10ª em 2026).
+- Datas de fundação da Cia do Mato divergem (20 anos em 2021 na matéria aberta; 1999 em resultado de busca não aberto).
+- Rodada 4: 30 nomes novos (13 pessoas, 17 entre grupos, espaços, eventos e obras), 45 relações.

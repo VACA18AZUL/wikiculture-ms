@@ -20,3 +20,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-29T00:02Z | pesquisador | salao-de-arte-de-ms | concluída | US$ 0.39 | modelo claude-sonnet-5-5
 2026-10-29T00:02Z | pesquisador | mis-ms | concluída | US$ 0.48 | modelo claude-sonnet-5-5
 2026-10-29T00:02Z | pesquisador | fulano-di-tal | concluída | US$ 0.60 | modelo claude-sonnet-5-5
+2026-10-29T00:02Z | garimpeiro | garimpeiro | concluída | US$ 1.03 | modelo claude-sonnet-5-5
