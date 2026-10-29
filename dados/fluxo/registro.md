@@ -19,3 +19,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-28T22:42Z | fechamento | fechamento | concluída | US$ 3.23 | modelo claude-opus-5-5
 2026-10-29T00:02Z | pesquisador | salao-de-arte-de-ms | concluída | US$ 0.39 | modelo claude-sonnet-5-5
 2026-10-29T00:02Z | pesquisador | mis-ms | concluída | US$ 0.48 | modelo claude-sonnet-5-5
+2026-10-29T00:02Z | pesquisador | fulano-di-tal | concluída | US$ 0.60 | modelo claude-sonnet-5-5
