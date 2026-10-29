@@ -19,15 +19,15 @@ atualizado: 2026-10-29
 
 ### Formação
 
-Segundo o Dicionário Cravo Albin, estudou piano e acordeão na infância e, depois, banjo e violão. Aprendeu viola sozinho, ouvindo discos, e teve [[tiao-carreiro|Tião Carreiro]] como mentor. Aos 20 anos foi ao Rio de Janeiro para cursar Direito, trancou a matrícula na Faculdade Cândido Mendes e voltou a Mato Grosso.[^dmpb]
+Segundo o Dicionário Cravo Albin, estudou piano e acordeão na infância e, depois, banjo e violão. Aprendeu viola sozinho, ouvindo discos, e teve [[tiao-carreiro|Tião Carreiro]] como mentor. Aos 20 anos foi ao Rio de Janeiro para cursar Direito, interrompeu o curso, com matrícula trancada na Faculdade Cândido Mendes, e retornou a Mato Grosso.[^dmpb]
 
-O Correio do Estado conta a trajetória de outro modo. Para o jornal, o interesse pela música surgiu no antigo terceiro científico, no Rio de Janeiro. Segundo o jornal, ele cursou Direito e deixou a faculdade para se dedicar à música. Depois cursou pouco mais de um ano de Educação Física na [[ufms|Universidade Federal de Mato Grosso do Sul (UFMS)]], até se mudar para São Paulo, em 1978.[^ce2019] As duas fontes diferem quanto à extensão da formação: o Dicionário cita só o Direito, no Rio de Janeiro.[^dmpb]
+O Correio do Estado conta a trajetória de outro modo. Para o jornal, o interesse pela música surgiu no antigo terceiro científico, no Rio de Janeiro. Segundo o jornal, ele fez Direito e largou o curso para seguir na música. Em seguida passou pouco mais de um ano no curso de Educação Física da [[ufms|Universidade Federal de Mato Grosso do Sul (UFMS)]], até se mudar para São Paulo, em 1978.[^ce2019] As duas fontes diferem quanto à extensão da formação: o Dicionário cita só o Direito, no Rio de Janeiro.[^dmpb]
 
 ### Primeiros grupos e discos
 
 Formou com outra pessoa a dupla [[lupe-e-lampiao|Lupe e Lampião]]. O Correio do Estado diz que a dupla participou do Festival da Record.[^ce2019] O Dicionário afirma que ela ficou em quarto lugar no Festival Sertanejo da TV Record, em 1978.[^dmpb]
 
-Segundo o Correio do Estado, voltou a Campo Grande em 1976 e foi para São Paulo em 1978. Acompanhou o grupo [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]] e o show "Vozes e Violas", que levou ao convite para gravar o primeiro disco, de 1981.[^ce2019] O Dicionário data a ida para São Paulo e a entrada no Lírio Selvagem em 1979, e também situa o primeiro disco, pela Continental, em 1981.[^dmpb]
+Segundo o Correio do Estado, voltou a Campo Grande em 1976 e foi para São Paulo em 1978. Acompanhou o grupo [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]] e integrou o show "Vozes e Violas", que levou ao convite para gravar o primeiro disco, de 1981.[^ce2019] O Dicionário data a ida para São Paulo e a entrada no Lírio Selvagem em 1979, e também situa o primeiro disco, pela Continental, em 1981.[^dmpb]
 
 Em 1984, organizou, segundo o Dicionário, uma viagem de pesquisa por Mato Grosso, a [[comitiva-esperanca|Comitiva Esperança]]. O Dicionário diz que a viagem rendeu um documentário (1985) e um disco instrumental.[^dmpb] O Correio do Estado cita o projeto "Comitiva Esperança" em conjunto com [[paulo-simoes|Paulo Simões]] e [[ze-gomes|Zé Gomes]], sem data.[^ce2019]
 
