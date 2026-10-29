@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 triada nas sete áreas (361 linhas na lista-mestra). Fase 2 (piloto de 35 rascunhos, PRs #77 a #80) e Fase 3 (todas as prioridades: 295 rascunhos em 36 PRs, #82 a #93 e #95 a #118) redigidas em 29/10/2026 e enviadas, todas em `rascunho`, aguardando sua revisão. Uma integração local de todos os PRs (334 verbetes) passou em `conferir` e `build` sem conflitos de arquivo. Próximas: revisão humana por lote (`rascunho` para `revisado`), Fase 4 e Fase 5, que dependem das decisões em aberto abaixo.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 triada nas sete áreas (361 linhas na lista-mestra). Fase 2 (piloto de 35 rascunhos, PRs #77 a #80) e Fase 3 (todas as prioridades: 295 rascunhos em 36 PRs, #82 a #93 e #95 a #118) redigidas em 29/10/2026 e enviadas, todas em `rascunho`, aguardando sua revisão. Uma integração local de todos os PRs (334 verbetes) passou em `conferir` e `build` sem conflitos de arquivo. Próximas: revisão humana por lote (`rascunho` para `revisado`), Fase 4 e Fase 5, que dependem das decisões em aberto abaixo. Mapa de agentes e fluxo paralelo na nuvem criados em 27/10/2026 (`AGENTES.md`, `dados/fluxo/`); o garimpo automático de 27/10/2026 acrescentou 16 nomes de artes plásticas à lista-mestra (361 + 16 = 377 linhas). Próxima: ligar o ciclo automático (`AGENTES_LIGADOS`) e, em paralelo, o Helton revisar a lista-mestra na branch `producao`.
 
 ## Decisão central
 
@@ -44,7 +44,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 ### Fase 1 em passos
 
 1. Uma área por sessão, na ordem: artes plásticas, música, teatro, dança, literatura, audiovisual, circo.
-2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade, e link do artigo na Wikipédia (pt), se houver.
+2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade, e link do artigo na Wikipédia (pt), se houver. Relações entre nomes (integrou, fundou, expôs em...) vão em `dados/relacoes.csv`, com fonte; são elas que viram links entre verbetes nas fases 2 e 3.
 3. Prioridade alta: quem aparece em duas ou mais fontes independentes, ou em fonte acadêmica.
 4. Não redigir verbetes nesta fase.
    - Várias fontes para um nome: separe por `;` em `fonte_de_origem` e em `url_fonte`.

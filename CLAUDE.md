@@ -1,6 +1,6 @@
 # Instruções para agentes
 
-Este repositório é o WikiCulture MS, uma enciclopédia de agentes culturais e produções de Mato Grosso do Sul. Leia `PLANO.md` antes de qualquer tarefa: ele diz em que fase o projeto está e o que vem a seguir.
+Este repositório é o WikiCulture MS, uma enciclopédia de agentes culturais e produções de Mato Grosso do Sul. Leia `PLANO.md` antes de qualquer tarefa: ele diz em que fase o projeto está e o que vem a seguir. `AGENTES.md` diz qual agente faz cada tarefa (pesquisa, redação, links, revisão, atualização) e como eles passam trabalho um ao outro.
 
 ## Idioma e tom
 
@@ -20,7 +20,7 @@ Tudo em português do Brasil. Verbetes em tom enciclopédico: frases curtas, sem
 
 - Verbete novo: copie `modelos/verbete.md`. O nome do arquivo é o identificador (minúsculas, números, hífens, sem acentos).
 - Ligue verbetes com `[[identificador|texto]]`. Citar um verbete que ainda não existe é desejável: ele entra na página de verbetes desejados.
-- Atualize `dados/lista-mestra.csv` quando criar um verbete ou descobrir um nome novo.
+- Atualize `dados/lista-mestra.csv` quando criar um verbete ou descobrir um nome novo. Relação entre dois nomes, com fonte, vai em `dados/relacoes.csv`.
 - Conferência com a Wikipédia: antes de fechar um verbete, veja se há artigo em pt.wikipedia.org e anote o link na coluna `wikipedia_pt` da lista-mestra. A Wikipédia é lista de conferência, não fonte: um fato dela só entra no verbete com fonte aberta e lida nesta sessão. Artigo sem referências não serve de nota.
 - Resumo de busca ou de página não é leitura. Antes de escrever data, número ou título, confira no texto da fonte.
 - Divergência com a Wikipédia segue a regra de divergência de fontes: as duas versões, citadas, sem escolher. Registre a diferença em `observacoes` da lista-mestra.
@@ -31,6 +31,7 @@ Tudo em português do Brasil. Verbetes em tom enciclopédico: frases curtas, sem
 - **Ligações externas:** sites oficiais, portfólios e perfis (Instagram, YouTube, Spotify etc.) vão no campo `links` da ficha, com a data em que você abriu cada um, e não no texto. Só perfis públicos e profissionais mantidos pelo próprio artista, grupo ou instituição. Perfil pessoal, privado, de familiar ou de fã fica fora. Confirme no próprio perfil que é a pessoa certa, por exemplo pelo link para o site oficial ou pela menção da fonte. Na dúvida, não inclua e anote em `observacoes` da lista-mestra. O link da Wikipédia pode entrar em `links` como leitura complementar, mas continua sem servir de nota.
 - Remova dos links parâmetros de rastreamento (`?si=`, `?igsh=`, `utm_`). Antes de abrir um lote, rode `npm run links` para achar links quebrados. Esse comando depende de rede e não roda no GitHub. Link quebrado é trocado pela cópia no archive.org ou removido.
 - Antes de qualquer commit, rode `npm run conferir` e `npm run build`. Os dois precisam passar.
+- Rodando em paralelo com outros agentes (existe `dados/propostas/`): siga `dados/fluxo/LEIA-ME.md`. Nomes e relações novos vão para `dados/propostas/`; situação muda só com `node scripts/fila.mjs marcar`.
 - Verbetes vão em lotes de até 10 por pull request, em branch própria. Não envie verbetes direto para `main`.
 - Na descrição do pull request, liste cada verbete com as fontes usadas e aponte o que ficou incerto.
 - Ao concluir uma fase ou um lote, atualize a situação em `PLANO.md`.
