@@ -3,16 +3,16 @@ titulo: Fundação de Cultura de Mato Grosso do Sul
 tipo: espaco
 areas: [artes-plasticas, audiovisual, musica, teatro]
 cidade: Campo Grande
-resumo: Órgão público estadual criado em 1983 para definir ações diretas e indiretas no setor cultural de Mato Grosso do Sul. Também é conhecida pela sigla FCMS.
+resumo: Fundação criada em 1983 para definir ações diretas e indiretas no setor cultural de Mato Grosso do Sul. Também é conhecida pela sigla FCMS.
 ficha:
   Criação: "1983"
-  Órgão vinculado: Museu da Imagem e do Som
+  Órgão vinculado: Museu da Imagem e do Som (em 2011)
   Dirigente em 2024: Eduardo Mendes (diretor-presidente)
 status: rascunho
 atualizado: 2026-10-28
 ---
 
-A **Fundação de Cultura de Mato Grosso do Sul** (FCMS) é um órgão público estadual criado em 1983, poucos anos depois da criação do estado, em 1979. A finalidade era definir ações diretas e indiretas no setor cultural.[^santos-fernandes]
+A **Fundação de Cultura de Mato Grosso do Sul** (FCMS) foi criada em 1983, poucos anos depois da criação do estado, em 1979. A finalidade era definir ações diretas e indiretas no setor cultural.[^santos-fernandes]
 
 ## Trajetória
 
