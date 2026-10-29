@@ -10,7 +10,7 @@ ficha:
   Instrumento: Viola
   Reconhecimentos: Doutor honoris causa pela UFMS (2019); Grammy Latino (2018)
 status: rascunho
-atualizado: 2026-10-28
+atualizado: 2026-10-29
 ---
 
 **Almir Sater** é um violeiro, compositor e ator natural de Campo Grande. O Dicionário Cravo Albin da Música Popular Brasileira registra seu nome completo como Almir Eduardo Melke Sater e a data de nascimento como 14 de novembro de 1956.[^dmpb]
@@ -85,7 +85,7 @@ Seleção de discos com ano, segundo o Dicionário Cravo Albin:[^dmpb]
 - *Ar* (2015, com [[renato-teixeira|Renato Teixeira]])
 - *+Ar* (2018, com [[renato-teixeira|Renato Teixeira]])
 
-O Correio do Estado cita também *Terra de Sonhos*, sem ano, e [[prata-da-casa|*Prata da Casa*]], descrito como o primeiro disco coletivo gravado em Mato Grosso do Sul e produzido pela UFMS.[^ce2019] O Jornal da USP data em 1985 o álbum *Instrumental*.[^jusp2021]
+O Correio do Estado cita também *Terra de Sonhos*, sem ano, e [[prata-da-casa|*Prata da Casa*]], descrito como o primeiro disco coletivo gravado em Mato Grosso do Sul e produzido pela [[ufms|UFMS]].[^ce2019] O Jornal da USP data em 1985 o álbum *Instrumental*.[^jusp2021]
 
 A composição *Luzeiro* (grafada "Luzero" no Dicionário) foi escolhida como tema de abertura do Globo Rural.[^dmpb]
 
