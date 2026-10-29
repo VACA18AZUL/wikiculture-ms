@@ -42,3 +42,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-29T12:59Z | pesquisador | delinha | concluída | US$ 0.74 | modelo claude-sonnet-5-5
 2026-10-29T13:00Z | pesquisador | marcio-de-camillo | concluída | US$ 0.72 | modelo claude-sonnet-5-5
 2026-10-29T12:59Z | pesquisador | moinho-cultural | concluída | US$ 0.72 | modelo claude-sonnet-5-5
+2026-10-29T13:08Z | redator | marcio-de-camillo | concluída | US$ 0.24 | modelo claude-sonnet-5-5
