@@ -14,7 +14,7 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-A imprensa descreve sua carreira como uma combinação de tradição e modernidade.[^acritica2026] Segundo a matéria, teve composições interpretadas por [[almir-sater|Almir Sater]], [[renato-teixeira|Renato Teixeira]], Sandy e Junior, Maria Bethânia, Ivan Lins e Michel Teló.[^acritica2026] Sua discografia reúne, em números, cinco CDs individuais, um LP, um compacto, uma coletânea e faixas em discos coletivos.[^acritica2026] A mesma matéria o associa aos projetos Chalana de Prata e Violas Pantaneiras, sem detalhar o vínculo.[^acritica2026]
+A imprensa descreve sua carreira como uma combinação de tradição e modernidade.[^acritica2026] Segundo a matéria, teve composições interpretadas por [[almir-sater|Almir Sater]], [[renato-teixeira|Renato Teixeira]], Sandy e Junior, Maria Bethânia, Ivan Lins e [[michel-telo|Michel Teló]].[^acritica2026] Sua discografia reúne, em números, cinco CDs individuais, um LP, um compacto, uma coletânea e faixas em discos coletivos.[^acritica2026] A mesma matéria o associa aos projetos Chalana de Prata e Violas Pantaneiras, sem detalhar o vínculo.[^acritica2026]
 
 Tem parceria recorrente com [[almir-sater|Almir Sater]], em várias canções de sucesso. Também compôs com [[guilherme-rondon|Guilherme Rondon]], [[celito-espindola|Celito Espíndola]] e [[antonio-porto|Antônio Porto]].[^cgn2024] Em 1975, escreveu "[[trem-do-pantanal|Trem do Pantanal]]" com [[geraldo-roca|Geraldo Roca]], durante uma viagem a Santa Cruz de la Sierra.[^acritica2026]
 

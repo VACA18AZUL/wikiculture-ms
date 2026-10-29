@@ -23,7 +23,7 @@ atualizado: 2026-10-29
 
 Segundo o Diário Corumbaense, que reproduz matéria do Campo Grande News, Delinha nasceu em 7 de setembro de 1936 em Vista Alegre, distrito de Maracaju, e foi com os pais para Campo Grande aos 8 anos.[^dc2022] O Tudo do MS confirma a data e o distrito.[^tdms2013] O Correio do Estado diz apenas que ela era natural de Maracaju.[^cde2022]
 
-Começou a cantar no coral da Igreja Perpétuo Socorro, por iniciativa da mãe, e ali conheceu [[delio|Délio]], seu parceiro artístico.[^cde2022] Segundo o Glossário da Música Sul-Mato-Grossense, antes da dupla os dois formaram com uma terceira cantora o trio "Duas Damas e Um Valete". O mesmo site diz que usaram primeiro o nome Duo Pintassilgo e que o nome Délio e Delinha foi dado pelo locutor Capitão Barduíno.[^gms2020]
+Começou a cantar no coral da Igreja Perpétuo Socorro, por iniciativa da mãe, e ali conheceu [[delio|Délio]], seu parceiro artístico.[^cde2022] Segundo o Glossário da Música Sul-Mato-Grossense, antes da dupla os dois formaram com uma terceira cantora o trio "Duas Damas e Um Valete". O mesmo site diz que usaram primeiro o nome Duo Pintassilgo e que o nome [[delio-e-delinha|Délio e Delinha]] foi dado pelo locutor Capitão Barduíno.[^gms2020]
 
 ### Dupla Délio e Delinha
 
@@ -37,11 +37,11 @@ Sobre a separação e o retorno da dupla, as fontes divergem. O Correio do Estad
 
 Em 2007, a dupla gravou em Campo Grande o projeto dos 50 anos de carreira, com participações de Maciel Corrêa e Zézinho Nantes. O CD e o DVD saíram em dezembro daquele ano. O Recanto Caipira cita [[zedu|José Eduardo Moraes (Zédu)]] entre os idealizadores.[^rc]
 
-Délio morreu em fevereiro de 2010 em Campo Grande.[^cde2010] A data exata varia entre as fontes: 8 de fevereiro no Recanto Caipira e 9 de fevereiro no MS Notícias.[^rc][^msn2022]
+[[delio|Délio]] morreu em fevereiro de 2010 em Campo Grande.[^cde2010] A data exata varia entre as fontes: 8 de fevereiro no Recanto Caipira e 9 de fevereiro no MS Notícias.[^rc][^msn2022]
 
 ### Carreira após 2010
 
-Depois da morte de Délio, Delinha seguiu em carreira solo, segundo o Correio do Estado, o Campo Grande News e o Recanto Caipira.[^cde2022][^dc2022][^rc] O MS Notícias diz que passou a cantar com o filho.[^msn2022]
+Depois da morte de [[delio|Délio]], Delinha seguiu em carreira solo, segundo o Correio do Estado, o Campo Grande News e o Recanto Caipira.[^cde2022][^dc2022][^rc] O MS Notícias diz que passou a cantar com o filho.[^msn2022]
 
 Em 2013, o jornalista Wilson Koller lançou a biografia [[por-onde-andei-wilson-koller|*Por Onde Andei*]], em evento em 9 de novembro na Concha Acústica de Maracaju.[^tdms2013] Em 2020, durante a pandemia, ela fez uma live exibida pelo Campo Grande News, vista por 56 mil pessoas segundo o jornal, e distribuiu um pen drive com mais de 300 músicas.[^dc2022]
 
@@ -59,15 +59,15 @@ Todas as fontes associam a cantora ao rasqueado. O Diário Corumbaense a chama t
 
 ## Discografia
 
-Os números da discografia da dupla divergem. O Correio do Estado e o Campo Grande News falam em 32 títulos entre LPs, CDs, DVDs e compactos, a maior discografia de artistas de Mato Grosso do Sul.[^cde2022][^dc2022] A composição varia: 14 discos de 78 rpm, 4 compactos e 5 CDs, segundo Délio em entrevista citada pelo Correio do Estado; 19 LPs, 2 compactos, 14 discos de 78 rpm, 4 CDs e 2 DVDs, segundo o Campo Grande News.[^cde2022][^dc2022]
+Os números da discografia da dupla divergem. O Correio do Estado e o Campo Grande News falam em 32 títulos entre LPs, CDs, DVDs e compactos, a maior discografia de artistas de Mato Grosso do Sul.[^cde2022][^dc2022] A composição varia: 14 discos de 78 rpm, 4 compactos e 5 CDs, segundo [[delio|Délio]] em entrevista citada pelo Correio do Estado; 19 LPs, 2 compactos, 14 discos de 78 rpm, 4 CDs e 2 DVDs, segundo o Campo Grande News.[^cde2022][^dc2022]
 
-- "Malvada" / "Cidades irmãs" (1959) — disco de 78 rpm, gravadora Califórnia.[^gms2020][^rc]
+- "Malvada" / "Cidades irmãs" (1959) — disco de 78 rpm, gravadora [[gravadora-california|Califórnia]].[^gms2020][^rc]
 - *O Casal de Onça de Mato Grosso* (1963) — álbum de 12 faixas, gravadora Califórnia, produção de Mário Vieira.[^gms2020]
 - Projeto dos 50 anos (2007) — CD e DVD, gravados em 2 de junho de 2007.[^rc]
 
 ## Filmografia
 
-- [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]] (2016) — documentário sobre ela, dirigido por Marinete Pinheiro; premiado na Mostra Nacional do Sesc em 2017.[^msn2022][^jne2017]
+- [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]] (2016) — documentário sobre ela, dirigido por [[marinete-pinheiro|Marinete Pinheiro]]; premiado na Mostra Nacional do Sesc em 2017.[^msn2022][^jne2017]
 
 ## Para saber mais
 

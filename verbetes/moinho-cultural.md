@@ -72,31 +72,31 @@ O site do Instituto declara que ele é Ponto de Cultura desde 2004. Apresenta ta
 
 O site cita ainda a participação no [[vale-musica|Vale Música]], rede de projetos musicais do [[instituto-cultural-vale|Instituto Cultural Vale]]. Lista como "Amigos do Moinho" a bailarina [[beatriz-de-almeida|Beatriz de Almeida]], chamada de madrinha, e [[almir-sater|Almir Sater]], chamado de padrinho.[^site]
 
-O Instituto Cultural Vale aparece como patrocinador master, por meio de lei de incentivo, na matéria de 2022, e como patrocinador de *Guadakan* em 2023. Em 2026, financiou a viagem de um ex-aluno a uma audição.[^cgn2022paris][^ab2023][^acritica2026aud]
+O [[instituto-cultural-vale|Instituto Cultural Vale]] aparece como patrocinador master, por meio de lei de incentivo, na matéria de 2022, e como patrocinador de *[[guadakan|Guadakan]]* em 2023. Em 2026, financiou a viagem de um ex-aluno a uma audição.[^cgn2022paris][^ab2023][^acritica2026aud]
 
 ### 2022 e 2023
 
-Em setembro de 2022, a Cia. de Dança do Pantanal, vinculada ao Instituto, apresentou-se em Paris com *Carne Quebrada*, durante o [[danca-em-transito|Festival Dança em Trânsito]], de 16 a 18 de setembro. Uma das apresentações foi na Embaixada do Brasil na França.[^cgn2022paris]
+Em setembro de 2022, a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], vinculada ao Instituto, apresentou-se em Paris com *[[carne-quebrada|Carne Quebrada]]*, durante o [[danca-em-transito|Festival Dança em Trânsito]], de 16 a 18 de setembro. Uma das apresentações foi na Embaixada do Brasil na França.[^cgn2022paris]
 
-Em dezembro de 2022, a Ocamp tocou na Sala Cecília Meireles, no Rio de Janeiro, em 10 de dezembro. No dia 11, participou de um concerto gratuito no Aterro do Flamengo com a Orquestra Sinfônica Brasileira. Trinta e seis alunos de Belém, Serra (ES) e Corumbá participaram, por meio do programa Vale Música.[^correio2022]
+Em dezembro de 2022, a Ocamp tocou na Sala Cecília Meireles, no Rio de Janeiro, em 10 de dezembro. No dia 11, participou de um concerto gratuito no Aterro do Flamengo com a [[orquestra-sinfonica-brasileira|Orquestra Sinfônica Brasileira]]. Trinta e seis alunos de Belém, Serra (ES) e Corumbá participaram, por meio do programa [[vale-musica|Vale Música]].[^correio2022]
 
-O Correio do Estado apresenta [[jose-maikon-amorim-alves|José Maikon Amorim Alves]] como o primeiro maestro de Corumbá. Formado no Moinho, ele estudou música fora do estado, voltou à cidade e, aos 27 anos, assumiu a Ocamp com apoio do Vale Música. A Agência Brasil informa que, em 2023, a orquestra levava pela primeira vez um regente formado pela própria instituição, sem citar o nome.[^correio2022][^ab2023] O jornal grafa o nome também como "Maikson".[^correio2022]
+O Correio do Estado apresenta [[jose-maikon-amorim-alves|José Maikon Amorim Alves]] como o primeiro maestro de Corumbá. Formado no Moinho, ele estudou música fora do estado, voltou à cidade e, aos 27 anos, assumiu a Ocamp com apoio do [[vale-musica|Vale Música]]. A Agência Brasil informa que, em 2023, a orquestra levava pela primeira vez um regente formado pela própria instituição, sem citar o nome.[^correio2022][^ab2023] O jornal grafa o nome também como "Maikson".[^correio2022]
 
-Em janeiro de 2023, o Bloco Carnavalesco [[bloco-aguia-da-vila|Águia da Vila]], de Corumbá, anunciou um samba em homenagem ao Instituto para o carnaval daquele ano. A matéria cita Márcia Rolon, que associa a homenagem ao reconhecimento do Instituto como "patrimônio cultural do Estado". Nenhuma outra fonte consultada traz o ato ou a data desse reconhecimento.[^cgn2023carnaval]
+Em janeiro de 2023, o Bloco Carnavalesco [[bloco-aguia-da-vila|Águia da Vila]], de Corumbá, anunciou um samba em homenagem ao Instituto para o carnaval daquele ano. A matéria cita [[marcia-rolon|Márcia Rolon]], que associa a homenagem ao reconhecimento do Instituto como "patrimônio cultural do Estado". Nenhuma outra fonte consultada traz o ato ou a data desse reconhecimento.[^cgn2023carnaval]
 
 ### 2025 e 2026
 
-Em setembro de 2025, alunos do Instituto representaram Corumbá no [[united-dance|United Dance Festival]], no Teatro Glauce Rocha, em Campo Grande. Participaram a Cia. Infanto-Juvenil do Moinho Cultural, o bailarino [[marcos-souza|Marcos Souza]] e a bailarina [[izabelle-paiva|Izabelle Paiva]], da Cia. de Dança do Pantanal.[^cgn2025united]
+Em setembro de 2025, alunos do Instituto representaram Corumbá no [[united-dance|United Dance Festival]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. Participaram a Cia. Infanto-Juvenil do Moinho Cultural, o bailarino [[marcos-souza|Marcos Souza]] e a bailarina [[izabelle-paiva|Izabelle Paiva]], da [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]].[^cgn2025united]
 
-Em julho de 2026, Marcos Souza, formado no Moinho, fez audição no 43º Festival de Dança de Joinville e foi aprovado na Curitiba Cia. de Dança. A viagem foi financiada pelo Instituto Cultural Vale.[^acritica2026aud]
+Em julho de 2026, [[marcos-souza|Marcos Souza]], formado no Moinho, fez audição no 43º Festival de Dança de Joinville e foi aprovado na Curitiba Cia. de Dança. A viagem foi financiada pelo [[instituto-cultural-vale|Instituto Cultural Vale]].[^acritica2026aud]
 
 Em outubro de 2026, A Crítica de Campo Grande noticiou que o Instituto foi escolhido melhor ONG de Mato Grosso do Sul pela quarta vez, no [[premio-melhores-ongs|Prêmio Melhores ONGs]]. A matéria cita 2021, 2024 e 2026 e não identifica o ano do outro título. Em 2024, segundo o texto, também foi apontado como melhor ONG de cultura do Brasil. A mesma matéria diz que o Instituto voltou, pela quarta vez, à lista nacional das 100 melhores ONGs.[^acritica2026ong]
 
 ## Espetáculos
 
-- *[[guadakan|Guadakan]]* (2022) — espetáculo do [[moinho-in-concert|Moinho In Concert]] de 2022, com a Cia. de Dança do Pantanal e a Ocamp. Baseado em uma lenda do povo guató. Teve quatro sessões em 14 e 15 de dezembro de 2022, no Centro de Convenções do Pantanal, em Corumbá, com mais de 400 participantes do Instituto e mais de 60 pessoas na produção. Concepção e direção geral de Márcia Rolon, adaptação musical e arranjos de [[eduardo-martinelli|Eduardo Martinelli]], coreografia de [[chico-neller|Chico Neller]] e figurinos de [[luiz-gugliatto|Luiz Gugliatto]].[^correio2022] Em 2023, já tinha passado por 12 cidades de Mato Grosso do Sul, com mais de 4 mil espectadores, e estreou fora do estado em 22 de junho, no Teatro Odylo Costa, filho, da Uerj, no Rio de Janeiro, com patrocínio do Instituto Cultural Vale pela Lei Rouanet.[^ab2023]
+- *[[guadakan|Guadakan]]* (2022) — espetáculo do [[moinho-in-concert|Moinho In Concert]] de 2022, com a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]] e a Ocamp. Baseado em uma lenda do povo guató. Teve quatro sessões em 14 e 15 de dezembro de 2022, no Centro de Convenções do Pantanal, em Corumbá, com mais de 400 participantes do Instituto e mais de 60 pessoas na produção. Concepção e direção geral de [[marcia-rolon|Márcia Rolon]], adaptação musical e arranjos de [[eduardo-martinelli|Eduardo Martinelli]], coreografia de [[chico-neller|Chico Neller]] e figurinos de [[luiz-gugliatto|Luiz Gugliatto]].[^correio2022] Em 2023, já tinha passado por 12 cidades de Mato Grosso do Sul, com mais de 4 mil espectadores, e estreou fora do estado em 22 de junho, no Teatro Odylo Costa, filho, da Uerj, no Rio de Janeiro, com patrocínio do [[instituto-cultural-vale|Instituto Cultural Vale]] pela Lei Rouanet.[^ab2023]
 - *[[moinho-in-concert|Moinho In Concert]]* — espetáculo de fim de ano do Instituto. A edição de 2022 marcou os 18 anos da instituição.[^correio2022] A de 2026 foi marcada para 12 e 13 de dezembro.[^acritica2026ong]
-- *[[carne-quebrada|Carne Quebrada]]* (2022) — espetáculo da Cia. de Dança do Pantanal, inspirado em *A Carne*, de Júlio Ribeiro (1888). Direção de [[rolando-candia|Rolando Candia]] e direção artística de Márcia Rolon. Entre os intérpretes citados estão [[nubia-santos|Núbia Santos]] e [[wellington-julio|Wellington Júlio]], que assina a coreografia.[^cgn2022paris]
+- *[[carne-quebrada|Carne Quebrada]]* (2022) — espetáculo da [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], inspirado em *A Carne*, de Júlio Ribeiro (1888). Direção de [[rolando-candia|Rolando Candia]] e direção artística de [[marcia-rolon|Márcia Rolon]]. Entre os intérpretes citados estão [[nubia-santos|Núbia Santos]] e [[wellington-julio|Wellington Júlio]], que assina a coreografia.[^cgn2022paris]
 
 ## Reconhecimentos
 
@@ -104,7 +104,7 @@ Em outubro de 2026, A Crítica de Campo Grande noticiou que o Instituto foi esco
 - Prêmio Escola Viva 2007.[^ei2014]
 - Prêmio Cultura Viva 2010 — semifinalista nacional.[^ei2014]
 - Programa Voa Ambev 2019 — o projeto "VOA Moinho Além das Fronteiras" foi um dos vencedores, entre 65 iniciativas, do programa de mentoria de gestão para ONGs.[^folhams2019]
-- Prêmio Melhores ONGs — melhor ONG de Mato Grosso do Sul (2021, 2024 e 2026, mais um título sem ano identificado) e melhor ONG de cultura do Brasil em 2024.[^acritica2026ong]
+- [[premio-melhores-ongs|Prêmio Melhores ONGs]] — melhor ONG de Mato Grosso do Sul (2021, 2024 e 2026, mais um título sem ano identificado) e melhor ONG de cultura do Brasil em 2024.[^acritica2026ong]
 
 Em 2015, aos onze anos de atividade, o Moinho inspirou projetos de política pública em Ladário (MS) e em Puerto Suárez (Bolívia), segundo a Folha MS.[^folhams2019]
 

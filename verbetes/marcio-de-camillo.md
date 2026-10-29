@@ -19,7 +19,7 @@ Em 2024, o *Campo Grande News* o apresentou como integrante de uma geração de 
 
 De volta ao Brasil, fundou a [[associacao-de-musicos-do-pantanal|Associação de Músicos do Pantanal]], que, segundo a matéria, busca promover a cultura do estado e sensibilizar para a preservação ambiental por meio da arte. A fonte não informa data nem cidade.[^cgn2024camillo]
 
-Uma matéria de 2012 diz que ele morava em Campo Grande.[^cgn2012multi] A de 2024 diz que vivia em São Paulo e se apresentava em três frentes: o trabalho infantil, o trio [[hermanos-irmaos|Hermanos Irmãos]] e a carreira solo, retomada depois de anos em que o sucesso de Crianceiras a ofuscou.[^cgn2024camillo]
+Uma matéria de 2012 diz que ele morava em Campo Grande.[^cgn2012multi] A de 2024 diz que vivia em São Paulo e se apresentava em três frentes: o trabalho infantil, o trio [[hermanos-irmaos|Hermanos Irmãos]] e a carreira solo, retomada depois de anos em que o sucesso de [[crianceiras|Crianceiras]] a ofuscou.[^cgn2024camillo]
 
 ## Crianceiras
 
@@ -27,7 +27,7 @@ Uma matéria de 2012 diz que ele morava em Campo Grande.[^cgn2012multi] A de 202
 
 O show estreou em 4 de outubro de 2012, no Teatro Prosa do Sesc Horto, em Campo Grande ([[sesc-teatro-prosa|Sesc Teatro Prosa]]), com direção geral de [[luiz-andre-cherubini|Luiz André Cherubini]] e animações a partir de quadros de Martha Barros, filha do poeta.[^cgn2012multi] As faixas ganharam videoclipes exibidos no canal Gloob, e o CD originou um aplicativo educativo gratuito.[^cgn2019crianceiras]
 
-A segunda fase, *Crianceiras Mário Quintana*, teve estreia em São Paulo em 2018 e em Campo Grande em 19 de maio de 2018, no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^cgn2018novo][^cgn2018quintana] A direção foi de Cherubini, do [[grupo-sobrevento|Grupo Sobrevento]], no formato de teatro de papel.[^cgn2018novo] Em setembro de 2026 houve nova temporada no mesmo teatro, pelos 120 anos de Quintana.[^ce2026quintana] Em 19 de dezembro de 2022, uma versão acústica foi apresentada na casa de Manoel de Barros, pelos 106 anos do poeta e os dez anos do espetáculo.[^cgn2022quintal] Em 22 de setembro de 2024, o espetáculo sobre Barros voltou ao Teatro Glauce Rocha, dentro do [[festival-mais-cultura|Festival Mais Cultura]].[^cgn2024crianceiras]
+A segunda fase, *[[crianceiras|Crianceiras Mário Quintana]]*, teve estreia em São Paulo em 2018 e em Campo Grande em 19 de maio de 2018, no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^cgn2018novo][^cgn2018quintana] A direção foi de Cherubini, do [[grupo-sobrevento|Grupo Sobrevento]], no formato de teatro de papel.[^cgn2018novo] Em setembro de 2026 houve nova temporada no mesmo teatro, pelos 120 anos de Quintana.[^ce2026quintana] Em 19 de dezembro de 2022, uma versão acústica foi apresentada na casa de [[manoel-de-barros|Manoel de Barros]], pelos 106 anos do poeta e os dez anos do espetáculo.[^cgn2022quintal] Em 22 de setembro de 2024, o espetáculo sobre Barros voltou ao Teatro Glauce Rocha, dentro do [[festival-mais-cultura|Festival Mais Cultura]].[^cgn2024crianceiras]
 
 Uma matéria de março de 2018 fala em 350 apresentações desde 2012;[^cgn2018novo] outra, de maio de 2018, em 310 mil pessoas em seis anos de circulação nacional.[^cgn2018quintana] São números atribuídos à produção. As matérias de 2012 e 2018 registram indicação do primeiro CD ao Prêmio da Música Brasileira, como melhor álbum infantil, em 2012; a de 2018 acrescenta indicação em 2016 com o disco de Quintana. Não consta que tenha vencido.[^cgn2018novo]
 
@@ -35,14 +35,14 @@ Uma matéria de março de 2018 fala em 350 apresentações desde 2012;[^cgn2018n
 
 O trio [[hermanos-irmaos|Hermanos Irmãos]] reúne Camillo, [[jerry-espindola|Jerry Espíndola]] e [[rodrigo-teixeira|Rodrigo Teixeira]]. Em junho de 2016, o grupo saiu de Campo Grande para refazer a viagem em que [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]] escreveram "[[trem-do-pantanal|Trem do Pantanal]]", em 1975, rumo a Machu Picchu, com o videomaker [[paulo-higa|Paulo Higa]].[^cgn2022hermanos] Em 2022, o trio lançou nova versão da canção, com arranjos de [[carles-campi-campon|Carles Campi Campón]] feitos em Madri e vozes gravadas em Campo Grande.[^cgn2022hermanos]
 
-Camillo admirava Geraldo Roca, de quem foi vizinho e amigo. Os dois dividiram a faixa "Lá vem você de novo" no CD coletivo [[geracoes-ms|Gerações MS]].[^ce2024roca] Em 2025, apresentou-se com [[geraldo-espindola|Geraldo Espíndola]] no espetáculo [[musica-poetica-2025|Música Poética]], com a [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]] e a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], em Dourados (7 de maio), Campo Grande (9 de maio) e Corumbá (13 de maio), com organização do [[instituto-moinho-cultural-sul-americano|Instituto Moinho Cultural Sul-Americano]].[^cgn2025poetica]
+Camillo admirava [[geraldo-roca|Geraldo Roca]], de quem foi vizinho e amigo. Os dois dividiram a faixa "Lá vem você de novo" no CD coletivo [[geracoes-ms|Gerações MS]].[^ce2024roca] Em 2025, apresentou-se com [[geraldo-espindola|Geraldo Espíndola]] no espetáculo [[musica-poetica-2025|Música Poética]], com a [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]] e a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], em Dourados (7 de maio), Campo Grande (9 de maio) e Corumbá (13 de maio), com organização do [[moinho-cultural|Instituto Moinho Cultural Sul-Americano]].[^cgn2025poetica]
 
 ## Espetáculos
 
-- *Crianceiras Manoel de Barros* (2012) — idealização, música e atuação como músico; direção de Luiz André Cherubini.[^cgn2012multi]
-- *Crianceiras Mário Quintana* (2018) — idem.[^cgn2018quintana]
-- *Ilumini* (2024) — show solo, em 7 de agosto de 2024, no Teatro Glauce Rocha, com entrada gratuita e convidados.[^cgn2024camillo]
-- *[[do-litoral-central-do-brasil|Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca]]* (2024) — estreia em 24 de setembro de 2024, no Teatro Glauce Rocha, dentro do Festival Mais Cultura; violão e viola caipira, direção de Cherubini; a arte visual remete ao álbum [[veneno-light|Veneno Light]] (2006), de Roca.[^cgn2024roca][^ce2024roca]
+- *[[crianceiras|Crianceiras Manoel de Barros]]* (2012) — idealização, música e atuação como músico; direção de [[luiz-andre-cherubini|Luiz André Cherubini]].[^cgn2012multi]
+- *[[crianceiras|Crianceiras Mário Quintana]]* (2018) — idem.[^cgn2018quintana]
+- *Ilumini* (2024) — show solo, em 7 de agosto de 2024, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], com entrada gratuita e convidados.[^cgn2024camillo]
+- *[[do-litoral-central-do-brasil|Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca]]* (2024) — estreia em 24 de setembro de 2024, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], dentro do [[festival-mais-cultura|Festival Mais Cultura]]; violão e viola caipira, direção de Cherubini; a arte visual remete ao álbum [[veneno-light|Veneno Light]] (2006), de Roca.[^cgn2024roca][^ce2024roca]
 
 [^cgn2024camillo]: Thailla Torres, ["Márcio de Camillo faz show gratuito no Teatro Glauce Rocha"](https://www.campograndenews.com.br/lado-b/diversao/marcio-de-camillo-faz-show-gratuito-no-teatro-glauce-rocha), *Campo Grande News*, 7 ago. 2024.
 [^cgn2024roca]: Thailla Torres, ["Márcio de Camillo faz homenagem a Geraldo Roca em novo show"](https://www.campograndenews.com.br/lado-b/diversao/marcio-de-camillo-faz-homenagem-a-geraldo-roca-em-novo-show), *Campo Grande News*, 22 set. 2024.
