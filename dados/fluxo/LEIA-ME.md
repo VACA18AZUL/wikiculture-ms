@@ -36,6 +36,7 @@ Coluna `situacao` de `dados/lista-mestra.csv`. Mude só com `node scripts/fila.m
 | `dossie` | dossiê pronto em `dados/dossies/<id>.md` | redator |
 | `rascunho` | verbete escrito | fechamento (ligador, revisor) |
 | `devolvido` | revisor achou PROBLEMA; relatório em `dados/revisao/<id>.md` | redator |
+| `parado` | devolvido três vezes seguidas; o redator não resolve sozinho | ninguém; Helton decide |
 | `reforcar` | marcado à mão para buscar fato novo ou fonte melhor | reforco (atualizador) |
 | `pronto-para-lote` | passou na revisão | fechamento (empacotar) |
 | `em-lote` | está em uma branch `lote-NN` | Helton (pull request) |

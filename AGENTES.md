@@ -142,7 +142,7 @@ Ordem de custo por rodada, do mais barato ao mais caro: ligador, redator, pesqui
 
 ### Quando subir ou descer
 
-- Revisor devolve mais de 2 PROBLEMAs por verbete, por dois lotes seguidos: suba o redator para Opus. Se o problema for fato que não está na fonte, suba o pesquisador, não o redator.
+- Revisor devolve mais de 2 PROBLEMAs por verbete, por dois lotes seguidos: suba o redator para Opus. Verbete devolvido três vezes vira `parado` e espera o Helton; isso evita redator e revisor girarem em círculo gastando crédito. Se o problema for fato que não está na fonte, suba o pesquisador, não o redator.
 - Ligador erra homônimo ou linka nome errado: suba para Sonnet, esforço médio.
 - Garimpeiro traz muitos nomes sem vínculo com MS: não suba o modelo, aperte o pedido (fonte-semente mais específica, limite menor).
 - Revisor passando lotes limpos por 3 lotes seguidos: experimente Sonnet, esforço alto, e compare com uma amostra revisada pelo Helton.
