@@ -50,3 +50,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-29T20:17Z | pesquisador | marcia-rolon | concluída | US$ 0.25 | modelo claude-sonnet-5-5
 2026-10-29T20:17Z | pesquisador | guadakan | concluída | US$ 0.54 | modelo claude-sonnet-5-5
 2026-10-29T20:17Z | pesquisador | carne-quebrada | concluída | US$ 0.55 | modelo claude-sonnet-5-5
+2026-10-29T20:17Z | pesquisador | lenilde-ramos | concluída | US$ 0.77 | modelo claude-sonnet-5-5
