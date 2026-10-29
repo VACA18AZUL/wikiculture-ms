@@ -42,19 +42,19 @@ A idealização é atribuída a [[marcia-rolon|Márcia Rolon]]. A BrazilFoundati
 
 ### Sede
 
-O Instituto funciona em um antigo moinho de trigo e fábrica de massas do Grupo J. Macêdo, em Corumbá. Segundo a coluna de Flávio Paiva, a primeira cessão de uso do imóvel é de 2004. O comodato foi renovado em 2014, com cedência até 2045, e o imóvel passaria à propriedade da Fundação Dias Macêdo.[^opovo2025]
+A sede ocupa um prédio em Corumbá que abrigou um moinho de trigo e uma fábrica de massas do Grupo J. Macêdo. Segundo a coluna de Flávio Paiva, o imóvel foi cedido ao Instituto pela primeira vez em 2004, e o comodato foi renovado em 2014. A coluna menciona ainda uma cedência posterior, até 2045, e diz que o imóvel passaria à propriedade da Fundação Dias Macêdo.[^opovo2025]
 
 ### Formação e público
 
 Em 2014, o Instituto organizava a formação em ciclos de cerca de oito anos. Nos dois primeiros, todos os alunos passavam por iniciação em música e dança. Depois, cada um escolhia uma área: música, dança (balé clássico, dança contemporânea ou dança regional) ou tecnologia, com informática e recursos audiovisuais. Pelo menos uma hora por dia era dedicada às lições escolares, com monitores.[^ei2014] O mesmo texto cita o Projeto Vila Moinho, que reunia pais e profissionais da região às terças-feiras, e oficinas de culinária feitas em parceria com um ponto de cultura.[^ei2014]
 
-Em 2019, a Folha MS descrevia atividades diárias no contraturno escolar, num ciclo de oito anos, com música, dança, tecnologia, apoio escolar, idiomas e educação ambiental e patrimonial. Famílias e comunidade faziam cursos de geração de renda.[^folhams2019] Em 2025, o colunista Flávio Paiva listava música, dança, educação ambiental e patrimonial, letramento digital, idiomas, apoio escolar e psicossocial, biblioteca, estúdio de produção audiovisual e salas de ensaio.[^opovo2025]
+Em 2019, a Folha MS descrevia atividades diárias no contraturno escolar, num ciclo de oito anos, com música, dança, tecnologia, apoio escolar, idiomas e educação ambiental e patrimonial. Famílias e comunidade faziam cursos de geração de renda.[^folhams2019] Em 2025, o colunista Flávio Paiva descrevia atividades artísticas e de letramento digital, apoio escolar e psicossocial, ensino de idiomas e educação ambiental e patrimonial, além de biblioteca, estúdio audiovisual e salas de ensaio na sede.[^opovo2025]
 
 Em 2026, o ingresso se dava por processos seletivos semestrais, gratuitos, com inscrição presencial na sede. As turmas de música aceitavam alunos a partir dos 7 anos e as de dança, a partir dos 12.[^acritica2026aud]
 
 O Instituto atende Corumbá e Ladário, em Mato Grosso do Sul, e as cidades bolivianas de Puerto Suárez e Puerto Quijarro.[^cgn2022paris][^ab2023] Em 2019, mantinha um núcleo no Centro Cultural de Puerto Quijarro, com 40 dos 400 atendidos.[^folhams2019]
 
-Os números de atendimento variam conforme a fonte e o ano. A página da BrazilFoundation, sem data, fala em cerca de 270 crianças e adolescentes por ano.[^bf] A Folha MS cita 400 em 2019, sendo 360 em Corumbá e 40 em Puerto Quijarro.[^folhams2019] A Agência Brasil fala em média de 500 em 2023.[^ab2023] Flávio Paiva cita mais de 400 estudantes por dia em 2025, e A Crítica, mais de 450 em 2026.[^opovo2025][^acritica2026ong]
+Os números de atendimento variam conforme a fonte e o ano. A página da BrazilFoundation, sem data, fala em cerca de 270 crianças e adolescentes por ano.[^bf] A Folha MS cita 400 em 2019, sendo 360 na sede, em Corumbá, e 40 no núcleo de Puerto Quijarro.[^folhams2019] A Agência Brasil fala em média de 500 em 2023.[^ab2023] Flávio Paiva cita mais de 400 estudantes por dia em 2025, e A Crítica, mais de 450 em 2026.[^opovo2025][^acritica2026ong]
 
 O total de pessoas atendidas desde o início era de mais de 23 mil em 2022 e 2023, e de mais de 25 mil em 2026, segundo o próprio Instituto.[^cgn2022paris][^ab2023][^acritica2026ong]
 
@@ -62,7 +62,7 @@ O total de pessoas atendidas desde o início era de mais de 23 mil em 2022 e 202
 
 O Instituto mantém a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]] e a [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]] (Ocamp), que oferecem formação de intérpretes e músicos a jovens e adultos. Mantém também um Núcleo de Tecnologia.[^cgn2022paris][^correio2022] A Agência Brasil descreve a Ocamp como projeto do Instituto e a [[orquestra-sinfonica-brasileira|Orquestra Sinfônica Brasileira]] como parceira na formação dos músicos.[^ab2023]
 
-Segundo a BrazilFoundation, o projeto NUTEC, de tecnologia audiovisual, tem apoio da instituição desde 2017. A página cita a meta de formar 20 jovens em tecnologia da informação.[^bf]
+A página da BrazilFoundation, que registra apoio ao Instituto em 2017, apresenta o projeto NUTEC, de tecnologia audiovisual, e cita a meta de formar 20 jovens em tecnologia da informação.[^bf]
 
 Em 2025, a coordenadora de dança era [[aline-espirito-santo|Aline Espírito Santo]].[^cgn2025united]
 
@@ -76,9 +76,9 @@ O [[instituto-cultural-vale|Instituto Cultural Vale]] aparece como patrocinador 
 
 ### 2022 e 2023
 
-Em setembro de 2022, a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], vinculada ao Instituto, apresentou-se em Paris com *[[carne-quebrada|Carne Quebrada]]*, durante o [[danca-em-transito|Festival Dança em Trânsito]], de 16 a 18 de setembro. Uma das apresentações foi na Embaixada do Brasil na França.[^cgn2022paris]
+Em setembro de 2022, segundo matéria publicada um dia antes do festival, a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], vinculada ao Instituto, levaria a Paris *[[carne-quebrada|Carne Quebrada]]*, durante o [[danca-em-transito|Festival Dança em Trânsito]], de 16 a 18 de setembro. Uma das apresentações seria na Embaixada do Brasil na França.[^cgn2022paris]
 
-Em dezembro de 2022, a Ocamp tocou na Sala Cecília Meireles, no Rio de Janeiro, em 10 de dezembro. No dia 11, participou de um concerto gratuito no Aterro do Flamengo com a [[orquestra-sinfonica-brasileira|Orquestra Sinfônica Brasileira]]. Trinta e seis alunos de Belém, Serra (ES) e Corumbá participaram, por meio do programa [[vale-musica|Vale Música]].[^correio2022]
+Em dezembro de 2022, a Ocamp tocou na Sala Cecília Meireles, no Rio de Janeiro, em 10 de dezembro. No dia 11, fez um concerto aberto ao público no Aterro do Flamengo, com a [[orquestra-sinfonica-brasileira|Orquestra Sinfônica Brasileira]]. Trinta e seis alunos de Belém, Serra (ES) e Corumbá participaram, por meio do programa [[vale-musica|Vale Música]].[^correio2022]
 
 O Correio do Estado apresenta [[jose-maikon-amorim-alves|José Maikon Amorim Alves]] como o primeiro maestro de Corumbá. Formado no Moinho, ele estudou música fora do estado, voltou à cidade e, aos 27 anos, assumiu a Ocamp com apoio do [[vale-musica|Vale Música]]. A Agência Brasil informa que, em 2023, a orquestra levava pela primeira vez um regente formado pela própria instituição, sem citar o nome.[^correio2022][^ab2023] O jornal grafa o nome também como "Maikson".[^correio2022]
 
@@ -86,15 +86,15 @@ Em janeiro de 2023, o Bloco Carnavalesco [[bloco-aguia-da-vila|Águia da Vila]],
 
 ### 2025 e 2026
 
-Em setembro de 2025, alunos do Instituto representaram Corumbá no [[united-dance|United Dance Festival]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. Participaram a Cia. Infanto-Juvenil do Moinho Cultural, o bailarino [[marcos-souza|Marcos Souza]] e a bailarina [[izabelle-paiva|Izabelle Paiva]], da [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]].[^cgn2025united]
+Em setembro de 2025, segundo matéria de 5 de setembro, alunos do Instituto representariam Corumbá no [[united-dance|United Dance Festival]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. Estavam previstos a Cia. Infanto-Juvenil do Moinho Cultural, o bailarino [[marcos-souza|Marcos Souza]] e a bailarina [[izabelle-paiva|Izabelle Paiva]], da [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]].[^cgn2025united]
 
 Em julho de 2026, [[marcos-souza|Marcos Souza]], formado no Moinho, fez audição no 43º Festival de Dança de Joinville e foi aprovado na Curitiba Cia. de Dança. A viagem foi financiada pelo [[instituto-cultural-vale|Instituto Cultural Vale]].[^acritica2026aud]
 
-Em outubro de 2026, A Crítica de Campo Grande noticiou que o Instituto foi escolhido melhor ONG de Mato Grosso do Sul pela quarta vez, no [[premio-melhores-ongs|Prêmio Melhores ONGs]]. A matéria cita 2021, 2024 e 2026 e não identifica o ano do outro título. Em 2024, segundo o texto, também foi apontado como melhor ONG de cultura do Brasil. A mesma matéria diz que o Instituto voltou, pela quarta vez, à lista nacional das 100 melhores ONGs.[^acritica2026ong]
+Em outubro de 2026, A Crítica de Campo Grande noticiou que o Instituto foi escolhido melhor ONG de Mato Grosso do Sul pela quarta vez, no [[premio-melhores-ongs|Prêmio Melhores ONGs]]. A matéria cita 2021, 2024 e 2026 e não identifica o ano do outro título; diz que o de 2024 foi o segundo seguido. Em 2024, segundo o texto, também foi apontado como melhor ONG de cultura do Brasil. A mesma matéria diz que o Instituto voltou, pela quarta vez, à lista nacional das 100 melhores ONGs.[^acritica2026ong]
 
 ## Espetáculos
 
-- *[[guadakan|Guadakan]]* (2022) — espetáculo do [[moinho-in-concert|Moinho In Concert]] de 2022, com a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]] e a Ocamp. Baseado em uma lenda do povo guató. Teve quatro sessões em 14 e 15 de dezembro de 2022, no Centro de Convenções do Pantanal, em Corumbá, com mais de 400 participantes do Instituto e mais de 60 pessoas na produção. Concepção e direção geral de [[marcia-rolon|Márcia Rolon]], adaptação musical e arranjos de [[eduardo-martinelli|Eduardo Martinelli]], coreografia de [[chico-neller|Chico Neller]] e figurinos de [[luiz-gugliatto|Luiz Gugliatto]].[^correio2022] Em 2023, já tinha passado por 12 cidades de Mato Grosso do Sul, com mais de 4 mil espectadores, e estreou fora do estado em 22 de junho, no Teatro Odylo Costa, filho, da Uerj, no Rio de Janeiro, com patrocínio do [[instituto-cultural-vale|Instituto Cultural Vale]] pela Lei Rouanet.[^ab2023]
+- *[[guadakan|Guadakan]]* (2022) — espetáculo do [[moinho-in-concert|Moinho In Concert]] de 2022, com a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]] e a Ocamp. Baseado em uma lenda do povo guató. Tinha quatro sessões marcadas para 14 e 15 de dezembro de 2022, no Centro de Convenções do Pantanal, em Corumbá, com mais de 400 participantes do Instituto e mais de 60 pessoas na produção, segundo matéria publicada um dia antes. Concepção e direção geral de [[marcia-rolon|Márcia Rolon]], adaptação musical e arranjos de [[eduardo-martinelli|Eduardo Martinelli]], coreografia de [[chico-neller|Chico Neller]] e figurinos de [[luiz-gugliatto|Luiz Gugliatto]].[^correio2022] Em 2023, já tinha passado por 12 cidades de Mato Grosso do Sul, com mais de 4 mil espectadores, e tinha estreia fora do estado anunciada para 22 de junho, no Teatro Odylo Costa, filho, da Uerj, no Rio de Janeiro, com patrocínio do [[instituto-cultural-vale|Instituto Cultural Vale]] pela Lei Rouanet.[^ab2023]
 - *[[moinho-in-concert|Moinho In Concert]]* — espetáculo de fim de ano do Instituto. A edição de 2022 marcou os 18 anos da instituição.[^correio2022] A de 2026 foi marcada para 12 e 13 de dezembro.[^acritica2026ong]
 - *[[carne-quebrada|Carne Quebrada]]* (2022) — espetáculo da [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], inspirado em *A Carne*, de Júlio Ribeiro (1888). Direção de [[rolando-candia|Rolando Candia]] e direção artística de [[marcia-rolon|Márcia Rolon]]. Entre os intérpretes citados estão [[nubia-santos|Núbia Santos]] e [[wellington-julio|Wellington Júlio]], que assina a coreografia.[^cgn2022paris]
 
