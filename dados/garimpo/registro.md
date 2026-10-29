@@ -17,3 +17,5 @@ Uma linha por evento, em ordem. Formato:
 2026-10-29 00:40 | danca | concluída | rodada 4 | +30 nomes, +45 relações | sem commit a pedido; PDF UCDB não abriu; Itaú Cultural, Mapas, repositórios e editais pendentes
 2026-10-29 05:48 | literatura | em andamento | rodada 5
 2026-10-29 06:05 | literatura | concluída | rodada 5 | +30 nomes, +58 relações | sem commit a pedido; PDFs (UEMS, UFMS, Philologus) sem extração de texto; Midiamax 403; Itaú Cultural, Mapas, editais e Acervo Glorinha pendentes
+2026-10-29 13:00 | audiovisual | em andamento | rodada 6
+2026-10-29 13:40 | audiovisual | concluída | rodada 6 | +30 nomes, +65 relações | sem commit a pedido; PDFs Diehl (UFMS) e Corrêa (UFGD) não abriram; Itaú Cultural, Mapas, editais pendentes
