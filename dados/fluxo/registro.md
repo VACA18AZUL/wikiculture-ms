@@ -25,3 +25,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-29T00:09Z | redator | marco | concluída | US$ 0.03 | modelo claude-sonnet-5-5
 2026-10-29T00:09Z | redator | humberto-espindola | concluída | US$ 0.05 | modelo claude-sonnet-5-5
 2026-10-29T00:09Z | redator | paulo-simoes | concluída | US$ 0.16 | modelo claude-sonnet-5-5
+2026-10-29T00:09Z | redator | almir-sater | concluída | US$ 0.17 | modelo claude-sonnet-5-5

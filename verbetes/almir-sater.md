@@ -19,15 +19,15 @@ atualizado: 2026-10-28
 
 ### Formação
 
-Segundo o Dicionário Cravo Albin, estudou piano e acordeão na infância e, depois, banjo e violão. Aprendeu viola sozinho, ouvindo discos, e teve [[tiao-carreiro|Tião Carreiro]] como mentor. Aos 20 anos foi ao Rio de Janeiro para cursar Direito, abandonou o curso e voltou a Mato Grosso.[^dmpb]
+Segundo o Dicionário Cravo Albin, estudou piano e acordeão na infância e, depois, banjo e violão. Aprendeu viola sozinho, ouvindo discos, e teve [[tiao-carreiro|Tião Carreiro]] como mentor. Aos 20 anos foi ao Rio de Janeiro para cursar Direito, trancou a matrícula na Faculdade Cândido Mendes e voltou a Mato Grosso.[^dmpb]
 
-O Correio do Estado conta a trajetória de outro modo. Para o jornal, o interesse pela música surgiu no antigo terceiro científico, no Rio de Janeiro. Depois do curso de Direito, ele cursou pouco mais de um ano de Educação Física na [[ufms|Universidade Federal de Mato Grosso do Sul (UFMS)]] e deixou a faculdade para se dedicar à música.[^ce2019] As duas fontes diferem quanto à extensão da formação: o Dicionário cita só o Direito, no Rio de Janeiro.[^dmpb]
+O Correio do Estado conta a trajetória de outro modo. Para o jornal, o interesse pela música surgiu no antigo terceiro científico, no Rio de Janeiro. Segundo o jornal, ele cursou Direito e deixou a faculdade para se dedicar à música. Depois cursou pouco mais de um ano de Educação Física na [[ufms|Universidade Federal de Mato Grosso do Sul (UFMS)]], até se mudar para São Paulo, em 1978.[^ce2019] As duas fontes diferem quanto à extensão da formação: o Dicionário cita só o Direito, no Rio de Janeiro.[^dmpb]
 
 ### Primeiros grupos e discos
 
 Formou com outra pessoa a dupla [[lupe-e-lampiao|Lupe e Lampião]]. O Correio do Estado diz que a dupla participou do Festival da Record.[^ce2019] O Dicionário afirma que ela ficou em quarto lugar no Festival Sertanejo da TV Record, em 1978.[^dmpb]
 
-Segundo o Correio do Estado, voltou a Campo Grande em 1976 e foi para São Paulo em 1978. Integrou o grupo [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]] e o show "Vozes e Violas", que levou ao convite para gravar o primeiro disco, de 1981.[^ce2019] O Dicionário data a ida para São Paulo e a entrada no Lírio Selvagem em 1979, e também situa o primeiro disco, pela Continental, em 1981.[^dmpb]
+Segundo o Correio do Estado, voltou a Campo Grande em 1976 e foi para São Paulo em 1978. Acompanhou o grupo [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]] e o show "Vozes e Violas", que levou ao convite para gravar o primeiro disco, de 1981.[^ce2019] O Dicionário data a ida para São Paulo e a entrada no Lírio Selvagem em 1979, e também situa o primeiro disco, pela Continental, em 1981.[^dmpb]
 
 Em 1984, organizou, segundo o Dicionário, uma viagem de pesquisa por Mato Grosso, a [[comitiva-esperanca|Comitiva Esperança]]. O Dicionário diz que a viagem rendeu um documentário (1985) e um disco instrumental.[^dmpb] O Correio do Estado cita o projeto "Comitiva Esperança" em conjunto com [[paulo-simoes|Paulo Simões]] e [[ze-gomes|Zé Gomes]], sem data.[^ce2019]
 
@@ -41,7 +41,7 @@ Em fevereiro de 2024, segundo o Campo Grande News, atuava no remake da novela *P
 
 ### Parcerias
 
-O Dicionário aponta [[renato-teixeira|Renato Teixeira]] como o parceiro de composição mais frequente. Cita também [[paulo-simoes|Paulo Simões]], Paulo Klein, [[geraldo-roca|Geraldo Roca]] (grafado "Rocca") e João Bá. Segundo a mesma fonte, canções coescritas por ele entraram em 2017 no musical *Bem sertanejo*.[^dmpb]
+O Dicionário aponta [[renato-teixeira|Renato Teixeira]] como um de seus parceiros de composição mais constantes. Cita também [[paulo-simoes|Paulo Simões]], Paulo Klein, [[geraldo-roca|Geraldo Roca]] (grafado "Rocca") e João Bá. Segundo a mesma fonte, canções coescritas por ele entraram em 2017 no musical *Bem sertanejo*.[^dmpb]
 
 Em novembro de 2024, o Campo Grande News registrou que [[paulo-simoes|Paulo Simões]] tem muitas canções de sucesso feitas em parceria com Sater.[^cgn2024b] Em abril de 2026, A Crítica de Campo Grande citou Sater entre os intérpretes de composições de Simões, ao noticiar o show dos 50 anos de "Trem do Pantanal".[^acr2026] Segundo o Correio do Estado, "[[trem-do-pantanal|Trem do Pantanal]]", composta por [[geraldo-roca|Geraldo Roca]] e Paulo Simões, ficou conhecida na voz de Sater.[^ce2024]
 
@@ -51,7 +51,7 @@ A canção [[assim-os-dias-passarao|"Assim os Dias Passarão"]] é de autoria de
 
 Em outubro de 2022, depois de mais de dois anos sem shows por causa da pandemia, Sater voltava à estrada. Em 22 de outubro participou do programa [[altas-horas|Altas Horas]] com [[renato-teixeira|Renato Teixeira]], onde tocou "[[tocando-em-frente|Tocando em Frente]]", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]". Cantou também "Jeito de Mato" com [[paula-fernandes|Paula Fernandes]].[^cgn2022b]
 
-Em 12 de novembro de 2022 fez show no Espaço Bosque Expo, no Shopping Bosque dos Ipês, em Campo Grande. A matéria do Campo Grande News fala em mais de 5 mil pessoas. O repertório percorreu os álbuns *AR* e *+AR*, e a banda incluía o acordeonista Marcelus, de Aquidauana. Na entrevista, Sater disse que Campo Grande é um dos lugares mais difíceis para tocar, por causa do público crítico.[^cgn2022]
+Em 12 de novembro de 2022 fez show no Espaço Bosque Expo, no Shopping Bosque dos Ipês, em Campo Grande. A matéria do Campo Grande News fala em mais de 5 mil pessoas. O repertório percorreu os álbuns *AR* e *+AR*, e a banda incluía o acordeonista Marcelus, de Aquidauana. Na entrevista, Sater avaliou que tocar em Campo Grande é especialmente difícil, por causa do público crítico.[^cgn2022]
 
 ### Análise acadêmica
 
@@ -61,28 +61,33 @@ Uma dissertação de Max Junior Sales (ECA-USP, orientação de Ivan Vilela), *A
 
 Em 22 de julho de 2019, recebeu da [[ufms|UFMS]] o título de doutor honoris causa, junto com [[humberto-espindola|Humberto Espíndola]] e [[isaac-de-oliveira|Isaac de Oliveira]]. Segundo o Correio do Estado, foi a primeira vez que a universidade concedeu o título a artistas. A cerimônia ocorreu no contexto da 71ª reunião da SBPC.[^ce2019]
 
-Sobre prêmios, as fontes divergem. Para o Correio do Estado, o álbum *AR*, com [[renato-teixeira|Renato Teixeira]], venceu em 2016 o Prêmio da Música Brasileira (melhor dupla regional) e o Grammy Latino de melhor álbum de raízes em língua portuguesa. Em 2018, *+AR* ganhou o Grammy Latino na mesma categoria.[^ce2019] O Dicionário data *Ar* em 2015 e cita apenas o Grammy Latino de 2018 por *+Ar*, além do Prêmio Sharp de melhor álbum instrumental (1990, *Instrumental II*) e do Prêmio Sharp de melhor canção para "Tocando em frente".[^dmpb]
+Sobre prêmios, as fontes divergem. Para o Correio do Estado, o álbum *AR*, com [[renato-teixeira|Renato Teixeira]], venceu em 2016 o Prêmio da Música Brasileira (melhor dupla regional) e o Grammy Latino de melhor álbum de raízes em língua portuguesa. Em 2018, *+AR* ganhou o Grammy Latino na mesma categoria.[^ce2019] O Dicionário data *Ar* em 2015 e cita apenas o Grammy Latino de 2018 por *+Ar*, além do Prêmio Sharp de melhor disco instrumental (1990, *Instrumental II*) e do Prêmio Sharp de melhor música para "Tocando em frente".[^dmpb]
 
 Em fevereiro de 2024, a escola de samba [[mocidade-independente-da-nova-corumba|Mocidade Independente da Nova Corumbá]], de Corumbá, o escolheu como tema do samba-enredo "A Mocidade Apresenta Almir Sater, o Pantaneiro Cantador da Esperança". Sater agradeceu a homenagem e informou que não poderia ir ao desfile, por compromissos anteriores.[^cgn2024]
 
 ## Obras
 
-Discos com ano, segundo o Dicionário Cravo Albin:[^dmpb]
+Seleção de discos com ano, segundo o Dicionário Cravo Albin:[^dmpb]
 
 - *Almir Sater* (1981)
 - *Doma* (1982)
+- *Almir Sater instrumental* (1985)
 - *Cria* (1986)
+- *Violeiros do Brasil* (1988 e 2004)
 - *Rasta bonito* (1989, gravado em Nashville)
 - *Instrumental II* (1990)
+- *Almir Sater no Pantanal* (1990, LP; 1996, CD)
+- *Almir Sater ao vivo* (1992)
+- *Terra de sonhos* (1994)
 - *Caminhos me levem* (1997)
 - *Um violeiro toca* (2006)
 - *Sete Sinais* (2007)
 - *Ar* (2015, com [[renato-teixeira|Renato Teixeira]])
 - *+Ar* (2018, com [[renato-teixeira|Renato Teixeira]])
 
-O Correio do Estado cita ainda, sem ano, *Terra de Sonhos* e [[prata-da-casa|*Prata da Casa*]], descrito como o primeiro disco coletivo gravado em Mato Grosso do Sul e produzido pela UFMS.[^ce2019] O Jornal da USP data em 1985 o álbum *Instrumental*.[^jusp2021]
+O Correio do Estado cita também *Terra de Sonhos*, sem ano, e [[prata-da-casa|*Prata da Casa*]], descrito como o primeiro disco coletivo gravado em Mato Grosso do Sul e produzido pela UFMS.[^ce2019] O Jornal da USP data em 1985 o álbum *Instrumental*.[^jusp2021]
 
-*Luzeiro* (grafado "Luzero" no Dicionário), faixa do primeiro disco, virou tema de abertura do Globo Rural.[^dmpb]
+A composição *Luzeiro* (grafada "Luzero" no Dicionário) foi escolhida como tema de abertura do Globo Rural.[^dmpb]
 
 As fontes variam na grafia de alguns títulos: *7 Sinais* (Correio do Estado) e *Sete Sinais* (Dicionário); *AR* (Correio do Estado) e *Ar* (Dicionário).[^ce2019][^dmpb]
 

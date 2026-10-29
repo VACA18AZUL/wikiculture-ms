@@ -154,3 +154,9 @@ Ficou de fora:
 - Itens de "Não confirmado" e fontes descartadas.
 
 Nomes novos propostos em `dados/propostas/nomes-almir-sater.csv`: rei-do-gado-novela, renascer-novela, altas-horas, paula-fernandes, tocando-em-frente. Relações novas em `relacoes-almir-sater.csv`.
+
+### Reescrita após devolução (29 out. 2026)
+
+- Corrigidos os quatro PROBLEMAs do relatório: "trancou a matrícula" (Direito); o Direito, e não a Educação Física, é o curso deixado para a música no Correio, com a Educação Física até a mudança para São Paulo em 1978; "um de seus parceiros mais constantes"; *Luzeiro* sem a atribuição ao primeiro disco (a linha 62 deste dossiê trazia o erro).
+- ATENÇÕES atendidas: "acompanhou" o grupo de Tetê Espíndola (Correio); fala de Sater sobre Campo Grande reformulada; categorias do Sharp como no Dicionário ("melhor disco instrumental", "melhor música"); lista de discos marcada como seleção e completada com os discos do Dicionário (*Almir Sater instrumental*, *Violeiros do Brasil*, *No Pantanal*, *ao vivo*, *Terra de sonhos*), conforme apontado pelo revisor.
+- Fora, por não ser fato novo confirmado no dossiê: as aulas com Paulo Simões (o revisor reabriu o Correio e confirma o trecho; fica para o atualizador).
