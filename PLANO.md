@@ -2,7 +2,7 @@
 
 Portal de perfis de agentes culturais e produções de Mato Grosso do Sul, nas áreas de teatro, dança, circo, literatura, artes plásticas, audiovisual e música.
 
-**Estado atual:** Fase 0 concluída em 08/10/2026. Mapa de agentes e fluxo paralelo na nuvem criados em 27/10/2026 (`AGENTES.md`, `dados/fluxo/`). Garimpo de 27/10/2026: artes-plasticas, 36 nomes na lista-mestra (+30). Garimpo de 28/10/2026: musica, 66 nomes na lista-mestra (+30). Garimpo de 28/10/2026: teatro, 96 nomes na lista-mestra (+30). Fechamento de 28/10/2026: 120 nomes na lista-mestra (112 a-pesquisar, 1 dossie, 7 devolvido, 0 pronto-para-lote); 7 verbetes revisados e todos devolvidos ao redator; nenhum lote aberto aguardando o Helton. Garimpo de 29/10/2026: danca, 150 nomes na lista-mestra (+30). Fechamento de 29/10/2026: 181 nomes na lista-mestra (169 a-pesquisar, 5 dossie, 6 devolvido, 1 pronto-para-lote); 2 verbetes revisados (paulo-simoes pronto, almir-sater devolvido por cópia de trecho); nenhum lote aberto aguardando o Helton (faltam 9 prontos para o lote 1). Próxima: ligar o ciclo automático (`AGENTES_LIGADOS`) e, em paralelo, o Helton revisar a lista-mestra na branch `producao`.
+**Estado atual:** Fase 0 concluída em 08/10/2026. Fase 1 triada nas sete áreas entre 27 e 28/10/2026 (351 linhas na lista-mestra), aguardando sua revisão: cortar, acrescentar e reordenar. Fase 2 (piloto de 35 rascunhos, 5 por área) redigida em 29/10/2026 e enviada em quatro PRs empilhados (lotes 1 a 4), aguardando revisão: verbetes ficam em `rascunho` até você revisar. Próxima: Fase 3 (expansão por área, até 10 verbetes por PR), que depende das decisões em aberto abaixo. Em 29/10/2026 a triagem foi unida à lista da branch `producao`, onde os agentes rodam em paralelo na nuvem (`AGENTES.md`, `dados/fluxo/`): pesquisadores e redatores trabalham sobre a lista unida e o garimpeiro só completa; verbetes passam pelo revisor e saem em lotes de 10 para pull request.
 
 ## Decisão central
 
@@ -14,7 +14,10 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 - Um arquivo Markdown por verbete, com ficha estruturada no topo. Modelo em `modelos/verbete.md`.
 - Cinco tipos de verbete: pessoa, grupo ou coletivo, obra ou produção, espaço ou instituição, evento ou festival.
 - Navegação tipo Wikipedia: links internos `[[...]]`, "páginas que apontam para cá", páginas por área e por cidade, busca, caixa lateral e lista de verbetes desejados.
-- `npm run conferir` verifica as regras editoriais e roda antes de cada publicação.
+- Seções de obra por área: Discografia (música), Espetáculos (teatro, dança e circo), Filmografia (audiovisual, atores e técnicos) e Videografia (videoclipes, registros de shows e espetáculos, documentários; qualquer área). Cada item tem fonte própria e, quando existir, link para escuta ou vídeo no canal oficial ou nos canais de acervo aceitos (Memória Fonográfica de MS e Vaca Azul).
+- Produções audiovisuais têm Ficha técnica com a equipe ligada por `[[...]]`. O link da produção se repete na Filmografia ou Videografia de cada integrante com verbete, e o `conferir` avisa o que falta.
+- Campo `links` na ficha para site oficial, portfólio e perfis (Instagram, YouTube, Spotify, Vimeo etc.). Aparece como "Ligações externas" no fim da página.
+- `npm run conferir` verifica as regras editoriais e roda antes de cada publicação. `npm run links` testa links quebrados; depende de rede e roda só no computador, antes de cada lote.
 
 ## Regras editoriais
 
@@ -30,7 +33,7 @@ O conteúdo fica separado do design. Cada verbete é um arquivo de texto em `ver
 | Fase | Entrega | Marco | Situação |
 |---|---|---|---|
 | 0. Fundação | Estrutura, modelo de ficha, verbetes-modelo, publicação automática | Navegação funcionando | Concluída |
-| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | A fazer |
+| 1. Lista-mestra | `dados/lista-mestra.csv` com nomes e obras por área, fonte de origem e prioridade | Cerca de 300 nomes triados | Triagem feita nas 7 áreas; aguarda revisão |
 | 2. Piloto | 35 verbetes completos (5 por área), revisados | Padrão de qualidade validado | A fazer |
 | 3. Expansão | Lotes por área, um pull request por lote | Cobertura da lista-mestra | A fazer |
 | 4. Design | Identidade visual aplicada sobre o conteúdo pronto | Lançamento público | A fazer |
@@ -41,9 +44,13 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 ### Fase 1 em passos
 
 1. Uma área por sessão, na ordem: artes plásticas, música, teatro, dança, literatura, audiovisual, circo.
-2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade. Relações entre nomes (integrou, fundou, expôs em...) vão em `dados/relacoes.csv`, com fonte; são elas que viram links entre verbetes nas fases 2 e 3.
+2. Para cada área, varrer as fontes abaixo e registrar na lista-mestra: nome, tipo, cidade, fonte de origem com link, prioridade, e link do artigo na Wikipédia (pt), se houver. Relações entre nomes (integrou, fundou, expôs em...) vão em `dados/relacoes.csv`, com fonte; são elas que viram links entre verbetes.
 3. Prioridade alta: quem aparece em duas ou mais fontes independentes, ou em fonte acadêmica.
 4. Não redigir verbetes nesta fase.
+   - Várias fontes para um nome: separe por `;` em `fonte_de_origem` e em `url_fonte`.
+   - Prioridade **alta**: fonte acadêmica que trata do nome com substância, ou duas ou mais fontes distintas com ao menos uma em profundidade (obituário, perfil, mostra individual, premiação). **Média**: uma fonte, ou citação em lista. **Baixa**: ligação com MS pouco clara ou item periférico.
+   - Nome citado sem ligação com MS confirmada pela fonte não entra; fica em `observacoes` do item relacionado.
+   - Ao registrar, anote em `observacoes` a divergência entre fontes e se a leitura foi feita por subagente.
 5. Ao fim de cada área, você revisa a lista: corta, acrescenta e reordena.
 
 ### Tamanho de lote na Fase 3
@@ -67,6 +74,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 | Lado B (Campo Grande News) | Cobertura cultural contínua; datas e estreias | https://www.campograndenews.com.br/lado-b |
 | Correio B (Correio do Estado) | Cobertura cultural contínua | https://correiodoestado.com.br/correio-b |
 | Enciclopédia Itaú Cultural | Verbetes nacionais já consolidados | https://enciclopedia.itaucultural.org.br |
+| Wikipédia (pt) | Conferência cruzada e lista de links para verificar; não é citável no verbete | https://pt.wikipedia.org |
 
 ### A confirmar na Fase 1
 

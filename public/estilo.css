@@ -102,6 +102,9 @@ h2.secao, .conteudo h2 { font-size: 1.4rem; margin: 28px 0 10px; }
 .conteudo .sr-only { position: static; }
 .conteudo ul, .conteudo ol { padding-left: 1.4em; }
 
+.links { clear: both; }
+.links ul { padding-left: 1.4em; }
+
 .caixa {
   clear: both; margin-top: 28px; padding: 10px 14px; font-size: 0.9rem;
   background: var(--fundo-suave); border: 1px solid var(--borda); border-radius: 3px;
