@@ -23,25 +23,25 @@ atualizado: 2026-10-29
 
 Segundo o Diário Corumbaense, que reproduz matéria do Campo Grande News, Delinha nasceu em 7 de setembro de 1936 em Vista Alegre, distrito de Maracaju, e foi com os pais para Campo Grande aos 8 anos.[^dc2022] O Tudo do MS confirma a data e o distrito.[^tdms2013] O Correio do Estado diz apenas que ela era natural de Maracaju.[^cde2022]
 
-Começou a cantar no coral da Igreja Perpétuo Socorro, por iniciativa da mãe, e ali conheceu [[delio|Délio]], seu parceiro artístico.[^cde2022] Segundo o Glossário da Música Sul-Mato-Grossense, antes da dupla os dois formaram com uma terceira cantora o trio "Duas Damas e Um Valete". O mesmo site diz que usaram primeiro o nome Duo Pintassilgo e que o nome [[delio-e-delinha|Délio e Delinha]] foi dado pelo locutor Capitão Barduíno.[^gms2020]
+Começou a cantar no coral da Igreja Perpétuo Socorro, por iniciativa da mãe, e ali conheceu [[delio|Délio]], seu parceiro artístico.[^cde2022] Segundo o Glossário da Música Sul-Mato-Grossense, antes da dupla os dois formaram com uma terceira cantora o trio "Duas Damas e Um Valete". O mesmo site diz que usaram primeiro o nome Duo Pintassilgo e que o nome [[delio-e-delinha|Délio e Delinha]] foi dado por Capitão Barduíno.[^gms2020]
 
 ### Dupla Délio e Delinha
 
-O Correio do Estado descreve a dupla como a de maior sucesso da música de Mato Grosso do Sul.[^cde2022] Ela ficou conhecida como "casal de onças do Mato Grosso".[^dc2022]
+O Correio do Estado descreve a dupla como a de maior sucesso da música de Mato Grosso do Sul.[^cde2022] A dupla ficou conhecida como "casal de onças do Mato Grosso".[^dc2022]
 
 O Glossário diz que a dupla foi para São Paulo com apoio de [[zacarias-mourao|Zacarias Mourão]] e cantou em rádio sem pagamento por cinco anos e um mês, para divulgar o nome.[^gms2020] O Recanto Caipira cita as rádios Bandeirantes e Nove de Julho e diz que Delinha tinha 19 anos ao ir para a capital paulista.[^rc] O Campo Grande News, via Diário Corumbaense, afirma que ela morou oito anos em São Paulo, em busca de rádio e televisão.[^dc2022]
 
-O primeiro disco, de 78 rotações, trazia "Malvada" e "Cidades irmãs" e é de 1959. Segundo o Glossário, não fez sucesso em São Paulo e a dupla voltou a Mato Grosso, onde ganhou popularidade.[^gms2020] O Recanto Caipira diz que a dupla fez a trilha de *Lá no meu sertão* (1961), primeiro filme de Tonico e Tinoco.[^rc]
+O primeiro disco, de 78 rotações, trazia "Malvada" e "Cidades irmãs" e é de 1959. Segundo o Glossário, não fez sucesso em São Paulo e a dupla voltou a Mato Grosso, onde ganhou popularidade.[^gms2020] O Recanto Caipira diz que a dupla participou da trilha de *Lá no meu sertão* (1961), primeiro filme de Tonico e Tinoco.[^rc]
 
-Sobre a separação e o retorno da dupla, as fontes divergem. O Correio do Estado diz que a dupla se separou na década de 1970 e voltou nos anos 1980, gravando "O sol e a lua".[^cde2022] O Campo Grande News diz que os dois voltaram aos palcos em 1993.[^dc2022] O Recanto Caipira diz que se reuniram em 1978, com o disco *O Sol e a Lua*, e que reapareceram em apresentações em 1993.[^rc]
+Sobre a separação e o retorno da dupla, as fontes divergem. O Correio do Estado diz que a dupla se separou na década de 1970 e voltou nos anos 1980, gravando "O sol e a lua".[^cde2022] O Campo Grande News diz que os dois voltaram aos palcos em 1993.[^dc2022] O Recanto Caipira diz que se reuniram em 1978, com o disco *O Sol e a Lua*, embora a discografia da mesma página liste duas edições do título, de 1964 e de 1978, e que reapareceram em apresentações em 1993.[^rc]
 
-Em 2007, a dupla gravou em Campo Grande o projeto dos 50 anos de carreira, com participações de Maciel Corrêa e Zézinho Nantes. O CD e o DVD saíram em dezembro daquele ano. O Recanto Caipira cita [[zedu|José Eduardo Moraes (Zédu)]] entre os idealizadores.[^rc]
+Em 2007, a dupla gravou em Campo Grande o projeto dos 50 anos de carreira, com participações de Maciel Corrêa e Zézinho Nantes. O CD e o DVD saíram em dezembro daquele ano. O Recanto Caipira cita José Eduardo Moraes (Zédu) entre os idealizadores.[^rc]
 
 [[delio|Délio]] morreu em fevereiro de 2010 em Campo Grande.[^cde2010] A data exata varia entre as fontes: 8 de fevereiro no Recanto Caipira e 9 de fevereiro no MS Notícias.[^rc][^msn2022]
 
 ### Carreira após 2010
 
-Depois da morte de [[delio|Délio]], Delinha seguiu em carreira solo, segundo o Correio do Estado, o Campo Grande News e o Recanto Caipira.[^cde2022][^dc2022][^rc] O MS Notícias diz que passou a cantar com o filho.[^msn2022]
+Depois da morte de [[delio|Délio]], Delinha seguiu em carreira solo, segundo o Correio do Estado e o Recanto Caipira.[^cde2022][^rc] O Campo Grande News situa o início da carreira solo depois de 2012.[^dc2022] O MS Notícias diz que passou a cantar com o filho.[^msn2022]
 
 Em 2013, o jornalista Wilson Koller lançou a biografia [[por-onde-andei-wilson-koller|*Por Onde Andei*]], em evento em 9 de novembro na Concha Acústica de Maracaju.[^tdms2013] Em 2020, durante a pandemia, ela fez uma live exibida pelo Campo Grande News, vista por 56 mil pessoas segundo o jornal, e distribuiu um pen drive com mais de 300 músicas.[^dc2022]
 
@@ -55,11 +55,11 @@ Morreu em 16 de junho de 2022, em Campo Grande, aos 85 anos. O governador decret
 
 ### Gênero musical
 
-Todas as fontes associam a cantora ao rasqueado. O Diário Corumbaense a chama também de "cantora de chamamé" e o MS Notícias de "chamamezeira".[^dc2022][^msn2022] O Glossário lista, na discografia da dupla, rasqueado, cana-verde, arrasta-pé, xote, guarânia e canção rancheira.[^gms2020]
+Todas as fontes associam a cantora ao rasqueado. O Diário Corumbaense e o MS Notícias a chamam também de "chamamezeira".[^dc2022][^msn2022] O Glossário lista, na discografia da dupla, rasqueado, cana-verde, arrasta-pé, xote e canção rancheira.[^gms2020]
 
 ## Discografia
 
-Os números da discografia da dupla divergem. O Correio do Estado e o Campo Grande News falam em 32 títulos entre LPs, CDs, DVDs e compactos, a maior discografia de artistas de Mato Grosso do Sul.[^cde2022][^dc2022] A composição varia: 14 discos de 78 rpm, 4 compactos e 5 CDs, segundo [[delio|Délio]] em entrevista citada pelo Correio do Estado; 19 LPs, 2 compactos, 14 discos de 78 rpm, 4 CDs e 2 DVDs, segundo o Campo Grande News.[^cde2022][^dc2022]
+Os números da discografia da dupla divergem. O Correio do Estado e o Campo Grande News falam em 32 títulos entre LPs, CDs, DVDs e compactos.[^cde2022][^dc2022] O Campo Grande News os descreve como a maior discografia da história do estado.[^dc2022] A composição varia: 14 discos de 78 rpm, 4 compactos e 5 CDs, segundo [[delio|Délio]] em entrevista citada pelo Correio do Estado; 19 LPs, 2 compactos, 14 discos de 78 rpm, 4 CDs e 2 DVDs, segundo o Campo Grande News.[^cde2022][^dc2022]
 
 - "Malvada" / "Cidades irmãs" (1959) — disco de 78 rpm, gravadora [[gravadora-california|Califórnia]].[^gms2020][^rc]
 - *O Casal de Onça de Mato Grosso* (1963) — álbum de 12 faixas, gravadora Califórnia, produção de Mário Vieira.[^gms2020]
