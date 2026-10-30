@@ -115,7 +115,7 @@ Itens citados como parte do acervo. Cada item tem a nota da matéria que o cita;
 | mis-ms | acervo-em (acervo doado/compartilhado; exposição de 2014) | cgn2014, cgn2021, cgn2024 | não | sim (já em relacoes.csv) |
 | fundacao-de-cultura-de-ms | relacionado-a (FIC da FCMS financiou; Kit de Difusão Musical; exposição de 2014) | cgn2014, ce2011 | sim | sim |
 | kit-de-difusao-musical | relacionado-a (criado por Carlos Luz e Sprandel na FCMS) | ce2011 | não | não (proposto) |
-| os-pioneiros-origem-da-musica-sertaneja-ms | relacionado-a (trilha sonora, 2011) | ce2011 | não | sim (ver duplicidade abaixo) |
+| os-pioneiros-origem-da-musica-sertaneja-de-ms | relacionado-a (trilha sonora, 2011) | ce2011 | não | sim (ver duplicidade abaixo) |
 | franquito | relacionado-a (disco no acervo) | cgn2021, cgn2024 | não | não (proposto) |
 | delio-e-delinha | relacionado-a (discos no acervo) | cgn2021, cgn2024 | não | sim |
 | almir-sater | relacionado-a (disco no acervo) | cgn2024 | sim | sim |
@@ -129,7 +129,7 @@ Itens citados como parte do acervo. Cada item tem a nota da matéria que o cita;
 
 Nomes citados nas fontes e não propostos: Américo Calheiros (presidente da FCMS em 2011 e 2014), Rodrigo Teixeira (já na lista-mestra, `rodrigo-teixeira`), José Mojica Marins (diretor ou produtor de *Meu Destino em Suas Mãos*; ligação com MS só por este filme), Jean Cocteau, Herminio Gimenez, os artistas citados sem detalhe (ver "Obras") e os fotógrafos e museólogos não nomeados.
 
-Pontos de atenção para o garimpeiro: há dois ids para "Os Pioneiros" na lista-mestra (`os-pioneiros-origem-da-musica-sertaneja-de-ms`, linha 88, e `os-pioneiros-origem-da-musica-sertaneja-ms`, linha 468). Usei o segundo, que o dossiê do MIS adotou.
+Pontos de atenção para o garimpeiro: há dois ids para "Os Pioneiros" na lista-mestra (`os-pioneiros-origem-da-musica-sertaneja-de-ms`, linha 88, e `os-pioneiros-origem-da-musica-sertaneja-de-ms`, linha 468). Usei o segundo, que o dossiê do MIS adotou.
 
 ## Divergências entre fontes
 

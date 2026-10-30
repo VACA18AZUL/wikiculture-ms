@@ -92,7 +92,7 @@ Fontes descartadas e o motivo:
 | memoria-fonografica-de-ms | acervo-em (acervo doado ao MIS) | cgn2014, ce2011 | não | não (proposto) |
 | carlos-luz | criou a Memória Fonográfica | cgn2014, ce2011 | não | não (proposto) |
 | rodrigo-teixeira | criou "Os Pioneiros" | ce2011, cgn2014 | não | não (proposto) |
-| os-pioneiros-origem-da-musica-sertaneja-ms | apresentou-em | ce2011, cgn2014 | não | não (proposto) |
+| os-pioneiros-origem-da-musica-sertaneja-de-ms | apresentou-em | ce2011, cgn2014 | não | não (proposto) |
 | rachid-waqued | expos-em | ac2026a, ac2026b | não | não (proposto) |
 | rota-cine-ms | participou-de | ac2026a, ac2026b | não | não (proposto) |
 | instituto-curumins | colaborou-com a FCMS | ac2026a, ac2026b | não | não (proposto) |
