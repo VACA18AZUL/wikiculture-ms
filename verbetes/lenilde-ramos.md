@@ -3,23 +3,23 @@ titulo: Lenilde Ramos
 tipo: pessoa
 areas: [musica, literatura]
 cidade: Campo Grande
-resumo: Cantora, acordeonista, compositora, jornalista e escritora de Campo Grande. Lançou o álbum Onça Pintada (2009), recebeu o Prêmio Grão de Música em 2023 e integra a Academia Sul-Mato-Grossense de Letras.
+resumo: Cantora, acordeonista, compositora, jornalista e escritora de Campo Grande. Lançou o álbum Onça Pintada (2009), foi anunciada entre as premiadas do Prêmio Grão de Música de 2023 e integra a Academia Sul-Mato-Grossense de Letras.
 ficha:
   Nascimento: "1952, Campo Grande"
   Atividade: Canto, acordeom, composição, escrita
   Instituição: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]]"
-  Prêmio: "[[premio-grao-de-musica|Prêmio Grão de Música]], 2023"
+  Prêmio: "Anunciada entre as premiadas do [[premio-grao-de-musica|Prêmio Grão de Música]], 2023"
 status: rascunho
 atualizado: 2026-10-30
 ---
 
-**Lenilde Ramos** é cantora, instrumentista, compositora, jornalista e escritora de Campo Grande, nascida em 1952.[^pva2023] Em entrevista de 2023, definiu-se como "escritora de vivências" e disse escrever crônicas, letras e poemas.[^ce2023]
+**Lenilde Ramos** é cantora, instrumentista, compositora, jornalista e escritora de Campo Grande, nascida em 1952.[^pva2023] [^ce2023] Em entrevista de 2023, definiu-se como "escritora de vivências" e disse escrever crônicas, letras e poemas.[^ce2023]
 
 ## Trajetória
 
-Toca acordeom desde a infância. Começou no piano e preferiu a sanfona pela praticidade e pela autonomia.[^ce2023] [^oeo2024] Contou ter começado a estudar música em casa aos cinco anos; a segunda matéria diz que a idade foi de cinco e de sete anos, quando recebeu uma sanfona pequena.[^ce2023] [^oeo2024] Passou cerca de dez anos em escola de música, com repertório clássico, e começou a compor aos 15 anos.[^ce2023]
+Toca acordeom desde a infância. Começou no piano e preferiu a sanfona pela praticidade e pela autonomia.[^ce2023] [^oeo2024] Contou ter começado a estudar música em casa aos cinco anos; a segunda matéria traz duas idades: diz que a música "floresceu" aos sete anos, com uma sanfona pequena dada pelo pai, e, em fala dela, que a sanfona a acompanha desde os cinco.[^ce2023] [^oeo2024] Passou cerca de dez anos em escola de música, com repertório clássico, e começou a compor aos 15 anos.[^ce2023]
 
-Aos 16 anos, venceu um festival organizado por Glorinha Sá Rosa, em que José Octávio Guizzo foi concorrente. A fonte não informa o ano nem o nome do festival.[^ce2023] Descreve-se como contralto e canta em vários gêneros e em sete idiomas, segundo a matéria.[^ce2023] Afirmou ter vivido só de música por cerca de dez anos, sempre com outros empregos em paralelo.[^ce2023]
+Aos 16 anos, venceu um festival organizado por Glorinha Sá Rosa, em que [[jose-octavio-guizzo|José Octávio Guizzo]] foi concorrente. A fonte não informa o ano nem o nome do festival.[^ce2023] Descreve-se como contralto e canta em vários gêneros e em sete idiomas, segundo a matéria.[^ce2023] Afirmou ter vivido só de música por cerca de dez anos, sempre com outros empregos em paralelo.[^ce2023]
 
 Costuma compor a partir da letra. Trabalhou com textos de [[emmanuel-marinho|Emmanuel Marinho]], de [[joel-pizzini|Joel Pizzini]] e de [[manoel-de-barros|Manoel de Barros]], de quem musicou dois poemas.[^ce2023] Entre as influências, citou Stravinsky, Jackson do Pandeiro, [[delio-e-delinha|Délio & Delinha]], Mahler, Pixinguinha e cantos guarani, e falou de [[tete-espindola|Tetê Espíndola]] e de [[helena-meirelles|Helena Meirelles]], esta última sua amiga.[^ce2023]
 
@@ -35,7 +35,7 @@ Conviveu 25 anos com [[lino-villacha|Lino Villachá]] (1938–1994), paciente do
 
 ## Prêmios
 
-Recebeu o [[premio-grao-de-musica|Prêmio Grão de Música]] na 10ª edição, em 2023. Foi uma das 15 premiadas, de 13 estados, e o outro nome de Mato Grosso do Sul foi [[guilherme-rondon|Guilherme Rondon]]. A cerimônia foi em 15 de dezembro de 2023, em São Paulo, com estatueta de Elifas Andreato.[^pva2023] [^ce2023] O prêmio é nacional, não sul-mato-grossense.[^pva2023] Foi indicada por [[thamires-tannous|Thamires Tannous]], premiada em 2015, e a indicação foi confirmada por [[socorro-lira|Socorro Lira]], criadora do prêmio.[^ce2023] Sobre o local da cerimônia, a Revista Prosa Verso e Arte cita o Teatro Brincante e o Correio do Estado cita o Instituto Brincante.[^pva2023] [^ce2023]
+Foi anunciada entre os premiados da 10ª edição do [[premio-grao-de-musica|Prêmio Grão de Música]], em 2023. Foi uma das 15 premiadas, de 13 estados, e o outro nome de Mato Grosso do Sul foi [[guilherme-rondon|Guilherme Rondon]]. Nas duas matérias, publicadas antes da data, a cerimônia estava marcada para 15 de dezembro de 2023, em São Paulo, com estatueta de Elifas Andreato; as fontes lidas não confirmam a entrega.[^pva2023] [^ce2023] O prêmio é nacional, não sul-mato-grossense.[^pva2023] Foi indicada por [[thamires-tannous|Thamires Tannous]], premiada em 2015, e a indicação foi confirmada por [[socorro-lira|Socorro Lira]], criadora do prêmio.[^ce2023] Sobre o local previsto, a Revista Prosa Verso e Arte cita o Teatro Brincante e o Correio do Estado cita o Instituto Brincante.[^pva2023] [^ce2023]
 
 ## Obras
 

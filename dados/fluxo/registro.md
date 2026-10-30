@@ -84,3 +84,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-30T18:45Z | pesquisador | amambay-e-amambai | concluída | US$ 0.79 | modelo claude-sonnet-5-5
 2026-10-30T18:50Z | redator | guadakan | concluída | US$ 0.15 | modelo claude-sonnet-5-5
 2026-10-30T18:50Z | redator | renato-teixeira | concluída | US$ 0.15 | modelo claude-sonnet-5-5
+2026-10-30T18:50Z | redator | lenilde-ramos | concluída | US$ 0.16 | modelo claude-sonnet-5-5
