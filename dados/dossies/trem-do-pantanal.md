@@ -205,3 +205,6 @@ Verbete: `verbetes/trem-do-pantanal.md` (14 fontes: cgn2025a, cgn2025b, cgn2022,
 - Nomes novos em `dados/propostas/nomes-trem-do-pantanal.csv`: luan-santana, michel-telo, rolando-boldrin, alex-batata. Relações em `dados/propostas/relacoes-trem-do-pantanal.csv`. As demais relações do dossiê já estão em `dados/relacoes.csv`.
 - `wikipedia_pt` da lista-mestra: https://pt.wikipedia.org/wiki/Trem_do_Pantanal_(canção) (não editei a lista-mestra).
 - Situação marcada como `rascunho` com `fila.mjs marcar`.
+
+**Rodada de 30 out. 2026 (devolução)**
+- P1 da revisão resolvido: o verbete registra a divergência de autoria do Dicionário Cravo Albin (texto do verbete de Roca cita só Simões como parceiro; lista de obras inclui Almir Sater). Conferido de novo na página nesta sessão. A ficha continua com Roca e Simões, que é o que dizem as fontes no texto corrido.

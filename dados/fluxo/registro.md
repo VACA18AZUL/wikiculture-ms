@@ -72,3 +72,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-30T10:00Z | pesquisador | marcos-bessa-oliveira | concluída | US$ 0.51 | modelo claude-sonnet-5-5
 2026-10-30T10:00Z | garimpeiro | garimpeiro | concluída | US$ 0.94 | modelo claude-sonnet-5-5
 2026-10-30T10:00Z | pesquisador | crianceiras | concluída | US$ 0.79 | modelo claude-sonnet-5-5
+2026-10-30T10:07Z | redator | trem-do-pantanal | concluída | US$ 0.15 | modelo claude-sonnet-5-5

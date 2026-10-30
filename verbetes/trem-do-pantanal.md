@@ -12,10 +12,12 @@ links:
     url: https://pt.wikipedia.org/wiki/Trem_do_Pantanal_(canção)
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-10-30
 ---
 
 **Trem do Pantanal** é uma canção de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]], composta em 1975 durante uma viagem de trem.[^cgn2025a] A Crítica de Campo Grande a trata como "uma das músicas mais simbólicas" da cultura sul-mato-grossense.[^acritica2026] Ficou conhecida na voz de [[almir-sater|Almir Sater]].[^ce2024]
+
+Quanto à autoria, o Dicionário Cravo Albin a credita a Roca e Simões no texto do verbete de Roca, mas a lista de obras da mesma página inclui Almir Sater como coautor. As outras fontes lidas citam só Roca e Simões.[^cravo]
 
 ## Origem
 
