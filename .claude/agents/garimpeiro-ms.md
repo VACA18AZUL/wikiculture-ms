@@ -54,6 +54,10 @@ Relação sem fonte aberta não entra. Relação em que a fonte é vaga ("influe
 - Nomes homônimos: se não tiver certeza de que é a mesma pessoa, registre como dois candidatos e anote a dúvida.
 - Não crie nem edite arquivos em `verbetes/`.
 
+## Garimpo no Campo Grande News
+
+Quando o pedido for do modo Campo Grande News, siga `dados/garimpo/cgn/LEIA-ME.md` em vez do método de bola de neve: pendentes primeiro, matérias novas depois, nunca reabrindo o que está em `lidas.txt`.
+
 ## Registro de progresso
 
 Se existir `dados/garimpo/`, leia `dados/garimpo/LEIA-ME.md` e mantenha o arquivo `dados/garimpo/<area>.md`: fontes varridas, nomes expandidos e fila de candidatos. É assim que a rodada seguinte sabe onde você parou. Candidato que ficou sem pesquisar vai para a fila, não para o relatório apenas.

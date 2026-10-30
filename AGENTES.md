@@ -86,6 +86,8 @@ Em cada ciclo (a cada 3 horas, por padrão):
 3. `refila` recalcula e os **redatores** (até 4) escrevem um verbete por dossiê novo.
 4. **fechamento** roda ligador, revisor (até 10 verbetes) e empacota a branch `lote-NN` quando há 10 prontos.
 
+O garimpeiro alterna dois modos, um por ciclo: **geral** (rodízio de áreas nas fontes do `PLANO.md`) e **Campo Grande News** (rodízio de quatro grupos de áreas no Lado B, com fila de pendentes e lista de matérias já lidas em `dados/garimpo/cgn/`).
+
 Retroalimentação: nomes e relações que qualquer agente encontra entram em `dados/propostas/` e viram candidatos na rodada seguinte, com prioridade maior se apareceram mais de uma vez; o grau de conexão em `relacoes.csv` ordena a fila; o revisor devolve ao redator com relatório; fonte única vai ao atualizador.
 
 ### Para ligar (uma vez, pelo Helton)
