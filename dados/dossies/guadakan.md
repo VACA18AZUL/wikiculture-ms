@@ -144,4 +144,5 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
--
+- Entrou: origem e tema, Moinho In Concert 2022, 2023 (números e Rio), COP15 2026, Paulista 2026, equipe confirmada em fonte aberta.
+- Ficou de fora: o que dependia só de cgn2023, cgn2023bonito e cgn2024sp (HTTP 403 nesta sessão, não reabertas): Arce Correia, Suelen Garcez, Libras, Ponta Porã, Dourados, Bonito, São Paulo 2024, classificação 14 anos. Fora também: regência de José Maikon (função não clara), Laryssa Durigon, FESTOP.

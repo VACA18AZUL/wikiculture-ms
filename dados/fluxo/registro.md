@@ -65,3 +65,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-30T01:06Z | redator | trem-do-pantanal | concluída | US$ 0.12 | modelo claude-sonnet-5-5
 2026-10-30T01:06Z | redator | marcio-de-camillo | concluída | US$ 0.17 | modelo claude-sonnet-5-5
 2026-10-30T01:06Z | redator | delinha | concluída | US$ 0.12 | modelo claude-sonnet-5-5
+2026-10-30T01:06Z | redator | guadakan | concluída | US$ 0.31 | modelo claude-sonnet-5-5
