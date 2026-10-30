@@ -12,6 +12,7 @@
 //   dossie           dossiê pronto, sem verbete             -> redator
 //   rascunho         verbete escrito, aguardando fechamento -> ligador + revisor
 //   devolvido        revisor achou PROBLEMA                 -> redator (lê dados/revisao/<id>.md)
+//   parado           devolvido três vezes; espera o Helton   (ninguém)
 //   reforcar         só fonte única; tentar segunda fonte   -> atualizador
 //   pronto-para-lote passou na revisão                      -> empacotar
 //   em-lote          está em uma branch lote-NN             (aguarda pull request e revisão humana)
@@ -25,11 +26,21 @@ const PESO = { alta: 0, media: 1, baixa: 2, '': 3 };
 const args = process.argv.slice(2);
 
 if (args[0] === 'marcar') {
-  const [, id, situacao, obs] = args;
+  let [, id, situacao, obs] = args;
   if (!id || !situacao) sair('uso: fila.mjs marcar <id> <situacao> [observação]');
   const { cabecalho, linhas } = lerCsv(LISTA);
   const linha = linhas.find((l) => l.id === id);
   if (!linha) sair(`id não encontrado na lista-mestra: ${id}`);
+  // Terceira devolução pelo revisor: para e espera o Helton, em vez de girar em círculo.
+  if (situacao === 'devolvido') {
+    const n = Number((linha.observacoes.match(/devolucoes=(\d+)/) ?? [])[1] ?? 0) + 1;
+    linha.observacoes = linha.observacoes.replace(/;?\s*devolucoes=\d+/, '');
+    linha.observacoes = [linha.observacoes, `devolucoes=${n}`].filter(Boolean).join('; ');
+    if (n >= 3) {
+      situacao = 'parado';
+      console.log(`${id}: terceira devolução; fica parado até revisão humana`);
+    }
+  }
   linha.situacao = situacao;
   if (obs) linha.observacoes = linha.observacoes ? `${linha.observacoes}; ${obs}` : obs;
   writeFileSync(LISTA, escreverCsv(cabecalho, linhas));
@@ -67,12 +78,14 @@ if (args.includes('--json')) {
     const i = args.indexOf(flag);
     return i >= 0 ? Number(args[i + 1]) : padrao;
   };
+  const unicos = (lista, max) => [...new Set(lista.map((l) => l.id))].slice(0, max);
   const saida = {
-    pesquisa: por('a-pesquisar').slice(0, n('--pesquisa', 4)).map((l) => l.id),
-    redacao: [...por('devolvido'), ...por('dossie')].slice(0, n('--redacao', 4)).map((l) => l.id),
-    reforco: por('reforcar').slice(0, n('--reforco', 2)).map((l) => l.id),
-    fechamento: por('rascunho').slice(0, n('--fechamento', 10)).map((l) => l.id),
-    prontos: por('pronto-para-lote').map((l) => l.id),
+    pesquisa: unicos(por('a-pesquisar'), n('--pesquisa', 4)),
+    redacao: unicos([...por('devolvido'), ...por('dossie')], n('--redacao', 4)),
+    reforco: unicos(por('reforcar'), n('--reforco', 2)),
+    fechamento: unicos(por('rascunho'), n('--fechamento', 10)),
+    prontos: unicos(por('pronto-para-lote'), Infinity),
+    parados: unicos(por('parado'), Infinity),
     duplicados,
   };
   console.log(JSON.stringify(saida));
