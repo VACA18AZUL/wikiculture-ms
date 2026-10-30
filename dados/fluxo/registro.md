@@ -82,3 +82,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-30T18:44Z | pesquisador | zacarias-mourao | concluída | US$ 0.52 | modelo claude-sonnet-5-5
 2026-10-30T18:45Z | garimpeiro | garimpeiro | concluída | US$ 0.83 | modelo claude-sonnet-5-5
 2026-10-30T18:45Z | pesquisador | amambay-e-amambai | concluída | US$ 0.79 | modelo claude-sonnet-5-5
+2026-10-30T18:50Z | redator | guadakan | concluída | US$ 0.15 | modelo claude-sonnet-5-5

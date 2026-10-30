@@ -23,7 +23,7 @@ A Agência Brasil descreve a obra como concebida a partir do mito indígena guat
 
 Em 13 de dezembro de 2022, o *Correio do Estado* anunciou que o Instituto encerraria o ano com o [[moinho-in-concert|Moinho In Concert]] 2022, chamado na matéria de "Moinho In Concert 2022 – Guadakan", nos dias 14 e 15, no Centro de Convenções do Pantanal, em Corumbá. Segundo o anúncio, haveria quatro apresentações, o evento marcaria os 18 anos do Instituto e reuniria mais de 400 participantes, com mais de 60 pessoas na produção.[^correio2022] O *Campo Grande News* registrou em abril de 2023 que o espetáculo foi apresentado pela primeira vez no Moinho In Concert, em Corumbá.[^cgn2023]
 
-Em abril de 2023, segundo o *Campo Grande News*, o espetáculo seguiu em turnê, com entrada gratuita: Campo Grande, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em 12 de abril; Ponta Porã, em 14 de abril; e Dourados, na programação do [[festop|FESTOP]], em 15 de abril.[^cgn2023]
+Em 11 de abril de 2023, o *Campo Grande News* anunciou uma turnê: apresentação em Campo Grande, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em 12 de abril; em Ponta Porã, em 14 de abril; e encerramento em Dourados, na programação do [[festop|FESTOP]], em 15 de abril. A matéria indica entrada gratuita para as sessões de Campo Grande e de Ponta Porã.[^cgn2023]
 
 Em junho de 2023, a Agência Brasil informou que o espetáculo já passara por 12 cidades de Mato Grosso do Sul, para mais de 4 mil espectadores. A reportagem o apresenta como saindo do estado pela primeira vez, com estreia no Rio de Janeiro em 22 de junho, no [[teatro-odylo-costa-filho|Teatro Odylo Costa, filho]], da Uerj, com sessão às 15h para alunos da rede pública e outra às 19h para o público geral. A reportagem indica patrocínio do [[instituto-cultural-vale|Instituto Cultural Vale]], via Lei Rouanet.[^ab2023] Quanto à classificação indicativa, a Agência Brasil informa dez anos,[^ab2023] e o *Campo Grande News* de abril de 2023 informa 14 anos.[^cgn2023]
 
@@ -33,7 +33,7 @@ Em 16 de maio de 2026, *A Crítica de Campo Grande* anunciou, para o dia 17, uma
 
 ## Equipe
 
-- Concepção cênica e direção geral: [[marcia-rolon|Márcia Rolon]]. Em 2026, *A Crítica* a chama de diretora artística do Instituto.[^correio2022] [^acritica2026cop]
+- Concepção cênica e direção geral: [[marcia-rolon|Márcia Rolon]]. A *Agência Brasil* e o *Correio do Estado* a chamam de diretora-executiva do Instituto; em 2026, *A Crítica* a chama de diretora artística.[^ab2023] [^correio2022] [^acritica2026cop]
 - Coreografia: [[chico-neller|Chico Neller]].[^correio2022] [^acritica2026cop]
 - Adaptação musical e arranjos: [[eduardo-martinelli|Eduardo Martinelli]]. O *Correio do Estado* também cita o maestro [[jose-maikon-amorim-alves|José Maikon Amorim Alves]], sem separar com clareza a função de cada um;[^correio2022] o *Campo Grande News* atribui a ele a regência em abril de 2023.[^cgn2023]
 - Figurinos: [[luiz-gugliatto|Luiz Gugliatto]].[^correio2022]
