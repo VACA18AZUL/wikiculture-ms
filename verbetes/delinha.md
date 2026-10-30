@@ -33,7 +33,7 @@ O Glossário diz que a dupla foi para São Paulo com apoio de [[zacarias-mourao|
 
 O primeiro disco, de 78 rotações, trazia "[[malvada|Malvada]]" e "Cidades irmãs" e é de 1959. Segundo o Glossário, não fez sucesso em São Paulo e a dupla voltou a Mato Grosso, onde ganhou popularidade.[^gms2020] O Recanto Caipira diz que a dupla participou da trilha de *Lá no meu sertão* (1961), primeiro filme de Tonico e Tinoco.[^rc]
 
-Sobre a separação e o retorno da dupla, as fontes divergem. O Correio do Estado diz que a dupla se separou na década de 1970 e voltou nos anos 1980, gravando "O sol e a lua".[^cde2022] O Campo Grande News diz que os dois voltaram aos palcos em 1993.[^dc2022] O Recanto Caipira diz que se reuniram em 1978, com o disco *O Sol e a Lua*, embora a discografia da mesma página liste duas edições do título, de 1964 e de 1978, e que reapareceram em apresentações em 1993.[^rc]
+Sobre a separação e o retorno da dupla, as fontes divergem. O Correio do Estado diz que a dupla se separou na década de 1970 e voltou nos anos 1980, gravando "O sol e a lua".[^cde2022] O Campo Grande News diz que os dois voltaram aos palcos em 1993.[^dc2022] O Recanto Caipira diz que se reuniram em 1978, com o disco [[o-sol-e-a-lua|*O Sol e a Lua*]], embora a discografia da mesma página liste duas edições do título, de 1964 e de 1978, e que reapareceram em apresentações em 1993.[^rc]
 
 Em 2007, a dupla gravou em Campo Grande o projeto dos 50 anos de carreira, com participações de [[maciel-correa|Maciel Corrêa]] e Zézinho Nantes. O CD e o DVD saíram em dezembro daquele ano. O Recanto Caipira atribui o trabalho ao empenho do repórter cinematográfico José Eduardo Moraes (Zédu), entre outros.[^rc]
 
@@ -61,7 +61,7 @@ Todas as fontes associam a cantora ao rasqueado. O Diário Corumbaense e o MS No
 
 Os números da discografia da dupla divergem. O Correio do Estado e o Campo Grande News falam em 32 títulos entre LPs, CDs, DVDs e compactos.[^cde2022][^dc2022] O Campo Grande News os descreve como a maior discografia da história do estado.[^dc2022] A composição varia: 14 discos de 78 rpm, 4 compactos e 5 CDs, segundo [[delio|Délio]] em entrevista citada pelo Correio do Estado; 19 LPs, 2 compactos, 14 discos de 78 rpm, 4 CDs e 2 DVDs, segundo o Campo Grande News.[^cde2022][^dc2022]
 
-- "Malvada" / "Cidades irmãs" (1959) — disco de 78 rpm, gravadora [[gravadora-california|Califórnia]].[^gms2020][^rc]
+- "[[malvada|Malvada]]" / "Cidades irmãs" (1959) — disco de 78 rpm, gravadora [[gravadora-california|Califórnia]].[^gms2020][^rc]
 - *O Casal de Onça de Mato Grosso* (1963) — álbum de 12 faixas, gravadora Califórnia, produção de [[mario-vieira|Mário Vieira]].[^gms2020]
 - Projeto dos 50 anos (2007) — CD e DVD, gravados em 2 de junho de 2007.[^rc]
 

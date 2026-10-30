@@ -1,65 +1,57 @@
 # Revisão: lenilde-ramos
 
-Verbete: `verbetes/lenilde-ramos.md`. Revisor editorial, 30 out. 2026. Segunda revisão: o redator reescreveu o verbete (18:51 UTC) e o ligador inseriu links internos depois. Este relatório substitui o anterior. Os números de linha valem para o arquivo atual.
+Verbete: `verbetes/lenilde-ramos.md`. Revisor editorial, 30 out. 2026. Terceira revisão. Desde o relatório anterior (commit 7d19055), o redator mudou três frases no commit bfbb1f1. Conferi com `git diff 7d19055 HEAD`, e o resto do arquivo está igual, inclusive a ficha sem `[[...]]`, como ficou na correção anterior. As frases mudadas estão nas l. 22 (viver de música), 24 (Tetê Espíndola também chamada de amiga) e 26 ("MST" trocado por "sem-terra"). Este relatório substitui os anteriores. Os números de linha valem para o arquivo atual.
 
 ## Portão de evidências
 
-- `npm run conferir`: **NÃO CONFERIDO**. O Bash foi negado nesta sessão, então o comando não rodou.
-- `npm run build`: **NÃO CONFERIDO**, pelo mesmo motivo. Achei à mão um defeito de exibição que o `conferir` não pega: links `[[...]]` na ficha. Já está corrigido (ver "Corrigido direto").
-- `node scripts/ligacoes.mjs`: **NÃO CONFERIDO**, pelo mesmo motivo. Conferi as ligações à mão contra a lista-mestra (ponto 9).
-- `git diff` do ligador: não pude rodar. Li o arquivo atual inteiro. Os textos dos links do corpo repetem o nome que a fonte usa, e não achei fato novo.
-- Antes do commit, alguém com Bash precisa rodar `npm run conferir` e `npm run build`.
+- `npm run conferir`: **passou** ("17 verbetes conferidos. [...] Nenhum erro.").
+- `npm run build`: **passou** (33 páginas).
+- `node scripts/ligacoes.mjs`: rodou. As sugestões são "Hospital São Julião" no título de seção (l. 28) e no título do livro (l. 47), que já está ligado nas l. 32 e 47; "Julião" -> `juliao` (falso positivo); "Onça Pintada" (l. 42, já ligado como "álbum"); e o título de *História sem Nome* (l. 44, já ligado como "livro"). Nada a fazer.
 
-**Fontes desta revisão:** abri nesta sessão as cinco notas (ce2023, pva2023, oeo2024, acr2026, ce2026). Limite: a ferramenta de leitura devolve citações curtas e paráfrase, não o texto integral.
+**Fontes abertas nesta sessão:** ce2023, que sustenta as três frases mudadas. As outras quatro notas (pva2023, oeo2024, acr2026 e ce2026) abriram na rodada anterior, no mesmo dia, e os trechos que citam não mudaram.
 
 ## Apontamentos da revisão anterior
 
 | Apontamento | Situação |
 |---|---|
-| P1. Cerimônia do prêmio narrada como fato | Resolvido. A l. 38 diz "Foi anunciada entre os premiados", "a cerimônia estava marcada" e "as fontes lidas não confirmam a entrega". O resumo e a ficha dizem "anunciada entre as premiadas". Confirmei o futuro nas duas fontes: pva2023 ("acontecerá no dia 15 de dezembro") e ce2023 ("estará no Instituto Brincante") |
-| ATENÇÃO. L. 16, primeira frase sem `[^ce2023]` | Resolvido. A frase tem `[^pva2023] [^ce2023]` |
-| ATENÇÃO. L. 20, redação confusa das idades | Resolvido. O texto agora diz que a mesma matéria traz as duas idades |
-| ATENÇÃO. José Octávio Guizzo sem linha de pessoa | Resolvido. Ele foi ligado a `jose-octavio-guizzo`, que agora tem linha na lista-mestra (fonte: *Os Pioneiros*). Ver ATENÇÕES sobre homônimo |
+| P1. L. 26, "acampamento do MST" | **Resolvido.** O verbete diz agora "em acampamento de sem-terra". A ce2023, reaberta, diz "embaixo de lona em acampamento de sem-terra", e a sigla MST não aparece |
+| ATENÇÃO. L. 22, viver de música | **Resolvido.** O verbete diz agora: "Disse que nunca teve coragem de viver só de música e também que viveu só dela por cerca de dez anos, alternando com a animação de festas e eventos". A ce2023 confere: "nunca tive coragem de viver só de música. Sempre tive um emprego para garantir espaço pra música", "mesmo quando resolvi viver só de música, e isso durou uns 10 anos" e "trabalho braçal", "que é tocar em festas, eventos, na noite" |
+| ATENÇÃO. L. 24, amizades | **Resolvido.** O verbete diz agora que ela "chamou as duas de amigas". A ce2023 confere: "Tetê Espíndola, grande amiga" e "Helena Meirelles (1924-2005), de quem fui grande amiga" |
 
 ## Os dez pontos
 
 | # | Ponto | Resultado |
 |---|---|---|
-| 1 | Fonte sustenta a frase | **PROBLEMA** (P1, l. 26, "acampamento do MST"). O resto está OK: conferi cada parágrafo contra as notas citadas |
-| 2 | Link abre | OK. As cinco notas abrem a matéria certa, com autor e data conferidos. Não há bloco `links` |
-| 3 | Sem cópia | OK. Não achei sequência de mais de oito palavras iguais. A maior coincidência é "professora, secretária e animadora cultural" (l. 32), com cinco palavras |
-| 4 | Dados pessoais | OK. A ce2023 traz o pai e a mãe (instrumentos que tocavam), a origem do nome e a família: nada disso está no verbete. A amizade com Helena Meirelles e a escola em que estudou entram como trajetória |
-| 5 | Tom | OK. Sem adjetivo de elogio. "Imortal", "de mão cheia" e "rock de butina" ficaram fora |
-| 6 | Divergências | OK. Aparecem as duas idades de início na música (l. 20) e os dois nomes do local da cerimônia, Teatro Brincante e Instituto Brincante (l. 38). Sobre viver de música, ver ATENÇÕES |
-| 7 | Ficha | OK depois da correção mecânica. Nascimento: pva2023 ("nasceu em Campo Grande, em 1952"). Atividade: ce2023 e oeo2024. Instituição: oeo2024 e ce2026. Prêmio: pva2023 e ce2023. Os valores com número estão entre aspas |
-| 8 | Força da fonte | OK. Quatro veículos: *Correio do Estado* (duas matérias), *O Estado Online*, *A Crítica de Campo Grande* e o release do prêmio na *Revista Prosa Verso e Arte*. Há fatos com uma nota só (ver ATENÇÕES) |
-| 9 | Ligações | OK. Os 19 identificadores estão na lista-mestra. "Glorinha Sá Rosa" ficou sem link de propósito. Ficam sem link nomes que não têm linha: Colégio Auxiliadora, Elifas Andreato, Teatro/Instituto Brincante, Marília Leite, Lennon Godoy e Roberto Pellizzer |
-| 10 | Ficha e nome de arquivo | OK. `status: rascunho`; `atualizado: 2026-10-30`; identificador no padrão; o resumo tem cerca de 228 caracteres, abaixo do limite de 240 |
+| 1 | Fonte sustenta a frase | OK. As três frases mudadas conferem com a ce2023. O resto não mudou desde a revisão anterior, que o conferiu parágrafo por parágrafo |
+| 2 | Link abre | OK. ce2023 abriu nesta sessão (Marcos Pierry, 22 nov. 2023). As outras quatro abriram na rodada anterior, no mesmo dia. Não há bloco `links` |
+| 3 | Sem cópia | OK. A maior coincidência nas frases novas é "coragem de viver só de música", com seis palavras |
+| 4 | Dados pessoais | OK. O pai aparece só como quem deu a sanfona (l. 20), no contexto da formação musical. Família, saúde e origem do nome ficaram fora. Não há nada a remover |
+| 5 | Tom | OK. "Imortal" ficou fora do texto e só aparece no título da matéria, dentro da nota |
+| 6 | Divergências | OK. Aparecem as duas idades de início na música (l. 20), as duas falas sobre viver de música (l. 22) e os dois nomes do local da cerimônia (l. 38) |
+| 7 | Ficha | OK. Nascimento (pva2023), Atividade (ce2023, oeo2024), Instituição (oeo2024, ce2026), Prêmio (pva2023, ce2023). Os valores com número estão entre aspas |
+| 8 | Força da fonte | OK. Quatro veículos: *Correio do Estado* (duas matérias), *O Estado Online*, *A Crítica de Campo Grande* e o release do prêmio na *Revista Prosa Verso e Arte* |
+| 9 | Ligações | OK. Os identificadores estão na lista-mestra. Glorinha Sá Rosa continua sem link, de propósito, como pede o dossiê |
+| 10 | Ficha e nome de arquivo | OK. `status: rascunho`; `atualizado: 2026-10-30`; identificador no padrão; resumo com cerca de 228 caracteres |
 
 ## PROBLEMAs
 
-Fica para o redator. Não é dado pessoal.
-
-**P1. L. 26: "em acampamento do MST".** A ce2023 não usa a sigla MST. O texto diz que ela tocou "embaixo de lona em acampamento de sem-terra". "Sem-terra" não identifica o movimento, e atribuir o acampamento ao MST vai além da fonte. Correção: "em acampamento de sem-terra". O dossiê já trazia "MST", e a revisão anterior não pegou.
+Nenhum.
 
 ## ATENÇÕES
 
-- **L. 22, viver de música.** A ce2023 traz as duas falas: "nunca tive coragem de viver só de música" e que viveu só de música por cerca de dez anos, alternando com animação de festas e eventos. O verbete junta as duas em "vivido só de música por cerca de dez anos, sempre com outros empregos em paralelo", e a frase fica ambígua. Não chega a esconder divergência, mas o redator pode trazer as duas falas separadas.
-- **L. 24, amizades.** A ce2023 chama Tetê Espíndola de "grande amiga", e não só Helena Meirelles. O verbete diz amiga só de Helena. Não está errado, porque fica aquém da fonte, mas a seleção é assimétrica.
-- **L. 22, homônimo.** A linha `jose-octavio-guizzo` vem de *Os Pioneiros* ("autor de livro sobre a música urbana de MS"). A ce2023 dá só o nome. O nome é raro, e a ligação é plausível, mas nenhuma fonte do verbete confirma que é a mesma pessoa. "Glorinha Sá Rosa" continua sem link, como pede o dossiê.
+- **Dossiê desatualizado.** `dados/dossies/lenilde-ramos.md`, l. 47, ainda diz "em acampamento do MST", embora a l. 135 registre a troca. Não mexi, porque o arquivo é do pesquisador e do redator. Vale corrigir para que uma reescrita futura não traga a sigla de volta.
+- **L. 22, homônimo.** A linha `jose-octavio-guizzo` vem de *Os Pioneiros*. A ce2023 dá só o nome. A ligação é plausível, mas nenhuma fonte do verbete confirma que é a mesma pessoa.
 - **Fatos com uma nota só.** Só a ce2023 sustenta o festival aos 16 anos, as influências, a apresentação na ONU em 2014 e o ano de *Onça Pintada* (2009). Só a oeo2024 sustenta a eleição em 2019 e *Vozes da Literatura* (2014).
-- **pva2023 é release** da organização do prêmio. Ela não sustenta o verbete sozinha, e nenhum ponto depende só dela, a não ser o poema "Pertences de Uso Pessoal". Ali a fonte diz literalmente "nesse ritmo [polca-rock], musicou Pertences de Uso Pessoal", e a l. 43 está correta.
-- **L. 47, equipe do álbum.** Marília Leite, Lennon Godoy e Roberto Pellizzer aparecem só na acr2026. A ce2026, citada junto, não os nomeia.
+- **pva2023 é release** da organização do prêmio. Só o poema "Pertences de Uso Pessoal" (l. 43) depende dela sozinha.
+- **L. 47, equipe do álbum.** Marília Leite, Lennon Godoy e Roberto Pellizzer aparecem só na acr2026.
 - **Wikipédia:** a lista-mestra continua "a conferir".
 
 ## Corrigido direto
 
-- **Ficha, l. 10 e 11: tirei a sintaxe `[[...]]` dos valores.** O template `src/pages/verbetes/[id].astro` mostra os valores da ficha como texto puro (`<td>{valor}</td>`), e o plugin de wikilinks só age no corpo. Por isso os colchetes e o identificador apareceriam literalmente na página. Nenhum outro verbete usa link na ficha. Ficou assim: `Instituição: Academia Sul-Mato-Grossense de Letras` e `Prêmio: "Anunciada entre as premiadas do Prêmio Grão de Música, 2023"`. Os dois nomes continuam ligados no corpo (l. 30 e l. 38).
-
-Nenhum fato foi acrescentado. `status` continua `rascunho`. Não mudei a situação na fila nem na lista-mestra.
+Nada nesta rodada. Todas as notas definidas são usadas, o formato das notas é o mesmo em todas, os valores numéricos da ficha estão entre aspas e a ficha não tem `[[...]]`. Nenhum fato foi acrescentado. `status` continua `rascunho`. Não mudei a situação na fila nem na lista-mestra.
 
 ## Fontes conferidas
 
-ce2023, pva2023, oeo2024, acr2026 e ce2026, todas abertas em 30 out. 2026.
+Nesta sessão: ce2023, aberta em 30 out. 2026. Na rodada anterior, do mesmo dia: pva2023, oeo2024, acr2026 e ce2026.
 
-**Pronto para pull request: não.** O P1 da revisão anterior foi resolvido. Falta um PROBLEMA novo e pequeno (P1, l. 26, "MST"), que se resolve trocando uma palavra. Antes do pull request também é preciso rodar `npm run conferir` e `npm run build`, que não rodaram nesta sessão.
+**Pronto para pull request: sim.** O P1 anterior ("MST") foi resolvido, as duas ATENÇÕES de redação também, e `npm run conferir` e `npm run build` passam.

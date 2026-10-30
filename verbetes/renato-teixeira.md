@@ -48,7 +48,7 @@ Em dezembro de 2015, o jornal informou que Roca deixara pronto um CD em dupla co
 
 Em 25 de agosto de 2022, apresentou-se no show "[[saudacoes-pantaneiras-2022|Saudações Pantaneiras]]", na Praça do Rádio Clube, em Campo Grande, nas comemorações dos 123 anos da cidade, com [[geraldo-espindola|Geraldo Espíndola]] e [[marcelo-loureiro|Marcelo Loureiro]]. A entrada foi gratuita e o início, às 18h30. O repertório anunciado incluía "Romaria", "Frete" e "[[tocando-em-frente|Tocando em Frente]]".[^cgn2022c][^cgn2022d]
 
-Em 17 de setembro de 2017, o Campo Grande News noticiou o show "Tocando em Frente", com Sater e [[sergio-reis|Sérgio Reis]], previsto para Campo Grande em dezembro daquele ano. A matéria não confirmava a data.[^cgn2017b] No programa [[altas-horas|Altas Horas]], exibido em 22 de outubro de 2022, cantou com Sater "Tocando em Frente", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]".[^cgn2022b]
+Em 17 de setembro de 2017, o Campo Grande News noticiou o show "Tocando em Frente", com Sater e [[sergio-reis|Sérgio Reis]], previsto para Campo Grande em dezembro daquele ano. A matéria não confirmava a data.[^cgn2017b] No programa [[altas-horas|Altas Horas]], exibido em 22 de outubro de 2022, cantou com Sater "[[tocando-em-frente|Tocando em Frente]]", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]".[^cgn2022b]
 
 ## Prêmios
 
