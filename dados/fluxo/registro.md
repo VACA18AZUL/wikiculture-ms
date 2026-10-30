@@ -77,3 +77,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-30T10:07Z | redator | guadakan | concluída | US$ 0.24 | modelo claude-sonnet-5-5
 2026-10-30T10:07Z | redator | renato-teixeira | concluída | US$ 0.31 | modelo claude-sonnet-5-5
 2026-10-30T10:09Z | fechamento | fechamento | concluída | US$ 4.08 | modelo claude-opus-5-5
+2026-10-30T18:44Z | pesquisador | dino-rocha | concluída | US$ 0.18 | modelo claude-sonnet-5-5
