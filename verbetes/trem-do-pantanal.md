@@ -25,7 +25,7 @@ Simões afirma que o início da canção surgiu perto de Aquidauana, talvez no d
 
 As fontes divergem sobre o ponto em que a composição começou e sobre o tempo que levou. Uma matéria de 2012 diz que a música foi feita em cerca de meia hora, numa cabine do trem, durante a travessia do Pantanal rumo a Santa Cruz de la Sierra, e que só a primeira estrofe foi escrita nesse momento.[^cgn2012] Em reportagem da [[ufms|UFMS]], Simões diz que os primeiros acordes vieram logo depois de passarem por Miranda.[^ufms2020] Em 2016, [[marcio-de-camillo|Márcio de Camillo]] afirmou que a composição começou em Corumbá, primeira parada da viagem.[^cgn2016]
 
-O destino da viagem também aparece de dois modos. O Campo Grande News de 2025 fala em Machu Picchu,[^cgn2025a] e A Crítica de Campo Grande diz que a canção foi composta em viagem rumo a Santa Cruz de la Sierra, na Bolívia.[^acritica2026] Quanto ao motivo, Roca disse ao Campo Grande News que o objetivo principal era comprar pinturas do estilo cusquenho.[^cgn2025a] Outra matéria do mesmo jornal fala em busca de um quadro peruano.[^cgn2025b] Segundo Roca, a canção foi a primeira a citar o Pantanal pelo nome.[^cgn2025a]
+O destino da viagem também aparece de dois modos. O Campo Grande News de 2025 fala em Machu Picchu,[^cgn2025a] e A Crítica de Campo Grande diz que a canção foi composta em viagem rumo a Santa Cruz de la Sierra, na Bolívia.[^acritica2026] Quanto ao motivo, Segundo o Campo Grande News, Roca contou que o objetivo da viagem era comprar quadros do estilo cusquenho.[^cgn2025a] Outra matéria do mesmo jornal fala em busca de um quadro peruano.[^cgn2025b] Segundo Roca, a canção foi a primeira a citar o Pantanal pelo nome.[^cgn2025a]
 
 ## Título
 
@@ -41,7 +41,7 @@ A letra é objeto de pesquisa acadêmica. Flávio Zancheta Faccioni analisou a c
 
 Segundo Roca, a canção foi mostrada primeiro no Teatro Tablado, no Rio de Janeiro, onde os dois moravam, e o show foi ruim. Depois foi apresentada pela primeira vez em Mato Grosso do Sul em um festival, em que foi desclassificada. A matéria não nomeia o festival, e Roca contesta o motivo, que seria o de o júri ter considerado a letra subversiva.[^cgn2012]
 
-Outra matéria registra que a canção participou do [[fesul|Fesul]] em 1980 e não venceu. O vencedor foi o [[grupo-acaba|Grupo Acaba]]. Roca disse que a música foi retirada da final porque a letra era vista como subversiva, informação que ele atribui, por intermédio da professora Glorinha, a Onésimo Filho.[^cgn2025b] Roca contou também que, em um show em São Paulo em 1990, a plateia reconheceu a canção já na introdução.[^cgn2025a]
+Outra matéria registra que a canção participou do [[fesul|Fesul]] em 1980 e não venceu. O vencedor foi o [[grupo-acaba|Grupo Acaba]]. Roca disse que a música foi retirada da final porque a letra era vista como subversiva, informação que ele atribui, por intermédio da professora Glorinha, a Onésimo Filho.[^cgn2025b] Roca contou também que, em um show em São Paulo em 1990, a plateia reagiu já na introdução.[^cgn2025a]
 
 ## Gravações e regravações
 
@@ -53,7 +53,7 @@ A banda [[bando-do-velho-jack|Bando do Velho Jack]] fez uma versão em rock. O v
 
 Sobre o total de regravações, as fontes divergem. O Campo Grande News de 2025 informa 57, número esclarecido pelo Ecad, que não informa quem regravou por proteção de dados.[^cgn2025b] Em 2012, Roca estimava mais de cem.[^cgn2012]
 
-Em junho de 2016, o trio [[hermanos-irmaos|Hermanos Irmãos]], formado por [[jerry-espindola|Jerry Espíndola]], [[marcio-de-camillo|Márcio de Camillo]] e [[rodrigo-teixeira|Rodrigo Teixeira]], saiu de Campo Grande para refazer o caminho até Machu Picchu, no projeto chamado [[o-caminho-das-cancoes|"caminho das canções"]]. O trio planejava regravar a canção, com arranjo e produção de [[carles-campi-campon|Carles Campi]] (grafado "Carlos Campi" na matéria). O roteiro previsto incluía show na Praça Generoso Ponce, em Corumbá, La Paz (8 de junho), Cusco (11 e 12 de junho) e Machu Picchu (14 de junho). Os integrantes visitaram Simões na véspera da entrevista.[^cgn2016]
+Em junho de 2016, o trio [[hermanos-irmaos|Hermanos Irmãos]], formado por [[jerry-espindola|Jerry Espíndola]], [[marcio-de-camillo|Márcio de Camillo]] e [[rodrigo-teixeira|Rodrigo Teixeira]], saiu de Campo Grande para refazer o caminho até Machu Picchu, no projeto chamado [[o-caminho-das-cancoes|"caminho das canções"]]. O projeto do trio incluía a regravação da canção, com arranjo e produção de [[carles-campi-campon|Carles Campi]] (grafado "Carlos Campi" na matéria). O roteiro previsto incluía show na Praça Generoso Ponce, em Corumbá, La Paz (8 de junho), Cusco (11 e 12 de junho) e Machu Picchu (14 de junho). Os integrantes visitaram Simões na véspera da entrevista.[^cgn2016]
 
 Em 2022, o trio anunciou a nova versão, com lançamento previsto para 14 de fevereiro. O arranjo é de [[carles-campi-campon|Carles Campi Campón]], produzido em seu estúdio em Madri, com as vozes gravadas em Campo Grande. O videomaker [[paulo-higa|Paulo Higa]] acompanhou a viagem de 2016, e na volta o trio publicou um videoclipe no YouTube.[^cgn2022] As fontes lidas não confirmam que o lançamento ocorreu na data prevista.
 
