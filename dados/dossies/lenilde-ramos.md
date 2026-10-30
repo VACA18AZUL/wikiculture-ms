@@ -128,4 +128,8 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
--
+- Entrou: trajetória musical, literatura, ASL, Hospital São Julião, Prêmio Grão de Música, obras, discografia e as divergências de idade inicial na música e de local da cerimônia. Fontes: ce2023, pva2023, oeo2024, acr2026, ce2026.
+- Ficou de fora, por falta de fonte aberta: Prata da Casa, Poranguetê, show do Grupo Acaba, matérias do Campo Grande News, produtora cultural, ligação de Glorinha Sá Rosa com `maria-da-gloria-sa-rosa`, ano do primeiro festival.
+- Ficou de fora, dados pessoais: pai, origem do nome, família.
+- Sem links externos (nenhum perfil oficial confirmado). Wikipédia não conferida.
+- Nomes novos propostos: `thamires-tannous`, `paulo-coelho-machado` (`dados/propostas/nomes-lenilde-ramos.csv`). Relações já estavam em `relacoes.csv`.
