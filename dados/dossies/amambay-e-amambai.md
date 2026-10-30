@@ -191,6 +191,23 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 ## Uso no verbete
 
-Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
+Redigido em 30/10/2026 em `verbetes/amambay-e-amambai.md` (status rascunho). As quatro matérias da web foram reabertas com WebFetch nesta sessão e conferidas (títulos, datas, grafias, idades, número de discos, novela). O livro entra pelas fichas e por `discografia.csv`, citado por seção (11 notas de seção).
 
--
+Entrou:
+- Nomes e grafias, nascimentos do livro, divergência de idade (livro x 76 anos de [cgn2016]; 80 x 82 anos na morte).
+- Antes da dupla (Campanha e Corumbá, Garimpo e Garimpeiro, Alvarenga e Umar), com a divergência sobre quem formou Campanha e Corumbá.
+- Formação da dupla (depois de 1956 x década de 1960), rádio, circo, Exposição Agropecuária, Rádio Educação Rural, rádios de São Paulo, trios com Elinho, Zé Corrêa e Dino Rocha (com a divergência 1964 x 1965 x 1969).
+- Novela *Pantanal* (1990), em três capítulos, Amambai, cantando no casamento de Juma: reconferida em [cgn2016].
+- Estilo, chamamé em castelhano (afirmações atribuídas), morte de Amambaí em 2018 e de Umar em maio de 2022 (3 x 4 de maio).
+- Os 12 discos do livro, com gravadora, ano, crédito e produção quando há id na lista-mestra; número de discos da imprensa (cerca de 18; mais de 15).
+
+Ficou de fora:
+- Motivo e autoria da decisão de separar (assunto pessoal); saúde, cônjuge e filhos (a menção ao filho aparece só como autor da opinião sobre o chamamé).
+- Produção de *Os Mensageiros...* por J. C. Ferraresi, Pedro Souza e Sérgio do Carmo (sem id na lista-mestra; não ligados). Direção de Sérgio do Carmo e produção de Agnaldo Cardoso, Milton Pedro da Silva também omitidas.
+- Faixas dos discos (ligadas por OCR, sem certeza); autoria de *A Mato-grossense* e de *Vila Guilhermina*.
+- Dino Rocha como ator nos dramas de circo: a ficha do livro não diz; só a relação já cadastrada.
+- Mário Vieira como músico do Sexteto da Lua; Délio e Delinha antes da dupla; relação Mbakarai (sem fonte); dissertação de Gonçalves (ilegível); carreira "60 anos" só no título de [cgn2016] (o texto fala em 50, registrado).
+- Afirmação de [ce2022] de que Amambaí morreu em 2018: a matéria reaberta não a traz; fica só [cgn2022a].
+- Nenhum link externo nem Wikipédia (sem artigo achado).
+
+Ligações: 12 discos e vários nomes já estão na lista-mestra. Nomes novos propostos em `dados/propostas/nomes-amambay-e-amambai.csv`: *Pistoleiro Satânico*, *Herança de Um Pistoleiro*, Exposição de Rio Verde. Duplicidade `emidio-umar` x `amambay-cantor`: o verbete liga Umar a `amambay-cantor`.
