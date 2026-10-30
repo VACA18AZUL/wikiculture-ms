@@ -17,7 +17,7 @@ atualizado: 2026-10-30
 
 **Trem do Pantanal** é uma canção de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]], composta em 1975 durante uma viagem de trem.[^cgn2025a] A Crítica de Campo Grande a trata como "uma das músicas mais simbólicas" da cultura sul-mato-grossense.[^acritica2026] Ficou conhecida na voz de [[almir-sater|Almir Sater]].[^ce2024]
 
-Quanto à autoria, o Dicionário Cravo Albin a credita a Roca e Simões no texto do verbete de Roca, mas a lista de obras da mesma página inclui [[almir-sater|Almir Sater]] como coautor. As outras fontes lidas citam só Roca e Simões.[^cravo]
+Quanto à autoria, o Dicionário Cravo Albin a credita a Roca e Simões no texto do verbete de Roca, mas a lista de obras da mesma página inclui [[almir-sater|Almir Sater]] como coautor. As demais fontes do verbete que tratam da autoria citam só Roca e Simões.[^cravo] Na página dedicada a Sater, o mesmo dicionário lista a canção como "c/ Geraldo Roca", sem Simões.[^cravosater]
 
 ## Origem
 
@@ -49,7 +49,7 @@ Outra matéria registra que a canção participou do [[fesul|Fesul]] em 1980 e n
 
 Segundo o Campo Grande News, [[diana-pequeno|Diana Pequeno]] foi a primeira a gravar a canção, em 1982, sem grande repercussão comercial.[^cgn2025b] A Rádio Senado diz que a cantora lançou em 1981, pela RCA, o LP *Sinal de Amor*, com a canção entre as faixas.[^senado2017] Um cadastro de discografia também lista o LP *Sinal de Amor* (RCA Victor, 1981), sem as faixas.[^slipcue] As fontes diferem, portanto, quanto ao ano da gravação de Diana Pequeno (1981 ou 1982).
 
-O mesmo jornal diz que [[almir-sater|Almir Sater]] a gravou em 1982, no disco de estreia dele, e que essa versão a tornou conhecida no país. Segundo Roca, o auge veio quando Sater a tocou repetidas vezes no programa de [[rolando-boldrin|Rolando Boldrin]], e a novela [[pantanal-novela|*Pantanal*]] também ajudou na difusão.[^cgn2025b]
+O mesmo jornal diz que [[almir-sater|Almir Sater]] a gravou em 1982, no disco de estreia dele, e que essa versão a tornou conhecida no país. O Dicionário Cravo Albin, por sua vez, situa o primeiro disco de Sater em 1981, pela Continental, e lista *Doma* (RGE) em 1982; nenhuma das fontes lidas diz em qual disco a canção está.[^cravosater] Segundo Roca, o auge veio quando Sater a tocou repetidas vezes no programa de [[rolando-boldrin|Rolando Boldrin]], e a novela [[pantanal-novela|*Pantanal*]] também ajudou na difusão.[^cgn2025b]
 
 A banda [[bando-do-velho-jack|Bando do Velho Jack]] fez uma versão em rock. O vocalista [[rodrigo-tozzette|Rodrigo Tozzette]] diz que a aceitação foi grande, inclusive fora do estado.[^cgn2025b] Uma matéria de 2012 diz que a ideia partiu de [[alex-batata|Alex Batata]], vocalista original, e que a banda tocou a canção mais de mil vezes.[^cgn2012] [[renato-teixeira|Renato Teixeira]] cantou a música em shows em homenagem a Roca, mas nunca a gravou. [[luan-santana|Luan Santana]] e [[michel-telo|Michel Teló]] também a cantaram. Simões e Roca a gravaram em projetos próprios, sem que a matéria diga quais.[^cgn2025b]
 
@@ -85,6 +85,7 @@ O show [[trem-do-pantanal-50-anos|*Trem do Pantanal | 50 Anos*]], de Simões, es
 [^ufms2020]: Ariane Comineti, ["Pesquisador estuda canções sul-mato-grossenses como patrimônio imaterial"](https://www.ufms.br/pesquisador-estuda-cancoes-sul-mato-grossenses-como-patrimonio-imaterial/), *UFMS*, 1 dez. 2020. Acesso em 29 out. 2026.
 [^overmundo]: Rodrigo Teixeira, ["Geraldo Roca: Sobre Todos os Trilhos da Terra"](http://www.overmundo.com.br/overblog/geraldo-roca-sobre-todos-os-trilhos-da-terra), *Overmundo*, 14 mar. 2007. Acesso em 29 out. 2026.
 [^cravo]: ["Geraldo Roca"](https://dicionariompb.com.br/artista/geraldo-roca/), *Dicionário Cravo Albin da Música Popular Brasileira*, sem autor e sem data. Acesso em 29 out. 2026.
+[^cravosater]: ["Almir Sater"](https://dicionariompb.com.br/artista/almir-sater/), *Dicionário Cravo Albin da Música Popular Brasileira*, sem autor e sem data. Acesso em 30 out. 2026.
 [^faccioni2023]: Flávio Zancheta Faccioni, ["Trem do pantanal: atravessando sentidos e sujeitos"](https://doity.com.br/anais/profletrascoliterasresumo/trabalho/341750), resumo, *Anais do III Encontro do ProfLetras e V Coliteras*, Dourados, 1 dez. 2023. Acesso em 29 out. 2026.
 [^dorsa]: Arlinda Cantero Dorsa, ["Uma visão intertextual e interdiscursiva do trem do pantanal"](https://periodicos.ufms.br/index.php/intm/article/view/2466), *InterMeio*, UFMS, v. 15, n. 30 (a página indica 2009 na identificação da edição e publicação em 7 nov. 2016); só o resumo foi lido. Acesso em 29 out. 2026.
 [^slipcue]: ["Diana Pequeno"](https://slipcue.com/music/brazil/pequeno_diana_01.html), discografia, *Slipcue*, sem autor e sem data. Acesso em 29 out. 2026.
