@@ -35,7 +35,7 @@ O primeiro disco, de 78 rotações, trazia "Malvada" e "Cidades irmãs" e é de 
 
 Sobre a separação e o retorno da dupla, as fontes divergem. O Correio do Estado diz que a dupla se separou na década de 1970 e voltou nos anos 1980, gravando "O sol e a lua".[^cde2022] O Campo Grande News diz que os dois voltaram aos palcos em 1993.[^dc2022] O Recanto Caipira diz que se reuniram em 1978, com o disco *O Sol e a Lua*, embora a discografia da mesma página liste duas edições do título, de 1964 e de 1978, e que reapareceram em apresentações em 1993.[^rc]
 
-Em 2007, a dupla gravou em Campo Grande o projeto dos 50 anos de carreira, com participações de Maciel Corrêa e Zézinho Nantes. O CD e o DVD saíram em dezembro daquele ano. O Recanto Caipira cita José Eduardo Moraes (Zédu) entre os idealizadores.[^rc]
+Em 2007, a dupla gravou em Campo Grande o projeto dos 50 anos de carreira, com participações de Maciel Corrêa e Zézinho Nantes. O CD e o DVD saíram em dezembro daquele ano. O Recanto Caipira atribui o trabalho ao empenho do repórter cinematográfico José Eduardo Moraes (Zédu), entre outros.[^rc]
 
 [[delio|Délio]] morreu em fevereiro de 2010 em Campo Grande.[^cde2010] A data exata varia entre as fontes: 8 de fevereiro no Recanto Caipira e 9 de fevereiro no MS Notícias.[^rc][^msn2022]
 
@@ -45,13 +45,13 @@ Depois da morte de [[delio|Délio]], Delinha seguiu em carreira solo, segundo o 
 
 Em 2013, o jornalista Wilson Koller lançou a biografia [[por-onde-andei-wilson-koller|*Por Onde Andei*]], em evento em 9 de novembro na Concha Acústica de Maracaju.[^tdms2013] Em 2020, durante a pandemia, ela fez uma live exibida pelo Campo Grande News, vista por 56 mil pessoas segundo o jornal, e distribuiu um pen drive com mais de 300 músicas.[^dc2022]
 
-O documentário [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]], dirigido por [[marinete-pinheiro|Marinete Pinheiro]], foi lançado em 2016, quando ela completou 80 anos.[^msn2022] Em 2017, foi um dos 34 filmes premiados na [[mostra-sesc-de-cinema|Mostra Nacional do Sesc]]. O prêmio foi o pagamento de licença de direitos autorais ao filme.[^jne2017]
+O documentário [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]], dirigido por [[marinete-pinheiro|Marinete Pinheiro]], é de 2016, ano em que ela completou 80 anos.[^msn2022] Em 2017, foi um dos 34 filmes premiados na [[mostra-sesc-de-cinema|Mostra Nacional do Sesc]]. O prêmio foi o pagamento de licença de direitos autorais ao filme.[^jne2017]
 
 ### Reconhecimentos
 
 Segundo o MS Notícias, foi declarada Embaixadora da Cultura de Campo Grande por lei municipal em 2016 e, depois, nomeada pelo governo estadual embaixadora da cultura sul-mato-grossense.[^msn2022] O Correio do Estado registra homenagem da Secretaria de Turismo e Cultura de Campo Grande no Arraial de Santo Antônio de 2022.[^cde2022]
 
-Morreu em 16 de junho de 2022, em Campo Grande, aos 85 anos. O governador decretou luto de três dias no estado. O velório foi na Câmara Municipal e o sepultamento no Cemitério Jardim da Paz.[^dc2022][^msn2022]
+Morreu em 16 de junho de 2022, em Campo Grande, aos 85 anos. O governador anunciou que decretaria luto de três dias no estado.[^dc2022] O velório foi na Câmara Municipal e o sepultamento no Cemitério Jardim da Paz.[^dc2022][^msn2022]
 
 ### Gênero musical
 

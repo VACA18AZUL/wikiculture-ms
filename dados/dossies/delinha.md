@@ -153,4 +153,5 @@ Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e 
 
 - Entrou: identificação, origem, coral e trio inicial, nome da dupla, ida a São Paulo, primeiro 78 rpm (1959), álbum de 1963, projeto dos 50 anos (2007), morte de Délio, carreira solo, biografia de 2013, live de 2020, documentário e prêmio do filme (2017), títulos de embaixadora, morte e luto oficial. Divergências registradas: separação e retorno da dupla, data da morte de Délio, composição da discografia, rótulo chamamé.
 - Ficou de fora: saúde, internação e causa da morte, casamentos, parentesco com Délio, nome do filho, álbuns de outras gravadoras do Recanto Caipira (precisam de conferência), lista completa dos 78 rpm, Dia Estadual do Rasqueado, Grupo Acaba e Chafica (fonte do Campo Grande News não aberta), leis com número (só resumo de busca), duração e produção do documentário.
+- Reescrita após devolução: luto oficial agora como anúncio do governador (só dc2022); Zédu atribuído ao "empenho" (rc), sem "idealizador"; documentário "é de 2016", não "lançado".
 - Incertos: identidade de Zédu com José Eduardo Moraes; fontes não reabertas nesta rodada, só o que o dossiê traz.
