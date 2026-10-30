@@ -23,7 +23,7 @@ Uma matéria de 2012 diz que ele morava em Campo Grande.[^cgn2012multi] A de 202
 
 ## Crianceiras
 
-[[crianceiras|Crianceiras]] é um projeto infantil idealizado por ele, em que musicou dez poemas de [[manoel-de-barros|Manoel de Barros]].[^cgn2024crianceiras] Segundo a matéria de 2012, a ideia surgiu depois de uma visita ao poeta, cerca de duas décadas antes da estreia do espetáculo.[^cgn2012multi] Outra matéria situa a visita ao poeta, em sua casa, em 2007.[^cgn2022quintal] O CD foi lançado em 2011.[^cgn2012multi]
+[[crianceiras|Crianceiras]] é um projeto infantil idealizado por ele, em que musicou dez poemas de [[manoel-de-barros|Manoel de Barros]].[^cgn2012multi][^cgn2024crianceiras] Segundo a matéria de 2012, a ideia surgiu depois de uma visita ao poeta, cerca de duas décadas antes da estreia do espetáculo.[^cgn2012multi] Outra matéria situa a visita ao poeta, em sua casa, em 2007.[^cgn2022quintal] O CD foi lançado em 2011.[^cgn2012multi]
 
 O show estreou em 4 de outubro de 2012, no Teatro Prosa do Sesc Horto, em Campo Grande, com direção geral de [[luiz-andre-cherubini|Luiz André Cherubini]] e animações a partir de quadros de Martha Barros, filha do poeta.[^cgn2012multi] As faixas ganharam videoclipes exibidos no canal Gloob, e o CD originou um aplicativo educativo gratuito.[^cgn2019crianceiras]
 

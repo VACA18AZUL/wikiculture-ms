@@ -25,7 +25,7 @@ Simões afirma que o início da canção surgiu perto de Aquidauana, talvez no d
 
 As fontes divergem sobre o ponto em que a composição começou e sobre o tempo que levou. Uma matéria de 2012 diz que a música foi feita em cerca de meia hora, numa cabine do trem, durante a travessia do Pantanal rumo a Santa Cruz de la Sierra, e que só a primeira estrofe foi escrita nesse momento.[^cgn2012] Em reportagem da [[ufms|UFMS]], Simões diz que os primeiros acordes vieram logo depois de passarem por Miranda.[^ufms2020] Em 2016, [[marcio-de-camillo|Márcio de Camillo]] afirmou que a composição começou em Corumbá, primeira parada da viagem.[^cgn2016]
 
-O destino da viagem também aparece de dois modos. O Campo Grande News de 2025 fala em Machu Picchu,[^cgn2025a] e A Crítica de Campo Grande diz que a canção foi composta em viagem rumo a Santa Cruz de la Sierra, na Bolívia.[^acritica2026] Quanto ao motivo, Segundo o Campo Grande News, Roca contou que o objetivo da viagem era comprar quadros do estilo cusquenho.[^cgn2025a] Outra matéria do mesmo jornal fala em busca de um quadro peruano.[^cgn2025b] Segundo Roca, a canção foi a primeira a citar o Pantanal pelo nome.[^cgn2025a]
+O destino da viagem também aparece de dois modos. O Campo Grande News de 2025 fala em Machu Picchu,[^cgn2025a] e A Crítica de Campo Grande diz que a canção foi composta em viagem rumo a Santa Cruz de la Sierra, na Bolívia.[^acritica2026] Quanto ao motivo, segundo o Campo Grande News, Roca contou que o objetivo da viagem era comprar quadros do estilo cusquenho.[^cgn2025a] Outra matéria do mesmo jornal fala em busca de um quadro peruano.[^cgn2025b] Segundo Roca, a canção foi a primeira a citar o Pantanal pelo nome.[^cgn2025a]
 
 ## Título
 
