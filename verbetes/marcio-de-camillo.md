@@ -8,14 +8,14 @@ ficha:
   Atividade: Cantor, compositor, instrumentista e produtor cultural
   Grupos: Hermanos Irmãos
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-10-30
 ---
 
 **Márcio de Camillo** é cantor, compositor, instrumentista e produtor cultural de Mato Grosso do Sul. A imprensa o descreve como artista de música regional brasileira, com ritmos de fronteira como guarânia e chamamé.[^cgn2024camillo]
 
 ## Trajetória
 
-Em 2024, o *Campo Grande News* o apresentou como integrante de uma geração de músicos do estado, com mais de 25 anos de carreira e influências de folk, pop, blues e rock'n'roll.[^cgn2024camillo] Em 2007, um projeto ligado à Unesco o levou à Espanha e a Portugal, onde fez shows e estudou a relação entre a viola caipira e a viola de arame da ilha da Madeira.[^cgn2024camillo] O trabalho rendeu convite para participar da gravação de um DVD do grupo português [[xarabanda|Xarabanda]]; a matéria não informa título nem data.[^cgn2024camillo]
+Em 2024, o *Campo Grande News* o apresentou como integrante de uma geração de músicos do estado, com 25 anos de carreira e influências de folk, pop, blues e rock'n'roll.[^cgn2024camillo] Em 2007, um projeto ligado à Unesco o levou à Espanha e a Portugal, onde fez shows e estudou a viola caipira em comparação com a viola de arame madeirense.[^cgn2024camillo] O trabalho rendeu convite para participar da gravação de um DVD do grupo português [[xarabanda|Xarabanda]]; a matéria não informa título nem data.[^cgn2024camillo]
 
 De volta ao Brasil, fundou a [[associacao-de-musicos-do-pantanal|Associação de Músicos do Pantanal]], que, segundo a matéria, busca promover a cultura do estado e sensibilizar para a preservação ambiental por meio da arte. A fonte não informa data nem cidade.[^cgn2024camillo]
 
@@ -23,19 +23,19 @@ Uma matéria de 2012 diz que ele morava em Campo Grande.[^cgn2012multi] A de 202
 
 ## Crianceiras
 
-[[crianceiras|Crianceiras]] é um projeto infantil idealizado por ele, em que musicou dez poemas de [[manoel-de-barros|Manoel de Barros]]. Segundo a matéria de 2012, a ideia surgiu depois de uma visita ao poeta, cerca de duas décadas antes da estreia do espetáculo.[^cgn2012multi] Outra matéria situa a visita ao poeta, em sua casa, em 2007.[^cgn2022quintal] O CD foi lançado em 2011.[^cgn2012multi]
+[[crianceiras|Crianceiras]] é um projeto infantil idealizado por ele, em que musicou dez poemas de [[manoel-de-barros|Manoel de Barros]].[^cgn2024crianceiras] Segundo a matéria de 2012, a ideia surgiu depois de uma visita ao poeta, cerca de duas décadas antes da estreia do espetáculo.[^cgn2012multi] Outra matéria situa a visita ao poeta, em sua casa, em 2007.[^cgn2022quintal] O CD foi lançado em 2011.[^cgn2012multi]
 
 O show estreou em 4 de outubro de 2012, no Teatro Prosa do Sesc Horto, em Campo Grande, com direção geral de [[luiz-andre-cherubini|Luiz André Cherubini]] e animações a partir de quadros de Martha Barros, filha do poeta.[^cgn2012multi] As faixas ganharam videoclipes exibidos no canal Gloob, e o CD originou um aplicativo educativo gratuito.[^cgn2019crianceiras]
 
 A segunda fase, *[[crianceiras|Crianceiras Mário Quintana]]*, teve estreia em São Paulo em 2018 e em Campo Grande em 19 de maio de 2018, no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^cgn2018novo][^cgn2018quintana] A direção foi de Cherubini, do [[grupo-sobrevento|Grupo Sobrevento]], no formato de teatro de papel.[^cgn2018novo] Uma matéria de 8 de setembro de 2026 anunciou nova temporada no mesmo teatro, para o sábado e o domingo seguintes, pelos 120 anos de Quintana.[^ce2026quintana] Uma matéria de dezembro de 2022 anunciou, para 19 de dezembro, uma versão acústica na casa de [[manoel-de-barros|Manoel de Barros]], pelos 106 anos do poeta e os dez anos do espetáculo.[^cgn2022quintal] Uma matéria de 20 de setembro de 2024 anunciou a volta do espetáculo sobre Barros ao Teatro Glauce Rocha, dentro do [[festival-mais-cultura|Festival Mais Cultura]], em 22 de setembro.[^cgn2024crianceiras]
 
-Uma matéria de março de 2018 fala em 350 apresentações desde 2012;[^cgn2018novo] outra, de maio de 2018, em 310 mil pessoas em seis anos de circulação nacional.[^cgn2018quintana] São números atribuídos à produção. As matérias de 2012 e 2018 registram indicação do primeiro CD ao Prêmio da Música Brasileira, como melhor álbum infantil, em 2012; a de 2018 acrescenta indicação em 2016 com o disco de Quintana. Não consta que tenha vencido.[^cgn2012multi][^cgn2018novo]
+Uma matéria de março de 2018 fala em 350 apresentações desde 2012;[^cgn2018novo] outra, de maio de 2018, em 310 mil pessoas em seis anos de circulação nacional.[^cgn2018quintana] O segundo número é atribuído ao próprio artista. A matéria de 2012 registra indicação do primeiro CD ao Prêmio da Música Brasileira, como melhor álbum infantil, e a de 2018 a data em 2012; a de 2018 acrescenta indicação em 2016 com o disco de Quintana. Não consta que tenha vencido.[^cgn2012multi][^cgn2018novo]
 
 ## Hermanos Irmãos e parcerias
 
 O trio [[hermanos-irmaos|Hermanos Irmãos]] reúne Camillo, [[jerry-espindola|Jerry Espíndola]] e [[rodrigo-teixeira|Rodrigo Teixeira]]. Em junho de 2016, o grupo saiu de Campo Grande para refazer a viagem em que [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]] escreveram "[[trem-do-pantanal|Trem do Pantanal]]", em 1975, rumo a Machu Picchu, com o videomaker [[paulo-higa|Paulo Higa]].[^cgn2022hermanos] Em fevereiro de 2022, uma matéria noticiou o lançamento, previsto para 14 de fevereiro, de nova versão da canção pelo trio, com arranjos de [[carles-campi-campon|Carles Campi Campón]] feitos em Madri e vozes gravadas em Campo Grande.[^cgn2022hermanos]
 
-Camillo admirava [[geraldo-roca|Geraldo Roca]], de quem foi vizinho e amigo. Os dois dividiram a faixa "Lá vem você de novo" no CD [[geracoes-ms|Gerações MS]].[^ce2024roca] Uma matéria de 6 de maio de 2025 anunciou o espetáculo [[musica-poetica-2025|Música Poética]], com [[geraldo-espindola|Geraldo Espíndola]], a [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]] e a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], programado para Dourados (7 de maio), Campo Grande (9 de maio) e Corumbá (13 de maio), com organização do [[moinho-cultural|Instituto Moinho Cultural Sul-Americano]].[^cgn2025poetica]
+Camillo admirava [[geraldo-roca|Geraldo Roca]], de quem foi vizinho e amigo. Os dois dividiram a faixa "Lá vem você de novo" no CD [[geracoes-ms|Gerações MS]].[^ce2024roca] Uma matéria de 6 de maio de 2025 anunciou o espetáculo [[musica-poetica-2025|Música Poética]], com [[geraldo-espindola|Geraldo Espíndola]], a [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]] e a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], programado para Dourados (7 de maio), Campo Grande (9 de maio) e Corumbá (13 de maio), projeto idealizado pelo [[moinho-cultural|Instituto Moinho Cultural Sul-Americano]].[^cgn2025poetica]
 
 ## Espetáculos
 
