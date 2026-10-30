@@ -132,4 +132,5 @@ Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e 
 - Ficou de fora, por falta de fonte aberta: Prata da Casa, Poranguetê, show do Grupo Acaba, matérias do Campo Grande News, produtora cultural, ligação de Glorinha Sá Rosa com `maria-da-gloria-sa-rosa`, ano do primeiro festival.
 - Ficou de fora, dados pessoais: pai, origem do nome, família.
 - Sem links externos (nenhum perfil oficial confirmado). Wikipédia não conferida.
+- Devolução: "MST" trocado por "sem-terra" (a fonte não cita a sigla); as duas falas sobre viver de música ficaram separadas; Tetê Espíndola também é citada como amiga.
 - Nomes novos propostos: `thamires-tannous`, `paulo-coelho-machado` (`dados/propostas/nomes-lenilde-ramos.csv`). Relações já estavam em `relacoes.csv`.
