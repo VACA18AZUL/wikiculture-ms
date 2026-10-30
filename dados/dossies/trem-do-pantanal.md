@@ -78,7 +78,7 @@ Gravações e regravações
 - Primeira gravação: Diana Pequeno, no LP *Sinal de Amor*, RCA, 1981 [senado2017]. O LP *Sinal de Amor* (RCA Victor, 1981) consta na discografia da cantora [slipcue]; essa página não lista faixas. O Campo Grande News data a gravação de Diana em 1982, com pouca repercussão [cgn2025b] (ver Divergências).
 - Almir Sater gravou em 1982, no disco de estreia dele, e a versão tornou a canção conhecida nacionalmente, segundo a matéria; Roca vê o pico no momento em que Sater a tocou repetidas vezes no programa de Rolando Boldrin [cgn2025b]. A novela *Pantanal* ajudou, sem ano na matéria [cgn2025b]. Almir aprendeu a canção na viola e contou a Inezita Barroso nos anos 1990 [cgn2025b]. Sater é tido como intérprete que a tornou sucesso [ce2024]; mantém-na entre os principais sucessos do repertório [overmundo].
 - Bando do Velho Jack fez versão rock; o vocalista Rodrigo Tozzette diz que a aceitação foi grande, inclusive fora do estado [cgn2025b]. A ideia partiu de Alex Batata, vocalista original da banda; a banda a tocou mais de mil vezes [cgn2012].
-- Renato Teixeira cantou em shows em homenagem a Roca, mas nunca a gravou; diz ter perdido a chance de gravá-la antes de Almir [cgn2025b].
+- Renato Teixeira cantou em shows em homenagem a Roca, mas não chegou a gravá-la, segundo a repórter (na mesma matéria, Teixeira diz que a gravou com Roca); diz ter perdido a chance de gravá-la antes de Almir [cgn2025b].
 - Luan Santana e Michel Teló também a cantaram, sem data [cgn2025b].
 - Simões e Roca também a gravaram em projetos próprios [cgn2025b].
 - Contagem: 57 regravações até 2025, esclarecida pelo Ecad, que por proteção de dados não informa quem regravou [cgn2025b]. Roca estimava mais de 100 [cgn2012].

@@ -19,7 +19,7 @@ atualizado: 2026-10-30
 
 ## Trajetória
 
-A Agência Brasil descreve a obra como concebida a partir do mito indígena guató e ligada à preservação do Pantanal. A reportagem associa o tema às queimadas recentes e cita a diretora como fonte dessa inspiração.[^ab2023] O Correio do Estado diz que o espetáculo reflete sobre os incêndios de 2020 no Pantanal, que teriam matado mais de 17 milhões de animais vertebrados, número que a própria matéria apresenta sem indicar fonte.[^correio2022]
+A Agência Brasil descreve a obra como concebida a partir do mito indígena guató e ligada à preservação do Pantanal. A reportagem associa o tema às queimadas no Pantanal e cita a diretora como fonte dessa inspiração.[^ab2023] O Correio do Estado diz que o espetáculo reflete sobre os incêndios de 2020 no Pantanal, que teriam matado mais de 17 milhões de animais vertebrados, número que a própria matéria apresenta sem indicar fonte.[^correio2022]
 
 Em 13 de dezembro de 2022, o *Correio do Estado* anunciou que o Instituto encerraria o ano com o [[moinho-in-concert|Moinho In Concert]] 2022, chamado na matéria de "Moinho In Concert 2022 – Guadakan", nos dias 14 e 15, no Centro de Convenções do Pantanal, em Corumbá. Segundo o anúncio, haveria quatro apresentações, o evento marcaria os 18 anos do Instituto e reuniria mais de 400 participantes, com mais de 60 pessoas na produção.[^correio2022] O *Campo Grande News* registrou em abril de 2023 que o espetáculo foi apresentado pela primeira vez no Moinho In Concert, em Corumbá.[^cgn2023]
 
