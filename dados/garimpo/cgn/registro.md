@@ -10,3 +10,7 @@ Uma linha por rodada:
 2026-10-30 | rodada 1 | música | +38 nomes | cerca de 60 matérias | foco em 2018 em diante e interior
 2026-10-30 | rodada 1 | teatro, dança e circo | +40 nomes | 38 matérias | companhias de dança e teatro de Campo Grande e Dourados
 2026-10-30 | rodada 1 | literatura e audiovisual | +40 nomes | cerca de 45 matérias | cordel, saraus, editoras independentes, curtas
+2026-10-30 | rodada 2 | artes | +40 nomes, +32 relações | 51 matérias | pendentes da rodada 1 tratados; sobras em pendentes.csv
+2026-10-30 | rodada 2 | musica | +40 nomes, +21 relações | 36 matérias | pendentes da rodada 1 tratados; sobras em pendentes.csv
+2026-10-30 | rodada 2 | cenicas | +37 nomes, +67 relações | 29 matérias | pendentes da rodada 1 tratados; sobras em pendentes.csv
+2026-10-30 | rodada 2 | lit-av | +38 nomes, +67 relações | 32 matérias | pendentes da rodada 1 tratados; sobras em pendentes.csv

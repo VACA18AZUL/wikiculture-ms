@@ -1,34 +1,103 @@
 area,nome,pista,origem
-literatura,Pepa Quadrini,citada em matéria do Lado B lida na rodada 1,rodada 1
-literatura,Natália Mazarim,citada em matéria do Lado B lida na rodada 1,rodada 1
-literatura,Andriolli Costa,citado em matéria do Lado B lida na rodada 1,rodada 1
-literatura,Magnun Borini,citado em matéria do Lado B lida na rodada 1,rodada 1
-literatura,Goretti de Moura,abrir a matéria do relançamento de outubro de 2025 (já está na lista; reforço de fonte),rodada 1
-audiovisual,Mostra Curta Saci,evento citado em matéria do Lado B,rodada 1
-audiovisual,Ao Sul do Sol,"obra de Rodolfo Ikeda (já na lista), com Ricardo Pieretti",rodada 1
-audiovisual,Ricardo Pieretti,ligado a Ao Sul do Sol,rodada 1
-audiovisual,Márcio Padilha,citado em matéria de audiovisual,rodada 1
-audiovisual,Nicolle Cabalero,citada em matéria de audiovisual,rodada 1
-audiovisual,Alessandra Messias,citada em matéria de audiovisual,rodada 1
-audiovisual,André Patroni,citado em matéria de audiovisual,rodada 1
-audiovisual,Kleomar Carneiro,citado em matéria de audiovisual,rodada 1
-audiovisual,Filipi Silveira,citado em matéria de audiovisual,rodada 1
-audiovisual,Vinicius Galharte,citado em matéria de audiovisual,rodada 1
-musica,Kalélo,ex-Projeto Kzulo,rodada 1
-musica,Victor e Alex,dupla de Dourados,rodada 1
-musica,Jacqueline Costa,cantora,rodada 1
-musica,Nandah,cantora,rodada 1
-musica,HIV,banda punk desde 1992,rodada 1
-musica,Top Samba,grupo de samba,rodada 1
-musica,Velhotes e Furiosos,banda,rodada 1
-musica,Orquestra Jovem Sesc MS,orquestra,rodada 1
-musica,Gleici Helena,cantora de Aquidauana,rodada 1
-musica,Georgia Castro,cantora,rodada 1
-musica,Gabriel Chiad,músico,rodada 1
-musica,João Marcos e Zé Ronaldo,dupla,rodada 1
-musica,Rainhas do Sertanejo,musical,rodada 1
-musica,"Intervenção, Toca Fitas, Gobstopper, Os Alquimistas, Facas Voadoras, Jane Jane",bandas do Dia Mundial do Rock de 2019,rodada 1
-danca,Semana pra Dança 2024,página da edição com companhias participantes,rodada 1
-danca,Festival Dança Três,festival de Três Lagoas,rodada 1
-circo,Circo do Mato,mais matérias além das já citadas (já na lista; buscar nomes ligados),rodada 1
-teatro,Eros Bigatão Rios,"autor de Navegantes (FAS 2019); pode ser a mesma pessoa que Lú Bigatão Rios, confirmar antes de registrar",rodada 1
+artes-plasticas,Izulina Xavier,"obituário no Campo Grande News (Corumbá, 97 anos, nov/2022) citado em busca; URL da matéria não localizada; só Correio do Estado e outros veículos achados",rodada 2
+artes-plasticas,Gi Brandão,"grafiteira de Dourados, citada em matéria sobre Vila Nhanhá já lida na rodada 1 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grafiteiros-transformam-rua-da-vila-nhanha-em-galeria-de-arte-ao-ar-livre); conferir se já foi registrada",rodada 2
+artes-plasticas,Elis Regina (fotógrafa),"fotógrafa de MS em https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-fotografos-do-centro-oeste-tem-so-2-representantes-de-ms (2013) e curadora de Fotografia e Memória (2026, https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mis-reabre-as-portas-com-exposicao-sobre-a-memoria-da-fotografia-de-ms); risco de homonímia",rodada 2
+artes-plasticas,Catarina Guató,"artesã guató, aguapé, Ilha Ínsua: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mochila-de-fibras-de-aguape-mostra-so-1-dentre-muitos-talentos-em-feira-indigena (2019); limite de 40",rodada 2
+artes-plasticas,Jorge de Barros (artesão de descendência terena),mesma matéria da feira indígena 2019: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mochila-de-fibras-de-aguape-mostra-so-1-dentre-muitos-talentos-em-feira-indigena,rodada 2
+artes-plasticas,Coletivo Terra Vermelha,organizou feira indígena no CCJOG em 2019: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mochila-de-fibras-de-aguape-mostra-so-1-dentre-muitos-talentos-em-feira-indigena,rodada 2
+artes-plasticas,Tom Barbosa,premiado em pintura no Salão Horizontes da Arte Morena 2010: https://www.campograndenews.com.br/entretenimento/mostra-apresenta-trabalhos-premiados-no-salao-de-artes-08-23-2010; limite,rodada 2
+artes-plasticas,José Mauro Peixoto,premiado em fotografia no Salão Horizontes da Arte Morena 2010 (mesma matéria de Tom Barbosa),rodada 2
+artes-plasticas,Camila Jordão,premiada em instalação no Salão Horizontes da Arte Morena 2010 (mesma matéria),rodada 2
+artes-plasticas,Priscila Mota,menção honrosa em fotografia no Salão de 2010 (mesma matéria),rodada 2
+artes-plasticas,Jean Roberto de Lima,menção honrosa em pintura no Salão de 2010 (mesma matéria),rodada 2
+artes-plasticas,Victor Macaulin,grafite sobre questões raciais na mostra Continuum: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/galeria-de-artes-visuais-tem-exposicao-com-lambe-lambe-grafite-e-pinturas,rodada 2
+artes-plasticas,Kaio Ratier,pinturas na mostra Continuum (mesma matéria),rodada 2
+artes-plasticas,Evandro Prado; Zilá Soares; Alice Yura; Luis Salgado,"participantes de Continuum (mesma matéria); Evandro Prado, Zila Soares e Alice Yura também em Entrosamento (2024)",rodada 2
+artes-plasticas,Rafael Maldonado (curador),curador de Continuum (2022); também citado em Entrosamento (2024); homônimo M. D. Maldonado já na lista - conferir,rodada 2
+artes-plasticas,"Entrosamento (exposição 2024, CCJOG)","34 artistas, incl. Aurea Katsurem, Dagoberto Pedroso, Edson Castro, Fábio Maurício, Fernando Marson, Irani Bucker, Isabê, Joni Lima, Mauro Yanaze, Neide Ono, Priscila Pessoa, Yuri Dias, Julio César Álvares; curadoria Willian Gama e Patricia Rodrigues: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-apresenta-o-estilo-sul-mato-grossense-em-obras-de-arte",rodada 2
+artes-plasticas,"Cores do MS (exposição de aquarela, Paço, 2024)","artistas Giane Bifon, Gagá Gabrielli, Jaqueline Basso, Olga Martínez, Paola Roma, Patricia Helney (+ Lúcia Monte Serrat, já na lista): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/cores-de-ms-retrata-bioma-sul-mato-grossense-em-exposicao",rodada 2
+artes-plasticas,Camila Kipper,"aquarelas, mostra Éden na Galeria de Vidro (nov/2022); só vista em resultado de busca, matéria não aberta",rodada 2
+artes-plasticas,Jonas Ferreira Caminha; Kamila de Souza Leite; Elder Alves Severino,artesãos do 1º Prêmio Ipê de Artesanato (argila/Pantanal; tecelagem e macramê; origami): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-e-chance-de-conhecer-mais-de-80-artesaos-regionais,rodada 2
+artes-plasticas,Prêmio Ipê de Artesanato,premiação citada na matéria dos 80 artesãos (2023): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-e-chance-de-conhecer-mais-de-80-artesaos-regionais,rodada 2
+artes-plasticas,Eliane Ferreira (Aparecida do Taboado); Patrícia Ferreira (Três Lagoas),artesãs na Semana do Artesão 2026 (pintura em tecido; fibras e macramê): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/semana-do-artesao-abre-mostrando-como-tem-gente-talentosa-em-ms,rodada 2
+artes-plasticas,Alexandre Terena,"Erva Mate Terena lançada no G20 Social 2024 (produto, não arte): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/indigenas-de-ms-levam-arte-para-evento-inedito-do-governo-brasileiro",rodada 2
+artes-plasticas,"Rosi Santos (artesã, Dourados)","casinhas-incensário de madeira reaproveitada, 2023: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sentido-da-vida-foi-encontrado-por-rosi-em-lixos-jogados-na-rua; vínculo cultural fraco",rodada 2
+artes-plasticas,Erlita Semedo Pedrosa; Maristela Lisboa; ateliê Pedbarro,"ceramista e pintora de porcelana, Campo Grande, 2025: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/amizade-feita-no-youtube-virou-atelie-com-ceramica-no-muro",rodada 2
+artes-plasticas,Ruver Bandeira,"foto subaquática em Bonito premiada; fotógrafo é de Fortaleza, vínculo com MS inexistente: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/foto-tirada-em-bonito-e-premiada-em-concurso-com-174-paises",rodada 2
+artes-plasticas,Aline Teodoro; Tatiana Varela; Camila Vilar; Wilyam Nicolay; Luria Corrêa; Henrique Kawaminami,"projeto 100 fotos para MS (2020), fotógrafos citados em lista: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/nao-e-so-uma-foto-projeto-e-chance-de-levar-historias-para-casa",rodada 2
+artes-plasticas,Melly Senna; Cris Freire; Ligia Rocha; Pedro Ortale,"curadoria da exposição Fotografia e Memória (MIS, 2026): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mis-reabre-as-portas-com-exposicao-sobre-a-memoria-da-fotografia-de-ms",rodada 2
+artes-plasticas,Fotografia e Memória (exposição MIS 2026),"homenagem a Rachid Waqued com 14 fotógrafos de MS, parte do Rota Cine MS (mesma matéria)",rodada 2
+artes-plasticas,Otilhiane Maria Juchem,colecionadora de Curitiba com mais de 30 obras de Ilton Silva (2018); sem vínculo com MS: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/de-ilton-silva-ficaram-obras-e-homenagem-a-mae-no-estudio-de-otilhiane,rodada 2
+artes-plasticas,Hyper e Gramaloka,"grafiteiros de Belo Horizonte, mural kadiwéu em Campo Grande (2021): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/depois-de-rejeitada-em-predio-india-vira-painel-gigante-no-centro; de fora de MS",rodada 2
+artes-plasticas,Silvana Derriune,"responsável pelo coletivo de mulheres da aldeia Barro Preto (Kadiwéu), 2023: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/alegria-de-ancia-e-ver-cultura-se-espalhando-por-aldeia-kadiweu",rodada 2
+artes-plasticas,Yuri Lee Matsunaka,"colaboradora histórica da causa indígena, texto na abertura de Yvypóry (2022); papel cultural incerto",rodada 2
+artes-plasticas,Julio César Álvarez,"Julio César Álvarez, pintor local citado só em pôster acadêmico (FEBRACE 2026), não em matéria do CGN; não registrado",rodada 2
+artes-plasticas,Liedson Lopes,"trabalho visual no Festival de Música Indígena em diálogo com a Retomada Yvu Verá (Dourados), só em resultado de busca: https://www.campograndenews.com.br/lado-b/diversao/festival-pega-a-estrada-para-ouvir-historias-e-tradicoes-em-aldeias",rodada 2
+artes-plasticas,Sol Ztt,tatuadora/artista de Campo Grande; matéria sobre exposição não localizada; perfis em: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mesclando-arquitetura-e-natureza-sol-e-a-tatuadora-que-voce-precisa-conhecer (não aberta),rodada 2
+musica,Alien Sputnik,"trio de poesia concreta, punk e electro-pop desde 1998 (Marino Filho, Alessandro Fonseca, Leiliane Assis); limite de 40 nomes; https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-mundial-do-rock-artistas-provam-que-ha-resistencia-autoral-por-aqui",rodada 2
+musica,Banda Visalia,"rock alternativo desde 2016, single A Salvação; https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-mundial-do-rock-artistas-provam-que-ha-resistencia-autoral-por-aqui",rodada 2
+musica,Billie Negra,punk rock de letras sociais; https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-mundial-do-rock-artistas-provam-que-ha-resistencia-autoral-por-aqui,rodada 2
+musica,Seven Four,hard pop com mais de 20 músicas autorais (2019); mesma matéria do Dia Mundial do Rock: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-mundial-do-rock-artistas-provam-que-ha-resistencia-autoral-por-aqui,rodada 2
+musica,Neblina Rock 90's,"tributo ao rock dos anos 90, formado em 2019; mesma matéria do Dia do Rock",rodada 2
+musica,Wellington Perdomo (Leitones),músico do underground de Campo Grande há 20 anos; mesma matéria do Dia do Rock,rodada 2
+musica,Pretah,"sambista de Campo Grande, cantora profissional há cerca de 5 anos em 2023; https://www.campograndenews.com.br/lado-b/diversao/jacqueline-costa-pretah-e-beca-rodrigues-se-apresentam-em-festival",rodada 2
+musica,Festival O Canto Delas,"festival só de cantoras no Blues Bar, jul/2023, com Marcela Mar, Namaria, Lauren Cury, Gabi Barros, Mel Dias, Caramuja, Karô Castanha, Llez, Soulrá; mesma URL de Pretah",rodada 2
+musica,Barah Trio,grupo de jazz local no Campo Grande Jazz Festival 2024; sem integrantes na matéria; limite de 40 nomes; https://www.campograndenews.com.br/lado-b/diversao/capital-ganha-1o-festival-de-jazz-com-shows-ate-em-terminais-de-onibus,rodada 2
+musica,Gabriel Basso,baixista do El Trio e da Urbem; ver https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/el-trio-e-marcela-mar-levam-jazz-com-sotaque-de-ms-a-festival-em-portugal,rodada 2
+musica,Sofia Basso; Letícia Dias; Jool Azul; Ju Souc,artistas ligadas ao Coletivo 8; https://www.campograndenews.com.br/lado-b/diversao/dezembro-comecara-com-jacqueline-costa-e-coletivo-8-no-som-da-concha,rodada 2
+musica,Arrebol Cultural,produtora do musical Rainhas do Sertanejo (2026); https://www.campograndenews.com.br/lado-b/diversao/musical-de-ms-homenageia-vozes-femininas-do-sertanejo,rodada 2
+musica,Chris Duran,"cantor francês radicado no Brasil, show na Quinta Gospel em Campo Grande (2014); vínculo com MS fraco; https://www.campograndenews.com.br/lado-b/diversao/gala-da-decada-de-90-chris-duran-agora-e-pastor-e-faz-show-na-quinta-gospel",rodada 2
+musica,Max Moura e Cristiano,"dupla de bares de Campo Grande, disputa de música com Jads e Jadson (2013); limite de 40 nomes; https://www.campograndenews.com.br/lado-b/diversao/duplas-gravam-a-mesma-musica-e-fas-declaram-guerra-a-jads-e-jadson",rodada 2
+musica,Zé Pretim,músico de blues de Campo Grande em lista de talentos negros (2020); https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/da-musica-a-educacao-8-talentos-negros-de-ms-para-voce-conhecer,rodada 2
+musica,Saulo (violino),"violinista ligado à Orquestra Infantil da Fundação Zahran, em lista de talentos (2020); sobrenome não informado; mesma URL de Zé Pretim",rodada 2
+musica,Orquestra Corumbaense de Viola Caipira,grupo de Corumbá de que Elizeth Gonçalves faz parte (2026); https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/anuncio-no-jornal-levou-elizeth-a-viola-e-mudou-relacao-com-pantanal,rodada 2
+musica,Banda V12,"banda que revisita o repertório do Vaticano 69, Som da Concha dez/2024; integrantes não informados; https://www.campograndenews.com.br/lado-b/diversao/som-da-concha-neste-domingo-traz-dagata-e-banda-v12",rodada 2
+musica,Dagata e Os Aluízios,"banda do cantor Dagata, de Dourados; mesma matéria",rodada 2
+musica,Franciella Cavalheri,produtora do Campo Grande Jazz Festival 2024 (grafia na lista de talentos: Francielle); https://www.campograndenews.com.br/lado-b/diversao/capital-ganha-1o-festival-de-jazz-com-shows-ate-em-terminais-de-onibus,rodada 2
+musica,Bibi do Cavaco; Almirzinho; Grupo Revelação,"citados na matéria de Juci Ibanez (2014), Bibi coautor de quatro faixas do CD Na Casa do Samba; https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/cantora-que-honra-o-samba-em-ms-lanca-cd-autoral-com-homenagem-ao-marido",rodada 2
+musica,Ciríaco Benites: Instituto Chamamé MS,entidade que Benites fundou e dirigiu culturalmente; https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-52-anos-de-carreira-benites-era-um-dos-maiores-nomes-da-musica-da-fronteira,rodada 2
+teatro,Eros Bigatão Rios,matéria de 2018 (com-aventura-espetaculo-navegantes-encerra-temporada-na-orla-morena) traz só 'Eros Rios' como ator e Lú Bigatão Rios como autora; não esclarece se é a mesma pessoa que Lú nem o nome completo; registrado apenas como eros-rios,rodada 2
+danca,Irineu Junior,'Das coisas não ditas' na Semana pra Dança 2024; cidade e vínculo com MS não informados: https://www.campograndenews.com.br/lado-b/diversao/cidade-vai-respirar-danca-a-partir-de-hoje-com-espetaculos-gratuitos,rodada 2
+danca,Isadora Pantarotto; Isabela Pantarotto; Laís Ferreira,trio de 'En(casulo)' na Semana pra Dança 2024; mesma URL de Irineu Junior; vínculo com MS não informado,rodada 2
+danca,Leonardo Lopes,parceiro de Maria Fernanda Figueiró em 'El Alma se embarga por lo mucho que sabe' (Semana pra Dança 2024); mesma URL; limite,rodada 2
+danca,Paula Bueno; Marcos Mattos,idealizadores de 'De Passagem' com a Dançurbana (2016): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/semana-pra-danca-tem-espetaculos-de-fora-e-cursos-de-graca; limite,rodada 2
+danca,Cia Jovem de Dança de Jundiaí; Casa 4 (BA); Clarin Cia de Dança (RJ/SP); Grupo de Dança Afro NegraÔ (ES); Cia Duo Due (PR),"convidados de fora na Semana pra Dança 2024; sem vínculo com MS, não registrados",rodada 2
+danca,Eurionildo Leite (Sula),"dançarino do RealBeat Breakers, 2014: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/selecionados-para-campeonato-dancarinos-de-ms-nao-tem-dinheiro-para-viajar; limite",rodada 2
+danca,Cia de Dança Blaoow; B-girl Aline; Leticia Pontes; DJ Shaba; Mestre de Cerimônia CJ,oficinas e mostra da Rede Hip Hop 2023: https://www.campograndenews.com.br/lado-b/diversao/encontro-gratuito-tera-workshops-e-mostra-de-dancas-urbanas; limite,rodada 2
+danca,Campão Breaking; Campão Cultural,evento 2025/2022 com batalhas de breaking e hip hop (https://www.campograndenews.com.br/lado-b/diversao/orla-morena-tera-batalhas-de-rima-passinho-ballroom-e-breaking); registrar como evento se for verbete próprio; limite,rodada 2
+danca,Papo de Rua; Pietro Falcão; Vagmildo de Oliveira,"evento de hip hop, break e grafite na Praça do Rádio Clube em 2011: https://www.campograndenews.com.br/lado-b/diversao/hip-hop-grafite-e-break-se-unem-na-capital-na-busca-pelo-fim-do-preconceito; limite",rodada 2
+danca,Escola de Teatro Bolshoi de Joinville - pré-seleção em Campo Grande (2013); Adalton Garcia,"https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bale-bolshoi-faz-pre-selecao-pela-primeira-vez-em-campo-grande; escola é de SC, evento pontual; limite",rodada 2
+danca,Cristiane Aparecida de Luca Lima; Maria Ivonete Simocelli; Lucy Carlos de Andrade,integrantes da Comissão Sul-Mato-Grossense de Folclore (2026): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/acervo-de-4-mil-itens-sobre-folclore-de-ms-nao-tem-lugar-para-ficar; limite,rodada 2
+danca,Focus Cia de Dança (RJ),"visitou Campo Grande em 2024 (Alex Neoral); só apresentação em MS, não entra",rodada 2
+circo,Cirola (palhaço),dupla com Mixirica em 'A Borboleta Mais Velha do Mundo' no Eteca 2023: https://www.campograndenews.com.br/lado-b/diversao/semana-de-feriado-tera-festival-para-criancas-com-programacao-gratuita; nome civil/vínculo a confirmar,rodada 2
+circo,Mauro Guimarães - oficina Circo Lúdico (2020),https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/de-forma-ludica-oficina-ensina-tecnicas-de-equilibrio-e-malabares-para-criancas; ele e o Circo do Mato já estão na lista; só relação/obs,rodada 2
+circo,Rué La Companhia (SP),"criou 'Navegantes' circense apresentado em Três Lagoas em 2025; grupo paulista, não entra (homônimo do espetáculo do Florescer do Cerrado/Deslimites)",rodada 2
+teatro,Júnia Cristina Pereira; Celene Nessimian; Andrea Freire; Christiane Araújo; Melly Sena,participantes da Mostra de Teatro Infantil do MS 2017: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mostra-leva-espetaculos-infantis-para-criancas-da-periferia-de-campo-grande; limite,rodada 2
+teatro,Teatro de Brincar; Grupo Tareco-Treco; Ciro/Casa Meimei,"'Na Mala Tem Histórias' (Sesc Teatro Prosa, 2026): https://www.campograndenews.com.br/lado-b/diversao/hoje-tem-festas-juninas-dia-d-da-danca-e-espetaculos-gratuitos; limite",rodada 2
+teatro,Gil Esper; Fernando Eiras; Emílio de Mello,FIT Dourados 2025 (https://www.campograndenews.com.br/lado-b/diversao/festival-de-teatro-abre-com-casa-cheia-e-segue-hoje-com-espetaculos); Gil Esper coordena o festival na UFGD; Eiras e Mello são do RJ/SP; registrar só Gil Esper se houver outra matéria,rodada 2
+circo,Beto Bonfim; Maria e Gustavo (sobrinhos),"no passeio monociclístico 2016; público, não entram",rodada 2
+danca,Reminiscência Paraguaya (Ponta Porã),"grupo folclórico paraguaio de Ponta Porã achado só em Olhar Direto (2016), sem matéria do Campo Grande News aberta; buscar em outra rodada",rodada 2
+danca,Quik Companhia de Dança (MG); Arara Azul Cia de Dança (UCDB); Estúdio de Dança Beatriz de Almeida; Circuito Dança do Mato,vistos só em snippet de busca (site da prefeitura de Três Lagoas); abrir matéria do Campo Grande News antes de registrar,rodada 2
+literatura,Goretti de Moura,"reforço de fonte: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/entre-poesia-e-estrelas-escritora-relanca-obra-e-chega-as-bibliotecas-publicas (06/10/2025): relançamento de É Assim que Eu Vejo as Estrelas (poesia, Vida Produções) pelo projeto Leia MS/Fundação de Cultura (PNAB); 100 exemplares ao Sistema Estadual de Bibliotecas, versão digital no MS Digital; autora de 17 livros, nascida em Patu (RN), em MS desde 1980; grafa Goretti di Moura",rodada 2
+audiovisual,Ao Sul do Sol,"sem matéria do Campo Grande News achada nas buscas desta rodada; continua pendente (obra de Rodolfo Ikeda, com Ricardo Pieretti)",rodada 1
+audiovisual,Nicolle Cabalero,busca por nome sem resultado; não consta nas matérias da SEDA 2013 nem da Socine 2024; continua pendente,rodada 1
+audiovisual,Alessandra Messias,busca por nome sem resultado; continua pendente,rodada 1
+audiovisual,André Patroni,busca por nome sem resultado; continua pendente,rodada 1
+audiovisual,Kleomar Carneiro,busca por nome sem resultado; continua pendente,rodada 1
+audiovisual,Vinicius Galharte,busca por nome sem resultado; continua pendente,rodada 1
+literatura,Alexandra Tupi Krenak,ilustradora de A Revolução da Catí; vínculo com MS não informado: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/catarina-guato-vira-inspiracao-para-crianca-salvar-o-pantanal,rodada 2
+literatura,Olívio Jekupé,"escritor guarani, mora em Curitiba (PR); participou de debate no Festival de Inverno de Bonito 2022; vínculo com MS só pelo evento: https://www.campograndenews.com.br/lado-b/diversao/literatura-dos-povos-indigenas-promete-encantar-no-festival-de-inverno",rodada 2
+literatura,Fabiane Medina,"professora da Faculdade Intercultural Indígena da UFGD (Dourados), mediou debate de literatura indígena em Bonito 2022: https://www.campograndenews.com.br/lado-b/diversao/literatura-dos-povos-indigenas-promete-encantar-no-festival-de-inverno",rodada 2
+audiovisual,Yuri Taves,"roteirista e diretor do curta Coroa do Corona (2021, Lei Aldir Blanc); vínculo individual com MS não dito: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-do-cinema-nacional-relembre-curtas-regionais-lancados-este-ano",rodada 2
+audiovisual,Bruna Zanardo,"curta Solar Arte e Cura (2021, Lei Aldir Blanc): mesma matéria dos curtas regionais de 2021; vínculo individual com MS não dito: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-do-cinema-nacional-relembre-curtas-regionais-lancados-este-ano",rodada 2
+audiovisual,João Benitez,"curta Rumor de Estrelas (2021, Lei Aldir Blanc), baseado em microconto premiado dele: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-do-cinema-nacional-relembre-curtas-regionais-lancados-este-ano",rodada 2
+audiovisual,Encruzilhada de Estórias (websérie),websérie de curtas de 2021 sobre manifestações de fé afro-descendentes em Corumbá e Ladário; realizador não nomeado: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-do-cinema-nacional-relembre-curtas-regionais-lancados-este-ano,rodada 2
+audiovisual,Próximo Take Filmes (websérie Por Aí),"produtora fundada em 2012 em Campo Grande, websérie Por Aí (2014), com Luciana Nantes, Rita Varanis, Munique Meirelles: https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/amigas-criam-webserie-para-mostrar-lugares-e-ideias-diferentes-de-campo-grande",rodada 2
+audiovisual,Natasha (série); Antony Magalhães,"série aprovada em edital da Ancine/Prodav em 2016, de Thiago Rotta (Dourados), roteiro de Antony Magalhães: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/animacao-e-serie-sobre-viagem-de-amigas-sao-aprovados-em-edital-da-ancine",rodada 2
+audiovisual,Jorge de Barros; Suzana Nellis; Gustavo Santana; Gael Queiroz; Luísa Costa; Tatiana Varela; Pedro Souza; Maria Luiza Staut; Liara Belmira,diretores de animações selecionadas na Mostra de Animação Regional MS 2026 (citados em lista): https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/capital-recebe-mostra-de-animacao-regional-com-sessoes-gratuitas,rodada 2
+audiovisual,Givago Oliveira; Farid Fahed; Fora do Eixo (SEDA),"7ª Semana do Audiovisual (SEDA), Campo Grande, ago. 2013: palestrante sobre cinema sul-mato-grossense, fotógrafa idealizadora, coletivo organizador: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filmes-e-palestras-vao-mostrar-como-e-quem-faz-audiovisual-em-ms",rodada 2
+audiovisual,Sílvio Brandolt; Cine Vision,empresário gaúcho que investe em cinema de duas salas num casarão de Corumbá (jan. 2025); sem cinema na cidade desde 2002 (Cine Anache): https://www.campograndenews.com.br/lado-b/arquitetura-23-08-2011-08/casarao-com-mais-de-150-anos-de-historia-vai-virar-cinema-em-corumba,rodada 2
+audiovisual,Gado Novo (curta),"curta de Beto Brant (SP) com Tero Queiroz (já na lista), filmado em Costa Rica (MS), Drama Filmes, estreia no Curta Kinoforum 2023: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ator-de-ms-protagoniza-filme-que-exibe-conflitos-de-peoes-e-ladroes-de-gado",rodada 2
+literatura,Hámor Livraria; Alessandra Coelho; Henrique Komatsu; Rossine Benício; Lígia Burton,"livraria/editora e autores de MS listados em matéria de nov. 2024 (Usamos tudo para poesia; Ototo, finalista do Jabuti 2020; Pequeno Ensaio...; livro infantil): https://www.campograndenews.com.br/lado-b/consumo/procurando-uma-nova-leitura-de-uma-chance-aos-autores-de-ms",rodada 2
+literatura,Cristiane de Oliveira Silva; Cilene Queiroz,"autoras de Histórias da Vovó Lela e A Águia Solidária, lançados em Corumbá em maio de 2023 pela V.I.D.A. Produções: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/lancamento-traz-livros-com-memorias-e-personagens-pantaneiros-para-criancas",rodada 2
+audiovisual,"Elis Regina (fotógrafa, doc 5 Tempos)","documentário 5 Tempos (2021, Lei Aldir Blanc); homônima da cantora, vínculo com MS não dito: https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dia-do-cinema-nacional-relembre-curtas-regionais-lancados-este-ano",rodada 2
