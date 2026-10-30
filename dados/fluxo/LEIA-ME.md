@@ -19,7 +19,7 @@ preparar ──> garimpeiro ─────────────────�
 
 - **preparar** escolhe quem trabalha em quê, com `scripts/fila.mjs --json`.
 - **garimpeiro** integra as propostas dos outros, expande uma área e registra nomes e relações.
-- **pesquisador** monta o dossiê de um nome. **reforco** roda o atualizador em verbete de fonte única.
+- **pesquisador** monta o dossiê de um nome. **reforco** roda o atualizador em verbete marcado à mão como `reforcar`.
 - **refila** recalcula a fila com os dossiês recém-feitos; **redator** escreve um verbete por dossiê.
 - **fechamento** roda o ligador no que foi escrito, o revisor em até 10 verbetes, e empacota um lote quando há 10 prontos.
 
@@ -36,7 +36,7 @@ Coluna `situacao` de `dados/lista-mestra.csv`. Mude só com `node scripts/fila.m
 | `dossie` | dossiê pronto em `dados/dossies/<id>.md` | redator |
 | `rascunho` | verbete escrito | fechamento (ligador, revisor) |
 | `devolvido` | revisor achou PROBLEMA; relatório em `dados/revisao/<id>.md` | redator |
-| `reforcar` | passou, mas com fonte única | reforco (atualizador) |
+| `reforcar` | marcado à mão para buscar fato novo ou fonte melhor | reforco (atualizador) |
 | `pronto-para-lote` | passou na revisão | fechamento (empacotar) |
 | `em-lote` | está em uma branch `lote-NN` | Helton (pull request) |
 | `revisado` | Helton aprovou e mesclou | ninguém |
@@ -46,7 +46,7 @@ Coluna `situacao` de `dados/lista-mestra.csv`. Mude só com `node scripts/fila.m
 - **Nomes e relações novos** que qualquer agente encontra vão para `dados/propostas/` (um arquivo por rodada). O garimpeiro e o fechamento integram com `scripts/integrar-propostas.mjs`: nome novo entra como `a-pesquisar`; nome repetido sobe de prioridade. Assim, um nome citado em dois verbetes vira candidato forte sem ninguém decidir.
 - **Grau de conexão** (`dados/relacoes.csv`) ordena a fila: entre nomes de mesma prioridade, o mais ligado é pesquisado antes. A rede cresce de dentro para fora.
 - **Revisor devolve** (`devolvido` + `dados/revisao/<id>.md`): o redator lê o relatório antes de reescrever.
-- **Fonte única** vira `reforcar`: o atualizador tenta uma segunda fonte. Se já tentou (o dossiê tem seção "Atualização de ..."), o revisor aceita como `pronto-para-lote` com a observação "fonte única".
+- **Fonte única** basta (decidido em 30/10/2026): verbete sem PROBLEMA vai direto para `pronto-para-lote`. Fontes impressas lidas uma vez ficam em `dados/fontes/` e valem como leitura pelas fichas.
 - **Verbetes desejados** (links `[[...]]` para páginas que não existem) entram na lista-mestra como `a-pesquisar` com origem "citado em verbetes" e prioridade `alta`.
 
 ## Concorrência

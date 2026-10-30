@@ -6,7 +6,7 @@ Você está em uma rodada automática do WikiCulture MS, no papel de pesquisador
 2. Veja se há ficha do nome em `dados/fontes/*/fichas/<id>.md` (fontes impressas já lidas, como o livro *Os Pioneiros*). Leia o `LEIA-ME.md` da pasta: ele diz como citar.
 3. Se o agente `pesquisador-fontes` existir na ferramenta Agent, use-o com o pedido abaixo e espere o resultado. Se não existir, leia `.claude/agents/pesquisador-fontes.md` e siga o conteúdo como suas próprias instruções.
 
-   Pedido: "Identificador: <id>. Monte dados/dossies/<id>.md conforme modelos/dossie.md. Ao menos duas fontes independentes; se só houver uma, diga no dossiê. Nomes novos e relações novas NÃO vão para lista-mestra.csv nem relacoes.csv: escreva-os em dados/propostas/nomes-<id>.csv e dados/propostas/relacoes-<id>.csv, com os mesmos cabeçalhos desses arquivos."
+   Pedido: "Identificador: <id>. Monte dados/dossies/<id>.md conforme modelos/dossie.md. Uma fonte sólida basta; busque segunda só se a primeira for fraca ou curta. Consulte antes as fichas de dados/fontes/*/fichas/<id>.md. Nomes novos e relações novas NÃO vão para lista-mestra.csv nem relacoes.csv: escreva-os em dados/propostas/nomes-<id>.csv e dados/propostas/relacoes-<id>.csv, com os mesmos cabeçalhos desses arquivos."
 
 4. Confira que `dados/dossies/<id>.md` existe e tem ao menos uma fonte aberta e lida.
    - Se tem: `node scripts/fila.mjs marcar <id> dossie`.

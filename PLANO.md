@@ -87,7 +87,7 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 - **Dados pessoais** em resultados de editais: nunca copiar.
 - **Erro factual** de agentes de IA (datas, prêmios): regra da fonte, conferência automática e revisão humana por lote.
 - **Imagens:** começar sem fotos; entram só com licença ou autorização.
-- **Fontes únicas:** vários verbetes-modelo se apoiam em uma única matéria. Na Fase 2, o padrão é ao menos duas fontes independentes por verbete.
+- **Fontes únicas (decidido em 30/10/2026):** uma fonte sólida basta por verbete. Segunda fonte é bem-vinda, não obrigatória. Fonte fraca (rede social, página sem data, conteúdo patrocinado, Wikipédia) não sustenta verbete sozinha. Fontes impressas lidas uma vez ficam em `dados/fontes/`, com fichas que os agentes citam.
 
 ## Decisões em aberto
 

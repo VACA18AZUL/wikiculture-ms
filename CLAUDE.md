@@ -8,7 +8,7 @@ Tudo em português do Brasil. Verbetes em tom enciclopédico: frases curtas, sem
 
 ## Regras que não têm exceção
 
-- **Sem fonte, sem frase.** Todo parágrafo de verbete termina com nota `[^id]` apontando para uma fonte que você abriu e leu nesta sessão. Não escreva de memória. Se a fonte não diz, o verbete não diz; deixe o campo da ficha vazio.
+- **Sem fonte, sem frase.** Todo parágrafo de verbete termina com nota `[^id]` apontando para uma fonte que você abriu e leu nesta sessão, ou para uma fonte impressa registrada em `dados/fontes/` (a ficha dela vale como leitura). Uma fonte sólida basta por verbete; fonte fraca (rede social, página sem data, conteúdo patrocinado, Wikipédia) não sustenta verbete sozinha. Não escreva de memória. Se a fonte não diz, o verbete não diz; deixe o campo da ficha vazio.
 - **Nunca invente** datas, prêmios, títulos de obras, nomes de integrantes ou links. Link que você não abriu não entra.
 - **Dados pessoais ficam fora:** CPF, CNPJ, RG, endereço residencial, telefone, e-mail, estado de saúde, vida familiar. Listas de editais trazem CPF: use só o nome artístico e o nome do projeto.
 - **Não copie texto** das fontes. Resuma com palavras próprias.

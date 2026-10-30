@@ -10,9 +10,7 @@ Você está em uma rodada automática do WikiCulture MS, no papel de fechamento 
 
    Depois, para cada verbete revisado, marque a situação com `node scripts/fila.mjs marcar <id> <situacao>`:
    - há PROBLEMA → `devolvido`
-   - sem PROBLEMA, mas ATENÇÃO de fonte única e o dossiê **não** tem seção "Atualização de" → `reforcar`
-   - sem PROBLEMA, fonte única já reforçada uma vez → `pronto-para-lote "fonte única"`
-   - sem PROBLEMA e sem ATENÇÃO de fonte única → `pronto-para-lote`
+   - sem PROBLEMA → `pronto-para-lote` (uma fonte sólida basta; anote "fonte única" na observação, se for o caso)
 
 4. **Lote.** Rode `node scripts/fila.mjs --json` e veja `prontos`. Se houver 10 ou mais:
    - N = número de arquivos `dados/lotes/lote-*.md` + 1.

@@ -36,7 +36,7 @@ revisor-editorial  ->  relatório: pronto para pull request ou volta ao redator
 pull request (até 10 verbetes)  ->  revisão humana  ->  status: revisado
 ```
 
-O **atualizador** entra fora desse fluxo: em verbetes já publicados, quando surge fato novo ou quando o verbete tem fonte única.
+O **atualizador** entra fora desse fluxo: em verbetes já publicados, quando surge fato novo ou fonte melhor.
 
 ## Passagem entre agentes
 
@@ -67,8 +67,8 @@ Vários pesquisadores podem rodar em paralelo, um por nome. Redatores também. O
 | Fase | Agentes em uso |
 |---|---|
 | 1. Lista-mestra | garimpeiro-ms, uma área por sessão. Helton revisa a lista ao fim de cada área. |
-| 2. Piloto (35 verbetes) | pesquisador-fontes, redator-verbete, ligador, revisor-editorial. Padrão: duas fontes independentes por verbete. |
-| 3. Expansão | Os mesmos, em lotes de 10. atualizador para verbetes de fonte única. |
+| 2. Piloto (35 verbetes) | pesquisador-fontes, redator-verbete, ligador, revisor-editorial. Uma fonte sólida por verbete basta. |
+| 3. Expansão | Os mesmos, em lotes de 10. atualizador sob demanda, para fatos novos. |
 | 4 e 5 | atualizador, sob demanda. |
 
 ## O agente de pesquisa extensa
@@ -82,7 +82,7 @@ Os agentes rodam como jobs do GitHub Actions (`.github/workflows/agentes.yml`), 
 Em cada ciclo (a cada 3 horas, por padrão):
 
 1. `preparar` monta a fila com `scripts/fila.mjs`.
-2. Em paralelo: **garimpeiro** (1), **pesquisadores** (até 4, um por nome), **reforços** (até 2, atualizador em verbete de fonte única).
+2. Em paralelo: **garimpeiro** (1), **pesquisadores** (até 4, um por nome), **reforços** (até 2, atualizador em verbete marcado à mão como `reforcar`).
 3. `refila` recalcula e os **redatores** (até 4) escrevem um verbete por dossiê novo.
 4. **fechamento** roda ligador, revisor (até 10 verbetes) e empacota a branch `lote-NN` quando há 10 prontos.
 

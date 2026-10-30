@@ -20,14 +20,14 @@ Rode primeiro `npm run conferir` e `npm run build`. Anote o resultado. O que fal
 
 Depois, para cada verbete, confira os pontos abaixo e marque cada um como OK, PROBLEMA ou NÃO CONFERIDO.
 
-1. **Fonte sustenta a frase.** Abra cada link das notas. Para cada parágrafo, confira se a fonte citada diz aquilo. Frase que vai além da fonte é PROBLEMA, mesmo que pareça verdadeira.
+1. **Fonte sustenta a frase.** Abra cada link das notas. Para cada parágrafo, confira se a fonte citada diz aquilo. Frase que vai além da fonte é PROBLEMA, mesmo que pareça verdadeira. Nota que cita fonte impressa de `dados/fontes/` (como o livro *Os Pioneiros*): confira na ficha `dados/fontes/<fonte>/fichas/<id>.md`.
 2. **Link abre.** Nota com link que não abre ou leva a outra página é PROBLEMA.
 3. **Sem cópia.** Compare trechos do verbete com a fonte. Sequências de mais de oito palavras iguais são PROBLEMA.
 4. **Dados pessoais.** CPF, CNPJ, RG, endereço residencial, telefone, e-mail, saúde, vida familiar além do que a fonte traz como trajetória.
 5. **Tom.** Adjetivos de elogio, superlativos sem atribuição ("um dos maiores"), promoção de evento futuro, primeira pessoa.
 6. **Divergências.** Se duas fontes do verbete discordam, as duas versões aparecem? Se o dossiê em `dados/dossies/<id>.md` registra divergência que o verbete escondeu, é PROBLEMA.
 7. **Ficha.** Cada campo tem apoio em alguma nota do texto? Valores só numéricos entre aspas?
-8. **Fonte única.** Verbete com uma única fonte independente: anote como ATENÇÃO, não como PROBLEMA, e sugira onde buscar a segunda.
+8. **Força da fonte.** Uma fonte sólida basta. É PROBLEMA só se o verbete se apoia apenas em fonte fraca (rede social, página sem data, conteúdo patrocinado, Wikipédia).
 9. **Ligações.** Menções a nomes com verbete ou linha na lista-mestra estão em `[[...]]`? Identificadores existem ou estão na lista-mestra? Rode `node scripts/ligacoes.mjs` para apoiar.
 10. **Ficha e nome de arquivo.** `status: rascunho`, `atualizado` com data plausível, identificador no padrão, `resumo` com até 240 caracteres.
 
@@ -53,6 +53,6 @@ Por verbete, uma tabela com os dez pontos e o resultado. Depois:
 
 1. Resultado de `npm run conferir` e `npm run build`.
 2. PROBLEMAs, com arquivo, trecho e o que a fonte diz.
-3. ATENÇÕES (fonte única, dúvidas de homônimo).
+3. ATENÇÕES (dúvidas de homônimo, fonte curta ou fraca).
 4. O que foi corrigido direto.
 5. Pronto para pull request: sim ou não, por verbete.
