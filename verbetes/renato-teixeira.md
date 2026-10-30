@@ -18,13 +18,13 @@ atualizado: 2026-10-30
 
 ### Formação e primeiros anos
 
-Segundo o Dicionário Cravo Albin, passou a infância em Ubatuba e, aos 14 anos, foi para Taubaté, onde ficou até os 24. No início dos anos 1960 trabalhou como locutor na Rádio Difusora de Taubaté, onde conheceu a música sertaneja. Mudou-se para São Paulo em 1967.[^dmpb]
+Segundo o Dicionário Cravo Albin, passou a infância em Ubatuba e, aos 14 anos, foi para Taubaté, onde ficou até os 24. No início dos anos 1960 trabalhou como radialista na Rádio Difusora de Taubaté, onde conheceu a música sertaneja. Mudou-se para São Paulo em 1967.[^dmpb]
 
-As fontes divergem sobre a naturalidade. O Dicionário e o Lado B de agosto de 2022 o dão como natural de Santos.[^dmpb][^cgn2022c] O Lado B de outubro de 2017 chama Taubaté de sua cidade natal e diz que ele foi criado lá.[^cgn2017]
+O Dicionário e o Lado B de agosto de 2022 o dão como natural de Santos.[^dmpb][^cgn2022c] Em entrevista ao Lado B, em outubro de 2017, Teixeira diz que foi criado em Taubaté e se refere à cidade como "minha terra".[^cgn2017]
 
 ### Festivais e primeiros sucessos
 
-O Dicionário registra "Dadá Maria" como finalista do 3º Festival de MPB da TV Record, em 1967, e "Madrasta", cantada por Roberto Carlos, no 4º Festival, em 1968. "Marinheiro" foi classificada para o 7º FIC da TV Globo, em 1972. "Romaria", gravada por Elis Regina em 1977, foi seu maior sucesso e recebeu depois muitas regravações.[^dmpb]
+O Dicionário registra "Dadá Maria" como finalista do 3º Festival de MPB da TV Record, em 1967, e "Madrasta", cantada por Roberto Carlos, no 4º Festival, em 1968. "Marinheiro" foi classificada para o 7º FIC da TV Globo, em 1972. "Romaria", gravada por Elis Regina em 1977, tornou-se um sucesso nacional e foi gravada depois por vários artistas.[^dmpb]
 
 ### Vínculo com Mato Grosso do Sul
 
@@ -40,7 +40,7 @@ Com Sater e [[paulo-simoes|Paulo Simões]], é coautor de "[[assim-os-dias-passa
 
 ### Geraldo Roca e "Trem do Pantanal"
 
-Segundo o Campo Grande News, Teixeira era amigo próximo de [[geraldo-roca|Geraldo Roca]] e de [[paulo-simoes|Paulo Simões]]. Canta "[[trem-do-pantanal|Trem do Pantanal]]" em todos os shows em homenagem a Roca. Afirma nunca ter gravado a canção sozinho e lamenta não tê-la gravado antes de Sater; na mesma matéria, diz que gravou com Roca.[^cgn2025b]
+Segundo o Campo Grande News, Teixeira era amigo próximo de [[geraldo-roca|Geraldo Roca]] e de [[paulo-simoes|Paulo Simões]]. Canta "[[trem-do-pantanal|Trem do Pantanal]]" em todos os shows em homenagem a Roca. A reportagem diz que ele não chegou a gravar a canção. Na mesma matéria, Teixeira lamenta ter perdido a chance de gravá-la antes de Sater e diz que a gravou com Roca.[^cgn2025b]
 
 Em dezembro de 2015, o jornal informou que Roca deixara pronto um CD em dupla com Teixeira, previsto para o início de 2016. Roca gravou sua parte no [[studio-45|Studio 45]], em Campo Grande, e Teixeira gravou em casa, em São Paulo. Juntos, gravaram "Romaria" e "[[trem-do-pantanal|Trem do Pantanal]]", e a matéria diz que foi a primeira vez que o fizeram. Roca tocou viola de dez cordas no LP [[garapa-lp|*Garapa*]], de Teixeira, de 1978.[^cgn2015]
 
@@ -48,7 +48,7 @@ Em dezembro de 2015, o jornal informou que Roca deixara pronto um CD em dupla co
 
 Em 25 de agosto de 2022, apresentou-se no show "[[saudacoes-pantaneiras-2022|Saudações Pantaneiras]]", na Praça do Rádio Clube, em Campo Grande, nas comemorações dos 123 anos da cidade, com [[geraldo-espindola|Geraldo Espíndola]] e [[marcelo-loureiro|Marcelo Loureiro]]. A entrada foi gratuita e o início, às 18h30. O repertório anunciado incluía "Romaria", "Frete" e "[[tocando-em-frente|Tocando em Frente]]".[^cgn2022c][^cgn2022d]
 
-Em 17 de setembro de 2017, o Campo Grande News noticiou o show "Tocando em Frente", com Sater e [[sergio-reis|Sérgio Reis]], previsto para Campo Grande em dezembro daquele ano. A matéria não confirmava a data.[^cgn2017b] No programa [[altas-horas|Altas Horas]] (TV Globo), exibido em 22 de outubro de 2022, cantou com Sater "Tocando em Frente", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]".[^cgn2022b]
+Em 17 de setembro de 2017, o Campo Grande News noticiou o show "Tocando em Frente", com Sater e [[sergio-reis|Sérgio Reis]], previsto para Campo Grande em dezembro daquele ano. A matéria não confirmava a data.[^cgn2017b] No programa [[altas-horas|Altas Horas]], exibido em 22 de outubro de 2022, cantou com Sater "Tocando em Frente", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]".[^cgn2022b]
 
 ## Prêmios
 
