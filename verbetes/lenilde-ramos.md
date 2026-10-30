@@ -40,7 +40,7 @@ Recebeu o [[premio-grao-de-musica|Prêmio Grão de Música]] na 10ª edição, e
 ## Obras
 
 - *Onça Pintada* (2009) — [[onca-pintada-cd-2009|álbum]]; único álbum lançado, segundo ela. O ano consta apenas na entrevista ao Correio do Estado.[^ce2023] A revista do prêmio diz que as canções da artista estão reunidas nesse trabalho.[^pva2023]
-- "Pertences de Uso Pessoal" — poema de *Gramática Expositiva do Chão*, de Manoel de Barros, musicado em ritmo de polca-rock.[^pva2023]
+- "Pertences de Uso Pessoal" — poema de *Gramática Expositiva do Chão*, de [[manoel-de-barros|Manoel de Barros]], musicado em ritmo de polca-rock.[^pva2023]
 - *História sem Nome – Lembranças de uma menina quase gêmea* (2011) — [[historia-sem-nome|livro]] sobre a hanseníase e o hospital, com edição italiana (*Storia senza nome*).[^ce2023] [^oeo2024] [^acr2026]
 - *Imagens e Palavras* — livro; ano e editora não constam.[^oeo2024]
 - *Do Baú da Tia Lê – Crônicas* — livro de crônicas de memória; ano e editora não constam.[^oeo2024]
@@ -48,7 +48,7 @@ Recebeu o [[premio-grao-de-musica|Prêmio Grão de Música]] na 10ª edição, e
 
 ## Discografia
 
-- *Onça Pintada* (2009) — álbum.[^ce2023]
+- [[onca-pintada-cd-2009|*Onça Pintada*]] (2009) — álbum.[^ce2023]
 
 [^ce2023]: Marcos Pierry, ["Lenilde Ramos é um dos dois nomes de MS agraciados com o 10º Prêmio Grão de Música"](https://correiodoestado.com.br/correio-b/lenilde-ramos-e-um-dos-dois-nomes-de-ms-agraciados-com-o-10o-premio/422911/), *Correio do Estado* (Correio B), 22 nov. 2023. Acesso em 30 out. 2026.
 [^pva2023]: ["O Prêmio Grão de Música anuncia os premiados e premiadas de sua 10ª edição"](https://www.revistaprosaversoearte.com/o-premio-grao-de-musica-anuncia-os-premiados-e-premiadas-de-sua-10a-edicao/), *Revista Prosa Verso e Arte*, 27 out. 2023 (texto de divulgação da organização do prêmio). Acesso em 30 out. 2026.

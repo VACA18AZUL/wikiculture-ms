@@ -10,7 +10,7 @@ ficha:
   Instrumento: Viola
   Reconhecimentos: Doutor honoris causa pela UFMS (2019); Grammy Latino (2018)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-10-30
 ---
 
 **Almir Sater** é um violeiro, compositor e ator natural de Campo Grande. O Dicionário Cravo Albin da Música Popular Brasileira registra seu nome completo como Almir Eduardo Melke Sater e a data de nascimento como 14 de novembro de 1956.[^dmpb]
@@ -61,7 +61,7 @@ Uma dissertação de Max Junior Sales (ECA-USP, orientação de Ivan Vilela), *A
 
 Em 22 de julho de 2019, recebeu da [[ufms|UFMS]] o título de doutor honoris causa, junto com [[humberto-espindola|Humberto Espíndola]] e [[isaac-de-oliveira|Isaac de Oliveira]]. Segundo o Correio do Estado, foi a primeira vez que a universidade concedeu o título a artistas. A cerimônia ocorreu no contexto da 71ª reunião da SBPC.[^ce2019]
 
-Sobre prêmios, as fontes divergem. Para o Correio do Estado, o álbum *AR*, com [[renato-teixeira|Renato Teixeira]], venceu em 2016 o Prêmio da Música Brasileira (melhor dupla regional) e o Grammy Latino de melhor álbum de raízes em língua portuguesa. Em 2018, *+AR* ganhou o Grammy Latino na mesma categoria.[^ce2019] O Dicionário data *Ar* em 2015 e cita apenas o Grammy Latino de 2018 por *+Ar*, além do Prêmio Sharp de melhor disco instrumental (1990, *Instrumental II*) e do Prêmio Sharp de melhor música para "Tocando em frente".[^dmpb]
+Sobre prêmios, as fontes divergem. Para o Correio do Estado, o álbum *AR*, com [[renato-teixeira|Renato Teixeira]], venceu em 2016 o [[premio-da-musica-brasileira|Prêmio da Música Brasileira]] (melhor dupla regional) e o Grammy Latino de melhor álbum de raízes em língua portuguesa. Em 2018, *+AR* ganhou o Grammy Latino na mesma categoria.[^ce2019] O Dicionário data *Ar* em 2015 e cita apenas o Grammy Latino de 2018 por *+Ar*, além do Prêmio Sharp de melhor disco instrumental (1990, *Instrumental II*) e do Prêmio Sharp de melhor música para "Tocando em frente".[^dmpb]
 
 Em fevereiro de 2024, a escola de samba [[mocidade-independente-da-nova-corumba|Mocidade Independente da Nova Corumbá]], de Corumbá, o escolheu como tema do samba-enredo "A Mocidade Apresenta Almir Sater, o Pantaneiro Cantador da Esperança". Sater agradeceu a homenagem e informou que não poderia ir ao desfile, por compromissos anteriores.[^cgn2024]
 

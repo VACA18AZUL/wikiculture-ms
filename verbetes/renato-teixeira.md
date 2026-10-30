@@ -36,34 +36,34 @@ Em outubro de 2022, o Lado B o descreve como cantor e compositor que vive em Mat
 
 O Dicionário aponta [[almir-sater|Almir Sater]] como seu parceiro mais frequente e cita, entre as parcerias, "[[tocando-em-frente|Tocando em frente]]", "Boiada", "Missões naturais" e "Trem de lata". Lista ainda como parceiros [[sergio-reis|Sérgio Reis]], [[fagner|Fagner]], [[xangai|Xangai]], Pena Branca e Chico Teixeira.[^dmpb] Sater disse no programa [[altas-horas|Altas Horas]], em outubro de 2022, que conheceu a música de Teixeira antes de conhecê-lo pessoalmente e tornou-se fã. Teixeira falou da amizade de longa data entre os dois.[^cgn2022b]
 
-Com Sater e [[paulo-simoes|Paulo Simões]], é coautor de [[assim-os-dias-passarao|"Assim os Dias Passarão"]], canção que remete à partida de [[geraldo-roca|Geraldo Roca]] e tocou no último capítulo da novela *Pantanal*.[^cgn2022] A mesma matéria diz que "D de Destino" abriu o show de Sater em Campo Grande, em 12 de novembro de 2022, e a atribui a Sater em parceria com Teixeira.[^cgn2022]
+Com Sater e [[paulo-simoes|Paulo Simões]], é coautor de "[[assim-os-dias-passarao|Assim os Dias Passarão]]", canção que remete à partida de [[geraldo-roca|Geraldo Roca]] e tocou no último capítulo da novela [[pantanal-novela|*Pantanal*]].[^cgn2022] A mesma matéria diz que "[[d-de-destino|D de Destino]]" abriu o show de Sater em Campo Grande, em 12 de novembro de 2022, e a atribui a Sater em parceria com Teixeira.[^cgn2022]
 
 ### Geraldo Roca e "Trem do Pantanal"
 
-Segundo o Campo Grande News, Teixeira era amigo próximo de Geraldo Roca e de Paulo Simões. Canta "[[trem-do-pantanal|Trem do Pantanal]]" em todos os shows em homenagem a Roca. Afirma nunca ter gravado a canção sozinho e lamenta não tê-la gravado antes de Sater; na mesma matéria, diz que gravou com Roca.[^cgn2025b]
+Segundo o Campo Grande News, Teixeira era amigo próximo de [[geraldo-roca|Geraldo Roca]] e de [[paulo-simoes|Paulo Simões]]. Canta "[[trem-do-pantanal|Trem do Pantanal]]" em todos os shows em homenagem a Roca. Afirma nunca ter gravado a canção sozinho e lamenta não tê-la gravado antes de Sater; na mesma matéria, diz que gravou com Roca.[^cgn2025b]
 
-Em dezembro de 2015, o jornal informou que Roca deixara pronto um CD em dupla com Teixeira, previsto para o início de 2016. Roca gravou sua parte no [[studio-45|Studio 45]], em Campo Grande, e Teixeira gravou em casa, em São Paulo. Juntos, gravaram "Romaria" e "Trem do Pantanal", e a matéria diz que foi a primeira vez que o fizeram. Roca tocou viola de dez cordas no LP *Garapa*, de Teixeira, de 1978.[^cgn2015]
+Em dezembro de 2015, o jornal informou que Roca deixara pronto um CD em dupla com Teixeira, previsto para o início de 2016. Roca gravou sua parte no [[studio-45|Studio 45]], em Campo Grande, e Teixeira gravou em casa, em São Paulo. Juntos, gravaram "Romaria" e "[[trem-do-pantanal|Trem do Pantanal]]", e a matéria diz que foi a primeira vez que o fizeram. Roca tocou viola de dez cordas no LP [[garapa-lp|*Garapa*]], de Teixeira, de 1978.[^cgn2015]
 
 ### Apresentações
 
-Em 25 de agosto de 2022, apresentou-se no show "Saudações Pantaneiras", na Praça do Rádio Clube, em Campo Grande, nas comemorações dos 123 anos da cidade, com [[geraldo-espindola|Geraldo Espíndola]] e [[marcelo-loureiro|Marcelo Loureiro]]. A entrada foi gratuita e o início, às 18h30. O repertório anunciado incluía "Romaria", "Frete" e "Tocando em Frente".[^cgn2022c][^cgn2022d]
+Em 25 de agosto de 2022, apresentou-se no show "[[saudacoes-pantaneiras-2022|Saudações Pantaneiras]]", na Praça do Rádio Clube, em Campo Grande, nas comemorações dos 123 anos da cidade, com [[geraldo-espindola|Geraldo Espíndola]] e [[marcelo-loureiro|Marcelo Loureiro]]. A entrada foi gratuita e o início, às 18h30. O repertório anunciado incluía "Romaria", "Frete" e "[[tocando-em-frente|Tocando em Frente]]".[^cgn2022c][^cgn2022d]
 
-Em 17 de setembro de 2017, o Campo Grande News noticiou o show "Tocando em Frente", com Sater e Sérgio Reis, previsto para Campo Grande em dezembro daquele ano. A matéria não confirmava a data.[^cgn2017b] No programa Altas Horas (TV Globo), exibido em 22 de outubro de 2022, cantou com Sater "Tocando em Frente", "Um Violeiro Toca" e "D de Destino".[^cgn2022b]
+Em 17 de setembro de 2017, o Campo Grande News noticiou o show "Tocando em Frente", com Sater e [[sergio-reis|Sérgio Reis]], previsto para Campo Grande em dezembro daquele ano. A matéria não confirmava a data.[^cgn2017b] No programa [[altas-horas|Altas Horas]] (TV Globo), exibido em 22 de outubro de 2022, cantou com Sater "Tocando em Frente", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]".[^cgn2022b]
 
 ## Prêmios
 
-- 22º Prêmio da Música Brasileira (2011): melhor dupla regional, com Sérgio Reis.[^dmpb]
+- 22º [[premio-da-musica-brasileira|Prêmio da Música Brasileira]] (2011): melhor dupla regional, com [[sergio-reis|Sérgio Reis]].[^dmpb]
 - Prêmio Sharp (1992).[^dmpb]
-- Prêmio da Música Brasileira de 2016: o Dicionário lista indicações como melhor dupla regional (*Ar*) e melhor cantor regional (*Amizade Sincera II*).[^dmpb] O Correio do Estado diz que a dupla com Sater venceu como melhor dupla regional.[^ce2019]
+- [[premio-da-musica-brasileira|Prêmio da Música Brasileira]] de 2016: o Dicionário lista indicações como melhor dupla regional (*Ar*) e melhor cantor regional (*Amizade Sincera II*).[^dmpb] O Correio do Estado diz que a dupla com Sater venceu como melhor dupla regional.[^ce2019]
 - Grammy Latino de melhor álbum de raízes em língua portuguesa: o Correio do Estado e o Lado B de 2017 dizem que *AR* venceu na 17ª edição, e o Correio cita também *+AR*, em 2018.[^ce2019][^cgn2017b] O Dicionário confirma só o de 2018, com *+Ar*.[^dmpb]
-- Em 2018, indicações ao Prêmio da Música Brasileira (melhor álbum regional e melhor cantor, por *Terra dos sonhos*), segundo o Dicionário.[^dmpb]
+- Em 2018, indicações ao [[premio-da-musica-brasileira|Prêmio da Música Brasileira]] (melhor álbum regional e melhor cantor, por *Terra dos sonhos*), segundo o Dicionário.[^dmpb]
 
 ## Discografia
 
 Títulos e anos conforme o Dicionário Cravo Albin, salvo indicação.[^dmpb]
 
 - *Romaria* (1978) — RCA.[^dmpb]
-- *Garapa* (1978) — LP, segundo o Lado B.[^cgn2015] O Dicionário cita, em 1980, os títulos *Garopa* e *Guarapa*, pela RCA.[^dmpb]
+- [[garapa-lp|*Garapa*]] (1978) — LP, segundo o Lado B.[^cgn2015] O Dicionário cita, em 1980, os títulos *Garopa* e *Guarapa*, pela RCA.[^dmpb]
 - *Uma doce canção* (1981) — RCA.[^dmpb]
 - *Um brasileiro errante* (1982) — RCA.[^dmpb]
 - *Amizade sincera* (1990) — LP; RGE.[^dmpb]
@@ -74,11 +74,11 @@ Títulos e anos conforme o Dicionário Cravo Albin, salvo indicação.[^dmpb]
 - *Alvorada brasileira* (2000) — com Natan Soares.[^dmpb]
 - *Amizade sincera* (2010) — CD e DVD, com [[sergio-reis|Sérgio Reis]].[^dmpb]
 - [[ar-almir-sater-renato-teixeira|*Ar*]] (2015) — com [[almir-sater|Almir Sater]]; Universal Music.[^dmpb]
-- *Amizade sincera 2* (2015) — com Sérgio Reis.[^dmpb]
+- *Amizade sincera 2* (2015) — com [[sergio-reis|Sérgio Reis]].[^dmpb]
 - *Terra de sonhos* (2017) — Kuarup, com a Orquestra do Estado de Mato Grosso. O Dicionário não esclarece se a orquestra é do estado de Mato Grosso do Sul.[^dmpb]
-- [[mais-ar-almir-sater-renato-teixeira|*+Ar*]] (2018) — com Almir Sater. O Campo Grande News o anunciou em 17 de setembro de 2017, como continuação de *Ar*, com músicas novas dos dois, previsto para o fim daquele ano.[^dmpb][^cgn2017b]
+- [[mais-ar-almir-sater-renato-teixeira|*+Ar*]] (2018) — com [[almir-sater|Almir Sater]]. O Campo Grande News o anunciou em 17 de setembro de 2017, como continuação de *Ar*, com músicas novas dos dois, previsto para o fim daquele ano.[^dmpb][^cgn2017b]
 - *Naturezas* (2022) — com [[fagner|Fagner]]; Kuarup.[^dmpb]
-- *Destinos* (2024) — com Fagner.[^dmpb]
+- *Destinos* (2024) — com [[fagner|Fagner]].[^dmpb]
 - *Ao vivo no Sesc – 1978* (2024) — Selo Sesc.[^dmpb]
 
 [^dmpb]: ["Renato Teixeira"](https://dicionariompb.com.br/artista/renato-teixeira/), *Dicionário Cravo Albin da Música Popular Brasileira*, sem autoria e sem data.
