@@ -23,3 +23,5 @@ Uma linha por evento, em ordem. Formato:
 2026-10-29 21:10 | circo | concluída | rodada 7 | +30 nomes, +63 relações | sem commit a pedido; dissertação UFU (Dourados) não abriu como texto; BDTD, repositórios, Mapas, Itaú Cultural e editais pendentes
 2026-10-30 00:59 | artes-plasticas | em andamento | rodada 8
 2026-10-30 01:45 | artes-plasticas | concluída | rodada 8 | +30 nomes, +32 relações | sem commit a pedido; Itaú Cultural, Midiamax, core.ac.uk 403; PDFs UCDB e UFPel não lidos; Mapas, editais, BDTD pendentes
+2026-10-30 10:00 | musica | em andamento | rodada 9
+2026-10-30 10:30 | musica | concluída | rodada 9 | +30 nomes, +43 relações | sem commit a pedido; PDFs acadêmicos sem extração de texto; Itaú Cultural não retornou; Mapas, editais pendentes
