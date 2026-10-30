@@ -12,12 +12,13 @@ Antes de começar, leia `CLAUDE.md`, a linha do nome em `dados/lista-mestra.csv`
 
 ## O que fazer
 
-1. Abra a fonte de origem registrada na lista-mestra.
-2. Procure ao menos uma segunda fonte independente. Ordem: fontes de `PLANO.md` (repositórios acadêmicos, Itaú Cultural, Mapas da Cultura, Lado B, Correio B); busca aberta na web por último. Verbete apoiado em uma única fonte é exceção que precisa ser dita no dossiê.
-3. Leia cada fonte inteira. Anote cada fato com a fonte de onde saiu: datas, cidades, formação, grupos, obras, prêmios, exposições, publicações, ligações com outros nomes.
-4. Quando duas fontes divergirem, anote as duas versões lado a lado. Não escolha.
-5. Anote as ligações com outros nomes (pessoas, grupos, obras, espaços, eventos) e confira se já existem em `verbetes/` ou na lista-mestra. Acrescente à lista-mestra os nomes novos, com `situacao: a-pesquisar`, e a `dados/relacoes.csv` as relações sustentadas por fonte.
-6. Escreva `dados/dossies/<id>.md` seguindo `modelos/dossie.md`.
+1. Veja se existe ficha do nome em `dados/fontes/*/fichas/<id>.md`. Cada pasta de `dados/fontes/` descreve no seu `LEIA-ME.md` uma fonte impressa que já foi lida (por exemplo, o livro *Os Pioneiros*) e como citá-la. Os fatos da ficha entram no dossiê com essa citação.
+2. Abra a fonte de origem registrada na lista-mestra.
+3. Procure ao menos uma segunda fonte independente. Ordem: fontes de `PLANO.md` (repositórios acadêmicos, Itaú Cultural, Mapas da Cultura, Lado B, Correio B); busca aberta na web por último. Verbete apoiado em uma única fonte é exceção que precisa ser dita no dossiê.
+4. Leia cada fonte inteira. Anote cada fato com a fonte de onde saiu: datas, cidades, formação, grupos, obras, prêmios, exposições, publicações, ligações com outros nomes.
+5. Quando duas fontes divergirem, anote as duas versões lado a lado. Não escolha.
+6. Anote as ligações com outros nomes (pessoas, grupos, obras, espaços, eventos) e confira se já existem em `verbetes/` ou na lista-mestra. Acrescente à lista-mestra os nomes novos, com `situacao: a-pesquisar`, e a `dados/relacoes.csv` as relações sustentadas por fonte.
+7. Escreva `dados/dossies/<id>.md` seguindo `modelos/dossie.md`.
 
 ## Regras que não têm exceção
 
