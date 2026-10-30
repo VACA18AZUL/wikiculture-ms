@@ -145,4 +145,6 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
 - Entrou: origem e tema, Moinho In Concert 2022, 2023 (números e Rio), COP15 2026, Paulista 2026, equipe confirmada em fonte aberta.
-- Ficou de fora: o que dependia só de cgn2023, cgn2023bonito e cgn2024sp (HTTP 403 nesta sessão, não reabertas): Arce Correia, Suelen Garcez, Libras, Ponta Porã, Dourados, Bonito, São Paulo 2024, classificação 14 anos. Fora também: regência de José Maikon (função não clara), Laryssa Durigon, FESTOP.
+- Reescrita (devolvido, 30/10/2026): eventos de dez. 2022, mar. 2026 e mai. 2026 passaram a "anunciado" (fontes são matérias de véspera); classificação 10 e 14 anos com as duas notas; cgn2023 reaberta (abriu) e citada para turnê de abril de 2023, regência de José Maikon, primeira apresentação no Moinho In Concert; cargo de Márcia Rolon limitado ao que a fonte diz.
+- Segue de fora: cgn2023bonito e cgn2024sp (não reabertas): Arce Correia, Suelen Garcez, Libras, Bonito, São Paulo 2024, Laryssa Durigon.
+- Ficou de fora antes: o que dependia só de cgn2023, cgn2023bonito e cgn2024sp (HTTP 403 nesta sessão, não reabertas): Arce Correia, Suelen Garcez, Libras, Ponta Porã, Dourados, Bonito, São Paulo 2024, classificação 14 anos. Fora também: regência de José Maikon (função não clara), Laryssa Durigon, FESTOP.
