@@ -146,4 +146,5 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
--
+- Entrou: trajetória, rádio, gravadoras, mudança para Campo Grande, morte (com as duas versões sobre o horário), "Pé de Cedro", divergência de autoria com Goiá, "A Mato-Grossense" (crédito de Amambay), documentários, busto (só cgn2012), discografia do livro.
+- Ficou de fora: a facada (detalhe desnecessário), Aeronáutica (só cgn2012, não reconferida), Lígia Mourão como filha (vida familiar), Padre Chico sem link (sem linha na lista-mestra), ano da coluna "Venenos do Zacarias" (não confirmado), Caetano, Gonçalves e Nascimento (ilegíveis), faixas individuais.
