@@ -144,4 +144,6 @@ Outros:
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
--
+- Entrou: trajetória, festivais, vínculo com MS, parcerias, Roca e "Trem do Pantanal", apresentações de 2017 e 2022, prêmios (com as divergências), discografia, divergência de naturalidade.
+- Ficou de fora: motivo da mudança para MS e dados de família/política (dados pessoais); links externos (nenhum perfil oficial aberto); fontes não abertas (Itaú Cultural, Wikipédia).
+- Links novos propostos em `dados/propostas/nomes-renato-teixeira.csv`: fagner, xangai.
