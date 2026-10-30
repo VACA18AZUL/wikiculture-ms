@@ -1,52 +1,60 @@
 # Revisão: lenilde-ramos
 
-Verbete: `verbetes/lenilde-ramos.md`. Revisor editorial, 30 out. 2026. Primeira revisão deste verbete. Os números de linha valem para o arquivo atual.
+Verbete: `verbetes/lenilde-ramos.md`. Revisor editorial, 30 out. 2026. Segunda revisão: o redator reescreveu o verbete (18:51 UTC) e o ligador inseriu links internos depois. Este relatório substitui o anterior. Os números de linha valem para o arquivo atual.
 
 ## Portão de evidências
 
-- `npm run conferir`: **passou** ("14 verbetes conferidos", "Nenhum erro").
-- `npm run build`: **passou** (28 páginas geradas, incluindo `/verbetes/lenilde-ramos/`).
-- `node scripts/ligacoes.mjs`: rodou. As sugestões para este verbete são menções já ligadas em outro ponto (l. 42, 44, 47) ou ficam em título de seção (l. 28, "Hospital São Julião"). Nada a corrigir.
-- Os 19 identificadores em `[[...]]` estão na lista-mestra.
+- `npm run conferir`: **NÃO CONFERIDO**. O Bash foi negado nesta sessão, então o comando não rodou.
+- `npm run build`: **NÃO CONFERIDO**, pelo mesmo motivo. Achei à mão um defeito de exibição que o `conferir` não pega: links `[[...]]` na ficha. Já está corrigido (ver "Corrigido direto").
+- `node scripts/ligacoes.mjs`: **NÃO CONFERIDO**, pelo mesmo motivo. Conferi as ligações à mão contra a lista-mestra (ponto 9).
+- `git diff` do ligador: não pude rodar. Li o arquivo atual inteiro. Os textos dos links do corpo repetem o nome que a fonte usa, e não achei fato novo.
+- Antes do commit, alguém com Bash precisa rodar `npm run conferir` e `npm run build`.
 
 **Fontes desta revisão:** abri nesta sessão as cinco notas (ce2023, pva2023, oeo2024, acr2026, ce2026). Limite: a ferramenta de leitura devolve citações curtas e paráfrase, não o texto integral.
 
-**Ligador:** a alteração não commitada do ligador neste verbete são dois links: `[[manoel-de-barros|Manoel de Barros]]` na l. 43 e `[[onca-pintada-cd-2009|*Onça Pintada*]]` na l. 51. Nenhum fato mudou. Os textos dos links repetem o texto que estava antes.
+## Apontamentos da revisão anterior
+
+| Apontamento | Situação |
+|---|---|
+| P1. Cerimônia do prêmio narrada como fato | Resolvido. A l. 38 diz "Foi anunciada entre os premiados", "a cerimônia estava marcada" e "as fontes lidas não confirmam a entrega". O resumo e a ficha dizem "anunciada entre as premiadas". Confirmei o futuro nas duas fontes: pva2023 ("acontecerá no dia 15 de dezembro") e ce2023 ("estará no Instituto Brincante") |
+| ATENÇÃO. L. 16, primeira frase sem `[^ce2023]` | Resolvido. A frase tem `[^pva2023] [^ce2023]` |
+| ATENÇÃO. L. 20, redação confusa das idades | Resolvido. O texto agora diz que a mesma matéria traz as duas idades |
+| ATENÇÃO. José Octávio Guizzo sem linha de pessoa | Resolvido. Ele foi ligado a `jose-octavio-guizzo`, que agora tem linha na lista-mestra (fonte: *Os Pioneiros*). Ver ATENÇÕES sobre homônimo |
 
 ## Os dez pontos
 
 | # | Ponto | Resultado |
 |---|---|---|
-| 1 | Fonte sustenta a frase | **PROBLEMA** (P1). O resto está OK: conferi cada parágrafo contra as notas citadas |
+| 1 | Fonte sustenta a frase | **PROBLEMA** (P1, l. 26, "acampamento do MST"). O resto está OK: conferi cada parágrafo contra as notas citadas |
 | 2 | Link abre | OK. As cinco notas abrem a matéria certa, com autor e data conferidos. Não há bloco `links` |
-| 3 | Sem cópia | OK. Não achei sequência de mais de oito palavras iguais. A maior coincidência é "como professora, secretária e animadora cultural" (l. 32), com cinco palavras |
-| 4 | Dados pessoais | OK. A ce2023 traz o nome do pai, a origem do nome e a família ferroviária: nada disso está no verbete. A amizade com Helena Meirelles e a escola em que estudou entram como trajetória |
-| 5 | Tom | OK. Sem adjetivo de elogio. "Imortal" e "rock de butina" ficaram fora |
-| 6 | Divergências | OK. Aparecem as duas idades de início na música (l. 20) e os dois nomes do local da cerimônia (l. 38). As demais divergências do dossiê não são contradições |
-| 7 | Ficha | OK. Nascimento: pva2023 ("nasceu em Campo Grande, em 1952"). Atividade: ce2023 e oeo2024. Instituição: oeo2024 e ce2026. Prêmio: pva2023 e ce2023. Valores com número entre aspas |
-| 8 | Fontes independentes | OK. Quatro veículos: *Correio do Estado* (duas matérias), *O Estado Online*, *A Crítica de Campo Grande* e o release do prêmio na *Revista Prosa Verso e Arte*. Há fatos com uma nota só (ver ATENÇÕES) |
-| 9 | Ligações | OK. Os 19 identificadores estão na lista-mestra. "Glorinha Sá Rosa" ficou sem link de propósito (ver ATENÇÕES) |
-| 10 | Ficha e nome de arquivo | OK. `status: rascunho`; `atualizado: 2026-10-30`; identificador no padrão; o resumo tem cerca de 200 caracteres |
+| 3 | Sem cópia | OK. Não achei sequência de mais de oito palavras iguais. A maior coincidência é "professora, secretária e animadora cultural" (l. 32), com cinco palavras |
+| 4 | Dados pessoais | OK. A ce2023 traz o pai e a mãe (instrumentos que tocavam), a origem do nome e a família: nada disso está no verbete. A amizade com Helena Meirelles e a escola em que estudou entram como trajetória |
+| 5 | Tom | OK. Sem adjetivo de elogio. "Imortal", "de mão cheia" e "rock de butina" ficaram fora |
+| 6 | Divergências | OK. Aparecem as duas idades de início na música (l. 20) e os dois nomes do local da cerimônia, Teatro Brincante e Instituto Brincante (l. 38). Sobre viver de música, ver ATENÇÕES |
+| 7 | Ficha | OK depois da correção mecânica. Nascimento: pva2023 ("nasceu em Campo Grande, em 1952"). Atividade: ce2023 e oeo2024. Instituição: oeo2024 e ce2026. Prêmio: pva2023 e ce2023. Os valores com número estão entre aspas |
+| 8 | Força da fonte | OK. Quatro veículos: *Correio do Estado* (duas matérias), *O Estado Online*, *A Crítica de Campo Grande* e o release do prêmio na *Revista Prosa Verso e Arte*. Há fatos com uma nota só (ver ATENÇÕES) |
+| 9 | Ligações | OK. Os 19 identificadores estão na lista-mestra. "Glorinha Sá Rosa" ficou sem link de propósito. Ficam sem link nomes que não têm linha: Colégio Auxiliadora, Elifas Andreato, Teatro/Instituto Brincante, Marília Leite, Lennon Godoy e Roberto Pellizzer |
+| 10 | Ficha e nome de arquivo | OK. `status: rascunho`; `atualizado: 2026-10-30`; identificador no padrão; o resumo tem cerca de 228 caracteres, abaixo do limite de 240 |
 
 ## PROBLEMAs
 
 Fica para o redator. Não é dado pessoal.
 
-**P1. L. 38: a cerimônia do prêmio aparece como fato, mas as duas fontes são anúncios.** O verbete diz: "A cerimônia foi em 15 de dezembro de 2023, em São Paulo, com estatueta de Elifas Andreato." A pva2023 é de 27/10/2023 e fala no futuro: "acontecerá no dia 15 de dezembro, às 20h, no Teatro Brincante". A ce2023 é de 22/11/2023, antes da data, e também apresenta a cerimônia como marcada para a noite de 15 de dezembro. Nenhuma outra nota confirma que a entrega aconteceu: a oeo2024 (março de 2024) não cita o prêmio. Ser anunciada entre os premiados é fato e está sustentado. Correção: "a cerimônia estava marcada para 15 de dezembro de 2023...", ou "foi anunciada entre os premiados". O mesmo cuidado vale para "Recebeu" no início do parágrafo e no resumo, se o redator preferir ser exato.
+**P1. L. 26: "em acampamento do MST".** A ce2023 não usa a sigla MST. O texto diz que ela tocou "embaixo de lona em acampamento de sem-terra". "Sem-terra" não identifica o movimento, e atribuir o acampamento ao MST vai além da fonte. Correção: "em acampamento de sem-terra". O dossiê já trazia "MST", e a revisão anterior não pegou.
 
 ## ATENÇÕES
 
-- **Fatos com uma nota só.** O verbete não depende de uma só fonte, mas várias frases dependem de uma matéria cada. Só a ce2023 sustenta o festival aos 16 anos, as influências, a apresentação na ONU em 2014 e o ano de *Onça Pintada* (2009). Só a oeo2024 sustenta a eleição em 2019 e *Vozes da Literatura* (2014). Segunda fonte possível: a matéria do Campo Grande News de julho de 2014, que o dossiê viu só em resumo de busca, e a lista de membros da ASL no Midiamax (403 na pesquisa).
-- **L. 16, primeira frase.** A nota é só pva2023, que sustenta a cidade e o ano de nascimento. "Jornalista" e "escritora" vêm da ce2023, citada no fim do parágrafo. Sugestão: pôr `[^ce2023]` também na primeira frase. Não mudei.
-- **L. 20, redação.** "a segunda matéria diz que a idade foi de cinco e de sete anos" está confuso. A oeo2024 diz que a música "floresceu aos 7 anos com uma sanfoninha presenteada por seu pai" e, em fala dela, que a sanfona a acompanha "desde os 5 anos". Sugestão: deixar claro que a mesma matéria traz as duas idades.
-- **L. 22, viver de música.** A ce2023 é ambígua: ela diz que nunca teve coragem de viver só de música e, também, que viveu só de música por cerca de dez anos. A síntese do verbete é defensável.
-- **L. 22, homônimo.** "Glorinha Sá Rosa" pode ser Maria da Glória Sá Rosa (`maria-da-gloria-sa-rosa` na lista-mestra), mas a fonte traz só o apelido. Sem link, como pede o dossiê. José Octávio Guizzo, citado na mesma frase, não tem linha de pessoa na lista-mestra (só `centro-cultural-jose-octavio-guizzo`). É candidato a proposta do garimpeiro.
-- **L. 47, equipe do álbum.** Marília Leite, Lennon Godoy e Roberto Pellizzer aparecem só na acr2026. A ce2026, citada junto, não os nomeia. Não é erro, porque a frase tem as duas notas.
-- **Wikipédia:** não conferida pelo redator (lista-mestra: "a conferir").
+- **L. 22, viver de música.** A ce2023 traz as duas falas: "nunca tive coragem de viver só de música" e que viveu só de música por cerca de dez anos, alternando com animação de festas e eventos. O verbete junta as duas em "vivido só de música por cerca de dez anos, sempre com outros empregos em paralelo", e a frase fica ambígua. Não chega a esconder divergência, mas o redator pode trazer as duas falas separadas.
+- **L. 24, amizades.** A ce2023 chama Tetê Espíndola de "grande amiga", e não só Helena Meirelles. O verbete diz amiga só de Helena. Não está errado, porque fica aquém da fonte, mas a seleção é assimétrica.
+- **L. 22, homônimo.** A linha `jose-octavio-guizzo` vem de *Os Pioneiros* ("autor de livro sobre a música urbana de MS"). A ce2023 dá só o nome. O nome é raro, e a ligação é plausível, mas nenhuma fonte do verbete confirma que é a mesma pessoa. "Glorinha Sá Rosa" continua sem link, como pede o dossiê.
+- **Fatos com uma nota só.** Só a ce2023 sustenta o festival aos 16 anos, as influências, a apresentação na ONU em 2014 e o ano de *Onça Pintada* (2009). Só a oeo2024 sustenta a eleição em 2019 e *Vozes da Literatura* (2014).
+- **pva2023 é release** da organização do prêmio. Ela não sustenta o verbete sozinha, e nenhum ponto depende só dela, a não ser o poema "Pertences de Uso Pessoal". Ali a fonte diz literalmente "nesse ritmo [polca-rock], musicou Pertences de Uso Pessoal", e a l. 43 está correta.
+- **L. 47, equipe do álbum.** Marília Leite, Lennon Godoy e Roberto Pellizzer aparecem só na acr2026. A ce2026, citada junto, não os nomeia.
+- **Wikipédia:** a lista-mestra continua "a conferir".
 
 ## Corrigido direto
 
-Nada. Não achei erro mecânico: todas as notas definidas são usadas, o formato das notas está igual em todas, os valores da ficha estão entre aspas e os identificadores estão corretos.
+- **Ficha, l. 10 e 11: tirei a sintaxe `[[...]]` dos valores.** O template `src/pages/verbetes/[id].astro` mostra os valores da ficha como texto puro (`<td>{valor}</td>`), e o plugin de wikilinks só age no corpo. Por isso os colchetes e o identificador apareceriam literalmente na página. Nenhum outro verbete usa link na ficha. Ficou assim: `Instituição: Academia Sul-Mato-Grossense de Letras` e `Prêmio: "Anunciada entre as premiadas do Prêmio Grão de Música, 2023"`. Os dois nomes continuam ligados no corpo (l. 30 e l. 38).
 
 Nenhum fato foi acrescentado. `status` continua `rascunho`. Não mudei a situação na fila nem na lista-mestra.
 
@@ -54,4 +62,4 @@ Nenhum fato foi acrescentado. `status` continua `rascunho`. Não mudei a situaç
 
 ce2023, pva2023, oeo2024, acr2026 e ce2026, todas abertas em 30 out. 2026.
 
-**Pronto para pull request: não.** Há um PROBLEMA (P1): a cerimônia é narrada como fato a partir de anúncios. Ele se resolve trocando uma expressão.
+**Pronto para pull request: não.** O P1 da revisão anterior foi resolvido. Falta um PROBLEMA novo e pequeno (P1, l. 26, "MST"), que se resolve trocando uma palavra. Antes do pull request também é preciso rodar `npm run conferir` e `npm run build`, que não rodaram nesta sessão.

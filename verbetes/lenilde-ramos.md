@@ -7,8 +7,8 @@ resumo: Cantora, acordeonista, compositora, jornalista e escritora de Campo Gran
 ficha:
   Nascimento: "1952, Campo Grande"
   Atividade: Canto, acordeom, composição, escrita
-  Instituição: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]]"
-  Prêmio: "Anunciada entre as premiadas do [[premio-grao-de-musica|Prêmio Grão de Música]], 2023"
+  Instituição: Academia Sul-Mato-Grossense de Letras
+  Prêmio: "Anunciada entre as premiadas do Prêmio Grão de Música, 2023"
 status: rascunho
 atualizado: 2026-10-30
 ---

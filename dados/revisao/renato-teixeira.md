@@ -1,97 +1,66 @@
 # Revisão: renato-teixeira
 
-Verbete: `verbetes/renato-teixeira.md`, versão com os cerca de 20 links `[[...]]` inseridos pelo ligador (alteração ainda não commitada sobre 575cb7c). Revisor editorial, 30 out. 2026. As 11 notas foram abertas nesta sessão com WebFetch (extração feita por modelo; nos pontos decisivos pedi o trecho literal). Os números de linha valem para o arquivo atual; as correções feitas não mudaram a contagem de linhas.
+Verbete: `verbetes/renato-teixeira.md`, versão reescrita pelo redator (commit 0506b69, 30 out. 2026, 18:51 UTC) com a ligação do ligador ainda não commitada. Revisor editorial, 30 out. 2026, segunda rodada. Este relatório substitui o anterior, da manhã do mesmo dia. Os números de linha valem para o arquivo atual; a correção feita não mudou a contagem de linhas.
 
 ## Portão de evidências
 
-- `npm run conferir`: **NÃO CONFERIDO.** A ferramenta de terminal foi negada nesta sessão; o comando não rodou.
-- `npm run build`: **NÃO CONFERIDO**, pelo mesmo motivo.
-- `node scripts/ligacoes.mjs`: **NÃO CONFERIDO**, pelo mesmo motivo. A conferência das ligações foi feita à mão, com busca em `dados/lista-mestra.csv` (ver ponto 9).
-- `git diff` do trabalho do ligador: **NÃO CONFERIDO** pelo terminal. Comparei o texto atual com o dossiê `dados/dossies/renato-teixeira.md` e com as fontes: nenhum fato aparece dentro ou ao redor dos links que não esteja no dossiê, e os textos visíveis dos links repetem a redação do redator. Não encontrei sinal de que o ligador tenha mudado fatos, mas sem o diff isso não está provado.
+- `npm run conferir`: **passou** ("14 verbetes conferidos. Nenhum erro."), antes e depois da correção.
+- `npm run build`: **passou** (28 páginas), antes e depois da correção.
+- `node scripts/ligacoes.mjs`: rodou. Sugestões para este verbete: "Rádio Difusora" -> `radio-difusora` (a linha da lista-mestra é a rádio de Campo Grande, não a de Taubaté: não ligar); "Trem do Pantanal" e "Geraldo Roca" no título de seção (títulos não levam link); "Tocando em Frente" na l. 51 (é o show de 2017 e a canção no Altas Horas; ver correção). Nenhuma ligação faltando.
+- `git diff 30202a6 0506b69` (reescrita do redator): mudaram só as l. 21, 23, 27, 43 e 51, exatamente os cinco trechos apontados. O resto do texto é igual ao revisado de manhã.
+- `git diff HEAD` (ligador): uma única mudança, o link `[[tocando-em-frente|...]]` no nome do show de 2017 (l. 51). Nenhum fato mudou. É o mesmo link errado que a revisão anterior tinha retirado; foi retirado de novo.
+- Fontes reabertas nesta rodada com WebFetch: dmpb (trechos literais de "radialista", "estrondoso sucesso em todo o país", Grammy de 2018 com *+Ar*, "Terra de sonhos"/"Terra dos sonhos" e "Orquestra do Estado de Mato Grosso") e ce2019 (abre; Naiane Mesquita, 23/07/2019). **As notas do Campo Grande News (cgn2017, cgn2017b, cgn2022, cgn2022b, cgn2022c, cgn2022d, cgn2020, cgn2015, cgn2025b) deram HTTP 403 ao WebFetch nesta rodada**, e o archive.org não está acessível ao ambiente. Os trechos reescritos que dependem delas (l. 23, 43, 51) foram conferidos contra as transcrições literais da revisão anterior, reproduzidas no fim deste relatório.
 
-Antes do pull request, alguém com terminal precisa rodar os dois comandos e o `git diff main -- verbetes/renato-teixeira.md`.
+## Situação dos apontamentos da revisão anterior
+
+- **P1 (l. 21, "locutor"): resolvido.** Agora "trabalhou como radialista", como no dmpb ("trabalhou como radialista na Rádio Difusora de Taubaté").
+- **P2 (l. 23, "cidade natal"): resolvido.** Agora "Em entrevista ao Lado B, em outubro de 2017, Teixeira diz que foi criado em Taubaté e se refere à cidade como 'minha terra'", o que corresponde às falas "fui criado em Taubaté" e "minha terra Taubaté" de cgn2017. A frase não apresenta mais isso como divergência de naturalidade.
+- **P3 (l. 27, "maior sucesso"): resolvido.** Agora "tornou-se um sucesso nacional e foi gravada depois por vários artistas"; o dmpb diz "tornando-se rapidamente um estrondoso sucesso em todo o país" e "foi gravada, entre outros, por" Tião Carreiro e Pardinho, Sérgio Reis, Inezita Barroso e outros.
+- **P4 (l. 43, "sozinho"): resolvido.** Agora "A reportagem diz que ele não chegou a gravar a canção. Na mesma matéria, Teixeira lamenta ter perdido a chance de gravá-la antes de Sater e diz que a gravou com Roca." As duas versões aparecem, cada uma atribuída a quem diz.
+- **P5 (l. 51, "(TV Globo)"): resolvido.** A emissora saiu do texto.
+- **Link do show "Tocando em Frente" (l. 51):** o ligador o recolocou; retirado de novo (ver Corrigido direto).
 
 ## Os dez pontos
 
 | # | Ponto | Resultado |
 |---|---|---|
-| 1 | Fonte sustenta a frase | **PROBLEMA** (P1 a P5): l. 21 "locutor", l. 23 "cidade natal", l. 27 "maior sucesso", l. 43 "nunca ter gravado a canção sozinho", l. 51 "(TV Globo)". O resto confere com as notas |
-| 2 | Link abre | OK. 11 de 11 notas abrem e levam à matéria citada; autor e data conferem. No ce2019 a assinatura é de Naiane Mesquita, como na nota, embora a URL da página aponte para outra autora (ver ATENÇÕES) |
-| 3 | Sem cópia | OK. Nenhuma sequência com mais de oito palavras iguais nos trechos literais obtidos (cgn2017, cgn2015, cgn2022c, cgn2025b, cgn2017b, dmpb) |
-| 4 | Dados pessoais | OK. O verbete não traz o nome da companheira, o motivo da mudança, filhos nem idade, que estão em cgn2017. Chico Teixeira aparece só como parceiro, sem o parentesco que o Dicionário registra. Nenhuma frase removida |
-| 5 | Tom | **PROBLEMA** (P3): "seu maior sucesso" (l. 27) é superlativo que a fonte não usa. O resto está em tom neutro; "segunda maior cidade do estado" (l. 31) vem da fonte |
-| 6 | Divergências | **PROBLEMA** (P2 e P4). Naturalidade (l. 23) apresenta como divergência algo que a fonte não diz; a gravação de "Trem do Pantanal" (l. 43) harmoniza com "sozinho" duas afirmações da mesma matéria. As divergências de prêmios (l. 57 e 58) e de *Garapa*/*Garopa*/*Guarapa* (l. 66) aparecem com as duas versões |
-| 7 | Ficha | OK. Nascimento (dmpb), Atividade (dmpb), Parcerias (dmpb; Simões em cgn2022; Roca em cgn2015). Nenhum valor só numérico. `cidade: Dourados` tem apoio em cgn2017 |
-| 8 | Fonte única | OK para o verbete: três veículos independentes (Dicionário Cravo Albin, Campo Grande News, Correio do Estado). ATENÇÃO para trechos com fonte única (ver ATENÇÕES) |
-| 9 | Ligações | OK depois da correção. Os 21 identificadores ligados existem em `dados/lista-mestra.csv` e correspondem à entidade da lista. Só uma ocorrência apontava para a entidade errada (o show "Tocando em Frente" ligado à canção, l. 51) e foi corrigida. Nomes sem link (Pena Branca, Chico Teixeira, Xavantinho, Natan Soares, Elis Regina, Roberto Carlos, Ceeja, "Romaria", Kuarup) não têm linha na lista-mestra |
-| 10 | Ficha e nome de arquivo | OK. `status: rascunho`; `atualizado: 2026-10-30`; identificador `renato-teixeira` no padrão; resumo com cerca de 175 caracteres |
-
-### Conferência dos links do ligador
-
-| Linha | Link | Entidade na lista-mestra | Resultado |
-|---|---|---|---|
-| 33 | `deixa-falar` | escola de samba de Campo Grande | certo (cgn2020: "a escola Deixa Falar") |
-| 37, 76, 79 | `almir-sater` | Almir Sater | certo |
-| 37, 49 | `tocando-em-frente` | canção | certo (parceria no Dicionário; repertório em cgn2022c) |
-| 51 | `tocando-em-frente` | canção | **errado**: ali é o nome do show de 2017 com Sater e Sérgio Reis. Link retirado |
-| 37, 51, 55, 75, 77 | `sergio-reis` | Sérgio Reis | certo |
-| 37, 80, 81 | `fagner` | Fagner | certo |
-| 37, 73 | `xangai` | Xangai | certo |
-| 37, 51 | `altas-horas` | programa de TV | certo |
-| 39, 43 | `paulo-simoes` | Paulo Simões | certo |
-| 39 | `assim-os-dias-passarao` | canção | certo (aspas estavam dentro do link; movidas para fora) |
-| 39, 43 | `geraldo-roca` | Geraldo Roca | certo |
-| 39 | `pantanal-novela` | novela | certo (cgn2022: "último capítulo da novela") |
-| 39, 51 | `d-de-destino` | canção | certo |
-| 43, 45 | `trem-do-pantanal` | canção | certo |
-| 45 | `studio-45` | estúdio em Campo Grande | certo (cgn2015: "studio 45") |
-| 45, 66 | `garapa-lp` | LP de 1978 | certo |
-| 49 | `saudacoes-pantaneiras-2022` | show de 25/08/2022 | certo |
-| 49 | `geraldo-espindola` | Geraldo Espíndola | certo |
-| 49 | `marcelo-loureiro` | Marcelo Loureiro | certo |
-| 55, 57, 59 | `premio-da-musica-brasileira` | premiação | certo |
-| 76 | `ar-almir-sater-renato-teixeira` | álbum *AR* | certo |
-| 79 | `mais-ar-almir-sater-renato-teixeira` | álbum *+AR* | certo |
+| 1 | Fonte sustenta a frase | OK. Os cinco trechos reescritos têm apoio: l. 21 e 27 reconferidos no dmpb nesta rodada; l. 23, 43 e 51 conferidos contra as transcrições literais de cgn2017, cgn2025b e cgn2022b (403 nesta rodada). O resto do texto não mudou desde a revisão anterior, que o deu como conferido |
+| 2 | Link abre | dmpb e ce2019: OK nesta rodada. Notas do Campo Grande News: **NÃO CONFERIDO nesta rodada** (403 ao WebFetch, provável bloqueio de robôs); as nove abriram de manhã e levavam às matérias citadas |
+| 3 | Sem cópia | OK. As frases novas não repetem mais de oito palavras das fontes ("tornou-se um sucesso nacional" contra "tornando-se rapidamente um estrondoso sucesso em todo o país"; "minha terra" está entre aspas e atribuído) |
+| 4 | Dados pessoais | OK. Sem nome da companheira, motivo da mudança, filhos nem idade (que estão em cgn2017). Chico Teixeira aparece só como parceiro |
+| 5 | Tom | OK. O superlativo da l. 27 saiu. "Segunda maior cidade do estado" (l. 31) vem da fonte |
+| 6 | Divergências | OK. Gravação de "Trem do Pantanal" (l. 43 e 45) com as duas versões; prêmios (l. 57 e 58) e *Garapa*/*Garopa*/*Guarapa* (l. 66) com as versões de cada fonte. Naturalidade (l. 23): Santos pelas fontes, Taubaté como lugar de criação na fala dele, sem forçar divergência |
+| 7 | Ficha | OK. Nascimento e Atividade (dmpb), Parcerias (dmpb; Simões em cgn2022; Roca em cgn2015). Nenhum valor só numérico. `cidade: Dourados` com apoio em cgn2017 |
+| 8 | Força da fonte | OK. Três veículos independentes (Dicionário Cravo Albin, Campo Grande News, Correio do Estado). Trechos com fonte única em ATENÇÕES |
+| 9 | Ligações | OK depois da correção. Identificadores existem na lista-mestra. `tocando-em-frente` está certo na l. 37 (parceria no Dicionário) e na l. 49 (repertório de 2022); na l. 51 era o show e foi retirado. Não há linha do show na lista-mestra |
+| 10 | Ficha e nome de arquivo | OK. `status: rascunho`; `atualizado: 2026-10-30`; identificador no padrão; resumo com cerca de 170 caracteres |
 
 ## PROBLEMAs
 
-**P1. L. 21, "trabalhou como locutor".**
-A fonte (dmpb) diz "trabalhou como radialista na Rádio Difusora de Taubaté". Radialista é mais amplo que locutor; a função específica não está na fonte. Sugestão: "trabalhou como radialista".
-
-**P2. L. 23, "O Lado B de outubro de 2017 chama Taubaté de sua cidade natal e diz que ele foi criado lá."**
-A fonte (cgn2017) não usa "natal" em parte nenhuma (conferido com pedido do trecho literal). O que há são duas falas do próprio Teixeira: "fui criado em Taubaté" e "Monteiro Lobato, que é da minha terra Taubaté". O jornal não chama Taubaté de cidade natal. A divergência de naturalidade, como está escrita, não tem apoio. Repete o que diz o dossiê (Divergências, primeiro item), que deve ter vindo de uma leitura por resumo. Sugestão para o redator: "Em entrevista ao Lado B, em outubro de 2017, Teixeira diz que foi criado em Taubaté e se refere à cidade como 'minha terra'.[^cgn2017]" Cabe ao redator decidir se isso ainda é divergência.
-
-**P3. L. 27, "'Romaria', gravada por Elis Regina em 1977, foi seu maior sucesso".**
-O dmpb diz que a música, gravada por Elis Regina em 1977, se tornou "rapidamente um estrondoso sucesso em todo o país" e que "foi gravada, entre outros, por" vários artistas. Não diz "maior sucesso". O superlativo vai além da fonte e fere o ponto de tom. "Recebeu depois muitas regravações" tem apoio. Sugestão: "tornou-se um sucesso nacional e foi gravada depois por vários artistas".
-
-**P4. L. 43, "Afirma nunca ter gravado a canção sozinho e lamenta não tê-la gravado antes de Sater; na mesma matéria, diz que gravou com Roca."**
-Na fonte (cgn2025b), "não chegou a gravar a música" é frase da repórter ("apesar de cantar Trem do Pantanal em todo show em homenagem ao Roca, não chegou a gravar a música"), e não fala de Teixeira. A palavra "sozinho" não aparece. Teixeira diz "Eu tive uma oportunidade rara e perdi de gravar Trem do Pantanal antes do Almir" e "Gravei com o Roca Romaria e gravamos juntos o Trem". O "sozinho" é uma interpretação do dossiê para conciliar as duas afirmações e foi atribuído a Teixeira. A regra manda registrar as duas versões sem escolher. Sugestão: "A reportagem diz que ele não chegou a gravar a canção. Na mesma matéria, Teixeira lamenta ter perdido a chance de gravá-la antes de Sater e diz que a gravou com Roca.[^cgn2025b]" A segunda versão também tem apoio em cgn2015 (l. 45).
-
-**P5. L. 51, "No programa [[altas-horas|Altas Horas]] (TV Globo)".**
-A fonte (cgn2022b) não diz a emissora; só credita a foto a "Reprodução Globoplay". Sugestão: tirar "(TV Globo)" ou citar uma fonte que diga a emissora.
+Nenhum.
 
 ## ATENÇÕES
 
-- **Fonte única: o verbete não depende de fonte única** (onze notas, três veículos independentes). Mas há trechos inteiros com fonte única, o Dicionário Cravo Albin, lido por extração e não em HTML bruto: formação e primeiros anos (l. 21), festivais (l. 27), a lista de parceiros (l. 37), os prêmios de 1992, 2011 e 2018 (l. 55, 56, 59) e toda a discografia (l. 63 a 82), salvo *Garapa* e o anúncio de *+Ar*. Também com fonte única no Campo Grande News: mudança para Dourados e show no Ceeja (cgn2017), homenagem da Deixa Falar (cgn2020), o CD com Roca (cgn2015). Onde buscar a segunda fonte: a Enciclopédia Itaú Cultural (deu 403 ao pesquisador; tentar de novo), o acervo Memória Fonográfica de MS e catálogos da Kuarup e da RCA para a discografia, premiodamusica.com.br e latingrammy.com para os prêmios, e o Correio B e o O Progresso (Dourados) para a mudança de 2017.
-- **Discografia, *+Ar* (l. 79).** A lista de discos do Dicionário traz "2018 Ar – Universal Music (c/Almir Sater)", com *Ar* repetido em 2015. O texto biográfico da mesma página diz que em 2018 ele lançou "o CD '+Ar', pela Universal Music". O item do verbete tem apoio no texto biográfico. É provável erro de cadastro, não divergência, mas a nota de abertura da seção ("Títulos e anos conforme o Dicionário") não reflete isso.
-- **Grammy Latino, nome da categoria (l. 58).** O Correio (ce2019) diz "Melhor Álbum de Raízes em Língua Portuguesa". O Lado B de 2017 (cgn2017b) diz "melhor álbum de música de raízes brasileiras". O item usa o nome do Correio e cita as duas fontes. É a mesma categoria com nomes diferentes; o Helton decide se vale registrar.
-- **Prêmio da Música Brasileira 2016 (l. 57).** O Correio diz "27ª edição". O verbete não dá o número, o que está certo, mas o Dicionário dá "22º" para 2011. Sem conflito; só para registro.
-- **"D de Destino" (l. 39).** A matéria citada (cgn2022) atribui a canção a Sater em parceria com Teixeira, e o verbete atribui isso à matéria. A lista-mestra e o dossiê dizem que, em outra fonte do projeto, Paulo Simões também é coautor. Não é divergência entre fontes deste verbete, mas o verbete de "D de Destino" vai ter que tratar disso.
-- **Correio do Estado, autoria (ce2019).** A assinatura na página é de Naiane Mesquita, como na nota, mas a URL aponta para outra autora (Glaucea Vaccari). A nota segue a assinatura, que é o correto.
-- **Residência atual.** A fonte mais recente que diz que ele vive em MS é de outubro de 2022 (cgn2022b). O resumo ("vive em Mato Grosso do Sul desde 2017, segundo a imprensa local") e o campo `cidade` dependem disso.
-- **Ligações para nomes sem vínculo com MS.** `sergio-reis`, `fagner` e `xangai` estão na lista-mestra com a observação "vínculo com MS não indicado" e prioridade baixa. Os links estão certos e são permitidos, mas vão aparecer como verbetes desejados. O Helton decide se ficam.
-- **"Tocando em Frente" na l. 49.** O link para a canção ficou. Ali é a canção no repertório de 2022 (cgn2022c), não o show.
+- **Contradição entre os dois verbetes do lote.** Este verbete diz, com cgn2025b e cgn2015, que Teixeira gravou "Trem do Pantanal" com Roca (l. 43 e 45). O verbete `trem-do-pantanal` (l. 54) diz que ele "nunca a gravou". Está apontado como PROBLEMA em `dados/revisao/trem-do-pantanal.md`; o dossiê `dados/dossies/trem-do-pantanal.md` (l. 81) repete o "nunca a gravou".
+- **L. 78, "O Dicionário não esclarece se a orquestra é do estado de Mato Grosso do Sul."** O dmpb diz "Orquestra do Estado de Mato Grosso", no texto e na discografia. A frase não afirma fato novo, mas levanta uma hipótese que nenhuma fonte levanta. Sugestão ao redator: retirar a frase e deixar o nome como a fonte dá.
+- **"Terra de sonhos" (l. 78) e "Terra dos sonhos" (l. 59).** A própria página do Dicionário usa as duas formas: "Terra de sonhos" no parágrafo de 2017 e na discografia, "Terra dos sonhos" no parágrafo de 2018. O verbete segue cada trecho. Se for o mesmo disco, vale uma nota de grafia.
+- **Fonte única por trecho.** O Dicionário Cravo Albin sustenta sozinho a formação (l. 21), os festivais (l. 27), a lista de parceiros (l. 37), os prêmios de 1992, 2011 e 2018 e quase toda a discografia. O Campo Grande News sustenta sozinho a mudança para Dourados e o show no Ceeja (cgn2017), a homenagem da Deixa Falar (cgn2020) e o CD com Roca (cgn2015). Onde buscar segunda fonte: Enciclopédia Itaú Cultural, acervo Memória Fonográfica de MS, catálogos da Kuarup e da RCA, premiodamusica.com.br, latingrammy.com, Correio B e O Progresso (Dourados).
+- **Discografia, *+Ar* (l. 79).** A lista de discos do Dicionário traz "2018 Ar", e o texto da mesma página fala em "+Ar". O item segue o texto. Provável erro de cadastro.
+- **Grammy Latino (l. 58).** Nome da categoria difere entre ce2019 ("Melhor Álbum de Raízes em Língua Portuguesa") e cgn2017b ("melhor álbum de música de raízes brasileiras"). Mesma categoria; o Helton decide se registra.
+- **"D de Destino" (l. 39).** cgn2022 atribui a Sater e Teixeira; outra fonte do projeto inclui Paulo Simões. Tratar no verbete da canção.
+- **Residência atual.** A fonte mais recente que diz que ele vive em MS é de outubro de 2022 (cgn2022b).
+- **`sergio-reis`, `fagner`, `xangai`.** Na lista-mestra com "vínculo com MS não indicado". Links corretos; vão aparecer como desejados.
+- **Ligador.** Pela segunda vez ligou o show de 2017 à canção. Vale registrar no fluxo que o nome do show não deve receber `tocando-em-frente`.
 
 ## Corrigido direto
 
-- **L. 51:** `noticiou o show "[[tocando-em-frente|Tocando em Frente]]", com Sater` passou a `noticiou o show "Tocando em Frente", com Sater`. O link apontava para a canção, e ali se trata do show de 2017 com Sater e Sérgio Reis (cgn2017b: "o show 'Tocando em Frente', que além da parceria com Renato Teixeira, também conta com Sérgio Reis"). Não há linha do show na lista-mestra. Identificador de link errado.
-- **L. 39:** `[[assim-os-dias-passarao|"Assim os Dias Passarão"]]` passou a `"[[assim-os-dias-passarao|Assim os Dias Passarão]]"`, para as aspas ficarem fora do link, como nos demais títulos de canção do verbete.
+- **L. 51:** `noticiou o show "[[tocando-em-frente|Tocando em Frente]]", com Sater` passou a `noticiou o show "Tocando em Frente", com Sater`. Identificador de link errado: ali é o show de 2017 com Sater e Sérgio Reis (cgn2017b), não a canção.
 
-Nada mais foi alterado. `status` continua `rascunho`. Nenhum fato foi acrescentado. Nenhuma frase foi removida por dado pessoal, porque não havia. Nenhum arquivo de proposta foi criado, a lista-mestra não foi tocada, a situação na fila não foi mudada e não houve commit.
+Nada mais foi alterado. `status` continua `rascunho`. Nenhum fato acrescentado, nenhuma frase removida por dado pessoal (não havia). Lista-mestra, relações, propostas e fila não foram tocadas. Sem commit.
 
-## Fontes conferidas
+## Fontes conferidas na revisão anterior (30 out. 2026, manhã)
 
-Todas abertas nesta sessão (30 out. 2026) com WebFetch.
+Transcrições obtidas então, usadas nesta rodada para os trechos do Campo Grande News que não abriram (ver Portão).
 
 - dmpb (Dicionário Cravo Albin, sem autor e sem data): Renato Teixeira de Oliveira, 20/5/1945, Santos; Ubatuba; Taubaté dos 14 aos 24; "radialista" na Difusora; São Paulo em 1967; III FMPB "Dadá Maria" (finalista), IV FMPB "Madrasta" com Roberto Carlos, VII FIC "Marinheiro"; "Romaria" com Elis em 1977, "estrondoso sucesso"; parceiros; Sharp 1992, PMB 2011, indicações em 2016 e 2018, Grammy 2018 com *+Ar*; discografia (*Romaria* 1978, *Garopa* e *Guarapa* 1980, ..., "2018 Ar" na lista e "+Ar" no texto, *Terra de sonhos* 2017, *Ao vivo no Sesc – 1978* em 2024). Não menciona MS nem Dourados.
 - cgn2017 (Helio de Freitas, 2 out. 2017): "segunda cidade de Mato Grosso do Sul"; "principal hotel da cidade, na área central"; apartamento em reforma; "100, 120 shows por ano"; folgas; show "de graça" para alunos do Ceeja, 40 anos de MS; bate-papo com violão sobre a cultura sul-mato-grossense; "fui criado em Taubaté", "minha terra Taubaté"; sem "natal".
@@ -105,4 +74,6 @@ Todas abertas nesta sessão (30 out. 2026) com WebFetch.
 - cgn2025b (Natália Olliver, 16 set. 2025): "amigo da dupla"; canta a música "em todo show em homenagem ao Roca"; "não chegou a gravar a música" (repórter); "perdi de gravar Trem do Pantanal antes do Almir"; "gravamos juntos o Trem" (Teixeira).
 - ce2019 (Naiane Mesquita, 23 jul. 2019): PMB 2016, melhor dupla regional, 27ª edição; *AR*, Melhor Álbum de Raízes em Língua Portuguesa no 17º Grammy Latino; *+AR* em 2018, mesma categoria.
 
-**Pronto para pull request: não.** Há cinco PROBLEMAs de frase sem apoio (P1 a P5), dois deles também de divergência (P2 e P4) e um de tom (P3). Todos se resolvem com ajustes de redação, sem pesquisa nova. Além disso, `npm run conferir` e `npm run build` não rodaram nesta sessão e o diff do ligador não foi visto pelo terminal.
+## Pronto para pull request
+
+**Sim**, com a ressalva do Portão: as notas do Campo Grande News não reabriram nesta rodada (403), e os trechos reescritos foram conferidos contra as transcrições literais da revisão anterior. Os cinco PROBLEMAs anteriores foram resolvidos, o link errado do ligador foi retirado, e `npm run conferir` e `npm run build` passam. A contradição sobre a gravação de "Trem do Pantanal" está no outro verbete do lote (`trem-do-pantanal`, l. 54) e é PROBLEMA de lá, não daqui.

@@ -1,50 +1,51 @@
 # Revisão: trem-do-pantanal
 
-Verbete: `verbetes/trem-do-pantanal.md`, versão reescrita pelo redator depois da terceira devolução (commit e517849), com a ligação acrescentada pelo ligador (ainda não commitada). Revisor editorial, 30 out. 2026. Este relatório substitui o anterior, do mesmo dia. As 14 notas, o link da Wikipédia e a página do Dicionário Cravo Albin sobre Almir Sater foram abertos nesta sessão com WebFetch (extração feita por modelo; nos pontos decisivos pedi o trecho literal). Os números de linha valem para o arquivo atual.
+Verbete: `verbetes/trem-do-pantanal.md`, versão reescrita pelo redator (commit 3acf4cd, 30 out. 2026, 18:51 UTC) com as ligações do ligador ainda não commitadas. Revisor editorial, 30 out. 2026, nova rodada. Este relatório substitui o anterior, do mesmo dia. Os números de linha valem para o arquivo atual; a correção feita não mudou a contagem de linhas.
 
 ## Portão de evidências
 
-- `npm run conferir`: **NÃO CONFERIDO.** O ambiente negou permissão ao Bash nesta sessão, e o comando não rodou. Precisa rodar antes do pull request.
-- `npm run build`: **NÃO CONFERIDO**, pelo mesmo motivo.
-- `node scripts/ligacoes.mjs`: **NÃO CONFERIDO**, pelo mesmo motivo. As ligações foram conferidas à mão (ponto 9).
-- `git diff` do verbete contra o último commit, obtido antes da negação: a única mudança do ligador é `Almir Sater` → `[[almir-sater|Almir Sater]]` na l. 20. Nenhum fato foi alterado.
-
-## Situação dos apontamentos da revisão anterior
-
-- **P1 (autoria no Dicionário Cravo Albin): resolvido.** A l. 20 diz agora: "o Dicionário Cravo Albin a credita a Roca e Simões no texto do verbete de Roca, mas a lista de obras da mesma página inclui [[almir-sater|Almir Sater]] como coautor". Confere com a página, reaberta nesta sessão: "Compôs em parceria com Paulo Simões a música 'Trem do Pantanal'" (dados artísticos) e "Trem do Pantanal (c/ Paulo Simões e Almir Sater)" (Obras). A ficha continua com Roca e Simões, como sugerido. O dossiê registra a correção ("Rodada de 30 out. 2026").
-- ATENÇÕES que continuam: UFMS ligada como publicadora, destino da viagem, *Prata da Casa*, Teatro do Mundo, grafia de Carles Campi (ver ATENÇÕES).
-- Apontamento novo desta rodada: P1 abaixo (disco de estreia de Almir Sater), que não tinha sido visto na revisão anterior.
+- `npm run conferir`: **passou** ("14 verbetes conferidos. Nenhum erro."), antes e depois da correção.
+- `npm run build`: **passou** (28 páginas), antes e depois da correção.
+- `node scripts/ligacoes.mjs`: rodou; sugestões tratadas no ponto 9.
+- `git diff 30202a6 3acf4cd` (reescrita do redator): mudaram a l. 20 (frase sobre "as demais fontes" e frase nova sobre a página "Almir Sater" do Cravo), a l. 52 (frase nova sobre o primeiro disco de Sater) e a nota nova `[^cravosater]`. O resto do texto é igual ao revisado antes.
+- `git diff HEAD` (ligador): duas mudanças, `[[geraldo-roca|Geraldo Roca]]` na l. 20 e `[[jose-octavio-guizzo|José Octávio Guizzo]]` na l. 66. Só links; nenhum fato mudou.
+- Fontes reabertas nesta rodada com WebFetch: cravo e cravosater (trechos literais), acritica2026, ce2024, senado2017, ufms2020 e overmundo (abrem; título, autor e data conferem). **As notas do Campo Grande News deram HTTP 403 ao WebFetch nesta rodada**, e o archive.org não está acessível ao ambiente; para elas valem as transcrições da revisão anterior, reproduzidas no fim deste relatório.
 
 ## Os dez pontos
 
 | # | Ponto | Resultado |
 |---|---|---|
-| 1 | Fonte sustenta a frase | OK, com ATENÇÃO na l. 20 ("As outras fontes lidas citam só Roca e Simões", ver ATENÇÕES). Os demais parágrafos conferem com as notas que citam, reabertas nesta sessão; a frase nova da l. 20 sobre o Cravo confere com a página |
-| 2 | Link abre | OK. 14 de 14 notas, o link da Wikipédia na ficha (abre, trata da canção, credita Roca e Simões e tem 14 referências) e os dois itens de "Para saber mais" (cgn2025a e overmundo). Cada link leva à matéria citada; autor e data conferidos |
-| 3 | Sem cópia | OK. Nenhuma sequência com mais de oito palavras iguais nos trechos literais obtidos. A frase nova da l. 20 parafraseia o Cravo. As expressões de A Crítica e da Rádio Senado estão atribuídas |
-| 4 | Dados pessoais | OK. O amigo de Roca ligado ao Partidão não é nomeado; nada sobre saúde, família ou morte de Roca (o filho citado em cgn2025a, junto ao show de 1990, ficou fora) |
-| 5 | Tom | OK. "Hino", "marco" e "patrimônio afetivo" vêm sempre atribuídos a quem diz. A seção "Apresentações recentes" usa o futuro do pretérito e diz que a matéria não confirma o show |
-| 6 | Divergências | **PROBLEMA** (P1, disco de estreia de Almir Sater). A divergência de autoria do Cravo, apontada na revisão anterior, está resolvida (l. 20). As demais divergências (local e tempo da composição, destino e motivo da viagem, título original, ano da gravação de Diana Pequeno, número de regravações, episódio do festival) aparecem com as versões de cada fonte |
-| 7 | Ficha | OK. Autor (cgn2025a, acritica2026, ce2024, senado2017), Ano "1975" entre aspas (cgn2025a, acritica2026), Formato. A coautoria de Sater, só na lista de obras do Cravo, está no texto (l. 20) |
-| 8 | Fonte única | OK. Não há ATENÇÃO de fonte única: 14 notas, de dez veículos ou instituições independentes (Campo Grande News, A Crítica, Correio do Estado, Rádio Senado, UFMS, Overmundo, Dicionário Cravo Albin, Anais ProfLetras/Coliteras, InterMeio, Slipcue) |
-| 9 | Ligações | OK, conferido à mão (`ligacoes.mjs` NÃO CONFERIDO; ver Portão). Os 27 identificadores do texto existem em `dados/lista-mestra.csv`. A ligação nova do ligador (`[[almir-sater|Almir Sater]]`, l. 20) aponta para o identificador certo e não muda o texto. Nenhum `[[...]]` nas notas de fonte |
-| 10 | Ficha e nome de arquivo | OK. `status: rascunho`; `atualizado: 2026-10-30` (data da reescrita); identificador `trem-do-pantanal` no padrão; resumo com cerca de 185 caracteres |
+| 1 | Fonte sustenta a frase | **PROBLEMA** (P1, l. 54, "nunca a gravou"). As frases novas das l. 20 e 52 conferem com as páginas do Cravo reabertas nesta rodada. O resto do texto não mudou desde a revisão anterior, que o deu como conferido |
+| 2 | Link abre | OK nesta rodada para cravo, cravosater, acritica2026, ce2024, senado2017, ufms2020 e overmundo (título, autor e data conferem). **NÃO CONFERIDO nesta rodada** para as cinco notas do Campo Grande News (403 ao WebFetch) e para faccioni2023, dorsa, slipcue e a Wikipédia (não retestadas); todas abriram na revisão anterior, do mesmo dia |
+| 3 | Sem cópia | OK. As frases novas parafraseiam o Cravo; "c/ Geraldo Roca" está entre aspas, como citação do cadastro |
+| 4 | Dados pessoais | OK. Amigo de Roca ligado ao Partidão sem nome; nada sobre saúde, família ou morte de Roca |
+| 5 | Tom | OK. "Hino", "marco", "uma das músicas mais simbólicas" e "patrimônio afetivo" sempre atribuídos. "Apresentações recentes" no futuro do pretérito, com a ressalva de que a matéria não confirma o show |
+| 6 | Divergências | **PROBLEMA** (P1: a fonte citada traz as duas versões sobre a gravação de Renato Teixeira, e o verbete dá só uma). O PROBLEMA anterior (disco de estreia de Sater) está resolvido. Autoria aparece com as três versões (Roca e Simões; Roca, Simões e Sater; Sater e Roca). As demais divergências seguem registradas |
+| 7 | Ficha | OK. Autor (cgn2025a, acritica2026, ce2024, senado2017), Ano "1975" entre aspas, Formato. As coautorias alternativas do Cravo estão no texto (l. 20) |
+| 8 | Força da fonte | OK. 15 notas, de dez veículos ou instituições independentes |
+| 9 | Ligações | OK. Os identificadores existem na lista-mestra; os dois links novos do ligador (`geraldo-roca` na l. 20, `jose-octavio-guizzo` na l. 66) apontam para a entidade certa e não mudam o texto. `ligacoes.mjs` sugere "Onésimo Filho" (l. 46), que tem linha na lista-mestra (ver ATENÇÕES); as demais sugestões ("Pantanal" -> novela, "Prata da Casa" -> disco coletivo) são falsos positivos; "Diana Pequeno" já está ligada na l. 50 |
+| 10 | Ficha e nome de arquivo | OK. `status: rascunho`; `atualizado: 2026-10-30`; identificador no padrão; resumo com cerca de 185 caracteres |
 
 ## PROBLEMAs
 
-**P1. Disco de estreia de Almir Sater: o dossiê registra a divergência, o verbete não.**
-Trecho do verbete, l. 52: "O mesmo jornal diz que [[almir-sater|Almir Sater]] a gravou em 1982, no disco de estreia dele, e que essa versão a tornou conhecida no país.[^cgn2025b]"
-O que a fonte citada diz (cgn2025b): a versão de Almir foi "lançada no disco de estreia do cantor" (texto da repórter), e, segundo Roca, o auge da música veio em 1982, quando Almir a regravou. A frase do verbete reproduz isso corretamente.
-O que a outra fonte diz: o Dicionário Cravo Albin, página "Almir Sater" (https://dicionariompb.com.br/artista/almir-sater/, aberta nesta sessão), diz "Gravou o primeiro disco em 1981, pela Continental" e lista na discografia "1981 Continental LP Almir Sater" e "1982 RGE LP Doma". Ou o disco de 1982 não é o de estreia, ou a gravação não é de 1982. O verbete `almir-sater` do próprio projeto usa essa fonte e dá o primeiro disco em 1981 (l. 30 e 72-73 de `verbetes/almir-sater.md`).
-O dossiê `dados/dossies/trem-do-pantanal.md` registra o conflito ("Ficou de fora", l. 197: "o verbete de Almir Sater, que cita o Dicionário Cravo Albin, data o primeiro disco em 1981 e *Doma* em 1982; não foi reconciliado aqui"; ver também l. 146 e 164). Pela regra do ponto 6, divergência registrada no dossiê e ausente do verbete é PROBLEMA. Não é correção mecânica: exige frase e nota novas.
-Sugestão para o redator: depois da frase da l. 52, uma frase que registre que o Dicionário Cravo Albin situa o primeiro disco de Sater em 1981, pela Continental, e lista *Doma* (RGE) em 1982, com nota nova para a página "Almir Sater" do Cravo. Sem dizer em qual disco a canção está, porque nenhuma fonte aberta diz.
+**P1. L. 54, "[[renato-teixeira|Renato Teixeira]] cantou a música em shows em homenagem a Roca, mas nunca a gravou.[^cgn2025b]"**
+O que a fonte diz (cgn2025b; transcrição literal registrada na revisão anterior de `renato-teixeira`, já que a página deu 403 nesta rodada): a repórter escreve que Teixeira, "apesar de cantar Trem do Pantanal em todo show em homenagem ao Roca, não chegou a gravar a música"; na mesma matéria, Teixeira diz "perdi de gravar Trem do Pantanal antes do Almir" e "Gravei com o Roca Romaria e gravamos juntos o Trem". A frase do verbete fica só com a versão da repórter e a apresenta como fato, com "nunca" no lugar de "não chegou a". Além disso, o outro verbete do lote, `renato-teixeira`, diz nas l. 43 e 45, com a mesma matéria e com cgn2015 ("gravaram juntos pela primeira vez" "Romaria" e "Trem do Pantanal"), que os dois a gravaram juntos. É o mesmo ponto que foi PROBLEMA (P4) na revisão de `renato-teixeira` e já foi resolvido lá.
+O dossiê (`dados/dossies/trem-do-pantanal.md`, l. 81 e 183) repete "nunca a gravou" e também precisa de ajuste.
+Sugestão ao redator, sem fato novo: "Segundo a reportagem, [[renato-teixeira|Renato Teixeira]], que canta a música em shows em homenagem a Roca, não chegou a gravá-la; na mesma matéria, Teixeira diz que a gravou com Roca.[^cgn2025b]"
+
+## Situação dos apontamentos da revisão anterior
+
+- **P1 (disco de estreia de Almir Sater): resolvido.** A l. 52 registra agora: "O Dicionário Cravo Albin, por sua vez, situa o primeiro disco de Sater em 1981, pela Continental, e lista *Doma* (RGE) em 1982; nenhuma das fontes lidas diz em qual disco a canção está.[^cravosater]". Confere com a página, reaberta nesta rodada: "Gravou o primeiro disco em 1981, pela Continental."; "1981 Continental LP Almir Sater"; "1982 RGE LP Doma". A nota nova `[^cravosater]` segue o formato.
+- **ATENÇÃO sobre o terceiro crédito do Cravo: resolvida.** A l. 20 registra que a página de Sater lista a canção como "c/ Geraldo Roca", sem Simões. Confere: "Trem do Pantanal (c/ Geraldo Roca)".
+- **ATENÇÃO "As outras fontes lidas": resolvida em parte** (ver ATENÇÕES).
 
 ## ATENÇÕES
 
-- **Fonte única: não há.** Ainda assim, cinco das 14 notas são do Campo Grande News, e várias passagens só têm essa fonte: o relato da viagem de abril de 1975, os 15 minutos, o Fesul de 1980, Diana Pequeno como "pioneira", Almir Sater no "disco de estreia", Bando do Velho Jack, os 57 registros do Ecad, Hermanos Irmãos e o remix de 2024. Para a segunda fonte: a dissertação de Faria (UFMS, 2024), citada no dossiê `geraldo-roca`; a tese de Faccioni (PPGLetras/UFMS); o acervo Memória Fonográfica de MS, para os discos de Diana Pequeno e Almir Sater.
-- **L. 20, "As outras fontes lidas citam só Roca e Simões.[^cravo]"** A nota `[^cravo]` não sustenta uma afirmação sobre as outras fontes; e três delas (faccioni2023, dorsa e slipcue, nos trechos lidos) não citam autoria nenhuma. As que citam autoria (cgn2025a, cgn2012, acritica2026, ce2024, senado2017, ufms2020, overmundo, Wikipédia) dão só Roca e Simões, e o conteúdo está certo. Sugestão: "As demais fontes do verbete que tratam da autoria citam só Roca e Simões." Não corrigi porque muda o sentido da frase.
-- **Cravo Albin, página "Almir Sater".** A lista de obras dessa página traz "Trem do Pantanal (c/ Geraldo Roca)", sem Simões: um terceiro crédito, diferente dos dois da página de Roca. Essa página não é fonte do verbete e o dossiê não registra o dado, por isso não é PROBLEMA aqui. Se o redator acrescentar a página para resolver o P1, vai ter de registrar também esse crédito.
-- **L. 20 e 18, ligação repetida.** O ligador ligou "Almir Sater" na l. 20, e o nome já está ligado na l. 18 e de novo na l. 52. Não muda fato; é escolha de estilo.
+- **L. 20, "As demais fontes do verbete que tratam da autoria citam só Roca e Simões.[^cravo]".** A redação melhorou, mas a nota `[^cravo]` não sustenta uma afirmação sobre as outras fontes, e agora a página "Almir Sater" do Cravo também é fonte do verbete e dá outro crédito. Lida na ordem, "demais" quer dizer "fora do Cravo", e assim está certa. Sugestão: "As fontes de fora do Dicionário que tratam da autoria citam só Roca e Simões", com as notas dessas fontes ou sem nota própria, a critério do redator.
+- **L. 52, ordem das notas.** Antes da correção, a frase de cgn2025b (1982, disco de estreia) vinha sem nota e seguida da nota `[^cravosater]`, o que levaria o leitor a atribuir a data ao Cravo. Corrigido (ver abaixo).
+- **L. 46, Onésimo Filho.** A lista-mestra tem `onesimo-filho` (encarregado da TV Morena que organizou o Festão, segundo *Os Pioneiros*). O verbete fala de Onésimo Filho no Fesul de 1980. Provavelmente a mesma pessoa, mas nenhuma fonte deste verbete diz; por isso não liguei. Fica para o ligador ou o Helton.
+- **L. 20, link dentro de citação.** O ligador ligou "Geraldo Roca" dentro de "c/ Geraldo Roca", que é transcrição do cadastro do Cravo. Não muda fato; escolha de estilo.
+- **Fonte única por trecho.** Várias passagens só têm o Campo Grande News: viagem de abril de 1975, os 15 minutos, Fesul de 1980, Diana Pequeno como primeira a gravar, Sater no "disco de estreia", Bando do Velho Jack, os 57 registros do Ecad, Hermanos Irmãos e o remix de 2024. Segunda fonte possível: dissertação de Faria (UFMS, 2024), tese de Faccioni (PPGLetras/UFMS), acervo Memória Fonográfica de MS.
 - **L. 66, Faccioni.** O verbete diz que Faccioni "também a considera hino não oficial"; a matéria da UFMS diz que, para ele, a canção "pode ser considerada um hino não oficial". A frase reforça um pouco a fala, sem contrariá-la.
 - **Dossiê `dados/dossies/trem-do-pantanal.md`: não tem seção "Atualização de".**
 - **UFMS ligada como publicadora.** O link `[[ufms|UFMS]]` está no corpo do texto nas l. 28 ("Em reportagem da UFMS"), 40 (revista *InterMeio*, da UFMS) e 66 ("segundo a UFMS"); nenhuma nota de fonte tem link interno. O modelo não proíbe esse uso, então não mexi. O Helton decide se fica ligada só na l. 40 ou nas três.
@@ -57,11 +58,13 @@ Sugestão para o redator: depois da frase da l. 52, uma frase que registre que o
 
 ## Corrigido direto
 
-Nada. Não encontrei erro mecânico: as 14 notas definidas são usadas, os identificadores existem, o único valor numérico da ficha está entre aspas e as notas seguem o formato. `status` continua `rascunho`. Nenhum fato foi acrescentado. Nenhuma frase foi removida por dado pessoal, porque não havia. Nenhum arquivo de proposta foi criado, a lista-mestra não foi tocada e a situação na fila não foi mudada.
+- **L. 52:** acrescentada a chamada `[^cgn2025b]` (nota já existente) ao fim da frase "O mesmo jornal diz que [[almir-sater|Almir Sater]] a gravou em 1982, no disco de estreia dele, e que essa versão a tornou conhecida no país." Formato de nota: sem ela, a data de 1982 e o "disco de estreia" ficavam sob a nota seguinte, `[^cravosater]`, que diz o contrário. Nenhum texto mudou.
 
-## Fontes conferidas
+Nada mais foi alterado. As 15 notas definidas são usadas; o único valor numérico da ficha está entre aspas. `status` continua `rascunho`. Nenhum fato acrescentado, nenhuma frase removida por dado pessoal (não havia). Lista-mestra, relações, propostas e fila não foram tocadas. Sem commit.
 
-Todas abertas nesta sessão (30 out. 2026) com WebFetch, que devolve extração feita por modelo; nos pontos decisivos pedi o trecho literal.
+## Fontes conferidas na revisão anterior (30 out. 2026)
+
+Extrações feitas então com WebFetch; valem nesta rodada para as notas que não reabriram (ver Portão). A fala de Teixeira sobre a gravação ("gravamos juntos o Trem") está transcrita em `dados/revisao/renato-teixeira.md`, na conferência de cgn2025b.
 
 - cgn2025a (Natália Olliver, 10 set. 2025): abril de 1975, trecho Campo Grande-Corumbá, Bolívia e Machu Picchu; Simões fez a viagem em 1974 e "propôs isso a Geraldo"; cabines e vagão-dormitório; melodia; "falei o começo da música para ele"; Aquidauana/Camisão; 15 minutos; insistência; literalidade; quatro meses; praças; quadros cusquenhos; primeira canção a citar o Pantanal; entrevista a Rodrigo Teixeira no livro *Prata da Casa* (2012) com "Todos os trilhos da terra"; show de 1990.
 - cgn2025b (Natália Olliver, 16 set. 2025): quadro peruano; "um dos hinos"; Fesul 1980, Grupo Acaba, Glorinha e Onésimo Filho; Diana Pequeno "lançada em 1982", "pioneira", "não teve grande repercussão comercial"; Almir Sater no "disco de estreia" e "pico" em 1982; Boldrin e novela; Bando do Velho Jack e Tozzette ("até fora do estado"); Renato Teixeira "não chegou a gravar"; Luan Santana e Michel Teló; gravações em projetos solo; 57 regravações, Ecad e "leis de proteção de dados"; remix de 2024 e webclipe.
@@ -74,10 +77,12 @@ Todas abertas nesta sessão (30 out. 2026) com WebFetch, que devolve extração 
 - ufms2020 (Ariane Comineti, 1 dez. 2020): viagem a Machu Picchu, acordes depois de Miranda, "Sobre todos os trilhos da Terra", pedidos do público; "hino não oficial" é fala de Faccioni.
 - overmundo (Rodrigo Teixeira, 14 mar. 2007): elegia ao Pantanal, proscrito, amigo do Partidão e Santa Cruz (fala de Roca); trajeto Bauru-Campo Grande-Corumbá-Bolívia (narração do entrevistador); Che Guevara.
 - cravo (sem autor e sem data): Guizzo, "espécie de hino da moderna música popular urbana"; parceria com Simões no texto e "c/ Paulo Simões e Almir Sater" na lista de obras (antigo P1, resolvido).
-- Cravo Albin, página "Almir Sater" (não é nota do verbete; aberta para o P1): primeiro disco em 1981, pela Continental; *Doma*, RGE, 1982; "Trem do Pantanal (c/ Geraldo Roca)" na lista de obras.
+- cravosater (Cravo Albin, página "Almir Sater"; hoje nota do verbete, reaberta nesta rodada com os mesmos trechos): primeiro disco em 1981, pela Continental; *Doma*, RGE, 1982; "Trem do Pantanal (c/ Geraldo Roca)" na lista de obras.
 - faccioni2023 (resumo, 1 dez. 2023): análise do discurso, letra e entrevista de junho de 2019, formações discursivas bélicas e ideais de liberdade.
 - dorsa (InterMeio, v. 15, n. 30, edição de 2009, publicada em 7 nov. 2016): canção como texto-base de análise intertextual e interdiscursiva.
 - slipcue: *Sinal de Amor*, RCA Victor, 1981, sem faixas.
 - Wikipédia (ficha): abre, trata da canção, tem referências.
 
-**Pronto para pull request: não.** O P1 da revisão anterior (coautoria de Almir Sater no Cravo Albin) foi resolvido, e a ligação do ligador não alterou fatos. Faltam duas coisas: (1) o P1 desta revisão (disco de estreia de Almir Sater, divergência registrada no dossiê e ausente do verbete), que se resolve com uma frase e uma nota; (2) rodar `npm run conferir` e `npm run build`, que não rodaram nesta sessão por falta de permissão ao Bash.
+## Pronto para pull request
+
+**Não.** O PROBLEMA anterior (disco de estreia de Sater) foi resolvido, as ligações do ligador não mudaram fatos, e `npm run conferir` e `npm run build` passam. Falta o P1 desta rodada (l. 54, "nunca a gravou"), que contradiz a própria fonte citada e o verbete `renato-teixeira` do mesmo lote. Resolve-se com uma frase, sem pesquisa nova, e com o ajuste correspondente no dossiê. Ressalva: as notas do Campo Grande News não reabriram nesta rodada (403).
