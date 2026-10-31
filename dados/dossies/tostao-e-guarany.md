@@ -126,4 +126,7 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
--
+- Entrou: trajetória (antes da dupla, formação, discos, circos, ônibus de 1986, separação e volta, sarau de 2008, Viola, minha Viola, DVD anunciado), discografia com os cinco itens e as divergências.
+- Ficou de fora: coprodução do LP *Raízes e Sentimentos* (pertence ao verbete de Guarany); contagem de discos do cabeçalho do livro; autores de todas as faixas de *Luzes do Além*; "família" de Tostão nos circos (vida familiar); itens de "Não confirmado".
+- Sem links externos (perfis não pesquisados) e sem links de escuta.
+- Nomes e relações já estavam na lista-mestra e em `relacoes.csv`; nada novo em `dados/propostas/`.
