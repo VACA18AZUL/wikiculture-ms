@@ -12,7 +12,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Trem_do_Pantanal_(canção)
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-30
+atualizado: 2026-10-31
 ---
 
 **Trem do Pantanal** é uma canção de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]], composta em 1975 durante uma viagem de trem.[^cgn2025a] A Crítica de Campo Grande a trata como "uma das músicas mais simbólicas" da cultura sul-mato-grossense.[^acritica2026] Ficou conhecida na voz de [[almir-sater|Almir Sater]].[^ce2024]
@@ -43,7 +43,7 @@ A letra é objeto de pesquisa acadêmica. Flávio Zancheta Faccioni analisou a c
 
 Segundo Roca, a canção foi mostrada primeiro no Teatro Tablado, no Rio de Janeiro, onde os dois moravam, e o show foi ruim. Depois foi apresentada pela primeira vez em Mato Grosso do Sul em um festival, em que foi desclassificada. A matéria não nomeia o festival, e Roca contesta o motivo, que seria o de o júri ter considerado a letra subversiva.[^cgn2012]
 
-Outra matéria registra que a canção participou do [[fesul|Fesul]] em 1980 e não venceu. O vencedor foi o [[grupo-acaba|Grupo Acaba]]. Roca disse que a música foi retirada da final porque a letra era vista como subversiva, informação que ele atribui, por intermédio da professora Glorinha, a Onésimo Filho.[^cgn2025b] Roca contou também que, em um show em São Paulo em 1990, a plateia reagiu já na introdução.[^cgn2025a]
+Outra matéria registra que a canção participou do [[fesul|Fesul]] em 1980 e não venceu. O vencedor foi o [[grupo-acaba|Grupo Acaba]]. Roca disse que a música foi retirada da final porque a letra era vista como subversiva, informação que ele atribui, por intermédio da professora Glorinha, a [[onesimo-filho|Onésimo Filho]].[^cgn2025b] Roca contou também que, em um show em São Paulo em 1990, a plateia reagiu já na introdução.[^cgn2025a]
 
 ## Gravações e regravações
 

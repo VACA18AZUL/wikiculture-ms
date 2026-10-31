@@ -25,7 +25,7 @@ Formou dupla com Rubens até 1967, quando se afastou da música por causa da Aer
 
 Formou o grupo [[irmaos-de-mato-grosso|Os Irmãos de Mato Grosso]] e gravou o disco [[flor-da-saudade|*Flor da Saudade*]] (Califórnia, 1977), pago com patrocínio de [[nelson-pache|Nelson Pache]]. Foi o acordeonista de todo o disco, depois de uma prova de estúdio com o diretor [[juliao|Julião]].[^maciel][^primeira]
 
-No fim de 1980, gravou o disco solo [[cadeado-de-ouro|*Cadeado de Ouro*]], dirigido por Ado. A faixa "Cadeado" tocou nas rádios em 1981 e 1982. Maciel diz que não editou a música e não recebeu direitos autorais por ela.[^cadeado] Acompanhou [[dino-franco|Dino Franco]] em show na exposição de Aquidauana.[^cadeado]
+No fim de 1980, gravou o disco solo [[cadeado-de-ouro|*Cadeado de Ouro*]], dirigido por [[ado|Ado]]. A faixa "Cadeado" tocou nas rádios em 1981 e 1982. Maciel diz que não editou a música e não recebeu direitos autorais por ela.[^cadeado] Acompanhou [[dino-franco|Dino Franco]] em show na exposição de Aquidauana.[^cadeado]
 
 Segundo ele, admirava [[ze-correa|Zé Corrêa]] e diz que Zé foi acordeonista da dupla [[joao-do-rancho-e-ze-ranchinho|João do Rancho e Zé Ranchinho]], da qual Maciel fez parte.[^legado]
 
@@ -33,13 +33,13 @@ Segundo ele, admirava [[ze-correa|Zé Corrêa]] e diz que Zé foi acordeonista d
 
 Segundo depoimento dele ao livro, gravou com [[delio-e-delinha|Délio & Delinha]] o disco [[o-sol-e-a-lua|*O Sol e a Lua*]] (1981), com a faixa "De Mato Grosso a São Paulo", e participou da turnê. Diz que a faixa-título chegou às rádios antes de *[[cadeado-de-ouro|Cadeado de Ouro]]*.[^retorno]
 
-Maciel diz também que articulou a volta da dupla nos anos 1990. Segundo ele, o grupo O Canto da Terra promoveu o retorno em 1992, no Círculo Militar, e depois ele levou a dupla ao União dos Sargentos.[^retorno] [[delinha|Delinha]] data o show de retorno no Círculo Militar em 23 de outubro de 1993.[^retorno]
+Maciel diz também que articulou a volta da dupla nos anos 1990. Segundo ele, o grupo [[o-canto-da-terra|O Canto da Terra]] promoveu [[retorno-circulo-militar|o retorno]] em 1992, no Círculo Militar, e depois ele levou a dupla ao União dos Sargentos.[^retorno] [[delinha|Delinha]] data o show de retorno no Círculo Militar em 23 de outubro de 1993.[^volta]
 
 ## Divergências
 
 O livro dá a volta de Maciel a Campo Grande em 1972 e também em 1977, e situa a morte de [[ze-correa|Zé Corrêa]] (1974) depois de *[[flor-da-saudade|Flor da Saudade]]* (1977). Maciel situa o convite para o disco solo em 1977 e a gravação no fim de 1980.[^maciel][^cadeado]
 
-Sobre *Cadeado de Ouro*, o depoimento de Maciel diz que Ado dirigiu a gravação, e a discografia do livro credita produção e direção a Marcílio Castioni.[^cadeado][^disc]
+Sobre [[cadeado-de-ouro|*Cadeado de Ouro*]], o depoimento de Maciel diz que [[ado|Ado]] dirigiu a gravação, e a discografia do livro credita produção e direção a [[marcilio-castioni|Marcílio Castioni]].[^cadeado][^disc]
 
 ## Discografia
 
@@ -69,6 +69,7 @@ O livro o credita como integrante do grupo Os Tigres, com [[amambai-cantor|Amamb
 [^bandeira]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Bandeira de MS".
 [^legado]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "O legado".
 [^retorno]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Retorno da dupla".
+[^volta]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "A volta para Campo Grande".
 [^disc]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Discografia: Maciel Corrêa".
-[^flor]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seções "Maciel Corrêa" e "Discografia: Maciel Corrêa" (a produção e a direção constam na discografia de Irmãos de Mato Grosso).
+[^flor]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seções "Maciel Corrêa" e "Discografia: Maciel Corrêa".
 [^tigres]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Discografia: Amambay & Amambaí".

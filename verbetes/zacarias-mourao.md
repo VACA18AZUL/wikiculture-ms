@@ -10,7 +10,7 @@ ficha:
   Atividade: Letrista, radialista, produtor e empresário de duplas
   Também conhecido como: Tió
 status: rascunho
-atualizado: 2026-10-30
+atualizado: 2026-10-31
 ---
 
 **Zacarias dos Santos Mourão** (Coxim, 1928 – Campo Grande, 1989) foi letrista, radialista, produtor e empresário de duplas sertanejas, autor dos versos de "[[pe-de-cedro|Pé de Cedro]]". Era chamado de Tió e também de "Índio do Mato Grosso".[^pioneiros]
@@ -39,7 +39,7 @@ Morreu em Campo Grande em 23 de maio de 1989, aos 61 anos, e foi sepultado em Co
 
 Em 1959, aos 31 anos, visitou Coxim, reviu a árvore e escreveu a letra de "[[pe-de-cedro|Pé de Cedro]]". Em São Paulo, pediu ao amigo [[goia|Goiá]] que a musicasse.[^cgn2012][^pioneiros] A canção foi gravada por [[tibagi-e-miltinho|Tibagi e Miltinho]], com sucesso nos anos 1960, e o livro diz que a gravação foi sugestão de Zacarias.[^pioneiros][^cgn2012] [[sergio-reis|Sérgio Reis]] a regravou em 1975, no primeiro LP sertanejo dele.[^cgn2012] A matéria de 2024 registra que um vendaval partiu a árvore em 2006 e que um laudo concluiu que ela morreu.[^cgn2024]
 
-Há versões distintas sobre a autoria de suas canções com [[goia|Goiá]]: [[dino-rocha|Dino Rocha]] diz que Zacarias escrevia as letras e que alguns atribuíam a escrita a Goiá; [[delio|Délio]] e Guarany dizem que a letra era dele e a música de Goiá.[^pioneiros] [[ligia-mourao|Lígia Mourão]] cita parcerias com Goiá, Zé do Rancho, Tinoco, [[amambay-cantor|Amambay]] e Ado e fala em mais de duas mil músicas.[^pioneiros] Amambay credita a ele e a [[flor-da-serra|Flor da Serra]] a autoria de "[[a-mato-grossense|A Mato-Grossense]]".[^pioneiros]
+Há versões distintas sobre a autoria de suas canções com [[goia|Goiá]]: [[dino-rocha|Dino Rocha]] diz que Zacarias escrevia as letras e que alguns atribuíam a escrita a Goiá; [[delio|Délio]] e [[guarany|Guarany]] dizem que a letra era dele e a música de Goiá.[^pioneiros] [[ligia-mourao|Lígia Mourão]] cita parcerias com Goiá, Zé do Rancho, Tinoco, [[amambay-cantor|Amambay]] e [[ado|Ado]] e fala em mais de duas mil músicas.[^pioneiros] Amambay credita a ele e a [[flor-da-serra|Flor da Serra]] a autoria de "[[a-mato-grossense|A Mato-Grossense]]".[^pioneiros]
 
 ## Documentários e homenagens
 
