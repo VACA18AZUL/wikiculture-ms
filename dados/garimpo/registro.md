@@ -27,3 +27,5 @@ Uma linha por evento, em ordem. Formato:
 2026-10-30 10:30 | musica | concluída | rodada 9 | +30 nomes, +43 relações | sem commit a pedido; PDFs acadêmicos sem extração de texto; Itaú Cultural não retornou; Mapas, editais pendentes
 2026-10-30 22:00 | teatro | em andamento | rodada 10
 2026-10-30 23:00 | teatro | concluída | rodada 10 | +30 nomes, +55 relações | sem commit a pedido; BocaDeCena (UFMS), PDFs UNIR e UFRGS, epub Redalyc sem texto extraível; Itaú Cultural, Mapas, editais, BDTD pendentes
+2026-10-31 05:40 | danca | em andamento | rodada 11
+2026-10-31 07:00 | danca | concluída | rodada 11 | +30 nomes, +37 relações | sem commit a pedido; Bash negado no meio da rodada (edição só por Edit); PDF UCDB (Guedes) abriu como página inicial, PDF UFMS 3526 recusou conexão, PDF CGN sem texto; Itaú Cultural, Mapas, BDTD e editais pendentes

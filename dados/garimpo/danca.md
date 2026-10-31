@@ -7,6 +7,7 @@ Situação: em-andamento
 - Correio B, Prêmio Onça Pintada 2019 (https://correiodoestado.com.br/correio-b/premio-onca-pintada-reune-diversos-grupos-de-danca-da-capital/359942/), rodada 4
 - Campo Grande News (Lado B): Chico Neller, Cia do Mato 20 anos, Chafica, Omolú/Ginga, Semana pra Dança 2024, Catarina Marquesi/CIAD 2024, Cia de Dança do Pantanal (Paris, Colker), Moinho Cultural (United Dance Festival, Guadakan), Escola de Dança da UFMS, Prêmio Onça Pintada 2016, rodada 4
 - A Crítica de Campo Grande: Prêmio Onça Pintada 2026, Studio 2 em Joinville 2026, Marcos Souza (audição), rodada 4
+- Rodada 11, matérias abertas: CGN "Surgimento de Campo Grande... espetáculo de dança" (2013, Verbo); CGN "Em competição de dança urbana..." (2013, Urban Champ); CGN "Festival de dança abre inscrições..." (2022) e "MS Dance Fest volta..." (2022); CGN "Com mostra no Glauce Rocha, United Dance..." (2023); CGN "Grupo de dança de MS volta para casa com 5 coreografias premiadas" (2024); CGN "Bailarinas de Campo Grande querem brilhar em Joinville" (2024); CGN "Semana Pra Dança vai até domingo" (2024); Correio B "Terra de Dourados será utilizada em espetáculo de dança" (2010); Correio B "Prêmio Onça Pintada reúne artistas internacionais" (2026); A Crítica "Mais de 300 crianças... ballet" (2026) e Onça Pintada 2026; A Crítica Studio 2 Joinville (2026); CGN Omolú (2022); site sarahfigueiro.com.br (estrutura do acervo)
 
 ## Expandidos
 - sarah-abussafi-figueiro
@@ -15,6 +16,7 @@ Situação: em-andamento
 - marcia-rolon (parcial)
 - cia-de-danca-do-pantanal (parcial)
 - premio-onca-pintada-da-danca (edições 2016, 2019, 2026)
+- verbo-cia-de-danca, funk-se, catarina-marquesi-cia-de-danca, semana-pra-danca (programação 2024), united-dance (2023): vizinhança lida na rodada 11
 
 ## Fila
 Já estão na lista-mestra, vizinhança ainda não pesquisada. Mais conectados primeiro.
@@ -32,6 +34,9 @@ Já estão na lista-mestra, vizinhança ainda não pesquisada. Mais conectados p
 - cia-do-mato (2 relações)
 - diogenes-pivatto, marcia-rolon, izabelle-paiva, mariana-cavalcanti, nedem, semana-pra-danca, colegiado-estadual-de-danca-de-ms (2 a 3 relações)
 - demais pessoas e espaços da rodada 4 (1 a 2 relações)
+- Rodada 11 (já na lista-mestra, vizinhança por pesquisar): festival-de-danca-de-joinville (4 relações), funk-se (6; buscar perfil próprio e Prêmio Funarte), ciad-2024 (4), capa-cidade (6), jair-damasceno (3; fonte do lado da dança), tinho-sherman (1; sem fonte própria), armazem-cultural (1), campo-grande-urban-champ (4), soul-guetto (1)
+- Ainda sem linha na lista-mestra (cortados pelo limite de 30): Zé Pelintra (espetáculo da Ginga, campeão em Joinville 2021, CGN 2022); Felipe Pires, Yasmin Salame, Thayna Moura (Studio 2, A Crítica 2026); Corpo de Dança Sesc MS; mais bailarinos de Capa/Cidade (Marina Peralta, Suellen Santos, Paulo Henrique, Issabela Carreteiro, Renata Campos, Georgia Pieczykolan, Eloisa Macena, Gwinnith Brandão); Alegria no Campo e Pas de Deux La Fille (Studio 2); Todo Mundo Dança (festa, Semana pra Dança 2024); Clarin Cia de Dança e Casa 4 (de fora de MS, só se houver vínculo)
+- Pistas abertas para próxima rodada: dissertação UCDB 2016 de Amanda Ramires Guedes sobre Grupo Camalote e Ginga (PDF devolveu a página inicial da UCDB; tentar BDTD/oasisbr); trabalho UFMS repositório 123456789/7585/1/3526.pdf (recusou conexão); oasisbr "Dançando a tradição" (UFMS, registro UFMS_c81ad38b18566f4e51ba467a0e415001, não aberto); UEMS 2018 (Maristela Sánchez Loureiro) sobre dança no currículo; CGN "Dança Campo Grande" (mostra, 17ª edição em 2013, só vista em resultado de busca); CGN "Espetáculo une música, poesia e dança com entrada gratuita em três cidades de MS" (https://www.campograndenews.com.br/lado-b/diversao/espetaculo-une-musica-poesia-e-danca-com-entrada-gratuita-em-tres-cidades-de-ms, só vista em resultado de busca, não aberta)
 
 ## Candidatos vistos em fonte aberta e ainda sem linha na lista-mestra
 Nomes lidos em páginas abertas; entram quando houver segunda fonte ou vínculo com MS claro.
@@ -53,3 +58,6 @@ Nomes lidos em páginas abertas; entram quando houver segunda fonte ou vínculo 
 - Contagem das edições do Prêmio Onça Pintada diverge entre fontes (3ª em 2016, 6ª em 2019, 7ª em 2021, 10ª em 2026).
 - Datas de fundação da Cia do Mato divergem (20 anos em 2021 na matéria aberta; 1999 em resultado de busca não aberto).
 - Rodada 4: 30 nomes novos (13 pessoas, 17 entre grupos, espaços, eventos e obras), 45 relações.
+- Rodada 11: 30 nomes novos (11 pessoas, 6 grupos/espaços, 7 eventos/prêmios, 6 obras), 37 relações (dirigiu 3, sede-em 7, integrou 2, participou-de 9, premiado-por 4, apresentou-em 3, colaborou-com 2, criou 3, homenageado-por 2, fundou 1, relacionado-a 1). Os candidatos "vistos em fonte aberta" de Ginga (fundadores), Pettengill, Frantielly e outros já tinham linha desde outras rodadas; a lista acima foi reduzida ao que ainda não tem.
+- MS Dance Fest (2022) parece ser o mesmo evento de ms-street-dance-fest (organizado pelo Funk-se); não unificado por falta de confirmação.
+- Rodada 11 sem Bash a partir da leitura de ids existentes: duplicidade de ids conferida por Grep; rodar `npm run conferir` antes do commit.
