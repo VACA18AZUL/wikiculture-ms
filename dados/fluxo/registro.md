@@ -108,3 +108,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-31T05:40Z | garimpeiro | garimpeiro | concluída | US$ 1.08 | modelo claude-sonnet-5-5
 2026-10-31T05:47Z | fechamento | fechamento | concluída | US$ 4.01 | modelo claude-opus-5-5
 2026-10-31T12:28Z | pesquisador | ado-e-praense | concluída | US$ 0.10 | modelo claude-sonnet-5-5
+2026-10-31T12:28Z | pesquisador | elinho-do-bandoneon | concluída | US$ 0.13 | modelo claude-sonnet-5-5
