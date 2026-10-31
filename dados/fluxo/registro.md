@@ -110,3 +110,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-31T12:28Z | pesquisador | ado-e-praense | concluída | US$ 0.10 | modelo claude-sonnet-5-5
 2026-10-31T12:28Z | pesquisador | elinho-do-bandoneon | concluída | US$ 0.13 | modelo claude-sonnet-5-5
 2026-10-31T12:28Z | pesquisador | mitos-vivos | concluída | US$ 0.27 | modelo claude-sonnet-5-5
+2026-10-31T12:28Z | garimpeiro | garimpeiro | concluída | US$ 0.78 | modelo claude-sonnet-5-5

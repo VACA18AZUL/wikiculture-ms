@@ -15,3 +15,4 @@ Uma linha por rodada:
 2026-10-30 | rodada 2 | cenicas | +37 nomes, +67 relações | 29 matérias | pendentes da rodada 1 tratados; sobras em pendentes.csv
 2026-10-30 | rodada 2 | lit-av | +38 nomes, +67 relações | 32 matérias | pendentes da rodada 1 tratados; sobras em pendentes.csv
 2026-10-30 | rodada 3 | artes | +30 nomes, +53 relações | 5 matérias (reabertas, já em lidas.txt) | pendentes de artes: Salão 2010, Continuum, Cores do MS, Fotografia e Memória, Entrosamento; sobra: 13 artistas de Entrosamento, artesãos e fotógrafos em pendentes.csv; sem buscas novas
+2026-10-31 | rodada 4 | musica | +30 nomes, +40 relações | 12 matérias (reabertas, já em lidas.txt) | pendentes de música tratados (Dia Mundial do Rock 2019, O Canto Delas, Jazz Festival 2024, Madeira, Coletivo 8, Rainhas do Sertanejo, talentos negros, Elizeth, V12, Juci Ibanez, Benites, Max Moura); sobra: Chris Duran e 7 grupos de integrantes/bandas em pendentes.csv; sem buscas novas
