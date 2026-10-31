@@ -20,7 +20,7 @@ atualizado: 2026-10-31
 
 ## Origem
 
-O cabeçalho da discografia de *Os Pioneiros* dá a Fazenda Boqueirão, em Juti, como local de nascimento.[^pioneiros-disc] O próprio Dino diz ser de Ponta Porã, onde passou a viver em 1960 e descobriu a música, sem professor.[^pioneiros-cultura] A contracapa de 1974, escrita por [[zacarias-mourao|Zacarias Mourão]], o apresenta como natural de Santa Luzia.[^pioneiros-disc]
+O cabeçalho da discografia de *Os Pioneiros* dá a Fazenda Boqueirão, em Juti, como local de nascimento.[^pioneiros-disc] O próprio Dino diz ser de Ponta Porã, onde passou a viver em 1960 e descobriu a música, sem professor.[^pioneiros-cultura] A contracapa de 1974, escrita por [[zacarias-mourao|Zacarias Mourão]], o apresenta como natural de Santa Luzia.[^pioneiros-disc][^pioneiros-dino]
 
 ## Trajetória
 
@@ -58,7 +58,7 @@ O cabeçalho da seção do livro fala em 18 LPs e 8 CDs. A seção lista nove LP
 - *Um Amigo Chamamé* (1987) — LP; [[gravadora-brasidisc|Brasidisc]]; produção e direção de Osmar Zan e Da Silva.[^pioneiros-disc]
 - *Baile Pantaneiro* (1995) — LP; [[gravadora-saua|Sauá]]; produção de [[guilherme-rondon|Guilherme Rondon]] e Hamilton Griecco; direção de Guilherme Rondon.[^pioneiros-disc]
 
-Participações em discos de [[amambay-e-amambai|Amambay e Amambaí]]: [[voltei-amor|*Voltei Amor*]] (1973, várias faixas), [[os-mesticos|*Os Mestiços*]] (1979, participação) e [[os-filhos-da-terra|*Os Filhos da Terra*]] (1982 e 1985, com [[ado|Ado]]).[^pioneiros-amambay]
+Participações em discos de [[amambay-e-amambai|Amambay e Amambaí]]: [[voltei-amor|*Voltei Amor*]] (1973, várias faixas), [[os-mesticos|*Os Mestiços*]] (1979, participação) e [[os-filhos-da-terra|*Os Filhos da Terra*]] (1982) e [[os-filhos-da-terra-gastando-com-elas|*Os Filhos da Terra – Gastando Com Elas*]] (1985), os dois com [[ado|Ado]].[^pioneiros-amambay]
 
 [^pioneiros-disc]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Discografia: Dino Rocha".
 [^pioneiros-cultura]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Cultura Fronteiriça", segundo depoimento de Dino Rocha.

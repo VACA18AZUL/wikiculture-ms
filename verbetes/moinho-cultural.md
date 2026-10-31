@@ -25,7 +25,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Moinho_Cultural_Sul-Americano
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-10-31
 ---
 
 O **Instituto Moinho Cultural Sul-Americano**, também chamado de Moinho Cultural, é uma organização da sociedade civil sediada em Corumbá, na fronteira do Brasil com a Bolívia. Atua com crianças e adolescentes da região.[^acritica2026aud]
@@ -88,7 +88,7 @@ Em janeiro de 2023, o Bloco Carnavalesco [[bloco-aguia-da-vila|Águia da Vila]],
 
 Em setembro de 2025, segundo matéria de 5 de setembro, alunos do Instituto representariam Corumbá no [[united-dance|United Dance Festival]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. Estavam previstos a Cia. Infanto-Juvenil do Moinho Cultural, o bailarino [[marcos-souza|Marcos Souza]] e a bailarina [[izabelle-paiva|Izabelle Paiva]], da [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]].[^cgn2025united]
 
-Em julho de 2026, [[marcos-souza|Marcos Souza]], formado no Moinho, fez audição no 43º Festival de Dança de Joinville e foi aprovado na Curitiba Cia. de Dança. A viagem foi financiada pelo [[instituto-cultural-vale|Instituto Cultural Vale]].[^acritica2026aud]
+Em julho de 2026, [[marcos-souza|Marcos Souza]], formado no Moinho, fez audição no 43º [[festival-de-danca-de-joinville|Festival de Dança de Joinville]] e foi aprovado na Curitiba Cia. de Dança. A viagem foi financiada pelo [[instituto-cultural-vale|Instituto Cultural Vale]].[^acritica2026aud]
 
 Em outubro de 2026, A Crítica de Campo Grande noticiou que o Instituto foi escolhido melhor ONG de Mato Grosso do Sul pela quarta vez, no [[premio-melhores-ongs|Prêmio Melhores ONGs]]. A matéria cita 2021, 2024 e 2026 e não identifica o ano do outro título; diz que o de 2024 foi o segundo seguido. Em 2024, segundo o texto, também foi apontado como melhor ONG de cultura do Brasil. A mesma matéria diz que o Instituto voltou, pela quarta vez, à lista nacional das 100 melhores ONGs.[^acritica2026ong]
 
