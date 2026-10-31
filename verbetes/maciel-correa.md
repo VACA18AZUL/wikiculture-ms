@@ -3,17 +3,17 @@ titulo: Maciel Corrêa
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Acordeonista e cantor sertanejo nascido em Rio Brilhante em 1942. Gravou Flor da Saudade (1977) com Os Irmãos de Mato Grosso e lançou discos solo a partir de Cadeado de Ouro (1981).
+resumo: Acordeonista sertanejo nascido em Rio Brilhante em 1942. Gravou Flor da Saudade (1977) com Os Irmãos de Mato Grosso e lançou discos solo a partir de Cadeado de Ouro (1981).
 ficha:
   Nascimento: "13 de julho de 1942, Rio Brilhante"
-  Atividade: Acordeonista e cantor
+  Atividade: Acordeonista
   Instrumento: Acordeão
   Grupos: Os Irmãos de Mato Grosso
 status: rascunho
 atualizado: 2026-10-31
 ---
 
-**Maciel Corrêa** é acordeonista e cantor sertanejo de Mato Grosso do Sul. Nasceu em Rio Brilhante, em 13 de julho de 1942.[^disc]
+**Maciel Corrêa** é acordeonista sertanejo de Mato Grosso do Sul. Nasceu em Rio Brilhante, em 13 de julho de 1942.[^disc]
 
 ## Nome
 
@@ -33,11 +33,13 @@ Segundo ele, admirava [[ze-correa|Zé Corrêa]] e diz que Zé foi acordeonista d
 
 Segundo depoimento dele ao livro, gravou com [[delio-e-delinha|Délio & Delinha]] o disco [[o-sol-e-a-lua|*O Sol e a Lua*]] (1981), com a faixa "De Mato Grosso a São Paulo", e participou da turnê. Diz que a faixa-título chegou às rádios antes de *[[cadeado-de-ouro|Cadeado de Ouro]]*.[^retorno]
 
-Maciel diz também que articulou a volta da dupla nos anos 1990 e promoveu um show no União dos Sargentos, no Círculo Militar. Ele data o show em 1992; [[delinha|Delinha]] o data em 1993.[^retorno]
+Maciel diz também que articulou a volta da dupla nos anos 1990. Segundo ele, o grupo O Canto da Terra promoveu o retorno em 1992, no Círculo Militar, e depois ele levou a dupla ao União dos Sargentos.[^retorno] [[delinha|Delinha]] data o show de retorno no Círculo Militar em 23 de outubro de 1993.[^retorno]
 
-## Divergências nas datas
+## Divergências
 
 O livro dá a volta de Maciel a Campo Grande em 1972 e também em 1977, e situa a morte de [[ze-correa|Zé Corrêa]] (1974) depois de *[[flor-da-saudade|Flor da Saudade]]* (1977). Maciel situa o convite para o disco solo em 1977 e a gravação no fim de 1980.[^maciel][^cadeado]
+
+Sobre *Cadeado de Ouro*, o depoimento de Maciel diz que Ado dirigiu a gravação, e a discografia do livro credita produção e direção a Marcílio Castioni.[^cadeado][^disc]
 
 ## Discografia
 

@@ -112,3 +112,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-31T12:28Z | pesquisador | mitos-vivos | concluída | US$ 0.27 | modelo claude-sonnet-5-5
 2026-10-31T12:28Z | garimpeiro | garimpeiro | concluída | US$ 0.78 | modelo claude-sonnet-5-5
 2026-10-31T12:28Z | pesquisador | delio | concluída | US$ 0.60 | modelo claude-sonnet-5-5
+2026-10-31T12:32Z | redator | maciel-correa | concluída | US$ 0.14 | modelo claude-sonnet-5-5
