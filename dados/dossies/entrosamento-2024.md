@@ -103,4 +103,7 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
-- 
+- Entrou: local, data de abertura, curadoria, consultoria, colaboração, objetivo atribuído à FCMS, lista dos 34 artistas, nomes citados no texto.
+- Ficou de fora: "realização da FCMS" (relacoes.csv). A página, relida nesta rodada, não traz "realização"; a FCMS aparece só como fonte do objetivo. A relação `gerido-por` da lista não foi usada no texto.
+- Os arquivos de propostas citados no dossiê não existiam; foram criados nesta rodada (nomes: ghva; relações: 4 linhas). Os demais nomes já estavam na lista-mestra.
+- Não ligados a homônimos (ghva-mauricio, lucia-coelho, lais-doria): sem fonte.
