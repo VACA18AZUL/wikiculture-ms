@@ -100,3 +100,6 @@ Discos (seção "Discografia: Maciel Corrêa"; cabeçalho fala em 11 LPs, a seç
 ## Uso no verbete
 
 - 
+Entrou: nome e divergência de grafia, nascimento, trajetória (dupla com Rubens, Irmãos de Mato Grosso, Flor da Saudade, Cadeado de Ouro, Dino Franco, Zacarias Mourão, Zé Corrêa), Délio & Delinha (atribuído a ele), discografia dos nove LPs, divergências de datas, Os Tigres (crédito de 1985).
+Ficou de fora: Campo Grande News 2024 (só cita o nome); Recanto Caipira (não aberto); Rubens sem link (só o prenome); Aquidauana sem link; links externos (não pesquisados).
+Proposto: nelson-pache em dados/propostas/nomes-maciel-correa.csv; relações em relacoes-maciel-correa.csv.
