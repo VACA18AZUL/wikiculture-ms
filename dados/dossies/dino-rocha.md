@@ -101,4 +101,5 @@ Relações já estão em `dados/relacoes.csv` (importação de Os Pioneiros). Ai
 
 - Entrou: ficha (nome civil, nascimento, instrumento, gênero, apelido, grupos), trajetória, origem com as três versões, estilo com a divergência, composições, discografia (9 LPs) e participações.
 - Ficou de fora: exposições/prêmios (não há); Gonçalves (2014), não lido; links externos (nenhum aberto); discos *Menino do Pantanal* e *Os Mestiços* só como menção; dirigentes menores (Osmar Zan, Da Silva, Hamilton Griecco) sem link por não estarem na lista-mestra.
+- Devolução (31/10): corrigidos "foi a Campo Grande", 1960 como mudança para Ponta Porã, nota própria para Los Tammy's; "era o caçula" fora (dado familiar); "em estúdio de São Paulo" removido (o dossiê não diz).
 - Relações já constam em `dados/relacoes.csv`; nenhuma proposta nova.
