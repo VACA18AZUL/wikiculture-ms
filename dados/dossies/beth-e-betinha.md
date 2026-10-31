@@ -104,4 +104,24 @@ Fontes descartadas e o motivo:
 
 ## Uso no verbete
 
--
+Verbete: `verbetes/beth-e-betinha.md` (rascunho, 31/10/2026). Uma única fonte (`pioneiros`, livro impresso lido pelas fichas), citada em nota única com a lista de seções.
+
+Entrou:
+
+- Origem, família em Ponta Porã (1942), pai maestro, Betinha e Nhô Chico e Nhá Xica (1951).
+- Estreia de 16/6/1956 no Clube Amambay, nome da dupla, concursos de rádio, castelhano e guarani, título Princesinhas da Fronteira.
+- PRI-7 e circo de Nhô Pai, Rodrigues e Rodriguinho, excursão de sete anos, Zé Corrêa, Los Tammy's, Curioso e rádio de Aquidauana, dramas de circo, Mulher Vampira (1968), Santa Helena e Alhambra.
+- Anos 1970 e 1980: Itamy e Zacarias Mourão, projeto Seriema (1982), pausa de 1974 a 1980.
+- Discografia: 78 rpm de 1959 (Inspiração), *Os Reis de Mato Grosso* (1964), *A Voz do Sertão na Alma do Povo* (1982) e *C-10 Branca* (1983), com créditos.
+- Divergências registradas no texto: idade e data do início (1951, 13 anos, 1956); data da PRI-7 e do circo (1958-59 contra Delinha, 1963-64); concurso de rádio (Delinha contra Betinha); grafia "Bete e Betinha" na faixa "Ai São João".
+- Vindos das fichas de `dados/fontes/os-pioneiros/fichas/` e de `relacoes.csv`, fora da lista de fatos do dossiê: Irmãs Castro (ficha `irmas-castro`, seção "Beth & Betinha"); produção e direção de Roberto Stanganelli em *Os Reis de Mato Grosso* (ficha de Rodrigues e Rodriguinho, seção "Discografia: Beth & Betinha"); Beth como a vampira e Betinha como apresentadora (fichas de Beth e Betinha, seção "A Mulher Vampira"); ligação do concurso com Rainha e Rei do Rádio (lista-mestra e `relacoes.csv`, seção "Início").
+
+Ficou de fora:
+
+- Datas de nascimento das fichas da discografia (Beth, 6/7/1936; Betinha, 1/1/1941): não estão nos fatos do dossiê; a conferir antes de entrarem na ficha.
+- Bairro de residência (Taquarussu): dado de moradia.
+- Atribuição de Betinha a Zé Corrêa sobre o chamamé e o rasqueado de Mário Zan, e a opinião de Betinha de que lhes interessava mais o show do que o disco: sem relevância para o verbete.
+- Relações de `relacoes.csv` sem apoio nas fichas: Rádio Difusora de Guarulhos e "produtor do primeiro disco" (Roberto Stanganelli ligado à primeira gravação). Não achei esses fatos nas fichas.
+- Wikipédia, imprensa e Memória Fonográfica de MS: não consultadas nesta rodada (coluna `wikipedia_pt` não preenchida).
+
+Propostas: `dados/propostas/nomes-beth-e-betinha.csv` (sem nomes novos; todos já estão na lista-mestra) e `dados/propostas/relacoes-beth-e-betinha.csv` (Stanganelli dirigiu *Os Reis de Mato Grosso*).

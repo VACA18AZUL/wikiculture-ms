@@ -104,3 +104,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-31T05:43Z | redator | dino-rocha | concluída | US$ 0.14 | modelo claude-sonnet-5-5
 2026-10-31T05:43Z | redator | maciel-correa | concluída | US$ 0.23 | modelo claude-sonnet-5-5
 2026-10-31T05:43Z | redator | entrosamento-2024 | concluída | US$ 0.24 | modelo claude-sonnet-5-5
+2026-10-31T05:43Z | redator | beth-e-betinha | concluída | US$ 0.47 | modelo claude-sonnet-5-5
