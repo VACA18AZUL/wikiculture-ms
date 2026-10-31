@@ -3,7 +3,7 @@ titulo: Aurélio Miranda
 tipo: pessoa
 areas: [musica]
 cidade: Cuiabá
-resumo: Cantor e compositor nascido em Mutum (MT). Começou em Cuiabá em 1963, passou a atuar no Sul de Mato Grosso e integrou as duplas e o trio Cruzeiro, Tostão e Centavo. É apontado como autor de "Estrada de Chão".
+resumo: Cantor e compositor nascido em Mutum (MT). Começou em Cuiabá em 1963, passou a atuar no Sul de Mato Grosso e integrou a dupla Cruzeiro e Tostão e o trio Cruzeiro, Tostão e Centavo. É apontado como autor de "Estrada de Chão".
 ficha:
   Nascimento: "5 de março de 1950, Mutum (Cabeceira do Rio Manso, MT)"
   Atividade: Cantor e compositor
@@ -24,13 +24,15 @@ Em 1974, trabalhou na [[radio-cultura-de-jales|Rádio Cultura de Jales]]. Voltou
 
 ### Dupla e trio com Tostão
 
-Por volta de 1977, formou dupla com [[tostao|Tostão]] (Adir), a quem, segundo o livro, ensinou a cantar e a tocar violão. Em 1978, levou a dupla a [[delinha|Delinha]], que apadrinhou a gravação feita na [[gravadora-california|Califórnia]]. A dupla [[cruzeiro-e-tostao|Cruzeiro e Tostão]] teve sucesso com *Menina Rica* e montou um circo.[^pioneiros]
+Por volta de 1977, formou dupla com [[tostao|Tostão]] (Adir), a quem, segundo o livro, ensinou a cantar e a tocar violão. Em 1978, levou a dupla a [[delinha|Delinha]], que apadrinhou a gravação feita na [[gravadora-california|Califórnia]]. A dupla [[cruzeiro-e-tostao|Cruzeiro e Tostão]] teve sucesso com *Menina Rica* e, segundo Aurélio, montou depois um circo. Tostão liga o Circo Teatro Tostão à dupla que formou com Guarany.[^pioneiros]
 
 Aurélio também cantou no trio [[cruzeiro-tostao-e-centavo|Cruzeiro, Tostão e Centavo]].[^pioneiros] Após uma discussão com o diretor da [[chantecler|Chantecler]], em São Paulo, o trio perdeu o contrato. A parceria terminou em 1982.[^pioneiros]
 
 ### Festão
 
-O livro aponta Aurélio como vencedor do 1º [[festao|Festão]] (1979), com [[estrada-de-chao|*Estrada de Chão*]] e [[lavrador-rei-sem-coroa|*Lavrador Rei Sem Coroa*]]. Segundo [[onesimo-filho|Onésimo Filho]], citado no livro, ele também ganhou o 2º Festão; nenhuma outra fonte lida confirma essa segunda vitória.[^pioneiros]
+No 1º [[festao|Festão]] (1979), segundo o livro, [[estrada-de-chao|*Estrada de Chão*]] venceu e [[lavrador-rei-sem-coroa|*Lavrador Rei Sem Coroa*]] ficou em segundo lugar. [[onesimo-filho|Onésimo Filho]] atribui os dois primeiros lugares a Aurélio. Tostão diz que o grupo se apresentou como trio, e não como Aurélio sozinho.[^pioneiros]
+
+No 2º Festão, segundo Tostão, o trio [[cruzeiro-tostao-e-guarany|Cruzeiro, Tostão e Guarany]], formado por Aurélio, Tostão e [[orlei|Orlei]], ganhou com [[fogo-humano|*Fogo Humano*]]. O prêmio foi um carro.[^pioneiros]
 
 ## Obras
 
