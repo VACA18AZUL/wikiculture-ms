@@ -98,4 +98,6 @@ Fontes descartadas e o motivo:
 
 ## Uso no verbete
 
-- (a preencher pelo redator)
+- Entrou: os fatos do livro (pioneiros), em Trajetória, Funcionamento e Discografia; opiniões (Barbosa, contracapas, Délio, Delinha, Benites, Adail) atribuídas a quem as disse.
+- Ficou de fora: Recanto Caipira e Glossário (fontes fracas, não reabertas nesta rodada), incluindo a lista de LPs de Délio e Delinha e os códigos TC.
+- Incerto: fundação e encerramento da gravadora; verbete apoiado em fonte única (livro impresso, via fichas).
