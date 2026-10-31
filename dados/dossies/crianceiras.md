@@ -153,6 +153,31 @@ Pistas sem fonte que sustente. Não entram no verbete.
 
 ## Uso no verbete
 
-Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
+Redigido em 2026-10-31. Na reabertura, o Campo Grande News respondeu 403 a todas as matérias (cgn2012multi, cgn2016app, cgn2018novo, cgn2018quintana, cgn2019crianceiras, cgn2022quintal, cgn2024crianceiras, cgn2024camillo) e web.archive.org está bloqueado no ambiente; periodicos.ufms.br não resolveu. Por regra do pedido (o que não confirmar fica fora), o verbete se apoia só em quatro fontes reabertas com sucesso (WebFetch devolve resumo, não texto bruto).
 
-- 
+**Entrou (fontes reabertas):**
+
+- catraca2020: criação por Camillo, oito anos em cartaz, motivação de homenagear o poeta (vizinho e amigo, acompanhou a musicalização), videoclipes no Gloob desde 2012, aplicativo gratuito, indicação de 2012 a melhor álbum infantil, uso por professores, temporada de março de 2020 em São Paulo e ficha da versão 2020.
+- abc2016sesc: temporada de novembro de 2016 no Sesc Santo André (datas, concepção, direção, iluminuras de Martha Barros), CD de 2011, indicação ao Prêmio da Música Brasileira (sem ano).
+- spc2018pompeia: história, formato de teatro de papel, temporada no Sesc Pompeia, parte da ficha, repertório parcial, descrição do projeto e uso dos CDs em escolas. Fonte fraca, sinalizada no texto.
+- ce2026quintana: nova temporada anunciada para setembro de 2026, ficha, repertório, 55 minutos, declaração de Camillo sobre público "transgeracional" e sobre professores.
+
+**Ficou de fora, por não ter sido reconfirmado (Campo Grande News):**
+
+- Origem da ideia e divergência entre as versões (duas décadas / cinco anos antes, visita de 2007, ideia do aplicativo): só o Catraca Livre foi reaberto, e ele não data a origem. Sem duas versões confirmadas, o verbete não registra divergência. Reinserir quando o CGN abrir.
+- Estreia de 04/10/2012 no Teatro Prosa do Sesc Horto e detalhes (50 min, 10 canções, mais de 40 profissionais, figurinos, ensaios); ano de 2012 como estreia do espetáculo (o Catraca só dá "oito anos em cartaz" e "desde 2012" para videoclipes).
+- Segundo espetáculo: estreia em São Paulo (março de 2018) e em Campo Grande (19/05/2018), cenário e figurinos da estreia, 350 apresentações, 310 mil pessoas, 12 mil alunos em Salvador.
+- Indicação de 2016 (CD de Quintana): só no CGN 2018 (cgn2018novo); atribuição exigiria reabrir.
+- Aplicativo de 2016 (cgn2016app), Centro de Convenções (2019), Crianceiras-Acústico na Casa-Quintal (2022), Festival Mais Cultura e Teatro Glauce Rocha em 2024. Por isso `casa-quintal`, `festival-mais-cultura`, `fundacao-nelito-camara`, `sesc-cultura` não aparecem no texto, embora estejam em `dados/relacoes.csv`.
+- Ano do espetáculo de Quintana no Sesc Pompeia: o spc2018pompeia só traz a data de cadastro (20/03/2018); o verbete diz isso e não afirma 2018 como ano de estreia.
+
+**Ficou de fora por outros motivos:**
+
+- A filha de Camillo (dado de vida familiar); a página do Catraca a cita como motivação.
+- Artigo da revista Papéis e cópia de Wikipédia com a indicação de 2016: determinação do pedido.
+- Créditos técnicos de produção do Sesc Pompeia (assistentes, cenotécnicos, som, produção) e músicos alternantes: só Luana Oliveira e Leandro Tenório entram, como alternantes, sem link. Mario Castello (fotos), Marcos Moura, Toninho Porto, Pedro Spíndola, Criatto, Energisa, Documenta Pantanal, Polca: ficaram sem menção.
+- Parentesco de Martha Barros com o poeta: crédito de obra, não entrou.
+- Links externos: nenhum perfil oficial achado.
+- `wikipedia_pt`: https://pt.wikipedia.org/wiki/Crianceiras devolveu 404; não há artigo com esse título.
+
+**Incertezas:** local da temporada de 2020 (Teatro-D no corpo da matéria; o resumo da página também menciona Teatro Cacilda Becker). Nomes novos e relações novas foram para `dados/propostas/nomes-crianceiras.csv` e `dados/propostas/relacoes-crianceiras.csv`.
