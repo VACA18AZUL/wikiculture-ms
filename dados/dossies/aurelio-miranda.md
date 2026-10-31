@@ -82,6 +82,6 @@ Todas já estão em `dados/relacoes.csv` (linhas de aurelio-miranda); não repet
 
 ## Uso no verbete
 
-Preenchido pelo redator.
-
--
+- Entrou: nascimento, trajetória (Cuiabá, Coxim, Campo Grande, Show 6, Jales), dupla e trio com Tostão, Festão (com a ressalva do 2º), autoria de Estrada de Chão com a versão de Tostão, LP de 1988, divergência do prêmio do Bolinha.
+- Ficou de fora: seções "O empurrão de Delinha" e "A gravação na Califórnia" além do que a ficha resume; relação com caipira-ao-digital (fonte do Correio do Estado não está no dossiê).
+- Fonte única (livro impresso, via ficha); Wikipédia não conferida.
