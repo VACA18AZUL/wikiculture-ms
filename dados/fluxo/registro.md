@@ -117,3 +117,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-31T12:32Z | redator | tostao-e-guarany | concluída | US$ 0.21 | modelo claude-sonnet-5-5
 2026-10-31T12:32Z | redator | gravadora-california | concluída | US$ 0.20 | modelo claude-sonnet-5-5
 2026-10-31T12:34Z | fechamento | fechamento | concluída | US$ 5.07 | modelo claude-opus-5-5
+2026-10-31T19:16Z | pesquisador | cruzeiro-e-tostao | concluída | US$ 0.14 | modelo claude-sonnet-5-5
