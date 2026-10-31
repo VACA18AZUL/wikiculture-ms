@@ -1,54 +1,56 @@
 # Revisão: aurelio-miranda
 
-Verbete: `verbetes/aurelio-miranda.md`, primeira revisão, depois da passagem do ligador. Revisor editorial, 31 out. 2026. Fonte única: o livro *Os Pioneiros*, lido pelas fichas em `dados/fontes/os-pioneiros/fichas/` (aurelio-miranda, festao, cruzeiro-tostao-e-centavo, cruzeiro-tostao-e-guarany, cruzeiro-e-tostao, estrada-de-chao, fogo-humano, gravadora-california, tostao, guarany) e por `discografia.csv` e `faixas.csv`. O redator leu só a ficha `aurelio-miranda`. As outras fichas são do mesmo livro e das mesmas seções citadas na nota, e é nelas que aparecem os PROBLEMAs abaixo. Os números de linha valem para o arquivo depois das correções desta revisão (nenhuma linha foi acrescentada nem tirada).
+Verbete: `verbetes/aurelio-miranda.md`, segunda revisão, depois da reescrita do redator (devolução de 31/10/2026) e da passagem do ligador (alterações ainda não commitadas: links para `circo-teatro-tostao`, `guarany`, `festao`, `tostao`, e `chantecler` trocado por `gravadora-chantecler`). Revisor editorial, 31 out. 2026. Fonte única: o livro *Os Pioneiros* (Teixeira, 2009), lido pelas fichas `aurelio-miranda`, `festao`, `cruzeiro-tostao-e-centavo`, `cruzeiro-tostao-e-guarany`, `fogo-humano`, `cruzeiro-e-tostao`, `estrada-de-chao`, `circo-teatro-tostao` e `guarany`, e por `discografia.csv`.
 
 ## Portão de evidências
 
-- `npm run conferir`: **NÃO CONFERIDO.** O Bash foi negado nesta sessão, então o comando não rodou.
-- `npm run build`: **NÃO CONFERIDO**, pelo mesmo motivo.
-- `node scripts/ligacoes.mjs`: **NÃO CONFERIDO**, pelo mesmo motivo. Conferi os identificadores à mão contra `dados/lista-mestra.csv` e `verbetes/`.
+- `npm run conferir`: **passou** ("24 verbetes conferidos. Nenhum erro."), antes e depois da correção.
+- `npm run build`: **passou** ("43 page(s) built"), antes e depois da correção.
+- `node scripts/ligacoes.mjs`: sugere ligar "Tostão", "Festão" e "Estrada de Chão" em títulos de seção (l. 25 e 31) e em menções repetidas (l. 27, 35, 39) que já têm link antes no mesmo parágrafo. Nada a fazer.
 
-Os dois comandos precisam rodar e passar antes do pull request.
+## PROBLEMAs da revisão anterior
+
+1. **l. 33, vencedor do 1º Festão: RESOLVIDO.** O texto agora separa os lugares (*Estrada de Chão* venceu, *Lavrador Rei Sem Coroa* ficou em segundo) e registra as duas versões: Onésimo Filho dá os dois lugares a Aurélio; Tostão diz que o grupo se apresentou como trio. Confere com as fichas `festao` e `cruzeiro-tostao-e-centavo`.
+2. **l. 33, 2º Festão: RESOLVIDO.** Saiu a frase "nenhuma outra fonte lida confirma". Entrou a l. 35, com a versão de Tostão: o trio Cruzeiro, Tostão e Guarany (Aurélio, Tostão e Orlei) ganhou com *Fogo Humano*, e o prêmio foi um carro. Confere com as fichas `festao`, `cruzeiro-tostao-e-guarany` e `fogo-humano` (seções "Os Campeões do Festão" e "O Final Prematuro do Trio", ambas na nota). A leitura dupla da fala de Onésimo segue como ATENÇÃO, abaixo.
+
+As ATENÇÕES anteriores também foram tratadas: o circo agora vem atribuído ("segundo Aurélio") com a versão de Tostão (l. 27), e "Califórnia" tem link para a gravadora.
 
 ## Os dez pontos
 
 | # | Ponto | Resultado |
 |---|---|---|
-| 1 | Fonte sustenta a frase | PROBLEMA. As l. 15 a 29 e 37 a 43 conferem com a ficha `aurelio-miranda`. A l. 33 (Festão) contradiz as fichas `festao`, `cruzeiro-tostao-e-centavo` e `cruzeiro-tostao-e-guarany`, das mesmas seções que a nota cita (ver PROBLEMAs) |
-| 2 | Link abre | OK. A nota única cita fonte impressa e não tem link |
-| 3 | Sem cópia | OK, com ressalva. O original do livro não está no repositório, só as fichas, que já são paráfrase. Várias frases seguem de perto a redação da ficha (por exemplo, l. 21: "Cantou em Rio Verde e, em Campo Grande, no Bar Cinelândia e na Boate Recanto das Corujas"), mas a ficha é texto do projeto, não da fonte |
-| 4 | Dados pessoais | OK. Só data e local de nascimento, publicados no cabeçalho da discografia do livro. A hospedagem em hotel e a venda de livros (ficha) ficaram fora. Nenhuma frase removida |
-| 5 | Tom | OK. "Clássico regional" (l. 37) vem atribuído ao livro. Sem adjetivo de elogio do redator nem primeira pessoa |
-| 6 | Divergências | PROBLEMA. Aparecem: prêmio do Bolinha (1972 x c. 1978) e autoria de *Estrada de Chão*. Ficou escondida a versão de Tostão sobre o 1º Festão (o trio concorreu como trio, não Aurélio sozinho), registrada na ficha `festao` e na ficha `estrada-de-chao`. A versão sobre o circo da dupla também ficou de fora (ver ATENÇÕES) |
-| 7 | Ficha | OK. Nascimento: pioneiros ("Discografia"). Atividade: pioneiros. Grupos: pioneiros (Cigano e Ciganinho era só ele, segundo o próprio depoimento, e o texto diz isso na l. 19). Nenhum valor só numérico sem aspas |
-| 8 | Força da fonte | OK. Livro de pesquisa com incentivo público, fonte sólida. É fonte única (ver ATENÇÕES) |
-| 9 | Ligações | OK depois da correção. Todos os identificadores em `[[...]]` existem na lista-mestra (radio-noroeste, cigano-e-ciganinho, bar-cinelandia, boate-recanto-das-corujas, terra-do-pantanal, show-6-tv-morena, tv-morena, tostao, radio-cultura-de-jales, delinha, cruzeiro-e-tostao, cruzeiro-tostao-e-centavo, chantecler, festao, estrada-de-chao, lavrador-rei-sem-coroa, onesimo-filho, tostao-e-guarany, guarany). `guarany` na l. 43 é Evânio Vargas Padilha (lista-mestra "Guarany (Cherinho)"), e a ficha `guarany` confirma que ele coproduziu *Raízes e Sentimentos*. Os links do ligador não mudaram o sentido de nenhuma frase. Faltava ligar "Califórnia" (l. 27), corrigido |
-| 10 | Ficha e nome de arquivo | OK. `status: rascunho`, `atualizado: 2026-10-31`, identificador no padrão, resumo com cerca de 208 caracteres |
+| 1 | Fonte sustenta a frase | OK. l. 15 a 23 conferem com a ficha `aurelio-miranda` (seção "Rumo ao Sul de MT" e discografia); l. 27 com `aurelio-miranda` e `cruzeiro-e-tostao`; l. 29 com `aurelio-miranda`; l. 33 e 35 com `festao`, `cruzeiro-tostao-e-centavo`, `cruzeiro-tostao-e-guarany` e `fogo-humano`; l. 39 a 45 com `aurelio-miranda`, `estrada-de-chao`, `guarany` e `discografia.csv` (*Raízes e Sentimentos*, 1988, independente, produção e direção de Guarany e Miranda) |
+| 2 | Link abre | OK (não se aplica). A nota cita fonte impressa, sem link |
+| 3 | Sem cópia | OK em relação às fichas, que já são paráfrase. Comparação com o texto do livro NÃO CONFERIDA: o texto não está no repositório |
+| 4 | Dados pessoais | OK. Só data e local de nascimento, do cabeçalho da discografia do livro. A venda de livros e a hospedagem em hotel (ficha) ficaram fora |
+| 5 | Tom | OK. "Clássico regional" atribuído ao livro. Sem elogio nem primeira pessoa |
+| 6 | Divergências | OK. Prêmio do Bolinha (1972 x c. 1978), autoria de *Estrada de Chão*, circo da dupla e 1º Festão (Aurélio x trio) aparecem com as duas versões. Leitura da fala de Onésimo sobre o 2º Festão: ver ATENÇÕES |
+| 7 | Ficha | OK. Nascimento, Atividade e Grupos com apoio no texto e na nota. Nascimento entre aspas (texto com vírgula); nenhum valor só numérico sem aspas |
+| 8 | Força da fonte | OK. Livro de pesquisa com incentivo público. **Fonte única** |
+| 9 | Ligações | OK. Todos os identificadores existem em `verbetes/` ou na lista-mestra (inclusive `circo-teatro-tostao`, `orlei`, `fogo-humano`, `cruzeiro-tostao-e-guarany`, `gravadora-chantecler`, `onesimo-filho`, `lavrador-rei-sem-coroa`). `guarany` (l. 27 e 45) é Evânio, da dupla Tostão e Guarany e coprodutor do LP de 1988 (ficha `guarany`); Orlei, o primeiro Guarany do trio, tem link próprio. Os links do ligador não mudam o sentido das frases |
+| 10 | Ficha e nome de arquivo | OK. `status: rascunho`, `atualizado: 2026-10-31`, identificador no padrão, resumo com cerca de 210 caracteres |
 
 ## PROBLEMAs
 
-- **l. 33, vencedor do 1º Festão.** Trecho: "O livro aponta Aurélio como vencedor do 1º [[festao|Festão]] (1979), com [[estrada-de-chao|*Estrada de Chão*]] e [[lavrador-rei-sem-coroa|*Lavrador Rei Sem Coroa*]]." O que o livro diz, pelas fichas: *Estrada de Chão* venceu e *Lavrador Rei Sem Coroa* ficou em **segundo** lugar (ficha `festao`, seção "Os Campeões do Festão"; ficha `cruzeiro-tostao-e-centavo`: "Ganhou o 1º Festão [...] com Estrada de Chão e o 2º lugar com Lavrador Rei Sem Coroa"). A frase põe as duas canções como vencedoras. Além disso, a ficha `festao` registra a divergência: "Onésimo atribui o 1º e o 2º lugares a Aurélio Miranda; Tostão diz que o trio se apresentou como trio, não como Aurélio solo". A ficha `estrada-de-chao` traz o mesmo: "Tostão diz que a inscrição foi feita em nome do trio e saiu com o nome de Aurélio". O verbete mostra só a versão que dá a vitória a Aurélio. Para o redator: separar 1º e 2º lugares e registrar a versão de Tostão, com a mesma nota.
-- **l. 33, 2º Festão.** Trecho: "Segundo [[onesimo-filho|Onésimo Filho]], citado no livro, ele também ganhou o 2º Festão; nenhuma outra fonte lida confirma essa segunda vitória." O que o livro diz, pelas fichas: (a) a ficha `festao` lê a fala de Onésimo como atribuição do **1º e do 2º lugares** a Aurélio, não do 2º Festão. A ficha `aurelio-miranda` lê "2º Festão". As duas fichas do mesmo trecho discordam. (b) O livro dá o 2º Festão ao trio Cruzeiro, Tostão e Guarany, com Aurélio (Cruzeiro), Tostão e Orlei, com *Fogo Humano*, segundo Tostão (fichas `festao`, `cruzeiro-tostao-e-guarany` e `fogo-humano`, seções "Os Campeões do Festão" e "O Final Prematuro do Trio", as duas citadas na nota). Então "nenhuma outra fonte lida confirma" não vale para o próprio livro. Para o redator ou o atualizador: conferir no livro o que Onésimo disse e reescrever com as duas leituras e com a versão de Tostão sobre *Fogo Humano*.
+Nenhum.
 
 ## ATENÇÕES
 
-- **Fonte única.** O verbete se apoia só em *Os Pioneiros*. É fonte sólida e basta pela regra, mas o dossiê pede uma segunda (imprensa ou Mapa Cultural). A matéria do *Correio do Estado* de 22/07/2011, usada em `tostao-e-guarany`, cita Aurélio como autor de "Estrada de chão" e como convidado do DVD da dupla. Fica para o atualizador.
-- **l. 27, circo da dupla.** "A dupla [...] teve sucesso com *Menina Rica* e montou um circo." A ficha `cruzeiro-e-tostao` diz que essa é a versão de Aurélio ("Estouraram com Menina Rica, segundo Aurélio") e registra divergência: Tostão liga o circo (Circo Teatro Tostão) à dupla com Guarany. O verbete dá a versão de Aurélio como fato. O dossiê não registrou essa divergência. Por isso fica como ATENÇÃO, mas convém atribuir ("segundo Aurélio") ou pôr as duas versões.
-- **l. 27, "gravação feita na Califórnia".** Antes da correção a frase podia ser lida como o estado norte-americano. A ficha `cruzeiro-e-tostao` e a ficha `gravadora-california` dizem que é a gravadora de Mário Vieira, em São Paulo (LP *Os Rouxinóis do Brasil*, 1978). O link resolve a ambiguidade. Se o redator quiser, pode escrever "pela gravadora Califórnia".
-- **Resumo.** "integrou as duplas e o trio Cruzeiro, Tostão e Centavo" lê-se mal, porque não nomeia as duplas. Não é erro de fato.
-- **`cidade: Cuiabá`.** Ele começou em Cuiabá, mas segundo o próprio verbete viveu e atuou em Campo Grande a partir de 1977. A lista-mestra também diz Cuiabá. Fica para o Helton decidir.
-- **Trio Cruzeiro, Tostão e Guarany.** O verbete não cita essa formação (com Orlei), que o livro registra e que já tem linha na lista-mestra. Não é PROBLEMA, mas ajuda a resolver o PROBLEMA do 2º Festão.
-- **Wikipédia.** Não foi conferida, nem pelo pesquisador nem nesta revisão. A coluna `wikipedia_pt` está vazia.
+- **l. 33, fala de Onésimo Filho.** As fichas leem o mesmo trecho de dois jeitos: `festao` diz que Onésimo atribui "o 1º e o 2º lugares" a Aurélio (no 1º Festão); `aurelio-miranda` diz "Segundo Onésimo Filho, também ganhou o 2º Festão". O verbete seguiu a primeira leitura. As duas leituras são compatíveis com o texto (o trio que venceu o 2º Festão, segundo Tostão, tinha Aurélio), mas o dossiê registrou a segunda. Convém o Helton conferir no livro, seção "Os Campeões do Festão".
+- **Seções que faltam na nota.** A versão de Tostão sobre *Estrada de Chão* (l. 39) está, pela ficha `estrada-de-chao`, na seção "Estrada de Chão", e o Circo Teatro Tostão (l. 27), na seção "Os Donos do Circo". Nenhuma das duas está listada em `[^pioneiros]`. As fichas `aurelio-miranda` e `cruzeiro-e-tostao` registram essas divergências sem seção, então não acrescentei por não ter certeza da seção de cada frase.
+- **Fonte única.** O dossiê pede uma segunda fonte (imprensa ou Mapa Cultural). A matéria do *Correio do Estado* de 22/07/2011, usada em `tostao-e-guarany`, cita Aurélio como autor de "Estrada de chão". Fica para o atualizador.
+- **`cidade: Cuiabá`.** Começou em Cuiabá, mas atuou em Campo Grande a partir de 1977, segundo o próprio verbete. A lista-mestra também diz Cuiabá. Decisão do Helton.
+- **Ficha, Grupos.** Não lista o trio Cruzeiro, Tostão e Guarany, que o texto cita na l. 35. Não é erro.
+- **Wikipédia.** Não conferida; a coluna `wikipedia_pt` segue vazia.
 
 ## Corrigido direto
 
-- **l. 27:** "a gravação feita na Califórnia" passou a "a gravação feita na [[gravadora-california|Califórnia]]". Ligação para verbete existente, sem mudar o texto.
-- **l. 21:** `[[terra-do-pantanal|Terra do Pantanal]]` passou a `[[terra-do-pantanal|*Terra do Pantanal*]]`, em itálico como os outros títulos de canção do verbete.
+- **l. 51, formato da nota `[^pioneiros]`.** Tirado o trecho "(lidas pela ficha `dados/fontes/os-pioneiros/fichas/aurelio-miranda.md`)", fora do formato de citação de `dados/fontes/os-pioneiros/LEIA-ME.md`, que mostrava caminho interno do repositório no site e já não era exato (o texto agora usa outras fichas do mesmo livro). Mesma correção feita antes em `gravadora-california` e `maciel-correa`. Referência ao livro e às seções igual.
 
-Nenhuma frase foi removida. `status` continua `rascunho`. Nenhum fato foi acrescentado. Nenhum arquivo de proposta foi criado e a situação na fila não foi mudada.
+Nenhum fato acrescentado. Nenhum dado pessoal achado; nenhuma frase removida. `status` continua `rascunho`. Nenhuma proposta criada; situação na fila não mudada.
 
 ## Fontes conferidas
 
-- pioneiros: Rodrigo Teixeira, *Os Pioneiros*, 2009, pelas fichas listadas acima e por `discografia.csv` e `faixas.csv` (*Raízes e Sentimentos*, 1988, independente, produção e direção de Guarany e Miranda, 12 faixas, quase todas de Aurélio, com *Estrada de Chão* e *Minha Doce Poxoréu*). Sustenta nascimento, Cuiabá 1963, Rádio Noroeste, Cigano e Ciganinho, Coxim, Rio Verde, Cinelândia, Recanto das Corujas, Show 6 em 1972, Bolinha e as duas versões, Jales em 1974, volta em 1977, dupla com Tostão, Delinha e Califórnia, *Menina Rica*, trio com Centavo, Chantecler, fim em 1982, autoria de *Estrada de Chão* e as duas versões, e o cabeçalho de 3 LPs e 3 CDs. **Não sustenta** a l. 33 como está escrita.
+*Os Pioneiros* (Rodrigo Teixeira, 2009), pelas fichas listadas no início e por `discografia.csv`.
 
-**Pronto para pull request: não.** Há dois PROBLEMAs na l. 33 (resultado do 1º Festão e divergência escondida; 2º Festão), e `npm run conferir` e `npm run build` não rodaram nesta sessão.
+**Pronto para pull request: sim.** Os dois PROBLEMAs da revisão anterior foram resolvidos, sem PROBLEMA novo. Fonte única (livro impresso, via fichas). A leitura da fala de Onésimo fica como ATENÇÃO para conferência no livro.

@@ -27,6 +27,7 @@ atualizado: 2026-10-31
 Segundo *Os Pioneiros*, a dupla começou no fim de 1982. [[guarany|Guarany]] inverteu as vozes para fazer a primeira voz, e [[tostao|Tostão]] aprendeu a segunda.[^pioneiros] O *Correio do Estado* dá outra data: a dupla teria se formado em 1983.[^ce2011] Em junho de 2008, a mesma imprensa a descrevia como junta havia 25 anos, conta que combina com 1983.[^ce2008] A matéria de 2011 fala em 27 anos de carreira e, ao tratar do DVD, em 25 anos; a fonte não explica a diferença.[^ce2011] As versões ficam registradas sem escolha entre elas.
 
 A dupla gravou um compacto duplo e, depois, um disco com [[marcelo-mello|Marcelo Mello]]. Participaram do disco Robertinho (acordeon), Tupi (violão) e Herrera (harpa).[^pioneiros]
+
 ### Circos, ônibus e campanhas
 
 Sem espaço nos circos da cidade para os shows, [[tostao|Tostão]] montou o [[circo-teatro-tostao|Circo Teatro Tostão]] e o [[circo-rouxinois-do-brasil|Circo Rouxinóis do Brasil]]. O primeiro rodava os bairros de Campo Grande. Tostão atuou em dramas de circo.[^pioneiros]
@@ -47,7 +48,7 @@ A mesma matéria diz que a dupla planejava lançar em Campo Grande, antes do fim
 
 ## Discografia
 
-- *Tostão e Guarany (Compacto)* (1984) — compacto; [[gravadora-universal-records|Universal Records]], com produção e direção de Marcel Mello. Faixas: "PT Saudações" ([[aurelio-miranda|Aurélio Miranda]] e [[tostao|Tostão]]), "Flor da Fronteira" (Tostão, Cruzeiro e Centavo), "[[estrada-de-chao|Estrada de Chão]]" (Aurélio Miranda) e "Do Jeitinho Que Te Amo" (Otto Arguelha e Tostão). Segundo o livro, "Flor da Fronteira" e "Estrada de Chão" vêm de discos de 1978 e 1979.[^pioneiros]
+- *Tostão e Guarany (Compacto)* (1984) — compacto; [[gravadora-universal-records|Universal Records]], com produção e direção de Marcel Mello. Faixas: "PT Saudações" ([[aurelio-miranda|Aurélio Miranda]] e [[tostao|Tostão]]), "Flor da Fronteira" (Tostão, [[cruzeiro|Cruzeiro]] e [[centavo|Centavo]]), "[[estrada-de-chao|Estrada de Chão]]" (Aurélio Miranda) e "Do Jeitinho Que Te Amo" (Otto Arguelha e Tostão). Segundo o livro, "Flor da Fronteira" e "Estrada de Chão" vêm de discos de 1978 e 1979.[^pioneiros]
 - *Luzes do Além* (1985) — LP; Anhembi, com produção e direção de Oscar Martins. Tem 11 faixas, entre elas "Apartamento", "Luzes do Além", "Cantora de Boate" e "Espaço Pantaneiro".[^pioneiros] O título e o ano também constam do *Correio do Estado*.[^ce2011]
 - *Tostão & Guarany (Single)* (1995) — single; [[gravadora-ariola|Ariola Discos]], com produção e direção de Douglas Diniz. Faixas: "Mágica ou Sonho" (Douglas Diniz) e "Anjo Bom" ([[guarany|Guarany]]).[^pioneiros]
 - *Recordações* (2000) — CD; a fonte traz só título e ano.[^ce2011]
@@ -58,7 +59,7 @@ A discografia do livro cita as gravadoras [[gravadora-universal-records|Universa
 ## Divergências entre fontes
 
 - **Formação:** fim de 1982 em *Os Pioneiros*;[^pioneiros] 1983 no *Correio do Estado*.[^ce2011]
-- **Compacto:** a parte narrativa do livro cita a faixa "Já Decidi Que Te Amo" no compacto duplo, mas a discografia do compacto de 1984 lista outras quatro faixas. O livro também grafa "Marcelo Mello" no texto e "Marcel Mello" no crédito de produção.[^pioneiros]
+- **Compacto:** a parte narrativa do livro cita a faixa "Já Decidi Que Te Amo" no compacto duplo, mas a discografia do compacto de 1984 lista outras quatro faixas. O livro também grafa "[[marcelo-mello|Marcelo Mello]]" no texto e "Marcel Mello" no crédito de produção.[^pioneiros]
 - **Disco após o compacto:** a parte narrativa do livro diz que o disco seguinte ao compacto foi feito com [[marcelo-mello|Marcelo Mello]]; a discografia do mesmo livro dá a produção e direção de *Luzes do Além* (1985) a Oscar Martins.[^pioneiros]
 - **Grafia do nome:** "Guarany" e "Guarani" aparecem no livro.[^pioneiros]
 

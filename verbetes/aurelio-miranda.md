@@ -24,15 +24,15 @@ Em 1974, trabalhou na [[radio-cultura-de-jales|Rádio Cultura de Jales]]. Voltou
 
 ### Dupla e trio com Tostão
 
-Por volta de 1977, formou dupla com [[tostao|Tostão]] (Adir), a quem, segundo o livro, ensinou a cantar e a tocar violão. Em 1978, levou a dupla a [[delinha|Delinha]], que apadrinhou a gravação feita na [[gravadora-california|Califórnia]]. A dupla [[cruzeiro-e-tostao|Cruzeiro e Tostão]] teve sucesso com *Menina Rica* e, segundo Aurélio, montou depois um circo. Tostão liga o Circo Teatro Tostão à dupla que formou com Guarany.[^pioneiros]
+Por volta de 1977, formou dupla com [[tostao|Tostão]] (Adir), a quem, segundo o livro, ensinou a cantar e a tocar violão. Em 1978, levou a dupla a [[delinha|Delinha]], que apadrinhou a gravação feita na [[gravadora-california|Califórnia]]. A dupla [[cruzeiro-e-tostao|Cruzeiro e Tostão]] teve sucesso com *Menina Rica* e, segundo Aurélio, montou depois um circo. Tostão liga o [[circo-teatro-tostao|Circo Teatro Tostão]] à dupla que formou com [[guarany|Guarany]].[^pioneiros]
 
-Aurélio também cantou no trio [[cruzeiro-tostao-e-centavo|Cruzeiro, Tostão e Centavo]].[^pioneiros] Após uma discussão com o diretor da [[chantecler|Chantecler]], em São Paulo, o trio perdeu o contrato. A parceria terminou em 1982.[^pioneiros]
+Aurélio também cantou no trio [[cruzeiro-tostao-e-centavo|Cruzeiro, Tostão e Centavo]].[^pioneiros] Após uma discussão com o diretor da [[gravadora-chantecler|Chantecler]], em São Paulo, o trio perdeu o contrato. A parceria terminou em 1982.[^pioneiros]
 
 ### Festão
 
-No 1º [[festao|Festão]] (1979), segundo o livro, [[estrada-de-chao|*Estrada de Chão*]] venceu e [[lavrador-rei-sem-coroa|*Lavrador Rei Sem Coroa*]] ficou em segundo lugar. [[onesimo-filho|Onésimo Filho]] atribui os dois primeiros lugares a Aurélio. Tostão diz que o grupo se apresentou como trio, e não como Aurélio sozinho.[^pioneiros]
+No 1º [[festao|Festão]] (1979), segundo o livro, [[estrada-de-chao|*Estrada de Chão*]] venceu e [[lavrador-rei-sem-coroa|*Lavrador Rei Sem Coroa*]] ficou em segundo lugar. [[onesimo-filho|Onésimo Filho]] atribui os dois primeiros lugares a Aurélio. [[tostao|Tostão]] diz que o grupo se apresentou como trio, e não como Aurélio sozinho.[^pioneiros]
 
-No 2º Festão, segundo Tostão, o trio [[cruzeiro-tostao-e-guarany|Cruzeiro, Tostão e Guarany]], formado por Aurélio, Tostão e [[orlei|Orlei]], ganhou com [[fogo-humano|*Fogo Humano*]]. O prêmio foi um carro.[^pioneiros]
+No 2º [[festao|Festão]], segundo [[tostao|Tostão]], o trio [[cruzeiro-tostao-e-guarany|Cruzeiro, Tostão e Guarany]], formado por Aurélio, Tostão e [[orlei|Orlei]], ganhou com [[fogo-humano|*Fogo Humano*]]. O prêmio foi um carro.[^pioneiros]
 
 ## Obras
 
@@ -48,4 +48,4 @@ Aurélio assina a maior parte das faixas dos discos de [[cruzeiro-e-tostao|Cruze
 
 - Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul* (2009): seções "Aurélio Miranda: Rumo ao Sul de MT" e "O Encontro de Aurélio e Adir".
 
-[^pioneiros]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seções "A Primeira Turma – Os Desbravadores dos 50", "Aurélio Miranda: Rumo ao Sul de MT", "O Encontro de Aurélio e Adir", "O Nome Cruzeiro & Tostão", "Os Campeões do Festão", "O Final Prematuro do Trio" e "Discografia: Cruzeiro, Tostão, Guarany e Centavo" (lidas pela ficha `dados/fontes/os-pioneiros/fichas/aurelio-miranda.md`).
+[^pioneiros]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seções "A Primeira Turma – Os Desbravadores dos 50", "Aurélio Miranda: Rumo ao Sul de MT", "O Encontro de Aurélio e Adir", "O Nome Cruzeiro & Tostão", "Os Campeões do Festão", "O Final Prematuro do Trio" e "Discografia: Cruzeiro, Tostão, Guarany e Centavo".

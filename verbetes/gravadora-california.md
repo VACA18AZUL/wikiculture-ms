@@ -28,7 +28,7 @@ Uma contracapa de 1968 afirma que Mato Grosso estava entre os estados onde a Cal
 
 A gravadora trabalhava com contratos e também com discos pagos pelo próprio artista, como o de [[maciel-correa|Maciel Corrêa]], [[flor-da-saudade|*Flor da Saudade*]].[^pioneiros] Segundo [[benites|Benites]], o artista pagava músicos, passagem e estadia mesmo quando contratado.[^pioneiros] Segundo [[delinha|Delinha]], a gravadora levava os discos às rádios, e a dupla nunca pagou para gravar nem para se apresentar em programas.[^pioneiros]
 
-Segundo [[adail|Adail]], o dono vendeu depois matrizes a outras gravadoras, como a [[gravadora-copacabana|Copacabana]].[^pioneiros] Sobre a saída de [[delio-e-delinha|Délio e Delinha]] da gravadora, o livro traz duas versões. Segundo [[delio|Délio]], a Califórnia ficou descontente com o disco que a dupla gravou pela [[chantecler|Chantecler]] e depois se acertou com eles.[^pioneiros] Segundo [[delinha|Delinha]], a dupla Sulino e Marrueiro os fez sair, e Délio brigou com [[mario-vieira|Mário Vieira]].[^pioneiros]
+Segundo [[adail|Adail]], o dono vendeu depois matrizes a outras gravadoras, como a [[gravadora-copacabana|Copacabana]].[^pioneiros] Sobre a saída de [[delio-e-delinha|Délio e Delinha]] da gravadora, o livro traz duas versões. Segundo [[delio|Délio]], a Califórnia ficou descontente com o disco que a dupla gravou pela [[gravadora-chantecler|Chantecler]] e depois se acertou com eles.[^pioneiros] Segundo [[delinha|Delinha]], a dupla [[sulino-e-marrueiro|Sulino e Marrueiro]] os fez sair, e Délio brigou com [[mario-vieira|Mário Vieira]].[^pioneiros]
 
 ## Discografia
 

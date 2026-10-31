@@ -9,7 +9,7 @@ ficha:
   Órgão vinculado: Museu da Imagem e do Som (em 2011)
   Dirigente em 2024: Eduardo Mendes (diretor-presidente)
 status: rascunho
-atualizado: 2026-10-28
+atualizado: 2026-10-31
 ---
 
 A **Fundação de Cultura de Mato Grosso do Sul** (FCMS) foi criada em 1983, poucos anos depois da criação do estado, em 1979. A finalidade era definir ações diretas e indiretas no setor cultural.[^santos-fernandes]
@@ -24,7 +24,7 @@ Em 2011, o [[mis-ms|Museu da Imagem e do Som]] estava vinculado à Gerência de 
 
 Em 2024, a Fundação divulgou o calendário do setor pelo programa MS Cultural, com mais de R$ 176 milhões previstos para eventos culturais no ano. Eduardo Mendes era o diretor-presidente.[^cgn2024]
 
-A matéria registra que a Fundação mantém festivais anuais. Também informa que o governador prometeu a volta do "Campão Cultural", que não ocorreu em 2023.[^cgn2024]
+A matéria registra que a Fundação mantém festivais anuais. Também informa que o governador prometeu a volta do "[[campao-cultural|Campão Cultural]]", que não ocorreu em 2023.[^cgn2024]
 
 O Fundo de Investimentos Culturais (FIC) abre no primeiro quadrimestre, com R$ 14 milhões previstos para 2024.[^cgn2024]
 

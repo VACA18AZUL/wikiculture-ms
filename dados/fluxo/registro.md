@@ -126,3 +126,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-31T19:20Z | redator | gravadora-california | concluída | US$ 0.18 | modelo claude-sonnet-5-5
 2026-10-31T19:16Z | garimpeiro | garimpeiro | concluída | US$ 1.02 | modelo claude-sonnet-5-5
 2026-10-31T19:20Z | redator | crianceiras | concluída | US$ 0.70 | modelo claude-sonnet-5-5
+2026-10-31T19:24Z | fechamento | fechamento | concluída | US$ 4.12 | modelo claude-opus-5-5
