@@ -9,7 +9,7 @@ ficha:
   Atividade: Produção de cinejornais e de longa-metragem; exibição
   Produtora: Lahdo Produções Cinematográficas
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-10-31
 ---
 
 Os **Irmãos Lahdo**, Bernardo e Abud, foram produtores cinematográficos de Campo Grande, proprietários da Lahdo Produções Cinematográficas.[^campestrini]
@@ -26,7 +26,7 @@ A grafia do sobrenome varia na própria bibliografia: Diehl usa "Lahdo" no texto
 
 ## Filmografia
 
-- *Paralelos Trágicos* (1965 ou 1965-66) — longa-metragem de ficção, produzido pelos irmãos Lahdo. Diehl indica "1965-66" no texto e "1965" em citação de Pinheiro e Fischer (2008), na mesma obra. Conta a história de dois jovens que não conseguem viver uma paixão por causa das diferenças sociais.[^diehl37]
+- [[paralelos-tragicos|*Paralelos Trágicos*]] (1965 ou 1965-66) — longa-metragem de ficção, produzido pelos irmãos Lahdo. Diehl indica "1965-66" no texto e "1965" em citação de Pinheiro e Fischer (2008), na mesma obra. Conta a história de dois jovens que não conseguem viver uma paixão por causa das diferenças sociais.[^diehl37]
 - *Mato Grosso em Marcha* (a partir de 1958) — série de cinejornais da Lahdo Produções Cinematográficas.[^diehl36]
 
 [^diehl36]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 36. Acesso em 29 out. 2026.
