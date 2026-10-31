@@ -17,8 +17,7 @@ A **Gravadora Califórnia** foi um selo de música caipira com sede em São Paul
 
 ## Trajetória
 
-Segundo [[amambay-cantor|Amambay]], [[mario-vieira|Mário Vieira]] tocava no [[sexteto-da-lua|Sexteto da Lua]] e abriu o selo para gravar música caipira.[^pioneiros] O livro de [[rodrigo-teixeira|Rodrigo Teixeira]] não traz o ano de fundação nem o de encerramento da gravadora.[^pioneiros]
-
+Segundo [[amambay-cantor|Amambay]], [[mario-vieira|Mário Vieira]] tocava no [[sexteto-da-lua|Sexteto da Lua]] e abriu o selo para gravar música caipira.[^pioneiros]
 O selo lançou [[delio-e-delinha|Délio e Delinha]] na virada dos anos 1950, com o primeiro disco em 1959, e [[ze-correa|Zé Corrêa]] no fim dos anos 1960. Produziu discos de artistas do estado até o fim dos anos 1970.[^pioneiros]
 
 [[ze-correa|Zé Corrêa]] levou outros artistas para a gravadora, entre eles [[elinho-do-bandoneon|Elinho do Bandoneon]], [[jandira-e-benites|Jandira e Benites]], [[amambay-e-amambai|Amambay e Amambaí]] e [[curioso-e-barqueirinho|Curioso e Barqueirinho]].[^pioneiros] [[dino-rocha|Dino Rocha]] gravou com [[mario-vieira|Mário Vieira]], sem contrato, por intermédio de [[zacarias-mourao|Zacarias Mourão]].[^pioneiros] Também gravaram pelo selo [[adail-e-tesouro|Adail e Tesouro]], [[maciel-correa|Maciel Corrêa]] e, em 1978, [[cruzeiro-e-tostao|Cruzeiro e Tostão]].[^pioneiros]
@@ -29,7 +28,7 @@ Uma contracapa de 1968 afirma que Mato Grosso estava entre os estados onde a Cal
 
 A gravadora trabalhava com contratos e também com discos pagos pelo próprio artista, como o de [[maciel-correa|Maciel Corrêa]], [[flor-da-saudade|*Flor da Saudade*]].[^pioneiros] Segundo [[benites|Benites]], o artista pagava músicos, passagem e estadia mesmo quando contratado.[^pioneiros] Segundo [[delinha|Delinha]], a gravadora levava os discos às rádios, e a dupla nunca pagou para gravar nem para se apresentar em programas.[^pioneiros]
 
-Segundo [[adail|Adail]], o dono vendeu depois matrizes a outras gravadoras, como a [[gravadora-copacabana|Copacabana]].[^pioneiros] Segundo [[delio|Délio]], a Califórnia reagiu mal ao disco que a dupla gravou pela [[chantecler|Chantecler]].[^pioneiros]
+Segundo [[adail|Adail]], o dono vendeu depois matrizes a outras gravadoras, como a [[gravadora-copacabana|Copacabana]].[^pioneiros] Sobre a saída de [[delio-e-delinha|Délio e Delinha]] da gravadora, o livro traz duas versões. Segundo [[delio|Délio]], a Califórnia ficou descontente com o disco que a dupla gravou pela [[chantecler|Chantecler]] e depois se acertou com eles.[^pioneiros] Segundo [[delinha|Delinha]], a dupla Sulino e Marrueiro os fez sair, e Délio brigou com [[mario-vieira|Mário Vieira]].[^pioneiros]
 
 ## Discografia
 

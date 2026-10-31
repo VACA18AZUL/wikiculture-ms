@@ -101,3 +101,4 @@ Fontes descartadas e o motivo:
 - Entrou: os fatos do livro (pioneiros), em Trajetória, Funcionamento e Discografia; opiniões (Barbosa, contracapas, Délio, Delinha, Benites, Adail) atribuídas a quem as disse.
 - Ficou de fora: Recanto Caipira e Glossário (fontes fracas, não reabertas nesta rodada), incluindo a lista de LPs de Délio e Delinha e os códigos TC.
 - Incerto: fundação e encerramento da gravadora; verbete apoiado em fonte única (livro impresso, via fichas).
+- Rodada de devolução (31/10/2026): removida a frase sobre o livro não trazer datas de fundação e encerramento (as fichas são leituras de trechos). Divergência sobre a saída de Délio e Delinha registrada com as duas versões, segundo a ficha `delio-e-delinha`; a ficha não indica a seção da versão de Delinha, e a nota geral cita o livro.
