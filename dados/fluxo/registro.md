@@ -121,3 +121,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-31T19:16Z | pesquisador | guarany | concluída | US$ ? | modelo claude-sonnet-5-5
 2026-10-31T19:16Z | pesquisador | el-trio | concluída | US$ 0.23 | modelo claude-sonnet-5-5
 2026-10-31T19:16Z | pesquisador | ado | concluída | US$ 0.51 | modelo claude-sonnet-5-5
+2026-10-31T19:19Z | redator | tostao-e-guarany | concluída | US$ 0.18 | modelo claude-sonnet-5-5

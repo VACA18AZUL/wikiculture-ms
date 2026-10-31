@@ -26,8 +26,7 @@ atualizado: 2026-10-31
 
 Segundo *Os Pioneiros*, a dupla começou no fim de 1982. [[guarany|Guarany]] inverteu as vozes para fazer a primeira voz, e [[tostao|Tostão]] aprendeu a segunda.[^pioneiros] O *Correio do Estado* dá outra data: a dupla teria se formado em 1983.[^ce2011] Em junho de 2008, a mesma imprensa a descrevia como junta havia 25 anos, conta que combina com 1983.[^ce2008] A matéria de 2011 fala em 27 anos de carreira e, ao tratar do DVD, em 25 anos; a fonte não explica a diferença.[^ce2011] As versões ficam registradas sem escolha entre elas.
 
-A dupla gravou um compacto duplo e, depois, um disco com [[marcelo-mello|Marcelo Mello]]. Participaram do disco Robertinho (acordeon), Tupi (violão) e Herrera (harpa).[^pioneiros] Os shows de lançamento incluíram o [[circo-do-goiabinha|Circo do Goiabinha]] e um primeiro fim de semana no [[circo-do-carlao|Circo do Carlão]].[^pioneiros]
-
+A dupla gravou um compacto duplo e, depois, um disco com [[marcelo-mello|Marcelo Mello]]. Participaram do disco Robertinho (acordeon), Tupi (violão) e Herrera (harpa).[^pioneiros]
 ### Circos, ônibus e campanhas
 
 Sem espaço nos circos da cidade para os shows, [[tostao|Tostão]] montou o [[circo-teatro-tostao|Circo Teatro Tostão]] e o [[circo-rouxinois-do-brasil|Circo Rouxinóis do Brasil]]. O primeiro rodava os bairros de Campo Grande. Tostão atuou em dramas de circo.[^pioneiros]
@@ -40,11 +39,11 @@ A dupla se separou em 1992 ou 1993; o livro não decide entre os dois anos. [[to
 
 ### Apresentações a partir de 2008
 
-Em 5 de junho de 2008, a dupla se apresentou no 5º Sarau da [[praca-dos-imigrantes|Praça dos Imigrantes]], em Campo Grande, promovido pela [[fundac|Fundação Municipal de Cultura (Fundac)]], com entrada franca. Na ocasião, preparava a gravação de um CD/DVD ao vivo.[^ce2008]
+Em 5 de junho de 2008, o *Correio do Estado* anunciou show da dupla, a partir das 19h30, no 5º Sarau da [[praca-dos-imigrantes|Praça dos Imigrantes]], em Campo Grande, promovido pela [[fundac|Fundação Municipal de Cultura (Fundac)]], com entrada franca. Segundo a matéria, a dupla preparava a gravação de um CD/DVD ao vivo.[^ce2008]
 
 Em julho de 2011, o *Correio do Estado* informou que a dupla participava havia ao menos dez anos do programa [[viola-minha-viola|*Viola, minha Viola*]], da TV Cultura, a convite da apresentadora [[inezita-barroso|Inezita Barroso]]. [[guarany|Guarany]] descreve o programa como uma vitrine nacional. A dupla participaria da edição de 24 de julho, com reprise em 30 de julho. O repertório previsto incluía "Anjo bom" (Guarany), "[[estrada-de-chao|Estrada de chão]]" ([[aurelio-miranda|Aurélio Miranda]]), um pot-pourri do [[trio-parada-dura|Trio Parada Dura]] e "Aurora do mundo" (de [[goia|Goiá]]).[^ce2011]
 
-A mesma matéria diz que a dupla planejava lançar em Campo Grande, antes do fim de 2011, o DVD [[caipira-ao-digital|*Caipira ao digital*]], de 25 anos de carreira. Os convidados previstos eram [[aurelio-miranda|Aurélio Miranda]], [[ligia-mourao|Lígia Mourão]], Délia (com Delinho), o [[grupo-tradicao|Grupo Tradição]] e o Grupo Seis é D+. A fonte só anuncia o lançamento.[^ce2011]
+A mesma matéria diz que a dupla planejava lançar em Campo Grande, antes do fim de 2011, o DVD [[caipira-ao-digital|*Caipira ao digital*]], de 25 anos de carreira. Segundo a matéria, o DVD contou com a participação de [[aurelio-miranda|Aurélio Miranda]], [[ligia-mourao|Lígia Mourão]], Délia (com Delinho), do [[grupo-tradicao|Grupo Tradição]] e do Grupo Seis é D+. A fonte só anuncia o lançamento, previsto para o fim do ano; não confirma que ele saiu.[^ce2011]
 
 ## Discografia
 
@@ -60,6 +59,7 @@ A discografia do livro cita as gravadoras [[gravadora-universal-records|Universa
 
 - **Formação:** fim de 1982 em *Os Pioneiros*;[^pioneiros] 1983 no *Correio do Estado*.[^ce2011]
 - **Compacto:** a parte narrativa do livro cita a faixa "Já Decidi Que Te Amo" no compacto duplo, mas a discografia do compacto de 1984 lista outras quatro faixas. O livro também grafa "Marcelo Mello" no texto e "Marcel Mello" no crédito de produção.[^pioneiros]
+- **Disco após o compacto:** a parte narrativa do livro diz que o disco seguinte ao compacto foi feito com [[marcelo-mello|Marcelo Mello]]; a discografia do mesmo livro dá a produção e direção de *Luzes do Além* (1985) a Oscar Martins.[^pioneiros]
 - **Grafia do nome:** "Guarany" e "Guarani" aparecem no livro.[^pioneiros]
 
 [^pioneiros]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seções "A Primeira Turma – Os Desbravadores dos 50", "O Encontro de Aurélio e Adir", "Os Campeões do Festão", "O Final Prematuro do Trio", "A União de Tostão & Guarany", "O Compacto", "Os Donos do Circo", "Campanha Política" e "Discografia: Cruzeiro, Tostão, Guarany e Centavo". Lido pelas fichas em `dados/fontes/os-pioneiros/`.
