@@ -23,13 +23,13 @@ Ado conta que trabalhava como fotógrafo em Londrina em 1974 e voltou a Campo Gr
 
 Participou de um [[festao|Festão]], festival da [[tv-morena|TV Morena]], com a música "Gigante Adormecido", de [[zacarias-mourao|Zacarias Mourão]], e foi eliminado na primeira eliminatória.[^festao] Segundo Ado, uma música feita em parceria com Zacarias abriu o disco do trio com [[dino-rocha|Dino Rocha]] e [[amambay-e-amambai|Amambay]].[^personagem]
 
-## Cadeado de Ouro
+## [[cadeado-de-ouro|Cadeado de Ouro]]
 
 Amigo do dono do [[supermercado-dos-discos|Supermercado dos Discos]], Ado ouviu dele o pedido de um acordeonista chamamezeiro. Segundo o livro, dirigiu a gravação de *[[cadeado-de-ouro|Cadeado de Ouro]]*, de [[maciel-correa|Maciel Corrêa]], e acompanhou algumas faixas. Deu a Elício Maciel o nome artístico Maciel Corrêa, invertendo o nome do músico.[^cadeado] A discografia do livro credita a produção e a direção do disco de 1981 a [[marcilio-castioni|Marcílio Castioni]]. Maciel situa a gravação no fim de 1980, e o livro não concilia as versões.[^discmaciel][^cadeado]
 
 ## Divergências
 
-A seção de abertura do livro atribui *[[pula-pula-coracao|Pula Pula Coração]]* e *[[que-problema-tem|Que Problema Tem?]]* a [[ado-e-adail|Ado e Adail]]. A discografia e a seção "Ado & Adail" os atribuem a [[ado-e-praense|Ado e Praense]].[^abertura][^dupla][^disc]
+A seção de abertura do livro atribui *[[pula-pula-coracao|Pula Pula Coração]]* e *[[que-problema-tem|Que Problema Tem?]]* a [[ado-e-adail|Ado e Adail]]. A discografia e a seção "[[ado-e-adail|Ado & Adail]]" os atribuem a [[ado-e-praense|Ado e Praense]].[^abertura][^dupla][^disc]
 
 O livro não afirma em frase que todas as menções a "Ado" tratam da mesma pessoa. Este verbete as reúne por indícios, como Londrina e a coautoria de "Na Madrugada É Assim".[^ficha][^discmaciel]
 

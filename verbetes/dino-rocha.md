@@ -13,7 +13,7 @@ ficha:
   Apelido: Príncipe do Chamamé
   Grupos: 5 Nativos, Amambay e Amambaí, Os Filhos de Goiás
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-01
 ---
 
 **Dino Rocha**, nome artístico de Roaldo Rocha, é acordeonista e compositor de chamamé e polca de Mato Grosso do Sul. Nasceu em 23 de maio de 1951, na Fazenda Boqueirão, distrito de Juti.[^pioneiros-disc]
@@ -34,13 +34,13 @@ Trabalhava com dramas de circo. No circo de [[amambay-e-amambai|Amambay e Amamba
 
 ## Estilo e repercussão
 
-O livro de [[rodrigo-teixeira|Rodrigo Teixeira]] o aponta como principal representante do chamamé de sanfona "duetada" popularizado por [[ze-correa|Zé Corrêa]]. Diz também que ele, com a dupla [[delio-e-delinha|Délio & Delinha]], é o artista mais gravado de Mato Grosso do Sul.[^pioneiros-turma] A contracapa de *Chora Sanfona* diz que Zé Corrêa foi seu padrinho artístico e o chamava de Príncipe do Chamamé.[^pioneiros-disc]
+O livro de [[rodrigo-teixeira|Rodrigo Teixeira]] o aponta como principal representante do chamamé de sanfona "duetada" popularizado por [[ze-correa|Zé Corrêa]]. Diz também que ele, com a dupla [[delio-e-delinha|Délio & Delinha]], é o artista mais gravado de Mato Grosso do Sul.[^pioneiros-turma] A contracapa de *Chora Sanfona* diz que [[ze-correa|Zé Corrêa]] foi seu padrinho artístico e o chamava de Príncipe do Chamamé.[^pioneiros-disc]
 
 Há versões diferentes sobre o estilo. Dino diz que já tocava duetado antes de ouvir [[ze-correa|Zé Corrêa]]. [[amambai-cantor|Amambaí]] diz que ele tocava mais acompanhamento paraguaio e aprendeu o duetado com a dupla.[^pioneiros-estilo]
 
 ## Composições
 
-Zacarias fazia as letras e Dino, a música. Dessa parceria saiu "[[gaivota-pantaneira|Gaivota Pantaneira]]", citada no livro como clássico regional.[^pioneiros-batismo][^pioneiros-turma] Com Zacarias assina também "El Gaiteiro" e "O Menino do Chamamé". "Gaivota Pantaneira" volta em *Baile Correntino* (1985).[^pioneiros-disc] Aparece também numa seleção de polcas de [[los-tammys|Los Tammy's]] (1978).[^pioneiros-tammys] Tem ainda uma composição chamada "Antes do Boqueirão".[^pioneiros-cultura]
+Zacarias fazia as letras e Dino, a música. Dessa parceria saiu "[[gaivota-pantaneira|Gaivota Pantaneira]]", citada no livro como clássico regional.[^pioneiros-batismo][^pioneiros-turma] Com Zacarias assina também "El Gaiteiro" e "O Menino do Chamamé". "[[gaivota-pantaneira|Gaivota Pantaneira]]" volta em *Baile Correntino* (1985).[^pioneiros-disc] Aparece também numa seleção de polcas de [[los-tammys|Los Tammy's]] (1978).[^pioneiros-tammys] Tem ainda uma composição chamada "Antes do Boqueirão".[^pioneiros-cultura]
 
 Dirigiu o LP *Sereia Loira* (1974), de [[adail-e-tesouro|Adail e Tesouro]].[^pioneiros-adail]
 
@@ -56,7 +56,7 @@ O cabeçalho da seção do livro fala em 18 LPs e 8 CDs. A seção lista nove LP
 - *Caraí Piano* (1982) — LP; SALP; produção e direção de [[pedro-carmona|Pedro Carmona]].[^pioneiros-disc]
 - *Baile Correntino* (1985) — LP; [[gravadora-discos-e-fitas-xaraes|Xaraés]]; produção e direção de [[alex-queiroz|Alex R. Queiroz]].[^pioneiros-disc]
 - *Um Amigo Chamamé* (1987) — LP; [[gravadora-brasidisc|Brasidisc]]; produção e direção de Osmar Zan e Da Silva.[^pioneiros-disc]
-- *Baile Pantaneiro* (1995) — LP; [[gravadora-saua|Sauá]]; produção de [[guilherme-rondon|Guilherme Rondon]] e Hamilton Griecco; direção de Guilherme Rondon.[^pioneiros-disc]
+- *Baile Pantaneiro* (1995) — LP; [[gravadora-saua|Sauá]]; produção de [[guilherme-rondon|Guilherme Rondon]] e Hamilton Griecco; direção de [[guilherme-rondon|Guilherme Rondon]].[^pioneiros-disc]
 
 Participações em discos de [[amambay-e-amambai|Amambay e Amambaí]]: [[voltei-amor|*Voltei Amor*]] (1973, várias faixas), [[os-mesticos|*Os Mestiços*]] (1979, participação) e [[os-filhos-da-terra|*Os Filhos da Terra*]] (1982) e [[os-filhos-da-terra-gastando-com-elas|*Os Filhos da Terra – Gastando Com Elas*]] (1985), os dois com [[ado|Ado]].[^pioneiros-amambay]
 

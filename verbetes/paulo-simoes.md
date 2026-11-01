@@ -7,7 +7,7 @@ ficha:
   Atividade: Compositor, cantor e instrumentista
   Naturalidade: Rio de Janeiro
 status: rascunho
-atualizado: 2026-10-30
+atualizado: 2026-11-01
 ---
 
 **Paulo Simões** é um compositor, cantor e instrumentista de Mato Grosso do Sul, nascido no Rio de Janeiro e criado em Campo Grande.[^acritica2026][^cgn2021]
@@ -32,7 +32,7 @@ Em novembro de 2021, a imprensa noticiou seu retorno aos palcos depois de um int
 
 Em 10 de novembro de 2021, o *Campo Grande News* anunciou a turnê "[[sonhos-guaranis|Sonhos Guaranis]]", com datas em Corumbá (19 de novembro), Dourados (26 de novembro) e Ponta Porã (27 de novembro). O elenco previsto incluía a cantora [[maria-alice|Maria Alice]], os dançarinos Ana Vieira e Érico Bispo (cururu e siriri) e banda. Em cada cidade, no dia do show, estava programada uma conversa aberta sobre sua carreira, chamada "Diálogos Musicais".[^cgn2021]
 
-Em 2024, [[maria-alice|Maria Alice]] fez a turnê "Maria Alice canta Paulo Simões", em tributo a ele. Segundo a matéria de 16 de novembro, a turnê já havia passado por Corumbá, Bonito, Dourados e Ivinhema. O show em Campo Grande estava programado para 22 de novembro, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], com participação anunciada de Paulo Simões.[^cgn2024]
+Em 2024, [[maria-alice|Maria Alice]] fez a turnê "[[maria-alice|Maria Alice]] canta Paulo Simões", em tributo a ele. Segundo a matéria de 16 de novembro, a turnê já havia passado por Corumbá, Bonito, Dourados e Ivinhema. O show em Campo Grande estava programado para 22 de novembro, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], com participação anunciada de Paulo Simões.[^cgn2024]
 
 O show "[[trem-do-pantanal-50-anos|Trem do Pantanal]] | 50 Anos" estava marcado, segundo a matéria de 10 de abril de 2026, para 16 de abril de 2026, no [[sesc-teatro-prosa|Sesc Teatro Prosa]], em Campo Grande. Abre uma retrospectiva da carreira e antecipa um álbum ao vivo previsto para 2026.[^acritica2026]
 

@@ -9,7 +9,7 @@ ficha:
   Atividade: Música (canto e composição)
   Parcerias: Almir Sater, Sérgio Reis, Fagner, Xangai, Paulo Simões, Geraldo Roca
 status: rascunho
-atualizado: 2026-10-30
+atualizado: 2026-11-01
 ---
 
 **Renato Teixeira** é um cantor e compositor brasileiro. O Dicionário Cravo Albin da Música Popular Brasileira registra seu nome completo como Renato Teixeira de Oliveira e o nascimento em 20 de maio de 1945, em Santos (SP).[^dmpb]
@@ -38,7 +38,7 @@ O Dicionário aponta [[almir-sater|Almir Sater]] como seu parceiro mais frequent
 
 Com Sater e [[paulo-simoes|Paulo Simões]], é coautor de "[[assim-os-dias-passarao|Assim os Dias Passarão]]", canção que remete à partida de [[geraldo-roca|Geraldo Roca]] e tocou no último capítulo da novela [[pantanal-novela|*Pantanal*]].[^cgn2022] A mesma matéria diz que "[[d-de-destino|D de Destino]]" abriu o show de Sater em Campo Grande, em 12 de novembro de 2022, e a atribui a Sater em parceria com Teixeira.[^cgn2022]
 
-### Geraldo Roca e "Trem do Pantanal"
+### [[geraldo-roca|Geraldo Roca]] e "[[trem-do-pantanal|Trem do Pantanal]]"
 
 Segundo o Campo Grande News, Teixeira era amigo próximo de [[geraldo-roca|Geraldo Roca]] e de [[paulo-simoes|Paulo Simões]]. Canta "[[trem-do-pantanal|Trem do Pantanal]]" em todos os shows em homenagem a Roca. A reportagem diz que ele não chegou a gravar a canção. Na mesma matéria, Teixeira lamenta ter perdido a chance de gravá-la antes de Sater e diz que a gravou com Roca.[^cgn2025b]
 
@@ -48,7 +48,7 @@ Em dezembro de 2015, o jornal informou que Roca deixara pronto um CD em dupla co
 
 Em 25 de agosto de 2022, apresentou-se no show "[[saudacoes-pantaneiras-2022|Saudações Pantaneiras]]", na Praça do Rádio Clube, em Campo Grande, nas comemorações dos 123 anos da cidade, com [[geraldo-espindola|Geraldo Espíndola]] e [[marcelo-loureiro|Marcelo Loureiro]]. A entrada foi gratuita e o início, às 18h30. O repertório anunciado incluía "Romaria", "Frete" e "[[tocando-em-frente|Tocando em Frente]]".[^cgn2022c][^cgn2022d]
 
-Em 17 de setembro de 2017, o Campo Grande News noticiou o show "Tocando em Frente", com Sater e [[sergio-reis|Sérgio Reis]], previsto para Campo Grande em dezembro daquele ano. A matéria não confirmava a data.[^cgn2017b] No programa [[altas-horas|Altas Horas]], exibido em 22 de outubro de 2022, cantou com Sater "[[tocando-em-frente|Tocando em Frente]]", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]".[^cgn2022b]
+Em 17 de setembro de 2017, o Campo Grande News noticiou o show "[[tocando-em-frente|Tocando em Frente]]", com Sater e [[sergio-reis|Sérgio Reis]], previsto para Campo Grande em dezembro daquele ano. A matéria não confirmava a data.[^cgn2017b] No programa [[altas-horas|Altas Horas]], exibido em 22 de outubro de 2022, cantou com Sater "[[tocando-em-frente|Tocando em Frente]]", "Um Violeiro Toca" e "[[d-de-destino|D de Destino]]".[^cgn2022b]
 
 ## Prêmios
 

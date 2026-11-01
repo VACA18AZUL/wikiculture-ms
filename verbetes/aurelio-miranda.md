@@ -9,7 +9,7 @@ ficha:
   Atividade: Cantor e compositor
   Grupos: Cigano e Ciganinho; Cruzeiro e Tostão; Cruzeiro, Tostão e Centavo
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-01
 ---
 
 **Aurélio Miranda** (Mutum, 5 de março de 1950) é cantor e compositor de música sertaneja, com carreira iniciada em Cuiabá e desenvolvida em Mato Grosso do Sul.[^pioneiros]
@@ -22,21 +22,21 @@ Por volta de 1969, chegou a Coxim. Cantou em Rio Verde e, em Campo Grande, no [[
 
 Em 1974, trabalhou na [[radio-cultura-de-jales|Rádio Cultura de Jales]]. Voltou definitivamente a Campo Grande em 1977.[^pioneiros]
 
-### Dupla e trio com Tostão
+### Dupla e trio com [[tostao|Tostão]]
 
-Por volta de 1977, formou dupla com [[tostao|Tostão]] (Adir), a quem, segundo o livro, ensinou a cantar e a tocar violão. Em 1978, levou a dupla a [[delinha|Delinha]], que apadrinhou a gravação feita na [[gravadora-california|Califórnia]]. A dupla [[cruzeiro-e-tostao|Cruzeiro e Tostão]] teve sucesso com *Menina Rica* e, segundo Aurélio, montou depois um circo. Tostão liga o [[circo-teatro-tostao|Circo Teatro Tostão]] à dupla que formou com [[guarany|Guarany]].[^pioneiros]
+Por volta de 1977, formou dupla com [[tostao|Tostão]] (Adir), a quem, segundo o livro, ensinou a cantar e a tocar violão. Em 1978, levou a dupla a [[delinha|Delinha]], que apadrinhou a gravação feita na [[gravadora-california|Califórnia]]. A dupla [[cruzeiro-e-tostao|Cruzeiro e Tostão]] teve sucesso com *Menina Rica* e, segundo Aurélio, montou depois um circo. [[tostao|Tostão]] liga o [[circo-teatro-tostao|Circo Teatro Tostão]] à dupla que formou com [[guarany|Guarany]].[^pioneiros]
 
 Aurélio também cantou no trio [[cruzeiro-tostao-e-centavo|Cruzeiro, Tostão e Centavo]].[^pioneiros] Após uma discussão com o diretor da [[gravadora-chantecler|Chantecler]], em São Paulo, o trio perdeu o contrato. A parceria terminou em 1982.[^pioneiros]
 
-### Festão
+### [[festao|Festão]]
 
 No 1º [[festao|Festão]] (1979), segundo o livro, [[estrada-de-chao|*Estrada de Chão*]] venceu e [[lavrador-rei-sem-coroa|*Lavrador Rei Sem Coroa*]] ficou em segundo lugar. [[onesimo-filho|Onésimo Filho]] atribui os dois primeiros lugares a Aurélio. [[tostao|Tostão]] diz que o grupo se apresentou como trio, e não como Aurélio sozinho.[^pioneiros]
 
-No 2º [[festao|Festão]], segundo [[tostao|Tostão]], o trio [[cruzeiro-tostao-e-guarany|Cruzeiro, Tostão e Guarany]], formado por Aurélio, Tostão e [[orlei|Orlei]], ganhou com [[fogo-humano|*Fogo Humano*]]. O prêmio foi um carro.[^pioneiros]
+No 2º [[festao|Festão]], segundo [[tostao|Tostão]], o trio [[cruzeiro-tostao-e-guarany|Cruzeiro, Tostão e Guarany]], formado por Aurélio, [[tostao|Tostão]] e [[orlei|Orlei]], ganhou com [[fogo-humano|*Fogo Humano*]]. O prêmio foi um carro.[^pioneiros]
 
 ## Obras
 
-[[estrada-de-chao|*Estrada de Chão*]] é citada no livro como clássico regional e atribuída a Aurélio Miranda. [[tostao|Tostão]] diz, em depoimento ao mesmo livro, que o trio finalizou a canção em conjunto e queria o crédito.[^pioneiros] *Estrada de Chão* e *Minha Doce Poxoréu* aparecem em mais de um disco.[^pioneiros]
+[[estrada-de-chao|*Estrada de Chão*]] é citada no livro como clássico regional e atribuída a Aurélio Miranda. [[tostao|Tostão]] diz, em depoimento ao mesmo livro, que o trio finalizou a canção em conjunto e queria o crédito.[^pioneiros] *[[estrada-de-chao|Estrada de Chão]]* e *Minha Doce Poxoréu* aparecem em mais de um disco.[^pioneiros]
 
 Aurélio assina a maior parte das faixas dos discos de [[cruzeiro-e-tostao|Cruzeiro e Tostão]] (1978-1979), de [[tostao-e-guarany|Tostão e Guarany]] (1985) e do LP de 1988. O cabeçalho da discografia do livro indica 3 LPs e 3 CDs.[^pioneiros]
 

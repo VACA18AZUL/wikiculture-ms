@@ -9,7 +9,7 @@ ficha:
   Integrantes: Ermídio Umar (Amambay ou Amambai) e Cecílio da Silva (Amambaí)
   Gênero: Chamamé, polca paraguaia, guarânia, bolero e tango correntino
 status: rascunho
-atualizado: 2026-10-30
+atualizado: 2026-11-01
 ---
 
 **Amambay e Amambaí** é uma dupla de música sertaneja e chamamé de Mato Grosso do Sul, formada por Ermídio Umar e Cecílio da Silva, apontada pela imprensa local como pioneira da música sertaneja no estado.[^cgn2016]
@@ -24,13 +24,13 @@ O livro traz o nome civil de Umar como Ermídio Umar e, em outro trecho, como [[
 
 ### Antes da dupla
 
-Segundo o livro, [[amambai-cantor|Cecílio da Silva]] formou em 1947, aos 10 anos, a dupla [[campanha-e-corumba|Campanha e Corumbá]], que tocava na [[radio-difusora-de-aquidauana|Rádio Difusora de Aquidauana]]. Depois formou a dupla [[garimpo-e-garimpeiro|Garimpo e Garimpeiro]], que ganhou concursos.[^pioA] [^pioB] O *Correio do Estado* atribui a formação da dupla Campanha e Corumbá, em 1947, a Ermídio Umar, que o próprio jornal diz ter nascido em 1940.[^ce2022]
+Segundo o livro, [[amambai-cantor|Cecílio da Silva]] formou em 1947, aos 10 anos, a dupla [[campanha-e-corumba|Campanha e Corumbá]], que tocava na [[radio-difusora-de-aquidauana|Rádio Difusora de Aquidauana]]. Depois formou a dupla [[garimpo-e-garimpeiro|Garimpo e Garimpeiro]], que ganhou concursos.[^pioA] [^pioB] O *Correio do Estado* atribui a formação da dupla [[campanha-e-corumba|Campanha e Corumbá]], em 1947, a Ermídio Umar, que o próprio jornal diz ter nascido em 1940.[^ce2022]
 
 Segundo o livro, [[amambay-cantor|Ermídio Umar]] formou em 1955, aos 15 anos, a dupla [[alvarenga-e-umar|Alvarenga e Umar]], com [[carlos-alvarenga|Carlos Alvarenga]]. A dupla gravou um LP pela [[gravadora-philips|Philips]], que quase não saiu por causa da passagem do disco de 78 para 33 rotações. Depois do fim da dupla, Umar conseguiu gravar pela [[gravadora-california|Califórnia]] por intermédio de [[zacarias-mourao|Zacarias Mourão]].[^pioA] A matéria do *Campo Grande News* de 2016 também situa o início de Umar, aos 15 anos, na dupla com Alvarenga.[^cgn2016]
 
 ### Formação da dupla
 
-Segundo o livro, a dupla se formou depois de 1956, quando [[amambai-cantor|Amambaí]] conheceu Umar, e o nome foi sugerido por [[zacarias-mourao|Zacarias Mourão]].[^pioB] O *Correio do Estado* dá outra versão: a dupla se formou na década de 1960, depois de os dois se conhecerem numa festa de casamento.[^ce2022] Na seção "Início", [[amambay-cantor|Amambay]] diz ter formado a dupla com [[carlos-alvarenga|Carlos Alvarenga]] e que os dois foram testar-se em São Paulo, de trem. O livro chama a dupla com Alvarenga de [[alvarenga-e-umar|Alvarenga e Umar]] em outras seções e não diz que Alvarenga tenha sido o Amambaí.[^pioInicio]
+Segundo o livro, a dupla se formou depois de 1956, quando [[amambai-cantor|Amambaí]] conheceu Umar, e o nome foi sugerido por [[zacarias-mourao|Zacarias Mourão]].[^pioB] O *Correio do Estado* dá outra versão: a dupla se formou na década de 1960, depois de os dois se conhecerem numa festa de casamento.[^ce2022] Na seção "Início", [[amambay-cantor|Amambay]] diz ter formado a dupla com [[carlos-alvarenga|Carlos Alvarenga]] e que os dois foram testar-se em São Paulo, de trem. O livro chama a dupla com Alvarenga de [[alvarenga-e-umar|Alvarenga e Umar]] em outras seções e não diz que Alvarenga tenha sido o [[amambai-cantor|Amambaí]].[^pioInicio]
 
 ### Rádio, circo e palcos
 
@@ -42,13 +42,13 @@ Segundo a matéria de 2016, Amambai participou, em três capítulos, da novela [
 
 ### Trios
 
-Segundo [[amambay-cantor|Amambay]], em 1961 a dupla formou um trio com [[elinho-do-bandoneon|Elinho do Bandoneon]], que tocava na [[radio-educacao-rural|Rádio Educação Rural]]; a formação parou em 1964, e [[ze-correa|Zé Corrêa]] passou a tocar com a dupla.[^pioA] [^pioVoo] Outro depoente do livro diz que Zé Corrêa só voltou de Santos em 1965.[^pioVoo] A matéria de 2016, por sua vez, diz que Zé Corrêa convidou a dupla em 1969 para formar um trio, e as fontes não esclarecem se 1969 marca o início do trio ou o disco.[^cgn2016]
+Segundo [[amambay-cantor|Amambay]], em 1961 a dupla formou um trio com [[elinho-do-bandoneon|Elinho do Bandoneon]], que tocava na [[radio-educacao-rural|Rádio Educação Rural]]; a formação parou em 1964, e [[ze-correa|Zé Corrêa]] passou a tocar com a dupla.[^pioA] [^pioVoo] Outro depoente do livro diz que [[ze-correa|Zé Corrêa]] só voltou de Santos em 1965.[^pioVoo] A matéria de 2016, por sua vez, diz que [[ze-correa|Zé Corrêa]] convidou a dupla em 1969 para formar um trio, e as fontes não esclarecem se 1969 marca o início do trio ou o disco.[^cgn2016]
 
-O trio com [[ze-correa|Zé Corrêa]] gravou [[a-mato-grossense|*A Mato-grossense*]] em 1969, faixa do segundo disco de Zé Corrêa, [[o-idolo-de-mato-grosso|*O Ídolo de Mato Grosso*]] (Califórnia). A dupla regravou a canção no disco do trio, [[os-mensageiros-de-mato-grosso|*Os Mensageiros de Mato Grosso*]], que levou depois a um LP da dupla. Os três usaram figurino gaúcho criado por Zé Corrêa na capa.[^pioMato] Segundo o livro, o disco de 1969 influenciou os trios de dois violões e sanfona.[^pioB] O *Correio do Estado* diz que a projeção da dupla veio ao participar de um disco de Zé Corrêa e que, com o sucesso, foi convidada a gravar em formato de trio.[^ce2022]
+O trio com [[ze-correa|Zé Corrêa]] gravou [[a-mato-grossense|*A Mato-grossense*]] em 1969, faixa do segundo disco de [[ze-correa|Zé Corrêa]], [[o-idolo-de-mato-grosso|*O Ídolo de Mato Grosso*]] (Califórnia). A dupla regravou a canção no disco do trio, [[os-mensageiros-de-mato-grosso|*Os Mensageiros de Mato Grosso*]], que levou depois a um LP da dupla. Os três usaram figurino gaúcho criado por [[ze-correa|Zé Corrêa]] na capa.[^pioMato] Segundo o livro, o disco de 1969 influenciou os trios de dois violões e sanfona.[^pioB] O *Correio do Estado* diz que a projeção da dupla veio ao participar de um disco de Zé Corrêa e que, com o sucesso, foi convidada a gravar em formato de trio.[^ce2022]
 
-Segundo o livro, [[ze-correa|Zé Corrêa]] levou a dupla para gravar na Califórnia.[^pioApres] [[amambay-cantor|Amambay]] diz ter feito três discos com Zé Corrêa e depois gravado com [[dino-rocha|Dino Rocha]].[^pioLegado]
+Segundo o livro, [[ze-correa|Zé Corrêa]] levou a dupla para gravar na Califórnia.[^pioApres] [[amambay-cantor|Amambay]] diz ter feito três discos com [[ze-correa|Zé Corrêa]] e depois gravado com [[dino-rocha|Dino Rocha]].[^pioLegado]
 
-### Dino Rocha
+### [[dino-rocha|Dino Rocha]]
 
 [[dino-rocha|Dino Rocha]] tocou com a dupla na [[exposicao-de-rio-verde|Exposição de Rio Verde]], e com ela gravou o disco [[voltei-amor|*Voltei Amor*]].[^pioDino] Foi acordeonista da dupla de dezembro de 1972 a cerca de 1976, quando foi emprestado ao grupo [[os-filhos-de-goias|Os Filhos de Goiás]].[^pioFilhos]
 
@@ -56,7 +56,7 @@ Segundo o livro, [[ze-correa|Zé Corrêa]] levou a dupla para gravar na Califór
 
 Segundo o livro, a dupla cantava boleros, guarânias e tango correntino em português, castelhano e guarani, o que a obra apresenta como novidade diante das duplas caipiras de São Paulo.[^pioA] A imprensa registra repertório de chamamé, polca paraguaia e guarânia, com apresentações em Mato Grosso do Sul, na Bolívia, no Paraguai e na Argentina, e descreve o som como dançante, com harpa e acordeom.[^cgn2016] [^cgn2022a]
 
-Segundo depoimento de [[amambay-cantor|Amambay]], a dupla lançou o estilo chamamé em Mato Grosso já no primeiro disco, de 1969, o que é afirmação do próprio artista.[^pioA] O filho de Amambai o descreveu, em 2022, como um dos precursores do chamamé sul-mato-grossense.[^cgn2022b] O *Correio do Estado* trata a dupla como ícone da música sertaneja de Mato Grosso do Sul e diz que ela gravou o primeiro chamamé em castelhano registrado no Brasil.[^ce2022] Amambay diz que o disco de 1977, da [[gravadora-continental|Continental]], trazia [[vila-guilhermina|*Vila Guilhermina*]], que ele aponta como o primeiro chamamé em castelhano gravado no Brasil; o livro não diz qual álbum da lista traz a faixa nem dá a autoria.[^pioA] A matéria de 2016 cita o disco de 1977 com o sucesso "Vila Guilhermina".[^cgn2016]
+Segundo depoimento de [[amambay-cantor|Amambay]], a dupla lançou o estilo chamamé em Mato Grosso já no primeiro disco, de 1969, o que é afirmação do próprio artista.[^pioA] O filho de Amambai o descreveu, em 2022, como um dos precursores do chamamé sul-mato-grossense.[^cgn2022b] O *Correio do Estado* trata a dupla como ícone da música sertaneja de Mato Grosso do Sul e diz que ela gravou o primeiro chamamé em castelhano registrado no Brasil.[^ce2022] [[amambay-cantor|Amambay]] diz que o disco de 1977, da [[gravadora-continental|Continental]], trazia [[vila-guilhermina|*Vila Guilhermina*]], que ele aponta como o primeiro chamamé em castelhano gravado no Brasil; o livro não diz qual álbum da lista traz a faixa nem dá a autoria.[^pioA] A matéria de 2016 cita o disco de 1977 com o sucesso "[[vila-guilhermina|Vila Guilhermina]]".[^cgn2016]
 
 ## Fim da dupla e mortes
 
@@ -81,7 +81,7 @@ O livro lista 12 discos de 1969 a 1990 na seção de discografia, a partir dos e
 - [[beco-dos-apaixonados|*Beco dos Apaixonados*]] (1985) — LP, [[gravadora-arco-iris-discos|Arco Íris Discos]]; creditado ao grupo [[os-tigres-amambai-rondineli-e-maciel-correa|Os Tigres]], formado por [[amambai-cantor|Amambaí]], [[rondineli|Rondineli]] e [[maciel-correa|Maciel Corrêa]].[^pioD]
 - [[amambay-e-amambai-1990|*Amambay e Amambaí*]] (1990) — LP, [[gravadora-som-de-cristal|Som de Cristal]].[^pioD]
 
-O livro cita o acervo de [[amambai-cantor|Amambaí]] como fonte da maioria dos discos da dupla. Amambaí assina como compositor faixas como *Rei do Gado*, *Recanto Feliz* e *O Botiqueiro*, e aparece como autor também com [[dino-rocha|Dino Rocha]] e [[tony-mendes|Tony Mendes]]. [[zacarias-mourao|Zacarias Mourão]] e Dino Rocha igualmente figuram como autores nos discos. Quando só o nome artístico aparece, o livro não esclarece qual integrante assina a faixa.[^pioD]
+O livro cita o acervo de [[amambai-cantor|Amambaí]] como fonte da maioria dos discos da dupla. [[amambai-cantor|Amambaí]] assina como compositor faixas como *Rei do Gado*, *Recanto Feliz* e *O Botiqueiro*, e aparece como autor também com [[dino-rocha|Dino Rocha]] e [[tony-mendes|Tony Mendes]]. [[zacarias-mourao|Zacarias Mourão]] e [[dino-rocha|Dino Rocha]] igualmente figuram como autores nos discos. Quando só o nome artístico aparece, o livro não esclarece qual integrante assina a faixa.[^pioD]
 
 [^pioA]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Amambay & Amambaí" (lida pelas fichas em `dados/fontes/os-pioneiros/fichas/`; o livro não tem paginação no arquivo de origem).
 [^pioB]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "A Primeira Turma – Os Desbravadores dos 50".

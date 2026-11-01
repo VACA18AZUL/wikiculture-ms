@@ -47,7 +47,7 @@ Outra matéria registra que a canção participou do [[fessul|Fesul]] em 1980 e 
 
 ## Gravações e regravações
 
-Segundo o Campo Grande News, [[diana-pequeno|Diana Pequeno]] foi a primeira a gravar a canção, em 1982, sem grande repercussão comercial.[^cgn2025b] A Rádio Senado diz que a cantora lançou em 1981, pela RCA, o LP *Sinal de Amor*, com a canção entre as faixas.[^senado2017] Um cadastro de discografia também lista o LP *Sinal de Amor* (RCA Victor, 1981), sem as faixas.[^slipcue] As fontes diferem, portanto, quanto ao ano da gravação de Diana Pequeno (1981 ou 1982).
+Segundo o Campo Grande News, [[diana-pequeno|Diana Pequeno]] foi a primeira a gravar a canção, em 1982, sem grande repercussão comercial.[^cgn2025b] A Rádio Senado diz que a cantora lançou em 1981, pela RCA, o LP *Sinal de Amor*, com a canção entre as faixas.[^senado2017] Um cadastro de discografia também lista o LP *Sinal de Amor* (RCA Victor, 1981), sem as faixas.[^slipcue] As fontes diferem, portanto, quanto ao ano da gravação de [[diana-pequeno|Diana Pequeno]] (1981 ou 1982).
 
 O mesmo jornal diz que [[almir-sater|Almir Sater]] a gravou em 1982, no disco de estreia dele, e que essa versão a tornou conhecida no país.[^cgn2025b] O Dicionário Cravo Albin, por sua vez, situa o primeiro disco de Sater em 1981, pela Continental, e lista *Doma* (RGE) em 1982; nenhuma das fontes lidas diz em qual disco a canção está.[^cravosater] Segundo Roca, o auge veio quando Sater a tocou repetidas vezes no programa de [[rolando-boldrin|Rolando Boldrin]], e a novela [[pantanal-novela|*Pantanal*]] também ajudou na difusão.[^cgn2025b]
 

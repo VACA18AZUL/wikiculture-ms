@@ -31,17 +31,17 @@ A programação anunciada foi esta:[^cgn2024a][^cgn2024b]
 - 25 de março, 18h: [[el-trio|El Trio]], no Terminal de Ônibus Moreninhas.
 - 26 de março, 18h: [[urbem|Urbem]], no Terminal de Ônibus Nova Bahia.
 - 27 de março, 18h: [[barah-trio|Barah Trio]], no Ponto de Integração Hércules Maymone.
-- 28 de março, 19h: cerimônia de abertura e [[edu-ribeiro-trio|Edu Ribeiro Trio]] (São Paulo), no Armazém Cultural.
-- 29 de março, 19h: [[urbem|Urbem]] e o trombonista [[ryan-keberle|Ryan Keberle]] (Nova York, Estados Unidos), no Armazém Cultural.
+- 28 de março, 19h: cerimônia de abertura e [[edu-ribeiro-trio|Edu Ribeiro Trio]] (São Paulo), no [[armazem-cultural|Armazém Cultural]].
+- 29 de março, 19h: [[urbem|Urbem]] e o trombonista [[ryan-keberle|Ryan Keberle]] (Nova York, Estados Unidos), no [[armazem-cultural|Armazém Cultural]].
 - 30 de março, 10h: atividade com o [[ddg4|DDG4]] (São Paulo) no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].
-- 30 de março, 19h: show de [[antonio-porto|Antônio Porto]] e do [[ddg4|DDG4]], no Armazém Cultural.
-- 31 de março, 19h: [[katie-thiroux-trio|Katie Thiroux Trio]] (Califórnia, Estados Unidos), homenagem a [[miguel-tatoon|Miguel Tatoon]] e [[el-trio|El Trio]], no Armazém Cultural.
+- 30 de março, 19h: show de [[antonio-porto|Antônio Porto]] e do [[ddg4|DDG4]], no [[armazem-cultural|Armazém Cultural]].
+- 31 de março, 19h: [[katie-thiroux-trio|Katie Thiroux Trio]] (Califórnia, Estados Unidos), homenagem a [[miguel-tatoon|Miguel Tatoon]] e [[el-trio|El Trio]], no [[armazem-cultural|Armazém Cultural]].
 
-A atividade da manhã de 30 de março é chamada de "Café Musical" na matéria de 13 de março, que a descreve como forma de aproximar público, estudantes e interessados dos músicos, e de "Brunch – DDG4" na de 25 de março.[^cgn2024a][^cgn2024b] As duas fontes descrevem a programação anunciada; nenhuma relata como o festival transcorreu.[^cgn2024a][^cgn2024b]
+A atividade da manhã de 30 de março é chamada de "Café Musical" na matéria de 13 de março, que a descreve como forma de aproximar público, estudantes e interessados dos músicos, e de "Brunch – [[ddg4|DDG4]]" na de 25 de março.[^cgn2024a][^cgn2024b] As duas fontes descrevem a programação anunciada; nenhuma relata como o festival transcorreu.[^cgn2024a][^cgn2024b]
 
 ## Homenagens
 
-Segundo a matéria de 13 de março, o primeiro homenageado do festival é [[miguel-tatoon|Miguel Tatoon Barrera]], pianista, guitarrista e baterista que lançou em 1992 o primeiro disco de jazz gravado no estado e tocou nas bandas The Mini Boys e Zutrik. A homenagem estava prevista para 31 de março. A mesma matéria cita [[antonio-porto|Antônio Porto]], multi-instrumentista sul-mato-grossense, como influência para a cena de jazz de Campo Grande nos anos 1990, e lista para ele apenas um show com o DDG4 em 30 de março.[^cgn2024a]
+Segundo a matéria de 13 de março, o primeiro homenageado do festival é [[miguel-tatoon|Miguel Tatoon Barrera]], pianista, guitarrista e baterista que lançou em 1992 o primeiro disco de jazz gravado no estado e tocou nas bandas The Mini Boys e [[zutrik|Zutrik]]. A homenagem estava prevista para 31 de março. A mesma matéria cita [[antonio-porto|Antônio Porto]], multi-instrumentista sul-mato-grossense, como influência para a cena de jazz de Campo Grande nos anos 1990, e lista para ele apenas um show com o [[ddg4|DDG4]] em 30 de março.[^cgn2024a]
 
 A matéria de 25 de março apresenta o show de 30 de março como concerto em homenagem a [[antonio-porto|Antônio Porto]].[^cgn2024b] As duas versões ficam registradas, sem escolha entre elas.
 
@@ -50,5 +50,5 @@ A matéria de 25 de março apresenta o show de 30 de março como concerto em hom
 - [Capital ganha 1º Festival de Jazz com shows até em terminais de ônibus](https://www.campograndenews.com.br/lado-b/diversao/capital-ganha-1o-festival-de-jazz-com-shows-ate-em-terminais-de-onibus) — matéria de apresentação, com a programação.
 - [Festival de Jazz começa hoje com espetáculo no Terminal Moreninhas](https://www.campograndenews.com.br/lado-b/diversao/festival-de-jazz-comeca-hoje-com-espetaculo-no-terminal-moreninhas) — matéria do dia da abertura.
 
-[^cgn2024a]: Thailla Torres, ["Capital ganha 1º Festival de Jazz com shows até em terminais de ônibus"](https://www.campograndenews.com.br/lado-b/diversao/capital-ganha-1o-festival-de-jazz-com-shows-ate-em-terminais-de-onibus), *Campo Grande News*, Lado B, 13 mar. 2024.
-[^cgn2024b]: Thailla Torres, ["Festival de Jazz começa hoje com espetáculo no Terminal Moreninhas"](https://www.campograndenews.com.br/lado-b/diversao/festival-de-jazz-comeca-hoje-com-espetaculo-no-terminal-moreninhas), *Campo Grande News*, Lado B, 25 mar. 2024.
+[^cgn2024a]: Thailla Torres, ["Capital ganha 1º Festival de Jazz com shows até em terminais de ônibus"](https://www.campograndenews.com.br/lado-b/diversao/capital-ganha-1o-festival-de-jazz-com-shows-ate-em-terminais-de-onibus), *Campo Grande News*, Lado B, 13 mar. 2024. Acesso em 1 nov. 2026.
+[^cgn2024b]: Thailla Torres, ["Festival de Jazz começa hoje com espetáculo no Terminal Moreninhas"](https://www.campograndenews.com.br/lado-b/diversao/festival-de-jazz-comeca-hoje-com-espetaculo-no-terminal-moreninhas), *Campo Grande News*, Lado B, 25 mar. 2024. Acesso em 1 nov. 2026.

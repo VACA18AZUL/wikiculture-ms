@@ -10,7 +10,7 @@ ficha:
   Instrumento: Viola
   Reconhecimentos: Doutor honoris causa pela UFMS (2019); Grammy Latino (2018)
 status: rascunho
-atualizado: 2026-10-30
+atualizado: 2026-11-01
 ---
 
 **Almir Sater** é um violeiro, compositor e ator natural de Campo Grande. O Dicionário Cravo Albin da Música Popular Brasileira registra seu nome completo como Almir Eduardo Melke Sater e a data de nascimento como 14 de novembro de 1956.[^dmpb]
@@ -29,11 +29,11 @@ Formou com outra pessoa a dupla [[lupe-e-lampiao|Lupe e Lampião]]. O Correio do
 
 Segundo o Correio do Estado, voltou a Campo Grande em 1976 e foi para São Paulo em 1978. Acompanhou o grupo [[tete-e-o-lirio-selvagem|Tetê e o Lírio Selvagem]] e integrou o show "Vozes e Violas", que levou ao convite para gravar o primeiro disco, de 1981.[^ce2019] O Dicionário data a ida para São Paulo e a entrada no Lírio Selvagem em 1979, e também situa o primeiro disco, pela Continental, em 1981.[^dmpb]
 
-Em 1984, organizou, segundo o Dicionário, uma viagem de pesquisa por Mato Grosso, a [[comitiva-esperanca|Comitiva Esperança]]. O Dicionário diz que a viagem rendeu um documentário (1985) e um disco instrumental.[^dmpb] O Correio do Estado cita o projeto "Comitiva Esperança" em conjunto com [[paulo-simoes|Paulo Simões]] e [[ze-gomes|Zé Gomes]], sem data.[^ce2019]
+Em 1984, organizou, segundo o Dicionário, uma viagem de pesquisa por Mato Grosso, a [[comitiva-esperanca|Comitiva Esperança]]. O Dicionário diz que a viagem rendeu um documentário (1985) e um disco instrumental.[^dmpb] O Correio do Estado cita o projeto "[[comitiva-esperanca|Comitiva Esperança]]" em conjunto com [[paulo-simoes|Paulo Simões]] e [[ze-gomes|Zé Gomes]], sem data.[^ce2019]
 
 ### Audiovisual
 
-O Correio do Estado afirma que atuou nas novelas [[pantanal-novela|*Pantanal*]], [[rei-do-gado-novela|*Rei do Gado*]] e *Bicho do Mato* e protagonizou *A História de Ana Raio e Zé Trovão*. O mesmo texto diz que canções suas entraram na trilha de *Pantanal* e serviram de tema do Globo Rural.[^ce2019] O Dicionário dá detalhes: Trindade em *Pantanal* (TV Manchete, 1990) e Pirilampo em *O Rei do Gado* (TV Globo, 1996).[^dmpb]
+O Correio do Estado afirma que atuou nas novelas [[pantanal-novela|*Pantanal*]], [[rei-do-gado-novela|*Rei do Gado*]] e *Bicho do Mato* e protagonizou *A História de Ana Raio e Zé Trovão*. O mesmo texto diz que canções suas entraram na trilha de [[pantanal-novela|*Pantanal*]] e serviram de tema do Globo Rural.[^ce2019] O Dicionário dá detalhes: Trindade em [[pantanal-novela|*Pantanal*]] (TV Manchete, 1990) e Pirilampo em *[[rei-do-gado-novela|O Rei do Gado]]* (TV Globo, 1996).[^dmpb]
 
 Participou dos curtas [[as-bellas-de-billings|*As Bellas de Billings*]] e [[caramujo-flor|*Caramujo Flor*]], sobre a poesia de [[manoel-de-barros|Manoel de Barros]].[^ce2019]
 
@@ -43,7 +43,7 @@ Em fevereiro de 2024, segundo o Campo Grande News, atuava no remake da novela [[
 
 O Dicionário aponta [[renato-teixeira|Renato Teixeira]] como um de seus parceiros de composição mais constantes. Cita também [[paulo-simoes|Paulo Simões]], Paulo Klein, [[geraldo-roca|Geraldo Roca]] (grafado "Rocca") e João Bá. Segundo a mesma fonte, canções coescritas por ele entraram em 2017 no musical *Bem sertanejo*.[^dmpb]
 
-Em novembro de 2024, o Campo Grande News registrou que [[paulo-simoes|Paulo Simões]] tem muitas canções de sucesso feitas em parceria com Sater.[^cgn2024b] Em abril de 2026, A Crítica de Campo Grande citou Sater entre os intérpretes de composições de Simões, ao noticiar o show dos 50 anos de "Trem do Pantanal".[^acr2026] Segundo o Correio do Estado, "[[trem-do-pantanal|Trem do Pantanal]]", composta por [[geraldo-roca|Geraldo Roca]] e Paulo Simões, ficou conhecida na voz de Sater.[^ce2024]
+Em novembro de 2024, o Campo Grande News registrou que [[paulo-simoes|Paulo Simões]] tem muitas canções de sucesso feitas em parceria com Sater.[^cgn2024b] Em abril de 2026, A Crítica de Campo Grande citou Sater entre os intérpretes de composições de Simões, ao noticiar o show dos 50 anos de "[[trem-do-pantanal|Trem do Pantanal]]".[^acr2026] Segundo o Correio do Estado, "[[trem-do-pantanal|Trem do Pantanal]]", composta por [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]], ficou conhecida na voz de Sater.[^ce2024]
 
 A canção [[assim-os-dias-passarao|"Assim os Dias Passarão"]] é de autoria de Sater, [[renato-teixeira|Renato Teixeira]] e [[paulo-simoes|Paulo Simões]]. Foi tocada no último capítulo da novela [[pantanal-novela|*Pantanal*]] e, segundo o Campo Grande News, remete à partida de [[geraldo-roca|Geraldo Roca]], amigo e compositor.[^cgn2022]
 

@@ -9,7 +9,7 @@ ficha:
   Formato: CDs e espetáculos cênico-musicais
   Ano: 2011 (primeiro CD)
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-01
 ---
 
 **Crianceiras** é um projeto de musicalização de poemas para crianças, idealizado pelo músico [[marcio-de-camillo|Márcio de Camillo]]. Reúne CDs e espetáculos cênico-musicais feitos a partir de poemas de [[manoel-de-barros|Manoel de Barros]] e de [[mario-quintana|Mario Quintana]].[^spc2018pompeia][^catraca2020]
@@ -24,7 +24,7 @@ O primeiro CD, *Crianceiras*, foi lançado em 2011, e o espetáculo de 2016 no [
 
 O projeto é usado por professores para apresentar poesia a crianças. A matéria de 2020 atribui o uso ao CD, ao musical e ao aplicativo.[^catraca2020] A página do guia São Paulo para Crianças diz que os CDs de Barros e de Quintana servem como material didático em escolas e que o espetáculo abre agenda para sessões exclusivas para escolas.[^spc2018pompeia] O *Correio do Estado* registra, em 2026, que docentes adotaram o projeto em sala de aula já nas primeiras apresentações.[^ce2026quintana]
 
-## Crianceiras Manoel de Barros
+## Crianceiras [[manoel-de-barros|Manoel de Barros]]
 
 O espetáculo de 2016 no [[sesc-santo-andre|Sesc Santo André]] foi apresentado nos domingos 13, 20 e 27 de novembro e na terça-feira 15 de novembro, sempre às 12h. A concepção é de [[marcio-de-camillo|Márcio de Camillo]] e a direção, de [[luiz-andre-cherubini|Luiz André Cherubini]]. Segundo a matéria, as iluminuras de [[martha-barros|Martha Barros]] aparecem em animação e contracenam com músicos e atores.[^abc2016sesc]
 
@@ -49,7 +49,7 @@ Camillo diz que o espetáculo se tornou "transgeracional". A afirmação é dele
 
 - *Crianceiras* (temporada de 2016, [[sesc-santo-andre|Sesc Santo André]]) — concepção de [[marcio-de-camillo|Márcio de Camillo]]; direção de [[luiz-andre-cherubini|Luiz André Cherubini]].[^abc2016sesc]
 - *Crianceiras* (temporada de 2020, São Paulo) — idealização de [[marcio-de-camillo|Márcio de Camillo]]; adaptação teatral e direção de [[luiz-andre-cherubini|Luiz André Cherubini]].[^catraca2020]
-- *Crianceiras Mário Quintana – Poesias Musicadas por [[marcio-de-camillo|Márcio de Camillo]]* (temporada no [[sesc-pompeia|Sesc Pompeia]]) — composição e interpretação de Márcio de Camillo; direção geral de [[luiz-andre-cherubini|Luiz André Cherubini]].[^spc2018pompeia]
+- *Crianceiras Mário Quintana – Poesias Musicadas por [[marcio-de-camillo|Márcio de Camillo]]* (temporada no [[sesc-pompeia|Sesc Pompeia]]) — composição e interpretação de [[marcio-de-camillo|Márcio de Camillo]]; direção geral de [[luiz-andre-cherubini|Luiz André Cherubini]].[^spc2018pompeia]
 - *Crianceiras Mário Quintana* (temporada anunciada para setembro de 2026, Campo Grande) — voz, violão e viola caipira de [[marcio-de-camillo|Márcio de Camillo]]; direção geral de [[luiz-andre-cherubini|Luiz André Cherubini]].[^ce2026quintana]
 
 ## Videografia

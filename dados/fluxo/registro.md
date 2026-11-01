@@ -156,3 +156,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-11-01T13:26Z | redator | campo-grande-jazz-festival | concluída | US$ 0.23 | modelo claude-sonnet-5-5
 2026-11-01T13:26Z | redator | delio | concluída | US$ 0.24 | modelo claude-sonnet-5-5
 2026-11-01T13:26Z | redator | eteca | concluída | US$ 0.24 | modelo claude-sonnet-5-5
+2026-11-01T13:27Z | fechamento | fechamento | concluída | US$ 5.28 | modelo claude-opus-5-5

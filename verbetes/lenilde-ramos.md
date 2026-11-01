@@ -10,7 +10,7 @@ ficha:
   Instituição: Academia Sul-Mato-Grossense de Letras
   Prêmio: "Anunciada entre as premiadas do Prêmio Grão de Música, 2023"
 status: rascunho
-atualizado: 2026-10-30
+atualizado: 2026-11-01
 ---
 
 **Lenilde Ramos** é cantora, instrumentista, compositora, jornalista e escritora de Campo Grande, nascida em 1952.[^pva2023] [^ce2023] Em entrevista de 2023, definiu-se como "escritora de vivências" e disse escrever crônicas, letras e poemas.[^ce2023]
@@ -25,7 +25,7 @@ Costuma compor a partir da letra. Trabalhou com textos de [[emmanuel-marinho|Emm
 
 Apresentou-se em teatros, em acampamento de sem-terra, em escolas, bares e festas, e na sede da ONU, em Nova York, em 2014.[^ce2023] A imprensa registra mais de 50 anos de trabalho artístico e viagens por países da América do Sul, da Europa e pelos Estados Unidos. Em março de 2024, tinha convite para festival na Espanha e para divulgar um livro na Itália.[^oeo2024]
 
-## Atuação literária e no Hospital São Julião
+## Atuação literária e no [[hospital-sao-juliao|Hospital São Julião]]
 
 Foi eleita para a [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] em 2019, após eleição disputada, e diz ser a primeira mulher negra da instituição.[^oeo2024] O Correio do Estado, em 2026, diz que ocupa a cadeira 31.[^ce2026] Colaborou com o capítulo sobre o historiador [[paulo-coelho-machado|Paulo Coelho Machado]] no livro *Vozes da Literatura* (2014).[^oeo2024]
 
@@ -39,12 +39,12 @@ Foi anunciada entre os premiados da 10ª edição do [[premio-grao-de-musica|Pr�
 
 ## Obras
 
-- *Onça Pintada* (2009) — [[onca-pintada-cd-2009|álbum]]; único álbum lançado, segundo ela. O ano consta apenas na entrevista ao Correio do Estado.[^ce2023] A revista do prêmio diz que as canções da artista estão reunidas nesse trabalho.[^pva2023]
+- *[[onca-pintada-cd-2009|Onça Pintada]]* (2009) — [[onca-pintada-cd-2009|álbum]]; único álbum lançado, segundo ela. O ano consta apenas na entrevista ao Correio do Estado.[^ce2023] A revista do prêmio diz que as canções da artista estão reunidas nesse trabalho.[^pva2023]
 - "Pertences de Uso Pessoal" — poema de *Gramática Expositiva do Chão*, de [[manoel-de-barros|Manoel de Barros]], musicado em ritmo de polca-rock.[^pva2023]
-- *História sem Nome – Lembranças de uma menina quase gêmea* (2011) — [[historia-sem-nome|livro]] sobre a hanseníase e o hospital, com edição italiana (*Storia senza nome*).[^ce2023] [^oeo2024] [^acr2026]
+- *[[historia-sem-nome|História sem Nome – Lembranças de uma menina quase gêmea]]* (2011) — [[historia-sem-nome|livro]] sobre a hanseníase e o hospital, com edição italiana (*Storia senza nome*).[^ce2023] [^oeo2024] [^acr2026]
 - *Imagens e Palavras* — livro; ano e editora não constam.[^oeo2024]
 - *Do Baú da Tia Lê – Crônicas* — livro de crônicas de memória; ano e editora não constam.[^oeo2024]
-- *Hospital São Julião – 85 anos (1941-2026) Álbum Histórico* (2026) — [[hospital-sao-juliao-album-85-anos|livro de fotografias]], com 140 páginas e cerca de 530 imagens, tiradas de um acervo de cerca de 4 mil fotos e documentos. Texto e pesquisa de Lenilde Ramos, projeto gráfico de Marília Leite, tratamento de imagens de Lennon Godoy e colaboração de pesquisa do historiador Roberto Pellizzer. A renda das vendas é revertida ao hospital.[^acr2026] [^ce2026]
+- *[[hospital-sao-juliao-album-85-anos|Hospital São Julião – 85 anos (1941-2026) Álbum Histórico]]* (2026) — [[hospital-sao-juliao-album-85-anos|livro de fotografias]], com 140 páginas e cerca de 530 imagens, tiradas de um acervo de cerca de 4 mil fotos e documentos. Texto e pesquisa de Lenilde Ramos, projeto gráfico de Marília Leite, tratamento de imagens de Lennon Godoy e colaboração de pesquisa do historiador Roberto Pellizzer. A renda das vendas é revertida ao hospital.[^acr2026] [^ce2026]
 
 ## Discografia
 

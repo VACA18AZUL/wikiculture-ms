@@ -10,7 +10,7 @@ ficha:
   Instrumento: Acordeão
   Grupos: Os Irmãos de Mato Grosso
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-01
 ---
 
 **Maciel Corrêa** é acordeonista sertanejo de Mato Grosso do Sul. Nasceu em Rio Brilhante, em 13 de julho de 1942.[^disc]
@@ -29,7 +29,7 @@ No fim de 1980, gravou o disco solo [[cadeado-de-ouro|*Cadeado de Ouro*]], dirig
 
 Segundo ele, admirava [[ze-correa|Zé Corrêa]] e diz que Zé foi acordeonista da dupla [[joao-do-rancho-e-ze-ranchinho|João do Rancho e Zé Ranchinho]], da qual Maciel fez parte.[^legado]
 
-## Délio & Delinha
+## [[delio-e-delinha|Délio & Delinha]]
 
 Segundo depoimento dele ao livro, gravou com [[delio-e-delinha|Délio & Delinha]] o disco [[o-sol-e-a-lua|*O Sol e a Lua*]] (1981), com a faixa "De Mato Grosso a São Paulo", e participou da turnê. Diz que a faixa-título chegou às rádios antes de *[[cadeado-de-ouro|Cadeado de Ouro]]*.[^retorno]
 
@@ -57,7 +57,7 @@ O cabeçalho da seção do livro fala em 11 LPs. A seção lista nove, o primeir
 
 ## Outros créditos
 
-O livro o credita como integrante do grupo Os Tigres, com [[amambai-cantor|Amambaí]] e [[rondineli|Rondineli]], no LP *[[beco-dos-apaixonados|Beco dos Apaixonados]]* (1985, [[gravadora-arco-iris-discos|Arco Íris Discos]]).[^tigres] Ver [[os-tigres-amambai-rondineli-e-maciel-correa|Os Tigres]].
+O livro o credita como integrante do grupo [[os-tigres-amambai-rondineli-e-maciel-correa|Os Tigres]], com [[amambai-cantor|Amambaí]] e [[rondineli|Rondineli]], no LP *[[beco-dos-apaixonados|Beco dos Apaixonados]]* (1985, [[gravadora-arco-iris-discos|Arco Íris Discos]]).[^tigres] Ver [[os-tigres-amambai-rondineli-e-maciel-correa|Os Tigres]].
 
 ## Para saber mais
 

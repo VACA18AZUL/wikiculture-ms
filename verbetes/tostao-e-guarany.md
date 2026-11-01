@@ -9,7 +9,7 @@ ficha:
   Integrantes: Tostão (Adir Antonio Boniatti) e Guarany (Evânio Vargas Padilha)
   Gênero: Sertanejo
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-01
 ---
 
 **Tostão e Guarany**, também grafado Tostão & Guarany, é uma dupla sertaneja de Campo Grande formada por [[tostao|Tostão]] e [[guarany|Guarany]]. O livro *Os Pioneiros* a trata como a última dupla estudada, por guardar mais semelhanças que diferenças com os pioneiros dos anos 1950.[^pioneiros]
@@ -30,7 +30,7 @@ A dupla gravou um compacto duplo e, depois, um disco com [[marcelo-mello|Marcelo
 
 ### Circos, ônibus e campanhas
 
-Sem espaço nos circos da cidade para os shows, [[tostao|Tostão]] montou o [[circo-teatro-tostao|Circo Teatro Tostão]] e o [[circo-rouxinois-do-brasil|Circo Rouxinóis do Brasil]]. O primeiro rodava os bairros de Campo Grande. Tostão atuou em dramas de circo.[^pioneiros]
+Sem espaço nos circos da cidade para os shows, [[tostao|Tostão]] montou o [[circo-teatro-tostao|Circo Teatro Tostão]] e o [[circo-rouxinois-do-brasil|Circo Rouxinóis do Brasil]]. O primeiro rodava os bairros de Campo Grande. [[tostao|Tostão]] atuou em dramas de circo.[^pioneiros]
 
 Em 1986, a dupla comprou um ônibus com o contrato de uma campanha política e fez shows pelo interior. [[tostao|Tostão]] afirma que foram a primeira dupla com equipamento eletrônico, ônibus e banda. A afirmação vem só do depoimento e não foi confirmada por outra fonte.[^pioneiros]
 
@@ -42,13 +42,13 @@ A dupla se separou em 1992 ou 1993; o livro não decide entre os dois anos. [[to
 
 Em 5 de junho de 2008, o *Correio do Estado* anunciou show da dupla, a partir das 19h30, no 5º Sarau da [[praca-dos-imigrantes|Praça dos Imigrantes]], em Campo Grande, promovido pela [[fundac|Fundação Municipal de Cultura (Fundac)]], com entrada franca. Segundo a matéria, a dupla preparava a gravação de um CD/DVD ao vivo.[^ce2008]
 
-Em julho de 2011, o *Correio do Estado* informou que a dupla participava havia ao menos dez anos do programa [[viola-minha-viola|*Viola, minha Viola*]], da TV Cultura, a convite da apresentadora [[inezita-barroso|Inezita Barroso]]. [[guarany|Guarany]] descreve o programa como uma vitrine nacional. A dupla participaria da edição de 24 de julho, com reprise em 30 de julho. O repertório previsto incluía "Anjo bom" (Guarany), "[[estrada-de-chao|Estrada de chão]]" ([[aurelio-miranda|Aurélio Miranda]]), um pot-pourri do [[trio-parada-dura|Trio Parada Dura]] e "Aurora do mundo" (de [[goia|Goiá]]).[^ce2011]
+Em julho de 2011, o *Correio do Estado* informou que a dupla participava havia ao menos dez anos do programa [[viola-minha-viola|*Viola, minha Viola*]], da TV Cultura, a convite da apresentadora [[inezita-barroso|Inezita Barroso]]. [[guarany|Guarany]] descreve o programa como uma vitrine nacional. A dupla participaria da edição de 24 de julho, com reprise em 30 de julho. O repertório previsto incluía "Anjo bom" ([[guarany|Guarany]]), "[[estrada-de-chao|Estrada de chão]]" ([[aurelio-miranda|Aurélio Miranda]]), um pot-pourri do [[trio-parada-dura|Trio Parada Dura]] e "Aurora do mundo" (de [[goia|Goiá]]).[^ce2011]
 
 A mesma matéria diz que a dupla planejava lançar em Campo Grande, antes do fim de 2011, o DVD [[caipira-ao-digital|*Caipira ao digital*]], de 25 anos de carreira. Segundo a matéria, o DVD contou com a participação de [[aurelio-miranda|Aurélio Miranda]], [[ligia-mourao|Lígia Mourão]], Délia (com Delinho), do [[grupo-tradicao|Grupo Tradição]] e do Grupo Seis é D+. A fonte só anuncia o lançamento, previsto para o fim do ano; não confirma que ele saiu.[^ce2011]
 
 ## Discografia
 
-- *Tostão e Guarany (Compacto)* (1984) — compacto; [[gravadora-universal-records|Universal Records]], com produção e direção de Marcel Mello. Faixas: "PT Saudações" ([[aurelio-miranda|Aurélio Miranda]] e [[tostao|Tostão]]), "Flor da Fronteira" (Tostão, [[cruzeiro|Cruzeiro]] e [[centavo|Centavo]]), "[[estrada-de-chao|Estrada de Chão]]" (Aurélio Miranda) e "Do Jeitinho Que Te Amo" (Otto Arguelha e Tostão). Segundo o livro, "Flor da Fronteira" e "Estrada de Chão" vêm de discos de 1978 e 1979.[^pioneiros]
+- *Tostão e Guarany (Compacto)* (1984) — compacto; [[gravadora-universal-records|Universal Records]], com produção e direção de Marcel Mello. Faixas: "PT Saudações" ([[aurelio-miranda|Aurélio Miranda]] e [[tostao|Tostão]]), "Flor da Fronteira" (Tostão, [[cruzeiro|Cruzeiro]] e [[centavo|Centavo]]), "[[estrada-de-chao|Estrada de Chão]]" ([[aurelio-miranda|Aurélio Miranda]]) e "Do Jeitinho Que Te Amo" (Otto Arguelha e Tostão). Segundo o livro, "Flor da Fronteira" e "[[estrada-de-chao|Estrada de Chão]]" vêm de discos de 1978 e 1979.[^pioneiros]
 - *Luzes do Além* (1985) — LP; Anhembi, com produção e direção de Oscar Martins. Tem 11 faixas, entre elas "Apartamento", "Luzes do Além", "Cantora de Boate" e "Espaço Pantaneiro".[^pioneiros] O título e o ano também constam do *Correio do Estado*.[^ce2011]
 - *Tostão & Guarany (Single)* (1995) — single; [[gravadora-ariola|Ariola Discos]], com produção e direção de Douglas Diniz. Faixas: "Mágica ou Sonho" (Douglas Diniz) e "Anjo Bom" ([[guarany|Guarany]]).[^pioneiros]
 - *Recordações* (2000) — CD; a fonte traz só título e ano.[^ce2011]

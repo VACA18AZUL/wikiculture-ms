@@ -8,7 +8,7 @@ ficha:
   Atividade: Cantor, compositor, instrumentista e produtor cultural
   Grupos: Hermanos Irmãos
 status: rascunho
-atualizado: 2026-10-30
+atualizado: 2026-11-01
 ---
 
 **Márcio de Camillo** é cantor, compositor, instrumentista e produtor cultural de Mato Grosso do Sul. A imprensa o descreve como artista de música regional brasileira, com ritmos de fronteira como guarânia e chamamé.[^cgn2024camillo]
@@ -21,7 +21,7 @@ De volta ao Brasil, fundou a [[associacao-de-musicos-do-pantanal|Associação de
 
 Uma matéria de 2012 diz que ele morava em Campo Grande.[^cgn2012multi] A de 2024 diz que vivia em São Paulo e se apresentava em três frentes: o trabalho infantil, o trio [[hermanos-irmaos|Hermanos Irmãos]] e a carreira solo, retomada depois de anos em que o sucesso de [[crianceiras|Crianceiras]] a ofuscou.[^cgn2024camillo]
 
-## Crianceiras
+## [[crianceiras|Crianceiras]]
 
 [[crianceiras|Crianceiras]] é um projeto infantil idealizado por ele, em que musicou dez poemas de [[manoel-de-barros|Manoel de Barros]].[^cgn2012multi][^cgn2024crianceiras] Segundo a matéria de 2012, a ideia surgiu depois de uma visita ao poeta, cerca de duas décadas antes da estreia do espetáculo.[^cgn2012multi] Outra matéria situa a visita ao poeta, em sua casa, em 2007.[^cgn2022quintal] O CD foi lançado em 2011.[^cgn2012multi]
 
@@ -31,7 +31,7 @@ A segunda fase, *[[crianceiras|Crianceiras Mário Quintana]]*, teve estreia em S
 
 Uma matéria de março de 2018 fala em 350 apresentações desde 2012;[^cgn2018novo] outra, de maio de 2018, em 310 mil pessoas em seis anos de circulação nacional.[^cgn2018quintana] O segundo número é atribuído ao próprio artista. A matéria de 2012 registra indicação do primeiro CD ao [[premio-da-musica-brasileira|Prêmio da Música Brasileira]], como melhor álbum infantil, e a de 2018 a data em 2012; a de 2018 acrescenta indicação em 2016 com o disco de Quintana. Não consta que tenha vencido.[^cgn2012multi][^cgn2018novo]
 
-## Hermanos Irmãos e parcerias
+## [[hermanos-irmaos|Hermanos Irmãos]] e parcerias
 
 O trio [[hermanos-irmaos|Hermanos Irmãos]] reúne Camillo, [[jerry-espindola|Jerry Espíndola]] e [[rodrigo-teixeira|Rodrigo Teixeira]]. Em junho de 2016, o grupo saiu de Campo Grande para refazer a viagem em que [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]] escreveram "[[trem-do-pantanal|Trem do Pantanal]]", em 1975, rumo a Machu Picchu, com o videomaker [[paulo-higa|Paulo Higa]].[^cgn2022hermanos] Em fevereiro de 2022, uma matéria noticiou o lançamento, previsto para 14 de fevereiro, de nova versão da canção pelo trio, com arranjos de [[carles-campi-campon|Carles Campi Campón]] feitos em Madri e vozes gravadas em Campo Grande.[^cgn2022hermanos]
 
