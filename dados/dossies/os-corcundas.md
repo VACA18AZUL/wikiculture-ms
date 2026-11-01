@@ -132,6 +132,8 @@ Pistas que apareceram sem fonte aberta que as sustente. Não entram no verbete.
 
 ## Uso no verbete
 
-Preenchido pelo redator depois de escrever.
+Verbete escrito em 1/11/2026, com blog, fcms2016, fcms2017, fcms2024 e cm2024 reabertos nesta sessão.
 
--
+- Usado: enredo, forma, ficha técnica, elenco, apresentações de 2016, 2017 e 2024, divergência sobre a estreia, circulação (blog e fcms2016).
+- Fora: prêmios do Fesmat 2011 (só blog), Mostra Fulano di Tal 2017, Boca de Cena 2013, relações que dependem do folheto de 2017, Festcamp, Mauro Guimarães como fundador (página dele não liga à peça).
+- Links: nenhum vídeo oficial verificado.
