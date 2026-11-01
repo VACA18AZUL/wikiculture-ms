@@ -137,3 +137,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-11-01T00:10Z | redator | os-corcundas | concluída | US$ 0.33 | modelo claude-sonnet-5-5
 2026-11-01T00:07Z | garimpeiro | garimpeiro | concluída | US$ 0.77 | modelo claude-sonnet-5-5
 2026-11-01T00:28Z | fechamento | fechamento | concluída | US$ 3.76 | modelo claude-opus-5-5
+2026-11-01T06:02Z | pesquisador | los-tammys-de-pedro-juan-caballero | concluída | US$ ? | modelo claude-sonnet-5-5
