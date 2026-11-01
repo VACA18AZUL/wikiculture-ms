@@ -29,3 +29,5 @@ Uma linha por evento, em ordem. Formato:
 2026-10-30 23:00 | teatro | concluída | rodada 10 | +30 nomes, +55 relações | sem commit a pedido; BocaDeCena (UFMS), PDFs UNIR e UFRGS, epub Redalyc sem texto extraível; Itaú Cultural, Mapas, editais, BDTD pendentes
 2026-10-31 05:40 | danca | em andamento | rodada 11
 2026-10-31 07:00 | danca | concluída | rodada 11 | +30 nomes, +37 relações | sem commit a pedido; Bash negado no meio da rodada (edição só por Edit); PDF UCDB (Guedes) abriu como página inicial, PDF UFMS 3526 recusou conexão, PDF CGN sem texto; Itaú Cultural, Mapas, BDTD e editais pendentes
+2026-11-01 06:03 | literatura | em andamento | rodada 12
+2026-11-01 06:09 | literatura | concluída | rodada 12 | +30 nomes, +49 relações | sem commit a pedido; modo CGN tentado antes e bloqueado (403), registrado em cgn/registro.md; Midiamax e O Progresso sem acesso; PDFs IFMS e Raído sem texto; fila: 56 homenageados de Grandezas, Nolasco, Sérgio Martins
