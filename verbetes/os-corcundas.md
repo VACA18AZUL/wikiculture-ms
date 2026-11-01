@@ -3,7 +3,7 @@ titulo: Os Corcundas
 tipo: obra
 areas: [circo, teatro]
 cidade: Campo Grande
-resumo: Pantomima circense medieval do Circo do Mato, com texto e direção de Breno Moroni, apresentada em Campo Grande e em outras cidades e países desde 2011.
+resumo: Pantomima circense medieval do Circo do Mato, com texto e direção de Breno Moroni, apresentada em Campo Grande e em outras cidades e países; o grupo registra pré-estreia em 2011.
 ficha:
   Autor: "[[breno-moroni|Breno Moroni]]"
   Direção: "[[breno-moroni|Breno Moroni]]"
@@ -29,9 +29,9 @@ Em 2016, a produtora [[laila-pulcherio|Laila Pulchério]] disse que o espetácul
 
 ## Trajetória
 
-Em 2024, Moroni disse que escreveu a peça a partir de suas vivências em feiras medievais e de seus estudos de mímica e expressão corporal. Segundo ele, a montagem levou cerca de duas semanas, da leitura do texto ao figurino e aos objetos de cena. Disse ainda que o espetáculo "já tem 12 anos" de estreia e que é um dos mais antigos do repertório do Circo do Mato.[^fcms2024]
+Em 2024, Moroni disse que escreveu a peça a partir de suas vivências em feiras medievais e de seus estudos de mímica e expressão corporal. Segundo ele, a montagem levou cerca de duas semanas, da leitura do texto ao figurino e aos objetos de cena. Disse ainda que o espetáculo "talvez" seja um dos mais antigos do repertório do Circo do Mato e que "já tem 12 anos" de estreia.[^fcms2024]
 
-O blog do grupo registra uma pré-estreia em 15 de janeiro de 2011, em Campo Grande, depois de cerca de quinze dias de ensaio. A primeira data de temporada listada é 27 e 28 de fevereiro de 2011, no [[sesc-teatro-prosa|Teatro Prosa do Sesc Horto]]. O blog não indica data oficial de estreia. A mesma página lista uma versão anterior, de Moroni, na Itália e em Portugal em 2007/08.[^blog]
+O blog do grupo registra uma pré-estreia em 15 de janeiro de 2011, em Campo Grande, depois de cerca de quinze dias de ensaio. Na lista de apresentações do blog, o 15 de janeiro aparece como ensaio geral; entre as datas seguintes estão 6 de fevereiro de 2011, em Água Clara (MS), e 27 e 28 de fevereiro, no [[sesc-teatro-prosa|Teatro Prosa do Sesc Horto]]. O blog não indica data oficial de estreia. A mesma página lista uma versão anterior, de Moroni, na Itália e em Portugal em 2007/08.[^blog]
 
 A página do blog lista apresentações em Mato Grosso do Sul, no Rio de Janeiro, em Goiás, na Bolívia, na Colômbia e na Argentina entre 2011 e 2020. Em 2016, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] registrou que a peça já havia sido apresentada no Peru, na Colômbia, no Equador e na Bolívia.[^blog][^fcms2016]
 
