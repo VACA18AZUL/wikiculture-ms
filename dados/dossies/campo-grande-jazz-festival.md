@@ -108,4 +108,6 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
--
+- Entrou: identificação, datas, equipe, apoio do FMIC, estrutura em duas etapas, programação anunciada, homenagens com a divergência sobre Antônio Porto e a variação Café Musical/Brunch.
+- Ficou de fora: a divergência entre texto corrido e grade de cgn2024b (não confirmada); campo `links` (nenhum site oficial aberto); Wikipédia (não conferida).
+- Atenção: nesta rodada as duas matérias deram HTTP 403 no WebFetch; a redação se apoia só no dossiê, sem releitura. Notas sem "Acesso em".
