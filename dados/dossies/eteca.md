@@ -117,4 +117,4 @@ Não propostos: Cia Maria Cutia (MG), Amarilis Irani (SP), Palhaça Rubra e Caro
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
--
+- Entrou: criação em 2016, 5ª edição (2023) com datas, vaquinha, programação por dia, curadoria, oficina de 2025 e lacunas das outras edições. Ficou de fora: idade e nomes de crianças, equipe de produção, histórico do Grupo Casa (descreve o grupo), companhias de fora de MS sem verbete (citadas só no texto), dúvidas de identidade (Leonardo Medeiros, Tânia Souza). Sem `links`: site oficial não localizado.
