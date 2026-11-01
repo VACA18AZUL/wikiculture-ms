@@ -120,6 +120,8 @@ Composições com crédito a Ado (da lista de faixas do livro, `faixas.csv`; as 
 
 ## Uso no verbete
 
-Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
+Entrou: trajetória, duplas com Adail e Praense, gravação em Assunção, Festão, parceria com Zacarias Mourão, Cadeado de Ouro, discografia, seleção de composições e divergências (vendas, atribuição dos discos de 1975-76, direção de Cadeado de Ouro).
 
--
+Ficou de fora: nome civil e data de nascimento (bloco 3 da ficha, identidade não confirmada); "Camargo Corrêa" (sem apoio nas fichas); aposta com Elinho do Bandoneon e detalhes dos circos (pouca relevância); Irmãs Galvão e Dino Rocha no texto (relação só em proposta).
+
+Hipótese registrada no verbete: os três blocos da ficha são a mesma pessoa.
