@@ -140,3 +140,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-11-01T06:02Z | pesquisador | los-tammys-de-pedro-juan-caballero | concluída | US$ ? | modelo claude-sonnet-5-5
 2026-11-01T06:02Z | pesquisador | cruzeiro-tostao-e-centavo | concluída | US$ 0.14 | modelo claude-sonnet-5-5
 2026-11-01T06:02Z | pesquisador | marina-peralta | concluída | US$ 0.31 | modelo claude-sonnet-5-5
+2026-11-01T06:02Z | pesquisador | o-menino-que-engoliu-o-sol | concluída | US$ 0.35 | modelo claude-sonnet-5-5
