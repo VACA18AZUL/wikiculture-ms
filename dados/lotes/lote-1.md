@@ -56,5 +56,6 @@
 
 ## Pendências gerais
 - Possíveis duplicatas na lista-mestra: `gravadora-xaraes` e `gravadora-discos-e-fitas-xaraes`; `emidio-umar` e `amambay-cantor`; `instituto-moinho-cultural-sul-americano` e `moinho-cultural`; `femina-vox` e `forum-internacional-femina-vox`; `radio-aquidauana` e `radio-difusora-de-aquidauana`.
+- `fesul` e `fessul` são o mesmo festival na lista-mestra; o ligador trocou o link de trem-do-pantanal para `fessul` em 01/11/2026. Fundir as linhas.
 - Homônimos a confirmar antes de ligar: Zédu, Maciel Corrêa (em delinha), Guarany, Onésimo Filho, Rodrigo Teixeira (o trio e o autor de *Os Pioneiros*).
 - Dossiês de guadakan e lenilde-ramos trazem frases que a revisão tirou dos verbetes.

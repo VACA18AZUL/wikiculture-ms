@@ -229,7 +229,7 @@ geraldo-roca,relacionado-a,alzira-espindola,Correio do Estado,https://correiodoe
 geraldo-roca,relacionado-a,geraldo-espindola,Correio do Estado,https://correiodoestado.com.br/correio-b/marcio-de-camillo-estreia-amanha-no-teatro-glauce-rocha-show-em/436637/,citados na mesma geração; sem vínculo direto declarado
 geraldo-roca,relacionado-a,tete-espindola,Correio do Estado,https://correiodoestado.com.br/correio-b/marcio-de-camillo-estreia-amanha-no-teatro-glauce-rocha-show-em/436637/,citados na mesma geração; sem vínculo direto declarado
 hermanos-irmaos,relacionado-a,trem-do-pantanal,Campo Grande News,https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/trem-do-pantanal-ganha-nova-versao-na-voz-do-trio-hermanos-irmaos,refez a viagem em 2016 e regravou a canção em 2022
-trem-do-pantanal,participou-de,fesul,Campo Grande News,https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/do-rock-ao-eletronico-trem-do-pantanal-ja-foi-regravada-57-vezes,concorreu em 1980 sem vencer
+trem-do-pantanal,participou-de,fessul,Campo Grande News,https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/do-rock-ao-eletronico-trem-do-pantanal-ja-foi-regravada-57-vezes,concorreu em 1980 sem vencer
 memoria-fonografica-de-ms,acervo-em,mis-ms,Campo Grande News,https://www.campograndenews.com.br/lado-b/diversao/exposicao-traz-resgate-da-musica-sul-mato-grossense-na-capital,acervo de discos doado ao MIS (matéria de 2014)
 carlos-luz,criou,memoria-fonografica-de-ms,Campo Grande News,https://www.campograndenews.com.br/lado-b/diversao/exposicao-traz-resgate-da-musica-sul-mato-grossense-na-capital,idealizador (2014); Correio do Estado 2011 também cita Idemar Sprandel como idealizador
 rodrigo-teixeira,criou,os-pioneiros-origem-da-musica-sertaneja-de-ms,Correio do Estado,https://correiodoestado.com.br/correio-b/museu-da-imagem-e-som-reinaugura-hoje/109346/,autor do livro que embasa a exposição (2011)
@@ -2105,3 +2105,34 @@ maria-da-gloria-sa-rosa,integrou,academia-sul-mato-grossense-de-letras,Rádio Ca
 augusto-cesar-proenca,integrou,academia-sul-mato-grossense-de-letras,A Base MS,https://abasems.com.br/cultura/novo-imortal-andre-alvez-assume-cadeira-28-da-asl/,antecessor de André Alvez na cadeira 28; morreu em 2023
 helio-serejo,integrou,academia-sul-mato-grossense-de-letras,Atricon,https://atricon.org.br/blog/conselheira-marisa-serrano-toma-posse-na-academia-sul-mato-grossense-de-letras/,antecessor de Marisa Serrano na cadeira 30; morreu em 8/10/2007
 marisa-serrano,integrou,academia-sul-mato-grossense-de-letras,Atricon,https://atricon.org.br/blog/conselheira-marisa-serrano-toma-posse-na-academia-sul-mato-grossense-de-letras/,cadeira 30; posse noticiada em 17/12/2013
+guarany,integrou,cruzeiro-tostao-e-guarany,"Os Pioneiros (Teixeira, 2009), seção ""O Final Prematuro do Trio""",,formação que substituiu Centavo
+cruzeiro-tostao-e-centavo,relacionado-a,cruzeiro-tostao-e-guarany,"Os Pioneiros (Teixeira, 2009), seção ""O Final Prematuro do Trio""",,mesma formação com Guarany no lugar de Centavo
+cruzeiro-e-tostao,relacionado-a,cruzeiro-tostao-e-centavo,"Os Pioneiros (Teixeira, 2009), seção ""A Chegada do Centavo""",,dupla anterior ao trio
+centavo,colaborou-com,leo-canhoto,"Os Pioneiros (Teixeira, 2009), seção ""O Final Prematuro do Trio""",,Centavo saiu do trio para tocar com Léo Canhoto
+miltinho-rodrigues,colaborou-com,cruzeiro-tostao-e-centavo,"Os Pioneiros (Teixeira, 2009), seção ""Discografia: Cruzeiro, Tostão, Guarany e Centavo""",,produção do LP Estrada de Chão
+biaggio-baccarin,colaborou-com,cruzeiro-tostao-e-centavo,"Os Pioneiros (Teixeira, 2009), seção ""Discografia: Cruzeiro, Tostão, Guarany e Centavo""",,direção do LP Estrada de Chão
+lima-duarte,participou-de,festao,"Os Pioneiros (Teixeira, 2009), seção ""Os Campeões do Festão""",,apresentador do 1º Festão
+milionario-e-jose-rico,participou-de,festao,"Os Pioneiros (Teixeira, 2009), seção ""Os Campeões do Festão""",,show no 1º Festão
+dominguinhos,participou-de,festao,"Os Pioneiros (Teixeira, 2009), seção ""Os Campeões do Festão""",,show no 3º Festão
+los-tammys-de-pedro-juan-caballero,colaborou-com,beth-e-betinha,"Teixeira, Os Pioneiros (2009), seção ""‘Free Way’ na Fronteira / Victor Hugo e Benites""",,trabalharam juntos em Jardim
+los-tammys-de-pedro-juan-caballero,colaborou-com,victor-hugo,"Teixeira, Os Pioneiros (2009), seção ""Discografia: Los Tammy’s / Victor Hugo""",,nome no título de discos; vínculo exato não confirmado
+los-tammys-de-pedro-juan-caballero,relacionado-a,gravadora-cerro-cora,"Teixeira, Os Pioneiros (2009), seção ""Discografia: Los Tammy’s / Victor Hugo""",,gravou LPs em 1973 1975 e 1979
+los-tammys-de-pedro-juan-caballero,relacionado-a,gravadora-melodias-discos,"Teixeira, Os Pioneiros (2009), seção ""Discografia: Los Tammy’s / Victor Hugo""",,gravou LPs de 1978 a 1985
+los-tammys-de-pedro-juan-caballero,relacionado-a,los-tammys,"Teixeira, Os Pioneiros (2009)",,provável duplicata do mesmo grupo
+marina-peralta,integrou,rockers-control,Campo Grande News (2023),https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sul-mato-grossense-marina-peralta-participa-de-novo-album-de-pitty,a matéria chama Rockers Control de grupo de Marina
+marina-peralta,criou,aguas-para-o-pantanal,Campo Grande News (2020),https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/marina-peralta-lanca-1a-guarania-reggae-para-falar-do-pantanal,guarânia-reggae lançada em setembro de 2020
+marina-peralta,criou,demarcacao-marina-peralta,Campo Grande News (2022),https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/pelo-direito-de-viver-marina-peralta-e-bro-mcs-lancam-demarcacao,"single e videoclipe, abril de 2022"
+bro-mcs,participou-de,demarcacao-marina-peralta,Campo Grande News (2022),https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/pelo-direito-de-viver-marina-peralta-e-bro-mcs-lancam-demarcacao,vocais de apoio em guarani
+marina-peralta,apresentou-em,fronteira-guarani,Campo Grande News (2024),https://www.campograndenews.com.br/lado-b/diversao/alzira-e-bro-mcs-marina-peralta-e-hermanos-irmaos-se-unem-em-show,"16/06/2024, Concha Acústica Helena Meirelles"
+fronteira-guarani,sede-em,concha-acustica-helena-meirelles,Campo Grande News (2024),https://www.campograndenews.com.br/lado-b/diversao/alzira-e-bro-mcs-marina-peralta-e-hermanos-irmaos-se-unem-em-show,edição de 16/06/2024
+marina-peralta,formou-se-com,ufms,CartaCapital (2025),https://www.cartacapital.com.br/?p=540229,"graduação em Psicologia pela UFMS, segundo a entrevista"
+patricia-alves-dias,dirigiu,o-menino-que-engoliu-o-sol,Secult-MG (2021); O Povo (2021),https://secult.mg.gov.br/noticias-artigos/131-antigas/6566-serie-infantil-o-menino-que-engoliu-o-sol-estreia-na-rede-minas-neste-sabado-20-2,Direção da série; também coroteirista.
+manoel-de-barros,relacionado-a,o-menino-que-engoliu-o-sol,Secult-MG (2021); Portal ABC do ABC (2026),https://secult.mg.gov.br/noticias-artigos/131-antigas/6566-serie-infantil-o-menino-que-engoliu-o-sol-estreia-na-rede-minas-neste-sabado-20-2,Obra do poeta inspira a série; o livro-base é de Ricardo Pieretti Câmara.
+festao,relacionado-a,tv-morena,"Caetano (UFGD, 2012)",https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf,Caetano atribui a Onésimo Filho a organização dos festivais da emissora
+festao,relacionado-a,onesimo-filho,"Teixeira, Os Pioneiros (2009), seção ""Os Campeões do Festão""",,encarregado da TV Morena pelo festival; o livro cita a fala dele
+festao,relacionado-a,tostao,"Teixeira, Os Pioneiros (2009), seção ""Os Campeões do Festão""",,Tostão comenta os resultados de 1979 e 1980
+festao,relacionado-a,zacarias-mourao,"Teixeira, Os Pioneiros (2009), seção ""Os Campeões do Festão""",,segundo lugar na 2ª edição (1980) com música cantada por José Lopes
+festao,relacionado-a,paulo-simoes,"Teixeira, Os Pioneiros (2009); Caetano (UFGD, 2012)",https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf,"coautor de Interior, primeiro lugar na 3ª edição (1981)"
+mitos-vivos,participou-de,antonio-porto,Campo Grande News (2023),https://www.campograndenews.com.br/lado-b/diversao/com-gabriel-sater-serie-vai-do-saci-pantaneiro-ao-boto-paraense,artista convidado da série
+mitos-vivos,participou-de,espedito-di-montebranco,Campo Grande News (2023),https://www.campograndenews.com.br/lado-b/diversao/com-gabriel-sater-serie-vai-do-saci-pantaneiro-ao-boto-paraense,artista convidado da série
+mitos-vivos,participou-de,bruno-moser,Campo Grande News (2023),https://www.campograndenews.com.br/lado-b/diversao/com-gabriel-sater-serie-vai-do-saci-pantaneiro-ao-boto-paraense,artista convidado da série
