@@ -150,3 +150,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-11-01T13:23Z | pesquisador | los-tammys | concluída | US$ 0.11 | modelo claude-sonnet-5-5
 2026-11-01T13:23Z | pesquisador | rodrigues-e-rodriguinho | concluída | US$ 0.18 | modelo claude-sonnet-5-5
 2026-11-01T13:23Z | pesquisador | itamy | concluída | US$ 0.28 | modelo claude-sonnet-5-5
+2026-11-01T13:23Z | pesquisador | juca-ganso | concluída | US$ 0.45 | modelo claude-sonnet-5-5
