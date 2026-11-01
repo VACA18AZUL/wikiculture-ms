@@ -157,3 +157,6 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
 - 
+Rodada de 2026-11-01 (redator). Entrou: identificação, nome civil, apelidos, local de nascimento, divergência de nascimento e de idade (livro, Correio 2010, CGN, Recanto), início da dupla (com a versão do Correio 2022 sobre o coral), trio e duo, rádios, Bandeirantes, programa de Aquidauana, volta a Campo Grande, pausa e retorno com divergências, último show, funções na dupla, depoimento sobre Helena Meirelles, patrono (2009), morte, medalha de 2010 (da dupla), obras (Triste Verdade, Antigo Aposento, Querendo Você) e LP de 1981.
+Ficou de fora: Wikipédia como fato (só link em `links`); glossário (fonte fraca, só confirmação); discografia da dupla além do LP de 1981 (vai para `delio-e-delinha`); autoria de "Criador de Gado Bom" (não confirmada); Sorte, Amor e Canção; causa da morte, saúde, família, velório (regra de dados pessoais); trabalhos acadêmicos (não lidos).
+Sem novos nomes nem relações: todos os links já constam na lista-mestra e em `relacoes.csv`.
