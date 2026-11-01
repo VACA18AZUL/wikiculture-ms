@@ -142,3 +142,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-11-01T06:02Z | pesquisador | marina-peralta | concluída | US$ 0.31 | modelo claude-sonnet-5-5
 2026-11-01T06:02Z | pesquisador | o-menino-que-engoliu-o-sol | concluída | US$ 0.35 | modelo claude-sonnet-5-5
 2026-11-01T06:05Z | redator | crianceiras | concluída | US$ 0.12 | modelo claude-sonnet-5-5
+2026-11-01T06:05Z | redator | ado | concluída | US$ 0.14 | modelo claude-sonnet-5-5

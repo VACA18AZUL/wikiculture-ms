@@ -3,7 +3,7 @@ titulo: Ado
 tipo: pessoa
 areas: [musica]
 cidade: Três Lagoas
-resumo: Cantor, violonista e compositor sertanejo. Integrou as duplas Ado e Adail e Ado e Praense e gravou discos em Assunção nos anos 1970. Segundo o depoimento dele, dirigiu o disco Cadeado de Ouro, de Maciel Corrêa.
+resumo: Cantor, violonista e compositor sertanejo. Integrou as duplas Ado e Adail e Ado e Praense e gravou em Assunção. Segundo o depoimento dele, dirigiu o disco Cadeado de Ouro, de Maciel Corrêa.
 ficha:
   Atividade: Cantor, violonista e compositor; também fotógrafo
   Grupos: Ado e Adail, Ado e Praense, Irmãos Ouro e Prata
@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-01
 ---
 
-**Ado** é cantor, violonista e compositor sertanejo ligado a Três Lagoas, em Mato Grosso do Sul. Integrou as duplas [[ado-e-adail|Ado e Adail]] e [[ado-e-praense|Ado e Praense]].[^ficha]
+**Ado** é cantor, violonista e compositor sertanejo ligado a Três Lagoas, em Mato Grosso do Sul. Integrou as duplas [[ado-e-adail|Ado e Adail]] e [[ado-e-praense|Ado e Praense]].[^ficha][^dupla][^amambay]
 
 ## Trajetória
 
@@ -21,7 +21,7 @@ Em Londrina, conheceu [[praense|Praense]]. A dupla com [[adail|Adail]] terminou,
 
 Ado conta que trabalhava como fotógrafo em Londrina em 1974 e voltou a Campo Grande em abril daquele ano, atraído pelo chamamé que ouvia no rádio.[^crime] Viajou em shows com [[herminio-gimenez|Hermínio Giménez]] e [[xisto-ramires|Xisto Ramires]] por cerca de seis cidades do Estado.[^fronteira] Em depoimento, disse que a "caixinha" rendia a músicos como ele, muitas vezes, o equivalente ao cachê fixo.[^cabana]
 
-Participou de um [[festao|Festão]], festival da [[tv-morena|TV Morena]], com a música "Gigante Adormecido", de [[zacarias-mourao|Zacarias Mourão]], e foi eliminado na primeira eliminatória.[^festao] Teve duas músicas em parceria com Zacarias nos anos 1980.[^personagem]
+Participou de um [[festao|Festão]], festival da [[tv-morena|TV Morena]], com a música "Gigante Adormecido", de [[zacarias-mourao|Zacarias Mourão]], e foi eliminado na primeira eliminatória.[^festao] Segundo Ado, uma música feita em parceria com Zacarias abriu o disco do trio com [[dino-rocha|Dino Rocha]] e [[amambay-e-amambai|Amambay]].[^personagem]
 
 ## Cadeado de Ouro
 
@@ -31,7 +31,7 @@ Amigo do dono do [[supermercado-dos-discos|Supermercado dos Discos]], Ado ouviu 
 
 A seção de abertura do livro atribui *[[pula-pula-coracao|Pula Pula Coração]]* e *[[que-problema-tem|Que Problema Tem?]]* a [[ado-e-adail|Ado e Adail]]. A discografia e a seção "Ado & Adail" os atribuem a [[ado-e-praense|Ado e Praense]].[^abertura][^dupla][^disc]
 
-O livro não afirma em frase que os três blocos da ficha com o nome "Ado" tratam da mesma pessoa. Este verbete os reúne por indícios, como Londrina e a coautoria de "Na Madrugada É Assim".[^ficha][^discmaciel]
+O livro não afirma em frase que todas as menções a "Ado" tratam da mesma pessoa. Este verbete as reúne por indícios, como Londrina e a coautoria de "Na Madrugada É Assim".[^ficha][^discmaciel]
 
 ## Discografia
 
@@ -45,7 +45,7 @@ Segundo a discografia do livro, reproduzida dos encartes:[^disc]
 - *[[os-filhos-da-terra|Os Filhos da Terra]]* (1982) — LP, [[gravadora-discos-e-fitas-xaraes|Xaraés]]; creditado a Ado, Amambai e [[dino-rocha|Dino Rocha]].[^discamb]
 - *[[os-filhos-da-terra-gastando-com-elas|Os Filhos da Terra – Gastando Com Elas]]* (1985) — LP, Xaraés; mesmo crédito.[^discamb]
 
-O livro traz só "Ado" nos créditos dos discos de 1979 a 1985; o de 1979 e o de 1980 se ligam à ficha pelo nome de [[irmaos-ouro-e-prata|Irmãos Ouro e Prata]].[^disc][^discamb]
+O livro traz só "Ado" nos créditos dos discos de 1979 a 1985; o de 1979 e o de 1980 se ligam a ele pelo nome de [[irmaos-ouro-e-prata|Irmãos Ouro e Prata]].[^disc][^discamb]
 
 ## Composições
 
@@ -58,7 +58,7 @@ Composições com crédito a Ado na lista de faixas do livro (seleção):[^disc]
 - "Sonho Predileto" (com [[zacarias-mourao|Zacarias Mourão]]) e "Sem Compromisso", em *[[os-filhos-da-terra|Os Filhos da Terra]]*.[^discamb]
 - "Na Madrugada É Assim" (com [[maciel-correa|Maciel Corrêa]]), em *[[cadeado-de-ouro|Cadeado de Ouro]]* (1981).[^discmaciel]
 
-[^ficha]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, ficha "Ado" em `dados/fontes/os-pioneiros/fichas/ado.md`.
+[^ficha]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, ficha "Ado", registrada em `dados/fontes/os-pioneiros/`.
 [^dupla]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Ado & Adail".
 [^amambay]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Amambay & Amambaí".
 [^circo]: Rodrigo Teixeira, *Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul*, Campo Grande, FIC/MS, 2009, seção "Nos Embalos do Circo".
