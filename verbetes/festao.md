@@ -17,7 +17,7 @@ atualizado: 2026-11-01
 
 ## Trajetória
 
-A organização ficou a cargo de [[onesimo-filho|Onésimo Filho]], da emissora.[^pioneiros] Dissertação de Gilmar Lima Caetano atribui a ele a organização dos festivais da [[tv-morena|TV Morena]] e registra críticas ao modo autoritário de conduzi-los.[^caetano2012]
+A organização ficou a cargo de [[onesimo-filho|Onésimo Filho]], da emissora.[^pioneiros] Caetano liga Onésimo Filho, funcionário da emissora, à retomada dos festivais com o [[fessul|FESSUL]], festival paralelo ao Festão, e registra a crítica de Almir Sater ao comportamento dele no 2º FESSUL.[^caetano2012]
 
 [[onesimo-filho|Onésimo Filho]] contou que Jorge Zahran se entusiasmou com a repercussão do "1º Fessul", que teve o governador Amorim Costa na final, e que então se propôs o Festão.[^pioneiros] Caetano trata o [[fessul|FESSUL]] e o Festão como dois festivais paralelos da mesma emissora, e não como o mesmo evento. Segundo o autor, o Festão apostava na música sertaneja para ganhar popularidade, em contraste com o FESSUL, voltado a um público mais "cult".[^caetano2012]
 
@@ -27,7 +27,7 @@ A segunda edição teve menos inscrições que a primeira; o número não consta
 
 A terceira edição teve menos de 100 inscrições e show de [[dominguinhos|Dominguinhos]].[^pioneiros] Caetano a situa em 1981 e a descreve como evento já enfraquecido, o que atribui em parte aos problemas de organização do [[fessul|FESSUL]].[^caetano2012] Uma regra nova permitiu apenas uma música classificada por pessoa, e houve polêmica sobre *Minha Viola Caipira*, de [[zacarias-mourao|Zacarias Mourão]].[^pioneiros] Caetano descreve o caso como a inclusão irregular de uma música de Zacarias Mourão poucas horas antes da final.[^caetano2012]
 
-[[paulo-simoes|Paulo Simões]] criticou o modelo dos festivais da emissora: enchia ginásios, gravava e transmitia a final e depois reaproveitava a fita.[^caetano2012]
+[[paulo-simoes|Paulo Simões]] criticou o modelo de festivais da maior empresa de mídia local: enchia ginásios, gravava e transmitia a final e depois reaproveitava a fita.[^caetano2012]
 
 ## Resultados
 
