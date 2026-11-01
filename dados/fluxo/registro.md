@@ -132,3 +132,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-11-01T00:07Z | pesquisador | rede-hip-hop-arte-no-entorno | concluída | US$ 0.32 | modelo claude-sonnet-5-5
 2026-11-01T00:07Z | pesquisador | eteca | concluída | US$ 0.32 | modelo claude-sonnet-5-5
 2026-11-01T00:10Z | redator | crianceiras | concluída | US$ 0.17 | modelo claude-sonnet-5-5
+2026-11-01T00:10Z | redator | mitos-vivos | concluída | US$ 0.19 | modelo claude-sonnet-5-5

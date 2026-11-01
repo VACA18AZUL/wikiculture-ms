@@ -87,6 +87,8 @@ Fontes descartadas e o motivo:
 
 ## Uso no verbete
 
-Preenchido pelo redator.
+Preenchido pelo redator (rodada mitos-vivos, 2026-11-01). Fonte cgn2023 reaberta nesta rodada para conferir os dados.
 
--
+- Entrou: formato, criação, produção, pesquisa (início em 2014), apresentação, trilha, elenco, convidados, 12 mitos, locais, pré-estreia de 8/3/2023, planos de exibição (como plano, não confirmado), divergência 13 episódios x 12 mitos, ficha técnica.
+- Ficou de fora: wild2026 (fonte fraca, não aberta nesta rodada; só sustentaria a inspiração nas lendas dos avós); IMDb e Cinando (não lidos); detalhe do cacique terena (legenda de foto, sem relevância); nome do Cinépolis foi mantido, sem endereço.
+- Links: todos os nomes já estão na lista-mestra; nenhum nome novo, então não há dados/propostas/nomes-mitos-vivos.csv. Relações já constam em dados/relacoes.csv.
