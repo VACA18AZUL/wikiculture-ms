@@ -115,4 +115,6 @@ Pistas que apareceram sem fonte que sustente. Não entram no verbete.
 
 Preenchido pelo redator depois de escrever: o que entrou, o que ficou de fora e por quê.
 
--
+- Entrou: organização por Onésimo Filho, origem segundo Onésimo, relação com o FESSUL, as três edições com resultados, divergências sobre vencedores, regra e polêmica do 3º, crítica de Paulo Simões, ficha.
+- Ficou de fora: glossário (fonte fraca); inscrições do 2º; dia e mês do 2º e 3º; título da música de Zacarias no 2º lugar; Guarany ter assistido ao Festão de 1979 (fora do dossiê); links para José Lopes e Jorge Zahran.
+- Incerto: dados de Caetano vieram por paráfrase de espelho de texto; conferir no PDF anos das edições, os 30 mil de público e as páginas.

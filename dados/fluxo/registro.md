@@ -144,3 +144,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-11-01T06:05Z | redator | crianceiras | concluída | US$ 0.12 | modelo claude-sonnet-5-5
 2026-11-01T06:05Z | redator | ado | concluída | US$ 0.14 | modelo claude-sonnet-5-5
 2026-11-01T06:05Z | redator | os-corcundas | concluída | US$ 0.15 | modelo claude-sonnet-5-5
+2026-11-01T06:05Z | redator | festao | concluída | US$ 0.19 | modelo claude-sonnet-5-5
