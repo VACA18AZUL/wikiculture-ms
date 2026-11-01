@@ -22,7 +22,7 @@ O *Catraca Livre* descreveu em 2020 o musical como criação de [[marcio-de-cami
 
 O primeiro CD, *Crianceiras*, foi lançado em 2011, e o espetáculo de 2016 no [[sesc-santo-andre|Sesc Santo André]] foi concebido a partir dele, segundo matéria do portal ABC do ABC. O texto informa que o CD foi indicado ao [[premio-da-musica-brasileira|Prêmio da Música Brasileira]].[^abc2016sesc] O *Catraca Livre* situa a indicação em 2012, na categoria de melhor álbum infantil, e grafa o nome como "Prêmio de Música Brasileira". As fontes lidas não registram vitória.[^catraca2020]
 
-O projeto é usado por professores para apresentar poesia a crianças. A matéria de 2020 atribui o uso ao CD, ao musical e ao aplicativo.[^catraca2020] A página do guia São Paulo para Crianças diz que os CDs de Barros e de Quintana servem como material didático em escolas e que o espetáculo abre agenda para sessões exclusivas para escolas.[^spc2018pompeia] Segundo o *Correio do Estado*, em 2026, desde as primeiras apresentações o projeto passou a ser utilizado por professores.[^ce2026quintana]
+O projeto é usado por professores para apresentar poesia a crianças. A matéria de 2020 atribui o uso ao CD, ao musical e ao aplicativo.[^catraca2020] A página do guia São Paulo para Crianças diz que os CDs de Barros e de Quintana servem como material didático em escolas e que o espetáculo abre agenda para sessões exclusivas para escolas.[^spc2018pompeia] O *Correio do Estado* registra, em 2026, que docentes adotaram o projeto em sala de aula já nas primeiras apresentações.[^ce2026quintana]
 
 ## Crianceiras Manoel de Barros
 
