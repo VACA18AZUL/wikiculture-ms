@@ -129,3 +129,4 @@ Uma linha por rodada, escrita por `scripts/rodada.sh`:
 2026-10-31T19:24Z | fechamento | fechamento | concluída | US$ 4.12 | modelo claude-opus-5-5
 2026-11-01T00:07Z | pesquisador | semana-do-artesao | concluída | US$ 0.15 | modelo claude-sonnet-5-5
 2026-11-01T00:07Z | pesquisador | campo-grande-jazz-festival | concluída | US$ 0.30 | modelo claude-sonnet-5-5
+2026-11-01T00:07Z | pesquisador | rede-hip-hop-arte-no-entorno | concluída | US$ 0.32 | modelo claude-sonnet-5-5
