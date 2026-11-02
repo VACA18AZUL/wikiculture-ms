@@ -12,7 +12,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Jerry_Esp%C3%ADndola
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-10-31
 ---
 
 **Jerry Espíndola** é um cantor e compositor sul-mato-grossense, caçula da família Espíndola e um dos nomes do movimento da polca-rock.[^caeufgd][^cae12]
@@ -32,7 +32,12 @@ Em 26 de fevereiro de 2026, apresentou no Sesc Teatro Prosa, em Campo Grande, o 
 - *Pop Pantanal* — álbum solo. A dissertação de Caetano indica 2000 (Pantanal Discos); o relato de Rodrigo Teixeira que ela cita fala em lançamento em 2001.[^caeufgd]
 - [[polca-rock-cd-jerry-espindola|*Polca-Rock*]] — álbum. Caetano indica 2002 (Elo Music); Gonçalves indica 2003, atribuído a Jerry Espíndola & Croa.[^cae12][^caeufgd][^gon14]
 
+## Filmografia
+
+- [[dama-do-rasqueado-delinha|*A Dama do Rasqueado, Delinha*]] (2017) — documentário, 75 min, dirigido por Marinete Pinheiro; produção, com Marinete Pinheiro.[^cgn-cinesur2023]
+
 [^acritica]: Iury de Oliveira, ["Jerry Espíndola sobe ao palco para celebrar 43 anos de música no Sesc Teatro Prosa"](https://acritica.net/cultura/jerry-espindola-sobe-ao-palco-para-celebrar-43-anos-de-musica-no-sesc-teatro-prosa/), *A Crítica*, 23 fev. 2026. Acesso em 29 out. 2026.
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99. Acesso em 29 out. 2026.
 [^caeufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012. Acesso em 29 out. 2026.
 [^gon14]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014. Acesso em 29 out. 2026.
+[^cgn-cinesur2023]: Thailla Torres, ["Bonito terá Festival de Cinema Sul-americano; veja os selecionados"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bonito-tera-festival-de-cinema-sul-americano-veja-os-selecionados), *Campo Grande News*, 6 out. 2023. Acesso em 31 out. 2026.

@@ -8,7 +8,7 @@ ficha:
   Atividade: Produção de vídeos, curtas e longa-metragem
   Primeiro longa-metragem: As Quatro Estações da Juventude
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-10-31
 ---
 
 A **Casa de Cinema de Aquidauana** é uma produtora audiovisual que realizou vídeos e curtas-metragens em Aquidauana e em Campo Grande.[^cgn]
@@ -22,7 +22,7 @@ O cineasta [[essi-rafael|Essi Rafael]], natural de Aquidauana, dirige o primeiro
 - *Um conto de solidão* (2008) — curta-metragem.[^cgn]
 - *Ela veio me ver* (2011) — curta-metragem.[^cgn]
 - *A TV está ligada* (2014) — curta-metragem.[^cgn]
-- *As Quatro Estações da Juventude* — documentário de longa-metragem, o primeiro da produtora. Acompanha, ao longo de uma década, jovens estudantes da Universidade Federal de São Carlos (SP). A trilha sonora original é do músico Leo Copetti, de Campo Grande.[^cgn]
+- [[as-quatro-estacoes-da-juventude|*As Quatro Estações da Juventude*]] — documentário de longa-metragem, o primeiro da produtora. Acompanha, ao longo de uma década, jovens estudantes da Universidade Federal de São Carlos (SP). A trilha sonora original é do músico Leo Copetti, de Campo Grande.[^cgn]
 
 A reportagem cita os três curtas como os de maior notoriedade e diz que foram exibidos em festivais nacionais e internacionais.[^cgn]
 

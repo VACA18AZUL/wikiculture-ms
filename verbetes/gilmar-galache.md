@@ -8,7 +8,7 @@ ficha:
   Povo: Terena
   Grupos: ASCURI – Associação Cultural dos Realizadores Indígenas (fundador)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-10-31
 ---
 
 **Gilmar Galache**, também chamado Gilmar Kiripuku Galache, é um cineasta e videasta terena de Mato Grosso do Sul, fundador da [[ascuri|ASCURI – Associação Cultural dos Realizadores Indígenas]].[^tese-fundacao]
@@ -25,7 +25,7 @@ Galache coordenou, com Eliel Benites, o fórum mais recente do FIDA, realizado n
 
 ## Filmografia
 
-- *Jepea'yta – A lenha principal* (2012) — média-metragem de ficção e documentário; direção, com Nataly Foscaches, imagens e edição. A tese informa 25 minutos; o artigo de Corrêa e Banducci fala em 24 minutos.[^tese-jepeayta][^geminis]
+- [[jepeayta|*Jepea'yta – A lenha principal*]] (2012) — média-metragem de ficção e documentário; direção, com Nataly Foscaches, imagens e edição. A tese informa 25 minutos; o artigo de Corrêa e Banducci fala em 24 minutos.[^tese-jepeayta][^geminis]
 - *As aventuras de Perurimã e o Pássaro de ouro* (2013) — curta de comédia de cerca de 4 minutos, feito em oficina na aldeia Pirakuá; direção coletiva, com coordenação geral de Galache.[^tese-perurima]
 - *Pirakuá – Os Guardiões do Rio Apa* (2014) — documentário, 11 min; direção e edição.[^tese-pirakua]
 - *Tatatĩn Rape, o Caminho da Fumaça* (2022) — direção coletiva; edição, junto com Ademilson Concianza Verga e Gilearde Barbosa.[^tese-2022]
