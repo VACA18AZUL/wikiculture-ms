@@ -21,7 +21,7 @@ O primeiro disco, *Pra falar de coisas simples*, foi gravado em 2011, com direç
 
 No edital de 2016 do Som da Concha, ficou em 4º lugar entre os shows de encerramento.[^fcms2016d] Em 26 de junho de 2016, apresentou no projeto o show do segundo disco, *Como Bolhas, Água e Sabão*, com versões de "Pele a pele", de [[guilherme-rondon|Guilherme Rondon]] e [[paulo-simoes|Paulo Simões]], e "Solitária", de Rodrigo Faleiros.[^fcms2016a][^fcms2016b] O disco é descrito como mais próximo do rock e do blues que o primeiro.[^fcms2016c]
 
-O show "Giani Torres Convida…" estreou em 2016, com [[geraldo-espindola|Geraldo Espíndola]], André Pantera e [[beget-de-lucena|Begèt De Lucena]] como convidados, em Dourados e no Teatro Prosa, em Campo Grande.[^fcms2016c][^fcms2018] Em maio de 2018, a fundação anunciou nova apresentação no Som da Concha, com Guga Borba e Begèt de Lucena.[^fcms2018]
+O show "Giani Torres Convida…" estreou em 2016, com [[geraldo-espindola|Geraldo Espíndola]], André Pantera e [[beget-de-lucena|Begèt De Lucena]] como convidados, em Dourados e no [[sesc-teatro-prosa|Teatro Prosa]], em Campo Grande.[^fcms2016c][^fcms2018] Em maio de 2018, a fundação anunciou nova apresentação no Som da Concha, com Guga Borba e Begèt de Lucena.[^fcms2018]
 
 Em 22 de setembro de 2024, voltou ao Som da Concha, na mesma noite de Kalélo, com faixas dos dois álbuns. Disse que era a terceira ou quarta vez que participava do projeto.[^fcms2024]
 

@@ -42,3 +42,9 @@ Conferido também o verbete bonito-cinesur (premiados da mostra sul-mato-grossen
 ## Uso no verbete
 
 - Entrou tudo acima.
+
+## Revisão de 2026-11-04 (valn-20)
+
+- acritica2026 e ce2026 reabertas e conferidas: seleção, direção e sinopse conferem.
+- As duas fontes são anteriores ao festival (6 e 9 jun. 2026): o período 24 jul.-1º ago. 2026 passou a ser dito como data marcada. Não foi lida fonte que confirme a exibição.
+- A sinopse do Correio parece texto de divulgação do festival ("Mostra 'Fronteiriças': ..."); a fonte não diz quem a escreveu.

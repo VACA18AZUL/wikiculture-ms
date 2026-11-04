@@ -15,7 +15,7 @@ O **Grupo Bailah** é um grupo de dança de salão de Campo Grande, descrito pel
 
 ## Trajetória
 
-Em abril de 2008, o *Correio do Estado* anunciou o Grupo Bailah, da UFMS, com o espetáculo "É o que tem pra hoje" no Teatro Prosa, do Sesc Horto, em Campo Grande.[^ce2008]
+Em abril de 2008, o *Correio do Estado* anunciou o Grupo Bailah, da UFMS, com o espetáculo "É o que tem pra hoje" no [[sesc-teatro-prosa|Teatro Prosa]], do Sesc Horto, em Campo Grande.[^ce2008]
 
 Em maio de 2015, o grupo dançou na mostra de dança da [[semana-pra-danca|Semana pra Dança]], no Teatro Aracy Balabanian, ao lado de outros grupos da capital.[^fcms2015b]
 

@@ -15,7 +15,7 @@
 | ce2008 | "Grupo Bailah se apresenta no Teatro Prosa", Correio do Estado, 26 abr. 2008 | https://correiodoestado.com.br/cidades/2008/04/26/grupo-bailah-se-apresenta-no-teatro-prosa.html | imprensa (anúncio) | sim |
 | fcms2015a | FCMS, "Centro Cultural oferece Curso de Dança de Salão direcionado para pessoas tímidas", 1 abr. 2015 | https://www.fundacaodecultura.ms.gov.br/centro-cultural-oferece-curso-de-danca-de-salao-direcionado-para-pessoas-timidas/ | institucional | sim (identifica o grupo como grupo coreográfico de dança de salão da UFMS) |
 | fcms2015b | FCMS, "Público lota teatro Aracy Balabanian no segundo dia de apresentações da Semana Pra Dança", 18 maio 2015 | https://www.fundacaodecultura.ms.gov.br/publico-lota-teatro-aracy-balabanian-no-segundo-dia-de-apresentacoes-da-semana-pra-danca/ | cobertura | sim |
-| fcms2016a | FCMS, "Fundação de Cultura leva a Terenos o Circuito Dança no Mato com espetáculos de graça", 5 out. 2016 | https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-leva-a-terenos-o-circuito-danca-no-mato-com-espetaculos-de-graca/ | anúncio | sim |
+| fcms2016a | FCMS, "Fundação de Cultura leva a Terenos o Circuito Dança no Mato com espetáculos de graça", 5 out. 2016 | https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-leva-a-terenos-o-circuito-danca-do-mato-com-espetaculos-de-graca/ | anúncio | sim |
 | fcms2016b | FCMS, "Espetáculos do Circuito Dança no Mato encantam público em Terenos", 8 out. 2016 | https://www.fundacaodecultura.ms.gov.br/espetaculos-do-circuito-danca-do-mato-encantam-publico-em-terenos/ | cobertura | sim |
 | fcms2017a | FCMS, "Assentamento Rural recebe pela primeira vez espetáculo de teatro durante Festival", 28 jul. 2017 | https://www.fundacaodecultura.ms.gov.br/assentamento-rural-recebe-pela-primeira-vez-espetaculo-de-teatro-durante-festival/ | anúncio | sim |
 | fcms2017b | FCMS, "'Por um fio', da Mimulus Cia de Dança, surpreende o público do Festival pela qualidade e sensibilidade", 1 ago. 2017 | https://www.fundacaodecultura.ms.gov.br/por-um-fio-da-mimulus-cia-de-danca-surpreende-o-publico-do-festival-pela-qualidade-e-sensibilidade/ | cobertura | sim |
@@ -43,7 +43,7 @@ Wikipédia: sem artigo.
 |---|---|---|
 | ufms | relacionado-a | ce2008, fcms2015a |
 | semana-pra-danca | apresentou-em | fcms2015b, fcms2018a |
-| circuito-danca-no-mato | apresentou-em | fcms2016b |
+| circuito-danca-do-mato | apresentou-em | fcms2016b |
 | festival-de-inverno-de-bonito | apresentou-em | fcms2017b |
 | festival-danca-tres | participou-de | fcms2017c |
 

@@ -16,7 +16,7 @@ O **Grêmio Recreativo Escola de Samba Cinderela Tradição do Bairro José Abr�
 
 ## Carnavais
 
-No carnaval de 2016, a escola venceu o grupo de acesso, à frente da Unidos do Aero Rancho e da escola do bairro São Francisco.[^ce2016] No ano seguinte, ficou em último lugar no grupo especial, com 246,4 pontos, e voltou ao grupo de acesso com a [[unidos-do-cruzeiro|Unidos do Cruzeiro]].[^ce2017]
+No carnaval de 2016, a escola venceu o grupo de acesso, à frente das escolas dos bairros Aero Rancho e São Francisco.[^ce2016] No ano seguinte, ficou em último lugar no grupo especial, com 246,4 pontos, e voltou ao grupo de acesso com a [[unidos-do-cruzeiro|Unidos do Cruzeiro]].[^ce2017]
 
 Em 2022, quando o desfile foi adiado para abril por causa da pandemia, a escola foi escalada para a primeira noite, 20 de abril, com o enredo "Cinderelas que brilham. A força do empoderamento feminino".[^ce2022]
 

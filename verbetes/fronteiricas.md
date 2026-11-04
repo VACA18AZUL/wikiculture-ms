@@ -19,7 +19,7 @@ O filme acompanha o cotidiano de mulheres que vivem no antigo assentamento hoje 
 
 ## Exibição
 
-Foi selecionado para a mostra competitiva de filmes sul-mato-grossenses da quarta edição do [[bonito-cinesur|Bonito CineSur]], festival de cinema sul-americano realizado em Bonito de 24 de julho a 1º de agosto de 2026.[^acritica2026]
+Foi selecionado para a mostra competitiva de filmes sul-mato-grossenses da quarta edição do [[bonito-cinesur|Bonito CineSur]], festival de cinema sul-americano marcado para Bonito entre 24 de julho e 1º de agosto de 2026, segundo o anúncio da seleção.[^acritica2026]
 
 ## Ficha técnica
 
