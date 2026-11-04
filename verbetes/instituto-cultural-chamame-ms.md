@@ -22,7 +22,7 @@ O mesmo texto de 2024 atribui ao instituto e ao programa de rádio "A Hora do Ch
 
 ## Festivais
 
-O instituto realiza o [[festival-cultural-do-chamame-ms|Festival Cultural do Chamamé de Mato Grosso do Sul]], com a proposta de integração entre Brasil, Paraguai e Argentina. A sétima edição ocorreu de 15 a 23 de setembro de 2024, com programação no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], na Praça do Rádio e no Centro de Tradições Gaúchas. Orivaldo Mengual era o diretor-geral.[^cde2024]
+O instituto realiza o [[festival-cultural-do-chamame-ms|Festival Cultural do Chamamé de Mato Grosso do Sul]], com a proposta de integração entre Brasil, Paraguai e Argentina. A sétima edição foi anunciada para 15 a 23 de setembro de 2024, com programação prevista no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], na Praça do Rádio e no Centro de Tradições Gaúchas. Orivaldo Mengual era o diretor-geral.[^cde2024]
 
 Para a oitava edição, de 17 a 20 de setembro de 2026, no Teatro Aracy Balabanian e na Colônia Paraguaia, o Governo do Estado e a Fundação de Cultura firmaram com o instituto um termo de fomento de R$ 400 mil.[^cde2026]
 

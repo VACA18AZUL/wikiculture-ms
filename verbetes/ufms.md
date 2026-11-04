@@ -32,7 +32,7 @@ Além da sede, onde funciona a Faculdade de Artes, Letras e Comunicação (Faalc
 
 Em 22 de julho de 2019, durante a 71ª reunião anual da Sociedade Brasileira para o Progresso da Ciência (SBPC), a UFMS concedeu o título de doutor honoris causa a [[humberto-espindola|Humberto Espíndola]], [[isaac-de-oliveira|Isaac de Oliveira]] e [[almir-sater|Almir Sater]]. Segundo a assessoria da universidade, citada pelo *Correio do Estado*, foi a primeira vez que artistas receberam a honraria, dada até então a 27 pessoas, sobretudo pesquisadores.[^ce2019]
 
-A [[escola-de-danca-da-ufms|Escola de Dança da UFMS]] surgiu em 2012, a partir do Núcleo de Estudos em Dança e Movimento (Nedem). Em 2019, a escola e o Nedem lançaram a [[sinapse-cia-de-danca-contemporanea-ufms|Sinapse Cia de Dança Contemporânea UFMS]].[^ufms2025]
+A [[escola-de-danca-da-ufms|Escola de Dança da UFMS]] surgiu em 2012, a partir das reuniões do Núcleo de Estudos em Dança e Movimento (Nedem). Em 2019, a escola, em parceria com o Nedem, propôs a criação de uma companhia de dança da universidade, hoje chamada [[sinapse-cia-de-danca-contemporanea-ufms|Sinapse Cia de Dança Contemporânea UFMS]].[^ufms2025]
 
 Na Faalc, a página da faculdade lista graduações em [[curso-de-audiovisual-da-ufms|Audiovisual]], Artes Visuais (bacharelado e licenciatura), Jornalismo, Letras e Música.[^faalc]
 

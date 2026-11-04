@@ -19,9 +19,9 @@ A montagem trata da convivência entre duas pessoas que atravessam conflitos, af
 
 ## Apresentações
 
-Em setembro de 2025, *Seco* esteve na programação do 11º [[festival-internacional-de-teatro-de-dourados|Festival Internacional de Teatro de Dourados]] (FIT). Foi apresentado em 18 de setembro no Núcleo de Artes Cênicas da UFGD, com lotação máxima, e reapresentado no dia seguinte.[^cgn2025]
+Em setembro de 2025, *Seco* esteve na programação do 11º [[festival-internacional-de-teatro-de-dourados|Festival Internacional de Teatro de Dourados]] (FIT). Foi apresentado em 18 de setembro no Núcleo de Artes Cênicas da UFGD, com lotação máxima, e teve reapresentação marcada para o dia seguinte.[^cgn2025]
 
-De 25 a 28 de junho de 2026, fez temporada gratuita na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], no Centro de Campo Grande. A temporada fez parte do projeto Fulano di Tal em Ação, contemplado no edital de 2024 do [[fomteatro|Fomteatro]], programa de fomento ao teatro da Fundac.[^acritica2026]
+Para 25 a 28 de junho de 2026, foi anunciada uma temporada gratuita na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], no Centro de Campo Grande. A temporada integrava o projeto Fulano di Tal em Ação, contemplado no edital de 2024 do [[fomteatro|Fomteatro]], programa de fomento ao teatro da Fundac.[^acritica2026]
 
 ## Divergências entre fontes
 

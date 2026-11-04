@@ -40,7 +40,7 @@ Fontes descartadas e o motivo:
 - A Faalc lista graduações em Audiovisual, Artes Visuais (bacharelado e licenciatura), Jornalismo, Letras e Música. [faalc]
 
 - Em 22 jul. 2019, durante a 71ª reunião da SBPC, deu o título de doutor honoris causa a Humberto Espíndola, Isaac de Oliveira e Almir Sater; segundo a assessoria, foi a primeira vez que artistas receberam a honraria; até então, 27 pessoas, sobretudo pesquisadores, a tinham recebido em 40 anos. [ce2019]
-- Escola de Dança da UFMS, criada em 2012 a partir do Núcleo de Estudos em Dança e Movimento (Nedem); em 2019 deu origem à Sinapse Cia de Dança Contemporânea UFMS. [ufms2025]
+- Escola de Dança da UFMS, criada em 2012 a partir do Núcleo de Estudos em Dança e Movimento (Nedem); em 2019, com o Nedem, propôs o lançamento de uma companhia de dança da UFMS, hoje Sinapse Cia de Dança Contemporânea UFMS (a fonte diz "propôs o lançamento"). [ufms2025]
 
 ## Ligações com outros nomes
 
@@ -48,8 +48,8 @@ Fontes descartadas e o motivo:
 |---|---|---|---|---|
 | humberto-espindola, isaac-de-oliveira | premiado-por | ce2019 | sim | sim (já em relacoes.csv) |
 | almir-sater | premiado-por | ce2019 | sim | sim (proposta nova) |
-| escola-de-danca-da-ufms | gerido-por | faalc | "Estrutura curricular – Audiovisual", *FAALC/UFMS* | https://faalc.ufms.br/estrutura-curricular-audiovisual-2/ | institucional | sim (menu de graduações da Faalc) |
-| ufms2025 | sim | sim |
+| escola-de-danca-da-ufms | parte-de | ufms2025 | sim | sim |
+| sinapse-cia-de-danca-contemporanea-ufms | parte-de | ufms2025 | sim | sim |
 
 ## Divergências entre fontes
 
