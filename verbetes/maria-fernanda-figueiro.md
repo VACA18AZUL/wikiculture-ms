@@ -18,7 +18,7 @@ Em 2023, ao pesquisar para o espetáculo *Chafica*, produzido pela [[cia-do-mato
 
 A partir disso, idealizou o [[acervo-da-danca-sul-mato-grossense|Acervo da Dança Sul-Mato-Grossense]], projeto contemplado pela Política Nacional Aldir Blanc (PNAB). O projeto digitalizou documentos administrativos da ASMPD, folders de espetáculos, programas de festivais e cerca de 33 horas de vídeo em fitas VHS. As fitas foram retiradas do MIS por empréstimo em 7 de agosto de 2025. O material foi reunido numa plataforma digital.[^ce2026]
 
-Em setembro de 2025, foi uma das nove jovens brasileiras selecionadas pela [[funarte|Funarte]], no Programa Brasil Conexões Internacionais 2025, para a comitiva que acompanhou a 21ª Bienal de Dança de Lyon, na França. Na bienal, apresentou um trecho do espetáculo *Quem a mim nomeou o mundo*.[^cgn2025]
+Em setembro de 2025, foi uma das nove jovens brasileiras selecionadas pela [[funarte|Funarte]], no Programa Brasil Conexões Internacionais 2025, para a comitiva que acompanhou a 21ª Bienal de Dança de Lyon, na França. A programação em Lyon previa a apresentação de um trecho do espetáculo *Quem a mim nomeou o mundo*.[^cgn2025]
 
 ## Espetáculos
 

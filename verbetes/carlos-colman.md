@@ -27,7 +27,7 @@ Foi um dos entrevistados do livro [[a-musica-de-mato-grosso-do-sul-historias-de-
 
 ## Discografia
 
-- *Parceria* (2018) — quinto disco, com 14 canções; produção de Ana Paula Duarte, que divide os vocais com ele. Inclui "Analua".[^cgn2018]
+- *Parceria* (2018) — quinto disco, com 14 canções; produção de Ana Paula Duarte. Inclui "Analua".[^cgn2018]
 
 A reportagem de 2018 também o apresenta como autor de "Castelânea".[^cgn2018]
 

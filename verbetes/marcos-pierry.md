@@ -9,7 +9,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Marcos Pierry** é curador de cinema e autor de reportagens de cultura publicadas no caderno Correio B, do *Correio do Estado*.[^ce2024][^cghq]
+**Marcos Pierry** é curador de cinema e autor de reportagens de cultura publicadas no caderno Correio B, do *Correio do Estado*. O curador citado em 2024 e o autor das matérias assinadas no jornal são tratados aqui como a mesma pessoa, pelo nome e pelo veículo.[^ce2024][^cghq]
 
 ## Trajetória
 

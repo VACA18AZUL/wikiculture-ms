@@ -18,7 +18,7 @@ Em 2016, era professor na Escola Indígena Pa'i Chiquito, de Panambizinho, e lic
 
 Fez mais de 500 desenhos para o Dicionário Kaiowá-Português, que em 2022 ainda estava em elaboração.[^cgn2022] O dicionário, de 760 páginas, saiu em 2024, com ilustrações dele e de Jaciara Marschner.[^fiu2025]
 
-Em abril de 2022, 65 desses desenhos foram retrabalhados em intercâmbio com os artistas visuais [[tom-kyo|Tom Kyo]] e [[ana-sol|Ana Sol]], de Dourados. O resultado foi a exposição *Imagens da Vida Kaiowá*, aberta em 9 de abril de 2022 na Sala Amarela do [[casulo-espaco-de-arte-e-cultura|Casulo Espaço de Arte e Cultura]], em Dourados, por 60 dias.[^cgn2022]
+Em 2022, 65 desses desenhos foram escolhidos para um intercâmbio com os artistas visuais [[tom-kyo|Tom Kyo]] e [[ana-sol|Ana Sol]], de Dourados. O resultado foi a exposição *Imagens da Vida Kaiowá*, com abertura anunciada para 9 de abril de 2022 na Sala Amarela do [[casulo-espaco-de-arte-e-cultura|Casulo Espaço de Arte e Cultura]], em Dourados, e visitação prevista para 60 dias.[^cgn2022]
 
 ## Obras
 

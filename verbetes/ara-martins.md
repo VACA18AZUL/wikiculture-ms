@@ -26,7 +26,7 @@ Em outubro de 2024, *A Menina e a Árvore*, animação de 10 minutos dirigida po
 ## Filmografia
 
 - *Adão e Eva do Pantanal Sul* (2023) — curta documental; direção. A matéria de 2023 grafa o título como *O Adão e a Eva do Pantanal Sul*.[^sessao] Lista do Bonito CineSur: direção e produção.[^cinesur2023]
-- *A Menina e a Árvore* — curta de animação, 10 min; direção.[^selecionados]
+- [[a-menina-e-a-arvore|*A Menina e a Árvore*]] — curta de animação, 10 min; direção.[^selecionados]
 - *+ Forte* (2025) — filme selecionado para a Mostra Itinerante Cinema de Sala 2026; direção.[^cinemadesala] Também consta na Mostra de Animação Regional MS 2026.[^teatrine]
 
 [^selecionados]: Thailla Torres, ["Veja todos os filmes selecionados para o Festival Curta Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/veja-todos-os-filmes-selecionados-para-o-festival-curta-campo-grande), *Campo Grande News*, 2 out. 2024. Acesso em 29 out. 2026.

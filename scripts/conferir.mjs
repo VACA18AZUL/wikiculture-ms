@@ -35,6 +35,13 @@ for (const arquivo of arquivos) {
     }
     continue;
   }
+  // O esquema exige texto em cada campo de `ficha` (ex.: Ano: "2008", com aspas).
+  const dadosFicha = doc.toJS()?.ficha;
+  if (dadosFicha && typeof dadosFicha === 'object') {
+    for (const [campo, valor] of Object.entries(dadosFicha)) {
+      if (typeof valor !== 'string') erros.push(`${arquivo}: ficha.${campo} precisa ser texto entre aspas (o build recusa) -> ${valor}`);
+    }
+  }
 
   const id = arquivo.replace(/\.md$/, '');
   const videos = [];

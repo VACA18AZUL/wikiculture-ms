@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Escultura de Pedro Guilherme instalada no Lago do Amor, em Campo Grande, apontada pela imprensa local como símbolo do lago.
 ficha:
   Autor: Pedro Guilherme Garcia Góes
-  Ano: 2008
+  Ano: "2008"
   Material: Concreto armado
   Onde ver: Lago do Amor, Campo Grande
 status: rascunho

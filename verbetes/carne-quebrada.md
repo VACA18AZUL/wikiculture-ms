@@ -3,7 +3,7 @@ titulo: Carne Quebrada
 tipo: obra
 areas: [danca]
 cidade: Corumbá
-resumo: Espetáculo da Cia. de Dança do Pantanal, de Corumbá, inspirado no romance A Carne, de Júlio Ribeiro; apresentado no Rio de Janeiro e em Paris em 2022.
+resumo: Espetáculo da Cia. de Dança do Pantanal, de Corumbá, inspirado no romance A Carne, de Júlio Ribeiro; apresentado no Rio de Janeiro e levado a Paris em 2022.
 ficha:
   Companhia: "[[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]]"
   Coreografia: "[[wellington-julio|Wellington Júlio]]"
@@ -21,7 +21,7 @@ A coreografia é de [[wellington-julio|Wellington Júlio]], que também dança n
 
 ## Apresentações
 
-Em 2022, o espetáculo foi apresentado no Rio de Janeiro, numa etapa do 20º [[festival-danca-em-transito|Dança em Trânsito]]. De 16 a 18 de setembro do mesmo ano, foi levado a Paris, em outra etapa do festival, com uma sessão na Embaixada do Brasil na França.[^cgn2022]
+Em 2022, o espetáculo foi apresentado no Rio de Janeiro, numa etapa do 20º [[festival-danca-em-transito|Dança em Trânsito]]. Em setembro do mesmo ano, os três bailarinos viajaram a Paris para apresentá-lo em outra etapa do festival. As sessões estavam marcadas para 16 a 18 de setembro, e uma delas estava prevista na Embaixada do Brasil na França.[^cgn2022]
 
 Em março de 2026, a companhia o apresentou com *Guadakan* no Fórum Internacional Femina Vox, em Campo Grande.[^critica2026]
 

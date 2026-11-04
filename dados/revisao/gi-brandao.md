@@ -44,4 +44,4 @@
 
 ## Veredito
 
-- Pronto para pull request: sim, após as correções (duas matérias, mesmo veículo).
+- Passa após as correções, mas as duas notas são do mesmo veículo (conferir acusa fonte única por domínio).
