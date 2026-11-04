@@ -20,6 +20,10 @@ Outro texto da equipe do projeto, sem data indicada, dá origem diferente para o
 
 Em 2019, uma ação de extensão da UFMS, *O Circo vai a uma escola das águas*, já havia levado circo a uma escola das águas. Ela foi interrompida pela pandemia e retomada quatro anos depois.[^urd]
 
+Em julho de 2018, a UFMS noticiou que o projeto de extensão *Ginástica Geral e Atividade Circense*, do Campus do Pantanal, funcionava desde abril daquele ano, coordenado por Rogério Zaim de Melo, com cerca de 35 participantes dos cursos de Educação Física, Ciências Biológicas e Psicologia e cerca de 20 do IFMS, Campus Corumbá. A matéria diz que o Los Pantaneiros foi formado dentro do projeto, como grupo de ginástica circense, com 25 membros efetivos, e conta que o grupo visitou o Circo di Sarah durante a temporada na cidade.[^ufms2018] O texto de extensão da UNIRV fala em cerca de 30 participantes no Campus do Pantanal; a notícia da UFMS, em cerca de 35.[^unirv][^ufms2018]
+
+Em fevereiro de 2025, a UFMS apresentou o *Pequeños Pantaneiros*, que atende crianças de 6 a 10 anos de Corumbá e Ladário, como desdobramento do projeto Los Pantaneiros, coordenado por Rogério Zaim. Segundo a matéria, ele surgiu em 2023, depois de pedidos para oferecer atividades semelhantes às crianças.[^ufms2025]
+
 ## Viagem de 2023
 
 Em outubro de 2023, uma trupe de um professor universitário, um professor de circo e oito acadêmicos subiu o rio Paraguai, a partir de Corumbá, para apresentar um espetáculo a crianças de duas escolas das águas, Jatobazinho e Paraguai Mirim. O professor de circo era [[mauro-shiroma|Mauro Shiroma]], da Vivart.[^urd]
@@ -34,3 +38,5 @@ Segundo os autores, a ação de extensão de 2019 foi inspirada em *[[navegando-
 
 [^urd]: Rogério Zaim-de-Melo, Luís Bruno de Godoy e Teresa Ontañón Barragán, ["Um barco, um rio, um circo"](https://revistas.udesc.br/index.php/urdimento/article/download/24895/16975), *Urdimento – Revista de Estudos em Artes Cênicas*, v. 2, n. 51, jul. 2024, p. 1-14 e referências. Acesso em 4 nov. 2026.
 [^unirv]: Rogério Zaim-de-Melo et al., ["A trajetória dos Los Pantaneiros: de um projeto de extensão a um grupo ginástico circense"](https://www.unirv.edu.br/conteudos/fckfiles/files/A%20TRAJET%C3%93RIA%20DOS%20LOS%20PANTANEIROS%20DE%20UM%20PROJETO%20DE%20EXTENS%C3%83O%20A%20UM%20GRUPO%20GIN%C3%81STICO%20CIRCENSE.pdf), texto de extensão (área temática Cultura; evento e ano não indicados no PDF), p. 1-4. Acesso em 4 nov. 2026.
+[^ufms2018]: Ariane Comineti, ["Atividades circenses e ginástica geral desenvolvem habilidades motoras e promovem a superação"](https://www.ufms.br/em-corumba-atividades-circenses-e-ginastica-geral-desenvolvem-habilidades-motoras-e-promovem-a-superacao/), Portal da UFMS, 24 jul. 2018. Acesso em 4 nov. 2026.
+[^ufms2025]: Rúbia Pedra, ["Atividades circenses do Câmpus do Pantanal abrem inscrições para crianças de 6 a 10 anos"](https://www.ufms.br/atividades-circenses-do-campus-do-pantanal-abrem-inscricoes-para-criancas-de-6-a-10-anos/), Portal da UFMS, 7 fev. 2025. Acesso em 4 nov. 2026.

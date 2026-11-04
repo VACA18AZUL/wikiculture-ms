@@ -38,3 +38,13 @@ Fonte nova aberta e lida (PDF de 5 p.):
 - Divergência de enquadramento (não de fato): o Urdimento liga o grupo ao projeto *Redescobrindo o circo como recurso pedagógico*; o texto da UNIRV o liga a *Ginástica Geral e Atividade Circense* (2018) e cita *Redescobrindo o circo como projeto pedagógico* entre as ações de 2011-2014. O verbete traz as duas versões.
 - Buscas (resumos): UFC repositório (art. 2021, *Educação em Debate*), Perspectivas em Diálogo (UFMS, "A infância da criança pantaneira") e Revista GeoPantanal são do mesmo autor; o PDF do UFC e o da Dialnet não abriram (reset). Não há notícia da UFMS ou da imprensa de Corumbá localizada.
 - Conclusão: ainda sem fonte de autoria independente.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+Fontes novas abertas e lidas (Portal da UFMS, institucional; autoria da assessoria, diferente dos autores do Urdimento/UNIRV):
+
+- Ariane Comineti, "Atividades circenses e ginástica geral desenvolvem habilidades motoras e promovem a superação", 24 jul. 2018. Sustenta: projeto *Ginástica Geral e Atividade Circense* (CPAN) desde abril de 2018; ~35 participantes CPAN e ~20 IFMS; Los Pantaneiros formado dentro do projeto como grupo de ginástica circense (25 membros efetivos); visita ao Circo di Sarah; coordenação de Rogério Zaim de Melo. Reforça de forma independente a origem em *Ginástica Geral e Atividade Circense* (versão do texto UNIRV) e o ano de 2018.
+- Rúbia Pedra, "Atividades circenses do Câmpus do Pantanal abrem inscrições para crianças de 6 a 10 anos", 7 fev. 2025. Sustenta: *Pequeños Pantaneiros* (2023) como desdobramento do projeto Los Pantaneiros. Fatos novos acrescentados ao verbete.
+- Divergência numérica: ~30 participantes no CPAN (UNIRV) x ~35 (UFMS 2018). Registrada no verbete com as duas notas.
+- Não sustentam: a viagem de 2023 às escolas das águas nem o espetáculo em si (continuam só no Urdimento). Aberta e sem uso: cpan.ufms.br, "Retorno das Atividades do Projeto Pequeños Pantaneiros" (24 jan. 2025, assinada pelo próprio coordenador; não cita Los Pantaneiros). Pista não aberta: cpan.ufms.br, 18 set. 2026, "Vem aí o Festival Mais Cultura" (apresentação "Tecido e Lira" do grupo; só resumo).
+- Não localizada notícia da UFMS ou da imprensa sobre a viagem de out.-nov. de 2023.

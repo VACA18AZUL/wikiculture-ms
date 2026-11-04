@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 Em *Madalena*, filme rodado em Dourados, interpreta Bianca, uma dos três jovens da trama, ao lado de [[natalia-mazarim|Natália Mazarim]] (Luziane) e [[rafael-de-bona|Rafael de Bona]] (Cristiano).[^cgn2021][^mostra] O filme teve estreia mundial no 50º Festival Internacional de Cinema de Roterdã.[^cgn2022]
 
-No Festival de Cinema de Lima, no Peru, recebeu o prêmio de melhor interpretação, o prêmio Gio, dado pela Crônicas de Diversidade a filmes LGBTIQ+.[^cgn2022]
+Segundo o Campo Grande News, *Madalena* recebeu três prêmios no Festival de Cinema de Lima, no Peru, e o de melhor interpretação foi para ela. A mesma frase da reportagem cita o prêmio Gio, da Crônicas de Diversidade, para filmes LGBTIQ+, sem deixar clara a relação entre os dois prêmios.[^cgn2022]
 
 ## Filmografia
 
