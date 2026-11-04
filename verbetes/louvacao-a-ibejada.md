@@ -21,9 +21,9 @@ atualizado: 2026-11-04
 
 ## Produção
 
-Segundo a Fundação de Cultura de Mato Grosso do Sul, o filme continua a websérie *Encruzilhada de Estórias: Registro das Festividades Afro Brasileiras de Corumbá e Ladário*, em que a diretora registrou outras festas religiosas de matriz africana da região. Foi gravado entre 2021 e 2022 e levou alguns anos até o lançamento. A diretora, umbandista, diz ter optado por um formato entre o cinema direto e o cinema-verdade.[^fcms2025a]
+Segundo a Fundação de Cultura de Mato Grosso do Sul, o filme continua a websérie *Encruzilhada de Estórias: Registro das Festividades Afro Brasileiras de Corumbá e Ladário*, em que a diretora já havia filmado festas de religiões afro-brasileiras de Corumbá e Ladário. Foi gravado entre 2021 e 2022 e levou alguns anos até o lançamento. A diretora, umbandista, diz ter escolhido um formato que mistura cinema direto e cinema-verdade.[^fcms2025a]
 
-A produção teve recursos da Lei Paulo Gustavo, do Ministério da Cultura, por meio de edital da [[fundacao-da-cultura-de-corumba|Fundação de Cultura de Corumbá]]. O lançamento estava previsto para o canal da Bela Oyá Pantanal no YouTube, com legenda e interpretação em Libras.[^fcms2025a]
+A produção foi financiada pela Lei Paulo Gustavo, do Ministério da Cultura, com seleção em edital da [[fundacao-da-cultura-de-corumba|Fundação de Cultura de Corumbá]]. O lançamento estava previsto para o canal da Bela Oyá Pantanal no YouTube, com legenda e interpretação em Libras.[^fcms2025a]
 
 ## Lançamento
 

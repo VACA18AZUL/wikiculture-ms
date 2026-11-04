@@ -15,13 +15,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Aprendeu a tocar violão aos 15 anos, segundo reportagem de 2013, ou aos 18, segundo outra, de 2019.[^cgn2013][^cgn2019] Tocou em bares de Campo Grande e em projetos alternativos, como o Sarau do [[ze-geral|Zé Geral]].[^cgn2013] A Fundação de Cultura de MS diz que ela começou cantando canções de Almir Chediak, Cazuza, Caetano Veloso e Rita Lee e que conviveu com músicos como [[juci-ibanez|Juci Ibanez]], Zeca do Trombone, [[geraldo-espindola|Geraldo Espíndola]], Marina Dalla e Zé Geral.[^fcms2019]
+Aprendeu a tocar violão aos 15 anos, segundo reportagem de 2013, ou aos 18, segundo outra, de 2019.[^cgn2013][^cgn2019] Tocou em bares de Campo Grande e em projetos alternativos, como o Sarau do [[ze-geral|Zé Geral]].[^cgn2013] A Fundação de Cultura de MS diz que ela começou a carreira com repertório de Almir Chediak, Cazuza, Caetano e Rita Lee e que conviveu com músicos como [[juci-ibanez|Juci Ibanez]], Zeca do Trombone, [[geraldo-espindola|Geraldo Espíndola]], Marina Dalla e Zé Geral.[^fcms2019]
 
-Em 2012, apresentou em Campo Grande o show *Latinidade*, com composições latino-americanas, e começou a gravar seu primeiro trabalho.[^cgn2013] O *Campo Grande News* noticiou o lançamento do primeiro CD em 6 de novembro de 2013, na [[morada-dos-bais|Morada dos Baís]], com músicas de Marcos Mendes, Geraldo Espíndola, [[carlos-colman|Carlos Colman]], [[celito-espindola|Celito Espíndola]], Alexandre Saad e [[gilson-espindola|Gilson Espíndola]].[^cgn2013] A Fundação de Cultura descreve a gravação de 2013 como um DVD ao vivo, com dez releituras de compositores locais.[^fcms2019]
+Em 2012, apresentou em Campo Grande o show *Latinidade*, com composições latino-americanas, e começou a gravar seu primeiro trabalho.[^cgn2013] Em 3 de novembro de 2013, o *Campo Grande News* anunciou para o dia 6 daquele mês, na [[morada-dos-bais|Morada dos Baís]], o lançamento do primeiro CD, com músicas de Marcos Mendes, Geraldo Espíndola, [[carlos-colman|Carlos Colman]], [[celito-espindola|Celito Espíndola]], Alexandre Saad e [[gilson-espindola|Gilson Espíndola]].[^cgn2013] A Fundação de Cultura descreve a gravação de 2013 como um DVD ao vivo, com dez releituras de compositores locais.[^fcms2019]
 
-Em julho de 2019, apresentou-se no [[arraial-da-concha|Festival Arraial da Concha]], no fim de semana de 12 a 14 de julho.[^fcms2019] Em dezembro do mesmo ano, idealizou o grupo [[quintetas|Quintetas]], formado por ela, Ale Moura, Jéssica Cândido, Nathalia Ziê e Maria Rita, para dar visibilidade às mulheres na música; a estreia foi na Praça da Bolívia. Na época, tinha 37 anos e 17 de carreira, com repertório que ia da MPB ao sertanejo raiz, à bossa nova, ao samba e ao brega.[^cgn2019]
+Em julho de 2019, a Fundação de Cultura anunciou seu show no [[arraial-da-concha|Festival Arraial da Concha]] para a sexta-feira, 12 de julho, na mesma noite de ZeDu e Chicão Castro.[^fcms2019] Em dezembro do mesmo ano, idealizou o grupo [[quintetas|Quintetas]], formado por ela, Ale Moura, Jéssica Cândido, Nathalia Ziê e Maria Rita, para dar visibilidade às mulheres na música; a estreia foi na Praça da Bolívia. Na época, tinha 37 anos e 17 de carreira, com repertório que ia da MPB ao sertanejo raiz, à bossa nova, ao samba e ao brega.[^cgn2019]
 
-Em 2021, cantou na Feira Cultural Praça da Bolívia, em setembro, e na Feira Afro, em novembro.[^enfoque2021][^cgn2021]
+Em 2021, esteve na programação anunciada da Feira Cultural Praça da Bolívia, em setembro, e da Feira Afro, em novembro.[^enfoque2021][^cgn2021]
 
 ## Discografia
 

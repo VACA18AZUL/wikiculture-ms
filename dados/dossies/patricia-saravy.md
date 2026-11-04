@@ -31,3 +31,9 @@ Todas abertas e lidas em 4 nov. 2026 (onda w20-1).
 
 - Filhas e férias na casa da mãe (cgn2018) ficaram fora (vida familiar).
 - FCMS a identifica como (PR) e (PR/MS).
+
+## Atualização de 2026-11-04 (validação valn-34)
+
+- Vertentes do Cinema lista no elenco de *Nó* "Antonia Saravy" e "Saravy", sem confirmar a identidade. A participação de Patricia foi confirmada pela Revista de Cinema (Maria do Rosário Caetano, 17/8/2025: protagonista Glória, corroteirista; *Nó* abriu a mostra competitiva de longas ficcionais em Gramado) e pela nota da ALEP reproduzida no Blog do Esmael (4/10/2025: roteiro em cinco anos com Laís Melo; melhor filme pelos júris oficial e da crítica internacional; também cita grupo de teatro no MST na época do Direito).
+- Fora: maternidade e filhas (vida familiar), citadas na nota da ALEP.
+- Pistas não lidas (403): Bem Paraná (17/8/2025), Plural (26/10/2025); Folha (17/8/2025) não aberta.

@@ -53,3 +53,8 @@ Todas as fontes usadas são do mesmo veículo (três matérias, três autores).
 ## Uso no verbete
 
 - Entrou tudo da seção Fatos, menos detalhes do furto (prejuízo, endereço, bairro) e o ensaio de casamento.
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte independente (validação valn-36-0): Google Notícias (RSS) para "Thiago Moura" palhaço e "Guardiões do Encanto" devolveu só matérias do Campo Grande News e a do Midiamax sobre *O Vendedor de Livros* (2021), que não liga o ator ao palhaço no título e segue bloqueada; busca interna da FCMS sem resultado; Brave com erro 429. Continua fonte única (Campo Grande News).
+- Resumo corrigido: a matéria de 2018 diz que ele estava com *O Palhaço e a Luz* em cartaz, não que é o autor.

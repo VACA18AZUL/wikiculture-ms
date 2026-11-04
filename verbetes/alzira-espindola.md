@@ -32,8 +32,13 @@ Os títulos constam da lista de discografia da dissertação de Caetano, sem out
 
 - [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; atuação, como Lídia na fase mais velha.[^cgn2026lydia]
 
+## Videografia
+
+- [[aquilo-que-eu-nunca-perdi|*Aquilo que Eu Nunca Perdi*]] (2021) — documentário sobre a artista; direção de Marina Thomé.[^g12021doc]
+
 ## Pontos em aberto
 
+[^g12021doc]: Mauro Ferreira, ["Alzira E revê em documentário o curso contínuo do rio que banha vida e obra da artista"](https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2021/03/13/alzira-e-reve-em-documentario-o-curso-continuo-do-rio-que-banha-vida-e-obra-da-artista.ghtml), *g1*, 13 mar. 2021. Acesso em 4 nov. 2026.
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99. Acesso em 29 out. 2026.
 [^caeufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012. Acesso em 29 out. 2026.
 [^gon14]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014. Acesso em 29 out. 2026.

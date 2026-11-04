@@ -36,7 +36,7 @@ Em maio de 2024, o projeto abriu audições para cinco cantores negros para um m
 
 ## Música
 
-A UEMS é uma das parceiras do projeto Sounding Futures, ao lado do Multimedia Anthropology Lab da University College London e do Instituto para o Desenvolvimento da Arte e da Cultura. Do projeto nasceu o álbum *[[shamans-in-space|Shamans in Space]]*, com rap indígena e rezas guarani e kaiowá, cujo lançamento internacional o *Correio do Estado* noticiou em abril de 2026.[^ce2026]
+A UEMS é uma das parceiras do projeto [[sounding-futures|Sounding Futures]], ao lado do Multimedia Anthropology Lab da University College London e do Instituto para o Desenvolvimento da Arte e da Cultura. Do projeto nasceu o álbum *[[shamans-in-space|Shamans in Space]]*, com rap indígena e rezas guarani e kaiowá, cujo lançamento internacional o *Correio do Estado* noticiou em abril de 2026.[^ce2026]
 
 [^fcms2016]: ["UEMS estreia a peça dramática 'O Zoológico de Vidro' no Centro Cultural"](https://www.fundacaodecultura.ms.gov.br/uems-estreia-a-peca-dramatica-o-zoologico-de-vidro-no-centro-cultural/), *Fundação de Cultura de MS*, 24 fev. 2016. Acesso em 4 nov. 2026.
 [^fcms2020]: ["Livro 'Caminhos da Pesquisa em Artes Cênicas e Dança' dos egressos da UEMS será lançado no MARCO"](https://www.fundacaodecultura.ms.gov.br/livro-caminhos-da-pesquisa-em-artes-cenicas-e-danca-dos-egressos-da-uems-sera-lancado-no-marco/), *Fundação de Cultura de MS*, 3 mar. 2020. Acesso em 4 nov. 2026.

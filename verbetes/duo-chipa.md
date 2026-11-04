@@ -39,6 +39,6 @@ No disco, o trio usa viola de cocho, ganzá e mocho feitos pelo mestre Sebastiã
 
 [^cgn2024a]: ["Duo Chipa mergulha na beleza do cururu e siriri em novo álbum"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/duo-chipa-mergulha-na-beleza-do-cururu-e-siriri-em-novo-album), *Campo Grande News*, 29 set. 2024. Acesso em 4 nov. 2026.
 [^cgn2024b]: ["Cururueiro querido mostra em filme causos da sua vida e a viola de cocho"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/cururueiro-querido-mostra-em-filme-causos-da-sua-vida-e-a-viola-de-cocho), *Campo Grande News*, 19 out. 2024. Acesso em 4 nov. 2026.
-[^pp2024]: ["Dias ao lado de mestre inspiram álbum onde viola de cocho dá o tom"](https://primeirapagina.com.br/musica/album-e-mergulho-de-musicos-no-cururu-e-siriri-ao-lado-de-mestre/), *Primeira Página*, 25 set. 2024. Acesso em 4 nov. 2026.
+[^pp2024]: ["Álbum é mergulho de músicos no cururu e siriri ao lado de mestre"](https://primeirapagina.com.br/musica/album-e-mergulho-de-musicos-no-cururu-e-siriri-ao-lado-de-mestre/), *Primeira Página*, 25 set. 2024. Acesso em 4 nov. 2026.
 [^pf2023]: ["Duo Chipa: brega + indie + dreampop em EP novo"](https://popfantasma.com.br/duo-chipa-brega-indie-dreampop-em-ep-novo/), *Pop Fantasma*, 14 ago. 2023. Acesso em 4 nov. 2026.
 [^pf2024]: ["Ouvimos: Duo Chipa, 'Lugar distante'"](https://popfantasma.com.br/ouvimos-duo-chipa-lugar-distante/), *Pop Fantasma*, 31 out. 2024. Acesso em 4 nov. 2026.

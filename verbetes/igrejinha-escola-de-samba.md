@@ -24,15 +24,15 @@ Em dezembro de 2025, o governo federal cedeu à escola uma área avaliada em R$ 
 ## Desfiles
 
 - 2019 — "Scalise e Igrejinha, arquitetando folia, abençoado arteiro por natureza", sobre o arquiteto Luis Pedro Scalise; terceiro lugar, com 256 pontos.[^fcms2019]
-- 2020 — "Escute o trovão, é Xangô chegando".[^fcms2020]
+- 2020 — "Escute o trovão, é Xangô chegando"; primeira escola da segunda noite, em 25 de fevereiro.[^fcms2020]
 - 2024 — "Enigmas da Humanidade", com 12 alas, três carros alegóricos e 400 componentes. O anúncio do desfile grafou o samba-enredo como "Mysterium – Enigmas da humanidade".[^fcms2024][^fcms2024a]
 - 2025 — "Liberdade e Conquista de Um Quilombo", sobre a comunidade quilombola Furnas do Dionísio. A presidente era Mariza Fontoura Ocampos.[^fcms2025]
-- 2026 — enredo sobre a trajetória da senadora Soraya Thronicke.[^fcms2026]
+- 2026 — enredo sobre a trajetória da senadora Soraya Thronicke, grafada "Tronicke" na notícia da FCMS.[^fcms2026][^cgn2025]
 
 [^cn12024]: ["Campo Grande/MS: A resistência do samba no Centro-Oeste, com a Segunda Liga Mais Antiga do Brasil"](https://cn1brasil.com.br/campo-grande-ms-a-resistencia-do-samba-no-centro-oeste-com-a-segunda-liga-mais-antiga-do-brasil/), *CN1 Brasil*, 12 mar. 2024. Acesso em 4 nov. 2026.
 [^fcms2017]: Fundação de Cultura de Mato Grosso do Sul, ["Exposição no MIS retrata a história dos desfiles das escolas de samba de Campo Grande"](https://www.fundacaodecultura.ms.gov.br/exposicao-no-mis-retrata-a-historia-dos-desfiles-das-escolas-de-samba-de-campo-grande/), notícia, 31 jan. 2017. Acesso em 4 nov. 2026.
 [^fcms2019]: Fundação de Cultura de Mato Grosso do Sul, ["Unidos da Vila Carvalho foi a campeã do Carnaval 2019 com enredo que comemora seus 50 anos"](https://www.fundacaodecultura.ms.gov.br/unidos-da-vila-carvalho-foi-a-campea-do-carnaval-2019-com-enredo-que-comemora-seus-50-anos/), notícia, 7 mar. 2019. Acesso em 4 nov. 2026.
-[^fcms2020]: Fundação de Cultura de Mato Grosso do Sul, ["Desfile das escolas de samba fortalecem a tradição do carnaval de Campo Grande"](https://www.fundacaodecultura.ms.gov.br/desfile-das-escolas-de-samba-fortalecem-a-tradicao-do-carnaval-de-campo-grande/), notícia, 25 fev. 2020. Acesso em 4 nov. 2026.
+[^fcms2020]: Fundação de Cultura de Mato Grosso do Sul, ["Deixa Falar é a vencedora do desfile das escolas de samba de Campo Grande"](https://www.fundacaodecultura.ms.gov.br/deixa-falar-e-a-vencedora-do-desfile-das-escolas-de-samba-de-campo-grande/), notícia, 26 fev. 2020. Acesso em 4 nov. 2026.
 [^fcms2024]: Fundação de Cultura de Mato Grosso do Sul, ["Carnavalescos comemoram os investimentos e evolução do carnaval campo-grandense"](https://www.fundacaodecultura.ms.gov.br/carnavalescos-comemoram-os-investimentos-e-evolucao-do-carnaval-campo-grandense/), notícia, 14 fev. 2024. Acesso em 4 nov. 2026.
 [^fcms2025]: Fundação de Cultura de Mato Grosso do Sul, ["Primeiro dia do desfile das escolas de samba de Campo Grande foi de homenagens"](https://www.fundacaodecultura.ms.gov.br/primeiro-dia-do-desfile-das-escolas-de-samba-de-campo-grande-foi-de-homenagens/), notícia, 4 mar. 2025. Acesso em 4 nov. 2026.
 [^fcms2024a]: Fundação de Cultura de Mato Grosso do Sul, ["Primeiro dia do desfile das escolas de samba de Campo Grande foi de muito colorido na Praça do Papa"](https://www.fundacaodecultura.ms.gov.br/primeiro-dia-do-desfile-das-escolas-de-samba-de-campo-grande-foi-de-muito-colorido-na-praca-do-papa/), notícia, 12 fev. 2024. Acesso em 4 nov. 2026.

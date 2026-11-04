@@ -17,6 +17,8 @@ atualizado: 2026-11-04
 
 Segundo Gonçalves, foi o primeiro disco gravado ao vivo com plateia em Campo Grande, nos dias 15 e 16 de maio de 1982. O projeto [[festival-prata-da-casa|Prata da Casa]] começou com shows em 1979, idealizado por Cândido Alberto da Fonseca.[^gon14] Reuniu, entre outros, Almir Sater, Tetê Espíndola, [[paulo-simoes|Paulo Simões]], [[guilherme-rondon|Guilherme Rondon]], [[geraldo-espindola|Geraldo Espíndola]] e [[celito-espindola|Celito Espíndola]].[^gon14] O disco deu nome à "geração Prata da Casa".[^gon14]
 
+Há divergência sobre a data. Ian Rari Nogueira Faria afirma que o disco saiu de dois shows realizados em 1981 no Teatro Glauce Rocha. O mesmo trabalho cita Álvaro Neder (2014), para quem a série de shows gerou o LP em 1980.[^faria2024] Gonçalves e Caetano dão 1982.[^gon14][^caeufgd]
+
 ## Repertório citado
 
 A dissertação de Caetano cita as seguintes faixas:[^caeufgd]
@@ -37,3 +39,4 @@ Caetano trata o LP como marco da cultura musical do estado e do começo do que d
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99 (trecho nas p. 91-92). Acesso em 4 nov. 2026.
 [^caeufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 62-65. Acesso em 4 nov. 2026.
 [^gon14]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 49-50 e 55. Acesso em 4 nov. 2026.
+[^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 59 e 69 do PDF. Acesso em 4 nov. 2026.

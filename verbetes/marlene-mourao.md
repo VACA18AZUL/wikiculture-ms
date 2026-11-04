@@ -13,11 +13,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Marlene Mourão**, conhecida como Peninha, é uma artista visual, cronista e escritora radicada em Corumbá.[^fcms2025a][^ce2008] Nasceu em Coxim e vive em Corumbá desde os anos 1970.[^fcms2025b]
+**Marlene Mourão** (Marlene Terezinha Mourão), conhecida como Peninha, é uma artista visual, cronista e escritora radicada em Corumbá.[^fcms2025a][^ce2008][^fcms2022a] Nasceu em Coxim e vive em Corumbá desde os anos 1970.[^fcms2025b]
 
 ## Trajetória
 
-Em 2008, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] abriu a exposição *Desenhos*, com 16 trabalhos dela sobre o cotidiano e as paisagens do Pantanal, na [[galeria-wega-nery|Galeria Wega Nery]] do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. O *Correio do Estado* a apresentou como artista plástica corumbaense.[^ce2008] Em 2017, esteve entre os artistas da exposição coletiva *Mato Grosso do Sul, 40 anos construindo história com arte*, no mesmo Centro Cultural.[^fcms2017]
+Em novembro de 2008, o *Correio do Estado* anunciou que a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] abriria a exposição *Desenhos*, com 16 trabalhos dela sobre o cotidiano e as paisagens do Pantanal, na [[galeria-wega-nery|Galeria Wega Nery]] do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. O jornal a apresentou como artista plástica corumbaense.[^ce2008] Em 2017, estava na lista de artistas da exposição coletiva *Mato Grosso do Sul, 40 anos construindo história com arte*, no mesmo Centro Cultural.[^fcms2017]
 
 Na literatura, um de seus primeiros livros de poemas é *Azul Dentro do Banheiro* (1976). Segundo a Fundação de Cultura, depois da publicação o livro rendeu a ela uma carta de [[manoel-de-barros|Manoel de Barros]].[^fcms2019] O livro *Pacu era um peixe feliz que vivia nas águas do Rio Paraguai*, escrito em 1978, saiu em 2002 com apoio do Fundo de Investimentos Culturais. Ela também escreveu um livro sobre o Frei Mariano.[^fcms2018] Em 2025, a Fundação listou entre suas obras *Um altar para as valorosas sandálias do Frei Mariano* e citou a personagem Maria Dadô, publicada toda semana no *Diário Corumbaense*, além dos trabalhos a bico de pena e em aquarela.[^fcms2025a]
 

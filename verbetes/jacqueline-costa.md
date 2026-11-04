@@ -24,7 +24,7 @@ Segundo a Fundação de Cultura de MS (FCMS), participou de programas de televis
 
 Em 1º de dezembro de 2024, apresentou o show *Desenho em Aquarela* no [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]]. A data original, 3 de novembro, foi adiada por causa do mau tempo. Ela disse que voltava ao projeto depois de uma década.[^fcms2024a][^fcms2024b]
 
-Em fevereiro de 2025, lançou o single "É de Bom Tom", financiado pela Lei Paulo Gustavo por edital da FCMS. A faixa foi gravada no estúdio O2, com produção de [[fabio-adames|Fábio Adames]], e o videoclipe foi feito pela [[coletivo-produza-projecoes|Produza Projeções]]. Como contrapartida, o projeto previa shows em três escolas estaduais.[^fcms2025a] Em abril de 2025, abriu a noite do Campão Cultural na Praça do Rádio, em Campo Grande, antes do grupo Mental Abstrato.[^fcms2025b]
+Em 3 de fevereiro de 2025, a FCMS anunciou para o dia 5 o lançamento, no YouTube, do single "É de Bom Tom", financiado pela Lei Paulo Gustavo por edital da fundação. A faixa foi gravada no estúdio O2, com produção de [[fabio-adames|Fábio Adames]], e o videoclipe foi feito pela [[coletivo-produza-projecoes|Produza Projeções]]. Como contrapartida, o projeto previa shows em três escolas estaduais.[^fcms2025a] Em abril de 2025, abriu a noite do Campão Cultural na Praça do Rádio, em Campo Grande, antes do grupo Mental Abstrato.[^fcms2025b]
 
 ## Discografia
 

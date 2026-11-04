@@ -30,3 +30,12 @@ Tentativa r3-3: FCMS e Correio do Estado sem matéria sobre o festival de 1979-1
 - Segunda fonte independente buscada e não achada. Onde: API FCMS ("FESSUL", "Kananciuê", "Waradzu", "Festival Sul-Mato-Grossense"; o único resultado, de 2017, só lista "Kananciuê" no show dos 40 anos do estado), API RCN67, API A Crítica, busca do Correio do Estado (sem resultado real), busca do Campo Grande News (sem resultado), WebSearch (duas tentativas), Gonçalves (UFMS, 2014: sem FESSUL), Silus (Trilhas da História/UFMS: estudo bibliográfico, sem FESSUL), artigos sobre a TV Morena (UFG 2021; ANPUH 2019: sem FESSUL), Caetano em artigo da Unespar (mesmo autor, não independente).
 - O obituário de Onésimo Filho no Correio do Estado (8/8/2012) cita o Festão, mas não o FESSUL.
 - Pista ainda não aberta: Simões e Fonseca, *Festivais de Música em Mato Grosso do Sul* (UFMS, 1982), sem cópia digital localizada.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Ian Rari Nogueira Faria, *Contribuições da música regional...*, dissertação, Estudos Culturais, UFMS/Aquidauana, 2024 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682). Lidas as p. 56-59 do PDF. Nota `faria2024`.
+
+- Faria confirma 1979, TV Morena, ginásios da UCE e da UFMS, Onésimo Filho, apoio do governo, Tony Ramos e vitória de "Kananciuê" do Grupo Acaba, mas tudo por citações longas de Caetano (2012, p. 49 e 80). Não é fonte independente.
+- Acrescentada só uma frase com o que é de Faria: primeiro grande evento artístico do novo estado; ginásios lotados (p. 57).
+- Faria transcreve a letra de "Kananciuê" (p. 58-59), creditada ao Grupo Acaba, 1979; não entra (texto integral de letra).
+- Situação continua "reforcar": segunda fonte independente de Caetano ainda falta.

@@ -3,7 +3,7 @@ titulo: Thiago Moura (palhaço)
 tipo: pessoa
 areas: [circo, teatro]
 cidade: Campo Grande
-resumo: Palhaço e ator de Campo Grande, criador do grupo Guardiões do Encanto e autor do espetáculo O Palhaço e a Luz; em 2016 foi aprovado no curso de especialização da Escola Nacional de Circo, no Rio.
+resumo: Palhaço e ator de Campo Grande, criador do grupo Guardiões do Encanto, que em 2018 apresentava o espetáculo O Palhaço e a Luz; em 2016 foi aprovado no curso de especialização da Escola Nacional de Circo, no Rio.
 ficha:
   Atividade: Palhaço, ator e poeta
   Grupos: Guardiões do Encanto

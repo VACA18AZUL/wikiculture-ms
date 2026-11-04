@@ -3,9 +3,9 @@ titulo: Nadja Mitidiero
 tipo: pessoa
 areas: [teatro, audiovisual]
 cidade: Campo Grande
-resumo: Atriz e produtora de Campo Grande. Atua em espetáculos da Cia. Ofit, como Três vírgula quatro graus na escala Richter, e em filmes como Madalena; co-dirigiu o documentário Reexistência (2017).
+resumo: Atriz e produtora de Campo Grande. Atua em espetáculos da Cia. Ofit, como Três vírgula quatro graus na escala Richter, e em filmes como Madalena; integrou o grupo que fez o documentário Reexistência (2017).
 ficha:
-  Atividade: Atriz, produtora e preparadora de elenco
+  Atividade: Atriz, produtora e coach de atores
   Grupos: Cia. Ofit
 status: rascunho
 atualizado: 2026-11-04
@@ -15,13 +15,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em julho de 2011, apresentada pelo *Correio do Estado* como atriz internacional, deu no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]] um workshop de análise de texto pelo método de Stanislavski, com trechos de *O Jardim das Cerejeiras*, de Tchekhov.[^ce2011] Em 2015, integrava a produtora Pantanal Bureau Films, com Luciana Kreutzer e Albino Rodrigues Júnior, como atriz, produtora e preparadora de elenco; a empresa ofereceu no Centro Cultural um curso sobre profissionalização do artista.[^fcms2015b]
+Em julho de 2011, o *Correio do Estado*, que a apresentou como atriz internacional, anunciou um workshop de análise de texto pelo método de Stanislavski, marcado para 26 a 30 de julho no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], que ela ministraria com trechos de *O Jardim das Cerejeiras*, de Tchekhov.[^ce2011] Em 2015, integrava a produtora Pantanal Bureau Films, com Luciana Kreutzer e Albino Rodrigues Júnior, apresentada como atriz, produtora e coach; a Fundação de Cultura anunciou para setembro daquele ano um curso gratuito da empresa sobre profissionalização do artista, no Centro Cultural.[^fcms2015b]
 
 No mesmo ano, foi produtora associada e atriz do filme *Vampiros*, produção da Zion Filmes e da Cerrado's Filmes, com [[filipi-silveira|Filipi Silveira]] no elenco.[^fcms2015a] No curta *Irmãos de Alma*, de Silveira, interpretou Thelma e assinou colaboração de roteiro e produção.[^fcms2019]
 
-No teatro, fez a personagem central, Madona, em *[[tres-virgula-quatro-graus-na-escala-richter|Três vírgula quatro graus na escala Richter]]*, da [[cia-ofit|Cia. Ofit]], com direção de [[nill-amaral|Nill Amaral]], em apresentações de 2016 no Teatro Prosa.[^fcms2016] Seguia no elenco na temporada de janeiro de 2018.[^fcms2018] Voltou ao elenco na nova montagem da peça anunciada para 2026.[^ce2026] Também com a Ofit, atuou em *Todo redemoinho começa com um sopro*, peça inspirada em Clarice Lispector que abriu a mostra [[cena-aberta-encontros-paralelos|Cena Aberta]] em 2023, no papel de uma antiga moradora da casa onde a ação se passa.[^cgn2023][^fcms2024]
+No teatro, fez a personagem central, Madona, em *[[tres-virgula-quatro-graus-na-escala-richter|Três vírgula quatro graus na escala Richter]]*, da [[cia-ofit|Cia. Ofit]], com direção de [[nill-amaral|Nill Amaral]], na temporada anunciada para agosto de 2016 no Teatro Prosa, depois da estreia.[^fcms2016] Estava no elenco anunciado para a temporada de janeiro de 2018.[^fcms2018] Também consta do elenco da nova montagem da peça, anunciada para 5 a 7 de agosto de 2026.[^ce2026] Também com a Ofit, atuou em *Todo redemoinho começa com um sopro*, peça inspirada em Clarice Lispector anunciada para abrir a programação teatral do projeto [[cena-aberta-encontros-paralelos|Cena Aberta]] em agosto de 2023, no papel de uma antiga moradora da casa onde a ação se passa.[^cgn2023] Seguia no elenco em abril de 2024, na 2ª Semana Clarice Lispector em Cena.[^fcms2024]
 
-Em 2017, participou do curso gratuito de documentário do [[mis-ms|MIS]] e dirigiu, com [[amanda-dim|Amanda Dim]], o documentário *Reexistência – Eu posso ser você sem deixar de ser quem sou!*, em que representantes de etnias indígenas de Mato Grosso do Sul fazem um balanço dos 40 anos do estado.[^fcms2017a] No mesmo ano, foi uma das ministrantes de oficinas do [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]].[^fcms2017b] Está no elenco do longa *[[madalena-longa|Madalena]]*.[^fcms2021]
+Em 2017, como aluna do curso gratuito de documentário do [[mis-ms|MIS]], feito em homenagem aos 40 anos de Mato Grosso do Sul, integrou com [[amanda-dim|Amanda Dim]], Reinaldo Lopes, Sidney Terena e Neilcieni Maciel o grupo que produziu o documentário *Reexistência – Eu posso ser você sem deixar de ser quem sou!*, exibido no MIS em outubro daquele ano. Segundo Neilcieni Maciel, o filme trata de indígenas que vivem nos centros urbanos.[^fcms2017a] No mesmo ano, a Fundação de Cultura a listou entre os responsáveis pelas oficinas do [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]].[^fcms2017b] Está no elenco do longa *[[madalena-longa|Madalena]]*.[^fcms2021]
 
 ## Espetáculos
 
@@ -33,7 +33,7 @@ Em 2017, participou do curso gratuito de documentário do [[mis-ms|MIS]] e dirig
 
 - *Vampiros* (em filmagem em 2015) — atuação e produção associada.[^fcms2015a]
 - *Irmãos de Alma* (2015) — curta de ficção; atuação (Thelma), colaboração de roteiro e produção.[^fcms2019]
-- *[[reexistencia-documentario|Reexistência – Eu posso ser você sem deixar de ser quem sou!]]* (2017) — documentário; direção, com Amanda Dim.[^fcms2017a]
+- *[[reexistencia-documentario|Reexistência – Eu posso ser você sem deixar de ser quem sou!]]* (2017) — documentário; realização em grupo no curso do MIS, com Amanda Dim e outros alunos.[^fcms2017a]
 - *[[madalena-longa|Madalena]]* — longa; atuação.[^fcms2021]
 
 [^ce2011]: Redação, ["Workshop será ministrado pela atriz Nadja Mitidiero"](https://correiodoestado.com.br/cidades/2011/07/05/workshop-sera-ministrado-pela-atriz-nadja-mitidiero.html), *Correio do Estado*, 5 jul. 2011. Acesso em 4 nov. 2026.

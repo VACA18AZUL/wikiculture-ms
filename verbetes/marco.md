@@ -25,6 +25,8 @@ O acervo tem origem na antiga Pinacoteca Estadual, formada com prêmios aquisiti
 
 Estão no acervo obras de [[lidia-bais|Lídia Baís]][^cgn2025] e de [[humberto-espindola|Humberto Espíndola]], como a série [[divisao-de-mato-grosso|"Divisão de Mato Grosso"]].[^cgn2023]
 
+Em 2008, o museu recebeu *Diálogos Gravados*, exposição de xilogravura e gravura em metal feita em parceria por [[arlete-santarosa|Arlete Santarosa]] e Lana Lanna. Segundo Arlete Santarosa, o acervo do museu guarda toda a produção dessa parceria, encerrada com a morte de Lana Lanna, em 2010.[^cgn2022][^fcms2022rea]
+
 ## Espaço
 
 O museu fica no Parque das Nações Indígenas.[^cgn2022] Em 2024, tinha 4 mil metros quadrados de área construída e cinco salas de exposição, uma com mostra permanente do acervo e quatro para mostras temporárias, além de três salas do setor educativo, ateliê de gravura, auditório para 105 pessoas e biblioteca especializada em artes plásticas.[^correio2024]
@@ -49,3 +51,4 @@ Em 6 de outubro de 2023, com o prédio fechado à visitação, o museu abriu o p
 [^cgn2022]: Adriano Fernandes, ["Após 2 anos fechado ao público, Marco reabre com a 1ª temporada de exposições"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/apos-2-anos-fechado-ao-publico-marco-reabre-com-a-1a-temporada-de-exposicoes), *Campo Grande News*, 15 mar. 2022. Acesso em 4 nov. 2026.
 [^fcms2023cine]: Fundação de Cultura de Mato Grosso do Sul, ["Projeto CineMARCO foi aberto nesta sexta com filme sobre a comunidade okinawana"](https://www.fundacaodecultura.ms.gov.br/projeto-cinemarco-foi-aberto-nesta-sexta-com-filme-sobre-a-comunidade-okinawana/), 9 out. 2023. Acesso em 4 nov. 2026.
 [^fcms2022t2]: ["Diversidade de linguagens é característica da 2ª Temporada de Exposições do MARCO"](https://www.fundacaodecultura.ms.gov.br/diversidade-de-linguagens-e-caracteristica-da-2a-temporada-de-exposicoes-do-marco/), *Fundação de Cultura de MS*, 15 jun. 2022. Acesso em 4 nov. 2026.
+[^fcms2022rea]: Gisele Colombo, ["Museu de Arte Contemporânea de MS reabre com a 1ª Temporada de Exposições 2022"](https://www.fundacaodecultura.ms.gov.br/museu-de-arte-contemporanea-de-ms-reabre-com-a-1a-temporada-de-exposicoes-2022/), *Fundação de Cultura de Mato Grosso do Sul*, 15 mar. 2022. Acesso em 4 nov. 2026.

@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Espetáculo
 
-A cena se passa numa floresta encantada, onde uma criança sonha com uma cobra e encontra a avó que conta histórias, a onça que guarda a mata e um bicho-papão que não assusta. Danças como maracatu e catira se misturam a gestos cotidianos, ao som de flauta e alfaia; a reportagem também cita a capoeira entre as referências da peça. No elenco estão artistas formados e estudantes de teatro e dança da UEMS e da [[ufms|UFMS]].[^cgn2025]
+A cena se passa numa floresta encantada, onde uma criança sonha com uma cobra e encontra a avó que conta histórias, a onça que guarda a mata e um bicho-papão que não assusta. O maracatu e a catira aparecem combinados com movimentos do dia a dia, acompanhados por flauta e alfaia; a reportagem também cita a capoeira entre as referências da peça. O elenco reúne profissionais já formados e alunos dos cursos de teatro e dança da UEMS e da [[ufms|UFMS]].[^cgn2025]
 
 Segundo a UEMS, a dramaturgia toma a cultura terena como fio condutor, e o título é a palavra para "criança". Os figurinos são de Tom Conceição e os grafismos, do artista terena Tyson Pio.[^uems2026]
 

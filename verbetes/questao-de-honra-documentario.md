@@ -20,7 +20,7 @@ Segundo a diretora, o contato com o grupo começou em 2010, quando ela inscreveu
 
 O filme conta como os realizadores, que trabalhavam nos bastidores dos cinemas da cidade, como pintores de cartazes ou lanterninhas, passaram a filmar em Super 8, com amigos e moradores da periferia como atores e locações em bairros como Moreninhas e Mata do Jacinto. Em geral, Reinaldo escrevia e atuava, e Alexandre filmava e editava. Carol prefere chamar esse trabalho de "cinema de borda", à margem do circuito comercial, e não de cinema amador; a maior parte dos filmes é de faroeste.[^cgn2016] Para a diretora, o título indica que, para eles, fazer cinema era uma questão de honra.[^fcms2016]
 
-As fontes divergem sobre a produção do grupo retratado: o *Campo Grande News* fala em seis curtas e um longa-metragem;[^cgn2016] a Fundação de Cultura, em seis filmes, o último deles [[honra-longa|*Honra*]], lançado em 2013.[^fcms2016]
+As fontes divergem sobre a produção do grupo retratado: o *Campo Grande News* estima seis curtas e um longa-metragem;[^cgn2016] a Fundação de Cultura, em seis filmes, o último deles [[honra-longa|*Honra*]], lançado em 2013.[^fcms2016]
 
 ## Lançamento
 

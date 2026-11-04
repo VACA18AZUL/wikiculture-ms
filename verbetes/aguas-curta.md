@@ -3,7 +3,7 @@ titulo: Águas (curta-metragem)
 tipo: obra
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Curta-metragem afrofuturista de Raylson Chaves sobre Dona Janice, trabalhadora doméstica negra, vivida por Thais Umar. Contemplado pelo 1º Prêmio Ipê de Audiovisual, de Campo Grande, foi lançado em dezembro de 2023.
+resumo: Curta-metragem afrofuturista de Raylson Chaves sobre Dona Janice, trabalhadora doméstica negra, vivida por Thais Umar. Contemplado pelo 1º Prêmio Ipê de Audiovisual, de Campo Grande, teve lançamento anunciado para dezembro de 2023.
 ficha:
   Direção: "[[raylson-chaves|Raylson Chaves]]"
   Ano: "2023"
@@ -12,15 +12,15 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Águas*** é um curta-metragem sul-mato-grossense escrito e dirigido por [[raylson-chaves|Raylson Chaves]], produzido na estética do afrofuturismo. Conta a história de Dona Janice, mulher negra de 38 anos, mãe solo e trabalhadora doméstica desde os 12 anos.[^cgn2023][^fcms2025a]
+***Águas*** é um curta-metragem sul-mato-grossense escrito e dirigido por [[raylson-chaves|Raylson Chaves]], produzido na estética do afrofuturismo. A protagonista é Dona Janice, uma mulher negra de 38 anos que cria os filhos sozinha e trabalha como empregada doméstica desde a infância, aos 12 anos.[^cgn2023][^fcms2025a]
 
 ## Produção
 
-O roteiro partiu dos relatos de Dona Iara, mãe do companheiro do roteirista, e das memórias de mulheres da família de Raylson Chaves que trabalharam em fazendas do Pantanal. A equipe foi formada em sua maioria por pessoas negras. O filme foi contemplado pelo 1º [[premio-ipe-de-audiovisual|Prêmio Ipê de Audiovisual]], edital da Secretaria Municipal de Cultura e Turismo de Campo Grande, e teve lançamento marcado para 14 de dezembro de 2023, no Ponto Bar.[^cgn2023]
+O roteiro partiu dos relatos de Dona Iara, sogra do roteirista, e das memórias de mulheres da família de Raylson Chaves que trabalharam em fazendas do Pantanal. A equipe foi formada em sua maioria por pessoas negras. O filme foi contemplado pelo 1º [[premio-ipe-de-audiovisual|Prêmio Ipê de Audiovisual]], edital da Secretaria Municipal de Cultura e Turismo de Campo Grande, e teve lançamento marcado para 14 de dezembro de 2023, no Ponto Bar.[^cgn2023]
 
 ## Exibições
 
-Em janeiro de 2025 o curta foi um dos cinco filmes escolhidos para o projeto Olubayo – Cinema nas Comunidades Quilombolas, do [[grupo-tez|Grupo TEZ]], com recursos da Lei Paulo Gustavo. O projeto previa exibições em nove comunidades quilombolas do estado entre fevereiro e abril.[^fcms2025a] A primeira sessão foi marcada para 1º de fevereiro de 2025, na comunidade quilombola Águas do Miranda, em Bonito.[^fcms2025b] Em julho de 2025 *Águas* voltou a ser exibido numa sessão extra do projeto na Comunidade Negra São João Batista.[^fcms2025c]
+Em janeiro de 2025 o curta foi um dos cinco filmes escolhidos para o projeto Olubayo – Cinema nas Comunidades Quilombolas, do [[grupo-tez|Grupo TEZ]], com recursos da Lei Paulo Gustavo. O projeto previa exibições em nove comunidades quilombolas do estado entre fevereiro e abril.[^fcms2025a] A primeira sessão foi marcada para 1º de fevereiro de 2025, na comunidade quilombola Águas do Miranda, em Bonito.[^fcms2025b] *Águas* também entrou na programação da sessão extra do projeto marcada para 26 de julho de 2025, na Comunidade Negra São João Batista, em Campo Grande.[^fcms2025a][^fcms2025c]
 
 ## Ficha técnica
 

@@ -24,11 +24,11 @@ Em 2022, o pró-reitor de Extensão, Cultura e Esporte da [[ufms|UFMS]] disse qu
 
 Em 31 de julho de 2015, tocou no 16º [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]], na mesma noite de Kuery Porã, Patrícia e Adriana e Canto Guarani.[^fcms2015]
 
-Em 11 de outubro de 2020, fez o show do aniversário de 43 anos de Mato Grosso do Sul na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], com participação de [[geraldo-espindola|Geraldo Espíndola]].[^fcms2020] A FCMS previa 400 pessoas na plateia, mas por causa da pandemia manteve só a transmissão pela internet.[^cgn2020]
+Para 11 de outubro de 2020, a FCMS anunciou um show do grupo pelos 43 anos de Mato Grosso do Sul na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], com participação de [[geraldo-espindola|Geraldo Espíndola]] e do sanfoneiro Maninho Rocha, filho de Dino Rocha. O repertório anunciado incluía "Km 11", "Prazer de Fazendeiro" e "Trem do Pantanal".[^fcms2020] A FCMS previa 400 pessoas na plateia, mas por causa da pandemia decidiu manter só a transmissão pela internet.[^cgn2020]
 
 Em 11 de outubro de 2021, fechou o show "Delinha e convidados", pelos 44 anos do estado, na mesma Concha Acústica.[^fcms2021]
 
-Entre setembro e outubro de 2022, fez shows no Festival Mais Cultura da UFMS, nos câmpus de Ponta Porã, Paranaíba e Três Lagoas, com Celito Espíndola, Paulo Simões e Guilherme Rondon.[^ufms2022]
+Em setembro de 2022, a UFMS anunciou o grupo, com Celito Espíndola, Paulo Simões e Guilherme Rondon, no Festival Mais Cultura, com shows marcados para 30 de setembro no câmpus de Ponta Porã, 4 de outubro no de Paranaíba e 5 de outubro no de Três Lagoas.[^ufms2022]
 
 [^fcms2024]: Fundação de Cultura de Mato Grosso do Sul, ["Edição de agosto do MS ao Vivo apresenta Lenine, com abertura de Guilherme Rondon"](https://www.fundacaodecultura.ms.gov.br/edicao-de-agosto-do-ms-ao-vivo-apresenta-lenine-com-abertura-de-guilherme-rondon/), notícia, 6 ago. 2024. Acesso em 4 nov. 2026.
 [^fcms2018]: Fundação de Cultura de Mato Grosso do Sul, ["Som da Concha celebra talento e inspiração com Ton Alves e Gilson Espíndola"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-celebra-talento-e-inspiracao-com-ton-alves-e-gilson-espindola/), notícia, 4 abr. 2018. Acesso em 4 nov. 2026.

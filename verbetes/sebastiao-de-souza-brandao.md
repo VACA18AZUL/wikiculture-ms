@@ -41,7 +41,7 @@ A Casa da Memória Mestre Sebastião Brandão, aberta em novembro de 2023 na res
 ## Videografia
 
 - Documentário sobre seis cururueiros de Corumbá e Ladário (2021), lançado em 17 de agosto de 2021, com direção da socióloga Wanessa Rodrigues; participação como entrevistado.[^cgn2021]
-- *Mestre Sebastião: Entre Causos e Toadas* (2024) — documentário do Duo Chipa, com direção de [[caina-siqueira|Cainã Siqueira]], gravado em seu ateliê em Ladário.[^cgn2024b]
+- *[[entre-causos-e-toadas|Mestre Sebastião: Entre Causos e Toadas]]* (2024) — documentário do [[duo-chipa|Duo Chipa]], com direção de [[caina-siqueira|Cainã Siqueira]], gravado em seu ateliê em Ladário; participação.[^cgn2024b] [Assistir no YouTube](https://www.youtube.com/watch?v=eqQ_ISiiyDY)
 
 [^fcms2016]: Gisele Colombo, ["Siriri no Porto Geral reúne amantes da cultura popular no 13º Fasp"](https://www.fundacaodecultura.ms.gov.br/siriri-no-porto-geral-reune-amantes-da-cultura-popular-no-13o-fasp/), *Fundação de Cultura de MS*, 14 nov. 2016. Acesso em 4 nov. 2026.
 [^fcms2024]: Karina Lima, ["Sebastião de Souza Brandão, mestre cururueiro de Ladário, completa 80 anos dedicados à cultura popular"](https://www.fundacaodecultura.ms.gov.br/sebastiao-de-souza-brandao-mestre-cururueiro-de-ladario-completa-80-anos-dedicados-a-cultura-popular/), *Fundação de Cultura de MS*, 22 jan. 2024. Acesso em 4 nov. 2026.

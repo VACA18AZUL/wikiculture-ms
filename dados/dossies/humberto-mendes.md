@@ -46,3 +46,8 @@ Mesmo veículo, autoras diferentes. Busca no Google Notícias não achou outra f
 ## Uso no verbete
 
 - Entrou: formação, design, Terra (sem link para therra), Lua de Pano, miniaturas e projeto da cidade. Fora: família, saúde, endereço da exposição.
+
+## Atualização de 2026-11-04
+
+- Validação valn-36-0: nova busca no Google Notícias ("Humberto Mendes" miniaturas; "Humberto Mendes" "Lua de Pano") devolveu só as duas matérias do Campo Grande News. Continua fonte única.
+- Exposição de 2016 era anúncio ("neste próximo sábado"); verbete reescrito. Título "Nighthawks" não está na fonte (só "Aves da Noite"); retirado.

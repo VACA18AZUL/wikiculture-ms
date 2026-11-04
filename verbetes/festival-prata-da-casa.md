@@ -22,9 +22,11 @@ O LP foi gravado ao vivo nos dias 15 e 16 de maio de 1982, no [[teatro-glauce-ro
 
 Gilmar Lima Caetano trata o Prata da Casa como um festival de 1982, produzido em conjunto pela TV Morena e pela UFMS, que já deixava de lado o formato competitivo dos festivais iniciados em 1968.[^cae] Há, portanto, duas formas de situar o início: Gonçalves conta a partir dos primeiros shows, em 1979;[^gon] Caetano descreve o evento de 1982.[^cae]
 
+Ian Rari Nogueira Faria dá outras datas. Para ele, artistas já conhecidos se reuniram em 1981 em dois shows no Teatro Glauce Rocha, que deram origem ao disco. Faria cita ainda Álvaro Neder (2014), segundo o qual a série de shows Prata da Casa gerou em 1980 o primeiro LP do movimento. As datas de 1980, 1981 e 1982 ficam registradas como divergência entre as fontes.[^faria2024]
+
 ## Participantes e repertório
 
-Gonçalves cita no disco [[almir-sater|Almir Sater]], [[tete-espindola|Tetê Espíndola]], [[paulo-simoes|Paulo Simões]], [[guilherme-rondon|Guilherme Rondon]], Paulo Gê, [[geraldo-espindola|Geraldo Espíndola]], João Figar, Cláudio Prates, o grupo [[therra|Therra]], José Boaventura, o [[grupo-acaba|Grupo Acaba]] e [[celito-espindola|Celito Espíndola]], entre outros.[^gon]
+Gonçalves cita no disco [[almir-sater|Almir Sater]], [[tete-espindola|Tetê Espíndola]], [[paulo-simoes|Paulo Simões]], [[guilherme-rondon|Guilherme Rondon]], Paulo Gê, [[geraldo-espindola|Geraldo Espíndola]], João Figar, Cláudio Prates, o grupo [[therra|Therra]], José Boaventura, o [[grupo-acaba|Grupo Acaba]] e [[celito-espindola|Celito Espíndola]], entre outros.[^gon] A lista de Faria inclui também Carlos Colman e Junia Marise.[^faria2024]
 
 Caetano lista canções apresentadas, entre elas "Quyquyho", de Geraldo Espíndola, "Sonhos Guaranis", de Paulo Simões e Almir Sater, "Horizonte", "Coração Solitário", de Celito Espíndola, "Coração Ventania", de Carlos Colman, "Vida Cigana" e "Trem do Pantanal".[^cae]
 
@@ -42,3 +44,4 @@ A mídia regional passou a chamar esses músicos de "geração Prata da Casa", s
 [^gon2]: Gonçalves, 2014, seção 1.6 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae]: Gilmar Lima Caetano, *A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*, dissertação de mestrado, UFGD, 2012, seção 1.4 ([PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf)). Acesso em 29 out. 2026.
 [^cae2]: Caetano, 2012, seção 1.4 e conclusão do capítulo (mesma dissertação). Acesso em 29 out. 2026.
+[^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 59 e 69 do PDF. Acesso em 4 nov. 2026.
