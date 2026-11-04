@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Entrou no Moinho Cultural em 2008, aos nove anos, para aulas de dança e de música. Participou de cursos e festivais e fez aulas com nomes da dança brasileira; a reportagem cita Chico Neller, Beatriz de Almeida, Joel de Oliveira, da Cia. de Dança Cisne Negro, Greydson Araújo e Rui Moreira.[^cgn2023]
 
-Em 2023, fez um intercâmbio na Cia. de Dança Deborah Colker, no Rio de Janeiro, onde participou das aulas da companhia e, a convite de Deborah Colker, acompanhou um dia de apresentação na Uerj. No mesmo ano, passou por imersões no Grupo Corpo e com o bailarino e coreógrafo Alex Neoral.[^cgn2023]
+Em 2023, esteve em intercâmbio na companhia carioca de Deborah Colker, onde frequentou as aulas do elenco. A convite da coreógrafa, participou de um dia de apresentação do grupo na Uerj, com aula no palco antes do espetáculo. No mesmo ano, fez imersões com o Grupo Corpo e com o coreógrafo e professor Alex Neoral.[^cgn2023]
 
 Para o United Dance Festival de 2025, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, a programação divulgada pelo Moinho incluía *Rito*, solo contemporâneo criado e dançado por ela pela Cia. de Dança do Pantanal, marcado para 5 de setembro.[^cgn2025]
 

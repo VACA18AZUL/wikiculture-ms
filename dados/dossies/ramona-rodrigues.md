@@ -40,3 +40,8 @@
 ## Acréscimo
 
 - cgn2023b: Thailla Torres, Campo Grande News, 15 nov. 2023, https://www.campograndenews.com.br/lado-b/diversao/espetaculo-gratuito-usa-arte-para-contar-a-historia-de-artistas-do-circo — figurino, adereço e materiais de cena de Gran FinaLLe (Cia Pisando Alto, projeto Circo.Lação), por Ramona Rodrigues.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fonte independente do Campo Grande News (aberta e lida): Gisele Colombo, "Ramona Rodrigues traz a poética de Manoel da Barros em oficina do 12º FASP", Fundação de Cultura de MS, 17 ago. 2015. https://www.fundacaodecultura.ms.gov.br/ramona-rodrigues-traz-a-poetica-de-manoel-da-barros-em-oficina-do-12o-fasp/
+Sustenta: arte-educadora, atriz e diretora; mais de 25 anos de teatro; fundou e integrou companhias; ateliê de materiais didáticos; oficina Manoel de Barros no 12º FASP (Corumbá, 20 a 22 ago. 2015, Moinho Cultural). Nota [^fcms2015] em Trajetória. Nomes de companhias não citados na nota.

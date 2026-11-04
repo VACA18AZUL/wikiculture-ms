@@ -46,3 +46,10 @@ Fontes descartadas: nenhuma fonte de outro domínio encontrada em duas buscas.
 ## Não confirmado
 
 - Origem do nome (refrão de Manuel Bandeira): não há fonte sobre o bloco que diga isso.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fonte independente do Campo Grande News (aberta e lida): Karina Medeiros de Lima, "Carnaval de Rua em Campo Grande terá desfile de blocos já nesta quinta e sexta-feira", Fundação de Cultura de MS, 7 fev. 2024. https://www.fundacaodecultura.ms.gov.br/carnaval-de-rua-em-campo-grande-tera-desfile-de-blocos-ja-nesta-quinta-e-sexta-feira/
+Sustenta: cortejo de 8/2/2024 às 20h; concentração na Rua Antônio Maria Coelho e destino na Rua Marechal Rondon (o CGN de 2024 destaca a Rua 14 de Julho; não é contradição comprovada); bloco criado em 2011, primeiro desfile como bloco em 2012 (concilia as versões "12 anos" em 2023 e "desde 2012"); origem no seminário Arena Aberta do Maracangalha; Fernando Cruz como coordenador.
+Mudança: parágrafo novo em Origem e frase em Cortejos, nota [^fcms2024]. Endereço numérico dos locais não incluído.
+Observação: a nota da FCMS traz também, na imagem, "Bloco Evoé Baco / Fernando Cruz" (fotos sem licença verificada; não usadas).

@@ -13,9 +13,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2023, teve textos publicados em [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], antologia de prosa e poesia do Coletivo Tarja Preta com 32 escritores sul-mato-grossenses, organizada por Fábio Gondim e com lançamento marcado para 11 de novembro daquele ano, em Campo Grande.[^cgn2023]
+Em 2023, teve textos publicados em [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], antologia de prosa e poesia do Coletivo Tarja Preta com 32 escritores sul-mato-grossenses, organizada por Fábio Gondim e com lançamento marcado para 11 de novembro daquele ano, no Grupo Casa.[^cgn2023]
 
-Na programação que antecedeu a 37ª [[noite-da-poesia-ube-ms|Noite da Poesia]], em 2025, foi anunciada como responsável pela oficina "Poesia Minimalista", marcada para 22 de outubro na Biblioteca Isaías Paim, em Campo Grande.[^cgn2025]
+Na programação que antecedeu a 37ª [[noite-da-poesia-ube-ms|Noite da Poesia]], em 2025, foi anunciada como responsável pela oficina "Poesia Minimalista", marcada para 22 de outubro na Biblioteca Isaías Paim.[^cgn2025]
 
 ## Obras
 

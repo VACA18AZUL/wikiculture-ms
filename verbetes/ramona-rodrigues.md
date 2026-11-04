@@ -14,6 +14,8 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
+Em agosto de 2015, a Fundação de Cultura de MS a apresentou como arte-educadora, atriz e diretora, com mais de 25 anos de atuação em teatro, em escolas e instituições culturais, e responsável por um ateliê de materiais didáticos para arte-educadores. Ela estava prevista para conduzir uma oficina sobre a poética de Manoel de Barros no 12º Festival América do Sul Pantanal, em Corumbá, entre 20 e 22 de agosto, no Moinho Cultural Sul-Americano.[^fcms2015]
+
 Em outubro de 2017, o Ateliê Ramona Rodrigues promoveu a 5ª Mostra de Teatro Infantil de MS, com recursos do Fundo de Investimentos Culturais (FIC). Foi a primeira edição com apresentações em bairros da periferia de Campo Grande. A programação anunciada tinha seminário, oficinas, uma delas com o ator [[breno-moroni|Breno Moroni]], e peças como *João e o Pé de Feijão na Terra do Nunca*, do [[circo-do-mato|Circo do Mato]], e *Dandys Acrobático*, da [[cia-theastai|Cia. Theastai]], de Dourados. A mostra também arrecadava brinquedos para doação.[^cgn2017]
 
 Em março de 2022, estava programada uma oficina dela de criação, confecção e manipulação de bonecos no distrito de Rochedinho, dentro da [[semana-do-teatro-e-circo-2022|1ª Semana do Teatro e Circo]].[^cgn2022a] Em novembro do mesmo ano, o ateliê estava entre os locais anunciados para uma apresentação da [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teatro de Bonecos]].[^cgn2022b]
@@ -27,3 +29,4 @@ No mesmo ano, assinou, com a Costuraria Fleur Confecções, figurino, adereços 
 [^cgn2022b]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Natália Olliver, ["De oficinas a técnica circense; veja onde crianças podem fazer teatro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/de-oficinas-a-tecnica-circense-veja-onde-criancas-podem-fazer-teatro), *Campo Grande News*, 14 set. 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Thailla Torres, ["Espetáculo gratuito usa arte para contar a história de artistas do circo"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-gratuito-usa-arte-para-contar-a-historia-de-artistas-do-circo), *Campo Grande News*, 15 nov. 2023. Acesso em 4 nov. 2026.
+[^fcms2015]: Gisele Colombo, ["Ramona Rodrigues traz a poética de Manoel da Barros em oficina do 12º FASP"](https://www.fundacaodecultura.ms.gov.br/ramona-rodrigues-traz-a-poetica-de-manoel-da-barros-em-oficina-do-12o-fasp/), Fundação de Cultura de MS, 17 ago. 2015. Acesso em 4 nov. 2026.
