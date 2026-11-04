@@ -62,3 +62,7 @@ Fontes descartadas: busca aberta trouxe só homônimas (Cleonice Berardinelli et
 ## Uso no verbete
 
 - Entrou: naturalidade, formação, docência em Campo Grande, ASL (eleição e posse), obras literárias com as divergências, Almar. Ficou fora: apostilas, candidatura política, citações do discurso.
+
+## Atualização de 2026-11-04 (r13)
+
+- *O Pantaneiro*, 04/02/2026 (https://www.opantaneiro.com.br/aquidauana/2026/02/04/aquidauanense-jandira-trindade-participa-de-evento-da-academia-feminina-de-letras-e-artes.html): posse de "Ana Maria Benedelli" como acadêmica da Academia Feminina de Letras e Artes, na celebração dos 18 anos da academia, em Aquidauana. A matéria só diz "escritora"; não confirma que seja Ana Maria Bernardelli (ASL). Nada acrescentado ao verbete; conferir em fonte da AFLAMS ou da própria autora.

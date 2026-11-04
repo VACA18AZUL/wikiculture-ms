@@ -25,6 +25,10 @@ A dissertação de Lise Rossi Jones Lima (UFMS, 2023) registra a escritora aquid
 
 ## Atividades
 
+Em 19 de junho de 2021, em cerimônia semipresencial em Campo Grande, a presidente Delasnieve Daspet deu posse a [[jandira-mendes-trindade|Jandira Mendes Trindade]] na cadeira 19, que tem como patrona Martha Ribeiro Brum.[^op2021]
+
+No início de 2026, *O Pantaneiro* noticiou a celebração dos 18 anos da academia, realizada em Aquidauana, com a posse da escritora Ana Maria Benedelli (grafia do jornal) como nova acadêmica.[^op2026]
+
 Para 12 de março de 2026, a Aflams e a [[fundac|Fundação Municipal de Cultura de Campo Grande]] programaram na [[morada-dos-bais|Morada dos Baís]] o encontro "Mulher – Encontro de Gerações", parte do Mês da Mulher. A programação previa leitura de poesias e troca de experiências entre acadêmicas e estudantes da Academia Estudantil de Letras da Escola Estadual Emidgio Campos Vidal.[^acritica2026a]
 
 Para 28 de maio de 2026, a academia marcou a cerimônia de posse de três novas integrantes: Carmen de Eugênio, gestora cultural da Morada dos Baís, a professora e pesquisadora Maria Augusta de Castilho e a psicóloga e comunicadora Beatriz Nantes.[^acritica2026b]
@@ -34,3 +38,5 @@ Para 28 de maio de 2026, a academia marcou a cerimônia de posse de três novas 
 [^acritica2026b]: Pietro Bitencourt, ["AFLAMS empossa três novas acadêmicas e amplia representatividade cultural em Mato Grosso do Sul"](https://acritica.net/cultura/aflams-empossa-novas-integrantes-em-mato-grosso-do-sul/), *A Crítica de Campo Grande*, 28 maio 2026. Acesso em 4 nov. 2026.
 [^ferreira2025]: Simone Lima Ferreira, [*Neologismos na literatura feminina sul-mato-grossense contemporânea*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564), dissertação de mestrado em Estudos de Linguagens, UFMS, 2025, p. 36 (numeração impressa). Acesso em 4 nov. 2026.
 [^lima2023]: Lise Rossi Jones Lima, [*Jornal O Pantaneiro: memória, história e cultura*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/11772), dissertação de mestrado em Estudos Culturais (Aquidauana), Universidade Federal de Mato Grosso do Sul, 2023, p. 91, nota 36 (p. 92 do PDF). Acesso em 4 nov. 2026.
+[^op2021]: ["Jandira Trindade torna-se imortal na Academia Feminina de Letras de MS"](https://www.opantaneiro.com.br/aquidauana/2021/06/19/jandira-trindade-torna-se-imortal-na-academia-feminina-de-letras-de-ms.html), *O Pantaneiro*, 19 jun. 2021. Acesso em 4 nov. 2026.
+[^op2026]: Guilherme Henrique, ["Aquidauanense Jandira Trindade participa de evento da Academia Feminina de Letras e Artes"](https://www.opantaneiro.com.br/aquidauana/2026/02/04/aquidauanense-jandira-trindade-participa-de-evento-da-academia-feminina-de-letras-e-artes.html), *O Pantaneiro*, 4 fev. 2026. Acesso em 4 nov. 2026.

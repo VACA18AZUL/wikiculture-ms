@@ -36,3 +36,9 @@ Buscas abertas ("Eulina de Souza Ribeiro" Maracaju; com Suely Mendonça) não tr
 ## Uso no verbete
 
 - Verbete não redigido: fonte única, resenha de segunda mão sobre um ensaio; sem datas nem títulos. Próximo passo: abrir o ensaio de Suely Mendonça (p. ~165 da coletânea de 2010) ou fonte em Maracaju.
+
+## Busca do agente d1-1 (2026-11-04)
+
+Onde busquei: API do O Estado MS ("Eulina Ribeiro", "Maracaju escritora"), busca do CGN ("Eulina"), busca do Correio do Estado ("Eulina"), busca da revista Raído (OJS UFGD), portal de trabalhos da UFMS (o parâmetro de busca é ignorado; lista geral) e RSS do Google Notícias (bloqueado). Nenhuma segunda fonte. Ensaio de Suely Mendonça na coletânea de 2010 continua não localizado em PDF.
+
+Decisão: continua dossie.

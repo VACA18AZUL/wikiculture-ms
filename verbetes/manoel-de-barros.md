@@ -52,6 +52,10 @@ Títulos citados na dissertação de Melotto (2010):[^melotto-ref]
 - *Compêndio para Uso dos Pássaros – Poesia Reunida 1937-2004*[^melotto3]
 - *Memórias Inventadas* (trilogia das "infâncias")[^melotto90]
 
+## Filmografia
+
+- [[500-almas|*500 Almas*]] — longa de [[joel-pizzini|Joel Pizzini]]; participação.[^cb]
+
 ## Para saber mais
 
 - Thalita Melotto, [*Memórias vividas e inventadas nas infâncias sedutoras de Manoel de Barros*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/6720), dissertação de mestrado, UFMS, 2010 — estudo da trilogia das infâncias e do mercado editorial da obra do poeta.
@@ -70,3 +74,4 @@ Títulos citados na dissertação de Melotto (2010):[^melotto-ref]
 [^cgn2025]: Thailla Torres, ["Bienal do Pantanal terá Leandro Karnal, Ana Maria Gonçalves e Almir Sater"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bienal-do-pantanal-tera-leandro-karnal-ana-maria-goncalves-e-almir-sater), *Campo Grande News*, 9 set. 2025. Acesso em 4 nov. 2026.
 [^araujo2009]: Susylene Dias de Araujo, [*A vida e a obra de Lobivar Matos: o modernista (des)conhecido*](https://repositorio.uel.br/bitstreams/acf051fe-2b05-42d0-93be-a30b3192c120/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2009, p. 36-41 (p. 38-43 do PDF). Acesso em 4 nov. 2026.
 [^vicelli]: Karina Kristiane Vicelli, [*Transgressão e antropofagia: da poesia de Manoel de Barros à poética de Caramujo-flor, de Joel Pizzini Filho*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2125), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2008, p. 9-10, 68 e 129 do PDF. Acesso em 4 nov. 2026.
+[^cb]: Cinemateca Brasileira, ["500 Almas"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=ID=026821&format=detailed.pft), base Filmografia Brasileira, código 026821. Acesso em 4 nov. 2026.

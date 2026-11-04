@@ -46,3 +46,9 @@ Fonte nova: Simone Lima Ferreira, *Neologismos na literatura feminina sul-mato-g
 ## Atualização de 2026-11-04 (r11)
 
 - Lima (UFMS, 2023), p. 92 do PDF (nota 36): Jandira Mendes Trindade, cadeira 19 da Aflams; colaboradora de O Pantaneiro; Meu lugar é aqui (FCMS, 2008). Nome novo possível: jandira-mendes-trindade (não proposto nesta rodada).
+
+## Atualização de 2026-11-04 (r13)
+
+- op2021 (*O Pantaneiro*, 19/06/2021): posse de Jandira Mendes Trindade na cadeira 19 (patrona Martha Ribeiro Brum), dada pela presidente Delasnieve Miranda Daspet de Souza. Reforça a presidência de Delasnieve já em 2021.
+- op2026 (Guilherme Henrique, *O Pantaneiro*, 04/02/2026): celebração dos 18 anos da academia em Aquidauana, com posse de "Ana Maria Benedelli". A data exata do evento não é dada. O ano de fundação não foi calculado no verbete (18 anos em 2026 sugere 2008, mas a fonte não dá a data).
+- "Ana Maria Benedelli": não ligada a [[ana-maria-bernardelli]] (ASL, ensaísta). A matéria não dá nenhum dado que confirme a identidade nem corrige a grafia.

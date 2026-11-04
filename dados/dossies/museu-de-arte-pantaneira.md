@@ -41,3 +41,10 @@ Fonte nova (independente de A Crítica):
 Pistas não usadas (não abertas ou sem fonte confiável): pantanalescapes.com (fechado para restauro em 2017, endereço Rua Cândido Mariano, 462) e bahia.ws (outro endereço); guias de turismo, não servem de nota. Correio do Estado, "Aquidauana celebra 132 anos..." não aberto.
 
 O que mudou: novo parágrafo de 2010, campo Gestão na ficha, resumo.
+
+## Atualização de 2026-11-04 (r13)
+
+- op2025 (Nathalia Pezl, *O Pantaneiro*, 08/04/2025): exposição *Nosso Início, Nossa Origem – Turíxeovoku. Vúkeaku* (abertura anunciada para 09/04/2025), programação completa; realização da Secretaria Municipal de Cultura e Turismo. Programa anunciado, não registro do evento.
+- op2026a (Sandra Luz, 26/02/2026): exposição *Mulheres*, 05 a 30/03/2026 (anúncio); Rua Cândido Mariano, 468 (endereço institucional; só a rua entrou no verbete).
+- op2026b (Redação, 25/09/2026): mostra do Concurso Artístico e Literário 2026, aberta em 23/09; reforça ac2026 (os dois textos parecem partir do mesmo release da Prefeitura, com a mesma fala do secretário Pepeu Fialho: não contam como fontes independentes entre si).
+- Fora: telefone e e-mail do museu.
