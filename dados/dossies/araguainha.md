@@ -26,3 +26,7 @@ Buscas restritas a FCMS, Agência de Notícias, Correio do Estado, A Crítica, C
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS ("Araguainha") sem resultado. Continua só com as descrições do Acervo Digital Memória Fonográfica de MS.
+
+## Atualização de 2026-11-04
+
+Segunda fonte tentada, sem resultado: API da FCMS ("Araguainha"), busca do Correio do Estado ("Araguainha"), A Crítica, WebSearch ("Araguainha" acordeonista/chamamé MS). Dois PDFs do repositório da UFMS (11457 e 3731) não abriram (conexão falhou). Nada mudou no verbete.

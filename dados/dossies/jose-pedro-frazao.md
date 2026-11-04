@@ -54,3 +54,9 @@ Buscas abertas (4) por "José Pedro Frazão", "J. P. Frazão", *Nas águas do Aq
 ## Uso no verbete
 
 - Entrou a trajetória profissional e as obras; prêmios e família ficaram fora.
+
+## Atualização de 2026-11-04
+
+- Fonte nova: RCN67, "Livro divulga riqueza e diversidade da literatura sul-mato-grossense", 4 out. 2013 (https://www.rcn67.com.br/tres-lagoas/livro-divulga-riqueza-e-diversidade-da-literatura-sul-mato-grossense/). Veículo independente da ASL. Sustenta: "José Pedro Frazão" na lista de 51 autores da *Antologia de Textos da Literatura Sul-mato-grossense*, organizada por Maria da Glória Sá Rosa (grafada "Sá Rocha" na matéria), Albana Xavier Nogueira e Maria Adélia Menegazzo, com recursos do FIC, lançada em 3/10/2013 na Biblioteca Municipal Rosário Congro, em Três Lagoas.
+- Acrescentado parágrafo em Trajetória. A matéria não diz quais textos dele entraram.
+- Buscas sem resultado: WebSearch pelo nome completo, API FCMS, API A Crítica, API RCN67 (outros resultados não citam o nome).

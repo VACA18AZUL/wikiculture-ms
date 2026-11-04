@@ -69,3 +69,9 @@ Wikipédia: sem artigo "Som da Concha" na pt.wikipedia (404 em 4 nov. 2026); a b
 ## Uso no verbete
 
 - Entrou o que está acima. A lista de selecionados de 2016 entrou como seção, com nomes artísticos (sem dados pessoais). Nomes pequenos da lista (Diovibe, Tonelada, Nuno Baez, Begèt de Lucena etc.) ficaram no verbete como incorporação.
+
+## Atualização de 2026-11-04 (validação valn-25)
+
+- Incorporações (sem link [[...]]): Opuesto, noite de 29 jan. 2017 anunciada como última da temporada 2016, com Simona (FCMS, 25 jan. 2017); MPBlues, noite de 6 maio 2018 anunciada, com Giani Torres (FCMS, 3 maio 2018); Os Walkírias, noite de 25 out. 2020 com Lulu Mello (FCMS, 25 out. 2020, relato); Renan and The Kings, show "Poesia de Bar" anunciado para 31 out. 2020 (FCMS, 28 out. 2020). Dubmistah, Xaras Gabriel, Nuno Baez, Tonelada e Pata de Cachorro já estavam no verbete; o link [[xaras-gabriel]] foi retirado (nome incorporado).
+- Datas das notas de 2017 e 2020 (Walkírias) conferidas pela API do site da FCMS; as de 2018 e 28 out. 2020 pela pasta de imagens da página e pela lista-mestra.
+- Simona fica sem link e sem dados pessoais (a nota de 2017 traz vida familiar; fora).

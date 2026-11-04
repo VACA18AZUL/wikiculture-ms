@@ -53,3 +53,7 @@ Buscas sem resultado: RCN67 e Correio do Estado (busca interna). Buscadores gera
 ## Uso no verbete
 
 - Entrou o essencial; lista de concorrentes municipais entrou de forma resumida; final só como previsão.
+
+## Atualização de 2026-11-04
+
+Segunda fonte tentada, sem resultado: API da FCMS ("Viva MS": só notícias recentes sem relação), busca do Correio do Estado ("Viva MS", sem itens de 2007), A Crítica, WebSearch (só as páginas da prefeitura já citadas). Final de 13/10/2007 e DVD continuam sem confirmação. Nada mudou no verbete.

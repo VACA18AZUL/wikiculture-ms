@@ -63,3 +63,7 @@ Fontes novas (outro veículo: portal da Fundação de Cultura de MS; busca do si
 
 Ressalva de identidade: as duas matérias dizem "Dagoberto Pedroso", sem o nome completo (Dagoberto Washington Justino Pedroso) nem o apelido Dago. A ligação com este verbete é por nome e área (artes visuais, Campo Grande). Revisor deve confirmar.
 Nada nas matérias confirma nascimento (1959), naturalidade, graduações, 1983 em Campo Grande, atuação no teatro ou obra no acervo do MARCO: continuam só no catálogo MARCO 30 anos. Buscas por "Dago artista plástico Campo Grande", "Dagoberto Washington Justino Pedroso" no Correio do Estado devolveram só homônimos (político e jogador).
+
+## Atualização de 2026-11-04
+
+Segunda fonte independente tentada, sem resultado: API da FCMS ("Dagoberto Pedroso": só as duas notícias já citadas, do mesmo órgão que publicou o catálogo do MARCO), A Crítica e Correio do Estado ("Dagoberto": só o político homônimo), Campo Grande News (busca não retorna resultados), WebSearch ("Dagoberto Pedroso"/"Dago Pedroso"). Nada mudou no verbete.

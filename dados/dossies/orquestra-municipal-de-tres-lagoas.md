@@ -47,3 +47,7 @@
 ## Revisão de 2026-11-04 (valn-19a)
 
 - Retirado do verbete o parágrafo das inscrições de ago. 2023 da "Orquestra Municipal de Música Popular de Três Lagoas": nenhuma fonte liga esse conjunto à orquestra regida por Lucas Osório de Melo.
+
+## Atualização de 2026-11-04
+
+Segunda fonte independente tentada, sem resultado: API da FCMS ("orquestra Três Lagoas"), busca do RCN67 (só os releases já citados), API do site do CPTL/UFMS ("orquestra", "Lucas Osório"), WebSearch ("Orquestra Municipal" "Três Lagoas" "Lucas Osório"). Hoje Mais e Perfil News não responderam à consulta (página de cidade e bloqueio Cloudflare). Nada mudou no verbete.

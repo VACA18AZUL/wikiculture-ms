@@ -49,3 +49,8 @@ Descartadas: resultados da busca da FCMS sem a sequência exata "Ton Alves" (Hil
 ## Uso no verbete
 
 - Tudo acima.
+
+## Atualização de 2026-11-04
+
+- Revisão: show dos 40 anos de MS (FCMS 11 out. 2017) e show de Delinha (CE 11 out. 2021) são textos do próprio dia, anteriores aos shows: reescritos como anúncio. Produção das músicas de Renata Sena (FCMS 2022) era plano ("contará com"): reescrita.
+- Fontes independentes da FCMS já no verbete: Correio do Estado 2017 (Guitar Day), 2021 e 2024.

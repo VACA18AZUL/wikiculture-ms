@@ -27,6 +27,8 @@ Em Aquidauana, presidiu a subseção da Ordem dos Advogados do Brasil e lecionou
 
 Colaborou com jornais sul-mato-grossenses, entre eles o Suplemento Cultural do Correio do Estado.[^asl2011] Em 2004, a Revista da ASL n. 5 trouxe textos dele, ao lado de outros acadêmicos.[^asl2004]
 
+Como Heliophar Serra, aparece na lista de autores da *Antologia de Textos da Literatura Sul-mato-grossense*, organizada por [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], Albana Xavier Nogueira e [[maria-adelia-menegazzo|Maria Adélia Menegazzo]], com 51 autores do estado e apoio do Fundo de Investimentos Culturais. O livro foi lançado em Três Lagoas em 3 de outubro de 2013.[^rcn2013]
+
 A cadeira 3 da ASL tem como patrono [[ulisses-serra|Ulysses Serra]]. Depois de sua morte, passou a [[oswaldo-barbosa-de-almeida|Oswaldo Barbosa de Almeida]], cuja posse, numa noite de 23 de fevereiro, foi noticiada pela ASL em texto datado de fevereiro de 2018.[^asl2018]
 
 Uma sala de comissões do Palácio Popular da Cultura, em Campo Grande, recebeu seu nome.[^asl2011]
@@ -40,3 +42,4 @@ Uma sala de comissões do Palácio Popular da Cultura, em Campo Grande, recebeu 
 [^asl2011]: Diretoria da ASL, ["Academia de luto: falece o acadêmico Heliophar de Almeida Serra"](https://acletrasms.org.br/academia-de-luto-falece-o-academico-heliophar-de-almeida-serra/), *Academia Sul-Mato-Grossense de Letras*, 29 jul. 2011. Acesso em 4 nov. 2026.
 [^asl2018]: ["Academia Sul-Mato-Grossense de Letras empossa novo acadêmico"](https://acletrasms.org.br/academia-sul-mato-grossense-de-letras-empossa-novo-academico/), *Academia Sul-Mato-Grossense de Letras*, 14 fev. 2018. Acesso em 4 nov. 2026.
 [^asl2004]: ["Revista n. 5 da Academia"](https://acletrasms.org.br/revista-n-5-da-academia/), *Academia Sul-Mato-Grossense de Letras*, 25 nov. 2004. Acesso em 4 nov. 2026.
+[^rcn2013]: ["Livro divulga riqueza e diversidade da literatura sul-mato-grossense"](https://www.rcn67.com.br/tres-lagoas/livro-divulga-riqueza-e-diversidade-da-literatura-sul-mato-grossense/), *RCN67*, 4 out. 2013. Acesso em 4 nov. 2026.
