@@ -29,8 +29,10 @@ A entrega foi marcada para 26 de março de 2026, em Campo Grande. A UFMS anuncio
 ## Filmografia
 
 - [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; atuação, no papel do padre Patanê, segundo o *Campo Grande News*.[^cgn2026lydia]
+- [[quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae|*Quando o Galo Cantar pela Terceira Vez Renegarás tua Mãe*]] (2017) — longa de Aaron Salles Torres; interpretação da música-tema, composta pelo diretor.[^papo2017galo]
 
 [^acritica]: Ricardo Eugênio, ["UFMS homenageia Ney Matogrosso com título de Doutor Honoris Causa"](https://acritica.net/cultura/ufms-homenageia-ney-matogrosso-com-titulo-de-doutor-honoris-causa/), *A Crítica de Campo Grande*, 26 mar. 2026. Acesso em 29 out. 2026.
 [^ufms2026]: Universidade Federal de Mato Grosso do Sul, ["Ney Matogrosso receberá título Doutor Honoris Causa nesta quinta no Glauce Rocha"](https://www.ufms.br/ney-matogrosso-recebera-titulo-doutor-honoris-causa-nesta-quinta-no-glauce-rocha/), 24 mar. 2026. Acesso em 4 nov. 2026.
 [^caetano2012nupem]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM*, Campo Mourão, v. 4, n. 6, jan./jul. 2012. Acesso em 4 nov. 2026.
 [^cgn2026lydia]: Natália Olliver, ["De batina, Ney Matogrosso grava filme sobre Lídia Baís na Capital"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/de-batina-ney-matogrosso-grava-filme-sobre-lidia-bais-na-capital), *Campo Grande News*, 6 jun. 2026. Acesso em 4 nov. 2026.
+[^papo2017galo]: Marcelo Müller, ["Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe :: Entrevista exclusiva com Aaron Salles Torres"](https://www.papodecinema.com.br/entrevistas/quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae-entrevista-exclusiva-com-aaron-salles-torres/), *Papo de Cinema*, 23 nov. 2017. Acesso em 4 nov. 2026.

@@ -31,7 +31,7 @@ Pela Georgois, editou a antologia *Treze Mulheres Contemporâneas, Treze Poemas 
 
 ## Filmografia
 
-- *Quando o Galo Cantar pela Terceira Vez Renegarás tua Mãe* (2017) — longa-metragem; direção e música-tema.[^papo2017][^folha2017]
+- [[quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae|*Quando o Galo Cantar pela Terceira Vez Renegarás tua Mãe*]] (2017) — longa-metragem; direção, roteiro e música-tema.[^papo2017][^folha2017]
 - *Nunca te Prometi um Mar de Rosas* (2026) — longa-metragem; direção.[^acritica2026a]
 
 ## Obras

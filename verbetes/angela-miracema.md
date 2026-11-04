@@ -18,7 +18,7 @@ Em 29 de setembro de 2015, abriu no [[marco|Museu de Arte Contemporânea de MS (
 
 Em 2016, o *Campo Grande News* a apresentou como artista plástica e pesquisadora de elementos indígenas. Ela contou ter mudado o próprio trabalho depois de dar uma oficina de arte para mulheres numa aldeia kadiwéu. Naquele ano, recebeu em seu ateliê, em Campo Grande, a jovem artista kadiwéu Nayokolate, que conheceu por meio do Instituto Cultural Gilberto Luiz Alves.[^cgn2016]
 
-Com o pesquisador [[gilberto-luiz-alves|Gilberto Luiz Alves]], teve a ideia de reunir um acervo de obras do gravador [[roberto-de-lamonica|Roberto De Lamônica]]. Segundo Gilberto, ela passou a frequentar leilões, e os dois compraram de 12 a 14 obras, parte delas exposta no MARCO em 2018.[^fcms2018]
+Com o pesquisador [[gilberto-luiz-alves|Gilberto Luiz Alves]], teve a ideia de reunir um acervo de obras do gravador [[roberto-de-lamonica|Roberto De Lamônica]]. Segundo Gilberto, ela passou a frequentar leilões, e os dois compraram de 12 a 14 obras, parte delas exposta no MARCO em 2018, na mostra *Cidadão do Mundo*.[^fcms2018]
 
 Uma obra sua está no acervo do MARCO. Em julho de 2023, serviu de referência a uma oficina de colagem para crianças e adolescentes no museu.[^fcms2023]
 

@@ -43,3 +43,12 @@ Fontes descartadas: G1 (6 fev. 2026, roteiro de fim de semana) apareceu no RSS d
 ## Uso no verbete
 
 - Entrou tudo acima; dados estatísticos citados pela autora ficaram de fora.
+
+## Atualização de 2026-11-04
+
+- Nova fonte aberta e lida: oe2026 — "Atriz Ligia Prieto lança 'Invernáculo dos Sonhos', que mistura manifesto com teatro", *O Estado*, 4 fev. 2026, https://oestadoonline.com.br/arte-e-lazer/atriz-ligia-prieto-lanca-invernaculo-dos-sonhos-que-mistura-manifesto-com-teatro/ (entrevista com a autora; independente do release).
+- Fatos usados: peça em cartaz no Aracy Balabanian até 6 fev. 2026 (confirma a estreia); dramaturgia aprofundada após o mestrado; questionamento sobre o valor da criação de uma mulher artista num estado agropecuário.
+- Ficou de fora: relatos da autora sobre abusos sofridos no teatro (vida pessoal).
+- Diário Digital e Primeira Página reproduzem o mesmo texto de divulgação ("Entre confissão e manifesto..."); contam como uma fonte. Campo Grande News reescreve o release com citação da autora.
+- Grafia: as quatro fontes escrevem "Ligia" sem acento; o verbete passou a usar "Ligia".
+- Produção (Mariana Castelar) acrescentada à equipe [dd2026].

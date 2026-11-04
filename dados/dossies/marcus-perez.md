@@ -43,3 +43,9 @@ Fontes descartadas: FCMS (2022, lista da oficina com José Meireles, "Marcus Vin
 ## Uso no verbete
 
 - Entraram os fatos acima, sem a idade.
+
+## Revisão de 2026-11-04
+
+- cgn2025 diz que o espetáculo "é assinado" pelos quatro artistas; o verbete passou a tratá-lo como cocriador e intérprete.
+- O Pantaneiro (pant2026) tem texto com cara de divulgação ("A organização convida..."), mas é veículo distinto do Campo Grande News; assinado por "Rhobson".
+- Itaú Cultural (fev. 2026) lista *Cabeça de Toco* na MITsp 2026 (14 e 15 mar. 2026), sem nomear os intérpretes; não usado neste verbete. Útil para o verbete do espetáculo: https://itaucultural.org.br/secoes/agenda/itau-cultural-recebe-espetaculos-11-mostra-internacional-teatro-com-foco-centro-oeste

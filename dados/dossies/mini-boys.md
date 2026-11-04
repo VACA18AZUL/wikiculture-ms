@@ -41,3 +41,8 @@ Descartada: Midiamax 13 jul. 2022 ("época dourada" do rock) — bloqueio Cloudf
 | jose-charbel-filho | integrou (origem) | cgn2016a | sim | sim |
 | miguelito | integrou (origem) | cgn2018 | não | não (proposto) |
 | zutrik | relacionado-a (novo nome) | cgn2020 | não | não (proposto) |
+
+## Revisão de 2026-11-04
+
+- fcms2021 reaberto: confirma só que Miguelito fez parte de "The Mini Boys" (e de Time Travelers, Zutrik etc.); não fala de bailes, Jovem Guarda ou Rua 14 de Julho.
+- A formação de 1972 é dada pela repórter, não em fala de Miguelito; verbete ajustado.
