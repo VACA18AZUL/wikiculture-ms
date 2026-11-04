@@ -65,3 +65,15 @@ Fonte independente da FCMS: só o Correio do Estado de 2008 e 2009 (anúncios de
 
 - Entrou: fundação, festivais, Bigorna, FAS 2008, Som da Concha 2008/2009, relançamento de Trepanador, Tour Feroz, integrantes.
 - Fora: falas dos integrantes, adjetivos da assessoria, dia exato dos shows (divergência), público.
+
+## Acréscimo (busca do Campo Grande News, que funcionou mais tarde na sessão)
+
+| id | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| cgn2015 | Naiane Mesquita, "Dimitri Pellz faz show de dez anos de estrada com futuro incerto nos palcos", Campo Grande News, 11 out. 2015 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/dimitri-pellz-faz-show-de-dez-anos-de-estrada-com-futuro-incerto-nos-palcos | imprensa | sim |
+| cgn2025 | Thailla Torres, "Dimitri Pellz celebra 20 anos com turnê por três cidades de MS", Campo Grande News, 20 out. 2025 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/dimitri-pellz-celebra-20-anos-com-turne-por-tres-cidades-de-ms | imprensa (repete release) | sim |
+
+- Primeiro show em outubro de 2005; disco de 2013 com 12 faixas, produzido por Alex Cavalheri; show de 10 anos no BarFly em 11 out. 2015; formação de 2015: Maíra Espíndola, André Vilela (Samambaia), Heitor Chaves (baixo), Heitor Menezes (guitarra), Jean Albernaz; só o guitarrista mudou desde a formação original [cgn2015].
+- Divergência: baixista Heitor Chaves [cgn2015] × Heitor Teixeira [fcms2025a; cgn2025]. Registrada no verbete.
+- cgn2025 confirma fundação 2005, Bananada, Casarão, Bigorna, relançamento de Trepanador em 2024, formação de 2025; dá Dourados 28/11 e Campo Grande 29/11.
+- Fora: nome da esposa do baterista (vida familiar), idade.

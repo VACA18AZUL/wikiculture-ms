@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Os Catedráticos do Samba**, ou Grêmio Recreativo Escola de Samba Os Catedráticos do Samba, é uma escola de samba de Campo Grande filiada à [[lienca|Lienca]]. Tem as cores branco, preto, amarelo-ouro e vermelho e uma águia como símbolo.[^cn1-2024]
+**Os Catedráticos do Samba**, ou Grêmio Recreativo Escola de Samba Os Catedráticos do Samba, é uma escola de samba de Campo Grande filiada à [[lienca|Lienca]]. O símbolo é uma águia, e as cores são o branco, o preto, o vermelho e o amarelo-ouro.[^cn1-2024]
 
 ## Trajetória
 
@@ -19,7 +19,7 @@ O site *CN1 Brasil* dá duas versões para a origem da escola. No perfil das agr
 
 No carnaval de 2026, foi a primeira escola a desfilar na segunda noite, em 17 de fevereiro, na Praça do Papa, com o samba-enredo "De volta ao passado: Os Catedráticos do Samba em um flashback de emoções". A comissão de frente fez referência a "Thriller", de Michael Jackson, com coreografia de Katia Maiani. A presidente da escola era Marilene Pereira de Barros.[^fcms2026] A escola terminou em terceiro lugar.[^cgn2026]
 
-Em agosto de 2026, a escola anunciou o enredo do carnaval de 2027, uma homenagem à dupla [[alex-e-ivan|Alex e Ivan]], chamada de "os Violeiros de Bodoquena", com o título "Do canto dos pássaros, das águas do Pantanal aos palcos do Brasil. A saga de Alex e Ivan, os Violeiros de Bodoquena".[^acritica2026] O desfile de 2027 está marcado para a segunda noite, 9 de fevereiro.[^cgn2026]
+Em agosto de 2026, a escola anunciou que o enredo do carnaval de 2027 seria uma homenagem à dupla [[alex-e-ivan|Alex e Ivan]], chamada de "os Violeiros de Bodoquena", com o título "Do canto dos pássaros, das águas do Pantanal aos palcos do Brasil. A saga de Alex e Ivan, os Violeiros de Bodoquena".[^acritica2026] Pelo sorteio da ordem dos desfiles, a escola abrirá as apresentações das agremiações na segunda noite, prevista para 9 de fevereiro de 2027.[^cgn2026]
 
 [^cn1-2024]: Waldir Tavares Filho, ["Campo Grande/MS: A resistência do samba no Centro-Oeste, com a Segunda Liga Mais Antiga do Brasil"](https://cn1brasil.com.br/campo-grande-ms-a-resistencia-do-samba-no-centro-oeste-com-a-segunda-liga-mais-antiga-do-brasil/), *CN1 Brasil*, 12 mar. 2024. Acesso em 4 nov. 2026.
 [^fcms2026]: Karina Medeiros de Lima, ["Segundo dia do desfile das escolas de samba de Campo Grande foi de muito samba no pé"](https://www.fundacaodecultura.ms.gov.br/segundo-dia-do-desfile-das-escolas-de-samba-de-campo-grande-foi-de-muito-samba-no-pe/), *Fundação de Cultura de MS*, 18 fev. 2026. Acesso em 4 nov. 2026.

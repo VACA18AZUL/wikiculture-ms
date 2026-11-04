@@ -19,9 +19,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], aprendeu violão aos onze anos, cantou em corais de igreja e compôs a primeira canção aos quinze. Dedica-se à música desde 2008, com apresentações descritas como quase teatrais.[^fcms2016a] A imprensa cita como referências Luiz Gonzaga, Caetano Veloso, Vanessa da Mata e Ney Matogrosso.[^popfantasma2023]
+Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], aprendeu violão aos onze anos, cantou em corais de igreja e compôs a primeira canção aos quinze. Dedica-se à música desde 2008.[^fcms2016a] O site *Pop Fantasma* descreve suas interpretações como "quase teatrais" e aponta como influências Luiz Gonzaga, Caetano Veloso, Vanessa da Mata e Ney Matogrosso.[^popfantasma2023]
 
-No edital de 2016 do [[som-da-concha|Som da Concha]], ficou em 16º lugar entre os shows de abertura.[^fcms2016c] Em 4 de dezembro de 2016, abriu uma noite do projeto, na Concha Acústica Helena Meirelles, com o show "Cigano invém", prévia de um disco que, segundo a fundação, seria gravado em janeiro de 2017.[^fcms2016b] Voltou ao Som da Concha em 11 de novembro de 2018, na mesma noite da banda [[surfistas-de-trem|Surfistas de Trem]], com o pré-lançamento do álbum "Cigano Invém".[^fcms2018]
+No edital de 2016 do [[som-da-concha|Som da Concha]], ficou em 16º lugar entre os shows de abertura.[^fcms2016c] Em 4 de dezembro de 2016, abriu uma noite do projeto, na Concha Acústica Helena Meirelles, com o show "Cigano invém", prévia de um disco que, segundo a fundação, seria gravado em janeiro de 2017.[^fcms2016b] Voltou ao Som da Concha em 11 de novembro de 2018, na mesma noite da banda [[surfistas-de-trem|Surfistas de Trem]], com o show "Cigano Invén", projeto que, segundo ele, vinha amadurecendo havia dois anos. A fundação o apresentou também como vocalista da banda Santo Chico.[^fcms2018]
 
 O álbum de estreia, *Cygano*, saiu em 2019 e tem a faixa "Bolero de Criolo", gravada com Ney Matogrosso.[^popfantasma2023][^fcms2023] Em 2023, lançou o single "De primeira", pelo selo New House, composto com Kiko Zambianchi.[^popfantasma2023]
 
