@@ -23,9 +23,11 @@ Namaria conduz as conversas com Mel Dias, Ariadne, Erica Espíndola, Paula Frega
 
 O filme tem interpretação em Libras e legendas, além de uma versão com audiodescrição. O projeto foi realizado com recursos da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB), por meio da Fundação Municipal de Cultura (Fundac) de Campo Grande.[^acritica][^ce2026a]
 
+*O Estado de Mato Grosso do Sul* também anunciou o lançamento para 29 de outubro e descreve as mesmas participantes e os mesmos recursos de acessibilidade. Diferentemente da matéria de *A Crítica*, inclui Manu Komiyama na direção, ao lado do duo. Segundo o jornal, o primeiro *CenAlternativa* reuniu artistas que lançaram trabalhos e desenvolveram carreira entre 2020 e 2025, daí o nome Geração 20.[^oestado2026]
+
 ## Ficha técnica
 
-- Direção: [[vozmece|Namaria Schneider e Pedro Fattori (Vozmecê)]][^acritica]
+- Direção: [[vozmece|Namaria Schneider e Pedro Fattori (Vozmecê)]][^acritica][^oestado2026]; *O Estado de Mato Grosso do Sul* inclui também [[manu-komiyama|Manu Komiyama]].[^oestado2026]
 - Produção executiva, roteiro e pesquisa: [[namaria-schneider|Namaria Schneider]][^acritica]
 - Direção de produção, fotografia, edição e colorização: [[manu-komiyama|Manu Komiyama]][^acritica]
 - Direção de som: [[pedro-fattori|Pedro Fattori]][^acritica]
@@ -36,3 +38,4 @@ A matéria diz ainda que Namaria Schneider, Manu Komiyama e Pedro Fattori divide
 [^acritica]: Iury de Oliveira, ["Documentário reúne gerações de mulheres da música autoral sul-mato-grossense"](https://acritica.net/cultura/cenalternativa-2-mulheres-musica-ms-estreia-campo-grande/), *A Crítica de Campo Grande*, 23 out. 2026. Acesso em 29 out. 2026.
 [^ce2026a]: Leo Ribeiro, ["Documentário 'CenAlternativa 2' mostra a produção autoral feminina de Mato Grosso do Sul"](https://correiodoestado.com.br/correio-b/lancamentodocumentario-cenalternativa-2-mostra-a-producao/475830/), *Correio do Estado*, 29 out. 2026. Acesso em 4 nov. 2026.
 [^ce2026b]: Leo Ribeiro, ["Fim de semana traz festival de curtas, novo single local, festas de Halloween e mais"](https://correiodoestado.com.br/correio-b/fim-de-semana-traz-festival-de-curtas-novo-single-local-festas-de/475915/), *Correio do Estado*, 30 out. 2026. Acesso em 4 nov. 2026.
+[^oestado2026]: Carolina Rampi, ["Mulheres da música autoral do Estado se tornam protagonistas em vídeodocumentário"](https://oestadoonline.com.br/arte-e-lazer/mulheres-da-musica-autoral-do-estado-se-tornam-protagonistas-em-videodocumentario/), *O Estado de Mato Grosso do Sul*, 28 out. 2026. Acesso em 4 nov. 2026.

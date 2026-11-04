@@ -24,6 +24,8 @@ Em março de 2026, o duo anunciou a despedida de Campo Grande, em um evento marc
 
 Em maio de 2026, o duo foi anunciado entre as atrações da edição de dois anos da Feira Borogodó, em Campo Grande, marcada para 7 de junho.[^cr2]
 
+Em outubro de 2026, *O Estado de Mato Grosso do Sul* noticiou o lançamento de [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2*]], documentário do duo com dez mulheres da música autoral do estado, conduzido por Namaria Schneider. A matéria descreve o som do duo como mistura de polca paraguaia, psicodelia, baião, rock, axé e humor, e cita a fala de Namaria sobre o ativismo cultural presente nos oito anos do grupo.[^oestado2026]
+
 ## Discografia
 
 - *Desbunde* (2020) — álbum.[^cr1]
@@ -39,3 +41,4 @@ Em maio de 2026, o duo foi anunciado entre as atrações da edição de dois ano
 [^cr2]: Iury de Oliveira, ["Feira Borogodó celebra 2 anos com edição especial, 300 expositores e atrações culturais"](https://acritica.net/cultura/feira-borogodo-2-anos-campo-grande/), *A Crítica de Campo Grande*, 26 mai. 2026. Acesso em 29 out. 2026.
 [^cr3]: Iury de Oliveira, ["Documentário reúne gerações de mulheres da música autoral sul-mato-grossense"](https://acritica.net/cultura/cenalternativa-2-mulheres-musica-ms-estreia-campo-grande/), *A Crítica de Campo Grande*, 23 out. 2026. Acesso em 29 out. 2026.
 [^ce2026]: Leo Ribeiro, ["Documentário 'CenAlternativa 2' mostra a produção autoral feminina de Mato Grosso do Sul"](https://correiodoestado.com.br/correio-b/2026/10/29/documentario-cenalternativa-2-mostra-a-producao-autoral-feminina-de-mato-grosso-do-sul.html), *Correio do Estado*, 29 out. 2026. Acesso em 4 nov. 2026.
+[^oestado2026]: Carolina Rampi, ["Mulheres da música autoral do Estado se tornam protagonistas em vídeodocumentário"](https://oestadoonline.com.br/arte-e-lazer/mulheres-da-musica-autoral-do-estado-se-tornam-protagonistas-em-videodocumentario/), *O Estado de Mato Grosso do Sul*, 28 out. 2026. Acesso em 4 nov. 2026.

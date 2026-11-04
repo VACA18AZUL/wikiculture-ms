@@ -21,13 +21,13 @@ José Antonio de Souza e Washington Batista Leite dão 1936 como ano de publica�
 
 ## Conteúdo
 
-Segundo Souza, o título se refere a um bairro de Corumbá habitado basicamente por negros. Na classificação proposta pelo próprio autor e retomada por Susylene Dias de Araújo em sua dissertação, citada por Souza, os poemas de Lobivar se dividem em cinco grupos: líricos, boróros, negros, pequenos poemas e recolhidos. Dos dez "poemas negros", oito estão em *Sarobá*.[^souza2008]
+Segundo Souza, o título se refere a um bairro de Corumbá habitado basicamente por negros. Segundo a dissertação de Susylene Dias de Araújo (2002), citada por Souza, o próprio Lobivar sugeriu dividir seus poemas em cinco grupos: líricos, boróros, negros, pequenos poemas e recolhidos. Ainda segundo Araújo, dos dez "poemas negros", oito estão em *Sarobá* e dois em *Areôtorare*.[^souza2008]
 
 Souza analisa dois deles, "Negrinho lambido" e "Mulata Isaura". Vê nos dois a denúncia social, mas também estereótipos no primeiro, e observa que o autor não "clareia" seus personagens negros. Conclui que a voz desses poemas fala do negro à distância, sem ser a do próprio negro, e os aproxima de poemas da mesma época de Jorge de Lima e Manuel Bandeira.[^souza2008] Na mesma análise, Souza cita a leitura de [[edna-menezes|Edna Menezes]], para quem outro poema de tema negro do autor, "Banzé de cuia", não pode ser lido como racista.[^souza2008]
 
 ## Recepção
 
-Nas últimas páginas, *Sarobá* reproduz comentários de críticos e amigos sobre *Areôtorare*, lançado no ano anterior, e indica os jornais e revistas em que saíram. Leite cita, entre outros, os de Eloy Pontes, Fábio Luz, Honório Silvestre, Modesto de Abreu, Tasso da Silveira, Osmundo Lima, Paranho Antunes e Leopoldo Betiol, e lê esse conjunto como uma rede de amizades que ajudou o jovem poeta a circular entre a crítica.[^leite2026]
+Nas últimas páginas, *Sarobá* reproduz comentários de críticos e amigos sobre *Areôtorare*, lançado no ano anterior, e indica os jornais e revistas em que saíram. Leite cita, entre outros, os de Eloy Pontes, Fábio Luz, Honório Silvestre, Modesto de Abreu, Tasso da Silveira, Osmundo Lima, Paranho Antunes e Leopoldo Betiol, e lê esses comentários como sinal de uma amizade de caráter político; para ele, a troca de favores talvez tenha ajudado o poeta a obter atenção da crítica.[^leite2026]
 
 ## Para saber mais
 

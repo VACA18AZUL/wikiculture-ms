@@ -47,3 +47,9 @@ Buscas abertas não trouxeram terceira fonte. Matéria de 2021 sobre "Zé Pelint
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: buscas no Correio do Estado ("Pivatto"), A Crítica ("Pivatto"), FCMS (Ginga, Diógenes Pivatto): sem matéria sobre ele. Correio do Estado, 12 maio 2026, sobre 40 anos da Ginga Cia. de Dança, cita a importância de Joinville para a companhia, mas não cita Pivatto nem o Omolú; não usada. Ligação Ginga e Studio 2 segue sem fonte única que cite os dois vínculos. Já tem duas fontes de veículos diferentes (Campo Grande News e A Crítica).
+
+## Atualização de 2026-11-04 (r9)
+
+- Fonte nova aberta e lida: João Santana Fernandes, "'MS não apoia artistas daqui', diz bicampeão do maior festival de dança do mundo", O Estado Online, 25 ago. 2022 (https://oestadoonline.com.br/arte-e-lazer/ms-nao-apoia-artistas-daqui-diz-bicampeao-do/), achada pela API do O Estado MS. Entrevista própria, veículo diferente do CGN. Sustenta: Omolú, de Diogenes Antonio Pivatto, pela Ginga, bicampeonato em Joinville em 21 jul. 2022; dueto com Frantielly Ycasat e vaga para 2023; três décadas representando o estado no festival; falta de apoio e vaquinha; espetáculo Silêncio Branco (Lei de Incentivo 2021, pesquisa com a Casa da Mulher Brasileira, três apresentações).
+- Idade citada na matéria ficou fora. A matéria diz "categoria sênior"; o CGN diz modalidade Danças Populares Brasileiras: não são contraditórias (categoria e modalidade), mantido o texto do CGN.
+- Título completo conferido na página: "'MS não apoia artistas daqui', diz bicampeão do maior festival de dança do mundo".

@@ -48,3 +48,8 @@ Descartada: Omelete "Conheça o Homem-Grilo" (só resumo de busca, não lida; di
 - Segunda fonte independente: Samir Naliato, "Quadrinhista Fred Hildebrand lança o webtoon Spaceshit em versão impressa", Universo HQ, 19 out. 2023, https://universohq.com/noticias/quadrinhista-fred-hildebrand-lanca-o-webtoon-spaceshit-em-versao-impressa/ [uhq2023]. Webtoon lançado em 2020, na pandemia; versão impressa do volume 1 (128 p., toda a primeira temporada) em pré-venda no Catarse, lançamento programado para novembro de 2023; versão digital no Fliptru e no Funktoon.
 - A nota [grilo] passou a apontar o link permanente do post (https://homemgrilo.com/lancamento-do-homem-grilo-vol-2/). O post de 19 dez. 2025 anuncia o lançamento de São Paulo dos Mortos vol. 5 para 20 dez.; não diz a função de Fred na obra.
 - Midiamax 2024 ("Do entretenimento ao debate social...") deu 403; não lida. Midiamax 2025 e G1 2022 achados no Google Notícias, não abertos.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 30 jan. 2023, "Quadrinista da Capital comemora Dia do Quadrinho Nacional com lançamento de Web Comic". 4º e último capítulo de Spaceshit em 30/01/2023, 12h, no Fliptru, grátis; Spaceshit iniciado em 2020; capítulo 1 impresso de forma independente, 220 cópias vendidas em 2022; plano de volume único por financiamento coletivo; cursos de mangá a partir de 4/02/2023. Biografia (UFMS, desde 2008, Patre Primordium, Nanquim Descartável, Os Desviantes, Homem-Grilo) confere com a FCMS.
+- Fora: telefone e endereço de inscrição da matéria.

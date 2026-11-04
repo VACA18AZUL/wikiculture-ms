@@ -13,11 +13,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Palavras avulsas*** é o primeiro livro solo da poeta [[diana-pilatti|Diana Pilatti]], publicado em 2019 pela editora Venas Abiertas, de Belo Horizonte.[^ferreira2025] É o volume 7 da I Coleção de Livros de Bolso do [[mulherio-das-letras-ms|Mulherio das Letras]], coleção que ficou entre os dez finalistas do Prêmio Jabuti de 2020 na categoria Inovação: Fomento à Leitura.[^ferreira2025][^fcms2022]
+***Palavras avulsas*** é o primeiro livro solo da poeta [[diana-pilatti|Diana Pilatti]], publicado em 2019 pela editora Venas Abiertas, de Belo Horizonte.[^ferreira2025] É o volume 7 da I Coleção de Livros de Bolso do [[mulherio-das-letras-ms|Mulherio das Letras]], coleção que figurou na lista de dez finalistas do Prêmio Jabuti 2020, categoria Inovação: Fomento à Leitura.[^ferreira2025][^fcms2022]
 
 ## Conteúdo
 
-Simone Lima Ferreira, em dissertação de mestrado em Estudos de Linguagens defendida na UFMS em 2025, aponta no livro traços que continuam nas obras seguintes da autora: a metalinguagem, com poemas que refletem sobre a própria poesia e sobre as palavras, e a condensação de ideias. Para Ferreira, a marca mais própria de Pilatti é a criação de palavras novas.[^ferreira2025]
+Simone Lima Ferreira, em dissertação de mestrado em Estudos de Linguagens defendida na UFMS em 2025, aponta no livro traços que continuam nas obras seguintes da autora: a metalinguagem, com poemas que tomam como tema a própria poesia e as palavras, e a condensação de ideias. Para Ferreira, a marca mais própria de Pilatti é a criação de palavras novas.[^ferreira2025]
 
 A pesquisadora identifica onze neologismos no livro, como "palavra-pedra", "desrimando", "entreondulo", "saudade-salobra" e "putresia". A maioria é formada pela junção de palavras com hífen; "desrimando" e "entreondulo" nascem de prefixos, e "putresia" funde "putrefação" e "poesia".[^ferreira2025]
 

@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Recepção
 
-Segundo a [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], o livro foi durante vários anos leitura obrigatória para o vestibular de universidades particulares.[^asl]
+Segundo a [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], o livro foi durante vários anos leitura obrigatória para o vestibular de universidades particulares e públicas de Mato Grosso do Sul.[^asl]
 
 José Antonio de Souza incorporou *Caixa de Poemas* à sua tese de doutorado sobre literatura e identidade cultural em Mato Grosso do Sul, como obra que representa a região do estado próxima à fronteira com o Paraguai.[^souza2008a]
 

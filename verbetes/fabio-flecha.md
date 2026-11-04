@@ -7,13 +7,6 @@ resumo: "Cineasta de Campo Grande, diretor e roteirista; fundou com Tania Sozza 
 ficha:
   Atividade: "Direção, roteiro e produção audiovisual"
   Grupos: Render Brasil Produções
-links:
-  - tipo: youtube
-    url: https://www.youtube.com/@render_brasil
-    acesso: 2026-11-04
-  - tipo: site
-    url: https://renderbrasil.com.br/
-    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

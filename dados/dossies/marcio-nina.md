@@ -38,3 +38,7 @@
 
 Fontes novas lidas (FCMS, WebFetch): notícia de 14 set. 2017 (1º Festival Internacional de Chamamé de MS; presidente do instituto citado: Orivaldo Mengual) e de Karina Medeiros de Lima, 18 set. 2019 (3º Festival; 9 a 13 out. 2019). As duas grafam "Instituto Cultural Chamamé MS", o que dá um terceiro nome ao lado de "Instituto do Chamamé de MS" (CGN 2017) e "Instituto Cultural Chamamés de MS" (CGN 2018). Nenhuma das duas cita Márcio Nina, Zé Corrêa nem livro. FCMS 2020 (4º festival virtual, promovido pelo programa A Hora do Chamamé, com o instituto como parceiro): idem, sem Márcio Nina.
 Márcio Nina e o livro seguem com fonte única (CGN). Situação: reforcar. Pistas: Sá Rosa/Duncan; Instituto Cultural Chamamé MS (perfil); programa A Hora do Chamamé.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News e RSS do Google Notícias ("Márcio Nina", "Marcio Nina" chamamé): só as duas matérias já citadas. API do O Estado ("Márcio Nina", "Instituto Cultural Chamamé", "Festival do Chamamé", "Zé Corrêa chamamé"): abertas as matérias do 8º Festival Cultural do Chamamé (set. 2026), da excursão à Fiesta Nacional del Chamamé (jan. 2025), do I Encontro de Sanfoneiros (mai. 2025) e a coluna "Mercedita e serenatas" (ago. 2026); nenhuma cita Márcio Nina. Em 2025-2026, o *O Estado* apresenta Orivaldo Mengual como presidente do Instituto Cultural Chamamé MS e informa a fundação do instituto em 21 de junho de 2014 (pista para o verbete do instituto, não para este).

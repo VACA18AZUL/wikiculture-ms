@@ -30,8 +30,8 @@ Os curtas do concurso seriam exibidos no Circuito Nacional de Exibição Revelan
 ## Ficha técnica
 
 - Roteiro e direção: [[sebastiao-de-souza-brandao|Sebastião de Souza Brandão]][^cgn2014a][^cgn2014b]
-- Trilha sonora: 15 cururueiros (sem nomes nas fontes)[^cgn2014b]
+- Trilha sonora: 15 cururueiros[^cgn2014b]
 
 [^cgn2014a]: Bruno Chaves, ["Ex-ferroviário aprende a fazer cinema para contar história do 'Trem Fantasma'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ex-ferroviario-aprende-a-fazer-cinema-para-contar-historia-do-trem-fantasma), *Campo Grande News*, 2 mar. 2014. Acesso em 4 nov. 2026.
 [^cgn2014b]: Aline Araújo, ["Lenda urbana de Ladário vira filme produzido por artesão de 70 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/lenda-urbana-de-ladario-vira-filme-produzido-por-artesao-de-70-anos), *Campo Grande News*, 1 ago. 2014. Acesso em 4 nov. 2026.
-[^fcms2024]: Karina Lima, ["Sebastião de Souza Brandão, mestre cururueiro de Ladário, completa 80 anos dedicados à cultura popular"](https://www.fundacaodecultura.ms.gov.br/sebastiao-de-souza-brandao-mestre-cururueiro-de-ladario-completa-80-anos-dedicados-a-cultura-popular/), *Fundação de Cultura de MS*, 22 jan. 2024. Acesso em 4 nov. 2026.
+[^fcms2024]: Ana Paula Ostapenco de Souza, ["Sebastião de Souza Brandão, mestre cururueiro de Ladário, completa 80 anos dedicados à cultura popular"](https://www.fundacaodecultura.ms.gov.br/sebastiao-de-souza-brandao-mestre-cururueiro-de-ladario-completa-80-anos-dedicados-a-cultura-popular/), *Fundação de Cultura de MS*, 22 jan. 2024. Acesso em 4 nov. 2026.
