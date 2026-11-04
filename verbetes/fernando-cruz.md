@@ -17,9 +17,9 @@ atualizado: 2026-11-04
 
 Em outubro de 2015, falou ao *Campo Grande News* como diretor do grupo sobre a 6ª edição da [[temporada-do-chapeu|Temporada do Chapéu]], organizada pelo Maracangalha. Segundo ele, o evento foi feito sem investimento público, com grupos de fora do estado que vieram sem cachê, por meio da rede de contatos do Teatro Imaginário.[^cgn2015]
 
-Em fevereiro de 2016, dirigiu uma performance de rua do grupo sobre a falência da justiça, com manchetes de reportagens de Mato Grosso do Sul sobre violência contra indígenas, travestis e crianças. A ação fez parte do evento Estação Urbana e resultou de uma oficina de teatro de rua de duas semanas.[^cgn2016]
+Em fevereiro de 2016, como diretor do grupo, explicou ao *Campo Grande News* uma performance de rua do Maracangalha sobre a falência da justiça, em que os atores gritavam manchetes de reportagens de Mato Grosso do Sul sobre violência contra indígenas, travestis e crianças. A ação fez parte do evento Estação Urbana e resultou de uma oficina de teatro de rua de duas semanas.[^cgn2016]
 
-Na [[mostra-boca-de-cena|Mostra Boca de Cena]] de 2017, aparece na ficha de *Tekoha – Ritual de vida e morte do Deus Pequeno* como diretor, autor da dramaturgia (em processo colaborativo com o grupo) e integrante do elenco. Na mesma mostra, conduziu o "Diálogo Cênico", conversa sobre teatro de professor para professor, em escola municipal de Campo Grande.[^boca2017]
+Na [[mostra-boca-de-cena|Mostra Boca de Cena]] de 2017, aparece na ficha de *Tekoha – Ritual de vida e morte do Deus Pequeno* como diretor, autor da dramaturgia (em processo colaborativo com o grupo) e integrante do elenco. A programação da mesma mostra o anunciava como ministrante de um "Diálogo Cênico", conversa sobre teatro de professor para professor, em escola municipal de Campo Grande.[^boca2017]
 
 ## Espetáculos
 

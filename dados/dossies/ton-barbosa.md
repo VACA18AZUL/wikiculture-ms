@@ -20,3 +20,7 @@
 ## Uso no verbete
 
 - Covid, idade, genro ajudante e o suicídio presenciado ficaram fora (saúde, família, terceiros).
+
+## Validação de 2026-11-04 (valn-3)
+
+- O parágrafo sobre a exposição coletiva no Slaviero Prime Hotel (A Crítica, 23 jun. 2026, https://acritica.net/cultura/exposicao-leva-arte-sul-mato-grossense-ao-slaviero-prime-hotel-em-campo-grande/) saiu do verbete: a reportagem cita só o nome "Ton Barbosa", sem nada que o ligue ao autor do mural de 2021 (identidade suposta). Além disso, a matéria anuncia a abertura (26 jun.), não confirma a realização. Volta se uma fonte ligar os dois.

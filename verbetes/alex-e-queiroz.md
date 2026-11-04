@@ -3,7 +3,7 @@ titulo: Alex e Queiroz
 tipo: grupo
 areas: [musica]
 cidade: Campo Grande
-resumo: Dupla de música regional formada pelos irmãos Alex e Queiroz, ligada ao selo Discos Xaraés, que produziu discos de chamamé em Campo Grande nas décadas de 1970 e 1980.
+resumo: Dupla de música regional formada pelos irmãos Alex e Queiroz, donos do selo Discos Xaraés, que lançou discos de chamamé nas décadas de 1970 e 1980.
 ficha:
   Atividade: Dupla musical; selo Discos Xaraés
 status: rascunho

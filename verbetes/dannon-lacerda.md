@@ -29,7 +29,7 @@ Em junho de 2026, ele afirmou que a última edição do festival recebeu 32 insc
 
 ## Filmografia
 
-- *Copa 181* (2017) — longa-metragem; direção.[^ce2024]
+- [[copa-181|*Copa 181*]] (2017) — longa-metragem; direção.[^ce2024]
 - [[as-marias|*As Marias*]] (2023) — curta-metragem documental, 16 min; direção.[^cgn-ivinhema]
 
 [^ce2024]: Redação, ["A força do filme curto"](https://correiodoestado.com.br/correio-b/a-forca-do-filme-curto/437506/), *Correio do Estado*, 10 out. 2024. Acesso em 4 nov. 2026.

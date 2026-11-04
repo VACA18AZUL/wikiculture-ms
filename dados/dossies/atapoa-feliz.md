@@ -9,3 +9,9 @@ Fonte reaberta: descrição da playlist "Atapoã Feliz - Instrumental CD - 2013"
 Segunda fonte: buscas por notas do TJMS, imprensa (Campo Grande News, Correio do Estado) e pesquisa aberta com o nome não trouxeram resultado. Continua com fonte única.
 
 Observação: a lista-mestra registra o tipo como "grupo"; o verbete é de pessoa.
+
+## Atualização de 2026-11-04 (reforço, tag r-5)
+
+- Cinco buscas novas. Nenhuma matéria aberta e lida cita Atapoã Feliz. Abertas e descartadas: Migalhas, "Posse musical" (2009; trata de outro desembargador); páginas sedep.com.br (site comercial, sem a matéria); Campo Grande News de nov./dez. 2023 (posse de outro desembargador); Conjur (404).
+- Pista não lida, de resumo de busca: ele aparece como "Atapoã da Costa Feliz" na reeleição da diretoria do TRE-MS (2013, vice-presidente e corregedor regional eleitoral), e perfis dizem que se formou em Direito na Faculdade de Uberlândia (MG) em 1970, o que divergiria da descrição do acervo ("formou-se em Direito em Campo Grande"). Nada disso foi lido; não entra no verbete. Se alguém abrir o TRE-MS ou o TJMS, registrar a divergência com as duas versões citadas.
+- Continua com fonte única (descrição da playlist do acervo).

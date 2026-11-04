@@ -3,15 +3,15 @@ titulo: Diogenes Antonio Pivatto
 tipo: pessoa
 areas: [danca]
 cidade: Campo Grande
-resumo: Bailarino, coreógrafo e professor de dança de Campo Grande, autor de Omolú, coreografia da Ginga Cia. de Dança premiada no Festival de Dança de Joinville em 2022.
+resumo: Bailarino e coreógrafo de Campo Grande, autor de Omolú, coreografia da Ginga Cia. de Dança premiada no Festival de Dança de Joinville em 2022.
 ficha:
-  Atividade: Bailarino, coreógrafo e professor
-  Grupos: Ginga Cia. de Dança; Espaço de Dança Studio 2
+  Atividade: Bailarino e coreógrafo
+  Grupos: Ginga Cia. de Dança
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Diogenes Antonio Pivatto**, também grafado Diógenes Pivatto, é bailarino, coreógrafo e professor de dança de Campo Grande.[^cgn2022][^acritica2026]
+**Diogenes Antonio Pivatto**, também grafado Diógenes Pivatto, é bailarino e coreógrafo de Campo Grande, ligado à [[ginga-cia-de-danca|Ginga Cia. de Dança]].[^cgn2022]
 
 ## Trajetória
 
@@ -19,7 +19,7 @@ Em 2022, sua coreografia [[omolu|*Omolú*]], sobre o orixá da cura, deu à [[gi
 
 Na mesma matéria, ele disse que era a terceira vez que os artistas representavam o estado no festival sem ajuda de custo dos órgãos culturais, e que recorreram a uma vaquinha virtual para ficar doze dias em Joinville.[^cgn2022]
 
-Em 2026, foi citado como professor e coreógrafo do [[espaco-de-danca-studio-2|Espaço de Dança Studio 2]]. Com [[yasmin-salame|Yasmin Salame]] e Thayna Moura, criou *A Criação*, coreografia que ficou em segundo lugar no Festival da Feira da Sapatilha, competição da 43ª edição do Festival de Dança de Joinville.[^acritica2026]
+Em 2026, *A Crítica* citou um Diógenes Pivatto, com essa grafia, como professor e coreógrafo do [[espaco-de-danca-studio-2|Espaço de Dança Studio 2]], de Campo Grande. Com [[yasmin-salame|Yasmin Salame]] e Thayna Moura, ele criou *A Criação*, coreografia que ficou em segundo lugar no Festival da Feira da Sapatilha, competição da 43ª edição do Festival de Dança de Joinville.[^acritica2026]
 
 ## Obras
 

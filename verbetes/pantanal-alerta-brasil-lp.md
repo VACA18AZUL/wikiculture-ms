@@ -4,10 +4,10 @@ tipo: obra
 areas: [musica]
 resumo: Disco com registros de apresentações de músicos sul-mato-grossenses no evento Pantanal Alerta Brasil, dedicado à preservação do Pantanal; produzido por Guilherme Rondon. As fontes o datam de 1988 ou 1987.
 ficha:
-  Ano: "1988 (NUPEM); 1987 (dissertação de Caetano)"
-  Formato: "LP (NUPEM); CD (dissertação de Caetano)"
+  Ano: "1988 (NUPEM; IMMuB); 1987 (dissertação de Caetano; loja Estilhaços Discos)"
+  Formato: "LP (NUPEM; IMMuB; Estilhaços); CD (dissertação de Caetano)"
   Produção: Guilherme Rondon
-  Publicação: "São Paulo, Reserva Nacional (NUPEM); São Paulo, independente (dissertação de Caetano)"
+  Publicação: "São Paulo, Reserva Nacional (NUPEM); independente (dissertação de Caetano; IMMuB; Estilhaços)"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -20,18 +20,24 @@ O Pantanal Alerta Brasil foi promovido pela Reserva Nacional entre 1987 e 1993. 
 
 A primeira edição incluiu apresentações no Museu da Imagem e do Som de São Paulo, em 19 e 20 de dezembro de 1987. Entre os artistas convidados de Mato Grosso do Sul estavam [[almir-sater|Almir Sater]], [[alzira-espindola|Alzira Espíndola]], [[celito-espindola|Celito Espíndola]], [[geraldo-espindola|Geraldo Espíndola]], [[guilherme-rondon|Guilherme Rondon]], João Figar, [[paulo-simoes|Paulinho Simões]] e Toninho Porto.[^cae92][^cae2012]
 
+O catálogo do Instituto Memória Musical Brasileira (IMMuB) registra que o disco foi gravado ao vivo no Museu da Imagem e do Som de São Paulo, em 19 e 20 de dezembro de 1987, em fita K7, o que coincide com as datas dadas por Caetano.[^immub]
+
 ## O disco
 
 O registro das apresentações foi um trabalho produzido por [[guilherme-rondon|Guilherme Rondon]]. Segundo Caetano, as canções do disco não trazem grande novidade: os ritmos vão da guarânia ao arrasta-pé. A exceção é "Na Chapada", gravada antes por [[tete-espindola|Tetê Espíndola]], que não participou do evento; [[celito-espindola|Celito Espíndola]] a interpretou em homenagem a ela.[^cae93] Na dissertação, o mesmo autor acrescenta que as apresentações foram registradas num gravador K7 e que "Na Chapada" saiu antes no disco *Parcerias*, de Tetê.[^cae2012]
 
 O autor considera o disco um dos quatro que marcam fases da música regional sul-mato-grossense depois de 1977, junto com *Tetê e o Lírio Selvagem* (1978), [[prata-da-casa-lp-1982|*Prata da Casa*]] (1982) e [[polca-rock-cd-jerry-espindola|*Polca-Rock*]] (2002).[^cae-intro]
 
+O IMMuB lista dez faixas: "Geração", "Água Que Correu", "Na Chapada" (autoria de Tetê Espíndola e Carlos Rennó), "Solidão do Caipira" (grafada "Solião do Caipira" no registro), "Estranhas Coincidências", "Recuerdos de Ypacaraí", "Paiaguás", "Pinha no Pinheiro", "Minas Gerais" e "Quyquyhô" (grafada "Quyquyho" no registro). Os intérpretes são Guilherme Rondon, Geraldo Espíndola, Celito Espíndola, João Fígar, Toninho Porto, Almir Sater, Alzira Espíndola e Paulo Simões.[^immub]
+
 ## Divergência sobre a edição
 
-A referência bibliográfica do artigo indica a edição como *Pantanal Alerta Brasil*, São Paulo, Reserva Nacional, 1988, um LP.[^cae-ref] A lista de discos da dissertação do mesmo autor, do mesmo ano, registra *Pantanal Alerta Brasil*, São Paulo, independente, 1987, um CD.[^cae2012] As fontes não explicam a diferença; as duas versões ficam registradas.
+A referência bibliográfica do artigo indica a edição como *Pantanal Alerta Brasil*, São Paulo, Reserva Nacional, 1988, um LP.[^cae-ref] A lista de discos da dissertação do mesmo autor, do mesmo ano, registra *Pantanal Alerta Brasil*, São Paulo, independente, 1987, um CD.[^cae2012] O IMMuB registra o disco como LP, gravadora Independente, catálogo 803.641, ano de 1988.[^immub] A loja Estilhaços Discos anuncia um LP "Projeto Pantanal: Alerta Brasil" com data de 1987, selo Independente, primeira prensagem com encarte.[^estilhacos] As fontes não explicam a diferença; as versões ficam registradas, sem escolha entre elas.
 
 [^cae-intro]: Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM*, v. 4, n. 6, 2012, resumo e introdução (p. 83-84). Acesso em 29 out. 2026.
 [^cae92]: Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM*, v. 4, n. 6, 2012, p. 92. Acesso em 29 out. 2026.
 [^cae93]: Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM*, v. 4, n. 6, 2012, p. 93-94. Acesso em 29 out. 2026.
 [^cae-ref]: Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM*, v. 4, n. 6, 2012, lista de referências. Acesso em 29 out. 2026.
 [^cae2012]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 149-150 e lista de discos. Acesso em 4 nov. 2026.
+[^immub]: Instituto Memória Musical Brasileira (IMMuB), ["Pantanal - Alerta Brasil!"](https://immub.org/album/pantanal-alerta-brasil), registro de álbum (LP). Acesso em 4 nov. 2026.
+[^estilhacos]: Estilhaços Discos, ["Projeto Pantanal: Alerta Brasil (1987)"](https://estilhacosdiscos.com.br/produto/pantanal-alerta-brasil-1987/), anúncio de loja de discos. Acesso em 4 nov. 2026.

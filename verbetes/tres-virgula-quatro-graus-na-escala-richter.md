@@ -3,7 +3,7 @@ titulo: Três Vírgula Quatro Graus na Escala Richter
 tipo: obra
 areas: [teatro]
 cidade: Campo Grande
-resumo: Peça de Éder Rodrigues dirigida por Nill Amaral para a Cia. Ofit, sobre uma família abalada por uma revelação, com estreia anunciada para 2016 no Teatro Prosa e nova montagem em 2026.
+resumo: Peça de Éder Rodrigues dirigida por Nill Amaral para a Cia. Ofit, sobre uma família abalada por uma revelação, com estreia anunciada para 2016 no Teatro Prosa e nova montagem anunciada para 2026.
 ficha:
   Autor: Éder Rodrigues
   Direção: Nill Amaral
@@ -23,9 +23,9 @@ Na sinopse de 2016, uma mãe anuncia à família que vai partir, sem que fique c
 
 Segundo o *Campo Grande News*, o projeto foi contemplado com prêmio da [[funarte|Funarte]] e do Ministério da Cultura em 2014, mas o recurso só foi liberado em 2015. A estreia foi marcada para 4, 5 e 6 de fevereiro de 2016, no Teatro Prosa do Sesc Horto, com entrada gratuita.[^cgn2016] O *Correio do Estado* de 2026 diz que o texto foi escrito para a companhia em 2015.[^ce2026] As duas datas convivem nas fontes: prêmio em 2014 (*Campo Grande News*) e escrita em 2015 (*Correio do Estado*).[^cgn2016][^ce2026]
 
-A nova montagem teve sessões de 5 a 7 de agosto de 2026 no [[sesc-teatro-prosa|Sesc Teatro Prosa]], como parte das comemorações dos 20 anos da Cia. Ofit e do projeto P.E.S.S.O.A.S., financiado pelo [[fomteatro|FomTeatro]], da [[fundac|Fundação Municipal de Cultura de Campo Grande]].[^ce2026][^critica2026] Parte do elenco foi escolhida no workshop *A Expansão da Palavra em Cena*, realizado em março do mesmo ano.[^critica2026]
+A nova montagem foi anunciada com sessões de 5 a 7 de agosto de 2026 no [[sesc-teatro-prosa|Sesc Teatro Prosa]], como parte das comemorações dos 20 anos da Cia. Ofit e do projeto P.E.S.S.O.A.S., financiado pelo [[fomteatro|FomTeatro]], da [[fundac|Fundação Municipal de Cultura de Campo Grande]].[^ce2026][^critica2026] Parte do elenco foi escolhida no workshop *A Expansão da Palavra em Cena*, realizado em março do mesmo ano.[^critica2026]
 
-## Elenco e equipe da montagem de 2026
+## Elenco e equipe anunciados para a montagem de 2026
 
 - Dramaturgia: [[eder-rodrigues|Éder Rodrigues]][^ce2026]
 - Direção: [[nill-amaral|Nill Amaral]][^ce2026]

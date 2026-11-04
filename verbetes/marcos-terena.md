@@ -20,7 +20,7 @@ atualizado: 2026-11-04
 
 Entrou na Fundação Nacional do Índio (Funai) como piloto. Foi fundador da União das Nações Indígenas.[^cb2014] A página do Global Landscapes Forum descreve a entidade como o primeiro movimento indígena do Brasil e diz que ele foi um dos coordenadores do tema dos direitos indígenas na Constituição.[^glf2017]
 
-Na Eco-92, no Rio de Janeiro, organizou a Conferência Mundial dos Povos Indígenas sobre Território, Meio Ambiente e Desenvolvimento, realizada no parque Kari-Oca.[^cb2014] Segundo o Global Landscapes Forum, dali saíram a Carta da Terra e a Declaração de Kari-Oca.[^glf2017]
+Na Eco-92 organizou a Conferência Mundial dos Povos Indígenas sobre Território, Meio Ambiente e Desenvolvimento.[^cb2014] Segundo o Global Landscapes Forum, a conferência foi feita no parque Kari-Oca e dela saíram um documento citado em inglês como *Earth Letter* e a Declaração de Kari-Oca.[^glf2017]
 
 É apontado como idealizador dos Jogos dos Povos Indígenas e do Festival das Tradições Indígenas.[^cb2014]
 

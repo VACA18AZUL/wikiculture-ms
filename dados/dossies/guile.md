@@ -24,3 +24,10 @@ Fontes descartadas e o motivo:
 ### O que mudou no verbete
 
 Resumo e abertura passam a datar a residência em Campo Grande (2020), porque há indício de mudança para Curitiba ainda sem fonte lida.
+
+## Atualização de 2026-11-04 (reforço, tag r-5)
+
+- Fonte nova aberta e lida: Deezer, página do artista Guilé (https://www.deezer.com/artist/71156952). Sustenta: "cantautor mineiro"; álbum *Até Que a Chuva Apague o Medo*, lançado em 19 dez. 2020, distribuição Tratore, dez canções (sete listadas). É página de plataforma, não matéria jornalística: serve para data e distribuidora, não para trajetória.
+- Acrescentadas duas frases com a nota `dz`.
+- Bem Paraná, "Dois Lados de um Rio une Jerry Espíndola e Guilé em show que atravessa fronteiras" e "Paiol Musical: espetáculo Dois Lados de um Rio reúne Guilé Silveira e Jerry Espíndola": ambas devolveram 403 (também a versão amp), não lidas. O resumo de busca indica show no Teatro Paiol (Curitiba) em julho e que o artista prepara segundo álbum. Dependem de abrir; sem leitura, a residência atual (Curitiba?) segue sem fonte. Last.fm continua descartada.
+- Continua sem segunda fonte jornalística para a trajetória (saraus desde 2017, produção, participações).

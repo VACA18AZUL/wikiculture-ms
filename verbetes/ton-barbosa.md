@@ -3,14 +3,14 @@ titulo: Ton Barbosa
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: Artista visual de Campo Grande. Pintou em 2021 o viaduto da avenida Afonso Pena com a rua Ceará, no projeto Cores e Vias, e expôs no Slaviero Prime Hotel em 2026.
+resumo: Artista visual de Campo Grande. Pintou em 2021 o viaduto da avenida Afonso Pena com a rua Ceará, em Campo Grande, no projeto Cores e Vias.
 ficha:
   Atividade: Artes visuais; pintura mural
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Ton Barbosa** é artista visual com atuação em Campo Grande.[^cgn2021a][^acritica2026]
+**Ton Barbosa** é artista visual com atuação em Campo Grande.[^cgn2021a][^cgn2021b]
 
 ## Trajetória
 
@@ -18,12 +18,9 @@ Em 2021, pintou o viaduto Senador Italívio Coelho, no cruzamento da avenida Afo
 
 A proposta levada à Sectur cobria os dois lados do viaduto com a bandeira de Campo Grande e araras, referência ao apelido de Capital das Araras. O trabalho começou em 22 de maio e foi entregue em 11 de julho de 2021.[^cgn2021b][^cgn2021a]
 
-Em junho de 2026, participou de uma exposição coletiva de artes visuais no Slaviero Prime Hotel, em Campo Grande, com obras inéditas, ao lado de [[carlos-vera|Carlos Vera]], [[mabbi|Mabbi]] e [[patricia-bissoli|Patricia Bissoli]]. A abertura foi marcada para 26 de junho, com entrada gratuita, e as obras ficaram à venda.[^acritica2026]
-
 ## Obras
 
 - Pintura do viaduto da avenida Afonso Pena com a rua Ceará (2021) — mural com a bandeira de Campo Grande e araras; projeto Cores e Vias.[^cgn2021a]
 
 [^cgn2021a]: Lucia Morel, ["Embelezamento de viaduto na Ceará é entregue e dá cores a cruzamento"](https://www.campograndenews.com.br/cidades/capital/embelezamento-de-viaduto-na-ceara-e-entregue-e-da-cores-a-cruzamento), *Campo Grande News*, 11 jul. 2021. Acesso em 4 nov. 2026.
 [^cgn2021b]: Paula Maciulevicius Brasil, ["Covid interrompeu pintura por 1 mês em viaduto que marcou Ton pela morte"](https://www.campograndenews.com.br/cidades/capital/covid-interrompeu-pintura-por-1-mes-em-viaduto-que-marcou-ton-pela-morte), *Campo Grande News*, 28 jun. 2021. Acesso em 4 nov. 2026.
-[^acritica2026]: Iury de Oliveira, ["Exposição leva arte sul-mato-grossense ao Slaviero Prime Hotel em Campo Grande"](https://acritica.net/cultura/exposicao-leva-arte-sul-mato-grossense-ao-slaviero-prime-hotel-em-campo-grande/), *A Crítica de Campo Grande*, 23 jun. 2026. Acesso em 4 nov. 2026.

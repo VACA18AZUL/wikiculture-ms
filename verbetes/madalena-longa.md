@@ -31,7 +31,7 @@ O roteiro foi escrito a quatro mãos por Marcheti, Thiago Ortman, Thiago Coelho 
 
 Ainda em pós-produção, o filme foi selecionado em 2019 para a mostra de obras em finalização do Festival de San Sebastián, na Espanha.[^cgn2019][^jgb2021] A estreia mundial foi na competição principal da 50ª edição do Festival Internacional de Cinema de Roterdã, na Holanda, em fevereiro de 2021, como único longa brasileiro na disputa.[^jgb2021][^cgn2022] Em setembro de 2021, foi exibido na seleção Horizontes Latinos de San Sebastián.[^opovo2021]
 
-No Brasil, estreou na 45ª Mostra Internacional de Cinema de São Paulo e recebeu o prêmio de melhor diretor no Festival Mix Brasil. No Festival de Cinema de Lima, no Peru, ganhou os prêmios de melhor filme, de melhor direção e de melhor interpretação, este para Pamella Yule. Em março de 2022, o *Campo Grande News* contava mais de 30 festivais internacionais e oito prêmios, e noticiou a entrada do filme no catálogo da Netflix, em 3 de março.[^cgn2022]
+No Brasil, estreou na 45ª Mostra Internacional de Cinema de São Paulo e recebeu o prêmio de melhor diretor no Festival Mix Brasil. No Festival de Cinema de Lima, no Peru, recebeu três prêmios, segundo o jornal: melhor filme, melhor interpretação, para Pamella Yule, e melhor direção, estes dois últimos prêmios Gio, voltados a filmes LGBTIQ+. Em 1º de março de 2022, o *Campo Grande News* contava mais de 30 festivais internacionais e oito prêmios, e anunciou que o filme entraria no catálogo da Netflix em 3 de março.[^cgn2022]
 
 ## Ficha técnica
 

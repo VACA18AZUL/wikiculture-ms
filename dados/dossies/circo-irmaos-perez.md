@@ -11,3 +11,9 @@ Nada mudou no texto. Continua com fonte única (Kempfer e Oliveira, *Campo Grand
 ## Não confirmado
 
 - O verbete [[top-circo]] traz, por matéria de 2019, os irmãos Hugo e Wagner Perez à frente do Top Circo. A matéria de 2011 nomeia Hugo (palhaço Pitchula) como irmão mais velho do Circo Irmãos Perez. Pode ser a mesma família, mas nenhuma fonte lida liga os dois circos.
+
+## Atualização de 2026-11-04 (reforço r-4)
+
+- Nova busca aberta ("Pitchula", Perez, Caroço, circo de bairros): voltam a matéria de 2011 e a de 2024 sobre o Circo do Bolachinha (já descartada). Sem segunda fonte para o Circo Irmãos Perez. Segue "reforcar".
+- Retirada do verbete a frase "A reportagem não informa o ano de fundação nem se há relação com outros circos... É a única fonte consultada" (fica aqui: a matéria de 2011 não dá ano de fundação nem liga o circo ao Circo do Bolachinha; a ligação com o Top Circo e o Bolachinha segue não confirmada).
+- Pista: a matéria de 2024 (CGN) cita a família Perez e Wagner Perez; seria preciso uma fonte que ligue Hugo "Pitchula" ao Irmãos Perez. Buscar Correio do Estado, Midiamax, Mapas da Cultura (Colegiado de Circo).

@@ -24,7 +24,7 @@ Em 2023, era responsável pela área de Cultura e Arte, ligada à Pró-Reitoria 
 
 - *Sonhos de Uma Noite de Verão* (apresentação anunciada para 2022) — direção; Senta que o Leão é Manso.[^cgn2022]
 - *Paixão de Cristo* (2023) — direção-geral; Senta que o Leão é Manso.[^cgn2023a]
-- *O Burguês Fidalgo* (2023) — direção; Senta que o Leão é Manso.[^cgn2023b]
+- *O Burguês Fidalgo* (estreia anunciada para setembro de 2023) — direção; Senta que o Leão é Manso.[^cgn2023b]
 
 [^cgn2022]: Jéssica Fernandes, ["Da escola para palco no Chile, 'Senta que o Leão é Manso' faz 40 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/da-escola-para-palco-no-chile-senta-que-o-leao-e-manso-faz-40-anos), *Campo Grande News*, 22 set. 2022. Acesso em 4 nov. 2026.
 [^cgn2023a]: Clara Farias, ["Cidade da Páscoa recebe encenação da Paixão de Cristo com entrada gratuita"](https://www.campograndenews.com.br/lado-b/diversao/cidade-da-pascoa-recebe-encenacao-da-paixao-de-cristo-com-entrada-gratuita), *Campo Grande News*, 5 abr. 2023. Acesso em 4 nov. 2026.

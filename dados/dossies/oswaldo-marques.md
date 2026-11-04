@@ -20,3 +20,8 @@
 - Procurado nas dissertações já baixadas (Amarilha 2006, Caetano 2012, Gonçalves 2014, Oliveira Júnior 2023, Corrêa 2016): sem menção.
 - A cota de busca na web desta sessão acabou antes deste verbete; a próxima tentativa deve começar por "Memórias do Johá" e pela Associação de Novos Escritores de MS.
 - Continua com fonte única.
+
+## Atualização de 2026-11-04 (reforço r-4)
+
+- Busca aberta por "Memórias do Johá" + Oswaldo Marques: só o artigo de Bungart Neto (Raído, 2008), já citado; os demais resultados (dissertações do PPGH/UFGD, IBGE, Campo Grande News sobre aniversário de Dourados) não citam o livro ou o autor. Segue fonte única; "reforcar".
+- Pistas: catálogos de biblioteca (UFGD, UFMS, Biblioteca Nacional/ISBN, Associação de Novos Escritores de MS), Academia de Letras de Dourados, jornais de Dourados (O Progresso, Diário MS).

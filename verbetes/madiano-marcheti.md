@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 Em entrevista à RFI, reproduzida pelo *Jornal Grande Bahia* em janeiro de 2021, Marcheti, então com 32 anos, disse que vem do norte de Mato Grosso e que quis tratar no filme da transfobia e do universo do agronegócio, a partir também da experiência de ter crescido gay num ambiente conservador do interior.[^jgb2021] O *Campo Grande News* registra que a cidade do filme se inspira no lugar onde o diretor cresceu.[^cgn2019]
 
-*Madalena* foi filmado em Dourados e Bonito, em 2018, e estreou na competição principal do Festival Internacional de Cinema de Roterdã, em 2021.[^opovo2021][^jgb2021] Pelo filme, Marcheti recebeu o prêmio de melhor diretor no Festival Mix Brasil e o de melhor direção no Festival de Cinema de Lima, segundo o *Campo Grande News*.[^cgn2022]
+*Madalena* foi filmado em Dourados e Bonito, em 2018, e estreou na competição principal do Festival Internacional de Cinema de Roterdã, em 2021.[^opovo2021][^jgb2021] Segundo o *Campo Grande News*, o filme recebeu o prêmio de melhor diretor no Festival Mix Brasil e, no Festival de Cinema de Lima, o de melhor direção, um dos prêmios Gio dados ali a filmes LGBTIQ+.[^cgn2022]
 
 ## Filmografia
 

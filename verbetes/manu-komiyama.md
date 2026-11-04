@@ -10,13 +10,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Manu Komiyama** é profissional de audiovisual ligada à KPROD Produções, que trabalha com o duo [[vozmece|Vozmecê]] em Campo Grande.[^acritica][^ce2026a]
+**Manu Komiyama** é profissional de audiovisual da KPROD Produções, parceira do duo [[vozmece|Vozmecê]] em documentário feito em Campo Grande.[^acritica][^ce2026a]
 
 ## Trajetória
 
 Em 2026, em parceria com o Vozmecê, de Namaria Schneider e Pedro Fattori, produziu o documentário [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2: Mulheres da Nova Música do MS – Parte 1*]]. No filme, responde pela direção de produção, fotografia, edição e colorização e divide com a dupla a operação e a assistência de câmera.[^acritica][^ce2026a]
 
-No mesmo ano, assinou a foto de divulgação da despedida do Vozmecê de Campo Grande.[^cr1]
+No mesmo ano, assinou uma foto publicada na matéria de *A Crítica* sobre a despedida do Vozmecê de Campo Grande.[^cr1]
 
 ## Filmografia
 

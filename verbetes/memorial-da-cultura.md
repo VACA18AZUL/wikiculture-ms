@@ -21,7 +21,7 @@ O **Memorial da Cultura e da Cidadania Apolônio de Carvalho**, também chamado 
 
 O prédio abriga a Biblioteca Pública Estadual Dr. Isaías Paim, no térreo; o Arquivo Público Estadual, no segundo andar; e o [[mis-ms|Museu da Imagem e do Som (MIS)]], no terceiro andar.[^cgn2025a] Também funcionam ali o Museu de Arqueologia da UFMS e o Centro Referencial de Artesanato.[^cgn2025b]
 
-O MIS foi reinaugurado no terceiro andar em 3 de maio de 2011 pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]]. A reforma teve apoio do Instituto Brasileiro de Museus e recursos de editais de modernização de museus de 2007 e 2010.[^ce2011]
+A reinauguração do MIS no terceiro andar, pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], foi anunciada pelo *Correio do Estado* para 3 de maio de 2011. A reforma teve apoio do Instituto Brasileiro de Museus e recursos de editais de modernização de museus de 2007 e 2010.[^ce2011]
 
 ## Exposições
 

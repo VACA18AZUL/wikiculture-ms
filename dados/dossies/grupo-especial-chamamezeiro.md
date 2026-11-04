@@ -18,3 +18,8 @@
 
 - Reaberta a playlist: 14 vídeos; descrição confirma liderança de Mariano, apresentações em Aquidauana e região, gravação em 2009 no S.I. Studio, músicos Narciso, Amado e Cezar, faixas citadas. A descrição também liga Mariano ao trio Alvino, Alvanei e Mariano (LP *Tristes Lembranças*, 1972) e ao LP *Flor de Jardim* (1976).
 - Busca de segunda fonte (busca aberta por "Grupo Especial Chamamezeiro"; matérias do Campo Grande News sobre encontros de chamamezeiros): nenhuma menção ao grupo. Verbete segue com fonte única.
+
+## Atualização de 2026-11-04 (reforço, tag r-5)
+
+- Duas buscas novas (nome do grupo com Aquidauana, "Festa na Fazenda", Mariano e quermesses/rodeios): nenhuma página cita o grupo, o CD ou o acordeonista fora da descrição do acervo. Os resultados trataram de chamamé em geral, do Festival de Chamamé de Campo Grande e de dissertação da UFMS sobre festas do laço, sem relação comprovada.
+- Nada mudou no verbete. Continua com fonte única (descrição do Acervo Digital Memória Fonográfica de MS).

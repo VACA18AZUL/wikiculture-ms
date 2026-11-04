@@ -20,6 +20,4 @@ A rotina descrita era permanecer um mês em cada bairro da cidade. O espetáculo
 
 Na época, o circo viajava apenas por bairros de Campo Grande, por considerar as viagens longas muito caras.[^cgn]
 
-A reportagem não informa o ano de fundação nem se há relação com outros circos da cidade, como o [[circo-do-bolachinha|Circo do Bolachinha]]. É a única fonte consultada.[^cgn]
-
 [^cgn]: Ângela Kempfer e Viviane Oliveira, ["Família percorre bairros com circo, palhaços, magia e sonho de ser grande"](https://www.campograndenews.com.br/lado-b/diversao/familia-percorre-bairros-com-circo-palhacos-magia-e-sonho-de-ser-grande), *Campo Grande News*, 9 set. 2011. Acesso em 29 out. 2026.

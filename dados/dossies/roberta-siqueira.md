@@ -38,3 +38,7 @@ Buscas abertas por "Roberta Siqueira" + dança/Ginga não trouxeram outras fonte
 ## Uso no verbete
 
 - Entrou tudo, com a ressalva de identidade explícita no texto.
+
+## Validação de 2026-11-04 (valn-2)
+
+- Retirado do verbete o parágrafo sobre a Roberta Siqueira citada como fundadora da Ginga Cia. de Dança em 1986 (cgn2012): identidade com a artista da Dançurbana/Arado não confirmada por fonte.

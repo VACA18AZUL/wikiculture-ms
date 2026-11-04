@@ -18,3 +18,8 @@
 
 - Tentativa de segunda fonte: busca aberta por "Mara Dolzan"/"Mara Dozan" e Art-Com: aparecem a atual Galeria Mara Dolzan (Portal IN, 11 jan. 2024, aberto) e um guia (Guia da Semana, HTTP 403). Nenhuma fonte liga a atual galeria ao nome Art-Com ou aos anos 1980; não usadas para não juntar sem prova.
 - Resultado: continua com fonte única.
+
+## Atualização de 2026-11-04 (reforço, tag r-5)
+
+- Duas buscas novas (nome "Art-Com"/"Art Com" com Mara Dolzan e Menegazzo; "Artes plásticas em Mato Grosso do Sul"): nenhum resultado cita a Galeria Art-Com fora da tese de Godoi. Aparecem só a Galeria Mara Dolzan atual (Guia da Semana, Portal IN), sem ligação provada com os anos 1980. Pista bibliográfica: Menegazzo (1999), citada pela tese, não localizada.
+- Nada mudou no verbete. Continua com fonte única.
