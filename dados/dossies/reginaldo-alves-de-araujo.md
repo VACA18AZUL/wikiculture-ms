@@ -48,3 +48,10 @@ Busca na web indisponível nesta sessão (cota de buscas esgotada). As duas font
 ## Uso no verbete
 
 - Entrou tudo acima, sem dados pessoais. Anos das obras desconhecidos.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- Nenhum problema de texto; só fonte única.
+- Nada a corrigir.
+- Datas de publicação das obras.
+- Wikipédia pt: sem artigo sobre o verbete.

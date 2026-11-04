@@ -45,3 +45,10 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entraram Planuras e Koi e o Rio. Créditos do IMDb ficaram de fora.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- 'documentarista de Mato Grosso do Sul': nenhuma fonte diz de onde ele é; dizem que Planuras é documentário de Campo Grande.
+- Abertura: 'é um documentarista, diretor e produtor de Planuras, documentário de Campo Grande de 2015'.
+- Origem do diretor; ano de Koi e o Rio; exibição efetiva na Mostra Sesc (texto diz 'programado').
+- Wikipédia pt: sem artigo sobre o verbete.

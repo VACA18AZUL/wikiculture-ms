@@ -46,3 +46,10 @@ Busca na web indisponível nesta sessão (cota esgotada). Correio do Estado 2024
 ## Uso no verbete
 
 - Tudo acima, exceto dados pessoais.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- 'gravou programas na TV Campo Grande (Domingo Rural)' igual à fonte (8 palavras).
+- Reescrito: 'fez gravações para a TV Campo Grande (Domingo Rural)'.
+- Ano do CD Cheiro de Chão; data de posse na ASL. A página da ASL e o Suplemento são da própria Academia; o Diário Itaporã é a fonte independente.
+- Wikipédia pt: sem artigo sobre o verbete.

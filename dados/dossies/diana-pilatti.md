@@ -41,3 +41,11 @@ Busca na web indisponível nesta sessão (cota esgotada).
 ## Uso no verbete
 
 - Entraram os fatos de cgn2023 e cgn2025. Oliva Enciso 2026 fora (identidade).
+
+## Revisão de 2026-11-04 (valn-13)
+
+- 'em Campo Grande' (duas vezes): nenhuma das matérias diz a cidade do lançamento (Grupo Casa) nem da Biblioteca Isaías Paim.
+- Cidade trocada pelo local que a fonte dá (Grupo Casa) ou retirada.
+- 'Diana Pilatti Onofre', 3º lugar no Oliva Enciso 2026 (A Crítica), segue fora: identidade não confirmada.
+- Realização efetiva da oficina de 2025; anos dos livros.
+- Wikipédia pt: sem artigo sobre o verbete.

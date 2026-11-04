@@ -17,16 +17,16 @@ atualizado: 2026-11-04
 
 Em junho de 2011, o grupo apresentou o espetáculo infantil *A Floresta do Raio Vermelho* no 10º Festival de Teatro Amador da Estância Turística de Tupã (FESTAETT), em São Paulo, e recebeu três prêmios na categoria infantil: melhor maquiagem, melhor atriz coadjuvante e menção honrosa de incentivo cultural.[^rcn2011]
 
-Em 2013, o grupo anunciou temporada gratuita do infantil *Chuvisco, Chuva, Chuvarada…* no anfiteatro da UFMS em outubro, em parceria com a universidade e a prefeitura.[^rcn2013a] No mesmo ano, levou à Praça Ramez Tebet o espetáculo de rua *Retirantes*, drama de teatro popular sobre quem deixa a terra natal em busca de vida melhor. A peça teve direção de Leandro Cazula e orientação cênica e musical do autor, Daniel Dhemes, do Rio de Janeiro. Na época, o grupo planejava uma Escola Municipal de Teatro em Três Lagoas.[^rcn2013b]
+Em 2013, o grupo anunciou temporada gratuita do infantil *Chuvisco, Chuva, Chuvarada…* no anfiteatro da UFMS em outubro, em parceria com a universidade e a prefeitura.[^rcn2013a] No mesmo ano, remontou o espetáculo de rua *Retirantes*, drama de teatro popular sobre quem deixa a terra natal em busca de vida melhor, e anunciou para 18 de dezembro a última apresentação do ano, na Praça Ramez Tebet. A nova montagem teve direção de Leandro Cazula e orientação cênica e musical do autor, Daniel Dhemes, do Rio de Janeiro. Na época, o grupo planejava uma Escola Municipal de Teatro em Três Lagoas.[^rcn2013b]
 
-Em março de 2015, apresentou a intervenção *Banho Grátis*, sobre o uso racional da água, escrita por Karoline Ferreira e dirigida por Lucas Normando, em atividades do Dia Mundial da Água.[^rcn2015] Em outubro de 2015, fez contação de histórias e esquetes na Feira Noturna, em escolas e para alunos da Apae no anfiteatro da UFMS, na programação da Semana da Criança.[^tl2015]
+Em março de 2015, anunciou apresentações da intervenção *Banho Grátis*, sobre o uso racional da água, escrita por Karoline Ferreira e dirigida por Lucas Normando, em atividades do Dia Mundial da Água.[^rcn2015] Em outubro de 2015, fez contação de histórias e esquetes na Feira Noturna, em escolas e para alunos da Apae no anfiteatro da UFMS, na programação da Semana da Criança.[^tl2015]
 
 ## Espetáculos
 
 - *A Floresta do Raio Vermelho* (apresentado em 2011) — infantil.[^rcn2011]
 - *Chuvisco, Chuva, Chuvarada…* (temporada anunciada para 2013) — infantil.[^rcn2013a]
 - *Retirantes* (nova montagem em 2013) — espetáculo de rua; texto de Daniel Dhemes, direção de Leandro Cazula.[^rcn2013b]
-- *Banho Grátis* (2015) — intervenção teatral; texto de Karoline Ferreira, direção de Lucas Normando.[^rcn2015]
+- *Banho Grátis* (apresentações anunciadas em 2015) — intervenção teatral; texto de Karoline Ferreira, direção de Lucas Normando.[^rcn2015]
 
 [^rcn2011]: ["Grupo de Teatro Identidade é premiado em Festival"](https://www.rcn67.com.br/tres-lagoas/grupo-de-teatro-identidade-e-premiado-em-festival/), *RCN67*, 9 jun. 2011. Acesso em 4 nov. 2026.
 [^rcn2013a]: ["No mês das crianças o grupo de teatro identidade faz temporada do espetáculo infantil 'Chuvisco, Chuva, Chuvarada'"](https://www.rcn67.com.br/tres-lagoas/no-mes-das-criancas-o-grupo-de-teatro-identidade-faz-temporada-do-espe/), *RCN67*, 8 out. 2013. Acesso em 4 nov. 2026.

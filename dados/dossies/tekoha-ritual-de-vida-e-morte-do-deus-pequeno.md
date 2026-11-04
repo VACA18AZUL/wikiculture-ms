@@ -43,3 +43,12 @@ Fontes descartadas: CGN 24 mar. 2014 (Boca de Cena 2014): o Maracangalha apresen
 ## Uso no verbete
 
 Tudo acima entrou. Seção "Equipe (ficha de 2017)" no lugar de "Ficha técnica", reservada a audiovisual.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- Sinopse copiada do folheto: 'a trajetória do líder guarani Marçal de Souza e sua resistência' (9 palavras) e explicação de tekoha muito próxima do texto.
+- Resumo 'apresentado em mostras ... entre 2016 e 2025': a apresentação de 2025 é só programação divulgada.
+- Sinopse e explicação de tekoha/teko parafraseadas.
+- Resumo: 'programado em mostras e festivais de MS entre 2016 e 2025'.
+- Ano de estreia (2016 é só a apresentação mais antiga achada); realização efetiva da sessão de 2025 no FIT Dourados.
+- Wikipédia pt: sem artigo sobre o verbete.

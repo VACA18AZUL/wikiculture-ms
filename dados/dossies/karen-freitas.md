@@ -45,3 +45,11 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Tudo acima, exceto o relatório UFMS.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- 'a família de duas sacerdotisas de umbanda, Mãe Nice e Mãe Nina' igual à fonte (10 palavras).
+- Grafia do título divergente (cgn2025: 'Deus te Salve João') registrada só no dossiê.
+- Trecho parafraseado; acrescentada a grafia de cgn2025 no próprio parágrafo, com a nota.
+- Cidade da diretora; relatório da UFMS não lido (servidor fora).
+- Wikipédia pt: sem artigo sobre o verbete.

@@ -37,3 +37,10 @@ Busca na web indisponível nesta sessão (cota de buscas esgotada): nenhuma font
 ## Uso no verbete
 
 - Entrou a atuação literária e acadêmica; cargos administrativos resumidos.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- Nenhum problema de texto; só fonte única.
+- Nada a corrigir.
+- Datas de professor da UCDB e de diretor em Lins sobrepostas na página (dossiê); fora do verbete.
+- Wikipédia pt: sem artigo sobre o verbete.

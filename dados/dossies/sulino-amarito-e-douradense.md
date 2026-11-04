@@ -41,3 +41,10 @@ Playlists achadas na página de playlists do canal @memoriafonograficadems; cana
 ## Uso no verbete
 
 Entraram trajetória discográfica, integrantes e dados de Douradense. Ficou fora o elogio das descrições.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- Trecho sobre a digitalização próximo da descrição (8+ palavras seguidas, com nomes).
+- Frase da digitalização reescrita.
+- Nomes civis de Sulino e Amarito, primeiro LP, cidade do trio. Faixas conferidas pelos títulos dos vídeos (gêneros e autores batem com o verbete).
+- Wikipédia pt: sem artigo sobre o verbete.

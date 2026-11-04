@@ -39,3 +39,11 @@ Canal do vídeo conferido por oEmbed (author_url https://www.youtube.com/@vaca18
 ## Uso no verbete
 
 Entraram formação, gênero, integrantes, anúncio da festa e o vídeo do Vaca Azul (sem ano).
+
+## Revisão de 2026-11-04 (valn-13)
+
+- 'divulgação do gênero em Mato Grosso do Sul' igual à fonte (8 palavras).
+- Reescrito: 'seu papel na difusão do blues no estado'.
+- Festa de 14 nov. 2026 é evento futuro (já escrito como anúncio).
+- Ano e conteúdo do vídeo From Campo Grande to Chicago.
+- Wikipédia pt: sem artigo sobre o verbete.

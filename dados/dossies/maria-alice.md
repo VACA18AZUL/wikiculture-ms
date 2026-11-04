@@ -39,3 +39,18 @@ Fontes descartadas: CGN 22 ago. 2023 (programação do Festival de Inverno 2023)
 ## Uso no verbete
 
 Entraram trajetória, circulação de 2023, disco de 2025 e discografia. Ficaram fora: Bonito 2022 (identidade), vídeos sem ficha.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- 'O show, em homenagem aos 70 anos de Paulo Simões': a matéria traz só a fala da cantora de que Simões acabava de completar 70 anos; o show já rodava em 2022.
+- 'a cantora anunciou para 30 de outubro... o quarto disco': quem informa é o jornal; o lançamento era previsto (evento anunciado).
+- [[humberto-espindola]]: a fonte diz só 'Humberto Espíndola surge em um improviso'; não identifica o pintor do verbete ligado (identidade suposta).
+- [[andrea-freire]]: o verbete ligado é de uma diretora de cinema e coordenadora do Bonito CineSur; a fonte fala da produtora cultural da Marruá. Nenhuma fonte liga as duas (identidade suposta).
+- Nome da participante: a fonte grafa 'Anarandá MC'.
+- Frase dos 70 anos reescrita para o que a fonte diz.
+- Disco de 2025 descrito como lançamento noticiado e previsto para 30 out. 2025; item da discografia marca 'lançamento anunciado'.
+- Retirados os links de Humberto Espíndola e Andréa Freire (nomes ficam em texto simples).
+- Texto do link de Anarandà passou a 'Anarandá MC', como na fonte.
+- Identidade de Humberto Espíndola (provavelmente o pintor, irmão de Geraldo) e de Andréa Freire (produtora da Marruá x verbete andrea-freire).
+- Lançamento efetivo do disco de 2025 só pela descrição do canal ('com o lançamento de seu quarto disco').
+- Wikipédia pt: sem artigo sobre o verbete.

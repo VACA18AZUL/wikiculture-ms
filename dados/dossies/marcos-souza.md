@@ -53,3 +53,13 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo acima; United Dance 2025 descrito como programação anunciada. Pedro Barros (fonte única, um parágrafo) incorporado ao verbete.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- 'o Moinho anunciou a participação': quem noticia é o CGN; a fonte só traz a programação prevista.
+- Trechos iguais à A Crítica: 'o elenco da Curitiba Cia. de Dança a partir de setembro' e 'participou de três processos seletivos de companhias' (8 palavras).
+- 'o Campo Grande News noticiou que o Moinho levaria o bailarino ao United Dance Festival'.
+- Dois trechos parafraseados.
+- Participação e resultados efetivos no United Dance Festival 2025.
+- Homônimos (Marcos Sousa da Ópera de Paris etc.) descartados no dossiê; todas as fontes ligam este Marcos Souza ao Moinho, de Corumbá.
+- Wikipédia pt: sem artigo sobre o verbete.

@@ -42,3 +42,12 @@ Matéria cgn2024 localizada pela paginação do Lado B (pagina-549) e lida intei
 ## Uso no verbete
 
 Tudo acima entrou, com a Paixão de Cristo de 2024 como temporada anunciada.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- 'grupo de teatro de Campo Grande': nenhuma das fontes diz a sede do grupo; o folheto fala de Edilton e da sociedade campo-grandense, a matéria fala do Teatro Dom Bosco.
+- 'conflitos de família': o folheto diz 'questões familiares'.
+- Abertura e resumo: 'grupo ligado a Edilton Ramos, com apresentações em Campo Grande'; resumo passa a citar 1973 e situar o Teatro Dom Bosco em Campo Grande.
+- 'questões familiares e ambientais'.
+- Sede do grupo; se a Paixão de Cristo de 2017 (39 anos) era do Transart.
+- Wikipédia pt: sem artigo sobre o verbete.

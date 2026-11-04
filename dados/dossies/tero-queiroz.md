@@ -59,3 +59,10 @@ Fontes descartadas:
 ## Uso no verbete
 
 - Entrou o essencial; anos de obras sem fonte ficaram fora.
+
+## Revisão de 2026-11-04 (valn-13)
+
+- [[madalena-longa]]: a fonte cita só 'Madalena, disponível na Netflix'; o verbete ligado (longa de Madiano Marcheti) não traz Tero no elenco. Identidade da obra suposta; 'longa' também não está na fonte.
+- Retirado o link e o 'longa' (texto e Filmografia); ficou '*Madalena* (que a matéria diz estar na Netflix)'.
+- Se o Madalena citado é o longa de Madiano Marcheti; anos das demais obras; resultado de Amoitado no Curta Campo Grande 2026.
+- Wikipédia pt: sem artigo sobre o verbete.
