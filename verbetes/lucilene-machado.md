@@ -24,6 +24,8 @@ A página da ASL registra a cadeira 36, que pertenceu antes a Alcestre de Castro
 
 Em 2023, era presidente da [[ube-ms|União Brasileira de Escritores de Mato Grosso do Sul]] (UBE-MS) e colunista do jornal *O Estado*.[^cgn2023][^oestado] Nesse cargo, falou sobre o projeto "Conexões Culturais", ligado à [[noite-da-poesia-ube-ms|Noite da Poesia]].[^cgn2023]
 
+Em 2022, como professora da UFMS, coordenou o projeto "Escritoras sul-mato-grossenses em vídeo". Em 29 de setembro do mesmo ano, deu a palestra on-line "A Literatura em Mato Grosso do Sul" no Festival Mais Cultura UFMS, em que afirmou que a literatura do estado é pouco conhecida e que a escrita de mulheres continua menos reconhecida que a dos homens, segundo a dissertação de Simone Lima Ferreira.[^ferreira2025]
+
 Em agosto de 2026, fez a saudação ao escritor [[andre-alvez|André Alvez]] na posse dele na ASL.[^acritica]
 
 ## Obras e prêmios
@@ -40,3 +42,4 @@ Em dezembro de 2023, *O Estado Online* noticiou que o livro de crônicas inédit
 [^acritica]: Iury de Oliveira, ["André Alvez toma posse na Academia Sul-Mato-Grossense de Letras"](https://acritica.net/cultura/andre-alvez-posse-academia-sul-mato-grossense-letras/), *A Crítica de Campo Grande*, 10 ago. 2026. Acesso em 29 out. 2026.
 [^oestado]: Ana Cavalcante, ["Escritora da Capital ganha prêmio nacional"](https://oestadoonline.com.br/arte-e-lazer/escritora-da-capital-ganha-premio-nacional/), *O Estado Online*, 11 dez. 2023. Acesso em 29 out. 2026.
 [^cgn2023]: Jéssica Fernandes, ["Pela 1ª vez na Capital, Martha Medeiros participa da 35º Noite da Poesia"](https://www.campograndenews.com.br/lado-b/diversao/pela-1a-vez-na-capital-martha-medeiros-participa-da-35o-noite-da-poesia), *Campo Grande News*, 10 set. 2023. Acesso em 29 out. 2026.
+[^ferreira2025]: Simone Lima Ferreira, [*Neologismos na literatura feminina sul-mato-grossense contemporânea*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564), dissertação de mestrado em Estudos de Linguagens, UFMS, 2025, p. 14 (nota 1) e 38 (nota 2) (numeração impressa). Acesso em 4 nov. 2026.

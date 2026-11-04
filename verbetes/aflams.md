@@ -19,6 +19,8 @@ A poeta e advogada [[delasnieve-daspet|Delasnieve Daspet]] é apresentada como f
 
 Segundo a mesma reportagem, os objetivos da academia incluem o fortalecimento da língua portuguesa, a promoção de debates sobre cultura e educação e a difusão da produção de artistas, escritoras e pesquisadoras. Embora feminina, define-se como espaço de convivência entre o feminino e o masculino.[^acritica2026b]
 
+A dissertação de Simone Lima Ferreira (UFMS, 2025) cita a Aflams, ao lado da Academia Sul-Mato-Grossense de Letras e da UBE-MS, entre os espaços de circulação literária do estado.[^ferreira2025]
+
 ## Atividades
 
 Para 12 de março de 2026, a Aflams e a [[fundac|Fundação Municipal de Cultura de Campo Grande]] programaram na [[morada-dos-bais|Morada dos Baís]] o encontro "Mulher – Encontro de Gerações", parte do Mês da Mulher. A programação previa leitura de poesias e troca de experiências entre acadêmicas e estudantes da Academia Estudantil de Letras da Escola Estadual Emidgio Campos Vidal.[^acritica2026a]
@@ -28,3 +30,4 @@ Para 28 de maio de 2026, a academia marcou a cerimônia de posse de três novas 
 [^cgn2023]: Jéssica Fernandes, ["Ativista promove evento internacional no Memorial da América Latina"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ativista-promove-evento-internacional-no-memorial-da-america-latina), *Campo Grande News*, 10 set. 2023. Acesso em 4 nov. 2026.
 [^acritica2026a]: Carlos Guilherme, ["Morada dos Baís reúne escritoras e estudantes em encontro sobre literatura feminina"](https://acritica.net/cultura/morada-dos-bais-reune-escritoras-e-estudantes-em-encontro-sobre-literatura-feminina/), *A Crítica de Campo Grande*, 10 mar. 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Pietro Bitencourt, ["AFLAMS empossa três novas acadêmicas e amplia representatividade cultural em Mato Grosso do Sul"](https://acritica.net/cultura/aflams-empossa-novas-integrantes-em-mato-grosso-do-sul/), *A Crítica de Campo Grande*, 28 maio 2026. Acesso em 4 nov. 2026.
+[^ferreira2025]: Simone Lima Ferreira, [*Neologismos na literatura feminina sul-mato-grossense contemporânea*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564), dissertação de mestrado em Estudos de Linguagens, UFMS, 2025, p. 36 (numeração impressa). Acesso em 4 nov. 2026.

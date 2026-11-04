@@ -17,14 +17,14 @@ atualizado: 2026-11-04
 
 Em junho de 2020, durante a pandemia, falou ao *Campo Grande News* como um dos fundadores do grupo, que então tinha 15 anos de história. Explicou que o Circo do Mato havia aberto uma vaquinha para pagar o aluguel e a manutenção da sede, depois de não conseguir apoio emergencial do governo do estado nem da prefeitura.[^cgn2020]
 
-Em novembro de 2021, a Fundação de Cultura de MS o apresentou como idealizador do projeto Caravana de Circo de MS – Hoje o circo foi lá em casa e um dos dirigentes do Circo do Mato. O projeto, feito com o [[circo-le-chapeau|Circo Le Chapeau]], de Dourados, e com recursos do Fundo de Investimentos Culturais de MS, levava um cortejo circense pelas ruas de cidades do interior.[^fcms2021]
+Em novembro de 2021, a Fundação de Cultura de MS o apresentou como idealizador do projeto Caravana de Circo de MS – Hoje o circo foi lá em casa e um dos dirigentes do Circo do Mato. O projeto, feito com o [[circo-le-chapeau|Circo Le Chapeau]], de Dourados, e com recursos do Fundo de Investimentos Culturais de MS, levava apresentações em formato de caravana circense a cidades do interior.[^fcms2021]
 
 Em 2025, falou à imprensa como fundador do grupo sobre o projeto [[de-ponto-a-ponto|De Ponto a Ponto]], que levou o Circo do Mato a cinco Pontos de Cultura do estado, com espetáculos, oficinas e rodas de conversa.[^cgn2025c][^fcms2025b] No mesmo ano, falou em nome do grupo sobre a IX edição da [[mostra-de-palhacos-do-pantanal|Pantalhaç@s]], mostra criada pelo Circo do Mato e pela [[cia-flor-e-espinho-teatro|Flor e Espinho Teatro]].[^fcms2025c]
 
 ## Espetáculos
 
 - *Navalha de Carne* (2014) — atuação, com Josiane Vargas e [[yago-garcia|Yago Garcia]]; texto de Plínio Marcos, direção de [[leandro-melo|Leandro Melo]]; Circo do Mato.[^cgn2014]
-- *Os Corcundas* (montagem do Circo do Mato de 2011) — atuação, com Luciana Kreutzer; texto, dramaturgia e direção de [[breno-moroni|Breno Moroni]]. Em março de 2017 foi apresentado na [[temporada-do-chapeu|Temporada do Chapéu]], em Campo Grande, e em outubro de 2017 no IV Festival Ventana Internacional de Teatro, em Mendoza, na Argentina.[^fcms2017a][^fcms2017b]
+- *Os Corcundas* (montagem do Circo do Mato de 2011) — atuação, com Luciana Kreutzer; texto, dramaturgia e direção de [[breno-moroni|Breno Moroni]]. Estava na programação da [[temporada-do-chapeu|Temporada do Chapéu]] de março de 2017, em Campo Grande, e foi anunciado em outubro de 2017 entre as atrações do IV Festival Ventana Internacional de Teatro, em Mendoza, na Argentina.[^fcms2017a][^fcms2017b]
 - *Ponto de Partida* (2025) — atuação solo; direção de João Lima, texto de Breno Moroni; Circo do Mato. Estreou em janeiro de 2025 em Campo Grande e seguiu para Salvador. Segundo ele, foi o primeiro solo de sua carreira e a primeira vez que seu palhaço fala em cena.[^fcms2025a][^fcms2025d]
 
 [^cgn2014]: Elverson Cardozo, ["Completando 10 anos em 2014, Circo do Mato apresenta espetáculo inédito"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/completando-10-anos-em-2014-circo-do-mato-apresenta-espetaculo-inedito), *Campo Grande News*, 19 mar. 2014. Acesso em 4 nov. 2026.

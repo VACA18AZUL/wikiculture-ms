@@ -25,9 +25,9 @@ O primeiro longa-metragem, *Quando o Galo Cantar pela Terceira Vez Renegarás tu
 
 ## Literatura e edição
 
-Em 2022, fundou a editora [[georgois-livros|Georgois Livros]]. É autor de *Debruçou-se* (2009), *Inferno & Danação* (2022) e do romance *Dissecado* (2026).[^acritica2026a] *Dissecado* trata de um pai que esquece no carro o filho com deficiência. A segunda edição, com prefácio de Marcelo Rubens Paiva, foi lançada em 5 de março de 2026, no Café Doce Lembrança, em Campo Grande. O livro não segue o Acordo Ortográfico de 1990, por escolha do autor.[^acritica2026a]
+Em 2022, fundou a editora [[georgois-livros|Georgois Livros]]. É autor de *Debruçou-se* (2009), *Inferno & Danação* (2022) e do romance *Dissecado* (2026).[^acritica2026a] *Dissecado* trata de um pai que esquece no carro o filho com deficiência. A segunda edição, com prefácio de Marcelo Rubens Paiva, teve lançamento marcado para 5 de março de 2026, no Café Doce Lembrança, em Campo Grande. O livro não segue o Acordo Ortográfico de 1990, por escolha do autor.[^acritica2026a]
 
-Pela Georgois, editou a antologia *Treze Mulheres Contemporâneas, Treze Poemas Cada*, organizada pela poeta indígena Márcia Mura, com poemas de Adélia Prado e de outras doze autoras. O lançamento foi no mesmo evento de março de 2026.[^acritica2026b]
+Pela Georgois, editou a antologia *Treze Mulheres Contemporâneas, Treze Poemas Cada*, organizada pela poeta indígena Márcia Mura, com poemas de Adélia Prado e de outras doze autoras. O lançamento foi marcado para o mesmo dia e local, em março de 2026.[^acritica2026b]
 
 ## Filmografia
 
@@ -44,5 +44,5 @@ Pela Georgois, editou a antologia *Treze Mulheres Contemporâneas, Treze Poemas 
 [^acritica2026a]: Iury de Oliveira, ["'Dissecado' expõe o luto de um pai em sociedade que não permite perdão"](https://acritica.net/cultura/dissecado-expoe-o-luto-de-um-pai-em-sociedade-que-nao-permite-perdao/), *A Crítica de Campo Grande*, 27 fev. 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Iury de Oliveira, ["Antologia com Adélia Prado e mais 12 poetas será lançada em Campo Grande"](https://acritica.net/cultura/antologia-com-adelia-prado-e-mais-12-poetas-sera-lancada-em-campo-grande/), *A Crítica de Campo Grande*, 27 fev. 2026. Acesso em 4 nov. 2026.
 [^papo2017]: Marcelo Müller, ["Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe :: Entrevista exclusiva com Aaron Salles Torres"](https://www.papodecinema.com.br/entrevistas/quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae-entrevista-exclusiva-com-aaron-salles-torres/), *Papo de Cinema*, 23 nov. 2017. Acesso em 4 nov. 2026.
-[^folha2017]: ["Crítica: Suspense e repulsa dão cores, mas longa brasileiro não surpreende"](https://www1.folha.uol.com.br/ilustrada/2017/11/1937301-suspense-e-repulsa-dao-cores-mas-longa-brasileiro-nao-surpreende.shtml), *Folha de S.Paulo*, 23 nov. 2017. Acesso em 4 nov. 2026.
+[^folha2017]: Lúcia Monteiro, ["Crítica: Suspense e repulsa dão cores, mas longa brasileiro não surpreende"](https://www1.folha.uol.com.br/ilustrada/2017/11/1937301-suspense-e-repulsa-dao-cores-mas-longa-brasileiro-nao-surpreende.shtml), *Folha de S.Paulo*, 23 nov. 2017. Acesso em 4 nov. 2026.
 [^fcms2017]: ["Fundação de Cultura realiza oficina Caligrafia do Filme no Festival de Cinema do Vale de Ivinhema"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-realiza-oficina-caligrafia-do-filme-no-festival-de-cinema-do-vale-de-ivinhema/), *Fundação de Cultura de MS*, 21 nov. 2017. Acesso em 4 nov. 2026.
