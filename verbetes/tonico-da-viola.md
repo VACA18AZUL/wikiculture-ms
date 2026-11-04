@@ -14,7 +14,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Tonico da Viola** é um músico de samba de Campo Grande. Em 2018, comemorava 40 anos de carreira, segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^fcms2018a] O nome de batismo era Antônio Dionísio de Oliveira. Nasceu em Campo Grande e morreu na cidade em 10 de novembro de 2025, aos 68 anos.[^cgn2025][^oe2025]
+**Tonico da Viola** foi um músico de samba de Campo Grande. Em 2018, comemorava 40 anos de carreira, segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^fcms2018a] O nome de batismo era Antônio Dionísio de Oliveira. Nasceu em Campo Grande e morreu na cidade em 10 de novembro de 2025, aos 68 anos.[^cgn2025][^oe2025]
 
 ## Trajetória
 

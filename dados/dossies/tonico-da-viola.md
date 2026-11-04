@@ -39,3 +39,10 @@ Descartadas: FCMS 2015, 2019, 2021, 2025 (falam de Tonico e Tinoco ou Tonico Ben
 
 - Busca de segunda fonte independente: WebSearch ("Tonico da Viola" sambista Campo Grande) só trouxe homônimos (Tonico e Tinoco, Tonico da Vila); Brave em limite de requisições (429). Nenhuma fonte nova lida. Fonte única (FCMS).
 - Pistas: acervo do Correio do Estado (2014, Festival América do Sul, já listado acima como homônimo possível); Campo Grande News, editoria Lado B.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fontes novas: "Morre Tonico da Viola, voz marcante do samba em Campo Grande", *Campo Grande News*, 10 nov. 2025 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/morre-tonico-da-viola-voz-marcante-do-samba-em-campo-grande), achada pelo RSS do Google Notícias; e "Morre Tonico da Viola aos 68 anos...", *O Estado MS*, 10 nov. 2025 (API do site). Os dois textos têm trechos iguais (provável base comum); o Campo Grande News traz depoimento próprio de familiar. Ambos são de veículos independentes da FCMS.
+- Acrescentado: nome de batismo, nascimento em Campo Grande, morte em 10 nov. 2025 aos 68 anos; infância entre RJ e SP; volta nos anos 1990; fundador do grupo Zoeira; cantor, violonista e compositor; temporada em Assunção acompanhando Jovelina Pérola Negra. Ficha atualizada.
+- Fora do verbete (dados pessoais): causa e circunstâncias da morte, parentesco com músicos citados (inclusive o convidado Canela no show de 2018), saúde de familiar.
+- Não lido: o *Midiamax* (título no Google Notícias) dá 67 anos; texto não aberto, divergência não registrada no verbete.
