@@ -3,7 +3,7 @@ titulo: Afonso de Castro
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: Padre salesiano, professor e ensaísta, autor de A Poética de Manoel de Barros (1991) e ex-reitor da UCDB, ocupante da cadeira 2 da Academia Sul-Mato-Grossense de Letras desde 2007.
+resumo: Padre salesiano, professor e ensaísta, autor de A Poética de Manoel de Barros e ex-reitor da UCDB, ocupante da cadeira 2 da Academia Sul-Mato-Grossense de Letras desde 2007.
 ficha:
   Nascimento: "26 de julho de 1942, Nova Aurora (GO)"
   Atividade: "Ensaio e crítica literária; magistério"
@@ -34,4 +34,7 @@ Segundo a página do acadêmico na ASL:[^asl]
 - *Carisma para Educar e Conquistar* (Editora Salesiana, 2002)
 - *Pedagogia e Espiritualidade em Cinco Sonhos de Dom Bosco*
 
+Os registros de catalogação da Library of Congress, reproduzidos pelo Open Library, trazem datas diferentes das da página da ASL para duas dessas obras e dão ano à terceira: *A Poética de Manoel de Barros: a linguagem e a volta à infância*, publicada em Campo Grande pela FUCMT-Universidade Católica Dom Bosco em 1992, com 230 páginas; *Entre o Vale e a Imagem*, da Editora UCDB, em 2000, com 439 páginas; e *Pedagogia e Espiritualidade em Cinco Sonhos de Dom Bosco*, da UCDB, em 2008, com 223 páginas. A página da ASL dá 1991 para a primeira e 1999 para a segunda, e não traz ano para a terceira.[^ol]
+
 [^asl]: Academia Sul-Mato-Grossense de Letras, ["Afonso de Castro"](https://acletrasms.org.br/portfolio-item/pe-afonso-de-castro/), página do acadêmico, cadeira 2. Acesso em 4 nov. 2026.
+[^ol]: Open Library, registros de edição derivados de catalogação da Library of Congress: [*A poética de Manoel de Barros*](https://openlibrary.org/works/OL3203819W/editions.json) (OL940113M), [*Entre o vale e a imagem*](https://openlibrary.org/works/OL3203818W/editions.json) (OL3977689M) e [*Pedagogia e espiritualidade em cinco sonhos de Dom Bosco*](https://openlibrary.org/works/OL15627962W/editions.json) (OL24575927M), dados lidos pela interface de programação do Open Library. Acesso em 4 nov. 2026.

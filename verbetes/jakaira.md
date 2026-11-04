@@ -18,7 +18,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Jakaira*** é um documentário brasileiro de 2019, em cores, com 16 minutos, dirigido coletivamente pela [[ascuri|ASCURI]] (Associação Cultural dos Realizadores Indígenas), que também assina a produção.[^fdoc]
+***Jakaira*** é um documentário brasileiro de 2019, em cores, com 16 minutos, dirigido coletivamente pela [[ascuri|ASCURI]], que também assina a produção.[^fdoc]
 
 ## Conteúdo
 

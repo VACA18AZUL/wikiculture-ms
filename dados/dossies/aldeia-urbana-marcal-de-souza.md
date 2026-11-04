@@ -51,3 +51,12 @@
 ## Uso no verbete
 
 - Entraram os fatos acima. Ficou de fora a discussão do projeto arquitetônico das casas (tema habitacional, não cultural).
+
+## Revisão de 2026-11-04 (valn-20)
+
+- rua2019 (PDF, p. 335-342) e ce2026 reabertas e conferidas; ce2024 conferida.
+- O artigo da Rua apoia vários fatos em outros textos: implantação/Habitar Brasil (Santana, 2016), loteamento (Vietta, 2012), Memorial construído em 1999 (Banducci e Urquiza, 2012), criação da escola em 1999 (Pró-Índio, 2013). O verbete agora diz isso.
+- Quadro 1 do artigo (adaptado de Pró-Índio, 2013): etnias guarani, kadiwéu e terena; 170 famílias; 115 casas e 1 centro cultural. "Maioria terena" (resumo anterior) não está no texto sobre esta aldeia; ce2026 fala em "território de forte presença Terena".
+- ce2026 foi publicada às 11h15 do dia da feira: as danças eram programação anunciada; o verbete passou a dizer isso.
+- Data de lançamento do Vémo'um (15 ago. 2025) saiu deste verbete: a fonte (descrição de vídeo no YouTube) não abriu nesta sessão. Fica no verbete vemo-um-cotidiano-terena, pendente de conferência.
+- Divergência do nome da escola agora aparece no verbete com as duas versões.

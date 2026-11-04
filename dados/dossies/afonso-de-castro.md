@@ -44,3 +44,18 @@ Busca na web indisponível nesta sessão (cota de buscas esgotada): nenhuma font
 - Nada a corrigir.
 - Datas de professor da UCDB e de diretor em Lins sobrepostas na página (dossiê); fora do verbete.
 - Wikipédia pt: sem artigo sobre o verbete.
+
+## Atualização de 2026-11-04 (r4-2)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| ol | Open Library, registros de edição (dados de catalogação da Library of Congress / Harvard): A poética de Manoel de Barros (OL940113M); Entre o vale e a imagem (OL3977689M); Pedagogia e espiritualidade em cinco sonhos de Dom Bosco (OL24575927M, OL24104925M) | https://openlibrary.org/works/OL3203819W/editions.json ; .../OL3203818W/editions.json ; .../OL15627962W/editions.json | sim (bibliografia) |
+
+Observação de acesso: as páginas HTML do Open Library pediram verificação humana; os dados foram lidos nos endereços da interface de programação (JSON), que aparecem na nota.
+
+Divergência registrada no verbete (as duas versões, citadas, sem escolher):
+- A Poética de Manoel de Barros: ASL 1991 (UCDB, 230 p.); catálogo (LoC) 1992 (FUCMT-UCDB, Campo Grande, 230 p.).
+- Entre o Vale e a Imagem: ASL 1999 (UCDB, 330 p.); catálogo 2000 (Editora UCDB, 439 p.). Pode haver edições distintas.
+- Pedagogia e Espiritualidade em Cinco Sonhos de Dom Bosco: ASL sem ano; catálogo 2008 (UCDB, 223 p.).
+O resumo deixou de trazer o ano "(1991)" para não escolher entre as versões. Biografia, cargos, posse na ASL e cadeira 2 seguem só na página da ASL. Buscas em Correio do Estado, FCMS, UFMS e site da UCDB sem resultado.
+

@@ -45,3 +45,9 @@ Buscas sem resultado: Correio do Estado (busca interna), FCMS (?s=Carne+Amarela)
 
 - Ficaram de fora: parentesco da atriz Maria Agripina com a diretora e a origem do nome da personagem (vida familiar); citações longas; funções de assistência (produção de set, assistentes, assessoria de imprensa).
 - Os verbetes gleycielli-nonato-guato, marcus-teles e breno-moroni (de outros agentes) devem listar Carne Amarela em Filmografia.
+
+## Revisão de 2026-11-04 (valn-20)
+
+- ce2025 reaberta e conferida. A informação dos oito moradores estreantes é do produtor Marcus Teles, não da diretora: corrigido.
+- A matéria diz só que as filmagens terminaram em 21 dez. 2025 ("ontem"); não diz quando começaram. Ficha e resumo ajustados.
+- Continua fonte única (Correio do Estado).

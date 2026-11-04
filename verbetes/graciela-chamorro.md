@@ -14,11 +14,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Cándida Graciela Chamorro Argüello**, conhecida como **Graciela Chamorro**, foi professora de História Indígena da Universidade Federal da Grande Dourados (UFGD) e autora de estudos sobre os povos guarani e kaiowá. Nasceu no Paraguai em 6 de junho de 1958 e morreu em fevereiro de 2026, aos 67 anos.[^ce2026]
+**Cándida Graciela Chamorro Argüello**, conhecida como **Graciela Chamorro**, lecionou História Indígena na Universidade Federal da Grande Dourados (UFGD) e foi autora de estudos sobre os povos guarani e kaiowá. Nasceu no Paraguai em 6 de junho de 1958 e morreu em fevereiro de 2026, aos 67 anos.[^ce2026]
 
 ## Trajetória
 
-Segundo o Correio do Estado, formou-se em Música e Teologia, fez mestrado em História e doutorado em Teologia e estudou Antropologia e Romanística na Alemanha e na França. Desde 2015 presidia a [[associacao-cultural-casulo|Associação Cultural Casulo]], em Dourados.[^ce2026]
+Segundo o Correio do Estado, formou-se em Música e Teologia, fez mestrado em História e doutorado em Teologia e estudou Antropologia e Romanística na Alemanha e na França. A partir de 2015, esteve à frente da [[associacao-cultural-casulo|Associação Cultural Casulo]], de Dourados, como presidente.[^ce2026]
 
 O Conselho Indigenista Missionário (Cimi) a descreveu como escritora, linguista, antropóloga, teóloga e missionária. A nota diz que sua atuação se concentrou em Mato Grosso do Sul, junto aos guarani kaiowá e ñandeva, e se estendeu ao Sul do Brasil, ao Paraguai e à Argentina, inclusive na formação de educadores indígenas.[^cimi2026]
 

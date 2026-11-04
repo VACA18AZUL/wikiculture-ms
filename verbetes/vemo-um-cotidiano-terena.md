@@ -20,19 +20,19 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Vémo'um*** ("nossa voz", na língua terena) é um curta-metragem documentário sobre o cotidiano da [[aldeia-urbana-marcal-de-souza|Aldeia Urbana Marçal de Souza]], comunidade terena de Campo Grande. O projeto foi idealizado pela gestora cultural Maria Auxiliadora Bezerra e pela atriz [[thais-umar|Thaís Umar]].[^ce2024][^yt2025]
+***Vémo'um*** ("nossa voz", na língua terena) é um curta-metragem documentário sobre o cotidiano da [[aldeia-urbana-marcal-de-souza|Aldeia Urbana Marçal de Souza]], comunidade terena de Campo Grande. A ideia do projeto partiu da atriz [[thais-umar|Thaís Umar]] e da gestora cultural Maria Auxiliadora Bezerra.[^ce2024][^yt2025]
 
 ## Produção
 
 Segundo matéria de 23 de dezembro de 2024, a primeira parte do filme foi gravada nos dias 14 e 15, com depoimentos de oito moradores de idades diferentes. O projeto incluiu oficinas de cinema e fotografia para moradores da comunidade, e alunos das oficinas acompanharam o set. Uma das alunas, Sâmara Figueiredo, foi escolhida para conduzir as entrevistas diante da câmera.[^ce2024]
 
-O documentário trata de identidade indígena urbana, línguas nativas, inclusão no mercado de trabalho artístico e o papel das mulheres artesãs. O [[memorial-da-cultura-indigena-cacique-enir-terena|Memorial da Cultura Indígena Cacique Enir Terena]], gerido por Maria Auxiliadora Bezerra, tem lugar central no curta. Segundo ela, o projeto nasceu da preocupação com a ocupação do espaço digital pelos jovens da aldeia.[^ce2024]
+Entre os temas do documentário estão a identidade indígena na cidade, as línguas nativas, o trabalho das artesãs e a entrada de indígenas no mercado artístico. O [[memorial-da-cultura-indigena-cacique-enir-terena|Memorial da Cultura Indígena Cacique Enir Terena]], gerido por Maria Auxiliadora Bezerra, tem lugar central no curta. Segundo ela, o projeto nasceu da preocupação com os jovens da aldeia e com a presença deles no meio digital.[^ce2024]
 
-O filme foi financiado pela Lei Paulo Gustavo, do Ministério da Cultura, por meio de edital operado pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^ce2024][^yt2025]
+O filme recebeu recursos da Lei Paulo Gustavo, do Ministério da Cultura, em edital conduzido pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^ce2024][^yt2025]
 
 ## Lançamento
 
-Em dezembro de 2024, o *Correio do Estado* informou duração de 15 minutos e lançamento previsto para 19 de abril de 2025, Dia Nacional dos Povos Indígenas.[^ce2024] A descrição do vídeo no canal do projeto, publicado em 26 de agosto de 2025, diz que o lançamento oficial foi em 15 de agosto de 2025, no Memorial da Cultura Indígena Cacique Enir Terena, no bairro Tiradentes.[^yt2025]
+Em dezembro de 2024, o *Correio do Estado* informou duração de 15 minutos e lançamento previsto para 19 de abril de 2025, data do Dia Nacional dos Povos Indígenas.[^ce2024] A descrição do vídeo no canal do projeto, publicado em 26 de agosto de 2025, diz que o lançamento oficial foi em 15 de agosto de 2025, no Memorial da Cultura Indígena Cacique Enir Terena, no bairro Tiradentes.[^yt2025]
 
 O canal do projeto no YouTube publicou também vídeos com as entrevistas de moradores, como a de Maria Auxiliadora Bezerra.[^yt2025b]
 

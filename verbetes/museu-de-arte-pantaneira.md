@@ -3,14 +3,14 @@ titulo: Museu de Arte Pantaneira Manoel Antônio Paes de Barros
 tipo: espaco
 areas: [artes-plasticas]
 cidade: Aquidauana
-resumo: Museu de Aquidauana dedicado à memória e à identidade cultural da cidade; em 2026 sediou a exposição do Concurso Artístico e Literário dos 134 anos do município, na 20ª Primavera dos Museus.
+resumo: Museu de Aquidauana voltado à memória local e à aproximação do público com a produção cultural da cidade; em 2026 sediou a exposição do Concurso Artístico e Literário dos 134 anos do município, na 20ª Primavera dos Museus.
 ficha:
   Local: "Aquidauana"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Museu de Arte Pantaneira Manoel Antônio Paes de Barros** é um museu de Aquidauana voltado à preservação da memória e da identidade cultural da cidade.[^ac2026]
+O **Museu de Arte Pantaneira Manoel Antônio Paes de Barros** é um museu de Aquidauana. A imprensa o descreve como espaço de preservação da memória local e de aproximação da população com a produção cultural do município.[^ac2026]
 
 ## Exposições
 

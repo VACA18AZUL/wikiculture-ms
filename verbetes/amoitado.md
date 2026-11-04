@@ -32,7 +32,7 @@ O curta foi filmado inteiramente em Campo Grande, de 26 a 31 de janeiro de 2026,
 - Produção geral e de elenco: [[thalita-rebello|Thalita Rebello]][^ce2026]
 - Assistência de produção: [[daniel-prestes|Daniel Prestes]][^ce2026]
 - Assistência de direção: [[fernando-feitosa|Fernando Feitosa]][^ce2026]
-- Direção de fotografia: [[rodrigo-rezende|Rodrigo Rezende]] e [[deivison-pedre|Deivison Pedrê]][^ce2026]
+- Direção de fotografia: [[rodrigo-rezende|Rodrigo Rezende]] e Deivison Pedrê[^ce2026]
 - Primeiro assistente de câmera: [[joao-pelosi|João Pelosi]][^ce2026]
 - Gaffers: [[gabriel-lima|Gabriel Lima]] e [[emerson-santos|Emerson Santos]][^ce2026]
 - Direção de arte: [[paulo-taveira|Paulo Taveira]][^ce2026]
@@ -45,7 +45,7 @@ O curta foi filmado inteiramente em Campo Grande, de 26 a 31 de janeiro de 2026,
 - Montagem e colorização: [[dimitre-lucho|Dimitre Lucho]][^ce2026]
 - Edição de som, desenho sonoro e finalização de áudio: [[diego-techera|Diego Techera]][^ce2026]
 - Finalização e cor: [[benedito-estudio|Benedito Estúdio]][^ce2026]
-- Elenco: [[douglas-caetano|Douglas Caetano]] (Carlos), [[renato-passos|Renato Passos]] (Coxim), [[espedito-di-montebranco|Espedito Di Montebranco]] (Duca), [[leandro-faria-lelo|Leandro Faria Lelo]] (Klaubo), [[guilherme-godoy|Guilherme Godoy]] (Mascado), [[vinicius-lima|Vinícius Lima]] (Mascado criança), [[arthur-benites|Arthur Benites]] (Nathan), [[andre-luis|André Luís]] (peão 2), [[carlos-eduardo-lotfi|Carlos Eduardo Lotfi]] (Tonhão), [[mariana-castro|Mariana Castro]] (Tena), [[sueli-de-jesus-santana|Sueli De Jesus Santana]] (mãe), [[anderson-lima-farin|Anderson Lima Farin]] (pai), [[henryl-chavier|Henryl Chavier]] (criança), [[lourenco-vilarim|Lourenço Vilarim]] (Irã), [[fania-martins|Fânia Martins]] (Melina)[^ce2026]
+- Elenco: [[douglas-caetano|Douglas Caetano]] (Carlos), [[renato-passos|Renato Passos]] (Coxim), Espedito Di Montebranco (Duca), [[leandro-faria-lelo|Leandro Faria Lelo]] (Klaubo), [[guilherme-godoy|Guilherme Godoy]] (Mascado), [[vinicius-lima|Vinícius Lima]] (Mascado criança), [[arthur-benites|Arthur Benites]] (Nathan), [[andre-luis|André Luís]] (peão 2), [[carlos-eduardo-lotfi|Carlos Eduardo Lotfi]] (Tonhão), [[mariana-castro|Mariana Castro]] (Tena), [[sueli-de-jesus-santana|Sueli De Jesus Santana]] (mãe), [[anderson-lima-farin|Anderson Lima Farin]] (pai), [[henryl-chavier|Henryl Chavier]] (criança), [[lourenco-vilarim|Lourenço Vilarim]] (Irã), [[fania-martins|Fânia Martins]] (Melina)[^ce2026]
 
 [^ce2026]: Leo Ribeiro, ["Suspense rural que aborda roubo de gado, 'Amoitado' estreia em festival"](https://correiodoestado.com.br/correio-b/suspense-rural-que-aborda-roubo-de-gado-amoitado-estreia-em/474989/), *Correio do Estado*, 18 out. 2026. Acesso em 4 nov. 2026.
 [^acritica2026]: Ricardo Eugenio, ["Curta Campo Grande seleciona 61 de 1.233 filmes; dez são de MS"](https://acritica.net/cultura/curta-campo-grande-61-filmes-selecionados-outubro-2026/), *A Crítica*, 22 set. 2026. Acesso em 4 nov. 2026.

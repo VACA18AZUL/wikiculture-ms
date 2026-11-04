@@ -53,3 +53,9 @@ Busca no site da FCMS por "Vémo'um": sem resultado.
 
 - Entrou tudo acima. Ficaram de fora: citações de alunos, nomes dos convidados entrevistados (exceto Maria Auxiliadora), contatos (e-mail e telefone) da descrição do vídeo.
 - O verbete breno-moroni (de outro agente) deve listar Vémo'um em Filmografia.
+
+## Revisão de 2026-11-04 (valn-20)
+
+- ce2024 reaberta e conferida; sustenta idealização, gravação (dias 14 e 15), oficinas, Sâmara Figueiredo, temas, Memorial, financiamento, duração prevista, lançamento previsto e equipe.
+- yt2025 e yt2025b: oEmbed confirma títulos e canal do projeto (@VémoumNossaVoz), mas as descrições não abriram (verificação anti-robô do YouTube). Não conferidos nesta sessão: lançamento oficial em 15 ago. 2025 no Memorial (bairro Tiradentes), data de publicação (26 ago. 2025), direção dupla, produtora Meio Começo Produções e grafias da ficha técnica segundo a descrição.
+- Busca no Correio do Estado e no Campo Grande News por "Vémo'um": sem resultado sobre o lançamento.

@@ -3,7 +3,7 @@ titulo: "Dovalle"
 tipo: pessoa
 areas: [musica]
 cidade: Ribas do Rio Pardo
-resumo: "Cantor, compositor e ator nascido em Tangará da Serra (MT) e criado em Ribas do Rio Pardo (MS). Canta brega, bolero, lambada e samba. Venceu o Festival Batalha de Bandas de 2021 e tocou no Festival de Inverno de Bonito de 2024."
+resumo: "Cantor, compositor e ator nascido em Tangará da Serra (MT) e criado em Ribas do Rio Pardo (MS). Canta brega, bolero, lambada e samba. Venceu o Festival Batalha de Bandas de 2021; teve show anunciado no Festival de Inverno de Bonito de 2024."
 ficha:
   Nascimento: "Tangará da Serra (MT)"
   Atividade: "Cantor, compositor e ator"

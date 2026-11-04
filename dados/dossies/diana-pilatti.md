@@ -49,3 +49,11 @@ Busca na web indisponível nesta sessão (cota esgotada).
 - 'Diana Pilatti Onofre', 3º lugar no Oliva Enciso 2026 (A Crítica), segue fora: identidade não confirmada.
 - Realização efetiva da oficina de 2025; anos dos livros.
 - Wikipédia pt: sem artigo sobre o verbete.
+
+## Atualização de 2026-11-04 (r4-2)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2023 | FCMS, "Proler 2023 terá exposição de poemas minimalistas de Diana Pilatti", 20 out. 2023 | https://www.fundacaodecultura.ms.gov.br/proler-2023-tera-exposicao-de-poemas-minimalistas-de-diana-pilatti/ | sim |
+
+O que mudou: acrescentado parágrafo (Proler 2023, exposição de poetrix, histórico de participação no Proler) e item de Obras (*Pequenas Sinestesias*, 2023, Mulherio das Letras / Editora Popular Venas Abiertas, lançamento previsto para nov. 2023). Reforça "professora e poeta", a ligação com o Mulherio das Letras e o interesse em poesia minimalista (oficina de 2025 em cgn2025). Não confirma *Palavras Diáfanas* nem *As Cinzas*, nem a antologia Tarja Preta. A matéria usa "poetisa"; o verbete mantém "poeta". Sem informação de que o livro foi de fato lançado (previsão). Busca no CGN/Correio do Estado/A Crítica por "Palavras Diáfanas" e "Tarja Preta Segunda Dose": sem resultado. "Diana Pilatti Onofre" (Oliva Enciso 2026) segue fora: identidade não confirmada.

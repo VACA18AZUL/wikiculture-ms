@@ -3,11 +3,11 @@ titulo: Heliophar de Almeida Serra
 tipo: pessoa
 areas: [literatura]
 cidade: Aquidauana
-resumo: Cronista e desembargador nascido em Corumbá em 1917, titular da cadeira 3 da Academia Sul-Mato-Grossense de Letras até morrer, em 2011. Publicou livros de crônicas e colaborou com jornais do estado.
+resumo: Escritor e desembargador nascido em Corumbá em 1917, titular da cadeira 3 da Academia Sul-Mato-Grossense de Letras até morrer, em 2011. Publicou três livros, um deles de crônicas, e colaborou com jornais do estado.
 ficha:
   Nascimento: "11 de fevereiro de 1917, Corumbá"
   Morte: "29 de julho de 2011"
-  Atividade: Crônica; magistratura
+  Atividade: "Crônica; magistratura"
   Academia: "Cadeira 3 da Academia Sul-Mato-Grossense de Letras"
 status: rascunho
 atualizado: 2026-11-04
@@ -17,19 +17,19 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Estudou no Grupo Escolar Joaquim Murtinho, no Colégio Oswaldo Cruz, no Ginásio Dom Bosco, de Campo Grande, e no Colégio Salesiano Santa Rosa, em Niterói. Formou-se em Direito.[^asl2011]
+Fez os estudos em Campo Grande, onde passou pelo Grupo Escolar Joaquim Murtinho, pelo Colégio Oswaldo Cruz e pelo Ginásio Dom Bosco, e em Niterói, no Colégio Salesiano Santa Rosa. Formou-se em Direito.[^asl2011]
 
-Em Campo Grande, foi tabelião e escrivão do Cartório do 5º Ofício, em substituição temporária. Depois foi delegado de polícia, delegado especial do sul do estado e juiz de direito nas comarcas de Miranda e de Aquidauana, até ser promovido a desembargador do Tribunal de Justiça de Mato Grosso, antes da divisão do estado.[^asl2011]
+Em Campo Grande, substituiu temporariamente o titular do Cartório do 5º Ofício, como tabelião e escrivão. Na polícia, chegou a delegado especial do sul do estado. Como juiz de direito, atuou nas comarcas de Miranda e de Aquidauana e, antes da divisão do estado, foi promovido a desembargador do Tribunal de Justiça de Mato Grosso.[^asl2011]
 
-Em Aquidauana, presidiu a subseção da Ordem dos Advogados do Brasil e foi professor de Filosofia e História da Educação e de Sociologia na Escola Normal Jango de Castro. Recebeu o título de cidadão aquidauanense, da Câmara Municipal, e o diploma de jornalista honorário da União dos Jornalistas de Aquidauana. Foi sepultado na cidade.[^asl2011]
+Em Aquidauana, presidiu a subseção da Ordem dos Advogados do Brasil e lecionou na Escola Normal Jango de Castro as disciplinas de Sociologia e de Filosofia e História da Educação. Recebeu o título de cidadão aquidauanense, da Câmara Municipal, e o diploma de jornalista honorário da União dos Jornalistas de Aquidauana. Foi sepultado na cidade.[^asl2011]
 
 ## Atividade literária
 
-Escreveu para jornais do estado e para o Suplemento Cultural do Correio do Estado.[^asl2011] Em 2004, a Revista da ASL n. 5 trouxe textos dele, ao lado de outros acadêmicos.[^asl2004]
+Colaborou com jornais sul-mato-grossenses, entre eles o Suplemento Cultural do Correio do Estado.[^asl2011] Em 2004, a Revista da ASL n. 5 trouxe textos dele, ao lado de outros acadêmicos.[^asl2004]
 
-A cadeira 3 da ASL tem como patrono [[ulisses-serra|Ulysses Serra]]. Depois de sua morte, foi ocupada por [[oswaldo-barbosa-de-almeida|Oswaldo Barbosa de Almeida]], empossado em 23 de fevereiro de 2018.[^asl2018]
+A cadeira 3 da ASL tem como patrono [[ulisses-serra|Ulysses Serra]]. Depois de sua morte, passou a [[oswaldo-barbosa-de-almeida|Oswaldo Barbosa de Almeida]], cuja posse, numa noite de 23 de fevereiro, foi noticiada pela ASL em texto datado de fevereiro de 2018.[^asl2018]
 
-No Palácio Popular da Cultura, em Campo Grande, a Sala de Comissões Heliophar de Almeida Serra leva seu nome.[^asl2011]
+Uma sala de comissões do Palácio Popular da Cultura, em Campo Grande, recebeu seu nome.[^asl2011]
 
 ## Obras
 

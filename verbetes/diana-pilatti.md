@@ -15,6 +15,8 @@ atualizado: 2026-11-04
 
 Em 2023, teve textos publicados em [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], antologia de prosa e poesia do Coletivo Tarja Preta com 32 escritores sul-mato-grossenses, organizada por Fábio Gondim e com lançamento marcado para 11 de novembro daquele ano, no Grupo Casa.[^cgn2023]
 
+Em outubro de 2023, a Fundação de Cultura de MS anunciou que o 24º [[encontro-do-proler|Encontro do Proler]], com abertura em 20 de outubro, teria uma exposição de poemas minimalistas, em forma de poetrix, de Diana Pilatti, com flores como tema central, montada em um painel na biblioteca. Na entrevista, ela disse que já havia participado do Proler como acadêmica, como professora e, durante a pandemia, com uma oficina.[^fcms2023]
+
 Na programação que antecedeu a 37ª [[noite-da-poesia-ube-ms|Noite da Poesia]], em 2025, foi anunciada como responsável pela oficina "Poesia Minimalista", marcada para 22 de outubro na Biblioteca Isaías Paim.[^cgn2025]
 
 ## Obras
@@ -22,6 +24,8 @@ Na programação que antecedeu a 37ª [[noite-da-poesia-ube-ms|Noite da Poesia]]
 - *Palavras Diáfanas*[^cgn2025]
 - *As Cinzas*[^cgn2025]
 - Participação em [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]] (2023), antologia.[^cgn2023]
+- *Pequenas Sinestesias* (2023) — livro da Coleção de Livros de Bolso do Mulherio das Letras, da Editora Popular Venas Abiertas (Belo Horizonte), com lançamento previsto para novembro de 2023, segundo a Fundação de Cultura de MS.[^fcms2023]
 
 [^cgn2023]: Thailla Torres, ["Escritores celebram 10 anos de independência literária em MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/escritores-celebram-10-anos-de-independencia-literaria-em-ms), *Campo Grande News*, 8 nov. 2023. Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Esquenta para Noite da Poesia terá papo com premiados e oficinas gratuitas"](https://www.campograndenews.com.br/lado-b/diversao/esquenta-para-noite-da-poesia-tera-papo-com-premiados-e-oficinas-gratuitas), *Campo Grande News*, 15 set. 2025. Acesso em 4 nov. 2026.
+[^fcms2023]: Fundação de Cultura de Mato Grosso do Sul, ["Proler 2023 terá exposição de poemas minimalistas de Diana Pilatti"](https://www.fundacaodecultura.ms.gov.br/proler-2023-tera-exposicao-de-poemas-minimalistas-de-diana-pilatti/), notícia institucional, 20 out. 2023. Acesso em 4 nov. 2026.

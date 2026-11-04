@@ -14,7 +14,7 @@ O **Águia da Vila** é um bloco carnavalesco de Corumbá que desfila na disputa
 
 ## Trajetória
 
-No carnaval de 2014, o Águia da Vila dividiu o título da Librocc com o bloco Clube dos Sem: os dois tiveram as mesmas notas e empataram também nos critérios de desempate. O desfile homenageou Luís Cambará, morador da comunidade morto no ano anterior, segundo o diretor de comunicação do bloco, Chico da Vila. O intérprete era Sandro Nemir.[^ce2014]
+No carnaval de 2014, o Águia da Vila dividiu o título da Librocc com o bloco Clube dos Sem: os dois tiveram as mesmas notas e empataram também nos critérios de desempate. O desfile homenageou Luís Cambará, integrante da comunidade do bloco que havia morrido no ano anterior, segundo o diretor de comunicação do bloco, Chico da Vila. O intérprete era Sandro Nemir.[^ce2014]
 
 Para o carnaval de 2023, o bloco compôs um samba em homenagem ao [[instituto-moinho-cultural-sul-americano|Instituto Moinho Cultural Sul-Americano]]. Segundo o presidente do bloco, chamado de Piano, a escolha veio depois de ele assistir ao [[moinho-in-concert|Moinho In Concert]] de dezembro de 2022. A composição ficou a cargo de [[pedro-castro-pedrao|Pedro Castro, o Pedrão]], compositor do bloco. O lançamento do samba foi marcado para 21 de janeiro de 2023, em evento da liga, e o desfile para 18 de fevereiro.[^cgn2023]
 

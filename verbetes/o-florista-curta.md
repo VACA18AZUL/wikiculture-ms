@@ -5,15 +5,15 @@ areas: [audiovisual]
 cidade: Campo Grande
 resumo: Curta de ficção de 18 minutos dirigido por Filipi Silveira e produzido por Roberto Leite, rodado em Campo Grande, sobre um florista assassino em série; selecionado em 2013 para o Short Film Corner, de Cannes.
 ficha:
-  Formato: Curta-metragem de ficção, 18 minutos
+  Formato: "Curta-metragem de ficção, 18 minutos"
   Direção: "[[filipi-silveira|Filipi Silveira]]"
-  Produção: "[[roberto-leite|Roberto Leite]]"
-  Seleção: Short Film Corner, Cannes (2013)
+  Produção: "Roberto Leite"
+  Seleção: "Short Film Corner, Cannes (2013)"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-***O Florista*** é um curta-metragem de ficção de 18 minutos dirigido por [[filipi-silveira|Filipi Silveira]] e produzido por [[roberto-leite|Roberto Leite]], produzido, gravado e editado em Campo Grande. Segundo o *Campo Grande News*, foi o primeiro trabalho independente da dupla.[^cgn2013]
+***O Florista*** é um curta-metragem de ficção de 18 minutos, com direção de [[filipi-silveira|Filipi Silveira]] e produção de Roberto Leite. Todas as etapas, da produção à edição, foram feitas em Campo Grande. Segundo o *Campo Grande News*, foi o primeiro trabalho independente da dupla.[^cgn2013]
 
 ## Enredo
 
@@ -28,13 +28,13 @@ Em março de 2013, o curta foi selecionado para o Short Film Corner, mostra para
 ## Ficha técnica
 
 - Direção: [[filipi-silveira|Filipi Silveira]][^cgn2013]
-- Produção: [[roberto-leite|Roberto Leite]][^cgn2013]
+- Produção: Roberto Leite[^cgn2013]
 - Roteiro: [[filipi-silveira|Filipi Silveira]][^cgn2013]
 - Direção de arte: [[filipi-silveira|Filipi Silveira]][^cgn2013]
-- Fotografia: [[roberto-leite|Roberto Leite]][^cgn2013]
-- Montagem e mixagem: [[roberto-leite|Roberto Leite]][^cgn2013]
+- Fotografia: Roberto Leite[^cgn2013]
+- Montagem e mixagem: Roberto Leite[^cgn2013]
 - Trilha musical: [[raphael-aguirra|Raphael Aguirra]][^cgn2013]
-- Som e edição de som: [[kleber-nogueira|Kleber Nogueira]], [[roberto-leite|Roberto Leite]] e [[filipi-silveira|Filipi Silveira]][^cgn2013]
+- Som e edição de som: [[kleber-nogueira|Kleber Nogueira]], Roberto Leite e [[filipi-silveira|Filipi Silveira]][^cgn2013]
 - Elenco: [[eneu-fett|Eneu Fett]], [[filipi-silveira|Filipi Silveira]], [[loester-gregorio|Loester Gregório]] e [[natalia-menoni|Natália Menoni]][^cgn2013]
 
 [^cgn2013]: Mariana Lopes, ["Curta-metragem rodado em Campo Grande é selecionado para Cannes"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/curta-metragem-rodado-em-campo-grande-e-selecionado-para-cannes), *Campo Grande News*, 10 mar. 2013. Acesso em 4 nov. 2026.

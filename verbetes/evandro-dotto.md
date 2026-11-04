@@ -5,8 +5,8 @@ areas: [musica]
 cidade: Campo Grande
 resumo: Violonista de Campo Grande, integrante do trio Opus Vivare e idealizador do projeto Música Erudita nas Escolas e Universidades; intérprete do videoclipe Avenida Afonso Pena (2025).
 ficha:
-  Atividade: Violão; música erudita
-  Grupos: Opus Vivare
+  Atividade: "Violão; música erudita"
+  Grupos: "Opus Vivare"
 links:
   - tipo: youtube
     url: https://www.youtube.com/@EvandroDotto

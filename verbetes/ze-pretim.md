@@ -23,7 +23,7 @@ Em Campo Grande tocou nas bandas Zutrik, de Miguelito, e Euphoria, de Bosco. Nos
 
 Nos anos 1980 e 1990 morou em várias cidades do país, entre elas Belém, Fortaleza, Florianópolis, Cuiabá e Porto Velho, e tocou em garimpos, antes de voltar a Campo Grande.[^fcms2017a] Foi entrevistado no programa de Jô Soares: a Fundação de Cultura situa em 2005 o encontro com a jornalista Mariana Godoy, que levou seu material ao programa, e a nota de pesar da mesma instituição fala em 2006.[^fcms2017a][^fcms2021] A nota registra ainda a participação no programa de Raul Gil em 2017, com a versão de "Asa Branca".[^fcms2021]
 
-Depois de um período longe dos palcos, voltou a se apresentar no fim de 2016, com show no Sesc Morada dos Baís.[^ce2017] Em 15 de janeiro de 2017 tocou no [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], e gravou ali um DVD ao vivo. A banda reunia Júlio Belucci, Marcelo Rezende, Zé Fiúza e Luiz Ávila.[^fcms2017b]
+Depois de um período longe dos palcos, voltou a se apresentar no fim de 2016, com show no Sesc [[morada-dos-bais|Morada dos Baís]].[^ce2017] Em 15 de janeiro de 2017 tocou no [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], e gravou ali um DVD ao vivo. A banda reunia Júlio Belucci, Marcelo Rezende, Zé Fiúza e Luiz Ávila.[^fcms2017b]
 
 Em outubro de 2017 esteve entre os músicos do show que abriu as comemorações dos 40 anos de Mato Grosso do Sul.[^fcms2017d] Segundo o coordenador do [[bonito-blues-jazz-festival|Bonito Blues & Jazz Festival]], tocou na primeira edição do festival, em 2013, e nas de 2014, 2015 e 2017.[^ce2021b]
 
