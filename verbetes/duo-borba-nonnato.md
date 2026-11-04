@@ -14,11 +14,11 @@ O **Duo Borba Nonnato** é uma dupla de música instrumental de Mato Grosso do S
 
 ## Trajetória
 
-Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], o duo toca composições próprias e arranjos de clássicos do chamamé e da polca paraguaia. A proposta é difundir a música da fronteira entre Brasil, Paraguai, Argentina e Bolívia.[^fcms2026]
+Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], o repertório do duo reúne músicas autorais e novos arranjos para chamamés e polcas paraguaias conhecidos. A proposta é difundir a música da fronteira entre Brasil, Paraguai, Argentina e Bolívia.[^fcms2026]
 
 Em junho de 2024, o duo foi anunciado na abertura do show de música brasileira instrumental de [[ivan-cruz|Ivan Cruz]], com Júlio Borba e Lucas Rosa, na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], em Campo Grande.[^cgn2024]
 
-Em setembro de 2024, os dois músicos estrearam no mesmo espaço o show *Lírios e Delírios Pantaneiros*, ao lado de Rodrigo Teixeira (baixo e violão). O *Correio do Estado* grafa o nome do acordeonista como Renan Nonnato.[^ce2024]
+Em 20 de setembro de 2024, o *Correio do Estado* anunciou para o dia seguinte, no mesmo espaço, a estreia do show *Lírios e Delírios Pantaneiros*, com os dois músicos e Rodrigo Teixeira (baixo e violão). O *Correio do Estado* grafa o nome do acordeonista como Renan Nonnato.[^ce2024]
 
 O duo foi anunciado para a abertura da 18ª [[semana-do-artesao|Semana do Artesão]], em 18 de março de 2026, na Esplanada Ferroviária, em Campo Grande.[^fcms2026][^cgn2026]
 

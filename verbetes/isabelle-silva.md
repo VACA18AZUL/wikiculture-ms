@@ -19,10 +19,14 @@ A animação sobre feminicídio começou em 2021 como trabalho de conclusão de 
 
 O curta de ficção *Meu pai não veio*, de 17 minutos, mostra o abandono parental do ponto de vista de uma menina que passa o dia esperando o pai. O roteiro partiu de histórias reais reunidas em pesquisa.[^cgn2026]
 
+Em julho de 2026, o site *Primeira Página* apresentou Isabelle como diretora do longa documental *O Retrato do Erro – A Bruxa da Sapolândia*, da Misa Filmes, produtora dedicada a documentários sobre casos criminais. O filme revisita a história de Célia de Souza, acusada nos anos 1960 de matar crianças, e partiu da pesquisa de mestrado de João Prestes, que assina o roteiro com Luis Gabriel; a direção de arte é de Miya Miyashiro. Financiado pelo Fundo Municipal de Investimentos Culturais (FMIC), teria primeiro sessões para convidados, com lançamento ao público previsto para fevereiro de 2027.[^pp2026]
+
 ## Filmografia
 
 - *[[crimes-da-cruz|Crimes da Cruz]]* (2023) — documentário em dois episódios; com Miya Miyashiro.[^cgn2026]
 - *[[craveiro-rosa|Craveiro Rosa]]* ou *O Cravo e a Rosa* — animação; começou como trabalho de conclusão de curso em 2021.[^cgn2026]
 - *[[meu-pai-nao-veio|Meu pai não veio]]* — curta de ficção, 17 minutos.[^cgn2026]
+- *O Retrato do Erro – A Bruxa da Sapolândia* — longa documental; direção geral; lançamento ao público previsto para 2027.[^pp2026]
 
 [^cgn2026]: Clayton Neves, ["Violência em MS e abandono viram tema de filmes sobre dores sociais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/violencia-em-ms-e-abandono-viram-tema-de-filmes-sobre-dores-sociais), *Campo Grande News*, 26 jan. 2026. Acesso em 4 nov. 2026.
+[^pp2026]: ["Documentário revela novo lado da 'Bruxa da Sapolândia' e levanta dúvida: ela era inocente?"](https://primeirapagina.com.br/cinema/documentario-revela-novo-lado-da-bruxa-da-sapolandia-e-levanta-duvida-ela-era-inocente/), *Primeira Página*, 27 jul. 2026. Acesso em 4 nov. 2026.

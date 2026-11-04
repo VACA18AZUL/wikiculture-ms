@@ -25,11 +25,11 @@ O primeiro local escolhido gerou impasse. Em setembro de 2017, depois de convers
 
 ## Descrição
 
-A peça mostra o poeta sentado num sofá, de pernas cruzadas e tênis gasto, ao lado de caramujos e de um ninho de pomba. Mede 1,38 metro de altura, contando o pedestal, por 1,60 metro de largura.[^fcms2017a][^fcms2017b] A obra concluída pesa 400 quilos, segundo a FCMS e o Correio do Estado; em 2016, a previsão divulgada era de cerca de 230 quilos.[^fcms2017a][^ce2017a][^fcms2016] O material é descrito como bronze pela FCMS e como cobre em reportagens de 2023 do Correio do Estado.[^fcms2024][^ce2023b]
+A peça mostra o poeta sentado num sofá, de pernas cruzadas e tênis gasto, ao lado de caramujos e de um ninho de pomba. Mede 1,38 metro de altura, contando o pedestal, por 1,60 metro de largura.[^fcms2017a][^fcms2017b] A obra concluída pesa 400 quilos, segundo a FCMS e o Correio do Estado; em 2016, a previsão divulgada era de cerca de 230 quilos.[^fcms2017a][^ce2017a][^fcms2016] O material é descrito como bronze pela FCMS e pelo Correio do Estado em dezembro de 2023, e como cobre em duas reportagens do mesmo jornal de abril de 2023.[^fcms2024][^ce2023c][^ce2023a][^ce2023b]
 
 ## Vandalismo e restauro
 
-Em 19 de abril de 2021, a estátua foi vandalizada: perdeu o pé esquerdo e teve danos no rosto e nos óculos.[^fcms2021][^fcms2024] Dois anos depois, ainda sem reparo, o caso foi cobrado na imprensa pelo produtor [[ricardo-camara|Ricardo Câmara]] e por [[henrique-de-medeiros|Henrique de Medeiros]], presidente da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^ce2023a][^ce2023b]
+Em 19 de abril de 2021 (na virada de 18 para 19, segundo o Correio do Estado), a estátua foi vandalizada: perdeu o pé esquerdo e teve danos no rosto e nos óculos.[^fcms2021][^fcms2024][^ce2023a] Dois anos depois, ainda sem reparo, o caso foi cobrado na imprensa pelo produtor [[ricardo-camara|Ricardo Câmara]] e por [[henrique-de-medeiros|Henrique de Medeiros]], presidente da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^ce2023a][^ce2023b]
 
 Em dezembro de 2023, o próprio Ique foi contratado por R$ 75,6 mil para restaurar a peça, com prazo de seis meses.[^ce2023c] O trabalho começou em 12 de março de 2024, sob a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. O novo pé foi fixado em dois dias, e o projeto incluiu iluminação nova.[^fcms2024][^ce2024]
 

@@ -16,11 +16,15 @@ A **ASCURI** (Associação Cultural dos Realizadores Indígenas) é um coletivo 
 
 A ideia de uma associação de realizadores surgiu em 2008, em uma oficina de cinema na Bolívia (Taller Cine Sin Fronteras), quando os participantes foram aconselhados a se organizar como associação para buscar apoio a formações audiovisuais continuadas.[^tese172] A sigla vem de um projeto anterior, de 2005, que nunca foi registrado, e que previa rádios comunitárias na periferia de Campo Grande.[^tese172] A situação jurídica da ASCURI como associação sem fins lucrativos foi regularizada em 2012.[^tese177]
 
+A tese de Cid Nogueira Fidelis (UFMS, 2024) também situa a origem em 2008. Segundo ela, o projeto foi pensado por [[gilmar-galache|Gilmar Galache]] e Eliel Benites a partir da oficina "cine sin fronteras", na Bolívia, com o documentarista quéchua Ivan Molina, diretor da Escuela de Cine y Artes de La Paz. Fidelis registra a formalização como associação sem fins lucrativos em 2012.[^fidelis2024] Para o autor, a ASCURI dá continuidade ao trabalho de realizadores formados no projeto Ava Marandu, de 2010.[^fidelis2024]
+
 A relação com o [[fida|Fórum de Discussão sobre Inclusão Digital nas Aldeias (FIDA)]] aparece de duas formas. Segundo Nogueira (2015), citado na tese, a criação da ASCURI foi o maior legado do fórum. Em entrevista, Gilmar Galache discordou e afirmou que a ideia já existia antes do FIDA e foi sendo lapidada junto com ele.[^tese143] A tese data a primeira edição do FIDA em 2 a 4 de dezembro de 2009;[^tese172] o artigo de Corrêa e Banducci a situa em dezembro de 2010, na aldeia Te'ýikue.[^art201]
 
 ## Atividades
 
 O coletivo passou a organizar o FIDA. A quarta edição, realizada em julho de 2012 na aldeia Panambizinho, em Dourados, foi a primeira autônoma.[^tese173] A ASCURI criou parcerias com instituições como o Programa das Nações Unidas para o Desenvolvimento (PNUD), a UFGD, a UCDB e a Funai.[^tese172]
+
+Segundo Galache, citado por Fidelis, as oficinas começaram entre os guarani, kaiowá e terena e depois se estenderam aos xavante de Mato Grosso, aos cinta-larga de Rondônia, aos guarani mbya do Rio de Janeiro, aos javaé do Tocantins e a não indígenas. Fidelis conta mais de 70 produções no site e no canal do coletivo; em outro trecho da mesma tese, fala em mais de 80 obras.[^fidelis2024]
 
 O coletivo realiza oficinas de audiovisual em aldeias. Em 2013, fez uma oficina de uma semana na Terra Indígena Pirakuá, com apoio de um programa da ONU e do governo brasileiro, que gerou uma série de quatro filmes.[^tese177] Em janeiro de 2013, a convite da associação, um projeto da Universidade Federal Fluminense realizou um seminário e oficinas ligados à UFGD, que resultaram em seis curtas lançados em 25 de maio, no Teatro Municipal de Dourados.[^tese187] Em 2015, houve oficina na aldeia Pirakuá; outra oficina, na aldeia terena Babaçu, em Miranda, contou com o cineasta Iván Molina, e a tese registra dez filmes produzidos em quinze dias. Em 2016, integrantes foram a La Paz para nova edição do Cine Sin Fronteras.[^tese187]
 
@@ -53,3 +57,4 @@ O coletivo realiza oficinas de audiovisual em aldeias. Em 2013, fez uma oficina 
 [^fdoc]: Fórum.doc.BH, acervo, ["Jakaira (2019)"](https://acervo.forumdoc.org.br/movie/jakaira/), ficha e sinopse do filme. Acesso em 4 nov. 2026.
 [^tese132]: Corrêa, *Achegas*, UFGD, 2023, p. 132. Acesso em 4 nov. 2026.
 [^tese267]: Corrêa, *Achegas*, UFGD, 2023, p. 267 (referências) e p. 225. Acesso em 4 nov. 2026.
+[^fidelis2024]: Cid Nogueira Fidelis, [*Cinema Guarani e Kaiowá: um estudo sobre a construção de sentido em filmes autorais indígenas*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13510), tese de doutorado em Estudos de Linguagens, UFMS, 2024, p. 21-22 e 107-109. Acesso em 4 nov. 2026.

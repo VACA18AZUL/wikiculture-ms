@@ -38,4 +38,4 @@
 
 ## Uso no verbete
 
-Tudo entrou. Não se sabe se a obra dela no acervo Terra Vermelha foi pintada ao vivo em 2012; o verbete só a lista entre os artistas. Wikipédia: sem artigo localizado.
+Tudo entrou. Não se sabe se a obra dela no acervo Terra Vermelha foi pintada ao vivo em 2012; o verbete só a lista entre os artistas. Wikipédia: não conferida (API da Wikipédia recusou por limite de requisições).

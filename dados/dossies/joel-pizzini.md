@@ -48,3 +48,10 @@ Descartadas: Wikipédia (conferência; artigo marcado com falta de referências)
 ## Uso no verbete
 
 - Entrou o acima. Fora: Mundéu (pré-produção), vida familiar da Wikipédia.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Cid Nogueira Fidelis, *Cinema Guarani e Kaiowá: um estudo sobre a construção de sentido em filmes autorais indígenas*, tese, Estudos de Linguagens, UFMS, 2024 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13510). Nota `fidelis2024`. Autor diferente de Corrêa (UFGD 2023): fonte independente. Lida a p. 107.
+
+- Acrescentado: oficineiro não indígena das oficinas de audiovisual do Ava Marandu (fev.-abr. 2010), ao lado de Mauricio Copette (grafia da tese) e dos indígenas Ivã Molina e Gilmar Galache.
+- A tese não detalha em quais aldeias Pizzini atuou.

@@ -27,3 +27,8 @@ Descartadas: Midiamax 18/03/2023 ("'Crimes da Cruz': após 15 anos, estudantes f
 
 - pp2026: documentário longa "O Retrato do Erro – A Bruxa da Sapolândia", dirigido por Isabelle Silva, produção Misa Filmes (especializada em documentários sobre casos criminais), FMIC, lançamento previsto para fev. 2027. Provavelmente a mesma pessoa (temática criminal em MS), mas a matéria não liga o nome às obras de cgn2026. Não entra.
 - Fonte única: exceção registrada.
+
+## Atualização de 2026-11-04
+
+- pp2026 relido e aceito: a ficha técnica do longa *O Retrato do Erro – A Bruxa da Sapolândia* traz Miya Miyashiro na direção de arte, e a produtora (Misa Filmes) é descrita como especializada em documentários sobre casos criminais, o mesmo tema de *Crimes da Cruz*. Com a parceira de cgn2026 na equipe, a identidade fica confirmada. Entrou no verbete como projeto com lançamento previsto para fev. 2027 (não como obra lançada).
+- Equipe citada: direção geral Isabelle Silva; roteiro Luis Gabriel e João Prestes; fotografia João Pelosi (assist. Daniel Felipe); som Laura Cristina; direção de arte Miya Miyashiro; assistência de produção Isadora Tiemi; making of Maurílio Valle; logger Rafaela Correia. Financiamento FMIC.

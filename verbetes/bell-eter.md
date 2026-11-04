@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a Fundação Clóvis Salgado, de Belo Horizonte, construiu a carreira em espaços culturais independentes, saraus e apresentações de rua, em especial na Avenida Paulista, em São Paulo, e na Feira Hippie de Belo Horizonte.[^fcs2026]
+Segundo a Fundação Clóvis Salgado, de Belo Horizonte, formou-se como artista cantando em saraus, espaços culturais independentes e na rua, sobretudo na Avenida Paulista, em São Paulo, e na Feira Hippie de Belo Horizonte.[^fcs2026]
 
-Em 2025, participou do *The Voice Brasil*, no SBT. Nas audições às cegas, cantou uma música de Adele e escolheu o time de Duda Beat, depois de ter virado as cadeiras dela, de Mumuzinho e de Péricles. Na semifinal, cantou "Flutua", de Liniker e Johnny Hooker, e foi escolhida por Duda Beat para a final.[^sbt2026][^cgn2025] A final foi ao vivo em 22 de dezembro de 2025, e o título ficou com Thiago Garcia.[^cgn2025][^sbt2026]
+Em 2025, participou do *The Voice Brasil*, no SBT. Nas audições às cegas, cantou uma música de Adele e escolheu o time de Duda Beat, depois de ter virado as cadeiras dela, de Mumuzinho e de Péricles. Na semifinal, com "Flutua", canção de Liniker e Johnny Hooker, recebeu de Duda Beat a vaga na final.[^sbt2026][^cgn2025] A final foi ao vivo em 22 de dezembro de 2025, e o título ficou com Thiago Garcia.[^cgn2025][^sbt2026]
 
 Em 2026, circulou com o show *Bell Éter canta Grandes Vozes*, com releituras de artistas brasileiros e estrangeiros, como Maria Bethânia, Marília Mendonça, Djavan, Liniker, Whitney Houston e Sam Smith. Em Campo Grande, uma apresentação gratuita foi marcada no [[sesc-teatro-prosa|Sesc Teatro Prosa]] para 8 de maio.[^acritica2026] Em Belo Horizonte, a apresentação na Sala Juvenal Dias do Palácio das Artes foi adiada para 19 de setembro de 2026, em formato de voz, violão e piano, com canções autorais no repertório. Segundo a Fundação Clóvis Salgado, o show já tinha passado por São Paulo e Campo Grande.[^fcs2026]
 

@@ -62,3 +62,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo acima, exceto o adjetivo "maior e mais completa do mundo" (atribuído ao jornal).
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Cid Nogueira Fidelis, *Cinema Guarani e Kaiowá: um estudo sobre a construção de sentido em filmes autorais indígenas*, tese, Estudos de Linguagens, UFMS, 2024 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13510). Nota `fidelis2024`. Autor diferente de Corrêa (UFGD 2023): fonte independente. Lidas as p. 107-108 e 112.
+
+- Acrescentado (nova seção Exposições): exposição final do projeto Ava Marandu (2010), com fotografias e filmes de alunos guarani e kaiowá (p. 108).
