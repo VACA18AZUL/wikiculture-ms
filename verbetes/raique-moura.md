@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Raique Moura** (grafado também **Raíque Moura**) é um artista plástico e ator de Mato Grosso do Sul. Nasceu em Aparecida do Taboado e se mudou para Dourados em 2011 para estudar artes cênicas. Também trabalhou na produção de feiras criativas.[^cgn2026][^ce2024]
+**Raique Moura** (grafado também **Raíque Moura**) é um artista plástico e ator de Mato Grosso do Sul. Natural de Aparecida do Taboado, mudou-se em 2011 para Dourados, onde foi estudar artes cênicas. Também trabalhou na produção de feiras criativas.[^cgn2026][^ce2024]
 
 ## Inspiratório (livro e projeto)
 

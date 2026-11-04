@@ -12,11 +12,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Corumbá em Tela** é um concurso de pintura em tela promovido pela Prefeitura de Corumbá, por meio da [[fundacao-da-cultura-de-corumba|Fundação da Cultura de Corumbá]]. Na edição de 2026, as obras foram escolhidas por votação popular.[^pmc2026a][^pmc2026b]
+O **Corumbá em Tela** é um concurso de pintura em tela da Prefeitura de Corumbá, realizado pela [[fundacao-da-cultura-de-corumba|Fundação da Cultura de Corumbá]]. Na edição de 2026, as obras foram escolhidas por votação popular.[^pmc2026a][^pmc2026b]
 
 ## Edição de 2026
 
-A edição de 2026 se chamou "Cores e Formas do Pantanal – Corumbá em Tela 2026" e teve como tema "Patrimônio Cultural e Natureza", com obras sobre o Casario do Porto, prédios e monumentos históricos, festas, o Rio Paraguai, paisagens e animais do Pantanal. O edital de chamamento nº 13/2026 foi publicado no Diário Oficial de Corumbá em 4 de setembro.[^pmc2026a][^acritica2026a]
+A edição de 2026 se chamou "Cores e Formas do Pantanal – Corumbá em Tela 2026" e o tema "Patrimônio Cultural e Natureza", que abria espaço para obras sobre o Casario do Porto, prédios e monumentos históricos, festas, o Rio Paraguai, paisagens e animais do Pantanal. O edital de chamamento nº 13/2026 saiu na edição de 4 de setembro do Diário Oficial do município.[^pmc2026a][^acritica2026a]
 
 Podiam se inscrever artistas visuais profissionais ou amadores, brasileiros, maiores de 18 anos e residentes em Corumbá, com uma pintura sobre tela em óleo, acrílica ou técnica mista. O edital aceitava até 20 inscrições e vetava arte digital, esculturas e obras feitas com inteligência artificial. A votação, on-line e presencial no [[muhpan|Museu de História do Pantanal]], foi marcada para 15 a 18 de setembro. Os três primeiros receberiam R$ 3 mil, R$ 2 mil e R$ 1,5 mil. Na abertura das inscrições, a Prefeitura anunciou o resultado para 21 de setembro, no Desfile Cívico do aniversário de Corumbá.[^pmc2026a][^acritica2026a]
 

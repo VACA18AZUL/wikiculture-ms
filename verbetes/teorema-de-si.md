@@ -18,7 +18,7 @@ Nos primeiros shows, o grupo tocava versões de Charlie Brown Jr., Terno Rei e L
 
 A programação da 5ª edição da Feira MS+Underground, marcada para 7 de setembro de 2025 na Praça Cuiabá, em Campo Grande, anunciava a Teorema de Si entre as bandas do palco.[^cgn2025]
 
-O som parte do rock alternativo, com referências de shoegaze, noise rock, midwest emo, hardcore, noise pop e música popular brasileira. O single "Andorinhas", composto por Daniel Prado e produzido por Mateus Capiberibe e Gusthavo Nakayoshi, da Sopa Records, entrou em playlists de páginas nacionais dedicadas ao rock alternativo.[^acritica2026]
+O som parte do rock alternativo, com referências de shoegaze, noise rock, midwest emo, hardcore, noise pop e música popular brasileira. O single "Andorinhas", composto por Daniel Prado e produzido por Mateus Capiberibe e Gusthavo Nakayoshi, da Sopa Records, foi incluído em playlists de páginas de rock alternativo de alcance nacional.[^acritica2026]
 
 Em 2026, a banda preparava o primeiro álbum de estúdio, *Monocultura*, disco conceitual de dez faixas produzido pela Sopa Records, que usa a monocultura como metáfora da padronização da cultura e dos modos de viver. Antes dele, previa lançar a faixa "Departamentos Marisa" no primeiro trimestre de 2027.[^acritica2026]
 

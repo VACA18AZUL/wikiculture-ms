@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Grupo Mahila** é um grupo de dança criado em Campo Grande em 2016. Pesquisa e pratica o ATS (American Tribal Style), estilo de dança coletiva também chamado FatChanceBellyDance Style, que reúne elementos das danças árabe, indiana e flamenca.[^acritica2026][^cgn2026]
+O **Grupo Mahila** é um grupo de dança criado em Campo Grande em 2016. Dedica-se à pesquisa e à prática do ATS (American Tribal Style), dança em grupo conhecida também como FatChanceBellyDance Style, que combina elementos das danças árabe, indiana e flamenca.[^acritica2026][^cgn2026]
 
 ## Trajetória
 

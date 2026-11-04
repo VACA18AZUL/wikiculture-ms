@@ -23,3 +23,8 @@
 ## Incerto
 
 - A identidade entre a Bejona das três fontes é inferida pelo nome artístico (incomum) e pela atuação em Campo Grande; só a fonte de 2024 dá o nome civil.
+
+## Atualização de 2026-11-04 (revisão)
+
+- fcms2026 lista Bejona entre as integrantes do Coletivo Dorcelina Folador (surgido em 2020); entrou no verbete. Reforça a identidade entre as fontes (artista de Campo Grande, mesmo nome artístico).
+- Vernissage Florarium: a matéria de 24/09/2026 é de divulgação; encerramento como previsto.

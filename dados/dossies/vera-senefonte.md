@@ -22,3 +22,8 @@
 ## Deixado de fora (dados pessoais)
 
 - Idade, viuvez e nome do marido, condição de pensionista, participação em jogos esportivos.
+
+## Atualização de 2026-11-04 (revisão)
+
+- Fontes reabertas e conferidas. A Crítica diz que a Série Onça Pintada entrou "no ano passado" (2025) na lista do Vestibular 2026 da UFGD; o verbete não dá o ano de inclusão.
+- Fora, além do já listado: a foto que serviu de referência foi feita pelo marido (vida familiar); o verbete diz só que as pinturas partem de uma fotografia.

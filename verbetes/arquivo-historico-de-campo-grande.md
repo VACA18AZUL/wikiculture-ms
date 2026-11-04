@@ -16,7 +16,7 @@ O **Arquivo Histórico de Campo Grande**, conhecido pela sigla **Arca**, é a in
 
 ## Histórico
 
-A origem do Arca é o Projeto Arquivo Municipal de Campo Grande, de 1986, elaborado pela Secretaria Municipal da Cultura e do Esporte para localizar, recolher e preservar documentos públicos e particulares que estavam dispersos.[^cgn2026][^pref2026] Em 1987, funcionários da Prefeitura passaram a receber documentos, fotografias, plantas e publicações numa pequena sala no Horto Florestal.[^pref2026][^ac2026]
+A origem do Arca é o Projeto Arquivo Municipal de Campo Grande, de 1986, elaborado pela Secretaria Municipal da Cultura e do Esporte para localizar, recolher e preservar documentos públicos e particulares que estavam dispersos.[^cgn2026][^pref2026] Em 1987, servidores municipais começaram a recolher documentos, fotos, plantas e publicações numa pequena sala do Horto Florestal.[^pref2026][^ac2026]
 
 O arquivo foi criado oficialmente pelo Decreto Municipal nº 6.350, de 19 de agosto de 1991, com a missão de proteger a documentação do município e dar acesso a ela à administração, a pesquisadores e ao público.[^pref2026][^ac2026] Os registros institucionais apontam Doralice Martins, Neide Benetti e Leoneida Ferreira entre as fundadoras.[^pref2026]
 
@@ -24,7 +24,7 @@ O Arca mudou de sede várias vezes. Em 1995 funcionava na Rua Cândido Mariano e
 
 ## Acervo e atividades
 
-O acervo reúne documentos da Intendência, da Prefeitura e da Câmara Municipal, como processos de construção, loteamentos, alvarás e atas, além de fotografias, mapas, plantas arquitetônicas, jornais, revistas e livros.[^cgn2026] Um levantamento de 2021 contou 961 itens cartográficos.[^pref2026][^ac2026]
+O acervo reúne documentos da Intendência, da Prefeitura e da Câmara Municipal, como processos de construção, loteamentos, alvarás e atas, além de fotos, mapas, plantas de arquitetura, jornais, revistas e livros.[^cgn2026] Um levantamento de 2021 contou 961 itens cartográficos.[^pref2026][^ac2026]
 
 Entre 1990 e 2011, o Arca publicou 15 edições da *Revista Arca*, com temas da história local como ferrovia, imigração, ruas, praças, patrimônio, arquitetura e meio ambiente. O Campo Grande News inclui também música e teatro entre os temas.[^pref2026][^cgn2026] A instituição faz ainda exposições fotográficas, palestras, visitas escolares e guiadas e projetos de educação patrimonial.[^cgn2026]
 
