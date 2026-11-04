@@ -6,7 +6,7 @@ resumo: Grupo de artes cênicas de Mato Grosso do Sul dirigido por Anderson Bosh
 ficha:
   Direção: Anderson Bosh
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Grupo Ubu** (grafado também UBU, Ubu de Artes Cênicas) é um grupo de teatro de Mato Grosso do Sul dirigido por [[anderson-bosh|Anderson Bosh]].[^ubu25]
@@ -25,6 +25,6 @@ Em 2022, o grupo, citado como Ubu de Artes Cênicas, apresentou *Lobo Leopoldo e
 - *Uma Moça na Cidade* — história de uma jovem do interior em busca de novos caminhos, apresentada na turnê de 2025.[^ubu25]
 - *Lobo Leopoldo em Chapeuzinho Vermelho* — apresentado em 2022 (a reportagem não informa o ano de estreia).[^bon22]
 
-[^ubu25]: ["Grupo UBU leva teatro popular para 12 cidades e começa por Corumbá"](https://www.campograndenews.com.br/lado-b/diversao/grupo-ubu-leva-teatro-popular-para-12-cidades-e-comeca-por-corumba), *Campo Grande News*, 7 abr. 2025. Acesso em 29 out. 2026.
-[^bon22]: ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 29 out. 2026.
+[^ubu25]: Thailla Torres, ["Grupo UBU leva teatro popular para 12 cidades e começa por Corumbá"](https://www.campograndenews.com.br/lado-b/diversao/grupo-ubu-leva-teatro-popular-para-12-cidades-e-comeca-por-corumba), *Campo Grande News*, 7 abr. 2025. Acesso em 29 out. 2026.
+[^bon22]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 29 out. 2026.
 [^folheto]: Fundação de Cultura de Mato Grosso do Sul, [*Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017*](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto, 2017. Acesso em 29 out. 2026.

@@ -28,5 +28,5 @@ No teatro, escreveu e dirigiu *A Menina e o Fim*, apresentado em outubro de 2026
 - *A Menina e o Fim* (2026) — texto e direção; Grupo Casa. Três sessões gratuitas, de 14 a 16 de outubro de 2026, com bonecos gigantes em cena.[^ce2026]
 
 [^cgn]: Thailla Torres, ["MS começa a gravar seu 1º longa de R$ 1 milhão dirigido por uma mulher"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ms-comeca-a-gravar-seu-1o-longa-de-r-1-milhao-dirigido-por-uma-mulher), *Campo Grande News*, 10 mai. 2025. Acesso em 29 out. 2026.
-[^cgn2]: Thailla Torres, ["Começa em MS a filmagem do longa Quando a Gente se Encontrar"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/comeca-em-ms-a-filmagem-do-longa-quando-a-gente-se-encontrar), *Campo Grande News*, 21 jun. 2025. Acesso em 4 nov. 2026.
+[^cgn2]: Thailla Torres, ["Começa em MS a filmagem do longa 'Quando a Gente se Encontrar'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/comeca-em-ms-a-filmagem-do-longa-quando-a-gente-se-encontrar), *Campo Grande News*, 21 jun. 2025. Acesso em 4 nov. 2026.
 [^ce2026]: Leo Ribeiro, ["'A menina e o Fim' traz três sessões gratuitas e terá bonecos gigantes em cena"](https://correiodoestado.com.br/correio-b/a-menina-e-o-fim-tres-sessoes-gratuitas-bonecos-gigantes/474671/), *Correio do Estado*, 14 out. 2026. Acesso em 4 nov. 2026.
