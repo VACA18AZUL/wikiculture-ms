@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Enredo
 
-Num sábado à noite no Centro-Oeste, Jean, um agroboy, ouve uma rádio local em que as pessoas deixam recados de amor. O programa de rádio conduz a história, que trata de solidão e paixão.[^cgn2015] A crítica do AdoroCinema descreve o personagem circulando pela noite de Campo Grande, bebendo e observando os jovens.[^adoro2015]
+Num sábado à noite no Centro-Oeste, Jean, um agroboy, ouve uma rádio local em que as pessoas deixam recados de amor. O programa de rádio conduz a história, que trata de solidão e paixão.[^cgn2015] A crítica do AdoroCinema descreve o personagem andando à noite por Campo Grande, bebendo e olhando outros jovens se divertirem.[^adoro2015]
 
 ## Produção e circulação
 
