@@ -18,7 +18,7 @@
 ## Fatos, com fonte
 
 - Interpretou "Cartas na Manga", de Matusalém Vieira do Carmo, no 1º Fessul (1979); a canção ficou em 2º lugar e era a preferida do público. [caetano2012, p. 49-50]
-- Segundo o organizador Onésimo (citado por Caetano), o festival "revelou Sidney para Campo Grande", como a Iso Fischer e Nelson Franco; era gente que cantava em bares e não era conhecida. [caetano2012, p. 50]
+- Segundo o organizador Onésimo (citado por Caetano), o festival "revelou Sidney para Campo Grande", como Iso Fischer e Nelson Franco; era gente que cantava em bares e não era conhecida. [caetano2012, p. 50]
 
 ## Identidade
 

@@ -20,7 +20,7 @@ Segundo o *Campo Grande News*, começou na bateria aos nove anos e formou o [[mi
 
 Nos anos 1970 integrou o [[zutrik|Zutrik]], que tocou por cerca de três décadas no Clube Surian, em boates, festas e casamentos. O jornal o apresenta como a primeira banda de Mato Grosso do Sul a gravar um compacto. Miguelito também fundou o Beatles Maníacos, no qual toca bateria.[^cgn2018] A fundação lista ainda as bandas Time Travelers, No Smoking, Miguelito Jazz Band, Maraffo e James Rock.[^fcms2021]
 
-Em 2018, então com 64 anos, compunha peças eruditas em parceria com o violinista Petar Krastanov e tinha se apresentado com ele e o violoncelista Marcelo Gerônimo no [[sesc-teatro-prosa|Teatro Prosa]]. Preparava o projeto *Miguelito 50 anos de música*, no Sesc Cultura.[^cgn2018] Em setembro de 2021, a fundação anunciou sua apresentação no Som da Concha, com repertório de música erudita autoral.[^fcms2021]
+Em 2018, então com 64 anos, compunha peças eruditas em parceria com o violinista Petar Krastanov e tinha se apresentado com ele e o violoncelista Marcelo Gerônimo no [[sesc-teatro-prosa|Teatro Prosa]]. Preparava o projeto *Miguelito 50 anos de música*, no Sesc Cultura.[^cgn2018] A fundação anunciou para 19 de setembro de 2021 o show *Miguelito Erudito*, no Som da Concha, com composições autorais de música instrumental erudita e arranjos do violinista búlgaro, grafado ali Peter Krastanov.[^fcms2021]
 
 ## Discografia
 
