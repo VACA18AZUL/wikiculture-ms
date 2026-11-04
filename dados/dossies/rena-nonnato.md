@@ -50,3 +50,9 @@
 - cgn2024: Aletheya Alves, "Teatro do Mundo terá show de música brasileira instrumental com Ivan Cruz", CGN, 15 jun. 2024 — duo Borba Nonnato anunciado na abertura do show de Ivan Cruz, 16 jun. 2024, Teatro do Mundo. Entrou.
 - cgn2025: Thailla Torres, "Amigos criam projeto que conecta tradição pantaneira e eletrônico", CGN, 3 jul. 2025 — Renã Nonnato na gaita no EP Electrosounds (BLX). Entrou.
 - cgn2026: Thailla Torres, "Semana do Artesão começa hoje com feira, oficinas e shows gratuitos", CGN, 18 mar. 2026 — Duo Borba Nonnato às 19h30 de 18/03. Entrou.
+
+## Atualização de 2026-11-04 (validação)
+
+- Busca na FCMS (?s=Nonnato) e no Campo Grande News: só novos anúncios da abertura da 18ª Semana do Artesão (FCMS, 26 fev. 2026 e 17 mar. 2026). Nenhuma notícia de show realizado; não entraram.
+- Faixas do EP Electrosounds divergem: CGN 3 jul. 2025 ("Águas do Pantanal", "Terrário", "Fogo e Desejo", "Pôr do Sol") × FCMS 17 jul. 2025 ("Andorinhas", "Ondas", "Morada", "Segredo"). O verbete não lista faixas; interessa ao verbete do BLX.
+- As duas fontes do EP repetem as mesmas falas (release); contam como uma.

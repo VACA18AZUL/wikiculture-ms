@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Lendas Pantaneiras*** é um longa-metragem de ficção sul-mato-grossense, dirigido e roteirizado por [[fabio-flecha|Fábio Flecha]] e produzido por ele e [[tania-sozza|Tania Sozza]]. Reúne contos do folclore do Pantanal sul-mato-grossense, como histórias de onça, saci, curupira e de um homem que faz um pacto com o "Coisa Ruim" para aprender a tocar viola.[^fcms2015a]
+***Lendas Pantaneiras*** é um longa-metragem de ficção sul-mato-grossense, dirigido e roteirizado por [[fabio-flecha|Fábio Flecha]] e produzido por ele e [[tania-sozza|Tania Sozza]]. Reúne histórias do folclore pantaneiro de Mato Grosso do Sul sobre a onça, o saci e o curupira, além da de um violeiro que faz pacto com o "Coisa Ruim" para aprender o instrumento.[^fcms2015a]
 
 ## Produção
 

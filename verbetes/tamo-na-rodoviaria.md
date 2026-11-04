@@ -19,7 +19,7 @@ atualizado: 2026-11-04
 
 Givago Oliveira passou dois anos estudando o prédio antes de começar a filmar. As gravações começaram em junho de 2012, com depoimentos de comerciantes e uma equipe colaborativa de cerca de 15 pessoas. Como parte dos entrevistados não quis se identificar, o diretor previu que atores dariam corpo aos depoimentos.[^cgn2012]
 
-Segundo a reportagem da estreia, o grupo começou o trabalho em 2011 com recursos próprios e teve o projeto aprovado em edital de financiamento do governo do estado em 2016. O filme mistura depoimentos com poesia, teatro e dança e mostra a região deteriorada, os comerciantes que continuam trabalhando ali e o público que ainda frequenta o prédio. A produção é de [[mariana-sena|Mariana Sena]] e a edição, de [[catia-santos|Cátia Santos]].[^cgn2018]
+Segundo a reportagem da estreia, o grupo começou o trabalho em 2011 com recursos próprios e teve o projeto aprovado em edital de financiamento do governo do estado em 2016. O filme mistura depoimentos com poesia, teatro e dança e mostra a região deteriorada, os comerciantes que continuam trabalhando ali e o público que ainda frequenta o prédio. A produção é de [[mariana-sena|Mariana Sena]] e a edição, de Cátia Santos.[^cgn2018]
 
 ## Exibições
 
@@ -34,7 +34,7 @@ A reportagem da estreia fala em uma hora e meia de duração; a programação do
 - Direção: [[givago-oliveira|Givago Oliveira]][^fcms2019]
 - Roteiro: [[givago-oliveira|Givago Oliveira]][^fcms2019]
 - Produção: [[mariana-sena|Mariana Sena]][^cgn2018]
-- Edição: [[catia-santos|Cátia Santos]][^cgn2018]
+- Edição: Cátia Santos[^cgn2018]
 
 [^cgn2012]: Mariana Lopes, ["Após dois anos de estudo, gravações começam na antiga rodoviária"](https://www.campograndenews.com.br/lado-b/apos-dois-anos-de-estudo-gravacoes-comecam-na-antiga-rodoviaria), *Campo Grande News*, 9 jun. 2012. Acesso em 4 nov. 2026.
 [^cgn2018]: Gustavo Maia, ["Documentário T'amo na Rodoviária resgata histórias perdidas no tempo"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/documentario-tamo-na-rodoviaria-resgata-historias-perdidas-no-tempo), *Campo Grande News*, 20 dez. 2018. Acesso em 4 nov. 2026.

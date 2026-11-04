@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Na Cia Dançurbana, esteve no elenco de [[singulares|*Singulares*]], espetáculo criado em 2012, na circulação de 2016 por Amambai, Caarapó, Fátima do Sul e Vicentina, com o Prêmio Célio Adolfo de Incentivo à Dança.[^fcms2016] Em 2017, foi uma das seis intérpretes-criadoras de [[porace-o-outro-de-nos|*Poracê*]], com coreografia de [[marcos-mattos|Marcos Mattos]], [[renata-leoni|Renata Leoni]] e Franciella Cavalheri.[^fcms2017] Em 2023, entrou no elenco de [[cavucada-a-festa-nao-sera-amanha|*Cavucada*]], espetáculo-festa dos 20 anos da companhia, com criação e direção de Jorge Alencar e Neto Machado.[^fcms2023b]
 
-Também dá aulas de danças urbanas. Foi uma das professoras do projeto *Rede Hip Hop: Arte no Entorno*, com recursos do Fundo de Investimentos Culturais de MS, em cidades vizinhas de Campo Grande, em 2018. Na segunda edição, em 2023, deu a oficina na Escola Estadual Zumbi dos Palmares, na comunidade quilombola Furnas do Dionísio, em Jaraguari.[^fcms2018][^fcms2023a] Em março de 2021, dançou com o percussionista Adriel Santos no projeto online *Sala de Visita*, de [[jackeline-mourao|Jackeline Mourão]].[^msn2021]
+Também dá aulas de danças urbanas. Foi uma das professoras do projeto *Rede Hip Hop: Arte no Entorno*, com recursos do Fundo de Investimentos Culturais de MS, em cidades vizinhas de Campo Grande, em 2018. Na segunda edição, em 2023, deu a oficina na Escola Estadual Zumbi dos Palmares, na comunidade Furnas do Dionísio, em Jaraguari.[^fcms2018][^fcms2023a] Em março de 2021, dançou com o percussionista Adriel Santos no projeto online *Sala de Visita*, de [[jackeline-mourao|Jackeline Mourão]].[^msn2021]
 
 ## Solos
 

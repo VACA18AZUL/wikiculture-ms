@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Banho de São João** é uma festa religiosa e popular de [[fundacao-da-cultura-de-corumba|Corumbá]] e de Ladário. Na noite de 23 de junho, os festeiros levam andores enfeitados com a imagem de São João pela Ladeira Cunha e Cruz até a beira do Rio Paraguai, onde banham o santo.[^fcms2023][^fcms2022]
+O **Banho de São João** é uma festa religiosa e popular de Corumbá e de Ladário. Na noite de 23 de junho, os festeiros levam andores enfeitados com a imagem de São João pela Ladeira Cunha e Cruz até a beira do Rio Paraguai, onde banham o santo.[^fcms2023][^fcms2022]
 
 ## Ritual
 
@@ -31,7 +31,7 @@ A festa foi declarada patrimônio cultural imaterial de Mato Grosso do Sul pelo 
 
 A prefeitura organiza um arraial no Porto Geral, com praça de alimentação, concursos de andores e de quadrilhas e shows. Em 2022, a programação teve quatro dias.[^fcms2022] Em 2025, o arraial foi de 20 a 23 de junho e recebeu R$ 800 mil do governo estadual, por emenda parlamentar.[^fcms2025a] No mesmo ano, a FCMS ouviu festeiros que mantêm a tradição há décadas, entre eles o mestre cururueiro [[sebastiao-de-souza-brandao|Sebastião de Souza Brandão]], que canta e toca viola de cocho no levantamento do mastro desde 2014.[^fcms2025b]
 
-Em 2026, o arraial foi de 19 a 23 de junho. Segundo a Prefeitura de Corumbá, reuniu cerca de 76 mil pessoas em cinco noites, pela estimativa da Polícia Militar, e mais de 100 andores desceram ao rio. A programação teve dez quadrilhas juninas, quatro grupos de siriri, quatro grupos de danças regionais e 13 bandas locais. A prefeitura pagou R$ 1 mil a cada um de 94 festeiros cadastrados e destinou R$ 27.613 a ações com mestres da viola de cocho e grupos de siriri.[^pmc2026]
+Em 2026, o arraial foi de 19 a 23 de junho, realizado pela Prefeitura de Corumbá por meio da [[fundacao-da-cultura-de-corumba|Fundação da Cultura de Corumbá]]. Segundo a prefeitura, a festa reuniu cerca de 76 mil pessoas em cinco noites, pela estimativa da Polícia Militar, e mais de 100 andores desceram ao rio. A programação teve dez quadrilhas juninas, quatro grupos de siriri, quatro grupos de danças regionais e 13 bandas locais. A prefeitura pagou R$ 1 mil a cada um de 94 festeiros cadastrados e destinou R$ 27.613 a ações com mestres da viola de cocho e grupos de siriri.[^pmc2026]
 
 Em 2018, um cortejo com cinco andores de comunidades festeiras abriu o [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]], na Praça Generoso Ponce.[^fcms2018]
 

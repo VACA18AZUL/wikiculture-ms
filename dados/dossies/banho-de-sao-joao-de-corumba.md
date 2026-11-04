@@ -52,3 +52,8 @@ Fontes descartadas: página do Iphan não localizada pela busca do gov.br; Wikip
 ## Uso no verbete
 
 - Entrou tudo acima, exceto depoimentos pessoais de festeiros (idade, religião individual, família) e nomes de shows nacionais.
+
+## Atualização de 2026-11-04 (revisão)
+
+- Todas as fontes reabertas e conferidas. Corrigida ligação errada: "Corumbá" no primeiro parágrafo apontava para fundacao-da-cultura-de-corumba; a ligação foi para a frase de 2026, em que a prefeitura diz que realizou o arraial por meio da Fundação da Cultura.
+- fcms2023 menciona também a inscrição estadual no Livro das Celebrações (Lei estadual nº 3.522/2008); não entrou.

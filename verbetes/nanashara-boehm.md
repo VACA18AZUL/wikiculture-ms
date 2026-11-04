@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Estreou em livro em 2015, com *Entrelaços*, que reúne poemas, contos e crônicas. Em 2021, publicou o livro de poemas *Preto e Branco – Versos de Dias Cinzentos*, pela editora Elmo Negro.[^fcms2024a][^cgn2024]
 
-Em 2024, lançou seu primeiro romance, *Das Saudades que eu Sinto*, contemplado pela Lei Paulo Gustavo do município de Corumbá. Segundo a autora, o primeiro lançamento foi em Corumbá, em 12 de setembro. O segundo foi em 5 de outubro, em Campo Grande, na [[biblioteca-publica-estadual-dr-isaias-paim|Biblioteca Pública Estadual Dr. Isaias Paim]], em parceria com a [[ube-ms|União Brasileira de Escritores de MS]]. Como contrapartida do projeto, a autora previu um clube de leitura num bairro periférico de Corumbá.[^fcms2024a][^fcms2024b]
+Em 2024, lançou seu primeiro romance, *Das Saudades que eu Sinto*, financiado pela Lei Paulo Gustavo em Corumbá. Segundo a autora, o primeiro lançamento foi em Corumbá, em 12 de setembro. O segundo foi em 5 de outubro, em Campo Grande, na [[biblioteca-publica-estadual-dr-isaias-paim|Biblioteca Pública Estadual Dr. Isaias Paim]], em parceria com a [[ube-ms|União Brasileira de Escritores de MS]]. Como contrapartida do projeto, a autora previu um clube de leitura num bairro periférico de Corumbá.[^fcms2024a][^fcms2024b]
 
 ## Obras
 

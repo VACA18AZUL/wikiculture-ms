@@ -23,3 +23,11 @@ Não lidas: Midiamax (25/7/2025) e Top Mídia News (18/6/2026), achadas no Googl
 - Show Deusa da Favela: 2023 (cgn2026) x julho de 2024 no O Canto Delas (cgn2025, "há um ano"). Registradas as duas.
 - EP e álbum anunciados para dez. 2025 e 2026 não confirmados.
 - Nome civil não informado. Wikipédia: não conferida (429).
+
+## Atualização de 2026-11-04
+
+- Segunda fonte independente lida: Leo Ribeiro, "Fim de semana traz festival de curtas, novo single local, festas de Halloween e mais", *Correio do Estado*, 30 out. 2026, https://correiodoestado.com.br/correio-b/fim-de-semana-traz-festival-de-curtas-novo-single-local-festas-de/475915/ (nota ce2026). Entram: começo em 2014 nas batalhas de rima; nome Mel Dias desde 2019; temporada em São Paulo e volta em 2021; "Calor do MS"; O Canto Delas (TV Morena); estreia de CenAlternativa 2 em 29/10/2026 ("estreou ontem"); single "Onana" anunciado para 30/10/2026.
+- Não entram: "cria do bairro Dom Antônio Barbosa" (bairro de moradia); Prinssi como filho da artista (vida familiar, CGN 2025).
+- Grafia divergente do produtor: "Ricky Ivybez" (CGN 2025) x "Rick Ivaybez" (Correio do Estado 2026). Verbete usa a do CGN, que cita o produtor em "Pimenta"; o CE não diz em que faixa.
+- Começo da carreira: CGN 2026 diz que conheceu as batalhas aos 17 anos; CE diz 2014. Ambas no verbete, sem cálculo de ano a partir da idade.
+- Também lida: FCMS, "Campão Cultural destaca cultura de rua", 16 nov. 2021 (Mel Dias na programação de shows de rap de 27/11/2021, anúncio). Não usada.

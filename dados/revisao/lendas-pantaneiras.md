@@ -33,3 +33,5 @@ Data: 2026-11-04
 ## Veredito
 
 pronto-para-lote (FCMS + A Crítica 2026).
+
+Nota: primeiro parágrafo reescrito por coincidência de 9 palavras com a sinopse da FCMS ("de onça, saci, curupira e de um homem que...").

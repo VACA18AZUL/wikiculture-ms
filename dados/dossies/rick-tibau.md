@@ -38,3 +38,8 @@
 ## Uso no verbete
 
 - Tudo acima entrou. Sem telefone.
+
+## Atualização de 2026-11-04 (validação valn-28a)
+
+- Nova nota fcms2015x: FCMS, "Peça do Boca de Cena incentiva debate sobre formação acadêmica do artista", 26 mar. 2015, https://www.fundacaodecultura.ms.gov.br/peca-do-boca-de-cena-incentiva-debate-sobre-formacao-academica-do-artista/ — grafa "Rick Tibau" e anuncia O Experimento Tirésias às 20h30 de 26 mar. 2015 no Teatro Aracy Balabanian.
+- ce2012, ce2015 e fcms2026 são anúncios; o verbete passou a tratá-los como tal.

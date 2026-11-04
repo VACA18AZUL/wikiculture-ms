@@ -26,3 +26,5 @@ Data: 2026-11-04
 ## Veredito
 
 reforcar (fonte única: FCMS; CGN e Diário Digital reproduzem o release).
+
+Nota: "contemplado pela Lei Paulo Gustavo do município de Corumbá" (8 palavras iguais à fonte) virou "financiado pela Lei Paulo Gustavo em Corumbá".

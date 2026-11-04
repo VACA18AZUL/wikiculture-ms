@@ -14,18 +14,21 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o *Campo Grande News*, Mel Dias começou na música aos 17 anos, depois de conhecer as batalhas de rap de Campo Grande. Suas letras tratam da vida na periferia e das mulheres que nela vivem.[^cgn2026] Entre as canções citadas pelo jornal estão "A Preta Chegou" e "Larica Lírica".[^cgn2025]
+Segundo o *Campo Grande News*, Mel Dias tinha 17 anos quando conheceu as batalhas de rap de Campo Grande e viu que podia fazer música a partir da realidade da periferia. Suas letras tratam da vida nos bairros periféricos e das mulheres que neles vivem.[^cgn2026] Entre as canções citadas pelo jornal estão "A Preta Chegou" e "Larica Lírica".[^cgn2025]
 
-As fontes divergem sobre a estreia do show *Deusa da Favela*: uma reportagem de 2025 diz que ele foi apresentado em julho de 2024, no festival [[o-canto-delas|O Canto Delas]]; outra, de 2026, situa o show em 2023.[^cgn2025][^cgn2026] Em 25 de julho de 2025, Dia Internacional da Mulher Negra Latino-Americana e Caribenha, lançou o single "Pimenta", em ritmo de dancehall afro, com produção de Ricky Ivybez e mixagem de Prinssi. A artista anunciou na ocasião mais dois singles, um EP para dezembro de 2025 e um álbum para 2026.[^cgn2025]
+O *Correio do Estado* situa o começo da artista em 2014, nas batalhas de rima da cidade. Segundo o jornal, ela passou a usar o nome Mel Dias em 2019, morou uma temporada em São Paulo e voltou a Campo Grande em 2021. O mesmo texto cita "Calor do MS" entre suas músicas e a participação dela no especial *O Canto Delas*, da TV Morena.[^ce2026]
+
+As fontes divergem sobre a estreia do show *Deusa da Favela*: uma reportagem de 2025 diz que ele foi apresentado em julho de 2024, no festival [[o-canto-delas|O Canto Delas]]; outra, de 2026, situa o show em 2023.[^cgn2025][^cgn2026] Em 25 de julho de 2025, Dia Internacional da Mulher Negra Latino-Americana e Caribenha, lançou o single "Pimenta", em ritmo de dancehall afro, produzido por Ricky Ivybez e mixado por Prinssi. A artista anunciou na ocasião mais dois singles, um EP para dezembro de 2025 e um álbum para 2026.[^cgn2025]
 
 Em junho de 2026, lançou o clipe de "Deusa da Favela", gravado no bairro Dom Antônio Barbosa, em Campo Grande. A canção reúne versos escritos ao longo de anos e chegou à forma final depois do show de mesmo nome. No clipe, a cantora usa o vestido do espetáculo.[^cgn2026]
 
-Em 2026, foi uma das dez artistas entrevistadas no documentário [[cenalternativa-2-mulheres-da-nova-musica|CenAlternativa 2: Mulheres da Nova Música do MS – Parte 1]], do duo Vozmecê, com lançamento marcado para 29 de outubro na Casa de Cultura de Campo Grande.[^acritica2026]
+Em 2026, foi uma das dez artistas entrevistadas no documentário [[cenalternativa-2-mulheres-da-nova-musica|CenAlternativa 2: Mulheres da Nova Música do MS – Parte 1]], do duo Vozmecê, com lançamento marcado para 29 de outubro na Casa de Cultura de Campo Grande.[^acritica2026] No dia seguinte, o *Correio do Estado* registrou a estreia do filme e anunciou para aquele dia, 30 de outubro, a chegada às plataformas digitais do single "Onana".[^ce2026]
 
 ## Discografia
 
 - "Pimenta" (2025) — single; produção de Ricky Ivybez.[^cgn2025]
 - "Deusa da Favela" (2026) — single.[^cgn2026]
+- "Onana" (2026) — single anunciado para 30 de outubro de 2026.[^ce2026]
 
 ## Espetáculos
 
@@ -39,3 +42,4 @@ Em 2026, foi uma das dez artistas entrevistadas no documentário [[cenalternativ
 [^cgn2025]: Thailla Torres, ["Com 'Pimenta', Mel Dias faz 10 anos de carreira e exalta identidade afro-latina"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-pimenta-mel-dias-faz-10-anos-de-carreira-e-exalta-identidade-afro-latina), *Campo Grande News*, 25 jul. 2025. Acesso em 4 nov. 2026.
 [^cgn2026]: Clayton Neves, ["No Dom Antônio, Mel virou Deusa da Favela para dar voz à quebrada"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-dom-antonio-mel-virou-deusa-da-favela-para-dar-voz-a-quebrada), *Campo Grande News*, 27 jun. 2026. Acesso em 4 nov. 2026.
 [^acritica2026]: ["Documentário sobre mulheres da música de MS terá exibição gratuita em Campo Grande"](https://acritica.net/cultura/documentario-sobre-mulheres-da-musica-de-ms-tera-exibicao-gratuita-em-campo-grande/), *A Crítica*, 28 out. 2026. Acesso em 4 nov. 2026.
+[^ce2026]: Leo Ribeiro, ["Fim de semana traz festival de curtas, novo single local, festas de Halloween e mais"](https://correiodoestado.com.br/correio-b/fim-de-semana-traz-festival-de-curtas-novo-single-local-festas-de/475915/), *Correio do Estado*, 30 out. 2026. Acesso em 4 nov. 2026.
