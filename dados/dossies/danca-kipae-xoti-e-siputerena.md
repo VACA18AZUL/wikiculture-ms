@@ -53,3 +53,10 @@
 ## Uso no verbete
 
 - Ficaram de fora: dados familiares de Nelson Francisco (esposas, filhos) e de entrevistados; nome e idade do menor entrevistado; discussão sobre o ensino da língua terena.
+
+## Revisão de 2026-11-04 (valn-20)
+
+- tellus (PDF, p. 133-161) e ce2026 reabertas e conferidas.
+- O artigo diz que a Siputerêna "não é de origem Terena": resumo, abertura e ficha diziam "danças do povo Terena" sem ressalva. Corrigido.
+- "A escola e a comunidade não ensinam o significado": o artigo fala da escola (ensino só na semana dos povos indígenas, sem as finalidades); a comunidade não é citada. Corrigido.
+- ce2026 é de 17 abr. 2026 às 11h15, no dia do evento: as danças estão como programação.
