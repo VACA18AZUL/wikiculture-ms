@@ -28,6 +28,8 @@ A igreja foi tombada pelo município em 1996 e, em 5 de maio de 1998, pelo Estad
 
 A Festa de São Benedito nasceu da mesma promessa e é mantida pelos descendentes.[^fcms2015] Em 2026, quando a Fundação de Cultura de MS contou 107 anos de festa, a programação foi anunciada para 8 a 17 de maio, com missas, terços, procissão, levantamento do mastro, rodas de samba, shows de pagode, bailes, torneios de futebol e almoço comunitário gratuito. Teve apoio do [[grupo-tez|Grupo TEZ]], pelo projeto Festividades Religiosas: Saberes e Ancestralidade, com recursos da Política Nacional Aldir Blanc.[^fcms2026a] Depois dos dias de reza, a descida do terço, que fecha o ciclo, foi marcada para 23 de maio, 11º dia da festa.[^fcms2026b]
 
+Em 14 de maio de 2026, logo após o terço do mês de São Benedito, o centro comunitário recebeu a primeira sessão do [[rota-cine-ms|Rota Cine MS]] Povos Tradicionais, com o curta [[as-marias|*As Marias*]] e roda de conversa com os moradores.[^acritica2026]
+
 Em novembro de 2015, a Associação dos Descendentes de Tia Eva anunciou uma programação pelo mês da Consciência Negra, com rodas de capoeira, samba, pagode e o Baile da Beleza Negra.[^fcms2015]
 
 ## Tombamento federal
@@ -35,6 +37,7 @@ Em novembro de 2015, a Associação dos Descendentes de Tia Eva anunciou uma pro
 O processo de tombamento no Iphan começou em 2024. A declaração oficial saiu em março de 2026 e, em maio, a comunidade foi a primeira inscrita no Livro do Tombo de Documentos e Sítios Detentores de Reminiscências Históricas de Antigos Quilombos. A ministra da Cultura, Margareth Menezes, entregou o título em 28 de setembro de 2026.[^ce2026]
 
 [^ce2026]: ["Margareth Menezes entrega título de tombamento da Comunidade Tia Eva em Campo Grande"](https://correiodoestado.com.br/cidades/2026/09/28/margareth-menezes-entrega-titulo-de-tombamento-da-comunidade-tia-eva-em-campo-grande.html), *Correio do Estado*, 28 set. 2026. Acesso em 4 nov. 2026.
+[^acritica2026]: ["Rota Cine MS estreia na Tia Eva e leva cinema à comunidade com foco em memória e pertencimento"](https://acritica.net/cultura/rota-cine-ms-comunidade-tia-eva-campo-grande-cinema-memoria-pertencimento/), *A Crítica*, 18 maio 2026. Acesso em 4 nov. 2026.
 [^fcms2015]: Daiana Schio, ["Com 90 anos de tradição, festa é realizada por descendentes de Tia Eva"](https://www.fundacaodecultura.ms.gov.br/com-90-anos-de-tradicao-festa-e-realizada-por-descendentes-de-tia-eva/), *Fundação de Cultura de MS*, 10 nov. 2015. Acesso em 4 nov. 2026.
 [^fcms2021]: Karina Medeiros de Lima, ["Projeto de restauração da Igreja da Comunidade Tia Eva foi entregue nesta sexta-feira"](https://www.fundacaodecultura.ms.gov.br/projeto-de-restauracao-da-igreja-da-comunidade-tia-eva-foi-entregue-nesta-sexta-feira/), *Fundação de Cultura de MS*, 16 jul. 2021. Acesso em 4 nov. 2026.
 [^fcms2025]: Karina Medeiros de Lima, ["Restauro da Igreja de São Benedito da Comunidade Quilombola Tia Eva vai iniciar em janeiro de 2026"](https://www.fundacaodecultura.ms.gov.br/restauro-da-igreja-de-sao-benedito-da-comunidade-quilombola-tia-eva-vai-iniciar-em-janeiro-de-2026/), *Fundação de Cultura de MS*, 17 dez. 2025. Acesso em 4 nov. 2026.

@@ -52,3 +52,4 @@ Descartadas: "A princesa engasgada — Teatral Grupo de Risco — Comunidade Tia
 
 - Entrou: origem, certidão Palmares, igreja e tombamentos, festa de 2026, restauro (como anúncio), tombamento federal.
 - Fora: nomes das filhas de Tia Eva (vida familiar), detalhe da doença (dado de saúde), falas, telefones da programação de 2015.
+- acritica2026 (A Crítica, 18 maio 2026, https://acritica.net/cultura/rota-cine-ms-comunidade-tia-eva-campo-grande-cinema-memoria-pertencimento/): primeira sessão do Rota Cine MS Povos Tradicionais na comunidade, 14 maio 2026, curta As Marias. Entrou no verbete.

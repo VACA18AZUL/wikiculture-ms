@@ -2,7 +2,7 @@
 titulo: Cleir Ávila
 tipo: pessoa
 areas: [artes-plasticas]
-resumo: Pintor e escultor sul-mato-grossense, citado como campo-grandense, autor de painéis e monumentos de fauna pantaneira em Corumbá, Dourados e Bonito.
+resumo: Pintor e escultor sul-mato-grossense, citado como campo-grandense, autor de painéis e monumentos de fauna pantaneira em Campo Grande, Corumbá, Dourados e Bonito, entre eles o Monumento Pantanal Sul (Tuiuiús).
 ficha:
   Atividade: "Pintura, escultura, painéis murais"
 status: rascunho
@@ -21,12 +21,15 @@ Em 2020, pintou um painel de onça-pintada de três metros na sala de TV do Asil
 
 Em 2024, restaurou em Dourados dois painéis seus, a *Arara-Vermelha* e o *Papagaio*, em prédios do centro da cidade, com a grafiteira Nathalya Escobar e patrocínio do Sicredi. Segundo o jornal, usou as mesmas técnicas de 24 anos antes.[^ce2024a]
 
+Em Campo Grande, é o autor do Monumento Pantanal Sul, conhecido como os Tuiuiús, criado em 2000 no Aeroporto Internacional. As três aves, chamadas Asa Branca, Majestoso e Zé Bicudo, foram danificadas por ventos e reconstruídas com reforço estrutural. A obra foi reinaugurada em 19 de agosto de 2025, com financiamento do Sicredi e da concessionária do aeroporto, a Aena Brasil.[^rcn2025]
+
 ## Obras
 
 - *Painel da Arara Vermelha e do Dourado* (1998) — painel; Edifício Dom Aquino, Corumbá.[^ce2024b]
 - *Painel do Homem Pantaneiro* (2003) — mural; Sindicato Rural de Corumbá.[^ce2024b]
 - *Monumento Pantanal de Corumbá* (2004) — escultura; Aeroporto Internacional de Corumbá.[^ce2024b]
 - Monumento das Piraputangas (2007) — esculturas em argamassa; Praça da Liberdade, Bonito.[^ce2021]
+- Monumento Pantanal Sul, os Tuiuiús (2000) — esculturas; Aeroporto Internacional de Campo Grande; reconstruídas em 2025.[^rcn2025]
 - Painéis *Arara-Vermelha* e *Papagaio* (2000) — pintura em edifícios; Dourados; restaurados em 2024.[^ce2024a]
 - Painel da onça-pintada (2020) — Asilo São João Bosco.[^ce2023]
 
@@ -34,3 +37,4 @@ Em 2024, restaurou em Dourados dois painéis seus, a *Arara-Vermelha* e o *Papag
 [^ce2023]: ["Asilo São João Bosco completa centenário e ganha tela de Cleir"](https://correiodoestado.com.br/correio-b/2023/07/03/asilo-sao-joao-bosco-completa-centenario-e-ganha-tela-de-cleir.html), *Correio do Estado*, 3 jul. 2023. Acesso em 4 nov. 2026.
 [^ce2024a]: ["Com ajuda de grafiteira, Cleir revitaliza painéis da Arara Vermelha e Papagaio"](https://correiodoestado.com.br/correio-b/2024/11/28/com-ajuda-de-grafiteira-cleir-revitaliza-paineis-da-arara-vermelha-e-papagaio.html), *Correio do Estado*, 28 nov. 2024. Acesso em 4 nov. 2026.
 [^ce2024b]: ["Presentes para Corumbá"](https://correiodoestado.com.br/correio-b/2024/09/21/presentes-para-corumba.html), *Correio do Estado*, 21 set. 2024. Acesso em 4 nov. 2026.
+[^rcn2025]: ["Monumento dos Tuiuiús é reinaugurado no aeroporto e volta a ser cartão-postal da Capital"](https://www.rcn67.com.br/campo-grande/monumento-dos-tuiuius-e-reinaugurado-no-aeroporto-e-volta-a-ser-cartao-postal-da-capital/), *RCN67*, 19 ago. 2025. Acesso em 4 nov. 2026.

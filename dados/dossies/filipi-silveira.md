@@ -47,3 +47,16 @@ Todas do mesmo veículo (três matérias de autores e anos diferentes). Busca ab
 ## Atualização de 2026-11-04
 
 - Filmografia: *O Florista* passou a ter o link `[[o-florista-curta]]`. Fonte reaberta (cgn2013): confirma direção, roteiro, direção de arte, atuação, som e edição de som. Nada novo.
+
+## Atualização de 2026-11-04
+
+Fontes novas (Fundação de Cultura de MS, independente do Campo Grande News):
+
+- fcms2016 — "13º Festival de Cinema do Vale do Ivinhema celebra centenário de Manoel de Barros" (23/11/2016): exibição do curta "Irmãos de Alma", de Filipi Silveira.
+- fcms2017a — Lyra Libero, "Debates durante 'O Florista'..." (30/06/2017): sessão com debate no MIS em 28/06/2017; lançado na internet (canal Cerrado's Filmes); produzido em 2012.
+- fcms2017b — "Curta sul-mato-grossense é premiado em importante Festival de São Paulo" (04/09/2017): ator em teatro, TV e cinema; fundou a Cerrado's Filmes em 2012; produtor associado de "De Tanto Olhar o Céu Gastei Meus Olhos" (dir. Nathália Tereza, FIC 2016), Prêmio Aquisição Canal Curta no 28º Festival Internacional de Curtas de SP; O Florista foi seu primeiro curta como diretor.
+- fcms2024 — TransCine "Vizinhança na Praça" (05/12/2024): exibição de "Retrato do Artista Quando Coisa", de Filipi Silveira e Larissa Neves, em 07/12/2024 (anúncio).
+- fcms2026 — Mostra "MS Memórias Audiovisuais" (19/05/2026): "Ano Que Vem Tem Mais" (Direção: Filipi Silveira) e "Retrato do Artista Quando Coisa" (Direção: Filipi Silveira e Larissa Neves) em 24/06.
+- Também aberta: "Reunião no MIS apresenta o Rota Cine..." (15/12/2025), fala de Silveira na reunião; não usada.
+
+Divergência registrada: CGN 2021 diz que Silveira produziu "Ano Que Vem Tem Mais" com Marineti Pinheiro; a FCMS 2026 credita a ele a direção. As duas versões estão no verbete.

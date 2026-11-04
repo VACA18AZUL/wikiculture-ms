@@ -22,3 +22,13 @@ Identidade do canal: o vídeo do clipe Avenida Afonso Pena (0PGgQW0c3Bk, oEmbed:
 ## Uso no verbete
 
 - Tudo acima. Link do clipe: canal oficial do artista (aceito).
+
+## Atualização de 2026-11-04
+
+Fontes novas (Fundação de Cultura de MS; as notícias de 2025 da FCMS repetem o release usado pelo Campo Grande News e não contam como independentes, mas as de 2023 tratam de outra edição do projeto):
+
+- fcms2023 — "Projeto percorre sete municípios do MS para democratizar acesso à música erudita" (05/04/2023): 1ª edição do Música Erudita nas Escolas e Universidades, FIC/FCMS, apoio UFMS; Coxim (12/4), Aquidauana (13/4), Três Lagoas (18/4), Naviraí (27/4), Rio Verde (19/5), São Gabriel do Oeste (22/5), Campo Grande (1º/6); trio Bianca Danzi, Gabriel Almeida, Evandro Dotto; Dotto "músico, produtor cultural e idealizador", violonista de formação; repertório da Renascença ao moderno, obras brasileiras e regionais, com Levino Albano.
+- fcms2023b — "Música Erudita nas Escolas e Universidades terá concerto de encerramento na Capital" (29/05/2023): encerramento em 1º/6 no Teatro do curso de Música da UFMS (o release de abril dizia FAALC/UFMS), transmissão online, livreto com 12 obras.
+
+Divergência menor de local do encerramento de 2023 (FAALC no anúncio de abril; teatro do curso de Música no de maio): o verbete usa o anúncio mais recente, com a nota dele.
+Não incluído: Instagram citado na fonte (eviolaodotto), não conferido.

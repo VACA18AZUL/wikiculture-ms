@@ -26,3 +26,15 @@ Sem segunda fonte (buscas abertas indisponíveis nesta sessão: DuckDuckGo e Bin
 ## Para os verbetes da equipe
 
 - roberto-leite não lista O Florista em Filmografia; filipi-silveira lista sem link [[o-florista-curta|...]]. Sugestão (não editei verbetes alheios): em filipi-silveira, trocar "*O Florista*" por "[[o-florista-curta|*O Florista*]]"; em roberto-leite, acrescentar "- [[o-florista-curta|*O Florista*]] — curta-metragem de ficção, 18 min, selecionado em 2013 para o Short Film Corner; produção, fotografia, montagem, mixagem e som.[^cgn2013]"
+
+## Atualização de 2026-11-04
+
+Fontes novas (Fundação de Cultura de MS, veículo diferente do Campo Grande News):
+
+- fcms2017a — Lyra Libero, "Debates durante 'O Florista' mostram importância da temática LGBT na sociedade e cinema", FCMS, 30/06/2017: exibição com debate no MIS em 28/06/2017 (Dia do Orgulho LGBT); produzido em 2012; primeira exibição aberta em MS; lançado na internet no mesmo dia (link https://youtu.be/4ZCnfmGoJJc, canal Cerrado's Filmes, produtora de Filipi Silveira); Rose Borges, produtora executiva; festivais na França, Polônia, EUA, Argentina e México; indicado no 1º turno do Grande Prêmio do Cinema Brasileiro; sinopse confirma o enredo.
+- fcms2017b — "Curta sul-mato-grossense é premiado em importante Festival de São Paulo", FCMS, 04/09/2017: O Florista é o primeiro curta de Silveira como diretor; Cerrado's Filmes fundada por ele em 2012.
+- fcms2017c — "MIS celebra 40 anos de MS com mostra especial de curtas", FCMS, 03/10/2017: O Florista (dir. Filipi Silveira, 18 min) na mostra.
+
+O que mudou: reforço do parágrafo inicial e do enredo; novos parágrafos sobre a exibição de 2017 e a mostra dos 40 anos; produção executiva na ficha técnica; link de vídeo (canal da produtora Cerrado's Filmes).
+
+Sem divergência direta: CGN (2013) fala em produção de Roberto Leite; FCMS (2017) cita Rose Borges como produtora executiva. A data "produzido em 2012" é da FCMS. Exibição em Cannes continua não confirmada.

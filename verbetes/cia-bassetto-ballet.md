@@ -18,11 +18,11 @@ atualizado: 2026-11-04
 
 As aulas acontecem no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], unidade da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], que apoia o projeto.[^fcms2019a][^fcms2020] O coordenador é Adalton Garcia.[^fcms2019b]
 
-Segundo o coordenador, o nome homenageia Cecília Bassetto, primeira aluna do projeto aprovada na escola do Teatro Bolshoi no Brasil, em Joinville (SC). Outros alunos foram admitidos depois na mesma escola.[^fcms2019b]
+Segundo o coordenador, o nome homenageia Cecília Bassetto, primeira aluna do projeto aprovada na escola do Teatro Bolshoi no Brasil, em Joinville (SC). Ele contou que outras três crianças do projeto foram aprovadas em 2013 e que outros alunos foram admitidos depois na mesma escola.[^fcms2019b]
 
 As fontes trazem duas idades para o projeto. Em julho de 2019 a Fundação de Cultura escreveu que ele completava sete anos de atividade, número repetido pelo coordenador em dezembro.[^fcms2019a][^fcms2019b] No mesmo período, o coordenador disse que o Bassetto Ballet começou havia dois anos, com dois alunos.[^fcms2019c][^fcms2020]
 
-Em julho de 2019 o Centro Cultural abriu 48 vagas em seis turmas, com aulas dadas por Bárbara Martins e João Vitor Rodrigues da Fonseca.[^fcms2019a] Em dezembro do mesmo ano o projeto tinha 156 alunos.[^fcms2019b] Em janeiro de 2020 abriu mais 110 vagas e passou de 8 para 18 turmas.[^fcms2020][^ce2020]
+Em julho de 2019 o Centro Cultural abriu inscrições para 48 vagas em seis turmas, com aulas previstas para os bailarinos Bárbara Martins e João Vitor Rodrigues da Fonseca.[^fcms2019a] Em dezembro do mesmo ano o projeto tinha 156 alunos.[^fcms2019b] Em janeiro de 2020 abriu mais 110 vagas; o coordenador anunciou que, com elas, o projeto passaria de 8 para 18 turmas.[^fcms2020][^ce2020]
 
 ## Espetáculos
 

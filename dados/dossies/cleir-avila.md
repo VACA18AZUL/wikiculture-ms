@@ -31,3 +31,9 @@ Todas do mesmo veículo. Busca do Campo Grande News não funciona sem JavaScript
 | Identificador | Relação | Fonte | Verbete? | Lista-mestra? |
 |---|---|---|---|---|
 | izulina-xavier | relacionado-a (admiração declarada) | ce2024b | sim | sim |
+
+## Atualização de 2026-11-04
+
+- Fonte nova: RCN67, "Monumento dos Tuiuiús é reinaugurado no aeroporto e volta a ser cartão-postal da Capital", 19 ago. 2025 (https://www.rcn67.com.br/campo-grande/monumento-dos-tuiuius-e-reinaugurado-no-aeroporto-e-volta-a-ser-cartao-postal-da-capital/). Veículo independente do Correio do Estado. Sustenta: autoria do Monumento Pantanal Sul (Tuiuiús), criado em 2000 no aeroporto de Campo Grande; nomes das três esculturas; reconstrução após dano por vento; reinauguração em 19/8/2025 com Sicredi e Aena (R$ 300 mil, não usado no verbete).
+- Acrescentado parágrafo em Trajetória e item em Obras.
+- Abertas sem servir: FCMS 2017 e 2020 (exposições coletivas e diretoria da AAPMS) citam só "Cleir", sem sobrenome; identificação não confirmada, não usadas. Busca WebSearch: só texto escolar sem fonte. Campo Grande News (busca) e A Crítica (API): nada.
