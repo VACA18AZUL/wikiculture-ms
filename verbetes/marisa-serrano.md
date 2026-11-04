@@ -21,13 +21,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Formou-se em Letras (1965-1968) e em Pedagogia (1978-1980) pela Faculdade Dom Aquino de Filosofia, Ciências e Letras, em Campo Grande. Foi professora e diretora de escolas municipais em Campo Grande e professora da Universidade Estadual de Mato Grosso, na mesma cidade. Entre 1980 e 1982 foi secretária de Educação de Mato Grosso do Sul.[^asl]
-
-Na Câmara dos Deputados e no Senado, a página da ASL registra sua participação nas comissões de educação e cultura e nas frentes parlamentares da cultura.[^asl] A imprensa a apresenta como ex-senadora.[^acritica2026b]
+Formou-se em Letras (1965-1968) e em Pedagogia (1978-1980) pela Faculdade Dom Aquino de Filosofia, Ciências e Letras, em Campo Grande. Na rede municipal de Campo Grande, deu aulas e dirigiu escolas; depois lecionou na Universidade Estadual de Mato Grosso, na mesma cidade.[^asl]
 
 ## Academia Sul-Mato-Grossense de Letras
 
-Tomou posse na ASL em 12 de dezembro de 2013, saudada pelo acadêmico [[francisco-leal-de-queiroz|F. Leal de Queiroz]]. A cadeira 30 pertenceu antes a [[helio-serejo|Hélio Serejo]].[^asl]
+A posse na ASL ocorreu em 12 de dezembro de 2013, com discurso de saudação do acadêmico [[francisco-leal-de-queiroz|F. Leal de Queiroz]]. A cadeira 30 pertenceu antes a [[helio-serejo|Hélio Serejo]].[^asl]
 
 Em outubro de 2026, a ASL elegeu a diretoria do triênio 2026-2029, presidida por [[pedro-chaves|Pedro Chaves]], com Marisa Serrano como vice-presidente. A posse da diretoria foi marcada para 30 de outubro de 2026, data dos 55 anos da Academia.[^acritica2026a][^acritica2026b]
 

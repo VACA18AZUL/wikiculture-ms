@@ -14,11 +14,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a tese de Miguel Angelo Corrêa sobre o audiovisual indígena de Mato Grosso do Sul, ela é egressa da Ação de Jovens Indígenas de Dourados (AJI).[^tese] Em entrevista ao Correio do Estado, o diretor do Split Studio, Guille Hiertz, disse que foi a AJI que a introduziu no audiovisual.[^ce2023]
+Segundo a tese de Miguel Angelo Corrêa sobre o audiovisual indígena de Mato Grosso do Sul, ela é egressa da [[acao-de-jovens-indigenas-de-dourados|Ação de Jovens Indígenas de Dourados]] (AJI).[^tese] Em entrevista ao Correio do Estado, o diretor do Split Studio, Guille Hiertz, disse que foi a AJI que a introduziu no audiovisual.[^ce2023]
 
 Em 2020, participou do projeto *Nhemongueta Kunhã Mbaraete*, do programa IMS Convida, do Instituto Moreira Salles: uma troca de 16 videocartas, feitas em dois meses durante a pandemia de covid-19, com a cineasta [[michele-perito-concianza|Michele Kaiowá]], a professora e cineasta Patrícia Ferreira Pará Yxapy e a artista Sophia Pinheiro.[^ims]
 
-É chefe de roteiro do jogo digital *Entre as Estrelas*, do Split Studio, de São Paulo. O jogo se passa no Pantanal e parte de histórias dos povos kadiwéu e kaiowá; acompanha a personagem Tai em busca da irmã mais nova, Ari, desaparecida após um ataque à comunidade indígena. A equipe de roteiro inclui [[dani-kaiowa|Dani Kaiowá]], como assistente.[^ce2023] Por indicação de Graciela, o estúdio anunciou a intenção de colaborar com a AJI na formação de jovens para o mercado audiovisual.[^ce2023]
+É chefe de roteiro do jogo digital *Entre as Estrelas*, do Split Studio, de São Paulo. O jogo se passa no Pantanal e parte de histórias dos povos kadiwéu e kaiowá; a história é a das irmãs Ari e Tai, e o jogador controla Tai, que procura a irmã mais nova, desaparecida após um ataque à comunidade indígena. A equipe de roteiro inclui [[dani-kaiowa|Dani Kaiowá]], como assistente.[^ce2023] Por indicação de Graciela, o estúdio anunciou a intenção de colaborar com a AJI na formação de jovens para o mercado audiovisual.[^ce2023]
 
 Segundo o Correio do Estado, a campanha de financiamento coletivo do jogo foi de 2 de janeiro a 27 de fevereiro de 2023, com previsão de lançamento em 2025.[^ce2023] A página da campanha seguinte, no Catarse, informa que a primeira campanha atingiu a meta, com quase 270 mil reais arrecadados, e financiou a versão Alpha do jogo.[^catarse]
 

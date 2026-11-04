@@ -21,9 +21,9 @@ A sede fica na Rua Ana Luiza de Souza. As fontes divergem quanto ao bairro: o ar
 
 ## Dança e música
 
-Em 2024, o *Campo Grande News* registrou aulas de danças regionais de Mato Grosso do Sul e do Paraguai na Colônia, dadas pela professora Grampolla Zaratin. O repertório incluía vaneira, chamamé, rancheira, polca paraguaia, katchaka e sarandeios, entre outras danças.[^cgn2024]
+Em 2024, segundo o *Campo Grande News*, a professora Grampolla Zaratin ensinava na Colônia danças sul-mato-grossenses e paraguaias. O repertório incluía vaneira, chamamé, rancheira, polca paraguaia, katchaka e sarandeios, entre outras danças.[^cgn2024]
 
-Para a 8ª edição do [[festival-cultural-do-chamame-ms|Festival Cultural do Chamamé, da Polca Paraguaia e da Guarânia]], de 17 a 20 de setembro de 2026, a programação divulgada previa a abertura no Teatro Aracy Balabanian e os outros três dias na sede da Colônia Paraguaia, com entrada franca, shows, feira gastronômica e de artesanato e a Enchamigada Chamamezeira.[^acritica2026b] O concurso de dança de salão do festival, para casais, foi marcado para 19 de setembro na Colônia, com a música "Campo Grande Chamamezeiro", de [[santhyago-rios|Santhyago Rios]], para todos os concorrentes.[^acritica2026a][^acritica2026b]
+Para a 8ª edição do [[festival-cultural-do-chamame-ms|Festival Cultural do Chamamé, da Polca Paraguaia e da Guarânia]], de 17 a 20 de setembro de 2026, a programação divulgada previa a abertura no Teatro Aracy Balabanian e os três dias seguintes na sede da Colônia, com entrada franca, shows, feira gastronômica e de artesanato e a Enchamigada Chamamezeira.[^acritica2026b] O concurso de dança de salão do festival, para casais, foi marcado para 19 de setembro na Colônia, e todos os casais dançariam a mesma música, "Campo Grande Chamamezeiro", de [[santhyago-rios|Santhyago Rios]].[^acritica2026a][^acritica2026b]
 
 [^freire2020]: Heitor Freire, ["Chipeiro!"](https://www.campograndenews.com.br/artigos/chipeiro), *Campo Grande News* (Artigos), 14 jun. 2020. Acesso em 4 nov. 2026.
 [^cgn2024]: Idaicy Solano, ["Na Capital da Diversidade, culinária, idioma e dança se conectam"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/na-capital-da-diversidade-culinaria-idioma-e-danca-se-conectam), *Campo Grande News*, 26 ago. 2024. Acesso em 4 nov. 2026.

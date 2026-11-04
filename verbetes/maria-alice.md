@@ -22,9 +22,13 @@ atualizado: 2026-11-04
 
 Segundo o *Campo Grande News*, a cantora vive em Campo Grande desde os anos 1980.[^cgn2023] Seu canal oficial no YouTube a apresenta como uma das cantoras que mais gravaram compositores sul-mato-grossenses: das 54 faixas dos seus discos solo, 41 são de autores do estado, entre eles [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]], Geraldo Roca, Guilherme Rondon e [[jerry-espindola|Jerry Espíndola]].[^yt]
 
+Em abril de 2018, a Fundação de Cultura de Mato Grosso do Sul anunciou o show *Sertões*, com entrada franca, em 28 de abril no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, dentro do Programa Mais Cultura da Proece/[[ufms|UFMS]]. O repertório reunia música nordestina, do interior paulista-mineiro-goiano e da fronteira sul-mato-grossense. Os arranjos e a direção musical eram do violonista Pedro Ortale, e a matéria informa que o show estreou em setembro de 2017 na capital.[^fcms2018]
+
 Em fevereiro de 2023, o *Campo Grande News* anunciou uma circulação gratuita do show *Maria Alice canta Paulo Simões* por Corumbá, Dourados e Bonito, em março, com palestras nas três cidades. O show já tinha passado por Campo Grande em 2022; na matéria, a cantora lembrava que Paulo Simões acabava de completar 70 anos. A produção era da Marruá Arte e Cultura, da produtora cultural Andréa Freire; a banda anunciada tinha Pedro Ortale e Gabriel de Andrade nos violões, Gabriel Basso no baixo, Gilson Espíndola nos vocais e João Pedro Ortale na bateria.[^cgn2023]
 
 Em outubro de 2025, o *Campo Grande News* noticiou o lançamento do quarto disco, *Maria Alice canta Geraldo Espíndola*, previsto para 30 de outubro nas plataformas digitais, com 14 canções do compositor em arranjos novos. A direção musical é de Pedro Ortale e Jerry Espíndola. O disco tem participações de Geraldo Espíndola, da rapper guarani-kaiowá [[anaranda|Anarandá MC]], que diz versos em português e guarani em "Kikio", e de Humberto Espíndola, num improviso em "Mixórdia". A produção é da Marruá Arte e Cultura.[^cgn2025]
+
+Em 22 de novembro de 2024, o show *Maria Alice canta Paulo Simões* foi anunciado para o [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande, com entrada franca e arrecadação voluntária de brinquedos para o projeto social Asas do Futuro. A produção era da Marruá Arte e Cultura e o apoio, da Fundação de Cultura.[^fcms2024]
 
 ## Discografia
 
@@ -36,3 +40,5 @@ Em outubro de 2025, o *Campo Grande News* noticiou o lançamento do quarto disco
 [^cgn2025]: Clayton Neves, ["Maria Alice faz homenagem e canta Geraldo Espíndola em novo álbum"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/maria-alice-faz-homenagem-e-canta-geraldo-espindola-em-novo-album), *Campo Grande News*, 26 out. 2025. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Com homenagem e palestra, Maria Alice leva show gratuito a 3 cidades"](https://www.campograndenews.com.br/lado-b/diversao/com-homenagem-e-palestra-maria-alice-leva-show-gratuito-a-3-cidades), *Campo Grande News*, 27 fev. 2023. Acesso em 4 nov. 2026.
 [^yt]: Maria Alice, [descrição do canal oficial no YouTube](https://www.youtube.com/@MariaAlicecantoraoficial/about). Acesso em 4 nov. 2026.
+[^fcms2018]: Daiana Schio, ["Maria Alice une os 'Brasis' no show 'Sertões' em Campo Grande"](https://www.fundacaodecultura.ms.gov.br/maria-alice-une-os-brasis-no-show-sertoes-em-campo-grande/), Fundação de Cultura de Mato Grosso do Sul, 26 abr 2018. Acesso em 4 nov. 2026.
+[^fcms2024]: Karina Medeiros de Lima, ["Show Maria Alice canta Paulo Simões será apresentado no Teatro Aracy Balabanian no dia 22 de novembro"](https://www.fundacaodecultura.ms.gov.br/show-maria-alice-canta-paulo-simoes-sera-apresentado-no-teatro-aracy-balabanian-no-dia-22-de-novembro/), Fundação de Cultura de Mato Grosso do Sul, 21 nov 2024. Acesso em 4 nov. 2026.

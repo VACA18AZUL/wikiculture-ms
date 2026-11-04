@@ -54,3 +54,22 @@ Entraram trajetória, circulação de 2023, disco de 2025 e discografia. Ficaram
 - Identidade de Humberto Espíndola (provavelmente o pintor, irmão de Geraldo) e de Andréa Freire (produtora da Marruá x verbete andrea-freire).
 - Lançamento efetivo do disco de 2025 só pela descrição do canal ('com o lançamento de seu quarto disco').
 - Wikipédia pt: sem artigo sobre o verbete.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fontes novas (outro veículo: portal da Fundação de Cultura de MS; busca do site por "Maria Alice" e "Marruá Arte e Cultura"):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2018 | Daiana Schio, "Maria Alice une os 'Brasis' no show 'Sertões' em Campo Grande", FCMS, 26 abr 2018 | https://www.fundacaodecultura.ms.gov.br/maria-alice-une-os-brasis-no-show-sertoes-em-campo-grande/ | sim |
+| fcms2024 | Karina Medeiros de Lima, "Show Maria Alice canta Paulo Simões será apresentado no Teatro Aracy Balabanian no dia 22 de novembro", FCMS, 21 nov 2024 | https://www.fundacaodecultura.ms.gov.br/show-maria-alice-canta-paulo-simoes-sera-apresentado-no-teatro-aracy-balabanian-no-dia-22-de-novembro/ | sim |
+| fcms2023 | "Com projeto aprovado no FIC, Show 'Maria Alice Canta Paulo Simões' inicia turnê em MS no dia 05 de Março", FCMS, 27 fev 2023 | https://www.fundacaodecultura.ms.gov.br/com-projeto-aprovado-no-fic-show-maria-alice-canta-paulo-simoes-inicia-turne-em-ms-no-dia-05-de-marco/ | não: texto igual ao do CGN de 27 fev 2023 (release da produção); só confirma que a circulação foi anunciada e aprovada no FIC |
+
+Lidas sem menção: matérias da FCMS sobre festival de Bonito, 40 anos do estado e cantoras no MIS (as duas últimas voltaram página-casca ao reabrir; a primeira, sem "Maria Alice" no texto).
+
+O que mudou:
+- Acrescentado: show *Sertões* (28 abr. 2018, Teatro Glauce Rocha, Mais Cultura Proece UFMS; arranjos Pedro Ortale; estreia em set. 2017) e show de 22 nov. 2024 no Teatro Aracy Balabanian. As duas matérias da FCMS são textos de divulgação (contato de imprensa: Marruá Arte e Cultura na de 2018). Servem para datar os shows, não são avaliação independente.
+- Não confirmado em segunda fonte: o álbum *Sertões* (2017) como disco (a FCMS fala do show); os discos de 1997 e 2022 e o de 2025.
+- Mantém-se a pendência: Maria Alice no Festival de Inverno de Bonito 2022 (Correio do Estado) sem identidade explícita.
+- Site da cantora (mariaalice.art.br), citado na matéria de 2018: proxy devolveu 502; não lido.
+- Verdict: fonte de outro veículo existe (FCMS), mas de origem em divulgação da produtora; situação reforcar.
