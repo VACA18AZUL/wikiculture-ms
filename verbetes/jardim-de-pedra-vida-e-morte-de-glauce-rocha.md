@@ -24,7 +24,7 @@ O roteiro partiu de pesquisa em livros, recortes de jornais e revistas, fotograf
 
 Antes da estreia, o curta recebeu os prêmios de melhor documentário e melhor direção na 9ª [[mostra-audiovisual-de-dourados|Mostra Audiovisual de Dourados]], em 2024.[^oestado2024][^cgn2024] A estreia foi em 21 de novembro de 2024 no Espaço Energia, em Campo Grande, junto com uma exposição sobre a atriz, com figurinos, recortes de jornal das décadas de 1960 e 1970, fotografias, livros e um painel cronológico. O acervo exposto foi cedido pelo MIS-MS, e a exposição foi anunciada até a segunda semana de janeiro de 2025.[^oestado2024][^cgn2024] No Espaço Energia, as sessões do filme foram marcadas para as terças e quintas-feiras.[^g12024]
 
-Em abril de 2025, o filme integrava as cinco obras do Projeto Olubayo, que exibiu cinema em comunidades quilombolas de Mato Grosso do Sul, com recursos da Lei Paulo Gustavo, nas comemorações dos 40 anos do Grupo TEZ (Trabalho Estudos Zumbi).[^oestado2025]
+Em abril de 2025, o filme integrava as cinco obras do Projeto Olubayo, que exibiu cinema em comunidades quilombolas de Mato Grosso do Sul, com recursos da Lei Paulo Gustavo, nas comemorações dos 40 anos do [[grupo-tez|Grupo TEZ]] (Trabalho Estudos Zumbi).[^oestado2025]
 
 Em 25 de setembro de 2026, foi exibido no [[autocine-ufms|Autocine da UFMS]], na programação do Festival Mais Cultura, em sessão dupla com *[[higa-ke-olho-por-olho|Higa Ke – Olho por Olho]]*.[^cgn2026]
 
