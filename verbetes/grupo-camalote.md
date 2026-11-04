@@ -21,6 +21,8 @@ A autora da dissertação, que dançou no grupo quando cursava Artes Cênicas na
 
 Em 2026, o *Campo Grande News* atribuiu a criação do grupo a professoras ligadas à Comissão Sul-Mato-Grossense de Folclore, entre elas Cristiane Aparecida de Luca Lima, Maria Ivonete Simocelli e Lucy Carlos de Andrade. Segundo a reportagem, o objetivo era divulgar as danças tradicionais do estado, pouco ensinadas nas escolas, e o trabalho da comissão se apoia nas pesquisas de Marlei Sigrist.[^cgn2026]
 
+A mesma reportagem diz que a comissão existe oficialmente desde 2009, mas que o trabalho começou no início dos anos 2000. Ela teria catalogado mais de 38 danças tradicionais, organizadas por regiões culturais, e reúne um acervo de cerca de 4 mil itens, entre livros, revistas, figurinos, instrumentos como a viola de cocho e objetos antigos. O material não tem sede própria e as despesas são pagas pelas professoras. A reportagem dá tempos diferentes para a existência do trabalho: o texto fala em quase 30 anos, e a legenda de uma foto data o grupo de 2001.[^cgn2026]
+
 As fontes lidas não informam a cidade-sede nem o ano de fundação do grupo.[^costa2023][^cgn2026]
 
 [^costa2023]: Suzane dos Santos Fernandes Borges Rodrigues da Costa, *Dançando a tradição: uma proposta pedagógica para a dança regional sul-mato-grossense*, dissertação (Mestrado Profissional em Artes, PROF-ARTES), Universidade Federal de Mato Grosso do Sul, Campo Grande, 2023, p. 10-11. [PDF](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/11965). Acesso em 29 out. 2026.

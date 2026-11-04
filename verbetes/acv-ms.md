@@ -14,7 +14,7 @@ A **Associação de Cinema e Vídeo de Mato Grosso do Sul (ACV-MS)** é uma enti
 
 ## Trajetória
 
-Em janeiro de 2011, presidida pelo cineasta [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]], a ACV-MS organizou o Encontro do Centro-Oeste da Associação Brasileira de Documentaristas e Curta-Metragistas, com um seminário sobre film commission, anunciado para 14 a 16 de janeiro no auditório do Museu de Arqueologia da UFMS, no Memorial da Cultura, em Campo Grande. O encontro teve apoio da Fundação de Cultura de MS, da Fundação de Turismo de MS e da Fundação Municipal de Cultura.[^ce2011]
+Em janeiro de 2011, presidida por [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]], a ACV-MS era a organizadora do Encontro do Centro-Oeste da Associação Brasileira de Documentaristas e Curta-Metragistas, com um seminário sobre film commission, anunciado para 14 a 16 de janeiro no auditório do Museu de Arqueologia da UFMS, no Memorial da Cultura, em Campo Grande. O encontro contava com apoio da Fundação de Cultura de MS, da Fundação de Turismo de MS e da Fundação Municipal de Cultura.[^ce2011]
 
 Em fevereiro de 2014, o presidente da associação era Mendes Junior, ouvido pelo *Campo Grande News* numa reportagem sobre a produção de cinema no estado; ele avaliou 2013 como um ano promissor para o audiovisual local.[^cgn2014a] No mês seguinte, a ACV-MS aparecia como apoiadora do [[memocine|Memocine]], evento sobre o cinema regional anunciado para 2 a 4 de abril de 2014 na UFMS e no [[mis-ms|Museu da Imagem e do Som]], com homenagem a [[david-cardoso|David Cardoso]].[^cgn2014b]
 

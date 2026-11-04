@@ -21,10 +21,13 @@ Em novembro de 2023, a participação da performer e hostess [[afrodite-fetake|A
 
 Em março de 2026, A Crítica de Campo Grande noticiou a seleção do espetáculo sul-mato-grossense *Peça Única*, da House of Hands Up, para a 28ª edição do Palco Giratório, circuito do Sesc que naquele ano levaria 16 companhias a 113 cidades. A matéria apresenta o coreógrafo [[roger-pacheco|Roger Pacheco]] como mother da casa. Ela usa o nome House of Hands Up, sem "MS", e trata o espetáculo como produção sul-mato-grossense; a identificação com a casa criada em 2017 se apoia nesse vínculo com o estado.[^acritica2026]
 
+Em setembro de 2026, a programação do Palco Giratório no Pará, publicada no jornal *O Liberal* em seção de conteúdo de marca, sob responsabilidade da Fecomércio, anunciava *Peça Única*, da House of Hands Up (MS), para 10 de setembro, às 19h, no Teatro Universitário Cláudio Barradas, em Belém, com classificação de 12 anos. É programação anunciada; a fonte não relata a apresentação.[^oliberal2026]
+
 ## Espetáculos
 
 - *Peça Única* — espetáculo da House of Hands Up, selecionado para o Palco Giratório do Sesc em 2026.[^acritica2026]
 
 [^cgn2017]: Lucas Arruda, ["Dança do empoderamento e sucesso com Madonna, aula ensina o Vogue"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/danca-do-empoderamento-e-sucesso-com-madonna-aula-ensina-o-vogue), *Campo Grande News*, 13 out. 2017. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Espetáculo convida público corumbaense para a pista dança"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-convida-publico-corumbaense-para-a-pista-danca), *Campo Grande News*, 15 nov. 2023. Acesso em 4 nov. 2026.
+[^oliberal2026]: ["Palco Giratório ocupa Belém e Castanhal com mais de um mês de espetáculos gratuitos"](https://www.oliberal.com/estudio/palco-giratorio-ocupa-belem-e-castanhal-com-mais-de-um-mes-de-espetaculos-gratuitos-1.1163541), *O Liberal* (Estúdio), 2 set. 2026. Acesso em 4 nov. 2026.
 [^acritica2026]: Iury de Oliveira, ["Espetáculo de MS é selecionado para circuito nacional do Palco Giratório"](https://acritica.net/cultura/peca-unica-ms-selecionada-palco-giratorio-sesc-2026/), *A Crítica de Campo Grande*, 31 mar. 2026. Acesso em 4 nov. 2026.

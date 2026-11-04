@@ -19,6 +19,8 @@ A estreia foi com a peça *O Jumento e o Capataz*, de Antônio Rodrigues de Oliv
 
 Em relato de 2014 citado por Maiara Laís Pinto, o professor Wilson Biasotto, que dirigia o TUD, conta que em 1978, durante a ditadura militar, foi demitido da universidade. O grupo, que ensaiava no anfiteatro do Centro Universitário de Dourados (Ceud), ficou sem espaço e passou a ensaiar e a se apresentar no Clube Social de Dourados, que tinha palco e camarim.[^pinto]
 
+O Centro de Documentação Regional da UFGD guarda a coleção de Wilson Valentim Biasotto, cujo inventário, ainda em fase de descrição, lista cartazes sobre o TUD entre documentos diversos da UFMS de 1974 a 2005.[^ufgdcdr]
+
 ## Espetáculos
 
 - *O Jumento e o Capataz* (1974) — texto de Antônio Rodrigues de Oliveira.[^moser]
@@ -29,4 +31,5 @@ Em relato de 2014 citado por Maiara Laís Pinto, o professor Wilson Biasotto, qu
 A fonte cita *Piquinique no Front*, *Reflexo* e *Os Vendedores* como montagens de 1974, 1975 e 1976, "respectivamente". A estreia de 1974 é descrita à parte, com *O Jumento e o Capataz*; a fonte não deixa claro se *Piquinique no Front* foi a mesma montagem de 1974.[^moser]
 
 [^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), ABRACE, 2018 (PDF), pp. 5-6. O artigo relata, entre aspas, o ensaio "Teatro", de Maria da Glória Sá Rosa (1992). Acesso em 29 out. 2026.
+[^ufgdcdr]: Universidade Federal da Grande Dourados, Centro de Documentação Regional, ["Coleção Wilson Valentim Biasotto"](https://files.ufgd.edu.br/arquivos/arquivos/78/CDR/Cole%C3%A7%C3%A3o%20Wilson%20Valentim%20Biasotto.pdf), inventário (PDF), envelope 3 da coleção. Acesso em 4 nov. 2026.
 [^pinto]: Maiara Laís Pinto, ["O patrimônio histórico-cultural de Dourados em tempos de transformação social e urbana: uma análise através do movimento de preservação do clube social de Dourados (1984-1986)"](https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548953098_59cd1dc4e2d1b63952ffd250d008ee5e.pdf), anais de simpósio da ANPUH, p. 7. Acesso em 4 nov. 2026.

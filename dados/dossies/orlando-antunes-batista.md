@@ -13,7 +13,7 @@
 | id da nota | Referência completa | URL | Tipo | Entra? |
 |---|---|---|---|---|
 | asl | "Orlando Antunes Batista", Academia Sul-Mato-Grossense de Letras, página do acadêmico, cadeira 12 | https://acletrasms.org.br/portfolio-item/orlando-antunes-batista/ | institucional | sim |
-| ol | Open Library, registros catalográficos das obras de Orlando Antunes Batista (dados MARC da Library of Congress, Columbia e Harvard) | https://openlibrary.org/authors/OL925436A | catálogo | sim (títulos, editora, ano) |
+| ol | Open Library, registros catalográficos das obras de Orlando Antunes Batista (dados MARC da Library of Congress, Columbia e Harvard) | https://openlibrary.org/authors/OL925436A/Orlando_Antunes_Batista | catálogo | sim (títulos, editora, ano) |
 
 Fontes descartadas e o motivo:
 

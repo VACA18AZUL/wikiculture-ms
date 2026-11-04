@@ -13,11 +13,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Chafica*** é um espetáculo de dança da [[cia-do-mato|Cia do Mato]] que homenageia [[sarah-abussafi-figueiro|Sarah Abussafi Figueiró]], professora de artes e produtora cultural de Campo Grande.[^cgn2023]
+***Chafica*** é um espetáculo de dança da [[cia-do-mato|Cia do Mato]] que homenageia [[sarah-abussafi-figueiro|Sarah Abussafi Figueiró]], professora de artes e produtora cultural de Campo Grande.[^cgn2023][^ce2026]
 
 ## Criação
 
-O título é o nome da mãe de Sarah, Chafica Fatuche Abussafi, imigrante libanesa que deixou Zahlé, no Líbano, aos 14 anos. Segundo a matéria de divulgação, ela participou da Colônia Libanesa e da fundação do Clube Libanês de Campo Grande.[^cgn2023]
+O título é o nome da mãe de Sarah, Chafica Fatuche Abussafi, imigrante libanesa que deixou Zahlé, no Líbano, aos 14 anos. Segundo a matéria de divulgação, ela participou da Colônia Libanesa e da fundação do Clube Libanês.[^cgn2023]
 
 A obra presta homenagem à ancestralidade libanesa e às mulheres que contribuíram para a cultura de Mato Grosso do Sul.[^cgn2023]
 
