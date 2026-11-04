@@ -3,7 +3,7 @@ titulo: Matu Miranda
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Cantor, violonista e compositor de MPB nascido em Campo Grande. Foi semifinalista do The Voice Brasil e lançou o disco Matutando; abriu o palco Américas do Festival América do Sul em 2025.
+resumo: Cantor, violonista e compositor de MPB nascido em Campo Grande. Foi semifinalista do The Voice Brasil, gravou com Lenine o single Renova e abriu o palco Américas do Festival América do Sul em 2025.
 ficha:
   Atividade: "Cantor, violonista e compositor"
 status: rascunho
@@ -22,7 +22,7 @@ Foi semifinalista do programa *The Voice Brasil*. Segundo o *Correio do Estado*,
 
 Em 20 de março de 2024, fez o show de abertura da 16ª Semana do Artesão, na Esplanada Ferroviária, em Campo Grande.[^fcms2024b] Em 15 de maio de 2025, abriu o palco Américas do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, em duo com o acordeonista Bebê Kramer, com canções próprias e de outros compositores.[^fcms2025]
 
-Em 29 de agosto de 2024, lançou o single "Renova", gravado com Lenine e produzido por ele com Antonio Fischer-Band, último antes do disco de estreia, *Matutando*, anunciado para 20 de setembro daquele ano.[^cgn2024] Em 2026, passou cerca de 40 dias na China, gravando um programa de televisão com artistas de outros 11 países.[^cgn2026]
+Em 29 de agosto de 2024, lançou o single "Renova", gravado com Lenine e produzido por ele com Antonio Fischer-Band, último antes do disco de estreia, *Matutando*, anunciado para 20 de setembro daquele ano.[^cgn2024] Em setembro de 2026, o *Campo Grande News* relatou que ele tinha passado cerca de 40 dias na China, gravando um programa de televisão com artistas de outros 11 países.[^cgn2026]
 
 Cita o poeta [[manoel-de-barros|Manoel de Barros]] como uma de suas inspirações.[^ce2024]
 

@@ -58,3 +58,9 @@ Lidas e não usadas: FCMS 2019 (Festival de Inverno de Bonito celebra diversidad
 
 - Entrou: origem, carreira, The Voice, exterior, Estanco/Matutando, FIB 2019, Som da Concha 2022, Semana do Artesão 2024, FAS 2025.
 - Fora: idade, nomes dos avós (vida familiar), falas.
+
+## Acréscimo (Campo Grande News)
+
+- cgn2024: Thailla Torres, "Matu Miranda lança música com Lenine e sonho vira realidade", CGN, 30 ago. 2024 — single "Renova" com Lenine, lançado 29 ago. 2024, produção de Matu e Antonio Fischer-Band; último single antes de "Matutando", disco de estreia anunciado para 20 set. 2024. Entrou.
+- cgn2026: Amanda Ferreira, "Matu vive 40 dias na China entre TV, música e artistas de 11 países", CGN, 29 set. 2026 — cerca de 40 dias na China gravando programa de TV com artistas de 11 outras nacionalidades; projeto "Apuama". Entrou (sem o nome do programa, não informado).
+- Lançamento completo de Matutando em 20 set. 2024: só anunciado.
