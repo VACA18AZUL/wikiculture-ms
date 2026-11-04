@@ -9,7 +9,7 @@ ficha:
   Fundador: João Rocha
   Sede: Sucata Cultural, Dourados
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Cia. Theastai de Artes Cênicas** é uma companhia de Dourados, criada em 2010 pelo artista-docente [[joao-rocha|João Rocha]], formado em licenciatura pela UFGD.[^oliveira]
@@ -35,7 +35,7 @@ Em maio de 2024, a companhia apresentou *O Grande Salto* no festival de palhaça
 
 A dissertação descreve a companhia como de teatro, dança e circo;[^oliveira] a programação de eventos a associa tanto ao teatro quanto à palhaçaria.[^pant24][^fit25]
 
-[^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, cap. 3 (p. 80-96). Acesso em 29 out. 2026.
-[^folheto]: Fundação de Cultura de Mato Grosso do Sul, [*Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017*](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto, 2017. Acesso em 29 out. 2026.
-[^pant24]: ["Com 13 espetáculos, cidade será tomada por Festival de Palhaços"](https://www.campograndenews.com.br/lado-b/diversao/com-13-espetaculos-cidade-sera-tomada-por-festival-de-palhacos), *Campo Grande News*, 29 mai. 2024. Acesso em 29 out. 2026.
-[^fit25]: ["Com espetáculos nacionais, Festival de Teatro divulga programação"](https://www.campograndenews.com.br/lado-b/diversao/com-espetaculos-nacionais-festival-de-teatro-divulga-programacao), *Campo Grande News*, 15 set. 2025. Acesso em 29 out. 2026.
+[^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, cap. 3 (p. 80-96). Acesso em 4 nov. 2026.
+[^folheto]: Fundação de Cultura de Mato Grosso do Sul, [*Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017*](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto, 2017. Acesso em 4 nov. 2026.
+[^pant24]: ["Com 13 espetáculos, cidade será tomada por Festival de Palhaços"](https://www.campograndenews.com.br/lado-b/diversao/com-13-espetaculos-cidade-sera-tomada-por-festival-de-palhacos), *Campo Grande News*, 29 mai. 2024. Acesso em 4 nov. 2026.
+[^fit25]: ["Com espetáculos nacionais, Festival de Teatro divulga programação"](https://www.campograndenews.com.br/lado-b/diversao/com-espetaculos-nacionais-festival-de-teatro-divulga-programacao), *Campo Grande News*, 15 set. 2025. Acesso em 4 nov. 2026.
