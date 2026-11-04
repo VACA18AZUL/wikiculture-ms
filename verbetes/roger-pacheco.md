@@ -25,7 +25,7 @@ Em março de 2026, *A Crítica de Campo Grande* noticiou a seleção de *Peça �
 
 - *Peça Única* — coreografia; House of Hands Up. Selecionado para o Palco Giratório do Sesc em 2026.[^acritica2026]
 
-[^cgn2020]: Danielle Valentim, ["Grupo resgata o vogue, estilo símbolo de resistência e empoderamento LGBTQI"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grupo-resgata-o-vogue-estilo-simbolo-de-resistencia-e-empoderamento-lgbtqi), *Campo Grande News*, 4 jan. 2020. Acesso em 4 nov. 2026.
+[^cgn2020]: Danielle Valentim, ["Grupo resgata o Vogue, estilo símbolo de resistência e empoderamento LGBTQI+"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grupo-resgata-o-vogue-estilo-simbolo-de-resistencia-e-empoderamento-lgbtqi), *Campo Grande News*, 4 jan. 2020. Acesso em 4 nov. 2026.
 [^cgn2021]: Thailla Torres, ["Com bailarinos da Pabllo Vittar e Luísa Sonza, isolados terão aula"](https://www.campograndenews.com.br/lado-b/diversao/com-bailarinos-da-pabllo-vittar-e-luisa-sonza-isolados-terao-aula), *Campo Grande News*, 27 jan. 2021. Acesso em 4 nov. 2026.
 [^acritica2026]: Iury de Oliveira, ["Espetáculo de MS é selecionado para circuito nacional do Palco Giratório"](https://acritica.net/cultura/peca-unica-ms-selecionada-palco-giratorio-sesc-2026/), *A Crítica de Campo Grande*, 31 mar. 2026. Acesso em 4 nov. 2026.
 [^imirante2026]: ["São Luís recebe espetáculos de teatro e dança pelo Festival Palco Giratório"](https://m.imirante.com/entretenimento/sao-luis/2026/09/25/sao-luis-recebe-espetaculos-de-teatro-e-danca-pelo-festival-palco-giratorio), *Imirante*, 25 set. 2026. Acesso em 4 nov. 2026.

@@ -21,7 +21,7 @@ Segundo reportagem do *Correio do Estado* de 2010, participou do [[cineclube-de-
 
 *Gente pantaneira* aparece como referência em estudos e livros sobre a vida do peão do Pantanal, como o artigo "O homem pantaneiro sul-mato-grossense: sua vida e sua história", da revista *Multitemas*, da UCDB, e o livro fotográfico *Vaqueiro das águas* (2022), de Valdemir Cunha e Xavier Bartaburu, que cita a definição do autor sobre o que o peão pantaneiro deseja.[^multitemas][^origem2022]
 
-Em 8 de março de 2022, o médico [[sergio-fernandes-martins|Sérgio Fernandes Martins]] foi eleito para a cadeira nº 32 da academia, na sucessão de Abílio Leite de Barros.[^cgn2022]
+Em 8 de março de 2022, o desembargador [[sergio-fernandes-martins|Sérgio Fernandes Martins]] foi eleito para a cadeira nº 32 da academia, na sucessão de Abílio Leite de Barros.[^cgn2022]
 
 ## Obras
 
