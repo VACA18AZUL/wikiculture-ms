@@ -30,3 +30,4 @@ Escrito em guarani e em português, registra a história, os significados e a or
 - *Feminicídio* (2021) — videoclipe, gravado em Dourados e em aldeia da região, sobre violência contra a mulher; foi o primeiro clipe da artista.[^cenarium2021]
 
 [^cgn2024]: Thailla Torres, ["Anarandà lança livro que celebra o grafismo indígena e raízes culturais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/anaranda-lanca-livro-que-celebra-o-grafismo-indigena-e-raizes-culturais), *Campo Grande News*, 27 nov. 2024. Acesso em 29 out. 2026.
+[^cenarium2021]: Bruno Sena e Bruno Pacheco, ["'I want to spread the reality of my people to the world through music,' says first indigenous Guarani rapper"](https://agenciacenarium.com.br/i-want-to-spread-the-reality-of-my-people-to-the-world-through-music-says-first-indigenous-guarani-rapper/?lang=en), *Agência Cenarium*, 26 jul. 2021. Acesso em 4 nov. 2026.
