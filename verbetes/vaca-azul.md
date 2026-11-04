@@ -10,9 +10,9 @@ ficha:
 links:
   - tipo: youtube
     url: https://www.youtube.com/@vaca18azul
-    acesso: 2026-10-29
+    acesso: 2026-11-04
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Vaca Azul** é uma produtora de cinema e vídeo de Campo Grande. Segundo a descrição do próprio canal no YouTube, é uma produtora audiovisual e artística atuante em Mato Grosso do Sul desde 2007.[^canal]
@@ -20,6 +20,8 @@ A **Vaca Azul** é uma produtora de cinema e vídeo de Campo Grande. Segundo a d
 ## Atuação
 
 A descrição do canal diz que a produtora trabalha com grupos e instituições ligados ao teatro, à dança e à música. Produz vídeos e fotografias institucionais e publicitárias, festivais, videoclipes, filmes de ficção, documentários e design gráfico.[^canal]
+
+Em 2017, o folheto da programação da [[mostra-boca-de-cena|Boca de Cena]], Mostra Sul-mato-grossense de Teatro e Circo, creditou a captação de imagens da mostra a Helton Pérez/Vaca Azul.[^boca2017]
 
 ## Acervo no canal
 
@@ -35,10 +37,11 @@ Uma playlist de filmes, documentários, curtas e videodanças reúne 24 vídeos 
 - *Estudos de Superfície* (2013) — videodança do Ginga, segundo o título do vídeo.[^v4] [Assistir no YouTube](https://www.youtube.com/watch?v=-hgXkjk4C_U)
 - *Plataforme-se: os limites elásticos* (2017) — videodança, segundo o título do vídeo.[^v5] [Assistir no YouTube](https://www.youtube.com/watch?v=SNofVYQMVTU)
 
-[^canal]: Vaca Azul, ["Sobre"](https://www.youtube.com/@vaca18azul), canal *Vaca Azul* no YouTube. Acesso em 29 out. 2026.
-[^pl]: Vaca Azul, ["Filmes | Documentários | Curta-metragens | Videodanças"](https://www.youtube.com/playlist?list=PLkNLlECYU3UlvSjycx3HvbJj5JaFmQfwi), playlist do canal *Vaca Azul* no YouTube. Acesso em 29 out. 2026.
-[^v1]: Vaca Azul, ["Documentário – À procura de Marçal – 2016 – Direção Natalia Moraes e Carol Caco"](https://www.youtube.com/watch?v=YLHEAs1XNt0), canal *Vaca Azul* no YouTube. Acesso em 29 out. 2026.
-[^v2]: Vaca Azul, ["Curta – Promidal – Direção José Roberto Bastos – 2015"](https://www.youtube.com/watch?v=uwMAYGKqCjc), canal *Vaca Azul* no YouTube. Acesso em 29 out. 2026.
-[^v3]: Vaca Azul, ["Cia Dançurbana – De Passagem – Videodanças – 2015"](https://www.youtube.com/watch?v=s32-QlEr5N4), canal *Vaca Azul* no YouTube. Acesso em 29 out. 2026.
-[^v4]: Vaca Azul, ["Ginga – Videodança – Estudos de Superfície – 2013"](https://www.youtube.com/watch?v=-hgXkjk4C_U), canal *Vaca Azul* no YouTube. Acesso em 29 out. 2026.
-[^v5]: Vaca Azul, ["Vídeodança – Plataforme-se – Os limites elásticos – 2017"](https://www.youtube.com/watch?v=SNofVYQMVTU), canal *Vaca Azul* no YouTube. Acesso em 29 out. 2026.
+[^canal]: Vaca Azul, ["Sobre"](https://www.youtube.com/@vaca18azul), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
+[^pl]: Vaca Azul, ["Filmes | Documentários | Curta-metragens | Videodanças"](https://www.youtube.com/playlist?list=PLkNLlECYU3UlvSjycx3HvbJj5JaFmQfwi), playlist do canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
+[^v1]: Vaca Azul, ["Documentário – À procura de Marçal – 2016 – Direção Natalia Moraes e Carol Caco"](https://www.youtube.com/watch?v=YLHEAs1XNt0), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
+[^v2]: Vaca Azul, ["Curta – Promidal – Direção José Roberto Bastos – 2015"](https://www.youtube.com/watch?v=uwMAYGKqCjc), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
+[^v3]: Vaca Azul, ["Cia Dançurbana – De Passagem – Videodanças – 2015"](https://www.youtube.com/watch?v=s32-QlEr5N4), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
+[^v4]: Vaca Azul, ["Ginga – Videodança – Estudos de Superfície – 2013"](https://www.youtube.com/watch?v=-hgXkjk4C_U), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
+[^v5]: Vaca Azul, ["Vídeodança – Plataforme-se – Os limites elásticos – 2017"](https://www.youtube.com/watch?v=SNofVYQMVTU), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
+[^boca2017]: ["Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017"](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto da programação (PDF no site da UFMS), p. 10 (créditos). Acesso em 4 nov. 2026.
