@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em meados dos anos 1980, integrou o grupo [[poranguete|Poranguetê]], com [[lenilde-ramos|Lenilde Ramos]], Pedro Ortale, Geraldo Ribeiro e o baterista Cacá, que fazia o chamado "rock de botina".[^nupem] Um "Toninho Porto" está entre os artistas de Mato Grosso do Sul que se apresentaram na primeira edição do [[pantanal-alerta-brasil|Pantanal Alerta Brasil]], no Museu da Imagem e do Som de São Paulo, em 19 e 20 de dezembro de 1987.[^nupem]
+Em meados dos anos 1980, integrou o grupo [[poranguete|Poranguetê]], com [[lenilde-ramos|Lenilde Ramos]], Pedro Ortale, Geraldo Ribeiro e o baterista Cacá, que fazia o chamado "rock de botina".[^nupem] Um "Toninho Porto" está entre os artistas de Mato Grosso do Sul que se apresentaram na primeira edição do [[pantanal-alerta-brasil-lp|Pantanal Alerta Brasil]], no Museu da Imagem e do Som de São Paulo, em 19 e 20 de dezembro de 1987.[^nupem]
 
 Em 1988, apareceu no programa *Som Brasil*, da Rede Globo, ao lado de [[guilherme-rondon|Guilherme Rondon]], [[celito-espindola|Celito Espíndola]] e [[joao-figar|João Fígar]], tocando violão de doze cordas na canção "Paiaguás".[^caetano] A parceria com [[paulo-simoes|Paulo Simões]] resultou no disco *Rumo a Dois Mil e Uns* (2002), de Simões.[^caetano]
 

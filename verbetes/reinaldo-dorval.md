@@ -23,12 +23,12 @@ Em julho de 2013, o Campo Grande News registrou a parceria com Couto no longa *H
 
 Funções de Dorval nos seis filmes estudados por Diehl, segundo a ficha da dissertação:[^diehl]
 
-- *Vingança maldita* (1978) — direção; produção dividida com Couto, L. Martins e J. Benedito. A ficha grafa o título como *Vinança maldita*.[^diehl]
-- *A marca do destino* (1979) — produção.[^diehl]
-- *Os covardes devem morrer* (1985) — direção, roteiro e atuação.[^diehl]
-- *Fatalidade* (sem data) — produção.[^diehl]
-- *Imprevisto ao acaso* (sem data) — direção.[^diehl]
-- *Liberdade para os inocentes* (sem data) — direção e atuação.[^diehl]
+- [[vinganca-maldita|*Vingança maldita*]] (1978) — direção; produção dividida com Couto, L. Martins e J. Benedito. A ficha grafa o título como *Vinança maldita*.[^diehl]
+- [[a-marca-do-destino|*A marca do destino*]] (1979) — produção.[^diehl]
+- [[os-covardes-devem-morrer|*Os covardes devem morrer*]] (1985) — direção, roteiro e atuação.[^diehl]
+- [[fatalidade-curta|*Fatalidade*]] (sem data) — produção.[^diehl]
+- [[imprevisto-ao-acaso|*Imprevisto ao acaso*]] (sem data) — direção.[^diehl]
+- [[liberdade-para-os-inocentes|*Liberdade para os inocentes*]] (sem data) — direção e atuação.[^diehl]
 - *Honra* (produção iniciada em 2009; em busca de exibição em julho de 2013) — longa-metragem dirigido por [[alexandre-couto|Alexandre Couto]]; roteiro, atuação e assistência de direção. O elenco também tinha Abboud Lahdo e Rubens Ramos.[^cgn2013]
 
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009. Acesso em 29 out. 2026.

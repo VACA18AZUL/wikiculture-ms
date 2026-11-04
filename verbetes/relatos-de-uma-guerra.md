@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Exibições e prêmios
 
-O filme foi selecionado para a mostra competitiva Curta MS da primeira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], realizada de 28 de outubro a 2 de novembro de 2024. A lista de selecionados o apresenta como filme de Dourados.[^lista][^ce2024]
+O filme foi selecionado para a mostra Curta MS da primeira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], realizada de 28 de outubro a 2 de novembro de 2024. A lista de selecionados o apresenta como filme de Dourados.[^lista][^ce2024]
 
 Na premiação, o júri universitário e o voto popular o escolheram como Melhor Filme Sul-Mato-Grossense. O júri técnico deu o prêmio dessa categoria a [[ninguem-lhe-estendera-a-mao|*Ninguém lhe Estenderá a Mão*]].[^vencedores]
 

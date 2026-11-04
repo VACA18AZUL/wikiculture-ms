@@ -27,12 +27,12 @@ Em julho de 2013, o *Campo Grande News* registrou que Couto dirigia o longa *Hon
 
 Os seis títulos estudados por Diehl, com as funções de Couto segundo a ficha da dissertação:[^diehl]
 
-- *Vingança maldita* (1978) — 31 minutos; produção, com Dorval e outros. A ficha da dissertação grafa o título como *Vinança maldita*. Produtoras Colorcouto e Aljor Filmes.[^diehl]
-- *A marca do destino* (1979) — 27 minutos; direção e roteiro. Produtoras Colorcouto e Aljor Filmes.[^diehl]
-- *Os covardes devem morrer* (1985) — 105 minutos; fotografia, produção, trilha sonora, edição e atuação. Produtora Vídeo Eventos.[^diehl]
-- *Fatalidade* (sem data) — 5 minutos; direção. Produtora Vídeo Eventos.[^diehl]
-- *Imprevisto ao acaso* (sem data) — 7 minutos; produção e montagem. Produtora Aljor Filmes.[^diehl]
-- *Liberdade para os inocentes* (sem data) — 93 minutos; câmera e edição. Produtora Vídeo Eventos.[^diehl]
+- [[vinganca-maldita|*Vingança maldita*]] (1978) — 31 minutos; produção, com Dorval e outros. A ficha da dissertação grafa o título como *Vinança maldita*. Produtoras Colorcouto e Aljor Filmes.[^diehl]
+- [[a-marca-do-destino|*A marca do destino*]] (1979) — 27 minutos; direção e roteiro. Produtoras Colorcouto e Aljor Filmes.[^diehl]
+- [[os-covardes-devem-morrer|*Os covardes devem morrer*]] (1985) — 105 minutos; fotografia, produção, trilha sonora, edição e atuação. Produtora Vídeo Eventos.[^diehl]
+- [[fatalidade-curta|*Fatalidade*]] (sem data) — 5 minutos; direção. Produtora Vídeo Eventos.[^diehl]
+- [[imprevisto-ao-acaso|*Imprevisto ao acaso*]] (sem data) — 7 minutos; produção e montagem. Produtora Aljor Filmes.[^diehl]
+- [[liberdade-para-os-inocentes|*Liberdade para os inocentes*]] (sem data) — 93 minutos; câmera e edição. Produtora Vídeo Eventos.[^diehl]
 
 Depois do ciclo estudado por Diehl, segundo o *Campo Grande News*:[^cgn-honra]
 

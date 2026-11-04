@@ -7,7 +7,7 @@ ficha:
   Fundação: Meados dos anos 1980
   Integrantes: Lenilde Ramos, Pedro Ortale, Geraldo Ribeiro, Antônio Porto e Cacá (bateria)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Poranguetê** foi um grupo musical sul-mato-grossense que surgiu em meados dos anos 1980.[^nupem]
@@ -18,9 +18,12 @@ Faziam parte do grupo [[lenilde-ramos|Lenilde Ramos]], Pedro Ortale, Geraldo Rib
 
 A dissertação de Gilmar Lima Caetano situa o grupo no tempo do chamado rock rural brasileiro, que misturava rock e música sertaneja de raiz. O Poranguetê teria sido uma referência mais roqueira para a música do estado.[^ufgd]
 
+Em dissertação de 2021 sobre a história do rock de Campo Grande, Alberto Carlos da Silva cita o grupo como outra referência para a polca-rock, segundo Rodrigo Teixeira, e lê o nome "rock de botina" como sinal da vontade de apresentar um novo modo de fazer música. O texto observa que o grupo continuou ligado à "velha guarda" da música do estado, o que associa à forte ligação de Lenilde Ramos, integrante do Poranguetê, com a geração Prata da Casa. Silva apoia essa passagem em Caetano (2012) e em Álvaro Neder (2014), de modo que não é apuração independente da de Caetano.[^silva]
+
 ## Relação com a polca-rock
 
 O músico e jornalista [[rodrigo-teixeira|Rodrigo Teixeira]] lembra o Poranguetê como antecedente da polca-rock, movimento ligado a [[jerry-espindola|Jerry Espíndola]] e Caio Ignácio, que buscava uma linguagem mais roqueira para a música do estado.[^ufgd]
 
 [^nupem]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR, Campo Mourão), v. 4, n. 6, jan./jul. 2012. Acesso em 29 out. 2026.
 [^ufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2012. Acesso em 29 out. 2026.
+[^silva]: Alberto Carlos da Silva, [*A história social do rock campo-grandense: da ascensão ao underground*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/9346), dissertação de mestrado, Programa de Pós-Graduação em Antropologia Social, Universidade Federal de Mato Grosso do Sul, 2021, capítulo sobre a polca-rock. Acesso em 4 nov. 2026.
