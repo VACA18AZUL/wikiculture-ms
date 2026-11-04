@@ -18,7 +18,7 @@ Caetano registra que, em 1972, a imprensa divulgou como vencedora do 4º Festiva
 
 ## FESSUL
 
-Em 1979, o grupo venceu o 1º [[fessul|FESSUL]], festival promovido pela TV Morena, com a canção "Kananciuê", que trata de tema indígena. Segundo o organizador Onésimo Filho, citado por Caetano, o júri, em grande parte de fora do estado, ficou entusiasmado com o estilo do grupo, mas Caetano escreve que a canção teve pouco apoio popular e que o público preferiu "Cartas na Manga", de Matusalém Vieira do Carmo, interpretada por Sidney Rezende.[^cae2]
+Em 1979, o grupo venceu o 1º [[fessul|FESSUL]], festival promovido pela TV Morena, com a canção [[kananciue|"Kananciuê"]], que trata de tema indígena. Segundo o organizador Onésimo Filho, citado por Caetano, o júri, em grande parte de fora do estado, ficou entusiasmado com o estilo do grupo, mas Caetano escreve que a canção teve pouco apoio popular e que o público preferiu "Cartas na Manga", de Matusalém Vieira do Carmo, interpretada por Sidney Rezende.[^cae2]
 
 No 2º FESSUL, em 1980, o grupo ficou em segundo lugar com "Nos Mares de Xaraés", em edição marcada pela saída de artistas que protestaram contra problemas técnicos.[^cae2] No 3º FESSUL, em 1981, obteve o primeiro e o segundo lugares, com "Waradzu" e "Cavalinho de Pau". O autor associa essas vitórias a um desinteresse de outros músicos pelo festival.[^cae3]
 

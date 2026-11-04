@@ -32,3 +32,9 @@ Descartadas: Midiamax 18/03/2023 ("'Crimes da Cruz': após 15 anos, estudantes f
 
 - pp2026 relido e aceito: a ficha técnica do longa *O Retrato do Erro – A Bruxa da Sapolândia* traz Miya Miyashiro na direção de arte, e a produtora (Misa Filmes) é descrita como especializada em documentários sobre casos criminais, o mesmo tema de *Crimes da Cruz*. Com a parceira de cgn2026 na equipe, a identidade fica confirmada. Entrou no verbete como projeto com lançamento previsto para fev. 2027 (não como obra lançada).
 - Equipe citada: direção geral Isabelle Silva; roteiro Luis Gabriel e João Prestes; fotografia João Pelosi (assist. Daniel Felipe); som Laura Cristina; direção de arte Miya Miyashiro; assistência de produção Isadora Tiemi; making of Maurílio Valle; logger Rafaela Correia. Financiamento FMIC.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte para as obras de 2026: Rodson Lima, "Orquestra de Sopros do Pantanal une cinema e concerto no próximo dia 4 no Glauce Rocha", portal da UFMS, 23/10/2026. Sustenta: animação *Cravo e a Rosa* de autoria de Isabelle Silva e Miya Miyashiro, egressas do Audiovisual da UFMS; exibição anunciada no Cine Concerto da OSPan em 4/11/2026 no Teatro Glauce Rocha, com trilha ao vivo (transcrição de Ingrid Yamazzato). Terceira grafia do título registrada.
+- Primeira Página (27/7/2026, já usado) confirma Miya Miyashiro como diretora de arte do longa da Bruxa da Sapolândia (não acrescentado neste verbete).
+- *Crimes da Cruz* e *Meu pai não veio* continuam só no Campo Grande News (buscas na API do A Crítica, UFMS, RCN67, Primeira Página e no Google Notícias sem resultado).

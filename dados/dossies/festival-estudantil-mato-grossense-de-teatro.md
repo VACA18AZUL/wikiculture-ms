@@ -25,3 +25,7 @@ Buscas restritas a FCMS, Agência, Correio do Estado, A Crítica, UFMS, UEMS, UC
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Crossref: busca por título do festival, Faculdade Dom Aquino e teatro mato-grossense devolve o artigo "Teatro mato-grossense: história, cultura e ideologia" (Revista Conexão Letras, 2015, https://doi.org/10.22456/2594-8962.55603), não lido nesta rodada. Fonte única continua Moser (ABRACE, 2018), que relata Maria da Glória Sá Rosa (1992). Pista: ler esse artigo e o ensaio de Sá Rosa.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Festival Estudantil de Teatro Dom Aquino", "GUTAC teatro"): sem a mostra; aberta a matéria sobre os 40 anos do grupo Senta que o Leão é Manso (sem menção ao festival). API do O Estado (mesmos termos; aberta a nota sobre noite de autógrafos de Américo Calheiros, 2023, sem menção ao festival). Portal de trabalhos da pós-graduação da UFMS (títulos com teatro, história do teatro, teatro sul-mato-grossense): nada sobre o festival.

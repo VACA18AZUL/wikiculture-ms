@@ -38,3 +38,8 @@ Descartadas: SAD-MS (Arraial do Servidor 2015), aberta, sem menção ao grupo no
 ## Atualização de 2026-11-04
 
 - Validação valn-37a: buscas na API do O Estado MS, na busca da FCMS e no Google Notícias (RSS) só trouxeram as matérias já usadas do Campo Grande News e do JD1. O JD1 (2016) assina "Sesc MS" e repete a lista de influências do texto de 2015: tratado como release. Um item "Apresentadores e locutores da RTVE vão animar o 1º Arraial do Servidor" (SAD MS, jul. 2015) apareceu na busca, mas o link não abriu; não entra.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte independente: portal da UFMS (Ana Paula Banyasz). 20/9/2016: resultado do Edital Preae nº 55/2016 (Mais Cultura na UFMS: Circuito Itinerante da Música Sul-mato-grossense), Forró Zen em 1º lugar no câmpus de Campo Grande (nota 47,3), contemplado. 13/12/2016: show anunciado no Restaurante Universitário em 15/12/2016, 11h30.
+- As notas da UFMS não descrevem a formação; a identidade com o grupo de Zé Bruno se apoia no nome e na cidade (mesmo ano da matéria do CGN de dezembro de 2016).

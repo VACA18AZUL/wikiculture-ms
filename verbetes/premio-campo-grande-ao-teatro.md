@@ -3,7 +3,7 @@ titulo: Prêmio Campo Grande ao Teatro
 tipo: evento
 areas: [teatro]
 cidade: Campo Grande
-resumo: Festival competitivo de teatro de Campo Grande organizado por Espedito di Montebranco; a 2ª edição, com edital da Associação Artística Cultural Palco de Artes Cênicas, foi marcada para abril de 2023.
+resumo: Festival competitivo de teatro de Campo Grande idealizado por Espedito di Montebranco; a 2ª edição, em abril de 2023 no Teatro Glauce Rocha, premiou Navegantes, Uma Moça da Cidade e O que os Olhos Veem o Coração Sente?.
 ficha:
   Edital de 2023: "Associação Artística Cultural Palco de Artes Cênicas"
   Organização: "Espedito di Montebranco"
@@ -34,8 +34,15 @@ Em abril, foram anunciados dez espetáculos selecionados, com apresentações gr
 
 A programação distribuía as sessões entre o Teatro Glauce Rocha, a Praça Ary Coelho e a Esplanada Ferroviária.[^cgn2023b]
 
+O resultado saiu na cerimônia de 26 de abril de 2023, no Teatro Glauce Rocha, apresentada por Espedito di Montebranco. Segundo *O Estado de Mato Grosso do Sul*, o júri reuniu Ataíde Arcoverde, [[roma-roman|Roma Román]], Beth Terras e Marcílio Caetano, ator e diretor de Nova Andradina. Na lista do *Correio do Estado*, publicada antes do festival, o quarto jurado era Roberto Figueiredo, que o *O Estado* cita entre os homenageados. A realização foi da Associação Artística Cultural Palco de Artes Cênicas, com investimento do Fomteatro, da Secretaria Municipal de Cultura e Turismo e da prefeitura, e apoio da UFMS.[^oestado2023][^ce2023]
+
+Venceram como melhor espetáculo *O que os Olhos Veem o Coração Sente?*, da [[cia-camisa-10|Cia. Camisa 10]], na categoria rua; [[navegantes-deslimites|*Navegantes*]], do [[grupo-deslimites|Grupo Deslimites]], na infantil; e [[uma-moca-na-cidade|*Uma Moça da Cidade*]], do [[grupo-ubu|Grupo UBU Artes Cênicas]], na adulta. *Navegantes* levou também iluminação e sonoplastia, e *Uma Moça da Cidade*, figurino, texto original e maquiagem. O [[teatro-imaginario-maracangalha|Imaginário Maracangalha]] recebeu texto original e cenografia. A matéria atribui o prêmio de direção a três nomes: [[alexandre-mello|Alexandre Mello]], da Cia. Camisa 10, [[lu-bigatao|Lú Bigatão]], do Deslimites, e o UBU, dirigido por [[anderson-bosh|Anderson Bosh]].[^oestado2023]
+
+O júri deu cinco destaques: Kelly Figueiredo e Leonardo de Castro, do grupo Casa; Fábio Umeda, do Deslimites; [[fernando-cruz|Fernando Cruz]], do Maracangalha; e [[edner-gustavo|Edner Gustavo]], dos grupos UBU e Fulano di Tal. Foram homenageados Beth Terras, Roberto Figueiredo e Roma Román. O primeiro troféu da noite foi para a equipe da [[vaca-azul|Vaca Azul]], pelo registro audiovisual das artes no estado. O troféu da edição era um bugre de [[conceicao-dos-bugres|Conceição dos Bugres]], hoje feito pelo neto da artista, Mariano Neto.[^oestado2023]
+
 [^cgn2023a]: Thailla Torres, ["Prêmio Campo Grande ao Teatro está com inscrições abertas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/premio-campo-grande-ao-teatro-esta-com-inscricoes-abertas), *Campo Grande News*, 21 mar. 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Thailla Torres, ["Prêmio Campo Grande ao Teatro chega com 10 espetáculos de graça"](https://www.campograndenews.com.br/lado-b/diversao/premio-campo-grande-ao-teatro-chega-com-10-espetaculos-de-graca), *Campo Grande News*, 17 abr. 2023. Acesso em 4 nov. 2026.
 [^ce2020]: ["Primeira edição do Prêmio Campo Grande ao Teatro está com inscrições abertas"](https://correiodoestado.com.br/correio-b/2020/12/24/primeira-edicao-do-premio-campo-grande-ao-teatro-esta-com-inscricoes-abertas.html), *Correio do Estado*, 24 dez. 2020. Acesso em 4 nov. 2026.
 [^ce2021]: ["Fim de semana tem entrega do 1º Prêmio Campo Grande ao Teatro e espetáculo gratuito de dança"](https://correiodoestado.com.br/correio-b/2021/01/22/fim-de-semana-tem-entrega-do-1o-premio-campo-grande-ao-teatro-e-espetaculo-gratuito-de-danca.html), *Correio do Estado*, 22 jan. 2021. Acesso em 4 nov. 2026.
 [^ce2023]: ["Segunda edição do Prêmio Campo Grande ao Teatro terá 10 peças em três dias"](https://correiodoestado.com.br/correio-b/2023/04/19/segunda-edicao-do-premio-campo-grande-ao-teatro-tera-10-pecas-em-tres-dias.html), *Correio do Estado*, 19 abr. 2023. Acesso em 4 nov. 2026.
+[^oestado2023]: Livia Bezerra, ["Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro"](https://oestadoonline.com.br/arte-e-lazer/cia-camisa-10-grupo-deslimites-e-grupo-ubu-artes-cenicas-sao-os-vencedores-do-cg-ao-teatro/), *O Estado de Mato Grosso do Sul*, 2 maio 2023. Acesso em 4 nov. 2026.

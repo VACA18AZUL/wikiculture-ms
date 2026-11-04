@@ -15,6 +15,8 @@ A **Cia de Teatro do Mundo**, também chamada Cia Teatro do Mundo, é uma compan
 
 ## Trajetória
 
+Em janeiro de 2021, o diretor da companhia, Fernando Lopes, iniciou a segunda temporada da série de lives Teatro Brasileiro Fora do Eixo, com diretores e atores de Campo Grande, sobre a história do teatro na cidade e as dificuldades do setor antes e durante a pandemia. A primeira temporada, em 2020, tinha entrevistado 20 pessoas de vários estados.[^oestado2021]
+
 Em junho de 2022, a programação da [[mostra-boca-de-cena|Mostra Boca de Cena]], montada em três palcos na Praça Ary Coelho, previa para as 10h de 25 de junho o espetáculo *Dom Quixote*, da "Cia de Teatro do Mundo" (grafia da matéria, que não informa a cidade do grupo), com 45 minutos de duração, abrindo o segundo dia da mostra.[^cgn2022]
 
 Em 2023, Fernando Lopes Lima contou ao *Campo Grande News* que havia lançado em dezembro do ano anterior a peça *Como Nascem as Estrelas*, sobre a atriz [[glauce-rocha|Glauce Rocha]], que ficou oito meses em cartaz. Segundo a mesma reportagem, ele inaugurou na Cia Teatro do Mundo uma sala com o nome da atriz.[^cgn2023]
@@ -29,3 +31,4 @@ Para novembro de 2026, a companhia anunciou a estreia de *Nós*, nova montagem d
 [^cgn2022]: Aletheya Alves, ["Dois dias de virada artística terão de palhaçada até peça indígena"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/dois-dias-de-virada-artistica-terao-de-palhacada-ate-peca-indigena), *Campo Grande News*, 21 jun. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Jéssica Fernandes, ["Glauce Rocha inspira peça e deve ser 'referência' para nova geração"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/glauce-rocha-inspira-peca-e-deve-ser-referencia-para-nova-geracao), *Campo Grande News*, 26 set. 2023. Acesso em 4 nov. 2026.
 [^acritica2026]: Ricardo Eugenio, ["Monólogo que ficou dez anos em cartaz volta com outro nome e estreia em 5 de novembro no Teatro do Mundo"](https://acritica.net/eventos/nos-monologo-isac-zampieri-estacao-cultural-teatro-do-mundo-novembro/), *A Crítica*, 30 out. 2026. Acesso em 4 nov. 2026.
+[^oestado2021]: Patrícia Belarmino, ["Diretor faz lives para falar sobre o teatro campo-grandense"](https://oestadoonline.com.br/arte-e-lazer/diretor-faz-lives-para-falar-sobre-o-teatro-campo-grandense/), *O Estado de Mato Grosso do Sul*, 6 jan. 2021. Acesso em 4 nov. 2026.

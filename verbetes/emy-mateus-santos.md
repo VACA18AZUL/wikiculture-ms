@@ -22,7 +22,7 @@ A fundação lista ainda o Prêmio Pretas Potências de 2023, na categoria de ar
 
 Em maio de 2024, a Fundação de Cultura publicou o registro da performance *O Grito Trans*, de Emy Mateus, na programação do [[mostra-boca-de-cena|Boca de Cena]].[^fcms2024]
 
-Em agosto de 2024, como fundadora e diretora artística do De Trans pra Frente, conduziu uma performance em cortejo pela Rua 14 de Julho e pela Feira Central, com uma integrante levada numa carriola, em alusão a Dandara, morta no Ceará em 2017. A ação divulgou a estreia de *[[culto-das-travestis|Culto das Travestis]]*, espetáculo idealizado a partir das pesquisas de Emy, que estreou em 30 de agosto daquele ano no [[armazem-cultural|Armazém Cultural]].[^cgn2024a][^cgn2024b]
+Em agosto de 2024, o *Campo Grande News* noticiou a performance *Coragem*, que o De Trans pra Frente, com Emy como fundadora e diretora artística, levou em cortejo pela Rua 14 de Julho e pela Feira Central, com uma integrante carregada numa carriola, em alusão a Dandara, morta no Ceará em 2017. A intervenção antecedeu a estreia de *[[culto-das-travestis|Culto das Travestis]]*, espetáculo idealizado a partir das pesquisas de Emy, que estreou em 30 de agosto daquele ano no [[armazem-cultural|Armazém Cultural]].[^cgn2024a][^cgn2024b]
 
 Em junho de 2025, foi selecionada na área de teatro da Bolsa Funarte Brasil Conexões Internacionais 2025, ligada à Temporada Cultural Brasil-França, para participar do Festival OFF Avignon. Segundo a Fundação de Cultura, era a única representante de Mato Grosso do Sul no edital de teatro e, na volta, desenvolveria um projeto com apoio da fundação para compartilhar o que aprendeu na viagem.[^fcms2025]
 

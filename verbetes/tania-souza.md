@@ -32,7 +32,7 @@ Ferreira lista, com editora e ano:[^ferreira2025]
 - *Sudário* (2024), Venas Abiertas.[^ferreira2025]
 - Para a infância, *Um gato no jardim* e *Bichinhos da horta*.[^ferreira2025]
 
-- *A Encantada* (2023; edição da autora, segundo Ferreira) — narrativa sobre a lenda da Teiniaguá, que a autora chama de Teiú-iaguá, misturando lendas e memórias da fronteira. Foi um dos vencedores do 1º Prêmio Ipê de Literatura 2021, da Secretaria Municipal de Cultura e Turismo de Campo Grande. Segundo a matéria de novembro de 2023, foi lançado em agosto na VII Steamcom Paranapiacaba (SP); o lançamento em Campo Grande foi marcado para 17 de novembro de 2023. Prefácio de Andriolli Costa e ilustrações de Willian de Souza.[^cgnencantada]
+- [[a-encantada-tania-souza|*A Encantada*]] (2023; edição da autora, segundo Ferreira) — narrativa sobre a lenda da Teiniaguá, que a autora chama de Teiú-iaguá, misturando lendas e memórias da fronteira. Foi um dos vencedores do 1º Prêmio Ipê de Literatura 2021, da Secretaria Municipal de Cultura e Turismo de Campo Grande. Segundo a matéria de novembro de 2023, foi lançado em agosto na VII Steamcom Paranapiacaba (SP); o lançamento em Campo Grande foi marcado para 17 de novembro de 2023. Prefácio de Andriolli Costa e ilustrações de Willian de Souza.[^cgnencantada]
 - *Eles Vieram Com o Amanhecer* (2024), Avuá Edições — conto epistolar ambientado na Guerra do Paraguai, que flerta com o fantástico, em que um tenente escreve ao Visconde de Taunay. Projeto gráfico de [[fabio-quill|Fábio Quill]] e Mayara Dempsey, com exemplares envelhecidos à mão. Lançamento anunciado para 20 de setembro de 2024, em Campo Grande.[^cgncartas]
 
 ## Videografia

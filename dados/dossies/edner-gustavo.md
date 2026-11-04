@@ -38,3 +38,8 @@ Fontes novas lidas (Fundação de Cultura de MS, órgão estadual, distinto do C
 - 4 ago. 2025 (Marcio Rodrigues Breda), https://www.fundacaodecultura.ms.gov.br/episodio-a-mata-do-pequi-e-atracao-na-comunidade-quilombola-chacara-buriti/: Escambo UBU Erê, Edner como mentor de produção e ator.
 - 8 dez. 2025 (Marcio Rodrigues Breda), https://www.fundacaodecultura.ms.gov.br/estreia-de-espetaculo-teatral-petunia-marca-22-anos-do-grupo-fulano-di-tal/: Petúnia, Fulano di Tal, dramaturgia, direção e produção de Edner Gustavo; cenografia e figurino com Douglas Moreira; elenco Kelly Figueiredo, Luana Vilela, Nicoli Dichoff; estreia 7/12 em Rochedo. Texto lido direto da página.
 Resolve a dúvida da revisão sobre grupo de origem: atua em Fulano di Tal (2024, 2025) e nos projetos do Grupo UBU (2025); as duas ligações constam. Propostas de nomes: petunia-fulano-di-tal, kelly-figueiredo (dados/propostas/nomes-r3-3.csv). Sem divergências. Não abertas: FCMS 22 set. 2025 (Escambo UBU Erê, Aldeia Inamaty Kaxé), FCMS 2024 (Ubu em nove cidades).
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 2 maio 2023, Livia Bezerra, "Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro" (lida pela API WordPress do jornal). Resultado do 2º Prêmio Campo Grande ao Teatro, cerimônia no Teatro Glauce Rocha "na noite de quinta-feira (26)" (26/04/2023 caiu numa quarta; o verbete usa só a data).
+- Destaque do júri; "integrante dos grupos UBU e Fulano Di Tal".

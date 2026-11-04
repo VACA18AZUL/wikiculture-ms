@@ -26,3 +26,7 @@
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS ("Os Grandes Acordeonistas") traz apenas matérias gerais sobre chamamé (2015, 2017), não abertas por não citarem a coletânea no título. Continua só com o acervo.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova. Buscas: Campo Grande News (/buscar?q= "Grandes Acordeonistas"; Pekois acordeon), com leitura de duas matérias sobre o Encontro de Chamamezeiros (não citam a coletânea); API do O Estado MS e RSS do Google Notícias (mesmos termos): nada sobre a série. Nada mudou.

@@ -55,3 +55,10 @@ Acrescentado: documentário *Onde você estava?* (direção dele, lançado em 18
 Fonte institucional (FCMS), de outro veículo e de outro período; serve de segunda fonte para o perfil. Situação: pronto-para-lote.
 
 Buscas sem resultado: FCMS "Senta que o Leão é Manso" (nenhum). Não lidos: UCDB (site não localizado).
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 6 jan. 2021, Patrícia Belarmino, "Diretor faz lives para falar sobre o teatro campo-grandense" (trecho; a matéria remete à versão digital completa). Série de lives Teatro Brasileiro Fora do Eixo, de Fernando Lopes (Cia. Teatro do Mundo).
+- "Beto Figueiredo", diretor do Senta que o Leão é Manso, primeiro convidado (5/01/2021). Identificado com Roberto Figueiredo pelo grupo dirigido.
+- Fonte nova: O Estado MS, 2 maio 2023, Livia Bezerra, "Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro" (lida pela API WordPress do jornal). Resultado do 2º Prêmio Campo Grande ao Teatro, cerimônia no Teatro Glauce Rocha "na noite de quinta-feira (26)" (26/04/2023 caiu numa quarta; o verbete usa só a data).
+- Homenageado; entregou troféus. O Correio do Estado (19/04/2023) o punha no júri; O Estado, só entre homenageados.

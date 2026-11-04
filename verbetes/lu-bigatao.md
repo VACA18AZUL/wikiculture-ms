@@ -16,14 +16,18 @@ atualizado: 2026-11-04
 
 É autora da dramaturgia de *Os Guardiões*, espetáculo do [[teatral-grupo-de-risco|Teatral Grupo de Risco]] programado para o [[mostra-boca-de-cena|Boca de Cena]] de 2017, com direção de [[roma-roman|Roma Román]], produção de [[fernanda-kunzler|Fernanda Kunzler]] e elenco formado por [[andre-tristao|André Tristão]], Fernanda Kunzler e [[yago-garcia|Yago Garcia]].[^boca2017] Em abril de 2023, com o título *Guardiões*, a peça estava em cartaz havia quase dez anos, com cenografia de Márcia Gomes e elenco de Fernanda Kunzler, Yago Garcia e João Bosco Echeverria. Ela retrata um Pantanal afetado pela ocupação humana, cujos moradores vão sendo expulsos do território.[^cgn2023]
 
+Em janeiro de 2021, foi anunciada como convidada da série de lives Teatro Brasileiro Fora do Eixo, de Fernando Lopes, diretor da [[cia-de-teatro-do-mundo|Cia. Teatro do Mundo]]. A matéria a apresenta como integrante do [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^oestado2021]
+
 Na seleção do [[festival-de-inverno-de-bonito-2022|Festival de Inverno de Bonito]] de 2022, o espetáculo [[navegantes-deslimites|*Navegantes – uma viagem pelos rios brasileiros*]] aparece em seu nome.[^ce2022] A peça é do [[grupo-deslimites|Grupo Deslimites]].[^cgn2022b]
 
 Durante a [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teatro de Bonecos]], em novembro de 2022, apresentou ao *Campo Grande News* a exposição de bonecos montada no Teatral Grupo de Risco. Disse que a exposição contava parte da trajetória do seu grupo, com 32 anos de teatro de bonecos e mais de 20 espetáculos montados.[^cgn2022c]
 
+No 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]], em abril de 2023, *Navegantes*, sob sua direção, foi eleito o melhor espetáculo infantil. Segundo *O Estado de Mato Grosso do Sul*, ela recebeu o prêmio de melhor direção; a mesma matéria atribui essa categoria também a outros dois concorrentes.[^oestado2023]
+
 ## Espetáculos
 
 - *Os Guardiões* ou *Guardiões* — dramaturgia; Teatral Grupo de Risco.[^boca2017][^cgn2023]
-- [[navegantes-deslimites|*Navegantes – uma viagem pelos rios brasileiros*]] — listado em seu nome na seleção do Festival de Inverno de Bonito de 2022; Grupo Deslimites.[^ce2022]
+- [[navegantes-deslimites|*Navegantes – uma viagem pelos rios brasileiros*]] — listado em seu nome na seleção do Festival de Inverno de Bonito de 2022; Grupo Deslimites.[^ce2022] Direção, segundo a imprensa em 2023.[^oestado2023]
 
 ## Filmografia
 
@@ -35,3 +39,5 @@ Durante a [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teat
 [^cgn2022b]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 4 nov. 2026.
 [^cgn2022c]: Aletheya Alves, ["Em mostra de teatro, público irá imergir em mundo de bonecos"](https://www.campograndenews.com.br/lado-b/diversao/em-mostra-de-teatro-publico-ira-imergir-em-mundo-de-bonecos), *Campo Grande News*, 5 nov. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Espetáculo gratuito mostra dores de um Pantanal contemporâneo"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-gratuito-mostra-dores-de-um-pantanal-contemporaneo), *Campo Grande News*, 25 abr. 2023. Acesso em 4 nov. 2026.
+[^oestado2023]: Livia Bezerra, ["Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro"](https://oestadoonline.com.br/arte-e-lazer/cia-camisa-10-grupo-deslimites-e-grupo-ubu-artes-cenicas-sao-os-vencedores-do-cg-ao-teatro/), *O Estado de Mato Grosso do Sul*, 2 maio 2023. Acesso em 4 nov. 2026.
+[^oestado2021]: Patrícia Belarmino, ["Diretor faz lives para falar sobre o teatro campo-grandense"](https://oestadoonline.com.br/arte-e-lazer/diretor-faz-lives-para-falar-sobre-o-teatro-campo-grandense/), *O Estado de Mato Grosso do Sul*, 6 jan. 2021. Acesso em 4 nov. 2026.

@@ -19,9 +19,13 @@ Em junho de 2015, o Campo Grande News apresentou o grupo como nascido em 2006, c
 
 Para 2 de julho de 2016, o Forró Zen foi de novo anunciado como banda do Casório do Ano, na Praça Cuiabá, região da [[cabeca-de-boi|Cabeça de Boi]].[^cgn2016a] Para 14 de julho do mesmo ano, segundo texto do Sesc publicado pelo JD1 Notícias, estava programado um show gratuito do grupo no Sesc [[morada-dos-bais|Morada dos Baís]], com repertório ligado a Luiz Gonzaga, Jackson do Pandeiro, Dominguinhos, Alceu Valença e Elba Ramalho, entre outros.[^jd12016]
 
+Em setembro de 2016, a [[ufms|UFMS]] divulgou o Forró Zen em primeiro lugar, entre as atrações contempladas do câmpus de Campo Grande, na seleção do projeto Mais Cultura na UFMS: Circuito Itinerante da Música Sul-mato-grossense.[^ufms2016a] Pelo mesmo edital, a banda foi anunciada para tocar no Restaurante Universitário em 15 de dezembro daquele ano.[^ufms2016b]
+
 Em dezembro de 2016, o Campo Grande News disse que o grupo animava bares da cidade desde 2006 e já tinha fã-clube. Zé Bruno aparece como líder, na voz e na percussão, acompanhado por Maicon Oliveiras (voz e zabumba) e Renan Nonato (vocal de apoio e sanfona).[^cgn2016b]
 
 [^cgn2015]: Aline Araújo, ["Casório do Ano vai ter muito xote, baião e forró com duas bandas no palco"](https://www.campograndenews.com.br/lado-b/diversao/casorio-do-ano-vai-ter-muito-xote-baiao-e-forro-com-duas-bandas-no-palco), *Campo Grande News*, 20 jun. 2015. Acesso em 4 nov. 2026.
 [^cgn2016a]: Paula Maciulevicius, ["Quem quiser dançar forró, vai ter parceiro profissional no Casório do Ano"](https://www.campograndenews.com.br/lado-b/diversao/quem-quiser-dancar-forro-vai-ter-parceiro-profissional-no-casorio-do-ano), *Campo Grande News*, 29 jun. 2016. Acesso em 4 nov. 2026.
 [^jd12016]: ["Shows no Sesc Morada começam nesta terça-feira"](https://www.jd1noticias.com/cultura/2016/07/11/shows-no-sesc-morada-comecam-nesta-terca-feira.html), *JD1 Notícias*, 11 jul. 2016. Acesso em 4 nov. 2026.
 [^cgn2016b]: ["Forró Zen popularizou ritmo do Nordeste por aqui e hoje tem até fã clube"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/forro-zen-popularizou-ritmo-do-nordeste-por-aqui-e-hoje-tem-ate-fa-clube), *Campo Grande News* (Lado B), 21 dez. 2016. Acesso em 4 nov. 2026.
+[^ufms2016a]: Ana Paula Banyasz, ["Preae divulga selecionados para participar de Circuito de música"](https://www.ufms.br/preae-divulga-selecionados-para-participar-de-circuito-de-musica/), *UFMS*, 20 set. 2016. Acesso em 4 nov. 2026.
+[^ufms2016b]: Ana Paula Banyasz, ["Restaurante terá apresentações de bandas nos dias 14 e 15"](https://www.ufms.br/restaurante-tera-apresentacoes-de-bandas-nos-dias-14-e-15/), *UFMS*, 13 dez. 2016. Acesso em 4 nov. 2026.

@@ -32,3 +32,7 @@ Busca de segunda fonte devolveu duas matérias do Midiamax ("Cena independente u
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): A Crítica (única matéria), O Estado Online ("LidyLo", "Buteco do Miau", "Bêbados Habilidosos"), Correio do Estado, FCMS: nenhuma matéria sobre o show. A FCMS tem duas notícias de 2025 sobre a artista (fashion film "Noites de Carmim", 15 abr. 2025, e gravação com recursos da Lei Paulo Gustavo, 26 fev. 2025), que não tratam do evento e não foram lidas. Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida (O Estado MS, veículo diferente do A Crítica; achada pela API wp-json, busca "LidyLo"/"Buteco do Miau"): agenda de 9 out. 2026, https://oestadoonline.com.br/arte-e-lazer/teatro-feiras-e-muita-brincadeira-marca-fim-de-semana-das-criancas/. Confirma data (sexta, 9), 20h, Buteco do Miau, as seis bandas e entrada de R$ 20. Estado de saúde e chave Pix ficaram fora. Nota [^oestado] acrescentada aos parágrafos de abertura e do evento. CGN (11 set. 2026, rifa com obra de GHVA) lido: anterior ao evento e não o cita; trata de saúde, não usado.

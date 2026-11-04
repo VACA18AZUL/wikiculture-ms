@@ -3,7 +3,7 @@ titulo: Ana el Daher
 tipo: pessoa
 areas: [danca]
 cidade: Campo Grande
-resumo: "Bailarina de Campo Grande, também citada como Ana Lúcia El Daher. Foi ensaiadora da Cia Selma Azambuja e, em 2026, interpretou Lídia Baís no espetáculo de dança L'Existence – Lídia Baís."
+resumo: "Bailarina de Campo Grande, também citada como Ana Lúcia El Daher. Foi ensaiadora da Cia Selma Azambuja e, em 2026, foi anunciada como intérprete de Lídia Baís no espetáculo de dança L'Existence – Lídia Baís."
 ficha:
   Atividade: "Bailarina, ensaiadora e diretora artística"
   Grupos: "[[cia-selma-azambuja|Cia de Dança Selma Azambuja]]"
@@ -15,11 +15,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em maio de 2023, a Fundação de Cultura de MS a apresentou como bailarina e ensaiadora da Cia Selma Azambuja, numa mostra do evento United Dance no [[teatro-glauce-rocha|Teatro Glauce Rocha]] que reuniu quatro companhias profissionais do estado.[^fcms2023]
+Em maio de 2023, a Fundação de Cultura de MS a apresentou como bailarina e ensaiadora da Cia Selma Azambuja, ao anunciar uma mostra do evento United Dance no [[teatro-glauce-rocha|Teatro Glauce Rocha]], com quatro companhias profissionais do estado.[^fcms2023]
 
-Em 2026, interpretou a pintora [[lidia-bais|Lídia Baís]] no espetáculo *[[lexistence-lidia-bais|L'Existence – Lídia Baís]]*, apresentado no Teatro Glauce Rocha com recursos do Fundo de Investimentos Culturais (FIC). Em entrevista, disse que o maior desafio foi construir a personagem só com a dança, sem diálogo, a partir de pesquisas, diários, pinturas e relatos sobre a vida da artista.[^oe2026a][^oe2026b][^rcn2026]
+Em 2026, foi anunciada como intérprete da pintora [[lidia-bais|Lídia Baís]] no espetáculo *[[lexistence-lidia-bais|L'Existence – Lídia Baís]]*, feito com recursos do Fundo de Investimentos Culturais (FIC), com estreia marcada no Teatro Glauce Rocha para 4 de agosto de 2026, segundo o RCN67 e a matéria de 30 de julho do *O Estado MS*; a matéria de 4 de agosto do mesmo jornal fala em estreia na "terça-feira (5)". Em entrevista, disse que um dos maiores desafios foi construir a personagem só com a dança, sem diálogo, a partir de pesquisas, diários, pinturas e relatos sobre a vida da artista.[^oe2026a][^oe2026b][^rcn2026]
 
-As fontes descrevem a função dela no espetáculo de modos diferentes. O RCN67 e *O Estado MS* a chamam de diretora artística, além de intérprete.[^rcn2026][^oe2026a][^oe2026b] O RCN67 também chama [[monique-paes|Monique Paes]] de coreógrafa e diretora artística, e a matéria de 4 de agosto de 2026 do *O Estado MS* atribui a ela a direção artística e a coreografia.[^rcn2026][^oe2026b]
+As fontes descrevem a função dela no espetáculo de modos diferentes. O RCN67 e *O Estado MS* a chamam de diretora artística, além de intérprete.[^rcn2026][^oe2026a][^oe2026b] O RCN67 e a matéria de 30 de julho do *O Estado MS* também chamam [[monique-paes|Monique Paes]] de coreógrafa e diretora artística, e a matéria de 4 de agosto de 2026 do mesmo jornal atribui a ela a direção artística e a coreografia.[^rcn2026][^oe2026a][^oe2026b]
 
 ## Espetáculos
 

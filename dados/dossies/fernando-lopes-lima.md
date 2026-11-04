@@ -47,3 +47,8 @@ Fontes descartadas e o motivo:
 - Que o Fernando Lopes Lima do Grupo Casa (2017) seja o diretor da Cia Teatro do Mundo: mesmo nome completo, mesma cidade e área, e Dom Quixote no repertório dos dois, mas nenhuma fonte lida os une. Ficou fora do verbete. Frase sugerida, se uma fonte confirmar: "Em 2017, pelo Grupo Casa, assinou com Ligia Prieto a direção e a dramaturgia de As aventuras de Bagacinho – Dom Quixote, programado na Mostra Boca de Cena."
 - Fundação da Estação Cultural Teatro do Mundo por ele (só no resumo de busca).
 - Wikipédia pt: sem artigo.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 6 jan. 2021, Patrícia Belarmino, "Diretor faz lives para falar sobre o teatro campo-grandense" (trecho; a matéria remete à versão digital completa). Série de lives Teatro Brasileiro Fora do Eixo, de Fernando Lopes (Cia. Teatro do Mundo).
+- A matéria diz "Fernando Lopes", diretor da Cia. Teatro do Mundo. Identidade com Fernando Lopes Lima aceita pelo cargo (CGN 2023 o dá como diretor da mesma companhia).

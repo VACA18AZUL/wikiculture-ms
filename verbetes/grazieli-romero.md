@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Grazieli de Souza Romero**, conhecida como **Grazi**, é uma artista plástica e muralista de [[campo-grande|Campo Grande]]. Pinta com spray, pincel e tintas à base d'água, e seus murais retratam animais e plantas da região, como onças, araras e capivaras.[^cgn2024]
+**Grazieli de Souza Romero**, conhecida como **Grazi**, é uma artista plástica e muralista de Campo Grande. Pinta com spray, pincel e tintas à base d'água, e seus murais retratam animais e plantas da região, como onças, araras e capivaras.[^cgn2024]
 
 ## Trajetória
 

@@ -36,3 +36,7 @@ Segunda fonte: não encontrada. Busca aberta (teatro de bonecos, Três Lagoas, P
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Teatro da Patota", "Patota"), BDTD ("Teatro da Patota"; teatro de bonecos Três Lagoas), Correio do Estado: sem resultado. Fonte única: Moser (Abrace). Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN (buscar?q="Teatro da Patota"), API do O Estado MS, RSS do Google Notícias ("Teatro da Patota"; Teatro Patota Três Lagoas), portal de trabalhos da UFMS (busca só por título; "teatro", "Três Lagoas"): nenhum resultado sobre o grupo. Nada mudou.

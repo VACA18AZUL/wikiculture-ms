@@ -14,6 +14,8 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
+Em abril de 2023, *Uma Moça da Cidade*, do Grupo UBU, sob sua direção, foi eleita o melhor espetáculo adulto do 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]]. Ao *O Estado de Mato Grosso do Sul*, ele disse que o prêmio foi uma chance de troca com os colegas e de validação do trabalho contínuo do grupo.[^oestado2023]
+
 Em abril de 2025, o Campo Grande News o apresentou como diretor do grupo na estreia do projeto "Escambo UBU Fronteiras do Mato Sul", em Corumbá. A proposta era levar o teatro a 12 cidades de fronteira, com as peças *Pelega e a Porca Prenha – Na Mata do Pequi* e *Uma Moça na Cidade*, além de oficinas. O projeto tinha apoio da Funarte, pela Bolsa Myriam Muniz de Teatro.[^cgn2025]
 
 Na reportagem, Bosh defendeu que o teatro "esteja na conversa" e no cotidiano das pessoas, e não apenas no palco.[^cgn2025]
@@ -33,3 +35,4 @@ Em maio de 2026, como diretor do grupo, falou sobre o projeto "Escambo UBU – N
 [^cgn2025b]: Thailla Torres, ["Teatro do Grupo UBU encerra turnê em Ponta Porã com apresentação gratuita"](https://www.campograndenews.com.br/lado-b/diversao/teatro-do-grupo-ubu-encerra-turne-em-ponta-pora-com-apresentacao-gratuita), *Campo Grande News*, 10 set. 2025. Acesso em 4 nov. 2026.
 [^cgn2025c]: Thailla Torres, ["Festival Ubu Erê leva teatro gratuito a quatro bairros de Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/festival-ubu-ere-leva-teatro-gratuito-a-quatro-bairros-de-campo-grande), *Campo Grande News*, 6 nov. 2025. Acesso em 4 nov. 2026.
 [^acritica2026]: Redação, ["Projeto leva teatro gratuito e cultura popular a alunos da rede municipal"](https://acritica.net/cultura/projeto-leva-teatro-cultura-popular-escolas-campo-grande/), *A Crítica de Campo Grande*, 29 maio 2026. Acesso em 4 nov. 2026.
+[^oestado2023]: Livia Bezerra, ["Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro"](https://oestadoonline.com.br/arte-e-lazer/cia-camisa-10-grupo-deslimites-e-grupo-ubu-artes-cenicas-sao-os-vencedores-do-cg-ao-teatro/), *O Estado de Mato Grosso do Sul*, 2 maio 2023. Acesso em 4 nov. 2026.

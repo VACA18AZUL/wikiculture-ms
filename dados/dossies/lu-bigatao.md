@@ -36,3 +36,10 @@
 ## Uso no verbete
 
 - Tudo entrou; os 32 anos aparecem como fala dela sobre "seu grupo", no contexto da mostra da Deslimites.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 6 jan. 2021, Patrícia Belarmino, "Diretor faz lives para falar sobre o teatro campo-grandense" (trecho; a matéria remete à versão digital completa). Série de lives Teatro Brasileiro Fora do Eixo, de Fernando Lopes (Cia. Teatro do Mundo).
+- Lu Bigatão convidada das lives em 7/01/2021, "que integra o Teatral Grupo de Risco".
+- Fonte nova: O Estado MS, 2 maio 2023, Livia Bezerra, "Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro" (lida pela API WordPress do jornal). Resultado do 2º Prêmio Campo Grande ao Teatro, cerimônia no Teatro Glauce Rocha "na noite de quinta-feira (26)" (26/04/2023 caiu numa quarta; o verbete usa só a data).
+- Navegantes, "sob direção de Lú Bigatão, que recebeu o prêmio de Melhor Direção". A matéria também dá "Melhor Direção" ao UBU e "Melhor Diretor" a Alexandre Mello: inconsistência da fonte, registrada no verbete com cautela.

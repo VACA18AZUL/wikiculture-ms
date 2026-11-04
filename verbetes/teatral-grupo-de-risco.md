@@ -23,6 +23,8 @@ Segundo a matéria de abril de 2023, o grupo foi um dos primeiros a ter sede pr�
 
 A reabertura teve o projeto "Depois do Fim do Mundo", voltado à manutenção das atividades do grupo.[^cgn2023-guardioes]
 
+Em janeiro de 2021, [[lu-bigatao|Lu Bigatão]], apresentada como integrante do grupo, foi convidada da série de lives Teatro Brasileiro Fora do Eixo, da [[cia-de-teatro-do-mundo|Cia. Teatro do Mundo]].[^oestado2021]
+
 Em novembro de 2022, a Mostra Campo Grande de Teatro de Bonecos, organizada pela Deslimites com a Secretaria Municipal de Cultura e Turismo, abriu no espaço do grupo.[^cgn2022]
 
 Em 2025, o projeto "TGR: Riso, Risco e Resistência" levou sete espetáculos do repertório a estudantes de escolas públicas, projetos sociais e ONGs, com visita à sede e acessibilidade em Libras.[^cgn2025]
@@ -52,3 +54,4 @@ Em setembro de 2026, o grupo apresentou em escola municipal de Campo Grande uma 
 [^cgn2025]: Thailla Torres, ["Espetáculos gratuitos iniciam hoje e celebram 37 anos do Grupo de Risco"](https://www.campograndenews.com.br/lado-b/diversao/espetaculos-gratuitos-iniciam-hoje-e-celebram-37-anos-do-grupo-de-risco), *Campo Grande News*, 24 nov. 2025. Acesso em 29 out. 2026.
 [^acritica-revolucao]: ["Sesc Teatro Prosa terá espetáculos gratuitos com teatro e circo para adultos e famílias"](https://acritica.net/cultura/sesc-teatro-prosa-tera-espetaculos-gratuitos-com-teatro-e-circo-para-adultos-e-familias/), *A Crítica de Campo Grande*, 5 jul. 2026. Acesso em 29 out. 2026.
 [^acritica2026]: Breno Kaoru Tanaka, ["Projeto leva teatro a escolas de MS para discutir violência doméstica com crianças"](https://acritica.net/educacao/projeto-leva-teatro-a-escolas-de-ms-para-discutir-violencia-domestica-com-criancas/), *A Crítica de Campo Grande*, 15 set. 2026. Acesso em 29 out. 2026.
+[^oestado2021]: Patrícia Belarmino, ["Diretor faz lives para falar sobre o teatro campo-grandense"](https://oestadoonline.com.br/arte-e-lazer/diretor-faz-lives-para-falar-sobre-o-teatro-campo-grandense/), *O Estado de Mato Grosso do Sul*, 6 jan. 2021. Acesso em 4 nov. 2026.

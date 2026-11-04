@@ -54,3 +54,12 @@ Fonte lida e não usada: FCMS 2019 ("leva exposições itinerantes a alunos Facs
 - Busca de segunda fonte independente: Campo Grande News (busca interna sem resultado útil) e Correio do Estado (busca). Achado: Correio do Estado, ""Arquivos Acessíveis" é o tema da 8ª Semana Nacional de Arquivos", 29 maio 2024, https://correiodoestado.com.br/correio-b/2024/05/29/arquivos-acessiveis-e-o-tema-da-8a-semana-nacional-de-arquivos.html — programação do Arquivo para a Semana Nacional de Arquivos (3 a 12 jun. 2024), exposição sobre a Festa do Divino da comunidade quilombola Santa Tereza (Figueirão), acervo da Matte Larangeira, sede no 2º andar do Memorial. Texto de anúncio, com cara de release; não entrou.
 - cgn2025 e acritica2026 repetem frases dos textos da FCMS (release). Na prática, todo o verbete se apoia na FCMS, que é a gestora do próprio Arquivo: fonte única.
 - Ajustes: revista de 2017 era projeto com lançamento previsto; os 91 trabalhos foram achados no acervo do Arquivo e em outros acervos, no Concurso Nacional de Símbolos de 1978.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fontes novas (API do *O Estado MS*):
+  - "Exposição revela hinos que disputaram a criação do símbolo musical de MS", 19 out. 2026 (https://oestadoonline.com.br/arte-e-lazer/exposicao-revela-hinos-que-disputaram-a-criacao-do-simbolo-musical-de-ms/). Reportagem própria com entrevista do coordenador Douglas Alves da Silva.
+  - Carolina Rampi, "Exposição celebra símbolos como brasão, bandeira e hino em alusão a Divisão do Estado", 10 out. 2024 (https://oestadoonline.com.br/arte-e-lazer/exposicao-celebra-simbolos-como-brasao-bandeira-e-hino-em-alusao-a-divisao-do-estado/). Traz dados que podem vir de divulgação, mas acrescenta acervos parceiros e equipe de curadoria.
+- Divergência registrada no verbete: 91 trabalhos e busca iniciada em 2024 (FCMS, A Crítica) x 92 composições encontradas no início de 2026, com a busca motivada pela exposição de 2024 (O Estado, fala do coordenador).
+- Acrescentado: catálogo previsto para 2027; documentário *Raízes em Canção* (Gabriela Dias e Douglas Alves da Silva); acervos parceiros da exposição de 2024 (IHGMS, CDR/UFGD).
+- Fora: telefones e e-mail; acervo pessoal de particular citado na fonte.

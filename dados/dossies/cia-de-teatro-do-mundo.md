@@ -49,3 +49,8 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 Entrou tudo acima. Endereço da Estação reduzido a "Centro".
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 6 jan. 2021, Patrícia Belarmino, "Diretor faz lives para falar sobre o teatro campo-grandense" (trecho; a matéria remete à versão digital completa). Série de lives Teatro Brasileiro Fora do Eixo, de Fernando Lopes (Cia. Teatro do Mundo).
+- Fernando Lopes, diretor da Cia. Teatro do Mundo; 1ª temporada em 2020 com 20 entrevistados (CE, AL, PI, MS); 2ª temporada até março de 2021, duas lives por semana; convidados Beto Figueiredo e Lu Bigatão.

@@ -32,3 +32,7 @@ Dossiê criado em 2026-11-04 no reforço r-4, só com o que foi apurado nesta ro
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Abertos e sem menção ao Bijou: artigo de História em Reflexão (UFGD, 2025, doi 10.30612/rehr.v21i41.20224) sobre lazer fluvial em Corumbá. Busca no Crossref por Bijou/Odeon Corumbá sem acerto; Fundação de Cultura sem resultado. Segue a divergência já registrada (1919 segundo Sá Rosa via Moser; cerca de 1905 segundo o Correio do Estado, 2010). Pista: capítulo "O porto: lazer e urbanidade em Corumbá" (RFB Editora, 2026, doi 10.46898/rfb.0d97db7b86f4), não aberto.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Bijou Corumbá", "Theatro Bijou"), API do O Estado e RSS do Google Notícias: só ruído (Cine Bijou de São Paulo). Portal de trabalhos da pós-graduação da UFMS (títulos com Corumbá e teatro): sem resultado.

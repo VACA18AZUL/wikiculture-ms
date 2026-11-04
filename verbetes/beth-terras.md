@@ -27,6 +27,8 @@ Em março de 2018, a abertura da [[mostra-boca-de-cena|Mostra Boca de Cena]], no
 
 Em 2018 criou, com Giovanna Zottino e Daniel Smidt, o Festival de Esquetes, promovido pela ADOTE. A quarta edição, marcada para 16 de novembro de 2024, foi anunciada com homenagem a ela.[^cgn2024b]
 
+Em abril de 2023, integrou o júri do 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]] e foi uma das três pessoas homenageadas pelo papel na construção do teatro em Mato Grosso do Sul. Na premiação, agradeceu a homenagem recebida em vida.[^oestado2023]
+
 Morreu em setembro de 2024, aos 65 anos, com 46 anos de carreira. Em abril de 2025, a ADOTE fez o evento *Vale a Pena Ver de Novo* em sua homenagem.[^cgn2024a][^cgn2025]
 
 ## Espetáculos
@@ -41,3 +43,4 @@ Morreu em setembro de 2024, aos 65 anos, com 46 anos de carreira. Em abril de 20
 [^cgn2025]: Clayton Neves, ["Companhia Adote homenageia Beth Terras no 1º aniversário sem a atriz"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/companhia-adote-homenageia-beth-terras-no-1o-aniversario-sem-a-atriz), *Campo Grande News*, 28 abr. 2025. Acesso em 4 nov. 2026.
 [^fcms2018]: Fundação de Cultura de Mato Grosso do Sul, ["Noite de homenagens marca abertura oficial da Mostra de Teatro Boca de Cena 2018"](https://www.fundacaodecultura.ms.gov.br/noite-de-homenagens-marca-abertura-oficial-da-mostra-de-teatro-boca-de-cena-2018/), notícia institucional, 28 mar. 2018. Acesso em 4 nov. 2026.
 [^fcms2015]: Fundação de Cultura de Mato Grosso do Sul, ["O lado criança dos adultos é abordado neste sábado no Show de Humor 'Arte de Quinta'"](https://www.fundacaodecultura.ms.gov.br/o-lado-crianca-dos-adultos-sera-abordado-neste-sabado-no-show-de-humor-arte-de-quinta/), notícia institucional, 13 out. 2015. Acesso em 4 nov. 2026.
+[^oestado2023]: Livia Bezerra, ["Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro"](https://oestadoonline.com.br/arte-e-lazer/cia-camisa-10-grupo-deslimites-e-grupo-ubu-artes-cenicas-sao-os-vencedores-do-cg-ao-teatro/), *O Estado de Mato Grosso do Sul*, 2 maio 2023. Acesso em 4 nov. 2026.

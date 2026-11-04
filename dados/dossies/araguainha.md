@@ -30,3 +30,7 @@ Tentativa r3-3: FCMS ("Araguainha") sem resultado. Continua só com as descriç�
 ## Atualização de 2026-11-04
 
 Segunda fonte tentada, sem resultado: API da FCMS ("Araguainha"), busca do Correio do Estado ("Araguainha"), A Crítica, WebSearch ("Araguainha" acordeonista/chamamé MS). Dois PDFs do repositório da UFMS (11457 e 3731) não abriram (conexão falhou). Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova. Buscas: Campo Grande News (/buscar?q= Araguainha sanfoneiro; Araguainha acordeon; "Waldemar Pereira do Carmo"), com conferência do texto de cinco matérias sobre sanfoneiros e chamamé (nenhuma cita Araguainha); API do O Estado MS (mesmos termos e "Educandário do Chamamé"); RSS do Google Notícias (mesmos termos). O portal de trabalhos da UFMS só busca por título, autor e orientador. Nada mudou.

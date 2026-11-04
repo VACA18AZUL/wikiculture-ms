@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Corixo Produções** é apontada pelo jornal *O Estado Online* como realizadora do [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^estado] A Fundação de Cultura de Mato Grosso do Sul (FCMS) também a nomeia como realizadora do festival em duas notícias do seu site, sobre a segunda e a terceira edições.[^fcms25][^fcms26]
+A **Corixo Produções** é apontada pelo jornal *O Estado Online* como realizadora do [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^estado] A Fundação de Cultura de Mato Grosso do Sul (FCMS) também a nomeia como realizadora do festival em duas notícias do seu site, sobre a segunda e a terceira edições.[^fcms25][^fcms26] O *Campo Grande News* atribui a realização à Corixo Produções na cobertura da segunda edição, em novembro de 2025, e na da premiação da terceira, em novembro de 2026.[^cgn2025][^cgn2026]
 
 ## Festival Curta Campo Grande
 
@@ -26,3 +26,5 @@ O jornal *A Crítica* informa, em outra reportagem, que o festival é realizado 
 [^critica]: Ricardo Eugenio, ["Curta Campo Grande: 61 filmes selecionados"](https://acritica.net/cultura/curta-campo-grande-61-filmes-selecionados-outubro-2026/), *A Crítica*, set. 2026 (data de publicação exibida na página: 22/09/2026). Acesso em 29 out. 2026.
 [^fcms25]: Fundação de Cultura de Mato Grosso do Sul, ["Filmes de todo o Brasil: Festival Curta Campo Grande terá 5 dias de exibições de filmes"](https://www.fundacaodecultura.ms.gov.br/filmes-de-todo-o-brasil-festival-curta-campo-grande-tera-5-dias-de-exibicoes-de-filmes/), 6 nov. 2025. Acesso em 4 nov. 2026.
 [^fcms26]: Fundação de Cultura de Mato Grosso do Sul, ["Festival Curta Campo Grande abre inscrições para terceira edição e se torna internacional"](https://www.fundacaodecultura.ms.gov.br/festival-curta-campo-grande-abre-inscricoes-para-terceira-edicao-e-se-torna-internacional/), 29 abr. 2026. Acesso em 4 nov. 2026.
+[^cgn2025]: Thailla Torres, ["Festival Curta Campo Grande começa na terça com filmes de todo o Brasil"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/festival-curta-campo-grande-comeca-na-terca-com-filmes-de-todo-o-brasil), *Campo Grande News*, 6 nov. 2025. Acesso em 4 nov. 2026.
+[^cgn2026]: Thailla Torres, ["Filmes de MS levam três prêmios no Festival Curta Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filmes-de-ms-levam-tres-premios-no-festival-curta-campo-grande), *Campo Grande News*, 4 nov. 2026. Acesso em 4 nov. 2026.

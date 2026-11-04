@@ -22,6 +22,8 @@ Em agosto de 2016, ao completar dez anos, o grupo era formado pelos atuadores [[
 
 Na Boca de Cena de 2017, apresentou *Tekoha* em uma escola estadual de Campo Grande, e Fernando Cruz, do grupo, ministrou um diálogo cênico.[^folheto]
 
+No 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]], em abril de 2023, o grupo recebeu os prêmios de texto original e cenografia, e o júri deu destaque a Fernando Cruz.[^oestado2023]
+
 Em maio de 2024, o grupo apresentou *Tekoha* na abertura da 15ª edição da mesma mostra, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]]. A reportagem cita Fernando Cruz falando sobre a luta e a resistência da arte.[^cm24]
 
 Em setembro de 2025, *Tekoha* integrou a programação do Festival Internacional de Teatro de Dourados ([[festival-internacional-de-teatro-de-dourados|FIT]]), em apresentação no Parque Rego d'Água, em 20 de setembro.[^fit25]
@@ -39,3 +41,4 @@ Em setembro de 2025, *Tekoha* integrou a programação do Festival Internacional
 [^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 93-94. Acesso em 4 nov. 2026.
 [^fcms2016]: ["Imaginário Maracangalha celebra dez anos de luta e arte a céu aberto"](https://www.fundacaodecultura.ms.gov.br/imaginario-maracangalha-celebra-dez-anos-de-luta-e-arte-a-ceu-aberto/), *Fundação de Cultura de MS*, 23 ago. 2016. Acesso em 4 nov. 2026.
 [^fcms2017]: ["Biblioteca da Fundação de Cultura terá programação intensa de férias com teatro e oficinas"](https://www.fundacaodecultura.ms.gov.br/biblioteca-da-fundacao-de-cultura-tera-programacao-intensa-de-ferias-com-teatro-e-oficinas/), *Fundação de Cultura de MS*, 6 jul. 2017. Acesso em 4 nov. 2026.
+[^oestado2023]: Livia Bezerra, ["Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro"](https://oestadoonline.com.br/arte-e-lazer/cia-camisa-10-grupo-deslimites-e-grupo-ubu-artes-cenicas-sao-os-vencedores-do-cg-ao-teatro/), *O Estado de Mato Grosso do Sul*, 2 maio 2023. Acesso em 4 nov. 2026.

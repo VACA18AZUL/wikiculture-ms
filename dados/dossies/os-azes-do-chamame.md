@@ -23,3 +23,7 @@ Segunda fonte: não encontrada. Busca aberta com Três Lagoas e Moacir: nenhum r
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Azes do Chamamé"): sem resultado. Fonte única: descrições do canal Acervo Digital Memória Fonográfica de MS. Pista: dissertação de Borba (UFPR, 2018), não lida (HTTP 503). Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN ("Azes do Chamamé": dois resultados soltos sem relação), API do O Estado MS e RSS do Google Notícias ("Azes do Chamamé"; Azes Chamamé Três Lagoas: só Festa do Folclore e sanfoneiros atuais, sem menção ao conjunto). Nada mudou.

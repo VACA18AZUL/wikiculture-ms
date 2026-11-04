@@ -49,3 +49,8 @@ Fontes descartadas e o motivo:
 ## Atualização de 2026-11-04 (r3-3)
 
 Fonte nova lida: Karina Medeiros de Lima, Fundação de Cultura de MS, 19 dez. 2024, https://www.fundacaodecultura.ms.gov.br/lancamento-do-documentario-onde-voce-estava-foi-de-muita-emocao-com-homenagens-para-o-professor-roberto-figueiredo/. O grupo se apresentou no lançamento do documentário Onde você estava? (18/12/2024, Teatro Aracy Balabanian), com "Versos deste Chão" (Flora Thomé) e fragmento de Ato de Sobrevivência (Magno Martins, direção de Roberto Figueiredo, estreia 29/11/2024). A matéria não informa o ano de fundação do grupo; o texto cita Figueiredo como coordenador do curso de História da UCDB. O falecimento do professor é citado na matéria; no verbete entra só como contexto do evento. Busca no Correio do Estado e na FCMS por outras matérias sobre o grupo: sem resultado útil (buscas do Correio com acentos devolveram a página inicial). Sem divergências. Fundação (1982) segue só no Campo Grande News.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 6 jan. 2021, Patrícia Belarmino, "Diretor faz lives para falar sobre o teatro campo-grandense" (trecho; a matéria remete à versão digital completa). Série de lives Teatro Brasileiro Fora do Eixo, de Fernando Lopes (Cia. Teatro do Mundo).
+- "Beto Figueiredo", diretor do grupo.

@@ -26,3 +26,7 @@ Buscas (Bataclã/Bataclan com Aquidauana, Paulo Corrêa de Oliveira, CERA; tamb�
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS ("Grupo Bataclan", "Bataclã") sem resultado. Continua só com Moser (que resume Sá Rosa, 1992).
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova. Buscas: Campo Grande News (/buscar?q= Bataclã Aquidauana; "Paulo Corrêa de Oliveira" teatro), API do O Estado MS, RSS do Google Notícias, busca do portal da UFMS. Lidas e sem menção ao grupo: O Pantaneiro, "Aquidauanense Paulo Corrêa de Oliveira receberá título de Professor Emérito da UFMS", 30 jun. 2026; UFMS, "Federal comemora 47 anos com entrega de títulos honoríficos...", jun. 2026. Nada mudou.

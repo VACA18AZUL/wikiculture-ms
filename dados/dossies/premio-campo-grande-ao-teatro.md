@@ -63,3 +63,12 @@ O que mudou:
 - Divergência: CGN 2023 cita Praça Ary Coelho e a Esplanada Ferroviária; CE 2023 confirma ambos nos horários. Sem divergência de local.
 - Ordem de grandeza: edital de 2020 previa 12 palco italiano + 3 rua; a matéria de 22 jan. 2021 cita 7 espetáculos concorrentes (3 adultos, 2 infantis, 2 de rua, na lista, possivelmente incompleta, com ponto e vírgula final solto na categoria adulto). Não entrou no verbete como contagem.
 - Não confirmado: vencedores de 2021 e de 2023 (nenhuma matéria de resultado achada; busca "vencedores" devolveu só homônimos); realização efetiva em 2023 além do anúncio.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 2 maio 2023, Livia Bezerra, "Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro" (lida pela API WordPress do jornal). Resultado do 2º Prêmio Campo Grande ao Teatro, cerimônia no Teatro Glauce Rocha "na noite de quinta-feira (26)" (26/04/2023 caiu numa quarta; o verbete usa só a data).
+- Júri (O Estado): Ataíde Arcoverde, Roma Román, Beth Terras, Marcílio Caetano. Divergência com Correio do Estado (19/04/2023), que lista Roberto Figueiredo no júri no lugar de Marcílio; O Estado põe Roberto entre os homenageados. Registradas as duas versões.
+- Vencedores: rua, O que os Olhos Veem o Coração Sente? (Cia. Camisa 10, dir. Alexandre Mello); infantil, Navegantes (Deslimites, dir. Lú Bigatão; também iluminação e sonoplastia); adulto, Uma Moça da Cidade (UBU Artes Cênicas, dir. Anderson Bosh; também direção, figurino, texto original, maquiagem). Maracangalha: texto original e cenografia (a matéria dá "texto original" a dois grupos e "direção" a três concorrentes: inconsistência da fonte, não resolvida).
+- Destaques: Kelly Figueiredo e Leonardo de Castro (grupo Casa), Fábio Umeda (Deslimites), Fernando Cruz (Maracangalha), Edner Gustavo (UBU e Fulano di Tal).
+- Homenageados: Beth Terras, Roberto Figueiredo, Roma Román. Primeiro troféu para a Vaca Azul (Helton Perez e Hanna Chaves). Troféu: bugre de Conceição dos Bugres feito por Mariano Neto.
+- Fomteatro: a matéria cita como criadores da lei Paulo Preché, Amirtes Menezes e Edson Profeta; não usado no verbete.

@@ -16,3 +16,7 @@ Ressalva: as notícias da FCMS são texto institucional de divulgação, provave
 Fontes abertas que não serviram: busca por "Corixo" no Correio do Estado, A Crítica e Campo Grande News (sem resultado); O Estado Online, matérias sobre o Corixo Cineclube (mesmo veículo da fonte já citada; trazem parceria Teatro do Mundo + Corixo Produções, curadoria de Dannon Lacerda, mas não entraram). curtacampogrande.com.br não resolve na rede da sessão.
 
 Sem segunda fonte jornalística independente: sócios, fundação e outros trabalhos da produtora.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas lidas (Campo Grande News, veículo diferente de O Estado, A Crítica e FCMS; achadas pela busca buscar?q="Corixo Produções"): Thailla Torres, 6 nov. 2025 (segunda edição; realização da Corixo, execução da Prefeitura/Fundac com PNAB, apoio da Fundtur e outros) e 4 nov. 2026 (prêmios da terceira edição; realização da Corixo). Também lida a de 30 abr. 2026 (mesmo texto da FCMS sobre inscrições; não citada para não repetir release). Frase nova no parágrafo de abertura com [^cgn2025][^cgn2026]. A divergência com A Crítica (Fundtur como realizadora) continua registrada.

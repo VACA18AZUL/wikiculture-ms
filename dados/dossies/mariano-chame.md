@@ -25,3 +25,7 @@ Buscas restritas a FCMS, Agência de Notícias, Correio do Estado, A Crítica, C
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Mariano acordeonista Aquidauana"), BDTD (chamamé, acordeon, Aquidauana): sem resultado. Fonte única: descrições do canal Acervo Digital Memória Fonográfica de MS. Pista: dissertação de Borba (UFPR, 2018) sobre o chamamé instrumental em Campo Grande, não lida (HTTP 503). Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN, API do O Estado MS e RSS do Google Notícias ("Grupo Especial Chamamezeiro"): nenhum resultado. Nada mudou.

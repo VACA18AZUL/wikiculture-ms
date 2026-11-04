@@ -19,6 +19,8 @@ Segundo o ator e produtor Edner Gustavo, citado na reportagem, o grupo já havia
 
 Em 2022, o grupo, citado como Ubu de Artes Cênicas, apresentou *Lobo Leopoldo em Chapeuzinho Vermelho* na [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teatro de Bonecos]], em escola agrícola da capital.[^bon22] Em 2017, um coletivo identificado apenas como UBU consta entre os que participaram do espetáculo de circo de encerramento da [[mostra-boca-de-cena|Mostra Boca de Cena]].[^folheto]
 
+Em abril de 2023, *Uma Moça da Cidade*, dirigida por Anderson Bosh, foi eleita o melhor espetáculo adulto do 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]]. Segundo *O Estado de Mato Grosso do Sul*, que chama o grupo de UBU Artes Cênicas, a montagem recebeu também os prêmios de direção, figurino, texto original e maquiagem. O júri deu destaque a [[edner-gustavo|Edner Gustavo]], integrante do grupo.[^oestado2023]
+
 ## Espetáculos
 
 - *Pelega e a Porca Prenha – Na Mata do Pequi* — fábula inspirada em lendas do cerrado, apresentada na turnê de 2025.[^ubu25]
@@ -28,3 +30,4 @@ Em 2022, o grupo, citado como Ubu de Artes Cênicas, apresentou *Lobo Leopoldo e
 [^ubu25]: Thailla Torres, ["Grupo UBU leva teatro popular para 12 cidades e começa por Corumbá"](https://www.campograndenews.com.br/lado-b/diversao/grupo-ubu-leva-teatro-popular-para-12-cidades-e-comeca-por-corumba), *Campo Grande News*, 7 abr. 2025. Acesso em 29 out. 2026.
 [^bon22]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 29 out. 2026.
 [^folheto]: Fundação de Cultura de Mato Grosso do Sul, [*Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017*](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto, 2017. Acesso em 29 out. 2026.
+[^oestado2023]: Livia Bezerra, ["Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro"](https://oestadoonline.com.br/arte-e-lazer/cia-camisa-10-grupo-deslimites-e-grupo-ubu-artes-cenicas-sao-os-vencedores-do-cg-ao-teatro/), *O Estado de Mato Grosso do Sul*, 2 maio 2023. Acesso em 4 nov. 2026.

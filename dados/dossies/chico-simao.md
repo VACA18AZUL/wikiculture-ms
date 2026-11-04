@@ -53,3 +53,12 @@ Descartadas: Correio do Estado 2021 (leilão para autistas; trecho menciona Chic
 ## Uso no verbete
 
 - Entraram os fatos acima, exceto vínculos de emprego.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fontes novas (busca interna do *Campo Grande News*, reportagens próprias do jornal):
+  - Elverson Cardozo, "De olho no carnaval, grupo procura interessados para oficina de percussão", 8 jan. 2014: Francisco Tiago Simão (Chico Simão) coordena com Nola Pompeu o grupo Tambores do Vento Bom, criado em 2006; oficinas para o carnaval. Nome proposto em dados/propostas/nomes-r8-1.csv.
+  - Aline Araújo, "Sarravulho prepara álbum com músicas inéditas...", 8 nov. 2014: Chico na bateria e tambores do Sarravulho; tocava também no Tambores do Vento Bom.
+  - Lucas Arruda, "Afastado dos palcos há dois anos, Sarravulho faz show nesta sexta-feira", 25 set. 2015: volta da banda no Sesc Morada dos Baís; Chico como baterista.
+  - Nyelder Rodrigues, "Oficina gratuita sobre vivência rítmica com percussão abre inscrições", 11 out. 2016: oficina Vivência Rítmica no Centro Cultural, 20 vagas, a partir de 12 anos, três meses (reforça fcms2016).
+- Fora do verbete: idade (2014), motivo de saúde da pausa do Sarravulho (2013), telefones e documentos exigidos.

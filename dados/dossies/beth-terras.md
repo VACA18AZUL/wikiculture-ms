@@ -59,3 +59,7 @@ O que mudou: acrescentado parágrafo sobre a homenagem no Boca de Cena 2018 (26 
 
 Observações: a contagem de carreira difere por um ano (39 em 2018, 46 em 2024 segundo cgn2024a), sem divergência de fato relevante. A FCMS repete a origem do nome da companhia (avô): vida familiar, fora. Buscas em A Crítica e Correio do Estado sem resultado pertinente. Segunda fonte independente do veículo CGN obtida para a atuação e a companhia; a morte (2024) segue só no Campo Grande News.
 
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 2 maio 2023, Livia Bezerra, "Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro" (lida pela API WordPress do jornal). Resultado do 2º Prêmio Campo Grande ao Teatro, cerimônia no Teatro Glauce Rocha "na noite de quinta-feira (26)" (26/04/2023 caiu numa quarta; o verbete usa só a data).
+- Jurada e homenageada; declaração de agradecimento.

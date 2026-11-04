@@ -18,6 +18,8 @@ Em junho de 2022, a programação do [[mostra-boca-de-cena|Boca de Cena]], virad
 
 Em novembro de 2022, a Deslimites promoveu, com a Secretaria Municipal de Cultura e Turismo, a [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teatro de Bonecos]], programada de 4 a 20 de novembro, com espetáculos gratuitos para crianças e jovens em praças, escolas rurais e teatros. A abertura estava marcada para o [[teatral-grupo-de-risco|Teatral Grupo de Risco]], com *Navegantes*.[^cgn2022b] Durante a mostra, o mesmo espaço recebeu uma exposição de bonecos de várias técnicas, como luva, marionete, vara e manipulação direta, feitos por bonequeiros como [[wilson-motta|Wilson Motta]], [[jorge-de-barros|Jorge de Barros]] e [[miska-thome|Miska Thomé]]. A produtora [[fernanda-kunzler|Fernanda Kunzler]] integrava o elenco de três espetáculos da mostra.[^cgn2022c]
 
+Em abril de 2023, *Navegantes*, com direção de Lú Bigatão, foi eleito o melhor espetáculo infantil do 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]]. O grupo recebeu também os prêmios de iluminação e sonoplastia, e o júri deu destaque a Fábio Umeda, do Deslimites.[^oestado2023]
+
 Em outubro de 2026, a Cia Deslimites foi anunciada no [[sesc-teatro-prosa|Sesc Teatro Prosa]], em Campo Grande, com *Navegantes: Uma Viagem Pelos Rios Brasileiros*, para 7 de novembro.[^acritica2026]
 
 ## Espetáculos
@@ -31,3 +33,4 @@ Em outubro de 2026, a Cia Deslimites foi anunciada no [[sesc-teatro-prosa|Sesc T
 [^cgn2022c]: Aletheya Alves, ["Em mostra de teatro, público irá imergir em mundo de bonecos"](https://www.campograndenews.com.br/lado-b/diversao/em-mostra-de-teatro-publico-ira-imergir-em-mundo-de-bonecos), *Campo Grande News*, 5 nov. 2022. Acesso em 4 nov. 2026.
 [^ce2022]: Valesca Consolaro, ["Confira as atrações regionais do Festival de Inverno de Bonito 2022"](https://correiodoestado.com.br/correio-b/confira-as-atracoes-regionais-do-festival-de-inverno-de-bonito-2022/403634/), *Correio do Estado*, 12 ago. 2022. Acesso em 4 nov. 2026.
 [^acritica2026]: Ricardo Eugenio, ["Peça de bonecos 'Navegantes' leva uma peixinha do Pantanal ao mar no Sesc Teatro Prosa em 7 de novembro"](https://acritica.net/eventos/navegantes-cia-deslimites-teatro-de-bonecos-sesc-teatro-prosa-7-novembro/), *A Crítica de Campo Grande*, 15 out. 2026. Acesso em 4 nov. 2026.
+[^oestado2023]: Livia Bezerra, ["Cia. Camisa 10, Grupo Deslimites e Grupo UBU Artes Cênicas são os vencedores do CG ao Teatro"](https://oestadoonline.com.br/arte-e-lazer/cia-camisa-10-grupo-deslimites-e-grupo-ubu-artes-cenicas-sao-os-vencedores-do-cg-ao-teatro/), *O Estado de Mato Grosso do Sul*, 2 maio 2023. Acesso em 4 nov. 2026.
