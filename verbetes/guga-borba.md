@@ -22,18 +22,18 @@ Com Guilherme Cruz, no Filho dos Livres, compôs a trilha do documentário *Sash
 
 O primeiro disco solo, *Apneia*, saiu em 2011, com dez canções inéditas e uma releitura de "É Necessário", de [[geraldo-espindola|Geraldo Espíndola]].[^fcms2016a] O segundo, *7º Satélite*, foi lançado em 2015, com produção de Antonio Porto. O álbum ficou disponível no portal Palco MP3 e recebeu o prêmio Palco MP3 de mais acessado na categoria folk.[^fcms2016b][^fcms2017] Em julho de 2016, apresentou o disco no Som da Concha, na Concha Acústica Helena Meirelles, em Campo Grande, sua primeira vez no projeto em carreira solo, com uma versão de "Mochileira", de [[geraldo-roca|Geraldo Roca]].[^fcms2016b]
 
-Em 21 de maio de 2017, abriu na Concha Acústica o Circuito Águasom, espetáculo com patrocínio do Fundo de Investimentos Culturais (FIC) que passaria por outras cinco cidades do estado, com canções sobre os rios e o patrimônio ecológico de MS e homenagem a [[helena-meirelles|Helena Meirelles]].[^fcms2017]
+Para 21 de maio de 2017, a Fundação de Cultura anunciou na Concha Acústica a abertura do Circuito Águasom, espetáculo dele com patrocínio do Fundo de Investimentos Culturais (FIC) que passaria por outras cinco cidades do estado, com canções sobre os rios e o patrimônio ecológico de MS e homenagem a [[helena-meirelles|Helena Meirelles]].[^fcms2017]
 
-Em 22 de agosto de 2024, no [[festival-de-inverno-de-bonito-2024|23º Festival de Inverno de Bonito]], o Filho dos Livres e [[bando-do-velho-jack|O Bando do Velho Jack]] apresentaram juntos o show *Fundição*, com versões em rock de clássicos regionais como "Trem do Pantanal" e "Comitiva Esperança".[^fcms2024] Em 18 de maio de 2025, no último dia do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, apresentou o show solo *A Máquina Temporal*, que revisitava a carreira e incluía a canção recente "O Lugar dos Anjos".[^fcms2025] Em agosto de 2026, foi anunciado para abrir a noite de estreia do Araruna Show Bar, em Campo Grande, antes do grupo Violões em Fúria.[^acritica2026]
+Em 22 de agosto de 2024, no [[festival-de-inverno-de-bonito-2024|23º Festival de Inverno de Bonito]], o Filho dos Livres e [[bando-do-velho-jack|O Bando do Velho Jack]] apresentaram juntos o show *Fundição*, com versões em rock de clássicos regionais como "Trem do Pantanal" e "Comitiva Esperança".[^fcms2024] Em 18 de maio de 2025, no último dia do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, apresentou o show solo *A Máquina Temporal*, que revisitava a carreira e incluía a canção recente "O Lugar dos Anjos".[^fcms2025] Em agosto de 2026, foi anunciado, com o grupo Violões em Fúria, para a noite de estreia do Araruna Show Bar, em Campo Grande.[^acritica2026]
 
 ## Divergências sobre datas
 
-Os textos da Fundação de Cultura de MS de 2016 e 2017 falam em 25 anos de carreira; o de 2025, em 30 anos; o da *A Crítica* de 2026, em 35 anos.[^fcms2016b][^fcms2017][^fcms2025][^acritica2026] Em 2016, a fundação data *7º Satélite* de 2015; em 2025, Guga cita "2015, 2016" para o álbum e grafa o primeiro disco como *Apnea*.[^fcms2016b][^fcms2025]
+Os textos da Fundação de Cultura de MS de 2016 e 2017 falam em 25 anos de carreira; o de 2025, em 30 anos; o da *A Crítica* de 2026, em 35 anos.[^fcms2016b][^fcms2017][^fcms2025][^acritica2026] Em 2017, a fundação data *7º Satélite* de 2015; em 2025, Guga cita "2015, 2016" para o álbum e o texto grafa o primeiro disco como *Apnea*.[^fcms2017][^fcms2025]
 
 ## Discografia
 
 - *Apneia* (2011) — primeiro álbum solo.[^fcms2016a]
-- *7º Satélite* (2015) — álbum solo; produção de Antonio Porto.[^fcms2016b]
+- *7º Satélite* (2015) — álbum solo; produção de Antonio Porto.[^fcms2016b][^fcms2017]
 
 ## Videografia
 

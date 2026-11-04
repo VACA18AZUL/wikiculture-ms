@@ -21,8 +21,11 @@ Segundo o catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contempor�
 
 O mesmo texto diz que ele assumiu sobretudo a parte boliviana de sua identidade e desenvolveu projetos com conselhos indígenas de várias etnias daquela região. Descreve sua trajetória como a de inventor, arquiteto, pintor e desenhista.[^marco30]
 
+Em maio de 2018, a Fundação de Cultura de MS (FCMS) noticiou que obras de Abílio Escalante, do acervo do MARCO, integravam a mostra *Matizes da América do Sul*, exposta na Casa da Beneficência Portuguesa durante o 14º Festival América do Sul Pantanal, em Corumbá. Segundo a curadora Lucia Montserrat, citada na matéria, a mostra era um recorte do acervo do museu com artistas sul-americanos.[^fcms2018]
+
 ## Obras
 
 - *Mato y flores* (1979) — óleo sobre tela, 46 x 61 cm; acervo do MARCO, selecionada para o catálogo comemorativo de 30 anos do museu.[^marco30]
 
 [^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 5-6. Acesso em 4 nov. 2026.
+[^fcms2018]: Alline Gois, ["Faces da América do Sul: pinturas de artistas visuais estão em exposição no 14º FASP"](https://www.fundacaodecultura.ms.gov.br/faces-da-america-do-sul-pinturas-de-artistas-visuais-estao-em-exposicao-no-14o-fasp/), Fundação de Cultura de Mato Grosso do Sul, 25 maio 2018. Acesso em 4 nov. 2026.
