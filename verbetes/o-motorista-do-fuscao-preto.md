@@ -19,7 +19,7 @@ atualizado: 2026-11-04
 
 Segundo Alexandre Aldo Neves, o diretor, ligado à produção paulista da Boca do Lixo, escolheu Paranaíba pelas facilidades oferecidas pela prefeitura: hospedagem de atores e equipe, locações e apoio logístico. A produção foi da paulista Spectrus, de Sérgio Tufik.[^neves]
 
-A Cinemateca Brasileira registra como produtoras a Spectrus Produções Cinematográficas e a Cinematográfica Taurus, com locação em Paranaíba. Dá o argumento a Diogo Angélica e o roteiro a ele e a José Adalto Cardoso. O filme tem 82 minutos, em cor.[^cinemateca]
+A Cinemateca Brasileira registra como produtoras a Spectrus Produções Cinematográficas e a Cinematográfica Taurus, com locação em Paranaíba. Dá o argumento a Diogo Angélica e o roteiro a ele e a José Adalto Cardoso. Diogo Angélica aparece ainda na direção de produção e como produtor associado. O filme tem 82 minutos, em cor.[^cinemateca]
 
 ## Enredo
 
@@ -27,7 +27,7 @@ Lula, mecânico de uma pequena cidade do interior, quer subir de posição para 
 
 ## Lançamento
 
-A distribuição foi da Luna Filmes.[^neves][^cinemateca] Neves dá o lançamento em São Paulo em 2 de dezembro de 1982.[^neves] A Cinemateca registra o lançamento em 2 de outubro de 1982, nas salas Art-São Paulo e circuito, e anota que a lista da Embrafilme de 1982 aponta 2 de dezembro de 1982.[^cinemateca]
+A distribuição foi da Luna Filmes.[^neves][^cinemateca] Neves, com base na página da Cinemateca, dá o lançamento em São Paulo em 2 de dezembro de 1982.[^neves] A Cinemateca registra o lançamento em 2 de outubro de 1982, nas salas Art-São Paulo e circuito, e anota que a lista da Embrafilme de 1982 aponta 2 de dezembro de 1982.[^cinemateca]
 
 ## Ficha técnica
 

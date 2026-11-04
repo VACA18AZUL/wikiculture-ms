@@ -17,24 +17,24 @@ atualizado: 2026-11-04
 
 ## Produção
 
-Segundo Alexandre Aldo Neves, o filme marcou a retomada da parceria entre Wulfes e Luxardo, que antes haviam feito [[alma-do-brasil|*Alma do Brasil*]]. Neves o atribui à Lux Filmes, com patrocínio da Cinédia, de Adhemar Gonzaga.[^neves] A Cinemateca Brasileira registra a Cinédia como produtora e a Lux Filmes como coprodutora, com produção de Gonzaga.[^cinemateca]
+Segundo Alexandre Aldo Neves, o filme marcou a retomada da parceria entre Wulfes e Luxardo, que antes haviam feito [[alma-do-brasil|*Alma do Brasil*]]. Neves o atribui à Lux Filmes, com patrocínio da Cinédia, de Adhemar Gonzaga.[^neves] A Cinemateca Brasileira registra a Cinédia como produtora e a Lux Filmes como coprodutora, com produção de Gonzaga. Nas observações do registro, a Cinemateca anota que a censura federal consignou o filme só à Lux Filme e que a revista *Cinearte*, em 1936, indicou Wulfes e Luxardo como produtores.[^cinemateca]
 
 A Cinemateca dá as filmagens entre 19 de junho e 25 de agosto de 1936. O filme é um longa sonoro de ficção, em 35 mm, preto e branco, com 75 minutos, classificado como comédia.[^cinemateca]
 
 ## Enredo e leitura
 
-A sinopse reproduzida por Neves e pela Cinemateca acompanha Barbosa Junior, locutor de uma rádio em crise financeira. Para salvar a emissora, ele organiza uma expedição aos pantanais de Mato Grosso para transmitir uma caçada. O filme mistura cenas de natureza e episódios cômicos.[^neves][^cinemateca]
+A sinopse publicada em *A Scena Muda* em 1936, reproduzida pela Cinemateca e, via Antônio Leão da Silva Neto (2002), por Neves, acompanha Barbosa Junior, locutor de uma rádio em crise financeira. Para salvar a emissora, ele organiza uma expedição aos pantanais de Mato Grosso para transmitir uma caçada. O filme mistura cenas de natureza e episódios cômicos.[^neves][^cinemateca]
 
 Para Neves, o filme mostra o sertão pantaneiro como espetáculo exótico e mítico a ser explorado, visão comum do interior do Brasil até meados do século XX.[^neves]
 
 ## Lançamento
 
-O lançamento foi em 28 de setembro de 1936, no Rio de Janeiro, no cine Alhambra. Depois o filme foi exibido em São Paulo, em janeiro e fevereiro de 1937, em Curitiba, em julho de 1937, e em Maceió.[^cinemateca] Neves cita os mesmos três circuitos.[^neves]
+O lançamento foi em 28 de setembro de 1936, no Rio de Janeiro, no cine Alhambra. Depois o filme foi exibido em São Paulo, em janeiro e fevereiro de 1937, em Curitiba, em julho de 1937, e em Maceió.[^cinemateca] Neves, com dados da Cinemateca, cita os circuitos de São Paulo, Curitiba e Maceió.[^neves]
 
 ## Ficha técnica
 
 - Direção: [[libero-luxardo|Líbero Luxardo]][^neves][^cinemateca]
-- Câmera: [[alexandre-wulfes|Alexandre Wulfes]][^neves][^cinemateca]
+- Câmera: [[alexandre-wulfes|Alexandre Wulfes]][^neves][^cinemateca] (uma das fontes reunidas pela Cinemateca indica Edgar Brasil)[^cinemateca]
 - Produção: [[adhemar-gonzaga|Adhemar Gonzaga]][^cinemateca]
 - Argumento: R. Magalhães Jr.[^cinemateca]
 - Direção de som: Afrodísio P. de Castro[^cinemateca]

@@ -3,7 +3,7 @@ titulo: Emmanuel Merlotti
 tipo: pessoa
 areas: [artes-plasticas, literatura]
 cidade: Campo Grande
-resumo: Quadrinista, ilustrador e caricaturista de Campo Grande, autor da série "Lázaros Hunter" e idealizador do projeto Tereré e Quadrinhos. Em 2026, fez sua quarta participação no FIQ, em Belo Horizonte.
+resumo: Quadrinista, ilustrador e caricaturista de Campo Grande, autor da série "Lázaros Hunter" e idealizador do projeto Tereré e Quadrinhos. Em novembro de 2026, foi anunciado para sua quarta participação no FIQ, em Belo Horizonte.
 ficha:
   Atividade: "quadrinhos, ilustração, caricatura, charge"
   Projetos: Tereré e Quadrinhos
@@ -23,17 +23,17 @@ A série *Lázaros* tem como protagonista um ex-detetive de homicídios que vira
 
 ## Tereré e Quadrinhos
 
-O Tereré e Quadrinhos é um projeto de divulgação de histórias em quadrinhos de Mato Grosso do Sul, nascido de uma experiência entre quadrinistas locais e retomado por Merlotti.[^oe2026] Em 5 de agosto de 2026, teve a primeira edição no formato "Tereré e Quadrinhos no Rolê", na Capivas Cervejaria, em Campo Grande. A programação reunia mesas de quadrinistas, uma Batalha de Desenhistas com temas do público, caricaturas ao vivo e sorteios. Estavam anunciados, além de Merlotti, Gabriella Matoso, Tieko Saka, Very Ruim, Marina Duarte, Murillo Brittes e a *Revista Badaró*.[^oe2026][^ce2026]
+O Tereré e Quadrinhos é um projeto de divulgação de histórias em quadrinhos de Mato Grosso do Sul, nascido de uma experiência entre quadrinistas locais e retomado por Merlotti.[^oe2026] Em 5 de agosto de 2026, teve a primeira edição no formato "Tereré e Quadrinhos no Rolê", na Capivas Cervejaria, em Campo Grande. A programação divulgada previa estandes de quadrinistas, uma Batalha de Desenhistas com temas escolhidos pelo público, caricaturas ao vivo e sorteios. Estavam anunciados, além de Merlotti, Gabriella Matoso, Tieko Saka, Very Ruim, Marina Duarte, Murillo Brittes e a *Revista Badaró*.[^oe2026][^ce2026]
 
 ## FIQ
 
-Em novembro de 2026, participou pela quarta vez do Festival Internacional de Quadrinhos (FIQ), em Belo Horizonte, realizado de 4 a 8 de novembro. Levou para lançamento a revista *Lázaros Hunter: Crimes de Guerra*, em que o personagem enfrenta uma célula da Ku Klux Klan numa delegacia de cidade pequena, no Natal. Também levou para venda a edição anterior, *Lázaros Hunter: O Silêncio dos Inocentes*.[^ce2026][^cgn2026b]
+Às vésperas do Festival Internacional de Quadrinhos (FIQ) de 2026, em Belo Horizonte, programado de 4 a 8 de novembro, o *Correio do Estado* e o *Campo Grande News* noticiaram que Merlotti iria ao evento pela quarta vez. Ele anunciou o lançamento da revista *Lázaros Hunter: Crimes de Guerra*, na qual o protagonista combate integrantes da Ku Klux Klan dentro da delegacia de uma cidade pequena, durante o Natal, e a venda da edição anterior, *Lázaros Hunter: O Silêncio dos Inocentes*.[^ce2026][^cgn2026b]
 
 ## Obras
 
 - *A Maldição da Pedra Escarlate* — quadrinhos, editora Skript; arte.[^ce2026]
 - *Lázaros Hunter: O Silêncio dos Inocentes* — quadrinhos; roteiro e arte.[^ce2026]
-- *Lázaros Hunter: Crimes de Guerra* (2026) — quadrinhos; lançamento no FIQ.[^ce2026]
+- *Lázaros Hunter: Crimes de Guerra* (2026) — quadrinhos; lançamento anunciado para o FIQ.[^ce2026]
 
 [^ce2026]: Leo Ribeiro, ["Idealizador do 'Tereré e Quadrinhos' vai pela 4.ª vez à FIQ em BH"](https://correiodoestado.com.br/correio-b/2026/11/04/idealizador-do-terere-e-quadrinhos-vai-pela-4a-vez-a-fiq-em-bh.html), *Correio do Estado*, 4 nov. 2026. Acesso em 4 nov. 2026.
 [^cgn2026a]: Natália Olliver, ["Emmanuel esperou 20 anos para viver o sonho de desenhar HQ"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/emmanuel-esperou-20-anos-para-viver-o-sonho-de-desenhar-hq), *Campo Grande News*, 24 abr. 2026. Acesso em 4 nov. 2026.

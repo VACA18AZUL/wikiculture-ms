@@ -22,7 +22,7 @@ atualizado: 2026-11-04
 
 Alexandre Aldo Neves reproduz o relato de Cardoso, publicado na biografia escrita por Henrique Alberto de Medeiros Filho (2006): a ideia surgiu numa viagem de ônibus leito entre São Paulo e Campo Grande, e Cardoso a contou a Ody Fraga. Segundo Neves, Fraga desenvolveu a trama com sequências aéreas, perseguições e tiroteios. O filme foi feito quase todo em locações em Mato Grosso do Sul, em Miranda, Campo Grande e Maracaju, durante dois meses, com equipe de 50 pessoas.[^neves]
 
-A Cinemateca registra a produção pela Dacar Produções Cinematográficas, com Cardoso como produtor e autor do argumento e roteiro e adaptação de Ody Fraga, que também foi assistente de direção. O filme tem 88 minutos, em cor, e foi distribuído pela Seleção Ouro.[^cinemateca] Neves registra que a Dacar foi fundada por Cardoso em 1974.[^neves]
+A Cinemateca registra a produção pela Dacar Produções Cinematográficas, com Cardoso como produtor e autor do argumento. O roteiro e a adaptação são de Ody Fraga, que também foi assistente de direção. O filme tem 88 minutos, em cor, e foi distribuído pela Seleção Ouro.[^cinemateca] Neves registra que a Dacar foi fundada por Cardoso em 1974.[^neves]
 
 ## Enredo
 
@@ -30,7 +30,7 @@ Dezoito universitárias de São Paulo e uma professora alugam um ônibus para um
 
 ## Lançamento e público
 
-A Cinemateca registra o lançamento em Presidente Prudente (SP), em 12 de maio de 1977, e a exibição em São Paulo a partir de 13 de junho de 1977.[^cinemateca] Neves diz, sem indicar a fonte dos números, que a produção custou cerca de 1 milhão de dólares e teve mais de 2 milhões de espectadores no país, e o aponta como um dos maiores sucessos de público de Cardoso.[^neves]
+A Cinemateca registra o lançamento em Presidente Prudente (SP), em 12 de maio de 1977, e a exibição em São Paulo a partir de 13 de junho de 1977.[^cinemateca] Neves diz, que a produção custou cerca de 1 milhão de dólares e teve mais de 2 milhões de espectadores no país, e o aponta como um dos maiores sucessos de público de Cardoso.[^neves]
 
 ## Ficha técnica
 
