@@ -48,7 +48,7 @@ A página da Academia lista doze livros:[^asl]
 
 ## Prêmios
 
-A Academia registra o 1.º lugar no Concurso Pérolas da Literatura (Guarujá, SP), no Concurso Contos e Poesias "Paulo Setúbal" (Tatuí, SP), no Prêmio Araucária de Literatura (Campos do Jordão, SP) e no Concurso de Crônicas de Ponta Grossa (PR, 2011). Registra também o 3.º lugar na 29.ª Noite Nacional da Poesia (UBE-MS/Sectur), em 2017.[^asl]
+A Academia registra, numa lista aberta por "1º lugar", o Concurso Pérolas da Literatura (Guarujá, SP), o Concurso Contos e Poesias "Paulo Setúbal" (Tatuí, SP), o Prêmio Araucária de Literatura (Campos do Jordão, SP) e o Concurso de Crônicas de Ponta Grossa (PR, 2011); a página não deixa claro se a colocação vale para todos. Registra também o 3.º lugar na 29.ª Noite Nacional da Poesia (UBE-MS/Sectur), em 2017.[^asl]
 
 [^asl]: ["Ileides Muller"](https://acletrasms.org.br/portfolio-item/ileides-muller/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 40. Acesso em 4 nov. 2026.
 [^dn2020]: Dourados News, ["Livro que reúne cinco poetas de MS será lançado na próxima semana"](https://www.diarioitapora.com.br/noticias/cultura-lazer/livro-que-reune-cinco-poetas-de-ms-sera-lancado-na-proxima-semana/), *Diário Itaporã*, 2 mar. 2020. Acesso em 4 nov. 2026.

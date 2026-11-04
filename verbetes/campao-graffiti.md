@@ -20,7 +20,7 @@ A primeira edição foi em 11 de março de 2023, na Vila Marli, em parceria com 
 
 A segunda edição foi em 10 de março de 2024. Treze grafiteiros pintaram 120 metros do muro do almoxarifado da Prefeitura de Campo Grande, na Avenida Fábio Zahran, com o tema "Fauna, Flora e Letras". O evento teve apoio e autorização da prefeitura e patrocínio de empresas locais.[^cgn2024a][^cgn2024b]
 
-A terceira edição, chamada "Dia do Graffiti: Arte Urbana e Cultura", teve o tema "Cidadania e Cultura" e foi financiada pela Lei Paulo Gustavo, por edital da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]].[^fcms2025] Nos dias 6 e 7 de março de 2025, o grafiteiro amazonense [[andre-hulk|André Hulk]] deu oficinas em duas escolas municipais próximas às aldeias urbanas Água Bonita e Darcy Ribeiro, ligando o grafite ao grafismo indígena.[^cgn2025c] Em 9 de março, artistas pintaram a ONG Núcleo Humanitário da Vila Nhanhá e quase todas as casas da Rua do Comércio, bairro onde San Martinez cresceu.[^cgn2025c]
+A terceira edição, chamada "Dia do Graffiti: Arte Urbana e Cultura", teve o tema "Cidadania e Cultura" e foi financiada pela Lei Paulo Gustavo, por edital da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]].[^fcms2025] O grafiteiro amazonense [[andre-hulk|André Hulk]] deu oficinas em duas escolas municipais próximas às aldeias urbanas Água Bonita e Darcy Ribeiro, ligando o grafite ao grafismo indígena. As datas variam: os anúncios de fevereiro indicam 7 e 8 de março de 2025,[^fcms2025][^cgn2025a] e as matérias de março, 6 e 7 de março.[^cgn2025b][^cgn2025c] Em 9 de março, artistas pintaram a ONG Núcleo Humanitário da Vila Nhanhá e quase todas as casas da Rua do Comércio, bairro onde San Martinez cresceu.[^cgn2025c]
 
 ## Artistas
 
