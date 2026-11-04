@@ -16,13 +16,13 @@ atualizado: 2026-11-04
 
 ## Produção
 
-O filme foi gravado em cinco dias, na primeira quinzena de outubro de 2025, numa casa de conjunto habitacional do bairro Jardim Monte Alegre, em Campo Grande. Acompanha a amizade entre uma senhora cadeirante que faz poesia e uma jovem que tenta se firmar como artista na cidade. Segundo o diretor, a água e o rio guiam o filme. A produção teve recursos da Política Nacional Aldir Blanc, com edital da Prefeitura de Campo Grande operado pela [[fundac|Fundac]].[^cc2025]
+Segundo texto de assessoria publicado em 16 de outubro de 2025, o filme foi gravado em cinco dias numa casa de conjunto habitacional do bairro Jardim Monte Alegre, em Campo Grande. Acompanha a amizade entre uma senhora cadeirante que faz poesia e uma jovem que tenta se firmar como artista na cidade. Segundo o diretor, a água e o rio guiam o filme. A produção teve recursos da Política Nacional Aldir Blanc, com edital da Prefeitura de Campo Grande operado pela [[fundac|Fundac]].[^cc2025]
 
 Terezinha interpreta uma versão de si mesma, e Gleycielle Nonato Guató faz Lucila, jovem indígena recém-chegada à capital. O Campo Grande News apresentou o curta como a estreia de Terezinha no cinema, aos 77 anos.[^cgn2026]
 
 ## Exibição
 
-A pré-estreia gratuita foi anunciada para 28 de maio de 2026, na Casa de Ciência e Cultura da UFMS, em Campo Grande, seguida de cine-debate. Depois, o filme seria exibido em escolas municipais dos distritos de Anhanduí e Rochedinho.[^cgn2026][^acritica2026]
+A pré-estreia gratuita foi anunciada para 28 de maio de 2026, na Casa de Ciência e Cultura da UFMS, em Campo Grande, seguida de cine-debate. Depois, estavam previstas sessões em escolas municipais nos distritos de Anhanduí e Rochedinho.[^cgn2026][^acritica2026]
 
 ## Ficha técnica
 

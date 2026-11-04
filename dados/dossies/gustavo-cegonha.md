@@ -45,3 +45,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Tudo entrou; verbete curto, só cargo e período.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fonte independente do Campo Grande News (aberta e lida): "Museu de Arte Contemporânea de MS reabre com a 1ª Temporada de Exposições 2022", Fundação de Cultura de MS, 15 mar. 2022. https://www.fundacaodecultura.ms.gov.br/museu-de-arte-contemporanea-de-ms-reabre-com-a-1a-temporada-de-exposicoes-2022/
+Sustenta: cargo de diretor-presidente da FCMS em março de 2022; fala sobre a reabertura; temporada de 23/03 a 05/06/2022. Fonte institucional do próprio órgão que ele dirigia (não é imprensa; vale como fonte do cargo, não como avaliação). Nota [^fcms2022] acrescentada a Trajetória.
+Não confirmado ainda: interinidade em 2020 e data de posse; permanência até janeiro de 2023 só no CGN (2023).

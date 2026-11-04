@@ -15,9 +15,10 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em março de 2022, como diretor-presidente da FCMS, comentou na imprensa a reabertura anunciada do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul]] (Marco), fechado ao público havia dois anos. A reabertura estava marcada para 23 de março, com a 1ª Temporada de Exposições de 2022.[^cgn2022]
+Em março de 2022, como diretor-presidente da FCMS, comentou na imprensa a reabertura anunciada do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul]] (Marco), fechado ao público havia dois anos. A reabertura estava marcada para 23 de março, com a 1ª Temporada de Exposições de 2022.[^cgn2022] A nota da própria Fundação de Cultura, de 15 de março de 2022, também o identifica como diretor-presidente da FCMS e registra a avaliação dele de que a reabertura do museu era importante para toda a sociedade, depois de dois anos marcados pela pandemia. A nota informa que a temporada seguiria de 23 de março a 5 de junho de 2022, com entrada gratuita.[^fcms2022]
 
 Em janeiro de 2023, com o início do governo de Eduardo Riedel, o secretário municipal de Cultura e Turismo de Campo Grande, Max Freitas, deixou o cargo para presidir a FCMS. A reportagem registra que quem estava à frente da fundação até então era Gustavo Cegonha.[^cgn2023]
 
 [^cgn2022]: Adriano Fernandes, ["Após 2 anos fechado ao público, Marco reabre com a 1ª Temporada de Exposições"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/apos-2-anos-fechado-ao-publico-marco-reabre-com-a-1a-temporada-de-exposicoes), *Campo Grande News*, 15 mar. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Caroline Maldonado e Renata Volpe, ["Max deixa Prefeitura para assumir a Fundação de Cultura de MS"](https://www.campograndenews.com.br/politica/max-deixa-prefeitura-para-assumir-a-fundacao-de-cultura-de-ms), *Campo Grande News*, 9 jan. 2023. Acesso em 4 nov. 2026.
+[^fcms2022]: ["Museu de Arte Contemporânea de MS reabre com a 1ª Temporada de Exposições 2022"](https://www.fundacaodecultura.ms.gov.br/museu-de-arte-contemporanea-de-ms-reabre-com-a-1a-temporada-de-exposicoes-2022/), Fundação de Cultura de MS, 15 mar. 2022. Acesso em 4 nov. 2026.

@@ -33,5 +33,5 @@ O catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contemporânea de 
 - *Fábula infantil* (2024), óleo sobre tela.[^ouvirouver2025]
 - *Fábula cotidiana 2* (2025), óleo sobre tela.[^ouvirouver2025]
 
-[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 51. Acesso em 4 nov. 2026.
+[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 51-52. Acesso em 4 nov. 2026.
 [^ouvirouver2025]: Priscilla de Paula Pessoa, ["Fábulas instantâneas"](https://seer.ufu.br/index.php/ouvirouver/article/view/78103), *ouvirOUver*, Uberlândia, v. 21, n. 2, p. 300-320, jul.-dez. 2025. Acesso em 4 nov. 2026.
