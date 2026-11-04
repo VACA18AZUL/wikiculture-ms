@@ -23,4 +23,4 @@ Buscas sem resultado: Correio do Estado ("caio mourao").
 
 ## Por que fora do escopo
 
-- A fonte só registra uma opinião publicada numa revista de MS. Não diz que ele viveu, trabalhou ou expôs no estado. Não juntar com o joalheiro homônimo conhecido de outros estados sem fonte que ligue os dois a MS. Reabrir se aparecer fonte de atuação em MS.
+- A fonte só registra uma opinião publicada numa revista de MS. Não diz que ele viveu, trabalhou ou expôs no estado. Não juntar com homônimos sem fonte que os ligue a MS. Reabrir se aparecer fonte de atuação em MS.

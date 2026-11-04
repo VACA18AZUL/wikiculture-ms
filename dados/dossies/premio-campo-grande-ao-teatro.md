@@ -45,3 +45,21 @@ Ligações possíveis não feitas (só o título coincide; a fonte não diz o gr
 
 - Resumo reescrito; campo da ficha virou "Edital de 2023".
 - Segunda grafia do título registrada no item.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fontes novas (outro veículo: Correio do Estado; busca do site por "Prêmio Campo Grande ao Teatro"):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| ce2020 | "Primeira edição do Prêmio Campo Grande ao Teatro está com inscrições abertas", Correio do Estado, 24 dez. 2020 | https://correiodoestado.com.br/correio-b/2020/12/24/primeira-edicao-do-premio-campo-grande-ao-teatro-esta-com-inscricoes-abertas.html | sim |
+| ce2021 | "Fim de semana tem entrega do 1º Prêmio Campo Grande ao Teatro e espetáculo gratuito de dança", Correio do Estado, 22 jan. 2021 | https://correiodoestado.com.br/correio-b/2021/01/22/fim-de-semana-tem-entrega-do-1o-premio-campo-grande-ao-teatro-e-espetaculo-gratuito-de-danca.html | sim |
+| ce2023 | "Segunda edição do Prêmio Campo Grande ao Teatro terá 10 peças em três dias", Correio do Estado, 19 abr. 2023 | https://correiodoestado.com.br/correio-b/2023/04/19/segunda-edicao-do-premio-campo-grande-ao-teatro-tera-10-pecas-em-tres-dias.html | sim |
+
+O que mudou:
+- Reforço independente da 2ª edição: dez selecionados (mesma lista dos oito títulos mais os dois de rua), datas 24 a 26 abr. 2023, Teatro Glauce Rocha e praças, prêmio de R$ 4 mil por categoria, troféus, organização por Espedito Di Montebranco. Acrescentado: financiamento Fomteatro/Sectur, apoio da UFMS e o júri completo (Ataide Arcoverde, Beth Terras, Roberto Figueiredo, Roma Román).
+- Novo: 1ª edição (inscrições até 30 dez. 2020; apresentações gravadas de 17 a 21 jan. 2021; cerimônia on-line em 22 jan. 2021; homenageados Bianca Machado, Emmanuel Marinho, Edilton Ramos, que formavam o júri).
+- Divergência de grafia: CGN "As Miragens no Asfalto" (e "do Asfalto" na programação); CE "As Miragens do Asfalto". Verbete mantém as duas.
+- Divergência: CGN 2023 cita Praça Ary Coelho e a Esplanada Ferroviária; CE 2023 confirma ambos nos horários. Sem divergência de local.
+- Ordem de grandeza: edital de 2020 previa 12 palco italiano + 3 rua; a matéria de 22 jan. 2021 cita 7 espetáculos concorrentes (3 adultos, 2 infantis, 2 de rua, na lista, possivelmente incompleta, com ponto e vírgula final solto na categoria adulto). Não entrou no verbete como contagem.
+- Não confirmado: vencedores de 2021 e de 2023 (nenhuma matéria de resultado achada; busca "vencedores" devolveu só homônimos); realização efetiva em 2023 além do anúncio.

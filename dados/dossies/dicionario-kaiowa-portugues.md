@@ -18,4 +18,4 @@
 
 ## Decisão
 
-- Fonte única e sem dados da obra. Situação: incorporado-em:candida-chamorro (item na seção Obras, com nota ce2026).
+- Fonte única e sem dados da obra. Situação: incorporado-em:graciela-chamorro (item na seção Obras, com nota ce2026).
