@@ -1,0 +1,13 @@
+# Dossiê: mariano-chame
+
+## Atualização de 2026-11-04
+
+Releitura das duas descrições do canal Acervo Digital Memória Fonográfica de MS (HTML das playlists PLHaWH0LEPzdU e PLfMEFpPVVGSc; os identificadores curtos abrem). Tentativa de segunda fonte: o repositório não tem outra; a cota de buscas na web desta rodada acabou antes de uma busca dirigida. Nada mudou no texto.
+
+## Divergência interna do projeto
+
+- A linha da lista-mestra (observações) diz "não confundir ... com o Mariano do Grupo Especial Chamamezeiro". A descrição do CD *Festa na Fazenda* (2009) afirma que o líder do Chamamezeiro lançou *Flor de Jardim* em 1976 em carreira solo [cham]. O verbete já diz que a ligação vem só dessa descrição. A observação da lista-mestra deve ser revista pelo integrador.
+
+## Pistas
+
+- Catálogos do selo California (CL 4245); imprensa de Aquidauana; Lado B (*Campo Grande News*) sobre chamamé em Aquidauana.

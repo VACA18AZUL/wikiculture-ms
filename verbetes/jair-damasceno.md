@@ -9,10 +9,10 @@ ficha:
   Morte: "3 de junho de 2021, Campo Grande"
   Atividade: Ator e bailarino
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Jair Balieiro Damasceno** foi ator e bailarino. Nascido em Tefé, no Amazonas, tornou-se uma das referências das artes cênicas de Mato Grosso do Sul.[^cgn2021]
+**Jair Balieiro Damasceno** foi ator e bailarino. Nasceu em Tefé, no Amazonas. O *Campo Grande News* o chamou de referência nas artes cênicas.[^cgn2021]
 
 ## Trajetória
 
@@ -31,5 +31,5 @@ O MS Dance Fest, festival de dança promovido em Campo Grande pelo Grupo Funk-se
 - *Sangue Elétrico* — peça em que atuou; ano não informado na fonte.[^cgn2021]
 - *Ensaio sobre a Lua* (2019) — último trabalho; estreia em 12 e 13 de outubro, no teatro Circo do Mato.[^cgn2021]
 
-[^cgn2021]: Bárbara Cavalcanti, ["Referência nas artes cênicas, ator Jair Damasceno morre aos 73 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/referencia-nas-artes-cenicas-ator-jair-damasceno-morre-aos-73-anos), *Campo Grande News*, 4 jun. 2021. Acesso em 29 out. 2026.
-[^cgn2022]: Thailla Torres, ["MS Dance Fest volta de 21 a 24 de abril na Praça do Rádio Clube"](https://www.campograndenews.com.br/lado-b/diversao/ms-dance-fest-volta-de-21-a-24-de-abril-na-praca-do-radio-clube), *Campo Grande News*, 19 abr. 2022. Acesso em 29 out. 2026.
+[^cgn2021]: Bárbara Cavalcanti, ["Referência nas artes cênicas, ator Jair Damasceno morre aos 73 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/referencia-nas-artes-cenicas-ator-jair-damasceno-morre-aos-73-anos), *Campo Grande News*, 4 jun. 2021. Acesso em 4 nov. 2026.
+[^cgn2022]: Thailla Torres, ["MS Dance Fest volta de 21 a 24 de abril na Praça do Rádio Clube"](https://www.campograndenews.com.br/lado-b/diversao/ms-dance-fest-volta-de-21-a-24-de-abril-na-praca-do-radio-clube), *Campo Grande News*, 19 abr. 2022. Acesso em 4 nov. 2026.

@@ -7,7 +7,7 @@ ficha:
   Atividade: Artes plásticas (pastel e acrílico)
   Tema recorrente: Pantanal e onças-pintadas
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Lúcia Martins Coelho Barbosa** é uma artista plástica sul-mato-grossense conhecida por obras com onças-pintadas.[^cgn2025]

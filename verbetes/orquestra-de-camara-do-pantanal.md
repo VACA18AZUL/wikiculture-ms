@@ -2,7 +2,7 @@
 titulo: Orquestra de Câmara do Pantanal
 tipo: grupo
 areas: [musica]
-resumo: Orquestra de jovens e adultos formados pelo Instituto Moinho Cultural Sul-Americano, de Corumbá, anunciada no espetáculo Música Poética com Geraldo Espíndola e Márcio De Camillo em 2025.
+resumo: Orquestra de jovens e adultos formados pelo Instituto Moinho Cultural Sul-Americano, anunciada no espetáculo Música Poética com Geraldo Espíndola e Márcio De Camillo em 2025.
 ficha:
   Vínculo: Instituto Moinho Cultural Sul-Americano
 status: rascunho

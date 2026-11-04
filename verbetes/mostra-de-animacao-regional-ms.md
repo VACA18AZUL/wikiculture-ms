@@ -3,23 +3,23 @@ titulo: Mostra de Animação Regional MS
 tipo: evento
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Mostra gratuita de animações produzidas em MS, promovida pela TransCine em Campo Grande; a segunda edição ocorreu de 5 a 7 de fevereiro de 2026.
+resumo: Mostra gratuita de animações produzidas em MS, promovida pela TransCine em Campo Grande; a segunda edição foi programada para 5 a 7 de fevereiro de 2026.
 ficha:
   Edição mais recente citada: segunda (2026)
   Realização: TransCine – Cinema em Trânsito
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Mostra de Animação Regional MS** é uma iniciativa da [[transcine|TransCine – Cinema em Trânsito]] que exibe em Campo Grande animações feitas em Mato Grosso do Sul. Integra a programação do Dia Internacional da Animação.[^tt]
 
 ## Edição de 2026
 
-A segunda edição foi de 5 a 7 de fevereiro de 2026, com entrada franca. A abertura foi no Teatro de Arena da Orla Morena, em 5 de fevereiro. No dia 6, a sessão no [[mis-ms|Museu da Imagem e do Som]] teve a presença dos diretores. Em 7 de fevereiro houve oficina de animação em flipbook para crianças, na ONG Núcleo Humanitário da Nhanhá.[^tt]
+A segunda edição foi programada para 5 a 7 de fevereiro de 2026, com entrada franca. A matéria, publicada no dia da abertura, anunciava a primeira sessão no Teatro de Arena da Orla Morena, em 5 de fevereiro; a segunda no [[mis-ms|Museu da Imagem e do Som]], no dia 6, com a presença de diretores e diretoras; e, em 7 de fevereiro, uma oficina de animação em flipbook para crianças, na ONG Núcleo Humanitário da Nhanhá.[^tt]
 
-A mostra foi realizada com recursos da Política Nacional Aldir Blanc, por execução da Prefeitura de Campo Grande via Fundação Municipal de Cultura. Mariana Sena é a coordenadora da TransCine. Cada diretor recebeu R$ 500,00 pela exibição.[^tt]
+A mostra foi realizada com recursos da Política Nacional Aldir Blanc, por execução da Prefeitura de Campo Grande via Fundação Municipal de Cultura. Mariana Sena é a coordenadora da TransCine. Segundo a matéria, cada diretor receberia R$ 500,00 pela exibição.[^tt]
 
-Dez filmes, escolhidos pela curadoria da TransCine, foram exibidos:[^tt]
+Dez filmes, escolhidos pela curadoria da TransCine, compunham a programação:[^tt]
 
 - *+ Forte*, direção de Ara Martins.[^tt]
 - *A jornada de Lila*, Jorge de Barros.[^tt]

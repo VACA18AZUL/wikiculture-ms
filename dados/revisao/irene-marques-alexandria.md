@@ -27,7 +27,7 @@ Data: 2026-11-04. Agente: revisor-editorial e atualizador (validação, bloco va
 
 ## Corrigido
 
-- Nenhuma alteração de texto; a data \"2018\" usada na nota do verbete Teatro Dom Bosco é a da pasta do arquivo, não do artigo (PDF criado em jan. 2011, VI Congresso da ABRACE).
+- Nenhuma alteração de texto; a data "2018" usada na nota do verbete Teatro Dom Bosco é a da pasta do arquivo, não do artigo (PDF criado em jan. 2011, VI Congresso da ABRACE).
 - Dossiê criado.
 
 ## Incerto

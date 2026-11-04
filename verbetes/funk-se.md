@@ -3,19 +3,19 @@ titulo: Funk-se
 tipo: grupo
 areas: [danca]
 cidade: Campo Grande
-resumo: Grupo de dança urbana de Campo Grande dirigido por Edson Clair, apontado pela imprensa como promotor do festival MS Street Dance Fest.
+resumo: Grupo de dança de Campo Grande dirigido por Edson Clair, apontado pela imprensa como promotor do festival MS Street Dance Fest.
 ficha:
-  Atividade: Hip hop e danças urbanas
+  Atividade: Dança
   Integrantes: Edson Clair (direção)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-O **Funk-se** é um grupo de dança urbana de Campo Grande dirigido por [[edson-clair|Edson Clair]].[^cgn2016]
+O **Funk-se** é um grupo de dança de Campo Grande dirigido por [[edson-clair|Edson Clair]], ligado ao festival de dança de rua [[ms-street-dance-fest|MS Street Dance Fest]].[^cgn2016][^ce2010]
 
 ## Trajetória
 
-Em novembro de 2016, o Campo Grande News disse que Edson Clair estava havia 20 anos na direção do grupo e que o MS Street Dance Fest daquele ano só acontecia pelo esforço dele. A matéria não afirma que o Funk-se organiza o festival.[^cgn2016]
+Em novembro de 2016, o Campo Grande News disse que Edson Clair estava havia 20 anos na direção do grupo e que o MS Street Dance Fest daquele ano só acontecia pelo esforço dele. A matéria apresenta Clair como criador do MS Street Dance, cuja edição de 2016 era a nona e era dedicada à cultura hip hop, mas não afirma que o Funk-se organiza o festival.[^cgn2016]
 
 Em outubro de 2010, o Correio do Estado informou que o [[ms-street-dance-fest|MS Street Dance Fest]] era promovido pelo grupo Funk-se por meio do Fundo de Investimentos Culturais de MS (FIC-MS), com programação de 11 a 15 de novembro, no Teatro Arena do Horto Florestal.[^ce2010] Em abril de 2022, o Campo Grande News disse que a 11ª edição do MS Dance Fest era promovida pelo Grupo Funk-se na Praça do Rádio Clube.[^cgn2022]
 

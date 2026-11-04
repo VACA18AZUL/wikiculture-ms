@@ -10,9 +10,9 @@ ficha:
 links:
   - tipo: wikipedia
     url: https://pt.wikipedia.org/wiki/Helena_Meirelles
-    acesso: 2026-10-29
+    acesso: 2026-11-04
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Helena Meirelles** foi uma violeira nascida em 13 de agosto de 1924 em Bataguassu, então distrito de Nova Andradina, e conhecida como "Dama da Viola".[^cgn2024][^tribuna]
@@ -29,7 +29,7 @@ As fontes divergem sobre a distinção dada pela revista norte-americana *Guitar
 
 ## Morte e memória
 
-Morreu em Campo Grande, em 28 de setembro de 2005, segundo a descrição do Acervo Digital Memória Fonográfica de MS.[^flor2009] Em agosto de 2024, o centenário de nascimento teve sessão solene na Assembleia Legislativa, exposição no Museu da Imagem e do Som e apresentações na Concha Acústica Helena Meirelles, em Campo Grande.[^cgn2024] O Museu Municipal Helena Meirelles guarda um arquivo pessoal da violeira.[^visitms]
+Morreu em Campo Grande, em 28 de setembro de 2005, aos 81 anos, segundo a descrição do Acervo Digital Memória Fonográfica de MS.[^flor2009] O obituário da *Tribuna do Paraná*, datado de 30 de setembro de 2005, diz que ela morreu em casa, em Campo Grande, "na madrugada de ontem", sem dar o dia.[^tribuna] Em agosto de 2024, o centenário de nascimento teve sessão solene na Assembleia Legislativa, exposição no Museu da Imagem e do Som e apresentações na Concha Acústica Helena Meirelles, em Campo Grande.[^cgn2024] O Museu Municipal Helena Meirelles, em Bataguassu, guarda um arquivo pessoal da violeira.[^visitms]
 
 Em 2014, um documentário sul-mato-grossense sobre ela, intitulado *Flor da Guavira* e dirigido por Rogério Zanetti, estava em produção, com cerca de 50 minutos previstos.[^cgn2014]
 
@@ -43,8 +43,8 @@ Uma matéria de 2014 lista quatro álbuns gravados por ela, com os títulos e an
 - *De Volta ao Pantanal* (2003) — álbum.[^cgn2014]
 - *Flor da Guavira* (2009) — relançamento em CD, com 15 faixas, pelo selo Eldorado (ELD 005).[^flor2009] [Ouvir no YouTube (Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLO-QEpiig_Ih6ntxypVdM2OyYp0ogDY-y)
 
-[^cgn2024]: Thailla Torres, ["Centenário de Helena Meirelles terá exposição e premiação"](https://www.campograndenews.com.br/lado-b/diversao/centenario-de-helena-meirelles-tera-exposicao-e-premiacao), *Campo Grande News*, 8 ago. 2024. Acesso em 29 out. 2026.
-[^tribuna]: ["Dama da viola pára de tocar para sempre"](https://www.tribunapr.com.br/mais-pop/dama-da-viola-para-de-tocar-para-sempre/), *Tribuna do Paraná*, 30 set. 2005. Acesso em 29 out. 2026.
-[^cgn2014]: Paula Maciulevicius, ["Produzido na Capital, documentário narra vida e obra de Helena Meirelles"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/produzido-na-capital-documentario-narra-vida-e-obra-de-helena-meirelles), *Campo Grande News*, 15 fev. 2014. Acesso em 29 out. 2026.
-[^flor2009]: Acervo Digital Memória Fonográfica de MS, ["Helena Meirelles - Flor de Guavira CD - 2009 - Regravação"](https://www.youtube.com/playlist?list=PLO-QEpiig_Ih6ntxypVdM2OyYp0ogDY-y), playlist no YouTube, descrição. Acesso em 29 out. 2026.
-[^visitms]: ["Museu Municipal Helena Meirelles"](https://www.visitms.com.br/en/destino/mais-destinos-do-ms/museu-municipal-helena-meirelles/), *Visit MS*. Acesso em 29 out. 2026.
+[^cgn2024]: Thailla Torres, ["Centenário de Helena Meirelles terá exposição e premiação"](https://www.campograndenews.com.br/lado-b/diversao/centenario-de-helena-meirelles-tera-exposicao-e-premiacao), *Campo Grande News*, 8 ago. 2024. Acesso em 4 nov. 2026.
+[^tribuna]: Redação O Estado do Paraná, ["Dama da viola pára de tocar para sempre"](https://www.tribunapr.com.br/mais-pop/dama-da-viola-para-de-tocar-para-sempre/), *Tribuna do Paraná*, 30 set. 2005. Acesso em 4 nov. 2026.
+[^cgn2014]: Paula Maciulevicius, ["Produzido na Capital, documentário narra vida e obra de Helena Meirelles"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/produzido-na-capital-documentario-narra-vida-e-obra-de-helena-meirelles), *Campo Grande News*, 15 fev. 2014. Acesso em 4 nov. 2026.
+[^flor2009]: Acervo Digital Memória Fonográfica de MS, ["Helena Meirelles - Flor de Guavira CD - 2009 - Regravação"](https://www.youtube.com/playlist?list=PLO-QEpiig_Ih6ntxypVdM2OyYp0ogDY-y), playlist no YouTube, descrição. Acesso em 4 nov. 2026.
+[^visitms]: ["Museu Municipal Helena Meirelles"](https://www.visitms.com.br/en/destino/mais-destinos-do-ms/museu-municipal-helena-meirelles/), *Visit MS*. Acesso em 4 nov. 2026.

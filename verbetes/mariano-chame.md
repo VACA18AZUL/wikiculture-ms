@@ -8,7 +8,7 @@ ficha:
   Atividade: Acordeonista e compositor
   Grupos: Grupo Especial Chamamezeiro
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Mariano** é um acordeonista de música de raiz de Mato Grosso do Sul, autor do LP *Flor de Jardim*, lançado em 1976.[^flor]

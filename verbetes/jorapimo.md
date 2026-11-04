@@ -11,9 +11,9 @@ ficha:
 links:
   - tipo: wikipedia
     url: https://pt.wikipedia.org/wiki/Jorapimo
-    acesso: 2026-10-29
+    acesso: 2026-11-04
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Jorapimo**, nome artístico de José Ramão Pinto de Moraes, foi um pintor de Corumbá, morto em 2009.[^cgn2013][^ce2016]
@@ -30,10 +30,10 @@ O Campo Grande News o classifica como expressionista, com obras sobre a arquitet
 
 ## Acervo e exposições
 
-O [[marco|MARCO]] foi contemplado na 2.ª edição do Prêmio Marcantonio Vilaça, na categoria aquisição de acervos, com obras de Jorapimo, [[wega-nery|Wega Nery]] e [[ignes-correa-da-costa|Ignês Corrêa da Costa]].[^compocs] Em novembro de 2016, o museu abriu uma exposição de acervo com essas obras.[^ce2016] Uma tese de 2015 o cita entre os artistas de temática local com obras no acervo do museu.[^amizo]
+O [[marco|MARCO]] foi contemplado na 2.ª edição do Prêmio Marcantonio Vilaça, na categoria aquisição de acervos, com obras de Jorapimo, [[wega-nery|Wega Nery]] e [[ignes-correa-da-costa|Ignês Corrêa da Costa]].[^compocs] Em novembro de 2016, o *Correio do Estado* anunciou a abertura de uma exposição de acervo do museu com essas obras.[^ce2016] Uma dissertação de 2015 o cita entre os artistas de temática local com obras no acervo do museu.[^amizo]
 
-[^cgn2013]: ["Até dia 22 de novembro, mostra reúne os maiores artistas plásticos do Estado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ate-dia-22-de-novembro-mostra-reune-os-maiores-artistas-plasticos-do-estado), *Campo Grande News*, 27 out. 2013. Acesso em 29 out. 2026.
-[^ce2016]: ["Museu de Arte Contemporânea abre última mostra de 2016"](https://correiodoestado.com.br/correio-b/museu-de-arte-contemporanea-abre-ultima-mostra-de-2016/291758/), *Correio do Estado*, 21 nov. 2016. Acesso em 29 out. 2026.
-[^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, UFGD, 2013, p. 25–26. Acesso em 29 out. 2026.
-[^compocs]: Catia Regina Madella, Maria Augusta de Castilho e Maria Christina de Lima Félix Santos, ["Atividades educativas não formais realizadas no Museu de Arte Contemporânea – MARCO de Mato Grosso do Sul"](https://periodicos.ufms.br/index.php/compcs/article/view/8034/8829), *Compocs*, v. 1, n. 23, jul.–dez. 2020. Acesso em 29 out. 2026.
-[^amizo]: Isabella Banducci Amizo, [*Poética dos Bugres: uma incursão sobre arte, identidade e o outro*](https://sigpos.ufms.br/portal/trabalho-arquivos/download/2239), dissertação de mestrado, UFMS, 2015, cap. 3. Acesso em 29 out. 2026.
+[^cgn2013]: ["Até dia 22 de novembro, mostra reúne os maiores artistas plásticos do Estado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ate-dia-22-de-novembro-mostra-reune-os-maiores-artistas-plasticos-do-estado), *Campo Grande News*, 27 out. 2013. Acesso em 4 nov. 2026.
+[^ce2016]: Redação, ["Museu de Arte Contemporânea abre última mostra de 2016"](https://correiodoestado.com.br/correio-b/museu-de-arte-contemporanea-abre-ultima-mostra-de-2016/291758/), *Correio do Estado*, 21 nov. 2016. Acesso em 4 nov. 2026.
+[^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, UFGD, 2013, p. 25–26. Acesso em 4 nov. 2026.
+[^compocs]: Catia Regina Madella, Maria Augusta de Castilho e Maria Christina de Lima Félix Santos, ["Atividades educativas não formais realizadas no Museu de Arte Contemporânea – MARCO de Mato Grosso do Sul"](https://periodicos.ufms.br/index.php/compcs/article/view/8034/8829), *Compocs*, v. 1, n. 23, jul.–dez. 2020. Acesso em 4 nov. 2026.
+[^amizo]: Isabella Banducci Amizo, [*Poética dos Bugres: uma incursão sobre arte, identidade e o outro*](https://sigpos.ufms.br/portal/trabalho-arquivos/download/2239), dissertação de mestrado, UFMS, 2015, cap. 3, p. 113. Acesso em 4 nov. 2026.

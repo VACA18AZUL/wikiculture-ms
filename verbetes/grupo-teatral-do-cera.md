@@ -10,7 +10,7 @@ ficha:
   Sede: Centro de Educação Rural de Aquidauana (CERA)
   Integrantes: "[[paulo-correa-de-oliveira|Paulo Corrêa de Oliveira]] (idealizador e responsável)"
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Grupo Teatral do CERA** foi um grupo de teatro que funcionou por vinte anos no Centro de Educação Rural de Aquidauana (CERA), escola técnica de Aquidauana, e encenou 19 peças entre 1978 e 1997, uma a cada ano.[^ziliani]
@@ -23,7 +23,7 @@ O idealizador e responsável pelo grupo foi [[paulo-correa-de-oliveira|Paulo Cor
 
 Os textos tratam da história e da identidade de Mato Grosso do Sul, após a divisão do estado de Mato Grosso. Ziliani aponta como temas a fundação de Aquidauana, a cidade de Santiago de Xerez, a retirada da Laguna, a presença dos Terena e o suicídio de jovens indígenas na reserva Kaiowá.[^ziliani]
 
-Moser, resumindo o capítulo de Maria da Glória Sá Rosa (1992) sobre o teatro no estado, escreve que Paulo Corrêa de Oliveira desenvolvia, junto ao CERA e a partir de 1974, propostas que integrariam as atividades cênicas à vida social da cidade, com peças baseadas na realidade sul-mato-grossense. Essa informação é indireta.[^moser] Ziliani, por sua vez, data o grupo a partir de 1978.[^ziliani]
+Moser, resumindo o capítulo de Maria da Glória Sá Rosa (1992) sobre o teatro no estado, escreve que Paulo Corrêa de Oliveira desenvolvia, junto ao CERA, propostas que integravam as atividades cênicas à vida social de Aquidauana, com peças baseadas na realidade sul-mato-grossense. O trecho não dá ano para esse trabalho e é uma informação indireta.[^moser] Ziliani data o grupo a partir de 1978.[^ziliani]
 
 ## Espetáculos
 
@@ -49,5 +49,5 @@ A lista não é completa: Ziliani cita 19 peças e este verbete traz as que o ar
 
 - Rosemeire de Lourdes Monteiro Ziliani, [artigo na revista *Perspectiva*](https://periodicos.ufsc.br/index.php/perspectiva/article/download/2175-795X.2016v34n2p717/32797/158272) — estudo sobre as peças, folders e depoimentos do grupo.
 
-[^ziliani]: Rosemeire de Lourdes Monteiro Ziliani, ["Escritos e invenções da experiência do Grupo Teatral do CERA: outros ditos, outros espaços-tempos"](https://periodicos.ufsc.br/index.php/perspectiva/article/download/2175-795X.2016v34n2p717/32797/158272), *Perspectiva*, Florianópolis, v. 34, n. 2, p. 717-737, maio-ago. 2016. Acesso em 29 out. 2026.
-[^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), ABRACE, p. 5. Acesso em 29 out. 2026.
+[^ziliani]: Rosemeire de Lourdes Monteiro Ziliani, ["Escritos e invenções da experiência do Grupo Teatral do CERA: outros ditos, outros espaços-tempos"](https://periodicos.ufsc.br/index.php/perspectiva/article/download/2175-795X.2016v34n2p717/32797/158272), *Perspectiva*, Florianópolis, v. 34, n. 2, p. 717-737, maio-ago. 2016. Acesso em 4 nov. 2026.
+[^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), ABRACE, p. 5 (PDF). Acesso em 4 nov. 2026.

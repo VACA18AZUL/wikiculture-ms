@@ -9,7 +9,7 @@ ficha:
   Criador: Thales Henrique da Silva
   Atividade: Slam de poesia falada e batalhas de rima
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Slam Campão** é um grupo de poesia falada e batalhas de rima de Campo Grande, criado em 2017.[^cgn2019]
@@ -26,4 +26,4 @@ Em agosto de 2019, o grupo comemorou dois anos com a primeira edição do "Stree
 
 O MC Geovanne Costa, conhecido como MC Cruel, ouvido pela reportagem, organiza a Batalha da ZO (Zona Oeste), realizada aos domingos na Praça do Panamá. Ela também completava dois anos na época da matéria.[^cgn2019]
 
-[^cgn2019]: ["Em aniversário, grupo reúne MC's e poetas na intenção de fortalecer a periferia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-aniversario-grupo-reune-mcs-e-poetas-na-intencao-de-fortalecer-a-periferia), *Campo Grande News*, 18 ago. 2019. Acesso em 29 out. 2026.
+[^cgn2019]: Alana Portela, ["Em aniversário, grupo reúne MC's e poetas na intenção de fortalecer a periferia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-aniversario-grupo-reune-mcs-e-poetas-na-intencao-de-fortalecer-a-periferia), *Campo Grande News*, 18 ago. 2019. Acesso em 29 out. 2026.

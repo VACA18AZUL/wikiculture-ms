@@ -11,7 +11,7 @@ ficha:
   Gestão: Fundação de Cultura de MS
   Acervo: Fotografia, vinil, CD, VHS, DVD, película, livro, catálogo e objeto
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Museu da Imagem e do Som de Mato Grosso do Sul (MIS)** é um museu de Campo Grande cuja finalidade é preservar os registros da memória audiovisual sul-mato-grossense.[^ce2011]
@@ -24,15 +24,17 @@ Segundo o presidente da Fundação, Américo Calheiros, cerca de R$ 300 mil fora
 
 ## Acervo e atividades
 
-O acervo se formou a partir de doações particulares e institucionais e reúne fotografia, vinil, CD, VHS, DVD, película, livro, catálogo e objeto. A programação inclui palestras, oficinas, cursos, seminários, mostras de cinema e exposições. Em 2011, a matéria citava os projetos Amplificadores de Cultura, Cultura em Situação, Cinema no Museu e Brincando com o Olhar.[^ce2011]
+O acervo veio de doações de particulares e de instituições e inclui fotografias, discos de vinil, CDs, fitas VHS, DVDs, películas, livros, catálogos e objetos. A programação inclui palestras, oficinas, cursos, seminários, mostras de cinema e exposições. Em 2011, a matéria citava os projetos Amplificadores de Cultura, Cultura em Situação, Cinema no Museu e Brincando com o Olhar.[^ce2011]
 
 ## Exposições e programação
 
 - 2011: a reinauguração trouxe a exposição audiovisual [[os-pioneiros-origem-da-musica-sertaneja-de-ms|Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul]], baseada no livro de [[rodrigo-teixeira|Rodrigo Teixeira]], com trilha sonora do projeto [[projeto-memoria-fonografica-de-ms|Memória Fonográfica de MS]].[^ce2011]
 - 2014: o MIS lançou em 8 de setembro a exposição Memória Fonográfica, aberta até o dia 30 do mês. A mostra reuniu discos gravados a partir da década de 1960, a partir do acervo doado ao museu pelo projeto de mesmo nome, idealizado por Carlos Luz e financiado pelo FIC da Fundação. Trechos de *Os Pioneiros* voltaram a ser exibidos, e o CineMIS abriu uma Mostra de Cinema Argentino, de 8 a 12 de setembro.[^cgn2014]
+- 2023: a exposição "Marco visita o MIS – Humberto Espíndola", aberta em 19 de abril, levou ao museu nove obras de [[humberto-espindola|Humberto Espíndola]] do acervo do [[marco|MARCO]]. A matéria situa o MIS no terceiro andar do Memorial da Cultura e da Cidadania Apolônio de Carvalho, na Avenida Fernando Corrêa da Costa, 559, no Centro.[^cgn2023]
 - 2026: o museu recebeu, em 6 de fevereiro, a segunda sessão da Mostra de Animação Regional MS, da [[transcine|TransCine]], com a presença de diretores dos filmes.[^teatrine2026] Ainda em 2026, um edital da Fundação de Cultura previa licenciar obras audiovisuais que poderiam integrar, entre outros espaços, as mostras do MIS.[^acritica2026]
 
 [^ce2011]: Redação, ["Museu da Imagem e Som reinaugura hoje"](https://correiodoestado.com.br/correio-b/museu-da-imagem-e-som-reinaugura-hoje/109346/), *Correio do Estado*, 3 mai. 2011. Acesso em 29 out. 2026.
 [^cgn2014]: Renan Nucci, ["Exposição traz resgate da música sul-mato-grossense na Capital"](https://www.campograndenews.com.br/lado-b/diversao/exposicao-traz-resgate-da-musica-sul-mato-grossense-na-capital), *Campo Grande News*, 7 set. 2014. Acesso em 29 out. 2026.
 [^teatrine2026]: Fernando Prestes, ["Mostra de Animação exibe produções sul-mato-grossense em Campo Grande"](https://www.teatrinetv.com.br/audiovisual/mostra-de-animacao-exibe-producoes-sul-mato-grossense-em-campo-grande/19679/), *Teatrine TV*, 5 fev. 2026. Acesso em 29 out. 2026.
 [^acritica2026]: Rafael Rodrigues, ["Cinema de MS vive fase de expansão com novos editais e mais produções locais"](https://acritica.net/noticias/cinema-de-ms-vive-fase-de-expansao-com-novos-editais-e-mais-producoes-locais/), *A Crítica de Campo Grande*, 20 jun. 2026. Acesso em 29 out. 2026.
+[^cgn2023]: Thailla Torres, ["MIS realiza exposição gratuita com obras de Humberto Espíndola"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mis-realiza-exposicao-gratuita-com-obras-de-humberto-espindola), *Campo Grande News*, 13 abr. 2023. Acesso em 4 nov. 2026.

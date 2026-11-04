@@ -13,7 +13,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Rubenio_Marcelo
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Rubenio Marcelo** é um poeta, escritor e compositor natural de Aracati, no Ceará, criado em Fortaleza e radicado em Campo Grande há vários anos.[^asl]
@@ -35,11 +35,11 @@ A página da Academia lista 14 livros. Entre eles:[^asl]
 - *Horizontes d'Versos* (2009)[^asl]
 - *Voo de polens: 100 sonetos e outros rebentos poéticos* (2012)[^asl]
 - *Veleiros da essência* (2014)[^asl]
-- *Vias do infinito ser* (2017), indicado pela UFMS como leitura para os vestibulares de 2021 a 2023[^asl]
+- *Vias do infinito ser* (2017), indicado pela UFMS como leitura para os vestibulares de 2021 a 2023[^asl][^pp2024]
 - *Palavras em plenitude*, prosa e crítica cultural (2018)[^asl]
-- *Caminhos: 100 poemas escolhidos* (2024)[^asl]
+- *Caminhos: 100 poemas escolhidos* (2024), antologia com 20 poemas inéditos, lançada em maio de 2024 em Campo Grande[^asl][^pp2024]
 
-Tem também livros em coautoria, como *Uma saga do cotidiano* (2010, novela satírica em versos), *Vertentes: nossos poemas* (2020) e *Almar* (2024, com Ana Maria Bernardelli).[^asl]
+Tem também livros em coautoria, como *Uma saga do cotidiano* (2010, novela satírica em versos), *Vertentes: nossos poemas* (2020) e *Almar* (2024, com Ana Maria Bernardelli).[^asl] *Almar*, editado pela Life, reúne 33 poemas inéditos de temática portuguesa, escritos a partir de viagens a Portugal, com ensaios de Bernardelli; o lançamento foi marcado para 8 de outubro de 2024, no Sesc Teatro Prosa.[^oe2024]
 
 ## Discografia
 
@@ -52,3 +52,5 @@ Tem também livros em coautoria, como *Uma saga do cotidiano* (2010, novela sat�
 A Academia registra, entre outros, o 1.º lugar na XVII Noite Nacional da Poesia (UBE/Funcesp, 2004), o 1.º lugar em poesia no concurso "Abrace um Autor" (2017) e o terceiro lugar em poesia do Prêmio Amazônia de Literatura (2018). Recebeu ainda o título de Cidadão Sul-Mato-Grossense (2010) e o de Cidadão Campo-Grandense (2011).[^asl]
 
 [^asl]: ["Rubenio Marcelo"](https://acletrasms.org.br/portfolio-item/rubenio-marcelo/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 35. Acesso em 29 out. 2026.
+[^pp2024]: Alexia Schumacher e Cristiano Arruda, ["Novo livro de Rubenio Marcelo tem textos inéditos e seleção de obras"](https://primeirapagina.com.br/literatura/novo-livro-de-rubenio-marcelo-traz-textos-ineditos-e-selecao-de-obras-anteriores/), *Primeira Página*, 10 mai. 2024. Acesso em 4 nov. 2026.
+[^oe2024]: Juliana Aguiar, ["Literatura: Rubenio Marcelo e Ana Maria Bernardelli lançam parceria literária com livro 'Almar'"](https://oestadoonline.com.br/arte-e-lazer/literatura-rubenio-marcelo-e-ana-maria-bernardelli-lancam-parceria-literaria-com-livro-almar/), *O Estado MS*, 7 out. 2024. Acesso em 4 nov. 2026.
