@@ -3,7 +3,7 @@ titulo: Sônia Corrêa
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Aquidauana
-resumo: Artista plástica de Aquidauana que pinta a pastel e a óleo e faz esculturas com ossos bovinos desde 1996. Fez a curadoria e as fotos da exposição Ladrilhos Hidráulicos, no MIS, em 2015, e teve a mostra Eu com meus botões anunciada no MARCO em 2017.
+resumo: Artista plástica de Aquidauana que pinta a pastel e a óleo e faz esculturas com ossos bovinos desde 1996. Fez a curadoria e as fotos da exposição Ladrilhos Hidráulicos, no MIS, em 2015,; mostra no MARCO anunciada para 2017.
 ficha:
   Outros nomes: Sonia Correa; Sônia Costa Corrêa
   Atividade: Pintura, escultura em osso, fotografia

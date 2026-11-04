@@ -24,11 +24,11 @@ Em dezembro de 2015, o governo estadual lançou um pacote de editais de cultura.
 - Edição 2013, Montagem: [[se-voce-me-olhasse-nos-olhos|*Se você me olhasse nos olhos*]], da [[ginga-cia-de-danca|Ginga Cia de Dança]], que estreou em março de 2014.[^cgn2014][^fcms2015c]
 - Edição 2013, Circulação: [[singulares|*Singulares*]], da [[cia-dancurbana|Cia Dançurbana]].[^cgn2014]
 - Edição 2013, Novos Criadores: *Trilhos da Terra*, da [[cinese-cia-de-danca|Cinese Cia de Dança]].[^cgn2014]
-- Edição 2014: circulação de *Se você me olhasse nos olhos* por Dourados, Ponta Porã e Sidrolândia, em abril de 2015.[^fcms2015c]
-- Edição 2016: segunda edição do projeto Dançurbana em Circulação, com *Singulares* no interior, em novembro de 2016.[^fcms2016]
-- Edição 2016: o espetáculo [[porace-o-outro-de-nos|*Poracê*]], da Cia Dançurbana, que estreou em maio de 2017.[^fcms2017a]
-- Edição 2016, categoria jovens criadores: o projeto [[plataforme-se|Plataforme-se]], que lançou em julho de 2017 uma plataforma virtual de dança sobre corpo, câmera e cidade.[^fcms2017b][^fcms2017c]
-- Edição 2016: o espetáculo-intervenção *Deriva*, de [[ralfer-campagna|Ralfer Campagna]], apresentado em parques e praças de Campo Grande de 6 a 16 de julho de 2017.[^fcms2017d]
+- Edição 2014: circulação de *Se você me olhasse nos olhos*, com apresentações anunciadas para Dourados, Ponta Porã e Sidrolândia em abril de 2015.[^fcms2015c]
+- Edição 2016: segunda edição do projeto Dançurbana em Circulação, com *Singulares* programado para Amambai, Caarapó, Fátima do Sul e Vicentina em novembro de 2016.[^fcms2016]
+- Edição 2016: o espetáculo [[porace-o-outro-de-nos|*Poracê*]], da Cia Dançurbana, com estreia anunciada para maio de 2017, em Campo Grande.[^fcms2017a]
+- Edição 2016, categoria jovens criadores: o projeto [[plataforme-se|Plataforme-se]], que previa uma plataforma virtual de dança sobre corpo, câmera e cidade; o lançamento foi anunciado para 20 e 21 de julho de 2017.[^fcms2017b][^fcms2017c]
+- Edição 2016: o espetáculo-intervenção *Deriva*, de [[ralfer-campagna|Ralfer Campagna]], programado para parques e praças de Campo Grande de 6 a 16 de julho de 2017 e depois descrito pela Fundação como apresentado em espaços públicos da cidade.[^fcms2017d][^fcms2017c]
 - Edição 2016: *Vir(tu)eu*, do [[streetpop|Streetpop]], que estreou em 29 de junho de 2017 no Teatro Prosa do Sesc Horto, em Campo Grande.[^fcms2017e][^fcms2017f]
 
 [^cgn2014]: Elverson Cardozo, ["'Semana pra Dança' terá espetáculos, mostra de filmes, curso e palestras"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/-semana-pra-danca-tera-espetaculos-mostra-de-filmes-curso-e-palestras), *Campo Grande News*, 5 abr. 2014. Acesso em 4 nov. 2026.

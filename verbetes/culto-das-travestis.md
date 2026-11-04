@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Culto das Travestis*** é um espetáculo do coletivo [[coletivo-de-trans-pra-frente|De Trans pra Frente]], de Campo Grande, formado por artistas trans e travestis. Foi o primeiro espetáculo do grupo e estreou em 2024.[^g12024][^cgn2024]
+***Culto das Travestis*** é um espetáculo do coletivo [[coletivo-de-trans-pra-frente|De Trans pra Frente]], de Campo Grande, formado por artistas trans e travestis. Foi o primeiro espetáculo do grupo e estreou em 2024.[^pp2024][^g12024][^cgn2024]
 
 ## Criação
 

@@ -25,7 +25,7 @@ Fontes descartadas e o motivo:
 
 ### Trajetória
 
-- A dissertação tem o coral como objeto; a autora foi professora de técnica vocal do grupo por três anos. [passos2013, p. 10]
+- A dissertação tem o coral como objeto; a autora foi professora de técnica vocal do grupo por três anos. [passos2013, p. 9]
 - Projeto de inclusão social proposto em 2005 pela Secretaria de Assistência Social à prefeitura de Porto Murtinho, na gestão de Nelson Cintra. [passos2013, p. 9]
 - Fundação: "maio de 2005" [passos2013, p. 11]; "junho de 2005" [passos2013, p. 45]. Divergência interna.
 - Começou com crianças (meninos e meninas) atendidas pelo PETI; objetivo: prevenção da marginalidade, inclusão social e autoestima. [passos2013, p. 45]

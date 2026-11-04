@@ -22,7 +22,7 @@ Segundo o histórico da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mat
 
 Um artigo de 2021 sobre a crítica de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] o cita entre os poetas de Campo Grande, com [[oliva-enciso|Oliva Enciso]], [[elpidio-reis|Elpídio Reis]] e [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]].[^philologus2021]
 
-Reportagem de 24 de março de 2026 anunciou para o dia 26 daquele mês uma Roda Acadêmica da ASL em sua homenagem, a primeira do ciclo do ano. A programação previa leituras e interpretações a cargo de [[fabio-do-vale|Fábio do Vale]], [[pedro-chaves|Pedro Chaves]] e [[rubenio-marcelo|Rubenio Marcelo]].[^acritica2026]
+Reportagem de 24 de março de 2026 anunciou para o dia 26 daquele mês uma Roda Acadêmica da ASL em sua homenagem, a primeira do ciclo do ano. A programação previa leituras e interpretações a cargo de [[fabio-do-vale|Fábio do Vale]], [[pedro-chaves|Pedro Chaves]] e [[rubenio-marcelo|Rubenio Marcelo]]. Pelo projeto Música Erudita e suas Fronteiras, parceria com a UFMS, se apresentaria o músico Caio Bressan; pelo projeto Arte na Academia, as artistas [[gisele-mendonca|Gisele Mendonça]] e Rosane Bonamigo pintariam durante o evento.[^acritica2026]
 
 ## Obras
 

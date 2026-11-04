@@ -3,7 +3,7 @@ titulo: "EPQVME – Eu Preciso Que Vocês Me Escutem"
 tipo: obra
 areas: [teatro, danca]
 cidade: Campo Grande
-resumo: "Solo de teatro e dança de André Tristão, criado em 2022 e estreado em janeiro de 2023 no Armazém Cultural, em Campo Grande. Ganhou os prêmios de ator, trilha e iluminação no 2º Prêmio Campo Grande ao Teatro e foi apresentado em Berlim em 2026."
+resumo: "Solo de teatro e dança de André Tristão, criado em 2022 e estreado em janeiro de 2023 no Armazém Cultural, em Campo Grande. Premiado no 2º Prêmio Campo Grande ao Teatro, foi apresentado em Berlim em 2026."
 ficha:
   Autor: "[[andre-tristao|André Tristão]] (atuação)"
   Ano: "2023 (estreia)"
@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 ## Criação
 
-O solo foi produzido no segundo semestre de 2022. O trabalho corporal parte da Técnica Klauss Vianna, com a qual Tristão explora a presença em cena e o diálogo do corpo com o espaço e a luz. Segundo o ator, a peça borra as fronteiras entre a dança e o teatro.[^fcms2023a]
+O solo foi produzido no segundo semestre de 2022. O trabalho corporal parte da Técnica Klauss Vianna, com a qual Tristão explora a presença em cena e o diálogo do corpo com o espaço e a luz. Segundo a Fundação de Cultura de MS, a peça discute as fronteiras entre a dança e o teatro.[^fcms2023a]
 
-## Ficha técnica
+## Equipe
 
 - Atuação: [[andre-tristao|André Tristão]][^fcms2023a]
 - Direção de movimento: Jussara Miller[^fcms2023a]
@@ -34,7 +34,7 @@ A estreia foi em janeiro de 2023, no [[armazem-cultural|Armazém Cultural]], em 
 
 Em abril de 2023, foi um dos quatro espetáculos adultos selecionados para o 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]].[^cgn2023b] Na premiação, Tristão ganhou o troféu de melhor ator da categoria adulto, e o espetáculo levou também os de melhor trilha e melhor iluminação.[^fcms2023a][^cgn2025] Em 11 e 12 de maio de 2023, foi apresentado na [[casa-de-ensaio|Casa de Ensaio]], em prédio dos anos 1950, com entrada gratuita e pedido de doação de alimentos para a [[cufa-ms|Central Única das Favelas]] de Campo Grande. As sessões tiveram apoio do [[teatral-grupo-de-risco|Teatral Grupo de Risco]] e da [[cia-dancurbana|Dançurbana]].[^fcms2023a]
 
-Em novembro de 2023, o solo foi selecionado na área de teatro para o [[festival-america-do-sul-pantanal|Festival América do Sul]] daquele ano.[^fcms2023b] Em 5 de setembro de 2026, Tristão o apresentou em Berlim, na Alemanha, dentro do projeto de intercâmbio *MS na Alemanha*, selecionado pelo edital de intercâmbio cultural da Fundação de Cultura de MS com recursos da Política Nacional Aldir Blanc. Segundo o *Campo Grande News*, o bailarino Geraldo Si, nascido em Aquidauana e radicado na Alemanha, viu o espetáculo e depois convidou o ator para trabalhos em São Paulo e Berlim.[^cgn2026]
+Em novembro de 2023, o solo foi selecionado na área de teatro para o [[festival-america-do-sul-pantanal|Festival América do Sul]] daquele ano.[^fcms2023b] Em 5 de setembro de 2026, Tristão o apresentou em Berlim, na Alemanha, dentro do projeto de intercâmbio *MS na Alemanha*, selecionado pelo edital de intercâmbio cultural da Fundação de Cultura de MS com recursos da Política Nacional Aldir Blanc. Segundo o *Campo Grande News*, o bailarino Geraldo Si, nascido em Aquidauana e radicado na Alemanha, assistiu ao espetáculo e depois convidou o ator para uma performance em São Paulo; a parceria levou Tristão a Berlim pela primeira vez em 2024.[^cgn2026]
 
 [^cgn2023a]: Thailla Torres, ["Calcinha Molhada, Capivara Blasé e Bingo Trans animam o fim de semana"](https://www.campograndenews.com.br/lado-b/diversao/calcinha-molhada-capivara-blase-e-bingo-trans-animam-o-fim-de-semana), *Campo Grande News*, 27 jan. 2023. Acesso em 4 nov. 2026.
 [^fcms2023a]: Fundação de Cultura de Mato Grosso do Sul, ["Com realização do Governo de MS e Fundação de Cultura, André Tristão apresenta espetáculo solo gratuito"](https://www.fundacaodecultura.ms.gov.br/com-realizacao-do-governo-de-ms-e-fundacao-de-cultura-andre-tristao-apresenta-espetaculo-solo-gratuito/), 10 maio 2023. Acesso em 4 nov. 2026.
