@@ -9,7 +9,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Ana Ostapenko** é diretora de audiovisual. Ficou a cargo da adaptação da série *Natasha*, lançada em 2017, para o longa-metragem [[natasha-longa|*Natasha*]], em parceria com Kojiro, responsável pela edição e montagem.[^cgn2026a]
+**Ana Ostapenko** é diretora de audiovisual. Segundo o *Campo Grande News*, adaptou com Kojiro, que fez a edição e a montagem, a série *Natasha*, lançada em 2017, para o longa-metragem [[natasha-longa|*Natasha*]].[^cgn2026a]
 
 ## Trajetória
 

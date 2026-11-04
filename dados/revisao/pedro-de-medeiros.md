@@ -33,7 +33,7 @@ Data: 2026-11-04. Agente: revisor-editorial (validação, bloco valn-3).
 
 ## Wikipédia
 
-Não foi possível conferir (pt.wikipedia respondeu 429 por excesso de requisições).
+Sem artigo (pt.wikipedia.org/wiki/Pedro_de_Medeiros: 404).
 
 ## Veredito
 

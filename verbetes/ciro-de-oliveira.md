@@ -3,7 +3,7 @@ titulo: Ciro de Oliveira
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Radialista e jornalista de Campo Grande, apresentador do programa Encontro de Gerações e dono de um grande acervo de discos.
+resumo: Radialista e jornalista de Campo Grande, morto em 2023; apresentou o programa Encontro de Gerações e reuniu um acervo musical com 50 mil CDs.
 ficha:
   Nome civil: Orsirio de Oliveira
   Morte: 12 de outubro de 2023, Campo Grande
@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 Começou no rádio aos 13 anos, como "garoto de recados" na Educação Rural, onde a primeira função foi a de sonoplasta.[^cgn2012]
 
-Em 2012, estava havia 17 anos na FM 104 e apresentava aos domingos, das 8h às 12h, o programa *Encontro de Gerações*, com sucessos das décadas de 1950 a 1980.[^cgn2012] Em 2018, o programa seguia na 104 FM Educativa.[^cgn2018] Em dezembro de 2019, recebeu homenagem pelo Dia do Radialista na Assembleia Legislativa.[^cgn2019]
+Em 2012, estava havia 17 anos na FM 104 e apresentava aos domingos, das 8h às 12h, o programa *Encontro de Gerações*, com sucessos das décadas de 1950 a 1980.[^cgn2012] Em 2018, o programa seguia na 104 FM Educativa.[^cgn2018] Em dezembro de 2019, foi incluído entre os homenageados pelo Dia do Radialista na Assembleia Legislativa, em cerimônia marcada para o dia 9.[^cgn2019]
 
 É um dos entrevistados da parte "Música na Mídia" do livro [[a-musica-de-mato-grosso-do-sul-historias-de-vida|*A Música de Mato Grosso do Sul: histórias de vida*]] (2009), de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e Idara Duncan, ao lado de Cândido Alberto, [[lizoel-costa|Lizoel Costa]] e [[oscar-rocha|Oscar Rocha]].[^silus]
 
