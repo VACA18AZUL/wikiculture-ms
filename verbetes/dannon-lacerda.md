@@ -8,10 +8,10 @@ ficha:
   Atividade: Direção de cinema; produção cultural; curadoria
   Festival: Festival Curta Campo Grande (idealizador)
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-04
 ---
 
-**Dannon Lacerda** é cineasta e produtor cultural de Mato Grosso do Sul e idealizador do [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^ce2024] Nasceu em Guia Lopes da Laguna.[^ce2024]
+**Dannon Lacerda** é cineasta e produtor cultural de Mato Grosso do Sul[^acritica2026] e idealizador do [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^ce2024] Nasceu em Guia Lopes da Laguna.[^ce2024]
 
 ## Trajetória
 
@@ -21,19 +21,19 @@ Em outubro de 2024, Lacerda dizia ter dirigido sete curtas-metragens e estar mon
 
 ## Festival Curta Campo Grande
 
-A primeira edição do festival ocorreu de 28 de outubro a 2 de novembro de 2024, com seis mostras, entre elas duas competitivas (brasileira e sul-mato-grossense). Lacerda foi o idealizador, atuou como coordenador de curadoria e assinou a seleção da mostra Diversidade. A curadoria geral ficou com [[andrea-freire|Andréa Freire]], Marcos Pierry e Ricardo Cota.[^cgn-selecionados] O festival é uma iniciativa da Chalana Produções, com recursos da Lei Paulo Gustavo.[^ce2024]
+A primeira edição do festival ocorreu de 28 de outubro a 2 de novembro de 2024, com seis mostras, entre elas duas competitivas (brasileira e sul-mato-grossense).[^ce2024] Lacerda foi o idealizador, atuou como coordenador de curadoria e assinou a seleção da mostra Diversidade. A curadoria geral ficou com [[andrea-freire|Andréa Freire]], Marcos Pierry e Ricardo Cota.[^cgn-selecionados] O festival é uma iniciativa da Chalana Produções, com recursos da Lei Paulo Gustavo.[^ce2024]
 
 Lacerda explicou que a ideia foi dar a Campo Grande um festival voltado só ao curta-metragem, ao lado do Bonito CineSur e do Festival de Ivinhema, e contribuir com a formação de profissionais e de plateia num momento de crescimento da produção local.[^ce2024]
 
-Em junho de 2026, ele afirmou que a última edição do festival recebeu 32 inscrições de curtas sul-mato-grossenses produzidos em 2024 e 2025, e que antes da pandemia o número dificilmente passava de cinco por ano.[^acritica2026]
+Em junho de 2026, ele afirmou que a última edição do festival recebeu 32 inscrições de curtas-metragens produzidos em 2024 e 2025. A matéria acrescenta que, antes da pandemia, o número dificilmente passava de cinco produções por ano, sem dizer se trata de inscrições ou da produção do estado.[^acritica2026]
 
 ## Filmografia
 
 - *Copa 181* (2017) — longa-metragem; direção.[^ce2024]
 - [[as-marias|*As Marias*]] (2023) — curta-metragem documental, 16 min; direção.[^cgn-ivinhema]
 
-[^ce2024]: Mariana Piell, ["A força do filme curto"](https://correiodoestado.com.br/correio-b/a-forca-do-filme-curto/437506/), *Correio do Estado*, 10 out. 2024. Acesso em 29 out. 2026.
-[^cgn-ivinhema]: Thailla Torres, ["Festival de Cinema de Ivinhema divulga curtas selecionados; confira"](https://www.campograndenews.com.br/lado-b/diversao/festival-de-cinema-de-ivinhema-divulga-curtas-selecionados-confira), *Campo Grande News*, 31 jul. 2024. Acesso em 29 out. 2026.
-[^cgn-cinesur2023]: Thailla Torres, ["Bonito terá Festival de Cinema Sul-americano; veja os selecionados"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bonito-tera-festival-de-cinema-sul-americano-veja-os-selecionados), *Campo Grande News*, 6 out. 2023. Acesso em 29 out. 2026.
-[^cgn-selecionados]: Thailla Torres, ["Veja todos os filmes selecionados para o Festival Curta Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/veja-todos-os-filmes-selecionados-para-o-festival-curta-campo-grande), *Campo Grande News*, 2 out. 2024. Acesso em 29 out. 2026.
-[^acritica2026]: Rafael Rodrigues, ["Cinema de MS vive fase de expansão com novos editais e mais produções locais"](https://acritica.net/noticias/cinema-de-ms-vive-fase-de-expansao-com-novos-editais-e-mais-producoes-locais/), *A Crítica de Campo Grande*, 20 jun. 2026. Acesso em 29 out. 2026.
+[^ce2024]: Redação, ["A força do filme curto"](https://correiodoestado.com.br/correio-b/a-forca-do-filme-curto/437506/), *Correio do Estado*, 10 out. 2024. Acesso em 4 nov. 2026.
+[^cgn-ivinhema]: Thailla Torres, ["Festival de Cinema de Ivinhema divulga curtas selecionados; confira"](https://www.campograndenews.com.br/lado-b/diversao/festival-de-cinema-de-ivinhema-divulga-curtas-selecionados-confira), *Campo Grande News*, 31 jul. 2024. Acesso em 4 nov. 2026.
+[^cgn-cinesur2023]: Thailla Torres, ["Bonito terá Festival de Cinema Sul-americano; veja os selecionados"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bonito-tera-festival-de-cinema-sul-americano-veja-os-selecionados), *Campo Grande News*, 6 out. 2023. Acesso em 4 nov. 2026.
+[^cgn-selecionados]: Thailla Torres, ["Veja todos os filmes selecionados para o Festival Curta Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/veja-todos-os-filmes-selecionados-para-o-festival-curta-campo-grande), *Campo Grande News*, 2 out. 2024. Acesso em 4 nov. 2026.
+[^acritica2026]: Rafael Rodrigues, ["Cinema de MS vive fase de expansão com novos editais e mais produções locais"](https://acritica.net/noticias/cinema-de-ms-vive-fase-de-expansao-com-novos-editais-e-mais-producoes-locais/), *A Crítica de Campo Grande*, 20 jun. 2026. Acesso em 4 nov. 2026.

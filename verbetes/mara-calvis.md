@@ -7,14 +7,14 @@ ficha:
   Atividade: Escritora e editora
   Editora: Vida Produções
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Mara Calvis** é escritora e está à frente da editora [[vida-producoes|Vida Produções]].[^ce2022]
 
 ## Trajetória
 
-Segundo o Correio do Estado, em 2022, Mara já havia publicado mais de 25 obras pela editora. Seus livros infantis tratam de meio ambiente, trânsito e cidadania, e da identidade, da história, da geografia, das lendas, dos pontos turísticos, da cultura, da fauna e da flora de Mato Grosso do Sul. Ela diz que a ideia é incentivar crianças e adolescentes a conhecer o estado e ter orgulho dele.[^ce2022]
+Segundo o Correio do Estado, em 2022, Mara já havia publicado mais de 25 obras pela editora. Seus livros infantis abordam temas como meio ambiente, trânsito e cidadania, além de aspectos de Mato Grosso do Sul: história, geografia, lendas, turismo, cultura, fauna e flora. Segundo a escritora, o objetivo é levar crianças e adolescentes a conhecer o estado e se orgulhar dele.[^ce2022]
 
 Estava prevista a presença dela na 2ª edição da [[felit-ms|Felit-MS]], em Dourados, com esses livros.[^ce2022]
 
@@ -24,5 +24,5 @@ Em dezembro de 2024, o Campo Grande News informou que a Vida Produções, "da es
 
 Entre os livros do lançamento está *Sementes de Novos Leitores*, assinado por ela.[^cgn2024]
 
-[^ce2022]: ["Festival literário segue até quinta e terá lançamento de livros e revista"](https://correiodoestado.com.br/correio-b/festival-literario-segue-ate-quinta-e-tera-lancamento-de-livros-e/407968/), *Correio do Estado*, 29 nov. 2022. Acesso em 29 out. 2026.
-[^cgn2024]: Thailla Torres, ["Campo Grande recebe lançamento de 25 livros no mesmo dia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/campo-grande-recebe-lancamento-de-25-livros-no-mesmo-dia), *Campo Grande News*, 17 dez. 2024. Acesso em 29 out. 2026.
+[^ce2022]: Cauê Reis, ["Festival literário segue até quinta e terá lançamento de livros e revista"](https://correiodoestado.com.br/correio-b/festival-literario-segue-ate-quinta-e-tera-lancamento-de-livros-e/407968/), *Correio do Estado*, 29 nov. 2022. Acesso em 4 nov. 2026.
+[^cgn2024]: Thailla Torres, ["Campo Grande recebe lançamento de 25 livros no mesmo dia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/campo-grande-recebe-lancamento-de-25-livros-no-mesmo-dia), *Campo Grande News*, 17 dez. 2024. Acesso em 4 nov. 2026.

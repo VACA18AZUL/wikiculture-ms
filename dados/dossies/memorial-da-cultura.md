@@ -45,6 +45,7 @@ Fontes descartadas e o motivo:
 ## Não confirmado
 
 - Data de inauguração do Memorial, histórico do prédio, razão do nome Apolônio de Carvalho.
+- A Wikipédia ("Memorial da Cultura Apolônio de Carvalho") diz que o prédio, de 1976, foi o Edifício das Repartições Públicas Estaduais (Erpe), sede do governo após a divisão, cedido ao Tribunal de Justiça em 1983, sem uso desde 2002 e inaugurado como Memorial em 2007 (a caixa de informações diz 2006); diz também que é tombado. Sem fonte aberta: fica fora; pista para reforço.
 
 ## Uso no verbete
 

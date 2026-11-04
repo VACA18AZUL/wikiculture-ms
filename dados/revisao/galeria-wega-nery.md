@@ -16,6 +16,8 @@
 
 - Frase reescrita conforme a fonte: quadro de espaços frequentados na década de 1980, parte de levantamento de espaços criados entre 1960 e 2000. `atualizado` para 2026-11-04.
 
+- Godoi era descrita como "dissertação"; é tese de doutorado. Corrigido no texto e na nota.
+
 ## Sem problema
 
 - Sem dados pessoais; tom neutro; sem cópia longa; ficha sustentada.

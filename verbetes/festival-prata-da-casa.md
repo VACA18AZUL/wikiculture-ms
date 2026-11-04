@@ -9,7 +9,7 @@ ficha:
   Local: Teatro Glauce Rocha
   Registro: LP "Prata da Casa" (1982)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Prata da Casa** foi um projeto da Universidade Federal de Mato Grosso do Sul (UFMS) com músicos de Campo Grande, que teve shows a partir de 1979 e deu origem a um LP gravado ao vivo em 1982.[^gon]

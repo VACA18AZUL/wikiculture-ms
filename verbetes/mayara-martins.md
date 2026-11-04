@@ -8,7 +8,7 @@ ficha:
   Atividade: Dança
   Projeto: Aquidança Aquidauana (2023)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Mayara Martins** é uma bailarina de Aquidauana, idealizadora do projeto Aquidança Aquidauana.[^cgn2023][^acritica2026]
@@ -23,5 +23,5 @@ Em maio de 2026, Mayara Martins e Danniel Amaral ficaram em segundo lugar numa c
 
 Segundo a mesma matéria, a preparação foi dos ensaiadores Johnny Almeida e Beatriz de Almeida, com direção geral de Loizy Ortega.[^acritica2026]
 
-[^cgn2023]: Thailla Torres, ["Grupo levará dança para espaços públicos de Aquidauana"](https://www.campograndenews.com.br/lado-b/diversao/grupo-levara-danca-para-espacos-publicos-de-aquidauana), *Campo Grande News*, 17 dez. 2023. Acesso em 29 out. 2026.
-[^acritica2026]: Iury de Oliveira, ["Bailarinos de Aquidauana ficam em 2º lugar em festival internacional em Florianópolis"](https://acritica.net/noticias/bailarinos-de-aquidauana-ficam-em-2-lugar-no-premio-desterro-em-florianopolis/), *A Crítica de Campo Grande*, 17 mai. 2026. Acesso em 29 out. 2026.
+[^cgn2023]: Thailla Torres, ["Grupo levará dança para espaços públicos de Aquidauana"](https://www.campograndenews.com.br/lado-b/diversao/grupo-levara-danca-para-espacos-publicos-de-aquidauana), *Campo Grande News*, 17 dez. 2023. Acesso em 4 nov. 2026.
+[^acritica2026]: Iury de Oliveira, ["Bailarinos de Aquidauana ficam em 2º lugar em festival internacional em Florianópolis"](https://acritica.net/noticias/bailarinos-de-aquidauana-ficam-em-2-lugar-no-premio-desterro-em-florianopolis/), *A Crítica de Campo Grande*, 17 mai. 2026. Acesso em 4 nov. 2026.

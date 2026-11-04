@@ -10,7 +10,7 @@ ficha:
   Habilitações: Bacharelado e licenciatura
   Duração: Oito semestres
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **curso de Artes Cênicas da Universidade Federal da Grande Dourados** (UFGD) é uma graduação em teatro oferecida em Dourados, que entrou em funcionamento em 2009.[^souza]
@@ -33,9 +33,9 @@ A dissertação de Souza estuda o *Auto da Compadecida*, montado pela sétima tu
 
 ## Relação com a cena local
 
-A matéria do *Campo Grande News* sobre o [[festival-internacional-de-teatro-de-dourados|FIT Dourados]] de 2025 descreve a [[esboco-caotico-cia-de-teatro|Esboço Caótico Cia de Teatro]] como fruto da pesquisa de egressos da UFGD.[^cgn] A dissertação de Oliveira Júnior, ela própria sobre egressos da licenciatura, cita a licenciatura em Artes Cênicas da UFGD como oferecida desde 2009 e como voltada à formação de artistas, professores, pesquisadores e produtores para o desenvolvimento cultural e artístico de Mato Grosso do Sul, conforme o portal da universidade.[^oliveira]
+A matéria do *Campo Grande News* sobre o [[festival-internacional-de-teatro-de-dourados|FIT Dourados]] de 2025 traz a diretora Flávia Janiaski dizendo que o espetáculo da [[esboco-caotico-cia-de-teatro|Esboço Caótico Cia de Teatro]] apresentado no Núcleo de Artes Cênicas era fruto da pesquisa de egressos da UFGD.[^cgn] A dissertação de Oliveira Júnior, ela própria sobre egressos da licenciatura, cita a licenciatura em Artes Cênicas da UFGD como oferecida desde 2009 e como voltada à formação de artistas, professores, pesquisadores e produtores para o desenvolvimento cultural e artístico de Mato Grosso do Sul, conforme o portal da universidade.[^oliveira]
 
 [^souza]: José Manoel de Souza Junior, [*Dramaturgia sonora no Auto da Compadecida: um estudo de caso em Mato Grosso do Sul por meio da semiótica teatral*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6174/1/Jos%c3%a9ManoeldeSouzaJunior.pdf), dissertação de mestrado, UFGD, 2023, p. 26–28. Acesso em 29 out. 2026.
 [^parente]: José Parente, ["O teatro de animação no curso de Artes Cênicas da Universidade Federal da Grande Dourados"](https://revistas.usp.br/aspas/article/view/215401), *Revista Aspas*, v. 12, n. 2, 2022, p. 11–14. Acesso em 29 out. 2026.
-[^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 33. Acesso em 29 out. 2026.
+[^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 33-34. Acesso em 29 out. 2026.
 [^cgn]: Thailla Torres, ["Festival tem espetáculos sobre memória e literatura nesta terça-feira"](https://www.campograndenews.com.br/lado-b/diversao/festival-tem-espetaculos-sobre-memoria-e-literatura-nesta-terca-feira), *Campo Grande News*, 23 set. 2025. Acesso em 29 out. 2026.

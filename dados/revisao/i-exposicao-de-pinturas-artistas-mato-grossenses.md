@@ -16,6 +16,8 @@
 
 - Acrescentado parágrafo com a nota [^godoi], que confirma data, local e organizadoras por via independente de Aline Figueiredo. Dossiê criado. `atualizado` para 2026-11-04.
 
+- Na nota nova, Godoi registrada como tese de doutorado (conferido na folha de rosto).
+
 ## Sem problema
 
 - Citação de Bardi resumida, não copiada.

@@ -7,7 +7,7 @@ resumo: Grupo de teatro guarani-kaiowá da terra indígena Guapo’yno, no munic
 ficha:
   Direção: Duadino Martines
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Grupo de Teatro Liberdade PKR** é um grupo teatral formado por indígenas guarani-kaiowá, de Amambai. O responsável pelo grupo, que escreve e ensaia as peças, é Duadino Martines.[^monteiro]
@@ -29,4 +29,4 @@ Textos do grupo integram a *Caixa de Dramaturgias Indígenas* (N-1 Edições e O
 - *Filhos da Terra* — dramaturgia curta sobre o conflito de terras entre indígenas e latifundiários em Mato Grosso do Sul e o marco temporal.[^monteiro]
 
 [^monteiro]: Gabriela Lírio Gurgel Monteiro, ["Dramaturgias indígenas no teatro contemporâneo"](https://periodicos.ufpb.br/index.php/moringa/article/view/77534/43454), *Revista Moringa Artes do Espetáculo*, UFPB, v. 16, n. 2, jul.-dez. 2025, nota 113 e seção sobre as peças do grupo. Acesso em 29 out. 2026.
-[^cgn22]: ["Peça teatral indígena retrata violência, orgulho e comove público do festival"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/peca-teatral-indigena-retrata-violencia-orgulho-e-comove-publico-do-festival), *Campo Grande News*, 27 ago. 2022. Acesso em 29 out. 2026.
+[^cgn22]: Silvio Andrade, ["Peça teatral indígena retrata violência, orgulho e comove público do festival"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/peca-teatral-indigena-retrata-violencia-orgulho-e-comove-publico-do-festival), *Campo Grande News*, 27 ago. 2022. Acesso em 29 out. 2026.

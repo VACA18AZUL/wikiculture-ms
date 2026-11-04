@@ -9,7 +9,7 @@ ficha:
   Atividade: Produção de cinejornais e de longa-metragem; exibição
   Produtora: Lahdo Produções Cinematográficas
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-04
 ---
 
 Os **Irmãos Lahdo**, Bernardo e Abud, foram produtores cinematográficos de Campo Grande, proprietários da Lahdo Produções Cinematográficas.[^campestrini]
@@ -20,7 +20,7 @@ A produtora dos irmãos Lahdo começou a atuar com uma série de cinejornais sob
 
 Com dificuldade para obter recursos, mas com mobilização da sociedade campo-grandense, os irmãos gravaram na cidade o longa-metragem de ficção *Paralelos Trágicos*.[^diehl37] Sá e Castilho os destacam como os primeiros a produzir um filme com equipe totalmente da cidade.[^sa246]
 
-Os irmãos também fundaram dois cinemas em Campo Grande, o Cine Acapulco e o Cine Jalisco.[^sa246] Segundo Diehl, a cópia original de *Paralelos Trágicos* derreteu no incêndio do Cine Acapulco, em 2000; a família guarda partes da película e uma cópia incompleta em 16 mm.[^diehl37]
+Os irmãos também fundaram dois cinemas em Campo Grande, o Cine Acapulco e o Cine Jalisco.[^sa246] Segundo Pinheiro e Fischer (2008), citados por Diehl, a cópia original de *Paralelos Trágicos* derreteu no incêndio do Cine Acapulco, em 2000; a família guarda partes da película e uma cópia incompleta em 16 mm.[^diehl37]
 
 A grafia do sobrenome varia na própria bibliografia: Diehl usa "Lahdo" no texto, mas reproduz citação que escreve "Ladho" e nomeia "Abboud".[^diehl37]
 

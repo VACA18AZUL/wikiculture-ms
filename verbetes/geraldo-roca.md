@@ -13,7 +13,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Geraldo_Roca
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Geraldo Roca** foi um compositor e cantor carioca radicado em Campo Grande, considerado um dos principais compositores da música regional de Mato Grosso do Sul.[^caetano2012ufgd][^cgn2024]

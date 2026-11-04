@@ -10,7 +10,7 @@ ficha:
   Realização: TV Morena
   Local: Ginásios da UCE e da UFMS, em Campo Grande
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **FESSUL**, Festival Sul-Mato-Grossense de Música, foi um festival de canção organizado pela TV Morena, de Campo Grande, em três edições, de 1979 a 1981.[^caetano]
@@ -33,4 +33,4 @@ Em 1981, o ACABA ficou em primeiro e segundo lugares, com "Waradzu" e "Cavalinho
 
 A TV Morena organizou também o FESTÃO, entre 1979 e 1981, voltado à música sertaneja e realizado no estádio Morenão.[^caetano]
 
-[^caetano]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 47-53. Acesso em 29 out. 2026.
+[^caetano]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 47-53. Acesso em 4 nov. 2026.

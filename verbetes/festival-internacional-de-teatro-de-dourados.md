@@ -9,7 +9,7 @@ ficha:
   Edição mais recente: 11ª, de 18 a 27 de setembro de 2025
   Local: Dourados
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Festival Internacional de Teatro de Dourados**, conhecido como **FIT Dourados**, é um festival de teatro produzido pela Universidade Federal da Grande Dourados (UFGD).[^oliveira]
@@ -22,7 +22,7 @@ Em 2011, o FIT era produzido pela Coordenadoria de Cultura (COC) da UFGD.[^olive
 
 Em 2011, o espetáculo *Querô*, da [[cia-theastai|Cia. Theastai]], de Dourados, foi reprovado no edital do FIT. Segundo a dissertação de Antonio Martins Oliveira Júnior, a universidade criou então uma categoria chamada Mostra Feita Em Casa, que convidava os trabalhos locais não aprovados, sem pagamento de cachê. O ator e diretor [[joao-rocha|João Rocha]] reagiu com indignação, e a companhia criou, como protesto, a Mostra Independente de Teatro de Dourados ([[mit-dourados|MIT Dourados]]).[^oliveira]
 
-A 11ª edição foi realizada de 18 a 27 de setembro de 2025, dentro das comemorações dos 20 anos da UFGD.[^cgn15][^cgn18] O *Campo Grande News* apresentou o evento como retorno do festival depois de seis anos, e o organizador também falou em retorno após seis anos.[^cgn15] A programação era gratuita e incluiu peças, show, oficinas e palestras. Algumas sessões tinham intérprete de Libras, e a universidade ofereceu ônibus gratuitos para os espetáculos no Auditório Central da Unidade 2.[^cgn15]
+A 11ª edição foi realizada de 18 a 27 de setembro de 2025, dentro das comemorações dos 20 anos da UFGD.[^cgn15][^cgn18] O *Campo Grande News* apresentou o evento como retorno do festival depois de seis anos, e o organizador também falou em retorno após seis anos.[^cgn15] A programação era gratuita e incluiu peças, show, oficinas e palestras.[^cgn15][^cgn18] Algumas sessões tinham intérprete de Libras, e a universidade ofereceu ônibus gratuitos para os espetáculos no Auditório Central da Unidade 2.[^cgn15]
 
 ## Participação de artistas sul-mato-grossenses em 2025
 
@@ -33,9 +33,9 @@ A programação publicada em setembro de 2025 incluía, entre outros, estes grup
 - A [[cia-theastai|Cia. Theastai]], com *Balança, Mas Não Cai*, na Praça Antônio João, e *Quem Matou o Morto?*, no [[sucata-cultural|Sucata Cultural]], em 20 de setembro.[^cgn15]
 - O [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]], com *Tekoha – Ritual de Vida e Morte do Deus Pequeno*, no Parque Rego d'Água.[^cgn15]
 - A [[esboco-caotico-cia-de-teatro|Esboço Caótico Cia de Teatro]], com *Os Botões das Camisas e das Rosas*, em 23 de setembro, no Núcleo de Artes Cênicas da UFGD. A matéria diz que o espetáculo é fruto da pesquisa de egressos da UFGD.[^cgn23]
-- A atriz Júnia Cristina Pereira, com o solo *(Im)Possível Memória*, no Centro de Convivência da Pessoa Idosa.[^cgn23]
+- A atriz douradense Júnia Pereira, com o solo *(Im)Possível Memória*, no Centro de Convivência da Pessoa Idosa.[^cgn23]
 
-O festival tem ligação com o [[curso-de-artes-cenicas-da-ufgd|curso de Artes Cênicas da UFGD]]: a dissertação de José Manoel de Souza Junior cita o portfólio que o diretor Marcos Machado Chaves produziu, para participar do festival, sobre a montagem de *Auto da Compadecida* (2017) feita pela sétima turma do curso.[^souza]
+O festival tem ligação com o [[curso-de-artes-cenicas-da-ufgd|curso de Artes Cênicas da UFGD]]: a dissertação de José Manoel de Souza Junior cita o portfólio que o diretor [[marcos-machado-chaves|Marcos Machado Chaves]] produziu, para participar do festival, sobre a montagem de *Auto da Compadecida* (2017) feita pela sétima turma do curso.[^souza]
 
 [^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 92. Acesso em 29 out. 2026.
 [^cgn15]: Thailla Torres, ["Com espetáculos nacionais, Festival de Teatro divulga programação"](https://www.campograndenews.com.br/lado-b/diversao/com-espetaculos-nacionais-festival-de-teatro-divulga-programacao), *Campo Grande News*, 15 set. 2025. Acesso em 29 out. 2026.

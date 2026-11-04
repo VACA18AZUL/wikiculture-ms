@@ -7,6 +7,10 @@ resumo: Prédio da Fundação de Cultura de MS no Centro de Campo Grande que re�
 ficha:
   Local: Avenida Fernando Corrêa da Costa, 559, Centro, Campo Grande
   Gestão: Governo do Estado e Fundação de Cultura de MS
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Memorial_da_Cultura_Apol%C3%B4nio_de_Carvalho
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

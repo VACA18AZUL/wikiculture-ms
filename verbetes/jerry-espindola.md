@@ -12,16 +12,16 @@ links:
     url: https://pt.wikipedia.org/wiki/Jerry_Esp%C3%ADndola
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-04
 ---
 
 **Jerry Espíndola** é um cantor e compositor sul-mato-grossense, caçula da família Espíndola e um dos nomes do movimento da polca-rock.[^caeufgd][^cae12]
 
 ## Trajetória
 
-Antes da polca-rock, integrou entre 1983 e 1990 a banda paulistana Os Incontroláveis, segundo reportagem de Carlos Calado, da *Folha de S.Paulo*, citada por Caetano.[^cae12]
+Antes da polca-rock, integrou entre 1983 e 1990 a banda paulistana Os Incontroláveis, segundo texto do crítico Carlos Calado, colunista da *Folha de S.Paulo*, publicado no site Cliquemusic e citado por Caetano.[^cae12]
 
-A polca-rock foi organizada inicialmente por Caio Ignácio, Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]], entre o fim dos anos 1980 e o início dos 1990.[^cae12] Caetano considera "Colisão", de Jerry e Ciro Pinheiro, a primeira canção declarada como polca-rock.[^caeufgd] Gonçalves a data de 1985.[^gon14] Caetano a coloca por volta de 1985 e a primeira gravação no disco *Polca-Rock*.[^cae12] A dissertação do mesmo autor a registra também no disco *Pop Pantanal*.[^caeufgd]
+A polca-rock foi organizada inicialmente por Caio Ignácio, Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]], entre o fim dos anos 1980 e o início dos 1990.[^cae12] Caetano considera "Colisão", de Jerry e Ciro Pinheiro, a primeira canção declarada como polca-rock.[^caeufgd] Gonçalves a data de 1985.[^gon14] No artigo de 2012, Caetano a situa por volta de 1985 e diz que ela foi gravada no disco *Polca-Rock*.[^cae12] A dissertação do mesmo autor a registra também no disco *Pop Pantanal*.[^caeufgd]
 
 Depois, promoveu oficinas sobre a música e a cultura do estado, com ênfase nos ritmos ternários.[^caeufgd]
 

@@ -3,14 +3,14 @@ titulo: Guilé
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Cantor e compositor mineiro radicado em Campo Grande, autor do álbum Até que a Chuva Apague o Medo (2020).
+resumo: Cantor e compositor mineiro que, em 2020, vivia em Campo Grande, onde lançou o álbum Até que a Chuva Apague o Medo.
 ficha:
   Atividade: Cantor e compositor
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Guilé** é cantor e compositor nascido em Minas Gerais que vive em Campo Grande.[^cgn]
+**Guilé** é cantor e compositor mineiro que, segundo reportagem de 2020, vivia em Campo Grande.[^cgn]
 
 ## Trajetória
 

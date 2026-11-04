@@ -9,7 +9,7 @@ ficha:
   Atividade: Arte urbana, lambe-lambe
   Grupos: Coletivo Enegrecer
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Leonardo Mareco**, também chamado **Léo Mareco**, é artista urbano de Campo Grande, formado em Artes Visuais (licenciatura) pela Universidade Federal de Mato Grosso do Sul.[^gv]
