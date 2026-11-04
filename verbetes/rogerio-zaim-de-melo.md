@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Formação e docência
 
-Segundo artigo de 2024 na revista *Urdimento*, é licenciado em Educação Física pela UNESP, em Rio Claro, mestre em Educação Física pela USP e doutor em Ciências Humanas – Educação pela PUC-Rio. O mesmo texto o apresenta como professor adjunto do curso de Educação Física e do Mestrado em Estudos Fronteiriços do Campus do Pantanal.[^urd]
+Segundo artigo de 2024 na revista *Urdimento*, é licenciado em Educação Física pela UNESP, em Rio Claro, mestre em Educação Física pela USP e doutor em Ciências Humanas – Educação pela PUC-Rio. O mesmo texto o apresenta como professor adjunto no Campus do Pantanal, com atuação na graduação em Educação Física e no mestrado em Estudos Fronteiriços.[^urd]
 
-Em artigo da *Revista Arte da Cena*, o doutorado pela PUC-Rio aparece como Educação Brasileira, e ele é apresentado como professor associado da UFMS, docente de Educação Física no Campus do Pantanal e dos mestrados em Estudos Fronteiriços, no Campus do Pantanal, e em Estudos Culturais, no Campus de Aquidauana.[^ac2025]
+Em artigo da *Revista Arte da Cena*, o doutorado pela PUC-Rio aparece como Educação Brasileira, e ele é apresentado como professor associado da UFMS, com aulas no curso de Educação Física do Campus do Pantanal e em dois mestrados: Estudos Fronteiriços, no mesmo campus, e Estudos Culturais, no Campus de Aquidauana.[^ac2025]
 
 ## Extensão em circo
 

@@ -47,3 +47,11 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo acima. Verbete curto.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fontes de outro veículo (abertas e lidas), A Crítica de Campo Grande:
+- Iury de Oliveira, "Bonito CineSur anuncia filmes vencedores da 4ª edição", 2 ago. 2026. https://acritica.net/cultura/filmes-vencedores-bonito-cinesur-2026/ (direção de Natasha: Ana Ostapenko, Willerson Amorim, Thiago Rotta, Rafael Rotta; Melhor Filme Sul-Mato-Grossense, júri oficial).
+- Ricardo Eugenio, "Filme 'Natasha', de Dourados, é selecionado para o Festival MixBrasil", 4 nov. 2026. https://acritica.net/cultura/filme-natasha-dourados-selecionado-festival-mixbrasil/ (Ana Ostapenko como diretora da adaptação; Kojiro na edição e montagem; seleção para o 34º MixBrasil, 11 a 22 nov., estreia paulistana 14/11, Coelho de Prata por voto popular).
+Aberta e não usada como nota separada: A Onça, 4 nov. 2026, "Filme produzido em Dourados conquista espaço no Festival MixBrasil após prêmio em Bonito" (mesmo conteúdo da A Crítica, provável release; não conta como independente). Midiamax (403) e G1 (bloqueado) não abriram. Outras matérias listadas por busca (Guia MS, Correio de Corumbá, Enfoque MS, Poltrona Pop, Miscelânea, Mídia Ninja, UOL) não abertas.
+Divergência: CGN diz que Ana Ostapenko adaptou a série com Kojiro; A Crítica a chama de diretora da adaptação, com Kojiro na edição; a lista de vencedores lista quatro diretores. Já descrito no verbete.

@@ -3,16 +3,16 @@ titulo: Rubén Darío Román Añez
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Corumbá
-resumo: Pintor nascido na Bolívia em 1947 e radicado em Corumbá desde a década de 1970, com paisagens do Pantanal; tem obra no acervo do MARCO.
+resumo: Pintor nascido na Bolívia em 1947 e radicado em Corumbá desde a década de 1970, com pintura ligada ao Pantanal; tem obra no acervo do MARCO.
 ficha:
   Nascimento: "1947"
-  Naturalidade: Bolívia
-  Atividade: Pintura
+  Naturalidade: "Bolívia"
+  Atividade: "Pintura"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Rubén Darío Román Añez**, chamado no catálogo do MARCO apenas de Rubén Darío, é um pintor nascido na Bolívia em 1947 e radicado em Corumbá desde a década de 1970.[^marco30]
+**Rubén Darío Román Añez**, chamado de Rubén Darío no sumário e na legenda do catálogo do MARCO, é um pintor nascido na Bolívia em 1947 e radicado em Corumbá desde a década de 1970.[^marco30]
 
 ## Trajetória
 
