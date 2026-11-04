@@ -14,17 +14,17 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2017, foi um dos artistas selecionados pelo programa de Exposições Temporárias do [[marco|MARCO]].[^fcms2017a] Na terceira temporada de exposições do museu naquele ano, aberta em setembro, apresentou a instalação *Sonho de consumo e pesadelo*, que reaproveita descartes tecnológicos para tratar de redes, contatos e obsolescência. A Fundação de Cultura o identificou então como artista de São Paulo.[^fcms2017b]
+Em 2017, foi um dos artistas selecionados pelo programa de Exposições Temporárias do [[marco|MARCO]].[^fcms2017a] Na terceira temporada de exposições do museu naquele ano, aberta em setembro, apresentou a instalação *Sonho de consumo e pesadelo*, que reaproveita descartes tecnológicos para tratar de redes, contatos e obsolescência. A Fundação de Cultura o identificou como artista de Campo Grande na lista de selecionados de abril e como artista de São Paulo no texto de setembro.[^fcms2017a][^fcms2017b]
 
 Em outubro de 2023, falou à Fundação de Cultura na abertura do projeto CineMARCO e se referiu a Campo Grande como sua cidade.[^fcms2023b] Em maio daquele ano, o MARCO publicou on-line, na Semana Nacional de Museus, uma oficina a partir da obra e do processo criativo dele.[^fcms2023a]
 
-Em dezembro de 2024, participou de uma coletiva de artistas visuais e poetas sobre alterações climáticas, paz e seres vivos na galeria da [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]].[^oe2024] Em 2025, uma instalação sua feita com canos, aros de bicicleta e outros materiais reciclados integrou a coletiva *Elos*, durante o Campão Cultural.[^fcms2025a] Em novembro de 2025, participou do projeto Arte na Academia, da [[confraria-sociartista|Confraria Sociartista]], na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^fcms2025b][^oe2025]
+Em dezembro de 2024, participou de uma coletiva de artistas visuais e poetas sobre alterações climáticas, paz e seres vivos na galeria da [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]].[^oe2024] Em 2025, uma instalação sua feita com canos, aros de bicicleta e outros materiais reciclados integrou a coletiva *Elos*, na [[galeria-wega-nery|Galeria Wega Nery]], durante o Campão Cultural.[^fcms2025a] Em novembro de 2025, participou do projeto Arte na Academia, da [[confraria-sociartista|Confraria Sociartista]], na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^fcms2025b][^oe2025]
 
 ## Exposições
 
 - *Sonho de consumo e pesadelo* (2017) — instalação; MARCO.[^fcms2017b]
 - Coletiva sobre alterações climáticas (2024) — Casa de Cultura de Campo Grande.[^oe2024]
-- *Elos* (2025) — coletiva; Campão Cultural.[^fcms2025a]
+- *Elos* (2025) — coletiva; Galeria Wega Nery, Campão Cultural.[^fcms2025a]
 
 [^fcms2017a]: ["Museu de Arte Contemporânea seleciona mostras do Programa Exposições Temporárias"](https://www.fundacaodecultura.ms.gov.br/museu-de-arte-contemporanea-seleciona-mostras-e-artistas-do-programa-exposicoes-temporarias/), *Fundação de Cultura de MS*, 11 abr. 2017. Acesso em 4 nov. 2026.
 [^fcms2017b]: ["Marco abre Temporada de Exposições com instalações, pintura e esculturas em 4 mostras"](https://www.fundacaodecultura.ms.gov.br/marco-abre-temporada-de-exposicoes-com-instalacoes-pintura-e-esculturas-em-4-mostras/), *Fundação de Cultura de MS*, 12 set. 2017. Acesso em 4 nov. 2026.

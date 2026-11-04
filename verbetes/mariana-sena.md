@@ -20,8 +20,10 @@ Em fevereiro de 2026, como coordenadora da TransCine, falou sobre a segunda edi�
 
 ## Filmografia
 
+- *[[tamo-na-rodoviaria|T'amo na Rodoviária]]* (2018) — documentário de Givago Oliveira; produção.[^cgn2018tamo]
 - *Argento* — curta-metragem; direção. O título do vídeo no canal Vaca Azul traz a indicação "Direção Mariana Sena". O ano não consta na fonte, que também não confirma se a diretora é a mesma coordenadora da TransCine.[^argento] [Assistir no YouTube](https://www.youtube.com/watch?v=Gb3OVozqZ6w)
 
 [^cgn2025]: Thailla Torres, ["TransCine libera série de videocasts sobre audiovisual sul-mato-grossense"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/transcine-libera-serie-de-videocasts-sobre-audiovisual-sul-mato-grossense), *Campo Grande News*, 20 dez. 2025. Acesso em 4 nov. 2026.
 [^teatrine]: Fernando Prestes, ["Mostra de Animação exibe produções sul-mato-grossense em Campo Grande"](https://www.teatrinetv.com.br/audiovisual/mostra-de-animacao-exibe-producoes-sul-mato-grossense-em-campo-grande/19679/), *Teatrine TV*, 5 fev. 2026. Acesso em 4 nov. 2026.
 [^argento]: Vaca Azul, ["CURTA - ARGENTO - DIREÇÃO MARIANA SENA"](https://www.youtube.com/watch?v=Gb3OVozqZ6w), vídeo no canal Vaca Azul (YouTube), na playlist "Filmes | Documentários | Curta-metragens | Videodanças". Acesso em 4 nov. 2026.
+[^cgn2018tamo]: Gustavo Maia, ["Documentário T'amo na Rodoviária resgata histórias perdidas no tempo"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/documentario-tamo-na-rodoviaria-resgata-historias-perdidas-no-tempo), *Campo Grande News*, 20 dez. 2018. Acesso em 4 nov. 2026.

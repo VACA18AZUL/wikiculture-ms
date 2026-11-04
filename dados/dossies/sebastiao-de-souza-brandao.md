@@ -59,3 +59,10 @@ Fontes descartadas: nenhuma.
 ## Uso no verbete
 
 - Ficaram de fora: endereço da casa-museu (residência), casamento, doença do pai, nome do neto e dos pais além de Inácio.
+
+## Atualização de 2026-11-04 (revisão)
+
+- fcms2026a não liga Carmen Lígia Palhano nem Kleber Kosta à Oficina de Dança do Pantanal; a menção saiu. A fonte cita também a professora de dança Sara Carolina e a Escola Municipal Luiz Feitosa Rodrigues.
+- Ano de conclusão de *Nos Trilhos do Trem Fantasma* não confirmado: cgn2014a (mar./2014) previa o filme pronto até meados do ano; cgn2014b (ago./2014) relata filmagem de seis dias; fcms2024 diz que seria exibido em 2015. No verbete: "filmado em 2014".
+- fcms2024 tem byline de Ana Paula Ostapenco de Souza no site, mas assinatura "Texto: Karina Lima" no fim; mantida Karina Lima.
+- Fora: idade em 2025 e 2026, casamento, mãe, morte e doença do pai, nome do neto, endereço da casa-museu.

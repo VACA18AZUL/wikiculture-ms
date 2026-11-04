@@ -22,7 +22,7 @@ Em maio de 2026, o *Correio do Estado* anunciou a estreia, no Hotel Gaspar, em C
 ## Espetáculos
 
 - *Chafica* (2023) — atuação; Cia do Mato.[^fcms2023]
-- *Corpo Sobre Penas* (2026) — criação e performance; direção artística e trilha de Fernando Martins.[^ce2026]
+- *[[corpo-sobre-penas|Corpo Sobre Penas]]* (2026) — criação e performance; direção artística e trilha de Fernando Martins.[^ce2026]
 
 [^cgn2023]: ["Rolê no Bueiro terá sua primeira edição em Dourados nesta sexta"](https://www.campograndenews.com.br/lado-b/diversao/role-no-bueiro-tera-sua-primeira-edicao-em-dourados-nesta-sexta), *Campo Grande News*, 20 set. 2023. Acesso em 4 nov. 2026.
 [^fcms2023]: Ana Paula Ostapenco de Souza, ["Estreia na capital: Cia do Mato apresenta espetáculo em homenagem a Sarah Abussafi Figueiró, ícone da cultura de MS"](https://www.fundacaodecultura.ms.gov.br/estreia-na-capital-cia-do-mato-apresenta-espetaculo-em-homenagem-a-sarah-abussafi-figueiro-icone-da-cultura-de-ms/), Fundação de Cultura de MS, 27 set. 2023. Acesso em 4 nov. 2026.
