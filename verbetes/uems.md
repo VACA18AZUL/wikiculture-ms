@@ -3,7 +3,7 @@ titulo: Universidade Estadual de Mato Grosso do Sul (UEMS)
 tipo: espaco
 areas: [teatro, danca]
 cidade: Campo Grande
-resumo: Universidade estadual de MS. Em Campo Grande, mantém formação em artes cênicas e em dança; seus cursos montaram espetáculos, publicaram pesquisas de egressos e formaram o Grupo Sapicuá.
+resumo: Universidade estadual de MS. Em Campo Grande, mantém formação em artes cênicas e em dança e o projeto de extensão Arrebol Cultural, que montou musicais como Delinha: O Musical (2023).
 ficha:
   Atividade: "Ensino superior; cursos de Artes Cênicas e de Dança"
 links:
@@ -26,6 +26,14 @@ Em agosto de 2024, o *Correio do Estado* citou o curso de Dança da UEMS ao anun
 
 Em abril de 2025, a universidade recebeu atrações do [[festival-campao-cultural|Campão Cultural]], no circuito dedicado às universidades, como a intervenção circense *Apoeme-se*, da Cia Apoema e do grupo JR Circus. Uma das artistas, egressa da UEMS em teatro, disse que a instituição tinha um curso de teatro e circo e um curso de dança.[^fcms2025]
 
+## Arrebol Cultural e musicais
+
+O Arrebol Cultural é um projeto de extensão da UEMS que estuda e monta textos com acadêmicos e pessoas de fora da universidade. Em 2024, o *Campo Grande News* contava dez anos de atividade do grupo de teatro em Campo Grande, com os musicais *O Príncipe do Egito*, *Aída*, *Grease*, *Peter Pan*, *Godspell*, *Cargas d'água – um musical de bolso* e *Mamma Mia*, e peças como *Lisbela e o Prisioneiro* e *O Novelo*.[^cgn2024] A universidade cita também *Matilda* entre as montagens do grupo.[^uems2023]
+
+Em 16 de outubro de 2023, o Arrebol estreou no [[teatro-glauce-rocha|Teatro Glauce Rocha]] *Delinha: O Musical*, sobre a trajetória de [[dama-do-rasqueado-delinha|Delinha]]. Concepção, criação e direção eram de Fernandes Ferreira, e o texto, de Mauro Rocha Mathias. Segundo o diretor, eram cinquenta atores e uma banda de cinco músicos, e foi o primeiro espetáculo do grupo com tema regional.[^uems2023][^cgn2023]
+
+Em maio de 2024, o projeto abriu audições para cinco cantores negros para um musical sobre Tia Eva, feito em parceria com o Sesc.[^cgn2024] O musical estreou em 3 de julho de 2025 no [[sesc-teatro-prosa|Sesc Teatro Prosa]], com Jailda Farias no papel de Tia Eva, e moradores da [[comunidade-quilombola-tia-eva|comunidade Tia Eva]] na plateia. Nessa reportagem, o *Campo Grande News* chama o diretor de Fernando Fernandes e diz que o grupo, apoiado pela UEMS, fazia musicais em Campo Grande havia 15 anos; nas matérias de 2023 e 2024, o diretor aparece como Fernandes Ferreira e o grupo, em 2024, com dez anos.[^cgn2025][^cgn2024][^uems2023]
+
 ## Música
 
 A UEMS é uma das parceiras do projeto Sounding Futures, ao lado do Multimedia Anthropology Lab da University College London e do Instituto para o Desenvolvimento da Arte e da Cultura. Do projeto nasceu o álbum *[[shamans-in-space|Shamans in Space]]*, com rap indígena e rezas guarani e kaiowá, cujo lançamento internacional o *Correio do Estado* noticiou em abril de 2026.[^ce2026]
@@ -35,3 +43,7 @@ A UEMS é uma das parceiras do projeto Sounding Futures, ao lado do Multimedia A
 [^ce2024]: ["Bueiro, Bolívia e Bambolê"](https://correiodoestado.com.br/correio-b/2024/08/09/bueiro-bolivia-e-bambole.html), *Correio do Estado*, 9 ago. 2024. Acesso em 4 nov. 2026.
 [^fcms2025]: Karina Lima, ["Espetáculo Apoeme-se foi uma injeção de sensibilidade no Circuito Universidades durante o Campão Cultural"](https://www.fundacaodecultura.ms.gov.br/espetaculo-apoeme-se-foi-uma-injecao-de-sensibilidade-no-circuito-universidades-durante-o-campao-cultural/), *Fundação de Cultura de MS*, 3 abr. 2025. Acesso em 4 nov. 2026.
 [^ce2026]: Mariana Piell, ["Rap indígena e rezas guarani e kaiowá ganham o mundo em lançamento internacional"](https://correiodoestado.com.br/correio-b/2026/04/20/rap-indigena-e-rezas-guarani-e-kaiowa-ganham-o-mundo-em-lancamento-internacional.html), *Correio do Estado*, 20 abr. 2026. Acesso em 4 nov. 2026.
+[^uems2023]: ["UEMS/Campo Grande: É hoje grande estreia do espetáculo 'Delinha: O Musical'"](https://www.uems.br/noticias/detalhes/UEMS-CG-E-hoje-grande-estreia-de-Delinha-O-Musical), *UEMS*, 16 out. 2023. Acesso em 4 nov. 2026.
+[^cgn2023]: Thailla Torres, ["Musical sobre a vida e carreira de Delinha estreia hoje em Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/musical-sobre-a-vida-e-carreira-de-delinha-estreia-hoje-em-campo-grande), *Campo Grande News*, 16 out. 2023. Acesso em 4 nov. 2026.
+[^cgn2024]: Idaicy Solano, ["Tia Eva ganha homenagem em musical e busca cantores negros para elenco"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/tia-eva-ganha-homenagem-em-musical-e-busca-cantores-negros-para-elenco), *Campo Grande News*, 29 maio 2024. Acesso em 4 nov. 2026.
+[^cgn2025]: Natália Olliver, ["Musical sobre Tia Eva emociona quem vê seu legado desabar"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/musical-sobre-tia-eva-emociona-quem-ve-seu-legado-desabar), *Campo Grande News*, 4 jul. 2025. Acesso em 4 nov. 2026.

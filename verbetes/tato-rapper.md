@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou no hip-hop ainda criança, pelo break. Foi b-boy e DJ em rodas culturais de Campo Grande, que depois passou a frequentar como MC. Em 2022, aos 16 anos, começou a compor com regularidade. Cita como influências Racionais, Criolo e Rashid.[^cgn2025]
+Começou no hip-hop ainda criança, pelo break. Nas rodas culturais de Campo Grande atuou como b-boy e DJ antes de voltar a elas como MC. Em 2022, aos 16 anos, começou a compor com regularidade. Cita como influências Racionais, Criolo e Rashid.[^cgn2025]
 
 Em julho de 2025 lançou o primeiro EP, *Tato Agrokilla e a Desforra Cerratense*, com quatro faixas e um instrumental. O trabalho trata de desmatamento, poluição e da luta indígena em Mato Grosso do Sul, com referência a Marçal de Souza. O personagem central, Agrokilla, é apresentado pelo artista como um antagonista do agronegócio.[^cgn2025]
 

@@ -21,6 +21,8 @@ Com o tempo, ampliou o repertório e os instrumentos e passou a atuar na música
 
 O maestro e diretor artístico é [[edilson-aspet-de-azambuja|Edilson Aspet de Azambuja]], que entrou na banda como aluno e chegou à regência.[^acritica2026][^pmcg2026]
 
+Em 2013, com o nome de Banda Municipal de Campo Grande Maestro Ulisses Conceição, tinha entre seus servidores o saxofonista [[rajiv-do-sax|Rajiv do Sax]].[^cgn2013]
+
 ## 50 anos
 
 Em abril de 2026, *A Crítica* anunciou para 29 daquele mês, no Teatro do Paço Municipal, o concerto *Gospel in Concert*, com versões sinfônicas de música gospel e entrada franca, em comemoração aos 50 anos da banda. O concerto estava previsto como abertura da temporada 2026 do projeto [[concertos-no-paco|Concertos no Paço]].[^acritica2026]
@@ -28,3 +30,4 @@ Em abril de 2026, *A Crítica* anunciou para 29 daquele mês, no Teatro do Paço
 [^acritica2026]: Iury de Oliveira, ["Banda Sinfônica Municipal abre temporada 2026 com concerto pelos 50 anos em Campo Grande"](https://acritica.net/cultura/banda-sinfonica-municipal-abre-temporada-2026-com-concerto-pelos-50-anos/), *A Crítica de Campo Grande*, 24 abr. 2026. Acesso em 4 nov. 2026.
 [^pmcg2026]: ["Meio século em harmonia: a história viva da Banda Sinfônica Municipal"](https://www.campogrande.ms.gov.br/cgnoticias/noticia/meio-seculo-em-harmonia-a-historia-viva-da-banda-sinfonica-municipal/), *CGNotícias*, Prefeitura de Campo Grande, 24 abr. 2026. Acesso em 4 nov. 2026.
 [^cgn2026]: José Cândido, ["Meio século em compasso: banda transforma história em música viva"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/meio-seculo-em-compasso-banda-transforma-historia-em-musica-viva), *Campo Grande News*, 24 abr. 2026. Acesso em 4 nov. 2026.
+[^cgn2013]: Elverson Cardozo, ["Saxofonista troca o romantismo clássico pelo som da polca e do chamamé"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/saxofonista-troca-o-romantismo-classico-pelo-som-da-polca-e-do-chamame), *Campo Grande News*, 21 jan. 2013. Acesso em 4 nov. 2026.

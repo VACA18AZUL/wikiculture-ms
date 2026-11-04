@@ -16,3 +16,7 @@ Buscas sem resultado: Google Notícias ("Desforra Cerratense", "Tato Agrokilla")
 ## Uso no verbete
 
 Fonte única. De fora: morte e saúde da avó (vida familiar/saúde; motivou o EP segundo a matéria), timidez e rejeição na escola, idade. Marçal de Souza sem link (id marcal-de-souza está como fora-do-escopo na lista-mestra).
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte: Google Notícias ("Karyston Magalhães", "Desforra Cerratense", "Agrokilla rap") só traz a mesma matéria do Campo Grande News; Brave sem resultado. Continua fonte única.
