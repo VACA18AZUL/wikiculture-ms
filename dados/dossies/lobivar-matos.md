@@ -15,3 +15,11 @@ Fonte nova: José Antonio de Souza, *Literatura e identidade cultural em MS: alg
 
 - Fonte nova: O Estado MS, 20 mar. 2025, "Pesquisadora lança obra com material inédito de grande nome da literatura de MS". Lobivar Matos: Obra Reunida (Life Editora, 2025), org. Susylene Dias de Araujo (pesquisa desde 1999, mestrado UFMS, doutorado UEL); contos inéditos "Cacos de Vida" (título provisório) obtidos via prof. José Pereira Lins; lançamentos 20/03 (IFMS Corumbá) e 22/03 (Café Doce Lembrança, Campo Grande) — anúncios. Areôtorare (1935) e Sarobá (1936); morte aos 32 anos; ida ao Rio aos 18 para cursar Direito (confere com Souza); advogado; apresentou Manoel de Barros em artigo de jornal.
 - Grafia da matéria: "Arêotorare".
+
+## Atualização de 2026-11-04 (r11)
+
+- Araujo (UEL, tese, 2009; depositada em 2024), p. 38-43, 130 e 146 do PDF: amizade com Manoel de Barros; Annuario Brasileiro de Literatura de 1937 com a apresentação de "Manoel Wenceslau Leite de Barros, ou Nequinho"; Renda de Interrogações (inédito, 1933, 44 poemas, 4 partes); contos inéditos; jornais em que colaborou e o Corumbaense (editor em 1932). Divergência interna: Areôtorare escrito em 1935 (p. 130) × publicado em 1936 (p. 43).
+- Divergência com o verbete: o verbete diz (Araújo 2008) que em 1936 ele apresentou Manoel de Barros; a tese de 2009 situa essa apresentação no Annuario de 1937. Ambas as versões ficam no verbete.
+- A carta de Manoel de Barros (2007) reproduzida na tese traz anedota familiar sobre o registro do nome: ficou fora (vida familiar).
+- Ibanhez (UFGD, 2017), p. 14 e 110: 1915-1947; Areôtorare 1935; Sarobá 1936; "primeiro modernista". Fonte independente nova.
+- Araujo 2009 e Araújo 2008 são da mesma autora.

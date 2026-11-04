@@ -38,8 +38,8 @@ Em 22 de novembro de 2024, o show *Maria Alice canta Paulo Simões* foi anunciad
 
 - *No Mundo a Passeio* (1997) — álbum.[^cgn2025]
 - *Sertões* (2017) — álbum.[^cgn2025]
-- *Maria Alice canta Paulo Simões* (2022) — álbum, com 12 faixas escolhidas entre 50 composições de Paulo Simões; editora 3 Sons.[^cgn2025][^cgn2023]
-- *Maria Alice canta Geraldo Espíndola* (2025) — álbum, 14 faixas; lançamento anunciado para 30 out. 2025.[^cgn2025]
+- *Maria Alice canta Paulo Simões* (2022) — álbum, com 12 faixas escolhidas entre 50 composições de Paulo Simões; editora 3 Sons; terceiro disco solo.[^cgn2025][^cgn2023][^oe2022]
+- *Maria Alice canta Geraldo Espíndola* (2025) — álbum, 14 faixas; lançamento anunciado para 30 out. 2025.[^cgn2025][^oe2026]
 
 [^oe2022]: Marcelo Rezende, ["'Maria Alice canta Paulo Simões em Campo Grande' celebra a música de MS"](https://oestadoonline.com.br/arte-e-lazer/maria-alice-canta-paulo-simoes-em-campo-grande-celebra-a-m/), *O Estado Online*, 5 set. 2022. Acesso em 4 nov. 2026.
 [^oe2026]: ["Maria Alice e Orquestra Jovem homenageiam Geraldo Espíndola"](https://oestadoonline.com.br/arte-e-lazer/maria-alice-e-orquestra-jovem-homenageiam-geraldo-espindola/), *O Estado Online*, 27 out. 2026. Acesso em 4 nov. 2026.

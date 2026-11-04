@@ -25,6 +25,8 @@ Em 1991, foi um dos fundadores da Academia Douradense de Letras, em que ocupou a
 
 Morreu em 2 de maio de 2011, aos 90 anos.[^silva2017]
 
+Parte dos documentos de [[lobivar-matos|Lobivar Matos]] estava em poder de Lins, segundo a tese de Susylene Dias de Araujo (UEL, 2009), que usou desse conjunto um recorte do *Annuario Brasileiro de Literatura* de 1937. A autora o cita como acervo a que outros papéis do poeta poderiam ser somados.[^araujo2009]
+
 ## Presidência da ASL
 
 O histórico da ASL registra que ele foi eleito presidente em 11 de fevereiro de 1999, depois da renúncia de [[arassuay-gomes-de-castro|Arassuay Gomes de Castro]], completou o mandato, foi reeleito e renunciou em 13 de novembro de 2002, sendo substituído por [[hildebrando-campestrini|Hildebrando Campestrini]].[^aslhist] A cronologia da dissertação de 2017 dá 15 de fevereiro de 1999 como início da presidência e registra uma reeleição em 19 de novembro de 2002, com mandato até 30 de janeiro.[^silva2017]
@@ -47,3 +49,4 @@ Em 2004, seu nome foi dado à Faculdade de Comunicação, Artes e Letras (FACALE
 
 [^silva2017]: Luciano Primo da Silva, [*No arquivo do professor José Pereira Lins: uma leitura entre vida e obra*](http://repositorio.ufgd.edu.br/jspui/handle/prefix/1219), dissertação (mestrado em Letras), Universidade Federal da Grande Dourados, 2017, resumo, p. 20-24, 51-52 e 181-182. Acesso em 4 nov. 2026.
 [^aslhist]: Academia Sul-Mato-Grossense de Letras, ["Histórico"](https://acletrasms.org.br/historico/). Acesso em 4 nov. 2026.
+[^araujo2009]: Susylene Dias de Araujo, [*A vida e a obra de Lobivar Matos: o modernista (des)conhecido*](https://repositorio.uel.br/bitstreams/acf051fe-2b05-42d0-93be-a30b3192c120/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2009, p. 38 e 144 (p. 40, nota 19, e 146 do PDF). Acesso em 4 nov. 2026.

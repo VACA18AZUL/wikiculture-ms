@@ -50,3 +50,7 @@ Mesma pessoa nas duas fontes: a dissertação traz imagens e cronologia do profe
 ## Uso no verbete
 
 - Entrou a trajetória profissional e literária; ficou de fora o que está em "Fora do verbete". Paginação citada pela numeração impressa.
+
+## Atualização de 2026-11-04 (r11)
+
+- Araujo (UEL, tese, 2009), p. 40 (nota 19) e 146 do PDF: documentos de Lobivar Matos em poder de José Pereira Lins; recorte do Annuario Brasileiro de Literatura (1937) vem desse conjunto.

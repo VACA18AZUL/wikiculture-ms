@@ -73,3 +73,10 @@ O que mudou:
 - Mantém-se a pendência: Maria Alice no Festival de Inverno de Bonito 2022 (Correio do Estado) sem identidade explícita.
 - Site da cantora (mariaalice.art.br), citado na matéria de 2018: proxy devolveu 502; não lido.
 - Verdict: fonte de outro veículo existe (FCMS), mas de origem em divulgação da produtora; situação reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas abertas e lidas (API do O Estado MS, busca "Maria Alice" cantora):
+- Marcelo Rezende, "'Maria Alice canta Paulo Simões em Campo Grande' celebra a música de MS", O Estado Online, 5 set. 2022 (https://oestadoonline.com.br/arte-e-lazer/maria-alice-canta-paulo-simoes-em-campo-grande-celebra-a-m/). Matéria assinada por repórter do jornal (com falas da cantora e de Gabriel de Andrade). Sustenta: show de 10 set. 2022 na Concha Acústica Helena Meireles; terceiro álbum solo, editora 3 Sons, 12 faixas de lista de 50; radicada em Campo Grande desde os anos 1980; Marruá Arte e Cultura desde 1997; arranjos e direção de Gabriel de Andrade. Confirma, em veículo diferente do CGN, o disco de 2022 e a radicação.
+- "Maria Alice e Orquestra Jovem homenageiam Geraldo Espíndola", O Estado Online, 27 out. 2026. Sustenta: concerto de 2 nov. 2026 no Teatro Glauce Rocha com a Orquestra Jovem Sesc MS (regência e arranjos de Rodrigo Faleiros), projeto Sesc Raízes e Projeto Concertos da UFMS; mais de 35 anos de carreira; quarto álbum.
+- Ressalva: o texto de 2022 pode ter origem em divulgação da Marruá, mas é assinado pelo jornal.

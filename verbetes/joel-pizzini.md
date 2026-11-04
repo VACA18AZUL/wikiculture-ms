@@ -38,6 +38,7 @@ Em 16 de novembro de 2009, o *Correio do Estado* anunciou para aquela semana, de
 - *Enigma de um Dia* (1996) — curta; direção.[^neves51]
 - *500 Almas* (2005 segundo Neves; 2004 segundo Fidelis) — longa documentário; direção.[^neves55][^fidelis2015]
 - *Mar de Fogo* — curta; direção.[^ce2015a]
+- [[500-almas|*500 Almas*]] (2004 ou 2005, conforme a fonte) — longa documentário sobre os Guató; direção.[^fcms2026][^fidelis2015]
 - *Olho Nu* (2014) — longa, filme-ensaio; direção.[^ce2015b]
 - *Zimba* (2021) — documentário; direção.[^ce2021]
 - *Rio da Dúvida* — documentário; direção.[^ce2021]
@@ -59,3 +60,4 @@ Em 16 de novembro de 2009, o *Correio do Estado* anunciou para aquela semana, de
 [^neves55]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 55. Acesso em 4 nov. 2026.
 [^vicelli]: Karina Kristiane Vicelli, [*Transgressão e antropofagia: da poesia de Manoel de Barros à poética de Caramujo-flor, de Joel Pizzini Filho*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2125), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2008, p. 9-14. Acesso em 4 nov. 2026.
 [^fidelis2015]: Cid Nogueira Fidelis, [*Cinematografia indígena: a experiência social sob o foco da cultura Guarani-Kaiowá*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4417), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2015, p. 72 e 120. Acesso em 4 nov. 2026.
+[^fidelis2015]: Cid Nogueira Fidelis, [*Cinematografia indígena: a experiência social sob o foco da cultura Guarani-Kaiowá*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4417), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2015, p. 72 e 77. Acesso em 4 nov. 2026.

@@ -37,3 +37,8 @@ Fonte aberta sem menção a ele: Aletheya Alves, "Confraria Sociartista fará ex
 - Divergência de grafia: Correio do Estado "Góis"; CGN (homenagem) "Góes". Registrada no verbete e em observacoes.
 - Não aberto (403): Midiamax, "Pedro Guilherme expõe no Espaço Aberto da Câmara Municipal de Campo Grande" (2011). Nota de pesar da Prefeitura de Coxim e da Confraria: citadas só em resumo de busca, não abertas.
 - Quanto às demais afirmações (1967, mudança na infância, autodidata, Salão de Santos, docência, Piracema), só o CGN. Nascimento em 1967 é coerente com 58 anos em nov. 2025.
+
+## Atualização de 2026-11-04 (r12)
+
+- Relida a matéria do Correio B de 21/11/2025 (Laura Brasil), agora em https://correiodoestado.com.br/correio-b/2025/11/21/artista-plastico-que-tinha-o-pantanal-como-inspiracao-morre-aos-58-anos.html. É a mesma matéria já citada como nota ce (URL antiga do jornal). Acrescentado só o detalhe de que *O Beijo* representa dois peixes carás. Fora: causa da morte, local e horário do velório (saúde/vida privada).
+- O verbete segue com duas fontes independentes (CGN 2026 e Correio 2025).

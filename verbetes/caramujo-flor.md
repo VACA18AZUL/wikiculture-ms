@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 Segundo Vicelli, o roteiro é todo feito de fragmentos de poemas de Barros. Algumas cenas foram rodadas no Rio de Janeiro e a maioria em Mato Grosso do Sul, em Bonito, em Corumbá e no Pantanal.[^vicelli] Neves descreve o filme como ensaio ambientado no Pantanal e em outros lugares de Mato Grosso do Sul e de São Paulo.[^neves]
 
-A Cinemateca registra a Polo Cinematográfica como produtora. Entre as coprodutoras estão a Fundação do Cinema Brasileiro, a Sudeco, a Secretaria de Cultura de Mato Grosso do Sul, a Fundação Cultural de Dourados, o projeto Pantanal Alerta Brasil e a Secretaria do Meio Ambiente de Mato Grosso do Sul. A fotografia é de Pedro Farkas, a montagem de Idê Lacreta, a direção de arte e os figurinos de Clóvis Bueno e a música de Lívio Tragtenberg. A trilha inclui *Improviso no Túnel*, de [[almir-sater|Almir Sater]], e um tema com versos de Barros interpretado por [[tete-espindola|Tetê Espíndola]].[^cb]
+A Cinemateca registra a Polo Cinematográfica como produtora. Entre as coprodutoras estão a Fundação do Cinema Brasileiro, a Sudeco, a Secretaria de Cultura de Mato Grosso do Sul, a Fundação Cultural de Dourados, o projeto [[pantanal-alerta-brasil|Pantanal Alerta Brasil]] e a Secretaria do Meio Ambiente de Mato Grosso do Sul. A fotografia é de Pedro Farkas, a montagem de Idê Lacreta, a direção de arte e os figurinos de Clóvis Bueno e a música de Lívio Tragtenberg. A trilha inclui *Improviso no Túnel*, de [[almir-sater|Almir Sater]], e o *Tema da lesma e boca*, creditado a Barros e interpretado por [[tete-espindola|Tetê Espíndola]].[^cb]
 
 ## Prêmios e exibições
 

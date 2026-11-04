@@ -45,3 +45,8 @@
 ## Uso no verbete
 
 - Entrou tudo acima, sem transcrever poemas. A lista completa de comentaristas ficou reduzida.
+
+## Atualização de 2026-11-04 (r11)
+
+- Ibanhez (UFGD, 2017), p. 14 e 110-111 do PDF: Sarobá: poemas, lançado em 1936; bairro negro de Corumbá; primeiro poema "Sarobá".
+- Araujo (UEL, tese, 2009), p. 130 do PDF: 2006 = setenta anos de Sarobá (logo 1936), segundo e último título publicado.

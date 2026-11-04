@@ -53,3 +53,9 @@ Paginação: Souza tem o número no alto da página (PDF p. N = página impressa
 ## Uso no verbete
 
 - Entrou tudo acima; a leitura de Leite sobre "política da amizade" ficou resumida.
+
+## Atualização de 2026-11-04 (r11)
+
+- Ibanhez (UFGD, 2017), p. 14 do PDF: Areôtorare "confeccionado" em 1935; poetiza as relações dos bororos e da aldeia com o mundo moderno.
+- Araujo (UEL, tese, 2009), p. 43 do PDF ("Em 1936, Lobivar Matos publica Areôtorare") e p. 130 do PDF ("em 1935, Lobivar havia escrito Areôtorare"): divergência interna, registrada.
+- Agora com fontes independentes: Souza 2008, Leite 2026, Araújo 2008/2009 e Ibanhez 2017.

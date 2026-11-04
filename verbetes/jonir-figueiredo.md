@@ -3,9 +3,9 @@ titulo: Jonir Figueiredo
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Corumbá
-resumo: Desenhista, gravador, pintor e performer nascido em Corumbá, um dos fundadores do Movimento Cultural Guaicuru e autor de obras sobre a fauna pantaneira e a identidade de Mato Grosso do Sul.
+resumo: Desenhista, gravador, pintor e performer sul-mato-grossense, um dos fundadores do Movimento Cultural Guaicuru e autor de obras sobre a fauna pantaneira e a identidade de Mato Grosso do Sul.
 ficha:
-  Nascimento: Corumbá
+  Nascimento: "Corumbá (ou Campo Grande, conforme a fonte)"
   Morte: "26 de julho de 2025, Bonito"
   Atividade: Desenho, gravura, pintura e performance
   Grupos: Movimento Cultural Guaicuru
@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Jonir Figueiredo** (Corumbá – Bonito, 2025) foi um artista plástico sul-mato-grossense, desenhista, gravador, pintor, performer e produtor cultural.[^cgn2025][^assis] O nome aparece também como Jonir Figueredo.[^cgn2014]
+**Jonir Figueiredo** (Corumbá ou Campo Grande – Bonito, 2025) foi um artista plástico sul-mato-grossense, desenhista, gravador, pintor, performer e produtor cultural.[^cgn2025][^assis] O nome aparece também como Jonir Figueredo.[^cgn2014]
 
 ## Trajetória
 
@@ -25,7 +25,7 @@ Presidiu a Associação dos Artistas Plásticos de Mato Grosso do Sul em 2008 e 
 
 Morreu em 26 de julho de 2025, em Bonito, onde participava do Festival Bonito Cinesur.[^cgn2025b] Segundo o *Correio do Estado*, a morte ocorreu de madrugada, horas depois da noite de abertura do 3º Festival de Cinema Sul-Americano de Bonito, do qual era um dos convidados especiais.[^ce2025] A idade varia: a matéria do Campo Grande News de 26 de julho informa 73 anos em um trecho e 71 em outro, a de 27 de julho informa 73, e a do *Correio do Estado* informa 71.[^cgn2025][^cgn2025b][^ce2025]
 
-A naturalidade também diverge. O *Correio do Estado* diz que ele era natural de Campo Grande;[^ce2025] a ficha deste verbete registra Corumbá, a partir das outras fontes.
+A naturalidade também diverge: o Campo Grande News diz que ele nasceu em Corumbá,[^cgn2025] e o *Correio do Estado*, que era natural de Campo Grande.[^ce2025]
 
 ## Obra
 
