@@ -33,6 +33,10 @@ Fabricio Moser cita o capítulo "Teatro", dela, em *Memória da Arte em MS: hist
 
 Carlos Rodrigo Diehl registra que o cineclubismo de Campo Grande surgiu em 1967, dirigido por ela, e formou cinéfilos e produtores como Cândido Alberto da Fonseca.[^diehl] Ver [[cineclube-de-campo-grande|Cineclube de Campo Grande]].
 
+## Crítica literária
+
+A tese de José Antonio de Souza (Universidade Estadual de Londrina, 2008) cita Maria da Glória Sá Rosa entre os críticos locais. Segundo Souza, num texto de 2001 ela aponta que a literatura de Mato Grosso do Sul está ligada a forças políticas, econômicas e sociais.[^souza2008]
+
 ## Livros sobre a memória cultural
 
 O livro *Memória da Cultura e da Educação de Mato Grosso do Sul: histórias de vida* (1990) é o ponto final do recorte da dissertação de Adriana Carlos sobre a produção escrita dela, de 1970 a 1990.[^carlos]
@@ -46,3 +50,4 @@ O acervo Maria da Glória Sá Rosa está na Universidade Estadual de Mato Grosso
 [^godoi]: Rozana Vanessa Fagundes Valentim de Godoi, [*O curso de Educação Artística na Universidade Federal de Mato Grosso do Sul (1980-2000): história e memórias*](http://repositorio.ufgd.edu.br/jspui/bitstream/prefix/4524/1/RozanaVanessaFagundesValentimdeGodoi.pdf), tese de doutorado, Universidade Federal da Grande Dourados, 2020. Acesso em 29 out. 2026.
 [^moser]: Fabricio Goulart Moser, [“A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas”](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), *Associação Brasileira de Pesquisa e Pós-Graduação em Artes Cênicas (ABRACE)*. Acesso em 29 out. 2026.
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2009. Acesso em 29 out. 2026.
+[^souza2008]: José Antonio de Souza, [*Literatura e identidade cultural em MS: algumas fronteiras e a (des)identificação com o Pantanal*](https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2008, p. 32 (numeração impressa). Acesso em 4 nov. 2026.

@@ -38,6 +38,10 @@ Os livros de poesia citados pela Academia e pela UFGD são:[^asl][^ufgd]
 - *Caixa de Poemas* (1997), pela Editora Manuscrito; por anos leitura obrigatória em vestibulares de Mato Grosso do Sul[^asl]
 - *Caixa das Delícias* (2003; a Academia não informa o ano)[^asl][^ufgd]
 
+## Estudos sobre a obra
+
+A tese de doutorado de José Antonio de Souza (Universidade Estadual de Londrina, 2008), que grafa o nome como Emanuel Marinho, analisa poemas de *Caixa de Poemas* (Dourados, Manuscrito, 1997) e o chama de escritor douradense. Souza destaca o poema-imagem "Genocíndio", sobre o genocídio indígena, e um poema concreto sem título sobre o índio e o trator. Vê na obra uma poesia crítica e engajada, que explora o elemento visual.[^souza2008]
+
 ## Discografia
 
 - *Teré* — disco que reúne participações de Itamar Assumpção, Paulo Lepetit, Toninho Ferragguti, Alzira Espíndola e Pedro Luís e a Parede, entre outros; recebeu o prêmio Marco Verde em 2002.[^asl]
@@ -56,3 +60,4 @@ A Academia lista o Prêmio Marçal de Souza (Câmara Municipal de Dourados, 1995
 
 [^asl]: ["Emmanuel Marinho"](https://acletrasms.org.br/portfolio-item/emmanuel-marinho/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 33. Acesso em 29 out. 2026.
 [^ufgd]: ["Novo imortal da ASL, Emmanuel Marinho é homenageado pela PROEX"](https://portal.ufgd.edu.br/noticias/novo-imortal-da-asl-emmanuel-marinho-e-homenageado-pela-proex), *Portal UFGD*, 4 nov. 2015. Acesso em 29 out. 2026.
+[^souza2008]: José Antonio de Souza, [*Literatura e identidade cultural em MS: algumas fronteiras e a (des)identificação com o Pantanal*](https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2008, p. 12, 81-83 e 115-117 (numeração impressa), e referências. Acesso em 4 nov. 2026.

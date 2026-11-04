@@ -32,3 +32,7 @@ Observação: as três fontes são do mesmo veículo, mas de autores e anos dife
 ## Uso no verbete
 
 - Entrou tudo acima, exceto o vídeo e o empresário.
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte (Google Notícias, API do O Estado): só achadas matérias do Campo Grande News ou do Dourados News, este bloqueado (403) e sem cópia no archive.org. Continua fonte única.

@@ -24,3 +24,8 @@ Busca por 2ª fonte independente (Google Notícias RSS, API FCMS) sem resultado:
 ## Uso no verbete
 
 Tudo acima. Rubens Ramos ficou sem link: o verbete rubens-ramos trata a identidade com o ator de Honra como homônimo não confirmado. Ingressos, telefones e falas ficaram de fora.
+
+## Atualização de 2026-11-04
+
+- Validação valn-36-0: nova busca no Google Notícias ("Alexandre Couto" Honra filme; "Reinaldo Dorval") e na FCMS ("Alexandre Couto") sem fonte nova sobre o filme. Continua fonte única (Campo Grande News).
+- Sessão do MIS (20 ago. 2014) era anúncio do dia; verbete reescrito. A exibição no Senac (ago. 2013) já estava como anúncio.

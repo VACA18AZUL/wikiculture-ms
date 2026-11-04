@@ -15,7 +15,7 @@ O **Festival Campão Cultural**, ou Campão Cultural – Festival de Arte, Diver
 
 ## Edições
 
-A primeira edição teve abertura oficial em 27 de novembro de 2021, na Esplanada Ferroviária. Segundo a FCMS, durou 14 dias, em 20 locais da capital, com mais de 150 atrações, entre elas Duda Beat e Djonga. O festival homenageou Mestre Galvão, [[ze-pretim|Zé Pretim]], América Cardinal, [[jair-damasceno|Jair Damasceno]], [[givago-oliveira|Givago Oliveira]] e Aurélio Vinícius.[^fcms2021] O site *Tenho Mais Discos Que Amigos!* situa a primeira edição entre 22 de novembro e 5 de dezembro de 2021.[^tmdqa2021] A programação incluiu grafites em muros e prédios do Centro.[^cgn2021]
+Na véspera, a FCMS anunciou a abertura oficial da primeira edição para 27 de novembro de 2021, na Esplanada Ferroviária, com 14 dias de programação em 20 locais da capital e mais de 150 atrações, entre elas Duda Beat e Djonga. Os homenageados anunciados foram Mestre Galvão, [[ze-pretim|Zé Pretim]], América Cardinal, [[jair-damasceno|Jair Damasceno]], [[givago-oliveira|Givago Oliveira]] e Aurélio Vinícius.[^fcms2021] O site *Tenho Mais Discos Que Amigos!* situa a primeira edição entre 22 de novembro e 5 de dezembro de 2021.[^tmdqa2021] A programação incluiu grafites em muros e prédios do Centro.[^cgn2021]
 
 A segunda edição, de 2022, tem verbete próprio: [[campao-cultural-2022|Campão Cultural 2022]]. Um dos homenageados foi o grupo de rap [[falange-da-rima|Falange da Rima]]. A edição de 2025 foi anunciada como a terceira.[^cgn2026][^fcms2025]
 

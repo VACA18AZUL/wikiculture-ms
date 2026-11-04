@@ -26,6 +26,8 @@ Em 1981, venceu o Festão com [[celito-espindola|Celito Espíndola]], com a toad
 
 Em texto de 1996 citado por Faria, Simões descreve a música do estado como derivada da música rural de São Paulo e Minas Gerais, com uma camada indígena e, na fronteira com Paraguai e Bolívia, a influência de ritmos platinos como polca paraguaia, guarânia, rasqueado e chamamé.[^faria2024]
 
+Com o violeiro mato-grossense João Ormond, apresentou o show *Violas Pantaneiras*, com repertório de polcas, chamamés, guarânias, rasqueados e composições próprias, tocado com viola caipira e viola-de-cocho. A terceira edição foi marcada para 7 de dezembro de 2016 no Teatro Zulmira Canavarros, em Cuiabá, com participação de [[gabriel-sater|Gabriel Sater]].[^fcms2016] Em 2026, o *A Crítica* citou o projeto Violas Pantaneiras ao lado do [[chalana-de-prata|Chalana de Prata]] como trabalhos que o ligaram à sonoridade regional.[^acritica2026]
+
 ## Obra
 
 Em novembro de 2016, o *Correio do Estado* noticiou o livro *Sonhos Guaranis: a poesia de Paulo Simões*, da Editora da UFMS, organizado pelo jornalista Danilo Nuha, com as letras que ele escreveu. O mesmo texto informa que ele tinha então quatro álbuns, uma coletânea e um DVD, sem listá-los.[^ce2016]
@@ -34,6 +36,8 @@ Em novembro de 2016, o *Correio do Estado* noticiou o livro *Sonhos Guaranis: a 
 
 - [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de Fábio Flecha; participação especial.[^fcmslendas]
 
+[^fcms2016]: Gisele Colombo, ["Paulo Simões e Gabriel Sater apresentam show 'Violas Pantaneiras' em Cuiabá"](https://www.fundacaodecultura.ms.gov.br/paulo-simoes-e-gabriel-sater-apresentam-show-violas-pantaneiras-em-cuiaba/), Fundação de Cultura de Mato Grosso do Sul, 7 dez. 2016. Acesso em 4 nov. 2026.
+[^acritica2026]: ["Paulo Simões faz show no Sesc Teatro Prosa pelos 50 anos de 'Trem do Pantanal'"](https://acritica.net/cultura/paulo-simoes-show-sesc-teatro-prosa-50-anos-trem-do-pantanal/), *A Crítica de Campo Grande*, 10 abr. 2026. Acesso em 4 nov. 2026.
 [^ce2016]: Redação, ["Histórias de Paulo Simões e 'Prata da Casa' são contadas em livros"](https://correiodoestado.com.br/correio-b/historias-de-paulo-simoes-e-prata-da-casa-sao-contadas-em-livros/290295/), *Correio do Estado*, 1 nov. 2016. Acesso em 4 nov. 2026.
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99. Acesso em 4 nov. 2026.
 [^caeufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, pp. 53, 63 e 120. Acesso em 4 nov. 2026.

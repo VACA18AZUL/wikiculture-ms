@@ -28,3 +28,7 @@
 ## Uso no verbete
 
 Tudo entrou. A linha da Filmografia de thayna-cambara passou a ligar o verbete e o vídeo.
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte (RSS do Google Notícias, "Ibejada" Corumbá): Primeira Página, "Milagre inspira filme sobre a devoção de corumbaenses a São Cosme e Damião" (16 maio 2025), lida; reproduz o release da FCMS (mesmas falas e frases), não conta como fonte independente. Midiamax (16 maio 2025) bloqueou o acesso (403). Continua fonte única.

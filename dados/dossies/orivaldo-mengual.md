@@ -37,3 +37,9 @@ Descartada: FCMS 2016 (Grupo Acaba 50 anos) — só cita "o radialista Mengual" 
 ## Uso no verbete
 
 Tudo entrou, exceto telefones de contato (dado pessoal).
+
+## Atualização de 2026-11-04
+
+- Validação: a matéria do *Correio do Estado* de 1/7/2021 reproduz as falas do texto da FCMS de 30/6/2021 (release); não conta como fonte independente.
+- Segunda fonte independente lida: Thailla Torres, "Festival de Chamamé reúne Brasil, Paraguai e Argentina na Capital", *Campo Grande News*, 4/9/2026 (https://www.campograndenews.com.br/lado-b/diversao/festival-de-chamame-reune-brasil-paraguai-e-argentina-na-capital): produtor-geral do 8º Festival Cultural do Chamamé (17 a 20/9/2026) e presidente do instituto. Entrou como [^cgn2026].
+- Lida e não usada: *O Estado Online*, jan. 2025, sobre excursão à Fiesta Nacional del Chamamé (traz telefone e grafia "Osvaldo"; fundação do instituto em 21/6/2014 — fato do instituto, pode servir ao verbete do instituto).

@@ -34,3 +34,7 @@ Descartadas: SAD-MS (Arraial do Servidor 2015), aberta, sem menção ao grupo no
 ## Uso no verbete
 
 - Entrou tudo.
+
+## Atualização de 2026-11-04
+
+- Validação valn-37a: buscas na API do O Estado MS, na busca da FCMS e no Google Notícias (RSS) só trouxeram as matérias já usadas do Campo Grande News e do JD1. O JD1 (2016) assina "Sesc MS" e repete a lista de influências do texto de 2015: tratado como release. Um item "Apresentadores e locutores da RTVE vão animar o 1º Arraial do Servidor" (SAD MS, jul. 2015) apareceu na busca, mas o link não abriu; não entra.

@@ -3,7 +3,7 @@ titulo: Mariana Matsui
 tipo: pessoa
 areas: [musica]
 cidade: Dourados
-resumo: "Cantora e compositora nipo-brasileira nascida em Dourados, que viveu no Japão a partir de 2021 e lançou em 2026 o primeiro álbum pela gravadora japonesa Rambling Records."
+resumo: "Cantora e compositora nipo-brasileira nascida em Dourados, que viveu no Japão a partir de 2021 e teve o primeiro álbum anunciado para outubro de 2026 pela gravadora japonesa Rambling Records."
 ficha:
   Nascimento: "Dourados"
   Atividade: "Canto, composição"
@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou a estudar canto em Dourados, aos 8 anos, e viveu na cidade até a adolescência. Depois se mudou para São Paulo.[^cgn2026] Segundo o *Correio do Estado*, estudou canto popular e violão no Conservatório Souza Lima & Berklee, em São Paulo, entre 2013 e 2017, e se apresentou em Lisboa em 2017.[^ce2022]
+Começou a estudar canto em Dourados, aos 8 anos, e viveu na cidade até a adolescência. Depois se mudou para São Paulo.[^cgn2026] Segundo o *Correio do Estado*, entre 2013 e 2017 fez estudos de canto popular e de violão no Conservatório Souza Lima & Berklee, em São Paulo, e se apresentou em Lisboa em 2017.[^ce2022]
 
 Visitou o Japão pela primeira vez em 2018 e se mudou para o país em junho de 2021. Em 2022, assinava artisticamente apenas como Mariana.[^ce2022] O *Campo Grande News* informa que ela depois voltou ao Brasil e mantém viagens ao Japão para apresentações.[^cgn2026]
 

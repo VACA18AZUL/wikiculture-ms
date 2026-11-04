@@ -24,6 +24,8 @@ Na UFMS, ensinou História da Arte no curso de Educação Artística (1981-2000)
 
 Tomou posse na ASL em 8 de dezembro de 2010, na cadeira 9, saudada por [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]].[^asl] Segundo a dissertação de 2023, Sá Rosa a descreveu na cerimônia como professora, leitora, escritora e crítica de arte.[^carlos2023]
 
+A tese de José Antonio de Souza (Universidade Estadual de Londrina, 2008), sobre literatura e identidade em Mato Grosso do Sul, cita textos dela de 2001 e 2006. Segundo Souza, Menegazzo afirma que os produtores culturais do estado tratam a identidade a partir de um olhar plural, que vai além do estereótipo, e considera a busca de uma identidade regional uma falsa questão. Souza atribui a ela o termo "ditadura da figura", para a representação da fauna pantaneira em fachadas e espaços públicos.[^souza2008]
+
 Em 2024, mediou uma conversa com a escritora Socorro Acioli na programação da Feira Literária de Bonito.[^cgn2024] Em 2026, aparece como uma das três acadêmicas que coordenam o clube de leitura Leituras & Conversas, da ASL, junto com [[lenilde-ramos|Lenilde Ramos]] e [[sylvia-cesco|Sylvia Cesco]].[^critica2026]
 
 ## Obras
@@ -41,3 +43,4 @@ Em 2024, mediou uma conversa com a escritora Socorro Acioli na programação da 
 [^carlos2023]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092), dissertação de mestrado, Programa de Pós-Graduação em Educação, Universidade Estadual de Mato Grosso do Sul, Paranaíba, 2023, p. 70 (nota 117), 131, 246, 258-259 (nota 457), 268-269; PDF anexado ao registro do trabalho na Plataforma Sucupira (CAPES). Acesso em 4 nov. 2026.
 [^cgn2024]: Thailla Torres, ["Confira a programação da Feira Literária de Bonito desta sexta-feira"](https://www.campograndenews.com.br/lado-b/diversao/confira-a-programacao-da-feira-literaria-de-bonito-desta-sexta-feira), *Campo Grande News*, 5 jul. 2024. Acesso em 29 out. 2026.
 [^critica2026]: Ricardo Eugenio, ["Clube de leitura da ASL debate Elias Borges nesta quinta (8) em Campo Grande"](https://acritica.net/eventos/academia-letras-clube-leitura-elias-borges-campo-grande/), *A Crítica de Campo Grande*, 5 out. 2026. Acesso em 29 out. 2026.
+[^souza2008]: José Antonio de Souza, [*Literatura e identidade cultural em MS: algumas fronteiras e a (des)identificação com o Pantanal*](https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2008, p. 34-35 (numeração impressa), e referências. Acesso em 4 nov. 2026.

@@ -3,7 +3,7 @@ titulo: Honra (longa-metragem, 2013)
 tipo: obra
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Longa-metragem de ficção dirigido por Alexandre Couto, com roteiro e atuação de Reinaldo Dorval. Drama familiar rodado em HD em Campo Grande e lançado em 2013, foi exibido no MIS em 2014.
+resumo: Longa-metragem de ficção dirigido por Alexandre Couto, com roteiro e atuação de Reinaldo Dorval. Drama familiar rodado em HD em Campo Grande e lançado em 2013, teve sessão programada no MIS em 2014.
 ficha:
   Direção: Alexandre Couto
   Roteiro: Reinaldo Dorval
@@ -27,7 +27,7 @@ Em julho de 2013, sem patrocínio, os produtores criaram uma petição pública 
 
 ## Exibições
 
-O *Campo Grande News* registrou que o longa foi lançado em 2013. Em 20 de agosto de 2014, o [[mis-ms|Museu da Imagem e do Som]] exibiu o filme no projeto Clube do Cineclube, com entrada gratuita.[^cgn2014]
+O *Campo Grande News* registrou que o longa foi lançado em 2013. Para 20 de agosto de 2014, o [[mis-ms|Museu da Imagem e do Som]] programou uma sessão gratuita do filme no projeto Clube do Cineclube, anunciada pelo jornal no mesmo dia.[^cgn2014]
 
 ## Ficha técnica
 

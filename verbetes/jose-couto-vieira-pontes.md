@@ -24,7 +24,11 @@ Escreveu o prefácio da segunda edição de [[camalotes-e-guavirais|*Camalotes e
 
 - *Deste lado do horizonte* (1972) — contos.[^amarilha]
 - *Jorge Luís Borges, a erudição e os espelhos* (1976) — ensaio.[^amarilha]
-- *História da literatura sul-mato-grossense* (1981) — estudo de história literária, citado nas duas fontes.[^raido][^amarilha]
+- *História da literatura sul-mato-grossense* (1981) — estudo de história literária, citado nas duas fontes.[^raido][^amarilha] Edição da Editora do Escritor, de São Paulo, segundo Souza.[^souza2008]
+
+## Recepção
+
+Para José Antonio de Souza, em tese de 2008, a *História da literatura sul-mato-grossense*, publicada quatro anos depois da criação do estado, mostra a busca de uma identidade cultural própria. Souza observa que Pontes define a literatura do estado pelo espaço, e não pelo nascimento ou pela divisão, e por isso inclui autores anteriores à separação ligados à região, como Taunay. A tese parte da obra de Pontes para escolher os autores que estuda.[^souza2008]
 
 ## Para saber mais
 
@@ -32,3 +36,4 @@ Escreveu o prefácio da segunda edição de [[camalotes-e-guavirais|*Camalotes e
 
 [^amarilha]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2006. Acesso em 29 out. 2026.
 [^raido]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, p. 77-90, jan./jun. 2008. Acesso em 29 out. 2026.
+[^souza2008]: José Antonio de Souza, [*Literatura e identidade cultural em MS: algumas fronteiras e a (des)identificação com o Pantanal*](https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2008, resumo e p. 11 (numeração impressa), e referências. Acesso em 4 nov. 2026.

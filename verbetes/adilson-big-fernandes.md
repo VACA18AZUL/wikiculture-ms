@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Segundo o *Campo Grande News* e a Fundação de Cultura de MS (FCMS), Adilson e o irmão Marcos Fernandes se mudaram de São Paulo para Campo Grande e formaram, com o guitarrista Edson David, a banda de heavy metal [[alta-tensao|Alta Tensão]], criada em 1981. Em 1984, Adilson convidou o baterista Bosco para a banda. Os irmãos depois deixaram o grupo.[^cgn2017][^fcms2017] Em 2023, o *Campo Grande News* disse que ele fundou a banda em meados dos anos 1980.[^cgn2023]
 
-Em 1993, com Marcos Bezerra, criou a banda Lilás, do estilo banda-show, voltada para formaturas, casamentos e festas. Em 1996, passou a gerir e produzir a Banda Big Company, do mesmo segmento. Como instrumentista, tocou com [[carlos-colman|Carlos Colman]], [[celito-espindola|Celito Espíndola]], [[tostao-e-guarany|Tostão & Guarani]] e [[geraldo-espindola|Geraldo Espíndola]]. Em 2023, era gestor e instrumentista das bandas Company Trio e Four Sounds e do projeto Encontros de Quarentena.[^cgn2023]
+Em 1993, com Marcos Bezerra, criou a banda Lilás, do estilo banda-show, voltada para formaturas, casamentos e festas. Em 1996, passou a gerir e produzir a [[banda-big-company|Banda Big Company]], do mesmo segmento. Como instrumentista, tocou com [[carlos-colman|Carlos Colman]], [[celito-espindola|Celito Espíndola]], [[tostao-e-guarany|Tostão & Guarani]] e [[geraldo-espindola|Geraldo Espíndola]]. Em 2023, era gestor e instrumentista das bandas Company Trio e Four Sounds e do projeto Encontros de Quarentena.[^cgn2023]
 
 Em outubro de 2020, apresentou-se com a Big Company no [[som-da-concha|Som da Concha]], na Concha Acústica Helena Meirelles, em Campo Grande.[^fcms2020]
 
