@@ -16,13 +16,13 @@ atualizado: 2026-11-04
 
 Em 2019, foi um dos 21 artistas da mostra coletiva *Lídia*, com obras inspiradas em [[lidia-bais|Lídia Baís]], que inaugurou o Espaço Jorapimo da Fundação de Cultura de MS.[^fcms2019][^fcms2021]
 
-Mantinha um ateliê numa casa da época da Noroeste do Brasil, na esquina da Rua dos Ferroviários com a Avenida Mato Grosso, e fazia intervenções na fachada e nos muros. Com a arteterapeuta [[tatiana-de-conto|Tatiana De Conto]], transformou o antigo ateliê 118 no museu Casa Amarela, aberto ao público em 21 de setembro de 2024, com peças suas no acervo.[^cgn2024]
+Mantinha um ateliê numa casa da época da Noroeste do Brasil, na esquina da Rua dos Ferroviários com a Avenida Mato Grosso, e fazia intervenções na fachada e nos muros. Com a arteterapeuta [[tatiana-de-conto|Tatiana De Conto]], transformou o antigo ateliê 118 no museu Casa Amarela, com abertura ao público marcada para 21 de setembro de 2024 e peças suas entre as obras expostas.[^cgn2024]
 
 Em maio de 2024, como coordenador do Muau, comandou o projeto *Memórias do Trecho*, em que artistas pintaram nos muros do entorno do museu e da plataforma cultural cenas baseadas em lembranças de pessoas ligadas à ferrovia. O encerramento da Semana Nacional de Museus daquele ano teve sarau e pintura de muros do projeto.[^fcms2024] Em 2026, o jornal *O Estado MS* informou que os murais, idealizados por Guido, reuniram 38 artistas, 35 deles sul-mato-grossenses e três muralistas mexicanos, num total de 41 pinturas, e passaram a servir de roteiro ao projeto *Locomotiva de Histórias*.[^oe2026a]
 
-Em março de 2025, participou da exposição coletiva *Elos*, no Campão Cultural, com pintura em crânio de boi.[^fcms2025]
+Em março de 2025, a Fundação de Cultura de MS o listou entre os artistas da exposição coletiva *Elos*, no Campão Cultural, com uma pintura em crânio de boi.[^fcms2025]
 
-As fontes dão a ele funções diferentes na Casa Amarela: diretor de arte, em dezembro de 2025, gestor ao lado de Tatiana De Conto, em abril de 2026, e coordenador, em agosto de 2026.[^oe2025][^oe2026b][^oe2026c] Em abril de 2026, a Casa Amarela estendeu as atividades da Semana dos Museus de 22 de abril a 23 de maio, numa programação sobre Lídia Baís.[^oe2026b]
+As fontes dão a ele funções diferentes na Casa Amarela: diretor de arte, em dezembro de 2025, gestor ao lado de Tatiana De Conto, em abril de 2026, e coordenador, em agosto de 2026.[^oe2025][^oe2026b][^oe2026c] Em abril de 2026, ele informou que a Casa Amarela estenderia as atividades da Semana dos Museus de 22 de abril a 23 de maio, numa programação sobre Lídia Baís.[^oe2026b]
 
 [^cgn2024]: Aletheya Alves, ["Casa centenária foi transformada por dupla que virou até 'pedreiro'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/casa-centenaria-foi-transformada-por-dupla-que-virou-ate-pedreiro), *Campo Grande News*, 21 set. 2024. Acesso em 4 nov. 2026.
 [^fcms2019]: Fundação de Cultura de Mato Grosso do Sul, ["Fundação de Cultura inaugura Espaço Jorapimo com obras inspiradas em Lídia Baís"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-inaugura-espaco-jorapimo-com-obras-inspiradas-em-lidia-bais/), 22 mar. 2019. Acesso em 4 nov. 2026.

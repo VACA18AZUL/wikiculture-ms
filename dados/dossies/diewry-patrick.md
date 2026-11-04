@@ -33,3 +33,7 @@ Pistas não usadas: vídeos no YouTube "Diewry feat Funkdroop - Deixa Eu" (2019)
 ## Atualização de 2026-11-04
 
 - Busca de segunda fonte (Google Notícias, API do O Estado): só as duas matérias do Campo Grande News e um vídeo do YouTube de canal não conferido. Continua fonte única. BoyzUp descrito sem menção à orientação sexual.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte tentada, sem resultado: Google Notícias ("Diewry"; "Diewry Patrick"): só as duas matérias do Campo Grande News e um vídeo de canal não conferido. APIs do O Estado MS, FCMS, A Crítica, RCN67, UFMS, Primeira Página e JD1: nada. Verbete não alterado.

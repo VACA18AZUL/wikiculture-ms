@@ -20,3 +20,7 @@ Fonte única. De fora: morte e saúde da avó (vida familiar/saúde; motivou o E
 ## Atualização de 2026-11-04
 
 - Busca de segunda fonte: Google Notícias ("Karyston Magalhães", "Desforra Cerratense", "Agrokilla rap") só traz a mesma matéria do Campo Grande News; Brave sem resultado. Continua fonte única.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte tentada, sem resultado: APIs do O Estado MS, FCMS, A Crítica, RCN67, UFMS, Primeira Página e JD1 ("Agrokilla", "Karyston"): nada. Google Notícias ("Tato" rapper Tarumã; "Karyston"): só a matéria do Campo Grande News. Verbete não alterado.

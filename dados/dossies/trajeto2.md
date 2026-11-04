@@ -36,3 +36,7 @@ Observação: as três fontes são do mesmo veículo, mas de autores e anos dife
 ## Atualização de 2026-11-04
 
 - Busca de segunda fonte (Google Notícias, API do O Estado): só achadas matérias do Campo Grande News ou do Dourados News, este bloqueado (403) e sem cópia no archive.org. Continua fonte única.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte tentada, sem resultado: Google Notícias (banda "Trajeto 2"; Trajeto2 banda Dourados; "Eliezer Rosa"): só Campo Grande News e Dourados News (bloqueado). APIs do O Estado MS, FCMS, A Crítica, RCN67, UFMS, Primeira Página e JD1; busca do Dourados Agora e do O Progresso sem resultado ou fora do ar. Verbete não alterado.
