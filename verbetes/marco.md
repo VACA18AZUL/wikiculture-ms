@@ -33,6 +33,8 @@ O museu foi criado pelo Decreto nº 6.266, de 17 de dezembro de 1991. A primeira
 
 Durante a pandemia de covid-19, o museu ficou dois anos fechado ao público, com atividades internas e ações virtuais. Reabriu em 23 de março de 2022, ano em que completava 30 anos, com a 1ª Temporada de Exposições.[^cgn2022]
 
+Em 6 de outubro de 2023, com o prédio fechado à visitação, o museu abriu o projeto CineMARCO, de exibições gratuitas ao ar livre projetadas na parede externa. A primeira sessão mostrou o documentário *Flores de Bálsamo*, sobre a comunidade okinawana, seguido de conversa com os realizadores Henrique Arakaki, Lucas Miyahira e Karen Freitas.[^fcms2023cine]
+
 ## Para saber mais
 
 - Mariana Rodrigues de Oliveira, [*O Museu de Arte Contemporânea de Campo Grande – MS: história e memória*](https://site.ucdb.br/public/md-dissertacoes/1029125-dissertacao-mariana-rodrigues-de-oliveira.pdf) — dissertação de mestrado (UCDB) sobre a criação do museu e a formação do acervo.
@@ -43,3 +45,4 @@ Durante a pandemia de covid-19, o museu ficou dois anos fechado ao público, com
 [^cgn2025]: Thailla Torres, ["Exposição homenageia artista Lídia Baís no MIS a partir de 12 de maio"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-homenageia-artista-lidia-bais-no-mis-a-partir-de-12-de-maio), *Campo Grande News*, 7 mai. 2025. Acesso em 8 out. 2026.
 [^cgn2023]: Thailla Torres, ["MIS realiza exposição gratuita com obras de Humberto Espíndola"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mis-realiza-exposicao-gratuita-com-obras-de-humberto-espindola), *Campo Grande News*, 13 abr. 2023. Acesso em 8 out. 2026.
 [^cgn2022]: Adriano Fernandes, ["Após 2 anos fechado ao público, Marco reabre com a 1ª temporada de exposições"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/apos-2-anos-fechado-ao-publico-marco-reabre-com-a-1a-temporada-de-exposicoes), *Campo Grande News*, 15 mar. 2022. Acesso em 4 nov. 2026.
+[^fcms2023cine]: Fundação de Cultura de Mato Grosso do Sul, ["Projeto CineMARCO foi aberto nesta sexta com filme sobre a comunidade okinawana"](https://www.fundacaodecultura.ms.gov.br/projeto-cinemarco-foi-aberto-nesta-sexta-com-filme-sobre-a-comunidade-okinawana/), 9 out. 2023. Acesso em 4 nov. 2026.

@@ -23,7 +23,7 @@ Em 2025, o projeto "Vem pro Pátio – Leca Harper & A Cozinha Cabeluda", ideali
 
 ## Videografia
 
-- *Sem Lados* (2023) — videoclipe, com imagens de Alexandre Artioli, lançado no canal oficial da artista no YouTube. O single saiu pelo selo Akasha Records, com arranjos do maestro Rodrigo Faleiros e colaboração da compositora Karina Marques.[^correio2023]
+- *Sem Lados* (2023) — videoclipe, com imagens de Alexandre Artioli, com lançamento anunciado para 28 de julho de 2023 no canal oficial da artista no YouTube. O single saiu pelo selo Akasha Records, com arranjos do maestro Rodrigo Faleiros e colaboração da compositora Karina Marques.[^correio2023]
 - *Feriados* (2024) — videoclipe produzido pela RedBurn, com lançamento anunciado para 12 de julho de 2024. A gravação da faixa teve Gabriel de Andrade, Zé Fiúza e Renan Nonato.[^correio2024b]
 
 [^correio2021]: Naiane Mesquita, ["Festival Viva Campo Grande reúne artistas de MS para homenagear a Capital"](https://correiodoestado.com.br/correio-b/2021/08/27/festival-viva-campo-grande-reune-artistas-de-ms-para-homenagear-a-capital.html), *Correio do Estado*, 27 ago. 2021. Acesso em 4 nov. 2026.

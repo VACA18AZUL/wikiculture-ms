@@ -15,7 +15,7 @@ O **Catedral Erudita** é um projeto do governo de Mato Grosso do Sul, realizado
 
 ## Origem
 
-O projeto começou em novembro de 2023, na 17ª edição do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá. O anúncio do festival falava em música clássica e instrumental nas escadarias das igrejas.[^fcms2023a][^cgn2024] Em 2026, o maestro [[eduardo-martinelli|Eduardo Martinelli]] lembrou que a estreia foi um concerto da orquestra com [[tete-espindola|Tetê Espíndola]].[^fcms2026c]
+O projeto começou em novembro de 2023, na 17ª edição do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá. O anúncio do festival falava em música clássica e instrumental nas escadarias das igrejas.[^fcms2023a][^cgn2024] Em 2026, o maestro [[eduardo-martinelli|Eduardo Martinelli]] lembrou que a estreia foi um concerto da orquestra com [[tete-espindola|Tetê Espíndola]], na Catedral Nossa Senhora da Candelária.[^fcms2026b][^fcms2026c]
 
 Segundo a Fundação, os objetivos são usar igrejas católicas e evangélicas como espaço cultural, ampliar o acesso à música erudita e estimular o turismo religioso e cultural. Em dezembro de 2023, anunciou uma série de oito concertos em igrejas de Campo Grande.[^fcms2023b]
 
@@ -31,7 +31,7 @@ Em dezembro, uma nova série de concertos em igrejas de Campo Grande e do interi
 
 Para o Campão Cultural, entre março e abril de 2025, a Fundação anunciou quatro concertos em igrejas de bairros de Campo Grande, com orquestra, canto lírico, Orquestra Indígena e quinteto de metais.[^fcms2025a] No Festival de Inverno de Bonito de 2025, o quinteto de cordas da Orquestra Sinfônica de Campo Grande tocou em 22 de agosto na Capela Sagrada Família.[^fcms2025b]
 
-Em março de 2026, a Fundação anunciou, dentro do projeto, um concerto no [[teatro-glauce-rocha|Teatro Glauce Rocha]] com a Camerata Madeiras Dedilhadas da UFMS, o Coro Lírico Cantarte e a exposição *Stabat Mater*, do pintor português Santiago Belácqua.[^fcms2026a] No Festival América do Sul de 2026, em 15 de maio, Eduardo Martinelli e Brenner Rozales tocaram em duo e o Quarteto Aracy apresentou obras de Beethoven e Boccherini na Igreja Matriz de Nossa Senhora da Candelária, em Corumbá. No dia seguinte, o projeto esteve no Quebra-Torto com Letras.[^fcms2026b][^fcms2026c]
+Em março de 2026, a Fundação anunciou, dentro do projeto e com realização da UFMS, um concerto no [[teatro-glauce-rocha|Teatro Glauce Rocha]] com a Camerata Madeiras Dedilhadas da UFMS, o Coro Lírico Cantarte e a exposição *Stabat Mater*, do pintor português Santiago Belácqua.[^fcms2026a] No Festival América do Sul de 2026, em 15 de maio, Eduardo Martinelli e Brenner Rozales tocaram em duo e o Quarteto Aracy apresentou obras de Beethoven e Boccherini na Catedral Nossa Senhora da Candelária, em Corumbá. No dia seguinte, o projeto esteve no Quebra-Torto com Letras.[^fcms2026b][^fcms2026c]
 
 [^fcms2023a]: Fundação de Cultura de Mato Grosso do Sul, ["Com mais de 120 atrações culturais, Festival América do Sul vai unir arte e sustentabilidade no Pantanal"](https://www.fundacaodecultura.ms.gov.br/com-mais-de-120-atracoes-culturais-festival-america-do-sul-vai-unir-arte-e-sustentabilidade-no-pantanal/), 1 nov. 2023. Acesso em 4 nov. 2026.
 [^fcms2023b]: Fundação de Cultura de Mato Grosso do Sul, ["Projeto Catedral Erudita realiza concertos em igrejas de Campo Grande"](https://www.fundacaodecultura.ms.gov.br/projeto-catedral-erudita-realiza-concertos-em-igrejas-de-campo-grande/), 13 dez. 2023. Acesso em 4 nov. 2026.

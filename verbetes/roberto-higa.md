@@ -37,6 +37,7 @@ Antes disso, já tinha sido homenageado pela Assembleia Legislativa de Mato Gros
 ## Videografia
 
 - *[[higa-ke-olho-por-olho|Higa Ke – Olho por Olho]]* — documentário sobre o fotógrafo, dirigido por [[conrado-roel|Conrado Roel]] e [[debora-bah|Débora Bah]], com imagens do seu acervo; prêmio do júri popular de melhor filme sul-mato-grossense no [[bonito-cinesur|Festival de Cinema de Bonito]] de 2026.[^acritica-doc]
+- *Memória de Luz* — curta dirigido por Farid Fahed, parte do projeto Campo Grande meu Amor, realizado em 2013, sobre a trajetória do fotógrafo; exibido no programa Curta MS, da TV Educativa, em 2017.[^fcms2017higa] Em outra notícia da Fundação de Cultura, o título aparece como *Memórias de Luz*.[^fcms2017higb]
 
 [^ce2026]: Mariana Piell, ["Pioneiro no fotojornalismo, Roberto Higa viu Mato Grosso do Sul nascer"](https://correiodoestado.com.br/correio-b/pioneiro-no-fotojornalismo-roberto-higa-viu-mato-grosso-do-sul-nascer/468843/), *Correio do Estado*, 30 jun. 2026. Acesso em 4 nov. 2026.
 [^acritica-medalha]: Redação, ["Roberto Higa será homenageado nos 127 anos de Campo Grande"](https://acritica.net/cultura/roberto-higa-sera-homenageado-nos-127-anos-de-campo-grande/), *A Crítica*, 4 ago. 2026. Acesso em 4 nov. 2026.
@@ -44,3 +45,5 @@ Antes disso, já tinha sido homenageado pela Assembleia Legislativa de Mato Gros
 [^cgn2017]: Renata Volpe e Mayara Bueno, ["Exposição de Roberto Higa mostra fotos de Campo Grande há 40 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-roberto-higa-mostra-fotos-de-campo-grande-ha-40-anos), *Campo Grande News*, 6 out. 2017. Acesso em 4 nov. 2026.
 [^cgn2022]: Thailla Torres, ["De Humberto Espíndola a Falange da Rima, 5 são homenageados em festival"](https://www.campograndenews.com.br/lado-b/diversao/de-humberto-espindola-a-falange-da-rima-5-sao-homenageados-em-festival), *Campo Grande News*, 7 out. 2022. Acesso em 4 nov. 2026.
 [^acritica-doc]: Redação, ["Documentário sobre Roberto Higa resgata memória de Campo Grande"](https://acritica.net/light/documentario-roberto-higa-higa-ke-olho-por-olho-ufms/), *A Crítica*, 22 set. 2026. Acesso em 4 nov. 2026.
+[^fcms2017higa]: Fundação de Cultura de Mato Grosso do Sul, ["Programa Curta MS exibe na TV Educativa produções inovadoras e premiadas"](https://www.fundacaodecultura.ms.gov.br/programa-curta-ms-exibe-na-sexta-na-tv-educativa-producoes-inovadoras-e-premiadas/), 29 mar. 2017. Acesso em 4 nov. 2026.
+[^fcms2017higb]: Fundação de Cultura de Mato Grosso do Sul, ["Programa Curta MS desta sexta homenageia Campo Grande com curtas-metragens"](https://www.fundacaodecultura.ms.gov.br/curta-ms-desta-sexta-homenageia-campo-grande-com-curtas-e-documentario/), 24 ago. 2017. Acesso em 4 nov. 2026.

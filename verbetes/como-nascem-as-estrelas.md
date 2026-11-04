@@ -17,13 +17,13 @@ atualizado: 2026-11-04
 
 ## Criação
 
-Laura Santoro convidou Fernando Lopes Lima para dirigir a peça em 2022. Em 30 de julho daquele ano, os dois foram com amigos ao túmulo de Glauce Rocha, em Campo Grande, como parte da preparação. A estreia estava então marcada para outubro.[^cgn2022]
+Alguns meses antes de julho de 2022, Laura Santoro convidou Fernando Lopes Lima para dirigir a peça. Em 30 de julho de 2022, o diretor e um grupo de amigos foram ao túmulo de Glauce Rocha, em Campo Grande; segundo o diretor, a visita fazia parte da construção da personagem. A estreia estava então marcada para outubro.[^cgn2022]
 
 Segundo o diretor, Laura Santoro escreveu o texto no início da pesquisa, a partir do livro de [[jose-octavio-guizzo|José Octávio Guizzo]] sobre a atriz. A peça trata de Glauce Rocha e da própria autora, com o que o diretor chamou de "apadrinhamento" das palavras de Clarice Lispector, amiga de Glauce.[^cgn2023a]
 
 ## Temporadas
 
-A peça foi lançada em dezembro de 2022 pela [[cia-de-teatro-do-mundo|Cia Teatro do Mundo]] e ficou oito meses em cartaz, segundo o diretor.[^cgn2023a] Em maio e junho de 2023, a Fundação de Cultura de MS anunciava novas sessões na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]].[^fcms2023a][^fcms2023b]
+Segundo o *Campo Grande News*, a peça foi lançada em dezembro de 2022 por Fernando Lopes Lima, diretor da [[cia-de-teatro-do-mundo|Cia Teatro do Mundo]], e ficou oito meses em cartaz.[^cgn2023a] Em maio e junho de 2023, a Fundação de Cultura de MS anunciava novas sessões na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]].[^fcms2023a][^fcms2023b]
 
 Em abril de 2023 foi um dos quatro espetáculos selecionados na categoria adulto do 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]], com sessão marcada para 26 de abril no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^cgn2023b]
 

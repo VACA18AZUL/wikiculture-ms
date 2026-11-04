@@ -16,13 +16,13 @@ O **Festival IPêrformático** é um festival de arte da performance de Campo Gr
 
 ## Nome
 
-De acordo com Alice Yura, o nome junta a sigla IP, o prefixo hiper, a palavra performance e o ipê, árvore que ela trata como símbolo regional.[^fcms2019b]
+De acordo com Alice Yura, o nome junta IP (número de identificação), hiper, a palavra performance e o ipê, árvore que ela trata como símbolo regional.[^fcms2019b]
 
 ## Capítulo II (2019)
 
 A segunda edição, chamada "IPêrformático – capítulo II: E se não houver luz no fim do túnel?", ocorreu de 5 a 15 de abril de 2019, com programação gratuita de performances, vídeos, oficinas, debates, exposições e palestras. Os espaços foram o [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], o [[marco|Museu de Arte Contemporânea]] (Marco), o [[mis-ms|Museu da Imagem e do Som]], a UEMS e ruas e praças do centro. O projeto foi contemplado pelo Fundo Municipal de Investimentos Culturais de Campo Grande em 2018 e teve apoio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] e da UEMS.[^fcms2019b][^ce2019]
 
-A abertura, em 5 de abril, no Marco, teve palestra da artista Virginia de Medeiros. A programação anunciada incluía performances da Cia Enviezada (RJ), de Maíra Espíndola, Dudx, Leona Jhovs, do Grupo Maracangalha e da própria Alice Yura, com *Anatomia Feminina*, no Marco.[^fcms2019b] Houve oficinas de Zé Alex, diretor da Cia Enviezada, de Alice Yura e de Dudx no Centro Cultural.[^fcms2019a]
+A abertura foi marcada para 5 de abril, no Marco, com palestra da artista Virginia de Medeiros. A programação anunciada incluía performances da Cia Enviezada (RJ), de Maíra Espíndola, Dudx, Leona Jhovs, do Grupo Maracangalha e da própria Alice Yura, com *Anatomia Feminina*, no Marco.[^fcms2019b] O Centro Cultural abriu inscrições para oficinas de Zé Alex, diretor da Cia Enviezada, de Alice Yura e de Dudx.[^fcms2019a]
 
 Em 13 de abril, o *Correio do Estado* registrou o festival em andamento havia pouco mais de uma semana. Para o último fim de semana, anunciou performances de Estela Lapponi e Patricia Saravy e a exposição "E se não houver luz no fim do túnel?", no Marco.[^ce2019]
 

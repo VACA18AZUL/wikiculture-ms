@@ -22,6 +22,8 @@ A programação da mostra de 2023 incluiu o espetáculo de rua *Bichocracia Pant
 
 O curta-metragem experimental *Metamorfose*, produção da Educ'Art dirigida por Henrique Lopes e feito com recursos da Lei Paulo Gustavo, foi selecionado por edital nacional para a programação da Teia Nacional de 2026.[^ptl2026]
 
+Em outubro de 2026, a *RCN67* noticiou uma oficina gratuita de contação de histórias para professores da primeira infância em Três Lagoas, marcada para o dia 5, com inscrições pelo perfil da Educ'Art no Instagram. Segundo a produtora cultural Bianca Oliveira, a formação, de 12 horas, era contrapartida de um projeto aprovado na Política Nacional Aldir Blanc (PNAB) estadual de 2026, que previa ainda um circuito de contação de histórias na cidade na semana seguinte.[^rcn2026]
+
 ## Espetáculos
 
 - *Bichocracia Pantaneira – Uma história de Amor Impossível* — espetáculo de rua; programado para 29 de outubro de 2023 na Praça Central Ramez Tebet.[^ptl2023a]
@@ -33,4 +35,5 @@ O curta-metragem experimental *Metamorfose*, produção da Educ'Art dirigida por
 [^ptl2023a]: Prefeitura de Três Lagoas, ["1º Mostra de Circo e Teatro \"Paulo Sanches\" acontecerá em Três Lagoas em diversos pontos da cidade dos dias 25 a 29"](https://www.treslagoas.ms.gov.br/1o-mostra-de-circo-e-teatro-paulo-sanches-acontecera-em-tres-lagoas-em-diversos-pontos-da-cidade-dos-dias-25-a-29/), 16 out. 2023. Acesso em 4 nov. 2026.
 [^ptl2023b]: Prefeitura de Três Lagoas, ["Mais de 7.500 pessoas prestigiaram a 1º Mostra Paulo Sanches"](https://www.treslagoas.ms.gov.br/mais-de-7-500-pessoas-prestigiaram-a-1o-mostra-paulo-sanches/), 30 out. 2023. Acesso em 4 nov. 2026.
 [^rcn2023]: Redação RCN67, ["Três Lagoas receberá 1ª Mostra de Circo e Teatro \"Paulo Sanches\" durante os dias 25 a 29 de outubro"](https://www.rcn67.com.br/tres-lagoas/tres-lagoas-recebera-1a-mostra-de-circo-e-teatro-paulo-sanches/), *RCN67*, 16 out. 2023. Acesso em 4 nov. 2026.
+[^rcn2026]: ["Professores da primeira infância terão oficina gratuita de contação de histórias em Três Lagoas"](https://www.rcn67.com.br/tres-lagoas/jpnews/professores-da-primeira-infancia-terao-oficina-gratuita-de-contacao-de-historias-em-tres-lagoas/), *RCN67* (JPNews/TVC HD), 2 out. 2026. Acesso em 4 nov. 2026.
 [^ptl2026]: Prefeitura de Três Lagoas, ["Três Lagoas leva cultura e protagonismo à Teia Nacional 2026, no Espírito Santo"](https://www.treslagoas.ms.gov.br/tres-lagoas-leva-cultura-e-protagonismo-a-teia-nacional-2026-no-espirito-santo/), 18 maio 2026. Acesso em 4 nov. 2026.

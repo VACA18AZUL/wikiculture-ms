@@ -40,3 +40,14 @@
 ## Uso no verbete
 
 - Entrou o acima, sem os planos (2ª edição, FESCOL). Teia: só a seleção do curta e a composição anunciada da delegação.
+
+## Atualização de 2026-11-04
+
+Fonte nova (reportagem própria da RCN67/TVC HD, com entrevista; não é release da prefeitura):
+
+- rcn2026 — "Professores da primeira infância terão oficina gratuita de contação de histórias em Três Lagoas", RCN67 (JPNews), 02/10/2026: oficina em 05/10/2026, 12 horas, inscrições pelo Instagram da Educ'Art (@educart.tl); a produtora cultural Bianca Oliveira diz que é contrapartida de projeto aprovado na PNAB estadual 2026 e que haverá circuito de contação de histórias na semana seguinte. A própria matéria aponta divergência entre o horário (8h às 22h30) e a carga de 12 horas; o verbete usa só a carga informada pela organização.
+- Aberta e não usada: RCN67, "Projeto 'Em Cada Conto' será a atração da próxima edição do 'A Rua é Nossa'" (03/07/2025): projeto de Bianca Oliveira com textos de Déia Fernandes e atores Henrique Lopes, Jhayra Kendall e Rodolfo Colino; não cita a Educ'Art.
+- Perfil @educart.tl não aberto nem conferido; fora de `links`.
+- Não confirmado: vínculo formal de Bianca Oliveira com a Educ'Art.
+
+O que mudou: novo parágrafo sobre a oficina de 2026.

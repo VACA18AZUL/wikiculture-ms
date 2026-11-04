@@ -3,7 +3,7 @@ titulo: Os Alquimistas
 tipo: grupo
 areas: [musica]
 cidade: Campo Grande
-resumo: "Trio de rock de Campo Grande formado em 2013 por Leotta, Perim e Boloro, com som retrô e psicodélico. Lançou o EP Cidade Pequena (2018) e tocou no Som da Concha em 2016 e 2021."
+resumo: "Trio de rock de Campo Grande formado em 2013 por Leotta, Perim e Boloro, com som retrô e psicodélico. Lançou o EP Cidade Pequena (2018) e tocou no Som da Concha em 2016, 2018 e 2021."
 ficha:
   Fundação: "2013"
   Integrantes: "Leotta (piano e teclado), Perim (voz e contrabaixo), Boloro (bateria)"
@@ -24,7 +24,7 @@ Ainda segundo a Fundação, o EP *Cidade Pequena* deu ao grupo indicação ao Pr
 
 ## Som da Concha
 
-O trio abriu o [[som-da-concha|Som da Concha]] de 21 de agosto de 2016, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], antes de [[jerry-e-barbados|Jerry & Barbados]].[^fcms2016b] Em 2018, a Fundação anunciou a banda na abertura do show de [[carlos-colman|Carlos Colman]] no projeto, marcado para 18 de novembro.[^fcms2018b] Em 16 de outubro de 2021, fez o show de encerramento da noite, depois de Kelly Lopes, com uma homenagem a Maurício de Barros Almeida que teve a participação de Paulo Simões.[^fcms2021b]
+O trio abriu o [[som-da-concha|Som da Concha]] de 21 de agosto de 2016, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], antes de [[jerry-e-barbados|Jerry & Barbados]].[^fcms2016b] Em 2018, a Fundação anunciou a banda na abertura do show de [[carlos-colman|Carlos Colman]] no projeto, marcado para 18 de novembro.[^fcms2018b] O histórico publicado pela Fundação em 2021 conta 2018 como a segunda vez do trio na abertura do Som da Concha.[^fcms2021a] Em 16 de outubro de 2021, fez o show de encerramento da noite, depois de Kelly Lopes, com uma homenagem a Maurício de Barros Almeida que teve a participação de Paulo Simões.[^fcms2021b]
 
 ## Anos 2020
 
@@ -41,9 +41,9 @@ Em novembro de 2025, a Fundação anunciou Os Alquimistas na abertura dos shows 
 
 [^fcms2016a]: Fundação de Cultura de Mato Grosso do Sul, ["Mesclando gerações, Som da Concha traz Os Alquimistas e Jerry&Barbados"](https://www.fundacaodecultura.ms.gov.br/mesclando-geracoes-som-da-concha-traz-os-alquimistas-e-jerrybarbados/), 17 ago. 2016. Acesso em 4 nov. 2026.
 [^fcms2016b]: Fundação de Cultura de Mato Grosso do Sul, ["Os Alquimistas e Jerry&Barbados esquentam o público do Som da Concha neste domingo"](https://www.fundacaodecultura.ms.gov.br/os-alquimistas-e-jerrybarbados-esquentam-o-publico-do-som-da-concha-neste-domingo/), 22 ago. 2016. Acesso em 4 nov. 2026.
-[^fcms2018b]: Fundação de Cultura de Mato Grosso do Sul, ["Som da Concha mistura psicodelia e arrasta-pé no domingo com entrada franca"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-mistura-psicodelia-e-arrasta-pe-no-domingo-com-entrada-franca/), 15 nov. 2018. Acesso em 4 nov. 2026.
-[^fcms2021a]: Fundação de Cultura de Mato Grosso do Sul, ["Som da Concha deste sábado traz MPB e Pop Rock com Kelly Lopes e Os Alquimistas"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-deste-sabado-traz-mpb-e-pop-rock-com-kelly-lopes-e-os-alquimistas/), 14 out. 2021. Acesso em 4 nov. 2026.
-[^fcms2021b]: Fundação de Cultura de Mato Grosso do Sul, ["Público aplaude de pé o samba de Kelly Lopes e o som eletrizante de Os Alquimistas no Som da Concha"](https://www.fundacaodecultura.ms.gov.br/publico-aplaude-de-pe-o-samba-de-kelly-lopes-e-o-som-eletrizante-de-os-alquimistas-no-som-da-concha/), 16 out. 2021. Acesso em 4 nov. 2026.
-[^fcms2025]: Fundação de Cultura de Mato Grosso do Sul, ["Dimitri Pellz celebra 20 anos com shows em Corumbá, Campo Grande e Dourados"](https://www.fundacaodecultura.ms.gov.br/dimitri-pellz-celebra-20-anos-com-shows-em-corumba-campo-grande-e-dourados/), 12 nov. 2025. Acesso em 4 nov. 2026.
+[^fcms2018b]: Gisele Colombo, ["Som da Concha mistura psicodelia e arrasta-pé no domingo com entrada franca"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-mistura-psicodelia-e-arrasta-pe-no-domingo-com-entrada-franca/), *Fundação de Cultura de Mato Grosso do Sul*, 15 nov. 2018. Acesso em 4 nov. 2026.
+[^fcms2021a]: Gisele Colombo, ["Som da Concha deste sábado traz MPB e Pop Rock com Kelly Lopes e Os Alquimistas"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-deste-sabado-traz-mpb-e-pop-rock-com-kelly-lopes-e-os-alquimistas/), *Fundação de Cultura de Mato Grosso do Sul*, 14 out. 2021. Acesso em 4 nov. 2026.
+[^fcms2021b]: Gisele Colombo, ["Público aplaude de pé o samba de Kelly Lopes e o som eletrizante de Os Alquimistas no Som da Concha"](https://www.fundacaodecultura.ms.gov.br/publico-aplaude-de-pe-o-samba-de-kelly-lopes-e-o-som-eletrizante-de-os-alquimistas-no-som-da-concha/), *Fundação de Cultura de Mato Grosso do Sul*, 16 out. 2021. Acesso em 4 nov. 2026.
+[^fcms2025]: Marcio Rodrigues Breda, ["Dimitri Pellz celebra 20 anos com shows em Corumbá, Campo Grande e Dourados"](https://www.fundacaodecultura.ms.gov.br/dimitri-pellz-celebra-20-anos-com-shows-em-corumba-campo-grande-e-dourados/), *Fundação de Cultura de Mato Grosso do Sul*, 12 nov. 2025. Acesso em 4 nov. 2026.
 [^acritica2026a]: Douglas Vieira, ["Banda Os Alquimistas apresenta produção de álbum a alunos da UFMS em Campo Grande"](https://acritica.net/cultura/os-alquimistas-ufms-fmic/), *A Crítica*, 8 jun. 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Iury de Oliveira, ["Tributo a Raul Seixas reúne Moscas de Bar e Os Alquimistas no Buteco do Miau"](https://acritica.net/cultura/tributo-raul-seixas-buteco-do-miau-campo-grande/), *A Crítica*, 26 jun. 2026. Acesso em 4 nov. 2026.

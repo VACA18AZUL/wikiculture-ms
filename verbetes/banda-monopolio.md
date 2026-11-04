@@ -17,7 +17,7 @@ A **Banda Monopólio** é uma banda de rock independente de Corumbá. Em outubro
 
 A formação de 2016 tinha Ed de Paula na voz e na guitarra, Adonias Sales na bateria e André Peixoto no baixo. A banda havia dividido o palco com [[guga-borba|Guga Borba]], Jimmy McManis, Los Salmones, [[jerry-espindola|Jerry Espíndola]], Antônio Porto e Falamansa, e tocado no festival Día del Rock Cruceño, em Santa Cruz de la Sierra, na Bolívia, em 2014, além da Boemia Cultural e da Patota, em Corumbá.[^fcms2016b]
 
-Ficou em 11º lugar na seleção do [[som-da-concha|Som da Concha]] de 2016.[^fcms2016a] O show foi em 23 de outubro de 2016, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em Campo Grande, na mesma noite de [[marcelo-loureiro|Marcelo Loureiro]]. Sob chuva, a banda tocou músicas próprias e clássicos do rock internacional.[^fcms2016c] Em 2020, ficou como suplente, em 15º lugar, na categoria Show de Abertura do edital do Som da Concha.[^fcms2020]
+Ficou em 11º lugar na categoria Show de Abertura da seleção do [[som-da-concha|Som da Concha]] de 2016.[^fcms2016a] O show foi em 23 de outubro de 2016, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em Campo Grande, na mesma noite de [[marcelo-loureiro|Marcelo Loureiro]]. Com o tempo instável, a chuva deu trégua e o público compareceu; a banda tocou músicas próprias e clássicos internacionais.[^fcms2016c] Em 2020, ficou como suplente, em 15º lugar, na categoria Show de Abertura do edital do Som da Concha.[^fcms2020]
 
 ## Videografia
 

@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em junho de 2023, a agenda da Fundação de Cultura de MS anunciou o grupo no Sesc Seresta junino, com repertório de Dominguinhos, Luiz Gonzaga, Flávio José e Marinês, entre outros.[^fcms2023] Em março de 2024, a Fundação o anunciou na programação da Semana do Artesão, na Esplanada Ferroviária, descrevendo-o como banda de forró pé de serra, xote, xaxado e baião que se preparava para gravar músicas autorais.[^fcms2024]
+Em junho de 2023, a agenda da Fundação de Cultura de MS anunciou o grupo no Sesc Seresta junino, com repertório de Dominguinhos, Luiz Gonzaga, Flávio José e Marinês, entre outros.[^fcms2023] Em março de 2024, a Fundação o anunciou para a noite de 21 de março na programação da Semana do Artesão, descrevendo-o como banda de forró pé de serra, xote, xaxado e baião que se preparava para gravar músicas autorais.[^fcms2024]
 
 Em março de 2026, o grupo foi anunciado para o encerramento da Semana do Artesão, com Julia Mendes (voz e violino), [[julio-borba|Júlio Borba]] (violão de sete cordas), Renan (sanfona), Lucas Rosa (voz e zabumba) e Cláudio Alves (triângulo). Segundo a Fundação, o repertório mistura forró com MPB, música sul-mato-grossense, música de fronteira e jazz, e o grupo já havia participado do programa Talento Regional e do Live Sesc.[^fcms2026]
 

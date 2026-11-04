@@ -67,3 +67,11 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entraram datas, local (com divergência), formato, atrações por fim de semana distinguindo anúncio e relato.
+
+## Atualização de 2026-11-04
+
+- Novas fontes abertas: FCMS 10 jul. 2019 (anúncio de 12-14 jul.; bio de Matheus Loubet); FCMS galeria de 22 jul. 2019 (fotos do show de Lye Meireles e Tony Massa, 20 jul.); FCMS 7 ago. 2019 (Jeitão Pantaneiro fundado por Iko Cordeiro e Alfredo, ex-Eco do Pantanal); *G1 MS*, agenda de 12 jul. 2019 (programação 12-14 jul., início 16h); *Campo Grande News*, Aletheya Alves, 19 jul. 2019 (programação 19-21 jul., início 16h, entrada gratuita).
+- Os textos do *Correio do Estado* (1 e 22 jun. 2019) reproduzem os releases da FCMS; G1 e Campo Grande News são as fontes independentes.
+- Horário: 16h–22h em FCMS 28 maio, 10 jul. e 18 jul.; 18h–22h em FCMS 1, 3 e 15 jul. G1 e CGN: início às 16h.
+- FCMS 1 jul. distribui os sertanejos de 5-7 jul. por dia de forma diferente de FCMS 3 jul. (Larissa e Mariana na sexta x no domingo; Lorenzo Castro no domingo x na sexta) e grafa "Jackson e Janderson". O verbete não dá os dias.
+- Incorporados (INCORP-VALN): matheus-loubet, lye-meireles (link [[...]] retirado), jeitao-pantaneiro (frase ligada ao Eco do Pantanal).
