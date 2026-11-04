@@ -27,3 +27,27 @@ Ficaram fora: estado de saúde de Delinha e referências familiares (dados pesso
 As três notas são do mesmo veículo (Campo Grande News). Busca por Correio do Estado, Midiamax e site do governo de MS sem resultado. Segue precisando de fonte de outro domínio.
 
 Pendência alheia: o verbete jerry-espindola deveria listar o filme em Filmografia (produção e produção executiva).
+
+## Atualização de 2026-11-04 (reforço, tag r-2)
+
+### Fontes novas abertas e lidas (veículos fora do Campo Grande News)
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| jne2017 | Jornal Notícias do Estado, 14 jul. 2017 (com assessoria do Sesc) | https://jnediario.com.br/longa-de-ms-a-dama-do-rasqueado-e-vencedor-da-mostra-nacional-do-sesc/ | sim |
+| ce2021 | Alicia Miyashiro, Correio do Estado, 5 nov. 2021 | https://correiodoestado.com.br/correio-b/agenda-cultural-do-fim-de-semana-tera-estreia-do-ator-wagner-moura-na/392982/ | sim |
+| pp2023 | Primeira Página, 12 nov. 2023 | https://primeirapagina.com.br/cinema/documentario-sobre-delinha-leva-premio-em-festival-sul-americano/ | sim |
+
+### O que sustentam
+
+- JNE (2017): filme entre os 34 selecionados da Mostra Sesc de Cinema (anúncio em 13 jul. 2017, Cine Odeon, Rio); três anos de execução (confirma cgn2016 sobre os três anos de produção); a nota diz que a dupla tem a maior discografia do estado, com 32 títulos (não usado no verbete). Sustenta que o filme já estava circulando em julho de 2017.
+- Correio do Estado (2021): "(2017)", 78 minutos, streaming; Marinete Pinheiro como diretora.
+- Primeira Página (2023): júri popular, melhor filme sul-mato-grossense no Cinesur (sábado, 11 nov. 2023); o júri oficial premiou *Cordilheira de Amora II* (Jamille Fortunato). Reforça o CineSur de 2023 já citado.
+
+### Divergências
+
+- Ano: estreia em sessão fechada em set. 2016 (CGN 2016) x 2017 (lista CineSur 2023; Correio do Estado 2021). Não há contradição necessária: pode ser estreia em 2016 e lançamento/finalização em 2017; as fontes não explicam.
+- Duração: 75 min (CineSur, via CGN 2023) x 78 min (Correio do Estado, 2021). Registrar em `observacoes` da lista-mestra. O resumo de busca de uma reportagem de 2016 do O Progresso fala numa versão de 52 minutos para TV; a página não abriu e o dado não foi lido nem usado.
+- Pistas não abertas: O Progresso, 2016, "Filme vai revelar vida da dama do rasqueado" (https://www.progresso.com.br/variedades/filme-vai-revelar-vida-da-dama-do-rasqueado/133125/, conexão recusada); Midiamax 2021 (exibição gratuita, página vazia); JD1 Notícias (estreia); Festas e Eventos TV (entrevista com a diretora); Itaú Cultural Play (disponibilização gratuita na mostra "Águas Correntes: Mulheres no Centro", segundo resumo de busca, não lido).
+- Dados pessoais: acidente doméstico e idade/saúde de Delinha, citados pelo Correio do Estado, ficam fora.
+- Novo nome possível: Mostra Sesc de Cinema (ver verbete mostra-sesc-de-cinema, do bloco r-3).

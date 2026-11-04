@@ -3,7 +3,7 @@ titulo: Armazém Cultural
 tipo: espaco
 areas: [danca, artes-plasticas, teatro]
 cidade: Campo Grande
-resumo: Antigo armazém da Esplanada Ferroviária de Campo Grande usado como espaço de feiras, exposições e espetáculos; foi interditado em 2016 e passou por obras de revitalização anunciadas em 2018.
+resumo: Antigo armazém da Esplanada Ferroviária de Campo Grande usado como espaço de feiras, exposições e espetáculos; foi interditado em 2016 e teve obras de revitalização anunciadas em 2018.
 ficha:
   Local: Esplanada Ferroviária, Campo Grande
 status: rascunho
@@ -18,9 +18,9 @@ O armazém faz parte do conjunto da Estação Ferroviária de Campo Grande, tomb
 
 Em março de 2016, o Corpo de Bombeiros interditou o Armazém Cultural por irregularidades achadas em vistoria e por problemas no projeto contra incêndio e pânico. Artesãos protestaram em frente ao prédio contra o fechamento.[^cgn2016]
 
-Em julho de 2018, a prefeitura lançou o projeto de revitalização dos prédios da Plataforma e do Armazém Cultural, com investimento de R$ 600 mil e prazo de até nove meses. A obra previa a correção de infiltrações e do telhado, com materiais compatíveis com os originais, e adequações exigidas pelos bombeiros. A secretária municipal de Cultura e Turismo, Nilde Brum, disse que o salão deveria receber feiras e poderia funcionar também como área de museu para objetos dos ferroviários. A matéria diz que o espaço estava fechado havia dois anos.[^cgn2018]
+Em julho de 2018, a prefeitura lançou o projeto de revitalização dos prédios da Plataforma e do Armazém Cultural, com investimento de R$ 600 mil e prazo de até nove meses. A obra previa a correção de infiltrações e do telhado, com materiais compatíveis com os originais, e adequações exigidas pelos bombeiros. A secretária municipal de Cultura e Turismo, Nilde Brum, disse que o salão deveria receber feiras; segundo a matéria, o armazém poderia funcionar também como área de museu para objetos dos ferroviários. O texto diz que o espaço estava fechado havia dois anos.[^cgn2018]
 
-Para a 2ª edição do [[campao-cultural-2022|Campão Cultural]], de 8 a 15 de outubro de 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] convidou cinco artistas a expor e vender obras numa feira de artes visuais organizada no Armazém Cultural.[^cgn2022] De 30 de setembro a 6 de outubro de 2024, o espaço foi um dos palcos da [[semana-pra-danca|Semana pra Dança]], com espetáculos noturnos, uma mostra de coreografias no domingo de encerramento e a festa Todo Mundo Dança.[^cgn2024a][^cgn2024b] Entre as apresentações estiveram *Comitiva Esperança*, da Oficina de Dança de Corumbá, e *Encontro de Tribos*, da [[isa-yasmin-cia-de-danca|Isa Yasmin Cia de Dança]].[^cgn2024a]
+Para a 2ª edição do [[campao-cultural-2022|Campão Cultural]], de 8 a 15 de outubro de 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] convidou cinco artistas a expor e vender obras numa feira de artes visuais anunciada para o Armazém Cultural.[^cgn2022] De 30 de setembro a 6 de outubro de 2024, o espaço esteve entre os palcos da [[semana-pra-danca|Semana pra Dança]]; a programação divulgada previa ali espetáculos noturnos, uma mostra de coreografias no domingo de encerramento e a festa Todo Mundo Dança.[^cgn2024a][^cgn2024b] Entre as apresentações programadas estavam *Comitiva Esperança*, da Oficina de Dança de Corumbá, e *Encontro de Tribos*, da [[isa-yasmin-cia-de-danca|Isa Yasmin Cia de Dança]].[^cgn2024a]
 
 Em 2026, *A Crítica de Campo Grande* listou o Armazém Cultural entre os espaços reunidos na Plataforma Cultural, com a associação dos ferroviários e a biblioteca do Horto, num roteiro de fim de semana pelo Centro.[^acritica2026]
 

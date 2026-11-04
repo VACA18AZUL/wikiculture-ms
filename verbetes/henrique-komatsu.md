@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-O livro de contos *Ototo*, publicado pela Confraria do Vento, está entre os dez finalistas da categoria conto do 62º Prêmio Jabuti.[^publishnews] O *Campo Grande News* situa a final do Jabuti em 2020 e diz que o silêncio é um dos temas do livro.[^cgnautores] O *Correio do Estado* informa que ele foi indicado ao Jabuti em 2021 com o livro.[^cecghq]
+O livro de contos *Ototo*, publicado pela Confraria do Vento, esteve entre os dez finalistas da categoria conto do 62º Prêmio Jabuti.[^publishnews] O *Campo Grande News* situa a final do Jabuti em 2020 e diz que o silêncio é um dos temas do livro.[^cgnautores] O *Correio do Estado* informa que ele foi indicado ao Jabuti em 2021 com o livro.[^cecghq]
 
-Escreveu o prefácio de *A Ausente Ordem das Coisas* (2023), HQ de [[fabio-quill|Fábio Quill]] e primeiro título da [[avua-edicoes|Avuá Edições]]. O *Correio do Estado* registra que ele já havia sido parceiro de Quill em trabalhos anteriores.[^cgnhq][^cecghq] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], do [[tarja-preta|Coletivo Tarja Preta]], lançada em novembro de 2023.[^cgntarja] Em 2024, *Ototo* estava à venda na [[hamor-livraria|Hámor Livraria]], em Campo Grande.[^cgnautores]
+Escreveu o prefácio de *A Ausente Ordem das Coisas* (2023), HQ de [[fabio-quill|Fábio Quill]] e primeiro título da [[avua-edicoes|Avuá Edições]]. O *Correio do Estado* registra que ele já havia sido parceiro de Quill em trabalhos anteriores.[^cgnhq][^cecghq] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], do [[tarja-preta|Coletivo Tarja Preta]], com lançamento anunciado para 11 de novembro de 2023.[^cgntarja] Em 2024, *Ototo* estava à venda na [[hamor-livraria|Hámor Livraria]], em Campo Grande.[^cgnautores]
 
 ## Obras
 

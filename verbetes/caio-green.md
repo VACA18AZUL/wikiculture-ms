@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Caio Green** é um grafiteiro que atua em Campo Grande. Em 2025, o *Campo Grande News* o apresentou entre os nomes da cena urbana sul-mato-grossense, na arte mural e no grafite.[^cgn2025]
+**Caio Green** é um grafiteiro com obras em Campo Grande. Em 2025, o *Campo Grande News* o citou entre os nomes da cena urbana sul-mato-grossense na arte mural e no grafite.[^cgn2025]
 
 ## Trajetória
 
@@ -18,7 +18,7 @@ Em 2023, pintou um painel de cinco metros de altura na entrada principal da Alde
 
 Segundo a matéria, o artista, que não é indígena, estudou a iconografia terena para o trabalho e deu oficinas de grafite e de tingimento de roupas a crianças e adultos da aldeia. Em abril do mesmo ano, com [[alice-hellmann|Alice Hellmann]], revitalizou o muro do Memorial da Cultura Indígena com uma imagem de Enir Terena, primeira cacique mulher da comunidade. Mural, painel e oficinas faziam parte do projeto Kéxunakoa, proposto em 2021 pela professora Fabriciane Malheiros.[^cgn2023]
 
-Em 29 de outubro de 2025, participou com [[lucas-do-rabisco-easy|Lucas do Rabisco Easy]] e [[leonardo-mareco|Leonardo Mareco]] da primeira edição do projeto "Troca de Saberes Culturais", com o tema "Arte Urbana", na Casa de Cultura de Campo Grande.[^cgn2025]
+Em outubro de 2025, o *Campo Grande News* anunciou sua participação, com [[lucas-do-rabisco-easy|Lucas do Rabisco Easy]] e [[leonardo-mareco|Leonardo Mareco]], na primeira edição do projeto "Troca de Saberes Culturais", com o tema "Arte Urbana", marcada para 29 de outubro na Casa de Cultura de Campo Grande.[^cgn2025]
 
 ## Obras
 

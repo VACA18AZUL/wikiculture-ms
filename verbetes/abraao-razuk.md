@@ -11,11 +11,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Abraão Razuk** (também grafado Abrão Razuk) é membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^cgn2023] Num discurso de 2009, assinado como Abrão Razuk, aparece como ocupante da cadeira 18.[^discurso2009]
+**Abraão Razuk** (também grafado Abrão Razuk) é membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^cgn2023] Um discurso de 2009, assinado por Abrão Razuk, "imortal" da cadeira 18 da ASL, é tratado aqui como do mesmo acadêmico, pela semelhança do nome e pela filiação à academia.[^discurso2009][^cgn2023]
 
 ## Trajetória
 
-Em 20 de março de 2009, em Campo Grande, fez em nome da ASL o discurso de recepção do desembargador Rêmolo Letteriello, que ele havia indicado para a academia. No texto, conta que fez concurso para a magistratura em 1979 e que atuou como advogado em júris e na Justiça Militar. O discurso também resume a origem da academia, criada por Ulysses Serra em 30 de outubro de 1971 como Academia de Letras e História de Campo Grande.[^discurso2009]
+Em 20 de março de 2009, em Campo Grande, fez em nome da ASL o discurso de recepção do desembargador Rêmolo Letteriello, que ele havia indicado para a academia. No texto, conta que fez concurso para a magistratura em 1979, que atuou num júri na comarca de Coxim e que fez sustentação oral como advogado numa apelação no Tribunal de Justiça. O discurso também resume a origem da academia, criada por Ulysses Serra em 30 de outubro de 1971 como Academia de Letras e História de Campo Grande.[^discurso2009]
 
 Em dezembro de 2023, presidiu o processo de eleição que escolheu a escritora [[sylvia-cesco|Sylvia Cesco]] para a cadeira 37 da ASL, na sucessão de [[francisco-leal-de-queiroz|Francisco Leal de Queiroz]]. A votação foi conduzida também pelo presidente da academia, [[henrique-de-medeiros|Henrique de Medeiros]], e pelo secretário Oswaldo Barbosa Almeida.[^cgn2023]
 

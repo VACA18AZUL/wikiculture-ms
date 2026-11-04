@@ -2,7 +2,6 @@
 titulo: Elias Borges
 tipo: pessoa
 areas: [literatura]
-cidade: Campo Grande
 resumo: Poeta, contista, ensaísta e resenhista de Mato Grosso do Sul, ex-presidente da UBE-MS e um dos primeiros membros do Coletivo Tarja Preta; tema do clube de leitura da Academia Sul-Mato-Grossense de Letras em 2026.
 ficha:
   Nome: Elias Borges de Campos
@@ -25,7 +24,7 @@ Em 2022, estava entre os autores anunciados na segunda edição da [[felit-ms|Fe
 
 ## Leituras & Conversas
 
-A [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] dedicou à obra dele uma edição do Leituras & Conversas, seu clube de leitura. O encontro foi marcado para 10 de setembro de 2026, cancelado por causa das condições climáticas e remarcado para 8 de outubro. A apresentação ficou com o poeta Paulo Robson de Souza, e a coordenação com as acadêmicas [[lenilde-ramos|Lenilde Ramos]], [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] e [[sylvia-cesco|Sylvia Cesco]].[^acritica-set][^acritica-out] O presidente da Academia, [[henrique-de-medeiros|Henrique de Medeiros]], apontou-o como um dos destaques da literatura contemporânea do estado.[^acritica-set]
+A [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] dedicou à obra dele uma edição do Leituras & Conversas, seu clube de leitura. O encontro foi marcado para 10 de setembro de 2026, cancelado por causa das condições climáticas e remarcado para 8 de outubro. A apresentação ficou com o poeta Paulo Robson de Souza, e a coordenação com as acadêmicas [[lenilde-ramos|Lenilde Ramos]], [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] e [[sylvia-cesco|Sylvia Cesco]].[^acritica-set][^acritica-out]
 
 [^acritica-set]: Ricardo Eugenio, ["Clube de leitura da ASL debate obra de Elias Borges nesta quinta-feira (10) em Campo Grande"](https://acritica.net/cultura/asl-leituras-conversas-elias-borges-campo-grande/), *A Crítica de Campo Grande*, 8 set. 2026. Acesso em 4 nov. 2026.
 [^acritica-out]: Ricardo Eugenio, ["Clube de leitura da ASL debate Elias Borges nesta quinta (8) em Campo Grande"](https://acritica.net/eventos/academia-letras-clube-leitura-elias-borges-campo-grande/), *A Crítica de Campo Grande*, 5 out. 2026. Acesso em 4 nov. 2026.

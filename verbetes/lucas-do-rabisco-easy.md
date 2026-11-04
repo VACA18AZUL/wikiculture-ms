@@ -19,7 +19,7 @@ Segundo reportagem de junho de 2023, ele começou a grafitar no ensino médio, p
 
 Em outubro de 2025, a [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]] o convidou, com [[leonardo-mareco|Leonardo Mareco]] e [[caio-green|Caio Green]], para a primeira edição do projeto "Troca de Saberes Culturais", com o tema "Arte Urbana". A matéria apresenta os três como nomes da cena urbana sul-mato-grossense na arte mural e no grafite.[^cgn2025]
 
-A identificação entre o "Lucas do Rabisco Easy" de 2025 e o Lucas Nascimento que assina Rabisco Easy em 2023 se apoia no nome artístico e na cidade; nenhuma das duas matérias cita a outra.[^cgn2023][^cgn2025]
+Neste verbete, o "Lucas do Rabisco Easy" de 2025 e o Lucas Nascimento que assina Rabisco Easy em 2023 são tratados como a mesma pessoa pelo nome artístico e pela cidade.[^cgn2023][^cgn2025]
 
 [^cgn2023]: Jéssica Fernandes, ["Lucas espalha arte pelo comércio doando painéis de grafite"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/lucas-espalha-arte-pelo-comercio-doando-paineis-de-grafite), *Campo Grande News*, 29 jun. 2023. Acesso em 4 nov. 2026.
 [^cgn2025]: Clayton Neves, ["Artistas do grafite e arte mural participam de encontro cultural"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/artistas-do-grafite-e-arte-mural-participam-de-encontro-cultural), *Campo Grande News*, 26 out. 2025. Acesso em 4 nov. 2026.
