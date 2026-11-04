@@ -17,7 +17,9 @@ atualizado: 2026-11-04
 
 Segundo a Fundação de Cultura, Denise Silva participou em 2000 da implantação das escolas indígenas de Miranda e, no doutorado e no pós-doutorado, formou professores terena para levar a língua e a cultura do povo ao currículo escolar. Esses professores escreveram os textos da coleção. A organizadora destacou o formato de livro em box, que considerou inédito em língua indígena brasileira. Foram impressos 6 mil exemplares, distribuídos em escolas de Miranda e de outros municípios do estado e do país com presença de povos indígenas.[^fcms2020]
 
-Um dos autores foi o professor terena **Anésio Alfredo Pinto**, apontado pelo *Campo Grande News* como um dos primeiros professores indígenas das comunidades de Miranda. Ele lançou em 2019 um livro de memórias e morreu em setembro de 2020, aos 65 anos.[^cgn2020b][^fcms2020]
+Segundo o *Campo Grande News*, os livros tratam dos modos de ser e fazer terena, com culinária, arte, memórias e histórias, e resultaram de um projeto de formação continuada de professores indígenas voltado a levar o conhecimento tradicional ao currículo escolar.[^cgn2020b]
+
+Um dos autores foi o professor terena **Anésio Alfredo Pinto**, apontado pelo *Campo Grande News* como um dos primeiros professores indígenas das comunidades de Miranda. Segundo Denise Silva, um livro com as memórias dele foi produzido e lançado em 2019. Anésio morreu em 24 de setembro de 2020, aos 65 anos.[^cgn2020b][^fcms2020]
 
 ## Prêmio Jabuti
 

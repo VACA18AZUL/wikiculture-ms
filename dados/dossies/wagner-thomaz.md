@@ -45,3 +45,15 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete não redigido: fonte única, com um parágrafo só. Aguarda segunda fonte.
+
+## Fonte nova (agente d1-1, 2026-11-04, aberta e lida)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2019 | Karina Medeiros de Lima, "MARCO abre 1ª Temporada de Exposições 2019 na quarta-feira", FCMS, 11 jul. 2019 | https://www.fundacaodecultura.ms.gov.br/marco-abre-1a-temporada-de-exposicoes-2019-na-quarta-feira/ | sim |
+
+- fcms2019: "artista plástico"; arquiteto e bacharel em Artes Plásticas pela UFMS; exposições individuais e coletivas em MS, MT e GO; Paisagem = fotografias de paisagens locais, simplificação de elementos em favor do ajuste de cor; temporada de 18 jul. a 1º set. 2019. Grafia "Wagner Thomaz" confirmada. A página traz telefone do artista: dado pessoal, fora.
+
+## Uso no verbete (d1-1)
+
+Verbete escrito com cgn2019 e fcms2019. Cidade de residência não dita por nenhuma das duas: campo cidade omitido.
