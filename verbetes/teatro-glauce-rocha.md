@@ -25,6 +25,8 @@ Quando a TV Morena criou o [[fessul|FESSUL]], em 1979, o Glauce Rocha foi substi
 
 O LP [[prata-da-casa-lp-1982|Prata da Casa]], do [[festival-prata-da-casa|festival]] de mesmo nome, foi gravado ao vivo no Glauce Rocha em 15 e 16 de maio de 1982.[^gon2]
 
+Em setembro de 2005, o teatro recebeu o Encontro de Corais Canto da Primavera. A dissertação de Cristina Passos registra a 9ª edição em 23 de setembro de 2005, com a participação do Coral Meninas Cantoras de Porto Murtinho.[^passos2013]
+
 ## Dança
 
 O *Correio do Estado* informou que a 6ª edição do Prêmio Onça Pintada, festival de dança com Mostra Internacional de Dança, seria realizada no Teatro Glauce Rocha entre 5 e 8 de setembro de 2019. A matéria situa o teatro na Universidade Federal de Mato Grosso do Sul.[^ce]
@@ -41,3 +43,4 @@ O folheto da [[mostra-boca-de-cena|Mostra Sul-Mato-Grossense de Teatro e Circo (
 [^ce]: Glaucea Vaccari, ["Prêmio Onça Pintada reúne diversos grupos de dança da Capital"](https://correiodoestado.com.br/correio-b/premio-onca-pintada-reune-diversos-grupos-de-danca-da-capital/359942/), *Correio do Estado*, 3 set. 2019. Acesso em 29 out. 2026.
 [^folheto2017]: ["Boca de Cena: Mostra Sul-Mato-Grossense de Teatro e Circo 2017" (folheto)](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), Fundação de Cultura de MS, 2017. Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Espetáculo une música, poesia e dança com entrada gratuita em três cidades de MS"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-une-musica-poesia-e-danca-com-entrada-gratuita-em-tres-cidades-de-ms), *Campo Grande News*, 6 maio 2025. Acesso em 4 nov. 2026.
+[^passos2013]: Cristina Passos, [*Coral Meninas Cantoras de Porto Murtinho: um estudo do timbre nas inter-relações com as identidades culturais e a sociedade*](https://repositorio.bc.ufg.br/tede/bitstreams/644a7e2e-4359-478c-b4bd-37c60f820bd6/download), dissertação de mestrado em Música, Universidade Federal de Goiás, 2013, p. 9 e 47. Acesso em 4 nov. 2026.

@@ -17,7 +17,7 @@ O **Dourados Brilha**, também chamado **Festival Dourados Brilha**, é uma fest
 
 ## Edições
 
-Em dezembro de 2018, a banda douradense [[trajeto2|Trajeto2]] fez no festival o primeiro show depois do lançamento do segundo CD, marcado para 10 de dezembro, às 20h, na Praça Antônio João.[^cgn2018]
+Em dezembro de 2018, o *Campo Grande News* anunciou que a banda douradense [[trajeto2|Trajeto2]] faria no festival o primeiro show depois de lançar o segundo CD. A apresentação estava marcada para 10 de dezembro, às 20h, na Praça Antônio João.[^cgn2018]
 
 A edição de 2023 começou no sábado, 25 de novembro, com acendimento das luzes de Natal, fogos de artifício, apresentação do Coral Municipal e show do grupo de pagode Não Tem Hora. Segundo a Guarda Municipal, cerca de dez mil pessoas passaram pela praça na primeira noite. A novidade do ano foi uma roda-gigante de 16 metros, de uso gratuito, que funcionaria até 22 de dezembro.[^rcn2023]
 

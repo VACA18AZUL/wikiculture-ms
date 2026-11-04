@@ -40,3 +40,10 @@
 ## Uso no verbete
 
 Tudo entrou, exceto detalhes da fala de Carmen Lúcia sobre encontros em casas de integrantes (vida privada, irrelevante).
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Simone Lima Ferreira, *Neologismos na literatura feminina sul-mato-grossense contemporânea*, dissertação, Estudos de Linguagens, UFMS, 2025 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564). Nota `ferreira2025`. Numeração impressa = página do PDF menos 1. Lidas as p. 36 e 39.
+
+- Acrescentado: Diana Pilatti e Tânia Souza como integrantes; nome "Coletivo Literário Independente Tarja Preta"; citado entre os coletivos literários de Campo Grande.
+- A dissertação não dá ano de fundação.

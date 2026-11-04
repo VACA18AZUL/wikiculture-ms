@@ -21,7 +21,7 @@ No segundo festival, em 1968, destacaram-se [[paulo-simoes|Paulo Simões]], [[ge
 
 ## Festivais estudantis
 
-Para manter o interesse dos jovens pela criação musical, o Surian organizou em 1970 seu I Festival Estudantil, segundo Caetano. O autor registra que a sequência dos festivais estudantis é confusa por falta de arquivo organizado.[^cae3] Em 1972, a imprensa anunciou o 4º Festival da Música Estudantil, no Rádio Clube.[^cae3] Para Faria, os festivais estudantis, sobretudo universitários, marcaram os anos 1970, mas perderam público aos poucos, porque os artistas que se firmavam deixavam de concorrer.[^faria2024]
+Para manter o interesse dos jovens pela criação musical, o Surian organizou em 1970 seu I Festival Estudantil, segundo Caetano. A organização foi de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e Nélson Nachif, segundo Simões e Fonseca (1981), citados por Caetano. Por ser voltado a estudantes, o festival não teve alguns dos nomes das três primeiras edições, como José Octávio Guizzo e Renê Siufi. Venceu o samba "Jangada", do estudante Carlos Newton de Souza Pinto; [[os-bizarros|Os Bizarros]] ficaram em segundo lugar com o baião "Porque gosto dela, porque ela gosta de mim", de [[paulo-simoes|Paulo Simões]] e [[geraldo-espindola|Geraldo Espíndola]].[^cae44] O autor registra que a sequência dos festivais estudantis é confusa por falta de arquivo organizado.[^cae3] Em 1972, a imprensa anunciou o 4º Festival da Música Estudantil, no Rádio Clube.[^cae3] Para Faria, os festivais estudantis, sobretudo universitários, marcaram os anos 1970, mas perderam público aos poucos, porque os artistas que se firmavam deixavam de concorrer.[^faria2024]
 
 Em 1973, os festivais estudantis já haviam deixado o Surian e passaram a ter etapas no Teatro Glauce Rocha. Naquele ano a série foi interrompida pelo 1º FEMACRIM, o Festival Matogrossense de Criatividade Musical, promovido pela Universidade Estadual de Mato Grosso e pela Secretaria de Educação do Estado.[^cae4] A última edição dos festivais estudantis no Glauce Rocha foi o VI Festival de Música Estudantil campo-grandense, em 1974, segundo o mesmo autor.[^cae4]
 
@@ -38,6 +38,7 @@ Com a criação do estado, a TV Morena passou a organizar o [[fessul|FESSUL]], F
 [^cae2]: Caetano, 2012, capítulo 1, seção 1.1 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae3]: Caetano, 2012, capítulo 1, seção 1.1 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae4]: Caetano, 2012, capítulo 1, seção 1.1 (mesma dissertação). Acesso em 29 out. 2026.
+[^cae44]: Caetano, 2012, p. 44 (mesma dissertação), citando Paulo Simões e Cândido Alberto da Fonseca, *Festivais de música em Mato Grosso do Sul*, UFMS, 1981, p. 19. Acesso em 4 nov. 2026.
 [^cae5]: Caetano, 2012, capítulo 1, seção 1.4 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae6]: Caetano, 2012, capítulo 1, seção 1.2 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99. Acesso em 4 nov. 2026.

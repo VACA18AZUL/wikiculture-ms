@@ -57,3 +57,14 @@ Busca na web indisponível nesta sessão (cota esgotada).
 | fcms2023 | FCMS, "Proler 2023 terá exposição de poemas minimalistas de Diana Pilatti", 20 out. 2023 | https://www.fundacaodecultura.ms.gov.br/proler-2023-tera-exposicao-de-poemas-minimalistas-de-diana-pilatti/ | sim |
 
 O que mudou: acrescentado parágrafo (Proler 2023, exposição de poetrix, histórico de participação no Proler) e item de Obras (*Pequenas Sinestesias*, 2023, Mulherio das Letras / Editora Popular Venas Abiertas, lançamento previsto para nov. 2023). Reforça "professora e poeta", a ligação com o Mulherio das Letras e o interesse em poesia minimalista (oficina de 2025 em cgn2025). Não confirma *Palavras Diáfanas* nem *As Cinzas*, nem a antologia Tarja Preta. A matéria usa "poetisa"; o verbete mantém "poeta". Sem informação de que o livro foi de fato lançado (previsão). Busca no CGN/Correio do Estado/A Crítica por "Palavras Diáfanas" e "Tarja Preta Segunda Dose": sem resultado. "Diana Pilatti Onofre" (Oliva Enciso 2026) segue fora: identidade não confirmada.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Simone Lima Ferreira, *Neologismos na literatura feminina sul-mato-grossense contemporânea*, dissertação, Estudos de Linguagens, UFMS, 2025 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564). Nota `ferreira2025`. Numeração impressa = página do PDF menos 1. Lidas as p. 14, 36-45, a seção 3.1 (p. 45-56, quadros de neologismos) e as referências.
+
+- Acrescentado à ficha: nascimento (21/3/1979, Foz do Iguaçu), cidade (Campo Grande), cadeira 10 da Academia Internacional Poetrix (desde 2021), UBE-MS.
+- Acrescentado: formação (Letras UCDB; mestrado em Estudos de Linguagens UFMS); Mostra Poetrix desde 2020; Mulherio das Letras, Tarja Preta, UBE-MS (p. 39).
+- Obras com ano e editora (p. 39 e referências): *Palavras Avulsas* (2019), *Palavras Póstumas* (2020), *Palavras Diáfanas* (Patuá, 2021), *Haicais e outros poemínimos* (2021), *Pequenas Sinestesias* (2023, prefácio de Maria Valéria Rezende), *As cinzas* (Caligo, 2024). Coleção do Mulherio finalista do Jabuti 2020 (Inovação: Fomento à Leitura) — a fonte diz que a coleção, não o livro, foi finalista; mantido assim.
+- Entrevista sobre neologismos (p. 40-43): resumida em uma frase.
+- Ferreira escreve "Palavras Diáfana" na p. 39 e "Palavras Diáfanas" nas demais; usado o plural.
+- Referência: *Palavras avulsas*, *Palavras póstumas*, *Haicais...* e *Pequenas sinestesias* aparecem com "Belo Horizonte. Venas Abiertas".

@@ -36,3 +36,9 @@ Descartada: crônica no Recanto das Letras (cronicas/6728259) sobre a sessão de
 ## Uso no verbete
 
 - Tudo acima entrou, menos currículos detalhados das empossadas.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Simone Lima Ferreira, *Neologismos na literatura feminina sul-mato-grossense contemporânea*, dissertação, Estudos de Linguagens, UFMS, 2025 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564). Nota `ferreira2025`. Numeração impressa = página do PDF menos 1. Lida a p. 36.
+
+- Acrescentado: citada entre os espaços de circulação literária do estado, com a ASL e a UBE-MS. Sem data de fundação nem outros dados.

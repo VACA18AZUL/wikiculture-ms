@@ -49,3 +49,13 @@ Observação: todas as fontes são do mesmo veículo (Campo Grande News), em mat
 ## Uso no verbete
 
 - Entrou: todos os fatos acima, exceto preço, endereço e retirada na editora (irrelevantes) e a homenagem à Coleção Vagalume (detalhe menor).
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Simone Lima Ferreira, *Neologismos na literatura feminina sul-mato-grossense contemporânea*, dissertação, Estudos de Linguagens, UFMS, 2025 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564). Nota `ferreira2025`. Numeração impressa = página do PDF menos 1. Lidas as p. 36-44, a seção 3.2 (p. 57-69) e as referências.
+
+- Acrescentado: natural de Bela Vista (o verbete dizia "criada em"; as duas coisas ficam); professora e poeta; gêneros; Mulherio das Letras, Tarja Preta, Vórtice Literário, Leia Mulheres; editora da *Revista Digital Zzzumbido* (p. 39-40).
+- Acrescentado: lista de oito livros com ano e editora (referências): *De(s)amores e outras ternurinhas* (Estronho, 2016), *Estranhas delicadezas* (Estronho, 2019), *Entre as rendas dos ossos...* (Venas Abiertas, 2020), *Microficções...* (Venas Abiertas, 2021), *Fabulário de estrelas* (Venas Abiertas, 2023), *A encantada* (Ed. da Autora, 2023), *Sudário* (Venas Abiertas, 2024), *Eles vieram com o amanhecer* (Avuá, 2024); infantis *Um gato no jardim* e *Bichinhos da horta* (sem ano).
+- Acrescentado (Videografia): curta de animação *A bruxinha*, adaptado do e-book *Era uma vez*, com apoio da Lei Aldir Blanc (p. 40); sem ano e sem link.
+- Confirmado: Prêmio Ipê de Literatura 2021 com *A encantada* (p. 40).
+- Com Ferreira, o verbete passa a ter fonte independente do *Campo Grande News* (antes, quatro matérias do mesmo veículo).
