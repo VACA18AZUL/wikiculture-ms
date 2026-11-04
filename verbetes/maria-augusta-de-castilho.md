@@ -3,7 +3,7 @@ titulo: Maria Augusta de Castilho
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: "Professora e pesquisadora da UCDB, autora de mais de 40 obras, coautora de livro sobre o Hotel Gaspar (2018) e de estudo sobre as salas de cinema de Campo Grande; tomou posse na Aflams em 2026."
+resumo: "Professora e pesquisadora da UCDB, autora de mais de 40 obras, coautora de livro sobre o Hotel Gaspar (2018) e de estudo sobre as salas de cinema de Campo Grande; teve posse na Aflams marcada para maio de 2026."
 ficha:
   Atividade: "Professora universitária, pesquisadora e autora"
   Formação: "Doutorado em Ciências Sociais – História do Brasil e pós-doutorado em Linguística, ambos pela USP"
@@ -11,17 +11,17 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Maria Augusta de Castilho** é professora e pesquisadora da [[universidade-catolica-dom-bosco|Universidade Católica Dom Bosco (UCDB)]], em Campo Grande, com pós-doutorado em Linguística pela Universidade de São Paulo (USP).[^cordis] É autora de mais de quarenta obras publicadas.[^acritica2026]
+**Maria Augusta de Castilho** é professora e pesquisadora da [[universidade-catolica-dom-bosco|Universidade Católica Dom Bosco (UCDB)]], em Campo Grande, com pós-doutorado em Linguística pela Universidade de São Paulo (USP).[^cordis] Tem mais de quarenta obras publicadas.[^acritica2026]
 
 ## Trajetória
 
-Segundo o jornal *A Crítica*, é doutora em Ciências Sociais – História do Brasil pela USP e trabalhou no Ministério da Educação, no Sinaes/Inep/MEC e no Plano Nacional do Livro Didático. Lidera um grupo de pesquisa cadastrado no CNPq pela UCDB e integra instituições culturais no Brasil e na Itália. Recebeu a Medalha Darcy Ribeiro/MS, o Prêmio Fundect de Pesquisa Sul-Mato-Grossense e a Ordem Guaicurus do Mérito Judiciário do Trabalho.[^acritica2026]
+Segundo o jornal *A Crítica*, fez doutorado em Ciências Sociais – História do Brasil na USP. Na área federal de educação, passou pelo Ministério da Educação, pelo Sinaes, ligado ao Inep, e pelo Plano Nacional do Livro Didático. Pela UCDB, lidera um grupo de pesquisa registrado no CNPq; também faz parte de instituições culturais brasileiras e italianas. Entre as distinções que recebeu, o jornal cita a Ordem Guaicurus do Mérito Judiciário do Trabalho, a Medalha Darcy Ribeiro/MS e o Prêmio Fundect de Pesquisa Sul-Mato-Grossense.[^acritica2026]
 
 Em 2016, assinou com Flaviana Miranda da Silva de Sá o artigo "Os espaços cinematográficos em Campo Grande – MS", na revista *Cordis*, da PUC-SP, sobre as transformações das salas de cinema da cidade. O texto se baseia em pesquisa bibliográfica, entrevistas e observação nos locais e trata de casas como o [[cine-trianon|Trianon]], o [[cine-santa-helena|Santa Helena]] e o [[cine-alhambra|Alhambra]].[^cordis][^cordis250]
 
-Em 13 de abril de 2018, lançou no próprio [[hotel-gaspar|Hotel Gaspar]], em Campo Grande, o livro *Hotel Gaspar: Identidade e Memória no contexto do Desenvolvimento Local*, escrito com Elaine Cristina Paganotti Rezende e publicado com apoio do Fundo de Investimentos Culturais (FIC) do governo do estado. A obra trata da história do hotel, construído em 1954 em frente à antiga estação ferroviária.[^fcms2018]
+Com Elaine Cristina Paganotti Rezende, escreveu o livro *Hotel Gaspar: Identidade e Memória no contexto do Desenvolvimento Local*, editado com recursos do Fundo de Investimentos Culturais (FIC) do governo do estado. A Fundação de Cultura anunciou o lançamento para 13 de abril de 2018, no próprio [[hotel-gaspar|Hotel Gaspar]], em Campo Grande. O livro conta a história do hotel, construído em 1954 diante da antiga estação ferroviária.[^fcms2018]
 
-Em 28 de maio de 2026, tomou posse na [[aflams|Academia Feminina de Letras e Artes de Mato Grosso do Sul (Aflams)]], na mesma cerimônia de Carmen de Eugênio e [[beatriz-nantes|Beatriz Nantes]].[^acritica2026]
+O jornal *A Crítica* noticiou a cerimônia de posse de Maria Augusta na [[aflams|Academia Feminina de Letras e Artes de Mato Grosso do Sul (Aflams)]] marcada para 28 de maio de 2026, junto com Carmen de Eugênio e [[beatriz-nantes|Beatriz Nantes]].[^acritica2026]
 
 ## Obras
 

@@ -22,7 +22,7 @@ Em 1982, Fonseca produziu e dirigiu o projeto *Prata da Casa*, cujos registros s
 ## Filmografia
 
 - *Conceição dos Bugres* — curta documentário sobre a escultora [[conceicao-dos-bugres|Conceição dos Bugres]]. Diehl o data de 1980, o descreve como premiado e diz que foi produzido pela Seriema Filmes, em parceria com [[jose-octavio-guizzo|José Octávio Guizzo]] e João José de Souza Leite.[^diehl] Amizo data o filme de 1979 e o referencia como documentário de curta-metragem.[^amizo] As duas datas ficam registradas, sem escolha.
-- *Silvino Jacques – Itinerário de um Matador* — documentário sobre [[silvino-jacques|Silvino Jacques]], figura histórica do início do século XX. Os negativos chegaram a desaparecer e foram recuperados com apoio da Cinemateca Brasileira.[^cgn2025a][^cgn2025b]
+- *Silvino Jacques – Itinerário de um Matador* — documentário sobre Silvino Jacques, figura histórica do início do século XX. Os negativos chegaram a desaparecer e foram recuperados com apoio da Cinemateca Brasileira.[^cgn2025a][^cgn2025b]
 
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 38. Acesso em 29 out. 2026.
 [^amizo]: Isabella Banducci Amizo, [*Poética dos bugres: uma incursão sobre arte, identidade e o outro*](https://sigpos.ufms.br/portal/trabalho-arquivos/download/2239), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2015, p. 19 e 112-113. Acesso em 29 out. 2026.
