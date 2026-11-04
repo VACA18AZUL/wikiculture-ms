@@ -45,3 +45,7 @@ Descartadas: cgn2026 (trata da casa dele, de relação pessoal e da morte de fam
 ## Uso no verbete
 
 - Entrou tudo acima. Ficou de fora cgn2026 por dados pessoais.
+
+## Validação de 2026-11-04 (valn-2)
+
+- Datas das oficinas de 2025: 7 e 8 de março [fcms2025][cgn2025a] × 6 e 7 de março [cgn2025b]. Ambas no verbete.

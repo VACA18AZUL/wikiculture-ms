@@ -3,7 +3,7 @@ titulo: Madalena (filme)
 tipo: obra
 areas: [audiovisual]
 cidade: Dourados
-resumo: Longa de ficção de Madiano Marcheti, rodado em Dourados e Bonito em 2018 com elenco majoritariamente sul-mato-grossense, sobre a morte de uma mulher trans numa cidade cercada por plantações de soja. Estreou no Festival de Roterdã em 2021.
+resumo: Longa de ficção de Madiano Marcheti, rodado em MS em 2018 com elenco majoritariamente sul-mato-grossense, sobre a morte de uma mulher trans numa cidade cercada por plantações de soja. Estreou no Festival de Roterdã em 2021.
 ficha:
   Direção: Madiano Marcheti
   Ano: "2021 (estreia mundial)"
