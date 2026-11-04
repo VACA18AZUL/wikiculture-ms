@@ -28,7 +28,12 @@ Em 1981, venceu o Festão com [[celito-espindola|Celito Espíndola]], com a toad
 
 Em novembro de 2016, o *Correio do Estado* noticiou o livro *Sonhos Guaranis: a poesia de Paulo Simões*, da Editora da UFMS, organizado pelo jornalista Danilo Nuha, com as letras que ele escreveu. O mesmo texto informa que ele tinha então quatro álbuns, uma coletânea e um DVD, sem listá-los.[^ce2016]
 
+## Filmografia
+
+- [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de Fábio Flecha; participação especial.[^fcmslendas]
+
 [^ce2016]: Redação, ["Histórias de Paulo Simões e 'Prata da Casa' são contadas em livros"](https://correiodoestado.com.br/correio-b/historias-de-paulo-simoes-e-prata-da-casa-sao-contadas-em-livros/290295/), *Correio do Estado*, 1 nov. 2016. Acesso em 4 nov. 2026.
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99. Acesso em 4 nov. 2026.
 [^caeufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, pp. 53, 63 e 120. Acesso em 4 nov. 2026.
 [^gon14]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, seção sobre os artistas híbridos e o disco *Prata da Casa*. Acesso em 4 nov. 2026.
+[^fcmslendas]: Fundação de Cultura de MS, ["Lendas Pantaneiras, longa produzido com recursos do FIC, será lançado dia 4 de outubro"](https://www.fundacaodecultura.ms.gov.br/lendas-pantaneiras-longa-produzido-com-recursos-do-fic-sera-lancado-dia-4-de-outubro/), 25 set. 2015. Acesso em 4 nov. 2026.

@@ -28,6 +28,11 @@ Em 2023, organizou o 2º Prêmio Campo Grande ao Teatro, lançado pela Associaç
 - *Noivo por encomenda* — atuação; montagem dirigida por Marcos Alexandre de Melo.[^folheto]
 - *Pobre Diabo Louco e seu Discurso para Moscas* (cerca de 1997, pelo cálculo de 20 anos em 2017) — texto, direção, cenografia, sonoplastia e atuação; Grupo Palco.[^folheto]
 
+## Filmografia
+
+- [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de Fábio Flecha; argumento, com Fábio Flecha, Márcio Padilha e Flávio Sobreira, e elenco.[^fcmslendas]
+
 [^folheto]: Fundação de Cultura de Mato Grosso do Sul, [folheto da Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), 2017, seções "Homenageados" e programação. Acesso em 4 nov. 2026.
 [^cgn2023a]: Thailla Torres, ["Prêmio Campo Grande ao Teatro está com inscrições abertas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/premio-campo-grande-ao-teatro-esta-com-inscricoes-abertas), *Campo Grande News*, 21 mar. 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Thailla Torres, ["Prêmio Campo Grande ao Teatro chega com 10 espetáculos de graça"](https://www.campograndenews.com.br/lado-b/diversao/premio-campo-grande-ao-teatro-chega-com-10-espetaculos-de-graca), *Campo Grande News*, 17 abr. 2023. Acesso em 4 nov. 2026.
+[^fcmslendas]: Fundação de Cultura de MS, ["Lendas Pantaneiras, longa produzido com recursos do FIC, será lançado dia 4 de outubro"](https://www.fundacaodecultura.ms.gov.br/lendas-pantaneiras-longa-produzido-com-recursos-do-fic-sera-lancado-dia-4-de-outubro/), 25 set. 2015. Acesso em 4 nov. 2026.

@@ -45,7 +45,7 @@ Fontes descartadas e o motivo:
 
 | Identificador | Relação | Fonte | Verbete? | Lista-mestra? |
 |---|---|---|---|---|
-| arquitecnica | relacionado-a (professor) | cgn2015 | não | não (proposta) |
+| arquitecnica | relacionado-a (professor) | cgn2015 | não | não; não proposto, a fonte não diz o que é a Arquitécnica |
 
 ## Divergências entre fontes
 
