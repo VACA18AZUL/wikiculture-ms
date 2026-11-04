@@ -1,4 +1,4 @@
-# Dossiê: candida-chamorro
+# Dossiê: graciela-chamorro
 
 ## Identificação
 
