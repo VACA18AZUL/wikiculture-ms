@@ -16,13 +16,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em dezembro de 2016, integrou a mostra *Invencionices*, da [[confraria-sociartista|Confraria Sociartista]], em homenagem ao centenário de [[manoel-de-barros|Manoel de Barros]], e participou de uma intervenção de pintura do grupo no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^fcms2016a][^fcms2016b]
+Em dezembro de 2016, integrou a mostra *Invencionices*, da [[confraria-sociartista|Confraria Sociartista]], em homenagem ao centenário de [[manoel-de-barros|Manoel de Barros]], e foi anunciado entre os participantes de uma intervenção do grupo no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], marcada para 10 de dezembro.[^fcms2016a][^fcms2016b]
 
-Em 2017, participou da coletiva *Primitivos*, de artistas naïf, na segunda temporada de exposições do [[marco|MARCO]], ao lado de [[anelise-godoy|Anelise Godoy]], [[patricia-helney|Patrícia Helney]] e outros.[^fcms2017a] No mesmo ano, esteve na exposição *Mato Grosso do Sul, 40 anos construindo história com arte*, no Centro Cultural.[^fcms2017b]
+Em 2017, estava entre os artistas de Campo Grande da coletiva *Primitivos*, de arte naïf, na segunda temporada de exposições do [[marco|MARCO]], anunciada para abrir em 19 de julho, ao lado de [[anelise-godoy|Anelise Godoy]], [[patricia-helney|Patrícia Helney]] e outros.[^fcms2017a] No mesmo ano, seu nome constava da lista de artistas da exposição *Mato Grosso do Sul, 40 anos construindo história com arte*, no Centro Cultural.[^fcms2017b]
 
 Em 2020, integrava a diretoria da Associação de Artistas Plásticos Profissionais de MS (AAPMS) e expôs na coletiva da entidade na [[galeria-wega-nery|Galeria Wega Nery]].[^fcms2020] Em maio de 2024, o jornal *O Estado MS* o citou entre os 12 artistas da 2ª Mostra de Arte Ingênua, do MARCO, na [[galeria-de-vidro|Galeria de Vidro]] da [[plataforma-cultural|Plataforma Cultural]].[^oe2024a]
 
-Em novembro de 2024, expôs com outros artistas da Confraria na mostra *Um visão NAIF do nosso MS* (grafia da fonte), do projeto Arte na Academia, na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^fcms2024] Em dezembro do mesmo ano, participou da coletiva sobre alterações climáticas, paz e seres vivos na galeria da [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]].[^oe2024b]
+Em novembro de 2024, expôs com Ana Oiticica, Lúcio Laranjeira e Sonia Maria na mostra *Um visão NAIF do nosso MS* (grafia da fonte), do projeto Arte na Academia, na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^fcms2024] Em dezembro do mesmo ano, participou da coletiva sobre alterações climáticas, paz e seres vivos na galeria da [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]].[^oe2024b]
 
 ## Exposições
 

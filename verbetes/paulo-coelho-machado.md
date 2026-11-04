@@ -25,6 +25,8 @@ Criou o [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográf
 
 Os pesquisadores Maria Augusta de Castilho e Nataniél Dal Moro o colocam ao lado de Ulisses Serra e Edson Carlos Contar entre os memorialistas que retrataram as pessoas comuns da cidade como "tipos populares".[^fenix2015] Em 2024, reportagem do *Campo Grande News* sobre a história da Rua 14 de Julho usou *A Rua Principal* como referência para os prédios antigos e as figuras populares da rua.[^cgn2024]
 
+Ian Rari Nogueira Faria, em dissertação de 2024, cita *A Rua Velha* com data de 1990 e *A Grande Avenida* com data de 2000. Lê os livros como registro da urbanização de Campo Grande entre os anos 1960 e 1970, das ruas 26 de Agosto e 14 de Julho e da Avenida Afonso Pena, e do movimento pela divisão do estado.[^faria2024]
+
 ### Pelas Ruas de Campo Grande
 
 - *A Rua Velha* — volume 1; atual Rua 26 de Agosto. Edição do TJMS de 1990, segundo Castilho e Dal Moro.[^britez2010][^fenix2015]
@@ -38,3 +40,4 @@ Os pesquisadores Maria Augusta de Castilho e Nataniél Dal Moro o colocam ao lad
 [^ihgms2025]: Heitor Rodrigues Freire, ["O Instituto Histórico e Geográfico e seu legado"](https://ihgms.org.br/noticias/o-instituto-historico-e-geografico-e-seu-legado-18), *Instituto Histórico e Geográfico de Mato Grosso do Sul*, 24 jun. 2025. Acesso em 4 nov. 2026.
 [^raido2008]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, 2008. Acesso em 4 nov. 2026.
 [^cgn2024]: Aletheya Alves, ["Com a 14 de Julho ganhando nova vida, já ouviu sobre as antigas?"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/com-a-14-de-julho-ganhando-nova-vida-ja-ouviu-sobre-as-antigas), *Campo Grande News*, 26 ago. 2024. Acesso em 4 nov. 2026.
+[^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 51-52 do PDF. Acesso em 4 nov. 2026.

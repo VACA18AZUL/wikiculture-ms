@@ -21,7 +21,7 @@ O jornal registra ainda passagem pelo rádio e participação no filme [[paralel
 
 ## Festivais de música
 
-Gilmar Lima Caetano o cita entre os participantes do 1º Festival de Música Popular de Campo Grande, de dezembro de 1967, parte dos [[festivais-de-musica-popular-de-campo-grande|Festivais de Música Popular de Campo Grande]].[^cae34] No 3º festival, quando já trabalhava na TV Morena, ficou em terceiro lugar com "Rancho da Esperança". Considerou plágio a canção vencedora, "Norma", de José Roberto Amin.[^cae43]
+Gilmar Lima Caetano o cita entre os participantes do 1º Festival de Música Popular de Campo Grande, de dezembro de 1967, parte dos [[festivais-de-musica-popular-de-campo-grande|Festivais de Música Popular de Campo Grande]].[^cae34] Ian Rari Nogueira Faria reproduz essa lista de participantes e o papel de Onésimo na criação do FESSUL, a partir de Caetano.[^faria2024] No 3º festival, quando já trabalhava na TV Morena, ficou em terceiro lugar com "Rancho da Esperança". Considerou plágio a canção vencedora, "Norma", de José Roberto Amin.[^cae43]
 
 Caetano escreve que a TV Morena decidiu organizar o [[fessul|FESSUL]] por causa da criação do novo estado e do interesse de Onésimo em retomar os festivais.[^cae48] As falas dele que o autor reproduz vêm de uma entrevista a Paulo Simões publicada no livro *Festivais de Música em Mato Grosso do Sul*, coordenado por Maria da Glória Sá Rosa (UFMS, [[projeto-universidade-81|Projeto Universidade 81]], 1981). Nelas, Onésimo conta que o primeiro FESSUL, em 1979, teve o governo do estado e a prefeitura como patrocinadores e o ator Tony Ramos como convidado. Diz também que não esperava a vitória do [[grupo-acaba|grupo ACABA]] com "Kananciuê".[^cae48]
 
@@ -33,3 +33,4 @@ No segundo FESSUL, em 1980, artistas liderados por Iso e Tato Fischer, com [[alm
 [^cae48]: Caetano, 2012, p. 48-50 (mesma dissertação), que cita entrevista de Onésimo Filho a Paulo Simões em Maria da Glória Sá Rosa (coord.), *Festivais de Música em Mato Grosso do Sul* (UFMS, 1981). Acesso em 4 nov. 2026.
 [^cae50]: Caetano, 2012, p. 50-51 (mesma dissertação), com a mesma entrevista de 1981. Acesso em 4 nov. 2026.
 [^cae52]: Caetano, 2012, p. 52 (mesma dissertação). Acesso em 4 nov. 2026.
+[^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 55 e 57 do PDF. Acesso em 4 nov. 2026.

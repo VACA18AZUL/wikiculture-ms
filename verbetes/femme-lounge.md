@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Femme Lounge** é um duo de voz e violão de Campo Grande, formado por [[naria-santos|Nária Santos]] e [[lais-fujiyama|Laís Fujiyama]] (também grafada Lais).[^cgn2021][^fcms2021]
+**Femme Lounge** é uma dupla de Campo Grande, em formação de voz e violão, com [[naria-santos|Nária Santos]] e [[lais-fujiyama|Laís Fujiyama]] (também grafada Lais).[^cgn2021][^fcms2021]
 
 ## Trajetória
 

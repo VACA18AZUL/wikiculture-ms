@@ -69,3 +69,9 @@ Observação: as falas de Onésimo em Caetano vêm de entrevista concedida a Pau
 - ce2012a e a dissertação de Caetano (PDF, p. 34, 42-43, 48-52) reabertas e conferidas.
 - A vitória de "Norma" no 3º festival está na p. 42; nota ajustada para p. 42-43. O ano do 3º festival não aparece na passagem: o resumo deixou de dizer "anos 1960".
 - A bibliografia de Caetano dá a entrevista como publicada em Maria da Glória Sá Rosa (coord.), *Festivais de Música em Mato Grosso do Sul*, UFMS, Projeto Universidade 81, 1981; ligado ao verbete projeto-universidade-81.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Ian Rari Nogueira Faria, *Contribuições da música regional...*, dissertação, UFMS/Aquidauana, 2024 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682). Lidas as p. 55 e 57-58 do PDF. Nota `faria2024`.
+
+- Faria só cita Onésimo dentro de trechos longos de Caetano (2012, p. 34 e 49): lista de participantes de 1967 e retomada dos festivais com o FESSUL. Não é fonte independente. Acrescentada uma frase que diz isso.

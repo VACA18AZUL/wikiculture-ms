@@ -50,3 +50,11 @@
 
 - Entrou tudo, menos dados de família e cargos em entidades de classe (fora do tema cultural).
 - Wikipédia pt: sem artigo (404 em 4 nov. 2026).
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Ian Rari Nogueira Faria, *Contribuições da música regional...*, dissertação, Estudos Culturais, UFMS/Aquidauana, 2024 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682). Lidas as p. 51-52 do PDF. Nota `faria2024`.
+
+- Acrescentado: Faria cita *A Rua Velha* (1990) e *A Grande Avenida* (2000) e lê as obras como registro da urbanização e do divisionismo.
+- Datas: *A Rua Velha* 1990 coincide com Castilho e Dal Moro (edição do TJMS). *A Grande Avenida* 2000 é dado novo; Britez e Pereira datam a coletânea reunida de 2006. Não é contradição direta (edição avulsa x coletânea), mas fica anotado.
+- Faria chama Paulo Coelho Machado de memorialista e cronista; não traz dados biográficos.

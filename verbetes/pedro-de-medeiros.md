@@ -32,7 +32,7 @@ Em vida, não reuniu a obra em livro. O volume *Poesias, crônicas, comentários
 
 Em 2017, [[edson-moraes|Edson Moraes]] publicou o livro de poemas *Bugre Rima com Estrelas*. O título remete a Pedro de Medeiros e a "Lenda Bororo".[^cgn2017]
 
-Em setembro de 2026, o *Correio do Estado* publicou poemas de autores de Corumbá em homenagem a Pedro de Medeiros e a [[lobivar-matos|Lobivar de Matos]]. A iniciativa partiu do envio de poemas pelo escritor [[eneo-da-nobrega|Eneo da Nóbrega]], da [[ube-ms|UBE-MS]] e da [[apec|Associação Pantaneira de Escritores]].[^ce2026]
+Em setembro de 2026, o *Correio do Estado* publicou poemas de autores de Corumbá em homenagem a Pedro de Medeiros e a [[lobivar-matos|Lobivar de Matos]]. A iniciativa partiu do envio de poemas pelo escritor Eneo da Nóbrega, da [[ube-ms|UBE-MS]] e da [[apec|Associação Pantaneira de Escritores]].[^ce2026]
 
 [^raido2020]: Wandir de Mello Júnior e Lucilene Machado Garcia Arf, ["A literatura como monumento: o cotidiano da fronteira na obra de Pedro de Medeiros"](https://ojs.ufgd.edu.br/Raido/article/view/10655), *Raído*, Dourados, UFGD, v. 14, n. 34, jan./abr. 2020, p. 23-24, 30 e 32. Acesso em 4 nov. 2026.
 [^raido2020b]: Wandir de Mello Júnior e Lucilene Machado Garcia Arf, ["A literatura como monumento: o cotidiano da fronteira na obra de Pedro de Medeiros"](https://ojs.ufgd.edu.br/Raido/article/view/10655), *Raído*, Dourados, UFGD, v. 14, n. 34, jan./abr. 2020, p. 23 e 36 (referências). Acesso em 4 nov. 2026.

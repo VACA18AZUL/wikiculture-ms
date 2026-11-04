@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 Segundo o *Campo Grande News*, é natural de Rio Verde, cidade a 207 quilômetros da capital, e vem de uma família de instrumentistas, a maioria de banda militar. Começou a se interessar por música por volta dos 13 anos. Em 2013, tinha 37 anos e era servidor público lotado na [[banda-municipal-maestro-ulisses-conceicao|Banda Municipal de Campo Grande Maestro Ulisses Conceição]].[^cgn2013]
 
-Passou 17 anos tocando em bares e casas noturnas, nas bandas Lilás, Realce, Nova Era, Só para Contrariar, Company e D'stak e com a cantora Lya Maio. Fez aberturas de shows de Alexandre Pires, Beth Carvalho, Adriana Ribeiro e É o Tchan. Em 2013, também tocava em casamentos, festas e coquetéis.[^cgn2013]
+Passou 17 anos tocando na noite, nas bandas Lilás, Realce, Nova Era, Só para Contrariar, Company e D'stak e com a cantora Lya Maio. Fez aberturas de shows de Alexandre Pires, Beth Carvalho, Adriana Ribeiro e É o Tchan. Em 2013, também tocava em casamentos, festas e coquetéis.[^cgn2013]
 
 O primeiro CD, *Rajiv do Sax, o som campo-grandense*, foi feito com recursos do Fundo Municipal de Incentivo à Cultura (Fmic), com músicas antigas, canções internacionais, boleros e mambo. Ao divulgá-lo numa rádio, cerca de cinco anos antes da reportagem de 2013, notou que o público reagia mais aos ritmos regionais, o que orientou o disco seguinte.[^cgn2013]
 
