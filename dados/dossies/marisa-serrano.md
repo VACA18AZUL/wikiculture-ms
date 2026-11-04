@@ -43,3 +43,7 @@
 ## Uso no verbete
 
 - Entrou: formação, magistério, secretaria de Educação (contexto), comissões de cultura, livros didáticos, ASL. Ficou de fora: data exata de nascimento, missões oficiais, cargos não culturais.
+
+## Revisão de 2026-11-04 (valn-15)
+
+- Retirados do verbete a Secretaria de Educação (1980-1982), a participação em comissões e frentes parlamentares e a menção a "ex-senadora" (regra da onda: de políticos da ASL, só a atuação literária/cultural).

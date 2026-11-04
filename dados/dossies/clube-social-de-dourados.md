@@ -42,3 +42,15 @@ Fonte única. Busca aberta (clube social Dourados 1953 / tombamento / TUD) não 
 ## Não confirmado
 
 - Se o prédio foi demolido; o que existe hoje no terreno. "Ilton Antunes da Silva" pode ou não ser o mesmo de ilton-silva: não ligado.
+
+## Atualização de 2026-11-04 (r4-2)
+
+Fonte nova (outra instituição e outro tipo de estudo; também se apoia em O Progresso, mas é pesquisa distinta):
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| rodrigues | Letícia dos Santos Rodrigues, *Discursos de representação da mulher no jornal O Progresso da década de 1950*, dissertação (PPGL), UFGD, 2023 (depósito no repositório em 15 mar. 2024), p. 20 e quadros de análise | https://repositorio.ufgd.edu.br/jspui/handle/prefix/6191 (PDF: /jspui/bitstream/prefix/6191/1/LeticiadosSantosRodrigues.pdf) | sim |
+
+O que mudou: acrescentado parágrafo (nos anos 1950): O Progresso de 21 abr. 1953 destacou o clube como orgulho da cidade; sede frequente de festas e comemorações; uso restrito à elite, com citação de Ernandes (2009, p. 66: o clube procurou reunir os cidadãos mais ilustres, que podiam comprar o título). O texto não dá a data de inauguração nem a doação do terreno: esses fatos seguem só em pinto. Os quadros da dissertação listam também uma matéria de 1953 sobre o clube e um desfile de modelos no clube (jan.; ano não conferido), não usados.
+
+Buscas sem resultado: BDTD ("Clube Social de Dourados"), Correio do Estado, A Crítica, UFMS, FCMS. Pista ainda aberta: ERNANDES, Mercolis A., *A construção da identidade douradense: 1920 a 1990* (2009), citado por rodrigues; e a dissertação de Musculini sobre a área central de Dourados (UFGD, handle prefix/193), cujo PDF não terminou de baixar a tempo.

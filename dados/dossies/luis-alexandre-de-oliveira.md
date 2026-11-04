@@ -52,3 +52,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Fora: origem familiar, deficiência visual, causa da morte (dados pessoais/saúde), detalhes da carreira política e jurídica. Verbete centrado em ASL, autobiografia, escolas e doação da sede.
+
+## Revisão de 2026-11-04 (valn-15)
+
+- Divergência nova: o histórico da ASL diz que ele doou a casa "em vida"; Amaya (2018, p. 74) cita Castro (2012), segundo o qual o imóvel residencial foi deixado à ASL em testamento. As duas versões entraram no verbete.
+- Ano de *O mundo que eu vi*: Amaya dá 1986 na introdução e nas referências, mas 1995 em um trecho do capítulo 2 (p. 43). O verbete manteve 1986.
+- "Político" saiu da frase de abertura (regra da onda: de políticos/juristas da ASL, só a atuação cultural).

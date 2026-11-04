@@ -18,6 +18,8 @@ O clube foi inaugurado num baile de carnaval em 14 de fevereiro de 1953. Aral Mo
 
 Nos anos 1950 e 1960, o Social foi o principal espaço de sociabilidade das classes média e alta da cidade. Uma reportagem de 1984, citada por Pinto, lembra que em seu palco aconteceram os primeiros festivais de música de Dourados e concursos de calouros transmitidos ao vivo pela Rádio Clube de Dourados. Com a abertura do Clube Indaiá, nos anos 1970, a elite deixou de frequentá-lo; em 1984, o prédio estava arrendado para uma discoteca.[^pinto]
 
+Uma dissertação da UFGD sobre o jornal *O Progresso* nos anos 1950 registra que a edição de 21 de abril de 1953 deu destaque ao clube, apresentado como orgulho da cidade e fruto da cooperação da população. A autora afirma que o clube foi sede frequente de festas e comemorações, mas que só a elite douradense usufruía de sua estrutura: cita outro estudo, de Ernandes (2009), segundo o qual o clube reunia como sócios os cidadãos que podiam comprar o título.[^rodrigues]
+
 Em 1978, o professor [[wilson-biasotto|Wilson Biasotto]] foi demitido da universidade, e o TUD, que ele dirigia e que ensaiava no anfiteatro do Centro Universitário de Dourados, passou a ensaiar e se apresentar no clube, que tinha palco e camarim.[^pinto]
 
 ## Movimento pelo tombamento
@@ -27,3 +29,4 @@ A proposta de tombamento partiu do Centro Acadêmico de Letras de Dourados, da e
 O Movimento Independente Pró-Tombamento reuniu professores universitários, estudantes, sócios e artistas, fez abaixo-assinados e, em 1º de maio de 1985, levou artistas a pintar o muro da Escola Municipal Joaquim Murtinho, entre eles Ilton Antunes da Silva, Mary Slessor, Sônia Giraldi e Alcir de Souza, o Cisinho. Em 2 de outubro de 1986, *O Progresso* noticiou a venda do imóvel, em cujo terreno seria construído um edifício. O centro cultural não foi construído.[^pinto]
 
 [^pinto]: Maiara Laís Pinto, ["O patrimônio histórico-cultural de Dourados em tempos de transformação social e urbana: uma análise através do movimento de preservação do clube social de Dourados (1984-1986)"](https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548953098_59cd1dc4e2d1b63952ffd250d008ee5e.pdf), anais de simpósio da ANPUH, p. 6-11. Acesso em 4 nov. 2026.
+[^rodrigues]: Letícia dos Santos Rodrigues, [*Discursos de representação da mulher no jornal O Progresso da década de 1950*](https://repositorio.ufgd.edu.br/jspui/handle/prefix/6191), dissertação de mestrado, Universidade Federal da Grande Dourados, 2023, p. 20. Acesso em 4 nov. 2026.

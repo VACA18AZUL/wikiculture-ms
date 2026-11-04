@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Estudou em Campo Grande, no Grupo Escolar Joaquim Murtinho, no Colégio Oswaldo Cruz e no Ginásio Dom Bosco, e em Niterói, no Colégio Salesiano Santa Rosa. Formou-se em Direito.[^asl2011]
+Estudou no Grupo Escolar Joaquim Murtinho, no Colégio Oswaldo Cruz, no Ginásio Dom Bosco, de Campo Grande, e no Colégio Salesiano Santa Rosa, em Niterói. Formou-se em Direito.[^asl2011]
 
 Em Campo Grande, foi tabelião e escrivão do Cartório do 5º Ofício, em substituição temporária. Depois foi delegado de polícia, delegado especial do sul do estado e juiz de direito nas comarcas de Miranda e de Aquidauana, até ser promovido a desembargador do Tribunal de Justiça de Mato Grosso, antes da divisão do estado.[^asl2011]
 

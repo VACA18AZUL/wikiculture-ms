@@ -44,3 +44,7 @@
 ## Uso no verbete
 
 - Verbete titulado "O Formoso (curta-metragem)". O `npm run conferir` avisa que roberto-leite.md deve listar [[formoso-curta|...]] na Filmografia: o item *Formoso* já existe lá sem link; cabe ao responsável por roberto-leite trocar por "- *[[formoso-curta|O Formoso]]* — curta-metragem de ficção, 13 min; direção.[^selecionados]" e, se quiser, acrescentar a nota cgn2022.
+
+## Revisão de 2026-11-04 (valn-15)
+
+- "Filmado em Campo Grande" trocado por "ambientado no bairro Dom Antônio Barbosa": a matéria de 2022 não diz a cidade da filmagem com essas palavras. Retirada a frase sobre o que as matérias de 2024 não dizem.

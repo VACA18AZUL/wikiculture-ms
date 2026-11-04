@@ -35,3 +35,7 @@
 ## Uso no verbete
 
 - Política só como contexto, com fonte; foco na obra literária e histórica.
+
+## Revisão de 2026-11-04 (valn-15)
+
+- Retirado do verbete o parágrafo sobre mandatos parlamentares e o "ex-deputado" do resumo (regra da onda: de políticos da ASL, só a atuação literária/cultural). A divergência sobre os mandatos fica registrada acima, só neste dossiê. A própria página da ASL, na seção "Atuação política", dá ainda deputado estadual (MDB) por MT na legislatura 1975-1978.

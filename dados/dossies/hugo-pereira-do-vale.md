@@ -50,3 +50,7 @@ Descartada/pendente: discurso de posse na Academia Mato-Grossense de Letras (Cui
 ## Uso no verbete
 
 - Entrou tudo acima, com a homenagem dita como programada.
+
+## Revisão de 2026-11-04 (valn-15)
+
+- A lista de cadeiras da ASL só enumera os ocupantes anteriores (Hugo Pereira do Vale, Frei Gregório de Protásio Alves); "foi sucedido por" saiu por ser dedução de ordem.

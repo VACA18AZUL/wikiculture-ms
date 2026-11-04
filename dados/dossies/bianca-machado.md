@@ -44,3 +44,17 @@ Fontes descartadas: busca por "A Casa das Sete Portas" não achou o curta em out
 ## Uso no verbete
 
 - Tudo entrou. Fontes do mesmo veículo (CGN); merece segunda fonte.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fontes novas (outro veículo: Correio do Estado; achadas pela busca do site por "As Marias" e "Vípuxovoku"):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| ce2023 | "Dannon Lacerda fala sobre 'As Marias', seu primeiro curta documental", Correio do Estado, 4 maio 2023 | https://correiodoestado.com.br/correio-b/2023/05/04/dannon-lacerda-fala-sobre-as-marias-seu-primeiro-curta-documental.html | sim |
+| ce2025 | "Filme indígena de MS é selecionado em festival de cinema da América Latina", Correio do Estado, 9 abr. 2025 | https://correiodoestado.com.br/correio-b/2025/04/09/filme-indigena-de-ms-e-selecionado-em-festival-de-cinema-da-america-latina.html | sim |
+
+Reforço independente: ce2023 é entrevista própria com o diretor (data e texto distintos do CGN de 28 maio 2023) e confirma que Bianca Machado, residente em Corumbá, assina a produção de *As Marias*, com equipe de MS. ce2025 confirma a produção de *Vípuxovoku* (ficha: direção de produção, Bianca Machado; produção, Corixo Produções) e a seleção no 34º Curta Cinema (23 a 30 abr. 2025). A ce2025 pode partir do mesmo material de divulgação do CGN de 10 abr. 2025; por isso o item *Vípuxovoku* conta como reforço de divulgação, e *As Marias* como reforço independente.
+Lida sem menção: Correio do Estado, 13 jan. 2026 (Mostra Cinema de Sala, Corumbá): trata de outro cineclube (Cinema de Sala), sem relação com o Macaco da Noite.
+Curta Cinema (curtacinema.com.br): página inicial abriu, mas a busca do filme devolveu redirecionamento; não lida.
+Continuam só no CGN de 2024: Cineclube Macaco da Noite (criação, 14 abr. 2022), vínculo com a Cia. Maria Mole e o Conselho Nacional de Cineclubes, e o curta *A Casa das Sete Portas*.

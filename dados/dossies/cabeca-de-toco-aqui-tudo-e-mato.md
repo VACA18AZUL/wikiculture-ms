@@ -57,3 +57,7 @@ Sugestão para os verbetes renata-leoni, marcos-mattos, febraro-de-oliveira e ro
 ## Uso no verbete
 
 - Tudo acima, com sessões ditas como programadas.
+
+## Revisão de 2026-11-04 (valn-15)
+
+- "Coletivo de Campo Grande" trocado por "criado em Mato Grosso do Sul pela Associação Arado Cultural" (acritica2026a); nenhuma fonte chama a Arado de coletivo de Campo Grande.
