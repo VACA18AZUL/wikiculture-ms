@@ -20,8 +20,8 @@ O artigo de Gregorio Galvão de Albuquerque, publicado na revista *Avanca | Cine
 ## Exibições e prêmios
 
 - Indicado ao prêmio de melhor curta-metragem documentário do Grande Prêmio do Cinema Brasileiro de 2016, da Academia Brasileira de Cinema. O vencedor da categoria foi *Uma Família Ilustre*, de Beth Formaggini.[^uai2016]
-- Melhor Filme Sul-Mato-Grossense no 1º [[bonito-cinesur|Bonito CineSur]], em 2023.[^cgn2023]
-- Exibido em 12 de setembro de 2024 pelo [[cineclube-macaco-da-noite|Cineclube Macaco da Noite]], no Hotel Virgínia, em Corumbá, numa sessão de quatro curtas.[^cgn2024]
+- Melhor Filme Sul-Mato-Grossense no 1º [[bonito-cinesur|Bonito CineSur]], em 2023. A mesma lista de premiados dá esse título também a [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]], sem indicar o júri de cada prêmio.[^cgn2023]
+- Programado pelo [[cineclube-macaco-da-noite|Cineclube Macaco da Noite]] para uma sessão de quatro curtas em 12 de setembro de 2024, no Hotel Virgínia, em Corumbá, anunciada um dia antes pelo *Campo Grande News*.[^cgn2024]
 
 ## Ficha técnica
 

@@ -2,7 +2,7 @@
 titulo: Circuito Dança do Mato
 tipo: evento
 areas: [danca]
-resumo: Circuito de dança promovido em 2007 pelo governo de MS e pela Fundação de Cultura, em comemoração aos 30 anos do estado, com passagem por cinco cidades; voltou a Três Lagoas em 2008; o Correio do Estado noticiou a 3ª edição em 2010.
+resumo: Circuito de dança criado em 2007 pela Fundação de Cultura de MS, que comemorou os 30 anos do estado em 2007 com passagem por cinco cidades; esteve em Três Lagoas em 2008, e o Correio do Estado noticiou a 3ª edição em 2010.
 ficha:
   Edições citadas: "2007; 2008 (Três Lagoas); 2010 (3ª edição, segundo o Correio do Estado)"
   Realização: Governo de MS, por meio da Fundação de Cultura

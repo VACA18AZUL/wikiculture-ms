@@ -27,3 +27,10 @@
 ### O que mudou no verbete
 
 Seção "Edição de 2008", resumo e ficha; abertura ajustada (parceria com a prefeitura era da etapa local).
+
+## Atualização de 2026-11-04 (reforço, tag r-2)
+
+- Aberta e lida: Redação, Correio do Estado, 21 out. 2010, "Terra de Dourados será utilizada em espetáculo de dança" (https://correiodoestado.com.br/correio-b/terra-de-dourados-sera-utilizada-em-espetaculo-de-danca/80747/). Veículo independente do site da prefeitura de Três Lagoas. Sustenta: o projeto "foi criado em 2007 pela FCMS", para valorizar e difundir a dança sul-mato-grossense; "3ª edição do Circuito Dança no Mato", oito grupos em dez municípios, em 2010; Funk-se em Três Lagoas, em 23 out. 2010, 20h, Ginásio Cacilda Acre Rocha, com "Frágil ou o sentido da ruptura". Não sustenta a lista de grupos nem a comemoração dos 30 anos do estado de 2007.
+- Divergência de contagem registrada no verbete: 2008 foi "segunda vez" que Três Lagoas recebeu o evento; em 2010 o Correio do Estado fala em 3ª edição do circuito. Pode ser a mesma contagem se 2009 não houve, ou contagens distintas (do circuito x da cidade); não se sabe. Registrar em `observacoes` da lista-mestra.
+- Também apareceu na busca: UEMS ENIC "Artes cênicas e dança" (https://anaisonline.uems.br/index.php/enic/article/view/4504/4524) e um PDF da UEMS (2017-08-29): não abertos (conexão recusada); possível fonte acadêmica.
+- treslagoas.ms.gov.br/?p=11738 aparece na busca, mas é o mesmo site da prefeitura: não conta como independente.

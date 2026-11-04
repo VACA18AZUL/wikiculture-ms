@@ -15,11 +15,12 @@ A **Fundação da Cultura de Corumbá** é o órgão por meio do qual o municíp
 
 ## Atividades
 
-Em abril de 2025, a fundação promoveu o evento "ABril Livro". A programação incluiu as apresentações do [[grupo-ubu|Grupo Ubu]] que abriram, em Corumbá, o projeto do grupo de circular por 12 cidades. A presidente disse à reportagem que trazer o grupo à cidade era uma forma de fortalecer a cultura local.[^cgn2025]
+Em abril de 2025, a fundação promoveu o evento "ABril Livro". Segundo o *Campo Grande News*, as apresentações do [[grupo-ubu|Grupo Ubu]] marcadas para 7 e 8 de abril no Moinho Cultural, que abririam em Corumbá o projeto do grupo de circular por 12 cidades, faziam parte do evento. A presidente disse à reportagem que trazer o grupo à cidade era uma forma de fortalecer a cultura local.[^cgn2025]
 
 Em agosto de 2026, o Diário Oficial de Corumbá publicou o Edital de Chamamento Público 01/2026/PNAB/FCC – Cultura Viva, aberto pelo município por intermédio da fundação. O edital previa premiar 12 iniciativas de Pontos e Pontões de Cultura, com R$ 195 mil repassados pelo Ministério da Cultura por meio da Política Nacional Aldir Blanc. Os prêmios eram de R$ 20 mil para entidades com constituição jurídica e de R$ 15 mil para coletivos informais. A inscrição podia ser feita na sede da fundação, na Rua Dom Aquino, no Centro.[^edital2026]
 
-O edital traz o nome do órgão em duas formas: "Fundação da Cultura de Corumbá" e "Fundação de Cultura de Corumbá".[^edital2026]
+O edital traz o nome do órgão em duas formas: "Fundação da Cultura de Corumbá" e "Fundação de Cultura de Corumbá".[^edital2026] Em setembro de 2024, o *Campo Grande News* chamou de Fundação da Cultura e do Patrimônio Histórico de Corumbá, vinculada à Secretaria Municipal de Governo, o órgão que gerenciava o edital da Lei Paulo Gustavo no município.[^cgn2024]
 
 [^cgn2025]: Thailla Torres, ["Grupo UBU leva teatro popular para 12 cidades e começa por Corumbá"](https://www.campograndenews.com.br/lado-b/diversao/grupo-ubu-leva-teatro-popular-para-12-cidades-e-comeca-por-corumba), *Campo Grande News*, 7 abr. 2025. Acesso em 4 nov. 2026.
+[^cgn2024]: Thailla Torres, ["Cineclube anuncia oficinas pela retomada do cinema em Corumbá"](https://www.campograndenews.com.br/lado-b/diversao/cineclube-anuncia-oficinas-pela-retomada-do-cinema-em-corumba), *Campo Grande News*, 11 set. 2024. Acesso em 4 nov. 2026.
 [^edital2026]: Município de Corumbá, ["Edital de Chamamento Público 01/2026/PNAB/FCC – Cultura Viva"](https://corumba.ms.gov.br/public/uploads/galeria/2026/CULTURA/EDITALPONTAOCULTURA/EDITAL%20CHAMAMENTO%20P%C3%9ABLICO%20012026PNABFCC%20%E2%80%93%20CULTURA%20VIVA.pdf), *DIOCORUMBÁ*, ed. 3.439, 18 ago. 2026. Acesso em 4 nov. 2026.
