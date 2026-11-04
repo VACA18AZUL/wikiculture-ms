@@ -36,3 +36,7 @@ Descartadas: Correio 30 jun. 2023 (Tributo a Bob Marley) e 18 ago. 2023 (Luau Re
 ## Uso no verbete
 
 - Idade de Diego Manciba e depoimentos do público ficaram de fora.
+
+## Atualização de 2026-11-04
+
+- Revisão sem correções. Pista extra lida: FCMS, "Fundação de Cultura divulga selecionados para o projeto Som da Concha", 4 ago. 2020, lista "Rocker Sound System" em 19º lugar (suplente) no Show de Abertura de 2020; grafia diferente, não entrou no verbete.

@@ -34,3 +34,7 @@ Descartadas: Correio 4 jul. 2009 (oficina de Chico Simão sem citar o grupo).
 ## Uso no verbete
 
 - Depoimentos do público e de aluna ficaram de fora.
+
+## Atualização de 2026-11-04
+
+- Revisão: a nota correio2024 estava apoiando "fundado e dirigido por Chico Simão", mas a matéria não cita Chico Simão; trocada por correio2025 ("comandado pelo mestre Chico Simão") e FCMS 2025. A grafia BojoMalê (CE 2009 e 2024) ganhou frase própria com nota.

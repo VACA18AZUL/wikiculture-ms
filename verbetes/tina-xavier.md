@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2016, a Fundação de Cultura de MS a apresentava como professora do curso de Pedagogia da UFMS, mestre e doutora em Educação pela UFMS e pela Faculdade de Educação da USP.[^fcms2016a] Segundo a UFMS, o trabalho com cinema nasceu de uma pesquisa que ela coordenou em 2010 sobre livros infantis brasileiros que tratam de sexualidade e gênero. Daí veio a ideia de produzir materiais com as próprias crianças, entre eles a personagem Camuela, a Princesa Pantaneira.[^ufms2017]
+Em 2016, a Fundação de Cultura de MS a apresentava como professora do curso de Pedagogia da UFMS, mestre e doutora em Educação (UFMS e FEUSP).[^fcms2016a] Segundo a UFMS, o trabalho com cinema nasceu de uma pesquisa que ela coordenou em 2010 sobre livros infantis brasileiros que tratam de sexualidade e gênero. Daí veio a ideia de produzir materiais com as próprias crianças, entre eles a personagem Camuela, a Princesa Pantaneira.[^ufms2017]
 
 O projeto de extensão Brincar de fazer cinema com crianças, que ela coordena, começou em 2010 e produz animações com alunos do ensino fundamental de escolas municipais. As crianças escolhem o tema e participam do roteiro, dos personagens e dos cenários.[^ufms2018][^ufms2021] Em 2020, o projeto somava 12 filmes.[^ufms2020a]
 

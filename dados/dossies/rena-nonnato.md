@@ -44,3 +44,9 @@
 ## Uso no verbete
 
 - Entrou: tudo acima, com as duas grafias.
+
+## Acréscimo (Campo Grande News)
+
+- cgn2024: Aletheya Alves, "Teatro do Mundo terá show de música brasileira instrumental com Ivan Cruz", CGN, 15 jun. 2024 — duo Borba Nonnato anunciado na abertura do show de Ivan Cruz, 16 jun. 2024, Teatro do Mundo. Entrou.
+- cgn2025: Thailla Torres, "Amigos criam projeto que conecta tradição pantaneira e eletrônico", CGN, 3 jul. 2025 — Renã Nonnato na gaita no EP Electrosounds (BLX). Entrou.
+- cgn2026: Thailla Torres, "Semana do Artesão começa hoje com feira, oficinas e shows gratuitos", CGN, 18 mar. 2026 — Duo Borba Nonnato às 19h30 de 18/03. Entrou.

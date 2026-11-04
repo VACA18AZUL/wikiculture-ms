@@ -5,6 +5,7 @@ areas: [danca]
 cidade: Campo Grande
 resumo: Grupo de dança de salão de Campo Grande ligado à UFMS; circulou pelo Circuito Dança no Mato em 2016, dançou no Festival de Inverno de Bonito em 2017 e criou o espetáculo Términus.
 ficha:
+  Fundação: "2006"
   Gênero: "Dança de salão"
   Vínculo: "UFMS"
 status: rascunho
@@ -15,11 +16,13 @@ O **Grupo Bailah** é um grupo de dança de salão de Campo Grande, descrito pel
 
 ## Trajetória
 
+Segundo a UFMS, o professor Marcelo Victor da Rosa fundou o grupo em 2006, como projeto de extensão da universidade, e reúne sobretudo estudantes do curso de Educação Física.[^ufms2015]
+
 Em abril de 2008, o *Correio do Estado* anunciou o Grupo Bailah, da UFMS, com o espetáculo "É o que tem pra hoje" no [[sesc-teatro-prosa|Teatro Prosa]], do Sesc Horto, em Campo Grande.[^ce2008]
 
-Em maio de 2015, o grupo dançou na mostra de dança da [[semana-pra-danca|Semana pra Dança]], no Teatro Aracy Balabanian, ao lado de outros grupos da capital.[^fcms2015b]
+Em maio de 2015, o grupo dançou na mostra de dança da [[semana-pra-danca|Semana pra Dança]], no Teatro Aracy Balabanian, ao lado de outros grupos da capital.[^fcms2015b] Em agosto do mesmo ano, ficou em segundo lugar na categoria dança de salão conjunto adulto do Prêmio Desterro, no 6º Festival de Dança de Florianópolis, com a coreografia *Com. Tempo. Tango*, de Leonardo Borges Jardim. A universidade citava então os espetáculos *Velado* e *É o que tem pra hoje*.[^ufms2015]
 
-O Bailah esteve no [[circuito-danca-do-mato|Circuito Dança no Mato]], projeto de circulação da Fundação de Cultura pelo interior. Em 7 de outubro de 2016, apresentou-se em Terenos com o Grupo Conexão Urbana e o Studio Mayara Martins. Segundo a fundação, as coreografias, construídas desde 2013 pelo grupo e colaboradores, tratavam de estilos da dança de salão.[^fcms2016a][^fcms2016b]
+O Bailah esteve no [[circuito-danca-do-mato|Circuito Dança no Mato]], projeto de circulação da Fundação de Cultura pelo interior; em 2016, ficou em primeiro lugar na categoria coreografias do edital do projeto.[^ufms2016a] Em 7 de outubro de 2016, apresentou-se em Terenos com o Grupo Conexão Urbana e o Studio Mayara Martins. Segundo a fundação, as coreografias, construídas desde 2013 pelo grupo e colaboradores, tratavam de estilos da dança de salão.[^fcms2016a][^fcms2016b] Em dezembro daquele ano, a UFMS anunciou o espetáculo *É o que tem pra sempre* para o dia 20, no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^ufms2016b]
 
 Na programação do [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]] de 2017, dançou na comunidade quilombola Águas de Miranda, numa manhã de sábado.[^fcms2017a][^fcms2017b] No mesmo ano, foi selecionado para a mostra aberta do [[festival-danca-tres|Festival Dança Três]], em Três Lagoas.[^fcms2017c]
 
@@ -28,9 +31,14 @@ O espetáculo *Términus*, sobre encontros e desencontros de personagens criados
 ## Espetáculos
 
 - "É o que tem pra hoje" (2008) — anunciado no Teatro Prosa.[^ce2008]
+- *Velado* — citado pela UFMS em 2015.[^ufms2015]
+- *É o que tem pra sempre* (2016) — anunciado no Teatro Glauce Rocha.[^ufms2016b]
 - *Términus* (2018) — 46 minutos; selecionado para a 12ª Semana pra Dança.[^fcms2018a][^fcms2018b]
 
 [^ce2008]: ["Grupo Bailah se apresenta no Teatro Prosa"](https://correiodoestado.com.br/cidades/2008/04/26/grupo-bailah-se-apresenta-no-teatro-prosa.html), *Correio do Estado*, 26 abr. 2008. Acesso em 4 nov. 2026.
+[^ufms2015]: ["Grupo Bailah é premiado em Festival de Florianópolis"](https://www.ufms.br/grupo-bailah-e-premiado-em-festival-de-florianopolis/), *UFMS*, 31 ago. 2015. Acesso em 4 nov. 2026.
+[^ufms2016a]: ["Grupo Bailah é selecionado em 1º lugar na categoria 'coreografias' para Projeto Circuito Dança no Mato 2016"](https://www.ufms.br/grupo-bailah-e-selecionado-em-primeiro-lugar-na-categoria-coreografias-para-projeto-circuito-danca-no-mato-2016/), *UFMS*, 19 abr. 2016. Acesso em 4 nov. 2026.
+[^ufms2016b]: ["Grupo Bailah apresenta: 'É o que tem pra sempre'"](https://www.ufms.br/grupo-bailah-apresenta-e-o-que-tem-pra-sempre/), *UFMS*, 12 dez. 2016. Acesso em 4 nov. 2026.
 [^fcms2015a]: Fundação de Cultura de Mato Grosso do Sul, ["Centro Cultural oferece Curso de Dança de Salão direcionado para pessoas tímidas"](https://www.fundacaodecultura.ms.gov.br/centro-cultural-oferece-curso-de-danca-de-salao-direcionado-para-pessoas-timidas/), 1 abr. 2015. Acesso em 4 nov. 2026.
 [^fcms2015b]: Fundação de Cultura de Mato Grosso do Sul, ["Público lota teatro Aracy Balabanian no segundo dia de apresentações da Semana Pra Dança"](https://www.fundacaodecultura.ms.gov.br/publico-lota-teatro-aracy-balabanian-no-segundo-dia-de-apresentacoes-da-semana-pra-danca/), 18 maio 2015. Acesso em 4 nov. 2026.
 [^fcms2016a]: Fundação de Cultura de Mato Grosso do Sul, ["Fundação de Cultura leva a Terenos o Circuito Dança no Mato com espetáculos de graça"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-leva-a-terenos-o-circuito-danca-no-mato-com-espetaculos-de-graca/), 5 out. 2016. Acesso em 4 nov. 2026.

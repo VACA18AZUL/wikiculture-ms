@@ -53,3 +53,7 @@ Fonte única continua sendo Diehl (UFMS, 2009). Buscas por Alexandre Couto, Rein
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS sem resultado. Continua com fonte única (dissertação de Diehl).
+
+## Atualização de 2026-11-04
+
+- Segunda fonte independente buscada e não achada. Onde: API FCMS ("Colorcouto", "Vingança Maldita", "Marca do Destino", "Alexandre Couto", "Aljor"), API RCN67, API A Crítica. A FCMS (28/3/2016, pré-estreia de "Questão de Honra"; 10/6/2020, CineMato) fala do grupo de Alexandre Couto e dos seis filmes, sem citar a Colorcouto nem os títulos; não serve a este verbete.

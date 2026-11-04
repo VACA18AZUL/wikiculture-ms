@@ -54,3 +54,11 @@ Wikipédia: sem artigo.
 ## Uso no verbete
 
 - Tudo acima; a apresentação de 2018 fica como programada.
+
+## Atualização de 2026-11-04 (validação valn-25)
+
+- Reforço: notícias do portal da UFMS (busca interna "bailah"), lidas nesta sessão:
+  - ufms2015, "Grupo Bailah é premiado em Festival de Florianópolis", 31 ago. 2015, https://www.ufms.br/grupo-bailah-e-premiado-em-festival-de-florianopolis/ : criado em 2006 pelo professor Marcelo Victor da Rosa; projeto de extensão (Pró-reitoria de Extensão, Cultura e Assuntos Estudantis); integrantes sobretudo do curso de Educação Física; 2º lugar no Prêmio Desterro, 6º Festival de Dança de Florianópolis (26 a 30 ago. 2015), dança de salão conjunto adulto, coreografia "Com. Tempo. Tango", de Leonardo Borges Jardim; espetáculos Velado e É o que tem pra hoje; 23 integrantes.
+  - ufms2016a, 19 abr. 2016: 1º lugar na categoria coreografias do edital do Circuito Dança no Mato 2016 (FCMS).
+  - ufms2016b, 12 dez. 2016: espetáculo "É o que tem pra sempre" anunciado para 20 dez. 2016, Teatro Glauce Rocha.
+- A UFMS é a instituição do grupo (fonte não totalmente independente do grupo), mas é independente da FCMS. Outras notícias da UFMS (seleção masculina, 2017) não usadas.

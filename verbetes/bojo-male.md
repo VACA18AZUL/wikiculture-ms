@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Bojo Malê**, também grafado BojoMalê, é um grupo de percussão de Campo Grande, fundado e dirigido por [[chico-simao|Chico Simão]].[^fcms2025][^correio2024]
+O **Bojo Malê** é um grupo de percussão de Campo Grande, fundado e dirigido por [[chico-simao|Chico Simão]].[^fcms2025][^correio2025] A grafia BojoMalê aparece no *Correio do Estado*.[^correio2009][^correio2024]
 
 ## Trajetória
 
