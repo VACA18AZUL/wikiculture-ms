@@ -48,3 +48,7 @@ Fontes descartadas: duas buscas abertas ("Los Tammy's" com Pedro Juan Caballero/
 ## Validação de 2026-11-04 (valn-10b)
 
 - Frases reescritas (formação em formato de lista com parênteses; "interior paraguaio"); pioneirismo "no país e em Mato Grosso".
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN, API do O Estado MS (nada), RSS do Google Notícias ("Los Tammys"). Pistas fortes, não lidas: Ponta Porã em Dia, "ESPECIAL - Los Tammys fez parte da história de Ponta Porã durante décadas" (https://www.pontaporaemdia.com.br/noticia/17335/especial-los-tammys-fez-parte-da-historia-de-ponta-pora-durante-decadas; 403 por curl e WebFetch, sem cópia no archive.org) e Midiamax, "Na família Dela Sierra, o amor pela música agrega e o talento passa de pai para filho" (https://midiamax.com.br/midiamais/2015/na-familia-dela-sierra-o-amor-pela-musica-agrega-e-o-talento-passa-de-pai-para-filho/; 403). Nada mudou.

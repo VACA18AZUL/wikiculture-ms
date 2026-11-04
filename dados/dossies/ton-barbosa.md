@@ -30,3 +30,11 @@
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Cores e Vias"), A Crítica ("Ton Barbosa"), O Estado Online ("Ton Barbosa"), site da Prefeitura de Campo Grande ("Cores e Vias"): sem resultado. Fonte única (Campo Grande News, duas matérias). Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas abertas e lidas (achadas pela API do O Estado MS, busca "Ton Barbosa"):
+- Raiane Carneiro (texto de Ellen Prudente), "Cores e Vias traz arte para as ruas da Capital", O Estado Online, 21 maio 2021 (https://oestadoonline.com.br/arte-e-lazer/cores-e-vias-traz-arte-para-as-ruas-da-capital/). Veículo diferente do CGN. Sustenta: Ton Barbosa como artista da primeira obra do Cores e Vias, no viaduto Senador Italívio Coelho; início no sábado 22 de maio; recursos da Sectur e do Sicredi; bandeira da cidade e araras a pedido de algo alegre. O motivo da escolha do viaduto (histórico de suicídios) foi resumido sem detalhar.
+- Brenda Leitte, "Arte sul-mato-grossense ganha destaque em exposição inédita no Slaviero Prime Hotel Campo Grande", O Estado Online, 23 jun. 2026. Sustenta: coletiva com Carlos Vera, Mabbi e Patricia Bissoli, abertura em 26 jun. 2026.
+- Vista e não usada: O Estado, 1 fev. 2022, sobre o viaduto da UFMS (frase ambígua sobre a autoria).
+- Pistas não lidas: CGN, "Com traços fortes e retratos, exposição do artista Ton Barbosa abre hoje", 4 jul. 2017; Midiamax, 23 jul. 2021 (bloqueado).

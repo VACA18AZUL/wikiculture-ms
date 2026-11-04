@@ -35,3 +35,10 @@ Descartadas: resultados sobre "Priscilla de Paula" da UFJF (Juiz de Fora) são o
 ## Validação de 2026-11-04 (valn-10b)
 
 - Nota passou a p. 3-4 e 51-52.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 6 jun. 2026, Carolina Rampi, "'Compreender a Marcha'...". Abertura 8/06/2026 (domingo), GAV/UFMS; retrospectiva de 15 anos; quatro séries; metade das obras inéditas em MS; primeira individual em Campo Grande desde a pandemia; formada e professora no curso de Artes Visuais da UFMS (confere); Fábulas instantâneas 2012-2014, retomada em 2023 (confere com a ouvirOUver); Inventário do intermédio desde 2015; textos de Isaac A. Camargo e Humberto Espíndola.
+- Fonte nova: O Estado MS, 11 out. 2026, Carolina Rampi, "Quase 50 anos depois da criação do Estado, o que define a arte sul-mato-grossense?" — "Priscila Pessoa", artista visual e professora da UFMS; identidade aceita pela coincidência de nome, atividade e instituição.
+- Fora: menção a maternidade e hobby.
+- Agora com três fontes independentes (Marco, ouvirOUver, O Estado).

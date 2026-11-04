@@ -57,3 +57,8 @@ Descartada: página da Pandora Film citada por Corrêa (https://www.pandorafilm.
 ## Uso no verbete
 
 - Entrou a ficha técnica de Alves, a sinopse, as locações, a participação indígena e a leitura de Galache. O verbete ademilson-kiki-concianza (de outro agente) não lista o filme em Filmografia; conferir pode avisar.
+
+## Atualização de 2026-11-04
+
+- Validação: Alves, Corrêa e Morais conferidos de novo.
+- Conferência com a Wikipédia (https://pt.wikipedia.org/wiki/Terra_Vermelha): lista Lara Fremder como coautora do roteiro (além de Bechis e Bolognesi), chama o personagem de Leonardo Medeiros de "Medeiros" (Alves: "Lucas Moreira") e grafa "Irineu". Fica fora do verbete até haver fonte aberta (a Wikipédia cita CinePlayers, G1, Cinética e Omelete).

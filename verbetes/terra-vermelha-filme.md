@@ -29,11 +29,11 @@ A descoberta de duas jovens indígenas enforcadas leva um grupo a deixar a reser
 
 ## Elenco indígena
 
-Alves lista no elenco Abrisio da Silva Pedro (Osvaldo), Ademilson Concianza Verga (Ireneu), Ambrósio Vilhalva (Nadio), Fabiane Pereira da Silva (Maria) e Eliane Juca da Silva (Mami).[^alves2012] Corrêa grafa o sobrenome do líder kaiowá da Terra Indígena Guyraroká como Vilhalba e diz que ele fez o papel principal e viajou pela Europa com o filme. [[abrisio-da-silva-pedro|Abrísio da Silva Pedro]], da Terra Indígena Panambizinho, passou pelas oficinas de preparação, fez um dos papéis principais e também viajou para o lançamento na Europa.[^correa2023]
+Alves lista no elenco Abrisio da Silva Pedro (Osvaldo), Ademilson Concianza Verga (Ireneu, grafado Irineu na descrição das cenas), Ambrósio Vilhalva (Nadio), Fabiane Pereira da Silva (Maria) e Eliane Juca da Silva (Mami).[^alves2012] Corrêa grafa o sobrenome do líder kaiowá da Terra Indígena Guyraroká como Vilhalba e diz que ele fez o papel principal e viajou pela Europa com o filme. [[abrisio-da-silva-pedro|Abrísio da Silva Pedro]], da Terra Indígena Panambizinho, passou pelas oficinas de preparação, fez um dos papéis principais e também viajou para o lançamento na Europa.[^correa2023]
 
 ## Recepção
 
-O realizador terena [[gilmar-galache|Gilmar Galache]], citado por Corrêa, aponta *Terra Vermelha* como o momento, em 2008, em que produtoras começaram a procurar o audiovisual indígena. Em sua dissertação, Galache afirma que boa parte dos atores indígenas principais teve problemas depois da exposição nos festivais.[^correa2023]
+O realizador terena [[gilmar-galache|Gilmar Galache]], citado por Corrêa, aponta *Terra Vermelha* como o momento, em 2008, em que produtoras começaram a procurar o audiovisual indígena. Em trecho da dissertação de Galache reproduzido por Corrêa, o realizador afirma que boa parte dos atores indígenas principais teve problemas depois da exposição nos festivais.[^correa2023]
 
 ## Ficha técnica
 
@@ -46,6 +46,6 @@ O realizador terena [[gilmar-galache|Gilmar Galache]], citado por Corrêa, apont
 
 - [Dissertação de Maria Helena Benites Alves (UFMS, 2012)](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/1968) — análise do filme cena a cena.
 
-[^alves2012]: Maria Helena Benites Alves, [*Análise da representação dos índios Kaiowá e Guarani no cinema: filme Terra Vermelha*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/1968), dissertação (Mestrado em Estudos de Linguagens), Universidade Federal de Mato Grosso do Sul, 2012, p. 8, 10, 86-89. Acesso em 4 nov. 2026.
+[^alves2012]: Maria Helena Benites Alves, [*Análise da representação dos índios Kaiowá e Guarani no cinema: filme Terra Vermelha*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/1968), dissertação (Mestrado em Estudos de Linguagens), Universidade Federal de Mato Grosso do Sul, 2012, p. 8, 10 e 86-89. Acesso em 4 nov. 2026.
 [^correa2023]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, p. 95, 104, 114, 123 e 193. Acesso em 4 nov. 2026.
 [^morais2013]: Kênide de Souza Morais, [*"O meu rap está apenas começando": juventude e sustentabilidade cultural na Reserva Indígena de Dourados-MS*](https://repositorio.unb.br/bitstream/10482/15041/1/2013_KenideSouzaMorais.pdf), artigo científico de mestrado profissional, Universidade de Brasília, 2013, p. 43 e 54. Acesso em 4 nov. 2026.

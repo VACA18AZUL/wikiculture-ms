@@ -42,3 +42,9 @@ Descartadas: listas de seleção do Som da Concha (2016, 2017, 2021); postagem d
 ## Uso no verbete
 
 - Entrou o bloco de fatos, com anúncios marcados como anúncios.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 23 abr. 2025, Amanda Ferreira, "Banda prata da casa divide palco com ícone do rock alternativo norte-americano". Formação Leotta (teclado e órgão), Perim (baixo), Bo Loro (bateria); garage rock, influência do punk de Nova York dos anos 1970; amizade com Evan Dando desde 2023 (show solo dele no "Teatro Mundo"); demo gravada em 2023 no Estúdio 45, prevista para álbum solo de Dando; show conjunto anunciado para 24/04/2025 no Pizza Pub (anúncio, realização não confirmada); projeto FMIC para o 1º álbum com vinil, recursos atrasados.
+- Fora: convite para casamento de Dando (vida privada de terceiro).
+- Ligeira diferença de funções: FCMS dá Perim na voz e contrabaixo, Leotta no piano e teclado; O Estado, Perim no baixo e Leotta no teclado e órgão. Compatíveis.

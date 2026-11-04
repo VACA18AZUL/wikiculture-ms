@@ -40,3 +40,7 @@ De fora: o "maestro Bibi do Cavaco" que regeu a Orquestra Corumbaense de Viola C
 | unidos-da-vila-carvalho | integrou | fcms2024 |
 | gideao-dias | colaborou-com | fcms2024 |
 | ms-ao-vivo | apresentou-em | fcms2024 |
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 28 maio 2025, Carolina Rampi, "Campo Grande celebra a música com lançamento da Confraria do Choro de Mato Grosso do Sul". Encontro de Chorões e Choronas, sábado 31/05/2025, 12h, Escritório Bar Cultural, lançamento da Confraria do Choro do MS com o Iphan; atrações Quinteto Virgisanta, Som Que Chora, Samba Choro e Bibi do Cavaco. Confirma o anúncio já registrado pelo CGN; segue sendo anúncio (realização não confirmada).

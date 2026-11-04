@@ -48,3 +48,10 @@ Observação: a matéria do Campo Grande News segue o mesmo texto de divulgaçã
 ## Atualização de 2026-11-04
 
 - Busca de segunda fonte independente: Google Notícias (RSS) achou só o Campo Grande News (05/10/2024) e o Diário Digital (03/10/2024), ambos com o texto da FCMS. Diário Corumbaense e site da Prefeitura de Corumbá não abriram (erro de proxy e de certificado). Fonte única na prática (release da FCMS).
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: "UBE-MS divulga agenda do Clube Literário 2026...", *O Estado MS*, 6 mar. 2026 (https://oestadoonline.com.br/arte-e-lazer/ube-ms-divulga-agenda-do-clube-literario-2026-com-oficinas-bate-papos-e-clubes-do-livro/), lida pela API. Origem diferente da FCMS (agenda da UBE-MS), sem assinatura; provável base em divulgação da UBE.
+- Acrescentado: bate-papo sobre literatura epistolar (7 mar. 2026, com Tânia Souza e Samuel Medeiros) e clube do livro sobre o romance (18 abr. 2026). Grafia do título na agenda: *Das Saudades Que Sinto* (sem "eu"); registrada no verbete.
+- Lidas, não citadas: agendas do *Campo Grande News* de 4 out. 2024 (Murilo Medeiros) e 5 out. 2024 (Idaicy Solano), que chamam o romance de "terceiro livro" da autora; repetem o release.
+- Ressalva: livros, datas e trajetória continuam apoiados no release da FCMS.

@@ -17,11 +17,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Formou-se em Ciências Biológicas na UFMS e fez especialização em biologia nas Faculdades Integradas de São Gonçalo. Participou do [[grupo-alec-corumba|grupo ALEC]], da Sociedade Ecológica Amigos do Pantanal (SEAPAN), da Associação de Biólogos de Corumbá e da União Brasileira de Escritores.[^bezerra2024][^ecoa2007]
+Cursou Ciências Biológicas na UFMS e fez especialização em biologia nas Faculdades Integradas de São Gonçalo. Participou do [[grupo-alec-corumba|grupo ALEC]], da Sociedade Ecológica Amigos do Pantanal (SEAPAN), da Associação de Biólogos de Corumbá e da União Brasileira de Escritores.[^bezerra2024][^ecoa2007]
 
-Em texto autobiográfico publicado em *Três vozes a mais* (1981) e citado por Caroline Ferreira Brizon Bezerra, conta que escrevia desde os 12 anos e publicava em jornais da cidade. Na época de *Flor de camalote*, era professora de biologia na Escola Salesiana de Santa Tereza e colunista do jornal *Diário da Manhã*. Foi vice-presidente da SEAPAN e diretora do Núcleo Cultural Português em Corumbá.[^bezerra2024]
+Em texto autobiográfico publicado em *Três vozes a mais* (1981) e citado por Caroline Ferreira Brizon Bezerra, conta que escrevia desde os 12 anos e publicava em jornais da cidade. Segundo Bezerra, no período de *Flor de camalote* (1987) a autora relata que dava aulas de biologia na Escola Salesiana de Santa Tereza e mantinha coluna no jornal *Diário da Manhã*. Bezerra registra ainda que ela foi vice-presidente da SEAPAN e diretora do Núcleo Cultural Português em Corumbá.[^bezerra2024]
 
-Conviveu e atuou com o poeta [[benedito-c-g-lima|Benedito C. G. Lima]] e outros escritores corumbaenses, que se reuniam nas casas dos poetas, segundo o texto final de *Vates do Pantanal*.[^bezerra2024]
+Segundo Bezerra, conviveu e atuou com o poeta [[benedito-c-g-lima|Benedito C. G. Lima]] no meio literário de Corumbá. Na mensagem final de *Vates do Pantanal* (1989), citada pela pesquisadora, a autora lembra as reuniões culturais nas casas dos poetas.[^bezerra2024]
 
 ## Poesia
 
@@ -39,7 +39,7 @@ Bezerra, que estudou sua obra em dissertação de mestrado em Estudos Fronteiri�
 
 ## Homenagens
 
-Em 14 de maio de 1995 foi fundada em Corumbá, no bairro Jardim dos Estados, a Escola Municipal Ângela Maria Pérez.[^bezerra2024] Em 2007, a ONG Paz, Natureza e Pantanal (PNP) criou o [[premio-angela-maria-perez|Prêmio Ângela Maria Pérez]], voltado a projetos educativos sobre a natureza e a cultura pantaneira em escolas de Corumbá e Ladário, e um selo dos Correios com sua imagem. Lançado na Semana do Meio Ambiente, o prêmio teria o vencedor anunciado em 15 de outubro de 2007, Dia do Professor.[^ecoa2007][^bezerra2024]
+A Escola Municipal Ângela Maria Pérez, no bairro Jardim dos Estados, em Corumbá, foi fundada em 14 de maio de 1995.[^bezerra2024] Em 2007, a ONG Paz, Natureza e Pantanal (PNP) instituiu o [[premio-angela-maria-perez|Prêmio Ângela Maria Pérez]], voltado a projetos educativos sobre a natureza e a cultura pantaneira em escolas de Corumbá e Ladário, e a homenageou com um selo dos Correios com sua imagem. Lançado na Semana do Meio Ambiente, o prêmio teria o vencedor anunciado em 15 de outubro de 2007, Dia do Professor.[^ecoa2007][^bezerra2024]
 
-[^bezerra2024]: Caroline Ferreira Brizon Bezerra, [*Construções identitárias às margens do Paraguai: uma análise da poesia fronteiriça de Benedito C.G. Lima e Ângela Maria Pérez*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13234), dissertação (Mestrado em Estudos Fronteiriços), Universidade Federal de Mato Grosso do Sul, Campus do Pantanal, Corumbá, 2024, p. 17, 57-62, 85-89 e 125. Acesso em 4 nov. 2026.
+[^bezerra2024]: Caroline Ferreira Brizon Bezerra, [*Construções identitárias às margens do Paraguai: uma análise da poesia fronteiriça de Benedito C.G. Lima e Ângela Maria Pérez*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13234), dissertação (Mestrado em Estudos Fronteiriços), Universidade Federal de Mato Grosso do Sul, Campus do Pantanal, Corumbá, 2024, p. 17, 20-21, 57-62, 69-70, 85-89 e 124-125. Acesso em 4 nov. 2026.
 [^ecoa2007]: ["Um belo resgate: história de professora pantaneira que virou prêmio"](https://ecoa.org.br/historia-de-professora-pantaneira-vira-selo-e-premio/), *Ecoa*, 13 ago. 2007 (republicado em 13 abr. 2020). Acesso em 4 nov. 2026.

@@ -17,7 +17,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Rosário Congro** foi um escritor, advogado e político ligado ao sul do antigo Mato Grosso, que viveu em Corumbá, Campo Grande e Três Lagoas. Escreveu poesia e prosa e publicou, em 1919, o primeiro relato histórico sobre a fundação de Campo Grande.[^cgms]
+**Rosário Congro** foi um escritor, advogado e político ligado ao sul do antigo Mato Grosso, com atuação em Corumbá, Campo Grande e Três Lagoas. Escreveu poesia e prosa e publicou, em 1919, o primeiro relato histórico sobre a fundação de Campo Grande.[^cgms]
 
 ## Trajetória
 
@@ -25,7 +25,7 @@ Segundo o site *Campo Grande MS*, nasceu em São Paulo em 10 de setembro de 1884
 
 Como intendente, fez publicar em 1919 o livro *O Município de Campo Grande – Estado de Matto Grosso*, cujo capítulo inicial, escrito por ele, narra a fundação da cidade a partir de apontamentos de descendentes de José Antônio Pereira e de depoimentos de moradores antigos. O site o chama, por isso, de primeiro historiador da cidade.[^cgms]
 
-Em 1980, Congro prefaciou a reedição de *Cirros*, livro de estreia de [[flora-thome|Flora Thomé]]. No prefácio, destacou a feitura moderna e a simplicidade dos versos.[^souza2008b]
+Segundo Souza, a reedição de 1980 de *Cirros*, livro de estreia de [[flora-thome|Flora Thomé]], saiu com prefácio de Congro, que destaca a feitura moderna e a simplicidade dos versos.[^souza2008b]
 
 ## Poesia
 

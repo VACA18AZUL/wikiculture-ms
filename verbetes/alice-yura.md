@@ -3,7 +3,7 @@ titulo: Alice Yura
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: Artista visual e performer nascida em Aparecida do Taboado em 1990; criou e curou o Festival IPêrformático, de Campo Grande, e tem obra no acervo do Marco.
+resumo: Artista visual e performer nascida em Aparecida do Taboado em 1990; criou e curou o Festival IPêrformático e, em 2026, foi a primeira artista de MS com individual na Pinacoteca de São Paulo.
 ficha:
   Nascimento: "1990, Aparecida do Taboado (MS)"
   Atividade: "Performance, fotografia, instalação, curadoria"
@@ -25,11 +25,15 @@ Em 2019, o *Correio do Estado* a apresentou como idealizadora e curadora do [[fe
 
 Em abril de 2024, esteve entre os mais de 30 artistas da coletiva *Entrosamento*, no Centro Cultural.[^fcms2024]
 
+Em 2026, apresentou a individual *Um ato fotográfico* na Galeria Praça do edifício Pina Contemporânea, da Pinacoteca de São Paulo, com encerramento previsto para 13 de setembro. Segundo *O Estado de Mato Grosso do Sul*, foi a primeira artista de Mato Grosso do Sul a fazer uma individual no museu. A mostra parte de arquivos herdados, fotografias, documentos e objetos, e trata de memória, ancestralidade, imigração e papéis de gênero; incluiu um estúdio fotográfico aberto à participação do público e oficinas gratuitas conduzidas por ela. O curador Thierry Freitas disse que a Pinacoteca havia adquirido uma obra dela para o acervo dois ou três anos antes. Na série *Resta de Carnaval*, segundo a artista, ela propõe um novo imaginário sobre as histórias de pessoas trans, em diálogo com a iconografia da arte ocidental.[^oestado2026]
+
 ## Obras
 
 - *Com e Sem?* — fotoinstalação; acervo do Marco desde 2014.[^pivo]
 - *Nem Eva, nem Maria* (2018) — performance.[^fcms2018]
 - *Anatomia Feminina* — performance; apresentada no Marco em 2019.[^fcms2019b]
+- *Um ato fotográfico* (2026) — exposição individual; Pina Contemporânea, Pinacoteca de São Paulo.[^oestado2026]
+- *Resta de Carnaval* — série; exibida na Pinacoteca em 2026.[^oestado2026]
 
 [^pivo]: Pivô, ["Alice Yura"](https://pivo.org.br/en/?p=15599), biografia de participante (em inglês), atualizada em 20 fev. 2024. Acesso em 4 nov. 2026.
 [^ce2019]: Redação, ["Com performances proibidas, tem IPêrformático hoje e amanhã"](https://correiodoestado.com.br/correio-b/2019/04/13/com-performances-proibidas-tem-iperformatico-hoje-e-amanha.html), *Correio do Estado*, 13 abr. 2019. Acesso em 4 nov. 2026.
@@ -37,3 +41,4 @@ Em abril de 2024, esteve entre os mais de 30 artistas da coletiva *Entrosamento*
 [^fcms2019a]: Fundação de Cultura de Mato Grosso do Sul, ["Centro Cultural abre inscrições para oficinas gratuitas do Festival IPêrformático"](https://www.fundacaodecultura.ms.gov.br/centro-cultural-abre-inscricoes-para-oficinas-gratuitas-do-festival-iperformatico/), 29 mar. 2019. Acesso em 4 nov. 2026.
 [^fcms2019b]: Fundação de Cultura de Mato Grosso do Sul, ["Capital recebe o festival 'IPêrformático – capítulo II: E se não houver luz no fim do túnel?'"](https://www.fundacaodecultura.ms.gov.br/capital-recebe-o-festival-iperformatico-capitulo-ii-e-se-nao-houver-luz-no-fim-do-tunel/), 5 abr. 2019. Acesso em 4 nov. 2026.
 [^fcms2024]: Fundação de Cultura de Mato Grosso do Sul, ["Centro Cultural promove exposição coletiva com trabalhos de artistas visuais sul-mato-grossenses"](https://www.fundacaodecultura.ms.gov.br/centro-cultural-promove-exposicao-coletiva-com-trabalhos-de-artistas-visuais-sul-mato-grossenses/), 17 abr. 2024. Acesso em 4 nov. 2026.
+[^oestado2026]: ["Artista de MS leva exposição para a Pinacoteca de São Paulo em feito único"](https://oestadoonline.com.br/arte-e-lazer/artista-de-ms-leva-exposicao-para-a-pinacoteca-de-sao-paulo-em-feito-unico/), *O Estado de Mato Grosso do Sul*, 17 abr. 2026. Acesso em 4 nov. 2026.

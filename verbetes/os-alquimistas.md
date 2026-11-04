@@ -28,6 +28,8 @@ O trio abriu o [[som-da-concha|Som da Concha]] de 21 de agosto de 2016, na [[con
 
 ## Anos 2020
 
+Em abril de 2025, *O Estado de Mato Grosso do Sul* descreveu o trio como banda de garage rock influenciada pelo punk nova-iorquino dos anos 1970, com Leotta no teclado e órgão, Perim no baixo e Bo Loro na bateria. Segundo a matéria, a relação com o norte-americano Evan Dando, vocalista dos Lemonheads, começou em 2023, quando ele fez show solo em Campo Grande; no mesmo ano, gravaram juntos no Estúdio 45 uma demo de letra de Dando, prevista para entrar num disco solo dele. Para 24 de abril de 2025, foi anunciado um show conjunto no Pizza Pub, na Rua 14 de Julho. A banda tinha então projeto aprovado no Fundo Municipal de Investimentos Culturais para gravar o primeiro álbum, com prensagem em vinil, à espera da liberação dos recursos.[^oestado2025]
+
 Em novembro de 2025, a Fundação anunciou Os Alquimistas na abertura dos shows de 20 anos de [[dimitri-pellz|Dimitri Pellz]] em Corumbá, Campo Grande e Dourados.[^fcms2025] Em 2026, o grupo gravava o primeiro álbum com o produtor Anderson Rocha, com recursos do Fundo Municipal de Investimentos Culturais de Campo Grande, e apresentou o processo a alunos da UFMS.[^acritica2026a] No mesmo ano, foi anunciado com a banda Moscas de Bar num tributo a Raul Seixas no Buteco do Miau, em 27 de junho.[^acritica2026b]
 
 ## Discografia
@@ -47,3 +49,4 @@ Em novembro de 2025, a Fundação anunciou Os Alquimistas na abertura dos shows 
 [^fcms2025]: Marcio Rodrigues Breda, ["Dimitri Pellz celebra 20 anos com shows em Corumbá, Campo Grande e Dourados"](https://www.fundacaodecultura.ms.gov.br/dimitri-pellz-celebra-20-anos-com-shows-em-corumba-campo-grande-e-dourados/), *Fundação de Cultura de Mato Grosso do Sul*, 12 nov. 2025. Acesso em 4 nov. 2026.
 [^acritica2026a]: Douglas Vieira, ["Banda Os Alquimistas apresenta produção de álbum a alunos da UFMS em Campo Grande"](https://acritica.net/cultura/os-alquimistas-ufms-fmic/), *A Crítica*, 8 jun. 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Iury de Oliveira, ["Tributo a Raul Seixas reúne Moscas de Bar e Os Alquimistas no Buteco do Miau"](https://acritica.net/cultura/tributo-raul-seixas-buteco-do-miau-campo-grande/), *A Crítica*, 26 jun. 2026. Acesso em 4 nov. 2026.
+[^oestado2025]: Amanda Ferreira, ["Banda prata da casa divide palco com ícone do rock alternativo norte-americano"](https://oestadoonline.com.br/arte-e-lazer/banda-prata-da-casa-divide-palco-com-icone-do-rock-alternativo-norte-americano/), *O Estado de Mato Grosso do Sul*, 23 abr. 2025. Acesso em 4 nov. 2026.

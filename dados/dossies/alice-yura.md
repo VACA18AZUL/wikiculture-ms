@@ -39,3 +39,8 @@
 ## Uso no verbete
 
 - Tudo da lista de fatos.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 17 abr. 2026, "Artista de MS leva exposição para a Pinacoteca de São Paulo em feito único" (sem autor no texto). Natural de Aparecida do Taboado (confere); "Um ato fotográfico" em cartaz na Galeria Praça, Pina Contemporânea, até 13 de setembro; primeira individual de artista de MS na Pinacoteca (afirmação da matéria); estúdio fotográfico e oficinas; curador Thierry Freitas; obra adquirida pelo acervo 2-3 anos antes (título não informado); série "Resta de Carnaval". Data de abertura não informada.
+- A matéria traz a identidade de gênero da artista em declaração dela sobre a obra; o verbete descreve só o tema da série, sem rotular a pessoa.

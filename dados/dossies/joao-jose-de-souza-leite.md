@@ -30,3 +30,7 @@ Descartadas: CGN sobre o documentário (2016) e obituário de Cândido Alberto d
 ## Uso no verbete
 
 - Tudo acima entrou.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 48 e 51: grafa "José de Souza Leite" entre os fundadores da Siriema Filmes (com Guizzo e Cândido, o mesmo trio de Marin e Pereira); na p. 51, citando Duncan (2006), "Silvino Jacques" em parceria com "João José". A coincidência dos cofundadores sustenta que é a mesma pessoa; a grafia diferente fica registrada no verbete.

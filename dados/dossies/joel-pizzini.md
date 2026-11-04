@@ -55,3 +55,10 @@ Fonte nova: Cid Nogueira Fidelis, *Cinema Guarani e Kaiowá: um estudo sobre a c
 
 - Acrescentado: oficineiro não indígena das oficinas de audiovisual do Ava Marandu (fev.-abr. 2010), ao lado de Mauricio Copette (grafia da tese) e dos indígenas Ivã Molina e Gilmar Galache.
 - A tese não detalha em quais aldeias Pizzini atuou.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, cap. em *Filmando em Mato Grosso do Sul*, Ed. UFGD), p. 51-53 e 55: chama Pizzini de "douradense" (p. 51 e 55), o que diverge do nascimento no Rio de Janeiro (Correio do Estado): as duas versões no verbete. Caramujo Flor de 1988, elenco, prêmios (nota 19); assistente de Silvio Back em *Guerra do Brasil* (1985) e *O País dos Tenentes* (1987); *Enigma de um dia* (1996); *500 Almas* realizado em 2005.
+- Vicelli (UFMS, 2008), p. 9-14 do PDF: Caramujo-flor produzido em 1988, 21 min, roteiro com fragmentos de poemas de Manoel de Barros, filmado no RJ e em Bonito, Corumbá e Pantanal; Colón de Oro. Cita também *Enigma de um dia*, *Glauces: estudo de um rosto* e *Anabasys* (não acrescentados à filmografia sem ano).
+- Fidelis (UFMS, 2015), p. 72 e 120 do PDF: *500 Almas* estreia em 2004 (diverge de Neves, 2005); ministrante das oficinas de cinema do Ava Marandu (fev.-abr. 2010).
+- Divergências registradas no verbete: ano de Caramujo-Flor (1989 × 1988); ano de 500 Almas (2005 × 2004); cidade (Rio de Janeiro × "douradense").

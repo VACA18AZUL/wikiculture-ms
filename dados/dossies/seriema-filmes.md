@@ -53,3 +53,7 @@ Fontes descartadas e o motivo:
 - Corrigido: Página corrigida.
 - Corrigido: Linha `cidade` removida.
 - Atenção: Direção de *Conceição dos Bugres*: Fonseca (Diehl) x Guizzo (Marin e Pereira) — registrada no texto.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 48 e 50: grafia "Siriema Filmes Ltda"; fundadores José Octávio Guizzo, "José de Souza Leite" e Cândido Alberto da Fonseca; filme *Universidade Federal de Mato Grosso do Sul: 10 Anos* (sem ano); Conceição dos Bugres (1980), direção de Cândido, premiado no Festival de Brasília.

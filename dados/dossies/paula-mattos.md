@@ -33,3 +33,8 @@ Onda w22-4, 4 nov. 2026. Fontes abertas e lidas nesta sessão.
 ## Não confirmado
 
 - Divergência com a Wikipédia: o artigo diz que ela saiu de Campo Grande em 2014 para Londrina, a convite de Thaeme e Thiago; o CGN de 2015 diz que ela morava havia cinco anos em São Paulo. A Wikipédia também dá data de nascimento e título 'Acústico' (Warner) para o DVD: não conferidos em fonte aberta; ficaram fora. Carreira de 2016 em diante (álbuns, A Fazenda, Billboard 2026) não pesquisada.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 30 nov. 2020, "Cantora campo-grandense é uma das mais tocadas no Spotify". Nascida em Campo Grande (confere); cantava em bares; primeiro show profissional em Campo Grande em 17/01/2016; hits "Que Sorte a Nossa", "Namorado Bloqueia", "A Vida Pede"; parcerias com Marília Mendonça, Maiara e Maraisa, Lucas Lucco, Munhoz e Mariano, Dilsinho, Matheus e Kauan; "Namorado Bloqueia" lançado em 30/10/2020; parceiros de composição Marco Aurélio e Silmara Nogueira. Idade omitida.
+- Possível tensão: o CGN dá o DVD lançado em abril de 2015, e a cantora fala em "primeiro show" profissional em janeiro de 2016. Não é contradição necessária (DVD gravado antes do lançamento da carreira solo); registrado aqui.

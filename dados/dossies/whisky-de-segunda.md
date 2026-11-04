@@ -69,3 +69,7 @@ Divergências registradas no verbete:
 - Origem dos dois integrantes no curso de Arquitetura (CGN 2026): sem segunda fonte.
 Fora do verbete: tema do clipe *Crying Like I Never Cried Before* (violência sexual; só título, data, direção e participação); site da banda (whiskydesegunda.com.br) citado na matéria de 2022, não aberto.
 Larissa Neves: nome sem ligação a [[larissa-neves]] (identidade com a cineasta da lista-mestra não provada pelas matérias).
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 22 maio 2021, Ellen Prudente, "Após 18 anos em banda, músico encara carreira solo com projeto digital". Jefferson Rosa Pasa, guitarrista, compositor e fundador da Whisky de Segunda, 18 anos de estrada; projeto solo Little Jeff (vídeos pela Wee Two Films, de Larissa Neves e Breitner Dambroz; "Vintage Poker Blues"). Idade e outra profissão omitidas.

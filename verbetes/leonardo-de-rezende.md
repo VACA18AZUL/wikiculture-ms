@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 Começou na música pelo piano, ainda criança. Estudou com professores como [[evandro-higa|Evandro Higa]] e Nillo Cunha e depois no Conservatório Lorenzo Fernandez. Formou-se na Escola de Música e Belas Artes do Paraná (Embap), onde foi aluno dos pianistas Carlos Yanssen e Olga Kiun e recebeu a bolsa Dieuwertje Meijer.[^oe2026]
 
-A partir de 2017, passou a trabalhar com regência coral e atuou com o Coro Sinfônico da Orquestra Sinfônica de Sergipe. Como pianista, acompanha cantores e instrumentistas e trabalha como correpetidor de coros. De volta a Campo Grande, atua nos coros do curso de Música da [[ufms|UFMS]] e coordena os projetos Vozes Pantaneiras e Vozes Comunidade.[^oe2026]
+A partir de 2017, passou a trabalhar com regência coral e atuou com o Coro Sinfônico da Orquestra Sinfônica de Sergipe. Como pianista, acompanha cantores e instrumentistas e trabalha como correpetidor de coros. De volta a Campo Grande, trabalha com os coros ligados ao curso de Música da [[ufms|UFMS]] e coordena os projetos Vozes Pantaneiras e Vozes Comunidade.[^oe2026]
 
 À frente do Coro Vozes Pantaneiras, tinha a regência do concerto *Uma Noite com Vozes*, de música sacra, da série *Catedral dos Sons*, anunciado para 16 de maio de 2026 numa igreja do bairro Guanandi.[^oe2026] Em julho de 2026, o *Campo Grande News* informou que a audição de novos coralistas do grupo, marcada para 31 de julho, seria conduzida pelos professores e por ele.[^cgn2026b] Em setembro do mesmo ano, o jornal anunciou para 3 de outubro, no Espaço Cultural Chico Xavier, o concerto *Entre Fronteiras e Canções*, sob sua regência, em homenagem aos 49 anos de Mato Grosso do Sul.[^cgn2026c]
 

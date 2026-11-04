@@ -44,3 +44,7 @@ Descartadas: Wikipédia (pt), artigo "Rosário Congro" — sem notas, serve só 
 ## Uso no verbete
 
 - Entrou tudo acima. Ficaram fora nomes de familiares (Wikipédia) e o patrono da cadeira da AML.
+
+## Revisão de 2026-11-04
+
+- Souza (p. 84) diz que a reedição de *Cirros* de 1980 "foi prefaciada por Rosário Congro"; o site campograndems.net dá a morte de Congro em 1963. O prefácio provavelmente é anterior e foi reproduzido na reedição (uma nota do *Diário de São Paulo* reproduzida na orelha já cita o prefácio), mas nenhuma fonte lida diz isso. O verbete passou a dizer só que a reedição de 1980 "saiu com prefácio de Congro".

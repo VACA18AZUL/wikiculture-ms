@@ -42,3 +42,11 @@ Observação: a única fonte fora da FCMS é o Correio do Estado de 2015, cujo t
 ## Atualização de 2026-11-04
 
 - Validação valn-37a: buscas no Campo Grande News (buscar?q=Sônia Corrêa) e na API do O Estado MS sem resultado sobre a artista. Segue fonte única de origem (FCMS; o Correio do Estado 2015 reproduz o release).
+
+## Atualização de 2026-11-04 (r8)
+
+- Fontes novas (busca interna do *Campo Grande News*, reportagens próprias):
+  - Thailla Torres, "Artista plástica revela memórias de infância através de pinturas e esculturas", 20 maio 2019: mostra no Espaço Energia (abertura 21 maio 2019, três meses), formação em Mogi das Cruzes, esculturas em osso bovino, óleo sobre tela. Título da mostra não informado.
+  - Jéssica Fernandes, "De família talentosa, Sônia exibe Pantanal através da cerâmica", 11 out. 2023: nome "Sônia Costa Corrêa", natural de Aquidauana; pastel seco, óleo, acrílica, depois osso (28 anos); cerâmica desde 2018; curso de arte em osso em Jardim; selo Made in Pantanal (Sebrae). Identificação com a mesma artista: Aquidauana, mesma sequência de técnicas, formação em Educação Artística.
+- Divergência leve: osso "a partir de 1996" (FCMS/Correio) x "28 anos" de trabalho com osso até cerca de 2018 (CGN 2023). As duas versões ficam no verbete.
+- Fora (dados pessoais): idade, família (bisavô fundador de Aquidauana, avó, parentes artistas), motivo de saúde do fim do trabalho com osso, perfil pessoal de Instagram (não conferido como profissional).

@@ -18,6 +18,8 @@ Estudou no CLAM (Centro Livre de Aprendizagem Musical), escola do Zimbo Trio. Se
 
 No Prata da Casa de 1982 apresentou "Horizonte", de Iso Fischer, [[paulo-simoes|Paulo Simões]] e dele.[^cae12] Em dezembro de 1987 participou do [[pantanal-alerta-brasil-lp|Pantanal Alerta Brasil]], no Museu da Imagem e do Som de São Paulo, e produziu o registro das apresentações, lançado em disco.[^cae12][^caeufgd] Em 1988 apareceu no programa *Som Brasil*, da Rede Globo, com [[celito-espindola|Celito Espíndola]], [[antonio-porto|Antonio Porto]] e [[joao-figar|João Fígar]], cantando "Paiaguás", dele e de Paulo Simões.[^caeufgd]
 
+Em agosto de 2022, uma canção sua foi tocada por [[gabriel-sater|Gabriel Sater]], no papel de Xeréu Trindade, em capítulo do remake da novela *Pantanal*, da TV Globo. Segundo *O Estado de Mato Grosso do Sul*, a cena o citou pelo nome, e ele agradeceu a homenagem nas redes sociais.[^oestado2022]
+
 Segundo *A Crítica*, tem mais de cinco décadas de carreira e teve músicas gravadas por Nana Caymmi, Ivan Lins, César Camargo Mariano e Salvador Sobral.[^acritica]
 
 ## Discografia
@@ -28,3 +30,4 @@ Segundo *A Crítica*, tem mais de cinco décadas de carreira e teve músicas gra
 [^acritica]: Iury de Oliveira, ["Guilherme Rondon lança novo álbum em show no Sesc Teatro Prosa, em Campo Grande"](https://acritica.net/cultura/guilherme-rondon-lanca-album-cade-cade-em-show-no-sesc-teatro-prosa/), *A Crítica*, 2 abr. 2026. Acesso em 29 out. 2026.
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99 (Rondon: p. 91-94). Acesso em 29 out. 2026.
 [^caeufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 119-120 e discografia. Acesso em 29 out. 2026.
+[^oestado2022]: ["Compositor do Estado é homenageado em cena de Pantanal"](https://oestadoonline.com.br/arte-e-lazer/compositor-do-estado-e-homenageado-em-cena-de-pantanal/), *O Estado de Mato Grosso do Sul*, 12 ago. 2022. Acesso em 4 nov. 2026.

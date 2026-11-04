@@ -3,7 +3,7 @@ titulo: Virgílio Miranda
 tipo: pessoa
 areas: [musica]
 cidade: Corumbá
-resumo: "Músico natural de Corumbá, com formação em canto lírico, regência, piano, teatro e violão clássico. Em 2018, formou com o violonista Joel Mendes o Duo Mendes-Miranda."
+resumo: "Músico natural de Corumbá que estudou canto lírico, regência, piano, teatro e violão clássico. Em 2018, formou com o violonista Joel Mendes o Duo Mendes-Miranda."
 ficha:
   Atividade: "Músico e professor"
   Grupos: "Duo Mendes-Miranda"
@@ -11,11 +11,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Virgílio Miranda** é músico natural de Corumbá. Em 2025, a Fundação de Cultura de MS informou que ele tinha 20 anos de atuação na música e formação em canto lírico, regência, piano, teatro e violão clássico.[^fcms2025]
+**Virgílio Miranda** é músico natural de Corumbá. Em 2025, a Fundação de Cultura de MS informou que ele atuava havia 20 anos na música e tinha estudado canto lírico, regência, piano, teatro e violão clássico.[^fcms2025]
 
 ## Trajetória
 
-Em 2018, formou com o violonista [[joel-mendes-violonista|Joel Mendes]] o Duo Mendes-Miranda, que, segundo a Fundação de Cultura de MS, se destacou em festivais de música de câmara. Para 9 de julho de 2025, a fundação anunciou no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande, um recital gratuito dos dois, com obras de Heitor Villa-Lobos e Manuel de Falla em versão para violão e participação da soprano Luciana Fisher e do violoncelista Valério Reis. O recital foi uma realização de Virgílio.[^fcms2025]
+Em 2018, formou com o violonista [[joel-mendes-violonista|Joel Mendes]] o Duo Mendes-Miranda, que, segundo a Fundação de Cultura de MS, ganhou destaque em festivais de música de câmara. Para 9 de julho de 2025, a fundação anunciou no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande, um recital gratuito dos dois, com obras de Heitor Villa-Lobos e Manuel de Falla em versão para violão e participação da soprano Luciana Fisher e do violoncelista Valério Reis. O recital foi uma realização de Virgílio.[^fcms2025]
 
 Em dezembro de 2023, *O Estado MS* anunciou que um professor chamado Virgílio Miranda tocaria com um aluno de piano e com Valério Reis, concertino da [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]], na Cantata Natalina promovida pelo Instituto Homem Pantaneiro e pelo [[instituto-moinho-cultural-sul-americano|Instituto Moinho Cultural Sul-Americano]] no Memorial do Homem Pantaneiro, em Corumbá.[^oe2023]
 

@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Central Única das Favelas em Mato Grosso do Sul (CUFA-MS)** é a representação estadual da Central Única das Favelas (CUFA), organização não governamental que atua em favelas e periferias. Em Mato Grosso do Sul, desenvolve oficinas e eventos de cultura de rua, como rap, sarau, grafite e batalhas de rima.[^cgn2019]
+A **Central Única das Favelas em Mato Grosso do Sul (CUFA-MS)** é a representação estadual da Central Única das Favelas (CUFA), organização não governamental que atua em favelas e periferias. Em 2019, a seção de Mato Grosso do Sul informava desenvolver capacitação, cursos, oficinas culturais e ações de cultura e arte de rua, como batalhas de rimas, sarau, basquete de rua e grafite.[^cgn2019]
 
 ## Trajetória
 
@@ -20,7 +20,7 @@ Segundo relato de Charlie Peixoto, integrante do [[bro-mcs|Brô MC's]], reproduz
 
 As sedes da CUFA em Dourados e em Campo Grande foram dissolvidas em 2014. A entidade voltou ao estado em julho de 2019, com Lívia Lopes como coordenadora regional e uma equipe de oito pessoas.[^cgn2019] A primeira ação dessa fase foi o evento Streetopia, em setembro de 2019, no bairro Los Angeles, em Campo Grande, com artes de rua. Seguiram-se o Grafite nas Escolas, no bairro Parati, e a Favela Literária, que reuniu autores da periferia na Praça dos Imigrantes em 4 de novembro de 2019, Dia da Favela.[^cgn2019]
 
-Em dezembro de 2021, a CUFA informou ter atendido cerca de 30 mil pessoas em Campo Grande em dois anos, em 33 favelas, comunidades periféricas e aldeias indígenas, sobretudo com a entrega de alimentos durante a pandemia. Na área cultural, a entidade promovia os eventos Black e Tal, Favela Literária e Favela Show, com feiras, dança, música e poesia. Segundo Lívia Lopes, apresentada como artista de rua, professora e coordenadora estadual, a CUFA começou em Campo Grande e se estendeu a Ivinhema, Três Lagoas, Corumbá e Amambai.[^cgn2021]
+Em dezembro de 2021, a CUFA informou ter atendido cerca de 30 mil pessoas em Campo Grande em dois anos, em 33 favelas, comunidades periféricas e aldeias indígenas. Em meio à pandemia, a entidade entregou 46 toneladas de alimentos em 2021. Na área cultural, a entidade promovia os eventos Black e Tal, Favela Literária e Favela Show, com feiras, dança, música e poesia. Segundo o *Campo Grande News*, Lívia Lopes, apresentada como artista de rua, professora e coordenadora estadual, foi convidada pela CUFA nacional para liderar o movimento no estado; a entidade começou em Campo Grande e se estendeu a Ivinhema, Três Lagoas, Corumbá e Amambai.[^cgn2021]
 
 Em setembro de 2025, a sede da CUFA em Campo Grande recebeu oficinas do projeto Ocupa Suburbanas, de hip-hop feminino, que teve entre as ministrantes [[serena-mc|Serena MC]].[^cgn2025]
 

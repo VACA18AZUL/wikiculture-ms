@@ -57,3 +57,9 @@ Fontes descartadas e o motivo:
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: busca no Correio do Estado (sem resultado do grafiteiro) e na FCMS. A FCMS, 7 dez. 2016 (https://www.fundacaodecultura.ms.gov.br/ms-detona-mostra-internacional-de-graffiti-e-street-art-comeca-hoje/), cita "Dubmistah aka Caio Green" em show musical e "DJ Caio Creen" na programação de Campo Grande de 10/12/2016. Não está claro que seja o mesmo Caio Green do verbete (grafiteiro): não usado, não confirmado. Continua com fonte única por veículo (Campo Grande News).
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova, aberta e lida (achada pelo RSS do Google Notícias com decodificador): "Noite da Seresta retorna com show de Wanderléa e revitalização da Concha", *CG Notícias*, Prefeitura de Campo Grande, 1º ago. 2025. Informa que a nova pintura da Concha Acústica Família Espíndola, na Praça do Rádio Clube, é assinada pelo muralista Caio Green, com patrocínio da Velotex, e tema da biodiversidade pantaneira; entrega prevista para 15 de agosto de 2025. Veículo diferente do Campo Grande News. Acrescentados parágrafo na Trajetória e item em Obras.
+
+Não abertos: Midiamax (22 jul. e 11 nov. 2025, sobre o mural da Praça do Rádio) devolve desafio do Cloudflare (403) e não tem cópia no archive.org. A API do O Estado trouxe agendas de outubro de 2026 com um "DJ Caio Green" na Feira da Lagoa; homônimo possível, não usado.
