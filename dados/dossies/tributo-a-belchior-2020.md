@@ -33,3 +33,7 @@ Segunda fonte: não encontrada. Busca aberta com o organizador (Manoel Sotero, S
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas no Correio do Estado ("Belchior", "Simona") e na Fundação de Cultura de MS: nada sobre a transmissão de 26/10/2020. Segue sem confirmação da realização. Pistas: perfil de Manoel Sotero de Oliveira (Simona) no Facebook/YouTube, outros veículos de MS de out. 2020.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Simona Belchior"), API do O Estado ("Belchior": só resultados de 2026 sem relação) e RSS do Google Notícias (Simona Belchior live 2020; "Simona Oliveira"): sem resultado.

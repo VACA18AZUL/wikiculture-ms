@@ -33,3 +33,7 @@
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Galeria Art-Com", "Mara Dolzan"), BDTD ("Galeria Art-Com" OR "Mara Dolzan"; galerias de arte em Campo Grande nos anos 1980): sem resultado. Fonte única: tese de Godoi. Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN (buscar?q="Art-Com" galeria, Mara Dolzan), API do O Estado MS (Mara Dolzan), RSS do Google Notícias, portal de trabalhos da UFMS (busca só por título). Lidas no O Estado: 26 nov. 2024 (extensão da Galeria Mara Dolzan, "40 anos de história") e 8 out. 2021 (Instituto Mara Dolzan, exposição de Ary Correa Jr.). Nenhuma cita o nome Art-Com; a ligação entre a Galeria Mara Dolzan atual e a Art-Com dos anos 1980 não está provada. Nada mudou.

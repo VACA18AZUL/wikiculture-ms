@@ -56,3 +56,10 @@
 - Busca na FCMS (?s=Nonnato) e no Campo Grande News: só novos anúncios da abertura da 18ª Semana do Artesão (FCMS, 26 fev. 2026 e 17 mar. 2026). Nenhuma notícia de show realizado; não entraram.
 - Faixas do EP Electrosounds divergem: CGN 3 jul. 2025 ("Águas do Pantanal", "Terrário", "Fogo e Desejo", "Pôr do Sol") × FCMS 17 jul. 2025 ("Andorinhas", "Ondas", "Morada", "Segredo"). O verbete não lista faixas; interessa ao verbete do BLX.
 - As duas fontes do EP repetem as mesmas falas (release); contam como uma.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: Amanda Ferreira, "Duo sul-mato-grossense BLX une música eletrônica e raízes regionais...", *O Estado MS*, 28 jun. 2025 (https://oestadoonline.com.br/arte-e-lazer/duo-sul-mato-grossense-blx-une-musica-eletronica-e-raizes-regionais-em-uma-proposta-autoral-madura-e-livre-de-cliches-em-novo-ep/), lida pela API do site. Reportagem com entrevista própria de Leca Harper; independe do release reproduzido por FCMS e Campo Grande News.
+- Reforça: participação de Renã Nonnato na gaita no EP *Electrosounds* do BLX. Acrescentado: data de lançamento (29 jun. 2025) e os demais convidados.
+- Lida também: *Campo Grande News*, "Duo BLX estreia shows em bares para circular com EP Electrosounds", 17 jul. 2025 (mesma lista de convidados; não citada, repete o release da FCMS de 17 jul.).
+- Continua sem cobertura de show realizado do Duo Borba Nonnato ou de "Lírios e Delírios Pantaneiros".

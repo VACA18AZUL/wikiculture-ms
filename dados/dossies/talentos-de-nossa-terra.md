@@ -33,3 +33,7 @@ Agente: atualizador + revisor-editorial (validação, bloco val-0). Fonte única
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas na Fundação de Cultura de MS e no Correio do Estado por "Talentos de Nossa Terra", "Estúdio 104" e kits de DVD: nada pertinente (busca do Itaú Cultural devolve 403). Pistas: TV Educativa/Fundação Estadual de Rádio e TV, Diário Oficial de MS (convênios), catálogo dos DVDs.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN (buscar?q="Talentos de Nossa Terra": várias matérias, todas do próprio CGN, mesmo veículo da fonte atual; destaque para "TV Brasil Pantanal lança álbum Talentos de Nossa Terra" e editais de seleção da FCMS), API do O Estado MS e RSS do Google Notícias: nada sobre o projeto. Pista: matérias do CGN servem só como reforço do mesmo veículo; procurar Correio do Estado/Midiamax com os títulos dos editais.

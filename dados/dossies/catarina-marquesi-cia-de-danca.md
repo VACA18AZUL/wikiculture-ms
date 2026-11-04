@@ -19,3 +19,7 @@ O que mudou no verbete: autora acrescentada à nota `cgn`. Continua com fonte ú
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas no Correio do Estado ("Marquesi", "CIAD") e na Fundação de Cultura de MS: nada. Perfil de Instagram pedido por curl abre só a tela de login; não lido, não incluído. Pistas: organização do CIAD 2024 (resultados), Ginga Espaço de Dança.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas lidas (O Estado MS, veículo diferente do CGN; achadas pela API wp-json): 2 nov. 2023 (programação do Shopping Bosque dos Ipês: balé natalino dos grupos Siga e Catarina Marquesi Espaço de Dança), 9 nov. 2024 (coreografias dos grupos Reverence e Catarina Marquesi) e 24 out. 2025 ("Ballet Catarina Marquesi" na programação de 8 nov. 2025). São notas de agenda baseadas na programação do shopping (promotor do evento natalino, não da companhia). Nova seção "Apresentações". Nenhuma cita o CIAD 2024; esse ponto segue só no CGN. CGN (buscar?q=) e Google Notícias: só a matéria já citada.
