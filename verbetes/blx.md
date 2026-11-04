@@ -28,7 +28,7 @@ Em julho de 2025, o duo anunciou uma série de pocket shows em bares e no evento
 - *Feel the Night 2021* (2022) — EP; selo Cabana Music.[^cgn2021]
 - *Electrosounds* (2025) — EP, quatro faixas: "Águas do Pantanal", "Terrário", "Fogo e Desejo" e "Pôr do Sol".[^cgn2025a][^oe2025]
 
-[^cgn2021]: ["Hoje tem show de Paulo Ricardo, feiras e sarau Favelas Livres"](https://www.campograndenews.com.br/lado-b/diversao/hoje-tem-show-de-paulo-ricardo-feiras-e-sarau-favelas-livres), Thailla Torres, agenda, *Campo Grande News*, 14 maio 2022. Acesso em 4 nov. 2026.
+[^cgn2021]: Thailla Torres, ["Hoje tem show de Paulo Ricardo, feiras e sarau Favelas Livres"](https://www.campograndenews.com.br/lado-b/diversao/hoje-tem-show-de-paulo-ricardo-feiras-e-sarau-favelas-livres), agenda, *Campo Grande News*, 14 maio 2022. Acesso em 4 nov. 2026.
 [^cgn2025a]: Thailla Torres, ["Amigos criam projeto que conecta tradição pantaneira e eletrônico"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/amigos-criam-projeto-que-conecta-tradicao-pantaneira-e-eletronico), *Campo Grande News*, 3 jul. 2025. Acesso em 4 nov. 2026.
 [^cgn2025b]: Thailla Torres, ["Duo BLX estreia shows em bares para circurlar com EP Electrosounds"](https://www.campograndenews.com.br/lado-b/diversao/duo-blx-estreia-shows-em-bares-para-circurlar-com-ep-electrosounds), *Campo Grande News*, 17 jul. 2025. Acesso em 4 nov. 2026.
 [^oe2025]: ["Duo sul-mato-grossense BLX une música eletrônica e raízes regionais em uma proposta autoral, madura e livre de clichês em novo EP"](https://oestadoonline.com.br/arte-e-lazer/duo-sul-mato-grossense-blx-une-musica-eletronica-e-raizes-regionais-em-uma-proposta-autoral-madura-e-livre-de-cliches-em-novo-ep/), *O Estado MS*, 28 jun. 2025. Acesso em 4 nov. 2026.

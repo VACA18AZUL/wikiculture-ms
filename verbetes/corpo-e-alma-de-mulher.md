@@ -27,7 +27,7 @@ Carlos Rodrigo Diehl conta o filme entre os cinco títulos de ficção que Cardo
 
 ## Enredo
 
-Na sinopse de Neves, o casal Rodrigo (David Cardoso) e Aimé (Tássia Camargo) vive feliz até que Aimé fica paralítica num acidente. Rodrigo a leva para uma fazenda e contrata a enfermeira Lane (Helena Ramos), com quem se envolve; a chegada de Suzane (Zélia Martins), prima e ex-amante de Rodrigo, forma um triângulo amoroso que termina em tragédia.[^neves] O filme abre com uma epígrafe de Clarice Lispector sobre o corpo, registrada por Neves e pela Cinemateca.[^neves][^cb]
+Na sinopse de Neves, o casal Rodrigo (David Cardoso) e Aimé (Tássia Camargo) vive feliz até que Aimé fica paralítica num acidente. Rodrigo leva a esposa a uma fazenda e contrata como enfermeira Lane (Helena Ramos), com quem se envolve; a chegada de Suzane (Zélia Martins), prima e ex-amante de Rodrigo, forma um triângulo amoroso que termina em tragédia.[^neves] O filme abre com uma epígrafe de Clarice Lispector sobre o corpo, registrada por Neves e pela Cinemateca.[^neves][^cb]
 
 ## Ficha técnica
 

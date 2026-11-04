@@ -18,7 +18,7 @@ Em 2024, *O Estado de Mato Grosso do Sul* o apresentou como autor de quatro long
 
 Em 2023, gravava em Campo Grande o longa *Olhos para o Silêncio*, contemplado pelo Fundo Municipal de Investimentos Culturais (FMIC) da prefeitura. O filme cruza a história de um escritor cego e de um adolescente surdo e grafiteiro, com elenco de pessoas cegas e surdas, e tem como fio condutor o Instituto Sul-Mato-Grossense para Cegos Florivaldo Vargas (Ismac), onde parte das cenas foi gravada. Estão no elenco a atriz Conceição Leite e os atores Nivaldo Santos e Pedro Henrique. Segundo o diretor, o roteiro estava registrado na Biblioteca Nacional havia mais de 20 anos.[^correio2023]
 
-Em 2024, começou a fazer exibições gratuitas de filmes, seguidas de debate, em comunidades de Campo Grande, com a intenção de criar cineclubes nos bairros. A primeira usou um filme dele gravado no Jardim Noroeste, e a seguinte foi marcada para 27 de agosto de 2024 na Comunidade Indígena Água Funda, com o filme *Olhai o Silêncio*. O projeto era voluntário, sem apoio de edital.[^oestado2024]
+Em 2024, começou a fazer exibições gratuitas de filmes, seguidas de debate, em comunidades de Campo Grande, com a intenção de criar cineclubes nos bairros. A ideia era começar por um filme dele gravado no Jardim Noroeste; uma sessão foi marcada para 27 de agosto de 2024 na Comunidade Indígena Água Funda, com o filme *Olhai o Silêncio*. O projeto era voluntário, sem apoio de edital.[^oestado2024]
 
 ## Filmografia
 

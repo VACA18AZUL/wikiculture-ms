@@ -40,3 +40,20 @@ Buscas sem resultado: Correio do Estado ("Electrosounds", "Leca Harper", "André
 ## Uso no verbete
 
 - Verbete não redigido: só fontes da FCMS (texto de assessoria) e página da distribuidora.
+
+## Segunda fonte (d1-2, 2026-11-04)
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| cgn2025a | Thailla Torres, "Amigos criam projeto que conecta tradição pantaneira e eletrônico", Campo Grande News, 03/07/2025 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/amigos-criam-projeto-que-conecta-tradicao-pantaneira-e-eletronico | imprensa | sim |
+| cgn2025b | Thailla Torres, "Duo BLX estreia shows em bares para circurlar com EP Electrosounds", Campo Grande News, 17/07/2025 | https://www.campograndenews.com.br/lado-b/diversao/duo-blx-estreia-shows-em-bares-para-circurlar-com-ep-electrosounds | imprensa (anúncio) | sim |
+| oe2025 | "Duo sul-mato-grossense BLX une música eletrônica e raízes regionais...", O Estado MS, 28/06/2025 (com entrevista própria a Leca Harper e André X) | https://oestadoonline.com.br/arte-e-lazer/duo-sul-mato-grossense-blx-une-musica-eletronica-e-raizes-regionais-em-uma-proposta-autoral-madura-e-livre-de-cliches-em-novo-ep/ | imprensa | sim |
+| cgn2021 | Thailla Torres, agenda "Hoje tem show de Paulo Ricardo, feiras e Sarau Favelas Livres", Campo Grande News, 14/05/2022 | https://www.campograndenews.com.br/lado-b/diversao/hoje-tem-show-de-paulo-ricardo-feiras-e-sarau-favelas-livres | imprensa (agenda) | sim |
+
+- CGN e O Estado confirmam as faixas Águas do Pantanal, Terrário, Fogo e Desejo e Pôr do Sol (resolve a divergência com fcms2025b, que fica de fora). O Estado: lançamento oficial 29/06/2025.
+- cgn2021: EP "Feel the Night 2021" do Duo BLX pelo selo Cabana Music (Nik Ros), lançamento anunciado em 14/05/2022.
+- Leca Harper não foi ligada a [[leca-harper]]: nenhuma fonte diz que é a mesma pessoa (só o nome e "aka Dark Blue").
+
+## Uso no verbete (d1-2)
+
+- Verbete redigido com cgn2025a, cgn2025b, oe2025 e cgn2021. Fontes FCMS não citadas (texto de assessoria, cobertas pela imprensa). Pocket shows citados só como anúncio.
