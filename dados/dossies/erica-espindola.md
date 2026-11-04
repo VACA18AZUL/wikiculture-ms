@@ -1,0 +1,24 @@
+# Dossiê: erica-espindola
+
+## Identificação
+
+- Nome: Erica Espíndola (sem acento no "E" nas três fontes)
+- Tipo: pessoa
+- Áreas: musica
+- Cidade: Campo Grande (vive e trabalha; nascimento não dito)
+- Linha na lista-mestra: sim. Não há verbete nem linha com grafia "Érica Espíndola". Nenhuma fonte a liga à família Espíndola dos verbetes existentes; não presumir parentesco.
+
+## Fontes abertas
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| cgn2026a | Thailla Torres, CGN, 24 maio 2026 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/o-que-mudou-quando-erica-espindola-decidiu-aprender-baixo-aos-38 | imprensa | sim |
+| cgn2026b | Amanda Ferreira, CGN, 12 set. 2026 | https://www.campograndenews.com.br/lado-b/diversao/erica-espindola-celebra-15-anos-de-carreira-com-show-neste-sabado | imprensa | sim |
+| acritica2026 | A Crítica, 28 out. 2026 | https://acritica.net/cultura/documentario-sobre-mulheres-da-musica-de-ms-tera-exibicao-gratuita-em-campo-grande/ | imprensa | sim |
+
+Descartadas: CGN conteúdo patrocinado do Araruna Fest (não lido); idade omitida.
+
+## Incertezas
+
+- Nome da banda própria, discos e títulos de canções não informados. Edições anteriores de FURIOSAS! não documentadas.
+- Wikipédia: não conferida (429).

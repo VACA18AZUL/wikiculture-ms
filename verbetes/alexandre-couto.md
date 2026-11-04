@@ -36,7 +36,8 @@ Os seis títulos estudados por Diehl, com as funções de Couto segundo a ficha 
 
 Depois do ciclo estudado por Diehl, segundo o *Campo Grande News*:[^cgn-honra]
 
-- *Honra* (em produção em 2013) — longa; direção, edição e som. Roteiro de Reinaldo Dorval.[^cgn-honra]
+- [[honra-longa|*Honra*]] (2013) — longa-metragem; direção, edição e som. Roteiro de Reinaldo Dorval. Exibido no MIS em agosto de 2014.[^cgn-honra][^cgn-honra2014]
 
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009. Acesso em 29 out. 2026.
+[^cgn-honra2014]: Ângela Kempfer, ["Com estética de quem faz cinema na garra, 'Honra' será exibido hoje no MIS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-estetica-de-quem-faz-cinema-na-garra-honra-sera-exibido-hoje-no-mis), *Campo Grande News*, 20 ago. 2014. Acesso em 4 nov. 2026.
 [^cgn-honra]: Paula Maciulevicius, ["Por uma questão de 'Honra', produtores criam petição para ver filme na telona"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/por-uma-questao-de-honra-produtores-criam-peticao-para-ver-filme-na-telona), *Campo Grande News*, 10 jul. 2013. Acesso em 4 nov. 2026.

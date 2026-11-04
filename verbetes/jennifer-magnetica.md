@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-A Fundação de Cultura de MS (FCMS) diz, em 2016, que o trio foi fundado em 2007.[^fcms2016b] Segundo o jornal *A Crítica*, a história da banda começou no início dos anos 2000, na primeira turma do curso de Música da [[ufms|UFMS]]. Antes do trabalho autoral, Jean Stringheta e Rodrigo Faleiros tocaram em um projeto de covers, o Tomada Acústica.[^acritica2026]
+A Fundação de Cultura de MS (FCMS) diz, em 2016, que o trio foi fundado em 2007.[^fcms2016b] Segundo o jornal *A Crítica*, a história da banda começou no início dos anos 2000, na primeira turma do curso de Música da [[ufms|UFMS]]. Antes do trabalho autoral, [[jean-stringheta|Jean Stringheta]] e Rodrigo Faleiros tocaram em um projeto de covers, o Tomada Acústica.[^acritica2026]
 
-Ainda segundo o jornal, a virada veio com a vitória no [[festival-universitario-da-cancao|Festival Universitário da Canção]] e com o convite de [[geraldo-roca|Geraldo Roca]] para uma coletânea, depois que ele ouviu a canção "Felicidade é Química". Com a entrada de Diogo Zarate na bateria, a banda fixou sua formação e passou às composições próprias. Mais tarde entrou Yuirê Campos, na guitarra e no baixo.[^acritica2026]
+Ainda segundo o jornal, a virada veio com a vitória no [[festival-universitario-da-cancao|Festival Universitário da Canção]] e com o convite de [[geraldo-roca|Geraldo Roca]] para uma coletânea, depois que ele ouviu a canção "Felicidade é Química". Com a entrada de [[diogo-zarate|Diogo Zarate]] na bateria, a banda fixou sua formação e passou às composições próprias. Mais tarde entrou [[yuire-campos|Yuirê Campos]], na guitarra e no baixo.[^acritica2026]
 
 A banda lançou dez videoclipes e tocou em Mato Grosso do Sul, São Paulo, Minas Gerais, Paraná e Mato Grosso. Dividiu o palco com Titãs e Autoramas.[^fcms2016b][^acritica2026]
 

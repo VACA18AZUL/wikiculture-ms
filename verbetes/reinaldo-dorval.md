@@ -29,7 +29,7 @@ Funções de Dorval nos seis filmes estudados por Diehl, segundo a ficha da diss
 - [[fatalidade-curta|*Fatalidade*]] (sem data) — produção.[^diehl]
 - [[imprevisto-ao-acaso|*Imprevisto ao acaso*]] (sem data) — direção.[^diehl]
 - [[liberdade-para-os-inocentes|*Liberdade para os inocentes*]] (sem data) — direção e atuação.[^diehl]
-- *Honra* (produção iniciada em 2009; em busca de exibição em julho de 2013) — longa-metragem dirigido por [[alexandre-couto|Alexandre Couto]]; roteiro, atuação e assistência de direção. O elenco também tinha Abboud Lahdo e Rubens Ramos.[^cgn2013]
+- [[honra-longa|*Honra*]] (produção iniciada em 2009; em busca de exibição em julho de 2013) — longa-metragem dirigido por [[alexandre-couto|Alexandre Couto]]; roteiro, atuação e assistência de direção. O elenco também tinha Abboud Lahdo e Rubens Ramos.[^cgn2013]
 
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009. Acesso em 29 out. 2026.
 [^cgn2013]: Paula Maciulevicius, ["Por uma questão de 'Honra', produtores criam petição para ver filme na telona"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/por-uma-questao-de-honra-produtores-criam-peticao-para-ver-filme-na-telona), *Campo Grande News*, 10 jul. 2013. Acesso em 4 nov. 2026.
