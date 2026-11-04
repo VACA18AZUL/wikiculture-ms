@@ -40,3 +40,13 @@
 ## Uso no verbete
 
 - Tudo acima entrou, menos as interrupções. Todas as fontes são do mesmo veículo.
+
+## Atualização de 2026-11-04 (r4-2)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| ufms2022 | Vanessa Amin, "Viaduto de acesso à Universidade é revitalizado", UFMS, 1 fev. 2022 (texto "com informações da assessoria de comunicação social da PMCG") | https://www.ufms.br/viaduto-de-acesso-a-universidade-e-revitalizado/ | sim |
+
+O que mudou: acrescentado parágrafo sobre a entrega do viaduto da UFMS (Av. Costa e Silva) em 1 fev. 2022, com dados que cgn2022 não traz: projeto idealizado em 2021, meta de dez viadutos, custo médio de 70 a 100 mil reais por revitalização, próximo viaduto previsto na Av. Fernando Corrêa da Costa, cerca de 20 dias de pintura, 400 latas de spray. Confirma: primeiro viaduto Afonso Pena x Ceará, segundo o da UFMS, parceria com rede de supermercados, presença do prefeito e do secretário.
+
+Cautela: o texto da UFMS cita a assessoria da Prefeitura como uma das bases; por isso conta como confirmação de outro veículo, mas não como apuração totalmente independente. O nome "Cores e Vias" não aparece nessa matéria (nem sua grafia); a ligação ao projeto vem do conteúdo (Sectur, dez viadutos, primeiro viaduto na Afonso Pena com Ceará), igual ao descrito em cgn2021a. Não achei fonte sobre viadutos depois de fev. 2022 (edital de muralismo de 2026 no viaduto da Rua Maracaju, Correio do Estado, não é ligado ao projeto por nenhuma fonte; fora). Buscas em FCMS e A Crítica sem resultado.
