@@ -10,3 +10,8 @@ Onda 22 (w22-9), 4 nov. 2026. Fontes abertas e lidas nesta sessão; notas idênt
 - Grande Bahia 2018 (citado em jade-rainho, não reaberto nesta sessão; não usado)
 - 
 - Divergências registradas: ano 2012/2013; duração 28/23 min; direção Jade Rainho só / com Fabi Fernandes. Fabi Fernandes não ligada a fabiana-fernandes: identidade não confirmada. Vídeo no Vimeo fora do ar (dossiê jade-rainho).
+
+## Atualização de 2026-11-04 (validação valn-44)
+
+- Variantes do título nas fontes: "cicatrizes na pedra" (FCMS abr. 2015), "cicatrizes de pedra" (FCMS ago. 2015, 2017). Tempo de exploração da pedreira: "40 anos" (Catraca) x "mais de 40 anos" (FCMS), registrado no verbete.
+- FCMS 2017a diz que o filme "ganhou vários prêmios nacionais e internacionais", sem nomeá-los: fora do verbete.

@@ -11,3 +11,7 @@ Onda 22 (w22-9), 4 nov. 2026. Fontes abertas e lidas nesta sessão; notas idênt
 - acritica2026 – A Crítica, 30 jun. 2026 (Sandim idealizador)
 - 
 - Incerto: ano da 1ª edição (não dito; 2017 seria inferência, não escrita). Local exato da 1ª edição não informado.
+
+## Atualização de 2026-11-04 (validação valn-44)
+
+- Edições de 2018 e 2025 só aparecem em anúncios; nenhuma fonte lida confirma a realização. O local do esquenta de 2018 não é dito na matéria.

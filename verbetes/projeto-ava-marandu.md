@@ -34,7 +34,7 @@ Em 15 de maio de 2010, o projeto levou à Praça do Rádio, em Campo Grande, um 
 
 Curtas de 2010 listados por Fidelis, com as aldeias de produção.[^fidelis2024]
 
-- *Brô Mc's* — documentário; Aldeia Jaguapiru.[^fidelis2024]
+- [[bro-mcs-documentario-2010|*Brô Mc's*]] — documentário; Aldeia Jaguapiru.[^fidelis2024]
 - [[jaguapire-o-filme|*Jaguapiré, o filme*]] — docudrama; Aldeia Jaguapiré.[^fidelis2024]
 - *Guerreiro Guarani* — ficção; Aldeia Guyra Roka.[^fidelis2024]
 - *Chamiri Jegua* — documentário; Aldeia Guyra Roka.[^fidelis2024]
