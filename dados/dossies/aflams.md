@@ -1,0 +1,38 @@
+# Dossiê: aflams
+
+## Identificação
+
+- Nome: Academia Feminina de Letras e Artes de Mato Grosso do Sul (Aflams / AFLAMS)
+- Tipo: grupo; Áreas: literatura; Cidade: Campo Grande (atividades citadas)
+
+## Fontes abertas
+
+| id | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| cgn2023 | Jéssica Fernandes, "Ativista promove evento internacional no Memorial da América Latina", CGN, 10 set. 2023 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ativista-promove-evento-internacional-no-memorial-da-america-latina | imprensa | sim |
+| acritica2026a | Carlos Guilherme, "Morada dos Baís reúne escritoras e estudantes em encontro sobre literatura feminina", A Crítica, 10 mar. 2026 | https://acritica.net/cultura/morada-dos-bais-reune-escritoras-e-estudantes-em-encontro-sobre-literatura-feminina/ | imprensa | sim |
+| acritica2026b | Pietro Bitencourt, "AFLAMS empossa três novas acadêmicas...", A Crítica, 28 maio 2026 | https://acritica.net/cultura/aflams-empossa-novas-integrantes-em-mato-grosso-do-sul/ | imprensa | sim |
+
+Descartada: crônica no Recanto das Letras (cronicas/6728259) sobre a sessão de fundação, bloqueada (403); não lida.
+
+## Fatos
+
+- 40 cadeiras vitalícias; vagas por falecimento ou desistência; propósitos; espaço de convivência feminino/masculino; quase duas décadas de atuação (2026); presidente Delasnieve Daspet; posse de Carmen de Eugênio, Maria Augusta de Castilho e Beatriz Nantes em 28 maio 2026 [acritica2026b]
+- Delasnieve Daspet presidente e fundadora [cgn2023]
+- Encontro "Mulher – Encontro de Gerações", 12 mar. 2026, 14h, Morada dos Baís, com a Fundac; estudantes da AEL da E.E. Emidgio Campos Vidal (projeto da professora Thaís Barbosa) [acritica2026a]
+
+## Ligações
+
+| Identificador | Relação | Fonte |
+|---|---|---|
+| delasnieve-daspet | fundou | cgn2023 |
+| fundac | colaborou-com | acritica2026a |
+| morada-dos-bais | relacionado-a (sede do encontro) | acritica2026a |
+
+## Não confirmado
+
+- Ano e local de fundação (resumo de busca cita sessão no Palácio Guaicurus, na Assembleia Legislativa, sem ano; fonte não aberta).
+
+## Uso no verbete
+
+- Tudo acima entrou, menos currículos detalhados das empossadas.

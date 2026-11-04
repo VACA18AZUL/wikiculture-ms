@@ -36,3 +36,7 @@
 
 - Endereço do ateliê consta na fonte de 2023; deixado fora.
 - Quem criou a Mostra de Teatro Infantil de MS e em que ano.
+
+## Acréscimo
+
+- cgn2023b: Thailla Torres, Campo Grande News, 15 nov. 2023, https://www.campograndenews.com.br/lado-b/diversao/espetaculo-gratuito-usa-arte-para-contar-a-historia-de-artistas-do-circo — figurino, adereço e materiais de cena de Gran FinaLLe (Cia Pisando Alto, projeto Circo.Lação), por Ramona Rodrigues.

@@ -20,3 +20,7 @@
 - A matéria grafa o nome do baixista de forma truncada ("Felipe ononono"); o verbete fala só em "um baixista".
 - O show estreava no dia da matéria; o verbete passou a tratá-lo como marcado.
 - Sugestões: programa "Alma Guarani" (emissora e período); Acervo Digital Memória Fonográfica de MS.
+
+## Atualização de 2026-11-04 (reforço r-4)
+
+- Duas buscas abertas ("Alma Guarani"; "Manoel menino de Barros" + ZéDu). Só volta a mesma matéria do Campo Grande News (10 dez. 2013). Nada sobre o programa "Alma Guarani" (emissora, período) em outro veículo. Nada alterado no verbete; segue "reforcar". Pistas: Acervo Digital Memória Fonográfica de MS (gravações), Itaú Cultural, Mapas da Cultura.

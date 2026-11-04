@@ -3,7 +3,7 @@ titulo: Cavucada – a festa não será amanhã
 tipo: obra
 areas: [danca]
 cidade: Campo Grande
-resumo: Espetáculo-festa da Cia. Dançurbana, de Campo Grande, estreado em maio de 2023 sem divisão entre palco e plateia; foi apresentado na MITsp em 2026.
+resumo: Espetáculo-festa da Cia. Dançurbana, de Campo Grande, com estreia anunciada para maio de 2023, sem divisão entre palco e plateia; selecionado para a MITsp de 2026.
 ficha:
   Autor: Cia. Dançurbana
   Ano: "2023"
@@ -22,9 +22,9 @@ Segundo [[marcos-mattos|Marcos Mattos]], diretor da companhia, o título vem de 
 
 ## Apresentações
 
-Depois da estreia na capital, a matéria de maio de 2023 previa sessões em Dourados e Corumbá.[^cgn2023a] Em Corumbá, o espetáculo foi apresentado em 15 e 16 de novembro de 2023, no Neon Lounge e Bar, com participação da performer [[afrodite-fetake|Afrodite Fetake]], ligada à cultura ballroom.[^cgn2023b]
+Depois da estreia na capital, a matéria de maio de 2023 previa sessões em Dourados e Corumbá.[^cgn2023a] Em Corumbá, as sessões foram anunciadas para 15 e 16 de novembro de 2023, no Neon Lounge e Bar, com participação da performer [[afrodite-fetake|Afrodite Fetake]], ligada à cultura ballroom.[^cgn2023b]
 
-Em março de 2026, a obra entrou na 11ª Mostra Internacional de Teatro de São Paulo (MITsp), selecionada pela MITbr – Plataforma Brasil em parceria com o projeto Conexões Centro-Oeste, do Itaú Cultural. As sessões foram em 9 e 10 de março, no Instituto Brasileiro de Teatro (iBT). A outra obra de Mato Grosso do Sul na mostra foi *Cabeça de Toco, aqui tudo é mato*, da [[arado-cultural|Arado Cultural]].[^acritica2026a] A página da MITsp indica duração de 60 minutos e classificação de 18 anos.[^mitsp2026]
+Para março de 2026, a obra foi incluída na programação da 11ª Mostra Internacional de Teatro de São Paulo (MITsp), selecionada pela MITbr – Plataforma Brasil em parceria com o projeto Conexões Centro-Oeste, do Itaú Cultural. As sessões foram programadas para 9 e 10 de março, no Instituto Brasileiro de Teatro (iBT). A outra obra de Mato Grosso do Sul na mostra foi *Cabeça de Toco, aqui tudo é mato*, da [[arado-cultural|Arado Cultural]].[^acritica2026a] A página da MITsp indica duração de 60 minutos e classificação de 18 anos.[^mitsp2026]
 
 As fontes divergem sobre o marco celebrado. As matérias de 2023 e uma das reportagens de 2026 dizem que o espetáculo comemora os 20 anos da companhia.[^cgn2023a][^acritica2026a] Outra reportagem de 2026 diz que ele comemora 10 anos do grupo.[^acritica2026b]
 

@@ -15,7 +15,7 @@
 | abc2023 | Redação, "Projeto lança HQ com histórias inéditas de autores do Mato Grosso do Sul", ABC do ABC, 11 jan. 2023 | https://abcdoabc.com.br/projeto-lanca-hq-com-historias-ineditas-de-autores-do-mato-grosso-do-sul/ | imprensa (texto de divulgação) | sim |
 | cgn2023 | Aletheya Alves, "Artistas de MS lançam coletânea de quadrinhos com campanha no Catarse", Campo Grande News, 23 jan. 2023 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/artistas-de-ms-lancam-coletanea-de-quadrinhos-com-campanha-no-catarse | imprensa | sim |
 | cgn2024 | Aletheya Alves, "Procurando uma nova leitura? Dê uma chance aos autores de MS", Campo Grande News, 16 nov. 2024 | https://www.campograndenews.com.br/lado-b/consumo/procurando-uma-nova-leitura-de-uma-chance-aos-autores-de-ms | imprensa | sim |
-| acritica2026 | Iury de Oliveira, "Projeto Quebra Torto On vai selecionar oito propostas de autores de Mato Grosso do Sul para formação e publicação de HQs", A Crítica de Campo Grande, 22 jul. 2026 | https://acritica.net/cultura/quebra-torto-on-seleciona-autores-de-ms-para-criacao-de-historias-em-quadrinhos/ | imprensa | sim |
+| acritica2026 | Iury de Oliveira, "Projeto abre seleção em MS para formar autores e publicar histórias em quadrinhos", A Crítica de Campo Grande, 22 jul. 2026 | https://acritica.net/cultura/quebra-torto-on-seleciona-autores-de-ms-para-criacao-de-historias-em-quadrinhos/ | imprensa | sim |
 
 Fontes descartadas e o motivo:
 

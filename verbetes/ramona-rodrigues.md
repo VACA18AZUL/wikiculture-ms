@@ -5,7 +5,7 @@ areas: [teatro]
 cidade: Campo Grande
 resumo: Arte-educadora de Campo Grande que mantém um ateliê de teatro infantil e de bonecos e promoveu a 5ª Mostra de Teatro Infantil de MS, em 2017.
 ficha:
-  Atividade: Arte-educação, teatro infantil, teatro de bonecos
+  Atividade: Arte-educação, teatro infantil, teatro de bonecos, figurino
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -20,7 +20,7 @@ Em março de 2022, ela deu uma oficina de criação, confecção e manipulação
 
 Em 2023, o ateliê oferecia aulas para crianças de 3 a 13 anos, com brinquedoteca, técnicas circenses e teatro infantil.[^cgn2023]
 
-No mesmo ano, assinou figurino, adereços e materiais de cena de *Gran FinaLLe*, espetáculo de circo com direção e dramaturgia de Breno Moroni, atuação de Fran Corona e Moreno Mourão, ligado à [[cia-pisando-alto|Cia. Pisando Alto]].[^cgn2023b]
+No mesmo ano, assinou figurino, adereços e materiais de cena de *Gran FinaLLe*, espetáculo de circo com direção e dramaturgia de Breno Moroni, atuação de Fran Corona e Moreno Mourão, apresentado pela [[cia-pisando-alto|Cia. Pisando Alto]].[^cgn2023b]
 
 [^cgn2017]: Lucas Arruda, ["Mostra leva espetáculos infantis para crianças da periferia de Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mostra-leva-espetaculos-infantis-para-criancas-da-periferia-de-campo-grande), *Campo Grande News*, 12 out. 2017. Acesso em 4 nov. 2026.
 [^cgn2022a]: Jéssica Fernandes, ["1º Semana do Teatro tem performances e oficinas gratuitas por toda a cidade"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/1o-semana-do-teatro-tem-performances-e-oficinas-gratuitas-por-toda-a-cidade), *Campo Grande News*, 22 mar. 2022. Acesso em 4 nov. 2026.

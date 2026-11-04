@@ -33,7 +33,7 @@ Foi nomeado em 1984 pelo governador Wilson Barbosa Martins como primeiro preside
 
 ## Pesquisa e acervo
 
-Pesquisou por 17 anos a vida da atriz [[glauce-rocha|Glauce Rocha]], reunindo cartas, recortes e registros de museus e bibliotecas. A biografia *Glauce Rocha, atriz, mulher, guerreira* foi publicada em 1996, depois de sua morte.[^cgn2019][^marin] Morreu em novembro de 1989, durante uma palestra sobre a atriz na Universidade Federal de Mato Grosso do Sul.[^marin]
+Pesquisou por 17 anos a vida da atriz [[glauce-rocha|Glauce Rocha]], reunindo cartas, recortes e registros de museus e bibliotecas. A biografia *Glauce Rocha, atriz, mulher, guerreira* saiu em 1996, depois de sua morte. Marin e Pereira a listam entre as obras de Guizzo, publicada após o falecimento.[^marin] A matéria do *Campo Grande News* de 2019 atribui a publicação a Marta Guizzo e, numa legenda, diz que o texto foi escrito e revisado por José Octávio.[^cgn2019] Morreu em novembro de 1989, durante uma palestra sobre a atriz na Universidade Federal de Mato Grosso do Sul.[^marin]
 
 Seu arquivo pessoal tem recortes de jornais, livros, convites, fichas técnicas, letras de músicas carimbadas pela censura e o original datilografado da biografia de Glauce Rocha. Desde agosto de 2018, faz parte do acervo do [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]].[^cgn2019]
 
@@ -48,7 +48,7 @@ Sua trajetória foi tema de um texto de [[maria-da-gloria-sa-rosa|Maria da Glór
 - *A moderna música popular urbana de Mato Grosso do Sul* (1982) — livro.[^marin]
 - *Alma do Brasil: o primeiro filme nacional de reconstituição histórica, inteiramente sonorizado* (1984) — livro sobre o filme [[alma-do-brasil|*Alma do Brasil*]].[^marin]
 - "Histórias e estórias de uma velha pendenga revisitada" (1985) — artigo na revista *MS Cultura*.[^marin]
-- *Glauce Rocha, atriz, mulher, guerreira* (1996) — biografia, publicação póstuma.[^cgn2019][^marin]
+- *Glauce Rocha, atriz, mulher, guerreira* (1996) — biografia, publicação póstuma; o *Campo Grande News* atribui a publicação a Marta Guizzo.[^cgn2019][^marin]
 
 ## Filmografia
 
