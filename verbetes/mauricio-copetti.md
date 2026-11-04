@@ -3,7 +3,7 @@ titulo: Mauricio Copetti
 tipo: pessoa
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Documentarista, diretor e produtor de Planuras (2015) e codiretor, com Ricardo Camara, de Koi e o Rio, exibido na IX Mostra Sesc de Cinema em 2026.
+resumo: Documentarista, diretor e produtor de Planuras (2015) e codiretor, com Ricardo Camara, de Koi e o Rio, programado na IX Mostra Sesc de Cinema em 2026.
 ficha:
   Atividade: "Direção e produção de documentários"
 status: rascunho

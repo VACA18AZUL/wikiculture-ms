@@ -16,13 +16,13 @@ atualizado: 2026-11-04
 
 ## Concepção
 
-A palavra *poracê*, do nheengatu, designa uma dança indígena de celebração, um baile ou arrasta-pé. O espetáculo trata da força do conjunto, da vida em comunidade e dos laços com o território, com questões de diversidade, pertencimento e fronteiras. Os intérpretes-criadores investigam suas identidades, nomes, origens e relações com Mato Grosso do Sul.[^cgn2023]
+A palavra *poracê*, do nheengatu, designa uma dança indígena de celebração, um baile ou arrasta-pé. O espetáculo trata da força do conjunto, da vida em comunidade e dos laços com o território, com questões de diversidade, pertencimento e fronteiras. Em cena, os intérpretes-criadores pesquisam a própria identidade, os nomes, as origens e o vínculo com Mato Grosso do Sul.[^cgn2023]
 
 A direção e a coreografia são de [[marcos-mattos|Marcos Mattos]], [[renata-leoni|Renata Leoni]] e [[franciella-cavalheri|Franciella Cavalheri]]. Na temporada de 2023, os intérpretes foram Adailson Dagher, Ariane Nogueira, Livia Lopes, Maura Menezes, Rose Mendonça e Wagner Gomes.[^cgn2023]
 
 ## Apresentações
 
-Em setembro de 2023, a obra teve sessões de 22 a 24 na [[casa-de-ensaio|Casa de Ensaio]], em Campo Grande, dentro da Temporada Quanto Custa?, em que o público paga o quanto puder. As sessões tiveram intérprete de Libras e, no domingo, audiodescrição.[^cgn2023]
+Em setembro de 2023, a obra foi programada para sessões de 22 a 24 na [[casa-de-ensaio|Casa de Ensaio]], em Campo Grande, dentro da Temporada Quanto Custa?, em que o público paga o quanto puder. O anúncio previa intérprete de Libras em todas as sessões e audiodescrição no domingo.[^cgn2023]
 
 [^cgn2023]: Thailla Torres, ["Cia Dançurbana apresenta espetáculo Poracê a partir de hoje"](https://www.campograndenews.com.br/lado-b/diversao/cia-dancurbana-apresenta-espetaculo-porace-a-partir-de-hoje), *Campo Grande News*, 22 set. 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Thailla Torres, ["Cia Dançurbana celebra 20 anos com espetáculo-festa Cavucada"](https://www.campograndenews.com.br/lado-b/diversao/cia-dancurbana-celebra-20-anos-com-espetaculo-festa-cavucada), *Campo Grande News*, 3 maio 2023. Acesso em 4 nov. 2026.
