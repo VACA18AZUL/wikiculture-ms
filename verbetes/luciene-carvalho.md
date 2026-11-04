@@ -14,7 +14,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Luciene_Carvalho
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Luciene Carvalho** é uma poeta e escritora nascida em Corumbá, Mato Grosso do Sul, que mora em Cuiabá desde 1974 e tem a carreira ligada a Mato Grosso.[^midia]
@@ -31,5 +31,5 @@ Seu primeiro livro individual, *Teia*, saiu em 2001, segundo a reportagem de 202
 
 Em 2023, *Dona* era leitura obrigatória no vestibular da Universidade do Estado de Mato Grosso (Unemat), e a poeta anunciava para dezembro o livro *Saranzal*.[^midia]
 
-[^g1]: ["Poeta de MT é primeira mulher negra a assumir presidência de uma academia de letras do Brasil"](https://g1.globo.com/mt/mato-grosso/noticia/2023/09/16/poeta-de-mt-e-primeira-mulher-negra-a-assumir-presidencia-de-uma-academia-de-letras-do-brasil.ghtml), *G1 Mato Grosso*, 16 set. 2023. Acesso em 29 out. 2026.
-[^midia]: Andrelina Braz, ["A história da primeira negra a presidir Academia de Letras de MT"](https://www.midianews.com.br/cotidiano/a-historia-da-primeira-negra-a-presidir-academia-de-letras-de-mt/454247), *MidiaNews*, out. 2023. Acesso em 29 out. 2026.
+[^g1]: Redação, ["Poeta de MT é primeira mulher negra a assumir presidência de uma academia de letras do Brasil"](https://g1.globo.com/mt/mato-grosso/noticia/2023/09/16/poeta-de-mt-e-primeira-mulher-negra-a-assumir-presidencia-de-uma-academia-de-letras-do-brasil.ghtml), *G1 Mato Grosso*, 16 set. 2023. Acesso em 29 out. 2026.
+[^midia]: Andrelina Braz, ["A história da primeira negra a presidir Academia de Letras de MT"](https://www.midianews.com.br/cotidiano/a-historia-da-primeira-negra-a-presidir-academia-de-letras-de-mt/454247), *MidiaNews*, 1º out. 2023. Acesso em 29 out. 2026.
