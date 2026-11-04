@@ -3,7 +3,7 @@ titulo: Associação de Cinema e Vídeo de Mato Grosso do Sul (ACV-MS)
 tipo: grupo
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Entidade de realizadores de cinema e vídeo de Mato Grosso do Sul. Organizou em 2011 um encontro regional da Associação Brasileira de Documentaristas e Curta-Metragistas em Campo Grande e apoiou o Memocine em 2014.
+resumo: Entidade do audiovisual de Mato Grosso do Sul. Organizou em 2011 um encontro regional da Associação Brasileira de Documentaristas e Curta-Metragistas em Campo Grande e apoiou o Memocine em 2014.
 ficha:
   Presidência: "[[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]] (2011); Mendes Junior (2014)"
 status: rascunho
