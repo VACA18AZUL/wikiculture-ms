@@ -28,3 +28,10 @@ Só o resumo ("encenação anual" não está na fonte).
 ## Atualização de 2026-11-04 (reforço, tag r-2)
 
 Três buscas abertas ("Edilton Ramos" + Paixão de Cristo/Transart; Transarte 45 anos + Teatro Dom Bosco; variações): só o folheto da Boca de Cena 2017 trata dele. Apareceu um item do Campo Grande News de 24 mar. 2024 (página de chamadas, texto não aberto) dizendo que o grupo Transarte, "celebrando 45 anos", levaria a Paixão de Cristo ao Teatro Dom Bosco nos dias 28 e 29; não foi lida a matéria completa nem se cita Edilton Ramos, então nada entrou no verbete. Se a matéria for localizada, há possível divergência: 45 anos em 2024 (início por volta de 1979) contra criação do Transart em 1973 e Paixão de Cristo "há 39 anos" em 2017 (folheto), sendo incerto que "Transarte" e "Transart" sejam o mesmo grupo. Fonte única continua sendo o folheto (FCMS, 2017).
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Fonte nova aberta e lida: Karina Lima, "Noite foi de homenagens na abertura do Boca de Cena no Teatro Glauce Rocha", Fundação de Cultura de MS, 23 mai. 2017. Sustenta: homenagem na abertura (segunda-feira, 22 mai. 2017, Glauce Rocha lotado), ao lado de Grupo Palco e Tabajara; ator e diretor; começou na década de 1970, em tempo de censura. NÃO sustenta Paixão de Cristo, Transart nem Sodoma (a página não os cita, segundo a leitura).
+- Divergência: folheto "mais de 40 anos de trajetória" x reportagem "59 anos de trabalho" (e, na mesma reportagem, início nos anos 1970). Registrada no verbete com as duas notas.
+- Limite: a FCMS é a mesma instituição que fez o folheto; a fonte não é plenamente independente.
+- Não serviram: Correio do Estado, programação do Boca de Cena 2024 (não cita Edilton); resumos do CGN de 2024 sobre o Transarte (não lidos).

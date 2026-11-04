@@ -17,8 +17,6 @@ A mostra [[mato-grosso-do-sul-visto-pelo-mundo|*Mato Grosso do Sul Visto Pelo Mu
 
 Claudia Castelão participou com o trabalho *Flor de Xaraés*. Ela disse à reportagem que a seleção era um reconhecimento do trabalho.[^cgn] Entre os outros expositores citados estão [[humberto-espindola|Humberto Espíndola]] e [[isaac-de-oliveira|Isaac de Oliveira]].[^cgn]
 
-A matéria não informa a cidade da artista nem outros dados de trajetória.[^cgn]
-
 ## Obra e trajetória
 
 Em março de 2024, o *Campo Grande News* a incluiu entre os homenageados da 16ª Semana do Artesão e disse que sua história com o artesanato é contada pela *Flor de Xaraés*. Segundo a reportagem, ela conheceu em 2000 a lenda da flor pantaneira e pesquisou a flor como referência entre as flores perenes do cerrado e do Pantanal sul-mato-grossense.[^cgn2024]

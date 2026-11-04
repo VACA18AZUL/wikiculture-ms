@@ -38,3 +38,9 @@
 ## Uso no verbete
 
 - Entrou tudo, com a ressalva de identidade.
+
+## Revisão de 2026-11-04 (valn-8)
+
+- Homônimo: o Gil Esper coordenador de Cultura da UFGD que organizou e abriu o 11º Festival Internacional de Teatro de Dourados (18 set. 2025) [cgn2025a][cgn2025b] não é ligado, em nenhuma fonte lida, ao Gil Esper creditado pela Cia. Ofit [cgn2023][ce2026]. Uma busca ("Gil Esper" UFGD teatro iluminação) achou só um PDF em core.ac.uk com o nome ao lado da UFGD, sem função clara; não lido. Para não supor identidade, a parte da UFGD saiu do verbete e fica aqui até uma fonte ligar os dois (ex.: página da UFGD, currículo Lattes, programa de espetáculo).
+- A ressalva "As fontes não dizem se os dois créditos são da mesma pessoa" saiu do verbete (frase sobre o que as fontes não dizem).
+- As duas fontes da Ofit são prévias: estreias escritas como anunciadas.

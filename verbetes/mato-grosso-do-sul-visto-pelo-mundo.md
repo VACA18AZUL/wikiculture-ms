@@ -34,6 +34,6 @@ A reportagem lista estes expositores:[^cgn]
 
 A curadoria da exposição fotográfica do projeto coube ao fotógrafo Erich Sacco.[^cgn]
 
-A fonte única é uma reportagem anterior ao evento; não há aqui confirmação do que foi de fato exposto.[^cgn]
+A reportagem é de janeiro de 2014, anterior à mostra, e traz a relação de expositores prevista.[^cgn]
 
 [^cgn]: Vinícius Squinelo e Paula Maciulevicius, ["Em Nova Iorque, 12 artistas vão expor a cara de MS na ONU para o mundo"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-nova-iorque-12-artistas-vao-expor-a-cara-de-ms-na-onu-para-o-mundo), *Campo Grande News*, 27 jan. 2014. Acesso em 29 out. 2026.

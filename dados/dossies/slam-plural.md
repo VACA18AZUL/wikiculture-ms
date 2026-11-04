@@ -20,3 +20,9 @@
 - Fontes reabertas; todos os fatos do verbete conferem. Notas ganharam os nomes dos autores.
 - Segunda fonte independente: não achada. A cota de buscas na web desta rodada acabou; no repositório, só a [[feira-literaria-de-bonito-flib]] cita o grupo, com a mesma matéria.
 - A matéria de 2023 traz a identidade de gênero e a orientação sexual de integrantes; não entrou no verbete (dado pessoal).
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Fonte nova aberta e lida: Ana Paula Ostapenco de Souza, "Com apoio do Governo do Estado Flib inicia amanhã", Fundação de Cultura de MS, 4 jul. 2023. Sustenta: 7ª Flib; "21h – Palco Principal – Slam Plural" na sexta, 7/7. É fonte oficial independente do CGN para a apresentação de julho de 2023 (reforça o parágrafo da Flib; não a estreia de 2022, nem a origem ou integrantes).
+- Divergência de local: o CGN diz Praça da Liberdade; a FCMS diz Palco Principal (sem nomear a praça). Não são contraditórias; nada registrado.
+- Busca por segunda fonte da estreia no Campão Cultural (2022) não achou fonte fora do CGN (Correio do Estado tem matérias gerais do festival, sem citar o slam nos resumos; não abertas).

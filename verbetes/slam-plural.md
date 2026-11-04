@@ -25,7 +25,10 @@ O grupo estreou em 13 de outubro de 2022, na Praça do Rádio, com o "Slam Plura
 
 Em julho de 2023, o grupo se apresentou na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]], na Praça da Liberdade, com uma intervenção de cerca de 15 minutos criada para a feira. Segundo Luanna Peralta, foi a segunda apresentação do coletivo, e o grupo também se apresentava no Laricas, em Campo Grande.[^cgn2023]
 
+A programação da 7ª Feira Literária de Bonito, divulgada pela Fundação de Cultura de MS em 4 de julho de 2023, listava o Slam Plural no Palco Principal, às 21h de sexta-feira, 7 de julho.[^fcms2023]
+
 Luanna contou ainda que atua na cena cultural da capital desde 2014, quando criou o sarau Ziriguidum com a irmã Marina Peralta.[^cgn2023]
 
 [^cgn2022]: Jéssica Fernandes, ["Slam Plural é grito de liberdade para artistas independentes"](https://www.campograndenews.com.br/lado-b/diversao/slam-plural-e-grito-de-liberdade-para-artistas-independentes), *Campo Grande News*, 14 out. 2022. Acesso em 29 out. 2026.
 [^cgn2023]: Rodrigo Teixeira, ["Performance de Slam Plural é acolhimento e alerta em feira literária"](https://www.campograndenews.com.br/lado-b/diversao/performance-de-slam-plural-e-acolhimento-e-alerta-em-feira-literaria), *Campo Grande News*, 9 jul. 2023. Acesso em 29 out. 2026.
+[^fcms2023]: Ana Paula Ostapenco de Souza, ["Com apoio do Governo do Estado Flib inicia amanhã"](https://www.fundacaodecultura.ms.gov.br/com-apoio-do-governo-do-estado-flib-inicia-amanha/), Fundação de Cultura de Mato Grosso do Sul, 4 jul. 2023. Acesso em 4 nov. 2026.

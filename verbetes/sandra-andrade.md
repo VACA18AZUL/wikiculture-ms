@@ -27,7 +27,7 @@ Para 26 de junho de 2026, estava prevista a participação da autora, em São Ga
 
 ## Observação sobre as fontes
 
-A triagem apontava São Gabriel do Oeste como cidade; as fontes lidas ligam a autora a Campo Grande, e São Gabriel do Oeste aparece apenas como local de um evento. O título do livro varia entre as reportagens ("Leninha, a Sucuri do Pantanal" e "A História de Leninha – A Sucuri do Pantanal").[^lancamento][^sgo] Não foi localizada lista completa dos 22 títulos.
+A triagem apontava São Gabriel do Oeste como cidade; as fontes lidas ligam a autora a Campo Grande, e São Gabriel do Oeste aparece apenas como local de um evento. O título do livro varia entre as reportagens ("Leninha, a Sucuri do Pantanal" e "A História de Leninha – A Sucuri do Pantanal").[^lancamento][^sgo]
 
 [^lancamento]: Carlos Guilherme, ["Livro sobre sucuri do Pantanal será lançado em Campo Grande nesta sexta"](https://acritica.net/cultura/livro-sobre-sucuri-do-pantanal-sera-lancado-em-campo-grande-nesta-sexta/), *A Crítica de Campo Grande*, 9 abr. 2026. Acesso em 4 nov. 2026.
 [^sgo]: Iury de Oliveira, ["Projeto escolar em São Gabriel do Oeste destaca autores de MS com participação de Sandra Andrade"](https://acritica.net/cultura/projeto-escolar-em-sao-gabriel-do-oeste-destaca-autores-de-ms-com-participacao-de-sandra-andrade/), *A Crítica de Campo Grande*, 26 jun. 2026. Acesso em 4 nov. 2026.

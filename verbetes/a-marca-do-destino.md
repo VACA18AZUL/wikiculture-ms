@@ -15,6 +15,10 @@ atualizado: 2026-11-04
 
 ***A Marca do Destino*** é um média-metragem amador de 1979, com 27 minutos, dirigido e roteirizado por [[alexandre-couto|Alexandre Couto]] em Campo Grande. É um dos seis filmes sertanejos analisados na dissertação de Carlos Rodrigo Diehl sobre o cinema amador sul-mato-grossense.[^diehl]
 
+## Contexto
+
+Em reportagem de 2018 sobre Alexandre Couto, o *Campo Grande News* diz que ele faz filmes como passatempo desde o fim dos anos 1970 e que tem sete trabalhos autoproduzidos, com outro prestes a ser lançado.[^cgn2018]
+
 ## Enredo
 
 Um jovem chega de trem a uma estação, assalta uma agência bancária, atira em um funcionário e foge num táxi. Tom, policial em férias que lembra um irmão desaparecido, é chamado para a perseguição, que sai da periferia para a estrada e termina na mata. Tom acerta o fugitivo, que, ao morrer, pede que ele entregue uma carta à mãe. Pelo nome na carta, o policial descobre que matou o próprio irmão e guarda o segredo.[^diehl]
@@ -32,3 +36,4 @@ Diehl aponta como temas a degeneração dos laços familiares, a segurança púb
 - Produtoras: [[colorcouto|Colorcouto]] e [[aljor-filmes|Aljor Filmes]][^diehl]
 
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 55, 101, 130-131, 138 e 155. Acesso em 4 nov. 2026.
+[^cgn2018]: Thaís Pimenta, ["Índio é memória viva do cinema, guardada em cada cartaz de filme pintado por ele"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/indio-e-memoria-viva-do-cinema-guardada-em-cada-cartaz-de-filme-pintado-por-ele), *Campo Grande News*, 15 abr. 2018. Acesso em 4 nov. 2026.
