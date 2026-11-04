@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Em julho de 2023, Marcos integrou a delegação do Moinho Cultural no Festival Internacional de Dança de Goiás, com [[yasmin-rodrigues|Yasmin Rodrigues]] e [[pedro-barros|Pedro Barros]]. Recebeu três medalhas: primeiro lugar na categoria Contemporâneo, com *Epiderme*, coreografia de Pedro Barros; terceiro lugar no Jazz, com *Fuga*, coreografia de Frantiely; e terceiro lugar no Clássico, com a variação masculina de *La Fille Mal Gardée*.[^cgn2023]
 
-Em setembro de 2025, o Moinho anunciou a participação do bailarino no United Dance Festival, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. A programação divulgada incluía a variação masculina de *Esmeralda*, o solo de jazz *Fuga*, que ele dançava desde 2023, e o solo contemporâneo *Ecos do Invisível*.[^cgn2025]
+Em setembro de 2025, o *Campo Grande News* noticiou que o Moinho levaria o bailarino ao United Dance Festival, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. A programação divulgada incluía a variação masculina de *Esmeralda*, o solo de jazz *Fuga*, que ele dançava desde 2023, e o solo contemporâneo *Ecos do Invisível*.[^cgn2025]
 
 Em julho de 2026, durante o 43º Festival de Dança de Joinville, fez a primeira audição de sua carreira e foi aprovado para o elenco da Curitiba Cia. de Dança a partir de setembro, com estreia numa temporada de *O Quebra-Nozes*. A viagem, de duas semanas, foi custeada pelo Instituto Cultural Vale. No festival, fez quatro cursos, entre eles aulas com [[luiz-ruben|Luiz Rubén]], um dos primeiros professores de ballet do Moinho, e participou de três processos seletivos de companhias.[^acritica2026]
 

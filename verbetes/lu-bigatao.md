@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Lu Bigatão**, também grafada **Lú Bigatão**, **Lu Bigattão** e **Lú Bigatão Rios**, é jornalista e diretora teatral em Campo Grande, ligada ao teatro de bonecos.[^cgn2022c][^cgn2023]
+**Lu Bigatão**, também grafada **Lú Bigatão**, **Lu Bigattão** e **Lú Bigatão Rios**, é jornalista e diretora teatral em Campo Grande, ligada ao teatro de bonecos.[^cgn2022c][^cgn2023] As grafias aparecem em fontes diferentes, que este verbete trata como referências à mesma pessoa por citarem o mesmo trabalho em teatro em Campo Grande.[^boca2017][^ce2022][^cgn2022c][^cgn2023]
 
 ## Trajetória
 
@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 Na seleção do [[festival-de-inverno-de-bonito-2022|Festival de Inverno de Bonito]] de 2022, o espetáculo [[navegantes-deslimites|*Navegantes – uma viagem pelos rios brasileiros*]] aparece em seu nome.[^ce2022] A peça é do [[grupo-deslimites|Grupo Deslimites]].[^cgn2022b]
 
-Durante a [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teatro de Bonecos]], em novembro de 2022, apresentou ao *Campo Grande News* a exposição de bonecos montada no Teatral Grupo de Risco. Disse que a mostra contava a trajetória do seu grupo, com 32 anos de teatro de bonecos e mais de 20 espetáculos montados.[^cgn2022c]
+Durante a [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teatro de Bonecos]], em novembro de 2022, apresentou ao *Campo Grande News* a exposição de bonecos montada no Teatral Grupo de Risco. Disse que a exposição contava parte da trajetória do seu grupo, com 32 anos de teatro de bonecos e mais de 20 espetáculos montados.[^cgn2022c]
 
 ## Espetáculos
 

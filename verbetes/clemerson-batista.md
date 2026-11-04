@@ -3,7 +3,7 @@ titulo: Clemerson Batista
 tipo: pessoa
 areas: [musica]
 cidade: Dourados
-resumo: Rapper guarani kaiowá da Reserva Indígena de Dourados, integrante do Brô MC's, em que compõe os refrãos das canções.
+resumo: Rapper guarani kaiowá da Reserva Indígena de Dourados, integrante do Brô MC's, que em 2016 compunha os refrãos das canções do grupo.
 ficha:
   Atividade: "Rap, composição"
   Grupos: "Brô MC's"
@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo artigo de Jacqueline Candido Guilherme, doutoranda em antropologia social, o Brô MC's existe desde 2009, ano em que gravou um CD, e as primeiras composições dos integrantes datam de 2007.[^rau2021] Quando o CD saiu, lideranças da aldeia desaprovaram as canções. Clemerson chamou uma reunião para apresentá-lo a lideranças e xamãs, que aceitaram o trabalho com a condição de que o grupo não usasse as rezas guarani e kaiowá nas músicas.[^rau2021]
+Segundo artigo de Jacqueline Candido Guilherme, então doutoranda em antropologia social, o Brô MC's existe desde 2009, ano em que gravou um CD, e as primeiras composições dos integrantes datam de 2007.[^rau2021] Quando o CD saiu, lideranças da aldeia desaprovaram as canções. Clemerson chamou uma reunião para apresentá-lo a lideranças e xamãs, que aceitaram o trabalho com a condição de que o grupo não usasse as rezas guarani e kaiowá nas músicas.[^rau2021]
 
 Na pesquisa de campo, feita em 2016, ele contou que compõe os refrãos do grupo a partir das rimas escritas e cantadas pelos outros MCs, depois que o tema já foi combinado entre eles. O refrão deve resumir essas rimas e ficar na memória de quem ouve, especialmente dos jovens da aldeia.[^rau2021] É dele o refrão de "Koangagua" (Nos dias de hoje), canção divulgada no YouTube em julho de 2015.[^rau2021]
 

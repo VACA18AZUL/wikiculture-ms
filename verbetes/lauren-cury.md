@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Em depoimento ao *Campo Grande News*, contou que canta desde criança e que, por volta dos 21 anos, começou a se apresentar com amigos em festas universitárias. Em seguida, iniciou a carreira profissional como vocalista da banda [[louva-dub|Louva Dub]], na qual ficou oito anos.[^cgn2023]
 
-Em agosto de 2022, estava entre os artistas de música selecionados por edital do governo estadual para o [[festival-de-inverno-de-bonito-2022|Festival de Inverno de Bonito]]. A lista publicada pelo *Correio do Estado* a pôs no Palco das Águas, ao lado de [[bianca-bacha|Bianca Bacha]] e [[karla-coronel|Karla Coronel]], numa apresentação com repertório de [[alzira-espindola|Alzira E.]].[^ce2022]
+Em agosto de 2022, estava entre os artistas de música selecionados por edital do governo estadual para o [[festival-de-inverno-de-bonito-2022|Festival de Inverno de Bonito]]. A lista publicada pelo *Correio do Estado* a pôs no Palco das Águas, num item com [[bianca-bacha|Bianca Bacha]] e [[karla-coronel|Karla Coronel]] que cita também [[alzira-espindola|Alzira E.]] e Filho dos Livres.[^ce2022]
 
 Em julho de 2023, foi anunciada para encerrar a terceira noite do festival [[o-canto-delas|O Canto Delas]], dedicado a cantoras, marcada para o dia 18 no Blues Bar, em Campo Grande, ao lado de [[marcela-mar|Marcela Mar]] e [[namaria-schneider|Namaria]]. O festival tinha recursos do FMIC, o Fundo de Investimentos Culturais, aprovados em edital da Secretaria de Cultura e Turismo de Campo Grande.[^cgn2023]
 

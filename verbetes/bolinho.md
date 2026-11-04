@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Bolinho**, também chamado **Bolin**, nome pelo qual era conhecido Wilson Rodolfo Ferreira, foi um dançarino de break e rapper de Campo Grande, descrito pela imprensa e pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] como pioneiro do hip-hop no estado.[^cgn2025][^fcms2023]
+**Bolinho**, também chamado **Bolin**, nome pelo qual era conhecido Wilson Rodolfo Ferreira, foi um dançarino de break e rapper de Campo Grande.[^cgn2025][^fcms2023] O *Campo Grande News* e a nota de pesar da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], citada pelo jornal, o apontaram como pioneiro do hip-hop no estado.[^cgn2025]
 
 ## Trajetória
 
