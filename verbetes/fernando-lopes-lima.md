@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Segundo reportagem de julho de 2022, ele dirigiu um podcast sobre a obra de [[jose-octavio-guizzo|José Octávio Guizzo]], a convite da atriz [[andreia-freire|Andreia Freire]], e a leitura do livro de Guizzo sobre [[glauce-rocha|Glauce Rocha]] o levou a se interessar pela atriz. Em 30 de julho de 2022, com a atriz [[laura-santoro|Laura Santoro]] e um grupo de amigos, visitou o túmulo de Glauce Rocha no cemitério Santo Antônio, em Campo Grande, num ato com canções e homenagens.[^cgn2022]
 
-Na mesma época, Laura Santoro o convidou para dirigir *Como Nascem as Estrelas*, cuja estreia foi anunciada para outubro de 2022.[^cgn2022] Em 2023, ele contou que a peça foi lançada em dezembro de 2022 e ficou oito meses em cartaz. O texto, de Laura Santoro, foi escrito a partir do livro de Guizzo e trata de Glauce Rocha e da própria autora, com palavras de Clarice Lispector, amiga de Glauce. Segundo a reportagem, ele também inaugurou na Cia Teatro do Mundo uma sala com o nome da atriz.[^cgn2023]
+Meses antes, Laura Santoro o convidou para dirigir *Como Nascem as Estrelas*, cuja estreia foi anunciada para outubro de 2022.[^cgn2022] Em 2023, ele contou que a peça foi lançada em dezembro de 2022 e ficou oito meses em cartaz. O texto, de Laura Santoro, foi escrito a partir do livro de Guizzo e trata de Glauce Rocha e da própria autora, e, nas palavras do diretor, tem o "apadrinhamento" das palavras de Clarice Lispector, amiga de Glauce. Segundo a reportagem, ele também inaugurou na Cia Teatro do Mundo uma sala com o nome da atriz.[^cgn2023]
 
 Em 2026, aparecia entre os artistas criadores listados pela Cia Teatro do Mundo para *Nós*, monólogo com Isac Zampieri.[^acritica2026]
 

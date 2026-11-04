@@ -8,7 +8,7 @@ ficha:
   Integrantes: Milton Rodrigues (Rodrigues) e Jaime Rodrigues (Rodriguinho)
   Atividade: Rasqueado, polca paraguaia e sertanejo de raiz
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Rodrigues e Rodriguinho** é uma dupla de música sertaneja e regional formada por Milton Rodrigues (Rodrigues) e Jaime Rodrigues (Rodriguinho).[^lp]

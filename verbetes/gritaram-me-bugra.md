@@ -1,0 +1,28 @@
+---
+titulo: Gritaram-me Bugra!
+tipo: obra
+areas: [teatro]
+cidade: Amambai
+resumo: Peça do Grupo de Teatro Liberdade PKR, de Amambai, produzida em 2019, com texto e direção de Duadino Martines, sobre a discriminação e a violência contra mulheres guarani-kaiowá.
+ficha:
+  Autor: Duadino Martines
+  Ano: "2019"
+  Formato: Teatro
+status: rascunho
+atualizado: 2026-11-04
+---
+
+***Gritaram-me Bugra!*** é uma peça do [[grupo-de-teatro-liberdade-pkr|Grupo de Teatro Liberdade PKR]], grupo guarani-kaiowá de Amambai. Foi produzida em 2019, com texto e direção do kaiowá Duadino Martines.[^cgn2022b]
+
+## Enredo
+
+A peça conta a história de uma mulher indígena à margem da sociedade que se revolta ao ser chamada de bugra, entre o orgulho e a tristeza. Em vários atos, trata da violência física e psicológica, do feminicídio nas aldeias, das invasões de terra e da demarcação. A atriz Alexandra Tavares, única atriz branca do grupo, faz a mulher que vagueia pelas ruas de Amambai. A encenação usa a canção "Demarcação Já", de Carlos Rennó e Chico César, e sons gravados no confronto entre guarani-kaiowá e polícia em Amambai, em junho de 2022.[^cgn2022b]
+
+## Apresentações
+
+Em junho de 2022, a peça estava na programação da virada da [[mostra-boca-de-cena|Boca de Cena]], marcada para o segundo dia do evento.[^cgn2022a]
+
+Em 26 de agosto de 2022, o grupo apresentou a peça na Praça da Liberdade, no [[festival-de-inverno-de-bonito-2022|Festival de Inverno de Bonito]]. A reportagem do Campo Grande News registrou que parte do público se emocionou.[^cgn2022b]
+
+[^cgn2022a]: Aletheya Alves, ["Dois dias de virada artística terão de palhaçada até peça indígena"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/dois-dias-de-virada-artistica-terao-de-palhacada-ate-peca-indigena), *Campo Grande News*, 21 jun. 2022. Acesso em 4 nov. 2026.
+[^cgn2022b]: Silvio Andrade, ["Peça teatral indígena retrata violência, orgulho e comove público do festival"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/peca-teatral-indigena-retrata-violencia-orgulho-e-comove-publico-do-festival), *Campo Grande News*, 27 ago. 2022. Acesso em 4 nov. 2026.

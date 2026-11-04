@@ -8,7 +8,7 @@ ficha:
   Criação: "1919 (segundo Rosa, citada por Moser; data em discussão)"
   Local: Corumbá
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Bijou Teatro** foi um espaço de apresentações teatrais e cinematográficas em Corumbá.[^moser]
