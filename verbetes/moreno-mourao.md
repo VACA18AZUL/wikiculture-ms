@@ -11,13 +11,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Moreno Mourão** é artista circense, ator, arte-educador e produtor cultural de Campo Grande. Criou em 2019, com [[fran-corona|Fran Corona]], a [[cia-pisando-alto|Cia Pisando Alto]].[^cgn2023a][^cgn2023b]
+**Moreno Mourão** é artista circense, ator, arte-educador e produtor cultural com atuação em Campo Grande. Criou em 2019, com [[fran-corona|Fran Corona]], a [[cia-pisando-alto|Cia Pisando Alto]].[^cgn2023a][^cgn2023b]
 
 ## Trajetória
 
 Moreno Mourão e Fran Corona pesquisam circo juntos desde 2012. Os dois fizeram o Curso Técnico em Artes Circenses da Escola Basileu França, em Goiânia (GO), onde também passaram por outras capacitações. A companhia que criaram trabalha com circo e teatro em espaços abertos e não convencionais.[^cgn2023a]
 
-Em 2023, como artista e produtor da companhia, apresentou o projeto Circo.Lação, que previa apresentações do espetáculo *Gran Finale* em Campo Grande, Dourados e Corumbá e exibições online com audiodescrição e Libras.[^cgn2023a] Em novembro, atuou em *Gran FinaLLe* em Campo Grande e foi um dos ministrantes da oficina Circulandando, ao lado de Fran Corona e [[breno-moroni|Breno Moroni]].[^cgn2023b]
+Em 2023, como artista e produtor da companhia, falou à imprensa sobre o projeto Circo.Lação, que previa apresentações do espetáculo *Gran Finale* em Campo Grande, Dourados e Corumbá e exibições online com audiodescrição e Libras.[^cgn2023a] Em novembro, estava no elenco das sessões de *Gran FinaLLe* anunciadas para Campo Grande e entre os ministrantes previstos da oficina Circulandando, ao lado de Fran Corona e [[breno-moroni|Breno Moroni]].[^cgn2023b]
 
 Em 13 de maio de 2024, esteve no elenco de *Gran Finalle* na abertura da programação circense da [[mostra-boca-de-cena|Boca de Cena]], sob uma lona montada no Centro de Campo Grande.[^cgn2024]
 

@@ -19,7 +19,7 @@ Com roteiro de Antoni Magalhães, o filme segue Nicole, Inês e Leona, três ami
 
 ## Produção
 
-Segundo o *Campo Grande News*, a série original foi dirigida por [[thiago-rotta|Thiago Rotta]], e a adaptação para longa ficou com a diretora [[ana-ostapenko|Ana Ostapenko]], com Kojiro na edição e na montagem. Kojiro disse que o trabalho de remontagem ocupou a equipe desde janeiro de 2026.[^cgn-nat] A lista de premiados do festival, publicada pelo mesmo jornal, dá a direção do filme a Ana Ostapenko, [[willerson-amorim|Willerson Amorim]], Thiago Rotta e [[rafael-rotta|Rafael Rotta]].[^cgn-bc4]
+Segundo o *Campo Grande News*, a série original foi dirigida por [[thiago-rotta|Thiago Rotta]], e a adaptação para longa ficou com a diretora [[ana-ostapenko|Ana Ostapenko]], com Kojiro na edição e na montagem. Kojiro disse que o trabalho de remontagem ocupou a equipe desde janeiro.[^cgn-nat] A lista de premiados do festival, publicada pelo mesmo jornal, dá a direção do filme a Ana Ostapenko, [[willerson-amorim|Willerson Amorim]], Thiago Rotta e [[rafael-rotta|Rafael Rotta]].[^cgn-bc4]
 
 ## Exibição e prêmios
 

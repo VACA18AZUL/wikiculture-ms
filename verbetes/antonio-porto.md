@@ -21,7 +21,7 @@ Em meados dos anos 1980, integrou o grupo [[poranguete|Poranguetê]], com [[leni
 
 Em 1988, apareceu no programa *Som Brasil*, da Rede Globo, ao lado de [[guilherme-rondon|Guilherme Rondon]], [[celito-espindola|Celito Espíndola]] e [[joao-figar|João Fígar]], tocando violão de doze cordas na canção "Paiaguás".[^caetano] A parceria com [[paulo-simoes|Paulo Simões]] resultou no disco *Rumo a Dois Mil e Uns* (2002), de Simões.[^caetano]
 
-Estudou música em São Paulo e depois passou a viver no Rio de Janeiro. Em maio de 2001, entrou como baixista na banda ao vivo do músico austríaco Hubert von Goisern, com quem já tinha gravado nos álbuns *Inexil* e *Gombe*. Com ele, fez turnês no Egito, no Senegal e em Burkina Faso; com a cantora Timna Brauer, excursionou por Israel.[^goisern]
+Estudou música em São Paulo e depois passou a viver no Rio de Janeiro. Em maio de 2001, entrou como baixista na banda ao vivo do músico austríaco Hubert von Goisern. Tocou nos álbuns *Inexil* e *Gombe*, de Goisern. Com ele, fez turnês no Egito, no Senegal e em Burkina Faso; com a cantora Timna Brauer, excursionou por Israel.[^goisern]
 
 A página dele no site de Goisern lista trabalhos no Brasil com Celito Espíndola, [[tete-espindola|Tetê Espíndola]], Renato Teixeira, Pena Branca e Xavantinho, [[juci-ibanez|Juci Ibanez]] e no Pantanal Alerta Brasil, entre outros.[^goisern]
 
@@ -33,7 +33,7 @@ Foi um dos músicos entrevistados no livro [[a-musica-de-mato-grosso-do-sul-hist
 
 ## Grafias
 
-As fontes usam Antonio Porto, Antônio Porto e Toninho Porto.[^caetano][^nupem] Nenhuma delas afirma de forma explícita que o "Toninho Porto" de 1987 e o integrante do Poranguetê são a mesma pessoa.[^nupem]
+As fontes usam Antonio Porto, Antônio Porto e Toninho Porto.[^caetano][^nupem]
 
 [^goisern]: ["Antonio Porto"](https://hubertvongoisern.com/en/foen/toni.html), página da banda da turnê *Fön* (2001), *Hubert von Goisern* (site oficial), sem data. Acesso em 4 nov. 2026.
 [^caetano]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2012, p. 73 e 119-120. Acesso em 4 nov. 2026.

@@ -16,11 +16,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-É pedagoga formada pela Universidade Estadual de Mato Grosso do Sul (UEMS), com especialização em diversidade e educação especial, segundo nota biográfica publicada pela Fundação Perseu Abramo em 2023.[^fpa2023] O *Campo Grande News* a apresenta como ativista literária do [[tarja-preta|Coletivo Tarja Preta]] de Literatura Independente.[^cgnrelogio] Segundo o jornal, ela estava entre os primeiros membros do coletivo, surgido em 2013 depois de um sarau no bairro Universitário, e está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]] (2023).[^cgntarja]
+É pedagoga formada pela Universidade Estadual de Mato Grosso do Sul (UEMS), com especialização em diversidade e educação especial, segundo nota biográfica publicada pela Fundação Perseu Abramo em 2023.[^fpa2023] O *Campo Grande News* a apresenta como ativista literária do [[tarja-preta|Coletivo Tarja Preta]] de Literatura Independente.[^cgnrelogio] Segundo o jornal, ela estava entre os primeiros membros do coletivo, surgido em 2013 depois de um sarau no bairro Universitário, e está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], com lançamento anunciado para 11 de novembro de 2023.[^cgntarja]
 
 Na 31ª [[noite-da-poesia-ube-ms|Noite da Poesia]], em 2019, o poema "Mataram Tereza", sobre feminicídio, ficou em segundo lugar na categoria estadual.[^cgnnoite2019] No mesmo ano, levou o livro *Incômoda* ao evento Favela Literária; a reportagem a chama de Vilma Eva e descreve o livro como inspirado na vida de Emily Dickinson e dividido em seis "gavetas" temáticas.[^cgnfavela2019] Na 36ª Noite da Poesia, em 2024, foi finalista da categoria Mato Grosso do Sul com "Eterna Nhandesy".[^cgnfinal2024]
 
-Em setembro de 2023, participou de um bate-papo de lançamento de *Outros Silêncios em Vigília*, de [[adrianna-alberti|Adrianna Alberti]].[^cgnsolidao]
+Em setembro de 2023, foi anunciada como convidada de um bate-papo de lançamento de *Outros Silêncios em Vigília*, de [[adrianna-alberti|Adrianna Alberti]], marcado para o dia 13.[^cgnsolidao]
 
 ## Obras
 
@@ -28,7 +28,7 @@ Em setembro de 2023, participou de um bate-papo de lançamento de *Outros Silên
 - *Incômoda* (2018), poesia.[^fpa2023][^cgnfavela2019]
 - *Incandescente* (2020), pela Coleção II do Mulherio das Letras.[^fpa2023]
 - *Ela é…* (2020), infantil.[^fpa2023]
-- *O Fantástico Relógio da Rute* (2023), infantil, com ilustrações de Paulo Alaor, ambientado em lugares de Campo Grande; lançado em 22 de julho de 2023 no Sesc Cultura.[^cgnrelogio]
+- *O Fantástico Relógio da Rute* (2023), infantil, com ilustrações de Paulo Alaor, ambientado em lugares de Campo Grande; lançamento anunciado para 22 de julho de 2023 no Sesc Cultura.[^cgnrelogio]
 
 [^cgnrelogio]: Idaicy Solano, ["Personagens vivem aventura e superação em novo livro infantil de MS"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/personagens-vivem-aventura-e-superacao-em-novo-livro-infantil-de-ms), *Campo Grande News*, 19 jul. 2023. Acesso em 4 nov. 2026.
 [^fpa2023]: ["Fátima Regina Gomes Farias"](https://fpabramo.org.br/fatima-regina-gomes-farias/), *Fundação Perseu Abramo*, 12 maio 2023 (nota "Sobre Eva Vilma" ao fim da página). Acesso em 4 nov. 2026.

@@ -19,7 +19,7 @@ Seus trabalhos usam pintura, desenho, performance, poesia e vídeo e tratam das 
 
 Expôs no [[marco|Museu de Arte Contemporânea de MS]] com a coletiva [[descendentes-de-lidia|Descendentes de Lídia]].[^gv] A Prefeitura de Campo Grande, em nota sobre a mostra de 2022, traz as mesmas informações de formação, residência, convite à LCOY, mentoria e exposição no MARCO.[^pmcg]
 
-Em setembro de 2022, foi anunciado que a Fundação de Cultura de MS a convidara, com outros quatro artistas, para expor e vender obras na feira de artes visuais da 2ª edição do Campão Cultural, no Armazém Cultural, marcada para 8 a 15 de outubro. Na ocasião, a matéria cita a videoarte "Invocação – Retomar a terra", apresentada por ela na LCOY.[^campao] O site MSdoSul publicou a mesma informação em 19 set. 2022, com a lista dos cinco artistas e as datas do festival (8 a 15 de outubro).[^msdosul]
+Em setembro de 2022, foi anunciado que a Fundação de Cultura de MS a convidara, com outros quatro artistas, para expor e vender obras na feira de artes visuais da 2ª edição do [[campao-cultural-2022|Campão Cultural]], no Armazém Cultural, marcada para 8 a 15 de outubro. Na ocasião, a matéria cita a videoarte "Invocação – Retomar a terra", apresentada por ela na LCOY.[^campao] O site MSdoSul publicou a mesma informação em 19 set. 2022, com a lista dos cinco artistas e as datas do festival (8 a 15 de outubro).[^msdosul]
 
 ## Obra
 

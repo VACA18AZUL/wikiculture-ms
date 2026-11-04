@@ -17,11 +17,11 @@ O **Programa Municipal de Fomento ao Teatro (FomTeatro)** é um programa de fina
 
 Em 2014, o espetáculo *Eu sei que vou te amar*, da [[casa-de-ensaio|Casa de Ensaio]], com os 130 alunos da escola, foi montado com investimento do programa. A direção foi de Carol Dória e a encenação de Laís Dória.[^cgn2014]
 
-O edital de 2024 contemplou o projeto Fulano di Tal em Ação, do [[fulano-di-tal|Grupo Fulano di Tal]]. Dentro dele, o grupo fez uma temporada gratuita de [[seco-fulano-di-tal|*Seco*]] de 25 a 28 de junho de 2026, na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]].[^acritica-seco]
+O edital de 2024 contemplou o projeto Fulano di Tal em Ação, do [[fulano-di-tal|Grupo Fulano di Tal]]. Dentro dele, o grupo anunciou uma temporada gratuita de [[seco-fulano-di-tal|*Seco*]] de 25 a 28 de junho de 2026, na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]].[^acritica-seco]
 
-Em 2026, o [[grupo-ubu|Grupo UBU]] levou o espetáculo infantil *Pelega e Porca Prenha – Episódio: Na Mata do Pequi* a escolas municipais de Campo Grande no projeto "Escambo UBU – Narrativas e Pertencimentos", financiado pelo programa.[^acritica-ubu]
+Em maio de 2026, o projeto "Escambo UBU – Narrativas e Pertencimentos", do [[grupo-ubu|Grupo UBU]], financiado pelo programa, percorria escolas municipais de Campo Grande com o espetáculo infantil *Pelega e Porca Prenha – Episódio: Na Mata do Pequi*.[^acritica-ubu]
 
-No mesmo ano, a [[cia-ofit|Cia. Ofit]] remontou *Três Vírgula Quatro Graus na Escala Richter*, texto de [[eder-rodrigues|Éder Rodrigues]] com direção de Nill Amaral, com sessões de 5 a 7 de agosto no Sesc Teatro Prosa. A montagem fazia parte do projeto P.E.S.S.O.A.S., financiado pelo FomTeatro.[^ce2026]
+No mesmo ano, a [[cia-ofit|Cia. Ofit]] anunciou nova montagem de *Três Vírgula Quatro Graus na Escala Richter*, texto de [[eder-rodrigues|Éder Rodrigues]] com direção de Nill Amaral, com sessões de 5 a 7 de agosto no Sesc Teatro Prosa. A montagem faz parte do projeto P.E.S.S.O.A.S., financiado pelo FomTeatro.[^ce2026]
 
 [^cgn2014]: Elverson Cardozo, ["Casa de Ensaio apresenta espetáculo baseado nas obras de Vinícius de Moraes"](https://www.campograndenews.com.br/lado-b/diversao/casa-de-ensaio-apresenta-espetaculo-baseado-nas-obras-de-vinicius-de-moraes), *Campo Grande News*, 16 mar. 2014. Acesso em 4 nov. 2026.
 [^acritica-seco]: Pietro Bitencourt, ["Espetáculo 'SECO' faz temporada gratuita em Campo Grande a partir desta quinta-feira"](https://acritica.net/cultura/espetaculo-seco-faz-temporada-gratuita-em-campo-grande/), *A Crítica de Campo Grande*, 24 jun. 2026. Acesso em 4 nov. 2026.

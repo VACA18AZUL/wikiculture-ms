@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Ralfer Campagna** é um artista da dança de Campo Grande. Com [[jackeline-mourao|Jackeline Mourão]], idealizou o Programa Plataforme-se, e atua como intérprete-criador em trabalhos da [[cia-dancurbana|Cia Dançurbana]].[^cgn2023c][^cgn2023a]
+**Ralfer Campagna** é um artista da dança de Campo Grande. Com [[jackeline-mourao|Jackeline Mourão]], idealizou o [[plataforme-se|Programa Plataforme-se]] e atua como intérprete-criador em trabalhos da [[cia-dancurbana|Cia Dançurbana]].[^cgn2023c][^cgn2023a]
 
 ## Trajetória
 

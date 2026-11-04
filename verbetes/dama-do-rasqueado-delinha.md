@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-*A Dama do Rasqueado, Delinha* é um documentário de 75 minutos, dirigido por Marinete Pinheiro, sobre a cantora Delinha, da dupla [[delio-e-delinha|Délio e Delinha]].[^cgn][^cgn2016] A lista de selecionados do primeiro [[bonito-cinesur|CineSur]] o associa a Campo Grande.[^cgn]
+*A Dama do Rasqueado, Delinha* é um documentário de 75 minutos, dirigido por [[marineti-pinheiro|Marinete Pinheiro]], sobre a cantora Delinha, da dupla [[delio-e-delinha|Délio e Delinha]].[^cgn][^cgn2016] A lista de selecionados do primeiro [[bonito-cinesur|CineSur]] o associa a Campo Grande.[^cgn]
 
 ## Produção
 
@@ -39,8 +39,8 @@ Em 2022, a diretora disse ter convivido com Delinha por cerca de dez anos durant
 
 ## Ficha técnica
 
-- Direção: Marinete Pinheiro[^cgn][^cgn2016]
-- Produção: Marinete Pinheiro e [[jerry-espindola|Jerry Espíndola]][^cgn]
+- Direção: [[marineti-pinheiro|Marinete Pinheiro]][^cgn][^cgn2016]
+- Produção: [[marineti-pinheiro|Marinete Pinheiro]] e [[jerry-espindola|Jerry Espíndola]][^cgn]
 - Produção executiva: [[jerry-espindola|Jerry Espíndola]][^cgn2016]
 
 [^cgn]: Thailla Torres, ["Bonito terá Festival de Cinema Sul-americano; veja os selecionados"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bonito-tera-festival-de-cinema-sul-americano-veja-os-selecionados), *Campo Grande News*, 6 out. 2023. Acesso em 4 nov. 2026.
