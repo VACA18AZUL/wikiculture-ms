@@ -62,8 +62,13 @@ Outros títulos citados na homenagem de 2012:[^cmsp]
 - *Maria Fumaça, Chuva e Cinema* (2009) — curta sobre a trajetória de Cardoso, da infância em Maracaju ao auge das pornochanchadas; a matéria diz que marcou seu retorno ao cinema.[^cmsp]
 - *Frontera* (2010/2011) — sobre as relações entre Brasil e Paraguai; a fonte não detalha a função de Cardoso.[^cmsp]
 
+Título posterior:[^dsv2025]
+
+- [[do-sul-a-vinganca|*Do Sul, a Vingança*]] (2025) — longa-metragem de Fábio Flecha; atuação, no papel do Coronel Massada, inspirado no coronel Adid Massad.[^dsv2025]
+
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009. Acesso em 29 out. 2026.
 [^cmsp]: Ericka Perestrelo, ["Uma Noite de Cinema exibe filmes de David Cardozo na CMSP"](https://www.saopaulo.sp.leg.br/blog/galeria-de-audios/uma-noite-de-cinema-exibe-filmes-de-david-cardozo-na-cmsp/), *Câmara Municipal de São Paulo*, 24 set. 2012. Acesso em 4 nov. 2026.
 [^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 43-48, 50 e 55. Acesso em 4 nov. 2026.
 [^cinemateca1]: Cinemateca Brasileira, ["Caingangue e a Pontaria do Diabo"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=ID=003348&format=detailed.pft), base Filmografia Brasileira, registro 003348. Acesso em 4 nov. 2026.
 [^cinemateca2]: Cinemateca Brasileira, ["19 Mulheres e 1 Homem"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=ID=024871&format=detailed.pft), base Filmografia Brasileira, registro 024871. Acesso em 4 nov. 2026.
+[^dsv2025]: Marcelo Rezende, ["'Do Sul, a Vingança': Filme 100% MS estreia hoje"](https://oestadoonline.com.br/arte-e-lazer/do-sul-a-vinganca/), *O Estado MS*, 15 maio 2025. Acesso em 4 nov. 2026.

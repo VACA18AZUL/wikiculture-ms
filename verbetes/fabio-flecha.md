@@ -33,7 +33,7 @@ Em janeiro de 2026, o projeto [[rota-cine-ms|Rota Cine MS]] abriu inscrições p
 - *Não Me Lembro* (2015) — curta; direção.[^fcms2018b]
 - *Canta Dores do Pantanal – 50 anos Grupo Acaba* — documentário; direção.[^fcms2018]
 - *Mitos Vivos* (2023) — série documental, 13 episódios; criação e direção.[^cgn2023]
-- *Do Sul, a Vingança* — longa-metragem de ficção; direção e roteiro, com Edson Pipoca. Estreia nos cinemas em 15 de maio de 2025 segundo *O Estado*[^oestado2025]; datado de 2024 pelo *Campo Grande News*.[^cgn2026]
+- [[do-sul-a-vinganca|*Do Sul, a Vingança*]] — longa-metragem de ficção; direção e roteiro, com Edson Pipoca. Estreia nos cinemas em 15 de maio de 2025 segundo *O Estado*[^oestado2025]; datado de 2024 pelo *Campo Grande News*.[^cgn2026]
 - *Não Me Lembro* — longa-metragem, em filmagem em 2026; direção e roteiro.[^oestado2026]
 
 [^fcms2015a]: Daiana Schio, ["Lendas Pantaneiras, longa produzido com recursos do FIC, será lançado dia 4 de outubro"](https://www.fundacaodecultura.ms.gov.br/lendas-pantaneiras-longa-produzido-com-recursos-do-fic-sera-lancado-dia-4-de-outubro/), *Fundação de Cultura de MS*, 25 set. 2015. Acesso em 4 nov. 2026.

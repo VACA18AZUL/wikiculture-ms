@@ -37,6 +37,7 @@ Débora Cabrita atribui a Paulo Simões e [[almir-sater|Almir Sater]] a canção
 ## Filmografia
 
 - [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de Fábio Flecha; participação especial.[^fcmslendas]
+- [[do-sul-a-vinganca|*Do Sul, a Vingança*]] (2025) — longa-metragem de Fábio Flecha; atuação; músicas na trilha sonora.[^dsv2025]
 
 [^fcms2016]: Gisele Colombo, ["Paulo Simões e Gabriel Sater apresentam show 'Violas Pantaneiras' em Cuiabá"](https://www.fundacaodecultura.ms.gov.br/paulo-simoes-e-gabriel-sater-apresentam-show-violas-pantaneiras-em-cuiaba/), Fundação de Cultura de Mato Grosso do Sul, 7 dez. 2016. Acesso em 4 nov. 2026.
 [^fcms2023ormond]: Ana Paula Ostapenco de Souza, ["Show com diversas atrações no Parque das Nações Indígenas comemorou os 46 anos de Mato Grosso do Sul"](https://www.fundacaodecultura.ms.gov.br/show-com-diversas-atracoes-no-parque-das-nacoes-indigenas-comemorou-os-46-anos-de-mato-grosso-do-sul/), *Fundação de Cultura de Mato Grosso do Sul*, 16 out. 2023. Acesso em 4 nov. 2026.
@@ -49,3 +50,4 @@ Débora Cabrita atribui a Paulo Simões e [[almir-sater|Almir Sater]] a canção
 [^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 51 (nota 3), 55 e 59-60 do PDF. Acesso em 4 nov. 2026.
 [^cabrita]: Débora Alves Pereira Cabrita, [*Linguagem audiovisual do documentário: o trabalho das comitivas pantaneiras a partir da experiência de uma peoa*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5967), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2018, p. 106 (p. 107 do PDF). Acesso em 4 nov. 2026.
 [^ferrari]: José Francisco Ferrari, [*Sarandi Pantaneiro: uma especificidade da cultura local*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2006), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2011, lista de ilustrações, p. 6 do PDF. Acesso em 4 nov. 2026.
+[^dsv2025]: Marcelo Rezende, ["'Do Sul, a Vingança': Filme 100% MS estreia hoje"](https://oestadoonline.com.br/arte-e-lazer/do-sul-a-vinganca/), *O Estado MS*, 15 maio 2025. Acesso em 4 nov. 2026.

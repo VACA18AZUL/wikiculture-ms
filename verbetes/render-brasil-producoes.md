@@ -33,6 +33,7 @@ Em 2015, o ator [[leandro-faria|Leandro Faria]] abriu uma agência de atores que
 ## Filmografia
 
 - [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de ficção; produtora.[^fcms2015]
+- [[do-sul-a-vinganca|*Do Sul, a Vingança*]] (2025) — longa-metragem de ficção; produtora.[^oestado2025]
 - *Não Me Lembro* — longa-metragem, em filmagem em 2026; produtora.[^oestado2026]
 
 [^fcms2015]: Daiana Schio, ["Lendas Pantaneiras, longa produzido com recursos do FIC, será lançado dia 4 de outubro"](https://www.fundacaodecultura.ms.gov.br/lendas-pantaneiras-longa-produzido-com-recursos-do-fic-sera-lancado-dia-4-de-outubro/), *Fundação de Cultura de MS*, 25 set. 2015. Acesso em 4 nov. 2026.

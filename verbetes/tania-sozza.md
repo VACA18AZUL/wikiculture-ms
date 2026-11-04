@@ -28,7 +28,7 @@ Em janeiro de 2026, o projeto [[rota-cine-ms|Rota Cine MS]] abriu inscrições p
 - *Espera* (2012) — curta; produção independente, com Fábio Flecha.[^fcms2015a] [Assistir no YouTube](https://www.youtube.com/watch?v=8vlbvi2GtQk)
 - [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de ficção; produção, produção executiva e figurino.[^fcms2015a]
 - *Mitos Vivos* (2023) — série documental, 13 episódios; produção.[^cgn2023]
-- *Do Sul, a Vingança* — longa-metragem de ficção; produção. Estreia nos cinemas em 15 de maio de 2025 segundo *O Estado*[^oestado2025]; datado de 2024 pelo *Campo Grande News*.[^cgn2026]
+- [[do-sul-a-vinganca|*Do Sul, a Vingança*]] — longa-metragem de ficção; produção. Estreia nos cinemas em 15 de maio de 2025 segundo *O Estado*[^oestado2025]; datado de 2024 pelo *Campo Grande News*.[^cgn2026]
 - *Não Me Lembro* — longa-metragem, em filmagem em 2026; produção executiva.[^oestado2026]
 
 [^fcms2015a]: Daiana Schio, ["Lendas Pantaneiras, longa produzido com recursos do FIC, será lançado dia 4 de outubro"](https://www.fundacaodecultura.ms.gov.br/lendas-pantaneiras-longa-produzido-com-recursos-do-fic-sera-lancado-dia-4-de-outubro/), *Fundação de Cultura de MS*, 25 set. 2015. Acesso em 4 nov. 2026.

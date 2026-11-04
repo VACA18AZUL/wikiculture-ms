@@ -40,3 +40,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Sem verbete: fonte única com uma frase.
+
+## d1-2 (2026-11-04)
+
+- Moser reaberto (PDF p. 2-4): confirma que o trecho resume o capítulo "Teatro" de Sá Rosa em Memória da Arte em MS (1992).
+- Busca de segunda fonte sem resultado: API O Estado MS, busca do Campo Grande News, busca do Correio do Estado.
+- Incorporado como frase em verbetes/memoria-da-arte-em-ms.md (seção Conteúdo), com a nota moser.

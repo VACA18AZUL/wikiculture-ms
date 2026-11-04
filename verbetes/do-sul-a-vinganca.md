@@ -33,7 +33,7 @@ A distribuição ficou com a Kolbe Arte. A estreia nos cinemas foi em 15 de maio
 
 *O Estado* e o *Campo Grande News* noticiaram que o longa venceu o Los Angeles Film Awards 2025 como melhor longa independente e foi finalista do World Film Festival, em Cannes.[^oestado2025][^cgn2025] A *Tela Viva*, dez dias antes da estreia, o descreveu como finalista nos dois eventos.[^telaviva2025]
 
-Em 29 de maio de 2025, a Câmara Municipal de Campo Grande aprovou moções de congratulação à equipe, por iniciativa do vereador Dr. Victor Rocha.[^oestado2025b] O filme teve sessão especial na 3ª edição do Bonito CineSur, em 2025.[^oestado2025c]
+Em sessão da Câmara Municipal de Campo Grande no fim de maio de 2025, o vereador Dr. Victor Rocha entregou moções de congratulação a profissionais do filme.[^oestado2025b] O filme teve sessão especial na 3ª edição do Bonito CineSur, em 2025.[^oestado2025c]
 
 ## Ficha técnica
 

@@ -28,3 +28,11 @@
 ## Uso no verbete
 
 - Tudo entrou; endereço com número ficou fora (só o bairro).
+
+## Atualização de 2026-11-04 (validação)
+
+- Cinemateca Brasileira, Filmografia: Dacar Produções Cinematográficas Ltda. como produtora de Caçada Sangrenta (024313, 1974, dir. Ozualdo Candeias), 19 Mulheres e 1 Homem (024871, 1977, dir. David Cardoso), Desejo Selvagem (Massacre no Pantanal) (025013, 1979) e Corpo e Alma de Mulher (025254, 1983). Entraram como notas cb-*.
+- Divergência: Corpo e Alma de Mulher "inteiramente rodado em Ponta Porã" (Neves p. 50) × locações em Ponta Porã, Pedro Juan Caballero, Assunção e Lisboa (CB). Registrada.
+- "Muitos ligados aos interesses do governo estadual": em Neves (p. 50) a observação vale para os documentários feitos depois de 1983, não para a lista dos anos 1970 (p. 48). Corrigido.
+- Filmagens "previstas em cidades de Mato Grosso": é relato de Cardoso na biografia de Medeiros Filho (2006), citado por Neves; atribuído.
+- Wikipédia: sem artigo localizado sobre a produtora.

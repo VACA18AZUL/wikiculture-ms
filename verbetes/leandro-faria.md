@@ -44,6 +44,7 @@ Em abril de 2018, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] ab
 - *Simão Morto* (2015) — websérie de Breno Benetti e Luana Benetti; atuação.[^fcms2018a]
 - *O Amor e o Resto – da Culinária ao Caos* (2017) — curta de [[mariana-sena|Mariana Sena]] e Maíra Espíndola; atuação, no papel do boneco Gentil.[^fcms2017]
 - [[amoitado|Amoitado]] (2026) — curta de [[tero-queiroz|Tero Queiroz]], com codireção de [[aly-freitas|Aly Freitas]]; atuação, no papel de Klaubo, creditado como Leandro Faria Lelo.[^ce2026b]
+- [[do-sul-a-vinganca|*Do Sul, a Vingança*]] (2025) — longa-metragem de Fábio Flecha; atuação, no papel de Victor Bautista.[^dsv2025]
 
 [^fcms2018a]: Fundação de Cultura de Mato Grosso do Sul, ["Centro Cultural oferece curso gratuito de teatro para adolescentes e adultos"](https://www.fundacaodecultura.ms.gov.br/centro-cultural-oferece-curso-gratuito-de-teatro-para-adolescentes-e-adultos/), 9 abr. 2018. Acesso em 4 nov. 2026.
 [^fcms2016a]: Fundação de Cultura de Mato Grosso do Sul, ["Peça 'Subcutâneo – O que te define está por baixo da pele' será encenada gratuitamente quinta-feira no Centro Cultural"](https://www.fundacaodecultura.ms.gov.br/peca-subcutaneo-o-que-te-define-esta-por-baixo-da-pele-sera-encenada-gratuitamente-quinta-feira-no-centro-cultural/), 15 fev. 2016. Acesso em 4 nov. 2026.
@@ -55,3 +56,4 @@ Em abril de 2018, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] ab
 [^ce2016]: Correio do Estado, ["Circuito Sul-Mato-Grossense de Teatro inicia temporada de apresentações de 2016"](https://correiodoestado.com.br/correio-b/2016/08/11/circuito-sul-mato-grossense-de-teatro-inicia-temporada-de-apresentacoes-de-2016.html), *Correio do Estado*, 11 ago. 2016. Acesso em 4 nov. 2026.
 [^ce2026]: Mariana Piell, ["Espetáculo da Cia. Ofit retorna aos palcos em uma nova montagem entre os dias 5 e 7 de agosto"](https://correiodoestado.com.br/correio-b/espetaculo-da-cia-ofit-retorna-aos-palcos-em-uma-nova-montagem-entre/470325/), *Correio do Estado*, 29 jul. 2026. Acesso em 4 nov. 2026.
 [^ce2026b]: Leo Ribeiro, ["Suspense rural que aborda roubo de gado, 'Amoitado' estreia em festival"](https://correiodoestado.com.br/correio-b/suspense-rural-que-aborda-roubo-de-gado-amoitado-estreia-em/474989/), *Correio do Estado*, 18 out. 2026. Acesso em 4 nov. 2026.
+[^dsv2025]: Marcelo Rezende, ["'Do Sul, a Vingança': Filme 100% MS estreia hoje"](https://oestadoonline.com.br/arte-e-lazer/do-sul-a-vinganca/), *O Estado MS*, 15 maio 2025. Acesso em 4 nov. 2026.

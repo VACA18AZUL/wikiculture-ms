@@ -38,7 +38,7 @@ Segundo *O Estado de Mato Grosso do Sul*, foi o idealizador do prêmio e apresen
 ## Filmografia
 
 - [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de Fábio Flecha; argumento, com Fábio Flecha, Márcio Padilha e Flávio Sobreira, e elenco.[^fcmslendas]
-- *Do Sul – A Vingança* — atuação; direção de Fábio Flecha.[^oestado2021]
+- [[do-sul-a-vinganca|*Do Sul – A Vingança*]] — atuação; direção de Fábio Flecha.[^oestado2021]
 
 [^folheto]: Fundação de Cultura de Mato Grosso do Sul, [folheto da Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), 2017, seções "Homenageados" e programação. Acesso em 4 nov. 2026.
 [^cgn2023a]: Thailla Torres, ["Prêmio Campo Grande ao Teatro está com inscrições abertas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/premio-campo-grande-ao-teatro-esta-com-inscricoes-abertas), *Campo Grande News*, 21 mar. 2023. Acesso em 4 nov. 2026.
