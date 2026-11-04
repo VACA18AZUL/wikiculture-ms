@@ -3,7 +3,7 @@ titulo: Marcelle Saboya Ravanelli
 tipo: pessoa
 areas: [literatura]
 cidade: Corumbá
-resumo: "Produtora cultural e mediadora de leitura de Corumbá, que trabalhou no Sesc Corumbá, presidiu o Conselho Municipal de Política Cultural e media clubes de leitura e encontros com escritores."
+resumo: "Produtora cultural e mediadora de leitura de Corumbá, que trabalhou no Sesc Corumbá, presidiu o conselho de cultura do município e media clubes de leitura e encontros com escritores."
 ficha:
   Atividade: "Produção cultural, mediação de leitura"
 status: rascunho
@@ -14,9 +14,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2016, como analista de cultura do Sesc Corumbá, falou ao *Diário Corumbaense* sobre a programação do Sesc pelo centenário de [[manoel-de-barros|Manoel de Barros]], que espalhou livros do poeta por praças e hotéis da cidade.[^diario2016]
+Em 2016, como analista de cultura do Sesc Corumbá, falou ao *Diário Corumbaense* sobre a programação do Sesc pelo centenário de [[manoel-de-barros|Manoel de Barros]], que previa deixar livros do poeta em praças, hotéis e outros pontos da cidade.[^diario2016]
 
-Em agosto de 2023, a Prefeitura de Corumbá a citou como ex-presidente do Conselho Municipal de Política Cultural, na posse dos novos conselheiros.[^pmc2023] Em outubro daquele ano, o *Diário Corumbaense* a apresentou como produtora cultural e mediadora do bate-papo de lançamento de *O Fantástico Relógio da Rute*, de [[eva-vilma|Eva Vilma]], em Corumbá.[^diario2023] Em novembro de 2023, o *Campo Grande News* noticiou a antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], do [[tarja-preta|Coletivo Tarja Preta]], com prefácio dela.[^cgn2023]
+Em agosto de 2023, a Prefeitura de Corumbá a citou como ex-presidente do Conselho de Cultura, na posse dos novos integrantes do Conselho Municipal de Política Cultural.[^pmc2023] Em outubro daquele ano, o *Diário Corumbaense* anunciou a produtora cultural como mediadora do bate-papo de lançamento de *O Fantástico Relógio da Rute*, de [[eva-vilma|Eva Vilma]], em Corumbá.[^diario2023] Em novembro de 2023, o *Campo Grande News* noticiou a antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], do [[tarja-preta|Coletivo Tarja Preta]], com prefácio dela.[^cgn2023]
 
 Em 2026, conduziu com a professora Elaine Dupas a formação de pareceristas do projeto de extensão A Literatura Liberta, da [[ufms|UFMS]], clube de leitura com pessoas presas nas unidades prisionais de Corumbá. A prefeitura a descreveu como referência em clubes de leitura na região.[^pmc2026] Em outubro, foi anunciada como mediadora da conversa entre Estrela Ruiz Leminski e Renato Negrão no encerramento do projeto [[arte-da-palavra-sesc|Arte da Palavra]], no [[sesc-teatro-prosa|Sesc Teatro Prosa]], em Campo Grande.[^cgn2026]
 

@@ -3,7 +3,7 @@ titulo: A TV Está Ligada
 tipo: obra
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Curta-metragem de 24 minutos de Essi Rafael, produzido pela Casa de Cinema de Aquidauana, que satiriza a relação dos moradores da cidade com o noticiário de televisão. Estreou em 2014 e foi exibido na França em 2015.
+resumo: Curta-metragem de 24 minutos de Essi Rafael, produzido pela Casa de Cinema de Aquidauana, que satiriza o noticiário de televisão sobre violência. Estreou em 2014 e em 2015 foi selecionado para um festival na França.
 ficha:
   Direção: Essi Rafael
   Produção: Casa de Cinema de Aquidauana
@@ -21,7 +21,7 @@ Segundo o diretor, a ideia foi fazer uma sátira do noticiário sobre violência
 
 ## Exibições
 
-O curta estreou em novembro de 2014 no Cinemark e passou depois por Bonito e Corumbá. Foi selecionado para o FesFest'AFilm, festival de cinema lusófono e francófono de Montpellier, na França, marcado para 26 a 29 de novembro de 2015. Segundo o *Campo Grande News*, era a primeira exibição fora de Mato Grosso do Sul.[^cgn2015]
+O curta estreou em novembro de 2014 no Cinemark e passou depois por Bonito e Corumbá. Foi selecionado para o FesFest'AFilm, festival de cinema lusófono e francófono de Montpellier, na França, marcado para 26 a 29 de novembro de 2015. Segundo o *Campo Grande News*, seria a primeira exibição fora de Mato Grosso do Sul.[^cgn2015]
 
 Em março de 2018, foi um dos curtas exibidos a alunos da Escola Municipal Arlindo Lima, em Campo Grande, pelo projeto Campo Grande na Tela, da Marruá Arte e Cultura, com recursos do Fundo Municipal de Investimentos Culturais.[^msn2018]
 

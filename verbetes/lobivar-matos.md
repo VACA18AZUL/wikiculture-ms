@@ -9,7 +9,7 @@ ficha:
   Morte: "Outubro de 1947"
   Atividade: Poesia
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Lobivar Matos** foi um poeta nascido em Corumbá, autor de dois livros publicados na década de 1930.[^araujo2008][^leite2026]

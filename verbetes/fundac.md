@@ -8,24 +8,24 @@ ficha:
   Sigla: Fundac
   Criação (atual): "Lei municipal nº 7.415, de 3 de junho de 2025"
   Gestão: Prefeitura de Campo Grande
-  Fundos geridos: "Fundo Municipal de Investimentos Culturais (FMIC); [[fomteatro|FomTeatro]]"
+  Fundos e editais: "Fundo Municipal de Investimentos Culturais (FMIC); [[fomteatro|FomTeatro]]"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Fundação Municipal de Cultura de Campo Grande**, conhecida pela sigla **Fundac**, é o órgão da Prefeitura de Campo Grande responsável pela política cultural do município. Gere o Fundo Municipal de Investimentos Culturais (FMIC) e o [[fomteatro|FomTeatro]].[^cgn2025b][^cgn2026]
+A **Fundação Municipal de Cultura de Campo Grande**, conhecida pela sigla **Fundac**, é o órgão da Prefeitura de Campo Grande responsável pela política cultural do município. Gere o Fundo Municipal de Investimentos Culturais (FMIC) e conduz as seleções do [[fomteatro|FomTeatro]], de fomento ao teatro.[^cgn2025b][^cgn2026]
 
 ## História
 
-A Fundac já existia em 2014. Em abril daquele ano, Juliana Zorzo tomou posse como presidente e disse ao *Campo Grande News* que encontrou a fundação com contas atrasadas.[^cgn2014] Ela deixou o cargo em março de 2015, depois de uma semana de protestos da classe artística contra a falta de investimento na cultura.[^cgn2015]
+A Fundac já existia em 2014. Em abril daquele ano, Juliana Zorzo tomou posse como presidente e disse ao *Campo Grande News* que planejava oficinas culturais nos bairros e a retomada de projetos tradicionais da fundação.[^cgn2014] Ela deixou o cargo em março de 2015, depois de uma semana de protestos da classe artística contra a falta de investimento na cultura.[^cgn2015]
 
-Depois, a cultura passou a ser tratada pela Secretaria Executiva de Cultura (Secult). As fontes divergem sobre a data: o *Campo Grande News* diz que a Secult foi criada na reforma administrativa da prefeita Adriane Lopes, em dezembro de 2023;[^cgn2025a] o *g1* diz, em junho de 2025, que a pasta tinha sido extinta como fundação seis meses antes.[^g12025] Em 13 de maio de 2025, a Câmara Municipal aprovou por unanimidade o projeto de recriação da Fundac.[^cgn2025a] A Lei nº 7.415, de 3 de junho de 2025, publicada no dia 4, recriou a fundação, com personalidade jurídica de direito público e autonomia administrativa, financeira e funcional, vinculada à Secretaria Municipal de Governo e Relações Institucionais. O orçamento, o pessoal e o acervo da Secult passaram à nova fundação.[^cgn2025b][^pmcg2025]
+Depois, a cultura passou a ser tratada pela Secretaria Executiva de Cultura (Secult). As fontes divergem sobre a data: o *Campo Grande News* diz que a Secult foi criada na reforma administrativa da prefeita Adriane Lopes, em dezembro de 2023;[^cgn2025a] o *g1* diz, em junho de 2025, que a pasta tinha sido extinta como fundação seis meses antes.[^g12025] Em 13 de maio de 2025, a Câmara Municipal aprovou por unanimidade o projeto de recriação da Fundac.[^cgn2025a] A Lei nº 7.415, de 3 de junho de 2025, publicada no dia 4, recriou a fundação (o *g1* dá a sanção como feita no dia 4), com personalidade jurídica de direito público e autonomia administrativa, financeira e funcional, vinculada à Secretaria Municipal de Governo e Relações Institucionais. O orçamento, o pessoal e o acervo da Secult passaram à nova fundação.[^cgn2025b][^pmcg2025]
 
 Pela lei, a Fundac executa políticas para as manifestações da cultura local, protege obras, documentos e bens de valor histórico, artístico ou paisagístico e incentiva a produção cultural.[^cgn2025b][^g12025]
 
 ## Atuação
 
-Em julho de 2026, a Fundac publicou a lista de 126 projetos habilitados para a fase de mérito do FMIC e do FomTeatro.[^pmcg2026] Em setembro, divulgou os resultados preliminares: no FMIC, projetos de 14 áreas culturais; no FomTeatro, 16 projetos classificados.[^cgn2026] Em novembro de 2026, publicou o resultado dos recursos de um edital de produção de curtas-metragens com recursos do FMIC, com R$ 90 mil por projeto, e do edital Cultura nos Trilhos, de murais no viaduto da Rua Maracaju, com recursos da Política Nacional Aldir Blanc.[^acritica2026]
+Em julho de 2026, a Fundac publicou a lista de 126 projetos habilitados para a fase de mérito do FMIC e do FomTeatro.[^pmcg2026] Em setembro, divulgou os resultados preliminares: no FMIC, projetos de 14 áreas culturais; no FomTeatro, 16 projetos classificados.[^cgn2026] Em novembro de 2026, publicou o resultado dos recursos de um edital de produção de curtas-metragens com recursos do FMIC, com R$ 90 mil por projeto: oito recursos foram deferidos e cinco indeferidos. Na mesma ocasião, divulgou a lista de proponentes que recorreram no edital Cultura nos Trilhos, de murais no viaduto da Rua Maracaju, com recursos da Política Nacional Aldir Blanc.[^acritica2026]
 
 [^cgn2014]: Ângela Kempfer e Kleber Clajus, ["Ao tomar posse, Juliana Zorzo diz que encontrou Fundac na 'UTI'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ao-tomar-posse-juliana-zorzo-diz-que-encontrou-fundac-na-uti), *Campo Grande News*, 11 abr. 2014. Acesso em 4 nov. 2026.
 [^cgn2015]: Ângela Kempfer e Kleber Clajus, ["Com saída de Juliana Zorzo, Rodrigo Pimentel deve assumir Fundac"](https://www.campograndenews.com.br/politica/com-saida-de-juliana-zorzo-rodrigo-pimentel-deve-assumir-fundac), *Campo Grande News*, 11 mar. 2015. Acesso em 4 nov. 2026.
