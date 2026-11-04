@@ -46,7 +46,7 @@ A dissertação de mestrado de Jorgina Espindola Ortega de Lima (UFGD, 2013) est
 
 ## Discografia
 
-- *Teré* — disco que reúne participações de Itamar Assumpção, Paulo Lepetit, Toninho Ferragguti, Alzira Espíndola e Pedro Luís e a Parede, entre outros; recebeu o prêmio Marco Verde em 2002.[^asl]
+- *[[tere-emmanuel-marinho|Teré]]* — disco que reúne participações de Itamar Assumpção, Paulo Lepetit, Toninho Ferragguti, Alzira Espíndola e Pedro Luís e a Parede, entre outros; recebeu o prêmio Marco Verde em 2002.[^asl]
 
 ## Espetáculos
 

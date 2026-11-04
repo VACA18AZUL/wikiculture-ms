@@ -26,3 +26,10 @@ Descartadas: Midiamax 13/07/2026 (bloqueado ao abrir).
 ## Uso no verbete
 
 Tudo entrou. Cátia Santos não foi ligada a catia-santos (identidade não confirmada). Bylines de 2015 citadas em outros verbetes não foram reabertas nesta sessão e ficaram fora.
+
+## Atualização de 2026-11-04
+
+- Validação (valn-51): a nota cgn2017 saiu do verbete. A matéria do Campo Grande News de 28 out. 2017 é assinada por "Lucas Arruda", mas nada nela confirma que é o mesmo jornalista diretor de *Barulho do Mato*. Fica aqui como pista.
+- Estreia (13 jul. 2024, Plataforma Cultural) e exibição no MIS (11 set. 2024) vêm de textos da FCMS publicados antes dos eventos; o verbete passou a tratá-los como anúncios.
+- Recorte do filme: o texto de fev. 2024 fala em décadas de 1980 e 1990; os de jul. e set. 2024, em 1980, 1990 e meados dos anos 2000.
+- Busca de segunda fonte: RSS do Google Notícias ("Barulho do Mato" documentário: nenhum resultado; "Lucas Arruda" metal: só homônimos e matéria do Primeira Página de 13 jul. 2024, que não abriu), API do O Estado e busca do Campo Grande News sem resultados. Midiamax de 13 jul. 2026 continua sem abrir. Fonte única: FCMS.

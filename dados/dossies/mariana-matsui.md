@@ -32,3 +32,10 @@ Não abertas (pistas do Google Notícias): Veja SP 19/05/2026, Midiamax 29/10/20
 ## Uso no verbete
 
 Fora: família, gravidez, avó (vida familiar); idade; agenda de shows no Japão (passageira).
+
+## Atualização de 2026-11-04 (r12)
+
+- Nova, aberta e lida: Mariana Piell, "Cantora de MS lança versão de clássico japonês em bossa nova", *Correio do Estado*, Correio B, 27 abr. 2026, https://correiodoestado.com.br/correio-b/2026/04/27/cantora-de-ms-lanca-versao-de-classico-japones-em-bossa-nova.html — nascida em Dourados; mudou-se para São Paulo aos 14 anos; para o Japão em 2021; versão de "Kawa no Nagare no Yō Ni" com Lisa Ono anunciada para 1º/05/2026; agenda no Japão (La Folle Journée Tokyo, J-WAVE); álbum anunciado, majoritariamente em português.
+- Relida a matéria de 24/10/2026 (Leo Ribeiro), já nota ce2026; URL trocada pela nova. Aproveitados: single prévio com produção de Mao Sone; faixas "Somewhere" (com Takuya Kuroda), "Olhos Morenos", "Abençoa", "Oxum (Tua Filha)" (com Saulo Fernandes e Renato Iwai), "Manatsu no Kajitsu"; CD previsto nas lojas japonesas em 18/11/2026 (anúncio); palcos citados (Lisboa, Osaka, Tóquio, Blue Note SP, Billboard Live Tokyo, Blue Note Tokyo, Fuji Rock).
+- Fora: avó, gravidez e filho (vida familiar); agenda de shows de novembro de 2026 (anúncio).
+- Pequena diferença: ce2026 diz que ela estudou canto e violão desde os oito anos; cgn2026 diz que começou a estudar canto aos 8 em Dourados. Compatíveis.

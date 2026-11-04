@@ -26,7 +26,7 @@ Em dezembro de 2025, regia o Coral Arte Viva, do Centro de Arte Viva, que se apr
 
 - *Ternário* — álbum, com músicas regionais de Mato Grosso do Sul.[^cgn2021]
 - *Todos os Lugares* — álbum.[^cgn2021]
-- *Sou Natureza* (2021) — álbum, 13 faixas autorais; edital Cultura e Cidadania (Sectur, Lei Aldir Blanc).[^cgn2021]
+- [[sou-natureza-album|*Sou Natureza*]] (2021) — álbum, 13 faixas autorais; edital Cultura e Cidadania (Sectur, Lei Aldir Blanc).[^cgn2021]
 
 ## Videografia
 

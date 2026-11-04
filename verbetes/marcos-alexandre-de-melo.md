@@ -27,9 +27,12 @@ Em abril de 2022, a lista de projetos habilitados no edital do Fundo de Investim
 
 Em agosto de 2024, a FCMS noticiou que o grupo Identidade Teatral levou *O Vil Metal* à 23ª edição do Festival de Inverno de Bonito, em homenagem aos 30 anos de carreira dos atores Marcos Alexandre, [[yago-garcia|Yago Garcia]] e Fernanda Kunzler. A matéria chama Marcos Alexandre de ator e escritor da peça e registra a fala dele de que o primeiro festival de que o grupo participou foi em 2001.[^fcms2024]
 
+Em julho de 2015, o *Campo Grande News* noticiou a volta da comédia *Noivo por Encomenda*, apresentada pelo grupo Identidade Teatral no espaço do Teatral Grupo de Risco, em Campo Grande. Segundo a matéria, Marcos Alexandre assina o roteiro e divide o palco com Yago Garcia, os dois em seis personagens; o texto tinha sido escrito 20 anos antes, a peça fora montada pela primeira vez no estado em 2004, e o grupo completava 20 anos de experiência em comédia.[^cgn2015]
+
 ## Espetáculos
 
 - *Os Malefícios do Tabaco* (2017) — adaptação, atuação e cenografia; Grupo Identidade Teatral.[^folheto2017] A FCMS registra estreia em 2014.[^fcms2017]
+- *Noivo por Encomenda* (2015, temporada) — roteiro e atuação; Grupo Identidade Teatral.[^cgn2015]
 - *O Vil Metal* (2024) — texto e atuação; Grupo Identidade Teatral, no Festival de Inverno de Bonito.[^fcms2024]
 
 [^folheto2017]: Fundação de Cultura de Mato Grosso do Sul, [*Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017*](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto, 2017. Acesso em 4 nov. 2026.
@@ -37,3 +40,4 @@ Em agosto de 2024, a FCMS noticiou que o grupo Identidade Teatral levou *O Vil M
 [^fcms2022]: Fundação de Cultura de Mato Grosso do Sul, ["FCMS divulga projetos habilitados no edital FIC/MS 2021"](https://www.fundacaodecultura.ms.gov.br/fcms-divulga-projetos-habilitados-no-edital-fic-ms-2021/), 29 abr. 2022. Acesso em 4 nov. 2026.
 [^fcms2024]: Fundação de Cultura de Mato Grosso do Sul, ["FIB 2024: peça teatral discute influência do dinheiro nas relações humanas"](https://www.fundacaodecultura.ms.gov.br/fib-2024-peca-teatral-discute-influencia-do-dinheiro-nas-relacoes-humanas/), 25 ago. 2024. Acesso em 4 nov. 2026.
 [^fcmsPalco]: Karina Lima, ["Noite foi de homenagens na abertura do Boca de Cena no Teatro Glauce Rocha"](https://www.fundacaodecultura.ms.gov.br/noite-foi-de-homenagens-na-abertura-do-boca-de-cena-no-teatro-glauce-rocha/), Fundação de Cultura de Mato Grosso do Sul, 23 maio 2017. Acesso em 4 nov. 2026.
+[^cgn2015]: Adriano Fernandes, ["Escrita há 20 anos, comédia continua atual ao falar da busca pelo grande amor"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/escrita-ha-20-anos-comedia-continua-atual-ao-falar-da-busca-pelo-grande-amor), *Campo Grande News*, 4 jul. 2015. Acesso em 4 nov. 2026.

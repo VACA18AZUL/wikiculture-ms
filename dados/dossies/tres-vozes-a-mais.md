@@ -25,3 +25,4 @@ Buscas sem resultado: Google Notícias (RSS) por "Três vozes a mais"; Brave.
 ## Uso no verbete
 
 - Não redigido: a dissertação não analisa poemas do livro, só o cita como fonte biográfica. Fica para os verbetes de benedito-c-g-lima, angela-maria-perez e valdonei-de-moraes, quando forem escritos.
+- 2026-11-04 (d1-2): situação incorporado-em:benedito-c-g-lima (item já na seção Obras, nota bezerra2024).

@@ -39,3 +39,7 @@
 ## Uso no verbete
 
 - Entraram os fatos acima; tema maternidade só como assunto das tiras.
+
+## Atualização de 2026-11-04 (r12)
+
+- Relida a matéria do Correio B de 12/11/2020 (Naiane Mesquita), nova URL https://correiodoestado.com.br/correio-b/2020/11/12/campo-grandense-marina-duarte-foi-escolhida-para-expor-ilustracoes-no-maior-encontro-da-cultura-pop.html. Já é a nota ce2020 (URL antiga) e o conteúdo (Badaró, mesa digital na CCXP 2020, *O Último Pedaço de Terra* com Tayran Valiente) já está no verbete. Nada mudou. Idade citada na matéria fica fora.

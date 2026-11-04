@@ -31,3 +31,4 @@ Buscas sem resultado: Google Notícias ("Cartas na Manga" Sidney Rezende; "Matus
 ## Uso no verbete
 
 - Não vira verbete próprio: só a participação no 1º Fessul, já registrada no verbete fessul (com nota de Caetano). Sem letra, gravação ou ano de composição em fonte aberta.
+- 2026-11-04 (d1-2): situação incorporado-em:fessul (frase já presente no verbete fessul, nota caetano).

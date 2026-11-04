@@ -51,3 +51,7 @@ Mesmo veículo, autoras diferentes. Busca no Google Notícias não achou outra f
 
 - Validação valn-36-0: nova busca no Google Notícias ("Humberto Mendes" miniaturas; "Humberto Mendes" "Lua de Pano") devolveu só as duas matérias do Campo Grande News. Continua fonte única.
 - Exposição de 2016 era anúncio ("neste próximo sábado"); verbete reescrito. Título "Nighthawks" não está na fonte (só "Aves da Noite"); retirado.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte independente nova. Buscas: Campo Grande News (/buscar?q= "Humberto Mendes" miniaturas/artista; Lua de Pano Campo Grande), API do O Estado MS ("Humberto Mendes": três matérias abertas, nenhuma cita o artista) e RSS do Google Notícias (só as duas matérias do CGN já citadas). Nada mudou.

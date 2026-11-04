@@ -51,3 +51,9 @@ Sem artigo na Wikipédia.
 ## Uso no verbete
 
 - Entrou: tudo acima. Fora: endereço do Sesc, link de pré-venda.
+
+## Atualização de 2026-11-04 (r12)
+
+- Nova, aberta e lida: Alicia Miyashiro, "Ilustradores retratam memórias de Mato Grosso do Sul em forma de histórias em quadrinhos", *Correio do Estado*, Correio B, 5 ago. 2021, https://correiodoestado.com.br/correio-b/2021/08/05/ilustradores-retratam-memorias-de-mato-grosso-do-sul-em-forma-de-historias-em-quadrinhos.html — *A Casa Baís* "acabou de" ser lançada (ago. 2021), sobre Lídia Baís; *A Ausente Ordem das Coisas* selecionada pelo FIC/MS; projeto Gibi MS (Itaú Rumos Cultural, seis autores iniciantes, inscrições abertas); grafite desde 1993 na zona leste de São Paulo; mudança de rumo em 2009 (telas, contos, HQ).
+- Acrescentados: ano de *A Casa Baís* (2021); parágrafo de origem no grafite; parágrafo de 2021. A matéria também traz Wanick Correa e Marcos Pedrossian Coelho (nomes possíveis para a lista-mestra; não propostos aqui). Idade fora.
+- Não confirmado: se a coletânea do Gibi MS foi publicada.

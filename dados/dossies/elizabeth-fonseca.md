@@ -39,3 +39,9 @@
 ## Uso no verbete
 
 - Entrou tudo acima. Dados pessoais da página (contatos, família) ficaram fora.
+
+## Atualização de 2026-11-04 (r12)
+
+- Nova, aberta e lida: Marcos Pierry, "Elizabeth Fonseca lança o livro 'Pedro Pato no Pantanal', com ilustrações de Marina Torrecilha", *Correio do Estado*, Correio B, 12 jul. 2023, https://correiodoestado.com.br/correio-b/2023/07/12/elizabeth-fonseca-lanca-o-livro-pedro-pato-no-pantanal-com-ilustracoes-de-marina-torrecilha.html — *Pedro Pato no Pantanal* (Life), limeriques; ilustrações de Marina Maksoud Torrecilha Cardoso; audiolivro com declamação da autora e trilha de Gilson Espíndola e Gabriel Andrade; FIC-MS; projeto em escola estadual de Terenos (dois meses, ~60 crianças); lançamento anunciado para 12/07/2023 no IHGMS; oficina de limeriques com Leo Cunha em 2018 (não levada ao verbete); mais de 30 anos de declamação; membro da ASL (reforça).
+- Percentuais de doação de exemplares ficaram fora.
+- Com a página da ASL, o Dourados News/Diário Itaporã (2020) e o Correio (2023), o verbete tem fontes independentes.

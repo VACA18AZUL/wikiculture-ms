@@ -60,3 +60,7 @@ Fontes novas abertas e lidas (todas da FCMS; mesma instituição do catálogo do
 DIVERGÊNCIA registrada no verbete: "corumbaense" (FCMS 2018) x artista boliviano (FCMS 2019) x "nasceu na Bolívia, em 1947" (catálogo do MARCO). Registrar em `observacoes` da lista-mestra.
 
 Fora do verbete: Ruberth/Romã Rosário Román Anez (curador do FASP 2019 e ligado ao TGR), outra pessoa; sem relação afirmada nas fontes. Sem resultado: Correio do Estado, A Crítica, BDTD; a tese da UFMS (2025) continua sem abrir.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN, API do O Estado MS e RSS do Google Notícias ("Ruben Dario" Corumbá pintor; Román Añez). Resultado do O Estado (30 jul. 2022, agenda) aberto: não cita o pintor. Nada mudou.

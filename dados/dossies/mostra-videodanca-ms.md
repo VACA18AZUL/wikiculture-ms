@@ -33,3 +33,7 @@
 
 - Ano e local da 1ª edição; edições após 2014; curadoria.
 - Quais filmes listados na matéria de 2013 eram de MS (a lista não separa locais e nacionais) — não usados.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN (Semana pra Dança videodança; Semana pra Dança 2013), API do O Estado MS (Mostra de Videodança: só 2021-2025, outras mostras), RSS do Google Notícias (só mostras de outros estados). Nada mudou.

@@ -41,4 +41,4 @@ Buscas sem resultado útil: busca do CGN ("Galeria 118", "Ateliê 118", "Guido D
 
 ## Uso no verbete
 
-- Sem verbete próprio: só um veículo. Sugestão: frase no verbete motiro-projeto (grupo w24-1), com as duas notas acima.
+- Sem verbete próprio: só um veículo (CGN). 2026-11-04 (d1-2): incorporado em verbetes/guido-drummond.md, que já citava a Galeria 118 (cgn2018a); acrescentada a abertura como Ateliê 118 (25/08/2018), fachada e divergência sobre a idade da casa, nota cgn2018b. Ficou de fora a Cozinha Experimental (plano, não fato consumado).

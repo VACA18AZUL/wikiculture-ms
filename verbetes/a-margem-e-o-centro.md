@@ -23,17 +23,17 @@ atualizado: 2026-11-04
 
 Thauanny Maíra morava nas Moreninhas e fez o filme com recursos da Lei Aldir Blanc. Segundo ela, chamou colegas do bairro para a equipe, para que as pessoas de lá se sentissem parte do audiovisual e falassem do lugar onde vivem.[^fcms2021] A apresentação do vídeo credita a realização ao Governo de Mato Grosso do Sul, por meio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], com recursos da Lei Aldir Blanc.[^yt2021]
 
-O vídeo estreou no YouTube em 14 de junho de 2021.[^yt2021] Em agosto de 2021, a Fundação de Cultura o incluiu numa lista de filmes sobre Campo Grande organizada pelo [[mis-ms|Museu da Imagem e do Som]] para o aniversário de 122 anos da cidade.[^fcms2021][^fcmslista] Em 2026, reportagens sobre o documentário *Chamas da Tradição* apresentaram *A Margem é o Centro* como o primeiro documentário da diretora, feito quando ela tinha 20 anos.[^cgn2026][^acritica2026]
+O vídeo estreou no YouTube em 14 de junho de 2021.[^yt2021] Em agosto de 2021, a Fundação de Cultura o incluiu numa lista de filmes sobre Campo Grande organizada pelo [[mis-ms|Museu da Imagem e do Som]] para o aniversário de 122 anos da cidade.[^fcms2021][^fcmslista] Em 2026, reportagens sobre o documentário *Chamas da Tradição*, da mesma diretora, citaram *A Margem é o Centro* como trabalho anterior dela; a *A Crítica* o chamou de seu primeiro documentário.[^cgn2026][^acritica2026]
 
 ## Ficha técnica
 
 - Direção e roteiro: [[thauanny-maira|Thauanny Maíra]][^yt2021][^fcmslista]
 - Montagem: [[thauanny-maira|Thauanny Maíra]][^yt2021]
-- Produção executiva: [[raylson-chaves|Raylson Chaves]][^yt2021]
+- Produção executiva: Raylson Chaves[^yt2021]
 - Produção: Habner Dias[^yt2021]
 - Câmera: [[caina-siqueira|Cainã Siqueira]][^yt2021]
 - Drone: Douglas Correia[^yt2021]
-- Som direto: [[vitor-zan|Vitor Zan]][^yt2021]
+- Som direto: Vitor Zan[^yt2021]
 - Finalização: Matheus Loureiro[^yt2021]
 - Making-of: Geiciane Feitosa[^yt2021]
 - Fotografia still: Muriel Xavier[^yt2021]

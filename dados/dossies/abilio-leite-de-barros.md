@@ -34,3 +34,9 @@ Descartadas: ensaio de Raquel Naveira no repositório RCAAP (bloqueado por anti-
 ## Uso no verbete
 
 - Entraram os fatos acima. Nome dos pais e morte do pai (1949) ficaram fora.
+
+## Atualização de 2026-11-04 (r12)
+
+- Nova, aberta e lida: Mariana Piell, "ASL homenageia hoje o escritor Abílio de Barros na Roda Acadêmica", *Correio do Estado*, Correio B, 28 ago. 2025, https://correiodoestado.com.br/correio-b/2025/08/28/asl-homenageia-hoje-o-escritor-abilio-de-barros-na-roda-academica.html — nascido em Corumbá, 15/01/1929; morto em 28/10/2019, aos 90 anos, em hospital de Campo Grande; escritor, advogado, filósofo, pecuarista; cadeira 32; Filosofia no Rio; deixou a docência universitária para a fazenda; primeiras crônicas no jornal do sindicato rural de Campo Grande; movimento contra a matança de jacarés (anos 1980), "Guardião do Pantanal"; selo dos Correios (abr. 2015, Expogrande); nove livros (lista no verbete, sem anos); Roda Acadêmica de 28/08/2025 (anúncio) com Américo Calheiros, Marisa Serrano e Raquel Naveira.
+- Fora: nomes da esposa e dos filhos, internação (saúde).
+- Pequena diferença: a matéria diz 12 anos de diferença para Manoel de Barros; não levada ao verbete.

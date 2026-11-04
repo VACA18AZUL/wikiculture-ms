@@ -26,6 +26,8 @@ Tomou posse na Academia em 25 de setembro de 2012.[^asl] Em 2020, foi anunciado 
 
 Recebeu o certificado Amigo da Cultura, da Fundac, em 2005, 2006 e 2007, e o prêmio Mérito Literário da IV Femerco – Feira do Livro do Mercosul, em Campo Grande, em 2007.[^asl]
 
+Em julho de 2023, o *Correio do Estado* noticiou o lançamento de *Pedro Pato no Pantanal* (Life Editora), livro infantil sobre a fauna, a flora e as queimadas do Pantanal, todo escrito em limeriques, poemas curtos e humorados de cinco versos. As ilustrações são de Marina Maksoud Torrecilha Cardoso. O livro traz por QR Code um audiolivro declamado pela autora, com trilha de sons do Pantanal feita por Gilson Espíndola e Gabriel Andrade. O projeto, financiado pelo Fundo de Investimentos Culturais de MS, levou o livro por dois meses a turmas de quarto e quinto ano de uma escola estadual de Terenos. O lançamento foi marcado para 12 de julho de 2023, no Instituto Histórico e Geográfico de Mato Grosso do Sul. Segundo a matéria, ela tinha mais de 30 anos de experiência em declamação.[^ce2023]
+
 ## Obras
 
 - *Sonhos Azuis* (1991) — poesias e crônicas.[^asl]
@@ -33,6 +35,8 @@ Recebeu o certificado Amigo da Cultura, da Fundac, em 2005, 2006 e 2007, e o pr�
 - *Além da Janela* (2008) — poesias e crônicas.[^asl]
 - *Contexto poético de Castro Alves e Thiago de Mello – Subsídios para uma declamação comentada*.[^asl]
 - *Vertentes: nossos poemas* (2020) — poesia, em coautoria; Life Editora.[^asl][^dn2020]
+- *Pedro Pato no Pantanal* (2023) — infantil, em limeriques; ilustrações de Marina Maksoud Torrecilha Cardoso; Life Editora.[^ce2023]
 
 [^asl]: ["Elizabeth Fonseca"](https://acletrasms.org.br/portfolio-item/elizabeth-fonseca/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 25. Acesso em 4 nov. 2026.
+[^ce2023]: Marcos Pierry, ["Elizabeth Fonseca lança o livro \"Pedro Pato no Pantanal\", com ilustrações de Marina Torrecilha"](https://correiodoestado.com.br/correio-b/2023/07/12/elizabeth-fonseca-lanca-o-livro-pedro-pato-no-pantanal-com-ilustracoes-de-marina-torrecilha.html), *Correio do Estado*, caderno Correio B, 12 jul. 2023. Acesso em 4 nov. 2026.
 [^dn2020]: Dourados News, ["Livro que reúne cinco poetas de MS será lançado na próxima semana"](https://www.diarioitapora.com.br/noticias/cultura-lazer/livro-que-reune-cinco-poetas-de-ms-sera-lancado-na-proxima-semana/), republicado por *Diário Itaporã*, 2 mar. 2020. Acesso em 4 nov. 2026.

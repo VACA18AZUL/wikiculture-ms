@@ -50,3 +50,7 @@ Fontes novas abertas e lidas (FCMS, texto de assessoria de comunicação, outro 
 Divergência de grafia: Melo (folheto 2017; FIC 2022) x Mello (FCMS 23 maio 2017). Mantida no texto.
 Não resolvido: quando ele se mudou para São Paulo e se voltou a Campo Grande (a FCMS de 2017 o mostra professor em escolas estaduais de Campo Grande e atuando). Datas da coordenação do Identidade Teatral: sem fonte. Lida e não usada: Correio do Estado, "Cia Identidade Teatral se apresenta hoje", 27 out. 2011 (grupo, *O rei que não sabia rir*, Quinta Cultural na Orla), não cita Marcos.
 Dados pessoais deixados fora: nenhum.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida (Campo Grande News, veículo diferente da FCMS e do folheto da Boca de Cena; busca buscar?q="Identidade Teatral"): Adriano Fernandes, "Escrita há 20 anos, comédia continua atual ao falar da busca pelo grande amor", 4 jul. 2015: Noivo por Encomenda, grupo Identidade Teatral, roteiro de Marcos Alexandre, atuação dele e de Yago Garcia (seis personagens), texto de 20 anos, primeira montagem no estado em 2004, temporada no Teatral Grupo de Risco. O folheto de 2017 liga Noivo por encomenda ao Grupo Palco; a matéria liga ao Identidade Teatral (as duas versões ficam no verbete, cada uma com sua nota). Também lidas: CGN 6 nov. 2014 (Os Malefícios do Tabaco pelo Identidade Teatral, 8 e 9 nov., Teatro Aracy Balabanian, supervisão de Christiane Araújo; não cita Marcos; não usada) e CGN 24 e 26 mar. 2013 (O Rei que não sabia rir, do grupo; não citam Marcos). Novo parágrafo e item em Espetáculos com [^cgn2015].
