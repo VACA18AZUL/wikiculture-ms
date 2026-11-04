@@ -18,3 +18,9 @@ Fatos novos:
 - Edição 2022 do prêmio: Mix Literário e Editora Reformatório; originais de autores LGBTQIA+ residentes no Brasil; contrato de publicação [aboio]. O boletim não cita Febraro.
 
 Observações: a matéria de 2022 traz fala do autor sobre o lugar onde nasceu; ficou fora (dado pessoal). A segunda matéria é do mesmo veículo; a fonte independente (aboio) só confirma o prêmio, não o autor.
+
+## Atualização de 2026-11-04 (reforço, tag r-2)
+
+- Aberta e lida: Aly Freitas, Teatrine TV, 25 nov. 2023, https://www.teatrinetv.com.br/literatura/com-livro-sobre-invisibilidade-lgbt-febraro-chega-a-flip/18362/. Veículo diferente do Campo Grande News (Campo Grande, MS). Confirma: autor de *Uirapuru* (romance) e *Caixa D'água* (poemas); 3º Prêmio Caio Fernando de Abreu de Literatura e contrato com a Editora Reformatório; lançamento em 17 nov. 2023 na Biblioteca Mário de Andrade (SP); caso real do interior do Pará (jan. 2022); presença na 21ª Flip (25 nov. 2023). Preço, idade, falas pessoais, o caso de uma artista drag morta em Campo Grande e a menção a Instagram ficam fora.
+- Divergência de lançamento: Campo Grande News (31 out. 2023) = lançamento marcado para 9 dez., Campo Grande; Teatrine TV (25 nov. 2023) = lançado em 17 nov., São Paulo. Registrada no verbete, sem escolha. Registrar em `observacoes` da lista-mestra.
+- Resultados de busca não abertos: Le Monde Diplomatique Brasil, resenha "Caixa d'água, de Febraro de Oliveira: delicadezas submersas" (https://diplomatique.org.br/caixa-dagua-febraro-de-oliveira/; 403); Goodreads, Google Books, Amazon, Mercado Livre (catálogos; só confirmam a edição pela Reformatório). Resumo de busca diz que o autor nasceu em Campo Grande em 1998 (fonte Escavador/Teatrine?): não confirmado e dado pessoal, fora do verbete.

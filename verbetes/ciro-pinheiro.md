@@ -2,7 +2,7 @@
 titulo: Ciro Pinheiro
 tipo: pessoa
 areas: [musica]
-resumo: Compositor de Mato Grosso do Sul, parceiro de Jerry Espíndola em "Colisão", canção de 1985 apontada por pesquisadores como a primeira polca-rock.
+resumo: Compositor, parceiro de Jerry Espíndola em "Colisão", canção de 1985 apontada por pesquisadores como a primeira polca-rock.
 ficha:
   Atividade: Composição
 status: rascunho

@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Luciano Serafim** é um escritor e poeta que vive em Dourados, Mato Grosso do Sul, desde 1994. Escreve poesia, contos, literatura infantojuvenil e roteiros de histórias em quadrinhos.[^lopes2018]
+**Luciano Serafim** é um escritor e poeta que vive em Dourados, Mato Grosso do Sul, desde 1994. Escreve poesia, contos e literatura infantojuvenil, e fez roteiros de histórias em quadrinhos.[^lopes2018]
 
 ## Trajetória
 
@@ -27,11 +27,11 @@ Em 2022, estava entre os autores anunciados na segunda edição da [[felit-ms|Fe
 
 - *Eu, entre nós* (2002), poemas, com apoio do Fundo de Investimentos Culturais da Fundação de Cultura de MS.[^lopes2018]
 - *Medos* (2003), história em quadrinhos ilustrada por Eugenio Colonnesi, pela Editora Escala.[^lopes2018]
-- *Outro dia a gente sai* (2003), contos, pelo Grupo Literário Arandu.[^lopes2018]
+- *Outro dia a gente sai* (2003), contos.[^lopes2018]
 - *Patrimônio Cultural de Mato Grosso do Sul: Identidades e Memórias* (2007), organizado com Carlos Magno Mieres Amarilha e Nicanor Coelho.[^lopes2018]
 - *Mordendo as lábias* (2008), poemas.[^lopes2018]
 - *Curumim de asfalto* (2009), infantojuvenil.[^lopes2018]
-- *Raiz transeunte* (2013), poemas, pelo Arrebol Coletivo Literário.[^lopes2018]
+- *Raiz transeunte* (2013), poemas.[^lopes2018]
 - *Sururu com Coca-Cola* (2016), poemas.[^lopes2018]
 
 Em 2003, publicou contos na revista *Fórum Xanadu* e roteiros de quadrinhos na revista *Hentai X*, ambas da Editora Gênero.[^lopes2018]
