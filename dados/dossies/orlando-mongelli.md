@@ -42,3 +42,7 @@ Fonte nova (independente do Campo Grande News):
 - ce2018 — Glaucea Vaccari, "Professor e referência no teatro de MS, Orlando Mongelli morre em Campo Grande", Correio do Estado, publicado em 07/05/2018 (URL com data 08/05). Morreu na manhã de segunda-feira (07/05/2018) aos 85 anos; um dos criadores e integrantes do TUC em 1961, com Maria da Glória Sá Rosa e Sílvio Torrecilha; Jair Damasceno lembra a homenagem de 2011 no lançamento de "Vozes do Teatro" e a referência para os grupos a partir de 1970; homenagem de Pietro Lara (Trupe Bobos da Plebe). Traz também dado religioso, local de sepultamento e informações da família: ficaram fora (dados pessoais).
 
 Divergência registrada: idade na morte — 89 anos (CGN) e 85 anos (Correio do Estado). As duas versões no verbete e na ficha. A data de criação do TUC (1961 no CGN e no Correio; 1967 em Moser) continua registrada.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 55: ator de Os Filmes Cegos de Angel Larrea (2008); citado com Abboud Lahdo como protagonista de Paralelos Trágicos (1966). Na p. 38, o elenco de Paralelos Trágicos não traz Mongelli: divergência interna registrada no verbete. Identidade com o professor e ator de teatro: nome raro, Campo Grande, mesma época; Neves não dá outros dados. Área audiovisual não acrescentada à ficha.

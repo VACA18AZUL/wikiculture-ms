@@ -14,3 +14,8 @@ Segunda fonte: não buscada; a cota de buscas na web desta rodada acabou.
 - Divergência leve: Diehl atribui a realização aos irmãos Lahdo (e grafa Abud/Abboud); o Campo Grande News dá a direção a Abboud Lahdo e grafa "Bernardo Laho". Registrar em `observacoes` da lista-mestra. Ano: a matéria traz 1965 (mesma data de Pinheiro e Fischer, 2008, citados por Diehl); a versão "1965-66" continua só em Diehl.
 - Buscas abertas (2): só essa matéria tratou do filme. Pistas não abertas: Pinheiro e Fischer (2008, p. 77), citados por Diehl; MIS-MS; Sá e Castilho (citados no verbete irmaos-lahdo).
 - Não afirmei o parentesco de "Bernardo Laho" com os irmãos: a matéria não diz.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 38 e 55: 1966; primeiro filme inteiramente produzido e filmado em Campo Grande; baseado em romance de Bernardo Elias Lahdo; direção Abboud Lahdo; fotografia Armando Barreto; montagem Luiz Elias; equipe José Octávio "Gizzo" e Irineu Higa; elenco local (lista na p. 38). Na p. 55 cita Orlando Mongelli e Abboud Lahdo como protagonistas, mas Mongelli não está na lista de elenco da p. 38: divergência interna, registrada na ficha técnica com atribuição.
+- Datas agora: 1965 (Diehl/Pinheiro e Fischer; CGN 2021), 1965-66 (Diehl), 1966 (Neves).

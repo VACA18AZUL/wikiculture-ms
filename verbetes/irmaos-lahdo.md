@@ -22,11 +22,13 @@ Com dificuldade para obter recursos, mas com mobilização da sociedade campo-gr
 
 Os irmãos também fundaram dois cinemas em Campo Grande, o Cine Acapulco e o Cine Jalisco.[^sa246] Segundo Pinheiro e Fischer (2008), citados por Diehl, a cópia original de *Paralelos Trágicos* derreteu no incêndio do Cine Acapulco, em 2000; a família guarda partes da película e uma cópia incompleta em 16 mm.[^diehl37]
 
+Alexandre Aldo Neves também registra a fundação da Lahdo Produções Cinematográficas em 1958 por Bernardo Elias e Abud Lahdo, com o cinejornal *Mato Grosso em Marcha*, citando Idara Duncan (2006). Segundo Neves, *Paralelos Trágicos*, de 1966, baseado em romance de Bernardo Elias Lahdo e dirigido por Abboud Lahdo, foi o primeiro filme inteiramente produzido e filmado em Campo Grande.[^neves]
+
 A grafia do sobrenome varia na própria bibliografia: Diehl usa "Lahdo" no texto, mas reproduz citação que escreve "Ladho" e nomeia "Abboud".[^diehl37]
 
 ## Filmografia
 
-- [[paralelos-tragicos|*Paralelos Trágicos*]] (1965 ou 1965-66) — longa-metragem de ficção, produzido pelos irmãos Lahdo. Diehl indica "1965-66" no texto e "1965" em citação de Pinheiro e Fischer (2008), na mesma obra. Conta a história de dois jovens que não conseguem viver uma paixão por causa das diferenças sociais.[^diehl37]
+- [[paralelos-tragicos|*Paralelos Trágicos*]] (1965, 1965-66 ou 1966, conforme a fonte) — longa-metragem de ficção, produzido pelos irmãos Lahdo. Diehl indica "1965-66" no texto e "1965" em citação de Pinheiro e Fischer (2008), na mesma obra; Neves indica 1966.[^neves] Conta a história de dois jovens que não conseguem viver uma paixão por causa das diferenças sociais.[^diehl37]
 - *Mato Grosso em Marcha* (a partir de 1958) — série de cinejornais da Lahdo Produções Cinematográficas.[^diehl36]
 - [[honra-longa|*Honra*]] (2013) — longa-metragem de Alexandre Couto; atuação de Abboud Lahdo.[^cgn-honra2014]
 
@@ -35,3 +37,4 @@ A grafia do sobrenome varia na própria bibliografia: Diehl usa "Lahdo" no texto
 [^sa246]: Flaviana Miranda da Silva de Sá e Maria Augusta de Castilho, ["Os espaços cinematográficos em Campo Grande – MS"](https://revistas.pucsp.br/index.php/cordis/article/download/28098/19770/74033), *Cordis. História, Cinema e Política*, n. 16, p. 237-268, jan./jun. 2016, p. 246. Acesso em 29 out. 2026.
 [^campestrini]: Diehl, *Filme sertanejo*, UFMS, 2009, p. 36, citando Campestrini (1976, p. 29). Acesso em 29 out. 2026.
 [^cgn-honra2014]: Ângela Kempfer, ["Com estética de quem faz cinema na garra, 'Honra' será exibido hoje no MIS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-estetica-de-quem-faz-cinema-na-garra-honra-sera-exibido-hoje-no-mis), *Campo Grande News*, 20 ago. 2014. Acesso em 4 nov. 2026.
+[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 25 e 38. Acesso em 4 nov. 2026.

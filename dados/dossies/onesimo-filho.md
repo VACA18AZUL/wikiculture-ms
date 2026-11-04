@@ -75,3 +75,7 @@ Observação: as falas de Onésimo em Caetano vêm de entrevista concedida a Pau
 Fonte nova: Ian Rari Nogueira Faria, *Contribuições da música regional...*, dissertação, UFMS/Aquidauana, 2024 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682). Lidas as p. 55 e 57-58 do PDF. Nota `faria2024`.
 
 - Faria só cita Onésimo dentro de trechos longos de Caetano (2012, p. 34 e 49): lista de participantes de 1967 e retomada dos festivais com o FESSUL. Não é fonte independente. Acrescentada uma frase que diz isso.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 38: Onésimo Filho no elenco de Paralelos Trágicos (1966). A identidade com o jornalista da TV Morena se apoia no obituário do Correio do Estado (2012), que já registra a participação dele no filme.

@@ -25,7 +25,9 @@ Filho de imigrantes italianos, estudou no Colégio Dom Bosco e, aos 15 anos, tra
 
 Na música, compôs *Mané Bento – Vaqueiro do Pantanal*, premiada como melhor composição no I Festival de Música Popular Brasileira de Campo Grande, em 1967, e *João Galo, Pistoleiro Matador*, segundo lugar no III Festival, em 1969. Organizou alguns dos Festivais Sul-mato-grossenses de Música, nos quais também foi jurado, produzidos pela TV Morena entre 1979 e 1981.[^marin]
 
-No cinema, fundou a produtora Seriema Filmes com João José de Souza Leite e [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]]. A produtora tentou fazer um longa sobre Silvino Jacques, que não foi concluído por falta de recursos.[^marin]
+No cinema, fundou a produtora Seriema Filmes com João José de Souza Leite e [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]]. A produtora tentou fazer um longa sobre Silvino Jacques, que não foi concluído por falta de recursos.[^marin] Alexandre Aldo Neves chama a produtora de Siriema Filmes e atribui a ela o curta *Conceição dos Bugres* (1980), dirigido por Fonseca e premiado no Festival de Brasília. Neves também o inclui, com a grafia Gizzo, na equipe técnica do longa [[paralelos-tragicos|*Paralelos Trágicos*]] (1966), dos [[irmaos-lahdo|irmãos Lahdo]].[^neves]
+
+Segundo Neves, Guizzo documentou a história dos cinejornais e de outras produções do antigo Mato Grosso no livro *Esboço Histórico do Cinema em Mato Grosso*, e em 1984 transformou o roteiro de *Alma do Brasil* e documentos sobre o lançamento do filme em livro com o mesmo nome.[^neves]
 
 ## Fundação de Cultura
 
@@ -59,3 +61,4 @@ Sua trajetória foi tema de um texto de [[maria-da-gloria-sa-rosa|Maria da Glór
 [^cgn2019]: Kimberly Teodoro, ["Colecionador, José Octávio Guizzo deixou dossiê cultural do estado"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/colecionador-jose-octavio-guizzo-deixou-dossie-cultural-do-estado), *Campo Grande News*, 5 jun. 2019. Acesso em 4 nov. 2026.
 [^cgn2024]: Jéssica Fernandes, ["Após 8 anos, Centro Cultural José Octavio Guizzo reabre as portas"](https://www.campograndenews.com.br/lado-b/diversao/apos-8-anos-centro-cultural-jose-octavio-guizzo-reabre-as-portas), *Campo Grande News*, 20 mar. 2024. Acesso em 4 nov. 2026.
 [^amizo]: Isabella Banducci Amizo, [*Poética dos Bugres: uma incursão sobre arte, identidade e o outro*](https://sigpos.ufms.br/portal/trabalho-arquivos/download/2239), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2015, p. 20. Acesso em 4 nov. 2026.
+[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 25-27, 38, 48 e 50. Acesso em 4 nov. 2026.

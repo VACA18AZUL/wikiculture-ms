@@ -21,6 +21,8 @@ atualizado: 2026-11-04
 
 Diehl cita Luxardo e Wulfes como exemplos de técnicos formados pela produção regional que depois se profissionalizaram nos grandes centros.[^diehl] Segundo a dissertação, *Alma do Brasil* mistura documentário, reconstituição histórica e ficção, e teve como atores moradores de Campo Grande. O sucesso levou os produtores a planejar outros filmes, mas a inexperiência e a falta de recursos fizeram os projetos parar. Em trecho de Luiz Carlos Borges citado na dissertação, um desses projetos, *O Anhangüera*, virou, em associação com a Cinédia, o musical *Caçando Feras* (1936), com imagens filmadas em Mato Grosso.[^diehl]
 
+Alexandre Aldo Neves registra que Luxardo e Wulfes fundaram em Campo Grande, em 1930, a produtora Fan Filmes para realizar *Alma do Brasil*. Segundo ele, a dupla voltou a trabalhar junta em 1936 no longa *Caçando Feras* (Lux Filmes), com patrocínio da Cinédia, de Adhemar Gonzaga, filmado em fazendas do Pantanal perto de Corumbá; Luxardo fez a direção geral e Wulfes, fotografia e câmera.[^neves]
+
 Advaldo Castro Neto registra que Luxardo chegou a Belém do Pará em 1939, depois de filmar *Alma do Brasil*, *Caçando Feras* e *Aruanã* (1938). Na capital paraense viveu 41 anos e fez 14 filmes, quatro deles longas-metragens. O artigo diz que ele também foi bancário, leiloeiro judicial, deputado e escritor, e que mesmo críticos de seus filmes destacavam a fotografia.[^castro]
 
 ## Divergências
@@ -32,7 +34,7 @@ Diehl data *Alma do Brasil* de 1930.[^diehl] Castro Neto o data de 1932.[^castro
 Filmes ligados ao período em Mato Grosso, segundo Diehl e Castro Neto:[^diehl][^castro]
 
 - [[alma-do-brasil|Alma do Brasil]] (1930 ou 1932, conforme a fonte) — longa-metragem; codireção com Alexandre Wulfes.[^diehl][^castro]
-- *Caçando Feras* (1936) — musical com imagens filmadas em Mato Grosso, segundo trecho de Borges citado por Diehl; Castro Neto o inclui entre os filmes de Luxardo.[^diehl][^castro]
+- *Caçando Feras* (1936) — musical com imagens filmadas em Mato Grosso, segundo trecho de Borges citado por Diehl; Castro Neto o inclui entre os filmes de Luxardo. Neves atribui a Luxardo a direção geral.[^diehl][^castro][^neves]
 
 Filmes feitos em Belém, segundo Castro Neto:[^castro]
 
@@ -43,3 +45,4 @@ Filmes feitos em Belém, segundo Castro Neto:[^castro]
 
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 26 e 34-35. Acesso em 4 nov. 2026.
 [^castro]: Advaldo Castro Neto, ["Por uma leitura crítica de Um dia qualquer"](https://anpap.org.br/anais/2012/pdf/simposio11/advaldo_castro_neto.pdf), anais do encontro da ANPAP, 2012, simpósio 11, p. 1877-1878 e 1881. Acesso em 4 nov. 2026.
+[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 26 e 33. Acesso em 4 nov. 2026.

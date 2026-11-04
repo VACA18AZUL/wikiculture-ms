@@ -48,3 +48,7 @@ Fontes descartadas e o motivo:
 - Corrigido: Páginas corrigidas.
 - Atenção: Nada além da codireção de *Alma do Brasil*; Castro Neto só o cita de passagem.
 - Atenção: Ano 1930 x 1932 registrado.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 26 e 33: "corumbaense"; Fan Filmes (1930); documentários sobre caçadas e garimpos (via Duncan 2006, p. 116); Caçando Feras (1936), fotografia e câmera. A naturalidade vem só de Neves; não foi posta na ficha (campo cidade/nascimento) por ser adjetivo sem data ou detalhe; registrada no texto com atribuição.

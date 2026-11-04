@@ -69,3 +69,7 @@ Fontes descartadas e o motivo:
 
 - Entrou: tudo de "Trajetória" acima, com a divergência sobre o curta.
 - Fora: dados só da Wikipédia; nome da esposa (vida familiar); endereço e telefone do IHGMS.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 25-27, 38, 48 e 50: *Esboço Histórico do Cinema em Mato Grosso* (a bibliografia de Neves, p. 57, dá Campo Grande, Correio da Serra, 1974; não posto no verbete por estar só na bibliografia); livro *Alma do Brasil* (1984 no texto; a bibliografia dá UFMS, 1985: divergência interna de Neves, não levada ao verbete); equipe técnica de Paralelos Trágicos (grafado "Gizzo"); Siriema Filmes; Conceição dos Bugres dirigido por Cândido.

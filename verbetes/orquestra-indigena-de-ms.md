@@ -5,7 +5,7 @@ areas: [musica]
 cidade: Campo Grande
 resumo: "Orquestra de crianças e jovens terena e guarani criada em 2016 na aldeia urbana Darcy Ribeiro, em Campo Grande, em projeto da Fundação Ueze Zahran, com direção do maestro Eduardo Martinelli."
 ficha:
-  Fundação: "2016, aldeia urbana Darcy Ribeiro, Campo Grande"
+  Fundação: "2016 ou novembro de 2015 (as fontes divergem), aldeia urbana Darcy Ribeiro, Campo Grande"
   Integrantes: "Crianças e adolescentes terena e guarani"
   Direção: "[[eduardo-martinelli|Eduardo Martinelli]]"
 status: rascunho
@@ -17,6 +17,8 @@ A **Orquestra Indígena de Mato Grosso do Sul**, também chamada Orquestra Indí
 ## Trajetória
 
 Segundo a Fundação de Cultura de MS, a orquestra resulta de um projeto social de ensino de música da Fundação Ueze Zahran.[^fcms2024] O repertório junta música de concerto, canções populares brasileiras e cantos tradicionais indígenas.[^ln2025][^fcms2024]
+
+Em abril de 2023, *O Estado de Mato Grosso do Sul* a chamou de Orquestra Indígena de Campo Grande e deu a criação como novembro de 2015, pela Fundação Ueze Elias Zahran, na aldeia urbana Darcy Ribeiro. Tinha então 37 alunos, com aulas de violino, viola, violoncelo e contrabaixo, além de sopros e percussão, sob regência de Eduardo Martinelli e coordenação de Jardel Tartari. Segundo o coordenador, mais de 90% dos alunos eram terena. Naquele mês, a orquestra tocou no Abril Indígena, no Memorial da Cultura Indígena, e no 1º [[festival-de-todos-os-povos-festop|Festival de Todos os Povos]], em Dourados. O projeto tinha recursos da Lei Rouanet, patrocínio da Energisa e recursos da fundação.[^oestado2023]
 
 Em agosto de 2023, o [[encontro-com-a-musica-classica|Encontro com a Música Clássica]], em Campo Grande, incluiu a Orquestra Indígena entre os programas educacionais que se apresentariam com a Orquestra Sinfônica Municipal de Campo Grande.[^cgn2023]
 
@@ -36,3 +38,4 @@ Em outubro de 2026, a orquestra estava entre as atrações anunciadas para a 20�
 [^fcms2025b]: Fundação de Cultura de MS, ["MC Anarandà lança o videoclipe de 'Mãe' com participação da Orquestra Indígena"](https://www.fundacaodecultura.ms.gov.br/mc-anaranda-lanca-o-videoclipe-de-mae-com-participacao-da-orquestra-indigena/), set. 2025. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Agosto terá Festival de Música Clássica com entrada gratuita"](https://www.campograndenews.com.br/lado-b/diversao/agosto-tera-festival-de-musica-classica-com-entrada-gratuita), *Campo Grande News*, 27 jul. 2023. Acesso em 4 nov. 2026.
 [^acritica2026]: Pietro Bitencourt, ["Encontro com a Música Clássica começa neste domingo com programação gratuita"](https://acritica.net/cultura/encontro-com-a-musica-classica-comeca-neste-domingo-com-programacao-gratuita/), *A Crítica de Campo Grande*, 3 out. 2026. Acesso em 4 nov. 2026.
+[^oestado2023]: Livia Bezerra, ["Orquestra Indígena de Campo Grande é o único grupo indígena tocando música erudita, do Brasil"](https://oestadoonline.com.br/arte-e-lazer/orquestra-indigena-de-campo-grande-e-o-unico-grupo-indigena-tocando-musica-erudita-do-brasil/), *O Estado de Mato Grosso do Sul*, 19 abr. 2023. Acesso em 4 nov. 2026.

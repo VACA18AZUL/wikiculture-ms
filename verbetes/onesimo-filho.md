@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Segundo o *Correio do Estado*, que cita o jornalista Pio Lopes, foi Onésimo quem primeiro fez reportagens externas na TV Morena. O jornal situa sua atuação a partir dos anos 1970 e diz que ele dividia o trabalho entre Campo Grande e Cuiabá.[^ce2012] Na emissora, criou e apresentou o programa *Módulo Seis* com o jornalista Antônio Carlos Azambuja Dagher. A Copa Morena e o [[festao|Festão]], festival de música sertaneja, também são apontados como criações dele.[^ce2012]
 
-O jornal registra ainda passagem pelo rádio e participação no filme [[paralelos-tragicos|*Paralelos Trágicos*]].[^ce2012] Morreu em Campo Grande em 8 de agosto de 2012, aos 71 anos.[^ce2012]
+O jornal registra ainda passagem pelo rádio e participação no filme [[paralelos-tragicos|*Paralelos Trágicos*]].[^ce2012] Alexandre Aldo Neves inclui Onésimo Filho no elenco de atores locais do filme, que data de 1966.[^neves] Morreu em Campo Grande em 8 de agosto de 2012, aos 71 anos.[^ce2012]
 
 ## Festivais de música
 
@@ -34,3 +34,4 @@ No segundo FESSUL, em 1980, artistas liderados por Iso e Tato Fischer, com [[alm
 [^cae50]: Caetano, 2012, p. 50-51 (mesma dissertação), com a mesma entrevista de 1981. Acesso em 4 nov. 2026.
 [^cae52]: Caetano, 2012, p. 52 (mesma dissertação). Acesso em 4 nov. 2026.
 [^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 55 e 57 do PDF. Acesso em 4 nov. 2026.
+[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 38. Acesso em 4 nov. 2026.

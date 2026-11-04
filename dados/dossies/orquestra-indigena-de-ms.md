@@ -26,3 +26,11 @@ Descartadas: página FCMS "Catedral Erudita – Orquestra Indígena – Igreja M
 - caio-green.md cita uma orquestra indígena infantil criada em 2023 na Aldeia Urbana Marçal de Souza: não se juntou a esta sem fonte.
 - Turnê por Lisboa, Madeira e Barcelona (ago.-set. 2025) e concertos em Assunção (out. 2025): só anúncios lidos; não se confirmou a realização.
 - Nomes de integrantes menores de idade (FCMS 2024 e 2025) deixados de fora.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 19 abr. 2023, Livia Bezerra, "Orquestra Indígena de Campo Grande é o único grupo indígena tocando música erudita, do Brasil". Criada em nov. 2015 pela Fundação Ueze Elias Zahran, aldeia urbana Darcy Ribeiro (Jardim Noroeste); 37 alunos; cordas, sopros, percussão; regência de Eduardo Martinelli; coordenador Jardel Tartari; >90% terena; apresentações em 14/04 (Abril Indígena, Memorial da Cultura Indígena) e 16/04/2023 (1º Festop, Dourados); Lei Rouanet, Energisa, recursos próprios; agenda: Encontro com a Música Clássica em agosto (confere com CGN 2023).
+- Identidade confirmada: mesma aldeia, mesma fundação mantenedora, mesmo maestro e mesma participação no Encontro com a Música Clássica de 2023.
+- Divergência: fundação em 2016 (La Nación 2025, FCMS 2024) x novembro de 2015 (O Estado 2023). Registradas as duas no verbete e na ficha.
+- A afirmação "único grupo indígena tocando música erudita do Brasil" é da matéria; não usada.
+- Fora: nome e idade de aluna citada; telefone do coordenador.

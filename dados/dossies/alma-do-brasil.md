@@ -26,3 +26,8 @@ Fontes descartadas e o motivo:
 - Terceira fonte (cgn2023): filmado em Guia Lopes da Laguna em 1932; 52 minutos; exibição no Bonito Cinesur em 4 nov. 2023 com a orquestra Prelúdio (maestro Eduardo Martinelli); descrito como da época do cinema mudo.
 - Divergências registradas no verbete: ano (1930 em Diehl; 1932 em Castro Neto e Campo Grande News) e som (Diehl: Vitaphone, totalmente sonorizado; CGN: época do cinema mudo).
 - Título do verbete passou de "Alma do Brasil (longa, 1930)" para "Alma do Brasil (filme)" por causa da divergência de ano.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 26-27, 33 e 56: Fan Filmes fundada em Campo Grande em 1930 por Wulfes e Luxardo; produção concluída em 1932; locações em Nioaque, Jardim, Bela Vista e Campo Grande; elenco e assistente de direção (via Duncan 2006); cobertura de *A Folha da Serra* em jan./fev. 1932 (via Guizzo 1984); livro de Guizzo (1984). Na p. 33 diz que Luxardo dirigiu e Wulfes fez fotografia e câmera, "assim como em Alma do Brasil": a divisão de funções não foi posta na ficha técnica para não contrariar a codireção dada por Diehl e Castro Neto sem registro; fica aqui como pista.
+- Neves descreve o filme como o primeiro longa inteiramente sonorizado do Brasil (p. 27), em linha com Diehl.

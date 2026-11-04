@@ -53,3 +53,7 @@ Fontes descartadas e o motivo:
 - Corrigido: Atribuição explicitada (trecho de Borges citado por Diehl).
 - Atenção: Ano de *Alma do Brasil*: 1930 (Diehl) x 1932 (Castro Neto) — registrado.
 - Atenção: Wikipédia (sem referências) traz datas completas e residência em Campo Grande; fora.
+
+## Atualização de 2026-11-04 (r11)
+
+- Neves (2012, Ed. UFGD), p. 26 e 33: Fan Filmes (Campo Grande, 1930) com Wulfes; Caçando Feras (1936, Lux Filmes, patrocínio da Cinédia), direção geral de Luxardo, fotografia e câmera de Wulfes, filmado perto de Corumbá. Neves diz que em Alma do Brasil a divisão de funções foi a mesma; isso não foi levado ao verbete (Diehl e Castro Neto falam em codireção).
