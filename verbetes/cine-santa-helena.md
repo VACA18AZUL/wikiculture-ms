@@ -19,13 +19,13 @@ Rodrigo Teixeira Gonçalves inclui os cinemas Alhambra e Santa Helena entre os p
 
 ## Teatro e shows
 
-O cinema também servia de palco. Fabricio Moser, ao relatar o ensaio "Teatro", de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] (1992), inclui o Santa Helena entre os espaços de Campo Grande usados para teatro, circo e música. Nos anos 1940, segundo o mesmo relato, jovens da cidade montavam ali e no Alhambra espetáculos de variedades com peças curtas, como *As Máscaras*, de Menotti del Picchia, esquetes de humor, dança e música.[^moser]
+O cinema também servia de palco. Fabricio Moser, ao relatar o ensaio "Teatro", de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] (1992), inclui o Santa Helena entre os espaços de Campo Grande usados para teatro, circo e música. Nos anos 1940, segundo o mesmo relato, jovens da cidade montavam ali e no Alhambra espetáculos de variedades que juntavam números de dança e música, esquetes de humor e peças curtas, como *As Máscaras*, de Menotti del Picchia.[^moser]
 
 Uma frequentadora entrevistada por Sá e Castilho disse que, sem espaços próprios para teatro na cidade, shows e peças aconteciam no Santa Helena. Ela lembra a apresentação do Palhaço Carequinha e um show do Zimbo Trio em 1966.[^cordis261] Segundo a cantora Betinha, citada por Gonçalves a partir do livro *Os Pioneiros*, de Rodrigo Teixeira (2009), a dupla [[beth-e-betinha|Beth e Betinha]] se apresentou várias vezes no Santa Helena e no Alhambra entre 1960 e 1970, com duas ou três sessões lotadas por noite.[^gon32]
 
 ## Público
 
-Os entrevistados do artigo descrevem o Santa Helena como sala popular. Os ingressos baratos atraíam público de várias classes, e a comunidade japonesa enchia o cinema às quintas-feiras, dia de filmes japoneses.[^cordis258] Antes das sessões, jovens trocavam gibis em volta do prédio.[^cordis259] O ator [[david-cardoso|David Cardoso]] o comparou ao Alhambra: era mais simples, tinha poltronas de madeira e o ingresso custava metade do preço.[^cordis260]
+Segundo Sá e Castilho, o preço dos ingressos atraía público de várias classes sociais. O entrevistado Antônio Benedito Scatena o descreve como cinema popular e lembra que a comunidade japonesa enchia a sala às quintas-feiras, dia de filmes japoneses.[^cordis258] Antes das sessões, jovens trocavam gibis em volta do prédio.[^cordis259] O ator [[david-cardoso|David Cardoso]] o comparou ao Alhambra: era mais simples, tinha poltronas de madeira e o ingresso custava metade do preço.[^cordis260]
 
 ## Fechamento
 
@@ -37,6 +37,6 @@ A partir do depoimento sobre o show de 1966, as autoras concluem que o prédio j
 [^cordis259]: Sá e Castilho, 2016, p. 259-260, depoimento de Celso Higa (mesmo artigo). Acesso em 4 nov. 2026.
 [^cordis260]: Sá e Castilho, 2016, p. 260-261, depoimento de David Cardoso (mesmo artigo). Acesso em 4 nov. 2026.
 [^cordis261]: Sá e Castilho, 2016, p. 261-262, depoimento de Arlinda Cantero Dorsa (mesmo artigo). Acesso em 4 nov. 2026.
-[^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), ABRACE, 2018 (PDF), p. 3. O artigo relata, entre aspas, o ensaio "Teatro", de Maria da Glória Sá Rosa (1992). Acesso em 4 nov. 2026.
+[^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), ABRACE, 2018 (PDF), p. 4. O artigo relata, entre aspas, o ensaio "Teatro", de Maria da Glória Sá Rosa (1992). Acesso em 4 nov. 2026.
 [^gon21]: Rodrigo Teixeira Gonçalves, *O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*, dissertação de mestrado, UFMS, 2014, p. 21 ([PDF](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723)). Acesso em 4 nov. 2026.
 [^gon32]: Gonçalves, 2014, p. 32 (mesma dissertação), que cita Rodrigo Teixeira, *Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul* (FCMS/FIC, 2009). Acesso em 4 nov. 2026.

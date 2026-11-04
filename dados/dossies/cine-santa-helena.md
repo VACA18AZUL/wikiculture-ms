@@ -54,3 +54,10 @@ Buscas sem resultado útil: Correio do Estado ("cine santa helena"). Campo Grand
 ## Uso no verbete
 
 - Entrou tudo acima.
+
+## Revisão de 2026-11-04 (valn-20)
+
+- cordis (PDF, p. 250, 255, 258-262), moser (PDF) e gon (PDF, p. 21 e 32) reabertas e conferidas.
+- O trecho de Moser sobre o Santa Helena está na p. 4 do PDF, não na p. 3; nota corrigida.
+- "Público de várias classes" é texto das autoras (p. 258), não de entrevistado; o verbete passou a atribuir assim.
+- Gonçalves (p. 32) cita Betinha a partir de Rodrigo Teixeira, *Os Pioneiros* (FCMS/FIC, 2009), p. 67; Moser cita Sá Rosa (1992). As duas citações de segunda mão estão ditas no verbete.

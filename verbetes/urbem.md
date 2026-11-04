@@ -23,7 +23,7 @@ Em abril de 2016, gravou na Itália o álbum *Living Room*.[^ce2025a][^fcms2016b
 
 ## Formação
 
-Em 2022, Bianca Bacha disse que a formação com Ana Ferreira no piano existia desde 2016 e que a anterior tinha Gabriel de Andrade na guitarra.[^fcms2022] Segundo o *Correio do Estado*, a ida a Fara, em 2017, ainda foi com Gabriel de Andrade, antes da entrada de Ana Ferreira.[^ce2025a] Na apresentação de 2019 no Festival de Inverno de Bonito, a Fundação citou os dois, Ana Ferreira no piano e Gabriel de Andrade na guitarra.[^fcms2019b]
+Em 2022, Bianca Bacha disse que a formação com Ana Ferreira no piano existia desde 2016 e que a anterior tinha Gabriel de Andrade na guitarra.[^fcms2022] Segundo o *Correio do Estado*, a ida a Fara, em 2017, ainda foi com Gabriel de Andrade, antes da entrada de Ana Ferreira.[^ce2025a] Em julho de 2019, a Fundação apresentou a banda como quarteto com Ana Ferreira no piano, sem Gabriel de Andrade; no relato do show do Festival de Inverno de Bonito, no mesmo mês, citou os dois, Ana Ferreira no piano e Gabriel de Andrade na guitarra.[^fcms2019a][^fcms2019b]
 
 ## Com Guilherme Rondon
 
@@ -35,9 +35,9 @@ Em 14 de julho de 2019, a banda tocou no [[arraial-da-concha|Arraial da Concha]]
 
 ## Com Ryan Keberle
 
-O trombonista norte-americano Ryan Keberle conheceu a banda no Campo Grande Jazz Festival. O *Correio do Estado* registra duas datas para esse encontro: março de 2023, numa reportagem de junho de 2025, e março de 2024, na fala de Bianca Bacha em entrevista de dezembro de 2025.[^ce2025a][^ce2025b] Em junho de 2025, o jornal anunciou o show "Urbem Convida Ryan Keberle", no Teatro do Mundo, e a gravação de um álbum conjunto.[^ce2025a]
+O trombonista norte-americano Ryan Keberle conheceu a banda no Campo Grande Jazz Festival. O *Correio do Estado* registra duas datas para esse encontro: março de 2023, numa reportagem de junho de 2025, e março de 2024, numa observação da redação à resposta de Bianca Bacha em entrevista de dezembro de 2025. Nessa entrevista, Bianca conta que a banda e Keberle tocaram juntos no Sesc Teatro Prosa em setembro de 2024.[^ce2025a][^ce2025b] Em junho de 2025, o jornal anunciou o show "Urbem Convida Ryan Keberle", no Teatro do Mundo, e a gravação de um álbum conjunto.[^ce2025a]
 
-O álbum *Pantanal Jam* foi gravado em junho de 2025 na Fazenda Caiman, em Miranda, com estúdio móvel. As nove faixas partem de sons da fauna do Pantanal captados por Sandro Moreno e não têm letra. Cinco são da banda, duas de Paulo Calasans e duas de Keberle com Moreno.[^ce2025b]
+O álbum *Pantanal Jam* foi gravado em junho de 2025 na Fazenda Caiman, em Miranda, com estúdio móvel. As nove faixas partem de sons da fauna do Pantanal captados por Sandro Moreno e não têm letra. Cinco são da banda, duas de Paulo Calasans e duas de Keberle com Moreno. Segundo Bianca Bacha, o álbum foi lançado em novembro de 2025 com um show em Nova York, na Visit Brazil Gallery.[^ce2025b]
 
 ## Discografia
 
