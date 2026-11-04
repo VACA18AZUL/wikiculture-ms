@@ -21,7 +21,7 @@ Era engenheiro civil e também trabalhou como radialista e professor de Física 
 
 No Acaba, tocou viola, violão e tumbadora durante quatro décadas, além de compor.[^cgn2016] O *Campo Grande News* o apresenta como compositor do grupo.[^cgnretro] [[moacir-lacerda|Moacir Lacerda]], também integrante do Acaba, foi seu professor e depois colega na engenharia.[^cgn2016]
 
-No ano do cinquentenário do Acaba, em 2016, estava prevista uma gravação na casa dele para o disco comemorativo, que não chegou a ser feita. Moacir Lacerda gravou com ele uma entrevista para o livro *Grupo Acaba - 50 anos Pantanal, Nascentes, Rios e Vertentes*, escrito por [[rodrigo-teixeira|Rodrigo Teixeira]].[^cgn2016] Ele chegou a participar do livro e de parte das comemorações.[^cgnretro]
+No ano do cinquentenário do Acaba, em 2016, estava prevista uma gravação na casa dele para o disco comemorativo, que não chegou a ser feita. Na visita, Moacir Lacerda fez com ele uma entrevista para o livro *Grupo Acaba - 50 anos Pantanal, Nascentes, Rios e Vertentes*, que Rodrigo Teixeira escrevia naquele ano.[^cgn2016] Ele chegou a participar do livro e de parte das comemorações.[^cgnretro]
 
 Morreu em Campo Grande em 3 de maio de 2016, aos 61 anos.[^cgn2016][^g12016]
 
