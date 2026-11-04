@@ -36,3 +36,8 @@ Mesmo veículo, autoras diferentes. API da FCMS sem resultado pertinente.
 | marcela-mar | apresentou-em | cgn2023a | sim | sim |
 | namaria-schneider | apresentou-em | cgn2023a | sim | sim |
 | lauren-cury | apresentou-em | cgn2023a | sim | sim |
+
+## Atualização de 2026-11-04
+
+- Segunda fonte independente buscada e não achada. Onde: WebSearch (só Campo Grande News), API A Crítica ("Canto Delas", "Blues Bar cantoras"), API RCN67, API FCMS (nada).
+- Pistas do mesmo veículo, não abertas nesta rodada (não contam como fonte independente): Campo Grande News, "Gabi Barros, Mel Dias e Caramuja entram no festival O Canto Delas"; "Festival O Canto Delas encerra com samba, MPB e rap nesta terça"; "Jacqueline Costa, Pretah e Beca Rodrigues se apresentam em festival". O resumo da busca indica noites extras em agosto de 2023; conferir no texto antes de usar.

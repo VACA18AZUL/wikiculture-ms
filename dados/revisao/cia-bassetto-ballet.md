@@ -40,7 +40,7 @@
 - Fonte única na prática: o Correio do Estado (2020) reproduz o release da FCMS de 17 jan. 2020. Busca de segunda fonte nesta sessão (Correio do Estado, Campo Grande News, A Crítica, Midiamax) sem resultado; Brave bloqueado.
 - Idade do projeto: sete anos (FCMS jul. e dez. 2019) x dois anos (coordenador, dez. 2019 e jan. 2020).
 - Atividade depois de 2020 não confirmada.
-- Wikipédia: sem artigo encontrado.
+- Wikipédia: não conferida a contento (API da Wikipédia bloqueou por excesso de requisições); nenhum artigo conhecido.
 
 ## Veredito
 

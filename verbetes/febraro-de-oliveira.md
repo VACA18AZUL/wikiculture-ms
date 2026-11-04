@@ -1,7 +1,7 @@
 ---
 titulo: Febraro de Oliveira
 tipo: pessoa
-areas: [literatura]
+areas: [literatura, teatro]
 cidade: Campo Grande
 resumo: Escritor de Campo Grande, autor do romance Uirapuru e do livro de poemas Caixa d'água, premiado no Prêmio Caio Fernando Abreu de Literatura e editado pela Reformatório (pré-venda em 2023).
 ficha:
@@ -27,6 +27,10 @@ O Teatrine TV informou em 25 nov. 2023 que o livro foi lançado em 17 de novembr
 
 Antes de *Caixa d'água*, Febraro publicou o romance *Uirapuru*, sobre um protagonista LGBTQIA+, Léo, com temas como identidade sexual, gênero, violência policial e abandono.[^cgn2023]
 
+## Teatro
+
+Assina a dramaturgia de *Eu Vou Dançar Seu Ódio!*, solo de [[andre-tristao|André Tristão]] que mistura teatro, dança e performance, com direção artística de Rafaela Sahyoun e direção de movimento de Jussara Miller. A estreia foi marcada para 22 de setembro de 2026, com duas sessões no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande, e outra em 25 de setembro, no Sesc Teatro Prosa.[^cgntristao]
+
 ## Observação sobre as fontes
 
 A página da reportagem traz a data de 27 de novembro de 2022 no corpo do texto, enquanto o endereço (URL) contém "2011", que não corresponde a essa data. Este verbete usa a data do corpo da matéria.[^cgn] A edição do livro pela Reformatório aparece em reportagem de 2023 do mesmo veículo, ainda em pré-venda; o lançamento em 9 de dezembro de 2023, em Campo Grande, não foi confirmado por outra fonte. O Teatrine TV registra um lançamento anterior, em 17 de novembro, em São Paulo; as fontes não dizem se foram dois lançamentos ou se a data do Campo Grande News mudou.[^cgn2023][^teatrine]
@@ -35,3 +39,4 @@ A página da reportagem traz a data de 27 de novembro de 2022 no corpo do texto,
 [^cgn2023]: Jéssica Fernandes, ["Em fase de pré-venda, 'Caixa D'Água' traz novos poemas de Febraro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-fase-de-pre-venda-caixa-dagua-traz-novos-poemas-de-febraro), *Campo Grande News*, 31 out. 2023. Acesso em 4 nov. 2026.
 [^aboio]: Grupo Aboio, ["#2 Berrante: recomendação de Mariana Carrara, Prêmio Caio Fernando de Abreu e pássaros inteligentes"](https://aboio.substack.com/p/2-berrante-recomendacao-de-mariana), boletim *Berrante*, 27 jun. 2022. Acesso em 4 nov. 2026.
 [^teatrine]: Aly Freitas, ["Com livro sobre invisibilidade pós-morte LGBT, Febraro chega à Flip"](https://www.teatrinetv.com.br/literatura/com-livro-sobre-invisibilidade-lgbt-febraro-chega-a-flip/18362/), *Teatrine TV*, 25 nov. 2023. Acesso em 4 nov. 2026.
+[^cgntristao]: Thailla Torres, ["Tristão tira HIV do silêncio e leva corpo, orgulho e dança para o palco"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/tristao-tira-hiv-do-silencio-e-leva-corpo-orgulho-e-danca-para-o-palco), *Campo Grande News*, 17 set. 2026. Acesso em 4 nov. 2026.

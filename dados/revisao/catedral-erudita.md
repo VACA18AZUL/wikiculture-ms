@@ -40,7 +40,7 @@
 ## Incerto / atenções
 
 - Realização do concerto de 30 mar. 2026 e dos concertos do Campão Cultural 2025: só anúncios (escritos como anúncio).
-- Wikipédia: sem artigo encontrado.
+- Wikipédia: não conferida a contento (API da Wikipédia bloqueou por excesso de requisições); nenhum artigo conhecido.
 
 ## Veredito
 

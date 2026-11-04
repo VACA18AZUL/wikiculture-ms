@@ -20,7 +20,7 @@ Em dezembro de 2016, a Fundação de Cultura listava como idealizadores Kezia Mi
 
 Em agosto de 2017, o *Campo Grande News* noticiou o primeiro aniversário do CineCafé, cineclube criado um ano antes por um grupo de amigos para assistir e debater filmes fora do circuito dos grandes lançamentos, comemorado com uma festa a fantasia.[^cgn2017] Em fevereiro de 2019, a Fundação de Cultura anunciou a abertura da temporada no MIS com *Boi Neon*, de Gabriel Mascaro, em 11 de fevereiro.[^fcms2019]
 
-Com a pandemia, as sessões presenciais foram interrompidas em 2020, e o coletivo passou a fazer concursos e cursos online. Em 24 de setembro de 2021, o MIS e o Cine Café entregaram os prêmios do concurso "Repensar e reimaginar o MIS antes e pós-pandemia em imagens e sons".[^fcms2021] Em junho de 2022, a Fundação anunciou a volta das exibições presenciais para o dia 20, com *Pacarrete*, de Allan Deberton.[^fcms2022]
+Com a pandemia, as sessões presenciais foram interrompidas em 2020, e o coletivo passou a fazer concursos e cursos online, segundo a diretora Kézia Miranda.[^fcms2022] Em 24 de setembro de 2021, o MIS e o Cine Café entregaram os prêmios do concurso "Repensar e reimaginar o MIS antes e pós-pandemia em imagens e sons".[^fcms2021] Em junho de 2022, a Fundação anunciou a volta das exibições presenciais para o dia 20, com *Pacarrete*, de Allan Deberton.[^fcms2022]
 
 Em novembro de 2025, com Kézia Miranda como diretora, o Cine Café anunciou para 6 de novembro a exibição de *2001: Uma Odisseia no Espaço*, de Stanley Kubrick, com debate depois do filme. A Fundação de Cultura o descreve como um coletivo itinerante que organiza mostras e eventos no MIS e em outros espaços desde 2016.[^fcms2025]
 

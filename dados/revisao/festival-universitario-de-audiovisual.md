@@ -41,7 +41,7 @@
 
 - O Correio do Estado (2008) é nota curta de serviço, provavelmente baseada em release da FCMS; as demais fontes são da própria FCMS, organizadora. Segunda fonte independente sobre a edição de 2017 não buscada nesta validação.
 - Ano da primeira edição e edições posteriores a 2017 não confirmados.
-- Wikipédia: sem artigo encontrado.
+- Wikipédia: não conferida a contento (API da Wikipédia bloqueou por excesso de requisições); nenhum artigo conhecido.
 
 ## Veredito
 

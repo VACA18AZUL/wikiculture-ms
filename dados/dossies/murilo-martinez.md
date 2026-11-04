@@ -49,3 +49,9 @@ Descartadas: resultados de 2021, 2022 e 2024 do Som da Concha e do FASP 2022 em 
 ## Uso no verbete
 
 - Entrou tudo acima, com a divergência registrada.
+
+## Atualização de 2026-11-04
+
+- Validação valn-25. As notas da FCMS tratam de projetos que a própria FCMS promove (FASP, Festival de Inverno de Bonito, Som da Concha); a única fonte independente é o Correio do Estado (2022).
+- Busca de segunda fonte independente: busca interna do RCN67 (sem resultado), Correio do Estado (busca interna não lista o músico), Campo Grande News (busca redireciona para a capa), Brave (429) e Mojeek (403). Nada novo lido; nada acrescentado.
+- Sugestão: JPNews e TVC Três Lagoas, Sesc São Carlos (lançamento de 2011), plataformas de streaming para a discografia.

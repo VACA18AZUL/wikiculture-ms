@@ -38,7 +38,7 @@
 ## Incerto / atenções
 
 - Resultado no 2º Prêmio Campo Grande ao Teatro e ficha técnica completa não confirmados.
-- Wikipédia: sem artigo sobre a peça.
+- Wikipédia: não conferida a contento (API bloqueou por excesso de requisições); nenhum artigo conhecido sobre a peça.
 
 ## Veredito
 

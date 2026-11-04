@@ -19,6 +19,8 @@ Sua primeira música lançada, *Toca o Violão*, foi composta quando ela tinha 1
 
 A programação do Espaço Cultural BNDES anunciou para 28 de agosto de 2026 sua participação ao violão no espetáculo *Sanfona Pantaneira*, de [[marcelus-anderson|Marcelus Anderson]], na série Sextas Instrumentais do Espaço Cultural BNDES, no Rio de Janeiro.[^bndes2026]
 
+Em outubro de 2026, o *Campo Grande News* anunciou que ela e o grupo [[el-trio|El Trio]], formado por Gabriel Andrade (guitarra), Gabriel Basso (contrabaixo) e Adriel Santos (bateria), apresentariam o espetáculo *Continental Sul* em 24 de outubro, no Madeira Mandolin Festival, na Ilha da Madeira, em Portugal. O repertório mistura jazz com chamamé, guarânia e chacarera. A ida ao festival resultou de parceria entre a associação cultural sul-mato-grossense [[ponte-das-artes|Ponte das Artes]] e a Associação de Bandolins da Madeira, organizadora do evento.[^cgn2026]
+
 ## Discografia
 
 - *Toca o Violão* (2023) — canção; produção de Eric Silver.[^cgn2023]
@@ -26,6 +28,8 @@ A programação do Espaço Cultural BNDES anunciou para 28 de agosto de 2026 sua
 ## Espetáculos
 
 - *Sanfona Pantaneira* (2026) — violão; espetáculo de Marcelus Anderson, Espaço Cultural BNDES.[^bndes2026]
+- *Continental Sul* (2026) — com o grupo El Trio; Madeira Mandolin Festival, Ilha da Madeira (Portugal).[^cgn2026]
 
 [^cgn2023]: Jéssica Fernandes, ["Criada entre músicos, Marcela Mar é uma das novas vozes do Estado"](https://www.campograndenews.com.br/lado-b/diversao/criada-entre-musicos-marcela-mar-e-uma-das-novas-vozes-do-estado), *Campo Grande News*, 16 jul. 2023. Acesso em 4 nov. 2026.
 [^bndes2026]: BNDES, ["Marcelus Anderson / Sanfona Pantaneira"](https://www.bndes.gov.br/wps/portal/site/home/onde-atuamos/cultura-e-economia-criativa/espaco-cultural-bndes/sextas-instrumentais/marcelus%20anderson), *Espaço Cultural BNDES*, Sextas Instrumentais, 2026. Acesso em 4 nov. 2026.
+[^cgn2026]: Thailla Torres, ["El Trio e Marcela Mar levam jazz com sotaque de MS a festival em Portugal"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/el-trio-e-marcela-mar-levam-jazz-com-sotaque-de-ms-a-festival-em-portugal), *Campo Grande News*, 22 out. 2026. Acesso em 4 nov. 2026.

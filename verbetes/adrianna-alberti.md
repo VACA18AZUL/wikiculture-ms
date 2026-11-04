@@ -25,6 +25,8 @@ Foi anunciada como mediadora de lançamentos. Para 28 de março de 2023, a impre
 
 Para lançar *Outros Silêncios em Vigília*, em setembro de 2023, anunciou dois bate-papos, marcados para os dias 13 e 16: um com a escritora [[eva-vilma|Eva Vilma]] e outro, "A Solidão da Literatura", na Biblioteca Estadual Dr. Isaías Paim, com [[tania-souza|Tânia Souza]], [[fabio-gondim|Fábio Gondim]] e Leila Aparecida da Silva.[^cgnsolidao] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], do [[tarja-preta|Coletivo Tarja Preta]], com lançamento anunciado para 11 de novembro de 2023.[^cgntarja]
 
+Em 2024, criou com [[sarah-muricy|Sarah Muricy]] o projeto literário Ọkàn, voltado à literatura de axé; em iorubá, o nome significa coração e consciência. A segunda edição do livro do projeto, *Ọkàn Omi — nossas águas, memórias e escrevivências*, reúne 15 autoras ligadas às tradições de matriz africana; a primeira teve cinco. O lançamento em Campo Grande foi marcado para 20 de agosto de 2026, na Casa de Cultura, depois de passagens pela Flip, pela Flipei e pela Felit, em Dourados.[^acriticaokan]
+
 ## Obras
 
 - *O Silêncio nas Pontas dos Dedos* (2021), primeiro livro, selecionado pelo Prêmio Leia MS – Lei Aldir Blanc e publicado só em formato digital.[^cgnsolidao] Outra reportagem grafa o título como *O Silêncio na Ponta dos Dedos*.[^cgntambor]
@@ -45,3 +47,4 @@ Para lançar *Outros Silêncios em Vigília*, em setembro de 2023, anunciou dois
 [^ceprofessores]: Cauê Reis, ["Professores da UFMS fazem lançamento coletivo de suas obras"](https://correiodoestado.com.br/correio-b/professores-da-ufms-fazem-lancamento-coletivo-de-suas-obras/412842/), *Correio do Estado*, 27 mar. 2023. Acesso em 4 nov. 2026.
 [^cgnencantada]: Thailla Torres, ["Escritora lança livro que mescla lendas e memórias da fronteira"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/escritora-lanca-livro-que-mescla-lendas-e-memorias-da-fronteira), *Campo Grande News*, 17 nov. 2023. Acesso em 4 nov. 2026.
 [^cgntarja]: Thailla Torres, ["Escritores celebram 10 anos de independência literária em MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/escritores-celebram-10-anos-de-independencia-literaria-em-ms), *Campo Grande News*, 8 nov. 2023. Acesso em 4 nov. 2026.
+[^acriticaokan]: ["Projeto Ọkàn lança segunda edição com escritoras de matriz africana em Campo Grande"](https://acritica.net/cultura/projeto-okan-lanca-segunda-edicao-com-escritoras-de-matriz-africana-em-campo-grande/), *A Crítica de Campo Grande*, 20 ago. 2026. Acesso em 4 nov. 2026.

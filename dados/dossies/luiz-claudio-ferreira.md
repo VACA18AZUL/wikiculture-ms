@@ -36,3 +36,7 @@ Busca no RCN67 sem resultado. Só fontes da prefeitura.
 ## Uso no verbete
 
 - Entrou tudo acima, exceto o Proteja (homônimo possível).
+
+## Atualização de 2026-11-04
+
+- Segunda fonte independente buscada e não achada. Onde: API da RCN67 (nome, títulos dos livros, "Triálogo"), API da FCMS ("Fetran", "teatro para o trânsito"; textos de 2019 e 2025 não citam o professor nem as peças), API do Detran-MS ("Fetran": nada de 2021 e 2022), WebSearch (só textos da prefeitura; um Luiz Cláudio Schuedas em espetáculo de 2009, nome diferente, não usado).

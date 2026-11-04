@@ -31,3 +31,13 @@ Buscas sem resultado útil: FCMS, Correio do Estado, RCN67, A Crítica (busca in
 ## Uso no verbete
 
 - Verbete curto, fonte única. Precisa de segunda fonte (cadastro MuseusBR ou prefeitura).
+
+## Atualização de 2026-11-04
+
+Fonte nova (independente de A Crítica):
+
+- ce2010 — "Museu de Arte Pantaneira prepara exposição para o Dia do Índio", Correio do Estado, 06/04/2010 (com informações do site Capital do Pantanal): museu da Fundação de Cultura de Aquidauana (Fundaq); diretora Sônia Corrêa; exposição para o Dia do Índio com artesanato Terena e Kadiwéu e telas do artista paraense Gewa sobre etnias de MS; lançamento em 15/04/2010 (anúncio).
+
+Pistas não usadas (não abertas ou sem fonte confiável): pantanalescapes.com (fechado para restauro em 2017, endereço Rua Cândido Mariano, 462) e bahia.ws (outro endereço); guias de turismo, não servem de nota. Correio do Estado, "Aquidauana celebra 132 anos..." não aberto.
+
+O que mudou: novo parágrafo de 2010, campo Gestão na ficha, resumo.

@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a Fundação, o primeiro álbum instrumental do músico, *Sinfonia do Silêncio*, foi lançado no Sesc São Carlos em setembro de 2011, e sua música chegou ao sul da Alemanha em 2015.[^fcms2016b][^fcms2019c]
+Segundo a Fundação, o primeiro álbum instrumental do músico, *Sinfonia do Silêncio*, teve lançamento oficial em setembro de 2011, no Sesc São Carlos, e em 2015 suas composições chegaram ao sul da Alemanha.[^fcms2016b][^fcms2019c]
 
 Em 2016, ficou em primeiro lugar na categoria Palco do Sol da seleção de atrações regionais do 13º [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^fcms2016a] O show foi anunciado para o último dia do festival, no Porto Geral de Corumbá, com o projeto *Duon*, em dueto com o violinista Francis David.[^fcms2016b] O balanço publicado pela Fundação depois do festival cita Murilo entre os artistas que se apresentaram no Palco Pôr do Sol.[^fcms2016c]
 
@@ -23,7 +23,7 @@ Foi selecionado para o 20º [[festival-de-inverno-de-bonito|Festival de Inverno 
 
 Em 2020, com o nome Murilo Martinez Trio, ficou em primeiro lugar na categoria Show de Abertura do edital do [[som-da-concha|Som da Concha]].[^fcms2020a] Naquele ano a temporada foi transmitida pela internet por causa da pandemia de covid-19, e o trio foi anunciado para abri-la em 17 de outubro.[^fcms2020b]
 
-Em setembro de 2022, o *Correio do Estado* anunciou o músico no Som da Concha, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], com o show *Trinca do Mato*, acompanhado de Lucas Medina na bateria e Edgar Henrique no baixo. Entre os instrumentos anunciados estavam a viola caipira, o violão-harpa e o kalimbelê.[^ce2022] Em setembro de 2024, a Fundação o anunciou na viola caipira e no violão da banda de [[maringa-borgert|Maringa Borgert]], no show *Menestrada*, também no Som da Concha.[^fcms2024]
+Em setembro de 2022, o *Correio do Estado* anunciou o músico no Som da Concha, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], com o show *Trinca do Mato*, em trio com Lucas Medina (bateria) e Edgar Henrique (baixo). Entre os instrumentos anunciados estavam a viola caipira, o violão-harpa e o kalimbelê.[^ce2022] Em setembro de 2024, a Fundação o anunciou na viola caipira e no violão da banda de [[maringa-borgert|Maringa Borgert]], no show *Menestrada*, também no Som da Concha.[^fcms2024]
 
 ## Discografia
 
