@@ -19,7 +19,10 @@ O grupo vem do Coletivo Vibrações, que em 2019, quando Lucas Rosa se juntou a 
 
 Segundo a mesma reportagem, Lucas Rosa, natural de Glória de Dourados, teve o primeiro contato com o choro em Campo Grande, com o grupo Opus Trio, por volta de 2014. Júlio Borba começou na guitarra, passou ao violão clássico no projeto Musicalizando e fez mestrado e doutorado em etnomusicologia. Brenner Rozales começou em projeto social da Fundação Barbosa Rodrigues, foi aprovado em 2015 na Orquestra Sinfônica Jovem do Estado de São Paulo e voltou a Campo Grande em 2023.[^cgn2025a]
 
+O *Correio do Estado* registrou, em outubro de 2023, que Brenner Rozales conheceu o violonista Eduardo Martinelli em 2011, nas aulas de música da Fundação Barbosa Rodrigues, saiu de Campo Grande para São Paulo em 2015 e passou dois anos no bacharelado em viola na Escola de Música Buchmann-Mehta, da Universidade de Tel Aviv. A matéria anunciava o recital em duo com Martinelli, "Dialogando", no Teatro do Mundo, em Campo Grande, em 19 de outubro de 2023.[^ce2023]
+
 Em 2 de agosto de 2025, o trio se apresentou na terceira edição do Encontro de Choro no Escritório Bar Cultural, na Vila Morumbi, ao lado dos grupos Quinteto Virgisanta, Quarteto Samba Choro e Som Que Chora.[^cgn2025b]
 
 [^cgn2025a]: Clayton Neves, ["Trio resgata tradição e aposta em chorinho com um toque de MS"](https://www.campograndenews.com.br/lado-b/diversao/trio-resgata-tradicao-e-aposta-em-chorinho-com-um-toque-de-ms), *Campo Grande News*, 17 jun. 2025. Acesso em 4 nov. 2026.
 [^cgn2025b]: Fernanda Palheta, ["Bar na Vila Morumbi se torna nova casa do choro em Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/bar-na-vila-morumbi-se-torna-nova-casa-do-choro-em-campo-grande), *Campo Grande News*, 2 ago. 2025. Acesso em 4 nov. 2026.
+[^ce2023]: ["Em meio à angústia de não poder retornar a Israel, Brenner Rozales apresenta-se amanhã"](https://correiodoestado.com.br/correio-b/2023/10/18/em-meio-a-angustia-de-nao-poder-retornar-a-israel-brenner-rozales-apresenta-se-amanha.html), *Correio do Estado*, 18 out. 2023. Acesso em 4 nov. 2026.

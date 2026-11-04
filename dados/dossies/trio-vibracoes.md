@@ -39,3 +39,13 @@ Fonte única de domínio (Campo Grande News); nenhuma outra achada.
 ## Uso no verbete
 
 - Entraram os fatos acima.
+
+## Atualização de 2026-11-04 (r4-2)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| ce2023 | "Em meio à angústia de não poder retornar a Israel, Brenner Rozales apresenta-se amanhã", Correio do Estado, 18 out. 2023 | https://correiodoestado.com.br/correio-b/2023/10/18/em-meio-a-angustia-de-nao-poder-retornar-a-israel-brenner-rozales-apresenta-se-amanha.html | sim (só trajetória do integrante) |
+
+O que mudou: acrescentado parágrafo que confirma, em outro veículo, a trajetória de Brenner Rozales (Fundação Barbosa Rodrigues, saída para São Paulo em 2015, volta a Campo Grande em 2023). A matéria não cita o Trio Vibrações; por isso a existência, a formação e as apresentações do trio seguem só no Campo Grande News. Ficaram fora: o contexto de guerra em Israel, idade, naturalidade, família e falas pessoais.
+
+Divergência leve: cgn2025a diz que Brenner "foi aprovado em 2015 na Osesp Jovem"; ce2023 diz que ele saiu de Campo Grande para São Paulo em 2015. São compatíveis. Buscas em Correio do Estado, FCMS, UFMS por "Trio Vibrações", "Coletivo Vibrações", "Júlio Borba" e "Encontro de Choro" sem resultado.
