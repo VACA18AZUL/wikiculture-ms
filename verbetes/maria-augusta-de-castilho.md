@@ -21,7 +21,7 @@ Em 2016, assinou com Flaviana Miranda da Silva de Sá o artigo "Os espaços cine
 
 Em 13 de abril de 2018, lançou no próprio [[hotel-gaspar|Hotel Gaspar]], em Campo Grande, o livro *Hotel Gaspar: Identidade e Memória no contexto do Desenvolvimento Local*, escrito com Elaine Cristina Paganotti Rezende e publicado com apoio do Fundo de Investimentos Culturais (FIC) do governo do estado. A obra trata da história do hotel, construído em 1954 em frente à antiga estação ferroviária.[^fcms2018]
 
-Em 28 de maio de 2026, tomou posse na [[aflams|Academia Feminina de Letras e Artes de Mato Grosso do Sul (Aflams)]], na mesma cerimônia de [[carmen-de-eugenio|Carmen de Eugênio]] e [[beatriz-nantes|Beatriz Nantes]].[^acritica2026]
+Em 28 de maio de 2026, tomou posse na [[aflams|Academia Feminina de Letras e Artes de Mato Grosso do Sul (Aflams)]], na mesma cerimônia de Carmen de Eugênio e [[beatriz-nantes|Beatriz Nantes]].[^acritica2026]
 
 ## Obras
 

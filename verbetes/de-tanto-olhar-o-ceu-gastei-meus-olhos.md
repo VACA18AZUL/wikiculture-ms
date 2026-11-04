@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Produção
 
-O filme foi financiado pelo Fundo de Investimento Cultural (FIC) da Fundação de Cultura de Mato Grosso do Sul, em 2016. É uma parceria da Ponte Produções, de Recife, das produtoras Dora Amorim e Thaís Vidal, com a [[cerrados-filmes|Cerrado's Filmes]], de Campo Grande, de [[filipi-silveira|Filipi Silveira]], que assina a produção associada. A distribuição internacional ficou com a Figa Films. As locações foram a Feira Central e as ruas da Vila Jacy, e o filme trata da presença do funk e dos mototaxistas na paisagem urbana da cidade.[^fcms2017]
+O filme foi financiado pelo Fundo de Investimento Cultural (FIC) da Fundação de Cultura de Mato Grosso do Sul, em 2016. É uma parceria da Ponte Produções, de Recife, das produtoras Dora Amorim e Thaís Vidal, com a [[cerrados-filmes|Cerrado's Filmes]], de Campo Grande, de [[filipi-silveira|Filipi Silveira]], que assina a produção associada. A distribuição internacional ficou com a Figa Films. Foi rodado na Feira Central e em ruas da Vila Jacy e aborda da presença do funk e dos mototaxistas na paisagem urbana da cidade.[^fcms2017]
 
 O *Jornal do Comércio* data o curta de 2017; o catálogo da IC Play, do Itaú Cultural, o data de 2018.[^jc2018][^itau2025]
 

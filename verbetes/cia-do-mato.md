@@ -18,7 +18,7 @@ Em abril de 2021, a companhia completava 20 anos. Para marcar a data, montou um 
 
 O projeto reuniu sete bailarinos, um ensaiador, técnicos de som e uma produtora audiovisual. Os ensaios foram adaptados à pandemia.[^cgn2021]
 
-Os bailarinos Fanny Cacilie e [[paulo-henrique-oliveira-bailarino|Paulo Henrique Oliveira]] dançaram juntos de 2007 a 2012 na Companhia Dançar e na Cia do Mato, ambas dirigidas por Neller. Em 2014, a dupla foi aprovada, com uma coreografia de jazz na categoria duo sênior, para os palcos abertos do 32º Festival de Dança de Joinville.[^cgn2014]
+Os bailarinos Fanny Cacilie e Paulo Henrique Oliveira dançaram juntos de 2007 a 2012 na Companhia Dançar e na Cia do Mato, ambas dirigidas por Neller. Em 2014, a dupla foi aprovada, com uma coreografia de jazz na categoria duo sênior, para os palcos abertos do 32º Festival de Dança de Joinville.[^cgn2014]
 
 Chico Neller, autor das coreografias, esteve à frente da [[ginga-cia-de-danca|Ginga Cia de Dança]], que, segundo a mesma matéria, recebeu prêmios em festivais de dança do país.[^cgn2021]
 
