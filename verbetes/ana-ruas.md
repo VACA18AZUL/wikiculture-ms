@@ -22,9 +22,9 @@ atualizado: 2026-11-04
 
 Estudou Artes na Universidade de Passo Fundo. Segundo ela, foi uma disciplina de pintura mural que a levou às obras de grandes dimensões, marca de sua produção.[^ce2010] Suas intervenções foram feitas em viadutos, paredes e muros, e também em museus e galerias.[^cgn2015]
 
-Em 2010, lançou o catálogo *Intervenções urbanas de Ana Ruas*, com obras de 14 anos e textos de [[maria-adelia-menegazzo|Maria Adélia Menegazzo]], Rafael Maldonado, [[humberto-espindola|Humberto Espíndola]] e Ana Cândica de Avelar. Feito com apoio do Fundo de Investimentos Culturais de MS, teve 1,5 mil exemplares destinados a bibliotecas escolares. Além de Campo Grande, reúne intervenções feitas em Maceió e Lagoa Vermelha.[^ce2010]
+Em outubro de 2010, o *Correio do Estado* anunciou o lançamento do catálogo *Intervenções urbanas de Ana Ruas*, com obras de 14 anos, textos de [[maria-adelia-menegazzo|Maria Adélia Menegazzo]], Rafael Maldonado e [[humberto-espindola|Humberto Espíndola]] e uma abordagem teórica da pesquisadora Ana Cândica de Avelar. Feito com apoio do Fundo de Investimentos Culturais de MS, teria 1,5 mil exemplares para bibliotecas de escolas públicas e particulares do estado. Além de Campo Grande, reúne intervenções feitas em Maceió e Lagoa Vermelha.[^ce2010]
 
-Em 2011, abriu o [[atelie-ana-ruas|Ateliê Ana Ruas]], em Campo Grande, como espaço aberto a artistas, curadores e profissionais de outras áreas.[^cgn2014] Em 2020, pintou pela primeira vez o muro do ateliê e conversou sobre a obra em uma live com Humberto Espíndola, o músico [[marcio-de-camillo|Márcio de Camillo]] e a galerista Gorete Thorey, da Viathorey Galeria, que a representa.[^cgn2020]
+Em 2011, abriu o [[atelie-ana-ruas|Ateliê Ana Ruas]], em Campo Grande, como espaço aberto a artistas, curadores e profissionais de outras áreas.[^cgn2014] Em 2020, pintou pela primeira vez a fachada do ateliê. A obra foi tema de uma live anunciada para 26 de junho, com Humberto Espíndola, o músico [[marcio-de-camillo|Márcio de Camillo]] e a galerista Gorete Thorey, da Viathorey Galeria, que a representa.[^cgn2020]
 
 Em 2015, foi indicada ao Prêmio Pipa, descrita pelo *Campo Grande News* como a primeira artista de Mato Grosso do Sul indicada. Concorria na categoria de voto popular, com outros 61 artistas.[^cgn2015]
 
@@ -32,7 +32,7 @@ Quando [[isaac-de-oliveira|Isaac de Oliveira]] morreu, em 2019, ela foi ouvida p
 
 ## Exposições
 
-- *Plano B* (2014) — intervenção na sala do [[marco|Museu de Arte Contemporânea de MS (MARCO)]], que recriava os planos do ambiente usando só cor. Fez parte da primeira Temporada de Exposições de 2014, aberta em 13 de março, junto com fotografias de Pierre Verger.[^cgn2014]
+- *Plano B* (2014) — intervenção na sala do [[marco|Museu de Arte Contemporânea de MS (MARCO)]], que recriava os planos do ambiente usando só cor. Fez parte da primeira Temporada de Exposições de 2014, com abertura marcada para 13 de março, junto com fotografias de Pierre Verger.[^cgn2014]
 - *Floresta Encantada* (2017) — série apresentada na coletiva "4 Mostras, 4 Artistas", no MARCO, até 9 de abril de 2017. Incluía um painel de 5 metros pintado com crianças que frequentavam o ateliê.[^cgn2017]
 
 [^ce2010]: ["Marcas de Ana Ruas são reunidas em catálogo"](https://correiodoestado.com.br/correio-b/marcas-de-ana-ruas-sao-reunidas-em-catalogo/81307/), *Correio do Estado*, 25 out. 2010. Acesso em 4 nov. 2026.

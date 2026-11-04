@@ -22,5 +22,5 @@ Busca aberta não foi feita para este verbete: o limite de buscas da rodada esgo
 
 - Reforça: inauguração em 1998 (a matéria a menciona como marco, ao dizer que a reforma é a maior desde a inauguração, segundo a Prefeitura); reforma em andamento em 2026.
 - Acrescenta: testes de som e iluminação em jul. 2026; escopo (piso, telhado, elétrica, climatização); entrega prevista dez. 2026.
-- Divergências registradas no verbete e na lista-mestra (observacoes): início da obra (27 jan. 2026 no CGN; fevereiro em A Crítica, segundo a Prefeitura); valor (quase R$ 9,3 milhões no CGN; R$ 9,2 milhões em A Crítica).
+- Divergências registradas no verbete (e repassadas ao orquestrador para a coluna observacoes da lista-mestra): início da obra (27 jan. 2026 no CGN; fevereiro em A Crítica, segundo a Prefeitura); valor (quase R$ 9,3 milhões no CGN; R$ 9,2 milhões em A Crítica).
 - A Crítica não informa desde quando o teatro está fechado; "fechado desde 2020" segue só no CGN.

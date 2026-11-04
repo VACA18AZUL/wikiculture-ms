@@ -21,3 +21,8 @@ Busca de segunda fonte (agente val-5):
 - Resultado: continua com fonte única.
 - Correções no verbete: autoria da nota (Glaucea Vaccari, não Naiane Mesquita); a apresentação passou a ser descrita como anunciada, porque a matéria é anterior ao evento; ligação para teatro-glauce-rocha.
 - Pista: estudos acadêmicos sobre a dança Kohixoti Kipaé (bate-pau) não citam o grupo.
+
+## Atualização de 2026-11-04 (reforço r-4)
+
+- Busca aberta sobre a abertura do 6º Prêmio Onça Pintada (2019) com o grupo, bate-pau e Aldeia Tereré: voltou só a matéria do Correio do Estado já citada; os demais resultados (artigos sobre bate-pau/kipaéxoti na UFMT, UCDB/Tellus, UEMS) não citam o grupo. Segue fonte única; "reforcar". Pistas: Campo Grande News e Midiamax de 4-9 set. 2019; página do Prêmio Onça Pintada; Fundação de Cultura de MS.
+- Retirada do verbete a frase "A reportagem não traz outras informações..." (fica aqui).
