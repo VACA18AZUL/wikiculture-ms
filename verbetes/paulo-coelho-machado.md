@@ -5,7 +5,7 @@ areas: [literatura]
 cidade: Campo Grande
 resumo: Memorialista de Campo Grande, autor da série "Pelas Ruas de Campo Grande", criador do Instituto Histórico e Geográfico de Mato Grosso do Sul em 1978 e membro fundador da Academia Sul-Mato-Grossense de Letras.
 ficha:
-  Atividade: Memorialismo; advocacia
+  Atividade: Memorialismo
   Instituições: Instituto Histórico e Geográfico de MS; Academia Sul-Mato-Grossense de Letras
 status: rascunho
 atualizado: 2026-11-04

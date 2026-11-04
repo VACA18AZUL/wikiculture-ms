@@ -19,7 +19,7 @@ Formou-se em Jornalismo pela Unesp, em Bauru, e em Letras pela Unicamp, onde fez
 
 Segundo o Correio do Estado, algumas de suas histórias foram adaptadas para o audiovisual: *Batateogonia* (2007) e *As Aventuras de São Bigolin na Terra Pré-plana* (2019), pelo produtor Ricardo Botini, e *A Biografia Não Autorizada de São Bigolin* (2021), pelo diretor e ator Robson Marx.[^ceprofessores]
 
-Em 28 de março de 2023, lançou *Batateogonia e Outras Histórias* no Sesc Cultura, em Campo Grande, em evento coletivo com os também professores de Letras [[flavio-adriano-nantes|Flávio Adriano Nantes]], [[volmir-cardoso|Volmir Cardoso]] e Ravel Paz, com mediação de [[adrianna-alberti|Adrianna Alberti]].[^cgnprofessores][^ceprofessores]
+Em março de 2023, o *Campo Grande News* e o *Correio do Estado* anunciaram para o dia 28, no Sesc Cultura, em Campo Grande, o lançamento de *Batateogonia e Outras Histórias* num evento coletivo com os também professores de Letras [[flavio-adriano-nantes|Flávio Adriano Nantes]], [[volmir-cardoso|Volmir Cardoso]] e Ravel Paz, com mediação de [[adrianna-alberti|Adrianna Alberti]].[^cgnprofessores][^ceprofessores]
 
 ## Obras
 

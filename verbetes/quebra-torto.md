@@ -3,7 +3,7 @@ titulo: Quebra Torto
 tipo: obra
 areas: [literatura, artes-plasticas]
 cidade: Campo Grande
-resumo: Coletânea de histórias em quadrinhos de autores de Mato Grosso do Sul organizada por Fábio Quill, com apoio do Rumos Itaú Cultural, lançada em Campo Grande em janeiro de 2023.
+resumo: Coletânea de histórias em quadrinhos de autores de Mato Grosso do Sul organizada por Fábio Quill, com apoio do Rumos Itaú Cultural, noticiada como lançada em Campo Grande em janeiro de 2023.
 ficha:
   Organização: "[[fabio-quill|Fábio Quill]]"
   Ano: "2023"
@@ -28,13 +28,13 @@ As histórias passam por rituais entre gerações, memórias de infância nos an
 
 ## Lançamento
 
-O lançamento on-line foi em 17 de janeiro de 2023, pelo Instagram, com mediação de Felipe Mafra, da Hámor Edições. O presencial foi em 22 de janeiro, no Capivas, em Campo Grande. As vendas foram abertas por campanha no Catarse.[^abc2023] A obra também era vendida na Banca Modular.[^cgn2023] Em novembro de 2024, o Campo Grande News a incluiu numa lista de livros de autores de MS à venda na [[hamor-livraria|Hámor]].[^cgn2024]
+O lançamento on-line foi marcado para 17 de janeiro de 2023, pelo Instagram, com mediação de Felipe Mafra, da Hámor Edições, e o presencial para 22 de janeiro, no Capivas, em Campo Grande, com abertura das vendas pelo Catarse.[^abc2023] Em 23 de janeiro, o *Campo Grande News* noticiou a coletânea como lançada em Campo Grande, com campanha de pós-lançamento no Catarse e venda também na Banca Modular.[^cgn2023] Em novembro de 2024, o Campo Grande News a incluiu numa lista de livros de autores de MS à venda na [[hamor-livraria|Hámor]].[^cgn2024]
 
 A Crítica, em 2026, situa o início da experiência em 2022, ano diferente do lançamento noticiado em janeiro de 2023.[^acritica2026][^abc2023]
 
 ## Quebra Torto On
 
-Em 2026, Quill organizou o Quebra Torto On – Formação e Difusão, financiado pelo Fundo de Investimentos Culturais de MS. O projeto selecionaria oito propostas de autores do estado para formação, mentoria editorial e publicação em e-book gratuito. Jaqueline Cabral integraria a comissão de seleção e Marina Duarte voltaria como convidada das aulas magnas.[^acritica2026]
+Em julho de 2026, *A Crítica* noticiou a abertura das inscrições do Quebra Torto On – Formação e Difusão, organizado por Quill. O projeto selecionaria oito propostas de autores do estado para formação, mentoria editorial e publicação em e-book gratuito. Jaqueline Cabral integraria a comissão de seleção e Marina Duarte voltaria como convidada das aulas magnas.[^acritica2026]
 
 [^abc2023]: Redação, ["Projeto lança HQ com histórias inéditas de autores do Mato Grosso do Sul"](https://abcdoabc.com.br/projeto-lanca-hq-com-historias-ineditas-de-autores-do-mato-grosso-do-sul/), *ABC do ABC*, 11 jan. 2023. Acesso em 4 nov. 2026.
 [^cgn2023]: Aletheya Alves, ["Artistas de MS lançam coletânea de quadrinhos com campanha no Catarse"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/artistas-de-ms-lancam-coletanea-de-quadrinhos-com-campanha-no-catarse), *Campo Grande News*, 23 jan. 2023. Acesso em 4 nov. 2026.

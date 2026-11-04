@@ -14,19 +14,19 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2018, assinou a música de *A Princesa Engasgada*, que o Teatral Grupo de Risco apresentou em feiras livres de Campo Grande na comemoração de seus 30 anos.[^cgn2018] Em 2023, dirigiu *Tesoura*, nova montagem do mesmo grupo.[^cgn2023]
+Em 2018, assinou a música de *A Princesa Engasgada*, que o Teatral Grupo de Risco anunciou para feiras livres de Campo Grande na abertura da comemoração de seus 30 anos.[^cgn2018] Em 2023, dirigiu *Tesoura*, nova montagem do mesmo grupo.[^cgn2023]
 
 Em 2023, era creditado pela música original de [[uma-moca-na-cidade|Uma Moça na Cidade]], principal espetáculo do [[grupo-ubu|Grupo UBU]].[^cgn2023ubu]
 
-Em 2024, tocou ao vivo em *O Bem-Amado*, do Fulano di Tal, na circulação do projeto Fulano di Tal – Ato 20 por cidades de Mato Grosso do Sul. No mesmo projeto, estava previsto que ministrasse aos integrantes do grupo, em setembro e outubro, a formação "Musicalização da cena (voz e instrumento)".[^cgn2024]
+Em 2024, era creditado pela execução ao vivo das músicas de *O Bem-Amado*, do Fulano di Tal, que o projeto Fulano di Tal – Ato 20 anunciou para cinco cidades de Mato Grosso do Sul em abril. No mesmo projeto, estava previsto que ministrasse aos integrantes do grupo, em setembro e outubro, a formação "Musicalização da cena (voz e instrumento)".[^cgn2024]
 
 ## Espetáculos
 
 - *A Princesa Engasgada* (2018) — música; texto de Márcia Frederico; Teatral Grupo de Risco.[^cgn2018]
 - *Tesoura* (2023) — direção; texto de Yago Garcia, com Fábio Umeda e Yago Garcia; Teatral Grupo de Risco.[^cgn2023]
-- *[[uma-moca-na-cidade|Uma Moça na Cidade]]* — música original; texto e direção de [[anderson-bosh|Anderson Bosh]]; Grupo UBU. Creditado na versão em circulação em 2023.[^cgn2023ubu]
+- *[[uma-moca-na-cidade|Uma Moça na Cidade]]* — música original; direção de [[anderson-bosh|Anderson Bosh]]; Grupo UBU. Creditado na versão em circulação em 2023.[^cgn2023ubu]
 - *[[o-bem-amado-fulano-di-tal|O Bem-Amado]]* (circulação de 2024) — música ao vivo; direção de [[marcelo-leite|Marcelo Leite]]; Fulano di Tal.[^cgn2024]
-- *Circo do Absurdo* — no repertório da mostra de 37 anos do Teatral Grupo de Risco, em 2025, com o nome dele entre parênteses; a matéria não especifica a função nem o ano.[^cgn2025]
+- *Circo do Absurdo* — no repertório da mostra de 37 anos do Teatral Grupo de Risco, em 2025, com o nome dele entre parênteses ao lado do título.[^cgn2025]
 
 [^cgn2018]: Ângela Kempfer, ["Teatral Grupo de Risco comemora 30 anos com apresentações em feiras livres"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/teatral-grupo-de-risco-comemora-30-anos-com-apresentacoes-em-feiras-livres), *Campo Grande News*, 24 fev. 2018. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Espetáculo gratuito mostra dores de um Pantanal contemporâneo"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-gratuito-mostra-dores-de-um-pantanal-contemporaneo), *Campo Grande News*, 25 abr. 2023. Acesso em 4 nov. 2026.
