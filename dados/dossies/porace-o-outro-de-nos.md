@@ -42,3 +42,23 @@ Fontes descartadas: Sopa Cultural (temporada no Sesc Niterói/São Gonçalo, edi
 ## Uso no verbete
 
 - Tudo acima entrou.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fontes novas (outro veículo: portal da Fundação de Cultura de MS, 2017; a busca do site pela palavra "Poracê" listou as matérias):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2017a | Daiana Schio, "Premiado pela Fundação de Cultura, 'Poracê' estreia na Capital", FCMS, 9 maio 2017 | https://www.fundacaodecultura.ms.gov.br/espetaculo-porace-da-cia-dancurbana-acontece-no-teatro-prosa-nos-dias-17-e-18-de-maio/ | sim |
+| fcms2017b | Gisele Colombo, "'Poracê' leva ao público celebração da vida, da natureza e da coletividade nativa", FCMS, 17 maio 2017 | https://www.fundacaodecultura.ms.gov.br/espetaculo-porace-leva-ao-publico-celebracao-da-vida-da-natureza-e-da-coletividade-nativa/ | sim |
+| fcms2017c | Daiana Schio, "Abordando a ancestralidade, Poracê se torna um espetáculo singular no FIB", FCMS, 31 jul 2017 | https://www.fundacaodecultura.ms.gov.br/abordando-a-ancestralidade-porace-se-torna-um-espetaculo-singular-no-fib/ | sim |
+
+Lida e sem conteúdo: "Poracê – O outro de nós – Espetáculo de dança – Teatro Prosa" (FCMS, 17 maio 2017): só galeria de fotos.
+
+O que mudou no verbete:
+- Reforço: o ano de 2017 (antes só "repertório" em cgn2023b) agora tem fonte primária de época; a estreia foi anunciada para 17 e 18 maio 2017 no Teatro Prosa, com apoio dos Prêmios Funarte Klauss Vianna 2015 e Célio Adolfo 2016, dentro dos 40 anos do estado.
+- Reforço: significado de poracê em nheengatu, tema e pesquisa dos nomes (já em cgn2023) confirmados por fcms2017a.
+- Novo: elenco de 2017 (inclui Thiago Mendes, que não aparece em 2023), ficha técnica (assistentes de produção, Cravo Filmes, design gráfico), dez apresentações previstas, sessão em Bonito (jul. 2017).
+- Divergência pequena dentro da própria FCMS: o instrumentista da trilha é "Antônio Porto" (17 maio) e "Carlos Porto" (31 jul). As duas versões estão no verbete. Não ligado a [[antonio-porto]] da lista-mestra (identidade não provada).
+- Erro de data na fonte fcms2017c: diz "sábado (30.08)" numa matéria de 31 jul; o verbete diz só "julho de 2017".
+- Não confirmado: temporada Sesc RJ 2024 e de 2019 (continuam sem fonte lida).

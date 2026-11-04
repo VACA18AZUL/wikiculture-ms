@@ -13,3 +13,5 @@ Fontes novas lidas (todas Correio do Estado, veículo distinto do Campo Grande N
 - 14 out. 2018, https://correiodoestado.com.br/correio-b/2018/10/14/rainha-do-samba-em-ms-juci-ibanez-grava-dvd-de-40-anos-de-carreira-nesta-semana.html: gravação do DVD "40 anos de voz, raízes e vertentes" em 17 e 18/10/2018, Sesc Morada dos Baís, FMIC, lançamento previsto para dezembro de 2018. A matéria grafa "Celilo e Geraldo Espíndola" (provável erro de grafia); o nome foi omitido no verbete. Telefone de contato omitido.
 
 Não abertas: FCMS 2025 "No Dia do Samba..." e galerias do Festival América do Sul 2026 (Mercedes Sosa, com Juci Ibanez), que aparecem na busca da FCMS e podem render nova atualização. Sem divergências. Contas 35 anos (2012) e 40 anos (2018) são compatíveis.
+
+Complemento (r3-3): lidas também duas matérias da FCMS, 2 dez. 2025 (Dia do Samba; Luciana de Lima Thomaz, do Sampri, cita Juci Ibanez como pioneira e primeira referência feminina do samba em Campo Grande; é opinião atribuída) e 15 maio 2026 (abertura do Festival América do Sul 2026, tributo a Mercedes Sosa, com regência de Eduardo Martinelli). Autoria da segunda aparece apenas como "Daniel".
