@@ -59,3 +59,7 @@ Divergência registrada no verbete (as duas versões, citadas, sem escolher):
 - Pedagogia e Espiritualidade em Cinco Sonhos de Dom Bosco: ASL sem ano; catálogo 2008 (UCDB, 223 p.).
 O resumo deixou de trazer o ano "(1991)" para não escolher entre as versões. Biografia, cargos, posse na ASL e cadeira 2 seguem só na página da ASL. Buscas em Correio do Estado, FCMS, UFMS e site da UCDB sem resultado.
 
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida (API do O Estado MS, busca "Afonso de Castro"): "Academia Sul-Mato-Grossense de Letras elege novo presidente, Pedro Chaves", O Estado MS, 2 out. 2026 (https://oestadoonline.com.br/cidades/academia-sul-mato-grossense-de-letras-elege-novo-presidente-pedro-chaves/). Lista "Pe. Afonso de Castro" entre os ocupantes atuais das cadeiras da ASL (sem número de cadeira). Confirma, por veículo independente, a condição de acadêmico; cadeira 2, posse em 2007, biografia e reitorado na UCDB continuam só na página da ASL. Campo Grande News (busca) e Google Notícias: nada pertinente.

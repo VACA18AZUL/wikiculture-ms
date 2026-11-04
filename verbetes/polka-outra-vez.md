@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Rodrigo Teixeira Gonçalves situa a canção entre as músicas que, em meados dos anos 1970, já aproximavam a polca paraguaia do rock, ao lado de "Na Catarata", de [[alzira-espindola|Alzira Espíndola]].[^goncalves2014]
 
-Em entrevista citada por Gilmar Lima Caetano, Roca disse que a canção trata de alguém que sai do Rio de Janeiro, "da civilização", e entra no Centro-Oeste, a "Terra do Boi". Para ele, era rock'n'roll, com um riff no estilo de Chuck Berry em compasso ternário. Roca também a ligou à influência de [[humberto-espindola|Humberto Espíndola]] e do quadro *Boi-general*, de 1968.[^caetano2012]
+Em entrevista a Rodrigo Teixeira (2007), citada por Gilmar Lima Caetano, Roca disse que a canção trata de alguém que sai do Rio de Janeiro, "da civilização", e entra no Centro-Oeste, a "Terra do Boi". Para ele, era rock'n'roll, com um riff no estilo de Chuck Berry em compasso ternário. Roca também a ligou à influência de [[humberto-espindola|Humberto Espíndola]] e do quadro *Boi-general*, de 1968.[^caetano2012]
 
 ## Leituras
 

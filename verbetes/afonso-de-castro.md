@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Afonso de Castro** é um padre salesiano, professor e ensaísta nascido em Nova Aurora (GO), em 1942, e radicado em Campo Grande. Ocupa a cadeira 2 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^asl]
+**Afonso de Castro** é um padre salesiano, professor e ensaísta nascido em Nova Aurora (GO), em 1942, e radicado em Campo Grande. Ocupa a cadeira 2 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^asl] Em outubro de 2026, o jornal *O Estado MS* incluiu o padre Afonso de Castro na lista de membros da Academia, ao noticiar a eleição de nova diretoria.[^oe2026]
 
 ## Trajetória
 
@@ -38,3 +38,4 @@ Os registros de catalogação da Library of Congress, reproduzidos pelo Open Lib
 
 [^asl]: Academia Sul-Mato-Grossense de Letras, ["Afonso de Castro"](https://acletrasms.org.br/portfolio-item/pe-afonso-de-castro/), página do acadêmico, cadeira 2. Acesso em 4 nov. 2026.
 [^ol]: Open Library, registros de edição derivados de catalogação da Library of Congress: [*A poética de Manoel de Barros*](https://openlibrary.org/works/OL3203819W/editions.json) (OL940113M), [*Entre o vale e a imagem*](https://openlibrary.org/works/OL3203818W/editions.json) (OL3977689M) e [*Pedagogia e espiritualidade em cinco sonhos de Dom Bosco*](https://openlibrary.org/works/OL15627962W/editions.json) (OL24575927M), dados lidos pela interface de programação do Open Library. Acesso em 4 nov. 2026.
+[^oe2026]: ["Academia Sul-Mato-Grossense de Letras elege novo presidente: Pedro Chaves"](https://oestadoonline.com.br/cidades/academia-sul-mato-grossense-de-letras-elege-novo-presidente-pedro-chaves/), *O Estado MS* (O Estado Online), 2 out. 2026. Acesso em 4 nov. 2026.

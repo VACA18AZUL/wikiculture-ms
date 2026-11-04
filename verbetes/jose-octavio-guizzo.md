@@ -55,6 +55,7 @@ Sua trajetória foi tema de um texto de [[maria-da-gloria-sa-rosa|Maria da Glór
 ## Filmografia
 
 - *Conceição dos Bugres* — curta documentário sobre [[conceicao-dos-bugres|Conceição dos Bugres]]. Marin e Pereira, citando Gehlen e Herrero, dizem que Guizzo teria dirigido o filme, em 1980.[^marin] Isabella Banducci Amizo atribui o documentário a Cândido Alberto da Fonseca e o data de 1979.[^amizo] As duas versões ficam registradas.
+- [[paralelos-tragicos|Paralelos Trágicos]] (1966) — equipe técnica, segundo Neves.[^neves]
 - *Universidade Federal de Mato Grosso do Sul – 10 Anos* (1989) — curta; roteiro e direção, segundo Gehlen e Herrero.[^marin]
 
 [^marin]: Jérri Roberto Marin e João Pedro Ribeiro Pereira, ["José Octávio Guizzo e a construção da identidade sul-mato-grossense"](https://ojs.ufgd.edu.br/historiaemreflexao/article/download/3830/2087/11895), *Revista Eletrônica História em Reflexão*, UFGD, v. 8, n. 16, jul./dez. 2014. Acesso em 4 nov. 2026.

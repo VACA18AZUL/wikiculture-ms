@@ -36,3 +36,7 @@ Fontes descartadas:
 ## Validação de 2026-11-04 (valn-10b)
 
 - Frase parafraseada; linha cidade retirada; nota passou a p. 3-4 e 27-28.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida (API do O Estado MS, busca "Darwin Longo"): "Exposição Itinerâncias chega a Nova Andradina com exposições artísticas", O Estado MS, 5 nov. 2025 (https://oestadoonline.com.br/arte-e-lazer/exposicao-itinerancias-chega-a-nova-andradina-com-exposicoes-artisticas/). Cita "Darwin Longo de Oliveira" entre os autores das obras da exposição Itinerâncias (46 anos da UFMS; Centro de Convenções de 3 a 5 nov., câmpus CPNA em 6 e 7 nov.; parceria com IFMS/Festac). Nova seção "Exposições". Nascimento, atuação como professor e a obra do MARCO continuam só no catálogo do MARCO.

@@ -22,6 +22,11 @@ Segundo a mesma reportagem, Mongelli foi um dos criadores e integrantes do [[tuc
 
 Na despedida publicada nas redes sociais e reproduzida pela matéria, o diretor [[jair-damasceno|Jair Damasceno]] lembrou que Mongelli foi homenageado em 2011, ao lado de Paulo Corrêa, no lançamento do livro *Vozes do Teatro*, e que foi referência para os grupos surgidos a partir de 1970, entre eles o [[gutac|GUTAC]].[^cgn2018][^ce2018] O ator e palhaço [[pietro-lara|Pietro Lara]], da [[trupe-bobos-da-plebe|Trupe Bobos da Plebe]], também publicou homenagem, em que se dizia seguidor dos ensinamentos de Mongelli.[^ce2018]
 
+## Filmografia
+
+- [[paralelos-tragicos|Paralelos Trágicos]] (1966) — citado como protagonista; a lista de elenco do mesmo capítulo não o inclui.[^neves]
+- *Os Filmes Cegos de Angel Larrea* (filmado em 2008) — ator.[^neves]
+
 [^cgn2018]: Thaís Pimenta, ["Referência no teatro sul-mato-grossense, Orlando Mongelli deixa seu legado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/referencia-no-teatro-sul-mato-grossense-orlando-mongelli-deixa-seu-legado), *Campo Grande News*, 7 maio 2018. Acesso em 4 nov. 2026.
 [^ce2018]: Glaucea Vaccari, ["Professor e referência no teatro de MS, Orlando Mongelli morre em Campo Grande"](https://correiodoestado.com.br/cidades/2018/05/08/professor-e-referencia-no-teatro-de-ms-brorlando-mongelli-morre-em-campo-grande.html), *Correio do Estado*, 7 maio 2018. Acesso em 4 nov. 2026.
 [^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), ABRACE, 2018 (PDF), p. 4. Acesso em 4 nov. 2026.

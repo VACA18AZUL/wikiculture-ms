@@ -19,6 +19,10 @@ Segundo o *Correio do Estado*, que cita o jornalista Pio Lopes, foi Onésimo que
 
 O jornal registra ainda passagem pelo rádio e participação no filme [[paralelos-tragicos|*Paralelos Trágicos*]].[^ce2012] Alexandre Aldo Neves inclui Onésimo Filho no elenco de atores locais do filme, que data de 1966.[^neves] Morreu em Campo Grande em 8 de agosto de 2012, aos 71 anos.[^ce2012]
 
+## Filmografia
+
+- [[paralelos-tragicos|Paralelos Trágicos]] (1966) — elenco.[^ce2012][^neves]
+
 ## Festivais de música
 
 Gilmar Lima Caetano o cita entre os participantes do 1º Festival de Música Popular de Campo Grande, de dezembro de 1967, parte dos [[festivais-de-musica-popular-de-campo-grande|Festivais de Música Popular de Campo Grande]].[^cae34] Ian Rari Nogueira Faria reproduz essa lista de participantes e o papel de Onésimo na criação do FESSUL, a partir de Caetano.[^faria2024] No 3º festival, quando já trabalhava na TV Morena, ficou em terceiro lugar com "Rancho da Esperança". Considerou plágio a canção vencedora, "Norma", de José Roberto Amin.[^cae43]

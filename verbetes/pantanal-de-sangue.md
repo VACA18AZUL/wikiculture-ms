@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Produção
 
-Segundo Alexandre Aldo Neves, o diretor escreveu o roteiro a partir de fatos que presenciou e de casos que ouviu na infância, nas férias passadas na propriedade dos pais no Pantanal. O filme foi feito pela produtora do diretor, a RPB Filmes, fundada em 1966, com poucos recursos. O próprio Paes de Barros cuidou da fotografia e da câmera, com a colaboração de Antônio Meliande; a música é de Remo Usai, a montagem de Mauro Alice e a distribuição da Cinedistri.[^neves]
+Segundo Alexandre Aldo Neves, o diretor escreveu o roteiro a partir de fatos que presenciou e de casos que ouviu na infância, nas férias passadas na propriedade dos pais no Pantanal. O filme foi feito pela produtora do diretor, a RPB Filmes, fundada em 1966, com poucos recursos. O próprio Paes de Barros cuidou da fotografia e da câmera, com a colaboração de Antônio Meliande; a música é de Remo Usai, a montagem de Mauro Alice e a distribuição da Cinedistri. No elenco, Neves destaca Francisco de Franco e Elza de Castro.[^neves]
 
 A Cinemateca Brasileira registra o filme como longa de ficção em 35 mm, a cores, com 97 minutos, lançado em São Paulo em 29 de novembro de 1971. Dá como produtores Ivo Nacao e Reynaldo Barros e como locação a Fazenda Santo Antônio do Paraíso, no Pantanal, então Mato Grosso.[^cb] Paulo Sérgio Nolasco dos Santos, citando Idara Duncan, grafa o produtor como Ivo Nakau.[^nolasco]
 

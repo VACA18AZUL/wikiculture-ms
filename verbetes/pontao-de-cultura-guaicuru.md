@@ -24,6 +24,7 @@ Dionédison Terena, liderança terena, contou com apoio do Pontão para particip
 
 ## Filmografia
 
+- [[jaguapire-o-filme|*Jaguapiré, o filme*]] (2010) — curta feito na aldeia Jaguapiré, em Tacuru, no projeto Ava Marandu; registrado também como *Jaguapiré na luta*.[^tese]
 - [[bro-mcs-documentario-2010|Brô MC's (documentário, 2010)]] (2010) — curta documentário; produção, com a Aldeia Jaguapiru, no projeto Ava Marandu.[^fidelis2024]
 
 ## Nome

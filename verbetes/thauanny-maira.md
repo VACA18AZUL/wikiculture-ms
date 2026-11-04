@@ -24,7 +24,7 @@ Em 2026, dirigiu o documentário *Chamas da Tradição*, sobre a Aldeia Mãe Ter
 
 ## Filmografia
 
-- *A Margem é o Centro* — documentário sobre o bairro Moreninhas, em Campo Grande; direção.[^cgn2026][^fcms2021a]
+- [[a-margem-e-o-centro|*A Margem é o Centro*]] — documentário sobre o bairro Moreninhas, em Campo Grande; direção.[^cgn2026][^fcms2021a] [Assistir](https://www.youtube.com/watch?v=7mrEfdOfURo)
 - *Invasão Rap* (2021) — documentário; assistência de edição e colorização.[^fcms2021b]
 - *Chamas da Tradição* (2026) — documentário; direção.[^cgn2026][^acritica2026a]
 
