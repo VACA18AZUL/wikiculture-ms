@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-A dissertação de Carlos Rodrigo Diehl cita Nelson Rondon, com José "Piranha" Rocha e Rubens Ramos, entre os que participam da maioria dos filmes do grupo nas principais funções técnicas e como atores.[^diehl] Na ficha da dissertação, o nome dele aparece apenas nos créditos de *Os Covardes Devem Morrer* (1985).[^diehl]
+A dissertação de Carlos Rodrigo Diehl cita Nelson Rondon, com José "Piranha" Rocha e Rubens Ramos, entre os que participam da maioria dos filmes do grupo nas principais funções técnicas e como atores.[^diehl] Na ficha da dissertação, ele assina com José B. Rocha os efeitos especiais de *Os Covardes Devem Morrer* (1985) e integra o elenco.[^diehl]
 
 ## Filmografia
 

@@ -28,6 +28,5 @@ Diehl lê o filme como uma história sobre o sonho e as tragédias do garimpo, c
 - Direção: [[reinaldo-dorval|Reinaldo Dorval]][^diehl]
 - Produção: [[alexandre-couto|Alexandre Couto]], [[reinaldo-dorval|Reinaldo Dorval]], L. Martins e J. Benedito[^diehl]
 - Produtoras: [[colorcouto|Colorcouto]] e [[aljor-filmes|Aljor Filmes]][^diehl]
-- Elenco: não citado na ficha da dissertação[^diehl]
 
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56-57, 86, 102, 134-135 e 157. Acesso em 4 nov. 2026.

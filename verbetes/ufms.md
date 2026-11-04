@@ -3,7 +3,7 @@ titulo: Universidade Federal de Mato Grosso do Sul (UFMS)
 tipo: espaco
 areas: [artes-plasticas, literatura, musica, audiovisual, danca]
 cidade: Campo Grande
-resumo: Universidade federal com sede em Campo Grande, federalizada em 1979; em 2019 deu pela primeira vez o título de doutor honoris causa a artistas, Humberto Espíndola, Isaac de Oliveira e Almir Sater.
+resumo: Universidade federal com sede em Campo Grande, federalizada em 1979; em 2019 deu o título de doutor honoris causa a Humberto Espíndola, Isaac de Oliveira e Almir Sater, os primeiros artistas a recebê-lo, segundo a instituição.
 ficha:
   Criação: "1979 (federalização); origem em 1962"
   Local: Campo Grande (sede) e câmpus no interior

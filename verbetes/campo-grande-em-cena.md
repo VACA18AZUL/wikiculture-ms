@@ -20,7 +20,7 @@ O projeto selecionou sete espetáculos de grupos sul-mato-grossenses, em três c
 
 A programação incluiu ainda uma temporada de *Todo redemoinho começa com um sopro*, dirigido por Nill Amaral, e duas oficinas para atores, com Marcelo Henrique Flecha, do Maranhão, e Patrícia Saravy, do Paraná.[^cgn2021]
 
-Espetáculos selecionados:
+Os sete espetáculos selecionados foram estes.[^cgn2021]
 
 - *Cães* — [[nucleo-teatral-isadora|Núcleo Teatral Isadora]], de Dourados.[^cgn2021]
 - *A Cartista* — [[cia-sou-o-que-sou|Cia. Sou o que Sou]], de Aparecida do Taboado.[^cgn2021]

@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 A dissertação de Carlos Rodrigo Diehl cita José "Piranha" Rocha, com Rubens Ramos e Nelson Rondon, entre os que participam da maioria dos filmes do grupo nas principais funções técnicas e como atores.[^diehl]
 
-A ficha técnica da dissertação usa duas grafias: "José Piranha", no elenco de *A Marca do Destino*, e "José B. Rocha", nos créditos de *Liberdade para os Inocentes* e *Os Covardes Devem Morrer*. A dissertação não diz expressamente que os créditos são da mesma pessoa; este verbete os reúne pela grafia "José 'Piranha' Rocha" usada no texto.[^diehl]
+A ficha técnica da dissertação usa duas grafias: "José Piranha", no elenco de *A Marca do Destino*, e "José B. Rocha", nos créditos de *Liberdade para os Inocentes* e *Os Covardes Devem Morrer*.[^diehl]
 
 ## Filmografia
 

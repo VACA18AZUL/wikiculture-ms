@@ -5,7 +5,7 @@ areas: [audiovisual]
 cidade: Campo Grande
 resumo: Curta amador sem data, de 7 minutos, dirigido por Reinaldo Dorval em Campo Grande, que parodia a cena de perseguição dos filmes de suspense. Um dos seis filmes sertanejos estudados por Carlos Rodrigo Diehl.
 ficha:
-  Ano: sem data na fonte
+  Ano: não datado (Diehl)
   Formato: Curta-metragem, 7 minutos
   Direção: Reinaldo Dorval
   Produtora: Aljor Filmes
@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Imprevisto ao Acaso*** é um curta-metragem amador de 7 minutos dirigido por [[reinaldo-dorval|Reinaldo Dorval]] em Campo Grande. A dissertação de Carlos Rodrigo Diehl, que o analisa entre os seis filmes sertanejos do grupo, não informa o ano.[^diehl]
+***Imprevisto ao Acaso*** é um curta-metragem amador de 7 minutos dirigido por [[reinaldo-dorval|Reinaldo Dorval]] em Campo Grande. A dissertação de Carlos Rodrigo Diehl o analisa entre os seis filmes sertanejos do grupo e o lista como não datado.[^diehl]
 
 ## Enredo
 

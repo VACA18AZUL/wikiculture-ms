@@ -3,14 +3,14 @@ titulo: Aljor Filmes
 tipo: grupo
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Produtora creditada em três filmes sertanejos amadores de Campo Grande: Vingança Maldita (1978), A Marca do Destino (1979) e Imprevisto ao Acaso.
+resumo: Produtora creditada em três filmes sertanejos amadores de Campo Grande, entre eles Vingança Maldita (1978) e A Marca do Destino (1979).
 ficha:
   Atividade: Produção audiovisual amadora
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Aljor Filmes** é uma produtora creditada em três dos seis filmes sertanejos amadores de Campo Grande estudados por Carlos Rodrigo Diehl, feitos pelo grupo de [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]].[^diehl] Em dois deles, a ficha da dissertação a cita ao lado da [[colorcouto|Colorcouto]]. A dissertação não traz outras informações sobre a empresa.[^diehl]
+**Aljor Filmes** é uma produtora creditada em três dos seis filmes sertanejos amadores de Campo Grande estudados por Carlos Rodrigo Diehl, feitos pelo grupo de [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]].[^diehl] Em dois deles, a ficha da dissertação a cita ao lado da [[colorcouto|Colorcouto]].[^diehl]
 
 ## Filmografia
 

@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Vídeo Eventos** é uma produtora creditada em três dos seis filmes sertanejos amadores de Campo Grande estudados por Carlos Rodrigo Diehl, feitos pelo grupo de [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]]. A dissertação não traz outras informações sobre a empresa.[^diehl]
+**Vídeo Eventos** é uma produtora creditada em três dos seis filmes sertanejos amadores de Campo Grande estudados por Carlos Rodrigo Diehl, feitos pelo grupo de [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]].[^diehl]
 
 ## Filmografia
 

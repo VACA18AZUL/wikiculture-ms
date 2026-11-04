@@ -5,7 +5,7 @@ areas: [audiovisual]
 cidade: Campo Grande
 resumo: Filme amador sem data, de 93 minutos, dirigido por Reinaldo Dorval em Campo Grande, sobre meninas mantidas como escravas numa fazenda. Um dos seis filmes sertanejos estudados por Carlos Rodrigo Diehl.
 ficha:
-  Ano: sem data na fonte
+  Ano: não datado (Diehl)
   Formato: 93 minutos
   Direção: Reinaldo Dorval
   Produtora: Vídeo Eventos
@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Liberdade para os Inocentes*** é um filme amador de 93 minutos dirigido por [[reinaldo-dorval|Reinaldo Dorval]] em Campo Grande. A dissertação de Carlos Rodrigo Diehl, que o analisa entre os seis filmes sertanejos do grupo, não informa o ano.[^diehl]
+***Liberdade para os Inocentes*** é um filme amador de 93 minutos dirigido por [[reinaldo-dorval|Reinaldo Dorval]] em Campo Grande. A dissertação de Carlos Rodrigo Diehl o analisa entre os seis filmes sertanejos do grupo e o lista como não datado.[^diehl]
 
 ## Enredo
 

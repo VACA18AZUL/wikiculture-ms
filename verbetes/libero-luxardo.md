@@ -25,11 +25,11 @@ Advaldo Castro Neto registra que Luxardo chegou a Belém do Pará em 1939, depoi
 
 ## Divergências
 
-Diehl data *Alma do Brasil* de 1930.[^diehl] Castro Neto o data de 1932.[^castro] A Wikipédia em português, sem referências, também indica 1932 e diz que Luxardo morou em Campo Grande na década de 1930; esse ponto não foi confirmado em fonte.
+Diehl data *Alma do Brasil* de 1930.[^diehl] Castro Neto o data de 1932.[^castro]
 
 ## Filmografia
 
-Filmes ligados ao período em Mato Grosso:
+Filmes ligados ao período em Mato Grosso, segundo Diehl e Castro Neto:[^diehl][^castro]
 
 - [[alma-do-brasil|Alma do Brasil]] (1930 ou 1932, conforme a fonte) — longa-metragem; codireção com Alexandre Wulfes.[^diehl][^castro]
 - *Caçando Feras* (1936) — musical com imagens filmadas em Mato Grosso, segundo Diehl.[^diehl][^castro]

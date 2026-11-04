@@ -8,10 +8,10 @@ ficha:
   Morte: "Abril de 1974, em Campo Grande"
   Atividade: Acordeão
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Zé Corrêa** foi um acordeonista nascido em uma fazenda em Nioaque, conhecido como "Rei do Chamamé" e apontado como o maior ícone do gênero em Campo Grande.[^gon14]
+**Zé Corrêa** foi um acordeonista nascido em uma fazenda em Nioaque, conhecido como "Rei do Chamamé" e apontado por Rodrigo Teixeira Gonçalves como o maior ícone do gênero em Campo Grande.[^gon14]
 
 ## Trajetória
 

@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 A dissertação de Carlos Rodrigo Diehl cita Rubens Ramos, com José "Piranha" Rocha e Nelson Rondon, entre os que participam da maioria dos filmes do grupo nas principais funções técnicas e como atores.[^diehl] Na ficha da dissertação, ele assina a edição e a direção artística de *A Marca do Destino* (1979) e aparece no elenco desse filme e de *Imprevisto ao Acaso*.[^diehl]
 
-Em 2013, o *Campo Grande News* listou um Rubens Ramos no elenco de *Honra*, longa dirigido por Alexandre Couto, com roteiro e atuação de Reinaldo Dorval. A matéria não diz se é a mesma pessoa citada por Diehl.[^cgn2013]
+Em 2013, o *Campo Grande News* listou um Rubens Ramos no elenco de *Honra*, longa dirigido por Alexandre Couto, com roteiro e atuação de Reinaldo Dorval.[^cgn2013]
 
 ## Filmografia
 

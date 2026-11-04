@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Diehl cita Wulfes e Luxardo como exemplos de técnicos formados pela produção regional que depois se profissionalizaram nos grandes centros.[^diehl] Advaldo Castro Neto registra a codireção de *Alma do Brasil* e o tema do filme: as Forças Armadas na Retirada da Laguna, episódio da Guerra do Paraguai.[^castro] As fontes consultadas não trazem outros dados sobre a vida ou a obra de Wulfes.
+Diehl cita Wulfes e Luxardo como exemplos de técnicos formados pela produção regional que depois se profissionalizaram nos grandes centros.[^diehl] Advaldo Castro Neto registra a codireção de *Alma do Brasil* e o tema do filme: as Forças Armadas na Retirada da Laguna, episódio da Guerra do Paraguai.[^castro]
 
 ## Filmografia
 

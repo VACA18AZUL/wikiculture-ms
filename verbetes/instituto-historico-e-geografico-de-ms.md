@@ -12,6 +12,9 @@ links:
   - tipo: site
     url: https://ihgms.org.br/
     acesso: 2026-11-04
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Instituto_Hist%C3%B3rico_e_Geogr%C3%A1fico_de_Mato_Grosso_do_Sul
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

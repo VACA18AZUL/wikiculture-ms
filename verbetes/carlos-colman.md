@@ -7,6 +7,10 @@ resumo: Cantor e compositor sul-mato-grossense ligado à música rural e frontei
 ficha:
   Atividade: Cantor, compositor, professor de violão
   Grupos: Therra
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Carlos_Colman
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

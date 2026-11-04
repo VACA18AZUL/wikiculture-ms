@@ -8,10 +8,10 @@ ficha:
   Fundação: "Cerca de 1985 (40 anos em 2025, segundo a imprensa)"
   Realização: Noite da Poesia
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-A **União Brasileira de Escritores de Mato Grosso do Sul (UBE-MS)** é uma entidade de escritores sediada em Campo Grande, que organiza a [[noite-da-poesia-ube-ms|Noite da Poesia]].[^cgn2023]
+A **União Brasileira de Escritores de Mato Grosso do Sul (UBE-MS)** é uma entidade de escritores de Mato Grosso do Sul que organiza, em Campo Grande, a [[noite-da-poesia-ube-ms|Noite da Poesia]].[^cgn2023]
 
 ## Trajetória
 
@@ -26,4 +26,4 @@ Em 2025, a 37.ª Noite da Poesia foi marcada para 24 de outubro, na Estação Te
 [^cgn2023]: Jéssica Fernandes, ["Pela 1ª vez na Capital, Martha Medeiros participa da 35º Noite da Poesia"](https://www.campograndenews.com.br/lado-b/diversao/pela-1a-vez-na-capital-martha-medeiros-participa-da-35o-noite-da-poesia), *Campo Grande News*, 10 set. 2023. Acesso em 29 out. 2026.
 [^cgn2025]: Thailla Torres, ["Esquenta para Noite da Poesia terá papo com premiados e oficinas gratuitas"](https://www.campograndenews.com.br/lado-b/diversao/esquenta-para-noite-da-poesia-tera-papo-com-premiados-e-oficinas-gratuitas), *Campo Grande News*, 15 set. 2025. Acesso em 29 out. 2026.
 [^correio]: Welyson Lucas, ["Literatura de MS perde Guimarães Rocha, autor de mais de 20 livros"](https://correiodoestado.com.br/cidades/literatura-de-ms-perde-guimaraes-rocha-autor-de-mais-de-20-livros/467969/), *Correio do Estado*, 11 jun. 2026. Acesso em 29 out. 2026.
-[^critica]: ["Clube de leitura da ASL debate Elias Borges nesta quinta (8) em Campo Grande"](https://acritica.net/eventos/academia-letras-clube-leitura-elias-borges-campo-grande/), *A Crítica de Campo Grande*, 5 out. 2026. Acesso em 29 out. 2026.
+[^critica]: Ricardo Eugenio, ["Clube de leitura da ASL debate Elias Borges nesta quinta (8) em Campo Grande"](https://acritica.net/eventos/academia-letras-clube-leitura-elias-borges-campo-grande/), *A Crítica de Campo Grande*, 5 out. 2026. Acesso em 29 out. 2026.

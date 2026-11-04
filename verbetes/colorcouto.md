@@ -3,14 +3,14 @@ titulo: Colorcouto
 tipo: grupo
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Produtora creditada, com a Aljor Filmes, em dois filmes sertanejos amadores de Campo Grande: Vingança Maldita (1978) e A Marca do Destino (1979).
+resumo: Produtora creditada, com a Aljor Filmes, em dois filmes sertanejos amadores de Campo Grande, Vingança Maldita (1978) e A Marca do Destino (1979).
 ficha:
   Atividade: Produção audiovisual amadora
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Colorcouto** é uma produtora creditada, com a [[aljor-filmes|Aljor Filmes]], em dois dos seis filmes sertanejos amadores de Campo Grande estudados por Carlos Rodrigo Diehl, feitos pelo grupo de [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]]. A dissertação não traz outras informações sobre a empresa.[^diehl]
+**Colorcouto** é uma produtora creditada, com a [[aljor-filmes|Aljor Filmes]], em dois dos seis filmes sertanejos amadores de Campo Grande estudados por Carlos Rodrigo Diehl, feitos pelo grupo de [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]].[^diehl]
 
 ## Filmografia
 
