@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Produção
 
-O roteiro partiu dos relatos de Dona Iara, sogra do roteirista, e das memórias de mulheres da família de Raylson Chaves que trabalharam em fazendas do Pantanal. A equipe foi formada em sua maioria por pessoas negras. O filme foi contemplado pelo 1º [[premio-ipe-de-audiovisual|Prêmio Ipê de Audiovisual]], edital da Secretaria Municipal de Cultura e Turismo de Campo Grande, e teve lançamento marcado para 14 de dezembro de 2023, no Ponto Bar.[^cgn2023]
+O roteiro partiu dos relatos de Dona Iara, sogra do roteirista, e das memórias de mulheres da família de Raylson Chaves que trabalharam em fazendas do Pantanal. A equipe foi formada em sua maioria por pessoas negras. O filme foi contemplado pelo 1º Prêmio Ipê de Audiovisual, edital da Secretaria Municipal de Cultura e Turismo de Campo Grande, e teve lançamento marcado para 14 de dezembro de 2023, no Ponto Bar.[^cgn2023]
 
 ## Exibições
 

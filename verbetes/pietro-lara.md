@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Em setembro de 2014, com Tamara Prantl, também da trupe, contou no papel dos santos a história de São Cosme e São Damião na festa dedicada a eles no Templo de Umbanda Pai Oxalá, em Campo Grande.[^cgn2014]
 
-Em fevereiro de 2016, assinou a produção e a iluminação de *O Zoológico de Vidro*, de Tennessee Williams, montagem do curso de Artes Cênicas da [[uems|UEMS]] dirigida por Marcus Villa Góis, que estreou no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^fcms2016]
+Em fevereiro de 2016, a Fundação de Cultura de MS o creditou pela produção e pela iluminação de *O Zoológico de Vidro*, de Tennessee Williams, montagem do curso de Artes Cênicas da [[uems|UEMS]] dirigida por Marcus Villa Góis, com estreia anunciada para 27 e 28 de fevereiro no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^fcms2016]
 
 Na morte de [[orlando-mongelli|Orlando Mongelli]], em 2018, publicou homenagem em que se apresentava como seguidor dos ensinamentos do professor. O *Correio do Estado* reproduziu o texto.[^ce2018]
 

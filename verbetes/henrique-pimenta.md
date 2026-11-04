@@ -3,7 +3,7 @@ titulo: Henrique Pimenta
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: "Escritor, poeta e professor nascido em Resende (RJ) e radicado em Campo Grande desde 1995, autor de livros de contos e poemas e vencedor do Prêmio Guavira de Literatura em 2017."
+resumo: "Escritor, poeta e professor natural de Resende (RJ) que vive em Campo Grande desde 1995, autor de livros de contos e poemas e vencedor do Prêmio Guavira de Literatura em 2017."
 ficha:
   Nascimento: "Resende (RJ)"
   Atividade: "Contos, poesia, revisão de textos, docência"
@@ -12,17 +12,17 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Henrique Pimenta** é um escritor, poeta, revisor de textos e professor, nascido em Resende (RJ) e radicado em Campo Grande desde 1995.[^kdea2026][^acritica2026a]
+**Henrique Pimenta** é um escritor, poeta, revisor de textos e professor natural de Resende (RJ), que vive em Campo Grande desde 1995.[^kdea2026][^acritica2026a]
 
 ## Trajetória
 
 É mestre em Estudos Literários, segundo *A Crítica*; a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] informa que o mestrado em literatura foi feito na [[ufms|UFMS]]. Em 2025, a Fundação o descreveu como professor havia quase três décadas.[^acritica2026b][^fcms2026][^fcms2025b]
 
-O livro de contos *Ele adora a desgraça azul* (2016) venceu o Prêmio Guavira de Literatura em 2017 e o Prêmio Leia em 2020. A Fundação de Cultura registra o primeiro prêmio como Prêmio Guavira Edição Especial MS 40 anos. Segundo o autor, o livro se passa quase todo em cidades de Mato Grosso do Sul.[^acritica2026b][^fcms2025b][^fcms2025a]
+O livro de contos *Ele adora a desgraça azul* (2016) recebeu dois prêmios: o Guavira de Literatura, em 2017, e o Leia, em 2020. A Fundação de Cultura registra o primeiro prêmio como Prêmio Guavira Edição Especial MS 40 anos. Segundo o autor, o livro se passa quase todo em cidades de Mato Grosso do Sul.[^acritica2026b][^fcms2025b][^fcms2025a]
 
-Na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] (Flib), deu em 2023 uma oficina de contos para professores do ensino fundamental. Em 2025, organizou e mediou o espaço Dedo de Prosa, em que conversou com 23 escritores.[^acritica2026a][^fcms2023] Em maio de 2025, participou do Quebra-Torto com Letras, no [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, ao lado de Marçal Aquino.[^fcms2025a]
+Na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] (Flib), deu em 2023 uma oficina de contos para professores do ensino fundamental. Em 2025, organizou e mediou o espaço Dedo de Prosa, em que conversou com 23 escritores.[^acritica2026a][^fcms2023] Em maio de 2025, participou do Quebra-Torto com Letras, no [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, ao lado de Marçal Aquino.[^fcms2025a][^fcms2025b]
 
-Em 2026, a Fundação de Cultura o apresentou como curador e mediador do Clube de Leitura do Sesc Cultura MS. Em junho daquele ano, foi anunciado para conduzir na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] o encontro do projeto Leituras & Conversas sobre Charles Bukowski.[^fcms2026]
+Em 2026, a Fundação de Cultura informou que ele fazia a curadoria e a mediação do Clube de Leitura do Sesc Cultura MS. Em junho daquele ano, foi anunciado para conduzir na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] o encontro do projeto Leituras & Conversas sobre Charles Bukowski.[^fcms2026]
 
 O sexto livro, *Atirei uma pedrinha na lagoa Mansidão* (2026), reúne contos e encerra o que o autor chama de trilogia do horror urbano. Saiu pela editora Mondrongo e teve lançamentos marcados para 11 de julho de 2026, na Flib, e 7 de agosto na [[hamor-livraria|Hámor Livraria]], em Campo Grande, com mediação de [[isloany-machado|Isloany Machado]] e Flavio Rocha.[^acritica2026a][^acritica2026b] O Clube Sesc de Leitura marcou para 26 de setembro de 2026 um encontro sobre o livro no [[sesc-teatro-prosa|Sesc Teatro Prosa]].[^kdea2026]
 
