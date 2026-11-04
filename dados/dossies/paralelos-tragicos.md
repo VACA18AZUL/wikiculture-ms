@@ -7,3 +7,10 @@ Dossiê criado na validação de 2026-11-04 (bloco val-4).
 Fonte reaberta e lida: Diehl, *Filme sertanejo*, UFMS, 2009, p. 35-37 (PDF). Confere com o verbete. O trecho cita Pinheiro e Fischer (2008, p. 77), que pode servir de segunda fonte se o livro for localizado. Grafias do irmão: Abud (p. 35-36) e Abboud (p. 36). Um boato sobre o marido da atriz, que a fonte registra, ficou fora (vida familiar e sem confirmação).
 
 Segunda fonte: não buscada; a cota de buscas na web desta rodada acabou.
+
+## Atualização de 2026-11-04 (reforço, tag r-2)
+
+- Aberta e lida: Vanessa Ayala, Campo Grande News, 23 ago. 2021, "Veja 11 curtas para se encantar com o cinema campo-grandense" (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/veja-11-curtas-para-se-encantar-com-o-cinema-campo-grandense). Veículo diferente da dissertação (Diehl, UFMS). Sustenta: primeiro longa filmado em Campo Grande (então Mato Grosso), elenco e equipe locais, baseado em livro homônimo de "Bernardo Laho", dirigido por Abboud Lahdo, 1965; enredo (jovem rica e jovem pobre). A fonte tem foto de Abboud Lahdo (Naiane Mesquita) e fala com Marinete Pinheiro, coordenadora do MIS.
+- Divergência leve: Diehl atribui a realização aos irmãos Lahdo (e grafa Abud/Abboud); o Campo Grande News dá a direção a Abboud Lahdo e grafa "Bernardo Laho". Registrar em `observacoes` da lista-mestra. Ano: a matéria traz 1965 (mesma data de Pinheiro e Fischer, 2008, citados por Diehl); a versão "1965-66" continua só em Diehl.
+- Buscas abertas (2): só essa matéria tratou do filme. Pistas não abertas: Pinheiro e Fischer (2008, p. 77), citados por Diehl; MIS-MS; Sá e Castilho (citados no verbete irmaos-lahdo).
+- Não afirmei o parentesco de "Bernardo Laho" com os irmãos: a matéria não diz.
