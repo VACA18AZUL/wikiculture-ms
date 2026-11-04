@@ -26,6 +26,9 @@ Em outubro de 2025, a divulgação da nona edição atribuiu a criação da most
 
 Na nona edição, de 4 a 10 de dezembro de 2025, o espaço da Flor e Espinho Teatro, no Centro de Campo Grande, recebeu oficinas e uma roda de conversa da programação. A edição foi realizada pelo Circo do Mato em conjunto com a companhia, com recursos da Política Nacional Aldir Blanc (PNAB).[^fcms2025]
 
+Em 2026, a Associação Flor e Espinho Teatro, como organização da sociedade civil, executou o projeto [[circula-cultura-ms|Circula Cultura MS]], de carreta-palco pelo interior do estado. A diretora e produtora cultural da associação citada nas notícias era Nair Gavilan.[^fcms2026nair]
+
 [^cgn]: Thailla Torres, ["Hoje é último dia da Mostra de Palhaços em Campo Grande; aproveite"](https://www.campograndenews.com.br/lado-b/diversao/hoje-e-ultimo-dia-da-mostra-de-palhacos-em-campo-grande-aproveite), *Campo Grande News*, 2 jun. 2024. Acesso em 29 out. 2026.
 [^fcms2025]: Karina Medeiros de Lima, ["Palhaçaria toma conta de Campo Grande na 9ª edição da Pantalhaç@s"](https://www.fundacaodecultura.ms.gov.br/palhacaria-toma-conta-de-campo-grande-na-9a-edicao-da-pantalhacs/), *Fundação de Cultura de Mato Grosso do Sul*, 27 nov. 2025. Acesso em 4 nov. 2026.
 [^enf2025]: Redação Enfoque MS, ["IX Pantalhaç@s abre inscrições e celebra 17 anos de riso, encontros e resistência"](https://www.enfoquems.com.br/ix-pantalhacs-abre-inscricoes-e-celebra-17-anos-de-riso-encontros-e-resistencia/), *Enfoque MS*, 10 out. 2025. Acesso em 4 nov. 2026.
+[^fcms2026nair]: ["Carreta-palco rodará 3.500 km levando arte e cultura a cidades do interior do Estado"](https://www.fundacaodecultura.ms.gov.br/carreta-palco-rodara-3-500-km-levando-arte-e-cultura-a-cidades-do-interior-do-estado/), *Fundação de Cultura de MS*, 16 mar. 2026. Acesso em 4 nov. 2026.

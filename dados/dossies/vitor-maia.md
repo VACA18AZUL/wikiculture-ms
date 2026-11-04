@@ -22,4 +22,4 @@
 
 ## Por que não há verbete
 
-- Todas as fontes vêm da comunicação do Governo de MS (A Crítica reproduz a Agência de Notícias). Falta fonte independente sobre a trajetória. O fato cabe melhor num verbete futuro da Feira da Música do Campão (feira-da-musica-do-campao, na lista-mestra).
+- Todas as fontes vêm da comunicação do Governo de MS (A Crítica reproduz a Agência de Notícias). Falta fonte independente sobre a trajetória. O papel dele já está no verbete feira-da-musica-do-campao (escrito por outro agente nesta rodada), que o liga com [[vitor-maia]].
