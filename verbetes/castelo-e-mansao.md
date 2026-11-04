@@ -9,11 +9,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Castelo e Mansão** foi uma dupla sul-mato-grossense formada pelo cantor e compositor [[castelo|Castelo]] e por Mansão. Ficou conhecida pela composição "Garça Branca", de Castelo.[^cgn2023][^mf1984]
+**Castelo e Mansão** foi uma dupla de música regional formada pelo cantor e compositor [[castelo|Castelo]] e por Mansão. Ficou conhecida pela composição "Garça Branca", de Castelo.[^cgn2023][^mf1984]
 
 ## Trajetória
 
-Segundo a descrição do acervo Memória Fonográfica de MS, que cita o site Recanto Caipira, Castelo formou a dupla na década de 1980, depois de fundar o grupo [[os-filhos-do-pantanal|Os Filhos do Pantanal]], e ela se tornou conhecida no Brasil com "Garça Branca". Na década de 1990, Castelo e Mansão integraram o Grupo Pantanal, com Joãozinho, Aldo e Germano.[^mf1984] A reportagem do *Campo Grande News* sobre a morte de Castelo, em 2023, também cita a dupla e a música como marcas de sua carreira.[^cgn2023]
+Segundo a descrição do acervo Memória Fonográfica de MS, que cita o site Recanto Caipira, na década de 1980, além de fundar o grupo [[os-filhos-do-pantanal|Os Filhos do Pantanal]], Castelo formou a dupla, que se tornou conhecida no Brasil com "Garça Branca". Na década de 1990, Castelo e Mansão integraram o Grupo Pantanal, com Joãozinho, Aldo e Germano.[^mf1984] A reportagem do *Campo Grande News* sobre a morte de Castelo, em 2023, também cita a dupla e a música como marcas de sua carreira.[^cgn2023]
 
 O primeiro disco do acervo, de 1984, tem 12 faixas. Entre elas, "Garça Branca" e "Eu e o Mestre", creditadas a Castelo, e "Casa Sem Ninguém", "História de um Menino" e "Menino Triste", creditadas a Mansão, ao lado de músicas de outros autores em ritmos como chamamé, polca, rasqueado, toada e guarânia.[^mf1984]
 

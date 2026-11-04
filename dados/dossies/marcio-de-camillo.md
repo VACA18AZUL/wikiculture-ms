@@ -20,3 +20,13 @@ Continua com fonte única (um só veículo).
 - Nova seção "Crianceiras" e item de Discografia.
 - Também aberta: Campo Grande News, Danielle Valentim, 2 out. 2019 (mesmo veículo; confirma indicação ao prêmio em 2012 e segundo CD sobre Mário Quintana); não usada como nota. Resumos de busca citam o primeiro CD em 2011, divergindo de 2012 do estudo; não lido, não entrou. Conferir a ficha do CD no site crianceiras.com.br (503 anteriormente).
 - Campo Grande News de 2025 sobre o show "Música Poética" e a de 2024 continuam únicas para esses eventos.
+
+### Segunda rodada r2-2 (domínios oficiais e Correio do Estado)
+
+Fontes novas independentes do Campo Grande News, abertas e lidas:
+
+- Fundação de Cultura de MS, Ana Paula Ostapenco de Souza, 24 ago. 2024: *Crianceiras* nasceu em 2012 em Campo Grande; mais de 500 apresentações; show de 23 ago. 2024 no CMU, Bonito (Festival de Inverno); tributo também a Quintana. Não cita direção nem músicos.
+- Fundação de Cultura de MS, Karina Medeiros de Lima, 23 out. 2019: apresentação a alunos da rede estadual no Palácio Popular da Cultura. Não cita direção.
+- Correio do Estado, Mariana Piell, 8 set. 2026: versão Quintana no Teatro Glauce Rocha; direção-geral de Cherubini (Sobrevento); cenografia de Carlo Giovani; formação com Márcio (voz, violão, viola caipira), Nath Calan, Tiago Sormani, Denise Ferrari. Reforça de forma independente a parceria Márcio-Cherubini e o instrumental de Márcio descrito pelo CGN em 2024.
+- Efeito: três notas novas na seção "Crianceiras". A parceria de Cherubini desde 2012 continua só no CGN (as fontes novas citam Cherubini apenas na versão de 2026, e o estudo UFMS na montagem de 2012, sem ano exato). Os fatos sobre Geraldo Roca (2024) e *Música Poética* (2025) seguem só no CGN.
+- Resumos de busca citam também "Crianceiras Manoel de Barros volta a Campo Grande dia 20 de outubro" (CG Notícias, Prefeitura): não aberta.
