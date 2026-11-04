@@ -2,23 +2,30 @@
 titulo: Thereza Hilcar
 tipo: pessoa
 areas: [literatura]
-resumo: Escritora e cronista, ocupante da cadeira 6 da Academia Sul-Mato-Grossense de Letras desde 2006 e coautora do livro de crônicas A crônica dos quatro (2014).
+resumo: Escritora, cronista e jornalista nascida em Lagoa da Prata (MG) em 1957 e radicada em Campo Grande, ocupante da cadeira 6 da Academia Sul-Mato-Grossense de Letras desde 2006.
 ficha:
-  Atividade: Escrita de crônicas
+  Nascimento: "1957, Lagoa da Prata (MG)"
+  Atividade: Crônica e jornalismo
   Instituição: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], cadeira 6 (posse em 2006)"
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Thereza Hilcar** é uma escritora e cronista, membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^carlos2023] O nome aparece também grafado Theresa na mesma fonte.[^carlos2023]
+**Thereza Hilcar** é uma escritora, cronista e jornalista, membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^carlos2023][^asl] O nome aparece também grafado Theresa, inclusive na página da Academia.[^carlos2023][^asl]
 
 ## Trajetória
+
+Nasceu em Lagoa da Prata, Minas Gerais, em 1957, e mudou-se para Campo Grande em 1980. Começou no jornalismo como apresentadora de telejornal na TV Campo Grande e trabalhou depois em jornais, revistas e na TV Caiuás. Em 1989 passou a escrever reportagens para o caderno de cultura do *Correio do Estado*, onde publicou a primeira crônica em 1990; a coluna passou então a sair às terças-feiras. Em 2003 estreou o programa *Conversa de Domingo* na TV Educativa.[^asl]
+
+Foi eleita para a ASL em 16 de maio de 2006 e tomou posse em 24 de julho daquele ano, saudada por Maria da Glória Sá Rosa. A página da Academia a dá como ocupante da cadeira 6 e cita Henedina Hugo Rodrigues como antecessora, embora o trecho sobre a antecessora fale em "Cadeira 02".[^asl]
 
 Tomou posse na ASL em 2006 e ocupa a cadeira número 6, cuja antecessora foi Henedina Hugo Rodrigues. A professora [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] fez o discurso de saudação, publicado em 29 de julho de 2006.[^carlos2023]
 
 Escreveu crônicas semanais no caderno temático "Correio B", do jornal *Correio do Estado*, ao lado de Sá Rosa, de [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] e de Abílio Leite de Barros.[^carlos2023]
 
 ## Obras
+
+A Academia lista os livros de crônicas *No outro lado do peito*, o primeiro; *Tereza toda Terça* (1997), o segundo; *No trem da vida* (2005), o terceiro; e *No fundo do poço não tem mola* (Letra Livre, 2013).[^asl]
 
 Com os três colegas do "Correio B", é coautora de *A crônica dos quatro* (2014). Segundo a dissertação, o livro reúne 57 textos, 15 deles assinados por ela, publicados às terças-feiras no jornal entre novembro de 2012 e setembro de 2014.[^carlos2023]
 
@@ -27,3 +34,4 @@ Com os três colegas do "Correio B", é coautora de *A crônica dos quatro* (201
 - [Dissertação de Adriana Carlos (UEMS, 2023)](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614) — estudo sobre Maria da Glória Sá Rosa; traz o contexto da ASL e do "Correio B".
 
 [^carlos2023]: Adriana Carlos, ["A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)"](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614), dissertação de mestrado, Universidade Estadual de Mato Grosso do Sul, Paranaíba, 2023. Acesso em 29 out. 2026.
+[^asl]: ["Theresa Hilcar"](https://acletrasms.org.br/portfolio-item/theresa-hilcar/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 6. Acesso em 4 nov. 2026.

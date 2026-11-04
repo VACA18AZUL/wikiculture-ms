@@ -9,7 +9,7 @@ ficha:
   Formato: LP
   Gravadora: Polygram
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 ***Tetê e o Lírio Selvagem*** é um LP lançado pela Polygram pelo grupo de mesmo nome, formado pelos irmãos [[tete-espindola|Tetê]], [[geraldo-espindola|Geraldo]], [[alzira-espindola|Alzira]] e [[celito-espindola|Celito]] Espíndola.[^caeufgd]

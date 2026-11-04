@@ -22,7 +22,7 @@ Segundo a UFMS, desde 2019 o cantor faz a turnê *Bloco na Rua*, que passou por 
 
 ## Homenagem da UFMS
 
-O título de Doutor Honoris Causa foi concedido pelo Conselho Universitário da UFMS pela Resolução nº 207, de 1º de setembro de 2022, por proposta do diretor da Faculdade de Artes, Letras e Comunicação, Gustavo Penha. Segundo a universidade, ele ficaria ao lado de outros 37 doutores honoris causa da UFMS, entre eles [[almir-sater|Almir Sater]] e [[humberto-espindola|Humberto Espíndola]].[^ufms2026]
+O título de Doutor Honoris Causa foi concedido pelo Conselho Universitário da UFMS pela Resolução nº 207, de 1º de setembro de 2022. A proposta partiu do professor Vitor Wagner Neto de Oliveira, do curso de História da UFMS em Três Lagoas, com apoio do professor Evandro Higa, do curso de Música, e foi apresentada ao conselho por Gustavo Penha, diretor da Faculdade de Artes, Letras e Comunicação. Segundo a universidade, ele ficaria ao lado de outros 37 doutores honoris causa da UFMS, entre eles [[almir-sater|Almir Sater]] e [[humberto-espindola|Humberto Espíndola]].[^ufms2026]
 
 A entrega foi marcada para 26 de março de 2026, em Campo Grande. A UFMS anunciou a cerimônia para o [[teatro-glauce-rocha|Teatro Glauce Rocha]], às 19h30, conduzida pela reitora Camila Ítavo, seguida de uma palestra-show do cantor na abertura do Festival da Juventude.[^ufms2026] *A Crítica de Campo Grande* descreve a entrega como parte do Festival da Juventude 2026, no campus da universidade, com sessão solene, discurso do homenageado e palestra-show gratuita, com músicas intercaladas por conversa com o público.[^acritica] As duas matérias foram publicadas antes da cerimônia e não relatam como ela transcorreu.
 
