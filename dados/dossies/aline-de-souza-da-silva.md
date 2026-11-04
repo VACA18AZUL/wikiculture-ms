@@ -28,3 +28,7 @@
 - Acrescentada frase com a nota `gm` ao parágrafo de abertura. Citação da própria artista sobre tekoha e juventude ficou de fora.
 - Pista não lida: *Dourados News*, "Acadêmica indígena vai receber o Prêmio Marta Guarani" (https://www.douradosnews.com.br/dourados/academica-indigena-vai-receber-o-premio-marta-guarani/1229341/), 403 ao abrir (anti-bot). Segundo o resumo da busca, trata de estudante de Educação do Campo da UFGD premiada pela Câmara (prêmio Mulher Cidadã - Marta Guarani); não confirmado que é a mesma pessoa nem lido, então não entra.
 - Busca por "Elas em Corumbá" fora do CGN: nenhuma página (Fundação de Cultura, Agência de Notícias, prefeitura de Corumbá) cita a mostra ou as artistas. A exposição de 2023 continua com fonte única.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).

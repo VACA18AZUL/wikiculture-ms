@@ -55,3 +55,7 @@ A dissertação chama Zeca de herói na sinopse (p. 117) e, na p. 86, diz que o 
 - Corrigido: Páginas corrigidas.
 - Atenção: Fonte única (Diehl). Busca de segunda fonte (6 buscas: títulos dos filmes, Couto/Dorval, 'filme sertanejo', revista Rebeca/Socine baixada e conferida): nada além da própria dissertação e da matéria de 2013 sobre *Honra*.
 - Atenção: Inconsistência interna de Diehl: p. 85 chama Chicão de herói e diz que é ele quem encontra os parentes mortos; a sinopse (p. 117-122) dá Zeca como herói. O verbete segue a sinopse e não nomeia quem encontra os parentes.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).

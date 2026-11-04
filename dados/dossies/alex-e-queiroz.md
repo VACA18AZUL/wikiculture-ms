@@ -55,3 +55,10 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou: selo Xaraés, produção do LP de Araguainha, lançamento dos Azes, quatro LPs (dois da dupla, dois do Trio Serenata). Ficou fora: lista de faixas por disco (os títulos de faixas vieram da busca no canal, sem o LP de cada uma). Verbete apoiado em uma única fonte (o canal de acervo); exceção registrada.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Fonte nova independente do acervo: Thailla Torres, "Ícone do chamamé em MS, Castelo morre aos 72 anos", Campo Grande News, 10 jul. 2023. Sustenta: Castelo = Antônio Rodrigues de Queiroz; formou o Trio Serenata com Cidinho Castelo a convite do irmão Alex (primeira gravação em vinil); depois fundou Os Filhos do Pantanal (anos 1980). NÃO cita Discos Xaraés, Educandário do Chamamé nem a dupla Alex e Queiroz.
+- Divergência: acervo (descrições de *Flor de Pedra* e *Índio Velho*) x CGN sobre quem era "Castelo" e as datas de morte; já registrada em trio-serenata (outro agente) e referenciada aqui.
+- A formação da dupla "Alex e Queiroz", o selo Discos Xaraés e os LPs *Cidade de Lona* e *Terra Tombada* seguem só no acervo. Busca por "Discos Xaraés": nenhum resultado.
+- Pode-se considerar o par Alex/Queiroz reforçado (irmãos, Trio Serenata), mas não o selo.

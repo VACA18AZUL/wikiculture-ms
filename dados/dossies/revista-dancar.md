@@ -17,3 +17,7 @@ A revista em si continua com uma única fonte (a página do acervo). Busca abert
 ## Atualização de 2026-11-04 (r-3)
 
 Segunda fonte: não encontrada. Busca por "Revista Dançar" com ASMPD, Mato Grosso do Sul, Sarah Figueiró só retornou o Correio do Estado (2026, já citado) e matérias sobre Sarah Abussafi. A página do acervo foi reaberta: os seis itens apontam para páginas do mesmo site (sarahfigueiro.com.br/2026/05/25/...), não para fonte externa; as edições digitalizadas não foram abertas nesta rodada (mesma fonte, e podem ser imagens). Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).

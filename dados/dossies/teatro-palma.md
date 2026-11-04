@@ -9,3 +9,7 @@ Busca de segunda fonte: o orçamento de busca na web da sessão se esgotou antes
 Pista: o ensaio "Teatro", de Maria da Glória Sá Rosa, em *Memória da Arte em MS: histórias de vida* (1992), de onde Moser tira o dado; acervos de jornais de Dourados dos anos 1920.
 
 Continua com fonte única.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).

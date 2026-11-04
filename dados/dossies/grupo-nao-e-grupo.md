@@ -15,7 +15,7 @@
 ## Fatos
 
 - 2018: "Judith e sua sombra de menino", do Grupo Não é Grupo, entre as 10 propostas selecionadas (de 20) para a Boca de Cena 2018 [cgn2018]
-- 2017: "Judith e sua sombra de menino" – Dourados/MS, 14h30, Teatro Prosa, livre; texto original "Christian Butler" (sic; a sinopse diz Christian Bruel); direção Gil Ésper; tradução Alvaro Faleiros; adaptação Junia Pereira; consultoria em dramaturgia Livia Gaudêncio; elenco Arami Marschner, Júnia Pereira, Raique Moura, Sorrayla Parra e Zezinho Martins; músicos Nicolas Faria, Thais Costa e Willian Grando; luz Rodrigo Bento; projeção mapeada Wilson Baruki; contrarregragem Jorge Nilson. Sinopse: a partir de "Julia e sua sombra de menino" (Bruel, França, 1976), com Prêmio Funarte Myriam Muniz/2015, o Coletivo Douradense homenageia Judith Butler [boca2017]
+- 2017: "Judith e sua sombra de menino" – Dourados/MS, 14h30, Teatro Prosa, livre; texto original "Christian Butler" (sic; a sinopse diz Christian Bruel); direção Gil Ésper; tradução Alvaro Faleiros; adaptação Junia Pereira; consultoria em dramaturgia Livia Gaudêncio; elenco Arami Marschner, Júnia Pereira, Raique Moura, Sorrayla Parra e Zezinho Martins; músicos Nicolas Faria, Thais Costa e Willian Grando; luz Rodrigo Bento; projeção mapeada Wilson Baruki; contrarregragem Jorge Nilson. Sinopse: a partir de "Julia e sua sombra de menino" (Bruel, França, 1976), com Prêmio Funarte "Myrian Muniz"/2015 (sic), o Coletivo Douradense homenageia Judith Butler [boca2017]
 
 ## Divergências
 

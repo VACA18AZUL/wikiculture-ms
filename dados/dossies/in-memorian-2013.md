@@ -56,3 +56,7 @@ Já registradas em dados/relacoes.csv (expos-em, gerido-por, sede-em).
 ## Uso no verbete
 
 - Entrou: realização, local, ocasião, homenageados, horário. Ficaram de fora as frases de avaliação da matéria ("maiores artistas", "maior expoente"), por serem elogio, e o endereço detalhado.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).

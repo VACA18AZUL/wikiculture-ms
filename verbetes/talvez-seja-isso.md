@@ -23,9 +23,9 @@ A direção geral é de [[marcos-mattos|Marcos Mattos]]. A criação audiovisual
 
 ## Apresentações
 
-Em 9 de setembro de 2023, o solo foi programado na [[casa-de-ensaio|Casa de Ensaio]], em Campo Grande, dentro do projeto [[singulares|Singulares – Solos de Dança]], da [[cia-dancurbana|Cia. Dançurbana]]. Na mesma noite foi apresentado *Dançar as fúrias*, solo de [[ralfer-campagna|Ralfer Campagna]]. A entrada era gratuita e a classificação, livre.[^cgn2023]
+Em 9 de setembro de 2023, o solo foi programado na [[casa-de-ensaio|Casa de Ensaio]], em Campo Grande, dentro do projeto [[singulares|Singulares – Solos de Dança]], da [[cia-dancurbana|Cia. Dançurbana]]. Para a mesma noite estava anunciado *Dançar as fúrias*, solo de [[ralfer-campagna|Ralfer Campagna]]. O anúncio previa entrada gratuita e classificação livre para o solo de Jackeline.[^cgn2023]
 
-Matéria de 2025 sobre Jackeline Mourão diz que ela foi premiada pela Funarte com o solo, datado de 2021.[^cgn2025]
+Matéria de 2025 sobre Jackeline Mourão diz que ela foi premiada pela Funarte com o solo, datado de 2021.[^cgn2025] A matéria de 2023 registra o Prêmio Funarte Circulação e Difusão de Dança 2022 como dado ao projeto Singulares, que reunia dez apresentações solo em Campo Grande, Dourados, Piracicaba e Ribeirão Preto.[^cgn2023]
 
 ## Equipe
 

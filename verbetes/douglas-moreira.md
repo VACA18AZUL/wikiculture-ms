@@ -14,13 +14,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em maio e junho de 2023, integrou com [[edner-gustavo|Edner Gustavo]] o elenco de [[uma-moca-na-cidade|*Uma Moça na Cidade*]], principal espetáculo do Grupo UBU, na circulação por municípios como Figueirão, Chapadão do Sul, Paranaíba, Aparecida do Taboado, Paraíso das Águas e Inocência.[^cgn2023a]
+Em maio de 2023, estava com [[edner-gustavo|Edner Gustavo]] no elenco de [[uma-moca-na-cidade|*Uma Moça na Cidade*]], principal espetáculo do Grupo UBU, na circulação do projeto Teatro Interior, programada para maio e junho em municípios como Figueirão, Chapadão do Sul, Paranaíba, Aparecida do Taboado, Paraíso das Águas e Inocência.[^cgn2023a]
 
-Em setembro de 2023, atuou com Edner Gustavo em *A Fabulosa História do Guri-Árvore*, dirigida por [[marcelo-leite|Marcelo Leite]] e apresentada em Campo Grande. Na peça, fez o papel de Abílio e dividiu com o colega o elenco, a direção de arte e a encenação; também assinou a maquiagem.[^cgn2023b]
+Em setembro de 2023, estava com Edner Gustavo em *A Fabulosa História do Guri-Árvore*, dirigida por [[marcelo-leite|Marcelo Leite]], com duas sessões anunciadas para o Espaço Fulano di Tal, em Campo Grande. Na peça, fazia o papel de Abílio e dividiu com o colega o elenco, a direção de arte e a encenação; também assinou a maquiagem.[^cgn2023b]
 
-Em abril de 2024, estava no elenco de [[o-bem-amado-fulano-di-tal|*O Bem-Amado*]], do Fulano di Tal, com direção de Marcelo Leite, na circulação do projeto "Fulano di Tal – Ato 20".[^cgn2024] Em maio de 2026, a peça voltou ao Teatro Aracy Balabanian, em Campo Grande, ainda com ele no elenco.[^critica2026]
+Em abril de 2024, estava no elenco de [[o-bem-amado-fulano-di-tal|*O Bem-Amado*]], do Fulano di Tal, com direção de Marcelo Leite, na circulação do projeto "Fulano di Tal – Ato 20".[^cgn2024] Em maio de 2026, foi anunciada nova sessão da peça no Teatro Aracy Balabanian, em Campo Grande, para o dia 24, ainda com ele no elenco.[^critica2026]
 
-Em 2025, aparece como produtor e ator do projeto [[escambo-ubu-fronteiras-do-mato-sul|Escambo UBU – Fronteiras do Mato Sul]], encerrado em setembro em Ponta Porã com *Uma Moça na Cidade*.[^cgn2025a] Em novembro de 2025, atuou com [[anderson-bosh|Anderson Bosh]] e Edner Gustavo em [[pelega-e-a-porca-prenha|*Pelega & Porca Prenha – Episódio: Na Mata do Pequi*]], na 5ª edição do festival UBU ERÊ, em bairros de Campo Grande. A matéria o descreve como ator do projeto desde o início.[^cgn2025b]
+Em 2025, aparece como produtor e ator do projeto [[escambo-ubu-fronteiras-do-mato-sul|Escambo UBU – Fronteiras do Mato Sul]], com encerramento marcado para 11 de setembro, em Ponta Porã, com *Uma Moça na Cidade*.[^cgn2025a] Em novembro de 2025, estava no elenco, com [[anderson-bosh|Anderson Bosh]] e Edner Gustavo, de [[pelega-e-a-porca-prenha|*Pelega & Porca Prenha – Episódio: Na Mata do Pequi*]], anunciado para a 5ª edição do festival UBU ERÊ, em bairros de Campo Grande. A matéria o descreve como ator do festival desde o início e cita a mentoria dele e de Edner Gustavo no projeto.[^cgn2025b]
 
 ## Espetáculos
 

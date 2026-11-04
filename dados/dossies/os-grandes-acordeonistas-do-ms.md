@@ -18,3 +18,7 @@
 - Fontes reabertas: descrições e as 15 faixas de cada volume conferem com o verbete. Canal @MemoriaFonograficadeMS.
 - Detalhes da fonte: o selo aparece como "Selo Independente - Universl Music" (vol. 1) e "Selo Independente - Universo Music" (vol. 2). Grafias variantes no vol. 2: "David Júnior" (descrição) e "Davi Júnior" (faixa 05); "Selvino Soarez" (descrição) e "Selvino Soares" (faixa 15).
 - Segunda fonte: não achada. A cota de buscas na web desta rodada acabou; nenhum outro arquivo do repositório cita a coletânea com fonte de fora do canal.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).

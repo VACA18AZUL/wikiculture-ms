@@ -36,6 +36,8 @@ for (const arquivo of arquivos) {
     continue;
   }
   // O esquema exige texto em cada campo de `ficha` (ex.: Ano: "2008", com aspas).
+  const resumoFicha = doc.toJS()?.resumo;
+  if (typeof resumoFicha === 'string' && resumoFicha.length > 240) erros.push(`${arquivo}: resumo com ${resumoFicha.length} caracteres (máximo 240; o build recusa)`);
   const dadosFicha = doc.toJS()?.ficha;
   if (dadosFicha && typeof dadosFicha === 'object') {
     for (const [campo, valor] of Object.entries(dadosFicha)) {

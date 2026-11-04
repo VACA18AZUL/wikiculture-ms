@@ -3,7 +3,7 @@ titulo: Hildebrando Campestrini
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: Professor e historiador, presidente do Instituto Histórico e Geográfico de Mato Grosso do Sul desde 2002 (dado de 2016), autor de História de Mato Grosso do Sul e organizador da obra completa de Hélio Serejo (2008); o Senado registrou voto de pesar por sua morte em novembro de 2016.
+resumo: Professor e historiador, presidente do Instituto Histórico e Geográfico de MS (dado de 2016), autor de História de Mato Grosso do Sul; o Senado registrou voto de pesar por sua morte em novembro de 2016.
 ficha:
   Naturalidade: Santa Catarina
   Atividade: Docência, história regional, linguagem jurídica, edição

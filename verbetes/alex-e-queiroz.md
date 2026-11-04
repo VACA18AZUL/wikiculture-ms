@@ -20,6 +20,8 @@ Em 1982, a dupla assinou a direção e a produção do LP *Educandário do Chama
 
 Com Cidinho Castelo, Alex e Queiroz formaram o [[trio-serenata|Trio Serenata]].[^flor][^indio]
 
+O *Campo Grande News* conta a formação do trio de outro modo: segundo a matéria sobre a morte de Castelo, nome artístico de Antônio Rodrigues de Queiroz, ele formou o Trio Serenata com Cidinho Castelo a convite do irmão Alex, e esse foi seu primeiro registro em disco de vinil.[^cgn2023] As descrições do acervo e a matéria divergem sobre quem era chamado de Castelo; o assunto está em [[trio-serenata|Trio Serenata]].[^cgn2023][^flor][^indio]
+
 ## Discografia
 
 - *Flor de Pedra* (1976) — LP do Trio Serenata, com [[cidinho-castelo|Cidinho Castelo]].[^flor]
@@ -33,3 +35,4 @@ Com Cidinho Castelo, Alex e Queiroz formaram o [[trio-serenata|Trio Serenata]].[
 [^terra]: ["Alex e Queiroz - Terra Tombada LP - 1982"](https://www.youtube.com/playlist?list=PLO-QEpiig_IjbPlelUMNT63ZTVI5xwJea), lista de reprodução, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 4 nov. 2026.
 [^flor]: ["Trio Serenata - Alex, Queiroz e Cidinho Castelo - Flor de Pedra LP - 1976"](https://www.youtube.com/playlist?list=PLO-QEpiig_IjyTDxkfx75TZK20xjiNYi7), lista de reprodução, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 4 nov. 2026.
 [^indio]: ["Trio Serenata - Alex, Queiroz e Cidinho Castelo - Indio Velho LP - 1978"](https://www.youtube.com/playlist?list=PLO-QEpiig_IhVF5zDT1_anxgzcohYpbJ2), lista de reprodução, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 4 nov. 2026.
+[^cgn2023]: Thailla Torres, ["Ícone do chamamé em MS, Castelo morre aos 72 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/icone-do-chamame-em-ms-castelo-morre-aos-72-anos), *Campo Grande News*, 10 jul. 2023. Acesso em 4 nov. 2026.
