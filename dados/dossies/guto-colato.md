@@ -13,7 +13,7 @@
 | id da nota | Referência completa | URL | Tipo | Entra? |
 |---|---|---|---|---|
 | ce2024 | Suelen Morales, "Artista de MS quebra fronteiras com sua música instrumental de qualidade", Correio do Estado, Correio B, 14 mar. 2024 | https://correiodoestado.com.br/correio-b/2024/03/14/artista-de-ms-quebra-fronteiras-com-sua-musica-instrumental-de-qualidade.html | imprensa | sim |
-| fcms2020 | FCMS, "Som da Concha Lives apresenta os shows 'Cantinhos do Brasil' e 'Um dia após o outro'", nov. 2020 | https://www.fundacaodecultura.ms.gov.br/som-da-concha-lives-apresenta-os-shows-cantinhos-do-brasil-e-um-dia-apos-o-outro/ | institucional | sim |
+| fcms2020 | FCMS, "Som da Concha Lives apresenta os shows 'Cantinhos do Brasil' e 'Um dia após o outro'", 18 nov. 2020 | https://www.fundacaodecultura.ms.gov.br/som-da-concha-lives-apresenta-os-shows-cantinhos-do-brasil-e-um-dia-apos-o-outro/ | institucional | sim |
 | fcms2023 | FCMS, "Fundação de Cultura divulga artistas selecionados para se apresentar no Festival América do Sul 2023", 3 nov. 2023 | https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-divulga-artistas-selecionados-para-se-apresentar-no-festival-america-do-sul-2023/ | institucional | sim |
 | oestado2024 | "III Festival da Canção premia estudantes de Aquidauana e Campo Grande", O Estado MS, 17 ago. 2024 | https://oestadoonline.com.br/arte-e-lazer/iii-festival-da-cancao-premia-estudantes-de-aquidauana-e-campo-grand/ | imprensa | sim |
 | fcms2024 | FCMS, "Academia Sul-Mato-Grossense de Letras homenageia Hildebrando Campestrini no dia 29", 28 ago. 2024 | https://www.fundacaodecultura.ms.gov.br/academia-sul-mato-grossense-de-letras-homenageia-hildebrando-campestrini-no-dia-29/ | institucional | sim |

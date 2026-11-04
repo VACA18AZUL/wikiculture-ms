@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Segundo a FCMS, a bailarina [[renata-leoni|Renata Leoni]] criou o grupo Pantanália em 1981 com outros parceiros, depois de estudar na academia Balearte. Em live da fundação em 2021, ela contou que o grupo se apresentou no Rio de Janeiro.[^fcms2021] O bailarino e coreógrafo [[geraldo-si|Geraldo Si]], natural de Aquidauana, também é citado entre os fundadores. Depois, em 1990, ele entrou no Wuppertaler Tanztheater, de Pina Bausch.[^cgn2026][^oe2026]
 
-Em depoimento reproduzido na tese de Rozana Godoi sobre o curso de Educação Artística da Universidade Federal de Mato Grosso do Sul (UFMS), a professora Maria Alice cita o Pantanália Dança como o movimento de dança de destaque na cidade nos anos 1980, ao lado do teatro do GUTAC.[^godoi]
+Em depoimento reproduzido na tese de Rozana Godoi sobre o curso de Educação Artística da Universidade Federal de Mato Grosso do Sul (UFMS), a professora Maria Alice cita o Pantanália Dança como o movimento de dança de destaque na cidade nos anos 1980, ao lado do teatro do [[gutac|GUTAC]].[^godoi]
 
 Renata Leoni passou depois para a [[ginga-cia-de-danca|Ginga Cia. de Dança]], em 1990.[^fcms2021] Matérias de 2024 e 2025 sobre os trabalhos dela citam o Pantanaliadança como o primeiro grupo independente de dança da região.[^fcms2024][^oe2025]
 
