@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a Fundação de Cultura de Mato Grosso do Sul (FCMS), o interesse pelo pandeiro veio na infância, nas rodas de samba do grupo Katinguelê, perto de onde morava em São Paulo. Aos 17 anos começou a tocar como percussionista em grupos de Campo Grande. Aos 25, já como cantor, passou a compor e iniciou o trabalho solo. Em 2012 gravou o primeiro CD autoral, *Safra Boa*, com participações de Fred Camacho e Almirzinho; entre as faixas estão "Só eu", "Me leva" e "Safra boa".[^fcms2024]
+Segundo a Fundação de Cultura de Mato Grosso do Sul (FCMS), o interesse pelo pandeiro veio na infância, nas rodas de samba do grupo Katinguelê, perto de onde morava em São Paulo. Aos 17 anos começou a tocar profissionalmente como percussionista em grupos. Aos 25, já como cantor, passou a compor e iniciou o trabalho solo. Em 2012 gravou o primeiro CD autoral, *Safra Boa*, com participações de Fred Camacho e Almirzinho; entre as faixas estão "Só eu", "Me leva" e "Safra boa".[^fcms2024]
 
 O *Correio do Estado* anunciou apresentações do sambista no 6º Sarau da Praça dos Imigrantes, em Campo Grande, em julho de 2008,[^ce2008a] no projeto Som da Concha, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em dezembro de 2008, ao lado da banda Fulerage,[^ce2008b] e no Cena Som, em novembro de 2009, com o show "SulMatoGrossamba", no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^ce2009]
 

@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Sinopse
 
-O filme mistura documentário e ficção. Mostra histórias reais de mulheres do campo e conflitos entre peões e ladrões de gado, entrelaçadas ao drama de um jovem que vaga pelo Cerrado fugindo de um passado violento.[^cgn2023]
+O filme mistura documentário e ficção. Reúne relatos verdadeiros de mulheres que vivem no campo e disputas de peões com ladrões de gado, alternados com a trama ficcional de um rapaz que anda sem rumo pelo Cerrado para escapar de um passado de violência.[^cgn2023]
 
 ## Exibição
 

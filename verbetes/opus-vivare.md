@@ -27,7 +27,7 @@ Em 2025, o projeto voltou a circular com recursos da Lei Paulo Gustavo. A Funda�
 
 Em 2025, o grupo gravou o videoclipe [[avenida-afonso-pena-clipe|*Avenida Afonso Pena*]], com música de [[marcelo-fernandes|Marcelo Fernandes]] e letra de [[rubenio-marcelo|Rubênio Marcelo]], numa versão inédita para duas vozes femininas, cantada por Bianca Danzi e Mara Brandão, com Evandro Dotto ao violão. O clipe teve direção de Hélton Perez, do grupo [[vaca-azul|Vaca Azul]], e recursos da Lei Paulo Gustavo.[^fcms2025clipe][^cgn2025clipe]
 
-Para o chá acadêmico da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] de novembro de 2025, o *Correio do Estado* anunciou uma apresentação do grupo com a estreia de duas obras de Marcelo Fernandes sobre poemas de [[henrique-de-medeiros|Henrique de Medeiros]] e uma sobre poema de Rubênio Marcelo.[^ce2025]
+Para o chá acadêmico da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] de novembro de 2025, o *Correio do Estado* anunciou uma apresentação do grupo com a estreia de mais duas obras de Marcelo Fernandes, sobre dois poemas de [[henrique-de-medeiros|Henrique de Medeiros]] e um de Rubênio Marcelo.[^ce2025]
 
 ## Videografia
 
@@ -36,7 +36,7 @@ Para o chá acadêmico da [[academia-sul-mato-grossense-de-letras|Academia Sul-M
 
 [^ce2025]: Marcos Pierry, ["Academia sul-mato-grossense de Letras recebe o escritor Godofredo de Oliveira Neto"](https://correiodoestado.com.br/correio-b/academia-sul-mato-grossense-de-letras-recebe-o-escritor-godofredo-de/458198/), *Correio do Estado*, 27 nov. 2025. Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Trio Opus Vivare faz concerto gratuito nesta terça em Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/trio-opus-vivare-faz-concerto-gratuito-nesta-terca-em-campo-grande), *Campo Grande News*, 22 set. 2025. Acesso em 4 nov. 2026.
-[^cgn2025clipe]: ["Clipe musical presta homenagem à Avenida Afonso Pena com vozes líricas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/clipe-musical-presta-homenagem-a-avenida-afonso-pena-com-vozes-liricas), *Campo Grande News*, 2 ago. 2025. Acesso em 4 nov. 2026.
+[^cgn2025clipe]: Thailla Torres, ["Clipe musical presta homenagem à Avenida Afonso Pena com vozes líricas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/clipe-musical-presta-homenagem-a-avenida-afonso-pena-com-vozes-liricas), *Campo Grande News*, 2 ago. 2025. Acesso em 4 nov. 2026.
 [^fcms2023rv]: Fundação de Cultura de Mato Grosso do Sul, ["Em Rio Verde, projeto de música clássica promove concerto em escola pública"](https://www.fundacaodecultura.ms.gov.br/em-rio-verde-projeto-de-musica-classica-promove-concerto-em-escola-publica/), *FCMS*, maio 2023. Acesso em 4 nov. 2026.
 [^fcms2023cg]: Fundação de Cultura de Mato Grosso do Sul, ["Da música renascentista à contemporânea, concerto de música erudita financiado pelo FIC encanta público"](https://www.fundacaodecultura.ms.gov.br/da-musica-renascentista-a-contemporanea-concerto-de-musica-erudita-financiado-pelo-fic-encanta-publico/), *FCMS*, jun. 2023. Acesso em 4 nov. 2026.
 [^fcms2025pp]: Fundação de Cultura de Mato Grosso do Sul, ["Com recursos da Lei Paulo Gustavo, Ponta Porã recebe projeto de música erudita que une clássicos e sons da fronteira"](https://www.fundacaodecultura.ms.gov.br/com-recursos-da-lei-paulo-gustavo-ponta-pora-recebe-projeto-de-musica-erudita-que-une-classicos-e-sons-da-fronteira/), *FCMS*, jul. 2025. Acesso em 4 nov. 2026.
