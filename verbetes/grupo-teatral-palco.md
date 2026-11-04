@@ -18,7 +18,7 @@ O **Grupo Teatral Palco – Sociedade Dramática**, também chamado **Grupo Palc
 
 O folheto da mostra diz que, em 2017, o grupo completava 25 anos, o que situa a fundação em 1992 (cálculo a partir da fonte). Seus trabalhos vão da comédia ao drama.[^folheto]
 
-Um texto da Fundação de Cultura de MS sobre a abertura da mostra, de 23 de maio de 2017, afirma que o grupo foi fundado em 1992 por Marcos Alexandre de Mello e que, em 1995, a coordenação passou a [[espedito-di-montebranco|Espedito di Montebranco]]. Segundo o mesmo texto, em 2010 foi acrescentada ao nome a denominação "Sociedade Dramática", em homenagem a um grupo teatral de Corumbá criado em 1920, e o grupo recebeu menção honrosa da Assembleia Legislativa em 2012.[^fcms17]
+Um texto da Fundação de Cultura de MS sobre a abertura da mostra, de 23 de maio de 2017, afirma que o grupo foi fundado em 1992 por [[marcos-alexandre-de-melo|Marcos Alexandre de Mello]] e que, em 1995, a coordenação passou a [[espedito-di-montebranco|Espedito di Montebranco]]. Segundo o mesmo texto, em 2010 foi acrescentada ao nome a denominação "Sociedade Dramática", em homenagem a um grupo teatral de Corumbá criado em 1920, e o grupo recebeu menção honrosa da Assembleia Legislativa em 2012.[^fcms17]
 
 [[espedito-di-montebranco|Espedito di Montebranco]] dirigiu o grupo nos 22 anos anteriores. O folheto conta que ele chegou ao grupo por intermédio de Marcelo Mesquita e de Marcos Alexandre de Melo, que coordenava o Grupo Identidade Teatral e o Grupo Palco. Melo depois se mudou para São Paulo e deixou o grupo sob a responsabilidade de Montebranco.[^folheto]
 

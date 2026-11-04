@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 Nasceu em Jaú, no interior de São Paulo, em 1956. Em 1973 morava na capital paulista, onde cursou Artes Plásticas na Fundação Armando Álvares Penteado (FAAP). Em 1982 mudou-se para Campo Grande e passou a dar aulas na [[ufms|Universidade Federal de Mato Grosso do Sul (UFMS)]].[^marco]
 
-A dissertação de Morgana Duenha Rodrigues registra outra formação: licenciatura com habilitação em Educação Artística, em 1977, sem nomear a instituição. Segundo o mesmo texto, fez mestrado (1992) e doutorado (2001) em antropologia e etnologia na Université de Montpellier III (Paul Valéry), na França, e é professora do Departamento de Comunicação e Artes da UFMS.[^morgana]
+A dissertação de Morgana Duenha Rodrigues registra outra formação: licenciatura com habilitação em Educação Artística, em 1977, sem nomear a instituição. Segundo o mesmo texto, fez mestrado (1992) e doutorado (2001) em antropologia e etnologia na Université de Montpellier III (Paul Valéry) e é professora do Departamento de Comunicação e Artes da UFMS.[^morgana]
 
 ## Obra
 
@@ -34,7 +34,7 @@ Morgana Duenha Rodrigues analisa três paisagens da artista: *Ipê Rosa* (2002),
 
 ## Filmografia
 
-- *Brava Gente Brasileira* — longa de Lúcia Murat; desenhos de cena.[^marco]
+- *Brava Gente Brasileira* — filme de Lúcia Murat; desenhos de cena.[^marco]
 
 [^marco]: Fundação de Cultura de MS, [*MARCO 30 anos: catálogo comemorativo*](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf), 2021, p. 19. Acesso em 4 nov. 2026.
 [^morgana]: Morgana Duenha Rodrigues, [*Identidade regional e pintura de paisagem em Mato Grosso do Sul*](https://sigpos.ufms.br/portal/trabalho-arquivos/download/1987), dissertação de mestrado em Estudos de Linguagens, UFMS, 2012, p. 85-88. Acesso em 4 nov. 2026.

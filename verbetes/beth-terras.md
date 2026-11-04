@@ -17,13 +17,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou aos 15 anos na TV Tupi, em São Paulo, e participou da novela *O Espantalho* e do programa *Mulheres*. No teatro, atuou em peças como *Cama Molhada de Paixão Calada*.[^cgn2024a]
+Iniciou a carreira na TV Tupi, em São Paulo, quando tinha 15 anos, e participou da novela *O Espantalho* e do programa *Mulheres*. No teatro, atuou em peças como *Cama Molhada de Paixão Calada*.[^cgn2024a]
 
 Mudou-se para Mato Grosso do Sul em 1995. O *Campo Grande News* registra que recebeu prêmios como atriz, diretora e roteirista e que se apresentou em festivais pelo país. Dirigia a Companhia Teatral Ator Domingos Terra.[^cgn2024a]
 
 Em 2002 fundou em Campo Grande a [[adote-escola-e-companhia-de-teatro|ADOTE – Escola e Companhia de Teatro]], voltada à formação de atores, e a dirigia à época de sua morte. Até 2025, a companhia havia montado cerca de 15 espetáculos.[^cgn2024a][^cgn2025]
 
-Em 2018 criou, com Giovanna Zottino e Daniel Smidt, o Festival de Esquetes, promovido pela ADOTE. A quarta edição, em novembro de 2024, a homenageou.[^cgn2024b]
+Em 2018 criou, com Giovanna Zottino e Daniel Smidt, o Festival de Esquetes, promovido pela ADOTE. A quarta edição, marcada para 16 de novembro de 2024, foi anunciada com homenagem a ela.[^cgn2024b]
 
 Morreu em setembro de 2024, aos 65 anos, com 46 anos de carreira. Em abril de 2025, a ADOTE fez o evento *Vale a Pena Ver de Novo* em sua homenagem.[^cgn2024a][^cgn2025]
 
