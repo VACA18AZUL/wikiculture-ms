@@ -28,7 +28,7 @@ Descartadas: FCMS, resultado provisório das atrações regionais do 16º FAS Pa
 
 ## Divergências
 
-- FCMS 2024 chama Silêncio Branco de "espetáculo inaugural da companhia" [fcms2024]; FCMS 2022 o apresenta como novo espetáculo dos 35 anos da Ginga, criada em 1986 [fcms2022].
+- FCMS 2024 chama Silêncio Branco de "espetáculo inaugural da companhia, focado no combate à violência de gênero" [fcms2024]. Na validação de 2026-11-04, a frase foi lida como "o primeiro da companhia sobre o tema", e não como primeiro espetáculo da Ginga; não há divergência real com FCMS 2022 (novo espetáculo dos 35 anos, companhia criada em 1986).
 
 ## Uso no verbete
 

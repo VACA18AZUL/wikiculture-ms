@@ -53,3 +53,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo de cgn2025a; de cgn2025b, só a formação do trio. O vídeo entra em links como tipo video. Ano 2025 vem da gravação relatada em cgn2025a.
+
+## Atualização de 2026-11-04
+
+- Fontes novas: FCMS, 4 ago. 2025 (gravação; direção de Hélton Perez/Vaca Azul; fotografia de Catia Santos; Lei Paulo Gustavo) e FCMS, 25 set. 2025 (lançamento em 24/9/2025 no canal de Evandro Dotto; canção originalmente para voz e violão, versão para duas vozes a pedido de Evandro; Bianca Danzi soprano, Mara Brandão mezzo-soprano, estreia em projeto desse porte).
+- Atenção: os textos da FCMS são "com informações da Assessoria"; a matéria do Campo Grande News de 2 ago. 2025 tem frases iguais ao texto de 4 ago. da FCMS (provável release comum). O texto de 25 set. é diferente e traz fatos novos; é o que conta como segunda fonte.
+- Divergência leve registrada: CGN diz composta para duas vozes femininas; FCMS (set.) diz escrita para voz e violão, com versão nova para duas vozes. As duas versões estão no verbete.

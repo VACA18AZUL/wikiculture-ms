@@ -26,7 +26,7 @@ Em 2024, a FCMS descreveu *Silêncio Branco*, dirigido por Chico Neller, como o 
 
 ## Releitura
 
-Em 1º de outubro de 2024, a Ginga apresentou *Rompendo Silêncios*, releitura de *Silêncio Branco*, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], na 13ª edição da [[semana-pra-danca|Semana pra Dança]]. A nova versão foi remontada sob a direção de [[vanessa-macedo|Vanessa Macedo]], coreógrafa paulistana da Cia Fragmento de Dança.[^fcms2024]
+Em 1º de outubro de 2024, a Ginga apresentou *Rompendo Silêncios*, releitura de *Silêncio Branco*, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], na 13ª edição da [[semana-pra-danca|Semana pra Dança]]. A nova versão foi remontada sob a direção de [[vanessa-macedo|Vanessa Macedo]], que é coreógrafa da Cia Fragmento de Dança, companhia de São Paulo.[^fcms2024]
 
 [^fcms2022]: Gisele Colombo, ["Espetáculo 'Silêncio Branco' da Ginga Cia de Dança leva o tema da violência contra a mulher para o palco"](https://www.fundacaodecultura.ms.gov.br/espetaculo-silencio-branco-da-ginga-cia-de-danca-leva-o-tema-da-violencia-contra-a-mulher-para-o-palco/), *Fundação de Cultura de Mato Grosso do Sul*, 11 mar. 2022. Acesso em 4 nov. 2026.
 [^correio2022]: Leo Ribeiro, ["'Silêncio Branco' trata da violência contra mulher em Campo Grande, capital com maior taxa de estupro no País"](https://correiodoestado.com.br/correio-b/2022/07/02/silencio-branco-trata-da-violencia-contra-mulher-em-campo-grande-capital-com-maior-taxa-de-estupro-no-pais.html), *Correio do Estado*, 2 jul. 2022. Acesso em 4 nov. 2026.

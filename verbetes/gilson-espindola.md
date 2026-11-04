@@ -19,7 +19,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Gilson Espíndola** é um cantor, compositor e engenheiro de áudio sul-mato-grossense. Nasceu em Aquidauana em 19 de agosto de 1963 e mantém em Campo Grande o Estúdio X, onde grava e produz.[^ce2019] Mora em Campo Grande desde a infância.[^fcms2018]
+**Gilson Espíndola** é um cantor, compositor e engenheiro de áudio sul-mato-grossense. Nasceu em Aquidauana em 19 de agosto de 1963 e é dono do Estúdio X, de gravação e produção musical.[^ce2019] Mora em Campo Grande desde a infância.[^fcms2018]
 
 ## Trajetória
 

@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: "Festival da Fundação de Cultura de MS para vídeos e programas de rádio de universitários e recém-formados. A 9ª edição, em 2017, recebeu 130 inscrições de todo o país e premiou oito categorias."
 ficha:
   Realização: "Fundação de Cultura de Mato Grosso do Sul"
-  Edições citadas: "2008; 2017 (9ª edição)"
+  Edições citadas: "2008; 2010; 2017 (9ª edição)"
   Local: "Centro Cultural José Octávio Guizzo, Campo Grande"
 status: rascunho
 atualizado: 2026-11-04
@@ -20,11 +20,11 @@ Em maio de 2008, a Fundação abriu o edital de seleção de vídeos e produtos 
 
 ## Nona edição (2016-2017)
 
-As inscrições da 9ª edição foram abertas em 4 de novembro de 2016 e foram até 7 de abril de 2017. Segundo a Fundação, a edição era aberta a trabalhos de todo o Brasil e trazia um novo formato, com categorias revistas e prêmios de R$ 5 mil, R$ 1.600 e R$ 700 para os três primeiros de cada categoria. Na divulgação, a Fundação citou Leo Coutinho, [[essi-rafael|Essi Rafael]] e Thiago Moraes entre os realizadores que passaram pelo festival.[^fcms2016]
+As inscrições da 9ª edição foram abertas em 4 de novembro de 2016 e foram até 7 de abril de 2017. Segundo a Fundação, a edição era aberta a trabalhos de todo o Brasil e trazia um novo formato, com categorias revistas e prêmios de R$ 5 mil, R$ 1.600 e R$ 700 para os três primeiros de cada categoria. Na divulgação, a Fundação citou Leo Coutinho, [[essi-rafael|Essi Rafael]] e Thiago Moraes como exemplos de novos talentos estimulados pelo festival.[^fcms2016]
 
-A mostra competitiva ocorreu no Centro Cultural José Octávio Guizzo, com primeira noite em 19 de outubro de 2017. O júri teve, entre outros, Fábia Belo, Daiane Nardoni, Rose Borges e a artista visual Marilena Grolli.[^fcms2017a]
+A mostra competitiva ocorreu no Centro Cultural José Octávio Guizzo, com primeira noite em 19 de outubro de 2017. O júri teve, entre outros, Fábia Belo, Daiane Nardoni, Rose Borges e a artista visual Marilena Grolli. Era a segunda vez de Grolli como jurada; segundo a Fundação, ela fez o troféu "Capenguinha" para os vencedores do festival de 2010.[^fcms2017a]
 
-Foram 130 trabalhos inscritos e 38 selecionados, em oito categorias: ficção, documentário, vídeo publicitário, reportagem jornalística, experimental/arte, animação, videoclipe e programa radiofônico. A noite de premiação, marcada para 4 de novembro, foi cancelada por causa da chuva, e a Fundação divulgou os vencedores por escrito.[^fcms2017b] Uma noite de encerramento com entrega dos troféus foi anunciada para 15 de dezembro, com o Coletivo Femme, o coletivo musical ARduaRÀ e cenografia de Rafael Mareco.[^fcms2017c]
+Foram 130 trabalhos inscritos e 38 selecionados, em oito categorias: ficção, documentário, vídeo publicitário, reportagem jornalística, experimental/arte, animação, videoclipe e programa radiofônico. A noite de premiação, marcada para 4 de novembro, foi cancelada por causa da chuva, e a Fundação divulgou os vencedores por escrito.[^fcms2017a][^fcms2017b] Uma noite de encerramento com entrega dos troféus foi anunciada para 15 de dezembro, com o Coletivo Femme, o coletivo musical ARduaRÀ e cenografia de Rafael Mareco.[^fcms2017c]
 
 Os primeiros colocados de 2017 foram *Fardo* (ficção), *Rekomanse – Sonhos em terras Cuiabanas* (documentário), *Estaremos Prontos* (publicitário), *Corrupção no Jornalismo – Uma Notícia Nunca Veiculada* (reportagem), *Chagas* (experimental/arte), *Essa Moça* (animação), *Uma Nova Forma* (videoclipe) e *Love For Love* (programa radiofônico).[^fcms2017b]
 
