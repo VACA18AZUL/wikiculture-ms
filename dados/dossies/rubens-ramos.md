@@ -61,3 +61,7 @@ Nenhuma.
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas no Correio do Estado ("Dorval" etc.), Fundação de Cultura de MS e Crossref: nada além de Diehl (2009) e da matéria do CGN de 2013 sobre Honra. Identidade com o ator de Honra (2013) segue não confirmada.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida (CGN buscar?q="Rubens Ramos"): Naiane Mesquita, "Documentário mostra trajetória de diretores de faroeste de Campo Grande", Campo Grande News, 20 mar. 2016. O documentário Questão de Honra (Carol Araújo), lançado em 28 mar. 2016 no MIS, revisita a obra de cinco diretores: Alexandre Couto, José Reinaldo, José Piranha, Juareis Chaves e Rubens Ramos. Confirma, em veículo independente da dissertação de Diehl, que Rubens Ramos integra o grupo. Divergência de função registrada no verbete (diretor, na matéria; técnico e ator, em Diehl). Novo parágrafo com [^cgn2016].

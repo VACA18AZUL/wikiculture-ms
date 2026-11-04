@@ -51,3 +51,7 @@ Descartadas: FCMS "Som da Concha" (2020) e "Show de Marina Peralta" (2016), devo
 
 - Validação valn-36-0: Google Notícias ("Rajiv do Sax"; Rajiv saxofonista Campo Grande) e busca da FCMS ("Rajiv") não deram fonte nova que confirme a identidade. Achada no Campo Grande News (12 abr. 2017, "Os Walkírias surgiram nos corredores da universidade...") a menção a "Rajiv (sax)" na banda Os Walkírias, sem sobrenome: não usada (identidade não confirmada, mesmo veículo).
 - A nota da Prefeitura (2022) só dá "saxofonista Rajiv Costa": não confirma que é a mesma pessoa. Trajetória toda depende do Campo Grande News (2013).
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN ("Rajiv do Sax": só a matéria de 2013 já citada), API do O Estado MS, RSS do Google Notícias. Lida O Estado MS, 8 abr. 2022, Feira da Bolívia (cita "saxofonista Rajiv Costa" na lista de atrações): repete a lista do release da Prefeitura (empregadora e promotora), já citado; não conta como independente. Nada mudou.

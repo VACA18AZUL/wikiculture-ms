@@ -40,3 +40,7 @@ Fontes da mesma instituição (ASL); falta fonte independente. pt.wikipedia: sem
 - Fonte nova: RCN67, "Livro divulga riqueza e diversidade da literatura sul-mato-grossense", 4 out. 2013 (https://www.rcn67.com.br/tres-lagoas/livro-divulga-riqueza-e-diversidade-da-literatura-sul-mato-grossense/). Veículo independente da ASL. Sustenta: "Heliophar Serra" na lista de 51 autores da *Antologia de Textos da Literatura Sul-mato-grossense*, organizada por Maria da Glória Sá Rosa (grafada "Sá Rocha" na matéria), Albana Xavier Nogueira e Maria Adélia Menegazzo, com recursos do FIC, lançada em 3/10/2013 na Biblioteca Municipal Rosário Congro, em Três Lagoas.
 - Acrescentado parágrafo em Atividade literária. A matéria não diz quais textos dele entraram.
 - Buscas sem resultado: WebSearch pelo nome completo, API FCMS, API A Crítica, API RCN67 (outros resultados não citam o nome).
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN (buscar?q=Heliophar), API do O Estado MS, RSS do Google Notícias. Pistas não lidas: coluna "O ser humano à luz de Heliophar" (Grandezas da Literatura, CGN, 12 dez. 2011; o endereço /colunistas/grandezas-da-literatura/o-ser-humano-a-luz-de-heliophar redireciona para a página inicial; sem cópia no archive.org; o trecho visto na busca não é leitura) e O Pantaneiro, "Nota de Falecimento do Dr. Heliophar de Almeida Serra" (decodificador do Google Notícias devolveu 503). Nada mudou.

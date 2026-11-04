@@ -27,10 +27,10 @@ Bezerra analisa vários textos do volume. Em "Princesa do Rio Paraguai", Corumb�
 
 O amor impossível é outro tema. Em "Renúncia", o amor não chega a florescer. Em outro poema, o amor verdadeiro só se realiza sob a "lei da Natureza", longe da cidade. Em "Uma paixão ilusória", o encontro amoroso se passa num Pantanal paraguaio, com renda ñanduti, canto em guarani e o lago Ypacaraí, que Bezerra liga à guarânia "Recuerdos de Ypacaraí".[^bezerra2024g]
 
-[^bezerra2024a]: Caroline Ferreira Brizon Bezerra, [*Construções identitárias às margens do Paraguai: uma análise da poesia fronteiriça de Benedito C. G. Lima e Ângela Maria Pérez*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13234), dissertação de mestrado em Estudos Fronteiriços, UFMS, Campus do Pantanal, Corumbá, 2024, p. 56 e 124. Acesso em 4 nov. 2026.
+[^bezerra2024a]: Caroline Ferreira Brizon Bezerra, [*Construções identitárias às margens do Paraguai: uma análise da poesia fronteiriça de Benedito C. G. Lima e Ângela Maria Pérez*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13234), dissertação de mestrado em Estudos Fronteiriços, UFMS, Campus do Pantanal, Corumbá, 2024, p. 56, 61 e 124. Acesso em 4 nov. 2026.
 [^bezerra2024b]: Bezerra, *Construções identitárias às margens do Paraguai*, UFMS, 2024, p. 61. Acesso em 4 nov. 2026.
 [^bezerra2024c]: Bezerra, *Construções identitárias às margens do Paraguai*, UFMS, 2024, p. 73. Acesso em 4 nov. 2026.
-[^bezerra2024d]: Bezerra, *Construções identitárias às margens do Paraguai*, UFMS, 2024, p. 64 e 69. Acesso em 4 nov. 2026.
+[^bezerra2024d]: Bezerra, *Construções identitárias às margens do Paraguai*, UFMS, 2024, p. 63-64 e 69. Acesso em 4 nov. 2026.
 [^bezerra2024e]: Bezerra, *Construções identitárias às margens do Paraguai*, UFMS, 2024, p. 68. Acesso em 4 nov. 2026.
 [^bezerra2024f]: Bezerra, *Construções identitárias às margens do Paraguai*, UFMS, 2024, p. 77. Acesso em 4 nov. 2026.
 [^bezerra2024g]: Bezerra, *Construções identitárias às margens do Paraguai*, UFMS, 2024, p. 90-92. Acesso em 4 nov. 2026.

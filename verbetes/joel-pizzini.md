@@ -35,7 +35,7 @@ Em 16 de novembro de 2009, o *Correio do Estado* anunciou para aquela semana, de
 ## Filmografia
 
 - *Caramujo-Flor* (1989 segundo o *Correio do Estado*; 1988 segundo Neves e Vicelli) — curta, 21 minutos; direção.[^ce2015b][^fcms2017b][^neves51][^vicelli]
-- *Enigma de um Dia* (1996) — curta; direção.[^neves51]
+- [[enigma-de-um-dia|Enigma de um Dia]] (1996) — curta; direção.[^neves51]
 - *500 Almas* (2005 segundo Neves; 2004 segundo Fidelis) — longa documentário; direção.[^neves55][^fidelis2015]
 - *Mar de Fogo* — curta; direção.[^ce2015a]
 - [[500-almas|*500 Almas*]] (2004 ou 2005, conforme a fonte) — longa documentário sobre os Guató; direção.[^fcms2026][^fidelis2015]

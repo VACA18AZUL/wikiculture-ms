@@ -49,3 +49,7 @@ Tudo acima entrou, exceto área/aparelhos detalhados do CLUCIEFE e razão monito
 ## Atualização de 2026-11-04 (r5-1)
 
 Sem fonte independente nova. Aberto: Primeira Página, "Aulas de circo têm inscrições abertas para crianças em Corumbá e Ladário", 7 fev. 2025 (https://primeirapagina.com.br/cidadania/aulas-de-circo-tem-inscricoes-abertas-para-criancas-em-corumba-e-ladario/): reproduz o release da UFMS (mesma fala do coordenador sobre o surgimento do Pequeños Pantaneiros em 2023 e as cerca de 30 crianças; foto "Divulgação/UFMS"), então não conta. Diferença de enquadramento: a matéria diz que a UFMS abriu inscrições "para o projeto Los Pantaneiros", enquanto o portal da UFMS fala em atividades circenses do campus; o verbete não mudou. Buscas sem resultado: API da FCMS, Agência de Notícias do Governo de MS, Correio do Estado, Crossref (só o artigo da própria equipe), BDTD. O artigo da Teias (UERJ) citado antes não foi reaberto. Segue com fonte da equipe e da UFMS.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN, API do O Estado MS, RSS do Google Notícias ("Pequeños Pantaneiros", "Los Pantaneiros" circo Corumbá). Lidas no O Estado MS: 10 fev. 2025 (texto da UFMS) e 11 fev. 2025 (Amanda Ferreira, "Com informações da Assessoria"). Repetem o release da UFMS (promotora): não contam como fonte independente. Nada mudou. Pista: Diário Corumbaense, Correio de Corumbá.

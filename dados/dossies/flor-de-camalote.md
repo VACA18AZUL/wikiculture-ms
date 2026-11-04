@@ -33,3 +33,7 @@ Buscas sem resultado: Google Notícias (RSS) por "Flor de Camalote" Pérez e por
 ## Uso no verbete
 
 - Entrou tudo acima. Dados biográficos de Pérez (nascimento, morte, causa da morte, família) ficaram para o verbete da autora; causa da morte e família não entram.
+
+## Atualização de 2026-11-04
+
+- Nova busca de segunda fonte: Open Library (sem registro), Google Books (cota esgotada), API de *O Estado MS* por "Ângela Maria Pérez" (só notícias da escola municipal com o nome dela). Nenhuma fonte independente sobre o livro. **Fonte única** mantida.

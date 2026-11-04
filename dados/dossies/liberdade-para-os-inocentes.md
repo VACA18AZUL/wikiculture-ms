@@ -64,3 +64,7 @@ Fonte única continua sendo Diehl (UFMS, 2009). Buscas por Alexandre Couto, Rein
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas no Correio do Estado, Fundação de Cultura de MS e Crossref por Reinaldo Dorval/filme sertanejo/cinema amador: nada além de Diehl (UFMS, 2009).
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN (filme sertanejo Dorval; "Rubens Ramos"), API do O Estado MS e RSS do Google Notícias. Lida CGN 20 mar. 2016 (documentário Questão de Honra, de Carol Araújo, sobre o grupo de Alexandre Couto e José Reinaldo): fala em seis curtas e um longa, sem citar títulos; não serve para este filme. Nada mudou.
