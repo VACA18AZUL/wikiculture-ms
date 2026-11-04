@@ -33,7 +33,7 @@ Em novembro de 2025, ele e Wagner Pincela escreveram e dirigiram *O Melhor Espet
 
 ## Filmografia
 
-- *Ponto Final* (2025) — curta, direção de Cadu Xavier; atuação (Pedro, protagonista) e produção executiva.[^tl2025a][^rcn2025a]
+- [[ponto-final-curta|*Ponto Final*]] (2025) — curta, direção de Cadu Xavier; atuação (Pedro, protagonista) e produção executiva.[^tl2025a][^rcn2025a]
 - *Nosso Lar 3 – Vida Eterna* — longa, direção de Wagner de Assis; atuação (soldado da guarda de Domênico).[^tl2025a]
 
 [^rcn2024]: ["Teatro gratuito 'Click, diversão fora da tela' será nesta sexta-feira em Três Lagoas"](https://www.rcn67.com.br/tres-lagoas/jpnews/teatro-gratuito-click-diversao-fora-da-tela-sera-nesta-sexta-feira-em-tres-lagoas/), *RCN67*, 12 dez. 2024. Acesso em 4 nov. 2026.

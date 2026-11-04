@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 A 2ª edição ficou em cartaz no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]] de 3 de dezembro de 2019 a 3 de fevereiro de 2020. Mostrou trabalhos de alunos feitos em 2019, com realidade aumentada, realidade virtual, instalação interativa, videoarte, lambes interativos e fotografia sonora. Teve apoio de edital da UFMS e parceria com o MIS, a Fundação de Cultura de MS e a Associação Sul-Mato-Grossense de Arte Educadores.[^faalc2019][^fcms2019]
 
-Com os espaços públicos fechados na pandemia, a 2ª edição ganhou em outubro de 2020 uma visita virtual em 360 graus. A curadoria foi de Venise Paschoal de Melo, Patrícia Osses e Joaquim Sérgio Borgato.[^fcms2020a] A 3ª edição foi lançada on-line em 1º de dezembro de 2020, com obras feitas pelos alunos durante o isolamento.[^fcms2020b]
+Com os espaços públicos fechados na pandemia, a 2ª edição ganhou em outubro de 2020 uma visita virtual em 360 graus. A curadoria foi de Venise Paschoal de Melo, Patrícia Osses e Joaquim Sérgio Borgato.[^fcms2020a] A 3ª edição, com obras feitas pelos alunos durante o isolamento, teve lançamento on-line anunciado para 1º de dezembro de 2020.[^fcms2020b]
 
 A 4ª edição, chamada Metaverso, foi lançada em 13 de dezembro de 2021 na plataforma virtual Artsteps.[^faalc2021][^fcms2021]
 
