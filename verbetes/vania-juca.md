@@ -4,7 +4,7 @@ tipo: pessoa
 areas: [artes-plasticas]
 resumo: Fotógrafa de Mato Grosso do Sul e professora de fotojornalismo, autora das fotografias e da pesquisa da cartilha Patrimônio cultural de Mato Grosso do Sul (FCMS, 2021) e participante de exposições coletivas em Campo Grande.
 ficha:
-  Atividade: Fotografia
+  Atividade: "Fotografia"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -32,6 +32,6 @@ Em agosto de 2018, a programação do Fest Foto Cerrado, na Casa de Arte e Cultu
 [^cgn2013]: Anny Malagolini, ["Exposição de fotógrafos do Centro-Oeste tem só 2 representantes de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-fotografos-do-centro-oeste-tem-so-2-representantes-de-ms), *Campo Grande News*, 5 jun. 2013. Acesso em 4 nov. 2026.
 [^fcms2016a]: Rejane Monteiro e Alexander Onça, ["Exposição 'Mulheres Protagonistas da Nossa História' será aberta hoje no shopping Bosque dos Ipês"](https://www.fundacaodecultura.ms.gov.br/exposicao-mulheres-protagonistas-da-nossa-historia-sera-aberta-hoje-no-shopping-bosque-dos-ipes/), *Fundação de Cultura de MS*, 17 mar. 2016. Acesso em 4 nov. 2026.
 [^fcms2016b]: ["MIS recebe exposição fotográfica coletiva 'Olhares Criativos na Natureza'"](https://www.fundacaodecultura.ms.gov.br/mis-recebe-exposicao-fotografica-coletiva-olhares-criativos-na-natureza/), *Fundação de Cultura de MS*, 7 jul. 2016. Acesso em 4 nov. 2026.
-[^cgn2018]: ["Casa de Arte e Cultura vem respirando fotografia desde sexta-feira na Capital"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/casa-de-arte-e-cultura-vem-respirando-fotografia-desde-sexta-feira-na-capital), *Campo Grande News*, 19 ago. 2018. Acesso em 4 nov. 2026.
+[^cgn2018]: Thaís Pimenta, ["Casa de Arte e Cultura vem respirando fotografia desde sexta-feira na Capital"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/casa-de-arte-e-cultura-vem-respirando-fotografia-desde-sexta-feira-na-capital), *Campo Grande News*, 19 ago. 2018. Acesso em 4 nov. 2026.
 [^cartilha]: Vânia Jucá, [*Patrimônio cultural de Mato Grosso do Sul*](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2024/08/Cartilha-Patrimonio-Cultural-de-MS.pdf) (PDF), Campo Grande, Fundação de Cultura de Mato Grosso do Sul, 2021, ficha técnica e créditos das fotografias. Acesso em 4 nov. 2026.
 [^fcms2026]: Karina Medeiros de Lima, ["MIS reabre as portas com exposição sobre a memória da fotografia de MS"](https://www.fundacaodecultura.ms.gov.br/mis-reabre-as-portas-com-exposicao-sobre-a-memoria-da-fotografia-de-ms/), *Fundação de Cultura de MS*, 23 fev. 2026. Acesso em 4 nov. 2026.

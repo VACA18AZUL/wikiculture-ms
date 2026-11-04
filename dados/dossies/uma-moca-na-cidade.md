@@ -48,3 +48,12 @@
 ## Uso no verbete
 
 - Entrou tudo acima. Ano de estreia não calculado (fonte só diz que completaria 23 anos em agosto de 2023).
+
+## Atualização de 2026-11-04 (r3-4)
+
+Fontes novas lidas (FCMS, WebFetch):
+- Daiana Schio, "'Uma moça da cidade' encanta o público com história de amor não correspondido", FCMS, 31 jul. 2016 (data do cabeçalho; listagem do site mostra 27 abr. 2020), https://www.fundacaodecultura.ms.gov.br/uma-moca-da-cidade-encanta-o-publico-com-historia-de-amor-nao-correspondido/ . Texto de Anderson Bosch (grafia da fonte); elenco Anderson Bosh, Luciana Kreutzer, Yago Garcia, Ewerton Goulart (ator e músico); inspirada em conto; Praça da Liberdade, Bonito, Festival de Inverno (ano não explícito; 2016 pela data); prêmio Encena Brasil (Funarte) em 2001; UBU surgiu em 1991 como extensão da UFMS (não entrou no verbete).
+- Gisele Colombo, FCMS, 1 out. 2021: sete cidades da região norte, 6 a 15 out. 2021, FIC-MS; elenco Anderson Bosh, Edner Gustavo, Douglas Moreira; a matéria não informa autor nem diretor.
+
+Divergência de elenco entre versões (2016, 2021, 2023): é elenco rotativo; registrado por ano. Anderson Bosch/Bosh: duas grafias na mesma fonte de 2016.
+Situação: pronto-para-lote (reforça o parágrafo de autoria e elenco; acrescenta 2016 e 2021).

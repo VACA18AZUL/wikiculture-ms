@@ -24,6 +24,8 @@ Para os 40 anos, o grupo programou para 24 de setembro de 2022 *Sonhos de Uma No
 
 Em abril de 2023, o grupo encenou pela primeira vez a Paixão de Cristo, na Cidade da Páscoa, em Campo Grande, a convite da prefeitura, com 35 atores, 10 bailarinos e trilha do Coral UCDB.[^cgn2023a][^cgn2023c] Em setembro do mesmo ano, anunciou a estreia de [[o-burgues-fidalgo|*O Burguês Fidalgo*]], de Molière, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], com 17 atores; a reportagem diz que o grupo completava 41 anos.[^cgn2023b]
 
+Em 18 de dezembro de 2024, o grupo se apresentou no lançamento do documentário *Onde você estava?*, de Roberto Figueiredo, no Teatro Aracy Balabanian, em Campo Grande, evento mantido como homenagem ao professor, que havia falecido pouco antes. Segundo a Fundação de Cultura de Mato Grosso do Sul, o grupo interpretou o poema "Versos deste Chão", de Flora Thomé, e um fragmento de *Ato de Sobrevivência*, de Magno Martins, dirigida por Figueiredo, que estreou em 29 de novembro de 2024.[^fcms2024]
+
 ## Espetáculos
 
 - *A Cantora Careca* (1995) — citada em legenda de foto do elenco de 1995.[^cgn2022]
@@ -37,3 +39,4 @@ Em abril de 2023, o grupo encenou pela primeira vez a Paixão de Cristo, na Cida
 [^cgn2023a]: Clara Farias, ["Cidade da Páscoa recebe encenação da Paixão de Cristo com entrada gratuita"](https://www.campograndenews.com.br/lado-b/diversao/cidade-da-pascoa-recebe-encenacao-da-paixao-de-cristo-com-entrada-gratuita), *Campo Grande News*, 5 abr. 2023. Acesso em 4 nov. 2026.
 [^cgn2023c]: Gustavo Bonotto e Jéssica Fernandes, ["Em clima de união, espetáculo 'Paixão de Cristo' lota Cidade da Páscoa"](https://www.campograndenews.com.br/lado-b/diversao/em-clima-de-uniao-espetaculo-paixao-de-cristo-lota-cidade-da-pascoa), *Campo Grande News*, 7 abr. 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Thailla Torres, ["Espetáculo 'O Burguês Fidalgo' estreia amanhã com entrada gratuita"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-o-burgues-fidalgo-estreia-amanha-com-entrada-gratuita), *Campo Grande News*, 26 set. 2023. Acesso em 4 nov. 2026.
+[^fcms2024]: Karina Medeiros de Lima, ["Lançamento do documentário 'Onde você estava?' foi de muita emoção, com homenagens para o professor Roberto Figueiredo"](https://www.fundacaodecultura.ms.gov.br/lancamento-do-documentario-onde-voce-estava-foi-de-muita-emocao-com-homenagens-para-o-professor-roberto-figueiredo/), Fundação de Cultura de Mato Grosso do Sul, 19 dez. 2024. Acesso em 4 nov. 2026.

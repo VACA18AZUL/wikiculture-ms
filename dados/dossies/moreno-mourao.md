@@ -48,3 +48,11 @@ Mesmo veículo; autoras diferentes em parte.
 ## Uso no verbete
 
 - Entrou tudo. Fora: e-mail da companhia e endereço da ACA.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Fontes novas lidas (FCMS, WebFetch):
+- Gisele Colombo, "Cia Pisando Alto apresenta espetáculo 'Gran FinaLLe' em Dourados", FCMS, 14 ago. 2023: Moreno Mourão e Fran Corona atuam; direção e dramaturgia de Breno Moroni; ele é artista e produtor da Cia e ministra a oficina Circulandando (Dourados, 13 a 15 ago.).
+- Daiana Schio, "Respeitável público...", FCMS, 14 nov. 2023: elenco Fran Corona e Moreno Mourão; ACA, Campo Grande, 16 e 17 nov.
+Outras páginas FCMS da Cia (Boca de Cena 2024, Fragmentada 2025, oficina de acrobacia 2025) existem mas não foram abertas; fundação em 2019 e a trajetória em Goiânia seguem só no CGN. A busca por "Moreno Mourão" no site da FCMS não dá resultado direto.
+Situação: pronto-para-lote para o trecho de 2023 (reforço por instituição diferente).
