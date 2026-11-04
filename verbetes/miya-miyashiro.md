@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 Em janeiro de 2026, o *Campo Grande News* apresentou três filmes concluídos por Miya e Isabelle: o documentário *Crimes da Cruz*, lançado em 2023 e depois incorporado ao programa *No Lumiar da Lei*; a animação sobre feminicídio que o jornal chama de *Craveiro Rosa* e de *O Cravo e a Rosa*; e o curta de ficção *Meu pai não veio*, de 17 minutos, sobre abandono parental. Os filmes tinham sido mostrados a amigos e familiares e seguiam para lançamento aberto ao público em Campo Grande.[^cgn2026a]
 
-Em 4 de novembro de 2026, a animação, sob o título *Cravo e a Rosa*, entrou no programa do Cine Concerto da Orquestra de Sopros do Pantanal (OSPan), no [[teatro-glauce-rocha|Teatro Glauce Rocha]], com trilha tocada ao vivo pela orquestra. A UFMS e o *Campo Grande News* atribuem a produção às duas egressas do curso de Audiovisual.[^ufms2026][^cgn2026b]
+A animação, sob o título *Cravo e a Rosa*, entrou no programa do Cine Concerto da Orquestra de Sopros do Pantanal (OSPan), marcado para 4 de novembro de 2026 no [[teatro-glauce-rocha|Teatro Glauce Rocha]], com trilha tocada ao vivo pela orquestra. A UFMS e o *Campo Grande News* atribuem a produção às duas egressas do curso de Audiovisual.[^ufms2026][^cgn2026b]
 
-No longa documental *O Retrato do Erro – A Bruxa da Sapolândia*, dirigido por Isabelle Silva pela Misa Filmes, Miya assina a direção de arte. Em julho de 2026, o filme estava em edição, com exibição aberta ao público prevista para fevereiro de 2027.[^pp2026]
+No longa documental *O Retrato do Erro – A Bruxa da Sapolândia*, dirigido por Isabelle Silva e realizado pela equipe da produtora Misa Filmes, Miya assina a direção de arte. Em julho de 2026, o filme estava em edição, com exibição aberta ao público prevista para fevereiro de 2027.[^pp2026]
 
 ## Filmografia
 

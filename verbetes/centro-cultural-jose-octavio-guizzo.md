@@ -14,7 +14,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Centro_Cultural_Jos%C3%A9_Oct%C3%A1vio_Guizzo
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Centro Cultural José Octávio Guizzo** (CCJOG) é um espaço de Campo Grande dedicado à geração, formação e difusão da cultura sul-mato-grossense.[^cgn2024]
@@ -22,6 +22,10 @@ O **Centro Cultural José Octávio Guizzo** (CCJOG) é um espaço de Campo Grand
 ## Estrutura
 
 O complexo tem aparato para oficinas de dança, música, teatro e artes plásticas, e também para espetáculos, exposições, palestras e exibições de vídeo.[^cgn2024] Suas salas levam nomes de personalidades da cultura: o [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], a Sala de Convenções Rubens Corrêa, a Sala de Ensaios Conceição Ferreira e as galerias de exposição [[galeria-wega-nery|Wega Nery]] e [[ignes-correa-da-costa|Ignês Corrêa da Costa]]. Há ainda a Sala Central, a Sala de Música e um ateliê de artes.[^cgn2024]
+
+## Eventos
+
+De 28 a 30 de agosto de 2014, o centro sediou o 1º Festival Estadual de Contadores de Histórias de MS, com oficinas de contadores de Mato Grosso do Sul e de outros estados e apresentações também em escolas. Marta Cel foi uma das organizadoras. Entre os oficineiros sul-mato-grossenses estavam Ciro Ferreira e Conceição Leite.[^cgn2014]
 
 ## Fechamento e reabertura
 
@@ -40,3 +44,4 @@ O *Campo Grande News* e *A Crítica* (outubro de 2026) indicam a Rua 26 de Agost
 [^cgn2024]: Jéssica Fernandes, ["Após 8 anos, Centro Cultural José Octavio Guizzo reabre as portas"](https://www.campograndenews.com.br/lado-b/diversao/apos-8-anos-centro-cultural-jose-octavio-guizzo-reabre-as-portas), *Campo Grande News*, 20 mar. 2024. Acesso em 29 out. 2026.
 [^vozes]: ["Espetáculo reúne 14 histórias de artistas brasileiros em Campo Grande"](https://acritica.net/cultura/vozes-teatro-brasileiro-espetaculo-campo-grande/), *A Crítica de Campo Grande*, 7 out. 2026. Acesso em 29 out. 2026.
 [^bemamado]: ["Grupo campo-grandense desafia a falta de apoio e coloca sátira política de volta ao palco"](https://acritica.net/cultura/light/o-bem-amado-volta-ao-palco-em-campo-grande-com-grupo-independente/), *A Crítica de Campo Grande*, 21 mai. 2026. Acesso em 29 out. 2026.
+[^cgn2014]: Eduardo Penedo, ["Campo Grande sedia 1° Festival de Contadores de Histórias de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/campo-grande-sedia-1-festival-de-contadores-de-historias-de-ms), *Campo Grande News*, 27 ago. 2014. Acesso em 4 nov. 2026.
