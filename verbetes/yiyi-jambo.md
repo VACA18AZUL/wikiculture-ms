@@ -32,5 +32,5 @@ Em 2014, a artista plástica [[gisele-francia|Gisele Francia]], formada na UFMS,
 - *Uma Flor na Solapa da Miséria*, de Douglas Diegues — nas referências de Camargo, edição da Yiyi Jambo, Ponta Porã, 2005, data anterior à fundação da editora informada pela mesma autora.[^camargo] Sousa dá 2005 para a edição da Eloísa Cartonera e 2007 para a da Yiyi Jambo.[^sousa]
 - *Mascate*, de Wilson Bueno.[^camargo]
 
-[^sousa]: Greissi Cristina Sousa, [*La frontera selbaje: El Astronauta Paraguayo, de Douglas Diegues*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1402/1/GreissiCristinaSousa.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2016, p. 45, 48-56 e 81. Acesso em 4 nov. 2026.
+[^sousa]: Greissi Cristina Sousa, [*La frontera selbaje: El Astronauta Paraguayo, de Douglas Diegues*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1402/1/GreissiCristinaSousa.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2016, p. 45, 48-56 e 80. Acesso em 4 nov. 2026.
 [^camargo]: Thais Ferreira Pompêo de Camargo, ["A tradução desobediente do poeta Douglas Diegues"](https://revistas.pucsp.br/index.php/fronteiraz/article/download/33353/24068/96533), *Fronteira Z*, PUC-SP, n. 19, dez. 2017, p. 139 e 144. Acesso em 4 nov. 2026.
