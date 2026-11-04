@@ -44,3 +44,12 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo. Apoio em duas fontes; verbete curto.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Fontes novas lidas:
+
+- Correio do Estado, 7 maio 2014, "Jornalista Lizoel Costa tem morte cerebral" (https://correiodoestado.com.br/cidades/2014/05/07/jornalista-br-lizoel-costa-tem-morte-cerebral.html) e 9 maio 2014, "Corpo do jornalista Lizoel Costa é velado na Capital" (https://correiodoestado.com.br/cidades/2014/05/09/corpo-do-jornalista-lizoel-costa-e-velado-na-capital.html). Chamam-no de jornalista, noticiam a morte (informada em 7/5/2014) e o velório em Campo Grande em 9/5. Entram só esses fatos: causa/estado de saúde, familiar que deu a notícia e local do velório ficam fora do verbete.
+- FCMS, 20 out. 2017, "Programa Blues & Derivados, da FM Educativa, comemora 22 anos..." (https://www.fundacaodecultura.ms.gov.br/programa-blues-derivados-da-fm-educativa-comemora-22-anos-com-mostra-de-cinema-no-mis/) (também em versão de 2019, 24 anos): Clayton Sales cita "o diretor Lizoel Costa" da FM Educativa, que o chamou para levar o programa, estreado em 14/10/1995. A fonte não diz que é o mesmo Lizoel do IMS (compositor/guitarrista); identidade provável pelo nome, não confirmada.
+
+Não confirmados por fonte nova: nome civil, data de nascimento, Língua de Trapo, atividades de compositor e guitarrista (só IMS). Busca no CGN por matéria de maio de 2014: não feita por URL (busca do site não funciona por fetch).

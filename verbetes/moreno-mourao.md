@@ -19,6 +19,8 @@ Moreno Mourão e Fran Corona pesquisam circo juntos desde 2012. Os dois fizeram 
 
 Em 2023, como artista e produtor da companhia, falou à imprensa sobre o projeto Circo.Lação, que previa apresentações do espetáculo *Gran Finale* em Campo Grande, Dourados e Corumbá e exibições online com audiodescrição e Libras.[^cgn2023a] Em novembro, estava no elenco das sessões de *Gran FinaLLe* anunciadas para Campo Grande e entre os ministrantes previstos da oficina Circulandando, ao lado de Fran Corona e [[breno-moroni|Breno Moroni]].[^cgn2023b]
 
+A FCMS, em notícias de agosto e novembro de 2023 sobre o mesmo projeto, também o apresenta como atuante em *Gran FinaLLe*, ao lado de Fran Corona, com direção e dramaturgia de Breno Moroni. Em Dourados, em agosto, ele aparece como artista e produtor da companhia e ministrante da oficina Circulandando, junto com Breno Moroni e Fran Corona.[^fcms2023a][^fcms2023b]
+
 Em 13 de maio de 2024, esteve no elenco de *Gran Finalle* na abertura da programação circense da [[mostra-boca-de-cena|Boca de Cena]], sob uma lona montada no Centro de Campo Grande.[^cgn2024]
 
 ## Espetáculos
@@ -28,3 +30,5 @@ Em 13 de maio de 2024, esteve no elenco de *Gran Finalle* na abertura da program
 [^cgn2023a]: Thailla Torres, ["Cidade ganha oficina de acrobacia com artista circense famoso"](https://www.campograndenews.com.br/lado-b/diversao/cidade-ganha-oficina-de-acrobacia-com-artista-circense-famoso), *Campo Grande News*, 3 jun. 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Thailla Torres, ["Espetáculo gratuito usa arte para contar a história de artistas do circo"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-gratuito-usa-arte-para-contar-a-historia-de-artistas-do-circo), *Campo Grande News*, 15 nov. 2023. Acesso em 4 nov. 2026.
 [^cgn2024]: Aletheya Alves, ["Tenda chega ao Centro para alegria de quem não via circo há 40 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/tenda-chega-ao-centro-para-alegria-de-quem-nao-via-circo-ha-40-anos), *Campo Grande News*, 14 maio 2024. Acesso em 4 nov. 2026.
+[^fcms2023a]: Gisele Colombo, ["Cia Pisando Alto apresenta espetáculo 'Gran FinaLLe' em Dourados"](https://www.fundacaodecultura.ms.gov.br/cia-pisando-alto-apresenta-espetaculo-gran-finalle-em-dourados/), Fundação de Cultura de Mato Grosso do Sul, 14 ago. 2023. Acesso em 4 nov. 2026.
+[^fcms2023b]: Daiana Schio, ["Respeitável público: a Cia Pisando Alto apresenta o espetáculo circense 'Gran FinaLLe' quinta (16) e sexta (17)"](https://www.fundacaodecultura.ms.gov.br/45437-2/), Fundação de Cultura de Mato Grosso do Sul, 14 nov. 2023. Acesso em 4 nov. 2026.

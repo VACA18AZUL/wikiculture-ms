@@ -36,3 +36,8 @@
 ## Uso no verbete
 
 - Entraram todos os fatos acima, menos a idade.
+
+## Revisão de 2026-11-04 (valn-10a)
+
+- Fonte aberta nesta revisão e citada no verbete: cgn2017 — Lucas Arruda, "Dança do empoderamento e sucesso com Madonna, aula ensina o Vogue", Campo Grande News, 13 out. 2017, https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/danca-do-empoderamento-e-sucesso-com-madonna-aula-ensina-o-vogue. Usada só para registrar a divergência sobre a criação da House of Hands Up MS (Eduardo Kon Zaion, jan. 2017, com dançarinos da cidade) ao lado da versão de cgn2021.
+- Não identificar Eduarda Kona Zion (cgn2020) com Eduardo Kon Zaion (cgn2017): nenhuma fonte une os dois.

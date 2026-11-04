@@ -6,9 +6,9 @@ cidade: Campo Grande
 resumo: Exposição fotográfica do MIS-MS em homenagem a Rachid Waqued, aberta em fevereiro de 2026 com visitação até 30 de abril, que reuniu também um painel de 14 fotógrafos sul-mato-grossenses.
 ficha:
   Abertura: "Fevereiro de 2026"
-  Local: Museu da Imagem e do Som de MS, Campo Grande
-  Realização: Fundação de Cultura de MS (projeto Rota Cine MS)
-  Homenageado: Rachid Waqued
+  Local: "Museu da Imagem e do Som de MS, Campo Grande"
+  Realização: "Fundação de Cultura de MS (projeto Rota Cine MS)"
+  Homenageado: "Rachid Waqued"
 status: rascunho
 atualizado: 2026-11-04
 ---

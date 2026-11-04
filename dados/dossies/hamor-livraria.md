@@ -51,3 +51,13 @@ Descartadas / não localizadas:
 ## Uso no verbete
 
 - Endereço numérico ficou fora (é ponto comercial, mas desnecessário); bairro entrou. Lista de livros de terceiros ficou fora por não dizer quais são do selo.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fontes de outros veículos (abertas e lidas):
+- Mariana Piell, "Livraria itinerante de Campo Grande abre espaço físico com café", Correio do Estado, 10 set. 2024. https://correiodoestado.com.br/correio-b/livraria-itinerante-de-campo-grande-abre-espaco-fisico-com-cafe/435993/
+- Amanda Ferreira, "Hámor livraria inaugura novo espaço neste sábado (14) com lançamento de livro e workshop de Mar Becker", O Estado Online, 11 set. 2024. https://oestadoonline.com.br/arte-e-lazer/hamor-livraria-inaugura-novo-espaco-neste-sabado-14-com-lancamento-de-livro-e-workshop-de-mar-becker/
+- Hámor Edições, "sobre" (site da própria editora; só confirma Bianca Resende, Febraro de Oliveira e Felipe Mafra como equipe e 2022 como abertura da livraria; não usada como nota). https://www.hamoredicoes.com.br/sobre
+Sustentam: fundação em 2022 por Bianca Resende e Felipe Mafra (idealização já no verbete); atividade on-line e itinerante antes do espaço físico (confirma "começou itinerante"); espaço físico inaugurado em 14/9/2024, Rua 13 de Junho, Centro; Mar Becker; Hámor Edições com cinco títulos previstos; Febraro de Oliveira como sócio.
+Mudança: parágrafo novo em Trajetória, ficha com Fundação 2022 e Local. Observação: O Estado Online diz que o título/corpo da oficina grafam "Poesia e Rastro" de modo diferente; usada a grafia do Correio do Estado.
+Não abertas: Midiamax (bloqueado), Diariomsnews, RCN67 (aniversário), Enfoque MS, A Crítica.

@@ -20,6 +20,8 @@ Em 2023, era creditado pela música original de [[uma-moca-na-cidade|Uma Moça n
 
 Em 2024, era creditado pela execução ao vivo das músicas de *O Bem-Amado*, do Fulano di Tal, que o projeto Fulano di Tal – Ato 20 anunciou para cinco cidades de Mato Grosso do Sul em abril. No mesmo projeto, estava previsto que ministrasse aos integrantes do grupo, em setembro e outubro, a formação "Musicalização da cena (voz e instrumento)".[^cgn2024]
 
+Em 2016, a Fundação de Cultura de Mato Grosso do Sul (FCMS) o listou no elenco de *Uma moça da cidade*, do Grupo UBU, como ator e músico, na apresentação da peça no Festival de Inverno de Bonito.[^fcms2016]
+
 ## Espetáculos
 
 - *A Princesa Engasgada* (2018) — música; texto de Márcia Frederico; Teatral Grupo de Risco.[^cgn2018]
@@ -33,3 +35,4 @@ Em 2024, era creditado pela execução ao vivo das músicas de *O Bem-Amado*, do
 [^cgn2023ubu]: Thailla Torres, ["Municípios vão receber espetáculo gratuito 'Uma moça da cidade'"](https://www.campograndenews.com.br/lado-b/diversao/municipios-vao-receber-espetaculo-gratuito-uma-moca-da-cidade), *Campo Grande News*, 28 maio 2023. Acesso em 4 nov. 2026.
 [^cgn2024]: Thailla Torres, ["Doze cidades de MS recebem espetáculos gratuitos de teatro"](https://www.campograndenews.com.br/lado-b/diversao/doze-cidades-de-ms-recebem-espetaculos-gratuitos-de-teatro), *Campo Grande News*, 10 abr. 2024. Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Espetáculos gratuitos iniciam hoje e celebram 37 anos do Grupo de Risco"](https://www.campograndenews.com.br/lado-b/diversao/espetaculos-gratuitos-iniciam-hoje-e-celebram-37-anos-do-grupo-de-risco), *Campo Grande News*, 24 nov. 2025. Acesso em 4 nov. 2026.
+[^fcms2016]: Daiana Schio, ["'Uma moça da cidade' encanta o público com história de amor não correspondido"](https://www.fundacaodecultura.ms.gov.br/uma-moca-da-cidade-encanta-o-publico-com-historia-de-amor-nao-correspondido/), Fundação de Cultura de Mato Grosso do Sul, 31 jul. 2016 (data exibida no cabeçalho da página; a listagem de busca do site mostra 27 abr. 2020). Acesso em 4 nov. 2026.
