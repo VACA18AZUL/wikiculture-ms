@@ -3,14 +3,14 @@ titulo: Rolê no Bueiro
 tipo: evento
 areas: [danca]
 cidade: Campo Grande
-resumo: Evento de dança e música criado por Halisson Nunes e Maria Fernanda Figueiró e produzido pela Manaká Cultural; edições em Campo Grande e Dourados desde 2023 e, em 2024, temporada como Festival No Bueiro.
+resumo: Evento de dança e música criado por Halisson Nunes e Maria Fernanda Figueiró e produzido pela Manaká Cultural; edições em Campo Grande e Dourados e, em 2024, temporada como Festival No Bueiro.
 ficha:
   Realização: "Manaká Cultural"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Rolê no Bueiro** é um evento de performances de dança e música criado por [[halisson-nunes|Halisson Nunes]] e [[maria-fernanda-figueiro|Maria Fernanda Figueiró]] e produzido pela [[manaka-cultural|Manaká Cultural]]. Segundo os organizadores, nasceu de questionamentos sobre o lugar da dança, que quase nunca é atração principal; o nome toma o bueiro como metáfora desse espaço.[^cgn2023]
+O **Rolê no Bueiro** é um evento de performances de dança e música criado por [[halisson-nunes|Halisson Nunes]] e [[maria-fernanda-figueiro|Maria Fernanda Figueiró]] e produzido pela [[manaka-cultural|Manaká Cultural]]. Segundo os organizadores, nasceu de questionamentos sobre o lugar da dança, que quase nunca é atração principal; o nome toma o bueiro como metáfora desse espaço.[^cgn2023][^ce2024]
 
 ## Edições
 

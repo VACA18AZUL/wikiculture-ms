@@ -34,3 +34,8 @@ Descartadas: galeria de fotos de 7 nov. 2016 (sem texto); buscas no Correio do E
 ## Uso no verbete
 
 - Tudo; data do show como "6 de novembro" do anúncio, com o relato publicado no dia seguinte.
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte: Brave em limite (429); nenhuma fonte nova lida. Fonte única (FCMS).
+- O 14º lugar de 2016 é na categoria Show de Abertura (FCMS 9 mar. 2016); acrescentado ao verbete.
