@@ -28,9 +28,9 @@ Em dezembro de 2024, a editora [[vida-producoes|Vida Produções]], da escritora
 
 Em outubro de 2025, a Casa de Cultura anunciou a primeira edição do projeto Troca de Saberes Culturais, série de encontros entre artistas e público. O primeiro, marcado para 29 de outubro, teve como tema a arte urbana e como convidados [[lucas-do-rabisco-easy|Lucas do Rabisco Easy]], [[leonardo-mareco|Leonardo Mareco]] e [[caio-green|Caio Green]].[^cgn2025]
 
-Em maio de 2026, a [[fundac|Fundação Municipal de Cultura (Fundac)]] anunciou na Casa de Cultura a programação da 24ª Semana Nacional dos Museus, de 19 a 22 de maio, com palestras e debates e uma exposição do acervo pessoal do professor Roberto Figueiredo.[^acritica2026]
+Em maio de 2026, a [[fundac|Fundação Municipal de Cultura (Fundac)]] anunciou para a Casa de Cultura a programação da 24ª Semana Nacional dos Museus, de 19 a 22 de maio, com palestras e debates e uma exposição do acervo pessoal do professor Roberto Figueiredo.[^acritica2026]
 
 [^cgn2024a]: Gustavo Bonotto e Aletheya Alves, ["Casa da Cultura inaugura, mas só vai funcionar na próxima semana"](https://www.campograndenews.com.br/lado-b/diversao/casa-da-cultura-inaugura-mas-so-vai-funcionar-na-proxima-semana), *Campo Grande News*, 19 set. 2024. Acesso em 4 nov. 2026.
 [^cgn2024b]: Thailla Torres, ["Campo Grande recebe lançamento de 25 livros no mesmo dia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/campo-grande-recebe-lancamento-de-25-livros-no-mesmo-dia), *Campo Grande News*, 17 dez. 2024. Acesso em 4 nov. 2026.
 [^cgn2025]: Clayton Neves, ["Artistas do grafite e arte mural participam de encontro cultural"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/artistas-do-grafite-e-arte-mural-participam-de-encontro-cultural), *Campo Grande News*, 26 out. 2025. Acesso em 4 nov. 2026.
-[^acritica2026]: Redação, ["Semana dos Museus tem programação na Casa de Cultura de Campo Grande"](https://acritica.net/cultura/semana-museus-casa-cultura-campo-grande/), *A Crítica de Campo Grande*, 15 maio 2026. Acesso em 4 nov. 2026.
+[^acritica2026]: Redação, ["Semana dos Museus leva palestras, exposição e debates para Casa de Cultura em Campo Grande"](https://acritica.net/cultura/semana-museus-casa-cultura-campo-grande/), *A Crítica de Campo Grande*, 15 maio 2026. Acesso em 4 nov. 2026.
