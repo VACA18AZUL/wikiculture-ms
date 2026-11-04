@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Laila Pulchério** é produtora cultural do [[circo-do-mato|Circo do Mato]], grupo de artes cênicas de Campo Grande.[^cgn2025b][^fcms2025]
+**Laila Pulchério** é produtora cultural do [[circo-do-mato|Circo do Mato]], grupo de artes cênicas de Campo Grande.[^boca2017][^cgn2025b][^fcms2025]
 
 ## Trajetória
 
@@ -19,7 +19,7 @@ Em março de 2014, assinou a produção de *Navalha de Carne*, texto de Plínio 
 
 Na programação da [[mostra-boca-de-cena|Boca de Cena]] de 2017, aparece na ficha de *Os Corcundas*, do Circo do Mato, com dramaturgia e direção de [[breno-moroni|Breno Moroni]] e elenco formado por Luciana Kreutzer e [[mauro-guimaraes|Mauro Guimarães]]. Coube a ela a produção executiva, a operação de luz e som e, com outra pessoa, a fotografia. O espetáculo estava programado para a Praça Ari Coelho.[^boca2017]
 
-Em 2025, dividiu com Mauro Guimarães a coordenação do projeto [[de-ponto-a-ponto|De Ponto a Ponto]], do Circo do Mato, que buscava fortalecer os Pontos de Cultura do estado. Em reportagem de maio sobre a etapa de Aquidauana, no [[ponto-de-cultura-sapicua-pantaneiro|Ponto de Cultura Sapicuá Pantaneiro]], disse que o espetáculo é só uma parte do projeto e que o mais importante são o encontro e as trocas entre as pessoas.[^cgn2025a]
+Em 2025, dividiu com Mauro Guimarães a coordenação do projeto [[de-ponto-a-ponto|De Ponto a Ponto]], do Circo do Mato, que buscava fortalecer os Pontos de Cultura do estado. Em reportagem de maio sobre a etapa de Aquidauana, no [[ponto-de-cultura-sapicua-pantaneiro|Ponto de Cultura Sapicuá Pantaneiro]], disse que o espetáculo é apenas uma parte e que o mais bonito, para ela, é o encontro e as trocas entre as pessoas.[^cgn2025a]
 
 Em junho de 2025, como produtora cultural do grupo, falou à imprensa sobre a vivência circense que a sede do Circo do Mato receberia, em 18 de junho, com artistas da Trupe Circus e da Escola Pernambucana de Circo, de Recife, dentro do projeto Circo Science – do Mangue ao Picadeiro.[^cgn2025b]
 

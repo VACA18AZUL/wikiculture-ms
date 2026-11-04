@@ -43,3 +43,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo. Verbete curto, apoiado em duas fontes.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Fonte nova lida (WebFetch): Amanda Ferreira, "Madrigal UFMS realiza concerto especial em homenagem ao maestro Manoel Rasslan", O Estado Online, 28 jun. 2025, https://oestadoonline.com.br/arte-e-lazer/madrigal-ufms-realiza-concerto-especial-em-homenagem-ao-maestro-manoel-rasslan/ (nota estado2025). Traz nome completo (Manoel Camara Rasslan), idealizador do curso de Música da UFMS (mais de 40 anos), Movimento Coral, primeiro regente do Coro Cant'arte (1 ano), morte em 20 mar. 2025, concerto de homenagem em 8 jul. 2025 e títulos de Técnico e Professor Emérito a serem entregues à família em 3 jul. O texto não informa formação acadêmica. Não há conflito com Silus (doutor em Musicologia) nem com o Correio do Estado (2014).
+Fatos de saúde/família: nenhum usado. Situação: pronto-para-lote (terceiro veículo, tema novo e confirma o vínculo com a UFMS e o Movimento Coral).
+Buscas sem resultado: FCMS (nenhum).

@@ -51,3 +51,9 @@ As duas fontes são do mesmo veículo, mas de autores e anos diferentes.
 ## Uso no verbete
 
 - Fora: idade, casamento e relação pessoal com Mayra Rivero Lopes (vida familiar). Ela aparece só como colega de ensino.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fonte de outro veículo (aberta e lida): Dança em Trânsito (site do festival), "Cia de Dança do Pantanal", https://www.dancaemtransito.com.br/cia-de-danca-do-pantanal, sem data. Ficha de *Carne Quebrada*: Diretor Rolando Candia; Diretora Artística Márcia Rolon; Coreógrafo Wellington Júlio; Bailarinos Agustin Salcedo Martin e Nubia Santos; apresentação em 14/11 no Rio de Janeiro. Grafia "Candia" (sem acento). Não menciona Paris. Nota [^dt] em Trajetória e Espetáculos.
+Abertas e não usadas: Instituto Moinho Cultural (es.moinhocultural.org.br), "Com doações, bailarinos viajam 9 mil km para representar MS na França" (sem autor e data; texto institucional, parece a origem da matéria do CGN; confirma direção de Rolando Candia, Paris em 16 a 18 de set. e Embaixada do Brasil na França; não conta como independente do CGN); mapado.com (bilheteria do festival em Paris, Le Regard du Cygne; cita só Willington Julio, não cita Rolando).
+Continua sem confirmação independente: formação em Cuba e a identidade com "Rolando Cândia Acosta" (2017), que dependem só do CGN. Pistas: Correio de Corumbá e O Estado Online sobre os 9 anos da Cia. (Femina Vox, UNESCO).
