@@ -10,7 +10,7 @@ links:
     url: https://www.youtube.com/watch?v=s32-QlEr5N4
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Cia. Dançurbana** é uma companhia de dança de Mato Grosso do Sul conhecida por misturar dança urbana e contemporânea.[^critica2026]
