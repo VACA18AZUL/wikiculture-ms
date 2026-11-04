@@ -13,7 +13,7 @@ links:
     url: https://www.youtube.com/@memoriafonograficadems
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Projeto Memória Fonográfica de Mato Grosso do Sul** é uma iniciativa de levantamento, coleta, catalogação e digitalização da produção musical regional, a partir da década de 1950. Seu acervo digital é divulgado no canal do YouTube Acervo Digital Memória Fonográfica de MS.[^canal]
@@ -32,7 +32,7 @@ As fontes divergem sobre quem idealizou o projeto:[^ce2011][^cgn2014][^canal]
 
 Em maio de 2011, a matéria falava em 30 mil músicas catalogadas, de obras dos anos 1950 até a época da reportagem.[^ce2011] A descrição do canal fala em mais de 14 mil músicas, disponibilizadas em pelo menos dois vídeos por dia.[^canal] As duas contagens diferem em número e em critério: a primeira fala em músicas catalogadas, a segunda em músicas no canal. A descrição do canal não traz data.[^ce2011][^canal]
 
-No canal, as playlists seguem o padrão "artista, título, formato e ano". Entre as listadas na página inicial estão a de [[delio-e-delinha|Délio e Delinha]], com o LP *Gosto Tanto de Você* (1971), e a do Trio Mato Grosso, com o LP *Nossa Felicidade* (1988).[^canal-pl]
+No canal, as playlists seguem o padrão "artista, título, formato e ano". Em novembro de 2026, entre as primeiras listadas na aba de playlists estavam a do Trio Mato Grosso, com o LP *Nossa Felicidade* (1988), a de [[conjunto-ponta-pora|Conjunto Ponta Porã]], com o LP *Recordando Carlos Gardel* (1969), e a de [[paizinho-e-florito|Paizinho & Florito]] e [[omil-e-ozeias|Omil & Ozéias]], com um LP dividido de 1974.[^canal-pl]
 
 ## Exposições e doação ao MIS
 
@@ -45,6 +45,6 @@ Em setembro de 2014, a Fundação de Cultura, por meio do [[mis-ms|MIS]], abriu 
 - [Canal Acervo Digital Memória Fonográfica de MS](https://www.youtube.com/@memoriafonograficadems) — playlists por artista e disco.
 
 [^canal]: Acervo Digital Memória Fonográfica de MS, [descrição do canal](https://www.youtube.com/@memoriafonograficadems), *YouTube*. Acesso em 29 out. 2026.
-[^canal-pl]: Acervo Digital Memória Fonográfica de MS, [aba Playlists](https://www.youtube.com/@memoriafonograficadems/playlists), *YouTube*. Acesso em 29 out. 2026.
+[^canal-pl]: Acervo Digital Memória Fonográfica de MS, [aba Playlists](https://www.youtube.com/@memoriafonograficadems/playlists), *YouTube*. Acesso em 4 nov. 2026.
 [^ce2011]: "Museu da Imagem e Som reinaugura hoje", [*Correio do Estado*](https://correiodoestado.com.br/correio-b/museu-da-imagem-e-som-reinaugura-hoje/109346/), 3 maio 2011. Acesso em 29 out. 2026.
 [^cgn2014]: "Exposição traz resgate da música sul-mato-grossense na Capital", [*Campo Grande News*](https://www.campograndenews.com.br/lado-b/diversao/exposicao-traz-resgate-da-musica-sul-mato-grossense-na-capital), 7 set. 2014. Acesso em 29 out. 2026.

@@ -6,7 +6,7 @@ resumo: Dupla de música regional que dividiu com Paizinho e Florito o LP split 
 ficha:
   Atividade: Dupla de música regional
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Omil e Ozéias**, grafado "Omil & Ozeas" na descrição do acervo, é uma dupla de música regional que gravou em 1974 um LP dividido com [[paizinho-e-florito|Paizinho e Florito]].[^split]

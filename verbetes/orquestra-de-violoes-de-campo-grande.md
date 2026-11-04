@@ -9,7 +9,7 @@ ficha:
   Regência: Anderson Francellino
   Integrantes: 12 (no CD de 2006)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Orquestra de Violões de Campo Grande** é um conjunto de violões eruditos de Campo Grande, fundado em 1997.[^cd]
@@ -22,10 +22,10 @@ O CD *10 Anos*, de 2006, foi gravado em Campo Grande com patrocínio da Prefeitu
 
 ## Discografia
 
-- *10 Anos* (2006) — CD independente, Studio Muziarte; 10 faixas, com obras de Vivaldi (movimentos de *A Primavera*), J. S. Bach (*Concerto de Brandemburgo nº 6*), Agustín Barrios ("Lendas da Espanha", "Dança Paraguaia"), Pixinguinha ("Lamentos"), "Trem do Pantanal" de [[paulo-simoes|Paulo Simões]] e [[geraldo-roca|Geraldo Roca]], e "Mercedita" de Ramón Sixto Ríos.[^cd] [Ouvir no YouTube (Acervo Digital Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLO-QEpiig_IgvQ6sJbe0vx4SE5NUONCxW)
+- *10 Anos* (2006) — CD independente, Studio Muziarte; 10 faixas, com quatro faixas de Vivaldi (a primeira é o primeiro movimento de *A Primavera*), J. S. Bach (*Concerto de Brandemburgo nº 6*), Agustín Barrios ("Lendas da Espanha", "Dança Paraguaia"), Pixinguinha ("Lamentos"), "Trem do Pantanal" de [[paulo-simoes|Paulo Simões]] e [[geraldo-roca|Geraldo Roca]], e "Mercedita" de Ramón Sixto Ríos.[^cd] [Ouvir no YouTube (Acervo Digital Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLO-QEpiig_IgvQ6sJbe0vx4SE5NUONCxW)
 
 ## Ponto a conferir
 
 A descrição apresenta o CD de 2006 como celebração de uma década de existência, embora date a fundação em 1997. A diferença de nove anos pode ser arredondamento ou divergência de data; as fontes lidas não esclarecem.[^cd]
 
-[^cd]: ["Orquestra de Violões de Campo Grande - 10 Anos CD - 2006"](https://www.youtube.com/playlist?list=PLO-QEpiig_IgvQ6sJbe0vx4SE5NUONCxW), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 29 out. 2026.
+[^cd]: ["Orquestra de Violões de Campo Grande - 10 Anos CD - 2006"](https://www.youtube.com/playlist?list=PLO-QEpiig_IgvQ6sJbe0vx4SE5NUONCxW), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 4 nov. 2026.

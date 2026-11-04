@@ -9,7 +9,7 @@ ficha:
   Datas: 25 de agosto a 12 de setembro de 2026
   Realização: Sesc MS
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Mostra Palco Giratório Sesc MS** de 2026 foi a segunda edição da mostra no estado, com programação em Campo Grande.[^acritica]
@@ -28,4 +28,4 @@ Os espetáculos desse período foram:[^acritica]
 - *A Maçã*, de William Seven (SP), em 4 de setembro.[^acritica]
 - *Infinito*, da Márcio Fidelis Cia de Dança (BA), em 5 de setembro.[^acritica]
 
-[^acritica]: ["Palco Giratório reúne teatro e dança gratuitos em Campo Grande de 1º a 5 de setembro"](https://acritica.net/cultura/palco-giratorio-espetaculos-gratuitos-campo-grande-setembro/), *A Crítica de Campo Grande*, 27 ago. 2026. Acesso em 29 out. 2026.
+[^acritica]: Iury de Oliveira, ["Palco Giratório reúne teatro e dança gratuitos em Campo Grande de 1º a 5 de setembro"](https://acritica.net/cultura/palco-giratorio-espetaculos-gratuitos-campo-grande-setembro/), *A Crítica de Campo Grande*, 27 ago. 2026. Acesso em 29 out. 2026.

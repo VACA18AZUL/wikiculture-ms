@@ -8,7 +8,7 @@ ficha:
   Autor: Pedro Guilherme Garcia Góes
   Onde ver: Lago do Amor, Campo Grande
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **O Beijo** é uma escultura de [[pedro-guilherme-garcia-goes|Pedro Guilherme Garcia Góes]] instalada no Lago do Amor, em Campo Grande, descrita pelo *Campo Grande News* como símbolo do lago.[^cgn]
