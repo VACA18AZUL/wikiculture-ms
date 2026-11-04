@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-De 2015 a março de 2021, foi diretor-presidente da Fundação Estadual Jornalista Luiz Chagas de Rádio e TV Educativa, que comanda a TV Educativa de Mato Grosso do Sul. Foi exonerado por decreto publicado em 1º de março de 2021 e passou a assessor na Secretaria de Governo (Segov).[^cgn2021]
+Foi diretor-presidente da Fundação Estadual Jornalista Luiz Chagas de Rádio e TV Educativa e esteve no comando da TV Educativa de Mato Grosso do Sul de 2015 a março de 2021. Foi exonerado por decreto publicado em 1º de março de 2021 e passou a assessor na Secretaria de Governo (Segov).[^cgn2021]
 
 Em 4 de julho de 2024, lançou *Diálogos do Ócio* na 8ª [[feira-literaria-de-bonito-flib|Feira Literária de Bonito (Flib)]], no espaço Café com Letras. O lançamento teve exposição de trabalhos de alunos da Escola Municipal Manoel Inácio de Faria, feitos a partir da obra de Manoel de Barros e do livro. Um lançamento no Rio de Janeiro, na Livraria Travessa, foi anunciado para 16 de agosto.[^ce2024] O livro estava na lista de lançamentos divulgada pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] para aquela edição da Flib.[^fcms2024]
 

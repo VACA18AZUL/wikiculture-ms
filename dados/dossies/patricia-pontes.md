@@ -27,3 +27,19 @@
 ## Uso no verbete
 
 - Verbete não redigido: uma única frase de fonte, sem cidade nem identidade confirmada.
+
+## Fontes novas (agente d1-1, 2026-11-04, abertas e lidas)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| oe2022a | "Museu de Arte Contemporânea reabre atividades neste mês", *O Estado MS*, 15 mar. 2022 | https://oestadoonline.com.br/arte-e-lazer/219149/ | confirma o nome entre os expositores |
+| oe2022b | "Reformado, Museu de Arte Contemporânea reabre hoje com exposição", *O Estado MS*, 23 mar. 2022 | https://oestadoonline.com.br/manchete/reformado-museu-de-arte-contemporanea-reabre-hoje-com-exposicao/ | confirma Varais (fotografias) |
+| fcms-prog | Gisele Colombo, "Museu de Arte Contemporânea de MS reabre com a 1ª Temporada de Exposições 2022", FCMS, mar. 2022 | https://www.fundacaodecultura.ms.gov.br/museu-de-arte-contemporanea-de-ms-reabre-com-a-1a-temporada-de-exposicoes-2022/ | mesmo texto da CGN sobre Varais (não independente da CGN) |
+| fcms-noite | Karina Medeiros de Lima, "Noite de reabertura do MARCO foi de emoção com a 1ª Temporada de Exposições 2022", FCMS, 24 mar. 2022 | https://www.fundacaodecultura.ms.gov.br/noite-de-reabertura-do-marco-foi-de-emocao-com-a-1a-temporada-de-exposicoes-2022/ | sim |
+
+- fcms-noite: "A artista paulistana Patrícia Pontes"; Varais trata do vento nas roupas e da liberdade, com repetição e sobreposição de imagens em camadas de transparência; formação de artista visual; seguiu a carreira de professora de francês; faz fotos gastronômicas e de esporte; cita frase de Nietzsche usada na primeira exposição.
+- "Paulistana" é compatível com o release da Câmara (nascida e residente em São Paulo, Artes Visuais pela ECA/USP), mas nenhuma fonte liga as duas descrições explicitamente.
+
+## Decisão (d1-1)
+
+Única ligação com MS: a exposição Varais no MARCO (2022), já registrada no verbete [[marco]]. Fonte diz que é paulistana; nada indica residência ou atuação continuada em MS. Situação: incorporado-em:marco. Se o editor quiser verbete próprio, há material (fcms-noite + oe2022b + cgn2022) para um parágrafo.

@@ -26,6 +26,6 @@ Em outubro de 2025, *Histórias da Vovó Léla: Contos Pantaneiros* esteve entre
 - *Histórias da Vovó Léla – Contos Pantaneiros – Juvenil* (2023)[^correio2025][^oestado2025]
 - *Histórias da Vovó Léla – O Minhocão* (2025), ilustrações de Benes; Vida Produções.[^correio2025][^oestado2025]
 
-[^correio2025]: ["Cristiane Silva transforma lenda regional em novo livro infantojuvenil"](https://correiodoestado.com.br/correio-b/2025/05/14/cristiane-silva-transforma-lenda-regional-em-novo-livro-infantojuvenil.html), *Correio do Estado*, 14 maio 2025. Acesso em 4 nov. 2026.
+[^correio2025]: Da Redação, ["Cristiane Silva transforma lenda regional em novo livro infantojuvenil"](https://correiodoestado.com.br/correio-b/2025/05/14/cristiane-silva-transforma-lenda-regional-em-novo-livro-infantojuvenil.html), *Correio do Estado*, 14 maio 2025. Acesso em 4 nov. 2026.
 [^oestado2025]: ["Lenda 'O Minhocão', contada pela avó, inspira autora a criar obra infantojuvenil"](https://oestadoonline.com.br/arte-e-lazer/lenda-o-minhocao-contada-pela-avo-inspira-autora-a-criar-obra-infantojuvenil/), *O Estado MS*, 15 maio 2025. Acesso em 4 nov. 2026.
 [^fcms2025]: Fundação de Cultura de Mato Grosso do Sul, ["Entre contos pantaneiros e lendas urbanas, livros levam tradição e cultura sul-mato-grossense à Bienal Pantanal"](https://www.fundacaodecultura.ms.gov.br/entre-contos-pantaneiros-e-lendas-urbanas-livros-levam-tradicao-e-cultura-sul-mato-grossense-a-bienal-pantanal/), 11 out. 2025. Acesso em 4 nov. 2026.

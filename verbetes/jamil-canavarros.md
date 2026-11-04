@@ -14,11 +14,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em março de 2014, com os artistas Rudy, Helker Ernane, Vitor Hugo e Deiny Taego, pintou com grafite e pinturas os tapumes do antigo Grande Hotel, prédio da década de 1940 no centro de Corumbá, com o tema Corumbá. O grupo dividia o material e custeava parte do trabalho.[^dc2014]
+Em março de 2014, com os artistas Rudy, Helker Ernane, Vitor Hugo e Deiny Taego, fez grafites e pinturas nos tapumes do antigo Grande Hotel, prédio da década de 1940 no centro de Corumbá, com o tema Corumbá. O grupo dividia o material e custeava parte do trabalho.[^dc2014]
 
 Em maio de 2021, com o artista plástico Vitor Hugo Souza, concluiu um mural ao ar livre na rua Tiradentes em homenagem a [[izulina-xavier|Izulina Xavier]]. Segundo o *Diário Corumbaense*, os dois já haviam homenageado em mural o cururueiro [[agripino-soares-de-magalhaes|Agripino Magalhães]].[^dc2021]
 
-Foi um dos expositores da mostra coletiva *Espelho das Artes Plásticas*, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] (FCMS), aberta em dezembro de 2019 no Espaço Jorapimo do [[memorial-da-cultura|Memorial da Cultura e Cidadania Apolônio de Carvalho]], em Campo Grande, com obras de convidados e do acervo da fundação. Em 2021, a FCMS o citou entre os 15 artistas premiados coletivamente no projeto Espelho das Artes Plásticas, que mapeou artistas de oito polos do estado.[^fcms2019][^fcms2021]
+Foi um dos expositores da mostra coletiva *Espelho das Artes Plásticas*, aberta pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] (FCMS) em dezembro de 2019 no Espaço Jorapimo do [[memorial-da-cultura|Memorial da Cultura e Cidadania Apolônio de Carvalho]], em Campo Grande. A mostra retomava o projeto de mesmo nome realizado em 2007 e 2008, que mapeou artistas de oito polos do estado e formou parte do acervo da fundação, e reunia obras desse acervo e de artistas convidados.[^fcms2019][^fcms2021]
 
 Em coluna de 2023 no *Correio de Corumbá*, Rosildo Barcellos o cita, ao lado de [[benedito-c-g-lima|Benedito C. G. Lima]] e outros, entre os criadores do projeto [[passa-na-praca-que-a-arte-te-abraca|Passa na Praça que a Arte te Abraça]].[^barcellos2023]
 

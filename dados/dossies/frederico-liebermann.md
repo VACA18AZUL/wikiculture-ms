@@ -41,3 +41,19 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Sem verbete: fonte única de segunda mão (Gonçalves citando A música de MS: histórias de vida, 2012, p. 58). Para redigir, abrir o livro de 2012 ou outra fonte.
+
+## Segunda fonte (d1-2, 2026-11-04)
+
+| id da nota | Referência completa | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| oe2026a | "Fragmentos da memória: Conservatórios de música", coluna, O Estado MS, 14/06/2026 | https://oestadoonline.com.br/arte-e-lazer/fragmentos-da-memoria-conservatorios-de-musica/ | imprensa (coluna) | sim |
+| oe2026b | "Três orquestras em três tempos em Campo Grande", coluna, O Estado MS, 16/08/2026 | https://oestadoonline.com.br/arte-e-lazer/tres-orquestras-em-tres-tempos-em-campo-grande/ | imprensa (coluna, cita site do IHGMS) | sim |
+
+- oe2026a: nascido em 1904 na Argentina; violinista e maestro de companhia de ópera; teria chegado no fim dos anos 1930; escola em casa (violino, teoria, harmonia, piano; "durante mais de 60 anos", número incoerente com as datas, não usado); morreu em 1974; dá nome a escola.
+- oe2026b: grafia "Federico"; pioneiro com Emídio Campos Vidal (segundo site do IHGMS); estabeleceu-se em 1939; primeiro regente da Orquestra Sinfônica de Campo Grande, estreia oficial em 1950 no Cine Alhambra; formação menor desde o ano anterior na Rádio Difusora PRI-7.
+- Divergência de chegada: anos 1940 (Gonçalves) × fim dos anos 1930 (oe2026a) × 1939 (oe2026b, IHGMS). Registrada no verbete.
+- Busca: API O Estado (ok), busca CGN (só notícias da escola homônima).
+
+## Uso no verbete (d1-2)
+
+- Verbete redigido em rascunho com gon21 (p. 21), oe2026a e oe2026b. Ficou de fora "mais de 60 anos" de aulas (incoerente) e o ano de nascimento como cálculo (entra só porque oe2026a o afirma).
