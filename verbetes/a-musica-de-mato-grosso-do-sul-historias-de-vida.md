@@ -24,7 +24,7 @@ Na parte sobre a música na mídia, os entrevistados são [[ciro-de-oliveira|Cir
 
 ## Uso como fonte
 
-A dissertação de Caetano, de 2012, cita entrevistas do livro com Geraldo Espíndola (p. 51), Paulo Simões (p. 32-33), Almir Sater (p. 99), Alzira Espíndola (p. 145) e Rodrigo Teixeira (p. 201-204).[^caeufgd] Gonçalves também o usa, citando trechos atribuídos a Tetê Espíndola e a Almir Sater.[^gon]
+A dissertação de Caetano, de 2012, cita entrevistas do livro com Geraldo Espíndola (p. 51), Paulo Simões (p. 32-33), Almir Sater (p. 99), Alzira Espíndola (p. 145) e Rodrigo Teixeira (p. 201-204).[^caeufgd] Gonçalves também o usa, citando trechos de entrevistas atribuídos, entre outros, a Tetê Espíndola, Almir Sater e Geraldo Espíndola.[^gon]
 
 [^silus]: Alan Silus, ["Pelos caminhos da música sul-mato-grossense: um estudo bibliográfico"](https://trilhasdahistoria.ufms.br/index.php/RevTH/article/view/19958/14805), *Revista Trilhas da História* (UFMS), v. 13, n. 27, 2024, p. 334-335. Acesso em 4 nov. 2026.
 [^gon]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, cap. 1 e referências. Acesso em 4 nov. 2026.

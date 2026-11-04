@@ -19,14 +19,14 @@ Em agosto de 2023, foi um dos quatro artistas de Campo Grande no Circuito Plataf
 
 Na [[cia-dancurbana|Cia. Dançurbana]], é intérprete-criador de [[cavucada-a-festa-nao-sera-amanha|*Cavucada – a festa não será amanhã*]], estreado em 2023. Nos créditos da apresentação na MITsp, em 2026, também assina a trilha e a edição de som.[^cgn2023a][^mitsp2026] Em 2023, fez a criação audiovisual e a trilha de *Talvez seja isso*, solo de Jackeline Mourão, e a trilha remix e a projeção de *Dançar as fúrias*, solo de Ralfer Campagna, no projeto Singulares – Solos de Dança, da companhia.[^cgn2023singulares]
 
-Em 2025, assinou a direção técnica de *Sintonizar ao momento del cambio*, espetáculo de Jackeline Mourão apresentado em Buenos Aires.[^cgn2025baires]
+Em 2025, assinou a direção técnica de *Sintonizar ao momento del cambio*, espetáculo de Jackeline Mourão com apresentação anunciada em Buenos Aires.[^cgn2025baires]
 
 ## Espetáculos
 
-- [[procedimento-6|*Procedimento #6*]] — criação e cena com Jackeline Mourão, com recortes de vídeo, sonoplastia, samples e videomapping; apresentado na [[casa-de-ensaio|Casa de Ensaio]] em 5 de agosto de 2023.[^cgn2023circuito] Esteve no Palco Giratório do Sesc em 2024, com sessão em São Luís (MA) em 22 de setembro, e na [[semana-pra-danca|Semana pra Dança]] em 3 de outubro de 2024.[^imparcial2024][^cgn2024] Em 2025, circulou por quatro cidades de MS no projeto Lugares para Existir; em Campo Grande, a sessão foi em 12 de setembro, no Sesc Teatro Prosa.[^correio2025]
+- [[procedimento-6|*Procedimento #6*]] — criação e cena com Jackeline Mourão, com recortes de vídeo, sonoplastia, samples e videomapping; programado para a [[casa-de-ensaio|Casa de Ensaio]] em 5 de agosto de 2023.[^cgn2023circuito] Esteve no Palco Giratório do Sesc em 2024, com sessão programada em São Luís (MA) para 22 de setembro, e na programação da [[semana-pra-danca|Semana pra Dança]], com sessão marcada para 3 de outubro de 2024.[^imparcial2024][^cgn2024] Em 2025, o projeto Lugares para Existir previa sessões em quatro cidades de MS (Dourados, São Gabriel do Oeste, Campo Grande e Três Lagoas); em Campo Grande, a sessão foi anunciada para 12 de setembro, no Sesc Teatro Prosa.[^correio2025]
 - [[cavucada-a-festa-nao-sera-amanha|*Cavucada – a festa não será amanhã*]] (2023) — intérprete-criador; trilha e edição de som nos créditos de 2026; Cia. Dançurbana.[^cgn2023a][^mitsp2026]
-- [[talvez-seja-isso|*Talvez seja isso*]] — criação audiovisual e trilha sonora; apresentado em 9 de setembro de 2023.[^cgn2023singulares]
-- *Dançar as fúrias* — trilha remix e projeção; solo de Ralfer Campagna apresentado em 9 de setembro de 2023.[^cgn2023singulares]
+- [[talvez-seja-isso|*Talvez seja isso*]] — criação audiovisual e trilha sonora; programado para 9 de setembro de 2023.[^cgn2023singulares]
+- *Dançar as fúrias* — trilha remix e projeção; solo de Ralfer Campagna programado para 9 de setembro de 2023.[^cgn2023singulares]
 - *Sintonizar ao momento del cambio* (2025) — direção técnica.[^cgn2025baires]
 
 [^correio2025]: Redação, ["'Procedimento#6' nesta sexta-feira no Sesc Prosa"](https://correiodoestado.com.br/correio-b/procedimento6-nesta-sexta-feira-no-sesc-prosa/454193/), *Correio do Estado*, 11 set. 2025. Acesso em 4 nov. 2026.

@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em outubro de 2017, o Ateliê Ramona Rodrigues promoveu a 5ª Mostra de Teatro Infantil de MS, com recursos do Fundo de Investimentos Culturais (FIC). Foi a primeira edição com apresentações em bairros da periferia de Campo Grande,. A programação teve seminário, oficinas, uma delas com o ator [[breno-moroni|Breno Moroni]], e peças como *João e o Pé de Feijão na Terra do Nunca*, do [[circo-do-mato|Circo do Mato]], e *Dandys Acrobático*, da [[cia-theastai|Cia. Theastai]], de Dourados. Segundo Ramona, a mostra também recolhia brinquedos para doação nos bairros.[^cgn2017]
+Em outubro de 2017, o Ateliê Ramona Rodrigues promoveu a 5ª Mostra de Teatro Infantil de MS, com recursos do Fundo de Investimentos Culturais (FIC). Foi a primeira edição com apresentações em bairros da periferia de Campo Grande. A programação teve seminário, oficinas, uma delas com o ator [[breno-moroni|Breno Moroni]], e peças como *João e o Pé de Feijão na Terra do Nunca*, do [[circo-do-mato|Circo do Mato]], e *Dandys Acrobático*, da [[cia-theastai|Cia. Theastai]], de Dourados. Segundo Ramona, a mostra também recolhia brinquedos para doação nos bairros.[^cgn2017]
 
 Em março de 2022, ela deu uma oficina de criação, confecção e manipulação de bonecos no distrito de Rochedinho, dentro da [[semana-do-teatro-e-circo-2022|1ª Semana do Teatro e Circo]].[^cgn2022a] Em novembro do mesmo ano, o ateliê recebeu uma apresentação da [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teatro de Bonecos]].[^cgn2022b]
 

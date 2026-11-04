@@ -23,3 +23,20 @@ Fontes que não serviram:
 Ficaram fora: nomes e idades de alunos menores citados na matéria de 2012; endereço exato da sede.
 
 As três fontes são do mesmo veículo (Campo Grande News), de autores e anos diferentes. Falta fonte de outro veículo ou acadêmica.
+
+## Atualização de 2026-11-04 (reforço, tag r-2)
+
+### Fontes novas abertas e lidas
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| oe2024 | O Estado Online, "Casa de Ensaio completa 28 anos...", 25 maio 2024 | https://oestadoonline.com.br/arte-e-lazer/casa-de-ensaio-completa-28-anos-e-ja-atendeu-mais-de-15-mil-criancas-e-adolescentes-transformando-vidas-atraves-da-arte/ | imprensa (veículo diferente do Campo Grande News) | sim |
+| site | Casa de Ensaio, "Quem Somos" (site oficial) | https://www.casadeensaio.org.br/quemsomos | site da entidade | sim (como fonte institucional; link na ficha) |
+
+### O que sustentam
+
+- Criação em 1996 por Laís Dória e Artur Monteiro de Barros (site grafa Arthur); OSCIP / organização social sem fins lucrativos; sede em funcionamento desde 2012 (confirma a nova sede de dez. 2012 do CGN); 18 peças, cerca de 5 mil alunos, 50 mil espectadores, mais de 15 mil atendidos, cerca de 70 alunos/ano de 54 bairros e ~50 escolas; Marcos Mattos como coordenador geral e articulador da parceria com a Dançurbana (a matéria escreve "Dançaurbana"). Confirma 1996 e a fundadora com veículo independente do Campo Grande News.
+- A matéria de 2024 tem depoimentos de ex-aluna e de Marcos Mattos; fora do verbete o relato pessoal da ex-aluna.
+- Faixa etária: CGN 2014 diz 8 a 17 anos; O Estado e site não dão faixa. Sem divergência a registrar.
+- Pistas não abertas: Midiamax 2011 (15 anos, espetáculo "Mestre Tereré no Pantanal"; curl devolveu página vazia) e Portal do Bicentenário (resumo de Marcos Pavão Schinelo). O Econodata dá CNPJ de 2002: não é fonte de fundação.
+- Novo nome para a lista: Artur Monteiro de Barros (cofundador) — ver proposta nomes-r-2.csv.

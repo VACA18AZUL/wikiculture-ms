@@ -21,3 +21,8 @@
 - Conferido o verbete irene-marques-alexandria: usa a mesma fonte.
 - Conferidas as outras fontes abertas nesta rodada (Enedino, Mathias, Amarilha, folheto Boca de Cena 2017): sem menção ao grupo.
 - Cota de buscas na web esgotada antes da busca aberta. Pendente: o próprio capítulo "Teatro", de Maria da Glória Sá Rosa, em *Memória da arte em Mato Grosso do Sul* (UFMS, 1992), que traz relato de Irene Alexandria; Jornal do Povo de Três Lagoas; prefeitura de Três Lagoas.
+
+## Atualização de 2026-11-04 (reforço r-4)
+
+- Uma busca aberta ("Patota Infantil" teatro de bonecos Três Lagoas Irene Alexandria): nenhum resultado cita o grupo. Segue fonte única, de segunda mão; "reforcar".
+- Retirada do verbete a frase "A fonte não informa repertório nem o período de atividade" (regra da onda; informação fica aqui). Pistas: livro *Memória da arte em Mato Grosso do Sul* (Sá Rosa, UFMS, 1992); Jornal do Povo; Prefeitura de Três Lagoas; Fundação de Cultura.

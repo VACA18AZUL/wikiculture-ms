@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Teatro Municipal de Dourados** é um teatro localizado no Parque dos Ipês, em Dourados, inaugurado em 1998.[^cgn2026]
+O **Teatro Municipal de Dourados** é um teatro localizado no Parque dos Ipês, em Dourados, inaugurado em 1998.[^cgn2026][^acr]
 
 ## Programação
 
@@ -23,5 +23,10 @@ Segundo o Campo Grande News, o teatro está fechado desde 2020 por problemas est
 
 O investimento noticiado é de quase R$ 9,3 milhões, com recursos de governo federal, Estado, município, bancada federal e financiamento do Fonplata, no Programa Desenvolve Dourados. O projeto prevê melhorias de cenografia, iluminação e climatização, troca das instalações elétricas e hidráulicas, adequação de acessibilidade, novas poltronas e paisagismo do entorno.[^cgn2026]
 
+Em julho de 2026, *A Crítica de Campo Grande* noticiou que o prefeito acompanhou testes dos novos sistemas de som e iluminação e que a Prefeitura tratava a obra como a maior transformação do teatro desde a inauguração, em 1998. A matéria cita troca de piso, telhado, rede elétrica e climatização, e entrega prevista para dezembro de 2026.[^acr]
+
+As duas reportagens divergem em alguns pontos. O *Campo Grande News* data o início da reforma em 27 de janeiro de 2026, com investimento de quase R$ 9,3 milhões e conclusão em cerca de dez meses.[^cgn2026] *A Crítica*, citando a Prefeitura, diz que a revitalização começou em fevereiro e que o investimento é de R$ 9,2 milhões, com recursos de financiamento e emenda parlamentar.[^acr]
+
 [^cgn2026]: José Cândido, ["Teatro de Dourados passa por reforma completa após anos fechado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/teatro-de-dourados-passa-por-reforma-completa-apos-anos-fechado), *Campo Grande News*, 17 mar. 2026. Acesso em 4 nov. 2026.
 [^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 80-81. Acesso em 4 nov. 2026.
+[^acr]: Redação, ["Teatro Municipal de Dourados entra na reta final de reforma e ganha estrutura mais moderna"](https://acritica.net/cidades/teatro-municipal-dourados-reta-final-reforma/), *A Crítica de Campo Grande*, 15 jul. 2026. Acesso em 4 nov. 2026.

@@ -24,6 +24,6 @@ A matéria descreve LidyLo como artista e estilista, conhecida pelo trabalho lig
 
 ## Observação
 
-O verbete se baseia na matéria publicada antes do evento. [^acritica]
+O verbete se baseia na matéria publicada antes do evento.[^acritica]
 
 [^acritica]: ["Evento reúne seis bandas em Campo Grande para ajudar no tratamento de LidyLo"](https://acritica.net/cultura/balada-amor-lidylo-bandas-campo-grande-evento-solidario/), *A Crítica de Campo Grande*, 2 out. 2026. Acesso em 4 nov. 2026.

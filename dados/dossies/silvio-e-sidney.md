@@ -17,3 +17,8 @@ Faixas (lado, título, autores, gênero, como nos títulos dos vídeos): A1 Em A
 Fica fora: a relação de parentesco entre os integrantes (vida familiar).
 
 Segunda fonte: não buscada (limite de buscas da sessão esgotado). Sugestões: Campo Grande News, O Progresso (Dourados), canal Raíz Sertaneja Oficial (de onde veio o LP).
+
+## Atualização de 2026-11-04 (reforço r-4)
+
+- Uma busca aberta ("Silvio e Sidney" Dourados + título do LP): nenhum resultado sobre a dupla em outro veículo (só homônimos e outra gravação com o mesmo título, sem relação). Segue fonte única (descrição do acervo); situação "reforcar".
+- Ajuste de redação: retirados do verbete a seção "Lacunas" e a frase sobre o que as fontes não trazem. Dossiê: a descrição do LP não traz sobrenomes, datas de formação ou fim da dupla, nem local de gravação; o trabalho de 1985 não tem título ou faixas citados.

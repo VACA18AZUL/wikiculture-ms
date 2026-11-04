@@ -25,7 +25,7 @@ Em 2016, foi apresentada como bailarina, coreógrafa e produtora em reunião sob
 ## Espetáculos
 
 - [[desenho-do-tempo|*Desenho do Tempo*]] (2022) — intérprete, com Marcos Mattos; direção de Esther Weitzman. Vencedor do 1º Prêmio Ipê de Dança (2021) com o nome provisório *Inventário*.[^cgn2022][^pmcg2022]
-- [[talvez-seja-isso|*Talvez seja isso*]] — direção e coreografia do solo de [[jackeline-mourao|Jackeline Mourão]]; apresentado em 9 de setembro de 2023 no projeto Singulares – Solos de Dança, da Dançurbana.[^cgn2023singulares]
+- [[talvez-seja-isso|*Talvez seja isso*]] — direção e coreografia do solo de [[jackeline-mourao|Jackeline Mourão]]; programado para 9 de setembro de 2023 no projeto Singulares – Solos de Dança, da Dançurbana.[^cgn2023singulares]
 - [[porace-o-outro-de-nos|*Poracê – O outro de nós*]] (2023) — direção e coreografia, com Marcos Mattos e Franciella Cavalheri; Cia. Dançurbana.[^cgn2023porace]
 - [[cavucada-a-festa-nao-sera-amanha|*Cavucada – a festa não será amanhã*]] (2023) — intérprete-criadora; Cia. Dançurbana. Também está nos créditos da apresentação na MITsp, em 2026.[^cgn2023a][^mitsp2026]
 
