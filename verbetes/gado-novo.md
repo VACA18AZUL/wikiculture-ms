@@ -6,7 +6,7 @@ cidade: Costa Rica
 resumo: Curta-metragem de doc-ficção de Beto Brant, filmado em Costa Rica (MS) e protagonizado por Tero Queiroz; estreou no 34º Curta Kinoforum, em São Paulo, em 2023.
 ficha:
   Autor: "Beto Brant (direção)"
-  Ano: "2023"
+  Estreia: "2023, 34º Curta Kinoforum (São Paulo)"
   Formato: "Curta-metragem, doc-ficção"
 status: rascunho
 atualizado: 2026-11-04

@@ -3,7 +3,7 @@ titulo: Kipaé'xoti e Siputerêna (danças terena)
 tipo: obra
 areas: [danca]
 cidade: Aquidauana
-resumo: Danças do povo Terena apresentadas na aldeia Ipegue, em Aquidauana: a Kipaé'xoti, ou dança da ema, dos homens, e a Siputerêna, das mulheres. São ensinadas na escola da aldeia e apresentadas nas festas da comunidade.
+resumo: Danças do povo Terena apresentadas na aldeia Ipegue, em Aquidauana. A Kipaé'xoti, ou dança da ema, é dos homens e a Siputerêna, das mulheres. São ensinadas na escola da aldeia e apresentadas nas festas da comunidade.
 ficha:
   Origem: "Povo Terena"
   Local: "Aldeia Ipegue, Aquidauana"
@@ -19,7 +19,7 @@ O artigo registra duas explicações para a origem da dança. Segundo um relato,
 
 A dança é feita em pares, em duas filas chefiadas por dois caciques, uma do lado azul e outra do lado vermelho. Começa com passos lentos, que se aceleram com o bombo (*pepêke*) e o pife. Os dançarinos batem lanças de taquara, formam rodas, trocam de par e simulam a perseguição ao inimigo com arco e flecha. No final, os caciques sobem nas lanças cruzadas e são erguidos pelos demais, o que marca a vitória. Segundo os anciãos, o azul representa os pajés e o vermelho, os guerreiros.[^tellus]
 
-As saias e os cocares são feitos de penas de ema e de outras aves, de buriti ou de fibra de bacuri. O artigo registra que penas de ema estão cada vez mais difíceis de achar e que parte dos jovens deixou de dançar.[^tellus]
+As saias e os cocares são feitos de penas de ema e de outras aves, de buriti ou de fibra de bacuri. O artigo registra que penas de ema estão cada vez mais difíceis de achar e que alguns jovens e crianças da aldeia mostram desinteresse em dançar.[^tellus]
 
 ## Siputerêna, a dança das mulheres
 
