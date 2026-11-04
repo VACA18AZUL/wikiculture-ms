@@ -25,7 +25,7 @@ Câmeras espalhadas pelo palco captam detalhes da cena. Projeções trazem rosto
 
 A estreia teve sessões gratuitas de 2 a 6 de fevereiro de 2026, às 20h, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande.[^cgn2026][^dd2026][^pp2026]
 
-## Ficha técnica
+## Equipe
 
 - Criação, dramaturgia, direção, atuação e direção de arte: [[ligia-prieto|Lígia Tristão Prieto]][^dd2026]
 - Produção geral: [[grupo-casa|Grupo Casa]][^dd2026]

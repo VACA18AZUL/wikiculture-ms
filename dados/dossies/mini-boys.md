@@ -32,7 +32,7 @@ Descartada: Midiamax 13 jul. 2022 ("época dourada" do rock) — bloqueio Cloudf
 
 ## Divergências
 
-- Grafia do sobrenome de Miguelito: Barreira [cgn2016b]; Barrera [cgn2012].
+- Grafia do sobrenome de Miguelito: Barreira [cgn2016b]; Barrera [cgn2012][cgn2018][fcms2021].
 
 ## Ligações
 

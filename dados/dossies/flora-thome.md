@@ -69,3 +69,13 @@ Fontes descartadas e o motivo:
 
 - Estado de saúde, internação e menção ao irmão ficaram fora (dados pessoais).
 - O nome do orientador ficou fora do verbete por grafia incerta na fonte.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: José Antonio de Souza, *Literatura e identidade cultural em MS: algumas fronteiras e a (des)identificação com o Pantanal*, tese, Letras, UEL, 2008 (https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download). Nota `souza2008`. Numeração impressa = página do PDF menos 2. Lidas as p. 10-12 e 84-98, além das referências.
+
+- Acrescentado: graduada em Letras pela UFMS; 43 anos de magistério (p. 84). Divergência com as matérias do RCN67 (42 anos): as duas versões ficaram no verbete.
+- Acrescentado: *Cirros* teve primeira edição em 1960 (p. 12), quando ela tinha 30 anos, e segunda edição em 1980, com prefácio de Rosário Congro; foi o único livro reeditado; orelha com nota do *Diário de São Paulo* e bilhete de Cecília Meireles (p. 84-85). As referências dão "Cirros. 2 ed. Três Lagoas: Produção Independente, 1980" e produção independente para os demais livros. Isso explica o ano de 1980 da matéria de 2025 (RCN67): a lista de obras agora traz as duas datas.
+- Acrescentado: capítulo IV da tese sobre a poesia dela (natureza, haicai, verso curto, concisão, metalinguagem).
+- Confirmados por Souza: nascida e residente em Três Lagoas, cadeira 33 da ASL (p. 84); *Cantos e recantos* (1987), *Retratos* (1993), *Haicais* (1999), *Nas águas do tempo* (2002) (p. 12).
+- Sugestão para a lista-mestra (observacoes): *Cirros* 1960 (1ª ed.) e 1980 (2ª ed.); 42 x 43 anos de magistério.

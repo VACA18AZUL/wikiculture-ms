@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-O músico [[jose-charbel-filho|José Charbel Filho]], o Zezinho, começou a carreira nos anos 1960 no grupo.[^cgn2016a][^cgn2016c] O Mini Boys foi também a primeira banda de [[miguelito|Miguelito]] (Jaime Miguel Barreira), que tocou nele boa parte da adolescência, em apresentações pelas ruas de Campo Grande ainda antes da divisão do estado. Uma foto de acervo pessoal publicada pelo *Campo Grande News* mostra a formação original tocando num carro aberto na Rua 14 de Julho.[^cgn2018][^fcms2021]
+O músico [[jose-charbel-filho|José Charbel Filho]], o Zezinho, começou a carreira nos anos 1960 no grupo.[^cgn2016a][^cgn2016c] O Mini Boys foi também a primeira banda de [[miguelito|Miguelito]] (Jaime Miguel Barrera, sobrenome grafado Barreira numa reportagem de 2016[^cgn2016b]), que tocou nele boa parte da adolescência, em apresentações pelas ruas de Campo Grande ainda antes da divisão do estado. Uma foto de acervo pessoal publicada pelo *Campo Grande News* mostra a formação original tocando num carro aberto na Rua 14 de Julho.[^cgn2018][^fcms2021]
 
 Em 1972, quando Chacrinha (Abelardo Barbosa) apresentou seu show de calouros no ginásio Lúcia Martins Coelho, em Campo Grande, numa programação da Semana da Aviação da Base Aérea, o Mini Boys fez a abertura e acompanhou os calouros, ao lado do tecladista e maestro de Chacrinha. A banda tocou na seleção prévia dos candidatos, no show e no jantar oferecido ao apresentador. Segundo Miguelito, então baterista, com 18 anos, a formação tinha Zezinho Charbel na percussão, Lucio Val no baixo e "Fala Baixo" na guitarra. Uma foto de [[roberto-higa|Roberto Higa]] registra a apresentação.[^cgn2016b]
 
