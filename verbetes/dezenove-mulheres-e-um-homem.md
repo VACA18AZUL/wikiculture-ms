@@ -20,9 +20,9 @@ atualizado: 2026-11-04
 
 ## Produção
 
-Segundo Alexandre Aldo Neves, a ideia surgiu numa viagem de Cardoso de ônibus leito entre São Paulo e Campo Grande, que ele contou a Ody Fraga. Fraga desenvolveu a trama com sequências aéreas, perseguições e tiroteios. O filme foi feito quase todo em locações em Mato Grosso do Sul, em Miranda, Campo Grande e Maracaju, durante dois meses, com equipe de 50 pessoas.[^neves]
+Alexandre Aldo Neves reproduz o relato de Cardoso, publicado na biografia escrita por Henrique Alberto de Medeiros Filho (2006): a ideia surgiu numa viagem de ônibus leito entre São Paulo e Campo Grande, e Cardoso a contou a Ody Fraga. Segundo Neves, Fraga desenvolveu a trama com sequências aéreas, perseguições e tiroteios. O filme foi feito quase todo em locações em Mato Grosso do Sul, em Miranda, Campo Grande e Maracaju, durante dois meses, com equipe de 50 pessoas.[^neves]
 
-A Cinemateca registra a produção pela Dacar Produções Cinematográficas, empresa de Cardoso, com argumento dele e roteiro e adaptação de Ody Fraga, que também foi assistente de direção. O filme tem 88 minutos, em cor.[^cinemateca]
+A Cinemateca registra a produção pela Dacar Produções Cinematográficas, com Cardoso como produtor e autor do argumento e roteiro e adaptação de Ody Fraga, que também foi assistente de direção. O filme tem 88 minutos, em cor, e foi distribuído pela Seleção Ouro.[^cinemateca] Neves registra que a Dacar foi fundada por Cardoso em 1974.[^neves]
 
 ## Enredo
 
@@ -30,7 +30,7 @@ Dezoito universitárias de São Paulo e uma professora alugam um ônibus para um
 
 ## Lançamento e público
 
-A Cinemateca registra o lançamento em Presidente Prudente (SP), em 12 de maio de 1977, e a exibição em São Paulo a partir de 13 de junho de 1977.[^cinemateca] Neves diz que a produção custou cerca de 1 milhão de dólares e teve mais de 2 milhões de espectadores no país, e o aponta como um dos maiores sucessos de público de Cardoso.[^neves]
+A Cinemateca registra o lançamento em Presidente Prudente (SP), em 12 de maio de 1977, e a exibição em São Paulo a partir de 13 de junho de 1977.[^cinemateca] Neves diz, sem indicar a fonte dos números, que a produção custou cerca de 1 milhão de dólares e teve mais de 2 milhões de espectadores no país, e o aponta como um dos maiores sucessos de público de Cardoso.[^neves]
 
 ## Ficha técnica
 
@@ -43,5 +43,5 @@ A Cinemateca registra o lançamento em Presidente Prudente (SP), em 12 de maio d
 - Música: Ronaldo Lark e Gabino Corrêa[^cinemateca]
 - Elenco: [[david-cardoso|David Cardoso]] (Rubens), Helena Ramos, Aldine Muller, Ozualdo Candeias e outros[^cinemateca]
 
-[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 45-46. Acesso em 4 nov. 2026.
+[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 42 e 45-46. Acesso em 4 nov. 2026.
 [^cinemateca]: Cinemateca Brasileira, ["19 Mulheres e 1 Homem"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=ID=024871&format=detailed.pft), base Filmografia Brasileira, registro 024871. Acesso em 4 nov. 2026.

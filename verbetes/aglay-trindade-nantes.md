@@ -15,13 +15,13 @@ atualizado: 2026-11-04
 
 ## Obra
 
-Em 1993, lançou com recursos próprios o livro *Morro Azul: estórias pantaneiras*, sobre a fuga de moradores da região para o Morro Azul durante a Guerra do Paraguai (1864-1870). O livro foi reeditado em 2010 pelo [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]].[^lima2023] Melly Sena, gerente de Patrimônio Histórico e Cultural da Fundação de Cultura de Mato Grosso do Sul, disse em 2024 que esse é o único livro publicado da autora.[^fcms2024]
+Em 1993, lançou com recursos próprios o livro *Morro Azul: estórias pantaneiras*, sobre a fuga de moradores da região para o Morro Azul durante a Guerra do Paraguai (1864-1870). O livro foi reeditado em 2010 pelo [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]].[^lima2023] Melly Sena, gerente de Patrimônio Histórico e Cultural da Fundação de Cultura de Mato Grosso do Sul, disse em 2024 que esse é o único livro publicado da autora, que ela citou como *Morro Azul: Histórias Pantaneiras*.[^fcms2024]
 
-Grazielli Alves de Lima inclui Aglay Trindade Nantes entre os escritores que tratam da cultura sul-mato-grossense, ao lado de [[manoel-de-barros|Manoel de Barros]], [[helio-serejo|Hélio Serejo]] e [[raquel-naveira|Raquel Naveira]].[^glima2012] Bruno Rafael Almeida da Silva cita *Morro Azul* como exemplo de obra que a crítica do estado chama de regional por ter referências de um lugar de onde a autora é natural.[^silva2022]
+Grazielli Alves de Lima inclui Aglay Trindade Nantes entre os escritores de destaque da terra pantaneira, ao lado de [[manoel-de-barros|Manoel de Barros]], [[helio-serejo|Hélio Serejo]], Brígido Ibanhes, Flora Thomé e [[raquel-naveira|Raquel Naveira]].[^glima2012] Em nota baseada em Maria da Glória Sá Rosa (2011), Bruno Rafael Almeida da Silva cita *Morro Azul* como exemplo de obra que parte da crítica do estado chama de regional por trazer referências de um lugar de onde a autora é natural.[^silva2022]
 
 ## Homenagens
 
-Foi uma das homenageadas da 8ª [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] (Flib), em julho de 2024, com Hélio Serejo e Graciliano Ramos.[^oestado2024a][^oestado2024b] Na programação, a roda de conversa "Literatura – Travessias e Fronteiras: Hélio Serejo e Aglay Trindade" reuniu Lora Bertolucci e Melly Sena.[^fcms2024] O projeto Leituras & Conversas, da Academia Sul-Mato-Grossense de Letras, programou para novembro de 2026 um encontro sobre a autora.[^acritica2026]
+Foi uma das homenageadas da 8ª [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] (Flib), em julho de 2024, com Hélio Serejo e Graciliano Ramos.[^oestado2024a][^oestado2024b] Na programação, a roda de conversa "Literatura – Travessias e Fronteiras: Hélio Serejo e Aglay Trindade" reuniu Lora Bertolucci e Melly Sena.[^fcms2024] Em março de 2026, a Academia Sul-Mato-Grossense de Letras anunciou para novembro daquele ano um encontro sobre a autora no projeto Leituras & Conversas.[^acritica2026]
 
 ## Obras
 
