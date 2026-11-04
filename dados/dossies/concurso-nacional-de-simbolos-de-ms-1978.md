@@ -51,3 +51,9 @@ Observação: as matérias de A Crítica reproduzem em boa parte as falas divulg
 ## Uso no verbete
 
 - Douglas Alves da Silva entra só como codiretor do documentário e fonte das falas; marcado fora-do-escopo como verbete próprio.
+
+## Revisão de 2026-11-04
+
+- Wikipédia (Hino de Mato Grosso do Sul) diz que o hino 'foi escolhido por concurso'; FCMS e A Crítica dizem que nenhum dos hinos do concurso foi escolhido e que o hino foi encomendado a Radamés Gnattali. Divergência registrada; Wikipédia não é nota.
+- Autores das matérias de A Crítica acrescentados às notas (Pietro Bitencourt; Ricardo Eugênio); título de acritica2026c corrigido para o da página.
+- FCMS 16/10 já traz a data de 23/10 no texto (provavelmente atualizado); A Crítica 16/10 traz 21/10.

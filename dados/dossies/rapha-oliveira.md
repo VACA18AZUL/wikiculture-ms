@@ -26,3 +26,8 @@ cgn2025 lista um professor "Rapha Oliveira" na Adote – Cia Teatral Ator Doming
 
 | eduardo-e-monica-peca | criou | g12026 | sim | sim |
 | pontao-de-cultura-guaicuru | formou-se-com | g12026 | sim | sim |
+
+## Revisão de 2026-11-04
+
+- *A Fabulosa Homenagem aos Grandes Ícones da Música Brasileira, ou Quase Isso*: o g1 diz que Eduardo e Mônica surgiu desse espetáculo, mas não diz que ele é de Rapha Oliveira. Item retirado da lista de Espetáculos até haver fonte de autoria.
+- Busca por segunda fonte (Google Notícias, "Rapha Oliveira" teatro): só as matérias já usadas e a da Adote Cia (cgn2025), que não liga o professor homônimo a ele. Trajetória depende do g1.

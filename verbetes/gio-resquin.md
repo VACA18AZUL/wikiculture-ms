@@ -3,7 +3,7 @@ titulo: Gio Resquin
 tipo: pessoa
 areas: [musica]
 cidade: Ponta Porã
-resumo: Cantora e compositora nascida em Ponta Porã e radicada em Campo Grande, conhecida como "A Brasiguaia". Mistura reggaeton, kachaka, cumbia e ritmos paraguaios, com letras em português e espanhol.
+resumo: Cantora e compositora natural de Ponta Porã, na fronteira com o Paraguai, e radicada em Campo Grande, conhecida como "A Brasiguaia". Mistura reggaeton, kachaka, cumbia e ritmos paraguaios, com letras em português e espanhol.
 ficha:
   Atividade: "canto, composição"
 status: rascunho
@@ -14,13 +14,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou a cantar aos sete anos, na igreja. Aos 13 publicava covers no YouTube e, aos 17, ainda na fronteira, tocava em bares. Viveu na fronteira até os 17 anos e depois se mudou para Campo Grande.[^cgn2024]
+Canta desde os sete anos, idade em que começou na igreja. Aos 13 publicava covers no YouTube e, aos 17, ainda na fronteira, tocava em bares. Viveu na fronteira até os 17 anos e depois se mudou para Campo Grande.[^cgn2024]
 
-Com recursos de uma vaquinha online, gravou o primeiro EP autoral, com as músicas "O Mundo é Meu Lar", "Pronta pra Voar" e "Calma". "Calma" foi finalista do [[festival-universitario-da-cancao|Festival Universitário da Canção]].[^cgn2024]
+Com recursos de uma vaquinha online, gravou o primeiro EP autoral, com as músicas "O Mundo é Meu Lar", "Pronta pra Voar" e "Calma". Com "Calma", chegou à final do [[festival-universitario-da-cancao|Festival Universitário da Canção]].[^cgn2024]
 
 Numa nova fase, lançou a live session *Brasiguaia*, sobre sua identidade fronteiriça. A música "Brasiguaia" foi selecionada para o álbum *Reggaeton Brasil Volume 4*, do portal Reggaeton Brasil.[^cgn2024]
 
-Em 15 de dezembro de 2024 apresentou o show *Brasiguaia*, com repertório quase todo autoral e releituras, no encerramento do [[som-da-concha|Som da Concha]] 2024, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em Campo Grande. A noite teve também o grupo [[falange-da-rima|Falange da Rima]].[^fcms2024a][^fcms2024b][^pp2024]
+Em 15 de dezembro de 2024 apresentou o show *Brasiguaia*, com releituras e um repertório que ela descreveu como 90% autoral, no encerramento do [[som-da-concha|Som da Concha]] 2024, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em Campo Grande. A noite teve também o grupo [[falange-da-rima|Falange da Rima]].[^fcms2024a][^fcms2024b][^pp2024]
 
 ## Discografia
 

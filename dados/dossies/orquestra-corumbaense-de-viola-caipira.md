@@ -24,3 +24,9 @@ Descartada: Capital News (bloqueio Cloudflare, não lida).
 - Abriu o Quebra-Torto com Letras do FAS, Moinho Cultural, 16/5/2025. [fcms2025]
 - Ensaio aberto no Sesc Corumbá, 16/10/2026, 19h, gratuito. [acritica2026, cdp2026]
 - Elizeth Gonçalves é integrante; moção de congratulação da Câmara de Corumbá. [cgn2026]
+
+## Revisão de 2026-11-04
+
+- 'Aulas oferecidas pelo Sesc' estava só no resumo automático (IA) do CGN, não no texto da matéria: retirado. O texto diz que Elizeth viu um anúncio de aulas no jornal e se inscreveu.
+- Ensaio de 16/10/2026: fontes são anúncios; verbete diz 'anunciou ... marcado para'.
+- Título da nota cgn2026 corrigido para o da página.

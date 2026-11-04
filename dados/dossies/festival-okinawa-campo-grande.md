@@ -28,3 +28,7 @@ Fontes descartadas: Midiamax (05/10/2026), página não carregou pelo curl.
 ## Uso no verbete
 
 Tudo entrou, exceto número e nome da lei municipal (as fontes não trazem) e o endereço exato. A numeração da edição de 2025 (2ª) é inferida das outras fontes e não foi escrita.
+
+## Revisão de 2026-11-04
+
+- Edições de 2025 e 2026: fontes são agendas anteriores ao evento; verbete passou a 'marcada para' e 'programação anunciada'. A 1ª edição (2024, cerca de 6 mil pessoas) é relatada pelo Diário Digital em retrospecto.

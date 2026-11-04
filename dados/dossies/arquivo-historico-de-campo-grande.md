@@ -35,3 +35,8 @@
 ## Uso no verbete
 
 Ficaram de fora horário de funcionamento e números das sedes antigas. A Crítica e a Prefeitura têm texto quase igual: não são independentes entre si; o Campo Grande News é a segunda fonte independente.
+
+## Revisão de 2026-11-04
+
+- Desafios citados por Davi Almeida reescritos conforme o corpo da matéria do CGN (o texto anterior seguia o resumo automático da página).
+- Wikipédia: 'Arquivo Histórico de Campo Grande' é redirecionamento para 'Conjunto Ferroviário de Campo Grande', sem conteúdo sobre o Arca.

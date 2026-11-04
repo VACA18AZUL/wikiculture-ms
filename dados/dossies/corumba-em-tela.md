@@ -43,3 +43,8 @@ Fontes descartadas: matéria da prefeitura de 16/09/2026 (votação), repetida p
 ## Uso no verbete
 
 - Fora: nomes dos estudantes premiados (menores de idade), documentos exigidos, endereço e e-mail da fundação.
+
+## Revisão de 2026-11-04
+
+- Votação de 15 a 18/9: 'marcada para'. Data de resultado anunciada (21/9) e efetiva (1/10) agora estão as duas no verbete.
+- Lead restrito à edição de 2026 (votação popular só documentada nela). Autor das matérias de A Crítica: Breno Kaoru Tanaka.

@@ -24,3 +24,7 @@
 ## Uso no verbete
 
 Sem nomes de estudantes (menores). Resultado da final (5/11/2026) ainda não publicado em 4/11/2026: atualizar depois.
+
+## Revisão de 2026-11-04
+
+- Data da página da SED achada: 29 maio 2026 (por Adersino Valensoela Gomes Junior). Final de 5/11/2026 ainda futura em 4/11/2026: verbete fala em final 'marcada' e anúncio de vencedores previsto.

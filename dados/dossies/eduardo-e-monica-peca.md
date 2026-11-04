@@ -25,3 +25,8 @@
 ## Uso no verbete
 
 Fora: preços, plataforma de ingressos, falas do autor sobre o filme de 2022. O g1 chama a sessão de 2026 de "estreia"; o próprio g1 e o CGN registram a montagem de 2023, então o verbete trata 2026 como nova montagem.
+
+## Revisão de 2026-11-04
+
+- Sessões de 2/11/2026: as fontes são anteriores; verbete passou a 'duas sessões marcadas'.
+- Retirado 'de Rapha Oliveira' após A Fabulosa Homenagem (autoria não dita pelo g1). Autor da nota ac2026: Ricardo Eugenio.

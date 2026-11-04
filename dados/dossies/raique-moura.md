@@ -29,3 +29,9 @@ Descartada: Dourados News (7/12/2024), não carregou pelo curl.
 ## Uso no verbete
 
 Fora: idade (31 anos em 2024, CE), relação pessoal com Gil Esper (vida privada), endereço do ateliê, detalhes do diagramador (fontes divergem: Grammy Latino ganho em 2017, FCMS/CGN; capa indicada em 2013, CE). O espaço inspiratorio-atelie-de-arte foi incorporado aqui (só uma fonte).
+
+## Revisão de 2026-11-04
+
+- Lançamentos de 7 e 19/12/2024: fontes anteriores às datas; verbete passou a 'marcados para'.
+- Ano de abertura do ateliê não está no CGN 2026; o verbete passou a dizer que o CGN descreveu o espaço em novembro de 2026.
+- FCMS 2024 e CE 2024 reproduzem o mesmo release ('com informações da Assessoria'); CGN 2026 é a fonte independente.

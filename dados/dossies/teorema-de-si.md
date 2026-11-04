@@ -25,3 +25,9 @@ Vista e não usada: CGN, Halloween 2026 (só agenda).
 
 - Ano de formação e data de lançamento de "Andorinhas" não informados.
 - Sopa Records: cidade não confirmada; incorporada aqui.
+
+## Revisão de 2026-11-04
+
+- Nota cgn2025: título corrigido para o da página ("Hoje tem feira MS+Underground na Praça Cuiabá com entrada gratuita"); texto é agenda da manhã do evento, por isso o verbete diz 'marcada' e 'anunciava'.
+- A Crítica fala em "5ª Feira Underground"; o CGN, em "5ª edição da Feira MS+Underground". Tratadas como o mesmo evento por nome e número; não confirmado.
+- Busca por segunda fonte (Google Notícias, "Teorema de Si"): só CGN (agenda de Halloween e esta). Trajetória, integrantes e discografia dependem de A Crítica.

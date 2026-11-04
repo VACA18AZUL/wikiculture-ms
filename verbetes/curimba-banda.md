@@ -2,7 +2,7 @@
 titulo: Curimba
 tipo: grupo
 areas: [musica]
-resumo: "Banda sul-mato-grossense que voltou aos palcos em 2016, depois de quase cinco anos parada, com nova formação liderada pelo vocalista André Stábile; tocou no Som da Concha em 2022."
+resumo: "Banda sul-mato-grossense que voltou aos palcos em 2016, depois de quase cinco anos parada, com nova formação em torno do vocalista André Stábile; tocou no Som da Concha em 2022."
 ficha:
   Integrantes: "Formação de 2016: André Stábile (voz), Lean Kominato (guitarra), Rodrigo Shimabukuro (percussão), Rafael Coelho (violão), Thayson Ginmenez (baixo), Mateus Yule (bateria)"
 status: rascunho

@@ -28,3 +28,9 @@ Também vista: página da Prefeitura (CGNotícias) sobre a mesma apresentação,
 ## Lacunas
 
 - Integrantes e direção não citados. Festival Mahila (4ª ed. 2023, site festivalmahila.com.br, não aberto) provavelmente ligado ao grupo, mas sem confirmação.
+
+## Revisão de 2026-11-04
+
+- Apresentações de 2024 e de 13/11/2026 vêm de textos de divulgação anteriores às datas: o verbete passou a 'programado'/'anunciada'.
+- FCMS 2024b atribui o espetáculo Encontro de Tribos à Isa Yasmin Cia de Dança e diz que ele nasceu da união dos três grupos; as duas informações estão no verbete.
+- Título da nota cgn2026 corrigido para o da página.

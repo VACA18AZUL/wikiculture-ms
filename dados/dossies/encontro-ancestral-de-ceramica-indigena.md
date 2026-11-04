@@ -25,3 +25,7 @@
 ## Uso no verbete
 
 Não liguei "Creuza Begilio" (g1 2022) a creuza-virgilio: a grafia diverge e a fonte não diz que é a presidente da AMAK, embora a fala ("a cerâmica é a minha vida") coincida com a do CGN 2026. Fora: diretor do Instituto (Reinaldo Lourival), endereço da ACIRK, idade da ceramista.
+
+## Revisão de 2026-11-04
+
+- 2ª edição (10-12/10/2026): as três fontes são de 7/10, antes do evento; verbete passou a 'marcada para', 'programação anunciada' e 'estavam previstas gravações'. Não há fonte posterior lida sobre a realização.

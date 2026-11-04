@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Grêmio Recreativo Escola de Samba Cinderela Tradição do Bairro José Abrão** é uma escola de samba de Campo Grande, filiada à [[lienca|Lienca]]. Foi fundada em 31 de maio de 1992 por Gilberto Carlos Corrêa. Tem as cores azul, branco, amarelo e laranja e o beija-flor como símbolo, e leva o nome do bairro onde surgiu.[^cn1-2024]
+O **Grêmio Recreativo Escola de Samba Cinderela Tradição do Bairro José Abrão** é uma escola de samba de Campo Grande, filiada à [[lienca|Lienca]]. Gilberto Carlos Corrêa a fundou em 31 de maio de 1992. O símbolo é o beija-flor; as cores são laranja, amarelo, branco e azul. O nome vem do bairro onde a escola surgiu.[^cn1-2024]
 
 ## Carnavais
 
