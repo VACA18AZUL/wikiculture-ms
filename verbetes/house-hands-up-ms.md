@@ -3,7 +3,7 @@ titulo: House of Hands Up MS
 tipo: grupo
 areas: [danca]
 cidade: Campo Grande
-resumo: Casa de cultura ballroom criada em Campo Grande em 2017, casa irmã da House of Hands Up, do dançarino brasiliense Eduardo Kon Zaion. Uma House of Hands Up sul-mato-grossense teve Peça Única selecionado para o Palco Giratório de 2026.
+resumo: Casa de cultura ballroom criada em Campo Grande em 2017, irmã da House of Hands Up de Eduardo Kon Zaion. Uma House of Hands Up de MS teve Peça Única selecionado para o Palco Giratório de 2026.
 ficha:
   Fundação: Janeiro de 2017, Campo Grande
   Integrantes: "[[roger-pacheco|Roger Pacheco]], [[afrodite-fetake|Afrodite Fetake]]"

@@ -3,7 +3,7 @@ titulo: Casulo Espaço de Arte e Cultura
 tipo: espaco
 areas: [artes-plasticas]
 cidade: Dourados
-resumo: Espaço cultural independente de Dourados que, em 2022, reuniu artistas indígenas e não indígenas em exposição, mostra de filmes, dança e lançamentos de livros.
+resumo: Espaço cultural independente de Dourados que programou para 2022, com artistas indígenas e não indígenas, exposição, mostra de filmes, dança e lançamentos de livros.
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -12,7 +12,7 @@ O **Casulo Espaço de Arte e Cultura** é um espaço cultural de Dourados. Uma p
 
 ## Programação
 
-Em abril de 2022, o *Campo Grande News* noticiou uma programação gratuita do Casulo para abril e parte de maio, com artistas indígenas e não indígenas. A abertura, em 9 de abril, teve a exposição *Imagens da Vida Kaiowá*, com o desenhista kaiowá [[misael-concianza-jorge|Misael Concianza Jorge]] e os artistas visuais [[tom-kyo|Tom Kyo]] e [[ana-sol|Ana Sol]]. No mesmo dia houve mostra de filmes feitos por 15 indígenas do Tekoha Guaviry e lançamento dos livros bilíngues kaiowá-português *Ñe'ê Tee Rekove* e *Tee*.[^cgn2022]
+Em abril de 2022, o *Campo Grande News* noticiou uma programação gratuita do Casulo para abril e parte de maio, com artistas indígenas e não indígenas. Para 9 de abril, estavam marcadas a exposição *Imagens da Vida Kaiowá*, com o desenhista kaiowá [[misael-concianza-jorge|Misael Concianza Jorge]] e os artistas visuais [[tom-kyo|Tom Kyo]] e [[ana-sol|Ana Sol]], e, no mesmo dia, uma mostra de filmes feitos por 15 indígenas do Tekoha Guaviry e lançamento dos livros bilíngues kaiowá-português *Ñe'ê Tee Rekove* e *Tee*.[^cgn2022]
 
 A mesma matéria anunciava, para o fim de abril, solos de dança de [[jackeline-mourao|Jackeline Mourão]] e [[ralfer-campagna|Ralfer Campagna]], da [[cia-dancurbana|Cia Dançurbana]], e um intercâmbio entre a companhia e o [[grupo-de-danca-arandu|Grupo de Dança Arandu]], de Amambai. O encerramento previsto era o Festival de Música Indígena, em 1º e 7 de maio.[^cgn2022]
 

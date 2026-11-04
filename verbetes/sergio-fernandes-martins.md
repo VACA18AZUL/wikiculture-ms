@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Fez o curso de Jornalismo da Escola de Comunicação Assis Chateaubriand, no Rio de Janeiro, em 1980, e se graduou em Ciências Jurídicas e Sociais pela Universidade Federal do Rio de Janeiro em 1982. De 1983 a 1986, foi colunista e colaborador do *Jornal da Cidade*, onde publicou crônicas, artigos, poesias e críticas literárias e de cinema. Advogou desde 1985, foi professor de Direito na UCDB por 19 anos, vereador em Campo Grande e procurador-geral do município.[^cgn2022]
+Fez o curso de Jornalismo da Escola de Comunicação Assis Chateaubriand, no Rio de Janeiro, em 1980, e se graduou em Ciências Jurídicas e Sociais pela Universidade Federal do Rio de Janeiro em 1982. De 1983 a 1986, escreveu para o *Jornal da Cidade* como colunista e colaborador, com crônicas, artigos, poemas e críticas de literatura e de cinema. Advogou desde 1985, foi professor de Direito na UCDB por 19 anos, vereador em Campo Grande e procurador-geral do município.[^cgn2022]
 
 Em 8 de março de 2022, foi eleito para a cadeira nº 32 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL), na sucessão de [[abilio-leite-de-barros|Abílio Leite de Barros]], morto em 2019.[^cgn2022] Em 2023, era também titular da cadeira nº 23 da [[academia-de-letras-juridicas-de-ms|Academia de Letras Jurídicas de MS]].[^jn2023]
 
