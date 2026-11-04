@@ -20,7 +20,7 @@ atualizado: 2026-11-04
 
 Começou na música observando o irmão tocar e o pai dançar catira. Em 1964, formou dupla com [[durvalino-de-souza|Durvalino de Souza]]. Depois, a convite do irmão Alex, formou com [[cidinho-castelo|Cidinho Castelo]] o [[trio-serenata|Trio Serenata]], que fez a primeira gravação dele em disco de vinil.[^cgn2023] Nas listas do acervo da Memória Fonográfica de MS, o trio aparece como "Alex, Queiróz e Cidinho Castelo".[^mf1984]
 
-Na década de 1980, fundou o grupo [[os-filhos-do-pantanal|Os Filhos do Pantanal]] e formou a dupla [[castelo-e-mansao|Castelo e Mansão]], conhecida pela composição "Garça Branca". Participou do programa *Viola, Minha Viola*, da TV Cultura de São Paulo, apresentado por Moraes Sarmento e Inezita Barroso. Apresentou-se no Japão, onde morou um período, e na Argentina, no Paraguai e na Bolívia.[^cgn2023]
+Na década de 1980, fundou o grupo [[os-filhos-do-pantanal|Os Filhos do Pantanal]] e formou a dupla [[castelo-e-mansao|Castelo e Mansão]], conhecida pela composição "Garça Branca". Esteve no *Viola, Minha Viola*, programa da TV Cultura de São Paulo comandado por Moraes Sarmento e Inezita Barroso. Apresentou-se no Japão, onde morou um período, e na Argentina, no Paraguai e na Bolívia.[^cgn2023]
 
 Segundo a descrição do acervo, que cita o site Recanto Caipira, nos anos 1990 fundou o Grupo Pantanal, com Mansão, Joãozinho, Aldo e Germano; nos anos 2000, o Grupo Carandá; e formou o Trio Castelo com Nelsinho e Jatobá.[^mf1984]
 

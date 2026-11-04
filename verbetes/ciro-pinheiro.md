@@ -13,9 +13,9 @@ atualizado: 2026-11-04
 
 ## "Colisão"
 
-Segundo Rodrigo Teixeira Gonçalves, "Colisão" foi composta por Jerry Espíndola e Ciro Pinheiro em 1985. O músico [[caio-ignacio|Caio Ignácio]], que já a tinha no repertório de um trabalho solo em 1987, passou a chamá-la de polca-rock, gênero que aproxima a polca paraguaia do rock.[^gon14] Gilmar Lima Caetano situa a composição por volta de 1985, considera-a a canção inaugural do movimento e diz que ela foi gravada no disco *Polca-Rock*, de Jerry Espíndola.[^cae12]
+Segundo Rodrigo Teixeira Gonçalves, Jerry Espíndola e Ciro Pinheiro compuseram "Colisão" em 1985. O músico [[caio-ignacio|Caio Ignácio]], que já a tinha no repertório de um trabalho solo em 1987, passou a chamá-la de polca-rock, gênero que aproxima a polca paraguaia do rock.[^gon14] Gilmar Lima Caetano situa a composição por volta de 1985, considera-a a canção inaugural do movimento e diz que ela foi gravada no disco *Polca-Rock*, de Jerry Espíndola.[^cae12]
 
-Na dissertação de mestrado, Caetano registra "Colisão" como a primeira canção declarada como polca-rock e a inclui no disco *Pop Pantanal*, de Jerry Espíndola, lançado em 2000. Ele cita depoimento de [[rodrigo-teixeira|Rodrigo Teixeira]], que diz ter tocado a música como guitarrista de Caio Ignácio no fim dos anos 1980 e início dos 1990, já com a intenção de fazer polca-rock.[^caeufgd]
+Na dissertação de mestrado, Caetano registra "Colisão" como a primeira canção declarada como polca-rock e a inclui no disco *Pop Pantanal*, de Jerry Espíndola, lançado em 2000. Ele cita depoimento de [[rodrigo-teixeira|Rodrigo Teixeira]], que diz ter tocado a música como guitarrista de Caio Ignácio no fim dos anos 1980 e início dos 1990, já pensando nela como polca-rock.[^caeufgd]
 
 ## Obras
 

@@ -19,7 +19,7 @@ A história se passa em Copacabana, no Rio de Janeiro. A travesti Kika trabalha 
 
 ## Circulação
 
-O filme foi selecionado para a Mostra Panorama Brasil do 26º Festival Mix Brasil.[^adoro] Foi eleito melhor longa-metragem no Festival de Maipu, na Argentina, e exibido em mostras no México, na Romênia e no Brasil. Em fevereiro de 2019, foi anunciada a sua chegada a plataformas digitais, a partir do dia 28, com distribuição do selo O2 Play.[^jb2019]
+O filme foi selecionado para a Mostra Panorama Brasil do 26º Festival Mix Brasil.[^adoro] Recebeu o prêmio de melhor longa no festival argentino de Maipu e passou por mostras no México, na Romênia e no Brasil. Em fevereiro de 2019, foi anunciada a sua chegada a plataformas digitais, a partir do dia 28, com distribuição do selo O2 Play.[^jb2019]
 
 ## Ficha técnica
 

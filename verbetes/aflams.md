@@ -17,7 +17,7 @@ A **Academia Feminina de Letras e Artes de Mato Grosso do Sul (Aflams)** é uma 
 
 A poeta e advogada [[delasnieve-daspet|Delasnieve Daspet]] é apresentada como fundadora e presidente da academia.[^cgn2023][^acritica2026b] Em 2026, *A Crítica* descreveu a Aflams como uma instituição com quase duas décadas de atuação na literatura, nas artes e na produção intelectual de mulheres do estado.[^acritica2026b]
 
-Segundo a mesma reportagem, os objetivos da academia incluem o fortalecimento da língua portuguesa, a promoção de debates sobre cultura e educação e a divulgação do trabalho de artistas, escritoras e pesquisadoras. Embora feminina, define-se como espaço de convivência entre o feminino e o masculino.[^acritica2026b]
+Segundo a mesma reportagem, os objetivos da academia incluem o fortalecimento da língua portuguesa, a promoção de debates sobre cultura e educação e a difusão da produção de artistas, escritoras e pesquisadoras. Embora feminina, define-se como espaço de convivência entre o feminino e o masculino.[^acritica2026b]
 
 ## Atividades
 

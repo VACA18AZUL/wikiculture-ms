@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## A peça
 
-A montagem trata da convivência entre duas pessoas que atravessam conflitos, afetos, desejos e memórias no mesmo espaço, e é encenada em formato de semi-arena, perto do público. Tem direção de [[marcelo-leite|Marcelo Leite]] e atuação de [[edner-gustavo|Edner Gustavo]] e [[douglas-caetano|Douglas Caetano]]. Antes da temporada de 2026, passou por uma revisão, com atualização da dramaturgia e da encenação.[^acritica2026]
+A montagem mostra duas pessoas que dividem o mesmo espaço entre conflitos, afetos, desejos e lembranças, e é encenada em semi-arena, perto do público. Tem direção de [[marcelo-leite|Marcelo Leite]] e atuação de [[edner-gustavo|Edner Gustavo]] e [[douglas-caetano|Douglas Caetano]]. Antes da temporada de 2026, passou por uma revisão, com atualização da dramaturgia e da encenação.[^acritica2026]
 
 ## Apresentações
 

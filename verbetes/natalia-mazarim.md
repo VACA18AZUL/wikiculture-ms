@@ -14,9 +14,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Atuou no curta-metragem *[[a-outra-margem|A Outra Margem]]*, de [[nathalia-tereza|Nathália Tereza]], filmado em Campo Grande, ao lado de Pepa Quadrini. Segundo a diretora, Natália estava em Campo Grande na época do teste de elenco. Segundo reportagem de outubro de 2015, o curta estreou no Festival de Tiradentes e foi premiado no Festival de Brasília e no Festival de Cinema de Vitória.[^cgn2015]
+Atuou no curta-metragem *[[a-outra-margem|A Outra Margem]]*, de [[nathalia-tereza|Nathália Tereza]], filmado em Campo Grande, ao lado de Pepa Quadrini. Segundo a diretora, Natália participou do teste de elenco porque estava em Campo Grande naquele período. Segundo reportagem de outubro de 2015, o curta estreou no Festival de Tiradentes e foi premiado no Festival de Brasília e no Festival de Cinema de Vitória.[^cgn2015]
 
-É uma das protagonistas de *[[madalena-longa|Madalena]]*, longa de [[madiano-marcheti|Madiano Marcheti]] rodado em Mato Grosso do Sul. No filme, interpreta Luziane, jovem que divide o tempo entre ajudar a mãe costureira e fazer bicos em festas sertanejas.[^cgn2019] O longa teve estreia mundial no 50º Festival Internacional de Cinema de Roterdã, em 2021,[^cgn2021] e entrou no catálogo da Netflix em 2022.[^cgn2022]
+É uma das protagonistas de *[[madalena-longa|Madalena]]*, longa de [[madiano-marcheti|Madiano Marcheti]] rodado em Mato Grosso do Sul. No filme, interpreta Luziane, jovem que ajuda a mãe, costureira, e trabalha de forma avulsa em festas sertanejas.[^cgn2019] O longa teve estreia mundial no 50º Festival Internacional de Cinema de Roterdã, em 2021,[^cgn2021] e entrou no catálogo da Netflix em 2022.[^cgn2022]
 
 ## Filmografia
 

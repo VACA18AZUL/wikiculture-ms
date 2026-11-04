@@ -20,7 +20,7 @@ O experimento cênico foi idealizado em parceria com a coreógrafa [[paula-bueno
 
 ## Apresentações
 
-Em 18 de agosto de 2016, o espetáculo integrou a programação gratuita da [[semana-pra-danca|Semana pra Dança]], com sessões das 18h às 21h. O ônibus saía da [[morada-dos-bais|Morada dos Baís]] e voltava ao mesmo ponto depois de 1h20 de percurso com o público.[^cgn2016]
+Em agosto de 2016, o *Campo Grande News* anunciou o espetáculo na programação gratuita da [[semana-pra-danca|Semana pra Dança]], no dia 18, das 18h às 21h. Segundo a matéria, o ônibus saía da [[morada-dos-bais|Morada dos Baís]] e voltava ao mesmo ponto depois de 1h20 de percurso com o público.[^cgn2016]
 
 ## Videografia
 

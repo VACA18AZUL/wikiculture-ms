@@ -3,14 +3,14 @@ titulo: Joilson Silva da Cruz
 tipo: pessoa
 areas: [danca]
 cidade: Corumbá
-resumo: Coreógrafo e professor de dança de Corumbá, idealizador da Oficina de Dança do Pantanal, criada em 1999, e à frente dela desde então.
+resumo: Coreógrafo e professor de dança de Corumbá, idealizador da Oficina de Dança do Pantanal, criada em 1999, e apontado como seu coordenador em 2011 e em 2015.
 ficha:
   Atividade: Coreógrafo, professor de dança
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Joilson Silva da Cruz** é coreógrafo e professor de dança em Corumbá. Idealizou a [[oficina-de-danca-do-pantanal|Oficina de Dança do Pantanal]], criada em 1999, e está à frente dela desde a criação.[^correio2011][^silva2015]
+**Joilson Silva da Cruz** é coreógrafo e professor de dança em Corumbá. Idealizou a [[oficina-de-danca-do-pantanal|Oficina de Dança do Pantanal]], criada em 1999. Fontes de 2011 e de 2015 o apresentam à frente do projeto.[^correio2011][^silva2015]
 
 ## Trajetória
 

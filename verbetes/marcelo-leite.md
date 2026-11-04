@@ -23,7 +23,7 @@ Em 2022, a imprensa o chamou de um dos diretores do grupo, ao anunciar a 8ª Mos
 
 Em abril de 2024, o projeto "Fulano di Tal – Ato 20" anunciou a circulação de *O Bem-Amado*, sob sua direção, por cidades do interior, e previu um workshop online dele sobre a gestão do grupo.[^cgn2024a] No fim daquele ano, no anúncio da mostra dos 21 anos do grupo, foi apresentado como diretor e produtor. A programação previa a estreia de *Álbum de Família*, de Nelson Rodrigues, dirigida por Edner Gustavo com alunos da oficina de montagem e produzida por ele e Val Brito, e o workshop "Percursos Artísticos – Processos e Procedimentos de Gestão do Grupo de Teatro Fulano di Tal", a cargo dele.[^cgn2024b]
 
-Em maio de 2026, uma nova apresentação de *O Bem-Amado*, com direção e produção dele, foi anunciada para o [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].[^acritica-ba] No anúncio da temporada de *Seco* na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], no mesmo ano, ele disse que o grupo tem uma pesquisa voltada à cultura popular e à comicidade e que *Seco* é um território de experimentação para a linguagem do grupo.[^acritica-seco]
+Em maio de 2026, uma nova apresentação de *O Bem-Amado*, com direção e produção dele, foi anunciada para o [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].[^acritica-ba] No anúncio da temporada de *Seco* na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], no mesmo ano, ele disse que o grupo pesquisa a cultura popular e o cômico e que *Seco* é um território de experimentação para a linguagem do grupo.[^acritica-seco]
 
 ## Espetáculos
 

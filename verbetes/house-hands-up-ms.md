@@ -3,7 +3,7 @@ titulo: House of Hands Up MS
 tipo: grupo
 areas: [danca]
 cidade: Campo Grande
-resumo: Casa de cultura ballroom criada em Campo Grande em 2017, ligada à House of Hands Up de Brasília. Seu espetáculo Peça Única foi selecionado para o Palco Giratório do Sesc em 2026.
+resumo: Casa de cultura ballroom criada em Campo Grande em 2017, casa irmã da House of Hands Up, do dançarino brasiliense Eduardo Kon Zaion. Uma House of Hands Up sul-mato-grossense teve Peça Única selecionado para o Palco Giratório de 2026.
 ficha:
   Fundação: Janeiro de 2017, Campo Grande
   Integrantes: "[[roger-pacheco|Roger Pacheco]], [[afrodite-fetake|Afrodite Fetake]]"
@@ -11,15 +11,15 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **House of Hands Up MS** (também grafada House Hands Up MS) é uma casa de cultura ballroom de Mato Grosso do Sul, dedicada ao vogue. Foi criada em Campo Grande em 2017 como casa irmã da House of Hands Up, de Brasília.[^cgn2017][^cgn2023]
+A **House of Hands Up MS** (também grafada House Hands Up MS) é uma casa de cultura ballroom de Mato Grosso do Sul, dedicada ao vogue. Foi criada em Campo Grande em 2017 como casa irmã da House of Hands Up, fundada pelo dançarino brasiliense Eduardo Kon Zaion.[^cgn2017][^cgn2023]
 
 ## Trajetória
 
-A House of Hands Up foi formada em Brasília pelo dançarino Eduardo Kon Zaion e amigos, depois do primeiro contato dele com o vogue, em 2012. Em janeiro de 2017, Kon veio a Campo Grande para um festival de dança e criou, com dançarinos da cidade, a House of Hands Up MS. Em outubro do mesmo ano, voltou para dar aula de vogue no Big Field Crew, na Unigran, para cerca de 60 pessoas, e fazer a festa Vogue Ball no Drama Bar.[^cgn2017]
+A House of Hands Up foi formada pelo dançarino brasiliense Eduardo Kon Zaion e amigos, depois do primeiro contato dele com o vogue, em 2012. Em janeiro de 2017, Kon veio a Campo Grande para um festival de dança e criou, com dançarinos da cidade, a House of Hands Up MS. Em outubro do mesmo ano, voltou para dar aula de vogue no Big Field Crew, na Unigran, para cerca de 60 pessoas, e fazer a festa Vogue Ball no Drama Bar.[^cgn2017]
 
-Em novembro de 2023, a performer e hostess [[afrodite-fetake|Afrodite Fetake]], da House Hands Up MS, participou de *Cavucada – a festa não será amanhã*, espetáculo-festa dos 20 anos da [[cia-dancurbana|Cia Dançurbana]] apresentado em Corumbá.[^cgn2023]
+Em novembro de 2023, a participação da performer e hostess [[afrodite-fetake|Afrodite Fetake]], da House Hands Up MS, foi anunciada nas sessões de Corumbá de *Cavucada – a festa não será amanhã*, espetáculo-festa dos 20 anos da [[cia-dancurbana|Cia Dançurbana]], marcadas para 15 e 16 de novembro.[^cgn2023]
 
-Em março de 2026, A Crítica de Campo Grande noticiou a seleção do espetáculo sul-mato-grossense *Peça Única*, da House of Hands Up, para a 28ª edição do Palco Giratório, circuito do Sesc que naquele ano levaria 16 companhias a 113 cidades. A matéria apresenta o coreógrafo [[roger-pacheco|Roger Pacheco]] como mother da casa.[^acritica2026]
+Em março de 2026, A Crítica de Campo Grande noticiou a seleção do espetáculo sul-mato-grossense *Peça Única*, da House of Hands Up, para a 28ª edição do Palco Giratório, circuito do Sesc que naquele ano levaria 16 companhias a 113 cidades. A matéria apresenta o coreógrafo [[roger-pacheco|Roger Pacheco]] como mother da casa. Ela usa o nome House of Hands Up, sem "MS", e trata o espetáculo como produção sul-mato-grossense; não diz com todas as letras que se trata da casa criada em 2017.[^acritica2026]
 
 ## Espetáculos
 

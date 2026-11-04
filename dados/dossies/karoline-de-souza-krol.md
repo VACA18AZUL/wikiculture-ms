@@ -25,7 +25,7 @@ Fontes descartadas e o motivo:
 
 ### Trajetória
 
-- Selecionada por portfólio, com outros cinco artistas de MS, para o projeto "Dia do Graffiti: Arte Urbana e Cultura", organizado por San Martinez com recursos da Lei Paulo Gustavo, via edital da FCMS. [fcms2025][cgn2025]
+- Selecionada por portfólio, com outros cinco artistas de MS, para o projeto "Dia do Graffiti: Arte Urbana e Cultura", idealizado por San Martinez ("idealizador", na FCMS), com recursos da Lei Paulo Gustavo, via edital da FCMS. [fcms2025][cgn2025]
 - Os selecionados tinham experiência com tinta látex e spray. [fcms2025][cgn2025]
 - Pintura em 9 de março de 2025 na ONG Núcleo Humanitário da Vila Nhanhá, em Campo Grande; tema "Cidadania e Cultura"; cachê de R$ 400, kit de pintura e alimentação para cada artista. [cgn2025]
 

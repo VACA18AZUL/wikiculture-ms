@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Trabalhou nas gravadoras Sapucay Discos e Pantanal, onde tinha contato com artistas regionais. Em 2000, começou a digitalizar o catálogo da gravadora, e esse trabalho o levou a pesquisar os músicos do estado. Para reunir o acervo, fez viagens a São Paulo em busca de discos em sebos e lojas.[^cgn2024]
+Foi funcionário das gravadoras Sapucay Discos e Pantanal, onde conviveu com músicos da região. Em 2000, começou a digitalizar o catálogo da gravadora, e esse trabalho o levou a pesquisar os músicos do estado. Para reunir o acervo, fez viagens a São Paulo em busca de discos em sebos e lojas.[^cgn2024]
 
 Em 2011, o *Correio do Estado* o apresentou, ao lado de Idemar Sprandel, como idealizador do Memória Fonográfica e criador do Kit de Difusão Musical da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. Na época, os dois somavam 30 mil músicas catalogadas. O acervo do projeto forneceu a trilha da exposição audiovisual [[os-pioneiros-origem-da-musica-sertaneja-de-ms|Os Pioneiros – A Origem da Música Sertaneja de Mato Grosso do Sul]], com lançamento marcado para a reinauguração do [[mis-ms|Museu da Imagem e do Som]] (MIS), em 3 de maio de 2011.[^ce2011] Na mesma matéria, o parceiro aparece também como "Ismael Sprandel".[^ce2011]
 

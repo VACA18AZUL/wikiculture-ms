@@ -13,7 +13,7 @@
 | id da nota | Referência completa | URL | Tipo | Entra? |
 |---|---|---|---|---|
 | acritica-eleicao | Ricardo Eugenio, "Pedro Chaves é eleito presidente da ASL e assume no dia dos 55 anos da Academia", A Crítica, 2 out. 2026 | https://acritica.net/cultura/pedro-chaves-presidente-academia-sul-mato-grossense-letras/ | imprensa | sim |
-| acritica-assume | Redação, "Pedro Chaves assume presidência da Academia de Letras", A Crítica, 22 out. 2026 | https://acritica.net/cultura/pedro-chaves-assume-presidencia-academia-sul-mato-grossense-letras-dia-30/ | imprensa | sim |
+| acritica-assume | Ricardo Eugenio, "Pedro Chaves assume a presidência da Academia Sul-Mato-Grossense de Letras no dia 30", A Crítica, 22 out. 2026 | https://acritica.net/cultura/pedro-chaves-assume-presidencia-academia-sul-mato-grossense-letras-dia-30/ | imprensa | sim |
 | acritica-posse | Ricardo Eugenio, "Academia de Letras faz 55 anos e dá posse a Pedro Chaves nesta sexta", A Crítica, 29 out. 2026 | https://acritica.net/cultura/academia-letras-ms-55-anos-posse-pedro-chaves-sexta/ | imprensa | sim |
 | ce2019 | Tatyane Gameiro, "'Refletindo Sobre o Brasil' é o novo livro de Pedro Chaves", Correio do Estado, 18 set. 2019 | https://correiodoestado.com.br/correio-b/refletindo-sobre-o-brasil-e-o-novo-livro-de-pedro-chaves/360878/ | imprensa | sim |
 | ce2024 | João Gabriel Vilalba, "Novo livro de Pedro Chaves e Therezinha Samways explora a história do Cesup e da Uniderp", Correio do Estado, 14 ago. 2024 | https://correiodoestado.com.br/cidades/ovo-livro-de-pedro-chaves-e-therezinha-samways-explora-a-historia-do/434750/ | imprensa | sim |
