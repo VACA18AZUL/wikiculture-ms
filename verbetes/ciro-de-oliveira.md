@@ -20,13 +20,13 @@ Começou no rádio aos 13 anos, como "garoto de recados" na Educação Rural, on
 
 Em 2012, estava havia 17 anos na FM 104 e apresentava aos domingos, das 8h às 12h, o programa *Encontro de Gerações*, com sucessos das décadas de 1950 a 1980.[^cgn2012] Em 2018, o programa seguia na 104 FM Educativa.[^cgn2018] Em dezembro de 2019, recebeu homenagem pelo Dia do Radialista na Assembleia Legislativa.[^cgn2019]
 
-É um dos entrevistados da parte "Música na Mídia" do livro [[a-musica-de-mato-grosso-do-sul-historias-de-vida|*A Música de Mato Grosso do Sul: histórias de vida*]] (2009), de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e Idara Duncan, ao lado de [[candido-alberto-da-fonseca|Cândido Alberto]], [[lizoel-costa|Lizoel Costa]] e [[oscar-rocha|Oscar Rocha]].[^silus]
+É um dos entrevistados da parte "Música na Mídia" do livro [[a-musica-de-mato-grosso-do-sul-historias-de-vida|*A Música de Mato Grosso do Sul: histórias de vida*]] (2009), de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e Idara Duncan, ao lado de Cândido Alberto, [[lizoel-costa|Lizoel Costa]] e [[oscar-rocha|Oscar Rocha]].[^silus]
 
 Em 2023, era editor na TV Record. Morreu em 12 de outubro daquele ano, em Campo Grande.[^cgn2023a]
 
 ## Acervo
 
-Em coluna citada pelo Campo Grande News, [[lenilde-ramos|Lenilde Ramos]] destacou a coleção de discos do radialista, que cerca de dez anos antes da morte dele já reunia seis mil itens.[^cgn2023a] Em 2023, o acervo tinha discos de vinil, fitas K7 e 50 mil CDs.[^cgn2023b]
+Segundo o Campo Grande News, uma coluna de [[lenilde-ramos|Lenilde Ramos]] publicada cerca de dez anos antes da morte do radialista já registrava um acervo de seis mil itens.[^cgn2023a] Em 2023, o acervo tinha discos de vinil, fitas K7 e 50 mil CDs.[^cgn2023b]
 
 [^silus]: Alan Silus, ["Pelos caminhos da música sul-mato-grossense: um estudo bibliográfico"](https://trilhasdahistoria.ufms.br/index.php/RevTH/article/view/19958/14805), *Revista Trilhas da História* (UFMS), v. 13, n. 27, 2024, p. 335. Acesso em 4 nov. 2026.
 [^cgn2012]: Ângela Kempfer e Elverson Cardozo, ["No Dia do Radialista, nunca a profissão esteve tão em alta"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/no-dia-do-radialista-nunca-a-profissao-esteve-tao-em-alta), *Campo Grande News*, 7 nov. 2012. Acesso em 4 nov. 2026.
