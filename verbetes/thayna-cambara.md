@@ -28,7 +28,7 @@ O documentário *Pantanal Negro* teve a primeira exibição no Salão do Turismo
 
 - *Louvação Xangô* (2022) — média ou longa-metragem; titular no resultado provisório da seleção regional do Festival América do Sul.[^fcms2022]
 - *Encruzilhadas de Estórias – Louvação Ogum* (2023) — curta-metragem selecionado para o Festival América do Sul.[^fcms2023]
-- *Louvação à Ibejada* (2025) — média-metragem documental sobre a festa de São Cosme e Damião em Corumbá, gravado entre 2021 e 2022 com recursos da Lei Paulo Gustavo; direção.[^fcms2025a][^fcms2025b]
+- [[louvacao-a-ibejada|*Louvação à Ibejada*]] (2025) — média-metragem documental sobre a festa de São Cosme e Damião em Corumbá, gravado entre 2021 e 2022 com recursos da Lei Paulo Gustavo; direção.[^fcms2025a][^fcms2025b] [Assistir no YouTube](https://www.youtube.com/watch?v=HaAWHhYh4Pw)
 - [[pantanal-negro|*Pantanal Negro*]] (2026) — documentário; direção artística e produção executiva, segundo a Fundação de Cultura de MS e *A Crítica*, ou direção, segundo o *Campo Grande News*.[^fcms2026a][^acritica2026a][^cgn2026]
 
 [^cgn2024]: Aletheya Alves, ["No Banho de São João, Thayná quer mostrar raízes negras de Corumbá"](https://www.campograndenews.com.br/lado-b/diversao/no-banho-de-sao-joao-thayna-quer-mostrar-raizes-negras-de-corumba), *Campo Grande News*, 15 jun. 2024. Acesso em 4 nov. 2026.
