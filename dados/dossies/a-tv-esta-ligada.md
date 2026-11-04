@@ -18,3 +18,9 @@ Midiamax (MSFLIX, 2020) não abriu (página vazia).
 ## Uso no verbete
 
 Tudo com nota. Participantes (Geraldo Saldanha, Jair Damasceno, Fernando Cruz, Andrea Freire, Angelo Arruda) ficaram sem link: há verbetes jair-damasceno, fernando-cruz e andrea-freire, mas a fonte não confirma que são as mesmas pessoas nem a função no filme. Confirmação de participação no FesFest'AFilm (realizada ou não) não encontrada.
+
+## Atualização de 2026-11-04 (r13)
+
+- op2014: Anibal Placêncio, "Curta de cineasta aquidauanense estreia neste fim de semana", *O Pantaneiro*, 07/11/2014, https://www.opantaneiro.com.br/aquidauana/2014/11/07/curta-de-cineasta-aquidauanense-estreia-neste-fim-de-semana.html — financiamento FCMS e Fundac; estreia 08 e 09/11/2014 no Cinemark de Campo Grande (anúncio; o cgn2015 confirma que estreou em novembro de 2014 no Cinemark); 24 min; classificação 10 anos; equipe e elenco. Segunda fonte independente além do CGN e do Correio do Estado.
+- Ficha técnica: "Produção: Valquiria Allis" registrada como está na fonte. Leonardo Copetti (som e trilha) não ligado a [[leo-copetti]]: nenhuma fonte diz que é a mesma pessoa.
+- Elenco da fonte tem 38 nomes; o verbete traz lista parcial. "Leandro Faria Lelo" no elenco não foi ligado a leandro-faria (identidade não confirmada).

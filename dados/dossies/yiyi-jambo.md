@@ -34,3 +34,10 @@ Descartadas: Google Notícias (O Globo 2016, revista celeste 2011): não abertas
 ## Uso no verbete
 
 - Tudo entrou. Detalhes de venda por telefone/e-mail ficaram fora (irrelevantes).
+
+## Atualização de 2026-11-04 (validação)
+
+- Sousa: fundação em Assunção aparece na p. 44 e na p. 51; Ponta Porã na p. 50 (sem dizer que foi fundada lá). Eloísa/Heloísa Cartonera 2005 para Uma Flor na Solapa da Miséria na p. 44. El Astronauta Paraguayo: "Yiyi Jambo; Assunção, 2012" (p. 45) × Camargo "Ponta Porã: Yiyi Jambo, 2012" (p. 144). Registrado.
+- Camargo: trechos nas p. 139-140 (fundação, dezena de livros, "espaço de liberdade") e 144 (referências). Nota corrigida.
+- Camargo diz que Diegues "editou ... o poema 'A uma passante'"; a tradução para o portunhol é contexto do parágrafo seguinte. Frase ajustada ao texto.
+- Wikipédia: sem artigo (404).

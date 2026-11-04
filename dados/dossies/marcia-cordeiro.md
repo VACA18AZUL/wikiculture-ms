@@ -26,3 +26,7 @@ As duas reproduzem o mesmo release de programação. Buscas: Prefeitura de Bonit
 - Só programação anunciada, sem confirmação de realização nem dados de carreira. Sem verbete próprio. Situação: incorporado-em:festival-de-inverno-de-bonito (frase sugerida abaixo para quem editar o verbete do festival; não editei verbete alheio).
 - Frase sugerida: "A abertura da edição de 2024 foi anunciada com o show *Nossas Vozes, MS Mais Bonito*, do grupo Mulheres de Bonito, com Marcia Cordeiro, Morgana Zhen, Izabelê, Riquelme e Telma Cordeiro, e participação de alunos da [[banda-municipal-de-bonito|Banda Municipal de Bonito]] em \"Rios Vivos\", antes do show de Alexandre Pires.[^fcms2024]"
 - "Marcia Rolon" (Moinho Cultural) e "m-sylvia-cordeiro": sem relação.
+
+## Atualização de 2026-11-04 (r13)
+
+- *O Pantaneiro*, 09/08/2010, "Filme mostra belezas do Pantanal de Aquidauana" (https://www.opantaneiro.com.br/aquidauana/2010/08/09/filme-mostra-belezas-do-pantanal-de-aquidauana.html): anuncia que "Márcia Cordeiro" cantaria o hino de Aquidauana em releitura no lançamento do filme *Pantanal de Aquidauana* (10/08/2010, UFMS Aquidauana). A matéria não dá cidade, grupo nem outro dado que a ligue à cantora do Mulheres de Bonito: identidade não confirmada, nada acrescentado. Também é anúncio, não registro da apresentação.

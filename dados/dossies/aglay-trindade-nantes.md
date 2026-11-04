@@ -40,6 +40,6 @@
 
 - Todas as fontes reabertas. Título dito por Melly Sena (FCMS 2024): "Morro Azul: Histórias Pantaneiras" × "estórias pantaneiras" (Lise Lima; B. R. A. da Silva). Registrado no verbete.
 - B. R. A. da Silva (2022, nota 18) apoia-se em Sá Rosa (2011, p. 321-331) e fala de "parte da crítica"; atribuição acrescentada.
-- G. A. de Lima (2012): o trecho está na p. 61 do PDF (sem numeração impressa legível no texto); a lista inclui também Brígido Ibanhes e Flora Thomé. Corrigido.
+- G. A. de Lima (2012): o trecho está na p. 59 (p. 61 do PDF; a lista de figuras confirma o deslocamento de 2 páginas); a lista inclui também Brígido Ibanhes e Flora Thomé. Corrigido.
 - Encontro da ASL em novembro de 2026: anúncio de março (A Crítica, 10 mar. 2026); redigido como anúncio.
 - Lise Lima traz parentesco (irmãs, pais): fora, por ser vida familiar.

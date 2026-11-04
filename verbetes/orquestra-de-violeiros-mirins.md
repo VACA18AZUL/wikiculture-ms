@@ -3,7 +3,7 @@ titulo: Orquestra de Violeiros Mirins
 tipo: grupo
 areas: [musica]
 cidade: Campo Grande
-resumo: "Orquestra infantil e juvenil de violão e viola de Campo Grande, em atividade desde 2006, coordenada por Jorcy Neves Luiz, com repertório pantaneiro, fronteiriço e sertanejo."
+resumo: "Orquestra infantil e juvenil de violão e viola de Campo Grande, ativa desde 2006 segundo o Correio do Estado (2010), coordenada por Jorcy Neves Luiz, com repertório pantaneiro, fronteiriço e sertanejo."
 ficha:
   Fundação: "2006"
   Integrantes: "Jorcy Neves Luiz e Sebastiana Dias Neves (idealizadores)"
@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Orquestra de Violeiros Mirins**, também chamada Orquestra Violeiros Mirins de Campo Grande, é um grupo de violão e viola formado por crianças e adolescentes, em atividade desde 2006 em Campo Grande.[^ce2010] Não deve ser confundida com a [[orquestra-de-violeiros-de-tres-lagoas|Orquestra de Violeiros de Três Lagoas]].
+A **Orquestra de Violeiros Mirins**, também chamada Orquestra Violeiros Mirins de Campo Grande, é um grupo de violão e viola formado por crianças e adolescentes em Campo Grande, distinto da [[orquestra-de-violeiros-de-tres-lagoas|Orquestra de Violeiros de Três Lagoas]]. Em 2010, o *Correio do Estado* informou que estava em atividade desde 2006.[^ce2010]
 
 ## Trajetória
 

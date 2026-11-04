@@ -34,3 +34,9 @@
 ## Uso no verbete
 
 Tudo, sem a análise de gênero detalhada da tese.
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- Direção de Aguinaldo Trouy e colaboração de Peri Alves Campos: Rodrigues cita Pontes (1981, p. 36). Rodrigues (p. 25) identifica Peri como médico e editor-chefe.
+- Paginação conferida: Rodrigues p. 24-30, 142, 234-235; Araujo p. 23-24 e 144-147 (paginação impressa).
+- Rodrigues p. 142, nota 109, grafa o segundo livro de Lobivar como "Saborá".

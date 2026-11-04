@@ -3,7 +3,7 @@ titulo: Luiz Cambará
 tipo: pessoa
 areas: [musica]
 cidade: Corumbá
-resumo: "Compositor de Corumbá, autor do samba-enredo da escola A Imperatriz para o carnaval de 1978. Em sua casa se reuniam, em 1972, os estudantes que deram origem ao Grupo ALEC."
+resumo: "Compositor de Corumbá, autor do samba-enredo da escola A Imperatriz para o carnaval de 1978. Em 1972, estudantes poetas se reuniam em sua casa, num dos grupos que antecederam o ALEC."
 ficha:
   Atividade: "Composição (samba-enredo)"
 status: rascunho
@@ -14,9 +14,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Compôs o samba-enredo da escola de samba A Imperatriz para o carnaval de 1978. Em 2017, a Imperatriz Corumbaense levou de novo esse samba à avenida, 40 anos depois, no desfile do Grupo de Acesso, com o enredo "Exaltação à Primavera, à Imperatriz e a Luiz Cambará". O carro abre-alas representou a Praça da Independência, onde, segundo o *Diário Corumbaense*, Cambará se sentava para admirar o coreto e a fonte que o inspiravam. Uma ala contou a história do compositor e da escola.[^dc2017]
+Compôs o samba-enredo da escola de samba A Imperatriz para o carnaval de 1978. Em 2017, a Imperatriz Corumbaense levou de novo esse samba à avenida, no desfile do Grupo de Acesso, com o enredo "Exaltação à Primavera, à Imperatriz e a Luiz Cambará". O carro abre-alas representou a Praça da Independência, onde, segundo o *Diário Corumbaense*, Cambará se sentava para admirar o coreto e a fonte que o inspiravam. Uma ala contou a história do compositor e da escola.[^dc2017]
 
-Em 1972, estudantes de Corumbá que escreviam poesia passaram a se reunir na casa de Cambará. Dali surgiu a Escola Poética Castro Alves, depois chamada Poetas Estudantis de Corumbá, origem do [[grupo-alec-corumba|Grupo ALEC]], segundo coluna de Rosildo Barcellos no *Correio de Corumbá*.[^barcellos2023]
+Segundo coluna de Rosildo Barcellos no *Correio de Corumbá*, em 1972 estudantes de Corumbá que escreviam poesia passaram a se reunir na casa de Cambará. Dali surgiu a Escola Poética Castro Alves, logo rebatizada Poetas Estudantis de Corumbá (PEC). O grupo também se reuniu na casa de [[izulina-xavier|Izulina Xavier]], e reuniões posteriores levaram à formação do [[grupo-alec-corumba|Grupo ALEC]].[^barcellos2023]
 
 [^dc2017]: ["Imperatriz Corumbaense encerra desfiles no ritmo cadenciado do samba"](https://diarionline.com.br/?s=noticia&id=92245), *Diário Corumbaense*, 27 fev. 2017. Acesso em 4 nov. 2026.
 [^barcellos2023]: Rosildo Barcellos, ["Bodas de bronze"](https://www.correiodecorumbapantanal.com.br/colunistas/rosildo-barcellos/bodas-de-bronze), *Correio de Corumbá*, 30 jul. 2023. Acesso em 4 nov. 2026.

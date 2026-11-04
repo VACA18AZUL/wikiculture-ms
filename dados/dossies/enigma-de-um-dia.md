@@ -27,3 +27,10 @@
 ## Uso no verbete
 
 Tudo entrou, menos a identificação de Sérgio Medeiros.
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- Duração: 21 min (material original, Cinemateca); FGR/24 indica 20 min; MinC/CMB e MIS indicam 17 min (observações da Cinemateca).
+- Veneza: Neves fala em prêmios; a Cinemateca registra participação na Seleção Oficial do Festival de Veneza de 1997. As duas versões no verbete.
+- Câmera: Jaime Schwartz (Cinemateca); direção de fotografia Mário Carneiro.
+- Vicelli p. 13-14.

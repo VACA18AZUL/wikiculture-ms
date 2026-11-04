@@ -21,7 +21,9 @@ Para o jornalista [[rodrigo-teixeira|Rodrigo Teixeira]], autor de [[grupo-acaba-
 
 Em depoimento em vídeo citado pelo *Correio do Estado*, ele lembrou a atuação do ACABA em defesa do Pantanal, com manifestações contra o derrame de vinhoto e a mortandade de peixes, e a presença do grupo em momentos como as Diretas Já e o impeachment de Fernando Collor.[^correio2026]
 
-Também foi professor de música.[^oestado2026][^correio2026] Morreu em 6 de fevereiro de 2026. O [[projeto-memoria-fonografica-de-ms|Memória Fonográfica de MS]] publicou nota em que cita sua participação em gravações preservadas pelo acervo.[^oestado2026][^correio2026]
+Também foi professor de música.[^oestado2026][^correio2026] Morreu em 6 de fevereiro de 2026.[^oestado2026][^correio2026]
+
+O [[projeto-memoria-fonografica-de-ms|Memória Fonográfica de MS]] publicou nota de pesar em que cita sua contribuição para gravações preservadas no acervo.[^correio2026]
 
 [^oestado2026]: Amanda Ferreira, ["Adriano Praça, integrante do Grupo Acaba, morre deixando legado cultural em MS"](https://oestadoonline.com.br/arte-e-lazer/adriano-praca-integrante-do-grupo-acaba-morre-deixando-legado-cultural-em-ms/), *O Estado de Mato Grosso do Sul*, 7 fev. 2026. Acesso em 4 nov. 2026.
 [^correio2026]: Laura Brasil, ["Amigos lamentam morte de Adriano Praça, integrante do Grupo Acaba"](https://correiodoestado.com.br/cidades/2026/02/06/amigos-lamentam-morte-de-adriano-praca-integrante-do-grupo-acaba.html), *Correio do Estado*, 6 fev. 2026. Acesso em 4 nov. 2026.

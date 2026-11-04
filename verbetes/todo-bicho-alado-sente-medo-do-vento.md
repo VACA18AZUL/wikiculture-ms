@@ -3,7 +3,7 @@ titulo: Todo bicho alado sente medo do vento
 tipo: obra
 areas: [literatura]
 cidade: Campo Grande
-resumo: "Livro de contos e crônicas de André Alvez, publicado com recursos do 1º Prêmio Ipê de Literatura, da prefeitura de Campo Grande, e lançado em julho de 2023 na Esplanada Ferroviária."
+resumo: "Livro de contos e crônicas de André Alvez, publicado com recursos do 1º Prêmio Ipê de Literatura, da prefeitura de Campo Grande, com lançamento marcado para julho de 2023 na Esplanada Ferroviária."
 ficha:
   Autor: "André Alvez"
   Ano: "2023"
@@ -24,7 +24,7 @@ Segundo o autor, os textos misturam metáforas e realismo mágico e prestam home
 
 ## Lançamento
 
-O lançamento foi em 21 de julho de 2023, com noite de autógrafos na Esplanada Ferroviária, em Campo Grande, com apoio da União Brasileira de Escritores de Mato Grosso do Sul ([[ube-ms|UBE-MS]]) e da MKT Produções.[^cgn2023][^oe2023]
+O lançamento foi marcado para 21 de julho de 2023, com noite de autógrafos na Esplanada Ferroviária, em Campo Grande, e apoio da União Brasileira de Escritores de Mato Grosso do Sul ([[ube-ms|UBE-MS]]) e da MKT Produções.[^cgn2023][^oe2023]
 
 [^cgn2022]: Caroline Maldonado, ["Divulgado resultado do 1º Prêmio Ipê de Literatura"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/divulgado-resultado-do-1o-premio-ipe-de-literatura), *Campo Grande News*, 28 jul. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Ganhador do Ipê de Literatura, André Alvez lança novo livro de contos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ganhador-do-ipe-de-literatura-andre-alvez-lanca-novo-livro-de-contos), *Campo Grande News*, 17 jul. 2023. Acesso em 4 nov. 2026.

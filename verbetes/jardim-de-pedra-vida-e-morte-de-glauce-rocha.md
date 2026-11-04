@@ -3,7 +3,7 @@ titulo: "Jardim de Pedra: Vida e Morte de Glauce Rocha"
 tipo: obra
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: "Curta documental de Daphyne Schiffer e Rodrigo Rezende sobre a atriz campo-grandense Glauce Rocha, feito como TCC de Jornalismo na UFMS. Premiado na 9ª Mostra Audiovisual de Dourados, estreou em Campo Grande em novembro de 2024."
+resumo: "Curta documental de Daphyne Schiffer e Rodrigo Rezende sobre a atriz campo-grandense Glauce Rocha, nascido de um TCC de Jornalismo na UFMS. Premiado na 9ª Mostra Audiovisual de Dourados (2024)."
 ficha:
   Ano: "2024"
   Formato: "Curta-metragem documentário, cerca de 16 minutos"
@@ -18,13 +18,13 @@ atualizado: 2026-11-04
 
 Segundo a diretora, natural do Rio de Janeiro, a ideia surgiu quando ela chegou a Campo Grande para estudar na UFMS e viu que o maior teatro da cidade, o [[teatro-glauce-rocha|Teatro Glauce Rocha]], levava o nome de uma atriz que pouca gente conhecia.[^oestado2024]
 
-O roteiro partiu de pesquisa em livros, recortes de jornais e revistas, fotografias, filmes e cenas de novelas. O filme reúne depoimentos gravados em Campo Grande, São Paulo e Rio de Janeiro, entre eles de amigos e colegas da atriz. O [[mis-ms|Museu da Imagem e do Som de MS]], a Biblioteca Nacional e a Cinemateca Brasileira cederam material. É uma produção independente, com recursos da Lei Paulo Gustavo repassados pela Secretaria Municipal de Cultura e Turismo de Campo Grande.[^cgn2024][^g12024][^ufms2025b]
+O roteiro partiu de pesquisa em livros, fotografias, recortes de jornal e de revista, filmes e cenas de novelas. O filme reúne depoimentos gravados em Campo Grande, São Paulo e Rio de Janeiro, entre eles de amigos e colegas da atriz. O [[mis-ms|Museu da Imagem e do Som de MS]], a Biblioteca Nacional e a Cinemateca Brasileira cederam material. É uma produção independente, com recursos da Lei Paulo Gustavo repassados pela Secretaria Municipal de Cultura e Turismo de Campo Grande.[^cgn2024][^g12024][^ufms2025b]
 
 ## Exibições e prêmios
 
-Antes da estreia, o curta recebeu os prêmios de melhor documentário e melhor direção na 9ª [[mostra-audiovisual-de-dourados|Mostra Audiovisual de Dourados]], em 2024.[^oestado2024][^cgn2024] A estreia foi em 21 de novembro de 2024 no Espaço Energia, em Campo Grande, junto com uma exposição sobre a atriz, com figurinos, recortes de jornal das décadas de 1960 e 1970, fotografias, livros e um painel cronológico. O acervo exposto foi cedido pelo MIS-MS, e a exposição foi anunciada até a segunda semana de janeiro de 2025.[^oestado2024][^cgn2024] No Espaço Energia, as sessões do filme foram marcadas para as terças e quintas-feiras.[^g12024]
+Antes da estreia, o curta recebeu os prêmios de melhor documentário e melhor direção na 9ª [[mostra-audiovisual-de-dourados|Mostra Audiovisual de Dourados]], em 2024.[^oestado2024][^cgn2024] A estreia foi marcada para 21 de novembro de 2024 no Espaço Energia, em Campo Grande, junto com uma exposição sobre a atriz, com figurinos, recortes de jornal das décadas de 1960 e 1970, fotografias, livros e um painel cronológico. O acervo exposto foi cedido pelo MIS-MS, e a exposição foi anunciada até a segunda semana de janeiro de 2025.[^oestado2024][^cgn2024] No Espaço Energia, as sessões do filme foram marcadas para as terças e quintas-feiras.[^g12024]
 
-Em abril de 2025, o filme integrava as cinco obras do Projeto Olubayo, que exibiu cinema em comunidades quilombolas de Mato Grosso do Sul, com recursos da Lei Paulo Gustavo, nas comemorações dos 40 anos do [[grupo-tez|Grupo TEZ]] (Trabalho Estudos Zumbi).[^oestado2025]
+Em abril de 2025, o filme estava entre as cinco obras do repertório do Projeto Olubayo, que levava sessões de cinema a comunidades quilombolas de Mato Grosso do Sul, com recursos da Lei Paulo Gustavo, nas comemorações dos 40 anos do [[grupo-tez|Grupo TEZ]] (Trabalho Estudos Zumbi).[^oestado2025]
 
 O curta faz parte do Memorial Glauce Rocha, aberto pela UFMS em 30 de junho de 2025 no Teatro Glauce Rocha, e foi exibido na solenidade dos 46 anos de federalização da universidade, em 3 de julho de 2025.[^ufms2025a][^ufms2025b] Em setembro de 2025, entrou no circuito audiovisual do Festival Mais Cultura da UFMS.[^ufms2025c] Em outubro, foi selecionado para a mostra competitiva Curta Doc da segunda edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], na lista que dá a direção a Daphyne Schiffer Gonzaga e Rodrigo da Silva Rezende.[^fcms2025]
 

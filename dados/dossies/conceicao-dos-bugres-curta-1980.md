@@ -32,3 +32,11 @@
 ## Uso no verbete
 
 Tudo entrou. Prêmio em Brasília sem categoria nem ano (Neves não diz).
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- Nenhuma das fontes lidas descreve o conteúdo do curta; a frase "sobre a escultora" e o link para o verbete da escultora saíram do texto.
+- Marin e Pereira tiram de Gehlen e Herrero (2011, p. 69-71) tanto a direção de Guizzo quanto o ano de 1980.
+- Cinemateca: produção no estado "MT"; certificado de produto brasileiro 093, de jul. 1979.
+- Neves p. 48: Siriema Filmes fundada por Guizzo, José de Souza Leite e Cândido Alberto da Fonseca.
+- Diehl p. 38 (não 38-39).

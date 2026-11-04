@@ -16,13 +16,13 @@ atualizado: 2026-11-04
 
 ## Sobre o filme
 
-O filme foi gravado em São Carlos (SP) e acompanha alunos da Universidade Federal de São Carlos (UFSCar) por cerca de dez anos, do ingresso na universidade ao mercado de trabalho. O diretor, de Aquidauana, estudou na UFSCar e disse que o enredo é guiado pelo seu olhar.[^cgn] Uma matéria de 2025 aponta entre os temas as cotas raciais, os cortes na educação pública, as greves universitárias e os movimentos estudantis.[^ce2025] A trilha sonora original é do músico [[leo-copetti|Leo Copetti]], de Campo Grande.[^cgn]
+O filme foi gravado em São Carlos (SP) e acompanha alunos da Universidade Federal de São Carlos (UFSCar) por cerca de dez anos, do ingresso na universidade ao mercado de trabalho. O diretor, de Aquidauana, estudou na UFSCar e disse que o enredo é guiado pelo seu olhar.[^cgn] Uma matéria de 2025 aponta entre os temas as cotas raciais, os cortes na educação pública, as greves universitárias e os movimentos estudantis.[^ce2025] A trilha sonora original é do músico [[leo-copetti|Leo Copetti]], de Campo Grande.[^cgn] Em dezembro de 2023, ainda antes dos festivais, *O Pantaneiro* descreveu o projeto como em produção havia 13 anos, acompanhando a vida de dez estudantes universitários. Segundo o diretor, a demora se deveu ao seu modo de trabalhar sem pressa e à falta de editais para a cultura no período.[^op2023]
 
 ## Circulação
 
 A turnê internacional começou em 5 de junho de 2024, no Zlin Film Festival (República Tcheca), e passou pelo Philadelphia Latino Arts & Film Festival (EUA), pelo Festival Internacional de Nuevo Cine Independiente (Uruguai) e pelo Vancouver Latin American Film Festival (Canadá), onde concorreu ao prêmio de novos diretores.[^cgn][^ce2025] Em março do ano anterior ao da matéria (2023), o filme recebeu o prêmio WIP Puerto Lab, para filmes em finalização, no Festival Internacional de Cinema de Cartagena (Colômbia).[^cgn]
 
-A estreia no Brasil foi no [[bonito-cinesur|Bonito CineSur]], entre 19 e 27 de julho de 2024, na disputa por Melhor Filme Sul-Mato-Grossense com outras cinco produções.[^cgn] Segundo o Correio do Estado, o documentário venceu o Júri Popular do festival nessa categoria.[^ce2025]
+A estreia no Brasil foi no [[bonito-cinesur|Bonito CineSur]], entre 19 e 27 de julho de 2024, na disputa por Melhor Filme Sul-Mato-Grossense com outras cinco produções.[^cgn] Segundo o Correio do Estado, o documentário venceu o Júri Popular do festival nessa categoria.[^ce2025] *O Pantaneiro* também noticiou o prêmio do júri popular, em julho de 2024.[^op2024]
 
 O lançamento comercial ocorreu em maio de 2025, no cinema do shopping Frei Caneca, em São Paulo, depois de sessões em São Carlos (13 de maio) e Campinas (14 de maio). O filme integra o projeto Núcleo de Distribuição Cinema do Interior, apoiado pela Lei Paulo Gustavo.[^ce2025]
 
@@ -35,3 +35,5 @@ O lançamento comercial ocorreu em maio de 2025, no cinema do shopping Frei Cane
 [^cgn]: Idaicy Solano, ["Após turnê internacional, Essi Rafael estreia longa no festival Bonito CineSur"](https://www.campograndenews.com.br/lado-b/diversao/apos-turne-internacional-essi-rafael-estreia-longa-no-festival-bonito-cinesur), *Campo Grande News*, 29 jun. 2024. Acesso em 29 out. 2026.
 [^ce2024]: Mariana Piell, ["Documentário premiado de diplomata aquidauanense terá estreia nacional em Bonito"](https://correiodoestado.com.br/correio-b/documentario-premiado-de-diplomata-aquidauanense-tera-estreia-nacional/432129/), *Correio do Estado*, 26 jun. 2024. Acesso em 29 out. 2026.
 [^ce2025]: Mariana Piell, ["Filme de diplomata de MS tem estreia comercial em São Paulo"](https://correiodoestado.com.br/correio-b/filme-de-diplomata-de-ms-e-lancado-em-circuito-de-sao-paulo/448339/), *Correio do Estado*, 24 mai. 2025. Acesso em 29 out. 2026.
+[^op2023]: Sandra Luz, ["Diplomacia e cinema brasileiro contam com pitada aquidauanense"](https://www.opantaneiro.com.br/geral/2023/12/05/diplomacia-e-cinema-brasileiro-contam-com-pitada-aquidauanense.html), *O Pantaneiro*, 5 dez. 2023. Acesso em 4 nov. 2026.
+[^op2024]: Guilherme Henrique, ["Cineasta aquidauanense conquista prêmio em festival de Bonito"](https://www.opantaneiro.com.br/aquidauana/2024/07/30/cineasta-aquidauanense-conquista-premio-em-festival-de-bonito.html), *O Pantaneiro*, 30 jul. 2024. Acesso em 4 nov. 2026.

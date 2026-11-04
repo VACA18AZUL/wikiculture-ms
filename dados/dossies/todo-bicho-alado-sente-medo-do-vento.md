@@ -30,3 +30,8 @@ Descartada: FCMS, 7 abr. 2026 (Leituras & Conversas na ASL): só cita o título 
 ## Uso no verbete
 
 - Entrou tudo, exceto o preço.
+
+## Revisão de 2026-11-04 (valn-57)
+
+- cgn2023 (17 jul.) e oe2023 (21 jul., 9h) anunciam o lançamento; nenhuma fonte lida noticia que ele aconteceu.
+- oe2023 diz que a obra é "inspirada numa história real"; cgn2023 atribui essa característica a "A Bruxa da Sapolândia" ("romance ficcional inspirado numa história real") e diz que o novo livro é bastante diferente. Provável confusão do O Estado; não entrou no verbete.

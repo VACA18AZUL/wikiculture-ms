@@ -34,3 +34,7 @@ cgn2026 e oestado2026 parecem partir do mesmo release (frases iguais): independ�
 ## Uso no verbete
 
 - Entrou tudo, menos o item "Fora".
+
+## Atualização de 2026-11-04 (r13)
+
+- opantaneiro2024b: Guilherme Henrique, *O Pantaneiro*, 12/12/2024 — convite para a Academia do Prêmio Multishow (~700 acadêmicos; quatro de MS, segundo a fonte); ida à premiação de 2024 no Rio; conteúdo para o *Meu Mato Grosso do Sul* (TV Morena). Fora: viagem à praia, agenda de Réveillon (anúncio). Thony Alviço citado como aquidauanense presente (não ligado; sem verbete conferido).

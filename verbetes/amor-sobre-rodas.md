@@ -12,13 +12,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Amor sobre Rodas*** é um romance em quadrinhos de [[wanick-correa|Wanick Correa]] e Priscila Muniz, lançado em 2019 e ambientado em Campo Grande nos anos 1990. É o segundo livro em quadrinhos da dupla, depois de *Detalhes* (2014).[^correio2019][^oestado2020][^oestado2023]
+***Amor sobre Rodas*** é um romance em quadrinhos lançado em 2019, assinado por [[wanick-correa|Wanick Correa]] e Priscila Muniz e ambientado em Campo Grande nos anos 1990. É o segundo livro em quadrinhos da dupla, depois de *Detalhes* (2014).[^correio2019][^oestado2020][^oestado2023]
 
 ## Enredo
 
 A história acompanha Filipe, de 20 anos, que trabalha numa floricultura e não sabe o que quer da vida. Ele conhece Bianca, jovem que gosta de livros e vive dúvidas parecidas. Os dois dividem medos, conflitos familiares e as bicicletas.[^correio2019]
 
-O livro reconstitui lugares da cidade que já não existem, como a antiga feira próxima à Avenida Mato Grosso que deu origem à Feira Central. Cada capítulo abre com a ilustração de um patrimônio de Campo Grande, como a [[morada-dos-bais|Morada dos Baís]].[^correio2019]
+O livro reconstitui lugares da cidade que já não existem, como a antiga feira próxima à Avenida Mato Grosso que deu origem à Feira Central. Antes de cada capítulo há o desenho de um bem considerado patrimônio da cidade, entre eles a [[morada-dos-bais|Morada dos Baís]].[^correio2019]
 
 ## Publicação
 

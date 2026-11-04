@@ -32,3 +32,7 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Sem verbete: uma única menção, já usada no verbete do filme. Situação: sem-fonte.
+
+## Atualização de 2026-11-04 (r13)
+
+- *O Pantaneiro* (21/12/2010 e 07/11/2014) traz "Leonardo Copetti" como autor da música original de *Ela veio me ver* e do som, trilha e mixagem de *A TV está ligada*, ambos de Essi Rafael. É plausível que seja o "Leo Copetti" da trilha de *As Quatro Estações da Juventude* (mesmo diretor), mas nenhuma fonte liga os dois nomes. Não ligado nos verbetes; fica para confirmar (perfil profissional dele, ficha técnica de festival).

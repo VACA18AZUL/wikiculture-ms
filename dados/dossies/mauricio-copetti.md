@@ -56,3 +56,11 @@ Fontes descartadas e o motivo:
 ## Atualização de 2026-11-04 (r11)
 
 - Fidelis (UFMS, dissertação, 2015), p. 120 do PDF: "Maurício Copetti" entre os ministrantes das oficinas de cinema do Ava Marandu (fev.-abr. 2010).
+
+## Atualização de 2026-11-04 (r13)
+
+- op2010 (*O Pantaneiro*, 09/08/2010): direção de *Pantanal de Aquidauana* (lançamento anunciado para 10/08/2010, UFMS Aquidauana); trabalhos citados: Delta do Salobra, Água dos Matos, Nanquim, Sancho a Lontra Gigante (BBC e Animal Planet), "Home – o Filme"; making of de *Cabeça a Prêmio*. "Home – o Filme" ficou fora (sem detalhe de função).
+- op2010b (*O Pantaneiro*, 21/12/2010): diretor de fotografia de *Ela veio me ver* (Essi Rafael).
+- rcn2015 (*RCN67*, 13/03/2015): nascido em Ijuí (RS); MS desde 1992, fixo desde 1998; Delta de Salobra (quatro prêmios); Nanquim; Raising Sancho com BBC Bristol. Texto com cara de divulgação do Departamento Municipal de Cultura de Três Lagoas (a ação é dele), sem marca explícita de release.
+- Grafia: "Delta de Salobra" (RCN67) x "Delta do Salobra" (O Pantaneiro); ambas registradas.
+- O verbete passa a ter quatro fontes de imprensa independentes (CGN, A Crítica, RCN67, O Pantaneiro) além da dissertação.

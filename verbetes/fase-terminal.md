@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em depoimento à Fundação, em 2023, o criador do grupo, Higor HG, contou que os integrantes vinham do break e que fizeram um primeiro evento de hip hop na escola Antônio da Silveira Capilé, em Dourados. O lançamento oficial foi em 1998, com um show no 1º de Maio, na Praça Antônio João. O primeiro disco saiu no fim de 2003.[^fcms2023]
+Em depoimento à Fundação, em 2023, o criador do grupo, Higor HG, contou que os integrantes vinham do break e que, quando ele tinha 17 anos, organizaram um evento de hip hop na escola Antônio da Silveira Capilé, em Dourados. O lançamento oficial foi em 1998, com um show no 1º de Maio, na Praça Antônio João. O primeiro disco saiu no fim de 2003.[^fcms2023]
 
-Segundo o mesmo depoimento, as letras tratavam de temas como a recusa às drogas, a violência urbana, as brigas entre vilas e o narcotráfico na fronteira. O grupo fez ações sociais com a [[cufa-ms|Central Única das Favelas (CUFA)]], que Higor coordenou no estado, inclusive nas aldeias Jaguapiru e Bororó, onde conheceu o [[bro-mcs|Brô MC's]].[^fcms2023]
+Segundo o mesmo depoimento, as letras tratavam de temas como a recusa às drogas, a violência urbana, as brigas entre vilas e o narcotráfico na fronteira. O grupo fez ações sociais com a [[cufa-ms|Central Única das Favelas (CUFA)]], que Higor coordenou no estado, inclusive nas aldeias Jaguapiru e Bororó, onde o grupo conheceu o [[bro-mcs|Brô MC's]].[^fcms2023]
 
 A tese de Miguel Angelo Corrêa aponta [[higor-lobo|Higor Marcelo Lobo Vieira]], coordenador da oficina audiovisual da CUFA de Dourados, como membro fundador do Fase Terminal.[^correa2023]
 

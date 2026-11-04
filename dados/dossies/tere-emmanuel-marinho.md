@@ -25,3 +25,9 @@
 ## Uso no verbete
 
 - Tudo entrou. Item da lista de obras em emmanuel-marinho ligado ao verbete.
+
+## Atualização de 2026-11-04 (validação)
+
+- Saturnino: o trecho sobre Teré e o nascimento em Dourados estão na p. 16 impressa (p. 17 do PDF). Nota corrigida. A dissertação é de 2005, o que mostra que o disco existia nesse ano; o ano de lançamento não aparece nas fontes lidas.
+- O parágrafo de prêmios de J. E. O. de Lima (p. 10 do PDF), tirado do blog do poeta, é igual ao texto da página da ASL: as duas notas do prêmio Marco Verde (2002) têm a mesma origem, o próprio poeta. Registrado no verbete.
+- Wikipédia: há artigo sobre Emmanuel Marinho (https://pt.wikipedia.org/wiki/Emmanuel_Marinho); não sobre o disco.

@@ -34,7 +34,7 @@ Em março de 2018, foi um dos curtas exibidos a alunos da Escola Municipal Arlin
 - Direção: [[essi-rafael|Essi Rafael]][^cgn2015]
 - Produção: [[casa-de-cinema-de-aquidauana|Casa de Cinema de Aquidauana]][^ce2024]
 - Roteiro: [[essi-rafael|Essi Rafael]][^op2014]
-- Produção executiva: Valquiria Allis[^op2014]
+- Produção: Valquiria Allis[^op2014]
 - Direção de fotografia: [[helton-perez|Helton Pérez]][^op2014]
 - Som e trilha sonora original: Leonardo Copetti[^op2014]
 - Mixagem de som: Leonardo Copetti[^op2014]

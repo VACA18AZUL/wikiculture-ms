@@ -27,3 +27,10 @@
 ## Uso no verbete
 
 Entrou tudo acima, menos o que vem só da Wikipédia.
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- O relato da viagem de ônibus é do próprio Cardoso, na biografia de Medeiros Filho (2006), citada por Neves p. 45.
+- Cinemateca: distribuição Seleção Ouro; direção de produção Miro Carvalho; gênero drama/aventura.
+- Neves p. 42: Cardoso funda a Dacar em 1974.
+- Wikipédia: https://pt.wikipedia.org/wiki/Dezenove_Mulheres_e_Um_Homem (não usada como nota).

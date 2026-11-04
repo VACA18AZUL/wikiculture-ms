@@ -24,5 +24,5 @@ Participou do projeto [[arte-e-cores-no-paco|Arte & Cores no Paço]].[^ce2020] C
 
 - *Conexões Criativas* (2019, segundo o *Correio do Estado*; janeiro de 2020, segundo a FCMS) — coletiva, com Carlos Nunes e Edson Castro.[^ce2020][^fcms2020]
 
-[^ce2020]: Fábio Oruê, ["Morre o artista plástico e designer Heron Zanatta após uma parada cardíaca"](https://correiodoestado.com.br/correio-b/2020/09/02/morre-o-artista-plastico-e-designer-heron-zanatta-apos-uma-parada-cardiaca.html), *Correio do Estado*, 2 set. 2020. Acesso em 4 nov. 2026.
+[^ce2020]: Fábio Oruê, ["Morre o artista plástico e designer Heron Zanatta [...]"](https://correiodoestado.com.br/correio-b/2020/09/02/morre-o-artista-plastico-e-designer-heron-zanatta-apos-uma-parada-cardiaca.html), *Correio do Estado*, 2 set. 2020. Acesso em 4 nov. 2026.
 [^fcms2020]: Daiana Schio, ["Nota de Pesar"](https://www.fundacaodecultura.ms.gov.br/nota-de-pesar-8/), Fundação de Cultura de Mato Grosso do Sul, 2 set. 2020. Acesso em 4 nov. 2026.

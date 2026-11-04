@@ -34,3 +34,10 @@
 ## Uso no verbete
 
 Entrou tudo acima, com o elenco reduzido aos papéis principais.
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- Ficha técnica impressa em Ferraz e Neves (org.), 2012, p. 101, com a Cinemateca como fonte: direção de produção Roberto Faria; trilha sonora Joly Sanches; locação Maracaju (MS). O registro 003348 consultado em 4 nov. 2026 dá David Cardoso na direção e na gerência de produção, Quarteto Lyra nos arranjos (Joly Sanches como autor de duas músicas), cidade de produção Rio de Janeiro e locação "Mato Grosso - MS". Divergência registrada no verbete (nota ficha).
+- Prêmios citados por Neves "de acordo com dados da Cinemateca" seguem sem registro na base atual; o verbete diz isso.
+- Depoimento do diretor: Neves cita Guizzo (1974).
+- Diehl, p. 37 (não 38).

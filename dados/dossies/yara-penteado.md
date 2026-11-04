@@ -30,3 +30,9 @@
 ## Uso no verbete
 
 Tudo entrou, com a divergência de ano do livro.
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- fcms2024 anuncia a estreia para 18 dez. 2024; reescrito como anúncio.
+- cgn2017a e cgn2017b são matérias do dia da abertura; aberturas tratadas como anunciadas.
+- fcms2019 dá o título como "As Artes Plásticas de Mato Grosso do Sul" (2009); G. Lima: "Artes plásticas em Mato Grosso do Sul" (2005), com as três autoras como organizadoras nas referências.

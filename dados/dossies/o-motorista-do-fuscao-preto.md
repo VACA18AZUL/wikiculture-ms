@@ -25,3 +25,9 @@
 ## Uso no verbete
 
 Tudo entrou. Dados de nascimento de José Adalto Cardoso ficaram fora (não é o objeto do verbete).
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- A data de 2 dez. 1982 em Neves vem da página da Cinemateca consultada por ele; a base atual dá 2 out. 1982 no campo de lançamento e anota 2 dez. 1982 pela lista Embrafilme. Verbete atribui.
+- Cinemateca: Diogo Angélica também na direção de produção e como produtor associado; elenco credita "Vanessa" (Neves: Vanessa Alves).
+- Wikipédia: o artigo "Fuscão Preto" trata de outro filme (1983, Jeremias Moreira Filho).

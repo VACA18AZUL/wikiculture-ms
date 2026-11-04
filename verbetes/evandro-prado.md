@@ -3,14 +3,14 @@ titulo: Evandro Prado
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: "Artista plástico campo-grandense, radicado em São Paulo desde 2008, cujo trabalho trata da iconografia católica, do consumo e da política. Fez as mostras Habemus Cocam (2006), Dominus Tecum (2013) e Alvorada e Confronto (2019)."
+resumo: "Artista plástico campo-grandense, que se mudou para São Paulo em 2008, cujo trabalho trata da iconografia católica, do consumo e da política. Fez as mostras Habemus Cocam (2006), Dominus Tecum (2013) e Alvorada e Confronto (2019)."
 ficha:
   Atividade: Artista plástico
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Evandro Prado** é um artista plástico campo-grandense que vive em São Paulo desde 2008. Seu trabalho trata da iconografia católica, do consumo e da política brasileira.[^cgn2013][^correio2019]
+**Evandro Prado** é um artista plástico campo-grandense. Em 2013, o Campo Grande News informou que ele morava em São Paulo desde 2008. Seu trabalho trata da iconografia católica, do consumo e da política brasileira.[^cgn2013][^correio2019]
 
 ## Trajetória
 
@@ -20,9 +20,9 @@ Em 2008 expôs *Alegorias Proféticas* na [[galeria-wega-nery|Galeria Wega Nery]
 
 Em 2013 voltou ao Marco com *Dominus Tecum*, uma das quatro mostras da primeira temporada do museu naquele ano. Eram cinco trabalhos inéditos: um busto do papa Bento XVI apresentado como troféu de caça, um lampadário feito com cerca de 60 imagens de santos de cabeça para baixo, uma videoarte, a fotografia *Ruína* e uma instalação de 5 mil tijolos que desenha a planta de uma igreja.[^cgn2013]
 
-A série *Alvorada e Confronto*, sobre a arquitetura de Brasília e a crise política, foi iniciada em 2018 e exposta no Memorial da América Latina, em São Paulo. Em julho de 2019, cerca de 20 obras da série, quase todas inéditas, foram expostas no Sesc Cultura, em Campo Grande. No mesmo período, a mostra *Tem que Manter Isso Aí, Viu?*, com pinturas a óleo de capas de revista dedicadas à ex-presidente Dilma Rousseff, estava no Centro Cultural São Paulo.[^correio2019]
+A série *Alvorada e Confronto*, sobre a arquitetura de Brasília e a crise política, foi iniciada em 2018 e exposta no Memorial da América Latina, em São Paulo. Uma mostra com cerca de 20 obras da série, quase todas inéditas, teve abertura anunciada para 20 de julho de 2019 no Sesc Cultura, em Campo Grande. Na mesma época, a mostra *Tem que Manter Isso Aí, Viu?*, com pinturas a óleo de capas de revista dedicadas à ex-presidente Dilma Rousseff, estava no Centro Cultural São Paulo.[^correio2019]
 
-Participou de coletivas de artistas sul-mato-grossenses no Centro Cultural José Octávio Guizzo, como *Mato Grosso do Sul, 40 anos construindo história com arte* (2017) e *Entrosamento* (2024).[^fcms2017][^fcms2024]
+Seu nome aparece entre os artistas de duas coletivas sul-mato-grossenses no Centro Cultural José Octávio Guizzo: *Mato Grosso do Sul, 40 anos construindo história com arte*, com abertura anunciada para 5 de outubro de 2017, e *Entrosamento*, em cartaz em abril de 2024.[^fcms2017][^fcms2024]
 
 ## Exposições
 

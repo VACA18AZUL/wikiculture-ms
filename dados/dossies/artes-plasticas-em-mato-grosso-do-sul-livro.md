@@ -28,3 +28,11 @@
 ## Uso no verbete
 
 - Tudo entrou, menos a longa citação de Menegazzo (resumida).
+
+## Atualização de 2026-11-04 (validação)
+
+- G. A. de Lima: p. 62 (Figura 4, A cozinha, fonte Rosa 2005 p. 198) e p. 66-68 (PDF 68-70); a lista de figuras do sumário confirma o deslocamento de 2 páginas entre PDF e numeração impressa. Citação de Sá Rosa vem da p. 17 do livro; apresentação de Menegazzo sem página ("s/p").
+- Silus: citações do livro (Rosa, Duncan e Penteado 2005, p. 188) nas p. 23-24 do artigo; referência completa (Campo Grande: FCMS, 2005) na p. 26.
+- FCMS 2020 lista o livro entre as obras de Sá Rosa, em parceria com Idara Duncan e Yara Penteado, sem ano.
+- Paráfrase da apresentação de Menegazzo estava próxima demais do trecho citado (10 palavras quase iguais); reescrita.
+- Wikipédia: sem artigo localizado.

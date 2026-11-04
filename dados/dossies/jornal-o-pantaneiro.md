@@ -31,3 +31,10 @@
 ## Uso no verbete
 
 Tudo acima, sem dados familiares dos diretores.
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- op2024 e op2025 são matérias de aniversário do próprio jornal: não contam como fonte independente. Passaram a ser citadas como "segundo o próprio jornal".
+- Lima p. 69: venda a José Lima Neto e Orlando Aparecido Pascotto em 3 dez. 1975 (via O Pantaneiro, 2020); registro em cartório em 4 dez. 1975 (nota 41, p. 109).
+- Lima p. 128: Os Brincalhões, 1966, era expectativa de gravação, não disco lançado.
+- Busca de segunda fonte independente (API O Estado, RCN67, Google Notícias, Brave): sem resultado. Fonte única independente.

@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Desenhava desde criança e pintou a primeira tela aos 24 anos, nas aulas de pintura da mãe. Passou pelos estilos acadêmico e abstrato antes de chegar a um estilo próprio, a partir dos desenhos da infância. Pinta em acrílica, em telas de no mínimo um metro por um metro, com cores fortes. Em 2011 dizia que o trabalho começou próximo da pop art e que o classificava apenas como contemporâneo. Citava [[isaac-de-oliveira|Isaac de Oliveira]] como inspiração.[^cgn2011]
+Desenhava desde criança e pintou a primeira tela aos 24 anos, em aulas de pintura. Passou pelos estilos acadêmico e abstrato antes de chegar a um estilo próprio, a partir dos desenhos da infância. Pinta em acrílica, em telas de no mínimo um metro por um metro, com cores fortes. Em 2011 dizia que o trabalho começou próximo da pop art e que o classificava apenas como contemporâneo. Citava [[isaac-de-oliveira|Isaac de Oliveira]] como inspiração.[^cgn2011]
 
 Em 2010, o *Correio do Estado* situou em 1997 o início das aulas de pintura. Ele trocou a tinta a óleo pela acrílica e voltou aos traços que desenhava na adolescência, com influência dos quadrinhos e da publicidade. A primeira exposição individual foi em Maringá, no Paraná, mais de dez anos antes.[^ce2010]
 
@@ -23,7 +23,7 @@ Em agosto de 2010, três telas dele foram selecionadas para o Salão de Artes Ho
 
 O convite para expor em Lisboa veio depois que a galeria viu as telas dele num site britânico de artistas. O *Correio do Estado* anunciou a exposição para 6 de novembro de 2010, por 15 dias, com 11 trabalhos.[^ce2010] O *Campo Grande News* registrou em 2011 que ele apresentou dez telas na galeria A Colorida, em novembro de 2010.[^cgn2011]
 
-Em 2014, o *Campo Grande News* o apresentou como artista plástico havia 15 anos e mostrou a série *Clássico com Tereré*, com releituras de obras conhecidas em que aparece a bebida: a tela de Magritte, que ele chamou de *Magritte Pantaneiro*, a *Mona Lisa* e o *Abaporu*, de Tarsila do Amaral. As telas são pintadas em estilo painel, sem moldura.[^cgn2014]
+Em 2014, o *Campo Grande News* o apresentou como artista plástico havia 15 anos e mostrou a série *Clássico com Tereré*, com releituras de obras conhecidas em que aparece a bebida: a tela de Magritte, que ele chamou de *Magritte Pantaneiro*, a *Mona Lisa* e o *Abaporu*, de Tarsila do Amaral. As telas são pintadas em estilo painel, que dispensa moldura; a *Mona Lisa* foi exceção.[^cgn2014]
 
 ## Exposições
 

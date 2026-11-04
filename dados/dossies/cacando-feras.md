@@ -28,3 +28,8 @@
 ## Uso no verbete
 
 Tudo acima entrou. Elenco completo da Cinemateca ficou de fora do texto (só os nomes principais citados).
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- Observações da Cinemateca: CENS/DOU consigna o filme só à Lux Filme; Cinearte (15 maio 1936) e a Retrospectiva Adhemar Gonzaga do MAM indicam Wulfes e Luxardo como produtores; CS/FCB indica Edgar Brasil como câmera; AG/50 CIN dá estreia em São Paulo em 20 jan. 1937, no Alhambra. Entraram no verbete a produção e a câmera.
+- Sinopse: A Scena Muda, 15 set. 1936 (Cinemateca); Neves a reproduz via Silva Neto (2002).

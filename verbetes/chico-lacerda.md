@@ -28,7 +28,7 @@ Fora da música, fundou a agência de publicidade Art & Traço, em Mato Grosso d
 
 Em 2020, declamou na faixa "Porto Esperança" do disco *O Menestrel do Pantanal*, de [[orlando-lacerda|Orlando Lacerda]].[^correio2020]
 
-Morreu em Campo Grande em 18 de outubro de 2022, aos 76 anos.[^oestado2022][^correio2022]
+Morreu em Campo Grande em 18 de outubro de 2022.[^oestado2022][^correio2022]
 
 ## Discografia
 

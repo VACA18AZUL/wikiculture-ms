@@ -28,7 +28,7 @@
 
 ## Incerto
 
-- Data da cerimônia: O Estado (2 maio 2023) diz "quinta-feira (26)"; 26 abr. 2023 foi quarta-feira. O verbete diz só "abril de 2023".
+- Data da cerimônia: O Estado (2 maio 2023) diz "quinta-feira (26)"; 26 abr. 2023 foi quarta-feira. O Estado de 25 abr. 2023 marca a premiação para "amanhã (26)". O verbete diz só "abril de 2023".
 - Campo-grandense (O Estado 2022) x nascido em Bataiporã (CGN 2022): registrado no verbete e no dossiê.
 - Wikipédia: sem artigo.
 

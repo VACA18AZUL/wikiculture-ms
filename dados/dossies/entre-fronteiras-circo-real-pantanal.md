@@ -35,3 +35,16 @@ Fontes descartadas e o motivo:
 - Fonte única, sem ano nem ficha técnica além da direção. Não há base para verbete de obra com Ficha técnica.
 - situacao: dossie (fonte única). Frase sugerida para o futuro verbete cine-circo (grupo w10-2) e para luis-nachbin:
   "A abertura teve a exibição do curta *Entre Fronteiras – Circo Real Pantanal*, de Luís Nachbin, sobre a família Perez, que há seis gerações vive no circo itinerante; Nachbin acompanhou a rotina e as apresentações do grupo em Mato Grosso do Sul, na fronteira com o Paraguai.[^cgn2015]"
+
+## Fonte nova (agente d1-1, 2026-11-04, aberta e lida pela busca da FCMS)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2015 | "Cine Circo acontece no MIS a partir desta quarta-feira", FCMS, 30 nov. 2015 | https://www.fundacaodecultura.ms.gov.br/cine-circo-acontece-no-mis-a-partir-desta-quarta-feira/ | sim: duração (25 min) e sinopse; programação de 2 dez. 2015 |
+
+- Ano de produção continua sem fonte. Buscas no O Estado (API) e no CGN por "Nachbin": só a matéria de 2015.
+- O verbete [[top-circo]] diz que o Top Circo, da família Perez, já se chamou Circo Real Pantanal; nenhuma fonte liga o circo do filme ao Top Circo. Não ligado no texto. Gerações também divergem (seis no filme × quatro na matéria do Top Circo de 2019).
+
+## Uso no verbete (d1-1)
+
+Verbete curto com fcms2015 e cgn2015. Sem link de vídeo (nenhum canal oficial achado). Função de Nachbin escrita como "Realização" (CGN: "trabalho assinado por").

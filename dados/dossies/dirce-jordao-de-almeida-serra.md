@@ -30,3 +30,9 @@
 ## Uso no verbete
 
 Fora: família, cônjuge, loja. Entrou o resto.
+
+## Revisão de 2026-11-04 (valn-56a)
+
+- Lima tira a coluna no Correio do Estado e a origem da coluna Rolê do próprio livro dela (Serra, 2008); op2008a confirma a coluna nos dois jornais.
+- op2008a anuncia o lançamento do dia; op2008b confirma que ele ocorreu.
+- O Pantaneiro é o jornal em que ela trabalhou: as matérias de 2008 não são de todo independentes. Lima é a fonte independente principal.

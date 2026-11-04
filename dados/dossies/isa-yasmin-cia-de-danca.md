@@ -35,3 +35,13 @@ Duas buscas na web sem outra menção.
 ## Uso no verbete
 
 - Não redigido: só duas menções de programação, sem dados do grupo.
+
+## Busca do agente d1-1 (2026-11-04)
+
+Onde busquei: API do O Estado MS ("Isa Yasmin": só ruído), busca do CGN ("Isa Yasmin dança", "grupo cigano"), busca do Correio do Estado (ruído), busca da FCMS.
+
+Achados (todos de programação/anúncio, abertos e lidos):
+- FCMS, "Agendão: Blitz do Orgulho, festival de dança e tradicional Banho de São João...", 23 jun. 2023 (https://www.fundacaodecultura.ms.gov.br/agendao-blitz-do-orgulho-festival-de-danca-e-tradicional-banho-de-sao-joao-sao-principais-atracoes-do-fim-de-semana-em-ms/): "Cia Isa Yasmin" anunciada com Adelyah Gomes no show de abertura do 4º Festival Mahila, com a banda Tribos da Areia, no Armazém Cultural.
+- CGN, Thailla Torres, "Cidade será tomada pela dança com 16 espetáculos e 10 oficinas gratuitas", 17 set. 2024 (https://www.campograndenews.com.br/lado-b/diversao/cidade-sera-tomada-pela-danca-com-16-espetaculos-e-10-oficinas-gratuitas): "Isa Yasmin" (pessoa) entre as ministrantes da Oficina de sons e ritmos árabes, afro e ATS na Semana pra Dança 2024, com Morgana Shayra e outras.
+
+Decisão: continua dossie. Só há anúncios de programação; nada sobre fundação, direção, cidade, repertório ou trajetória. Isa Yasmin aparece também como pessoa (ministrante), o que sugere que o grupo leva o nome da dançarina, mas nenhuma fonte diz isso. Pistas: Festival Mahila (dossiê grupo-mahila), Mostra Sul-Mato-Grossense de Dança Árabe.

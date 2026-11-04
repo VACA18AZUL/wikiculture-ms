@@ -24,11 +24,11 @@ Segundo Sousa, a palavra *yiyi* surgiu no lixão de Cateura, o maior aterro do P
 
 Camargo registra que Diegues editou mais de uma dezena de livros pela Yiyi Jambo, entre eles *Mascate*, de Wilson Bueno, e o poema "A uma passante", de Charles Baudelaire. Para a autora, a editora é o espaço em que o poeta traduz e recria textos canônicos aproximando-os da fronteira.[^camargo]
 
-Em 2014, a artista plástica [[gisele-francia|Gisele Francia]], formada na UFMS, passou a fazer capas para a editora. Diegues também dá oficinas de livros cartoneros, com pintura de capas, encadernação, costura e história do livro cartonero na América Latina. Em 19 de abril de 2015, abriu em Ponta Porã o Café & Libros Yiyi Jambo, cafeteria literária que foi o primeiro ponto fixo de venda dos livros da editora.[^sousa]
+Em 2014, a artista plástica [[gisele-francia|Gisele Francia]], formada na UFMS, passou a fazer capas para a editora. Diegues também oferecia oficinas de livros cartoneros, com pintura de capas, encadernação, costura e história do livro cartonero na América Latina. Em 19 de abril de 2015, abriu em Ponta Porã o Café & Libros Yiyi Jambo, cafeteria literária que foi o primeiro ponto fixo de venda dos livros da editora.[^sousa]
 
 ## Publicações
 
-- [[el-astronauta-paraguayo|*El Astronauta Paraguayo*]], de Douglas Diegues — narrativa em portunhol selvagem, com capas feitas por Diegues e por Gisele Francia.[^sousa] Camargo registra a edição da Yiyi Jambo, em Ponta Porã, como de 2012.[^camargo]
+- [[el-astronauta-paraguayo|*El Astronauta Paraguayo*]], de Douglas Diegues — narrativa em portunhol selvagem, com capas feitas por Diegues e por Gisele Francia.[^sousa] Camargo registra a edição da Yiyi Jambo como de Ponta Porã, 2012;[^camargo] Sousa a dá como de Assunção, 2012.[^sousa]
 - *Uma Flor na Solapa da Miséria*, de Douglas Diegues — nas referências de Camargo, edição da Yiyi Jambo, Ponta Porã, 2005, data anterior à fundação da editora informada pela mesma autora.[^camargo] Sousa dá 2005 para a edição da Eloísa Cartonera e 2007 para a da Yiyi Jambo.[^sousa]
 - *Mascate*, de Wilson Bueno.[^camargo]
 

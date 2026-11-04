@@ -9,14 +9,14 @@
 - fcms2024 (FCMS, 5 jul. 2024): ok.
 - oestado2024a (4 jun. 2024) e oestado2024b (7 jul. 2024): ok.
 - acritica2026 (A Crítica, 10 mar. 2026): ok.
-- glima2012 (UFGD 2012): ok; página corrigida para p. 61 do PDF.
+- glima2012 (UFGD 2012, p. 59 = p. 61 do PDF): ok.
 - silva2022 (UFGD 2022, p. 67, nota 18): ok.
 
 ## Problemas achados
 
 - Encontro da ASL em novembro de 2026 escrito como fato programado; é anúncio de março.
 - Nota de Silva apoia-se em Sá Rosa (2011) e fala de "parte da crítica": sem atribuição.
-- Lista de G. A. de Lima incompleta e página sem conferência possível.
+- Lista de G. A. de Lima incompleta.
 - Variação do subtítulo ("Histórias" na fala de Melly Sena) não registrada.
 
 ## Corrigido
