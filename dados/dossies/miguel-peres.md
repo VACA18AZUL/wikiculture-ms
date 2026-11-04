@@ -36,3 +36,7 @@ Sem fonte nova que sustente o verbete. Tentativas:
 - BDTD (Ibict): "Miguel Peres pintor espanhol Campo Grande" e "Exposição de Pinturas dos Artistas Mato-grossenses 1966": sem resultados.
 - Tese de Rozana Godoi (UFGD, 2020, 300 p., PDF baixado e lido por busca de texto): cita a mostra de 1966 (p. 90-91), mas não menciona Miguel Peres.
 Verbete segue apoiado só em Assis (2013, citando Bardi 1967). Identidade com "Miguel Perez" (fotógrafo/pintor de Corumbá, CGN 2024) continua não confirmada e fora do verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: RSS do Google Notícias ("Miguel Peres" pintor), API do O Estado ("Fábrica de Quadros") e busca interna do Campo Grande News: sem resultado. Portal de trabalhos da pós-graduação da UFMS: achada a dissertação de Paulo Roberto Rigotti, "As artes plásticas em Mato Grosso e Mato Grosso do Sul e a presença da modernidade nas produções pictóricas de Lídia Baís", sem arquivo para download no portal; pista para biblioteca.

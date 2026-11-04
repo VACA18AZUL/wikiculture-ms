@@ -17,7 +17,7 @@ A **Feira MS+Underground** é uma feira ligada ao projeto MS+Underground, da cen
 
 Segundo o *Campo Grande News*, o projeto foi criado pouco mais de um ano antes de setembro de 2025. A 5ª edição da feira foi marcada para 7 de setembro de 2025, na Praça Cuiabá, com entrada gratuita e shows das bandas [[teorema-de-si|Teorema de Si]], Stoned to Death, Miséria, Invult e Katastrofe.[^cgn2025] Foi na 5ª Feira Underground que a Teorema de Si apresentou suas primeiras músicas próprias.[^acritica2026]
 
-Para o domingo 12 de julho de 2026, numa programação de fim de semana ligada ao Dia Mundial do Rock, a prefeitura de Campo Grande divulgou o MS Underground na Praça Cuiabá, na Vila Alba, das 14h às 22h, com bandas de rock e metal, exposições de artes visuais, literatura e gastronomia, com entrada gratuita.[^cgnot2026]
+Para o domingo 12 de julho de 2026, numa programação de fim de semana ligada ao Dia Mundial do Rock, a prefeitura de Campo Grande divulgou o MS Underground na Praça Cuiabá, na Vila Alba, das 14h às 22h e com entrada gratuita. A programação anunciada tinha shows de rock e metal, além de artes visuais expostas, literatura e comida.[^cgnot2026]
 
 [^cgn2025]: Thailla Torres, ["Hoje tem feira MS+Underground na Praça Cuiabá com entrada gratuita"](https://www.campograndenews.com.br/lado-b/diversao/hoje-tem-feira-ms-underground-na-praca-cuiaba-com-entrada-gratuita), *Campo Grande News*, 7 set. 2025. Acesso em 4 nov. 2026.
 [^acritica2026]: Iury de Oliveira, ["Teorema de Si prepara álbum conceitual após repercussão de 'Andorinhas'"](https://acritica.net/cultura/teorema-de-si-prepara-album-monocultura-campo-grande/), *A Crítica de Campo Grande*, 25 ago. 2026. Acesso em 4 nov. 2026.

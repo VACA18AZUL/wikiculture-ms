@@ -22,7 +22,7 @@ O livro foi um dos vencedores do 1º [[premio-ipe-de-literatura|Prêmio Ipê de 
 
 Segundo o *Campo Grande News*, o livro foi lançado em agosto de 2023 na VII Steamcom, em Paranapiacaba (SP). O lançamento em Campo Grande foi marcado para 17 de novembro de 2023, na Esplanada Ferroviária, com bate-papo entre a autora e a pesquisadora Marcia Longo Dutra e mediação de [[adrianna-alberti|Adrianna Alberti]].[^cgn2023]
 
-O prefácio é do pesquisador Andriolli Costa e as ilustrações, de Willian de Souza ("Willian Souza", em Ferreira). A arte do livro homenageia a Coleção Vaga-Lume, que completou 50 anos em 2023.[^cgn2023]
+O prefácio é do pesquisador Andriolli Costa e as ilustrações, de Willian de Souza ("Willian Souza", em Ferreira). A arte do livro homenageia a Coleção Vaga-Lume, que completou 50 anos em 2023.[^cgn2023][^ferreira2025a]
 
 ## Conteúdo
 

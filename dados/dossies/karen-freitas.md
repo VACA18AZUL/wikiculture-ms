@@ -64,3 +64,12 @@ Fonte nova (portal da Fundação de Cultura de MS; achada pela busca do site por
 
 Atenção: o texto da fcms2025 tem a mesma sinopse do CGN de 25 mar 2025 (release do Campão Cultural). Confirma a sessão (25 mar. 2025, 18h, MIS), o nome do festival (Pantanal Film Festival), o ano e o filme, mas não conta como apuração independente da sinopse. Diferença de rótulo: FCMS diz "documentário de 17 minutos"; CGN 2024 diz "filme-ensaio". Os dois termos aparecem no verbete.
 Não achado em outro veículo: seleção em Ivinhema 2024 (nem no Correio do Estado nem na FCMS); relatório técnico da UFMS (repositorio.ufms.br) segue fora do ar (conexão reiniciada em 4 nov. 2026). Buscas no BDTD por "Deus te Salve João" e "Karen Freitas Banho de São João Corumbá": sem resultados.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas, abertas e lidas (API do O Estado MS, buscas "Deus te Salve" e "Karen Freitas"):
+
+- Juliana Aguiar, "Filmes de MS são selecionados para etapa nacional da Mostra Sesc de Cinema", *O Estado Online*, 20 jul. 2025: lista *Deus Te Salve, João!* (Karen Freitas) entre as obras de MS selecionadas para exibição na 8ª Mostra Sesc de Cinema. A matéria diz que os dados foram divulgados pelo Sesc.
+- "VIII Mostra Sesc de Cinema", *O Estado Online*, 1º out. 2025: programação do circuito regional em Campo Grande (Sesc Teatro Prosa), com o curta em 2 out. 2025, 19h, sessão "Território e Regionalidades", 17 minutos.
+
+Veículo diferente do Campo Grande News e da FCMS. Acrescentado parágrafo na Trajetória e nota ao item da Filmografia. A duração de 17 minutos confere com a matéria de 2024.

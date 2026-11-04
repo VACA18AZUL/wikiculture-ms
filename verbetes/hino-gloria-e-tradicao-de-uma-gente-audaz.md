@@ -29,7 +29,7 @@ Em 10 de outubro de 2024, o curta foi exibido no MIS na abertura da exposição 
 - Direção: [[guilherme-cavalcante|Guilherme Cavalcante]], [[lizandra-moraes|Lizandra Moraes]] e [[marcia-furtado|Marcia Furtado]][^fcms2017]
 - Roteiro: [[guilherme-cavalcante|Guilherme Cavalcante]], [[lizandra-moraes|Lizandra Moraes]] e [[marcia-furtado|Marcia Furtado]][^fcms2017]
 - Produção e pesquisa: Silvana Rocha Silva, Fabiana Christine Ferreira Rocha, Deborah Rossi Otto, [[marcia-furtado|Marcia Furtado]], [[lizandra-moraes|Lizandra Moraes]] e [[guilherme-cavalcante|Guilherme Cavalcante]][^fcms2017]
-- Edição: [[marinete-pinheiro|Marinete Pinheiro]][^fcms2017]
+- Edição: [[marineti-pinheiro|Marinete Pinheiro]][^fcms2017]
 - Finalização: [[carlos-diehl|Carlos Diehl]][^fcms2017]
 
 [^fcms2017]: Fundação de Cultura de Mato Grosso do Sul, ["MS 40 anos: MIS exibe curtas produzidos no Curso Gratuito de Documentário"](https://www.fundacaodecultura.ms.gov.br/ms-40-anos-mis-exibe-curtas-produzidos-no-curso-gratuito-de-documentario/), 5 out. 2017. Acesso em 4 nov. 2026.

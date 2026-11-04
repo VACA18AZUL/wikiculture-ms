@@ -25,21 +25,23 @@ Em Aquidauana, presidiu a subseção da Ordem dos Advogados do Brasil e lecionou
 
 ## Atividade literária
 
-Colaborou com jornais sul-mato-grossenses, entre eles o Suplemento Cultural do Correio do Estado.[^asl2011] Em 2004, a Revista da ASL n. 5 trouxe textos dele, ao lado de outros acadêmicos.[^asl2004]
+Colaborou com jornais sul-mato-grossenses, entre eles o Suplemento Cultural do Correio do Estado.[^asl2011] O livro de crônicas *As flores que não morrem* foi lançado em 27 de novembro de 2008, na sede da ASL, em Campo Grande, segundo o jornal *O Pantaneiro*.[^pantaneiro2008] Em 2004, a Revista da ASL n. 5 trouxe textos dele, ao lado de outros acadêmicos.[^asl2004]
 
 Como Heliophar Serra, aparece na lista de autores da *Antologia de Textos da Literatura Sul-mato-grossense*, organizada por [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], Albana Xavier Nogueira e [[maria-adelia-menegazzo|Maria Adélia Menegazzo]], com 51 autores do estado e apoio do Fundo de Investimentos Culturais. O livro foi lançado em Três Lagoas em 3 de outubro de 2013.[^rcn2013]
 
 A cadeira 3 da ASL tem como patrono [[ulisses-serra|Ulysses Serra]]. Depois de sua morte, passou a [[oswaldo-barbosa-de-almeida|Oswaldo Barbosa de Almeida]], cuja posse, numa noite de 23 de fevereiro, foi noticiada pela ASL em texto datado de fevereiro de 2018.[^asl2018]
 
-Uma sala de comissões do Palácio Popular da Cultura, em Campo Grande, recebeu seu nome.[^asl2011]
+Uma sala de comissões do Palácio Popular da Cultura, em Campo Grande, recebeu seu nome.[^asl2011] Em junho de 2023, a Lei Estadual 6.078/2023 deu o nome de desembargador Heliophar Serra ao trecho da rodovia MS-450 entre o distrito de Camisão e o campus da Uems em Aquidauana, por proposta do deputado Jamilson Name. A notícia repete a data e o local de nascimento e a carreira na magistratura e no magistério.[^pantaneiro2023]
 
 ## Obras
 
 - *A fascinante natureza humana*[^asl2011]
 - *Fragmentos do cotidiano*[^asl2011]
-- *As flores que não morrem* — crônicas.[^asl2011]
+- *As flores que não morrem* (2008) — crônicas.[^asl2011][^pantaneiro2008]
 
 [^asl2011]: Diretoria da ASL, ["Academia de luto: falece o acadêmico Heliophar de Almeida Serra"](https://acletrasms.org.br/academia-de-luto-falece-o-academico-heliophar-de-almeida-serra/), *Academia Sul-Mato-Grossense de Letras*, 29 jul. 2011. Acesso em 4 nov. 2026.
 [^asl2018]: ["Academia Sul-Mato-Grossense de Letras empossa novo acadêmico"](https://acletrasms.org.br/academia-sul-mato-grossense-de-letras-empossa-novo-academico/), *Academia Sul-Mato-Grossense de Letras*, 14 fev. 2018. Acesso em 4 nov. 2026.
 [^asl2004]: ["Revista n. 5 da Academia"](https://acletrasms.org.br/revista-n-5-da-academia/), *Academia Sul-Mato-Grossense de Letras*, 25 nov. 2004. Acesso em 4 nov. 2026.
 [^rcn2013]: ["Livro divulga riqueza e diversidade da literatura sul-mato-grossense"](https://www.rcn67.com.br/tres-lagoas/livro-divulga-riqueza-e-diversidade-da-literatura-sul-mato-grossense/), *RCN67*, 4 out. 2013. Acesso em 4 nov. 2026.
+[^pantaneiro2008]: ["Escritores Heliophar e Dirce Serra lançam hoje livros na capital"](https://www.opantaneiro.com.br/geral/2008/11/27/escritores-heliophar-e-dirce-serra-lancam-hoje-livros-na-capital.html), *O Pantaneiro*, 27 nov. 2008. Acesso em 4 nov. 2026.
+[^pantaneiro2023]: ["Trecho entre MS-450 e Uems de Aquidauana recebe denominação de Heliophar Serra"](https://www.opantaneiro.com.br/politica/2023/06/29/trecho-entre-ms-450-e-uems-de-aquidauana-recebe-denominacao-de-heliophar-serra.html), *O Pantaneiro*, 29 jun. 2023. Acesso em 4 nov. 2026.

@@ -23,7 +23,7 @@ Neves registra que, a partir de 1982, Fonseca dirigiu longas e muitos documentá
 
 ## Filmografia
 
-- *Conceição dos Bugres* — curta documentário sobre a escultora [[conceicao-dos-bugres|Conceição dos Bugres]]. Diehl o data de 1980, o descreve como premiado e diz que foi produzido pela Seriema Filmes, em parceria com [[jose-octavio-guizzo|José Octávio Guizzo]] e João José de Souza Leite.[^diehl] Amizo data o filme de 1979 e o referencia como documentário de curta-metragem.[^amizo] Alexandre Aldo Neves também o data de 1980, atribui a direção a Fonseca e diz que foi premiado no Festival de Brasília.[^neves] As duas datas ficam registradas, sem escolha.
+- [[conceicao-dos-bugres-curta-1980|Conceição dos Bugres]] — curta documentário sobre a escultora [[conceicao-dos-bugres|Conceição dos Bugres]]. Diehl o data de 1980, o descreve como premiado e diz que foi produzido pela Seriema Filmes, em parceria com [[jose-octavio-guizzo|José Octávio Guizzo]] e João José de Souza Leite.[^diehl] Amizo data o filme de 1979 e o referencia como documentário de curta-metragem.[^amizo] Alexandre Aldo Neves também o data de 1980, atribui a direção a Fonseca e diz que foi premiado no Festival de Brasília.[^neves] As duas datas ficam registradas, sem escolha.
 - *Silvino Jacques – Itinerário de um Matador* — documentário sobre Silvino Jacques, figura histórica do início do século XX. Os negativos chegaram a desaparecer e foram recuperados com apoio da Cinemateca Brasileira.[^cgn2025a][^cgn2025b]
 
 - *Vereda Sertaneja* (1982) — longa baseado em conto de Guimarães Rosa; direção. Segundo Duncan (2006), citada por Neves, estava em restauração.[^neves]

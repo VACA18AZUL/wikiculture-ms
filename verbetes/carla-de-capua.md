@@ -34,7 +34,7 @@ Morgana Duenha Rodrigues analisa três paisagens da artista: *Ipê Rosa* (2002),
 
 ## Filmografia
 
-- *Brava Gente Brasileira* — filme de Lúcia Murat; desenhos de cena.[^marco]
+- [[brava-gente-brasileira|*Brava Gente Brasileira*]] — filme de Lúcia Murat; desenhos de cena.[^marco]
 
 [^marco]: Fundação de Cultura de MS, [*MARCO 30 anos: catálogo comemorativo*](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf), 2021, p. 19-20. Acesso em 4 nov. 2026.
 [^morgana]: Morgana Duenha Rodrigues, [*Identidade regional e pintura de paisagem em Mato Grosso do Sul*](https://sigpos.ufms.br/portal/trabalho-arquivos/download/1987), dissertação de mestrado em Estudos de Linguagens, UFMS, 2012, p. 85-88. Acesso em 4 nov. 2026.

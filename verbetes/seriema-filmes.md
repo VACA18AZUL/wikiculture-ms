@@ -21,7 +21,7 @@ Os produtores da Seriema tentaram fazer um longa-metragem sobre Silvino Jacques.
 
 ## Filmografia
 
-- *Conceição dos Bugres* (1980) — curta documentário sobre a escultora Conceição dos Bugres; direção atribuída a Cândido Alberto da Fonseca por Diehl e Neves e a José Octávio Guizzo por Marin e Pereira.[^diehl][^marin][^neves]
+- [[conceicao-dos-bugres-curta-1980|Conceição dos Bugres]] (1980) — curta documentário sobre a escultora Conceição dos Bugres; direção atribuída a Cândido Alberto da Fonseca por Diehl e Neves e a José Octávio Guizzo por Marin e Pereira.[^diehl][^marin][^neves]
 - *Universidade Federal de Mato Grosso do Sul: 10 Anos* — documentário.[^neves]
 
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 38. Acesso em 4 nov. 2026.

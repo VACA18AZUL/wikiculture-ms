@@ -62,3 +62,7 @@ Fonte nova: Cid Nogueira Fidelis, *Cinema Guarani e Kaiowá: um estudo sobre a c
 - Vicelli (UFMS, 2008), p. 9-14 do PDF: Caramujo-flor produzido em 1988, 21 min, roteiro com fragmentos de poemas de Manoel de Barros, filmado no RJ e em Bonito, Corumbá e Pantanal; Colón de Oro. Cita também *Enigma de um dia*, *Glauces: estudo de um rosto* e *Anabasys* (não acrescentados à filmografia sem ano).
 - Fidelis (UFMS, 2015), p. 72 e 120 do PDF: *500 Almas* estreia em 2004 (diverge de Neves, 2005); ministrante das oficinas de cinema do Ava Marandu (fev.-abr. 2010).
 - Divergências registradas no verbete: ano de Caramujo-Flor (1989 × 1988); ano de 500 Almas (2005 × 2004); cidade (Rio de Janeiro × "douradense").
+
+## Atualização de 2026-11-04 (r12)
+
+- As duas matérias do Correio B indicadas em fontes-g8-correio (6/04/2015 e 11/08/2015) já estão no verbete como ce2015a e ce2015b, com o conteúdo aproveitado (Cinemathèque Française; *Olho Nu* finalista do Grande Prêmio do Cinema Brasileiro 2015). Nada mudou no verbete nesta rodada.

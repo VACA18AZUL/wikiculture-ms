@@ -50,3 +50,10 @@ Buscas ("Aurea Katsuren", "Áurea Katsuren" restauradora/pintora, Katsuren + Lí
 O que mudou: acrescentado parágrafo. A coordenadora do MARCO, Lúcia Monte Serrat, diz que o autorretrato "foi restaurado pela Áurea Katsuren" e precisaria de novo restauro. Reforça a restauração das pinturas de Lídia Baís (marco30) e especifica uma obra (o autorretrato); não dá data da restauração. Grafia "Áurea" aqui; "Aurea" na lista-mestra e no catálogo (a ficha mantém a grafia do catálogo).
 
 Limite: as duas fontes são da mesma instituição (Fundação de Cultura de MS), mas são documentos distintos (catálogo de 2021; notícia de 2022 com fala da coordenadora do museu). Nenhuma fonte de outro órgão sobre a artista (nascimento, formação, prêmios, ateliê no Rio). Buscas em Correio do Estado, UFMS, FCMS por "Katsuren" só trouxeram esta matéria.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas abertas e lidas (busca interna do Campo Grande News, "Katsuren"):
+- Redação, "MARCO abre nesta quinta-feira 2ª temporada de exposições", Campo Grande News, 2 jul. 2008 (https://www.campograndenews.com.br/entretenimento/marco-abre-nesta-quinta-feira-2-temporada-de-exposicoes-07-02-2008). Sustenta: Áurea Katsuren entre os artistas da "Coletiva 100 Anos da Imigração Japonesa" no MARCO.
+- Thailla Torres, "Aniversário de 100 anos da Morada dos Baís terá concerto, espetáculo e memórias", Campo Grande News, 16 ago. 2018. Sustenta: palestra sobre restauração no dia 23 (agosto de 2018), na programação do Sesc.
+- Vista e não usada: O Estado, "Obras de Lídia Baís passam por higienização e serão transportadas", 16 fev. 2022: repete a fala de Lúcia Monte Serrat do texto da FCMS (mesmo release).

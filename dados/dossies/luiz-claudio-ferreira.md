@@ -40,3 +40,9 @@ Busca no RCN67 sem resultado. Só fontes da prefeitura.
 ## Atualização de 2026-11-04
 
 - Segunda fonte independente buscada e não achada. Onde: API da RCN67 (nome, títulos dos livros, "Triálogo"), API da FCMS ("Fetran", "teatro para o trânsito"; textos de 2019 e 2025 não citam o professor nem as peças), API do Detran-MS ("Fetran": nada de 2021 e 2022), WebSearch (só textos da prefeitura; um Luiz Cláudio Schuedas em espetáculo de 2009, nome diferente, não usado).
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida (achada pelo RSS do Google Notícias; URL obtida pela API wp-json do site, porque o decodificador do Google devolveu 503): "A essência de ensinar: uma homenagem ao professor Luiz Cláudio", A Gazeta News (Amambai), 2 out. 2025 (https://www.agazetanews.com.br/2025/10/02/a-essencia-de-ensinar-uma-homenagem-ao-professor-luiz-claudio/). Veículo independente da prefeitura. Sustenta: nome completo Luiz Cláudio Ferreira da Silva; atuação em Amambai, participação de Amambai no Fetran desde 2013 (com Alessandra Tavares e Glauce Mascarenhas), projeto Teatro na Escola; livros de 2021 (também lançados em Amambai, na sede do jornal); mais de 35 peças educativas (a prefeitura diz "cerca de 35"); residência atual em Três Lagoas; *Desbravadores*, melhor Arte Visual no FETRAN-MS 2025. Data de nascimento (a matéria traz dia, mês e ano) ficou fora por cautela com dado pessoal. A matéria tem tom de homenagem; adjetivos de elogio não entraram.
+
+Não aberto: homenagem da Câmara de Três Lagoas (111 anos, jun. 2026; prefeitura e Hojemais), pista.
