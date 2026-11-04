@@ -33,3 +33,8 @@ Os dois textos trazem os mesmos fatos na mesma ordem: parecem vir do mesmo relea
 ## Uso no verbete
 
 - Verbete não escrito: vínculo com MS limitado à graduação na UEMS e a um lançamento; fontes vindas do mesmo release. Decisão editorial (escopo) fica para o Helton.
+
+## Busca d1-2 (2026-11-04)
+
+- O Estado MS, "Casa de Cultura sedia lançamento de livro internacional", 16/07/2026 (https://oestadoonline.com.br/arte-e-lazer/casa-de-cultura-sedia-lancamento-de-livro-internacional/): mesmo release do lançamento (mesmos livros e datas), não independente.
+- Busca CGN ("Anuncio Martí"), A Crítica, Correio do Estado: só o mesmo lançamento. Vínculo com MS segue restrito à graduação na UEMS e ao lançamento. Segue dossiê.

@@ -25,3 +25,8 @@ Todas abertas e lidas em 4 nov. 2026 (onda w20-1).
 
 - Fonte única; buscas na FCMS, Google Notícias e Brave sem segunda fonte. Toda a trajetória artística citada é fora de MS; o vínculo é só a origem. Grande parte do texto é sobre moradia, visto e vida pessoal (fica fora).
 - Situação: dossie. Não redigido até haver segunda fonte.
+
+## Busca d1-2 (2026-11-04)
+
+- Sem segunda fonte independente. Buscado: API do O Estado MS ("Daniely Martins", "Big Wave"), busca do Campo Grande News ("Daniely Martins", "Big Wave"), busca do Correio do Estado (nome entre aspas) e busca da A Crítica. Nenhum resultado pertinente além das fontes já listadas.
+- Nenhum verbete existente em que o nome caiba como frase. Segue dossiê.

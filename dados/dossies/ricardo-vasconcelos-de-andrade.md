@@ -33,3 +33,8 @@ Buscas sem resultado: Google Notícias ("Ricardo Vasconcelos" violoncelo; violon
 ## Uso no verbete
 
 - Verbete não escrito: fonte única, perfil de uma reportagem. Aguarda segunda fonte.
+
+## Busca d1-2 (2026-11-04)
+
+- Sem segunda fonte independente. Buscado: API do O Estado MS ("violoncelo rua", "violoncelista"), busca do Campo Grande News ("violoncelo rua", "violoncelista"), busca do Correio do Estado (nome entre aspas) e busca da A Crítica. Nenhum resultado pertinente além das fontes já listadas.
+- Nenhum verbete existente em que o nome caiba como frase. Segue dossiê.

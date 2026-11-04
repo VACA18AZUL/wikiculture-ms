@@ -29,3 +29,8 @@ API FCMS ("Psalmus"), Google Notícias ("Ministério de Artes Psalmus", "Psalmus
 ## Situação
 
 Fonte única. Não redigido; aguarda segunda fonte (ex.: Diocese/Arquidiocese de Campo Grande, organização do festival de Joinville, redes do grupo).
+
+## Busca d1-2 (2026-11-04)
+
+- Sem segunda fonte independente. Buscado: API do O Estado MS ("Psalmus", "Dança Sacra"), busca do Campo Grande News ("Psalmus", "Dança Sacra"), busca do Correio do Estado (nome entre aspas) e busca da A Crítica. Nenhum resultado pertinente além das fontes já listadas.
+- Nenhum verbete existente em que o nome caiba como frase. Segue dossiê.

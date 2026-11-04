@@ -24,3 +24,8 @@
 ## Uso no verbete
 
 Sem verbete por ora: as fontes são todas da instituição (a A Crítica reproduz o release) e tratam só das inscrições de 2026. Não dizem se há edições anteriores, onde é a final nem quem venceu. Retomar quando sair o resultado. Participantes alunos são menores: não registrar nomes.
+
+## Busca d1-2 (2026-11-04)
+
+- Sem segunda fonte independente. Buscado: API do O Estado MS ("Som & Verso", "Festival Sesi", "Sesi Som"), busca do Campo Grande News ("Som & Verso", "Festival Sesi", "Sesi Som"), busca do Correio do Estado (nome entre aspas) e busca da A Crítica. Nenhum resultado pertinente além das fontes já listadas.
+- Nenhum verbete existente em que o nome caiba como frase. Segue dossiê.

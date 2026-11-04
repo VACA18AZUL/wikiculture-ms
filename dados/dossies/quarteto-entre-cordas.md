@@ -37,3 +37,8 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete não redigido: fonte única. Situação dossiê.
+
+## Busca d1-2 (2026-11-04)
+
+- Sem segunda fonte independente. Buscado: API do O Estado MS ("Entre Cordas", "Cordas Pantaneiras"), busca do Campo Grande News ("Entre Cordas", "Cordas Pantaneiras"), busca do Correio do Estado (nome entre aspas) e busca da A Crítica. Nenhum resultado pertinente além das fontes já listadas.
+- Nenhum verbete existente em que o nome caiba como frase. Segue dossiê.

@@ -28,3 +28,8 @@ Buscas sem resultado: "Dju" e "Quase Lua Cheia" na API do O Estado MS e no Googl
 ## Uso no verbete
 
 - Sem verbete: duas matérias do mesmo veículo, sem fonte independente. Vínculo com MS só pelo nascimento.
+
+## Busca d1-2 (2026-11-04)
+
+- Sem segunda fonte independente. Buscado: API do O Estado MS ("Dju", "Quase Lua Cheia", "Xote Celestial"), busca do Campo Grande News ("Dju", "Quase Lua Cheia", "Xote Celestial"), busca do Correio do Estado (nome entre aspas) e busca da A Crítica. Nenhum resultado pertinente além das fontes já listadas.
+- Nenhum verbete existente em que o nome caiba como frase. Segue dossiê.

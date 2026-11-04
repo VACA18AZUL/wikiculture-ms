@@ -37,3 +37,12 @@ Descartadas: Enciclopédia Itaú Cultural (HTTP 403). Wikipédia lida só para c
 ## Uso no verbete
 
 - Tudo acima entrou. Prêmio Rubens Corrêa só em "Ver também", pois nenhuma fonte lida diz explicitamente que o prêmio o homenageia.
+
+## Atualização de 2026-11-04 (validação)
+
+- oestado2024 (O Estado MS, 19 mar. 2024, com informações da FCMS) agora também sustenta o nascimento em Aquidauana e a atuação como ator e diretor, com referência a Antonin Artaud. Entrou no verbete.
+- O Estado MS, 11 abr. 2024 ("Da história para o teatro: Memória MS resgata personalidades do estado", https://oestadoonline.com.br/arte-e-lazer/da-historia-para-o-teatro-memoria-ms-resgata-personalidades-do-estado/): peça de André Tristão sobre os patronos das salas do Centro Cultural, entre eles Rubens Corrêa. Não usado.
+- Cinemateca Brasileira, Caramujo-flor (código 021617, 1988): elenco "Corrêa, Rubens". Não dá naturalidade.
+- Identidade: nenhuma fonte lida une explicitamente o ator nascido em Aquidauana (Lima, O Estado) ao intérprete do poeta velho em Caramujo-flor (Vicelli, Neves, Cinemateca). Mesmo nome, com acento, e Neves o põe num "elenco experiente". Fica no verbete; precisa de uma fonte que una as duas informações.
+- Páginas corrigidas: Lima p. 129-131 (a morte está na p. 131); Neves p. 52.
+- Itaú Cultural: 403/404 de novo.
