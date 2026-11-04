@@ -20,7 +20,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a dissertação de Lise Rossi Jones Lima sobre o jornal *O Pantaneiro*, Corrêa viveu em Aquidauana até os 11 anos. Frequentava o Cine Glória e os ritos da Igreja Matriz. Em 1942, mudou-se para o Rio de Janeiro para estudar em regime de internato no colégio São José, onde a leitura de autores como Shakespeare o levou ao teatro. Viveu no Rio até o fim da vida.[^lima]
+Segundo a dissertação de Lise Rossi Jones Lima sobre o jornal *O Pantaneiro*, Corrêa viveu em Aquidauana até os 11 anos. Frequentava o Cine Glória e os ritos da Igreja Matriz. Em 1942, foi para o Rio de Janeiro estudar em regime de internato no colégio São José, onde a leitura de autores como Shakespeare o levou ao teatro. Viveu no Rio até o fim da vida.[^lima]
 
 Tornou-se escritor e ator de teatro e televisão. Recebeu o Prêmio Molière de melhor ator quatro vezes, em 1963, 1969, 1972 e 1982, além de outros prêmios. Atuou em 1990 na primeira versão da novela *Pantanal*, da TV Manchete.[^lima] O jornal *O Estado MS*, com informações da Fundação de Cultura de Mato Grosso do Sul, o descreve como ator e diretor de projeção nacional, cujas interpretações seguiram princípios de Antonin Artaud, com personagens densos e fora do realismo e da comédia ligeira.[^oestado2024]
 

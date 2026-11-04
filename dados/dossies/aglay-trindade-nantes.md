@@ -43,3 +43,8 @@
 - G. A. de Lima (2012): o trecho está na p. 59 (p. 61 do PDF; a lista de figuras confirma o deslocamento de 2 páginas); a lista inclui também Brígido Ibanhes e Flora Thomé. Corrigido.
 - Encontro da ASL em novembro de 2026: anúncio de março (A Crítica, 10 mar. 2026); redigido como anúncio.
 - Lise Lima traz parentesco (irmãs, pais): fora, por ser vida familiar.
+
+## Atualização de 2026-11-04 (r13)
+
+- op2026: Guilherme Henrique, *O Pantaneiro*, 15/01/2026 — patrona da cadeira 36 da Academia de Letras do Brasil, seccional Campo Grande (comunicado de 18/12/2025); ocupante Raphael Mesquita a partir de 14/01/2026; natural de Aquidauana (confirma a cidade que a lista dava como deduzida); "já falecida" (o verbete passou de "é" para "foi"; a data da morte não aparece na fonte).
+- A relação de parentesco com Jandira Trindade (irmã) consta da fonte, mas fica fora do verbete (vida familiar); o verbete só registra que Jandira falou na cerimônia.

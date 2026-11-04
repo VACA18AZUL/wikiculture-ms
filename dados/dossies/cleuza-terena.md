@@ -47,3 +47,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete não escrito: fonte única com uma linha sobre a pessoa. Insuficiente para um verbete. Ela já aparece ligada no verbete [[mato-grosso-do-sul-visto-pelo-mundo]].
+
+## Busca do agente d1-1 (2026-11-04)
+
+Onde busquei: API do O Estado MS, busca do CGN ("ONU Nova York exposição Mato Grosso do Sul", "Visto pelo Mundo"), busca do Correio do Estado ("ONU Nova York artistas sul-mato-grossenses", "Visto pelo Mundo ONU", "Kadiwéu cerâmica ONU"), busca da FCMS ("ONU Nova Iorque", "Visto pelo Mundo"). Nenhuma segunda fonte.
+
+Decisão: o único fato (expositora na mostra da ONU, 2014) já está no verbete [[mato-grosso-do-sul-visto-pelo-mundo]], com link para este identificador. Situação: incorporado-em:mato-grosso-do-sul-visto-pelo-mundo.

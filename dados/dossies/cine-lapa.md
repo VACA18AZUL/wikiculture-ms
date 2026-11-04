@@ -28,3 +28,19 @@ Buscas sem resultado: Correio do Estado ("cine lapa tres lagoas").
 ## Não confirmado
 
 - Data, endereço, natureza da ajuda do grupo, fechamento.
+
+## Reabertura (w28-1, 2026-11-04)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| rcn2009 | "Jornalista investiga histórias das salas de cinemas de TL", RCN67, 25/08/2009 | https://www.rcn67.com.br/tres-lagoas/jornalista-investiga-historias-das-salas-de-cinemas-de-tl/ | sim |
+| cgn2018 | Thaís Pimenta, "Índio é memória viva do cinema...", Campo Grande News, 15/04/2018 | https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/indio-e-memoria-viva-do-cinema-guardada-em-cada-cartaz-de-filme-pintado-por-ele | sim |
+
+- Cine Lapa anexo ao atual Colégio Salesiano; com o Cine Santa Helena (de Três Lagoas, onde em 2009 ficava a Magazine Luiza), anterior ao Cine Três Lagoas; pesquisa de Marinete Pinheiro para Salas dos Sonhos vol. II, baseada em depoimentos [rcn2009]
+- Alexandre Couto, "conhecido como Índio", nascido em Três Lagoas, aos 12 anos gastava o dinheiro de engraxate no Cine Lapa [cgn2018]. Ligado a [[alexandre-couto]] (cineasta de Três Lagoas que fazia cartazes; o verbete dele traz a mesma origem): identidade por nome, cidade e ofício.
+- Buscas sem resultado: CGN (busca interna "Cine Três Lagoas"); Google Notícias.
+
+## Uso no verbete
+
+- Entrou: localização, sucessão de salas, grupo de Vicente Leão, lembrança de Alexandre Couto.
+- Fora: endereço atual da Magazine Luiza (o Santa Helena de TL não tem verbete); datas de abertura e fechamento (sem fonte).

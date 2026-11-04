@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Onde cantam as seriemas*** é um livro de memórias de [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]], publicado em 1975, sobre a infância do autor em Ribas do Rio Pardo, à margem da Estrada de Ferro Noroeste do Brasil.[^bungart]
+***Onde cantam as seriemas*** é um livro de memórias de [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]], publicado em 1975, sobre a infância do autor em Ribas do Rio Pardo, perto da linha da Estrada de Ferro Noroeste do Brasil.[^bungart]
 
 ## Conteúdo
 

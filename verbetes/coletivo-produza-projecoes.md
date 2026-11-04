@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Coletivo Produza Projeções**, também chamado de Produza, é um coletivo de fotógrafos e videomakers que trabalha com a cultura de rua em Mato Grosso do Sul. Foi criado em 2015 por Cleverson de Oliveira, conhecido como Buguinha, para filmar manobras de skate, e passou a registrar também MCs, grafiteiros, DJs, b-boys e b-girls.[^fcms2025a]
+O **Coletivo Produza Projeções**, também chamado de Produza, é um coletivo de fotógrafos e videomakers que trabalha com a cultura de rua em Mato Grosso do Sul. Cleverson de Oliveira, conhecido como Buguinha, fundou o grupo em 2015 para filmar manobras de skate; com o tempo, o coletivo passou a registrar também MCs, grafiteiros, DJs, b-boys e b-girls.[^fcms2025a]
 
 ## Trajetória
 
@@ -30,5 +30,5 @@ Os dez anos foram celebrados com o espetáculo *Viva Rua*, que encerrou o Palco 
 [^oe2020]: Leo Ribeiro, ["Gravação do DVD de Renatto Jackson aconte no domingo (2)"](https://oestadoonline.com.br/arte-e-lazer/gravacao-de-dvd-de-renatto-jackson-aconte-no-domingo-2/), *O Estado MS*, 31 jan. 2020. Acesso em 4 nov. 2026.
 [^fcms2021]: Fundação de Cultura de Mato Grosso do Sul, ["Campo Grande 122 anos: editais emergenciais dão visibilidade a artistas e produtores da cultura de rua"](https://www.fundacaodecultura.ms.gov.br/campo-grande-122-anos-editais-emergenciais-dao-visibilidade-a-artistas-e-produtores-da-cultura-de-rua/), 24 ago. 2021. Acesso em 4 nov. 2026.
 [^fcms2025a]: Fundação de Cultura de Mato Grosso do Sul, ["Coletivo Produza Projeções inicia comemoração de 10 anos encerrando Festival de Inverno de Bonito"](https://www.fundacaodecultura.ms.gov.br/coletivo-produza-projecoes-inicia-comemoracao-de-10-anos-encerrando-festival-de-inverno-de-bonito/), 22 ago. 2025. Acesso em 4 nov. 2026.
-[^fcms2025b]: Fundação de Cultura de Mato Grosso do Sul, ["Palco Sol se despede do 24º Festival de Inverno de Bonito com música, dança e aplausos"](https://www.fundacaodecultura.ms.gov.br/palco-sol-se-despede-do-24o-festival-de-inverno-de-bonito-com-musica-danca-e-aplausos/), 24 ago. 2025. Acesso em 4 nov. 2026.
+[^fcms2025b]: Débora Bordin (Asscom/FIB), Fundação de Cultura de Mato Grosso do Sul, ["Palco Sol se despede do 24º Festival de Inverno de Bonito com música, dança e aplausos"](https://www.fundacaodecultura.ms.gov.br/palco-sol-se-despede-do-24o-festival-de-inverno-de-bonito-com-musica-danca-e-aplausos/), 24 ago. 2025. Acesso em 4 nov. 2026.
 [^fcms2025c]: Fundação de Cultura de Mato Grosso do Sul, ["Com financiamento da Lei Paulo Gustavo, artista Jacqueline Costa lança novo single enaltecendo o amor e as relações humanas"](https://www.fundacaodecultura.ms.gov.br/com-financiamento-da-lei-paulo-gustavo-artista-jacqueline-costa-lanca-novo-single-enaltecendo-o-amor-e-as-relacoes-humanas/), 3 fev. 2025. Acesso em 4 nov. 2026.

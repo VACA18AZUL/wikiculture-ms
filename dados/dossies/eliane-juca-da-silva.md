@@ -39,3 +39,8 @@
 ## Uso no verbete
 
 - Entrou tudo. Ano de Jepea'yta não citado no verbete (está no verbete da obra).
+
+## Revisão de 2026-11-04 (valn-57)
+
+- Páginas conferidas: Alves p. 88 (elenco); Corrêa p. 272 (legenda), 275 (depoimento), 281 (créditos); Fidelis p. 272 (Brô MC's) e 274 (Jakaira).
+- Fidelis lista 13 realizadores em cada filme, sem dizer que todos moram na Aldeia Jaguapiru; a produção de Brô MC's é creditada a "Aldeia Jaguapiru e Pontão de Cultura", a de Jakaira a "Aldeia Jaguapiru e Pontão Guaicuru".

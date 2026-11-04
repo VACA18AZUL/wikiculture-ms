@@ -11,17 +11,19 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Aglay Trindade Nantes** (citada também como Aglay Trindade) é uma escritora de Aquidauana.[^fcms2024][^oestado2024a] A dissertação de Lise Rossi Jones Lima a apresenta como representante da literatura contemporânea de Mato Grosso do Sul.[^lima2023]
+**Aglay Trindade Nantes** (citada também como Aglay Trindade) foi uma escritora natural de Aquidauana.[^fcms2024][^oestado2024a][^op2026] A dissertação de Lise Rossi Jones Lima a apresenta como representante da literatura contemporânea de Mato Grosso do Sul.[^lima2023]
 
 ## Obra
 
-Em 1993, lançou com recursos próprios o livro *Morro Azul: estórias pantaneiras*, sobre a fuga de moradores da região para o Morro Azul durante a Guerra do Paraguai (1864-1870). O livro foi reeditado em 2010 pelo [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]].[^lima2023] Melly Sena, gerente de Patrimônio Histórico e Cultural da Fundação de Cultura de Mato Grosso do Sul, disse em 2024 que esse é o único livro publicado da autora, que ela citou como *Morro Azul: Histórias Pantaneiras*.[^fcms2024]
+Em 1993, lançou, por conta própria, o livro *Morro Azul: estórias pantaneiras*, sobre a fuga de moradores da região para o Morro Azul durante a Guerra do Paraguai (1864-1870). O livro foi reeditado em 2010 pelo [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]].[^lima2023] Melly Sena, gerente de Patrimônio Histórico e Cultural da Fundação de Cultura de Mato Grosso do Sul, disse em 2024 que esse é o único livro publicado da autora, que ela citou como *Morro Azul: Histórias Pantaneiras*.[^fcms2024]
 
 Grazielli Alves de Lima inclui Aglay Trindade Nantes entre os escritores de destaque da terra pantaneira, ao lado de [[manoel-de-barros|Manoel de Barros]], [[helio-serejo|Hélio Serejo]], Brígido Ibanhes, Flora Thomé e [[raquel-naveira|Raquel Naveira]].[^glima2012] Em nota baseada em Maria da Glória Sá Rosa (2011), Bruno Rafael Almeida da Silva cita *Morro Azul* como exemplo de obra que parte da crítica do estado chama de regional por trazer referências de um lugar de onde a autora é natural.[^silva2022]
 
 ## Homenagens
 
 Foi uma das homenageadas da 8ª [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] (Flib), em julho de 2024, com Hélio Serejo e Graciliano Ramos.[^oestado2024a][^oestado2024b] Na programação, a roda de conversa "Literatura – Travessias e Fronteiras: Hélio Serejo e Aglay Trindade" reuniu Lora Bertolucci e Melly Sena.[^fcms2024] Em março de 2026, a Academia Sul-Mato-Grossense de Letras anunciou para novembro daquele ano um encontro sobre a autora no projeto Leituras & Conversas.[^acritica2026]
+
+Postumamente, foi escolhida patrona da cadeira nº 36 da Academia de Letras do Brasil, seccional Campo Grande, segundo comunicado da academia de 18 de dezembro de 2025. A cadeira passou a ser ocupada pelo acadêmico Raphael Mesquita a partir de 14 de janeiro de 2026, e a escritora [[jandira-mendes-trindade|Jandira Trindade]] falou sobre a obra dela na cerimônia, em Campo Grande.[^op2026]
 
 ## Obras
 
@@ -34,3 +36,4 @@ Foi uma das homenageadas da 8ª [[feira-literaria-de-bonito-flib|Feira Literári
 [^acritica2026]: ["ASL retoma clube de leitura em Campo Grande e abre ciclo de 2026 com Paulo Simões"](https://acritica.net/cultura/asl-retoma-clube-de-leitura-em-campo-grande-com-paulo-simoes/), *A Crítica*, 10 mar. 2026. Acesso em 4 nov. 2026.
 [^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 59 (p. 61 do arquivo PDF). Acesso em 4 nov. 2026.
 [^silva2022]: Bruno Rafael Almeida da Silva, [*Memória, história e narrativa na obra Senhorinha Barbosa Lopes, de Samuel Medeiros*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/5117/1/BrunoRafaelAlmeidadaSilva.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2022, p. 67, nota 18. Acesso em 4 nov. 2026.
+[^op2026]: Guilherme Henrique, ["Aglay Trindade é homenageada pela Academia de Letras do Brasil"](https://www.opantaneiro.com.br/aquidauana/2026/01/15/aglay-trindade-e-homenageada-pela-academia-de-letras-do-brasil.html), *O Pantaneiro*, 15 jan. 2026. Acesso em 4 nov. 2026.

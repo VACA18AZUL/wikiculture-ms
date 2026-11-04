@@ -20,9 +20,9 @@ As fontes divergem quanto ao ano. A Cinemateca dá 2004 como ano de produção e
 
 Segundo Neves, o filme acompanha o processo de reconstrução da memória e da identidade dos Guató, considerados extintos na década de 1960 e que hoje vivem dispersos pela região pantaneira.[^neves]
 
-Fidelis resume a história contada no documentário: os Guató, conhecidos como índios canoeiros, foram atacados por bandeirantes paulistas no século XVIII e atingidos por gripe, tuberculose e varíola. Dados como extintos, foram redescobertos pela missão salesiana vivendo em bairros pobres de Corumbá e, depois de uma disputa judicial, obtiveram parte do território tradicional, a ilha de Ínsua. O filme trata da relação do povo com a natureza, da morte de um de seus líderes nos anos 1970, da dispersão pelo Pantanal e da língua guató.[^fidelis]
+Fidelis resume a história contada no documentário: os Guató, conhecidos como índios canoeiros, foram atacados por bandeirantes paulistas no século XVIII e atingidos por gripe, tuberculose e varíola. Dados como extintos, foram redescobertos pela missão salesiana vivendo em bairros pobres de Corumbá e, depois de uma disputa judicial, obtiveram parte do território tradicional, a ilha de Ínsua. O filme trata da relação do povo com a natureza, da morte de um líder do povo na década de 1970, da dispersão pelo Pantanal e da língua guató.[^fidelis]
 
-Na sinopse registrada pela Cinemateca, o julgamento de um líder guató assassinado durante a reocupação da ilha é encenado no filme, que usa também trechos da peça *Controvérsia de gados*, de Jean-Claude Carrière, com o ator Paulo José. O filme vai à Alemanha rever o acervo do etnólogo Max Schimidt (grafia da ficha); a linguista Adair Palácio, que retomou os estudos dele sobre a língua guató, é uma das participantes.[^cb]
+Na sinopse registrada pela Cinemateca, o filme encena o julgamento de um líder guató morto quando o povo reocupava a ilha e usa também trechos da peça *Controvérsia de gados*, de Jean-Claude Carrière, com o ator Paulo José. O filme vai à Alemanha rever o acervo do etnólogo Max Schimidt (grafia da ficha); a linguista Adair Palácio, que retomou os estudos dele sobre a língua guató, é uma das participantes.[^cb]
 
 ## Produção
 

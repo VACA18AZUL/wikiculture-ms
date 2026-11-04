@@ -3,7 +3,7 @@ titulo: Reynaldo Paes e Barros
 tipo: pessoa
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: "Cineasta campo-grandense que fez carreira no cinema paulista nos anos 1960 e 1970, fundou a RPB Filmes e dirigiu o longa Pantanal de Sangue (1971), rodado perto de Miranda."
+resumo: "Cineasta campo-grandense que trabalhou no cinema de São Paulo nos anos 1960 e 1970, fundou a RPB Filmes e dirigiu o longa Pantanal de Sangue (1971), rodado perto de Miranda."
 ficha:
   Atividade: "Direção, fotografia, roteiro e produção de cinema"
   Produtora: "RPB Filmes (fundada em 1966)"
@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Reynaldo Paes e Barros** é um cineasta nascido em Campo Grande, que fez carreira no cinema paulista nas décadas de 1960 e 1970. Seu nome aparece grafado também Reynaldo Paes de Barros e Reinaldo Paes de Barros.[^neves][^fcms2017][^cmsp]
+**Reynaldo Paes e Barros** é um cineasta nascido em Campo Grande, que trabalhou no cinema de São Paulo nos anos 1960 e 1970. Seu nome aparece grafado também Reynaldo Paes de Barros e Reinaldo Paes de Barros.[^neves][^fcms2017][^cmsp]
 
 ## Trajetória
 

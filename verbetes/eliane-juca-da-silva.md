@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 No elenco do longa [[terra-vermelha-filme|*Terra Vermelha*]] (2008), de [[marco-bechis|Marco Bechis]], fez a personagem Mami.[^alves2012] Em seu depoimento em *Jepea'yta*, ela cita as oficinas do [[video-indio-brasil|Vídeo Índio Brasil]] e do [[projeto-ava-marandu|Ava Marandu]] e o filme *Terra Vermelha* entre as experiências de que participou. No mesmo depoimento, fala da falta de equipamento e de recursos na aldeia para os jovens que querem fazer os próprios filmes.[^correa2023b]
 
-Em 2010, está entre os 13 moradores da Aldeia Jaguapiru creditados como realizadores de dois documentários do projeto Ava Marandu, produzidos pela aldeia e pelo [[pontao-de-cultura-guaicuru|Pontão de Cultura Guaicuru]]: [[bro-mcs-documentario-2010|*Brô MC's*]] e *Jakaira*, este sobre a colheita do milho na aldeia.[^fidelis2024]
+Em 2010, está entre os 13 realizadores creditados em dois documentários do projeto Ava Marandu produzidos pela Aldeia Jaguapiru e pelo [[pontao-de-cultura-guaicuru|Pontão de Cultura Guaicuru]]: [[bro-mcs-documentario-2010|*Brô MC's*]] e *Jakaira*, este sobre a colheita do milho na aldeia.[^fidelis2024]
 
 Os créditos finais de *Jepea'yta* a incluem na lista de realizadores indígenas.[^correa2023c]
 

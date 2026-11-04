@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-O primeiro contato com o audiovisual foi o longa-metragem [[terra-vermelha-filme|Terra Vermelha]], dirigido por [[marco-bechis|Marco Bechis]] e lançado em 2008. Participou das oficinas de preparação para as filmagens, fez um dos papéis principais e viajou pela Europa no lançamento do filme.[^correa2023] No elenco, interpreta Osvaldo, um jovem que se prepara para se tornar xamã.[^alves2012]
+O primeiro contato com o audiovisual foi o longa-metragem [[terra-vermelha-filme|Terra Vermelha]], dirigido por [[marco-bechis|Marco Bechis]] em 2008 e gravado em Dourados. Participou das oficinas de preparação para as filmagens, fez um dos papéis principais e viajou pela Europa no lançamento do filme.[^correa2023] No elenco, interpreta Osvaldo, personagem que se prepara para se tornar xamã.[^alves2012]
 
 Depois passou pelas oficinas do [[video-indio-brasil|Vídeo Índio Brasil]], em 2009, onde teve noções de fotografia, contrarregra e produção. Em entrevista a Miguel Angelo Corrêa, disse que aprendeu a prática em 2014, quando trabalhou como platô na produção do longa *O outro lado do paraíso*, dirigido por André Ristum e produzido por Nilson Rodrigues.[^correa2023]
 

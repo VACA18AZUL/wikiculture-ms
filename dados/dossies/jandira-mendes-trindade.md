@@ -32,3 +32,9 @@ Pista não aberta: "Ao contar histórias, Jandira brinca de ser a escritora 'imo
 
 - Há artigo na Wikipédia (https://pt.wikipedia.org/wiki/Jandira_Mendes_Trindade), apoiado só em matérias de O Pantaneiro; diz convite para a cadeira 19 em junho de 2021 e retorno a Aquidauana em 1950. Não usado como nota.
 - A matéria de 2024 não fala em "causos"; o verbete foi corrigido.
+
+## Atualização de 2026-11-04 (r13)
+
+- op2021 (*O Pantaneiro*, 19/06/2021): posse na cadeira 19 da AFLAMS (patrona Martha Ribeiro Brum), dada por Delasnieve Daspet; Colégio Santa Marcelina (SP); crônicas no semanário. A matéria diz que ela é da equipe do jornal: O Pantaneiro não é fonte totalmente independente dela. A dissertação de Lima (UFMS) continua sendo a fonte independente.
+- op2026 (Guilherme Henrique, 04/02/2026): participou dos 18 anos da AFLAMS em Aquidauana (data do evento não informada).
+- Fora: religião, trabalho voluntário na igreja, família, cidade de residência.

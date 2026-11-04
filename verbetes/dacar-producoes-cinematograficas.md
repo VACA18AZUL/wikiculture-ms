@@ -15,7 +15,7 @@ A **DaCar Produções Cinematográficas** (grafada também DACAR ou Dacar) é a 
 
 ## Trajetória
 
-Segundo Alexandre Aldo Neves, Cardoso criou a produtora depois de atuar em filmes paulistas e, com ajuda do então governador de Mato Grosso, José Fragelli, comprou uma câmera Arriflex importada da Alemanha. A primeira produção da DaCar foi *Caçada Sangrenta* (1974), dirigida por Ozualdo Candeias. Num relato da biografia de Cardoso citado por Neves, o ator conta que a ação se passaria no então estado de Mato Grosso, com filmagens em várias cidades. Neves registra que o filme teve 520.940 espectadores segundo a Ancine, abaixo do que a produtora esperava.[^neves]
+Segundo Alexandre Aldo Neves, Cardoso criou a produtora depois de atuar em filmes paulistas e, com apoio de José Fragelli, governador de Mato Grosso na época, comprou uma câmera Arriflex importada da Alemanha. A primeira produção da DaCar foi *Caçada Sangrenta* (1974), dirigida por Ozualdo Candeias. Num relato da biografia de Cardoso citado por Neves, o ator conta que a ação se passaria no então estado de Mato Grosso, com filmagens em várias cidades. Neves registra que o filme teve 520.940 espectadores segundo a Ancine, abaixo do que a produtora esperava.[^neves]
 
 A dissertação de Carlos Rodrigo Diehl atribui à DaCar quatro dos cinco filmes de ficção que Cardoso fez em Mato Grosso do Sul: *Caçada Sangrenta* (1974), *19 Mulheres e 1 Homem* (1977), *Desejo Selvagem* (1979) e *Corpo e Alma de Mulher* (1983). Para Diehl, são produções paulistas da Boca do Lixo, mas também podem ser vistas como sul-mato-grossenses, pelo esforço de um cineasta local e pelo apoio e financiamento de empresários do estado.[^diehl]
 

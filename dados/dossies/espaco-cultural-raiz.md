@@ -32,3 +32,7 @@
 ## Uso no verbete
 
 - Fora: endereço e telefone; residência do artista. Anderson Lima não ligado ao verbete anderson-lima (homônimo não confirmado). Emanuel Marinho sem link (grafia difere de emmanuel-marinho).
+
+## Atualização de 2026-11-04 (r13)
+
+- op2022b: Lucas Arruda, *O Pantaneiro*, 29/04/2022 — Sarau do Edu (Edu Arimura) e show de Adélia (29-30/04/2022, anúncio); inaugurado em outubro de 2021; Rua Líbero Badaró, Piraputanga; já recebeu teatro, música, dança e cinema itinerante. Mesma publicação de op2021 e op2022: não é fonte independente nova. A independência vem de *O Estado MS* (oe2026c, oe2026d), já citados.

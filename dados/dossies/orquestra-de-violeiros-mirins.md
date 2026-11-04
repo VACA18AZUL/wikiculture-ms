@@ -25,3 +25,8 @@ As duas são do mesmo jornal. Buscas sem resultado em O Estado, FCMS, CGN e Goog
 ## Uso no verbete
 
 - Fora: local das aulas (casa do coordenador, bairro), telefone, idade do coordenador, vínculo conjugal dos fundadores (dito só como "casal" na fonte; o verbete diz "Jorcy Neves Luiz e Sebastiana Dias Neves").
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte independente: Campo Grande News (/buscar?q=Violeiros+Mirins e Jorcy+Neves), O Estado MS (wp-json, mesmos termos), FCMS (?s=violeiros+mirins), Brave e Google Notícias (bloqueados). Nenhum resultado. Fonte única (Correio do Estado, duas matérias).
+- Verbete: 'em atividade desde 2006' passou a ser atribuído ao Correio de 2010.

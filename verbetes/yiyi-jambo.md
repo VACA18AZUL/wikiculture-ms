@@ -22,7 +22,7 @@ Editoras cartoneras fazem livros com capas de papelão recolhido nas ruas. Sousa
 
 Segundo Sousa, a palavra *yiyi* surgiu no lixão de Cateura, o maior aterro do Paraguai, e quer dizer moça ou menina; *jambo* indica um tom de pele. O nome homenagearia moças nascidas de pais de culturas ou nacionalidades diferentes. A editora tem parceria com outras cartoneras, como Eloísa Cartonera (Argentina), Yerba Mala Cartonera (Bolívia), Sarita Cartonera (Peru) e Dulcinéia Cartonera (São Paulo).[^sousa]
 
-Camargo registra que Diegues editou mais de uma dezena de livros pela Yiyi Jambo, entre eles *Mascate*, de Wilson Bueno, e o poema "A uma passante", de Charles Baudelaire. Para a autora, a editora é o espaço em que o poeta traduz e recria textos canônicos aproximando-os da fronteira.[^camargo]
+Camargo registra que Diegues editou mais de uma dezena de livros pela Yiyi Jambo, como *Mascate*, de Wilson Bueno, e "A uma passante", poema de Charles Baudelaire. Para a autora, a editora é o espaço em que o poeta traduz e recria textos canônicos aproximando-os da fronteira.[^camargo]
 
 Em 2014, a artista plástica [[gisele-francia|Gisele Francia]], formada na UFMS, passou a fazer capas para a editora. Diegues também oferecia oficinas de livros cartoneros, com pintura de capas, encadernação, costura e história do livro cartonero na América Latina. Em 19 de abril de 2015, abriu em Ponta Porã o Café & Libros Yiyi Jambo, cafeteria literária que foi o primeiro ponto fixo de venda dos livros da editora.[^sousa]
 
