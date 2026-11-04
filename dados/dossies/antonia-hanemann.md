@@ -54,3 +54,21 @@ Fontes descartadas: três buscas abertas ("Antonia Hanemann", "Wormesbeker", com
 ## Validação de 2026-11-04 (valn-10b)
 
 - "a escritora" retirado; nota passou a p. 3-4 e 13-14.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fontes novas (outros veículos: Correio do Estado e portal da Fundação de Cultura de MS; a busca do portal da FCMS por "Antonia Hanemann" listou os itens; o Correio do Estado apareceu pela mesma busca):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| ce2010 | Cristina Medeiros, "Arte em dose dupla no Memorial da Cultura", Correio do Estado, 14 out. 2010 | https://correiodoestado.com.br/correio-b/2010/10/14/arte-em-dose-dupla-no-memorial-da-cultura.html | sim |
+| ce2011 | "Gabinete do prefeito recebe exposição", Correio do Estado, 1º ago. 2011 | https://correiodoestado.com.br/cidades/2011/08/01/gabinete-do-prefeito-recebe-exposicao.html | sim |
+| fcms2017 | Gisele Colombo, "Marco abre nova temporada do projeto Oficinas de Férias com seis cursos", FCMS, 26 jun 2017 | https://www.fundacaodecultura.ms.gov.br/marco-abre-nova-temporada-do-projeto-oficinas-de-ferias-com-cinco-cursos/ | sim |
+| fcms2019 | Karina Medeiros de Lima, "Marco completa 28 anos com bazar, apresentação de corais e lançamento do novo site", FCMS, 9 dez 2019 | https://www.fundacaodecultura.ms.gov.br/marco-completa-28-anos-com-bazar-cantata-de-natal-e-lancamento-do-novo-site/ | sim |
+
+Reforço independente: formação em UFMS (agora com as duas titulações: Educação Artística e Artes Visuais), nome completo Antonia Maria Wormesbeker Hanemann (ce2011), papel machê como técnica (fcms2017, fcms2019).
+Novo: exposições de 2010 e 2011, oficina de 2017 no MARCO, participação no Bazar do MARCO em 2019.
+Fora do verbete: telefones de contato nas notas da FCMS; a explicação pessoal da artista em ce2010 sobre a motivação da série (luto familiar); valor da inscrição na oficina.
+Não usada: FCMS, 17 mar 2017 (Medalha Conceição dos Bugres, Assembleia Legislativa) lista "Antônia Hanemann" entre homenageados; a nota não permite confirmar que é a mesma artista.
+Não confirmado: nascimento (7 jan. 1975) e Rio Verde de Mato Grosso (só catálogo do MARCO); tema "natureza íntima feminina"/Clarice Lispector (só catálogo); obras na Itália, Japão e EUA (só catálogo).
+Pequena diferença: fcms2017 chama de "emérita"; verbete cita "segundo a nota". O catálogo MARCO dá "mais de 20 anos de atuação" em 2021.
