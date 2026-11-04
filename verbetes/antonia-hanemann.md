@@ -20,6 +20,6 @@ Formou-se em Artes Visuais pela [[ufms|Universidade Federal de Mato Grosso do Su
 
 ## Obra
 
-O papel machê é a técnica central de sua produção. O catálogo aponta a natureza íntima feminina como tema constante e a escritora Clarice Lispector como principal motivação. Uma obra sua está no acervo do MARCO e foi selecionada para o catálogo.[^marco30]
+O papel machê é a técnica central de sua produção. O catálogo aponta a natureza íntima feminina como tema constante e Clarice Lispector como principal motivação. Uma obra sua está no acervo do MARCO e foi selecionada para o catálogo.[^marco30]
 
-[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 13. Acesso em 4 nov. 2026.
+[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 13-14. Acesso em 4 nov. 2026.

@@ -13,3 +13,9 @@ Mudanças no verbete: novo parágrafo em Trajetória e frase nova em Obra, com a
 Deixado de fora: o episódio pessoal que inspirou a série e referências à família (dados pessoais); valor da meta de arrecadação (irrelevante).
 
 Limite: a fonte nova é do mesmo veículo (Campo Grande News). Busca por fonte independente (governo do estado, MARCO, outros jornais) não achou nada. Continua com fonte única por domínio.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fonte independente (aberta e lida): Gisele Colombo, "MARCO abre amanhã a 4ª Temporada de Exposições de 2022", Fundação de Cultura de MS, 29 nov. 2022. https://www.fundacaodecultura.ms.gov.br/marco-abre-amanha-a-4a-temporada-de-exposicoes-de-2022/
+Sustenta: artista de Campo Grande ligada a Girona; descrição da série (perda, fim da vida, consolo); abertura da temporada em 30/11/2022, 19h; visitação até 12/02/2023; entrada gratuita; mostras Retrato Falado e Casa Nova!; Wendel Fontes. Não informa técnicas nem número de peças.
+Mudança: nota [^fcms] em Obra e em Trajetória. Texto do governo é a origem da descrição citada pelo CGN, então a descrição da série não é confirmação de veículo independente do texto oficial; a data de abertura (30/11) e a presença na 4ª Temporada são confirmadas por fonte do governo. Imagem da obra "Cicatrizes" (série Finitude) existe no site da FCMS, sem licença aberta; não usada.

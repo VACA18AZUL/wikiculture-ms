@@ -3,7 +3,7 @@ titulo: "Grupo Transart"
 tipo: grupo
 areas: [teatro]
 cidade: Campo Grande
-resumo: "Grupo de teatro de Campo Grande criado por Edilton Ramos, que montou espetáculos de bilheteria e, em 2024, anunciou a encenação da Paixão de Cristo no Teatro Dom Bosco."
+resumo: "Grupo de teatro criado por Edilton Ramos em 1973, que montou espetáculos de bilheteria e, em 2024, anunciou a encenação da Paixão de Cristo no Teatro Dom Bosco, em Campo Grande."
 ficha:
   Fundação: "1973"
   Fundador: "Edilton Ramos"
@@ -11,11 +11,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Grupo Transart**, também grafado **Transarte**, é um grupo de teatro de Campo Grande ligado ao ator e diretor [[edilton-ramos|Edilton Ramos]].[^folheto][^cgn2024]
+O **Grupo Transart**, também grafado **Transarte**, é um grupo de teatro ligado ao ator e diretor [[edilton-ramos|Edilton Ramos]], com apresentações em Campo Grande.[^folheto][^cgn2024]
 
 ## Trajetória
 
-Segundo o folheto da [[mostra-boca-de-cena|Mostra Boca de Cena]] de 2017, que homenageou Edilton Ramos, o grupo foi criado por ele em 1973. O folheto diz que o Transart fez espetáculos de apelo mais comercial, sobre conflitos de família e questões ambientais, com várias sessões por dia e renda de bilheteria. Cita dois títulos: *Conflitos de Geração* e *Doutor Urubulino Polu*.[^folheto]
+Segundo o folheto da [[mostra-boca-de-cena|Mostra Boca de Cena]] de 2017, que homenageou Edilton Ramos, o grupo foi criado por ele em 1973. O folheto diz que o Transart fez espetáculos de apelo mais comercial, sobre questões familiares e ambientais, com várias sessões por dia e renda de bilheteria. Cita dois títulos: *Conflitos de Geração* e *Doutor Urubulino Polu*.[^folheto]
 
 Em março de 2024, o *Campo Grande News* noticiou que o grupo, que celebrava 45 anos de trabalho, levaria a encenação da Paixão de Cristo ao [[teatro-dom-bosco|Teatro Dom Bosco]], em Campo Grande, em quatro sessões nos dias 28 e 29 de março. A montagem, com texto em linguagem clássica baseado nas escrituras, tinha direção de Edilton Ramos, que também interpretava Jesus.[^cgn2024]
 

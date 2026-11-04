@@ -20,6 +20,6 @@ atualizado: 2026-11-04
 
 ## Obra
 
-Segundo o catálogo, o artista busca dialogar com o público a partir de relações de respeito e equilíbrio com o meio ambiente e os seres vivos. Uma obra sua está no acervo do MARCO e foi selecionada para o catálogo.[^marco30]
+Segundo o catálogo, o artista procura dialogar com o público tendo como base o respeito e o equilíbrio na relação com o meio ambiente e os seres vivos. Uma obra sua está no acervo do MARCO e foi selecionada para o catálogo.[^marco30]
 
-[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 25. Acesso em 4 nov. 2026.
+[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 25-26. Acesso em 4 nov. 2026.
