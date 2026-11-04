@@ -3,10 +3,10 @@ titulo: Geraldo Si
 tipo: pessoa
 areas: [danca]
 cidade: Aquidauana
-resumo: "Bailarino e coreógrafo nascido em Aquidauana e radicado na Alemanha. Começou na dança em MS nos anos 1980, foi um dos fundadores do Pantanáliadança e integrou a partir de 1990 o Tanztheater Wuppertal, de Pina Bausch."
+resumo: "Bailarino e coreógrafo nascido em Aquidauana e radicado na Alemanha. Começou na dança em MS nos anos 1980, foi um dos fundadores do Pantanáliadança e integrou a partir de 1990 o Wuppertaler Tanztheater, de Pina Bausch."
 ficha:
   Atividade: "Bailarino e coreógrafo"
-  Grupos: "Pantanáliadança; Tanztheater Wuppertal"
+  Grupos: "Pantanáliadança; Wuppertaler Tanztheater"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou na dança em Mato Grosso do Sul nos anos 1980 e foi um dos fundadores do grupo [[pantanaliadanca|Pantanáliadança]]. Em 1990, passou a integrar o Wuppertaler Tanztheater, companhia dirigida pela coreógrafa alemã Pina Bausch, e participou de mais de dez trabalhos dirigidos por ela.[^cgn2026] Uma matéria de 2023 o descreve morando em Wuppertal, cidade da companhia, no começo dos anos 1990.[^cgn2023]
+Começou na dança em Mato Grosso do Sul nos anos 1980 e foi um dos fundadores do grupo [[pantanaliadanca|Pantanáliadança]]. Em 1990, passou a integrar o Wuppertaler Tanztheater, companhia dirigida pela coreógrafa alemã Pina Bausch, e participou de mais de dez trabalhos dirigidos por ela.[^cgn2026] Em 1993, morava em Wuppertal, cidade da companhia.[^cgn2023]
 
 Em abril de 2018, foi um dos convidados internacionais da [[semana-pra-danca|Semana pra Dança]], em Campo Grande. Deu de 25 a 29 de abril a oficina *Ibípio* no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], apresentou o espetáculo *Ibípio* em 30 de abril no [[sesc-teatro-prosa|Teatro Prosa]] e participou, em 1º de maio, de uma conversa depois da exibição do documentário *Pina*.[^cgn2018]
 

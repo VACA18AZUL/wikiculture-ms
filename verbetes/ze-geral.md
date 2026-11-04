@@ -28,7 +28,7 @@ O sarau conta como primeira edição oficial a de 29 de janeiro de 1997. Antes d
 
 As fontes divergem quanto à chegada do sarau à Vila Piratininga, onde ele continuava em 2023. Em 2013, o *Campo Grande News* noticiou que o músico e o sarau tinham se mudado para o bairro no fim do ano anterior, com estreia em 16 de fevereiro.[^cgn2013] Em 2023, o mesmo jornal disse que ele morava ali desde 2010,[^cgn2023] e o *O Estado MS* datou a chegada de março de 2010.[^oe2023]
 
-A milésima edição foi em 31 de agosto de 2023, no quintal da casa, onde o sarau passara a ocorrer aos sábados. Os dois jornais registram que cerca de 2.500 músicos e artistas já tinham passado pelo evento, entre eles [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]], [[paulo-ge|Paulo Gê]], Miska, Caxingue, Lúcio Val, Toniquinho, [[bibi-do-cavaco|Bibi do Cavaco]] e [[jorapimo|Jorapimo]].[^cgn2023][^oe2023] A cantora [[ana-cabral|Ana Cabral]] tocou no sarau no início da carreira.[^cgn-anacabral]
+A milésima edição foi em 31 de agosto de 2023, no quintal da casa, onde o sarau passara a ocorrer aos sábados. Os dois jornais registram que cerca de 2.500 músicos e artistas já tinham passado pelo evento, entre eles [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]], [[paulo-ge|Paulo Gê]], Miska, Caxingue, Lúcio Val, Toniquinho, [[bibi-do-cavaco|Bibi do Cavaco]] e [[jorapimo|Jorapimo]].[^cgn2023][^oe2023] A cantora [[ana-cabral|Ana Cabral]] é uma das que tocaram no sarau, entre outros projetos alternativos da cidade.[^cgn-anacabral]
 
 ## Discografia
 

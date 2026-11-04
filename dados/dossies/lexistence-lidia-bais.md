@@ -24,3 +24,9 @@
 ## Incertezas
 
 - Funções: A Crítica chama Monique de diretora; Primeira Página, coreógrafa; RCN67, coreógrafa e diretora artística, e chama Ana el Daher de diretora artística e de diretora. Não há confirmação de que a apresentação ocorreu.
+
+## Atualização de 2026-11-04
+
+- Validação: as três fontes (A Crítica e Primeira Página de 26/7/2026, RCN67 de 29/7/2026) são anteriores à apresentação e reproduzem material de divulgação (A Crítica e Primeira Página trazem a mesma fala de Monique Paes, palavra por palavra). O verbete passou a tratar a data de 4/8/2026 como anunciada.
+- Lidas e não usadas: *O Estado Online*, 4/8/2026 (https://oestadoonline.com.br/arte-e-lazer/espetaculo-de-danca-homenageia-lidia-bais-e-estreia-nesta-terca-feira-em-campo-grande/) — também anúncio; diz "nesta terça-feira (5)", mas 4/8/2026 foi terça; cita apoio da Lei Rouanet e Monique Paes na direção artística e coreografia.
+- Não aberta: Midiamax, 10/8/2026, "'Bem difícil', declara atriz que incorporou Lídia Baís em Campo Grande" (https://midiamax.com.br/midiamais/2026/bem-dificil-declara-atriz-incorporou-lidia-bais-campo-grande/) — bloqueio Cloudflare (403). Provável fonte pós-apresentação; tentar de novo.
