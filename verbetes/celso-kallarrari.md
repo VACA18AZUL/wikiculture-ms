@@ -3,7 +3,7 @@ titulo: Celso Kallarrari
 tipo: pessoa
 areas: [literatura]
 cidade: Ponta Porã
-resumo: Poeta e romancista criado em Ponta Porã, autor de três livros de poemas e do romance O Ritual dos Chrysântemos (2013), ambientado na fronteira com o Paraguai.
+resumo: Poeta e romancista criado em Ponta Porã, autor de três livros de poemas e do romance O Ritual dos Chrysântemos (2013), cuja história parte da fronteira com o Paraguai.
 ficha:
   Atividade: Poesia e romance
   Formação: Doutorado em Ciências da Religião (PUC Goiás)

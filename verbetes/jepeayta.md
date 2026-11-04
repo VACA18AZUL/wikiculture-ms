@@ -11,10 +11,10 @@ ficha:
   Produção: Buena Onda Marginal Clube
   Realização: ASCURI
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Jepea'yta – A lenha principal** é um média-metragem de 2012 dirigido por [[gilmar-galache|Gilmar Galache]] e [[nataly-foscaches|Nataly Foscaches]], com realização da [[ascuri|ASCURI]] (Associação Cultural dos Realizadores Indígenas).[^tese]
+**Jepea'yta – A lenha principal** é um média-metragem de 2012 dirigido por [[gilmar-galache|Gilmar Galache]] e [[nataly-foscaches|Nataly Foscaches]], com realização da [[ascuri|ASCURI]] (Associação Cultural dos Realizadores Indígenas).[^tese][^gemi]
 
 ## Origem
 
@@ -24,9 +24,9 @@ As filmagens começaram em 2011. Sem recursos para oficinas ou compra de equipam
 
 ## Conteúdo
 
-Corrêa descreve uma parte ficcional que abre o filme: jovens indígenas que trabalham numa lavoura são chamados por um ancião, que os manda buscar um tipo específico de lenha. Em seguida vêm depoimentos de realizadores, filmados quase sempre em plano muito fechado. No fim, o professor Eliel Benites explica a importância do fogo e os jovens dançam em volta de uma fogueira. Admilson "Kiki" Concianza aparece como cantor nessa cena final.[^tese]
+Corrêa descreve uma parte ficcional que abre o filme: jovens indígenas que trabalham numa lavoura são chamados por um ancião, que os manda buscar um tipo específico de lenha. Em seguida vêm depoimentos de realizadores, filmados quase sempre em plano muito fechado. No fim, o professor Eliel Benites explica a importância do fogo e os jovens dançam em volta de uma fogueira. Admilson "Kiki" Concianza aparece como cantor nessa cena final.[^tese][^gemi]
 
-O autor afirma que o filme dá voz às preocupações dos realizadores no momento em que foi feito, entre elas a relação com instituições e projetos externos. Diz também que é difícil enquadrá-lo em um gênero e o trata como possível obra híbrida.[^tese] O mesmo autor já havia publicado análise do filme em artigo de 2016, escrito com Álvaro Banducci Júnior.[^gemi]
+O autor afirma que o filme dá voz às preocupações dos realizadores no momento em que foi feito, entre elas a relação com instituições e projetos externos. Diz também que é difícil enquadrá-lo em um gênero e o trata como possível obra híbrida.[^tese][^gemi] O mesmo autor já havia publicado análise do filme em artigo de 2016, escrito com Álvaro Banducci Júnior.[^gemi]
 
 ## Divergência sobre a duração
 
