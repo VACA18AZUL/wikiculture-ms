@@ -26,7 +26,7 @@ A igreja foi tombada pelo município em 1996 e, em 5 de maio de 1998, pelo Estad
 
 ## Festa de São Benedito
 
-A Festa de São Benedito nasceu da mesma promessa e é mantida pelos descendentes.[^fcms2015] Em 2026, na 107ª edição, ocorreu de 8 a 17 de maio, com missas, terços, procissão, levantamento do mastro, rodas de samba, shows de pagode, bailes, torneios de futebol e almoço comunitário gratuito. Teve apoio do [[grupo-tez|Grupo TEZ]], pelo projeto Festividades Religiosas: Saberes e Ancestralidade, com recursos da Política Nacional Aldir Blanc.[^fcms2026a] A descida do terço, que fecha o ciclo de rezas, foi marcada para 23 de maio.[^fcms2026b]
+A Festa de São Benedito nasceu da mesma promessa e é mantida pelos descendentes.[^fcms2015] Em 2026, quando a Fundação de Cultura de MS contou 107 anos de festa, a programação foi anunciada para 8 a 17 de maio, com missas, terços, procissão, levantamento do mastro, rodas de samba, shows de pagode, bailes, torneios de futebol e almoço comunitário gratuito. Teve apoio do [[grupo-tez|Grupo TEZ]], pelo projeto Festividades Religiosas: Saberes e Ancestralidade, com recursos da Política Nacional Aldir Blanc.[^fcms2026a] Depois dos dias de reza, a descida do terço, que fecha o ciclo, foi marcada para 23 de maio, 11º dia da festa.[^fcms2026b]
 
 Em novembro de 2015, a Associação dos Descendentes de Tia Eva anunciou uma programação pelo mês da Consciência Negra, com rodas de capoeira, samba, pagode e o Baile da Beleza Negra.[^fcms2015]
 

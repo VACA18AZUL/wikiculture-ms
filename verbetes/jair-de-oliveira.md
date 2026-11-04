@@ -3,7 +3,7 @@ titulo: "Jair de Oliveira"
 tipo: pessoa
 areas: [teatro]
 cidade: Campo Grande
-resumo: "Diretor, autor e ator de teatro para crianças em Campo Grande. Fundou o Grupo Teatral Unicórnio, criado em 1986, e escreveu e dirigiu A Vassoura da Bruxa, em cartaz desde 1993."
+resumo: "Diretor, autor e ator de teatro para crianças em Campo Grande. Fundou o Grupo Teatral Unicórnio, criado em 1986, e escreveu e dirigiu A Vassoura da Bruxa, que estreou em 1993."
 ficha:
   Atividade: "Direção, dramaturgia e atuação"
   Grupos: "[[grupo-teatral-unicornio|Grupo Teatral Unicórnio]]"
@@ -19,7 +19,7 @@ Em entrevista à Fundação de Cultura de MS, em 2016, contou que teve experiên
 
 Escreveu e dirige *A Vassoura da Bruxa*, comédia sobre a bruxa Bruxelda, cuja vassoura voadora quebra na hora de ir ao baile das bruxas, no Morro da Caveira. O espetáculo estreou em abril de 1993 e, em 2015, já passava de mil apresentações, com prêmios em festivais. Jair atua na peça com Amélia Rocha e Cadú de Paula.[^fcms2015][^fcms2016]
 
-Em janeiro de 2016, como diretor e ator do grupo, organizou a Temporada Teatral de Férias, no auditório do [[marco|Museu de Arte Contemporânea]], que abriu as comemorações dos 30 anos do Unicórnio.[^sicredi2016] Em abril do mesmo ano, a fundação anunciou uma homenagem ao grupo na abertura da [[mostra-boca-de-cena|Boca de Cena – Mostra Sul-Mato-Grossense de Teatro e Circo]], com *A Vassoura da Bruxa* na programação, no Teatro Aracy Balabanian. Segundo a fundação, as peças do grupo circularam por escolas da capital e do interior, com temporadas em cidades como Ribas do Rio Pardo, Camapuã, Corumbá, Três Lagoas, Dourados e Ponta Porã.[^fcms2016]
+Em janeiro de 2016, o Unicórnio, do qual era diretor e ator, anunciou a Temporada Teatral de Férias, de 9 a 31 de janeiro, no auditório do [[marco|Museu de Arte Contemporânea]], como início das comemorações dos 30 anos do grupo.[^sicredi2016] Em abril do mesmo ano, a fundação anunciou uma homenagem ao grupo na abertura da [[mostra-boca-de-cena|Boca de Cena – Mostra Sul-Mato-Grossense de Teatro e Circo]], com *A Vassoura da Bruxa* na programação, no Teatro Aracy Balabanian. Segundo a fundação, as peças do grupo circularam por escolas da capital e do interior, com temporadas em cidades como Ribas do Rio Pardo, Camapuã, Corumbá, Três Lagoas, Dourados e Ponta Porã.[^fcms2016]
 
 ## Espetáculos
 

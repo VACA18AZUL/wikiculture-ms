@@ -53,3 +53,9 @@ Outras pistas não abertas (lista de busca da FCMS): ciclo de palestras do Festo
 ## Uso no verbete
 
 - Entrou tudo acima; anúncios marcados como anúncios. Falange da Rima e Emmanuel Marinho entram só como atrações anunciadas.
+
+## Revisão de 2026-11-04 (valn-20)
+
+- Todas as fontes reabertas e conferidas. Datas das páginas da FCMS: fcms2023a 22 fev. 2023; fcms2023c 10 abr. 2023; fcms2023b 18 abr. 2023; fcms2024 31 out. 2024 (Karina Medeiros de Lima). Notas atualizadas.
+- A tese de Corrêa (p. 119, nota 213) só cita o anúncio fcms2023a: não é confirmação independente da apresentação do Brô MC's. A confirmação é o balanço fcms2023b. O verbete diz isso.
+- O público de 20 mil (2023) está no texto da FCMS, não atribuído à organização (a organização é citada para o pico de 10 mil no sábado).
