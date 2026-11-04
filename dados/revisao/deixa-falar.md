@@ -46,7 +46,7 @@
 ## Incerto / atenções
 
 - Ano de fundação não está nas fontes (só "sete anos" em 2018).
-- Wikipédia: sem artigo sobre a escola de Campo Grande (o artigo "Deixa Falar" trata da escola carioca de 1928).
+- Wikipédia: sem artigo sobre a escola de Campo Grande (a busca devolve "Deixa Falar (Recife)" e listas de resultados do carnaval de Campo Grande de 2018 e 2020, não usados como fonte).
 
 ## Veredito
 

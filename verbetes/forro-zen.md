@@ -17,7 +17,7 @@ O **Forró Zen** é um grupo de forró de Campo Grande, formado em 2006 e lidera
 
 Em junho de 2015, o Campo Grande News apresentou o grupo como nascido em 2006, com repertório que mistura forrós conhecidos e músicas próprias. A formação citada era Zé Bruno (voz e violão), Ricardo Ramalho (contrabaixo) e Juninho (zabumba). O grupo era atração anunciada da festa Casório do Ano daquele ano.[^cgn2015]
 
-Para 2 de julho de 2016, o Forró Zen foi de novo anunciado como banda do Casório do Ano, na Praça Cuiabá, região da [[cabeca-de-boi|Cabeça de Boi]].[^cgn2016a] Para 14 de julho do mesmo ano, estava programado um show gratuito do grupo no Sesc Morada dos Baís (ver [[morada-dos-bais|Morada dos Baís]]), com repertório ligado a Luiz Gonzaga, Jackson do Pandeiro, Dominguinhos, Alceu Valença e Elba Ramalho, entre outros.[^jd12016]
+Para 2 de julho de 2016, o Forró Zen foi de novo anunciado como banda do Casório do Ano, na Praça Cuiabá, região da [[cabeca-de-boi|Cabeça de Boi]].[^cgn2016a] Para 14 de julho do mesmo ano, estava programado um show gratuito do grupo no Sesc [[morada-dos-bais|Morada dos Baís]], com repertório ligado a Luiz Gonzaga, Jackson do Pandeiro, Dominguinhos, Alceu Valença e Elba Ramalho, entre outros.[^jd12016]
 
 Em dezembro de 2016, o Campo Grande News disse que o grupo animava bares da cidade desde 2006 e já tinha fã-clube. Zé Bruno aparece como líder, na voz e na percussão, acompanhado por Maicon Oliveiras (voz e zabumba) e Renan Nonato (vocal de apoio e sanfona).[^cgn2016b]
 
