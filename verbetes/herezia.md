@@ -17,9 +17,9 @@ atualizado: 2026-11-04
 
 A banda começou tocando versões de grupos como Bring Me The Horizon, Avenged Sevenfold, Pierce The Veil e Deftones nos palcos da cidade e depois passou a compor. As primeiras referências incluíam Green Day e Raimundos; com o tempo, o som ficou mais pesado e se aproximou do metalcore, sem abandonar o pop punk e outras misturas.[^oestado2026]
 
-Em abril de 2025, apresentou-se no Mirante Pub, em Campo Grande, em show anunciado como de nu metal, na linha de Slipknot e Linkin Park.[^cgn2025] Em setembro de 2026, preparava o lançamento de "Purgatory", seu quarto single autoral, com letra sobre fé, culpa e religião.[^oestado2026]
+No domingo de Páscoa de 2025, 20 de abril, estava na agenda do Mirante Pub, em Campo Grande, com show anunciado como de nu metal, na linha de Slipknot e Linkin Park.[^cgn2025] Em setembro de 2026, preparava o lançamento de "Purgatory", seu quarto single autoral, com letra sobre fé, culpa e religião.[^oestado2026]
 
-Em 24 de outubro de 2026, tocou no CG Rock Festival, na A Taberna Rock Pub, em Campo Grande, com MC Taya, [[mystical-perversion|Mystical Perversion]] e Becky Bee, com repertório autoral e versões de clássicos do nu metal.[^acritica2026]
+Para 24 de outubro de 2026, estava escalada no CG Rock Festival, na A Taberna Rock Pub, em Campo Grande, com MC Taya, [[mystical-perversion|Mystical Perversion]] e Becky Bee. A divulgação anunciava repertório autoral e versões de clássicos do nu metal.[^acritica2026]
 
 ## Discografia
 

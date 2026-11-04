@@ -28,6 +28,7 @@ Em maio de 2024, a abertura da 15ª edição da Ostra Boca de Cena, Semana do Te
 
 - [[carne-amarela|*Carne Amarela*]] (curta-metragem de ficção; filmagens em Coxim, encerradas em 21 de dezembro de 2025) — elenco, em participação especial. O *Correio do Estado* o apresenta como intérprete do Mascarado na novela *A Viagem* (Globo, 1994) e registra o curta como seu 101º trabalho no audiovisual.[^ce2025]
 - [[vemo-um-cotidiano-terena|*Vémo'um*]] (2025) — curta documentário; direção, com [[thais-umar|Thaís Umar]], segundo a descrição do vídeo;[^yt2025] o *Correio do Estado* o apresenta como roteirista e preparador de elenco.[^ce2024] [Assistir no YouTube](https://www.youtube.com/watch?v=v8OSRFKPfRE)
+- [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; elenco.[^jacare2026]
 
 [^cgn]: Thailla Torres, ["Espetáculo gratuito Ponto de Partida retorna a Campo Grande em 1º de agosto"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-ponto-de-partida-retorna-a-campo-grande-com-duas-sessoes), *Campo Grande News*, 1 ago. 2025. Acesso em 4 nov. 2026.
 [^cm]: ["Estado promove semana do teatro e circo"](https://www.correiodamanha.com.br/nacional/centro-oeste/2024/05/132985-estado-promove-semana-do-teatro-e-circo.html), *Correio da Manhã*, 16 mai. 2024. Acesso em 4 nov. 2026.
@@ -35,3 +36,4 @@ Em maio de 2024, a abertura da 15ª edição da Ostra Boca de Cena, Semana do Te
 [^ce2024]: Da Redação, ["Cotidiano Terena"](https://correiodoestado.com.br/correio-b/2024/12/23/cotidiano-terena.html), *Correio do Estado*, 23 dez. 2024. Acesso em 4 nov. 2026.
 [^yt2025]: Vémo'um Nossa Voz, ["Documentário Vémo'um - Nossa Voz"](https://www.youtube.com/watch?v=v8OSRFKPfRE), descrição do vídeo no canal do projeto no YouTube, publicado em 26 ago. 2025. Acesso em 4 nov. 2026.
 [^boca2017]: ["Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017"](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto da programação (PDF no site da UFMS), p. 8. Acesso em 4 nov. 2026.
+[^jacare2026]: Priscilla Peres, ["Artista que rompeu fronteiras: filme sobre Lídia Baís enfrenta desafio da falta de patrocínio"](https://www.ojacare.com.br/2026/06/04/artista-que-rompeu-fronteiras-filme-sobre-lidia-bais-enfrenta-desafio-da-falta-de-patrocinio/), *O Jacaré*, 4 jun. 2026. Acesso em 4 nov. 2026.

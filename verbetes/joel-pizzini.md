@@ -36,6 +36,7 @@ Em 16 de novembro de 2009, o *Correio do Estado* anunciou para aquela semana, de
 - *Zimba* (2021) — documentário; direção.[^ce2021]
 - *Rio da Dúvida* — documentário; direção.[^ce2021]
 - *[[madalena-longa|Madalena]]* — longa de ficção; produção.[^cgn2019]
+- [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; produção, com Juliana Domingos.[^jacare2026]
 
 [^ce2015a]: ["Cineasta Joel Pizzini que cresceu em MS apresentará filmes no exterior"](https://correiodoestado.com.br/correio-b/2015/04/06/cineasta-joel-pizzini-que-cresceu-em-ms-apresentara-filmes-no-exterior.html), *Correio do Estado*, 6 abr. 2015. Acesso em 4 nov. 2026.
 [^ce2015b]: Glaucea Vaccari, ["Filme de cineasta de MS é finalista em prêmio nacional"](https://correiodoestado.com.br/correio-b/2015/08/11/filme-de-cineasta-de-ms-e-finalista-em-premio-nacional.html), *Correio do Estado*, 11 ago. 2015. Acesso em 4 nov. 2026.
@@ -46,3 +47,4 @@ Em 16 de novembro de 2009, o *Correio do Estado* anunciou para aquela semana, de
 [^fcms2017]: Fundação de Cultura de Mato Grosso do Sul, ["Fundação de Cultura realiza oficina Caligrafia do Filme no Festival de Cinema do Vale de Ivinhema"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-realiza-oficina-caligrafia-do-filme-no-festival-de-cinema-do-vale-de-ivinhema/), 21 nov. 2017. Acesso em 4 nov. 2026.
 [^fcms2017b]: Daiana Schio, ["MIS celebra 40 anos de MS com mostra especial de curtas"](https://www.fundacaodecultura.ms.gov.br/mis-celebra-40-anos-de-ms-com-mostra-especial-de-curtas/), Fundação de Cultura de Mato Grosso do Sul, 3 out. 2017. Acesso em 4 nov. 2026.
 [^fcms2026]: Marcio Rodrigues Breda, ["Atriz de 'A Melhor Mãe do Mundo' e reconhecido cineasta de MS ministram oficinas no Festjuv 2026"](https://www.fundacaodecultura.ms.gov.br/atriz-de-a-melhor-mae-do-mundo-e-reconhecido-cineasta-de-ms-ministram-oficinas-no-festjuv-2026/), Fundação de Cultura de Mato Grosso do Sul, 16 mar. 2026. Acesso em 4 nov. 2026.
+[^jacare2026]: Priscilla Peres, ["Artista que rompeu fronteiras: filme sobre Lídia Baís enfrenta desafio da falta de patrocínio"](https://www.ojacare.com.br/2026/06/04/artista-que-rompeu-fronteiras-filme-sobre-lidia-bais-enfrenta-desafio-da-falta-de-patrocinio/), *O Jacaré*, 4 jun. 2026. Acesso em 4 nov. 2026.

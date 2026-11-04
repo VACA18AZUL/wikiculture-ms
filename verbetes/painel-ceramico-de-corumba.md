@@ -27,7 +27,7 @@ Em outubro de 2026, a Prefeitura de Corumbá atribuiu a obra ao artista [[angelo
 
 ## Conservação
 
-Depois da dissolução do banco, o prédio foi vendido e o painel passou anos escondido atrás de mercadorias da loja. Parte das peças se soltou, e o trecho que mostrava peões, uma boiada e a paisagem pantaneira foi coberto com massa corrida. A situação veio a público em setembro de 2026, durante uma reforma do imóvel.[^cgn2026]
+Depois da dissolução do banco, o prédio foi vendido e o painel passou anos escondido atrás de mercadorias da loja. Parte das peças se soltou, e o trecho que mostrava peões, uma boiada e a paisagem pantaneira foi coberto com massa corrida. A retirada das mercadorias para uma reforma do imóvel, noticiada em setembro de 2026, expôs a obra e os danos.[^cgn2026]
 
 As fontes divergem sobre a restauração anterior. Segundo a diretora-presidente da Fundação de Desenvolvimento Urbano e Patrimônio Histórico (Fuphan) de Corumbá, Lauzie Xavier, citada pelo *Campo Grande News*, os primeiros desprendimentos surgiram por volta de 2015 e houve então uma restauração acompanhada pelo Iphan.[^cgn2026] A prefeitura informa que a restauração anterior foi feita em 2006 pela restauradora Leonor Lage, quando o prédio era ocupado pelo banco HSBC.[^pmc2026]
 
