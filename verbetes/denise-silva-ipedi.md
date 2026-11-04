@@ -24,5 +24,5 @@ Em 2020, o *Campo Grande News* a apresentou como integrante do Instituto de Pesq
 
 - *[[itukeovo-terenoe|Itúkeovo Térenoe]]* — coleção em quatro volumes; organização.[^fcms2020]
 
-[^fcms2020]: Karina Medeiros de Lima, ["Livro sul-mato-grossense publicado com recursos do FIC é um dos finalistas do Prêmio Jabuti"](https://www.fundacaodecultura.ms.gov.br/custeado-pelo-fic-livro-sul-mato-grossense-e-um-dos-finalistas-do-premio-jabuti/), *Fundação de Cultura de Mato Grosso do Sul*, 23 out. 2020. Acesso em 4 nov. 2026.
+[^fcms2020]: Giovanni Dorival (texto; publicado por Karina Medeiros de Lima), ["Livro sul-mato-grossense publicado com recursos do FIC é um dos finalistas do Prêmio Jabuti"](https://www.fundacaodecultura.ms.gov.br/custeado-pelo-fic-livro-sul-mato-grossense-e-um-dos-finalistas-do-premio-jabuti/), *Fundação de Cultura de Mato Grosso do Sul*, 23 out. 2020. Acesso em 4 nov. 2026.
 [^cgn2020]: Thailla Torres, ["Covid levou Anésio, que deixou obra no maior prêmio de literatura do país"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/covid-levou-anesio-que-deixou-obra-no-maior-premio-de-literatura-do-pais), *Campo Grande News*, 23 out. 2020. Acesso em 4 nov. 2026.

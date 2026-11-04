@@ -36,3 +36,17 @@
 ## Sugestão
 
 Fonte única de domínio, e a identidade entre as duas menções não está confirmada. Melhor caminho: verbete do Trio Vibrações (ou do Coletivo Vibrações) quando houver segunda fonte.
+
+## Fontes novas (agente d1-1, 2026-11-04, abertas e lidas)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| cgn2019 | Alana Portela, "São João teve novidades este ano, com mais 3 bandas estreando no ritmo do forró", CGN, 8 jul. 2019 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sao-joao-teve-novidades-este-ano-com-mais-3-bandas-estreando-no-ritmo-do-forro | sim (zabumbeiro e vocalista do Flor de Pequi; fala sobre o público) |
+| cgn2024 | Aletheya Alves, "Teatro do Mundo terá show de música brasileira instrumental com Ivan Cruz", CGN, 15 jun. 2024 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/teatro-do-mundo-tera-show-de-musica-brasileira-instrumental-com-ivan-cruz | sim (anúncio; Lucas no pandeiro com Júlio Borba) |
+| fcms2026 | Karina Medeiros de Lima, "Atrações regionais e nacional...", FCMS, 18 mar. 2026 | https://www.fundacaodecultura.ms.gov.br/atracoes-regionais-e-nacional-estarao-presentes-em-shows-gratuitos-na-semana-do-artesao-2026/ | sim (Flor de Pequi: Lucas Rosa voz e zabumba, com Júlio Borba) |
+
+Identidade: o Lucas Rosa do Flor de Pequi (2019 e 2026) e o do Trio Vibrações (2025) tocam juntos com Júlio Borba (fcms2026; cgn2024), o que liga as menções de música. A preparação musical de Gran FinaLLe (cgn2023, com Marcelus Anderson, colega do Flor de Pequi em 2019) é provável mas continua sem fonte que diga ser a mesma pessoa.
+
+## Uso no verbete (d1-1)
+
+Verbete escrito só como músico (cgn2019, cgn2024, cgn2025, fcms2026). Gran FinaLLe ficou de fora (identidade não confirmada); área circo não entrou. Idade não convertida em ano de nascimento.

@@ -8,3 +8,9 @@
 
 Não lidas: Dourados News 27 jul. 2024 (obituário) e 26 ago. 2024 ("Boca Venâncio será homenageado com nome de Museu") — pistas pelo RSS do Google Notícias.
 Fora: causa da morte; filiação partidária (omitida por não ser cultural). Ano do livro e veículo da coluna não informados. Wikipédia: sem artigo.
+
+## Atualização de 2026-11-04
+
+- Tentativa de segunda fonte: Dourados News, "Boca Venâncio será homenageado com nome de Museu" (26/08/2024, https://www.douradosnews.com.br/dourados/boca-venancio-sera-homengeado-com-nome-de-museu/1240767/) e "História e cultura: identidade musical de Dourados..." (20/12/2021): bloqueio de acesso (desafio anti-robô / 403). Não lidos.
+- As matérias do O Estado MS (2024 e 2025) só confirmam homenagens e são baseadas em divulgação (a de 2025 diz "Com informações de Assessoria"). A trajetória depende só do Campo Grande News: fonte única.
+- Outras pistas: Dourados News 06/06/2025 (Felit); Diário Digital 05/10/2025.

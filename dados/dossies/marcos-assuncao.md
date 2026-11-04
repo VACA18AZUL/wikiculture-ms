@@ -62,3 +62,7 @@ Descartadas: site marcosassuncaomusic.com.br (erro 406 ao abrir); Jornal da USP 
 ## Atualização de 2026-11-04 (validação valn-25)
 
 - Divergência nova: a FCMS (8 jul. 2024) diz que os shows de Ossuna Braza e Marcos Assunção em 7 jul. 2024 "deram início à volta do Som da Concha"; a própria FCMS (4 jun. 2024) e o Campo Grande News (5 jun. 2024) anunciaram o primeiro show de 2024 para 16 jun. (Fronteira Guarani). O verbete deixou de dizer que ele "abriu a temporada" e registra as duas informações.
+
+## Atualização de 2026-11-04 (r12)
+
+- Aberta e lida: Correio B, 7 dez. 2021, "Curta produzido na Capital ganha prêmio internacional", https://correiodoestado.com.br/correio-b/2021/12/07/curta-produzido-na-capital-ganha-premio-internacional.html — credita a trilha do curta de animação de Mariana Marques ("Cinzas no Pantanal") a "Marcos Assunção", sem outro dado (instrumento, cidade). Também o Correio B de 17/07/2023 cita "Marcos Assunção" entre os convidados do álbum *Cabeza de Vaca*, de Moacir Lacerda. Nenhuma das duas confirma que seja o violeiro deste verbete; nada entrou no verbete. Possível homônimo, a confirmar.
