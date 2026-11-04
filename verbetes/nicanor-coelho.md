@@ -3,7 +3,7 @@ titulo: Nicanor Coelho
 tipo: pessoa
 areas: [literatura]
 cidade: Dourados
-resumo: Poeta e jornalista de Dourados, autor de Vida Cachoeirinha (1991) e fundador da Academia Douradense de Letras; morreu em 2020 e inspira a Feira Literária de MS (FELIT/MS).
+resumo: Poeta e jornalista de Dourados, autor de Vida Cachoeirinha (1991) e fundador da Academia Douradense de Letras; morreu em 2020. A Feira Literária de MS (FELIT/MS) é apresentada como inspirada em sua obra.
 ficha:
   Morte: "2020"
   Atividade: Poeta, jornalista
@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Seu livro *Vida Cachoeirinha*, publicado em Dourados pela ANE em 1991, reúne poemas sobre o bairro Cachoeirinha, da mesma cidade. Segundo a introdução do autor, citada por Danieli Tavares, a obra se divide em quatro conjuntos de poemas. Em artigo de 2009, a pesquisadora da UFGD analisa o livro e observa que a obra do poeta era conhecida por um público pequeno e pouco estudada nos cursos de Letras.[^tavares2009]
 
-Morreu em 2020. É autor de mais de 15 publicações, segundo matéria de 2026 sobre o projeto de lei que incluiu a [[felit-ms|Feira Literária de Mato Grosso do Sul (FELIT/MS)]] no calendário oficial do estado. A matéria diz que a feira, realizada todo ano em Dourados na primeira semana de junho, é inspirada em sua obra.[^critica2026]
+Morreu em 2020. É autor de mais de 15 publicações, segundo matéria de fevereiro de 2026 sobre o projeto de lei, aprovado em segunda discussão na Assembleia Legislativa, que põe a [[felit-ms|Feira Literária de Mato Grosso do Sul (FELIT/MS)]] no calendário oficial de eventos do estado. A matéria diz que a feira, feita todo ano em Dourados na primeira semana de junho, é inspirada em sua obra.[^critica2026]
 
 ## Obras
 
