@@ -19,7 +19,7 @@
 
 - A Casa Paraguaia foi inaugurada em 14/01/1973 como primeira instituição oficial campo-grandense a representar os imigrantes paraguaios e seus descendentes; nos primeiros meses não tinha sede; o prefeito Levy Dias doou área na Vila Pioneira para a sede, e a instituição passou a se chamar Associação Colônia Paraguaia MS [gon p. 33]
 - Realiza eventos no Dia da Independência do Paraguai (15 de maio) e na festa de Nossa Senhora de Caacupê (8 de dezembro); tornou-se lugar de cantores e grupos paraguaios [gon p. 33]
-- Horacio (grafado "Horário") Casartelle, presidente de 1973 a 1989, lembra conjuntos como Los Tammys trazidos do Paraguai e a Festa de San Juan (24 de junho), com Toro Candil e outras brincadeiras (ARCA, 1993, p. 69-70, citada por Gonçalves) [gon p. 33-34]
+- Horário Casartelle (grafia da fonte), presidente de 1973 a 1989, lembra conjuntos como Los Tammys trazidos do Paraguai e a Festa de San Juan (24 de junho), com Toro Candil e outras brincadeiras (ARCA, 1993, p. 69-70, citada por Gonçalves) [gon p. 33-34]
 - Em quatro eventos de maio a outubro de 2013, o autor observou que a música tradicional paraguaia perdia espaço para outros gêneros; cartaz de outubro de 2013 com grupos baileiros [gon p. 34]
 
 ## Divergência com o verbete colonia-paraguaia
