@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Segundo o *Correio do Estado*, é doutor em Letras pela Universidade Estadual de Londrina (UEL), atua como professor na Universidade Estadual de Mato Grosso do Sul (UEMS) e pesquisa literatura contemporânea, estudos interartes e crítica materialista.[^ceprofessores]
 
-Em 28 de março de 2023, participou de um lançamento coletivo no Sesc Cultura, em Campo Grande, com os também professores de Letras [[flavio-adriano-nantes|Flávio Adriano Nantes]], [[fabio-dobashi|Fabio Dobashi]] e Ravel Paz, em conversa mediada por [[adrianna-alberti|Adrianna Alberti]].[^cgnprofessores][^ceprofessores] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], lançada em novembro de 2023.[^cgntarja]
+Para 28 de março de 2023, a imprensa anunciou sua participação num lançamento coletivo no Sesc Cultura, em Campo Grande, com os também professores de Letras [[flavio-adriano-nantes|Flávio Adriano Nantes]], [[fabio-dobashi|Fabio Dobashi]] e Ravel Paz, em conversa mediada por [[adrianna-alberti|Adrianna Alberti]].[^cgnprofessores][^ceprofessores] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], com lançamento anunciado para 11 de novembro de 2023.[^cgntarja]
 
 ## Obras
 
