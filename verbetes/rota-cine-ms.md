@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Rota Cine MS** (também grafado Rota CineMS) é um projeto da Fundação de Cultura de Mato Grosso do Sul que percorre o interior do estado com exibições gratuitas da produção audiovisual brasileira, seguidas de conversas e debates. Foi lançado em junho de 2007.[^ce2008]
+O **Rota Cine MS** (também grafado Rota CineMS) é um projeto itinerante da Fundação de Cultura de Mato Grosso do Sul que leva a cidades do interior sessões públicas e gratuitas de filmes brasileiros, acompanhadas de conversas sobre os temas exibidos. Foi lançado em junho de 2007.[^ce2008]
 
 ## Trajetória
 
