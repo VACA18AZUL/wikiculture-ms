@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Paulo Sanches** é ator, diretor de teatro e palhaço ligado a Três Lagoas.[^ptl2023a] Em 2012, contou à imprensa local que vivia na cidade havia 20 anos.[^jp2012]
+**Paulo Sanches** é ator, diretor de teatro e palhaço ligado a Três Lagoas.[^ptl2023a] Em 2012, a imprensa local informou que ele estava na cidade havia 20 anos.[^jp2012]
 
 ## Trajetória
 

@@ -11,11 +11,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Festival Viva MS**, ou Projeto Viva MS, foi um concurso de música raiz promovido em 2007 pelo Governo de Mato Grosso do Sul, por meio da [[fundacao-de-cultura-de-ms|Fundação de Cultura]], com o tema "Mato Grosso do Sul, minha terra", em referência aos 30 anos de criação do estado. Tinha etapas municipal, regional e estadual. Três Lagoas sediou a etapa municipal e a regional do Bolsão.[^ptl2007a][^ptl2007c]
+O **Festival Viva MS**, ou Projeto Viva MS, foi um concurso de música raiz promovido em 2007 pela [[fundacao-de-cultura-de-ms|Fundação de Cultura]], do Governo de Mato Grosso do Sul, sob o tema "Mato Grosso do Sul, minha terra", em referência aos 30 anos de criação do estado. Tinha etapas municipal, regional e estadual. Três Lagoas sediou a etapa municipal e a regional do Bolsão.[^ptl2007a][^ptl2007c]
 
 ## Regulamento
 
-Podiam concorrer duplas, trios e grupos de música de raiz e música sertaneja do estado, com até cinco integrantes e uma música por inscrição. Os vencedores das cidades disputavam a vaga regional na cidade polo, e os nove grupos escolhidos nas regiões iriam a Campo Grande para a gravação de um DVD.[^ptl2007a]
+Podiam concorrer grupos, trios e duplas do estado, de música raiz ou sertaneja, com até cinco integrantes e uma música por inscrição. Os vencedores das cidades disputavam a vaga regional na cidade polo, e os nove grupos escolhidos nas regiões iriam a Campo Grande para a gravação de um DVD.[^ptl2007a]
 
 ## Etapas em Três Lagoas
 
