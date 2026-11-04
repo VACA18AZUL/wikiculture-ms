@@ -43,3 +43,13 @@
 ## Uso no verbete
 
 - Entrou: tudo acima. Fora: telefones de contato.
+
+## Atualização de 2026-11-04 (validação)
+
+- Busca no site da Prefeitura de Três Lagoas (?s=Cadu Xavier) e no RCN67:
+  - tl2025b: Prefeitura de Três Lagoas, "“PONTO FINAL”, curta metragem Três-lagoense, terá exibição com recursos de acessibilidade nesta sexta (24)", 21 out. 2025 — dois prêmios por votação popular no MT Queer Premia (melhor curta de drama; melhor ator de drama, Lucas Spirandeli); selecionado em quatro festivais, semifinalista em outro; Mostra Cine PCD (Salvador); 16 minutos; sessão acessível anunciada para 24 out. 2025. Entrou (prêmios e seleções).
+  - Prefeitura, "Filme três-lagoense, feito com recursos da Lei Paulo Gustavo, será lançado no dia 18 de junho" (jun. 2025): é o mesmo texto de rcn2025b e da biografia de rcn2025a. As notas RCN67 reproduzem release da prefeitura.
+  - RCN67, 22 out. 2025, sessão com acessibilidade (anúncio): não usado.
+- Duração: 16 min (prefeitura) × "aproximadamente 15 minutos" (RCN67, 22 out. 2025). O verbete usa a da prefeitura; diferença pequena, anotada aqui.
+- Wikipédia: "Cadu Xavier" em pt.wikipedia é homônimo (político do RN), não é a pessoa.
+- Fonte única de fato para a biografia (release da prefeitura reproduzido pelo RCN67).

@@ -1,0 +1,28 @@
+---
+titulo: Elizeth Gonçalves
+tipo: pessoa
+areas: [musica]
+cidade: Corumbá
+resumo: "Violeira, cantora e compositora de Corumbá, integrante da Orquestra Corumbaense de Viola Caipira, que toca também viola de cocho e compõe sobre as paisagens do Pantanal."
+ficha:
+  Atividade: "Viola caipira, viola de cocho, canto, composição"
+  Grupos: "[[orquestra-corumbaense-de-viola-caipira|Orquestra Corumbaense de Viola Caipira]]"
+status: rascunho
+atualizado: 2026-11-04
+---
+
+**Elizeth Gonçalves** é uma violeira, cantora e compositora de Corumbá, ligada à viola caipira e à viola de cocho.[^fcms2024][^cgn2026]
+
+## Trajetória
+
+Começou a estudar viola caipira depois de ver em jornal o anúncio de aulas do instrumento em Corumbá; o *Campo Grande News* informa que as aulas eram oferecidas pelo Sesc.[^cgn2026][^oestado2026] Segundo *O Estado Online*, já cantava antes de aprender a viola e, com menos de três meses de aula, foi convidada pelo maestro Rui Torneze para a [[orquestra-corumbaense-de-viola-caipira|Orquestra Corumbaense de Viola Caipira]]. Em 2026, o jornal contava 15 anos de trajetória na viola.[^oestado2026]
+
+Em 15 de agosto de 2024, participou como convidada do show em homenagem ao centenário de [[helena-meirelles|Helena Meirelles]], com o Quarteto Instrumental Prelúdio e o maestro [[eduardo-martinelli|Eduardo Martinelli]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em Campo Grande.[^fcms2024]
+
+Toca também viola de cocho, que usou numa composição em homenagem a Corumbá. As composições dela tratam das paisagens e da cultura pantaneira da cidade. Apresentou-se no Festival de Barretos.[^cgn2026][^oestado2026]
+
+A Câmara Municipal de Corumbá aprovou por unanimidade uma moção de congratulação pelo trabalho dela na Orquestra Corumbaense de Viola Caipira.[^cgn2026][^oestado2026]
+
+[^fcms2024]: ["Momento de rara beleza, show na Concha Acústica homenageia os cem anos de Helena Meirelles"](https://www.fundacaodecultura.ms.gov.br/momento-de-rara-beleza-show-na-concha-acustica-homenageia-os-cem-anos-de-helena-meirelles/), *Fundação de Cultura de MS*, 16 ago. 2024. Acesso em 4 nov. 2026.
+[^cgn2026]: Amanda Ferreira, ["Violeira de Corumbá preserva cultura pantaneira"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/anuncio-no-jornal-levou-elizeth-a-viola-e-mudou-relacao-com-pantanal), *Campo Grande News*, 25 set. 2026. Acesso em 4 nov. 2026.
+[^oestado2026]: ["Dedilhando o Pantanal: Há 15 anos, violeira Elizeth Gonçalves leva paisagens e memórias de Corumbá para suas composições"](https://oestadoonline.com.br/arte-e-lazer/dedilhando-o-pantanal-ha-15-anos-violeira-elizeth-goncalves-leva-paisagens-e-memorias-de-corumba-para-suas-composicoes/), *O Estado Online*, 5 out. 2026. Acesso em 4 nov. 2026.

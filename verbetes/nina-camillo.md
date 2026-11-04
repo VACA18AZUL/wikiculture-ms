@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Fez a primeira gravação aos 8 anos, quando musicou um poema de [[manoel-de-barros|Manoel de Barros]]. Depois passou um tempo afastada da música e voltou a ela com o movimento do trap no Brasil. Em São Paulo, cursou produção fonográfica no Centro Universitário Belas Artes e, em 2023, concluía o bacharelado em canto popular.[^cgn2023]
+O primeiro contato com a música veio aos 8 anos. Ainda criança fez sua primeira gravação, ao musicar um poema de [[manoel-de-barros|Manoel de Barros]]. Depois passou um tempo afastada da música e voltou a ela com o movimento do trap no Brasil. Em São Paulo, cursou produção fonográfica no Centro Universitário Belas Artes e, em 2023, concluía o bacharelado em canto popular.[^cgn2023]
 
-Em dezembro de 2023 lançou o single "Flor da Pele", composto com Tiago Frúgoli, no campo do pop brasileiro e do jazz. A gravação teve os músicos Serginho Machado, Tiago Frúgoli, Sidmar Vieira e João Donato. O videoclipe, dirigido por Pedro Maciel, foi gravado no Andar 43, no centro de São Paulo, com o ator Hélio Toste.[^cgn2023]
+Na semana de 1º de dezembro de 2023 lançou o single "Flor da Pele", composto com Tiago Frúgoli, no campo do pop brasileiro e do jazz. Participaram da produção os músicos Serginho Machado, Tiago Frúgoli, Sidmar Vieira e João Donato. O videoclipe, dirigido por Pedro Maciel, foi gravado no Andar 43, no centro de São Paulo, com o ator Hélio Toste.[^cgn2023]
 
 Em janeiro de 2025 lançou o EP *Nascente*, seu primeiro, com seis faixas autorais que misturam neo soul, jazz e elementos orgânicos.[^metropoles2025]
 

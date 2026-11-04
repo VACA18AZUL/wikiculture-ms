@@ -13,13 +13,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***T'amo na Rodoviária*** é um documentário sul-mato-grossense dirigido e roteirizado por [[givago-oliveira|Givago Oliveira]]. Retrata o Centro Comercial Condomínio Terminal do Oeste, a antiga rodoviária de Campo Grande, no bairro Amambaí: os condôminos que resistem no prédio, as pessoas que passaram por ele e o abandono do lugar.[^fcms2019][^cgn2018]
+***T'amo na Rodoviária*** é um documentário sul-mato-grossense dirigido e roteirizado por [[givago-oliveira|Givago Oliveira]]. O tema é o Centro Comercial Condomínio Terminal do Oeste, a antiga rodoviária de Campo Grande, no bairro Amambaí: os condôminos que resistem no prédio, as pessoas que passaram por ele e o abandono do lugar.[^fcms2019][^cgn2018]
 
 ## Produção
 
 Givago Oliveira passou dois anos estudando o prédio antes de começar a filmar. As gravações começaram em junho de 2012, com depoimentos de comerciantes e uma equipe colaborativa de cerca de 15 pessoas. Como parte dos entrevistados não quis se identificar, o diretor previu que atores dariam corpo aos depoimentos.[^cgn2012]
 
-Segundo a reportagem da estreia, o grupo começou o trabalho em 2011 com recursos próprios e teve o projeto aprovado em edital de financiamento do governo do estado em 2016. O filme mistura depoimentos com poesia, teatro e dança e mostra a região deteriorada, os comerciantes que continuam trabalhando ali e o público que ainda frequenta o prédio. A produção é de [[mariana-sena|Mariana Sena]] e a edição, de Cátia Santos.[^cgn2018]
+Segundo a reportagem da estreia, o grupo começou o trabalho em 2011 com recursos próprios e em 2016 conseguiu aprovar o projeto num edital estadual de financiamento. O filme mistura depoimentos com poesia, teatro e dança e mostra a região deteriorada, os comerciantes que continuam trabalhando ali e o público que ainda frequenta o prédio. A produção é de [[mariana-sena|Mariana Sena]] e a edição, de Cátia Santos.[^cgn2018]
 
 ## Exibições
 

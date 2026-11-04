@@ -21,7 +21,7 @@ atualizado: 2026-11-04
 
 ## Produção
 
-Segundo o *Campo Grande News*, o filme foi produzido por Clélia Bessa, Joel Pizzini e Sérgio Pedrosa, das empresas Raccord Produções, Pólo Filmes e Viralata, com recursos do Fundo Setorial do Audiovisual. Dos 30 atores, 26 eram sul-mato-grossenses.[^cgn2019] Em 2022, o jornal falou em mais de 20 atores do estado no elenco.[^cgn2022]
+Segundo o *Campo Grande News*, o filme foi produzido por Clélia Bessa, Joel Pizzini e Sérgio Pedrosa, das empresas Raccord Produções, [[polofilme|Pólo Filmes]] e Viralata, com recursos do Fundo Setorial do Audiovisual. Dos 30 atores, 26 eram sul-mato-grossenses.[^cgn2019] Em 2022, o jornal falou em mais de 20 atores do estado no elenco.[^cgn2022]
 
 As fontes variam sobre a filmagem. O *Campo Grande News* registra a produção em Dourados, em novembro de 2018.[^cgn2019] Matéria da Agência Estado diz que o filme foi rodado em Dourados e Bonito, em novembro e dezembro de 2018,[^opovo2021] e texto baseado em reportagem da RFI fala em filmagens em Dourados e Bonito, em 2018.[^jgb2021]
 
@@ -33,14 +33,17 @@ Ainda em pós-produção, o filme foi selecionado em 2019 para a mostra de obras
 
 No Brasil, estreou na 45ª Mostra Internacional de Cinema de São Paulo e recebeu o prêmio de melhor diretor no Festival Mix Brasil. No Festival de Cinema de Lima, no Peru, recebeu três prêmios, segundo o jornal: melhor filme, melhor interpretação, para Pamella Yule, e melhor direção, estes dois últimos prêmios Gio, voltados a filmes LGBTIQ+. Em 1º de março de 2022, o *Campo Grande News* contava mais de 30 festivais internacionais e oito prêmios, e anunciou que o filme entraria no catálogo da Netflix em 3 de março.[^cgn2022]
 
+Em julho de 2021, o filme ganhou o Golden Tulip, grande prêmio da competição internacional do principal festival de cinema da Turquia, dado ao diretor do melhor filme escolhido pelo júri. Na mesma matéria, o *Campo Grande News* citou como produtoras a sul-mato-grossense Pólofilme e a Raccord, em coprodução com a Vira Lata e a Terceira Margem.[^cgn2021t]
+
 ## Ficha técnica
 
 - Direção: [[madiano-marcheti|Madiano Marcheti]][^cgn2019]
 - Roteiro: [[madiano-marcheti|Madiano Marcheti]], Thiago Ortman, Thiago Coelho e Thiago Gallego[^jgb2021][^opovo2021]
 - Produção: Clélia Bessa, Joel Pizzini e Sérgio Pedrosa[^cgn2019]
-- Produtoras: Raccord Produções, Pólo Filmes e Viralata[^cgn2019]
+- Produtoras: Raccord Produções, [[polofilme|Pólo Filmes]] e Viralata[^cgn2019]; em 2021, o mesmo jornal citou também a Terceira Margem como coprodutora[^cgn2021t]
 - Elenco: [[natalia-mazarim|Natália Mazarim]] (Luziane), [[pamella-yule|Pamella Yule]] (Bianca) e [[rafael-de-bona|Rafael de Bona]] (Cristiano)[^cgn2019][^cgn2022]
 
+[^cgn2021t]: Thailla Torres, ["Filme de MS ganha prêmio principal em festival de cinema na Turquia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filme-de-ms-ganha-premio-principal-em-festival-de-cinema-na-turquia), *Campo Grande News*, 16 jul. 2021. Acesso em 4 nov. 2026.
 [^cgn2019]: Thailla Torres, ["Alma de travesti assassinada tenta superar o medo e transformá-lo em afeto"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/alma-de-travesti-assassinada-tenta-superar-o-medo-e-transforma-lo-em-afeto), *Campo Grande News*, 16 ago. 2019. Acesso em 4 nov. 2026.
 [^cgn2021]: Thailla Torres, ["No Festival de Roterdã, filme de MS é exibido e elogiado pela crítica"](https://www.campograndenews.com.br/lado-b/diversao/no-festival-de-roterda-filme-de-ms-e-exibido-e-elogiado-pela-critica), *Campo Grande News*, 4 fev. 2021. Acesso em 4 nov. 2026.
 [^cgn2022]: Thailla Torres, ["Com atriz trans no elenco, filme de MS entra no catálogo da Netflix"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-atriz-trans-no-elenco-filme-de-ms-entra-no-catalogo-da-netflix), *Campo Grande News*, 1 mar. 2022. Acesso em 4 nov. 2026.

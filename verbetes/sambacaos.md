@@ -20,7 +20,7 @@ Segundo reportagem de maio de 2024 do *Primeira Página*, o grupo nasceu entre i
 
 Em julho de 2026, o *A Crítica* noticiou a participação do grupo no programa *Talento Regional*, da TV ALEMS. Nessa versão, o Sambacaos surgiu em 2023 dos encontros de João Felipe, Gabriel Mendes e Kulina, e em 2024 entraram Dilian, Lilian e Vinicius. As composições falam das vivências urbanas da capital, e o grupo participa da ocupação cultural de espaços públicos de Campo Grande.[^acritica2026]
 
-O grupo foi atração da Feira Borogodó, na Praça do Coophafé: estava escalado para encerrar a festa de um ano da feira, em 1º de junho de 2025,[^cgn2025a] e para fechar a edição de 7 de dezembro de 2025, que celebrou os 19 anos do [[cordao-valu|Cordão Valu]]. Naquela matéria, o Campo Grande News disse que o samba do grupo já era marca registrada da feira.[^cgn2025b]
+O grupo foi atração da [[feira-borogodo|Feira Borogodó]], na Praça do Coophafé: estava escalado para encerrar a festa de um ano da feira, em 1º de junho de 2025,[^cgn2025a] e para fechar a edição de 7 de dezembro de 2025, que celebrou os 19 anos do [[cordao-valu|Cordão Valu]]. Naquela matéria, o Campo Grande News disse que o samba do grupo já era marca registrada da feira.[^cgn2025b]
 
 [^pp2024]: Adriano Fernandes, ["Time antifascista inspira grupo de samba raiz em Campo Grande"](https://primeirapagina.com.br/cultura/time-antifascista-inspira-grupo-de-samba-raiz-em-campo-grande/), *Primeira Página*, 10 maio 2024. Acesso em 4 nov. 2026.
 [^acritica2026]: ["Sambacaos leva repertório autoral ao programa Talento Regional"](https://acritica.net/cultura/sambacaos-talento-regional/), *A Crítica de Campo Grande*, 14 jul. 2026. Acesso em 4 nov. 2026.
