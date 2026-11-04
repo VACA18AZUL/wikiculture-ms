@@ -26,6 +26,7 @@ Data: 2026-11-04. Agente: revisor-editorial (validação, bloco val-0).
 
 - Frase das sessões de agosto de 2025 reescrita como sessões marcadas, com a menção às apresentações do início de 2025.
 - Ligação `[[circo-do-mato|...]]` no texto e em Espetáculos.
+- Acrescentada a apresentação de *Os Corcundas* na Boca de Cena 2017 (folheto da UFMS, p. 8), com dramaturgia e direção de Moroni.
 - Datas de acesso e `atualizado`.
 
 ## Incerto
