@@ -16,6 +16,7 @@
 | rcn2009a | Redação RCN67, "Libertarte participa de festivais de teatro", RCN67, 10 jul. 2009 | https://www.rcn67.com.br/tres-lagoas/libertarte-participa-de-festivais-de-teatro/ | imprensa | sim |
 | rcn2009b | Redação RCN67, "Libertarte apresenta amanhã O Castigo do Santo", RCN67, 14 ago. 2009 | https://www.rcn67.com.br/tres-lagoas/libertarte-apresenta-amanha-o-castigo-do-santo/ | imprensa | sim |
 | rcn2009c | Redação RCN67, "Libertarte é premiado em três categorias", RCN67, 16 dez. 2009 | https://www.rcn67.com.br/tres-lagoas/libertarte-e-premiado-em-tres-categorias/ | imprensa | sim |
+| rcn2012 | Redação RCN67, "Peça O Casamento de Maria Feira será exibida na praça", RCN67, 3 ago. 2012 | https://www.rcn67.com.br/tres-lagoas/peca-o-casamento-de-maria-feira-sera-exibida-na-praca/ | imprensa (anúncio) | sim |
 | rcn2010 | Redação RCN67, "Grupo Libertarte participou do 6º Festiporto em Murtinho", RCN67, 2 dez. 2010 | https://www.rcn67.com.br/tres-lagoas/grupo-libertarte-participou-do-6-festiporto-em-murtinho/ | imprensa | sim |
 
 ## Fatos, com fonte
@@ -33,6 +34,8 @@
 - *Sopa de Pedra* — comédia infantil baseada em conto popular "da autora Tatiane Bellinky" (grafia da fonte; nome não usado no verbete); estreou em Três Lagoas em 17 jun. 2009 e ficou cerca de 20 dias no Centro Cultural Irene Marques Alexandria [rcn2009a]. Elenco citado: Gabriela Felix, Tony Araújo, Jade [rcn2009c].
 - *O Castigo do Santo* — texto de Aldo Leite, adaptação de Paulo Sanches; oito atores; apresentação em 15 ago. 2009 no anfiteatro da UFMS (unidade I) [rcn2009b].
 - *O Pequeno Príncipe* e *Família da Pesada* — apresentados no 6º Festival Internacional de Porto Murtinho, 12 a 15 nov. 2010, no Cine-Teatro Ney Machado Mesquita; único grupo de teatro do festival, segundo o prefeito de Porto Murtinho [rcn2010].
+
+- *O Casamento de Maria Feira* — comédia de Rutinaldo Miranda, direção de Paulo Sanches, figurinos e adereços de Márcia Sanches; elenco Daiane Colino, Juliana Pelição, Rodolfo Colino e Wagner Pincela; apresentação marcada para 8 ago. 2012 na praça Senador Ramez Tebet; grafia "Libertart" na fonte [rcn2012].
 
 ### Exposições, apresentações, prêmios
 

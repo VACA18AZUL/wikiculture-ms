@@ -22,15 +22,19 @@ Paulo Sanches dirigiu o grupo nos anos seguintes.[^rcn2009c][^rcn2010] Em 2009, 
 
 Em novembro de 2010 o grupo levou *O Pequeno Príncipe* e *Família da Pesada* ao 6º Festival Internacional de Porto Murtinho, no Cine-Teatro Ney Machado Mesquita.[^rcn2010]
 
+Em agosto de 2012 o grupo, então citado como Libertart, programou na praça Senador Ramez Tebet a comédia *O Casamento de Maria Feira*, de Rutinaldo Miranda, com direção de Paulo Sanches, figurinos e adereços de Márcia Sanches e elenco formado por Daiane Colino, Juliana Pelição, Rodolfo Colino e [[wagner-pincela|Wagner Pincela]].[^rcn2012]
+
 ## Espetáculos
 
 - *Sopa de Pedra* (2009) — comédia infantil baseada em conto popular; direção de Paulo Sanches.[^rcn2009a]
 - *O Castigo do Santo* (2009) — texto de Aldo Leite, adaptado por Paulo Sanches; oito atores.[^rcn2009b]
 - *O Pequeno Príncipe* — infantil, apresentado em Porto Murtinho em 2010.[^rcn2010]
 - *Família da Pesada* — apresentado em Porto Murtinho em 2010.[^rcn2010]
+- *O Casamento de Maria Feira* (2012) — comédia de Rutinaldo Miranda; direção de Paulo Sanches.[^rcn2012]
 
 [^pmtl2006]: Prefeitura de Três Lagoas, ["Cultura lança grupo de teatro municipal"](https://www.treslagoas.ms.gov.br/cultura-lanca-grupo-de-teatro-municipal/), 28 abr. 2006. Acesso em 4 nov. 2026.
 [^rcn2009a]: Redação RCN67, ["Libertarte participa de festivais de teatro"](https://www.rcn67.com.br/tres-lagoas/libertarte-participa-de-festivais-de-teatro/), *RCN67*, 10 jul. 2009. Acesso em 4 nov. 2026.
 [^rcn2009b]: Redação RCN67, ["Libertarte apresenta amanhã O Castigo do Santo"](https://www.rcn67.com.br/tres-lagoas/libertarte-apresenta-amanha-o-castigo-do-santo/), *RCN67*, 14 ago. 2009. Acesso em 4 nov. 2026.
 [^rcn2009c]: Redação RCN67, ["Libertarte é premiado em três categorias"](https://www.rcn67.com.br/tres-lagoas/libertarte-e-premiado-em-tres-categorias/), *RCN67*, 16 dez. 2009. Acesso em 4 nov. 2026.
 [^rcn2010]: Redação RCN67, ["Grupo Libertarte participou do 6º Festiporto em Murtinho"](https://www.rcn67.com.br/tres-lagoas/grupo-libertarte-participou-do-6-festiporto-em-murtinho/), *RCN67*, 2 dez. 2010. Acesso em 4 nov. 2026.
+[^rcn2012]: Redação RCN67, ["Peça O Casamento de Maria Feira será exibida na praça"](https://www.rcn67.com.br/tres-lagoas/peca-o-casamento-de-maria-feira-sera-exibida-na-praca/), *RCN67*, 3 ago. 2012. Acesso em 4 nov. 2026.

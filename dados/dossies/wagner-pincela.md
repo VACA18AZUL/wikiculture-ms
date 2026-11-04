@@ -27,7 +27,7 @@ Fontes descartadas e o motivo:
 - 2012: no elenco de *O Casamento de Maria Feira* (texto de Rutinaldo Miranda, direção de Paulo Sanches), do Grupo Municipal de Circo e Teatro Libertart (grafia da fonte), com Daiane Colino, Juliana Pelição e Rodolfo Colino; também fez a criação gráfica e a trilha sonora. Apresentação marcada para 8 ago. 2012 na praça Senador Ramez Tebet [rcn2012].
 - 2016: integrante do grupo de teatro Nem Nome Tem, com Carol Cruz Feliciano, Cristina Kiki, Daiane Colino, Jaqueline Santos, Rodolfo Colino, Steffany Pincela e Tatiana Mizobe; espetáculo *Se essa rua fosse minha*, releitura feita pelo grupo de peça nascida de oficina de Jair de Oliveira; apresentação marcada para 15 out. 2016 no galpão da antiga NOB [rcn2016].
 - 2024: coautor, com Lucas Spirandeli, do texto de *Click, diversão fora da tela*, espetáculo do Núcleo de Teatro do Departamento de Cultura (Semec), com nove jovens atores; apresentação marcada para 13 dez. 2024 no Galpão da NOB [rcn2024].
-- 2025: professor de teatro da Diretoria de Cultura de Três Lagoas; com Lucas Spirandeli, representou a cidade na IX Pantalhaç@s – Mostra de Palhaç@s do Pantanal, em Campo Grande, com *TICTAC – Um Esquete sobre o Tempo*, inspirado no poema "O Tempo", de Mario Quintana [pmtl2025]. A programação da mostra marcou o esquete para 8 e 9 dez. 2025, às 9h30 [fcms2025].
+- 2025: professor de teatro da Diretoria de Cultura de Três Lagoas; com Lucas Spirandeli, representou a cidade na IX Pantalhaç@s – Mostra de Palhaç@s do Pantanal, em Campo Grande, com *TICTAC – Um Esquete sobre o Tempo*, inspirado no poema "O Tempo", de Mário Quintana [pmtl2025]. A programação da mostra marcou o esquete para 8 e 9 dez. 2025, às 9h30 [fcms2025].
 
 ### Ficha (caixa lateral)
 

@@ -18,7 +18,7 @@ A **Orquestra Indígena de Mato Grosso do Sul**, também chamada Orquestra Indí
 
 Segundo a Fundação de Cultura de MS, a orquestra resulta de um projeto social de ensino de música da Fundação Ueze Zahran.[^fcms2024] O repertório junta música de concerto, canções populares brasileiras e cantos tradicionais indígenas.[^ln2025][^fcms2024]
 
-Em agosto de 2023, o Encontro com a Música Clássica, em Campo Grande, incluiu a Orquestra Indígena entre os programas educacionais que se apresentariam com a Orquestra Sinfônica Municipal de Campo Grande.[^cgn2023]
+Em agosto de 2023, o [[encontro-com-a-musica-classica|Encontro com a Música Clássica]], em Campo Grande, incluiu a Orquestra Indígena entre os programas educacionais que se apresentariam com a Orquestra Sinfônica Municipal de Campo Grande.[^cgn2023]
 
 Em agosto de 2024, no Festival de Inverno de Bonito, a orquestra tocou com 18 integrantes no projeto Catedral Erudita, do lado de fora da Igreja Matriz de Bonito, em uma noite fria. O programa abriu com o poema sinfônico *Uirapuru*, de Heitor Villa-Lobos, e incluiu *Trem do Pantanal*, de [[paulo-simoes|Paulo Simões]] e [[geraldo-roca|Geraldo Roca]], *Chalana* e *Mercedita*, além de canções de Dorival Caymmi, Baden Powell e Luiz Gonzaga. Os instrumentos iam do violino ao berimbau, com violão, pandeiro, tambor e chocalho.[^fcms2024]
 
