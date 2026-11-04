@@ -3,16 +3,16 @@ titulo: Cena Aberta – Encontros Paralelos
 tipo: evento
 areas: [teatro]
 cidade: Campo Grande
-resumo: Projeto de teatro da Cia Ofit, idealizado por Nill Amaral, com residência artística e mostra de peças de grupos de Mato Grosso do Sul em Campo Grande, de julho a setembro de 2023.
+resumo: Projeto de teatro da Cia Ofit, idealizado por Nill Amaral, com residência artística e mostra de peças de grupos de Mato Grosso do Sul em Campo Grande, programado de julho a setembro de 2023.
 ficha:
-  Primeira edição: "2023"
+  Ano: "2023"
   Realização: "[[cia-ofit|Cia Ofit]]"
   Idealização: "[[nill-amaral|Nill Amaral]]"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Cena Aberta – Encontros Paralelos** foi um projeto de teatro da [[cia-ofit|Cia Ofit]] (Associação Cultural Oficina de Interpretação Teatral), idealizado pelo diretor [[nill-amaral|Nill Amaral]] e realizado em Campo Grande entre julho e setembro de 2023. Reuniu residência artística, debates e apresentações gratuitas de grupos de Mato Grosso do Sul.[^cgn2023a] Em 2026, A Crítica cita uma Mostra Cena Aberta entre as iniciativas da companhia, sem dar datas.[^acritica2026]
+**Cena Aberta – Encontros Paralelos** foi um projeto de teatro da [[cia-ofit|Cia Ofit]] (Associação Cultural Oficina de Interpretação Teatral), idealizado pelo diretor [[nill-amaral|Nill Amaral]] e programado para Campo Grande entre julho e setembro de 2023. O anúncio reunia residência artística, debates e apresentações gratuitas de grupos de Mato Grosso do Sul.[^cgn2023a] Em 2026, *A Crítica* cita uma Mostra Cena Aberta entre as iniciativas que a companhia realizou, sem dar datas.[^acritica2026]
 
 ## Proposta
 
@@ -22,9 +22,9 @@ Segundo Nill Amaral, o projeto retomava a ideia do [[campo-grande-em-cena|Campo 
 
 O anúncio de julho previa três etapas entre 25 de julho e 1º de setembro: residência artística com o dramaturgo pernambucano Newton Moreno, radicado em São Paulo, de 25 a 27 de julho no Sesc Cultura, com 15 vagas; apresentações no [[teatro-glauce-rocha|Teatro Glauce Rocha]] em 1º e 2 de agosto; e peças no Sesc Cultura de 30 de agosto a 1º de setembro.[^cgn2023a]
 
-A chamada pública aceitava peças produzidas em Mato Grosso do Sul entre 2020 e 2023, com inscrições até 21 de julho e cachês de R$ 3 mil a R$ 6 mil. O primeiro anúncio falava em três categorias e de 8 a 10 trabalhos escolhidos por uma banca de três artistas.[^cgn2023a] A matéria de 19 de julho descreve quatro categorias: espetáculos de 60 minutos ou mais, peças de até 60 minutos, monólogos e trabalhos experimentais de até 30 minutos. Grupos do interior tinham ajuda de custo e hospedagem.[^cgn2023b]
+A chamada pública para as peças previa cachês de R$ 3 mil a R$ 6 mil. O primeiro anúncio falava em três categorias e de 8 a 10 trabalhos escolhidos por uma banca de três artistas.[^cgn2023a] A matéria de 19 de julho diz que as inscrições terminavam no dia 21, aceita peças produzidas em Mato Grosso do Sul entre 2020 e 2023 e descreve quatro categorias: espetáculos de 60 minutos ou mais, peças de até 60 minutos, monólogos e trabalhos experimentais de até 30 minutos. Grupos do interior tinham ajuda de custo e hospedagem.[^cgn2023b]
 
-A mostra foi aberta por *Todo redemoinho começa com um sopro*, peça inspirada em Clarice Lispector, em 28 e 29 de agosto, no Teatro Glauce Rocha, com o público sentado no palco. No elenco estavam Samir Henrique, Fran Corona e Nadja Mitidiero.[^cgn2023c] A programação divulgada em 27 de agosto ia até 2 de setembro, com sessões no Sesc Cultura e no Glauce Rocha:[^cgn2023d]
+A peça anunciada para abrir a mostra foi *Todo redemoinho começa com um sopro*, inspirada em Clarice Lispector, com sessões marcadas para 28 e 29 de agosto, no Teatro Glauce Rocha, e o público sentado no palco. No elenco estavam Samir Henrique, Fran Corona e Nadja Mitidiero.[^cgn2023c] A programação divulgada em 27 de agosto ia até 2 de setembro, com sessões no Sesc Cultura e no Glauce Rocha:[^cgn2023d]
 
 - *Todo redemoinho começa com um sopro* (28 e 29 de agosto)
 - *[[seco-fulano-di-tal|Seco]]*, da [[fulano-di-tal|Cia Fulano di Tal]] (30 de agosto)

@@ -31,7 +31,7 @@ Com os três colegas do "Correio B", é coautora de *A crônica dos quatro* (201
 
 ## Para saber mais
 
-- [Dissertação de Adriana Carlos (UEMS, 2023)](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614) — estudo sobre Maria da Glória Sá Rosa; traz o contexto da ASL e do "Correio B".
+- [Dissertação de Adriana Carlos (UEMS, 2023)](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092) — estudo sobre Maria da Glória Sá Rosa; traz o contexto da ASL e do "Correio B".
 
-[^carlos2023]: Adriana Carlos, ["A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)"](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614), dissertação de mestrado, Universidade Estadual de Mato Grosso do Sul, Paranaíba, 2023. Acesso em 29 out. 2026.
+[^carlos2023]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092), dissertação de mestrado, Programa de Pós-Graduação em Educação, Universidade Estadual de Mato Grosso do Sul, Paranaíba, 2023, p. 69 (nota 116), 75 e 269; PDF anexado ao registro do trabalho na Plataforma Sucupira (CAPES). Acesso em 4 nov. 2026.
 [^asl]: ["Theresa Hilcar"](https://acletrasms.org.br/portfolio-item/theresa-hilcar/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 6. Acesso em 4 nov. 2026.

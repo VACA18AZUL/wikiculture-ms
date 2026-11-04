@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 Começou em 1969 no jornal Diário da Serra, onde entrou para os serviços gerais e aprendeu fotografia com o fotógrafo [[danton-garro|Danton Garro]]. Em 1973 foi contratado pela Editora Abril, em São Paulo. Dois anos depois voltou a Campo Grande, trabalhou no Jornal da Manhã e mais tarde abriu uma agência de fotojornalismo.[^ce2026]
 
-Fotografou a criação de Mato Grosso do Sul, visitas presidenciais e acontecimentos políticos. Suas fotos de lideranças indígenas, em especial do líder guarani Marçal de Souza, fizeram parte de exposições sobre a luta dos povos indígenas fora do Brasil.[^ce2026]
+Fotografou a criação de Mato Grosso do Sul, visitas presidenciais e acontecimentos políticos. Suas fotos de lideranças indígenas, em especial do líder guarani Marçal de Souza, circularam fora do Brasil e fizeram parte de exposições sobre a luta dos povos indígenas.[^ce2026]
 
-Segundo o próprio fotógrafo, ele registra as sessões da Câmara Municipal de Campo Grande desde os anos 1970.[^acritica-medalha]
+Segundo o próprio fotógrafo, ele acompanha a Câmara Municipal de Campo Grande desde os anos 1970 e fotografou os vereadores que passaram pela casa.[^acritica-medalha]
 
 ## Acervo
 

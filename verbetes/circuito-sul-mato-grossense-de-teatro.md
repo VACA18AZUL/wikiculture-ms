@@ -9,7 +9,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Circuito Sul-Mato-Grossense de Teatro** é um projeto da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] (FCMS) que levou espetáculos de grupos teatrais do estado a cidades do interior, com entrada gratuita. Os objetivos declarados são divulgar a produção teatral sul-mato-grossense, formar plateia e estimular a criação de novos grupos.[^cgn2009][^ce2011][^ce2014b]
+O **Circuito Sul-Mato-Grossense de Teatro** é um projeto da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] (FCMS) que levou espetáculos de grupos teatrais do estado a cidades do interior, com entrada gratuita. Os objetivos declarados eram divulgar a produção teatral sul-mato-grossense, formar plateia e estimular a criação de novos grupos.[^cgn2009][^tl2009][^ce2011][^ce2014a][^ce2014b]
 
 ## Funcionamento
 
@@ -19,9 +19,9 @@ Os grupos eram escolhidos por edital da FCMS.[^cgn2009] O edital de 2011 previa 
 
 Em 2008, o Circuito passou por 19 municípios e foi visto por cerca de 13 mil pessoas, segundo o diretor-presidente da FCMS, [[americo-calheiros|Américo Calheiros]], e o coordenador do núcleo de teatro, [[marcio-veiga|Márcio Veiga]].[^cgn2009][^tl2009]
 
-A edição de 2009 foi a nona. Previa 60 apresentações de 11 grupos em cerca de 30 municípios, em espaços alternativos como praças. A primeira etapa, de 18 a 26 de abril, passou por Rio Brilhante, Nioaque, Três Lagoas, Aparecida do Taboado, Paranaíba, Ivinhema, Dourados e Maracaju, com *O Palhaço no ½ da rua*, do [[circo-do-mato|Circo do Mato]], *Sob Controle*, do grupo [[cia-flor-e-espinho-teatro|Flor e Espinho]], e uma montagem de *Contos da Cantuária*, de Geoffrey Chaucer.[^cgn2009] *Sob Controle* era um espetáculo de palhaços sem falas, adaptado de números clássicos, com Anderson Limca e Luiz Cláudio Schuedas no elenco.[^tl2009]
+A edição de 2009 foi a nona. Previa 60 apresentações de 11 grupos em cerca de 30 municípios, em espaços alternativos como praças. A primeira etapa estava programada de 18 a 26 de abril, em Rio Brilhante, Nioaque, Três Lagoas, Aparecida do Taboado, Paranaíba, Ivinhema, Dourados e Maracaju, com previsão de *O Palhaço no ½ da rua*, do [[circo-do-mato|Circo do Mato]], *Sob Controle*, do grupo [[cia-flor-e-espinho-teatro|Flor e Espinho]], e uma montagem de *Contos da Cantuária*, de Geoffrey Chaucer.[^cgn2009][^tl2009] *Sob Controle* era um espetáculo de palhaços sem falas, adaptado de números clássicos, com Anderson Limca e Luiz Cláudio Schuedas no elenco.[^tl2009]
 
-Em abril de 2014, o Circuito percorreu nove cidades: *Cadê?!*, da Cia. Aplausos, em Rio Verde, Coxim e Alcinópolis; *Noivo por encomenda*, do Grupo Identidade Teatral, em Cassilândia, Água Clara e Ribas do Rio Pardo; e *Circo Las Muchachas*, da Mambembe Trupe Teatral, em Coronel Sapucaia, Aral Moreira e Amambai.[^ce2014b]
+Em abril de 2014, o *Correio do Estado* anunciou que o Circuito percorreria nove cidades naquele mês: *Cadê?!*, da Cia. Aplausos, em Rio Verde, Coxim e Alcinópolis; *Noivo por encomenda*, do Grupo Identidade Teatral, em Cassilândia, Água Clara e Ribas do Rio Pardo; e *Circo Las Muchachas*, da Mambembe Trupe Teatral, em Coronel Sapucaia, Aral Moreira e Amambai.[^ce2014b]
 
 [^cgn2009]: Redação, ["Circuito de teatro leva espetáculos ao interior de MS"](https://www.campograndenews.com.br/entretenimento/circuito-de-teatro-leva-espetaculos-ao-interior-de-ms-04-16-2009), *Campo Grande News*, 16 abr. 2009. Acesso em 4 nov. 2026.
 [^tl2009]: Assessoria de Comunicação, ["Três Lagoas recebe circuito de teatro dia 20"](https://treslagoas.ms.gov.br/?p=11738), *Prefeitura de Três Lagoas*, 17 abr. 2009. Acesso em 4 nov. 2026.

@@ -31,7 +31,7 @@ Fontes descartadas e o motivo:
 - Começou em 1969 no extinto jornal Diário da Serra, em serviços gerais; aprendeu fotografia com o fotógrafo Danton Garro. [ce2026]
 - Em 1973 foi contratado pela Editora Abril, em São Paulo; dois anos depois voltou a Campo Grande, trabalhou no Jornal da Manhã e depois criou uma agência de fotojornalismo. [ce2026]
 - Registrou a criação de Mato Grosso do Sul, visitas presidenciais e acontecimentos políticos. [ce2026]
-- Fotos de lideranças indígenas, em especial do líder guarani Marçal de Souza, integraram exposições sobre a luta dos povos indígenas fora do país. [ce2026]
+- Fotos de lideranças indígenas, em especial do líder guarani Marçal de Souza, circularam internacionalmente e integraram exposições sobre a luta dos povos indígenas. [ce2026]
 - Acervo: mais de 10 mil envelopes catalogados de negativos, além de slides, álbuns, ampliações e cartões-postais. [ce2026]
 - Fotografa a Câmara Municipal de Campo Grande desde os anos 1970 (fala do próprio). [acritica-medalha]
 

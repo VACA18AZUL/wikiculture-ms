@@ -20,7 +20,7 @@ Segundo o histórico publicado pela ASL, o concurso foi instituído em 1972, na 
 
 ## Edições antigas
 
-Uma dissertação da UEMS sobre [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] diz que ela foi julgadora dos concursos de contos Ulisses Serra (grafia da fonte). Em 19 de dezembro de 1979, fez uma palestra na entrega do prêmio do concurso.[^uems] A mesma dissertação menciona uma foto da sessão solene de entrega do prêmio, em 1973, em que ela aparece como julgadora, e um convite para o prêmio do "IV Concurso de Contos Ulisses Serra", sem data nos trechos lidos.[^uems]
+Uma dissertação da UEMS sobre [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] diz que ela foi julgadora dos concursos de contos Ulisses Serra (grafia da fonte). Em 19 de dezembro de 1979, fez uma palestra na entrega do prêmio do concurso.[^uems] A mesma dissertação menciona uma foto da sessão solene de entrega do prêmio, em 1973, publicada na edição n. 1 da revista da ASL (2003), em que ela aparece como julgadora, e um convite para o prêmio do "IV Concurso de Contos Ulisses Serra", sem data nos trechos lidos.[^uems]
 
 ## Edição de 2026
 
@@ -31,6 +31,6 @@ O regulamento de 2026 aceitava contos inéditos de escritores residentes em Mato
 A edição teve inscrições gratuitas e apoio da Secretaria de Estado de Turismo, Esporte e Cultura, por meio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]]. Os contos foram julgados por duas bancas de acadêmicos, e outros sete receberam diploma com menção honrosa. A cerimônia foi marcada para 16 de julho, no auditório da ASL.[^acritica]
 
 [^acritica]: Iury de Oliveira, ["Concurso Ulysses Serra 2026 premia autores de Campo Grande e destaca novos talentos"](https://acritica.net/cultura/concurso-ulysses-serra-2026-premia-autores-de-campo-grande-e-destaca-novos-talentos/), *A Crítica de Campo Grande*, 2 jul. 2026. Acesso em 29 out. 2026.
-[^uems]: Adriana Carlos, *A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*, dissertação de mestrado, Programa de Pós-Graduação em Educação, UEMS, Paranaíba, 2023, p. 65-66 e 134, e lista de convites ([PDF](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614)). Acesso em 29 out. 2026.
+[^uems]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092), dissertação de mestrado, Programa de Pós-Graduação em Educação, Universidade Estadual de Mato Grosso do Sul, Paranaíba, 2023, p. 65-66, 75 e 330 (lista de convites); PDF anexado ao registro do trabalho na Plataforma Sucupira (CAPES). Acesso em 4 nov. 2026.
 [^aslhist]: Academia Sul-Mato-Grossense de Letras, ["Histórico"](https://acletrasms.org.br/historico/). Acesso em 4 nov. 2026.
 [^asl2026]: Academia Sul-Mato-Grossense de Letras, ["Concurso Contos Ulysses Serra 2026"](https://acletrasms.org.br/asl-contos26/), página com o regulamento da edição. Acesso em 4 nov. 2026.

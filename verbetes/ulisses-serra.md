@@ -42,7 +42,7 @@ O artigo de Bungart Neto classifica as crônicas como memorialísticas: tratam d
 
 ## Homenagens
 
-O concurso de contos que leva seu nome, o [[concurso-ulysses-serra|Concurso Ulysses Serra]], foi instituído pela Academia em 1972, segundo o histórico da ASL.[^aslhist] Teve em 1979 uma cerimônia de entrega de prêmio no Paço Municipal.[^carlos]
+O concurso de contos que leva seu nome, o [[concurso-ulysses-serra|Concurso Ulysses Serra]], foi instituído pela Academia em 1972, segundo o histórico da ASL.[^aslhist] Em 19 de dezembro de 1979, a entrega do prêmio do concurso foi feita no Paço Municipal, com palestra de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]].[^carlos]
 
 [^raido08]: Paulo Bungart Neto, "O memorialismo no Mato Grosso do Sul como testemunho da formação do estado", [*Raído*](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), Dourados, v. 2, n. 3, p. 77-90, jan./jun. 2008. Acesso em 29 out. 2026.
 [^amarilha122]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, UFGD, 2006, p. 122 (nota 113, que cita a Revista ASL n. 1, 2003, p. 27). Acesso em 29 out. 2026.
@@ -51,5 +51,5 @@ O concurso de contos que leva seu nome, o [[concurso-ulysses-serra|Concurso Ulys
 [^amarilha120]: Amarilha, 2006, p. 120, que cita Demosthenes Martins, *A poeira da jornada*, 1980, p. 347. Acesso em 29 out. 2026.
 [^amarilha128]: Amarilha, 2006, p. 127-128, que cita Demosthenes Martins, texto de 1987, p. 9-10. Acesso em 29 out. 2026.
 [^amarilha129]: Amarilha, 2006, p. 129, que cita Martins, 1987, p. 10. Acesso em 29 out. 2026.
-[^carlos]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614), dissertação de mestrado, UEMS, 2023, p. 66. Acesso em 29 out. 2026.
+[^carlos]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092), dissertação de mestrado, Programa de Pós-Graduação em Educação, Universidade Estadual de Mato Grosso do Sul, Paranaíba, 2023, p. 65-66; PDF anexado ao registro do trabalho na Plataforma Sucupira (CAPES). Acesso em 4 nov. 2026.
 [^aslhist]: Academia Sul-Mato-Grossense de Letras, ["Histórico"](https://acletrasms.org.br/historico/). Acesso em 4 nov. 2026.

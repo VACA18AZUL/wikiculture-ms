@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Em 2011, o *Campo Grande News* acompanhou o [[circo-irmaos-perez|Circo Irmãos Perez]], que passava um mês em cada bairro de Campo Grande. Hugo, o irmão mais velho, era o palhaço Pitchula e também fazia o número do globo. Os espetáculos eram feitos por ele, pelo irmão [[wagner-perez|Wagner]] e pelas esposas dos dois, com o pai, o palhaço Caroço, na administração.[^cgn2011]
 
-Em 2019, o *Correio do Estado* apresentou os irmãos Hugo e Wagner Perez como responsáveis pelo [[top-circo|Top Circo]]. Segundo a matéria, os dois nasceram no ambiente do circo. Hugo disse que o circo é sua profissão e que gosta dessa vida.[^ce2019]
+Em 2019, o *Correio do Estado* apresentou os irmãos Hugo e Wagner Perez como responsáveis pelo [[top-circo|Top Circo]]. Segundo a matéria, os dois cresceram no circo. Hugo disse que o circo é sua profissão e que gosta dessa vida.[^ce2019]
 
 As duas matérias citam o mesmo pai, Paulo Vitor, e o irmão Wagner, o que indica tratar-se da mesma pessoa.[^cgn2011][^ce2019]
 

@@ -19,12 +19,15 @@ Kiki está entre os primeiros e principais membros da ASCURI, fundada no início
 
 Em 2013, na oficina de audiovisual da aldeia Pirakuá (Bela Vista), foi um dos monitores, ao lado de Gilmar Galache.[^c4] Aparece como cantor no fim do filme [[jepeayta|Jepea'yta – A lenha principal]].[^c5] O catálogo do Fórum.doc.BH também o credita, com o nome Kiki Concianza, na fotografia e na montagem de *Jakaira* (2019), produzido pela ASCURI.[^fdoc]
 
+Em fevereiro de 2025, o *Campo Grande News* apresentou Kiki Concianza Kaiowá como codiretor, com Gilearde Barbosa Pedro (Gee Kaiowá), do filme *Ka'a guy jára*, sobre um guardião das matas e dos animais, que mistura realidade e ficção. A produção, em andamento na data da matéria, tem recursos da Lei Paulo Gustavo e foi gravada na aldeia Panambizinho e na Retomada Laranjeiras, em Dourados. A estreia estava prevista para o segundo semestre de 2025. A reportagem diz ainda que ele fundou uma rede de audiovisual e produz sobretudo documentários voltados à preservação do conhecimento dos mais velhos.[^cgn2025]
+
 ## Filmografia
 
 - *Jerosy Puku, O Grande Canto* (2017) — filme da ASCURI dirigido por Kiki Concianza.[^c6]
 - *As aventuras de Perurimã e o Pássaro de ouro* (2013) — curta de comédia feito em oficina na aldeia Pirakuá; Kiki foi monitor, ator e tradutor.[^c4]
 - [[jakaira|*Jakaira*]] (2019) — documentário de 16 minutos, direção coletiva da ASCURI, sobre o ritual do batismo do milho branco (Jerosy Puku) na aldeia Guyra Kambi'y, do povo kaiowá; fotografia de Kiki Concianza, com Gilmar Kiripuku Galache e Renan Braga, e montagem dele e de Galache.[^fdoc]
 - *Pirakuá – Os Guardiões do Rio Apa* (2014) — documentário curto dirigido por [[gilmar-galache|Gilmar Galache]]; imagens e direção de fotografia de Kiki.[^c7]
+- *Ka'a guy jára* (em produção em fev. 2025) — filme com direção de Kiki Concianza Kaiowá e Gee Kaiowá; fotografia de Felipe Bomfim.[^cgn2025]
 - *Tatatĩn Rape, o Caminho da Fumaça* (2022) — direção coletiva; imagens e edição de Ademilson Concianza Verga, entre outros.[^c8]
 
 [^c1]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, UFGD, 2023, p. 132 (Panambizinho em Dourados: p. 173). Acesso em 29 out. 2026.
@@ -36,3 +39,4 @@ Em 2013, na oficina de audiovisual da aldeia Pirakuá (Bela Vista), foi um dos m
 [^c7]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 178-179, nota 373. Acesso em 29 out. 2026.
 [^c8]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 198, nota 416. Acesso em 29 out. 2026.
 [^fdoc]: Fórum.doc.BH, acervo, ["Jakaira (2019)"](https://acervo.forumdoc.org.br/movie/jakaira/), ficha do filme. Acesso em 4 nov. 2026.
+[^cgn2025]: Aletheya Alves, ["Nada de história importada, MS tem guardião místico que protege a mata"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/nada-de-historia-importada-ms-tem-guardiao-mistico-que-protege-a-mata), *Campo Grande News*, 5 fev. 2025. Acesso em 4 nov. 2026.

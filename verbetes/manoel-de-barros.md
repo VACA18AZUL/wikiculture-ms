@@ -53,7 +53,7 @@ Títulos citados na dissertação de Melotto (2010):[^melotto-ref]
 - Thalita Melotto, [*Memórias vividas e inventadas nas infâncias sedutoras de Manoel de Barros*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/6720), dissertação de mestrado, UFMS, 2010 — estudo da trilogia das infâncias e do mercado editorial da obra do poeta.
 
 [^melotto15]: Thalita Melotto, [*Memórias vividas e inventadas nas infâncias sedutoras de Manoel de Barros*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/6720), dissertação de mestrado, UFMS, 2010, p. 15 (data de nascimento) e p. 3 (relevo na crítica acadêmica). Acesso em 4 nov. 2026.
-[^carlos55]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614), dissertação de mestrado, UEMS, 2023, p. 55 (nota 89). Acesso em 29 out. 2026.
+[^carlos55]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092), dissertação de mestrado, Programa de Pós-Graduação em Educação, Universidade Estadual de Mato Grosso do Sul, Paranaíba, 2023, p. 55 (nota 89); PDF anexado ao registro do trabalho na Plataforma Sucupira (CAPES). Acesso em 4 nov. 2026.
 [^melotto6]: Melotto, 2010, nota 6 da introdução. Acesso em 4 nov. 2026.
 [^melotto3]: Melotto, 2010, p. 3. Acesso em 4 nov. 2026.
 [^melotto4]: Melotto, 2010, p. 3-4 (introdução). Acesso em 4 nov. 2026.
@@ -62,5 +62,5 @@ Títulos citados na dissertação de Melotto (2010):[^melotto-ref]
 [^raido08]: Paulo Bungart Neto, "O memorialismo no Mato Grosso do Sul como testemunho da formação do estado", [*Raído*](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), Dourados, v. 2, n. 3, p. 77-90, jan./jun. 2008. Acesso em 4 nov. 2026.
 [^raido10]: Paulo Sérgio Nolasco dos Santos, "Viventes dos pantanais e cerrados", [*Raído*](https://ojs.ufgd.edu.br/Raido/article/download/1380/792/3739), Dourados, v. 4, n. 8, p. 93-108, jul./dez. 2010, citando Alfredo Bosi, 2000, p. 488. Acesso em 4 nov. 2026.
 [^amarilha135]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, UFGD, 2006, p. 134-135, que reproduz trecho de Lins (1976). Acesso em 4 nov. 2026.
-[^carlos146]: Carlos, 2023, p. 146 (nota 261). Acesso em 29 out. 2026.
+[^carlos146]: Carlos, 2023, p. 146 (nota 261). Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Bienal do Pantanal terá Leandro Karnal, Ana Maria Gonçalves e Almir Sater"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bienal-do-pantanal-tera-leandro-karnal-ana-maria-goncalves-e-almir-sater), *Campo Grande News*, 9 set. 2025. Acesso em 4 nov. 2026.
