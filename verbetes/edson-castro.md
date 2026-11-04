@@ -18,11 +18,13 @@ atualizado: 2026-11-04
 
 Trabalha no abstracionismo, com influências de [[wega-nery|Wega Nery]] e [[manoel-de-barros|Manoel de Barros]], com quem trocava cartas.[^fcms2016a][^fcms2016b] Desenha com grafite e pastel a óleo sobre papel telado.[^fcms2019] Tem duas obras no acervo permanente do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (Marco)]], e sua trajetória está no livro *Vozes das Artes Plásticas*, de Maria Eugênia do Amaral, publicado pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^fcms2016a]
 
-Mudou-se para a França. A Fundação de Cultura dá duas datas para a mudança: 2009, em 2016,[^fcms2016a] e 2008, em 2019.[^fcms2019] Em Paris, estudou línguas, arte e música francesa no Institut Catholique. Na Europa expôs no Salão de Belas Artes René Clement-Bayer, em Samoreau, no Paris Show Room 11 e na galeria Pavé d'Orsay.[^fcms2016a] Em 2019, a Fundação listou também a Galerie Ad Hoc Corner, em Saint-Paul de Vence, a Yohann Gallery e a Galerie Rauchfeld, e citou reportagens sobre ele nas revistas francesas *Artension* (2011) e *Art Actuel* (2015).[^fcms2019]
+Mudou-se para a França. A Fundação de Cultura dá duas datas para a mudança: 2009, em 2016,[^fcms2016a] e 2008, em 2019.[^fcms2019] Em 2022, o *Correio do Estado* falou em nove anos vivendo e criando em Paris, de 2008 a 2017.[^ce2022] Em Paris, estudou línguas, arte e música francesa no Institut Catholique. Na Europa expôs no Salão de Belas Artes René Clement-Bayer, em Samoreau, no Paris Show Room 11 e na galeria Pavé d'Orsay.[^fcms2016a] Em 2019, a Fundação listou também a Galerie Ad Hoc Corner, em Saint-Paul de Vence, a Yohann Gallery e a Galerie Rauchfeld, e citou reportagens sobre ele nas revistas francesas *Artension* (2011) e *Art Actuel* (2015).[^fcms2019]
 
 Em Corumbá, fez em 2009 o painel *Artes Cacharas*, com a figura do peixe cachara, na ponte sobre o rio Paraguai.[^fcms2019]
 
 Durante o 13º [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]], em novembro de 2016, expôs *Obras Recentes de Edson Castro* no [[muhpan|Museu de História do Pantanal (Muhpan)]], com abertura no dia 11.[^fcms2016a][^cgn2016] Em dezembro do mesmo ano, o [[mis-ms|Museu da Imagem e do Som]] exibiu o curta documentário *Edson Castro*, dirigido por Mara Silvestre.[^fcms2016b] Foi um dos artistas homenageados do 15º Festival América do Sul Pantanal, em 2019, quando mantinha ateliê em Campo Grande.[^fcms2019]
+
+Em 2018, fez a intervenção *Corpo Sobre Tela* com a dançarina [[jackeline-mourao|Jackeline Mourão]]. Em fevereiro de 2022, o *Correio do Estado* o descreveu com três décadas de carreira e noticiou a abertura do seu ateliê à visitação.[^ce2022]
 
 ## Obras
 
@@ -39,6 +41,7 @@ Durante o 13º [[festival-america-do-sul-pantanal|Festival América do Sul Panta
 
 - *Edson Castro* (2016) — curta documentário, 10 minutos; direção de Mara Silvestre, roteiro e montagem de Natacha Figueiredo Miranda; produção da Água Comunicação e Eventos, na série *A Universalidade dos Artistas Plásticos Sul-Mato-Grossenses*.[^fcms2016b]
 
+[^ce2022]: Naiara Camargo, ["Artista plástico Edson Castro abre as portas de seu ateliê"](https://correiodoestado.com.br/correio-b/2022/02/02/artista-plastico-edson-castro-abre-as-portas-de-seu-atelie.html), *Correio do Estado*, Correio B, 2 fev. 2022. Acesso em 4 nov. 2026.
 [^fcms2016a]: Fabio Pellegrini, ["Vindo de Paris, corumbaense Edson Castro expõe suas obras mais recentes no Fasp"](https://www.fundacaodecultura.ms.gov.br/vindo-de-paris-corumbaense-edson-castro-expoe-suas-obras-mais-recentes-no-fasp/), Fundação de Cultura de Mato Grosso do Sul, 10 nov. 2016. Acesso em 4 nov. 2026.
 [^cgn2016]: Nyelder Rodrigues, ["Ao som de Marcelo Loureiro, começa o Festival América do Sul Pantanal"](https://www.campograndenews.com.br/lado-b/diversao/ao-som-de-marcelo-loureiro-comeca-o-festival-america-do-sul-pantanal), *Campo Grande News*, 11 nov. 2016. Acesso em 4 nov. 2026.
 [^fcms2016b]: Fundação de Cultura de Mato Grosso do Sul, ["Documentário sobre Edson Castro será exibido nesta sexta no MIS"](https://www.fundacaodecultura.ms.gov.br/documentario-sobre-edson-castro-sera-exibido-nesta-sexta-no-mis/), 9 dez. 2016. Acesso em 4 nov. 2026.

@@ -19,3 +19,9 @@ Direção: Sheila Azevedo; roteiro: Sheila Azevedo Pereira e Luciana Scanoni; as
 ## Observações
 
 - Cidade não informada. Nenhuma outra obra encontrada.
+
+## Atualização de 2026-11-04
+
+- Tentativa de segunda fonte: wp-json do O Estado MS ("Abayomis") trouxe só a reprodução da agenda de 2021 da FCMS e uma matéria da Feira Afro (expositora "Cleuza Pedrosa – Abayomis", sem relação). Busca do Campo Grande News e Google Notícias sem resultado. Fonte única (FCMS) mantida.
+- Divergência: FCMS 15/01/2021 (138 inscrições, 38 selecionados + 5 convidadas indígenas) x FCMS 12/10/2021 (140 inscritos, 28 alunos que fizeram todo o curso). Registrada no verbete.
+- Grafia "ABAYONI" na FCMS de 13/01/2023.

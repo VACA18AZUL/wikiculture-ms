@@ -18,7 +18,7 @@ A partir de 1985, por causa da paixão pelo cinema, passou a fazer o que chamava
 
 A crítica de arte [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] descreveu o trabalho dele como uma combinação de desenho e pintura em que, às vezes, o ponto de partida é o storyboard, fragmentado em "takes" coloridos.[^ce2020]
 
-Participou do projeto Arte & Cores no Paço.[^ce2020] Com [[carlos-nunes|Carlos Nunes]] e [[edson-castro|Edson Castro]], fez a exposição *Conexões Criativas*. O *Correio do Estado* data a mostra de 2019;[^ce2020] a nota da Fundação de Cultura diz que ela foi realizada em janeiro de 2020 e que foi a última exposição de que ele participou.[^fcms2020]
+Participou do projeto [[arte-e-cores-no-paco|Arte & Cores no Paço]].[^ce2020] Com [[carlos-nunes|Carlos Nunes]] e [[edson-castro|Edson Castro]], fez a exposição *Conexões Criativas*. O *Correio do Estado* data a mostra de 2019;[^ce2020] a nota da Fundação de Cultura diz que ela foi realizada em janeiro de 2020 e que foi a última exposição de que ele participou.[^fcms2020]
 
 ## Exposições
 

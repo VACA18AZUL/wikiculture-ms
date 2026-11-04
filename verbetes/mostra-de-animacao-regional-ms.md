@@ -22,7 +22,7 @@ A mostra foi realizada com recursos da Política Nacional Aldir Blanc, por execu
 Dez filmes, escolhidos pela curadoria da TransCine, compunham a programação; a lista do *Campo Grande News* coincide com a da *Teatrine TV*, com pequenas diferenças de grafia nos títulos (por exemplo, *Curupira, o Herói da Mata*, *Entre o movimento e as linhas* e *Salvador Dalí – O pai do surrealismo*):[^tt][^cgn26]
 
 - *+ Forte*, direção de Ara Martins.[^tt][^cgn26]
-- *A jornada de Lila*, Jorge de Barros.[^tt][^cgn26]
+- [[a-jornada-de-lila|*A jornada de Lila*]], Jorge de Barros.[^tt][^cgn26]
 - *Carlos*, Suzana Nellis.[^tt][^cgn26]
 - *Cinema, futebol e os visitantes*, Acir Alves.[^tt][^cgn26]
 - *Cuidado com a Cuca*, Maria Luiza Staut e Liara Belmira.[^tt][^cgn26]

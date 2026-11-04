@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-O primeiro contato com a música instrumental foi na banda do Colégio Militar, onde aprendeu clarinete. Depois, entrou na Fundação Barbosa Rodrigues, onde foi apresentado à música clássica pelo maestro [[eduardo-martinelli|Eduardo Martinelli]]. Cursou regência na Unicamp.[^ce2024]
+O primeiro contato com a música instrumental foi na banda do Colégio Militar, onde aprendeu clarinete. Depois, entrou na [[fundacao-barbosa-rodrigues|Fundação Barbosa Rodrigues]], onde foi apresentado à música clássica pelo maestro [[eduardo-martinelli|Eduardo Martinelli]]. Cursou regência na Unicamp.[^ce2024]
 
 Tocou com orquestra pela primeira vez em 2009, no [[encontro-com-a-musica-classica|Encontro com a Música Clássica]], festival em que voltou a se apresentar em 2019. Em 2018, participou do Festival de Inverno de Campos do Jordão. No ano seguinte, entrou na Academia de Música da Orquestra Sinfônica do Estado de São Paulo (Osesp), sob orientação da regente Marin Alsop, e fez o curso de regência da Orquestra Filarmônica de Minas Gerais.[^ce2024]
 

@@ -15,7 +15,7 @@
 | cgn2011 | Fabiano Arruda, "A força das cores na arte contemporânea de Márcio Tuller", Campo Grande News, 30/08/2011 | https://www.campograndenews.com.br/lado-b/artes/a-forca-das-cores-na-arte-contemporanea-de-marcio-tuller | imprensa | sim |
 | cgn2014 | Paula Maciulevicius, "Em Mato Grosso do Sul, clássicos como Mona Lisa aparecem tomando tereré", Campo Grande News, 13/08/2014 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-mato-grosso-do-sul-classicos-como-mona-lisa-aparecem-tomando-terere | imprensa | sim |
 
-Fonte de origem da lista-mestra (Correio do Estado, 21/10/2010, https://correiodoestado.com.br/correio-b/2010/10/21/mix-de-pop-art-e-quadrinhos-nas-telas-de-marcio-tuller.html) devolveu erro 500 em 04/11/2026 (curl e WebFetch); não há cópia no archive.org. Não citada.
+| ce2010 | Redação, "Mix de pop art e quadrinhos nas telas de Márcio Tuller", Correio do Estado, 21/10/2010 | https://correiodoestado.com.br/correio-b/2010/10/21/mix-de-pop-art-e-quadrinhos-nas-telas-de-marcio-tuller.html | imprensa | sim (abriu na segunda tentativa) |
 
 ## Fatos, com fonte
 
@@ -28,7 +28,7 @@ Fonte de origem da lista-mestra (Correio do Estado, 21/10/2010, https://correiod
 
 ## Divergências
 
-- Lista-mestra (a partir do Correio 2010) fala em primeira individual em Maringá; não verificado.
+- Lisboa: 11 trabalhos, de 6/11/2010 por 15 dias [ce2010] × dez telas [cgn2011]. Correio: início em 1997, primeira individual em Maringá há mais de 10 anos; mostra da Fundac em ago. 2010 foi a primeira ao público de Campo Grande [ce2010].
 
 ## Uso no verbete
 

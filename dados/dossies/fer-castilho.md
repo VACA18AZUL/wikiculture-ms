@@ -21,3 +21,19 @@
 ## Por que não há verbete
 
 - As duas fontes têm a mesma origem (release da Prefeitura). Falta fonte independente. Buscas na FCMS e no Google Notícias sem outros resultados.
+
+## Segunda fonte (d1-2, 2026-11-04)
+
+| id | Referência | URL | Tipo |
+|---|---|---|---|
+| oe2026 | Carolina Rampi, "Exposição de Fernando Castilho joga luz às violências", O Estado MS, 14/04/2026 (entrevista própria) | https://oestadoonline.com.br/arte-e-lazer/exposicao-de-fernando-castilho-joga-luz-as-violencias/ | imprensa |
+| oe2024 | "Exposição na Casa de Cultura traz reflexão artística sobre o meio ambiente", O Estado MS, 19/12/2024 | https://oestadoonline.com.br/arte-e-lazer/exposicao-na-casa-de-cultura-traz-reflexao-artistica-sobre-o-meio-ambiente/ | imprensa |
+
+- O nome aparece como Fernando Castilho / FerCastilho (oe2026) e "Fernando Castilho (FerCast)" (oe2024): mesma pessoa (mesma formação, Bienal 1993, exposição Alterações Climáticas 2024).
+- oe2026: formado em 1980 no RJ, aluno de Rosa Magalhães e Maria Augusta Rodrigues; professor de arquitetura por mais de três décadas; coautor da revitalização da Morada dos Baís e Anexo (1993); equipe do Plano Local das ZEICs Centro; II Bienal de Arquitetura de SP (1993), trabalho Fragmentos Neobarroco; individual A violência nossa de cada dia na Galeria de Vidro (vernissage 15/04/2026, 20 obras em acrílica sobre papel), apresentada como estreia como artista visual.
+- oe2024: coletiva Alterações Climáticas, a Paz e os Seres Vivos, Casa de Cultura de Campo Grande, 10 a 30/12/2024.
+- Página da Prefeitura (pmcg2026) não reabriu nesta sessão (conexão recusada): não citada; A Crítica reaberta e citada.
+
+## Uso no verbete (d1-2)
+
+- Verbete redigido com oe2026, oe2024 e acritica2026.

@@ -22,3 +22,7 @@
 - Grafia do projeto: "Expressaê" (O Estado) e "ExpressaAÊ" (CGN). Usado Expressaê no texto.
 - O Estado 2022 diz que ela mora na região do Maria Aparecida Pedrossian: dado residencial, fora do verbete.
 - Formação, nascimento e obras fora do projeto não encontrados. Wikipédia: sem artigo (nome pouco conhecido; não há busca específica).
+
+## Atualização de 2026-11-04
+
+- Tentativa de segunda fonte independente: Google Notícias só trouxe matérias do Campo Grande News (22/09/2022, "Desenho de arara vermelha ganha concurso e estampa 3º Mural da Águas Guariroba"; 27/05/2026, "Casa vira galeria com arte do Pantanal em Campo Grande"), não lidas; RCN67 sem resultado. As notas do O Estado MS têm cara de release da Águas Guariroba. Fonte jornalística única mantida.

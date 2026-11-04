@@ -18,7 +18,7 @@ As ***Obras Completas de Hélio Serejo*** são uma coleção em nove volumes que
 
 ## Conteúdo
 
-A coleção reúne livros de contos, crônicas e narrativas de Serejo, cada um com sua paginação dentro de um volume. Pelas referências de Ariane Morales Moreti e de Jérri Roberto Marin, o volume 1 traz *Homens de aço*, *Pialo bagual* e *Vento brabo*; o volume 3, *De galpão em galpão*; o volume 4, *Vida de erval* e *Sete contos... e uma potoca*; o volume 5, *Pelas orilhas da fronteira*; o volume 6, *Nhá Chaló*, *Caraí* e *Paisagem sertaneja*; o volume 7, *Balaio de bugre* e *Pialando... no más*; o volume 8, *Caraí ervateiro*; e o volume 9, *Contos crioulos*.[^moreti][^marin] Moreti grafa o título do volume 3 como *De gualpão em gualpão*.[^moreti]
+A coleção agrupa por volume diversos livros de Serejo. Pelas referências de Ariane Morales Moreti e de Jérri Roberto Marin, o volume 1 traz *Homens de aço*, *Pialo bagual* e *Vento brabo*; o volume 3, *De galpão em galpão*; o volume 4, *Vida de erval* e *Sete contos... e uma potoca*; o volume 5, *Pelas orilhas da fronteira*; o volume 6, *Nhá Chaló*, *Caraí* e *Paisagem sertaneja*; o volume 7, *Balaio de bugre* e *Pialando... no más*; o volume 8, *Caraí ervateiro*; e o volume 9, *Contos crioulos*.[^moreti][^marin] Moreti grafa o título do volume 3 como *De gualpão em gualpão*.[^moreti]
 
 Em nota, Marin registra que Serejo publicou 60 livros.[^marin]
 

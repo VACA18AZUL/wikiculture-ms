@@ -30,3 +30,11 @@
 ## Uso no verbete
 
 - Tudo entrou; linha acrescentada à Filmografia de joel-pizzini.
+
+## Atualização de 2026-11-04 (validação)
+
+- cb: Cinemateca Brasileira, Filmografia, código 026821 (busca por título "500 ALMAS"). Ano de produção 2004, São Paulo; 35mm, 105 min; não ficção; produtora Grifa Cinematográfica (coprodução Teleimage, Effects, Pólofilmes); produção Gisela Gonzales; argumento e pesquisa Joel Pizzini; roteiro e montagem Idê Lacreta; direção de fotografia Mário Carneiro; trilha Lívio Tragtenberg; patrocínio do governo de MS e da FCMS, entre outros; prêmios: Melhor pesquisa da Fundação Rockefeller (2001) e Margarida de Prata da CNBB (2005); observação: fonte MSP/29 dá 2005 e 109 min; 37º Festival de Brasília (2004). Participações: Ada Gambarotto, Adair Pimentel Palácio, Jorge Eremites de Oliveira, Osvaldo Scotti, Manoel de Barros (poeta), Matheus Nachtergaele, Helena Ignêz e outros.
+- Ficha técnica ampliada com a Cinemateca; divergência de ano agora com três posições (2004 CB e Fidelis; 2005 Neves e MSP/29 via CB; 2007 Fidelis p. 11).
+- O prêmio da Fundação Rockefeller (2001, melhor pesquisa) é anterior ao filme e não entrou no verbete.
+- Manoel de Barros aparece na ficha como participante; o verbete manoel-de-barros ainda não lista o filme (aviso do conferir; arquivo de outro agente).
+- Wikipédia: sem artigo localizado.

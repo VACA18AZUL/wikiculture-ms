@@ -15,3 +15,7 @@ Não aberta: Capital News 22/08/2014 ("Autor do hino do Operário é festejado d
 - CGN 2020 é incoerente na cronologia: 72 anos em 2020, mas "veio para Campo Grande criança na metade final dos anos 70". Data da chegada omitida.
 - Gravadora: "Fermata" e "Fermate" na mesma matéria; usada Fermata. Ano do LP não informado (matéria diz década de 1970).
 - Família, profissão de protético e conversão religiosa ficaram fora (vida pessoal).
+
+## Atualização de 2026-11-04
+
+- Capital News, 22/08/2014, "Autor do hino do Operário é festejado durante a eleição do clube" (https://www.capitalnews.com.br/esporte/autor-do-hino-do-operario-e-festejado-durante-a-eleicao-do-clube/267196): bloqueio 403 (Cloudflare), sem cópia no archive.org. Não lido; pode confirmar a autoria do hino.

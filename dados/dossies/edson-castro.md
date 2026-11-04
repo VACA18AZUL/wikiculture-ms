@@ -17,7 +17,9 @@
 | fcms2019 | FCMS, "De renome internacional, o corumbaense Edson Castro é um dos homenageados do FASP 2019", 8 nov. 2019 | https://www.fundacaodecultura.ms.gov.br/de-renome-internacional-o-corumbaense-edson-castro-e-um-dos-homenageados-do-fasp-2019/ | institucional | sim |
 | cgn2016 | Nyelder Rodrigues, "Ao som de Marcelo Loureiro, começa o Festival América do Sul Pantanal", Campo Grande News, 11 nov. 2016 (nota do verbete muhpan) | https://www.campograndenews.com.br/lado-b/diversao/ao-som-de-marcelo-loureiro-comeca-o-festival-america-do-sul-pantanal | imprensa | sim (reaberto via WebFetch: "Já nos Muhpan ... desde às 19h acontece a exposição Obras Recentes, de Edson Castro.") |
 
-Não aberta: Correio do Estado, Correio B, 2 fev. 2022 (url_fonte) e 2 set. 2020 — HTTP 500 nesta sessão. Corpo Sobre Tela (2018) e Conexões Criativas ficam fora.
+| ce2022 | Naiara Camargo, "Artista plástico Edson Castro abre as portas de seu ateliê", Correio do Estado, Correio B, 2 fev. 2022 | https://correiodoestado.com.br/correio-b/2022/02/02/artista-plastico-edson-castro-abre-as-portas-de-seu-atelie.html | imprensa | sim (WebFetch, trechos literais: Paris de 2008 a 2017, nove anos; Corpo Sobre Tela 2018 com Jackeline Mourão; três décadas de carreira; ateliê aberto) |
+
+Não aberta: CE 2 set. 2020 (Conexões Criativas).
 
 ## Fatos, com fonte
 

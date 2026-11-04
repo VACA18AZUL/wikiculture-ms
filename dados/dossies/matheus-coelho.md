@@ -18,4 +18,4 @@
 ## Uso no verbete
 
 - Fora: idade (29 anos em 2024) e menção aos pais.
-- A Fundação Barbosa Rodrigues ficou sem link: não há identificador na lista-mestra (j-barbosa-rodrigues é outra coisa).
+- Fundação Barbosa Rodrigues ligada como [[fundacao-barbosa-rodrigues]] (identificador já usado em relacoes.csv; proposto em nomes-w26-4.csv).
