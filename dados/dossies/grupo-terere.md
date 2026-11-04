@@ -30,3 +30,7 @@
 
 Fonte nova lida: Ketlen Gomes, "Final de semana de programações culturais para toda a família em Campo Grande", Correio do Estado (Correio B), 23 mar. 2022 (https://correiodoestado.com.br/correio-b/2022/03/23/final-de-semana-de-programacoes-culturais-para-toda-a-familia-em-campo-grande.html). Veículo diferente do CGN; é anúncio (programação de divulgação da Sectur). Confirma: 1ª Semana do Teatro e do Circo, 23 a 27/3/2022; apresentação "inédita" do Tereré com Stand Up Comedy no encerramento (27/3), cerimônia e documentário Evoé às 18h na Plataforma Cultural; mesmos quatro integrantes (grafia "Giovanna" x "Giovana" no CGN: registrada no verbete). Não confirma que a apresentação ocorreu, nem liga os comediantes de 2020 ao grupo.
 Busca por relato pós-evento (FCMS, Correio do Estado): não encontrado.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte independente nova. API do O Estado MS: Beatriz Feldens, "1ª Semana do Teatro e Circo começa na próxima quarta-feira", O Estado Online, 21 mar. 2022 (https://oestadoonline.com.br/arte-e-lazer/1a-semana-do-teatro-e-circo-comeca-na-proxima-quarta-feira/), lida: confirma o grupo e os quatro integrantes, mas declara "com informações da Assessoria" (mesmo release da Sectur do Correio do Estado); não acrescentada. Outras matérias do O Estado lidas tratam de Luciano Risalde e Giovanna Zottino individualmente (2020, 2024, 2025), sem citar o grupo. CGN buscar ("Tereré com Comédia", "Luciano Risalde") e RSS do Google Notícias: só as matérias já citadas.

@@ -53,3 +53,7 @@ Nenhuma.
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova. Dossiê anterior já registrava só a dissertação de Diehl (UFMS). Nesta rodada não houve busca com resultado para a produtora Aljor Filmes; filmes sertanejos amadores de Campo Grande (1978-1985) só aparecem na dissertação e na matéria do CGN sobre outro filme. Continua fonte única.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Alexandre Couto cineasta", "Marca do Destino filme", "filme sertanejo Campo Grande", "Aljor"), API do O Estado e RSS do Google Notícias (mesmos termos e "Reinaldo Dorval"): nada sobre os filmes de 1978-1985. Aberta a nota do *O Estado* de 13 jun. 2020 sobre as lives do CineMato: anuncia conversa de Carlos Diehl com Alexandre Couto, "cineasta independente que dirigiu filmes de longa-metragem em Campo Grande", sem citar títulos, José Piranha ou Aljor Filmes. Aberta a matéria do Campo Grande News sobre filme de roubo de gado: sem relação.

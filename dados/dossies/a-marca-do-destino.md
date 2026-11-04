@@ -65,3 +65,7 @@ Fonte nova aberta e lida: Thaís Pimenta, "Índio é memória viva do cinema, gu
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova nesta rodada. O verbete já tem a dissertação de Diehl (UFMS) e a matéria do CGN de 2018 (cartazes pintados); não foi achada terceira fonte.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Alexandre Couto cineasta", "Marca do Destino filme", "filme sertanejo Campo Grande", "Aljor"), API do O Estado e RSS do Google Notícias (mesmos termos e "Reinaldo Dorval"): nada sobre os filmes de 1978-1985. Aberta a nota do *O Estado* de 13 jun. 2020 sobre as lives do CineMato: anuncia conversa de Carlos Diehl com Alexandre Couto, "cineasta independente que dirigiu filmes de longa-metragem em Campo Grande", sem citar títulos, José Piranha ou Aljor Filmes. Aberta a matéria do Campo Grande News sobre filme de roubo de gado: sem relação.
