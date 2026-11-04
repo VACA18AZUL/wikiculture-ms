@@ -31,3 +31,8 @@
 
 - Nome do circuito: "Nós Dissemos: Circuito de Arte Dorcelina Folador" [fcms-mar] x "Circuito Coletiva Dorcelina Folador" [fcms-abr].
 - Número de artistas: 14 anunciadas, 11 nomes listados.
+
+## Atualização de 2026-11-04
+
+- A matéria do Campo Grande News (2 mar. 2026) reproduz o release da FCMS (mesmas frases e falas): não conta como fonte independente.
+- Busca por segunda fonte no Google Notícias ("O Grito que Ecoa"; "Dorcelina Folador" exposição): só CGN e FCMS. "Exposição gratuita reúne obras de 14 artistas mulheres em MS" (CGN, set. 2025) é sobre outra mostra (Corpo Manifesto). Brave bloqueado.

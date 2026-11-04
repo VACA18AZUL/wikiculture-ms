@@ -21,7 +21,7 @@ O cineasta Essi Rafael, natural de Aquidauana, dirige o primeiro longa-metragem 
 
 - *Um conto de solidão* (2008) — curta-metragem.[^cgn][^ce2024]
 - *Ela veio me ver* (2011) — curta-metragem.[^cgn][^ce2024]
-- *A TV está ligada* (2014) — curta-metragem.[^cgn][^ce2024]
+- [[a-tv-esta-ligada|*A TV está ligada*]] (2014) — curta-metragem.[^cgn][^ce2024]
 - [[as-quatro-estacoes-da-juventude|*As Quatro Estações da Juventude*]] — documentário de longa-metragem, o primeiro da produtora. Acompanha, ao longo de uma década, jovens estudantes da Universidade Federal de São Carlos (SP). A trilha sonora original é do músico Leo Copetti, de Campo Grande.[^cgn]
 
 A reportagem cita os três curtas como os de maior notoriedade e diz que foram exibidos em festivais nacionais e internacionais.[^cgn]

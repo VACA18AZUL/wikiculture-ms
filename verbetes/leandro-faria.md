@@ -24,7 +24,7 @@ Escreveu *Subcutâneo – O que te define está por baixo da pele*, peça sobre 
 
 Pela [[cia-ofit|Cia. Ofit]], esteve no elenco de [[tres-virgula-quatro-graus-na-escala-richter|Três Vírgula Quatro Graus na Escala Richter]], com direção de [[nill-amaral|Nill Amaral]], em 2016[^fcms2016d], e aparece no elenco da remontagem anunciada para agosto de 2026.[^ce2026] Também atuou em [[pedra-bruta|Pedra Bruta]], da mesma companhia, em 2018.[^fcms2018b]
 
-Em abril de 2018, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] abriu inscrições para a Oficina de Criação Teatral, ministrada por ele no Centro Cultural. Segundo a fundação, abriu em 2015 a agência virtual de atores LFCasting, de preparação e produção de elenco.[^fcms2018a]
+Em abril de 2018, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] abriu inscrições para a Oficina de Criação Teatral que ele daria no Centro Cultural, de abril a agosto. Segundo a fundação, abriu em 2015 a agência virtual de atores LFCasting, de preparação e produção de elenco.[^fcms2018a]
 
 ## Espetáculos
 
@@ -39,7 +39,7 @@ Em abril de 2018, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] ab
 - *Equê de Vuitton* (2003) — curta de Dácio Pinheiro; atuação.[^fcms2018a]
 - *Nós O(u)tros* (2013) — curta de Rodolfo Ykeda; atuação.[^fcms2018a]
 - *O Mito Paralelo* (2014) — curta de Marinete Pinheiro; atuação.[^fcms2018a]
-- *A Vez de Matar, A Vez de Morrer* (2015) — curta de Giovanni Barros; atuação. Segundo a fundação, deu a ele o prêmio de melhor ator no Festival Belo Jardim.[^fcms2018a]
+- *A Vez de Matar, A Vez de Morrer* (2015) — curta de Giovanni Barros; atuação. Segundo a fundação, rendeu a ele o prêmio de melhor ator do Festival Belo Jardim, em Recife.[^fcms2018a]
 - *Não Me Lembro* (2015) — curta de Fábio Flecha; atuação.[^fcms2018a]
 - *Simão Morto* (2015) — websérie de Breno Benetti e Luana Benetti; atuação.[^fcms2018a]
 - *O Amor e o Resto – da Culinária ao Caos* (2017) — curta de [[mariana-sena|Mariana Sena]] e Maíra Espíndola; atuação, no papel do boneco Gentil.[^fcms2017]

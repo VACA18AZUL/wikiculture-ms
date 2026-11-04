@@ -30,7 +30,7 @@ Em 2026, o Museu da Imagem e do Som programou *Ano Que Vem Tem Mais* e *Retrato 
 
 - [[o-florista-curta|*O Florista*]] — curta-metragem de ficção, 18 min, selecionado em 2013 para o Short Film Corner; direção, roteiro, direção de arte, atuação e edição de som.[^cgn2013] A Fundação de Cultura data a produção de 2012.[^fcms2017a] [Assistir no YouTube (Cerrado's Filmes)](https://www.youtube.com/watch?v=4ZCnfmGoJJc)
 - *Irmãos de Alma* — curta exibido em 2016 no Festival de Cinema do Vale do Ivinhema, creditado a Silveira.[^fcms2016]
-- *De Tanto Olhar o Céu Gastei Meus Olhos* — curta de Nathália Tereza; produção associada, pela Cerrado's Filmes.[^fcms2017b]
+- *[[de-tanto-olhar-o-ceu-gastei-meus-olhos|De Tanto Olhar o Céu Gastei Meus Olhos]]* — curta de Nathália Tereza; produção associada, pela Cerrado's Filmes.[^fcms2017b]
 - *Ano Que Vem Tem Mais* — filme sobre o carnaval de Campo Grande; produção, com Marineti Pinheiro, segundo o *Campo Grande News*;[^cgn2021] a programação do MIS de 2026 credita a direção a Silveira.[^fcms2026]
 - *Retrato do Artista Quando Coisa* — curta experimental, 4 min; realização, com Larissa Neves (a lista de Ivinhema credita o filme aos dois; a reportagem de 2021 diz que os dois o produziram). A reportagem de 2021 diz que o filme foi produzido naquele ano;[^cgn2021] a lista de selecionados de Ivinhema o data de 2022.[^cgn2024]
 

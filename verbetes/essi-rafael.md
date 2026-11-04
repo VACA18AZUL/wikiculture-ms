@@ -35,8 +35,9 @@ O lançamento comercial ocorreu em maio de 2025, no cinema do shopping Frei Cane
 - [[as-quatro-estacoes-da-juventude|*As Quatro Estações da Juventude*]] (documentário, longa-metragem) — direção.[^cgn2024]
 - *Um conto de solidão* (2008) — curta-metragem da Casa de Cinema de Aquidauana; a fonte não informa a função de Essi Rafael.[^cgn2024]
 - *Ela veio me ver* (2011) — curta-metragem da Casa de Cinema de Aquidauana; a fonte não informa a função de Essi Rafael.[^cgn2024]
-- *A TV está ligada* (2014) — curta-metragem da Casa de Cinema de Aquidauana; a fonte não informa a função de Essi Rafael.[^cgn2024]
+- [[a-tv-esta-ligada|*A TV está ligada*]] (2014) — curta-metragem de 24 minutos da Casa de Cinema de Aquidauana; direção. Selecionado para o FesFest'AFilm, em Montpellier, em 2015.[^cgn2024][^cgn2015tv]
 
 [^cgn2024]: Idaicy Solano, ["Após turnê internacional, Essi Rafael estreia longa no festival Bonito CineSur"](https://www.campograndenews.com.br/lado-b/diversao/apos-turne-internacional-essi-rafael-estreia-longa-no-festival-bonito-cinesur), *Campo Grande News*, 29 jun. 2024. Acesso em 29 out. 2026.
 [^ce2024]: Mariana Piell, ["Documentário premiado de diplomata aquidauanense terá estreia nacional em Bonito"](https://correiodoestado.com.br/correio-b/documentario-premiado-de-diplomata-aquidauanense-tera-estreia-nacional/432129/), *Correio do Estado*, 26 jun. 2024. Acesso em 29 out. 2026.
 [^ce2025]: Mariana Piell, ["Filme de diplomata de MS tem estreia comercial em São Paulo"](https://correiodoestado.com.br/correio-b/filme-de-diplomata-de-ms-e-lancado-em-circuito-de-sao-paulo/448339/), *Correio do Estado*, 24 mai. 2025. Acesso em 29 out. 2026.
+[^cgn2015tv]: Lucas Arruda, ["Mostrando que MS produz coisa boa, curta será exibido em festival francês"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mostrando-que-ms-produz-coisa-boa-curta-sera-exibido-em-festival-frances), *Campo Grande News*, 2 set. 2015. Acesso em 4 nov. 2026.

@@ -44,3 +44,10 @@
 ## Uso no verbete
 
 - Entrou tudo acima.
+
+## Atualização de 2026-11-04
+
+- Segunda fonte independente: Tainá Jara, "Em qualquer muquifo, novo cineclube investe em divulgação de filmes independentes", *Top Mídia News*, 11/04/2015 (https://www.topmidianews.com.br/algo-mais/em-qualquer-muquifo-cineclube-aposta-em-filmes-alternativos/26296/; curl dá 403, lida por WebFetch). Criado por quatro amigos; itinerante, sem endereço fixo; entrada gratuita; filmes alternativos, clássicos e independentes, parte do acervo pessoal dos organizadores; Pietro Luigi é "um dos organizadores"; primeira sessão anunciada para sábado, 11/04/2015, com *Good Vibrations*.
+- A matéria cita também Yasmim Santiago, Camila Santana e Tayran Seixas; não ficou claro se são os quatro fundadores. Fora do verbete.
+- A matéria traz endereço de apartamento como local da primeira sessão: dado residencial, fora.
+- As duas matérias da FCMS (2015 e 2017) são anúncios de programação; o verbete passou a tratá-las como programação anunciada.

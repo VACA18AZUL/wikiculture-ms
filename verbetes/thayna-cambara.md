@@ -18,7 +18,7 @@ Em 2024, o *Campo Grande News* apresentou a Bela Oyá como a primeira agência r
 
 No audiovisual, registrou festividades afro-brasileiras de Corumbá e Ladário na websérie *Encruzilhada de Estórias*.[^fcms2025a] Projetos dela entraram nas seleções de atrações regionais do [[festival-america-do-sul-pantanal|Festival América do Sul]]: *Louvação Xangô* ficou entre os titulares da categoria média e longa-metragem no resultado provisório de 2022, e *Encruzilhadas de Estórias – Louvação Ogum* foi selecionado na categoria curta-metragem em 2023.[^fcms2022][^fcms2023]
 
-Em maio de 2025, idealizou uma programação de cultura afro-brasileira no Festival América do Sul, em Corumbá, com mesa de debate e a pré-estreia de *Louvação à Ibejada*.[^fcms2025b] Segundo a Fundação de Cultura de MS, ela foi premiada na primeira edição do Prêmio Rotas Negras, do Ministério da Igualdade Racial.[^fcms2026a]
+Em maio de 2025, idealizou uma programação de cultura afro-brasileira no Festival América do Sul, em Corumbá, com mesa de debate e a pré-estreia de *Louvação à Ibejada*.[^fcms2025b] Segundo a Fundação de Cultura de MS, ela recebeu um prêmio na primeira edição do Rotas Negras, do Ministério da Igualdade Racial.[^fcms2026a]
 
 ## Pantanal Negro
 

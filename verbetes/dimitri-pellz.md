@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Dimitri Pellz** é uma banda de rock de Campo Grande, formada em 2005 por amigos interessados em rock, cinema e literatura.[^fcms2025a] O primeiro show foi em outubro de 2005.[^cgn2015]
+**Dimitri Pellz** é uma banda de rock de Campo Grande, formada em 2005 por cinco amigos que, segundo o baixista Heitor Teixeira, eram apaixonados por música, cinema e literatura.[^fcms2025a] O primeiro show foi em outubro de 2005.[^cgn2015]
 
 ## Trajetória
 
@@ -19,9 +19,9 @@ A banda tocou nos festivais Casarão, em Porto Velho, e Bananada, em Goiânia, p
 
 O *Correio do Estado* anunciou o grupo no projeto [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em 17 de fevereiro de 2008, ao lado do Balaio Jazz,[^ce2008] e em 14 de junho de 2009, ao lado da banda Ignis Br.[^ce2009]
 
-Em 2013, lançou um disco de 12 faixas produzido por [[alex-cavalheri|Alex Cavalheri]]. Em outubro de 2015, fez um show pelos dez anos no BarFly, em Campo Grande, com o futuro incerto por causa da distância entre os integrantes: o baterista Jean Albernaz morava no Rio de Janeiro. A formação era Maíra Espíndola (vocal), André Vilela, o Samambaia (teclado), Heitor Chaves (baixo), Heitor Menezes (guitarra) e Jean Albernaz (bateria); segundo a banda, só o guitarrista tinha mudado desde o início.[^cgn2015]
+Em 2013, lançou um disco de 12 faixas produzido por [[alex-cavalheri|Alex Cavalheri]]. Em 11 de outubro de 2015, o *Campo Grande News* anunciou para aquele dia um show pelos dez anos da banda no BarFly, em Campo Grande, na festa The Freaking Out Years, e relatou que o futuro do grupo era incerto por causa da distância entre os integrantes: o baterista Jean Albernaz morava no Rio de Janeiro. A formação era Maíra Espíndola (vocal), André Vilela, o Samambaia (teclado), Heitor Chaves (baixo), Heitor Menezes (guitarra) e Jean Albernaz (bateria); segundo a banda, só o guitarrista tinha mudado desde o início.[^cgn2015]
 
-Depois de um hiato, a banda relançou em 2024 o álbum *Trepanador* nas plataformas digitais e voltou aos palcos.[^fcms2025a][^cgn2025]
+Depois de um hiato, a banda voltou a se apresentar em 2024, ano em que pôs o álbum *Trepanador* de novo nas plataformas digitais.[^fcms2025a][^cgn2025]
 
 ## Tour Feroz
 

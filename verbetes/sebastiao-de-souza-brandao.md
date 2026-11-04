@@ -28,7 +28,7 @@ Em 2014, foi o único selecionado do Centro-Oeste na edição do Revelando os Br
 
 Em novembro de 2016, tocou viola de cocho numa roda de siriri na sede do Iphan em Corumbá, durante o 13º [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^fcms2016] Desde 2014, participa do [[banho-de-sao-joao-de-corumba|Banho de São João]], cantando e tocando no levantamento do mastro, na noite de 23 de junho.[^fcms2025]
 
-Em 2024, levou oficinas de viola de cocho a escolas públicas de Campo Grande, em parceria com a FCMS.[^cgn2024a] Também ensina o ofício a um neto, que dá oficinas de confecção do ganzá.[^cgn2022] Em maio de 2026, no Festival América do Sul, conduziu com a siririeira Carmen Lígia Palhano e o bailarino Kleber Kosta, ambos ligados à [[oficina-de-danca-do-pantanal|Oficina de Dança do Pantanal]], uma oficina de cururu e siriri para alunos da rede municipal, na sede do [[instituto-do-homem-pantaneiro|Instituto do Homem Pantaneiro]], em Corumbá.[^fcms2026a] Na mesma edição, a FCMS fez em sua casa uma vivência cururueira, como ação de salvaguarda da viola de cocho.[^fcms2026b]
+Em 2024, levou oficinas de viola de cocho a escolas públicas de Campo Grande, em parceria com a FCMS.[^cgn2024a] Também ensina o ofício a um neto, que dá oficinas de confecção do ganzá.[^cgn2022] Em 15 de maio de 2026, no Festival América do Sul, conduziu com a siririeira Carmen Lígia Palhano, o bailarino Kleber Kosta e a professora de dança Sara Carolina uma oficina de cururu e siriri para alunos de uma escola municipal, na sede do [[instituto-do-homem-pantaneiro|Instituto do Homem Pantaneiro]], em Corumbá.[^fcms2026a] Na mesma edição, a FCMS fez em sua casa uma vivência cururueira, como ação de salvaguarda da viola de cocho.[^fcms2026b]
 
 ## Casa da Memória
 
@@ -36,7 +36,7 @@ A Casa da Memória Mestre Sebastião Brandão, aberta em novembro de 2023 na res
 
 ## Filmografia
 
-- *[[nos-trilhos-do-trem-fantasma|Nos Trilhos do Trem Fantasma]]* (2014) — curta-metragem do projeto Revelando os Brasis; roteiro e direção. Foi filmado em seis dias nos trilhos da fronteira entre Corumbá e Puerto Quijarro, na Bolívia, com trilha de 15 cururueiros.[^cgn2014b]
+- *[[nos-trilhos-do-trem-fantasma|Nos Trilhos do Trem Fantasma]]* (filmado em 2014) — curta-metragem do projeto Revelando os Brasis; roteiro e direção. Foi filmado em seis dias nos trilhos da fronteira entre Corumbá e Puerto Quijarro, na Bolívia, com trilha de 15 cururueiros.[^cgn2014b]
 
 ## Videografia
 

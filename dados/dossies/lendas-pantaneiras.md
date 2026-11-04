@@ -52,3 +52,10 @@ Fontes descartadas: FCMS 2023 (oficina "Um Pantanal de Histórias") cita lendas 
 ## Uso no verbete
 
 - Entrou tudo acima; ficaram fora telefones de contato, preço de ingresso e depoimentos do público.
+
+## Atualização de 2026-11-04 (revisão)
+
+- Divergência registrada: a FCMS (26/09/2016) divulga a seleção do filme para o 13º FASP (novembro de 2016); a FCMS (28/08/2019) diz que o filme foi exibido no FASP em 2018. As duas versões entram no verbete, sem escolher.
+- Novo dado de fcms2019: dois anos no canal Cine Brasil TV.
+- Sessão de 28/08/2019 era anúncio; reescrita.
+- Festival de Ivinhema: a fonte o chama de "Festival de Cinema do Vale do Ivinhema" (12ª edição); ligado a festival-de-cinema-do-vale-do-ivinhema.

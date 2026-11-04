@@ -44,3 +44,7 @@ Observação: a matéria do Campo Grande News segue o mesmo texto de divulgaçã
 ## Uso no verbete
 
 - Fora: preço do livro, falas sobre infância e família.
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte independente: Google Notícias (RSS) achou só o Campo Grande News (05/10/2024) e o Diário Digital (03/10/2024), ambos com o texto da FCMS. Diário Corumbaense e site da Prefeitura de Corumbá não abriram (erro de proxy e de certificado). Fonte única na prática (release da FCMS).

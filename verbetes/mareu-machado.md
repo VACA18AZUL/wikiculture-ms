@@ -15,13 +15,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o jornal *A Crítica*, formou-se em Comunicação das Artes do Corpo pela PUC-SP, estudou Artes Cênicas no Portsmouth College, na Inglaterra, e fez pós-graduação em Dance in Community no Laban Centre, em Londres, onde recebeu o prêmio Simone Michelle de coreografia. De 2007 a 2010 foi coordenadora artística e professora do Centro de Movimento Deborah Colker, no Rio de Janeiro. Fez residências e workshops em Viena e trabalhou na França.[^acritica2026]
+Segundo o jornal *A Crítica*, é graduada pela PUC-SP no curso de Comunicação das Artes do Corpo. Na Inglaterra, cursou Artes Cênicas no Portsmouth College e, em Londres, a pós-graduação em Dance in Community do Laban Centre, onde ganhou o prêmio de coreografia Simone Michelle. No Rio de Janeiro, deu aulas e coordenou a área artística do Centro de Movimento Deborah Colker de 2007 a 2010. Participou de residências e workshops em Viena e trabalhou na França.[^acritica2026]
 
 O mesmo jornal cita entre seus projetos o Coletivo em Fluxo, que reúne artistas em processos de improvisação, educação somática, dança e criação coletiva, com trabalhos apresentados no Rio de Janeiro, em São Paulo, em Campo Grande e em Montpellier. Seu primeiro projeto de dança, segundo a artista, foi *Curral de Apartação*.[^acritica2026] A Universidade Estadual de Mato Grosso do Sul a apresenta como especialista certificada no método Body-Mind Centering.[^uems2026]
 
-Em 2026, apresentou na [[uems|UEMS]], em Campo Grande, a palestra *Ta Vache em Processo*, sobre a criação de *Ta VACHE*, performance que desenvolveu na França. O trabalho relaciona a vaca, a mulher, a bovinocultura, o mercado da carne e o valor da arte; a artista citou como referências as escritoras bell hooks e Virginie Despentes.[^acritica2026]
+Em 2026, apresentou na [[uems|UEMS]], em Campo Grande, a palestra *Ta Vache em Processo*, sobre a criação de *Ta VACHE*, performance que desenvolveu na França. O trabalho aproxima a figura da vaca e a da mulher e discute a pecuária bovina, o comércio de carne e o valor da arte; a artista citou como referências as escritoras bell hooks e Virginie Despentes.[^acritica2026]
 
-Entre agosto e outubro de 2026, fez residência artística com o grupo de pesquisa Corpo Sendo, da UEMS, coordenado pela professora Dora de Andrade e ligado às licenciaturas em Dança e em Teatro. O trabalho partiu do processo de *Ta VACHE*, descrito pela universidade como solo de dança sobre a condição feminina e as estruturas do patriarcado. O resultado foi mostrado em 4 de novembro de 2026, no espaço Caixa Preta da unidade de Campo Grande, e deve servir de base para um espetáculo do grupo.[^uems2026]
+Entre agosto e outubro de 2026, fez residência artística com o grupo de pesquisa Corpo Sendo, da UEMS, coordenado pela professora Dora de Andrade e ligado às licenciaturas em Dança e em Teatro. O trabalho partiu do processo de *Ta VACHE*, descrito pela universidade como solo de dança que investiga a situação da mulher e o patriarcado. A UEMS anunciou a apresentação do resultado para 4 de novembro de 2026, no espaço Caixa Preta da unidade de Campo Grande; segundo a universidade, o material da residência servirá de base para um futuro espetáculo do grupo.[^uems2026]
 
 ## Espetáculos
 

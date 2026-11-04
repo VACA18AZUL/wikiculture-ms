@@ -22,7 +22,7 @@ Em 2015 dirigiu o curta *[[a-outra-margem|A Outra Margem]]*, filmado em Campo Gr
 
 - *[[a-outra-margem|A Outra Margem]]* (2015) — curta; direção.[^cgn2015][^es2025]
 - *A Casa Sem Separação* (2015) — curta; direção.[^es2025]
-- *De Tanto Olhar o Céu Gastei Meus Olhos* (2017) — curta; direção.[^es2025]
+- *[[de-tanto-olhar-o-ceu-gastei-meus-olhos|De Tanto Olhar o Céu Gastei Meus Olhos]]* (2017) — curta; direção.[^es2025]
 - *A Mulher Que Sou* (2019) — curta; direção.[^es2025]
 - *Solange* (2023) — direção, com Tomás Osten.[^es2025]
 
