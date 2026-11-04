@@ -7,10 +7,6 @@ resumo: "Ecomuseu de arte urbana no complexo ferroviário de Campo Grande, coord
 ficha:
   Local: "Complexo ferroviário, Rua dos Ferroviários (Casa Amarela), Campo Grande"
   Gestão: "Guido Drummond e Tatiana De Conto (Casa Amarela)"
-links:
-  - tipo: instagram
-    url: https://www.instagram.com/casa.amarela.muau/
-    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

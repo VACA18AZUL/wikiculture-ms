@@ -60,3 +60,11 @@ Fontes descartadas: resumo de busca que datava a matéria da onça de 2011 (erro
 | fcms2026 | FCMS, "MIS reabre as portas com exposição sobre a memória da fotografia de MS", 23 fev. 2026 | https://www.fundacaodecultura.ms.gov.br/mis-reabre-as-portas-com-exposicao-sobre-a-memoria-da-fotografia-de-ms/ | sim (só a lista de nomes) |
 
 O que mudou: segunda nota na frase da exposição Fotografia e Memória. A lista de 14 fotógrafos é a mesma de acritica2026 (provável origem comum no release da FCMS), então não é confirmação independente; só mostra que a instituição organizadora também publicou o nome. A identidade com o fotógrafo do Campo Grande News continua sem fonte (nenhuma das duas matérias descreve o André Bittar da lista). Correio do Estado (busca "André Bittar fotógrafo"), UFMS e A Crítica: sem outra matéria sobre o fotógrafo; o Correio do Estado de 17 out. 2026 sobre foto de onça-pintada trata de outro fotógrafo (não relacionado).
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas lidas (API do O Estado MS, busca "André Bittar fotógrafo"):
+- "SOS Pantanal celebra 15 anos com lançamento de livro sobre a preservação do bioma", O Estado MS, 15 mar. 2025 (https://oestadoonline.com.br/arte-e-lazer/sos-pantanal-celebra-15-anos-com-lancamento-de-livro-sobre-a-preservacao-do-bioma/): foto do peão pantaneiro com o gado, por André Bittar, nas primeiras páginas do livro (autora Teté Martinho, mais de 20 fotógrafos).
+- "127 anos de Campo Grande: Araras, alma da Capital", O Estado MS, 26 ago. 2026 (https://oestadoonline.com.br/arte-e-lazer/127-anos-de-campo-grande-araras-alma-da-capital/): entrevista com o fotógrafo sobre fotografar araras na cidade. Menção afetiva a familiar ficou fora (dado pessoal).
+- "Expo 'Fotografia e Memória' começa nesta quinta-feira (26) no MIS", O Estado MS, 25 fev. 2026: mesma lista de 14 nomes do release; não acrescentada.
+Identidade: as duas matérias tratam de fotógrafo de MS ligado à fauna e ao Pantanal, coerente com o perfil do Campo Grande News; nenhuma repete formação ou tempo de fotojornalismo. A formação em publicidade e a trajetória continuam só no Campo Grande News.

@@ -34,3 +34,8 @@ Buscas por "Michel Saddi" (aberta e restrita a Correio do Estado, Campo Grande N
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas no Correio do Estado ("Saddi", "cinejornal"), na Fundação de Cultura de MS e no Crossref (cinejornais/Campo Grande/filme sertanejo): nada além da dissertação de Diehl (UFMS, 2009). Pistas: Campestrini (1976), acervo do MIS-MS, Cinemateca.
+
+## Atualização de 2026-11-04 (r11)
+
+- Fonte nova: Neves (2012), capítulo em *Filmando em Mato Grosso do Sul* (Ed. UFGD), p. 25. Cita Duncan (2006, p. 116): a Cine-Jornal Produções Michel Saddi foi criada em Campo Grande em 1956, entre os maiores expoentes dos cinejornais no estado. Confirma o ano de início dado por Diehl.
+- Acrescentado um parágrafo e a nota [^neves] no lead. Passa a ter duas fontes acadêmicas independentes (Diehl 2009; Neves 2012, via Duncan 2006).

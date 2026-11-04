@@ -22,3 +22,10 @@ Descartadas: CGN conteúdo patrocinado do Araruna Fest (não lido); idade omitid
 
 - Nome da banda própria, discos e títulos de canções não informados. Edições anteriores de FURIOSAS! não documentadas.
 - Wikipédia: não conferida (429).
+
+## Atualização de 2026-11-04 (r8)
+
+- Fontes novas:
+  - Carolina Rampi, "Mulheres da música autoral do Estado se tornam protagonistas em videodocumentário", *O Estado MS*, 28 out. 2026 (https://oestadoonline.com.br/arte-e-lazer/mulheres-da-musica-autoral-do-estado-se-tornam-protagonistas-em-videodocumentario/). Confirma Erica entre as entrevistadas de *CenAlternativa 2*; direção do duo e de Manu Komiyama; cerca de 30 min. O jornal grafa "Vosmecê" e "CenaAlternativa 2" no subtítulo; o verbete mantém a grafia já usada.
+  - Natália Olliver, "Erica Espíndola homenageia Elvis Presley com show gratuito", *Campo Grande News*, 13 abr. 2025: show *Sh\*Elvis* anunciado para 15 abr. 2025 no Sesc Teatro Prosa, com o Consulado dos EUA.
+- A trajetória (baixo, 15 anos de carreira, *FURIOSAS!*) segue só no *Campo Grande News*.

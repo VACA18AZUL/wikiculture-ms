@@ -48,3 +48,7 @@ Verbete apoiado em uma única fonte (Passos, 2013). As outras três tratam de um
 ## Uso no verbete
 
 - Entrou o que vem de Passos. O homônimo de Campo Grande ficou fora. Nomes de primeiras-damas ficaram fora (não são necessários).
+
+## Atualização de 2026-11-04
+
+- Validação: Passos (2013) conferida de novo; busca de segunda fonte (Google Notícias, API do O Estado MS) sem resultado sobre o regente em Porto Murtinho. Continua fonte única.

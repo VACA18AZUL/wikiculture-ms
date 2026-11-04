@@ -41,15 +41,15 @@ Resenha de 2025 conta mais de 14 livros publicados, entre ensaios, romances e es
 - *No Crepúsculo da vida* (2021), *Na sombra do ipê* (2022) e *Jornal de bordo: Brasil de 2021* (2022).[^unifal1]
 - *Nascentes vivas*, para os povos Guarani, Kaiowá e Terena da Reserva de Dourados (2022).[^unifal1]
 - *Mares agitados: na periferia dos anos 1970* (2024), romance inspirado na migração de jovens de Mato Grosso do Sul para São Paulo nos anos 1970.[^unifal1][^unifal2]
-
 - *Lucy Citti Ferreira: a pintora esquecida do modernismo* (2026) — biografia da pintora modernista Lucy Citti Ferreira (1911-2008), feita a partir dos arquivos da artista na Pinacoteca de São Paulo e de entrevistas na França e no Brasil. O debate sobre o livro, com mediação de Alan Silus, foi marcado para 14 de abril de 2026 na [[biblioteca-publica-estadual-dr-isaias-paim|Biblioteca Pública Estadual Dr. Isaías Paim]], em Campo Grande.[^oestado2026]
+
 Em agosto de 2026, o *Correio do Estado* noticiou a chegada ao mercado francês de *Na rota de traficantes de obras de arte*, em tradução pela Hello Éditions, com o título *Au cœur du trafic d'œuvres d'art*.[^ce2026] A protagonista é uma policial federal nascida em Mato Grosso do Sul.[^ce2026]
 
 ## Prêmios
 
 *Mares agitados* recebeu o Prêmio Romance da Academia Internacional de Literatura Brasileira (AILB) em 2025.[^unifal2][^oestado2026]
 
-*Maria d'Apparecida: negroluminosa voz* recebeu o prêmio de biografia da AILB em 2022. *O Estado de Mato Grosso do Sul* também registra o prêmio de romance de 2025 para *Mares agitados*.[^oestado2026]
+*Maria d'Apparecida: negroluminosa voz* recebeu o prêmio de biografia da AILB em 2022.[^oestado2026]
 
 ## Para saber mais
 
