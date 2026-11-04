@@ -39,6 +39,21 @@ Todas da FCMS (órgão do governo). Segunda fonte independente não encontrada: 
 - Nome completo, ano de início, discografia.
 - Segunda fonte independente.
 
+## Acréscimo: Campo Grande News (busca interna funcionou depois)
+
+| id | Referência | URL | Tipo |
+|---|---|---|---|
+| cgn2022a | Samuel Isidoro, "Penúltimo dia de Campão Cultural teve MV Bill recebendo quadro de fã", Campo Grande News, 15 out. 2022 | https://www.campograndenews.com.br/lado-b/diversao/penultimo-dia-de-campao-cultural-teve-mv-bill-recebendo-quadro-de-fa | imprensa (realizado) |
+| cgn2022b | Thailla Torres, "Sarau do Parque leva banda Muchileiros e literatura para bairro Universitário", Campo Grande News, 25 nov. 2022 | https://www.campograndenews.com.br/lado-b/diversao/sarau-do-parque-leva-banda-muchileiros-e-literatura-para-bairro-universitario | imprensa (anúncio) |
+| cgn2023a | Jéssica Fernandes, "Com liberdade até de madrugada, festival lotou com cultura ancestral", Campo Grande News, 18 abr. 2023 | https://www.campograndenews.com.br/lado-b/diversao/com-liberdade-ate-de-madrugada-festival-lotou-com-cultura-ancestral | imprensa (realizado) |
+| cgn2023b | Thailla Torres, "Hoje tem Criolo, Miliano e orquestra indígena no Festival América do Sul", Campo Grande News, 11 nov. 2023 | https://www.campograndenews.com.br/lado-b/diversao/hoje-tem-criolo-miliano-e-orquestra-indigena-no-festival-america-do-sul | imprensa (programação do dia) |
+
+- Show no penúltimo dia do Campão Cultural, sexta 14 out. 2022, com Drik Barbosa e Rashid; MV Bill na mesma noite [cgn2022a].
+- "MC Miliano", artista de Dourados, anunciado na 21ª edição do Sarau no Parque, bairro Universitário, Campo Grande, 27 nov. 2022 [cgn2022b].
+- Entre as atrações do 1º Festop, Dourados, abril de 2023 [cgn2023a] (confirma fcms2023a).
+- FAS 2023: programado para 0h no Palco do Porto, Porto Geral, Corumbá, no terceiro dia (11 nov. 2023) [cgn2023b] (programação; confirma seleção de fcms2023c).
+
 ## Uso no verbete
 
-- Verbete não redigido: só fonte governamental (FCMS). Situação: dossie, à espera de segunda fonte.
+- Entrou: Dourados, Campão Cultural 2021 (escalação) e 2022 (show), Som da Concha 2022, Festop 2023, FAS 2023 (programação), FIB 2023 (suplente), Conexão Urbana 2024 (show e slam), Produza 2025.
+- Fora: nome civil (não informado), adjetivos.

@@ -37,3 +37,8 @@ Descartadas: CE 2013-10-05 (inscrições Mostra Itinerante, nacional, sem Campo 
 
 - 14ª edição: produção local pelo curso de Artes Visuais da UFMS [fcms2024b]; a 13ª cita o curso de Audiovisual [fcms2024a] — edições diferentes, sem conflito.
 - CE 2011: título "até quinta", publicação de 16 nov. e "hoje (19)" no texto — datas internas inconsistentes; usar "novembro de 2011".
+
+## Atualização de 2026-11-04
+
+- Revisão: CE 2010 não cita Campo Grande entre as datas por cidade (só o título fala em vinte capitais); a frase de 2010 passou a anúncio geral (41 filmes, dez países). CE 2013 (28 nov.) e FCMS 12 mar. 2024 são anúncios: "programada". Libras em 2018: "sessões selecionadas" (FCMS 12 nov.) x "todos os filmes" (FCMS 20 nov.); as duas no verbete.
+- 2025: realização do MDHC em parceria com a Universidade Federal do Ceará (FCMS 26 nov. 2025); não entrou no verbete.

@@ -3,7 +3,7 @@ titulo: Sara Welter
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: Artista visual e curadora de Campo Grande, conhecida como Syunoi, que trabalha com desenho, aquarela, pintura e instalação e assinou a cartilha ilustrada Resquícios do Tempo: Complexo Ferroviário (2026).
+resumo: "Artista visual e curadora de Campo Grande, conhecida como Syunoi, que trabalha com desenho, aquarela, pintura e instalação e assinou a cartilha ilustrada Resquícios do Tempo: Complexo Ferroviário (2026)."
 ficha:
   Atividade: Artes visuais, curadoria
   Nome artístico: Syunoi
