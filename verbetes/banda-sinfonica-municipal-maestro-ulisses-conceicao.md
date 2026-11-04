@@ -3,7 +3,7 @@ titulo: Banda Sinfônica Municipal Maestro Ulisses Conceição
 tipo: grupo
 areas: [musica]
 cidade: Campo Grande
-resumo: Banda municipal de Campo Grande, criada em 1976 como Banda Marcial e hoje com formação sinfônica. Regida por Edilson Aspet de Azambuja, completou 50 anos em 2026.
+resumo: Banda municipal de Campo Grande, criada em 1976 como Banda Marcial e hoje com formação sinfônica. Regida por Edilson Aspet de Azambuja, chegou aos 50 anos em 2026.
 ficha:
   Fundação: "1976 (como Banda Marcial de Campo Grande)"
   Regência: Edilson Aspet de Azambuja
@@ -23,7 +23,7 @@ O maestro e diretor artístico é [[edilson-aspet-de-azambuja|Edilson Aspet de A
 
 ## 50 anos
 
-Para marcar os 50 anos, a banda apresentou o concerto *Gospel in Concert*, com versões sinfônicas de música gospel, em 29 de abril de 2026, no Teatro do Paço Municipal, com entrada gratuita. O concerto abriu a temporada 2026 do projeto [[concertos-no-paco|Concertos no Paço]].[^acritica2026]
+Em abril de 2026, *A Crítica* anunciou para 29 daquele mês, no Teatro do Paço Municipal, o concerto *Gospel in Concert*, com versões sinfônicas de música gospel e entrada franca, em comemoração aos 50 anos da banda. O concerto estava previsto como abertura da temporada 2026 do projeto [[concertos-no-paco|Concertos no Paço]].[^acritica2026]
 
 [^acritica2026]: Iury de Oliveira, ["Banda Sinfônica Municipal abre temporada 2026 com concerto pelos 50 anos em Campo Grande"](https://acritica.net/cultura/banda-sinfonica-municipal-abre-temporada-2026-com-concerto-pelos-50-anos/), *A Crítica de Campo Grande*, 24 abr. 2026. Acesso em 4 nov. 2026.
 [^pmcg2026]: ["Meio século em harmonia: a história viva da Banda Sinfônica Municipal"](https://www.campogrande.ms.gov.br/cgnoticias/noticia/meio-seculo-em-harmonia-a-historia-viva-da-banda-sinfonica-municipal/), *CGNotícias*, Prefeitura de Campo Grande, 24 abr. 2026. Acesso em 4 nov. 2026.
