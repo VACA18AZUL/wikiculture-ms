@@ -25,7 +25,7 @@ No longa documental *O Retrato do Erro – A Bruxa da Sapolândia*, dirigido por
 - *Crimes da Cruz* (2023) — documentário em dois episódios; com Isabelle Silva.[^cgn2026a]
 - *[[craveiro-rosa|O Cravo e a Rosa]]* — animação; com Isabelle Silva. Também grafado *Craveiro Rosa* e *Cravo e a Rosa*.[^cgn2026a][^ufms2026]
 - *Meu pai não veio* — curta de ficção, 17 minutos; com Isabelle Silva.[^cgn2026a]
-- *O Retrato do Erro – A Bruxa da Sapolândia* — longa documental; direção de arte.[^pp2026]
+- [[o-retrato-do-erro|*O Retrato do Erro – A Bruxa da Sapolândia*]] — longa documental; direção de arte.[^pp2026]
 
 [^cgn2026a]: Clayton Neves, ["Violência em MS e abandono viram tema de filmes sobre dores sociais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/violencia-em-ms-e-abandono-viram-tema-de-filmes-sobre-dores-sociais), *Campo Grande News*, 26 jan. 2026. Acesso em 4 nov. 2026.
 [^ufms2026]: Universidade Federal de Mato Grosso do Sul, ["Orquestra de Sopros do Pantanal une cinema e concerto no próximo dia 4 no Glauce Rocha"](https://www.ufms.br/orquestra-de-sopros-do-pantanal-une-cinema-e-concerto-no-proximo-dia-4-no-glauce-rocha/), 23 out. 2026. Acesso em 4 nov. 2026.

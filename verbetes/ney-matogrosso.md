@@ -28,7 +28,7 @@ A entrega foi marcada para 26 de março de 2026, em Campo Grande. A UFMS anuncio
 
 ## Filmografia
 
-- *Caramujo-Flor* (1988) — curta de [[joel-pizzini|Joel Pizzini]] com roteiro feito de poemas de [[manoel-de-barros|Manoel de Barros]]; atuação, como o poeta jovem, enquanto Rubens Corrêa faz o poeta velho, segundo Vicelli.[^vicelli][^neves]
+- [[caramujo-flor|*Caramujo-Flor*]] (1988) — curta de [[joel-pizzini|Joel Pizzini]] com roteiro feito de poemas de [[manoel-de-barros|Manoel de Barros]]; atuação, como o poeta jovem, enquanto Rubens Corrêa faz o poeta velho, segundo Vicelli.[^vicelli][^neves]
 - [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; atuação, no papel do padre Patanê, segundo o *Campo Grande News*.[^cgn2026lydia]
 - [[quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae|*Quando o Galo Cantar pela Terceira Vez Renegarás tua Mãe*]] (2017) — longa de Aaron Salles Torres; interpretação da música-tema, composta pelo diretor.[^papo2017galo]
 

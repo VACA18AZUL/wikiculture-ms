@@ -43,7 +43,7 @@ Alan Silus da Cruz Silva dedicou sua dissertação de mestrado em Letras na UEMS
 
 ## Filmografia
 
-- *Caramujo-Flor* (1988) — curta de [[joel-pizzini|Joel Pizzini]] sobre a poesia de [[manoel-de-barros|Manoel de Barros]]; elenco.[^neves][^vicelli]
+- [[caramujo-flor|*Caramujo-Flor*]] (1988) — curta de [[joel-pizzini|Joel Pizzini]] sobre a poesia de [[manoel-de-barros|Manoel de Barros]]; elenco.[^neves][^vicelli]
 
 ## Videografia
 

@@ -36,10 +36,10 @@ Nos anos 1970 e 1980, ficou conhecido como "Rei da Pornochanchada" pelos filmes 
 Títulos filmados em Mato Grosso do Sul, segundo Diehl:[^diehl]
 
 - [[caingangue-a-pontaria-do-diabo|Caingangue – a Pontaria do Diabo]] (1973) — dirigido por Carlos Hugo Christensen; produtora Ipanema Filmes.[^diehl] A Cinemateca Brasileira registra Cardoso como ator, no papel-título, e na direção de produção, com a R. F. Farias como produtora e a Ipanema Filmes como distribuidora.[^cinemateca1]
-- *Caçada Sangrenta* (1974) — dirigido por Ozualdo Candeias; produtora DaCar; primeira produção da DACAR, com Cardoso no papel de Nequinho.[^diehl][^neves]
+- [[cacada-sangrenta|*Caçada Sangrenta*]] (1974) — dirigido por Ozualdo Candeias; produtora DaCar; primeira produção da DACAR, com Cardoso no papel de Nequinho.[^diehl][^neves]
 - [[dezenove-mulheres-e-um-homem|19 Mulheres e um Homem]] (1977) — direção de Cardoso; produtora DaCar.[^diehl] Segundo a Cinemateca, Cardoso também assina a produção e o argumento e faz o papel de Rubens.[^cinemateca2]
 - *[[desejo-selvagem-massacre-no-pantanal|Desejo Selvagem]]* (1979) — longa; direção de Cardoso; produtora DaCar. Neves dá o título *Desejo Selvagem – Massacre no Pantanal* e atribui a Cardoso direção, produção e o papel principal.[^diehl][^neves]
-- *Corpo e Alma de Mulher* (1983) — direção de Cardoso; produtora DaCar; Cardoso faz o papel de Rodrigo.[^diehl][^neves]
+- [[corpo-e-alma-de-mulher|*Corpo e Alma de Mulher*]] (1983) — direção de Cardoso; produtora DaCar; Cardoso faz o papel de Rodrigo.[^diehl][^neves]
 
 A dissertação não detalha a função de Cardoso nos dois primeiros títulos.[^diehl]
 

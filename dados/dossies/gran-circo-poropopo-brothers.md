@@ -29,3 +29,7 @@ Fonte aberta e lida: Daiana Schio, "Encerramento do Boca de Cena surpreende e en
 Sustenta, depois do evento: apresentação em 27/5/2017, 21h30, Plataforma Cultural, lotada; antecedida por *Os Guardiões* (Teatral Grupo de Risco, Teatro Prosa, Sesc Horto, 20h); palhaço Chalita (Dourados) entre os artistas. Nota [^fcms2017] em Apresentação.
 Limite: o folheto e a nota são do mesmo órgão (Fundação de Cultura), então não é fonte de outro veículo; confirma, porém, que a apresentação ocorreu (o folheto só a anunciava). A nota não lista os grupos participantes nem usa "mosaico".
 Fonte relacionada, aberta e não usada: "Espetáculo 'Poropopó Varietê' reúne cinco grupos especialmente para o FIB" (FCMS, 7 jul. 2016) trata de outro espetáculo (Circo do Mato, Le Chapeau, Cia Simbiose, Cia Theastai, 29/7/2016, Bonito); não cita o Gran Circo Poropopó Brothers. Possível ligação entre os dois fica sem confirmação.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN (buscar?q="Poropopó", "Gran Circo", Boca de Cena 2017, Circo do Mato, Le Chapeau circo: resultados de 2024 ou sem relação), API do O Estado MS e do RCN67 (Boca de Cena), RSS do Google Notícias ("Poropopó": só torcida do Corinthians). Nada mudou.

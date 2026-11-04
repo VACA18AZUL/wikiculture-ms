@@ -26,7 +26,7 @@ Em julho de 2026, o site *Primeira Página* apresentou Isabelle como diretora do
 - *[[crimes-da-cruz|Crimes da Cruz]]* (2023) — documentário em dois episódios; com Miya Miyashiro.[^cgn2026]
 - *[[craveiro-rosa|Craveiro Rosa]]*, *O Cravo e a Rosa* ou *Cravo e a Rosa* — animação, com Miya Miyashiro; começou como trabalho de conclusão de curso em 2021.[^cgn2026][^ufms2026]
 - *[[meu-pai-nao-veio|Meu pai não veio]]* — curta de ficção, 17 minutos.[^cgn2026]
-- *O Retrato do Erro – A Bruxa da Sapolândia* — longa documental; direção geral; lançamento ao público previsto para 2027.[^pp2026]
+- [[o-retrato-do-erro|*O Retrato do Erro – A Bruxa da Sapolândia*]] — longa documental; direção geral; lançamento ao público previsto para 2027.[^pp2026]
 
 [^cgn2026]: Clayton Neves, ["Violência em MS e abandono viram tema de filmes sobre dores sociais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/violencia-em-ms-e-abandono-viram-tema-de-filmes-sobre-dores-sociais), *Campo Grande News*, 26 jan. 2026. Acesso em 4 nov. 2026.
 [^pp2026]: ["Documentário revela novo lado da 'Bruxa da Sapolândia' e levanta dúvida: ela era inocente?"](https://primeirapagina.com.br/cinema/documentario-revela-novo-lado-da-bruxa-da-sapolandia-e-levanta-duvida-ela-era-inocente/), *Primeira Página*, 27 jul. 2026. Acesso em 4 nov. 2026.

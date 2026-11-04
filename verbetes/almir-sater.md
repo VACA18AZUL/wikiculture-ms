@@ -45,7 +45,7 @@ Caetano lista três participações em novelas: *Pantanal* (Rede Manchete, 1990)
 
 ## Filmografia
 
-- *Caramujo-Flor* (1988) — curta de [[joel-pizzini|Joel Pizzini]] sobre a poesia de [[manoel-de-barros|Manoel de Barros]]; elenco.[^neves][^vicelli]
+- [[caramujo-flor|*Caramujo-Flor*]] (1988) — curta de [[joel-pizzini|Joel Pizzini]] sobre a poesia de [[manoel-de-barros|Manoel de Barros]]; elenco.[^neves][^vicelli]
 - *Pantanal* (1990) — novela; atuação, personagem Trindade.[^caetano2012ufgd]
 - *Ana Raio & Zé Trovão* (1990-1991) — novela; atuação, personagem Zé Trovão.[^caetano2012ufgd]
 - *O Rei do Gado* (1996-1997) — novela; atuação, personagem Pirilampo.[^caetano2012ufgd]
