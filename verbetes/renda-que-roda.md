@@ -16,7 +16,7 @@ O **Renda que Roda** é o Grupo de Pesquisa em Danças Populares Brasileiras da 
 
 ## Trajetória
 
-Segundo artigo da coordenadora publicado em 2024, o grupo pesquisa desde 2016 as danças brasileiras nos seus aspectos poéticos, cênicos e educacionais. No mesmo artigo, ela diz coordenar o grupo de pesquisa desde 2017.[^urd2024] Um trabalho de mestrado de 2025 dá duas datas: numa nota, diz que o grupo existe desde 2016; no capítulo sobre ele, diz que existe desde 2014 e que nasceu de um projeto de extensão da professora nos cursos de Teatro e Dança da UEMS, em Campo Grande.[^barros2025]
+Segundo artigo da coordenadora publicado em 2024, o grupo pesquisa desde 2016 as danças brasileiras nos seus aspectos poéticos, cênicos e educacionais.[^urd2024] Um trabalho de mestrado de 2025 dá duas datas: numa nota, diz que o grupo existe desde 2016; no capítulo sobre ele, diz que existe desde 2014 e que nasceu de um projeto de extensão da professora nos cursos de Teatro e Dança da UEMS, em Campo Grande.[^barros2025]
 
 O mesmo trabalho, escrito por uma integrante do grupo e orientado pela coordenadora, conta que, no início, as rodas aconteciam em diferentes locais da cidade, no projeto *Dançando nas Praças*, com danças como coco, samba de roda, cacuriá e baião. Em 2015, segundo o texto, o grupo passou a trabalhar em duas frentes: a cênica, ligada à pesquisa de doutorado de Salvador, e a pedagógica, com oficinas e rodas de danças brasileiras em escolas públicas.[^barros2025]
 

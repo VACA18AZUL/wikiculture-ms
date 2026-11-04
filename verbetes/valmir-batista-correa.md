@@ -3,7 +3,7 @@ titulo: Valmir Batista Corrêa
 tipo: pessoa
 areas: [literatura]
 cidade: Corumbá
-resumo: Historiador nascido em Maracaí (SP) em 1946, professor em Corumbá desde os anos 1970, autor de Coronéis e bandidos em Mato Grosso e de Fronteira Oeste; membro da Academia Sul-Mato-Grossense de Letras.
+resumo: Historiador nascido em Maracaí (SP) em 1946, professor em Corumbá a partir dos anos 1970, autor de Coronéis e bandidos em Mato Grosso e de Fronteira Oeste; membro da Academia Sul-Mato-Grossense de Letras.
 ficha:
   Nascimento: "28 de novembro de 1946, Maracaí (SP)"
   Formação: "História (PUC-SP); mestrado e doutorado em História Econômica (USP)"
@@ -29,7 +29,7 @@ Foi secretário municipal de Educação e Cultura de Corumbá entre 1979 e 1980,
 
 - *Corumbá (um esboço histórico)* (1973)[^asl]
 - *Estudos Regionais* (1981)[^asl]
-- *Coronéis e bandidos em Mato Grosso* (1982, mimeografado; UFMS, 1995; 2ª edição, 2006)[^asl]
+- *Coronéis e bandidos em Mato Grosso* (1982, mimeografado; UFMS, 1995). A página da Academia dá a 2ª edição em 2006; a entrevista à *Trilhas da História* diz 2015.[^asl][^trilhas2015]
 - *História e historiografia de uma região* (1985), com Lúcia Salsa Corrêa[^asl]
 - *Memorandum de Manoel Cavassa* (1997), apresentação e notas, com Lúcia Salsa Corrêa[^asl]
 - *Fronteira Oeste* (UFMS, 1999; 2ª edição, Uniderp, 2005)[^asl]

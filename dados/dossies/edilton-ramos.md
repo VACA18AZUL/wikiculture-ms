@@ -35,3 +35,9 @@ Três buscas abertas ("Edilton Ramos" + Paixão de Cristo/Transart; Transarte 45
 - Divergência: folheto "mais de 40 anos de trajetória" x reportagem "59 anos de trabalho" (e, na mesma reportagem, início nos anos 1970). Registrada no verbete com as duas notas.
 - Limite: a FCMS é a mesma instituição que fez o folheto; a fonte não é plenamente independente.
 - Não serviram: Correio do Estado, programação do Boca de Cena 2024 (não cita Edilton); resumos do CGN de 2024 sobre o Transarte (não lidos).
+
+## Atualização de 2026-11-04 (r3-4)
+
+Fonte nova lida (WebFetch): FCMS, "'A Paixão de Cristo' será encenada em Fátima do Sul e Nova Alvorada...", 15 mar. 2016 (cabeçalho; a listagem mostra 22 abr. 2020), https://www.fundacaodecultura.ms.gov.br/a-paixao-de-cristo-sera-encenada-em-fatima-do-sul-e-nova-alvorada-com-apoio-do-governo-do-estado/ (nota fcms2016). Edilton Ramos aparece como diretor e entrevistado; Grupo Transart apresenta; 19 e 20 mar., ~80 integrantes; primeira encenação em 1979; monólogo A Constante Testemunha, 1977.
+Divergência: primeira encenação em 1979 (FCMS 2016) x "39 anos em 2017", isto é, desde 1978 (folheto FCMS 2017). Registrada no verbete.
+Limite: as três fontes do verbete são da própria FCMS (folheto, notícia de 2017, notícia de 2016); não há fonte de outro veículo. Busca por "Edilton Ramos" em A Crítica, O Estado Online, CGN e FCMS sem outro resultado. Situação: reforcar.

@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em entrevista ao Omelete, contou que cresceu vendo os filmes da Sessão da Tarde e que estudou dramaturgia durante anos antes de passar a fazer filmes para o público familiar.[^omelete2025]
+Em entrevista ao Omelete, contou que cresceu vendo os filmes da Sessão da Tarde e que estudou dramaturgia por anos. Disse que, como realizador, quer fazer filmes de entretenimento para a família e para o público jovem.[^omelete2025]
 
 *Enigmas no Rolê* mistura aventura, comédia e desafios de lógica e se dirige ao público infantojuvenil. A ideia do roteiro veio de um curso na escola Supera, que usa desafios de lógica com os alunos. O filme teve recursos do FIC-MS e de dois editais da Lei Paulo Gustavo. Em outubro de 2024, a estreia estava anunciada para 10 de novembro, em transmissão no YouTube.[^cgn2024]
 

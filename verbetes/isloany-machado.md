@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-*Voo Solo* é o quarto livro dela. Antes, publicou *Costurando Palavras*, *Em defesa dos avessos humanos* e *Nau dos Amoucos*. Um conto de *Voo Solo* foi finalista do Prêmio Off Flip de 2022.[^cgn2023]
+*Voo Solo* é o quarto livro dela. Também é autora de *Costurando Palavras*, *Em defesa dos avessos humanos* e *Nau dos Amoucos*. Um conto de *Voo Solo* foi finalista do Prêmio Off Flip de 2022.[^cgn2023]
 
 A revista *Stylus*, de psicanálise, publicou em 2024 uma resenha de *Voo solo* que lê os textos do livro como poemas em prosa; a referência da resenha dá a edição como de Belo Horizonte, pela Cas'a, em 2022.[^stylus2024]
 

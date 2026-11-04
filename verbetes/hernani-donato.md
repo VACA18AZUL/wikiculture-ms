@@ -2,7 +2,7 @@
 titulo: Hernâni Donato
 tipo: pessoa
 areas: [literatura]
-resumo: Escritor e historiador paulista (morto em 2012), autor do romance Selva Trágica, sobre os ervais do sul de Mato Grosso; membro da Academia Sul-Mato-Grossense de Letras, na cadeira 1.
+resumo: Escritor e historiador (morto em 2012), autor do romance Selva Trágica, sobre os ervais do sul de Mato Grosso; membro da Academia Sul-Mato-Grossense de Letras, na cadeira 1.
 ficha:
   Morte: "2012"
   Atividade: "Romance, conto, história, jornalismo"
@@ -15,11 +15,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Hernâni Donato** (também grafado Hernani Donato) foi um escritor paulista, autor de contos, romances, livros infantojuvenis, biografias e obras de história, com mais de 73 publicações. Morreu em 2012.[^marin2015] Sua ligação com Mato Grosso do Sul vem do romance *Selva Trágica*, sobre os ervais da fronteira com o Paraguai, e da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], onde ocupou a cadeira 1.[^marin2015][^aslcad]
+**Hernâni Donato** (também grafado Hernani Donato) foi um escritor, autor de contos, romances, livros infantojuvenis, biografias e obras de história, com mais de 73 publicações. Morreu em 2012.[^marin2015] Escreveu o romance *Selva Trágica*, sobre os ervais da fronteira com o Paraguai, e ocupou a cadeira 1 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^marin2015][^aslcad]
 
 ## Trajetória
 
-Foi jornalista, relações públicas, produtor cultural, crítico literário, sociólogo e historiador. Estudou na Escola Livre de Sociologia e Política de São Paulo nos anos 1940. Integrou academias de letras de São Paulo, de Santos, de Mato Grosso do Sul e de Brasília.[^marin2015]
+Foi jornalista, relações públicas, produtor cultural, crítico literário, sociólogo e historiador. Nos anos 1940, cursou até o terceiro ano da Escola Livre de Sociologia e Política de São Paulo. Foi membro das academias de letras de Brasília, Santos, São Paulo e Mato Grosso do Sul, entre outras entidades.[^marin2015]
 
 Em 13 de outubro de 1972 esteve na sessão de instalação da Academia de Letras e História de Campo Grande, hoje Academia Sul-Mato-Grossense de Letras, como representante da Academia Paulista de Letras.[^aslhist] A Academia sul-mato-grossense o lista entre os antecessores da cadeira 1, ao lado de Antônio Lopes Lins e [[manoel-de-barros|Manoel de Barros]].[^aslcad]
 

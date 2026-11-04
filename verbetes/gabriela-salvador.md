@@ -15,13 +15,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a nota biográfica de um artigo seu de 2024, é bacharel e licenciada em Dança e mestre e doutora em Artes da Cena pela Universidade Estadual de Campinas (Unicamp). No mesmo texto, ela conta que vive em Mato Grosso do Sul desde 2012 e que estuda desde 2007, quando fazia o mestrado, caminhos de composição coreográfica a partir do acesso ao inconsciente.[^urd]
+Segundo a nota biográfica de um artigo seu de 2024, é bacharel e licenciada em Dança e mestre e doutora em Artes da Cena pela Universidade Estadual de Campinas (Unicamp). No mesmo texto, ela conta que vive em Mato Grosso do Sul desde 2012 e que, desde a pesquisa de mestrado, em 2007, estuda formas de criar coreografias com base no acesso ao inconsciente.[^urd]
 
-Coordena na universidade o grupo de pesquisa em danças populares brasileiras [[renda-que-roda|Renda que Roda]], inscrito no CNPq, que desde 2016 investiga as danças brasileiras e suas possibilidades cênicas e educacionais.[^urd]
+Coordena na universidade o grupo de pesquisa em danças populares brasileiras [[renda-que-roda|Renda que Roda]], inscrito no CNPq, que pesquisa desde 2016 as danças brasileiras nos seus aspectos cênicos e educacionais.[^urd]
 
 Em 2023, fez pesquisa de pós-doutorado sobre a cosmovisão do povo Terena de Mato Grosso do Sul. A parte prática foi uma composição coreográfica criada a partir de vivências na aldeia Lagoinha e dançada em parceria com Jonatas Moreira, chamado Ya, morador da aldeia e integrante do grupo de pesquisa. O artigo publicado na revista *Urdimento* em abril de 2024 relata essa pesquisa.[^urd]
 
-Em novembro de 2025, o *Campo Grande News* anunciou para o dia 6, no auditório da UEMS, a estreia de *[[yakamokeno|Yakámokeno]]*, solo de [[ya-moreira|Yá Moreira]] dirigido por Gabriela Salvador e ligado ao grupo Renda que Roda. Segundo ela, o espetáculo nasce do cruzamento entre o mito coletivo e a história pessoal do intérprete.[^cgn2025]
+Em novembro de 2025, o *Campo Grande News* anunciou para o dia 6, no auditório da UEMS, a estreia de *[[yakamokeno|Yakámokeno]]*, solo de [[ya-moreira|Yá Moreira]] dirigido por Gabriela Salvador e ligado ao grupo Renda que Roda. Segundo ela, a obra junta o mito coletivo à trajetória pessoal do intérprete.[^cgn2025]
 
 ## Espetáculos
 

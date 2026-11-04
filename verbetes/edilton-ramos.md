@@ -23,6 +23,8 @@ Em 2017, completavam-se 39 anos da *Paixão de Cristo* encenada por ele. Segundo
 
 Em 1991, Ramos criou o texto *A última noite de Sodoma*, a partir do episódio bíblico de Sodoma e Gomorra. O folheto relata que a peça causou reação em Campo Grande e foi impedida de ser apresentada um dia depois da estreia. Ela seguiu para Dourados e Cuiabá.[^folheto]
 
+Em março de 2016, a FCMS anunciou a *Paixão de Cristo* do Grupo Transart, dirigida por ele, para 19 e 20 de março em Nova Alvorada do Sul e Fátima do Sul, com cerca de 80 integrantes entre atores e figurantes. Segundo o texto, a primeira encenação foi em 1979 e a ideia nasceu de um monólogo, *A Constante Testemunha*, de 1977, que ele encenou sozinho por três anos antes de montar o espetáculo completo. Essa data difere do cálculo do folheto de 2017 (39 anos, ou seja, desde 1978); as duas versões ficam registradas e as fontes não as conciliam.[^fcms2016]
+
 O folheto atribui a ele a criação, em 1973, do Grupo Transart, que apresentou espetáculos de apelo comercial sobre questões familiares e ambientais, como *Conflitos de Geração* e *Doutor Urubulino Polu*.[^folheto]
 
 A homenagem ocorreu na abertura oficial da mostra, em 22 de maio de 2017, no Teatro Glauce Rocha, junto com o Grupo Palco e o Mágico Tabajara.[^folheto][^fcms]
@@ -31,8 +33,9 @@ Ver também: [[grupo-teatral-palco|Grupo Teatral Palco]].[^folheto]
 
 ## Espetáculos
 
-- *Paixão de Cristo* (desde 1978, pelo cálculo de 39 anos em 2017) — encenação.[^folheto]
+- *Paixão de Cristo* (desde 1978, pelo cálculo de 39 anos em 2017; 1979 segundo a FCMS em 2016) — encenação.[^folheto][^fcms2016]
 - *A última noite de Sodoma* (1991) — texto.[^folheto]
 
 [^folheto]: Fundação de Cultura de Mato Grosso do Sul, [folheto da Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), 2017, seções "Homenageados" e programação. Acesso em 29 out. 2026.
 [^fcms]: Karina Lima, ["Noite foi de homenagens na abertura do Boca de Cena no Teatro Glauce Rocha"](https://www.fundacaodecultura.ms.gov.br/noite-foi-de-homenagens-na-abertura-do-boca-de-cena-no-teatro-glauce-rocha/), Fundação de Cultura de Mato Grosso do Sul, 23 mai. 2017. Acesso em 4 nov. 2026.
+[^fcms2016]: Fundação de Cultura de Mato Grosso do Sul, ["'A Paixão de Cristo' será encenada em Fátima do Sul e Nova Alvorada com apoio do Governo do Estado"](https://www.fundacaodecultura.ms.gov.br/a-paixao-de-cristo-sera-encenada-em-fatima-do-sul-e-nova-alvorada-com-apoio-do-governo-do-estado/), 15 mar. 2016 (data do cabeçalho da página; a listagem de busca do site mostra 22 abr. 2020). Acesso em 4 nov. 2026.

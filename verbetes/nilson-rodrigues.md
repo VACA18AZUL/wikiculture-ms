@@ -2,7 +2,7 @@
 titulo: Nilson Rodrigues
 tipo: pessoa
 areas: [audiovisual]
-resumo: Produtor, exibidor e gestor cultural ligado à criação do Festival de Inverno de Bonito e do Festcine Pantanal; fundador e diretor do festival Bonito CineSur, criado em 2023.
+resumo: Produtor, exibidor e gestor cultural ligado à criação do Festival de Inverno de Bonito e do Festcine Pantanal; idealizador e diretor do festival Bonito CineSur, criado em 2023.
 ficha:
   Atividade: "Produção, exibição e gestão cultural"
 status: rascunho
@@ -17,9 +17,9 @@ Segundo o Correio do Estado, concebeu o [[festival-de-inverno-de-bonito|Festival
 
 Em 2003, na quarta edição do Festival de Inverno de Bonito, era diretor do evento e estava à frente da organização desde a primeira edição. O tema daquele ano foi "A Água e o Futuro do Planeta".[^tribuna2003]
 
-Fundou o cinema Cine Cultura, em Campo Grande, e depois o Cine Cultura Liberty Mall, em Brasília. Coordenou e dirigiu edições do Festival de Brasília do Cinema Brasileiro e integrou a diretoria colegiada da Agência Nacional do Cinema (Ancine) de 2005 a 2009.[^ce2026]
+Fundou o cinema Cine Cultura, em Campo Grande, e depois o Cine Cultura Liberty Mall, em Brasília. Coordenou e dirigiu edições do Festival de Brasília do Cinema Brasileiro. De 2005 a 2009, fez parte da diretoria colegiada da Ancine.[^ce2026]
 
-É fundador e diretor do [[bonito-cinesur|Bonito CineSur]], festival de cinema sul-americano criado em Bonito em 2023.[^ce2026][^cgn2023]
+Idealizou e dirige o [[bonito-cinesur|Bonito CineSur]], festival de cinema sul-americano criado em Bonito em 2023.[^ce2026][^cgn2023]
 
 ## Filmografia
 
