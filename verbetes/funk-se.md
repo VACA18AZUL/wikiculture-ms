@@ -19,6 +19,9 @@ Em novembro de 2016, o Campo Grande News disse que Edson Clair estava havia 20 a
 
 Em outubro de 2010, o Correio do Estado informou que o [[ms-street-dance-fest|MS Street Dance Fest]] era promovido pelo grupo Funk-se por meio do Fundo de Investimentos Culturais de MS (FIC-MS), com programação de 11 a 15 de novembro, no Teatro Arena do Horto Florestal.[^ce2010] Em abril de 2022, o Campo Grande News disse que a 11ª edição do MS Dance Fest era promovida pelo Grupo Funk-se na Praça do Rádio Clube.[^cgn2022]
 
+Em novembro de 2025, o *Campo Grande News* apresentou o bailarino Kleiton Medina como integrante do Funk-se havia mais de dez anos e como um dos organizadores do MS Dance Fest. Ele dançou na terceira noite do festival daquele ano, em coreografia que reuniu colegas do grupo e convidados. Na mesma reportagem, Edson Clair é chamado de idealizador do MS Dance Fest.[^cgn2025]
+
 [^cgn2016]: Thailla Torres, ["Com competições e aulas também para crianças, começa MS Street Dance Fest"](https://www.campograndenews.com.br/lado-b/diversao/com-competicoes-e-aulas-tambem-para-criancas-comeca-ms-street-dance-fest), *Campo Grande News*, 19 nov. 2016. Acesso em 29 out. 2026.
 [^ce2010]: ["Festival de dança de rua recebe inscrições até hoje"](https://correiodoestado.com.br/correio-b/festival-de-danca-de-rua-recebe-inscricoes-ate-hoje/82188/), *Correio do Estado*, 29 out. 2010. Acesso em 29 out. 2026.
 [^cgn2022]: Thailla Torres, ["MS Dance Fest volta de 21 a 24 de abril na Praça do Rádio Clube"](https://www.campograndenews.com.br/lado-b/diversao/ms-dance-fest-volta-de-21-a-24-de-abril-na-praca-do-radio-clube), *Campo Grande News*, 19 abr. 2022. Acesso em 29 out. 2026.
+[^cgn2025]: Thailla Torres, ["Após acidente, Kleiton retorna aos palcos e transforma desafio em dança"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/apos-acidente-kleiton-retorna-aos-palcos-e-transforma-desafio-em-danca), *Campo Grande News*, 29 nov. 2025. Acesso em 4 nov. 2026.
