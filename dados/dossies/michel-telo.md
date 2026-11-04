@@ -36,3 +36,7 @@
 ## Uso no verbete
 
 - Ficaram de fora: números de público, visualizações, vendas e programas de TV (detalhe promocional); irmão empresário (vida familiar); links de Spotify da página (não abertos).
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Frases parafraseadas; nota ufms passou a p. 60-61 e 69.

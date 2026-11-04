@@ -40,3 +40,8 @@ Ligações possíveis não feitas (só o título coincide; a fonte não diz o gr
 
 - 1ª edição (ano, local); vencedores de 2023; se o festival se realizou como programado.
 - Wikipédia pt: sem artigo.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Resumo reescrito; campo da ficha virou "Edital de 2023".
+- Segunda grafia do título registrada no item.

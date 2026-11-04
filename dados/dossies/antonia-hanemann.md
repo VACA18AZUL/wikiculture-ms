@@ -50,3 +50,7 @@ Fontes descartadas: três buscas abertas ("Antonia Hanemann", "Wormesbeker", com
 ## Uso no verbete
 
 - Verbete curto redigido só com o catálogo (fonte única, como em outros verbetes do mesmo catálogo). Precisa de segunda fonte.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- "a escritora" retirado; nota passou a p. 3-4 e 13-14.

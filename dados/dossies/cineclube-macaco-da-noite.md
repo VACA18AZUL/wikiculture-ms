@@ -30,3 +30,12 @@
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Buscas abertas (cineclube, Hotel Virgínia, Conselho Nacional de Cineclubes, Bianca Machado): só o CGN de 11 set. 2024. Nada mudou.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fontes de outros veículos (abertas e lidas):
+- Prefeitura de Corumbá, "Cine Helô Urt, na praça CEU, tem exibição de dois curtas nesta quinta-feira, dia 27", 27 nov. 2025. https://corumba.ms.gov.br/noticias/cine-helo-urt-na-praca-ceu-tem-exibicao-de-dois-curtas-nesta-quinta-feira-dia-27 (cineclube surgiu em 2022 pela Cia. de Teatro Maria Mole; sessão de dois curtas).
+- Rosana Nunes, "Equipe de 'Quatro Luas Pantaneiras' retorna ao Pantanal para ciclo de exibições comunitárias", Diário Corumbaense, 17 nov. 2025. https://diarionline.com.br/?id=154109&s=noticia (menção de serviço: 4ª exibição do ciclo, 21/11/2025, 20h, Prainha do Porto Geral, no cineclube).
+- Maria Eduarda Metran, "Cinema Gratuito: Praça CEU recebe exibição de filme premiado no Festival do Rio", Corumbá Online, 27 ago. 2026. https://www.corumbaonline.com.br/news/cinema-gratuito-praca-ceu-recebe-exibicao-de-filme-premiado-no-festival-do-rio/ (exibição de *Criadas*, parceria Vitrine Filmes, Bianca Machado coordenadora, derivado da Boemia Cultural).
+Sustentam: existência e continuidade do cineclube em 2022 (prefeitura), 2025 e 2026; vínculo com Maria Mole e Bianca Machado (confirma o CGN de 2024).
+Não usada: Diário Digital (mesma matéria do CGN, republicação). A data exata da primeira exibição (14/4/2022) e as nove exibições continuam só no CGN.

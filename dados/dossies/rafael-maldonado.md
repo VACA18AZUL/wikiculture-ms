@@ -37,3 +37,7 @@ Descartadas: busca "Rafael Duailibi Maldonado" sem resultado; matéria Campão C
 ## Uso no verbete
 
 - 4MÚLTIPLOS entra como exposição anunciada (fonte é anúncio). Na mostra de gravuras de 2023, só que ele apresentou a mostra à imprensa; não se diz curadoria.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Nota marco passou a p. 53-54.

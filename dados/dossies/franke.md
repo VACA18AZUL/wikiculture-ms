@@ -46,3 +46,7 @@ Fontes descartadas: Juliana Franke (cantora de Brasília, homônima); resultados
 ## Uso no verbete
 
 - Entraram os fatos de cgn2022. Fonte única; ce2022 fica só no dossiê até alguém confirmar a identidade.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Resumo reescrito com atribuição à imprensa; "daquele ano" retirado; "tarde" virou "programação".

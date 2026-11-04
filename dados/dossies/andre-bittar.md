@@ -48,3 +48,7 @@ Fontes descartadas: resumo de busca que datava a matéria da onça de 2011 (erro
 ## Uso no verbete
 
 - Entraram formação, trajetória no fotojornalismo e na fotografia ambiental, os registros de 2022 e 2023 e a lista do MIS-MS (atribuída). Ficou fora a idade.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Frase passou a "o Campo Grande News publicou registros seus"; painel "previsto".

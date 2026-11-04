@@ -32,3 +32,7 @@ Fontes descartadas:
 ## Uso no verbete
 
 - Entrou o conteúdo do catálogo, sem adjetivos ("singular", "destaca-se").
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Frase parafraseada; linha cidade retirada; nota passou a p. 3-4 e 27-28.

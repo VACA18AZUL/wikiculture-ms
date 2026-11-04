@@ -39,3 +39,7 @@ Descartadas: busca aberta trouxe só homônimos (Clara de Cápua, nascida em 198
 ## Uso no verbete
 
 - Tudo acima entrou, menos a comparação com Jorapimo.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Trecho retirado; nota marco passou a p. 19-20.

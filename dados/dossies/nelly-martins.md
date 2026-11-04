@@ -57,3 +57,7 @@ Fontes descartadas:
 ## Uso no verbete
 
 - Entrou tudo acima, com a homenagem de 2026 redigida como anúncio. Ficou fora qualquer dado de vida familiar.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- "escreveu"; frase da cadeira reescrita; nota passou a p. 3-4 e 49-50.

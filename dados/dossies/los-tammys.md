@@ -44,3 +44,7 @@ Fontes descartadas: duas buscas abertas ("Los Tammy's" com Pedro Juan Caballero/
 ## Uso no verbete
 
 - Entrou o essencial; adjetivos promocionais da descrição (marco, ousadia) ficaram fora.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Frases reescritas (formação em formato de lista com parênteses; "interior paraguaio"); pioneirismo "no país e em Mato Grosso".

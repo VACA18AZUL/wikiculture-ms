@@ -31,3 +31,7 @@ Descartadas: resultados sobre "Priscilla de Paula" da UFJF (Juiz de Fora) são o
 ## Uso no verbete
 
 - Entrou tudo acima, exceto numeração das Fábulas Instantâneas (lista longa; uma legenda traz ano "202", incompleto).
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Nota passou a p. 3-4 e 51-52.

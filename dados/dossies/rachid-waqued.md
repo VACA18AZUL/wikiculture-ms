@@ -42,3 +42,7 @@ Obs.: o HTML das páginas da FCMS veio vazio no curl; o texto foi lido pela API 
 ## Uso no verbete
 
 - Painel coletivo citado no verbete; Bolivar Porto, Luiz Felipe Mendes e Sebastião Guimarães ficam incorporados aqui (só nome nas fontes).
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Painel passou a "os anúncios previam"; frase da curadoria reescrita.

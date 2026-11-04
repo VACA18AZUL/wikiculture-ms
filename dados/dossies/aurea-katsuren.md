@@ -36,3 +36,7 @@ Buscas ("Aurea Katsuren", "Áurea Katsuren" restauradora/pintora, Katsuren + Lí
 ## Uso no verbete
 
 - Entrou tudo acima, sem o adjetivo "conceituada" do catálogo. Data e ano da restauração não constam.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Trecho retirado; nota passou a p. 3-4 e 15-16.

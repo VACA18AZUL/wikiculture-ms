@@ -47,3 +47,7 @@ Busca aberta pelos títulos não trouxe outra fonte.
 
 - Entrou: tudo acima.
 - Ficou de fora: profissão anterior (escrivã aposentada da Polícia Civil), por não ser trajetória cultural; idade exata não dita.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova aproveitável. Buscas nas páginas de busca do Correio do Estado e da Fundação de Cultura de MS por "Maria de Lourdes da Costa", "Cortina da Alma", "Véu do Luar", "Palavras Além do Tempo", "Academia de Letras de Dourados" e "Felit-MS 2022": resultados sem relação (a busca dos sites é difusa) ou sem menção à autora. Nada mudou no verbete. Pistas: Dourados Agora, site da Academia de Letras de Dourados, catálogo da Vida Produções.

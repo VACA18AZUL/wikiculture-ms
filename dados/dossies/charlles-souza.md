@@ -44,3 +44,7 @@ Fontes descartadas: buscas por "Palhaço Challito", "Charlles de Souza Santos" e
 ## Uso no verbete
 
 - Entraram boca2017 e cgn2022. cgn2018 só no dossiê.
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Trajetória e resumo reescritos como programação ("o folheto o listou", "esteve na programação").

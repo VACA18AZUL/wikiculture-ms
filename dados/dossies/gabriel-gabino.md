@@ -39,3 +39,7 @@
 ## Uso no verbete
 
 - Entrou tudo, exceto idade e as viagens de infância com o pai (vida familiar).
+
+## Validação de 2026-11-04 (valn-10b)
+
+- Frase passou a "listou o nome Gabriel Gabino", sem afirmar além da lista.
