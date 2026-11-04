@@ -3,7 +3,7 @@ titulo: "Tekoha – Ritual de vida e morte do Deus Pequeno"
 tipo: obra
 areas: [teatro]
 cidade: Campo Grande
-resumo: "Espetáculo do Teatro Imaginário Maracangalha, de Campo Grande, dirigido por Fernando Cruz, sobre a trajetória do líder guarani Marçal de Souza e a luta pela terra; apresentado em mostras de MS entre 2016 e 2025."
+resumo: "Espetáculo do Teatro Imaginário Maracangalha, de Campo Grande, dirigido por Fernando Cruz, sobre a trajetória do líder guarani Marçal de Souza e a luta pela terra; programado em mostras e festivais de MS entre 2016 e 2025."
 ficha:
   Grupo: "Teatro Imaginário Maracangalha"
   Direção: "Fernando Cruz"
@@ -12,11 +12,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Tekoha – Ritual de vida e morte do Deus Pequeno*** é um espetáculo do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]], grupo de Campo Grande. Conta a trajetória do líder guarani [[marcal-de-souza|Marçal de Souza]] e sua resistência na luta pela terra e pelos direitos dos povos indígenas.[^folheto]
+***Tekoha – Ritual de vida e morte do Deus Pequeno*** é um espetáculo do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]], grupo de Campo Grande. O tema é a vida do líder guarani [[marcal-de-souza|Marçal de Souza]], que resistiu na disputa pela terra e pelos direitos indígenas.[^folheto]
 
 ## O espetáculo
 
-Segundo o folheto da [[mostra-boca-de-cena|Mostra Boca de Cena]] de 2017, o título remete à palavra guarani *tekoha*, a terra tradicional, espaço de pertencimento onde os guarani vivem o seu modo de ser; *teko* quer dizer modo de estar, sistema, lei, costume.[^folheto]
+Segundo o folheto da [[mostra-boca-de-cena|Mostra Boca de Cena]] de 2017, o título vem da palavra guarani *tekoha*, que designa a terra tradicional, o lugar a que a cultura guarani pertence e onde se vive o modo de ser guarani; *teko* tem sentidos como modo de estar, sistema, lei e costume.[^folheto]
 
 ## Equipe (ficha de 2017)
 

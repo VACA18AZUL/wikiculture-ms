@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou a trajetória profissional no Grupo Circênico 2005, onde trabalhou com arte de rua: palhaçaria, circo e teatro.[^even3]
+Começou a trajetória profissional no [[grupo-circenico-2005|Grupo Circênico 2005]], onde trabalhou com arte de rua: palhaçaria, circo e teatro.[^even3]
 
 Atua como artista docente na Prefeitura de Três Lagoas, com projetos de teatro e circo nas escolas. Em resumo publicado em anais de evento acadêmico, com vínculo à UNESP, descreveu aulas de circo dadas por ele na rede municipal dentro do projeto de educação integral da Secretaria de Educação, com malabares, acrobacias, equilibrismo, palhaçaria e ilusionismo.[^even3]
 

@@ -3,7 +3,7 @@ titulo: Marcelo Gerônimo
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Violoncelista e professor de Campo Grande, integrante da Orquestra Sinfônica Municipal desde 2007 e criador do projeto Orquestra de Violoncelos de Campo Grande.
+resumo: Violoncelista e professor de Campo Grande. Entrou na Orquestra Sinfônica Municipal em 2007 e montou o projeto Orquestra de Violoncelos de Campo Grande, de aulas gratuitas do instrumento.
 ficha:
   Atividade: Violoncelo; ensino de música
   Grupos: "[[orquestra-sinfonica-de-campo-grande|Orquestra Sinfônica Municipal de Campo Grande]]"
@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou a estudar música aos 10 anos, no violino, e passou ao violoncelo em 2004. Sem professores do instrumento em Campo Grande, foi a São Paulo fazer aulas. Em 2007 entrou para a [[orquestra-sinfonica-de-campo-grande|Orquestra Sinfônica Municipal de Campo Grande]] e, em 2012, formou-se em Música pela Universidade Federal de Mato Grosso do Sul.[^cgn2021]
+Começou a estudar música aos 10 anos, no violino, e passou ao violoncelo em 2004. Sem professores do instrumento em Campo Grande, foi a São Paulo fazer aulas. Ingressou em 2007 na [[orquestra-sinfonica-de-campo-grande|Orquestra Sinfônica Municipal de Campo Grande]] e, em 2012, formou-se em Música pela Universidade Federal de Mato Grosso do Sul.[^cgn2021]
 
-É o responsável pelo projeto Orquestra de Violoncelos de Campo Grande, que dá aulas gratuitas do instrumento aos sábados no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. Em agosto de 2021, o projeto atendia 21 alunos, de 10 a 60 anos, em duas turmas, e a matéria do Campo Grande News registrava que ele o havia montado cinco anos antes.[^cgn2021]
+Em 2021, era o responsável pelo projeto Orquestra de Violoncelos de Campo Grande, que dava aulas gratuitas do instrumento aos sábados no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. Em agosto de 2021, o projeto atendia 21 alunos, de 10 a 60 anos, em duas turmas, e a matéria do Campo Grande News registrava que ele o havia montado cinco anos antes.[^cgn2021]
 
 No [[encontro-com-a-musica-classica|Encontro com a Música Clássica]], estava na programação de 2015 como um dos solistas, ao lado de Henrique Lucena, do concerto de Vivaldi para dois violoncelos em sol menor, na 9ª edição.[^cgn2015] Em junho de 2024, no concerto de lançamento da 17ª edição, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], tocou como solista o "Noturno" de Tchaikovsky, em transcrição para violoncelo e orquestra de cordas.[^ce2024]
 

@@ -23,7 +23,7 @@ Em artigo da *Revista Arte da Cena*, o doutorado pela PUC-Rio aparece como Educa
 
 Coordenou o projeto de extensão *Redescobrindo o circo como recurso pedagógico*, ligado ao curso de Educação Física da UFMS.[^urd]
 
-Em julho de 2018, a UFMS informou que ele coordenava o projeto *Ginástica Geral e Atividade Circense*, em funcionamento desde abril daquele ano no Campus do Pantanal, e que dentro dele se formou o grupo de ginástica circense [[los-pantaneiros|Los Pantaneiros]].[^ufms2018] Um texto de extensão da equipe o identifica como coordenador da ação, aprovada no edital de extensão de 2018, com Sarita de Mendonça Baciotti na vice-coordenação.[^unirv]
+Em julho de 2018, a UFMS informou que ele coordenava o projeto *[[projeto-ginastica-geral-e-atividade-circense|Ginástica Geral e Atividade Circense]]*, em funcionamento desde abril daquele ano no Campus do Pantanal, e que dentro dele se formou o grupo de ginástica circense [[los-pantaneiros|Los Pantaneiros]].[^ufms2018] Um texto de extensão da equipe o identifica como coordenador da ação, aprovada no edital de extensão de 2018, com Sarita de Mendonça Baciotti na vice-coordenação.[^unirv]
 
 Em 2025, a UFMS o apresentou como professor e coordenador do projeto ao qual se liga o *[[pequenos-pantaneiros|Pequeños Pantaneiros]]*, oferta de atividades circenses para crianças surgida em 2023.[^ufms2025]
 

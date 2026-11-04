@@ -16,7 +16,7 @@ O **Espaço de Dança Suzana Leite** é uma escola de dança de Campo Grande, co
 
 ## Trajetória
 
-Em janeiro de 2022, o espaço mantinha os grupos Adagio e Maktub, com aulas de balé clássico de [[yasmin-salame|Yasmin Salame]] e de dança contemporânea de Paulo Oliveira, para bailarinos de 12 a 27 anos. Naquele mês, quase todas as seis coreografias que Yasmin inscreveu por vídeo foram selecionadas para o Prêmio Nacional Desterro, em Florianópolis, com 23 bailarinas; o grupo dançava em semáforos da Avenida Afonso Pena para custear a viagem.[^cgn2022]
+Em janeiro de 2022, [[yasmin-salame|Yasmin Salame]] dava aulas de balé clássico aos grupos Adagio e Maktub, do espaço, e Paulo Oliveira ensinava dança contemporânea a bailarinos de 12 a 27 anos. Naquele mês, quase todas as seis coreografias que Yasmin inscreveu por vídeo foram selecionadas para o Prêmio Nacional Desterro, em Florianópolis, com 23 bailarinas; o grupo dançava em semáforos da Avenida Afonso Pena para custear a viagem.[^cgn2022]
 
 Em setembro de 2024, o [[grupo-sanssouci|Grupo Sanssouci]], do espaço, representou Campo Grande no Concurso Internacional de Danças (CIAD), em Buenos Aires. Foi a primeira participação do grupo, de balé clássico e jazz, num concurso internacional. As 11 coreografias apresentadas, todas com músicas brasileiras, foram premiadas, num total de 13 prêmios: sete ouros, duas pratas, melhor grupo de jazz na categoria maiores três e melhor grupo de solistas.[^cgn2024a]
 
