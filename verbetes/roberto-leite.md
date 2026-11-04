@@ -22,7 +22,7 @@ Em dezembro de 2025, *Olhos Fechados* (2025) foi incluído na seleção da Mostr
 
 ## Filmografia
 
-- *Formoso* — curta-metragem de ficção, 13 min; direção.[^selecionados]
+- [[formoso-curta|O Formoso (curta-metragem)]] — curta-metragem de ficção, 13 min; direção, segundo a lista de selecionados de 2024, que grafa o título como *Formoso*.[^selecionados]
 - *Olhos Fechados* (2025) — filme; direção.[^cinemadesala]
 
 [^acritica2026]: Rafael Rodrigues, ["Cinema de MS vive fase de expansão com novos editais e mais produções locais"](https://acritica.net/noticias/cinema-de-ms-vive-fase-de-expansao-com-novos-editais-e-mais-producoes-locais/), *A Crítica de Campo Grande*, 20 jun. 2026. Acesso em 4 nov. 2026.

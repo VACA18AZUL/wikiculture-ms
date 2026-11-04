@@ -5,10 +5,10 @@ areas: [artes-plasticas]
 cidade: Campo Grande
 resumo: Pintor e desenhista autodidata nascido em Campo Grande em 1959, com obra no acervo do MARCO.
 ficha:
-  Nome completo: Carlos Alberto Nunes Carneiro
-  Nascimento: 7 de agosto de 1959
-  Naturalidade: Campo Grande
-  Atividade: Pintura e desenho
+  Nome completo: "Carlos Alberto Nunes Carneiro"
+  Nascimento: "7 de agosto de 1959"
+  Naturalidade: "Campo Grande"
+  Atividade: "Pintura e desenho"
 status: rascunho
 atualizado: 2026-11-04
 ---

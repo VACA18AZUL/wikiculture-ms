@@ -45,3 +45,13 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entraram os fatos acima, exceto produtores de O Burguês Fidalgo (detalhe) e idade.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Fonte nova lida (WebFetch): Karina Lima, "Lançamento do documentário 'Onde você estava?' foi de muita emoção, com homenagens para o professor Roberto Figueiredo", FCMS, 19 dez. 2024, https://www.fundacaodecultura.ms.gov.br/lancamento-do-documentario-onde-voce-estava-foi-de-muita-emocao-com-homenagens-para-o-professor-roberto-figueiredo/ (nota fcms2024).
+
+Acrescentado: documentário *Onde você estava?* (direção dele, lançado em 18 dez. 2024, Teatro Aracy Balabanian, 10 entrevistas sobre a divisão de MT); direção da peça *Ato de Sobrevivência* (Magno Martins), estreia 29 nov. 2024; professor da UCDB, coordenador do curso de História; descrito como "recém-falecido" (sem data de morte). Identidade: professor UCDB + História + trecho da peça apresentado pelo Senta que o Leão é Manso; a notícia NÃO diz que ele fundou ou dirigia o grupo (o verbete mantém isso só pela fonte do Campo Grande News).
+
+Fonte institucional (FCMS), de outro veículo e de outro período; serve de segunda fonte para o perfil. Situação: pronto-para-lote.
+
+Buscas sem resultado: FCMS "Senta que o Leão é Manso" (nenhum). Não lidos: UCDB (site não localizado).

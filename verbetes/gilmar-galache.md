@@ -31,6 +31,7 @@ Galache coordenou, com Eliel Benites, o fórum mais recente do FIDA, realizado n
 - *Tatatĩn Rape, o Caminho da Fumaça* (2022) — direção coletiva; edição, junto com Ademilson Concianza Verga e Gilearde Barbosa.[^tese-2022]
 - *Mitã karai: batismo da criança* (2023) — direção coletiva; finalização.[^tese-2022]
 - *Ñanderekoete – nosso verdadeiro jeito de ser* (2023) — direção coletiva; finalização.[^tese-2022]
+- [[jakaira|*Jakaira*]] (2019) — documentário de 16 minutos; direção coletiva da ASCURI; fotografia e montagem, com [[ademilson-kiki-concianza|Kiki Concianza]] (a fotografia também com [[renan-braga|Renan Braga]]).[^fdoc] [Assistir no YouTube](https://www.youtube.com/watch?v=FfnUSfl-7uA)
 
 [^tese-fundacao]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, p. 170-171. Acesso em 29 out. 2026.
 [^tese-fida]: Corrêa, tese citada, 2023, seção 2.2.2.8, p. 142-143. Acesso em 29 out. 2026.
@@ -39,4 +40,5 @@ Galache coordenou, com Eliel Benites, o fórum mais recente do FIDA, realizado n
 [^tese-2022]: Corrêa, tese citada, 2023, p. 198-200, incluindo as notas 416, 421 e 422. Acesso em 29 out. 2026.
 [^tese-jepeayta]: Corrêa, tese citada, 2023, nota 353, p. 167. Acesso em 29 out. 2026.
 [^tese-pirakua]: Corrêa, tese citada, 2023, nota 373, p. 178. Acesso em 29 out. 2026.
+[^fdoc]: Fórum.doc.BH, acervo, ["Jakaira (2019)"](https://acervo.forumdoc.org.br/movie/jakaira/), ficha e sinopse do filme. Acesso em 4 nov. 2026.
 [^geminis]: Miguel Angelo Corrêa e Álvaro Banducci Júnior, ["Convergência midiática e apropriação das novas tecnologias pelos povos indígenas de Mato Grosso do Sul: perspectivas para o surgimento de um 'cinema de índio'?"](https://revistageminis.ufscar.br/index.php/geminis/article/download/275/245/984), *Revista GEMInIS*, ano 7, n. 2, 2016, p. 189-214. Acesso em 29 out. 2026.

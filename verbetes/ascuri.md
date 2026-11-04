@@ -32,6 +32,7 @@ O coletivo realiza oficinas de audiovisual em aldeias. Em 2013, fez uma oficina 
 - *Yvy reñoi, semente da terra* (2016) — curta de 15 minutos, dirigido e produzido coletivamente pela ASCURI sob orientação do conselho Aty Guasu.[^tese213]
 - *Jerosy Puku, O Grande Canto* (2017) — filme da ASCURI, dirigido por um integrante do coletivo; a fonte não traz outros dados.[^tese132]
 - *Ta'anga ymã – Imagens nunca morrem* (2021) — filme de 21 minutos, realizado pela ASCURI e pela Ladrak.[^tese267]
+- [[jakaira|*Jakaira*]] (2019) — documentário de 16 minutos; direção coletiva e produção.[^fdoc] [Assistir no YouTube](https://www.youtube.com/watch?v=FfnUSfl-7uA)
 
 ## Para saber mais
 
@@ -49,5 +50,6 @@ O coletivo realiza oficinas de audiovisual em aldeias. Em 2013, fez uma oficina 
 [^art203]: Corrêa e Banducci, *Revista GEMInIS*, ano 7, n. 2, p. 203. Acesso em 4 nov. 2026.
 [^tese178]: Corrêa, *Achegas*, UFGD, 2023, p. 178-179. Acesso em 4 nov. 2026.
 [^tese213]: Corrêa, *Achegas*, UFGD, 2023, p. 213 (nota 437). Acesso em 4 nov. 2026.
+[^fdoc]: Fórum.doc.BH, acervo, ["Jakaira (2019)"](https://acervo.forumdoc.org.br/movie/jakaira/), ficha e sinopse do filme. Acesso em 4 nov. 2026.
 [^tese132]: Corrêa, *Achegas*, UFGD, 2023, p. 132. Acesso em 4 nov. 2026.
 [^tese267]: Corrêa, *Achegas*, UFGD, 2023, p. 267 (referências) e p. 225. Acesso em 4 nov. 2026.

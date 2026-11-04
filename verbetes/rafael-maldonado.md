@@ -29,7 +29,7 @@ Em 2023, como professor do curso, apresentou à imprensa da universidade a mostr
 
 Em 2025 participou da mostra *Matéria Pictórica*, que marcou os 45 anos do curso de Artes Visuais, ao lado de Isaac Camargo, [[priscilla-pessoa|Priscilla Pessoa]] e do convidado Antônio Junior. Mostrou a série *Entre vestígios*, em que usa técnicas de mezzotinta sobre tecidos impregnados de tinta para criar paisagens a partir de fundos escuros.[^ufms2025]
 
-[^marco]: Fundação de Cultura de MS, [*MARCO 30 anos: catálogo comemorativo*](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf), 2021, p. 53. Acesso em 4 nov. 2026.
+[^marco]: Fundação de Cultura de MS, [*MARCO 30 anos: catálogo comemorativo*](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf), 2021, p. 53-54. Acesso em 4 nov. 2026.
 [^gav2022]: Curso de Artes Visuais da UFMS, ["Inauguração da Galeria de Artes Visuais (GAV) na UFMS"](https://artesvisuais-faalc.ufms.br/inauguracao-da-galeria-de-artes-visuais-gav-na-ufms/), 12 abr. 2022. Acesso em 4 nov. 2026.
 [^ufms2023]: Proece/UFMS, ["Galeria de Artes Visuais apresenta gravuras de artistas brasileiros"](https://proece.ufms.br/galeria-de-artes-visuais-apresenta-gravuras-de-artistas-brasileiros/), 4 abr. 2023. Acesso em 4 nov. 2026.
 [^ufms2025]: Lúcia Santos, ["Exposição Matéria Pictórica celebra 45 anos do curso de Artes Visuais"](https://www.ufms.br/exposicao-materia-pictorica-celebra-45-anos-do-curso-de-artes-visuais/), UFMS, 1 set. 2025. Acesso em 4 nov. 2026.

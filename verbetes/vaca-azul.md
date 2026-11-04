@@ -36,6 +36,7 @@ Uma playlist de filmes, documentários, curtas e videodanças reúne 24 vídeos 
 - *De Passagem* (2015) — videodança da [[cia-dancurbana|Cia Dançurbana]], segundo o título do vídeo.[^v3] [Assistir no YouTube](https://www.youtube.com/watch?v=s32-QlEr5N4)
 - *Estudos de Superfície* (2013) — videodança do Ginga, segundo o título do vídeo.[^v4] [Assistir no YouTube](https://www.youtube.com/watch?v=-hgXkjk4C_U)
 - *Plataforme-se: os limites elásticos* (2017) — videodança, segundo o título do vídeo.[^v5] [Assistir no YouTube](https://www.youtube.com/watch?v=SNofVYQMVTU)
+- [[avenida-afonso-pena-clipe|Avenida Afonso Pena (videoclipe)]] (2025) — videoclipe; direção de [[helton-perez|Hélton Perez]], descrito como do grupo Vaca Azul.[^cgn2025a]
 
 [^canal]: Vaca Azul, ["Sobre"](https://www.youtube.com/@vaca18azul), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
 [^pl]: Vaca Azul, ["Filmes | Documentários | Curta-metragens | Videodanças"](https://www.youtube.com/playlist?list=PLkNLlECYU3UlvSjycx3HvbJj5JaFmQfwi), playlist do canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
@@ -44,4 +45,5 @@ Uma playlist de filmes, documentários, curtas e videodanças reúne 24 vídeos 
 [^v3]: Vaca Azul, ["Cia Dançurbana – De Passagem – Videodanças – 2015"](https://www.youtube.com/watch?v=s32-QlEr5N4), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
 [^v4]: Vaca Azul, ["Ginga – Videodança – Estudos de Superfície – 2013"](https://www.youtube.com/watch?v=-hgXkjk4C_U), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
 [^v5]: Vaca Azul, ["Vídeodança – Plataforme-se – Os limites elásticos – 2017"](https://www.youtube.com/watch?v=SNofVYQMVTU), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
+[^cgn2025a]: Thailla Torres, ["Clipe musical presta homenagem à Avenida Afonso Pena com vozes líricas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/clipe-musical-presta-homenagem-a-avenida-afonso-pena-com-vozes-liricas), *Campo Grande News*, 2 ago. 2025. Acesso em 4 nov. 2026.
 [^boca2017]: ["Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017"](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto da programação (PDF no site da UFMS), p. 10 (créditos). Acesso em 4 nov. 2026.

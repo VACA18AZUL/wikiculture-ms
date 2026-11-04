@@ -15,7 +15,7 @@ A **Cia de Teatro do Mundo**, também chamada Cia Teatro do Mundo, é uma compan
 
 ## Trajetória
 
-Em junho de 2022, a programação da [[mostra-boca-de-cena|Mostra Boca de Cena]], montada em três palcos na Praça Ary Coelho, previa para as 10h de 25 de junho o espetáculo *Dom Quixote*, da Cia de Teatro do Mundo, com 45 minutos de duração, abrindo o segundo dia da mostra.[^cgn2022]
+Em junho de 2022, a programação da [[mostra-boca-de-cena|Mostra Boca de Cena]], montada em três palcos na Praça Ary Coelho, previa para as 10h de 25 de junho o espetáculo *Dom Quixote*, da "Cia de Teatro do Mundo" (grafia da matéria, que não informa a cidade do grupo), com 45 minutos de duração, abrindo o segundo dia da mostra.[^cgn2022]
 
 Em 2023, Fernando Lopes Lima contou ao *Campo Grande News* que havia lançado em dezembro do ano anterior a peça *Como Nascem as Estrelas*, sobre a atriz [[glauce-rocha|Glauce Rocha]], que ficou oito meses em cartaz. Segundo a mesma reportagem, ele inaugurou na Cia Teatro do Mundo uma sala com o nome da atriz.[^cgn2023]
 

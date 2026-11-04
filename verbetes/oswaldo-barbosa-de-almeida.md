@@ -23,7 +23,7 @@ Tomou posse na ASL em 23 de fevereiro de 2018, saudado pelo acadêmico [[rubenio
 ## Publicações
 
 - *Memórias... e outras histórias* (2011), Editora Life, Campo Grande, 340 p. — livro de memórias, que parte da experiência pessoal e profissional do autor para tratar de lugares, costumes e fatos.[^asl]
-- *Sobre Corujas e outras espécies* (2014), Gibim Gráfica e Editora, Campo Grande, 174 p. — reúne crônicas e artigos publicados na imprensa ao longo de cerca de três anos, uma resenha histórica sobre o sistema constitucional brasileiro e seis contos.[^asl]
+- *Sobre Corujas e outras espécies* (2014), Gibim Gráfica e Editora, Campo Grande, 174 p. — reúne crônicas e artigos publicados na imprensa ao longo de cerca de três anos, um texto de retrospecto histórico do regime constitucional do Brasil e seis contos.[^asl]
 
 [^asl]: Academia Sul-Mato-Grossense de Letras, ["Oswaldo Barbosa de Almeida – Cadeira nº 3"](https://acletrasms.org.br/portfolio-item/oswaldo-barbosa-de-almeida/), *acletrasms.org.br*. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Sylvia Cesco é eleita nova imortal da Academia Sul-Mato-Grossense de Letras"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sylvia-cesco-e-eleita-nova-imortal-da-academia-sul-mato-grossense-de-letras), *Campo Grande News*, 22 dez. 2023. Acesso em 4 nov. 2026.

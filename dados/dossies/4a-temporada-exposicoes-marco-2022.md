@@ -47,3 +47,12 @@ Duas matérias do mesmo veículo; a segunda cita "publicação do governo estadu
 ## Uso no verbete
 
 - Entrou tudo acima.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Fontes novas lidas (Fundação de Cultura de MS, veículo diferente do Campo Grande News):
+
+- Gisele Colombo, "MARCO abre amanhã a 4ª Temporada de Exposições de 2022", FCMS, 29 nov. 2022 (https://www.fundacaodecultura.ms.gov.br/marco-abre-amanha-a-4a-temporada-de-exposicoes-de-2022/). Texto de divulgação, é a origem do trecho do CGN (lote do Itaú Cultural, 22 museus, 50 obras, artistas citados). Não é fonte independente do CGN; acrescenta a descrição de Retrato Falado. Telefone do programa educativo não usado.
+- Karina Medeiros de Lima, "MARCO abre quarta temporada de exposições 2022", FCMS, 1º dez. 2022 (https://www.fundacaodecultura.ms.gov.br/marco-abre-quarta-temporada-de-exposicoes-2022/). Reportagem do evento: abertura em 30/11/2022; Wendel Fontes único artista presente; coordenadora Lúcia Monte Serrat; ciclo de quatro temporadas de 2022 que deveriam ter sido em 2020. Falas de parentes de Fabiana Silveira e de visitantes: fora do verbete (vida familiar/terceiros).
+
+Resolvido: a abertura em 30/11/2022 foi realizada. Continua sem fonte o encerramento em 12/2/2023 (só anúncio; a reportagem de 1/12 repete o período anunciado).

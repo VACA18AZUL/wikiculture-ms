@@ -21,12 +21,12 @@ Meses antes, Laura Santoro o convidou para dirigir *Como Nascem as Estrelas*, cu
 
 Em abril de 2023, *Como Nascem as Estrelas* estava entre os dez espetáculos selecionados para o 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]], na categoria adulto, com sessão marcada para 26 de abril no Teatro Glauce Rocha.[^cgn2023b]
 
-Em 2026, aparecia entre os artistas criadores listados pela Cia Teatro do Mundo para *Nós*, monólogo com Isac Zampieri.[^acritica2026]
+Em 2026, um "Fernando Lopes", sem sobrenome completo, aparecia entre os artistas criadores listados pela Cia Teatro do Mundo, companhia que ele dirigia em 2023, para *Nós*, monólogo com Isac Zampieri; a fonte não diz se é o mesmo diretor.[^acritica2026]
 
 ## Espetáculos
 
 - *Como Nascem as Estrelas* (2022) — direção; texto e atuação de Laura Santoro.[^cgn2022][^cgn2023]
-- *Nós* (2026) — um dos artistas criadores; Cia Teatro do Mundo.[^acritica2026]
+- *Nós* (2026) — "Fernando Lopes" listado entre os artistas criadores; Cia Teatro do Mundo.[^acritica2026]
 
 [^cgn2022]: Thailla Torres, ["Grupo visita túmulo de Glauce Rocha e pede bênção para espetáculo"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grupo-visita-tumulo-de-glauce-rocha-e-pede-bencao-para-espetaculo), *Campo Grande News*, 31 jul. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Jéssica Fernandes, ["Glauce Rocha inspira peça e deve ser 'referência' para nova geração"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/glauce-rocha-inspira-peca-e-deve-ser-referencia-para-nova-geracao), *Campo Grande News*, 26 set. 2023. Acesso em 4 nov. 2026.

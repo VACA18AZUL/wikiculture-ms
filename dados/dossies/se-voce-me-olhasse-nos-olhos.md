@@ -53,3 +53,14 @@ Fontes descartadas: nenhuma. As duas fontes são do mesmo veículo.
 ## Uso no verbete
 
 - Tudo acima entrou. Nomes do elenco sem verbete ficaram sem link, exceto os já existentes.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Fontes novas lidas (Fundação de Cultura de MS, veículo diferente do Campo Grande News):
+
+- FCMS, 14 abr. 2015, apresentação em Dourados, Ponta Porã e Sidrolândia (https://www.fundacaodecultura.ms.gov.br/com-investimento-da-fcms-ginga-apresenta-se-voce-me-olhasse-nos-olhos-em-dourados-ponta-pora-e-sidrolandia/). Release do grupo ("com informações da assessoria"): estreia em março de 2014 em Campo Grande pelo Prêmio Célio Adolfo 2013; 2015 pelo prêmio 2014; oito bailarinos; Rosas danst Rosas; trilha dos anos 70-90.
+- FCMS, 22 ago. 2016, "Ginga impressiona público na Morada dos Baís durante Semana pra Dança" (Alexander Onça): reportagem do evento, apresentação em 19/08/2016 no Sesc Morada dos Baís. A matéria cita homenagem a uma fundadora do grupo falecida em 2016: dado de falecimento, fora do verbete.
+- FCMS, 13 set. 2016, Circuito Dança no Mato 2016: 15/9 Dourados (Clube Indaiá), 17/9 Caarapó, 18/9 Rio Brilhante; oficina "Corpo Aberto". Anúncio.
+- FCMS, 3 nov. 2016, FASTP 2016 (13 e 14/11, anúncio).
+
+Nota: o texto institucional de 2015 e 2016 repete a descrição do release do grupo. A reportagem de 22/8/2016 é a única que confirma uma apresentação realizada. A estreia de março de 2014 só é confirmada retrospectivamente (texto de 2015); a CGN de 8/3/2014 é anúncio. Divergência de grafia: "Renata Leone" (FCMS 2015/2016) x "Renata Leoni" (CGN); o verbete usa Leoni. As demais datas (Dourados 2015, Circuito 2016, FASTP) são programação anunciada.

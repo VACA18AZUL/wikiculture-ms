@@ -61,3 +61,11 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo acima. Realização atribuída à Ofit só com base na fonte de 2023, dito no texto.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fontes independentes do Campo Grande News (abertas e lidas), ambas da Fundação de Cultura de MS (Karina Medeiros de Lima):
+- "Projeto Campo Grande em Cena começa nesta quinta-feira...", 4 nov. 2021. https://www.fundacaodecultura.ms.gov.br/projeto-campo-grande-em-cena-comeca-nesta-quinta-feira-com-uma-programacao-recheada-de-muita-arte-cultura-e-oficinas/
+- "Inscrições para apresentações no 'Campo Grande em Cena' continuam até dia 12", 7 out. 2021. https://www.fundacaodecultura.ms.gov.br/inscricoes-para-apresentacoes-no-campo-grande-em-cena-continuam-ate-dia-12/
+Sustentam: criação de Nill Amaral, direção executiva de Tetê Irie, parceria Sesc MS, FIC/MS (edição 2019), locais (Sesc Cultura; Centro Cultural José Octávio Guizzo), data por espetáculo, oficinas, inscrições até 12/10 para produções de 2019 a 2021.
+Divergência de datas: FCMS (4/11/2021) diz 4 a 13 de novembro no texto e 3 a 13 no quadro de serviço; CGN (19/10/2021) diz 3 e 13. Registradas no verbete. Ficha ("Datas: 3 e 13 de novembro") mantida; ver observações. A fonte FCMS não usa a palavra "realização"; sustenta o vínculo com Nill Amaral/Cia. Ofit pelo espetáculo da Ofit na programação e pela direção de Nill Amaral.

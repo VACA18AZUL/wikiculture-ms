@@ -3,7 +3,7 @@ titulo: Sérgio Cruz
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: Jornalista, escritor e pesquisador da história de Mato Grosso e Mato Grosso do Sul, ocupante da cadeira 22 da Academia Sul-Mato-Grossense de Letras e ex-deputado.
+resumo: Jornalista, escritor e pesquisador da história de Mato Grosso e Mato Grosso do Sul, ocupante da cadeira 22 da Academia Sul-Mato-Grossense de Letras.
 ficha:
   Nome completo: Sergio Manoel da Cruz
   Nascimento: Salgueiro (PE)
@@ -23,11 +23,9 @@ atualizado: 2026-11-04
 
 Nasceu em Salgueiro, em Pernambuco, e mora em Campo Grande desde 1963. É graduado em Ciências Econômicas pela Universidade de Marília (SP) e em Ciência Política pela Uninter (PR). É associado do [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]] e filiado à Associação Nacional de História (ANPUH) e à Associação Brasileira de Ciência Política.[^asl]
 
-Teve mandatos parlamentares. O *Campo Grande News* informa que ele foi deputado na última legislatura de Mato Grosso antes da divisão, de 1975 a 1979, e na primeira legislatura de Mato Grosso do Sul, quando foi líder da minoria na Assembleia Constituinte.[^cgn2024] A página da ASL fala em um mandato de deputado federal por Mato Grosso e em mandatos de deputado estadual e de deputado federal por Mato Grosso do Sul.[^asl]
-
 ## Obra
 
-O lançamento de *A História da Fundação de Mato Grosso do Sul* foi marcado para 10 de abril de 2024, no saguão da Assembleia Legislativa de Mato Grosso do Sul. Segundo o autor, o livro resulta de 40 anos de estudo e trata da criação do estado a partir do movimento divisionista, desde os últimos anos do Império até a divisão, com uma parte sobre o Território Federal de Ponta Porã, de 1943. O texto parte de um conjunto de verbetes sobre a história do estado que já tinha dado origem a outros livros dele.[^cgn2024]
+O lançamento de *A História da Fundação de Mato Grosso do Sul* foi marcado para 10 de abril de 2024, no saguão da Assembleia Legislativa do estado. Segundo o autor, o livro resulta de 40 anos de estudo e trata da criação do estado a partir do movimento divisionista, desde os últimos anos do Império até a divisão, com uma parte sobre o Território Federal de Ponta Porã, de 1943. O texto parte de um conjunto de verbetes sobre a história do estado que já tinha dado origem a outros livros dele.[^cgn2024]
 
 *Campo Grande, Força & Luz* trata da história da eletrificação de Campo Grande, do tempo da iluminação a querosene até a ligação com o sistema de Urubupungá, em 1969. Foi lançado em 2023, no centenário da primeira usina hidrelétrica da cidade, e relançado no fim de 2025 com recursos da Política Nacional Aldir Blanc, em parceria com a Fundação de Cultura de Mato Grosso do Sul.[^acritica2026]
 

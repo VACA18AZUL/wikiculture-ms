@@ -5,10 +5,10 @@ areas: [artes-plasticas]
 cidade: Campo Grande
 resumo: Gravadora nascida em Bragança (PA) em 1951 e radicada em Campo Grande desde 1983, com trabalho em xilogravura, linóleo e gravura em metal; tem obra no acervo do MARCO.
 ficha:
-  Nome completo: Lusia da Silva Sant'Anna
-  Nascimento: 13 de dezembro de 1951
-  Naturalidade: Bragança (PA)
-  Atividade: Gravura e aquarela
+  Nome completo: "Lusia da Silva Sant'Anna"
+  Nascimento: "13 de dezembro de 1951"
+  Naturalidade: "Bragança (PA)"
+  Atividade: "Gravura e aquarela"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]], formou-se em Economia pela Universidade da Amazônia. A gravura figurativa é uma de suas linguagens principais, com xilogravura, linóleo e gravura em metal, além da aquarela. O catálogo afirma que seu trabalho já foi premiado em exposições fora do Brasil, sem citar quais.[^marco30]
+Segundo o catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]], formou-se em Economia pela Universidade da Amazônia. A gravura figurativa é uma de suas linguagens principais, com xilogravura, linóleo e gravura em metal, além da aquarela. O catálogo afirma que seu trabalho já foi premiado em exposições fora do Brasil.[^marco30]
 
 ## Obras
 

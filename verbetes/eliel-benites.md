@@ -32,6 +32,7 @@ Coordenou, com Galache, a edição mais recente do [[fida|FIDA]] citada na tese,
 - *Pirakuá – Os Guardiões do Rio Apa* (2014) — documentário curto, direção de Gilmar Galache; tradução de Eliel Benites.[^correa6]
 - *Tatatĩn Rape, o Caminho da Fumaça* (2022) — direção coletiva; roteiro de Eliel Benites e Gilearde Barbosa.[^correa7]
 - *Mitã karai: batismo da criança* (2023) — direção coletiva; roteiro de Eliel Benites e Gilearde Barbosa.[^correa8]
+- [[jakaira|*Jakaira*]] (2019) — documentário de 16 minutos; direção coletiva da ASCURI; orientação de roteiro.[^fdoc] [Assistir no YouTube](https://www.youtube.com/watch?v=FfnUSfl-7uA)
 
 [^correa]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, UFGD, 2023, p. 151, nota 328. Acesso em 4 nov. 2026.
 [^correa2]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 151-152 e notas 328 e 384. Acesso em 4 nov. 2026.
@@ -41,4 +42,5 @@ Coordenou, com Galache, a edição mais recente do [[fida|FIDA]] citada na tese,
 [^correa6]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 178, nota 373. Acesso em 4 nov. 2026.
 [^correa7]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 198, nota 416. Acesso em 4 nov. 2026.
 [^correa8]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 199, nota 421. Acesso em 4 nov. 2026.
+[^fdoc]: Fórum.doc.BH, acervo, ["Jakaira (2019)"](https://acervo.forumdoc.org.br/movie/jakaira/), ficha e sinopse do filme. Acesso em 4 nov. 2026.
 [^ruris]: Elis Fernanda Corrado e Aline Castilho Crespe, ["Entrevista: Eliel Benites"](https://econtents.sbu.unicamp.br/inpec/index.php/ruris/article/view/18688), *Ruris*, Campinas, v. 14, n. 2, 2022 (publicado em 2024), p. 149-182. Acesso em 4 nov. 2026.

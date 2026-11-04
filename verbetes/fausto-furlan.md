@@ -6,8 +6,8 @@ cidade: Campo Grande
 resumo: Pintor e cenógrafo nascido na Itália em 1927, radicado em Campo Grande, autor de paisagens urbanas da cidade e participante da exposição de artistas mato-grossenses de 1966.
 ficha:
   Nascimento: "1927"
-  Naturalidade: Oderzo (Itália)
-  Atividade: Pintura e cenografia
+  Naturalidade: "Oderzo (Itália)"
+  Atividade: "Pintura e cenografia"
 status: rascunho
 atualizado: 2026-11-04
 ---

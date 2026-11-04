@@ -47,10 +47,15 @@ Tem também livros em coautoria, como *Uma saga do cotidiano* (2010, novela sat�
 - *A arte maior de Rubenio Marcelo & Jorge Sales* — CD.[^asl]
 - *Parcerias: na poética musical de Rubenio Marcelo* (2018) — CD lançado em 20 fev. 2018 no Sesc Morada dos Baís, em Campo Grande.[^asl]
 
+## Videografia
+
+- [[avenida-afonso-pena-clipe|Avenida Afonso Pena (videoclipe)]] (2025) — videoclipe da canção de Marcelo Fernandes; letra.[^cgn2025a]
+
 ## Prêmios e honrarias
 
 A Academia registra, entre outros, o 1.º lugar na XVII Noite Nacional da Poesia (UBE/Funcesp, 2004), o 1.º lugar em poesia no concurso "Abrace um Autor" (2017) e o terceiro lugar em poesia do Prêmio Amazônia de Literatura (2018). Recebeu ainda o título de Cidadão Sul-Mato-Grossense (2010) e o de Cidadão Campo-Grandense (2011).[^asl]
 
 [^asl]: ["Rubenio Marcelo"](https://acletrasms.org.br/portfolio-item/rubenio-marcelo/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 35. Acesso em 29 out. 2026.
 [^pp2024]: Alexia Schumacher e Cristiano Arruda, ["Novo livro de Rubenio Marcelo tem textos inéditos e seleção de obras"](https://primeirapagina.com.br/literatura/novo-livro-de-rubenio-marcelo-traz-textos-ineditos-e-selecao-de-obras-anteriores/), *Primeira Página*, 10 mai. 2024. Acesso em 4 nov. 2026.
+[^cgn2025a]: Thailla Torres, ["Clipe musical presta homenagem à Avenida Afonso Pena com vozes líricas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/clipe-musical-presta-homenagem-a-avenida-afonso-pena-com-vozes-liricas), *Campo Grande News*, 2 ago. 2025. Acesso em 4 nov. 2026.
 [^oe2024]: Juliana Aguiar, ["Literatura: Rubenio Marcelo e Ana Maria Bernardelli lançam parceria literária com livro 'Almar'"](https://oestadoonline.com.br/arte-e-lazer/literatura-rubenio-marcelo-e-ana-maria-bernardelli-lancam-parceria-literaria-com-livro-almar/), *O Estado MS*, 7 out. 2024. Acesso em 4 nov. 2026.

@@ -5,10 +5,10 @@ areas: [artes-plasticas]
 cidade: Campo Grande
 resumo: Pintor, desenhista e arquiteto nascido em San José de Chiquitos (Bolívia) em 1954, criado em Corumbá, com obra no acervo do MARCO.
 ficha:
-  Nome completo: José Abílio Escalante Ribeiro
-  Nascimento: 20 de abril de 1954
-  Naturalidade: San José de Chiquitos (Bolívia)
-  Atividade: Pintura, desenho e arquitetura
+  Nome completo: "José Abílio Escalante Ribeiro"
+  Nascimento: "20 de abril de 1954"
+  Naturalidade: "San José de Chiquitos (Bolívia)"
+  Atividade: "Pintura, desenho e arquitetura"
 status: rascunho
 atualizado: 2026-11-04
 ---

@@ -22,3 +22,10 @@ Abertos e lidos (sem menção ao espetáculo):
 - CGN 28 mar. 2018 e 25 jun. 2022; Correio do Estado 29 mar. 2018 e 6 mai. 2024; FCMS 22 jun. 2022 e 21 maio 2024: outras edições; sem o espetáculo.
 - Resumo de busca (FCMS): "Espetáculo de Mentalismo encerra Mostra Boca de Cena" é de 2024. O encerramento de 2017 não foi localizado.
 Nada alterado. Segue fonte única (folheto FCMS 2017). "reforcar". Pista: matérias de 27-28 maio 2017 (FCMS, Agência de Notícias, Correio do Estado).
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fonte aberta e lida: Daiana Schio, "Encerramento do Boca de Cena surpreende e encanta público com Teatro e Circo", Fundação de Cultura de MS, 28 maio 2017. https://www.fundacaodecultura.ms.gov.br/encerramento-do-boca-de-cena-surpreende-e-encanta-publico-com-teatro-e-circo/
+Sustenta, depois do evento: apresentação em 27/5/2017, 21h30, Plataforma Cultural, lotada; antecedida por *Os Guardiões* (Teatral Grupo de Risco, Teatro Prosa, Sesc Horto, 20h); palhaço Chalita (Dourados) entre os artistas. Nota [^fcms2017] em Apresentação.
+Limite: o folheto e a nota são do mesmo órgão (Fundação de Cultura), então não é fonte de outro veículo; confirma, porém, que a apresentação ocorreu (o folheto só a anunciava). A nota não lista os grupos participantes nem usa "mosaico".
+Fonte relacionada, aberta e não usada: "Espetáculo 'Poropopó Varietê' reúne cinco grupos especialmente para o FIB" (FCMS, 7 jul. 2016) trata de outro espetáculo (Circo do Mato, Le Chapeau, Cia Simbiose, Cia Theastai, 29/7/2016, Bonito); não cita o Gran Circo Poropopó Brothers. Possível ligação entre os dois fica sem confirmação.

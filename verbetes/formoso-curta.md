@@ -3,7 +3,7 @@ titulo: O Formoso (curta-metragem)
 tipo: obra
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Curta de ficção de 13 minutos dirigido por Roberto Leite em Campo Grande, sobre um menino que presencia maus-tratos a um galo de rinha. Selecionado para festivais em 2022 e 2024.
+resumo: Curta de ficção de 13 minutos dirigido por Roberto Leite, sobre um menino que presencia maus-tratos a um galo de rinha. Selecionado para festivais em 2022 e 2024.
 ficha:
   Direção: Roberto Leite
   Roteiro: Luciana Bitencourt
@@ -12,11 +12,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***O Formoso*** é um curta-metragem de ficção de 13 minutos dirigido por [[roberto-leite|Roberto Leite]] e filmado em Campo Grande.[^cgn2022]
+***O Formoso*** é um curta-metragem de ficção de 13 minutos dirigido por [[roberto-leite|Roberto Leite]] e ambientado no bairro Dom Antônio Barbosa.[^cgn2022]
 
 ## Enredo e produção
 
-O filme acompanha Lucas, um menino da periferia que presencia maus-tratos contra um galo na rua, e o dono de rinha Zé Galo. Formoso é o nome do galo. Segundo o diretor, a ideia veio do noticiário sobre maus-tratos a animais e rinhas em Campo Grande.[^cgn2022]
+O filme acompanha Lucas, um menino da periferia que presencia maus-tratos contra um galo na rua, e o dono de rinha Zé Galo. Formoso é o nome do galo. Segundo o diretor, a ideia veio das notícias sobre maus-tratos a animais que ele ouvia em Campo Grande.[^cgn2022]
 
 As filmagens foram no bairro Dom Antônio Barbosa, com locações cedidas por moradores. O curta foi feito com recursos próprios e tem roteiro da cineasta Luciana Bitencourt.[^cgn2022]
 
@@ -24,7 +24,7 @@ As filmagens foram no bairro Dom Antônio Barbosa, com locações cedidas por mo
 
 Em fevereiro de 2022, o filme estava entre os selecionados para a competição de curtas do 4º Meihodo International Youth Visual Media Festival, parceria entre Japão e Estados Unidos, com evento marcado para 22 de fevereiro em Nova Iorque.[^cgn2022]
 
-Em junho de 2024, *O Formoso*, de Roberto Leite, foi listado entre os seis concorrentes a Melhor Filme Sul-Mato-Grossense do [[bonito-cinesur|Bonito CineSur]].[^cgn2024a] Em outubro de 2024, um curta de ficção de 13 minutos de Roberto Leite, com o título *Formoso*, sem artigo, foi selecionado para a mostra Curta MS da primeira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^cgn2024b][^ce2024] As matérias de 2024 não dizem se se trata do mesmo filme de 2022.
+Em junho de 2024, *O Formoso*, de Roberto Leite, foi listado entre os seis concorrentes a Melhor Filme Sul-Mato-Grossense do [[bonito-cinesur|Bonito CineSur]].[^cgn2024a] Em outubro de 2024, um curta de ficção de 13 minutos de Roberto Leite, com o título *Formoso*, sem artigo, foi selecionado para a mostra Curta MS da primeira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^cgn2024b][^ce2024]
 
 ## Ficha técnica
 

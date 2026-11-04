@@ -31,9 +31,12 @@ Em junho de 2026, ele afirmou que a última edição do festival recebeu 32 insc
 
 - [[copa-181|*Copa 181*]] (2017) — longa-metragem; direção.[^ce2024]
 - [[as-marias|*As Marias*]] (2023) — curta-metragem documental, 16 min; direção.[^cgn-ivinhema]
+- [[vipuxovoku-aldeia|*Vípuxovoku – Aldeia*]] (2024 ou 2025) — curta-metragem de 14 min, com idealização de [[anderson-terena|Anderson Terena]]; direção. A reportagem do *Campo Grande News* dá 2024 como ano de produção e a página do Festival Curta Cinema dá 2025.[^cgn2025][^curtacinema2025]
 
 [^ce2024]: Redação, ["A força do filme curto"](https://correiodoestado.com.br/correio-b/a-forca-do-filme-curto/437506/), *Correio do Estado*, 10 out. 2024. Acesso em 4 nov. 2026.
 [^cgn-ivinhema]: Thailla Torres, ["Festival de Cinema de Ivinhema divulga curtas selecionados; confira"](https://www.campograndenews.com.br/lado-b/diversao/festival-de-cinema-de-ivinhema-divulga-curtas-selecionados-confira), *Campo Grande News*, 31 jul. 2024. Acesso em 4 nov. 2026.
 [^cgn-cinesur2023]: Thailla Torres, ["Bonito terá Festival de Cinema Sul-americano; veja os selecionados"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bonito-tera-festival-de-cinema-sul-americano-veja-os-selecionados), *Campo Grande News*, 6 out. 2023. Acesso em 4 nov. 2026.
 [^cgn-selecionados]: Thailla Torres, ["Veja todos os filmes selecionados para o Festival Curta Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/veja-todos-os-filmes-selecionados-para-o-festival-curta-campo-grande), *Campo Grande News*, 2 out. 2024. Acesso em 4 nov. 2026.
+[^cgn2025]: Thailla Torres, ["Filme de MS é selecionado para um dos maiores festivais da América Latina"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filme-de-ms-e-selecionado-para-um-dos-maiores-festivais-da-america-latina), *Campo Grande News*, 10 abr. 2025. Acesso em 4 nov. 2026.
+[^curtacinema2025]: Curta Cinema, ["Vípuxovoku – Aldeia"](https://curtacinema.com.br/vipuxovoku-aldeia/), página do filme na 34ª edição, 2025. Acesso em 4 nov. 2026.
 [^acritica2026]: Rafael Rodrigues, ["Cinema de MS vive fase de expansão com novos editais e mais produções locais"](https://acritica.net/noticias/cinema-de-ms-vive-fase-de-expansao-com-novos-editais-e-mais-producoes-locais/), *A Crítica de Campo Grande*, 20 jun. 2026. Acesso em 4 nov. 2026.
