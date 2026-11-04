@@ -45,3 +45,10 @@ Fonte única. Busca na A Crítica sem resultado; Brave com limite (429). Endere�
 - A circulação foi financiada pelo FIC-MS/FCMS: a única nota (FCMS) não conta como fonte independente.
 - Busca de segunda fonte: A Crítica (sem resultado), Midiamax (502), sites das prefeituras de Bodoquena e São Gabriel do Oeste (sem resultado). Nada novo lido.
 - Sugestões: Instagram @fulanodital (perfil do grupo, para links), Campo Grande News e Correio do Estado de dez. 2025, prefeituras de Rochedo, Miranda e Guia Lopes da Laguna.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: Thailla Torres, "Teatro 'Petúnia' inicia circulação gratuita por 6 cidades de MS", *Campo Grande News*, 8 dez. 2025 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/teatro-petunia-inicia-circulacao-gratuita-por-6-cidades-de-ms), achada pela busca interna do site. Traz falas do diretor e do dramaturgo (comuns ao material do grupo) e uma fala própria do gerente de Cultura de Bodoquena.
+- Reforça: estreia em Rochedo em 7 dez. 2025 no Clube Chicão, 22 anos do grupo, projeto "Ato 20", sinopse, equipe, cidades, financiamento do FIC.
+- Acrescentado: projeto adiado pela pandemia; gratuidade e Libras (Sinalize); datas por cidade (8 a 11 dez.); Bodoquena na Feira do Produtor Rural. Endereços do serviço ficaram fora.
+- Pista não aberta: agenda do *O Estado MS* de 12 dez. 2025.

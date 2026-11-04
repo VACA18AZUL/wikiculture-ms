@@ -26,3 +26,9 @@ Descartadas: Diário Digital (out. 2026, TV MS Kids, "irmãos Davi e Manu Kavall
 
 - Se o "Grupo Tradição" que gravou composição dela é o verbete `tradicao` (grupo baileiro de Campo Grande). A matéria não dá título da música nem descreve o grupo. Não ligado.
 - Data exata do show de abril de 2026 (matéria de agenda de fim de semana de 10/04/2026).
+
+## Atualização de 2026-11-04 (r8)
+
+- *O Estado de MS*, 10/1/2026 ("Estação Cultural CIA. Teatro do Mundo comemora três anos..."), com entrevista própria de Fernando Lopes: Manu Kavallari entre os convidados do show beneficente; renda para manutenção da Estação. Reforça cgn2026a.
+- *O Estado de MS*, 10/4/2026 (agenda): *Canções da Noite* em 11/4/2026, 19h30, Teatro do Mundo; boleros, serestas e serenatas. Dá a data que faltava na Folha.
+- A biografia (nome anterior, dez anos de carreira, composições gravadas) continua só no Campo Grande News. Parentesco citado na nota de janeiro fica fora (vida familiar).

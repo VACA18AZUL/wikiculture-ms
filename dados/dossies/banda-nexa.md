@@ -38,3 +38,10 @@ Descartadas: galeria de fotos de 22 jul. 2019 (sem texto). Facebook da banda cit
 - Segunda fonte: *Campo Grande News*, Aletheya Alves, "Fim de semana tem Raça Negra, Arraial da Concha e evento científico", 19 jul. 2019 (https://www.campograndenews.com.br/lado-b/diversao/fim-de-semana-tem-raca-negra-arraial-da-concha-e-evento-cientifico): lista "Nexa" no domingo 21 jul. do Arraial da Concha. Só agenda; reforça o anúncio.
 - O título da FCMS de 14 fev. 2020 fala em "primeira edição da Quarta Cultural", mas a FCMS já anunciava a Quarta Cultural na Feira Central em ago. 2019 (Jeitão Pantaneiro, 7 ago. 2019). Provavelmente primeira edição de 2020; o verbete não usa "primeira edição".
 - Formação de 2019 (Gabriel de Britto, Felipe Soares, Caio Lucera, Iuri Martins) x 2020 (Gabriel Britto, Gabriel Andrade, Afonso Flash, Rafael Barros): ambas no verbete com o ano.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: "Morro do Ernesto é cenário para 'casamento' em primeiro clipe da Banda Nexa", *Campo Grande News* (Lado B), 1 jan. 2019 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/morro-do-ernesto-e-cenario-para-casamento-em-primeiro-clipe-da-banda-nexa), achada pela busca interna do site. Texto diferente dos da FCMS.
+- Reforça: "Varal" como primeiro clipe; pop rock; referências (Engenheiros, Paralamas, Nando Reis, Jota Quest).
+- Acrescentado: clipe gravado no Morro do Ernesto, lançado em jan. 2019; formação citada em jan. 2019 (Afonso Flash, Gabriel Andrade, Gabriel Britto, Rafael Barros).
+- Divergências registradas no verbete: início da banda (junho de 2017, CGN x 2018, FCMS). A formação de jan. 2019 (CGN) é a mesma de fev. 2020 (FCMS), enquanto a FCMS de jul. 2019 dá outra; não explicado pelas fontes.

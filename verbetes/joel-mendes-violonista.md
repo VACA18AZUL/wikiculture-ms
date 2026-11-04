@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou a estudar violão aos 11 anos e integrou a [[orquestra-de-violoes-de-campo-grande|Orquestra de Violões de Campo Grande]]. Estudou violão erudito, fez cursos e masterclasses e se formou em Licenciatura em Música pela [[ufms|UFMS]]. Leciona violão na Rede Municipal de Ensino de Campo Grande.[^fcms2025][^fcms2026][^acritica2026]
+Aos 11 anos, iniciou os estudos de violão. Foi membro da [[orquestra-de-violoes-de-campo-grande|Orquestra de Violões de Campo Grande]], dedicou-se ao violão erudito, com cursos e masterclasses, e se formou em Licenciatura em Música pela [[ufms|UFMS]]. Leciona violão na Rede Municipal de Ensino de Campo Grande.[^fcms2025][^fcms2026][^acritica2026]
 
 Em 2018, formou com o músico corumbaense Virgílio Miranda o Duo Mendes-Miranda, de música de câmara. Em julho de 2025, a Fundação de Cultura anunciou para o dia 9, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], um recital da dupla com obras de Heitor Villa-Lobos e Manuel de Falla em versão para violão, com participação da soprano Luciana Fisher e do violoncelista Valério Reis.[^fcms2025]
 

@@ -2,15 +2,15 @@
 titulo: Banda Nexa
 tipo: grupo
 areas: [musica]
-resumo: Banda de pop e rock formada em 2018 pelo cantor e compositor Gabriel De Britto, com músicas próprias gravadas em Campo Grande; tocou no Festival Arraial da Concha em 2019.
+resumo: Banda de pop e rock de Gabriel De Britto, formada em 2017 ou 2018 conforme a fonte, com músicas próprias gravadas em Campo Grande; tocou no Festival Arraial da Concha em 2019.
 ficha:
-  Fundação: "2018"
+  Fundação: "2017 (Campo Grande News) ou 2018 (FCMS)"
   Gênero: "Pop, rock"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Banda Nexa** é uma banda de pop e rock formada em 2018 pelo cantor e compositor Gabriel De Britto, segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^fcms2019][^fcms2020]
+A **Banda Nexa** é uma banda de pop e rock formada em 2018 pelo cantor e compositor Gabriel De Britto, segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^fcms2019][^fcms2020] O *Campo Grande News* dá outra data: em janeiro de 2019, escreveu que os integrantes tocavam juntos desde junho de 2017.[^cgn2019a]
 
 ## Trajetória
 
@@ -18,11 +18,14 @@ Em 2019, a Fundação descrevia a Nexa como banda de repertório próprio pop e 
 
 Em fevereiro de 2020, a Fundação a apresentou como banda de pop rock, inspirada sobretudo no rock nacional, com repertório de Paralamas do Sucesso, Engenheiros do Hawaii, Nando Reis, Jota Quest e Tim Maia e músicas próprias. A formação, então, era Gabriel Britto na voz, Gabriel Andrade na bateria, Afonso Flash na guitarra e Rafael Barros no baixo. A banda foi anunciada para a Quarta Cultural da Feira Central de Campo Grande, em 19 de fevereiro de 2020.[^fcms2020]
 
+Em janeiro de 2019, o *Campo Grande News* noticiou o lançamento do clipe de "Varal", o primeiro da banda, gravado no Morro do Ernesto, nos arredores de Campo Grande, com uma história de amor que termina em casamento. O jornal citava como formação Afonso Flash, Gabriel Andrade, Gabriel Britto e Rafael Barros, e como referências o rock nacional dos anos 1980 e 1990, de Engenheiros do Hawaii, Paralamas do Sucesso, Nando Reis e Jota Quest.[^cgn2019a]
+
 ## Discografia
 
-- "Varal" — primeira música da banda, com videoclipe dirigido por Lenni Santos.[^fcms2019]
+- "Varal" — primeira música da banda, com videoclipe dirigido por Lenni Santos, lançado em janeiro de 2019.[^fcms2019][^cgn2019a]
 - "Astral" — segunda música.[^fcms2019]
 
 [^fcms2019]: Fundação de Cultura de Mato Grosso do Sul, ["Diversidade de ritmos encerra o Festival Arraial da Concha no próximo fim de semana"](https://www.fundacaodecultura.ms.gov.br/diversidade-de-ritmos-vai-encerra-o-festival-arraial-da-concha-no-proximo-fim-de-semana/), 18 jul. 2019. Acesso em 4 nov. 2026.
 [^cgn2019]: Aletheya Alves, ["Fim de semana tem Raça Negra, Arraial da Concha e evento científico"](https://www.campograndenews.com.br/lado-b/diversao/fim-de-semana-tem-raca-negra-arraial-da-concha-e-evento-cientifico), *Campo Grande News*, 19 jul. 2019. Acesso em 4 nov. 2026.
 [^fcms2020]: Fundação de Cultura de Mato Grosso do Sul, ["Banda Nexa leva pop rock para primeira edição da Quarta Cultural na Feirona"](https://www.fundacaodecultura.ms.gov.br/banda-nexa-leva-pop-rock-para-primeira-edicao-da-quarta-cultural-na-feira-central/), 14 fev. 2020. Acesso em 4 nov. 2026.
+[^cgn2019a]: ["Morro do Ernesto é cenário para 'casamento' em primeiro clipe da Banda Nexa"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/morro-do-ernesto-e-cenario-para-casamento-em-primeiro-clipe-da-banda-nexa), *Campo Grande News*, 1 jan. 2019. Acesso em 4 nov. 2026.

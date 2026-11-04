@@ -36,3 +36,9 @@
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova. FCMS (?s=Elas em Corumbá; Benilda Kadiwéu; Lucineide Clementino): nenhuma matéria sobre a mostra de 2023 nem sobre a artista. O verbete já tem CGN (x2) e Galeria Macunaíma (loja). Nada mudou.
+
+## Atualização de 2026-11-04 (r9)
+
+- Fonte nova aberta e lida: Carolina Rampi, "'Onde Dourados se faz Arte' traz artistas de MS para Capital", O Estado Online, 18 nov. 2025 (https://oestadoonline.com.br/arte-e-lazer/onde-dourados-se-faz-arte-traz-artistas-de-ms-para-capital/), achada pela API do O Estado MS (busca "Kunatai"). Veículo independente do CGN. Sustenta: participação de "Aline Kuñatai Yvotyju" na coletiva de dez artistas de Dourados no MIS, curadoria de Sara Welter, abertura em 18 nov. 2025. Identificação pelo nome indígena e pela cidade.
+- Acrescentado parágrafo em "Acervo e exposições" com a nota `oe`.
+- Não lida: matéria do Portal UFGD sobre o Prêmio Marta Guarani (decodificador do Google Notícias deu 503); não se sabe se é a mesma pessoa.

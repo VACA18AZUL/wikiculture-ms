@@ -15,3 +15,9 @@ Divergência registrada no verbete: CGN diz "nove apresentações de sete espet�
 Ressalva: as duas matérias parecem partir do material de divulgação da Deslimites (legenda "Divulgação" nas duas fotos), embora o texto não seja idêntico. Não é fonte independente de apuração. Telefone/WhatsApp de agendamento da matéria não usado.
 
 Pistas ainda não lidas: perfil @deslimitesteatroecinema; site da Prefeitura de Campo Grande (busca do portal não devolve resultados por fetch).
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida: "2ª Mostra Campo Grande de Teatro de Bonecos vai até o próximo domingo", O Estado MS, 19 jul. 2025 (https://oestadoonline.com.br/arte-e-lazer/2a-mostra-campo-grande-de-teatro-de-bonecos-vai-ate-o-proximo-domingo/), achada pela API do O Estado (wp-json). Veículo diferente, com entrevista própria ("conta para a reportagem") com Lú Bigatão. Sustenta a 2ª edição (início 18 jul. 2025, programação até agosto, escolas rurais, exposição de bonecos de 15 a 30 ago.) e a origem da mostra. Grafias: Lú Bigatão (O Estado 2025) x Lú Bigattão (Correio e O Estado 2022). A matéria atribui *Dona Arara vai casar* e *Piraputanga* ao grupo "Florescer do Cerrado" em 2025; não entrou no verbete por falta de confirmação de relação com o Deslimites.
+
+Também lida: "Capital recebe 10 apresentações de teatro gratuitas neste mês", O Estado MS, 4 nov. 2022 (https://oestadoonline.com.br/arte-e-lazer/capital-recebe-10-apresentacoes-de-teatro-gratuitas-neste-me/): mesmo conteúdo do release de 2022 (10 apresentações, mesmos grupos, Lú Bigattão, Fernanda Kunzler); confirma a contagem de dez apresentações do Correio. Não acrescentada como nota por ser release repetido.

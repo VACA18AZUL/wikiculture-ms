@@ -27,3 +27,7 @@ Pista não lida (bloqueio Cloudflare, sem cópia no archive.org): Midiamax, 18/0
 ## Uso no verbete
 
 Sem verbete: fonte única. Situação: reforcar. Ao achar segunda fonte (Midiamax ou lista oficial de vencedores do International Latino Book Awards), o romance pode entrar como seção do verbete da pessoa (incorporar `o-voo-do-passaro-que-caiu`).
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte tentada: Midiamax (18/9/2026) continua bloqueado (Cloudflare, 403 também no WebFetch; sem cópia no archive.org). Google Notícias ("Rafael Nogueira" escritor; "Latino Book Awards" Campo Grande): só Midiamax e Campo Grande News. API do O Estado MS e da FCMS ("Latino Book", "Voo do Pássaro"): nada. Site do International Latino Book Awards sem resposta. Continua sem verbete (fonte única); vale também para `o-voo-do-passaro-que-caiu`.

@@ -19,11 +19,11 @@ Segundo o *Campo Grande News*, ela deixou a pedagogia para se dedicar ao canto l
 
 Em 2012 e 2013, o jornal a apresentava como proprietária e preparadora vocal da escola de música Cant'arte, de Campo Grande, cujo coro lírico montava óperas.[^cgn2012a][^cgn2013a] Segundo ela, criou o coro porque tinha vários alunos de canto interessados no repertório lírico.[^cgn2024] Em maio de 2012, num concerto do coro lírico da Cant'arte em comemoração aos quatro anos, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], cantou como mezzo-soprano "Recomendações", de Babi de Oliveira.[^cgn2012a]
 
-Com o diretor mineiro Francisco Mayrink, dirigiu montagens de ópera do coro no [[teatro-glauce-rocha|Teatro Glauce Rocha]]: *Cavalleria Rusticana* em 2012, *Carmen* em 2013, em que dividiu com ele a direção musical, e *Pagliacci* em 2019.[^cgn2012b][^cgn2013b][^cgn2019]
+Com o diretor mineiro Francisco Mayrink, trabalhou em montagens de ópera do coro no [[teatro-glauce-rocha|Teatro Glauce Rocha]]. Em julho de 2012, dirigia com ele a remontagem de *Cavalleria Rusticana*, marcada para os dias 11 e 12.[^cgn2012b] Em *Carmen*, anunciada para 14 e 15 de setembro de 2013, os dois assinavam a direção musical.[^cgn2013b] Em agosto de 2019, os dois dirigiram *Pagliacci*.[^cgn2019]
 
 Em 2024, disse ao *Campo Grande News* que estava havia 17 anos à frente do grupo e que passara a trabalhar só com solistas. No mesmo ano, regeu o coro num tributo a Giacomo Puccini no Teatro Glauce Rocha.[^cgn2024] Em setembro de 2025, participou do espetáculo *Vozes da Ópera*, no Festival Mais Cultura da UFMS. A universidade a apresentou como bacharel em música e regente de coros no Conservatório Lourenço Fernandes e no Conservatório Brasileiro de Música, no Rio de Janeiro.[^ufms2025]
 
-Em maio de 2026, regeu o coro no projeto [[concertos-no-paco|Concertos no Paço]], da [[fundac|Fundação Municipal de Cultura]], no Teatro do Paço Municipal.[^acritica2026]
+Em maio de 2026, *A Crítica* anunciou para o dia 27 uma apresentação do coro, sob sua regência, no projeto [[concertos-no-paco|Concertos no Paço]], da [[fundac|Fundação Municipal de Cultura]], no Teatro do Paço Municipal.[^acritica2026]
 
 ## Espetáculos
 

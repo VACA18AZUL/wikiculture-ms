@@ -20,10 +20,13 @@ Desenha desde a infância e diz que passou a se reconhecer como artista em 2019.
 
 Em novembro de 2023, expôs cinco obras na mostra "Elas em Corumbá – Mulheres Indígenas Artistas", parte do Festival América do Sul (9 a 12 de novembro), com [[benilda-kadiweu|Benilda Kadiwéu]] e Lucineide Clementino (Sol Terena). Duas das telas medem 1,2 m por 90 cm.[^cgn]
 
+Em novembro de 2025, com o nome Aline Kuñatai Yvotyju, integrou a exposição coletiva "Onde Dourados se faz Arte", com curadoria de Sara Welter, que reuniu dez artistas independentes de Dourados no Museu da Imagem e do Som, em Campo Grande. A abertura foi em 18 de novembro.[^oe]
+
 ## Obra
 
 Segundo a artista, uma das telas representa a cosmologia kaiowá, na qual o ventre feminino é a imagem mais próxima da criação do mundo. Ela diz ter incorporado elementos gráficos que representam o acolhimento e afirma que cada obra tem um grafismo próprio.[^cgn]
 
 [^cgn]: Thailla Torres, ["Exposição de mulheres indígenas mostra arte 'sagrada' das etnias de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-mulheres-indigenas-mostra-arte-sagrada-das-etnias-de-ms), *Campo Grande News*, 10 nov. 2023. Acesso em 29 out. 2026.
 [^cgn2]: Aletheya Alves, ["Grafismos da pele são levados até para calçados como luta de Aline"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grafismos-da-pele-sao-levados-ate-para-calcados-como-luta-de-aline), *Campo Grande News*, 16 nov. 2023. Acesso em 4 nov. 2026.
+[^oe]: Carolina Rampi, ["'Onde Dourados se faz Arte' traz artistas de MS para Capital"](https://oestadoonline.com.br/arte-e-lazer/onde-dourados-se-faz-arte-traz-artistas-de-ms-para-capital/), *O Estado Online*, 18 nov. 2025. Acesso em 4 nov. 2026.
 [^gm]: Galeria Macunaíma, ["Chaveiro - Guarani Kaiowá"](https://galeriamacunaima.com.br/produtos/chaveiro-guarani-kaiowa), página de produto da loja virtual, sem data de publicação. Acesso em 4 nov. 2026.

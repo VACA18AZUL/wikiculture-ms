@@ -28,3 +28,7 @@ Segunda fonte: não encontrada. Nada de novo sobre o fato.
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Visto Pelo Mundo", "Cláudia Castelão ONU Nova Iorque"), Correio do Estado: sem resultado. Fonte única, uma reportagem de janeiro de 2014 (previsão, não registro da mostra). Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida (veículo diferente do CGN): Tayná Biazus, "Artistas estaduais expõe obras em Nova Iorque", MS Notícias, https://www.msnoticias.com.br/variedades/artistas-estaduais-expoe-obras-em-nova-iorque/12633/ (achada pelo RSS do Google Notícias; página sem data, imagem em /upload/dn_noticia/2014/01/). Confirma nome, datas (12 a 27 de março), objetivo e escolha de 12; fala em 35 artistas (o CGN diz 35 projetos: divergência registrada no verbete). Acrescenta apresentações de Marcelo Loureiro e Lenilde Ramos, mostra de Manoel de Barros, fala de Isaac de Oliveira (três a cinco obras) e de Raquel Ferraro (PNUD; não usada). Não lista Mariano Monteiro. Novo parágrafo no Histórico com nota [^msn].

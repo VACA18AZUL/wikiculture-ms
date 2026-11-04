@@ -33,3 +33,8 @@ Todas as fontes são do mesmo veículo (Campo Grande News): exceção registrada
 
 - Segunda fonte: *Folha de Campo Grande*, "Shows de Gusttavo Lima, Daniel e Nany People neste final de semana na Capital", 10 abr. 2026 (https://folhacg.com.br/entretenimento/shows-de-gusttavo-lima-daniel-e-nany-people-neste-final-de-semana-na-capital/), agenda: "Clube do Bortoti", mais de 8h de música na Lupland e no Irlandês, com Fino do Fino, Ariadne, Beca Rodrigues, Projeto Millenials, Noah, DJ Magão, DJ Júlio Prodigy. Identidade: "o músico Bortoti", em Campo Grande (nome artístico raro).
 - Buscas sem resultado: Google Notícias (só homônimos), A Crítica (busca interna vazia). A trajetória (origem, EP, single) continua só no Campo Grande News.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte (veículo diferente): *O Estado de MS*. 21/9/2021: "cantor campo-grandense Bortoti (do hit 'Deixa rolar')", anunciado no Festival Augusta Life Store (7/11/2021, Estância das Flores). 17/9/2022: confirma Bortoti no Luau da Rádio Reggae Festival. 27/2/2026: show *Pro Dia Nascer Feliz* com Pedro Espíndola na Cervejaria Canalhas.
+- A API do O Estado traz outras notas de agenda (Irlandês Pub, Lupland, Blues Bar, Banda MiLlenias com Jenner e Arthur, 2022-2026), não usadas. Origem em Corumbá e EP de 2022 continuam só no Campo Grande News.

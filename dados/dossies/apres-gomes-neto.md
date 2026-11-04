@@ -21,3 +21,9 @@ Nada mudou no conteúdo por fonte nova. Ajuste de redação na abertura: a fonte
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas em Correio do Estado e Fundação de Cultura de MS (páginas de busca) por "Apres Gomes Neto" e "Espaço Arte Paço Municipal": sem resultado pertinente. As duas notas atuais (CGN 4 jul. 2023 e CG Notícias/Prefeitura 3 jul. 2023) têm informações semelhantes e a segunda parece release; não contam como fontes independentes. Pistas: perfil do artista, Sectur/Fundac, Conselho Municipal de Cultura.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova, aberta e lida (achada pelo RSS do Google Notícias com decodificador): Adersino Valensoela Gomes Junior, "EE Carmelita Canale Rebuá realiza Projeto 'Arte Muralista'", portal da Secretaria de Estado de Educação de MS, 16 set. 2021. Registra que Apres Gomes Neto coordenou o projeto de murais na escola de Miranda (30 ago. a 3 set. 2021), com outros sete artistas. Veículo diferente do Campo Grande News e da prefeitura; não é o promotor da exposição de 2023. Acrescentado parágrafo na Trajetória.
+
+Buscas sem resultado útil: busca interna do Campo Grande News ("Apres Gomes"), API do O Estado MS ("Apres"). Outros resultados do Google Notícias (FIB 2019, mural da UFMS 2021, cemitério 2017) não puderam ser decodificados (HTTP 503) ou não citam o nome.

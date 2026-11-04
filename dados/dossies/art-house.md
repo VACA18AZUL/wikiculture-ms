@@ -43,3 +43,7 @@ Fontes novas abertas e lidas (Agência de Notícias do Governo de MS):
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova sobre o espaço. Buscas em Correio do Estado, Fundação de Cultura de MS (busca do site) e Itaú Cultural (403 ao fetch) por "Therezinha Neder"/"Art House": nada pertinente. Pistas: Menegazzo e Sá Rosa (fontes primárias da tese de Godoi), jornais de Campo Grande dos anos 1990.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Therezinha Neder", "Terezinha Neder", "Art House Neder"): só ruído (Avenida Rachid Neder; matéria sobre a família Neder na política, aberta, sem menção à artista); API do O Estado MS ("Therezinha Neder", "Neder"): sem resultado pertinente; RSS do Google Notícias ("Therezinha Neder", "Terezinha Neder", "Art House" Campo Grande): só a notícia da FCMS de 2019 já citada; Brave sem resultado. O portal de trabalhos da pós-graduação da UFMS só busca por título, autor e orientador.

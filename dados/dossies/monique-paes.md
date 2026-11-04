@@ -22,3 +22,9 @@ Descartada: Midiamax 10/8/2026 (403).
 ## Não confirmado
 
 - Título do longa sobre Lídia Baís em que trabalhou e a função dela (provável lydia-filme; nenhuma fonte nomeia).
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte independente: "Lídia Baís vai para os cinemas", *O Estado de MS*, 21/6/2026 (entrevista própria com Tero Queiroz, sem relação com o release do espetáculo): Monique Paes foi preparadora corporal na construção do personagem Vespasiano Martins no longa *Lydia* (dir. Ricardo Pieretti Câmara, codireção de Mariana Villas-Bôas). Identifica o longa citado nas fontes do espetáculo. Acrescentada Filmografia.
+- Carolina Rampi, *O Estado de MS*, 30/7/2026: diretora artística e coreógrafa; Ana el Daher também diretora artística e intérprete de Lídia; entrevistas próprias com Ana el Daher e o roteirista Marcos Sanches; a fala de Monique repete o release.
+- Divergência de direção do longa (Ricardo Câmara x outros nomes) é assunto de `lydia-filme`; aqui só o que o O Estado diz. `lydia-filme` não lista Monique na ficha técnica (verbete alheio; não editado).

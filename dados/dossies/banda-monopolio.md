@@ -41,3 +41,7 @@ Descartadas: busca no Correio do Estado, Bing e Brave (429) sem resultado sobre 
 - Busca de segunda fonte: Brave (429, limite), busca interna do Correio do Estado e do Campo Grande News (resultados carregados por script, nada legível), Diário Corumbaense (falha de conexão). Nenhuma fonte nova lida. Fonte única (FCMS).
 - O 11º lugar de 2016 é na categoria Show de Abertura (FCMS 9 mar. 2016).
 - FCMS 24 out. 2016: "a chuva deu uma trégua" — o verbete dizia "sob chuva"; corrigido.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte não achada. Tentado: busca interna do *Campo Grande News* ("Monopólio Corumbá", "Dançando com o mundo"), API do *O Estado MS*, RSS do Google Notícias ("banda Monopólio" Corumbá; "Ed de Paula" Corumbá), A Crítica, busca do Correio do Estado (resultados genéricos), Diário Corumbaense (sem conexão), Diário Online (API inexistente), Brave (bloqueado). Fonte única (FCMS).

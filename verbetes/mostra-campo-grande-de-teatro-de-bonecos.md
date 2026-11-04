@@ -3,7 +3,7 @@ titulo: Mostra Campo Grande de Teatro de Bonecos
 tipo: evento
 areas: [teatro]
 cidade: Campo Grande
-resumo: Mostra gratuita de teatro de bonecos para o público infantojuvenil, realizada em Campo Grande de 4 a 20 de novembro de 2022 pela Deslimites e pela prefeitura.
+resumo: Mostra gratuita de teatro de bonecos criada pelo grupo Deslimites em Campo Grande, com edição em novembro de 2022, com apoio da prefeitura, e segunda edição entre julho e agosto de 2025.
 ficha:
   Realização: Deslimites e Secretaria Municipal de Cultura e Turismo de Campo Grande
 status: rascunho
@@ -42,6 +42,13 @@ A matéria traz datas, horários e locais anunciados para três dos espetáculos
 
 Outra matéria do jornal, de 5 de novembro de 2022, diz que a exposição de bonecos no Teatral Grupo de Risco, de entrada gratuita e aberta até 4 de dezembro, reunia bonecos de artistas como [[wilson-motta|Wilson Motta]], [[jorge-de-barros|Jorge de Barros]] e [[miska-thome|Miska Thomé]], com técnicas como boneco de luva, marionete, boneco de vara e manipulação direta.[^cgn2022c]
 
+## Segunda edição (2025)
+
+O jornal *O Estado MS* noticiou em julho de 2025 a 2ª Mostra Campo Grande de Teatro de Bonecos, promovida pelo grupo Deslimites. A programação gratuita começou em 18 de julho, com oficina de manipulação no Teatral Grupo de Risco, e seguiu até agosto em feiras, escolas e espaços culturais, com desfile de bonecos e espetáculos como *Navegantes*, *Dona Arara vai casar* e *Piraputanga*. A edição também passou por escolas rurais de Anhanduí e de outras localidades e terminou com uma exposição de bonecos no Teatral Grupo de Risco, aberta de 15 a 30 de agosto.[^oe2025]
+
+Na mesma matéria, a idealizadora, [[lu-bigatao|Lú Bigatão]], diz que a mostra nasceu de mais de três décadas de trabalho com teatro de bonecos e que a proposta é levar a linguagem a praças, feiras e escolas com pouco acesso à cultura. O texto atribui foco ambiental a todos os espetáculos do Deslimites.[^oe2025]
+
 [^cgn2022c]: Aletheya Alves, ["Em mostra de teatro, público irá imergir em mundo de bonecos"](https://www.campograndenews.com.br/lado-b/diversao/em-mostra-de-teatro-publico-ira-imergir-em-mundo-de-bonecos), *Campo Grande News*, 5 nov. 2022. Acesso em 4 nov. 2026.
 [^cgn2022]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 29 out. 2026.
 [^ce2022]: Naiara Camargo, ["Mostra de teatro de bonecos na Capital tem programação gratuita"](https://correiodoestado.com.br/correio-b/2022/11/03/mostra-de-teatro-de-bonecos-na-capital-tem-programacao-gratuita.html), *Correio do Estado* (Correio B), 3 nov. 2022. Acesso em 4 nov. 2026. A legenda da foto indica material de divulgação.
+[^oe2025]: ["2ª Mostra Campo Grande de Teatro de Bonecos vai até o próximo domingo"](https://oestadoonline.com.br/arte-e-lazer/2a-mostra-campo-grande-de-teatro-de-bonecos-vai-ate-o-proximo-domingo/), *O Estado MS* (O Estado Online), 19 jul. 2025. Acesso em 4 nov. 2026.

@@ -39,3 +39,8 @@ Descartadas: galeria de fotos de 7 nov. 2016 (sem texto); buscas no Correio do E
 
 - Busca de segunda fonte: Brave em limite (429); nenhuma fonte nova lida. Fonte única (FCMS).
 - O 14º lugar de 2016 é na categoria Show de Abertura (FCMS 9 mar. 2016); acrescentado ao verbete.
+
+## Atualização de 2026-11-04 (r8)
+
+- Lida: Paula Maciulevicius, "Barata Tonta e Hollywood Cowboys fazem show no Som da Concha", *Campo Grande News*, 6 nov. 2016 (https://www.campograndenews.com.br/lado-b/diversao/barata-tonta-e-hollywood-cowboys-fazem-show-no-som-da-concha). O trecho sobre a Barata Tonta reproduz o release da FCMS de 3 nov. 2016 (mesmos fatos e frases): não conta como fonte independente; não citada. Ela traz o nome completo do baterista Bosco, não levado ao verbete.
+- Sem resultado: API do *O Estado MS*, RSS do Google Notícias (só agenda do Midiamax de jun. 2016, link não decodificado por erro 503; Midiamax bloqueia acesso direto), A Crítica, busca do Correio do Estado (resultados genéricos).

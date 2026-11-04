@@ -2,7 +2,7 @@
 titulo: Luciana Scanoni
 tipo: pessoa
 areas: [audiovisual]
-resumo: "Antropóloga ligada à UFMS, produtora do documentário Banho de São João – nas águas do Rio Paraguai e corroteirista do curta Abayomis (2021); venceu em 2021 um concurso de fotografia do MIS e do Cine Café."
+resumo: "Antropóloga ligada à UFMS, produtora do documentário Banho de São João – nas águas do Rio Paraguai e corroteirista do curta Abayomis (2021); em 2021, ficou em primeiro lugar, com uma fotografia, num concurso do MIS e do Cine Café."
 ficha:
   Nome: Luciana Scanoni Gomes
   Atividade: Antropologia, produção audiovisual, roteiro, fotografia
@@ -20,9 +20,9 @@ Segundo o *Campo Grande News*, ela fez a produção do documentário *[[banho-de
 
 Em janeiro de 2021, a Fundação de Cultura incluiu seu nome entre os selecionados para o II Curso de Documentário MS em Imagens e Sons, do [[mis-ms|Museu da Imagem e do Som]] e da TVE Cultura.[^fcms2021a] Do curso saiu o curta *Abayomis* (9 min), dirigido por Sheila Azevedo, com roteiro dela e de Luciana. Luciana também aparece na produção e na fotografia. O filme trata de ancestralidade e representatividade de crianças negras a partir da boneca preta. A estreia dos documentários do curso foi marcada para 12 de outubro de 2021, no [[autocine-ufms|Auto Cine da UFMS]].[^fcms2021d]
 
-Em setembro de 2021, venceu, na categoria Fotografia, o concurso do Museu da Imagem e do Som e do [[cine-cafe|Cine Café]] sobre o papel do museu, escolhido por votação no Instagram. A foto, "Antônia, uma grande ceramista terena", mostra a ceramista Antônia Julio segurando a página do livro *Do Índio ao Bugre*, de Roberto Cardoso de Oliveira, em que aparece um retrato dela jovem.[^fcms2021b][^fcms2021c]
+Em setembro de 2021, ficou em primeiro lugar no concurso do Museu da Imagem e do Som e do [[cine-cafe|Cine Café]] sobre o papel do museu, inscrita na categoria Fotografia; os vencedores foram escolhidos por curtidas no Instagram. A foto, "Antônia, uma grande ceramista terena", mostra a ceramista Antônia Julio segurando a página do livro *Do Índio ao Bugre*, de Roberto Cardoso de Oliveira, em que aparece um retrato dela jovem.[^fcms2021b][^fcms2021c]
 
-Em 2023, deu com Álvaro Banducci a palestra "Comida e Cultura" no 1º Festival Comida em Movimento – Cinema e Gastronomia, realizado em Campo Grande de 29 de junho a 1º de julho.[^oe2023][^fcms2023] Em 2026, o caminho de mesa "Todo Santo Dia", criado pelas designers Mary Saldanha e Paula Bueno, do estúdio POLCA, em parceria com ela e inspirado no Banho de São João, foi selecionado para a mostra do 36º Prêmio Design do Museu da Casa Brasileira, em São Paulo.[^oe2026]
+Em 2023, a programação divulgada do 1º Festival Comida em Movimento – Cinema e Gastronomia, marcado para 29 de junho a 1º de julho em Campo Grande, incluía a palestra "Comida e Cultura", com ela e Álvaro Banducci.[^oe2023][^fcms2023] Em 2026, o caminho de mesa "Todo Santo Dia", criado pelas designers Mary Saldanha e Paula Bueno, do estúdio POLCA, com a colaboração dela e com inspiração no Banho de São João, foi selecionado para a mostra do 36º Prêmio Design do Museu da Casa Brasileira, em São Paulo.[^oe2026]
 
 ## Filmografia
 

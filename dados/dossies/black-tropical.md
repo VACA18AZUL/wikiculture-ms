@@ -15,3 +15,9 @@
 ## Não confirmado
 
 - Canal do YouTube linkado pela CGN é "castrostudioms" (estúdio, sem os clipes no feed recente); não usado como canal oficial. Instagram @blacktropicalbr não aberto. Cidade não informada.
+
+## Atualização de 2026-11-04 (r8)
+
+- Nova fonte (veículo diferente): Marcelo Rezende, "14ª edição do projeto Vertentes será transmitida online", *O Estado de MS*, 27/10/2020: Black Tropical entre as atrações da 14ª edição do Vertentes (Coletivo Campo Grande Música), transmitida on-line por causa da pandemia. Não descreve a banda.
+- *O Estado de MS*, 20/7/2021, repete a lista do Som da Concha da FCMS (mesmo texto): não conta como fonte nova.
+- Formação e repertório continuam só no Campo Grande News (2019).

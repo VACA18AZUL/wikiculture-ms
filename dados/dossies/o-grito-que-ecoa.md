@@ -36,3 +36,9 @@
 
 - A matéria do Campo Grande News (2 mar. 2026) reproduz o release da FCMS (mesmas frases e falas): não conta como fonte independente.
 - Busca por segunda fonte no Google Notícias ("O Grito que Ecoa"; "Dorcelina Folador" exposição): só CGN e FCMS. "Exposição gratuita reúne obras de 14 artistas mulheres em MS" (CGN, set. 2025) é sobre outra mostra (Corpo Manifesto). Brave bloqueado.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte independente: Carolina Rampi, "Exposição 'O Grito que Ecoa' reúne 14 artistas mulheres...", *O Estado de MS*, 7/2/2026 (https://oestadoonline.com.br/arte-e-lazer/exposicao-o-grito-que-ecoa-reune-14-artistas-mulheres-e-aborda-temas-como-feminicidio-e-violencia/), com entrevista própria de Maíra Espíndola. Sustenta: vernissage em 13/2/2026 no MIS; projeto previa três exposições; circuito concebido por artistas mulheres LGBTQIAPN+; mesmos onze nomes e curadoria de Sara Welter; obra *No Centro da Dor*, de Maíra Espíndola (em construção desde nov. 2025); PNAB com a Fundação Municipal de Cultura.
+- *O Estado de MS*, 3/3/2026 ("Mostra 'O Grito que Ecoa' ocupa o MIS..."): mostra aberta até 7 de março. Divergência com o CGN (6 de março): as duas versões no verbete.
+- *O Estado* também cita, na abertura, poesia de Pretisa, música de Vitória Queiroz e Bruna Valente e performance de Sabrina Lima (não acrescentado; programação anunciada). Maíra Espíndola segue sem ligação a `maira-espindola` (homônimo sem fonte). Mini-biografias das artistas no texto do O Estado não usadas.

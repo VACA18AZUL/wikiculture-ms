@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Criação
 
-O solo foi produzido no segundo semestre de 2022. O trabalho corporal parte da Técnica Klauss Vianna, com a qual Tristão explora a presença em cena e o diálogo do corpo com o espaço e a luz. Segundo a Fundação de Cultura de MS, a peça discute as fronteiras entre a dança e o teatro.[^fcms2023a]
+A montagem do solo foi feita na segunda metade de 2022. O trabalho corporal parte da Técnica Klauss Vianna, com a qual Tristão explora a presença em cena e o diálogo do corpo com o espaço e a luz. Segundo a Fundação de Cultura de MS, a peça discute as fronteiras entre a dança e o teatro.[^fcms2023a]
 
 ## Equipe
 

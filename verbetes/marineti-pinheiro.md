@@ -26,6 +26,7 @@ Coordenou o [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]]. O jornal 
 - [[dama-do-rasqueado-delinha|A Dama do Rasqueado]] — documentário de 75 minutos sobre a cantora Delinha, da dupla [[delio-e-delinha|Délio e Delinha]]; direção e produção, com produção executiva de [[jerry-espindola|Jerry Espíndola]]. As filmagens começaram em 7 de setembro de 2013 e a sessão de estreia, reservada, ocorreu em setembro de 2016.[^cgn2016][^cgn-cinesur] A lista de selecionados do festival [[bonito-cinesur|Bonito CineSur]] de 2023 data o filme de 2017.[^cgn-cinesur] Na lista de premiados dessa primeira edição, o filme aparece como Melhor Filme Sul-Mato-Grossense e com o prêmio do Júri Oficial Sul-Mato-Grossense.[^cgn-premiados]
 - *Ano Que Vem Tem Mais* — filme sobre o carnaval de Campo Grande; produção, com Filipi Silveira.[^cgn-curtas]
 - *Sala dos Sonhos* (programado para exibição em 2021) — curta-metragem com fotografias dos antigos cinemas de Campo Grande.[^cgn-autocine]
+- *A mágica da foto lambe lambe* (2023) — curta documental sobre os fotógrafos lambe-lambes Seu Luiz, Arceu e Ugo, feito com o fotógrafo [[rachid-waqued|Rachid Waqued]] e contemplado pelo Prêmio Ipê de Audiovisual da Sectur; lançamento anunciado para 1º de novembro de 2023, no Sesc Cultura, em Campo Grande.[^cgn-lambe]
 
 ## Outras atividades
 
@@ -39,3 +40,4 @@ Coordenou o [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]]. O jornal 
 [^cgn-curtas]: Vanessa Ayala, ["Veja 11 curtas para se encantar com o cinema campo-grandense"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/veja-11-curtas-para-se-encantar-com-o-cinema-campo-grandense), *Campo Grande News*, 23 ago. 2021. Acesso em 4 nov. 2026.
 [^cgn2022]: Jéssica Fernandes, ["'Foi uma escola de vida', diz diretora que levou Delinha aos cinemas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/foi-uma-escola-de-vida-diz-diretora-que-levou-delinha-aos-cinemas), *Campo Grande News*, 16 jun. 2022. Acesso em 4 nov. 2026.
 [^cgn-cinesur]: Thailla Torres, ["Bonito terá Festival de Cinema Sul-americano; veja os selecionados"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bonito-tera-festival-de-cinema-sul-americano-veja-os-selecionados), *Campo Grande News*, 6 out. 2023. Acesso em 4 nov. 2026.
+[^cgn-lambe]: Thailla Torres, ["Filme mostra fotógrafos lambe-lambes que fizeram história em MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filme-mostra-fotografos-lambe-lambes-que-fizeram-historia-em-ms), *Campo Grande News*, 25 out. 2023. Acesso em 4 nov. 2026.

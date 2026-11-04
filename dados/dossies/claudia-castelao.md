@@ -41,3 +41,9 @@ Fontes novas lidas (Fundação de Cultura de MS):
 - 18 mar. 2024, https://www.fundacaodecultura.ms.gov.br/semana-do-artesao-homenageia-artesaos-que-se-destacaram-neste-fazer-artistico/: homenageada da Semana do Artesão; trajetória da Flor de Xaraés; formação em psicopedagogia, natural de São Paulo. Pode compartilhar origem (release) com a matéria do Campo Grande News de mesma data; por isso a FCMS conta aqui como fonte primária do órgão organizador, não como confirmação independente.
 - 24 mar. 2022, https://www.fundacaodecultura.ms.gov.br/rodada-de-negocios-e-oportunidade-de-lojistas-de-outros-estados-conhecerem-artesanato-de-ms/: rodada de negócios do artesanato, citação como artesã com mais de 20 anos de ofício. Fato novo (2022).
 A exposição na ONU (2014) segue só no Campo Grande News; página GlobeIn não confirmada.
+
+## Atualização de 2026-11-04 (r9)
+
+- Fonte nova aberta e lida: Carolina Rampi, "Semana do Artesão 2024 começa hoje com show de abertura no Bioparque Pantanal", O Estado Online, 19 mar. 2024 (https://oestadoonline.com.br/arte-e-lazer/semana-do-artesao-2024-comeca-hoje-com-show-de-abertura-no-bioparque-pantanal/), achada pela API do O Estado MS. Veículo diferente do CGN, com reportagem própria (entrevista com outra atração). Sustenta: homenagem na abertura da 16ª Semana do Artesão, no Bioparque Pantanal, em 19 mar. 2024; artesã de biojoias; criadora da Flor de Xaraés com laminação em madeira.
+- Outra matéria do O Estado (18 mar. 2024) diz que a homenagem dos deputados seria em 26 de março, na Assembleia Legislativa, mas declara ser "com informações da Prefeitura" (release); não usada.
+- Pistas não lidas (decodificador do Google Notícias deu 503): Midiamax, "Da lenda pantaneira 'Flor de Xaraés', artesã cria marca e representa MS em Milão", 22 jun. 2015; MS Notícias, "Artistas estaduais expõe obras em Nova Iorque". A exposição na ONU (2014) segue só no CGN.

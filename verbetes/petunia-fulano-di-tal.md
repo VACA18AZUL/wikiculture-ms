@@ -11,24 +11,28 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Petúnia*** é um espetáculo de teatro do grupo [[fulano-di-tal|Fulano di Tal]], escrito, dirigido e produzido por [[edner-gustavo|Edner Gustavo]]. Estreou em 7 de dezembro de 2025, no Clube Chicão, em Rochedo, como parte da comemoração dos 22 anos do grupo.[^fcms2025]
+***Petúnia*** é um espetáculo de teatro do grupo [[fulano-di-tal|Fulano di Tal]], escrito, dirigido e produzido por [[edner-gustavo|Edner Gustavo]]. Estreou em 7 de dezembro de 2025, no Clube Chicão, em Rochedo, como parte da comemoração dos 22 anos do grupo.[^fcms2025][^cgn2025]
 
 ## Criação e circulação
 
-Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], a peça foi concebida no projeto "Fulano di Tal – Ato 20", criado em 2023 para os 20 anos da companhia. O diretor do grupo, [[marcelo-leite|Marcelo Leite]], relacionou o trabalho à circulação anterior do grupo pelo Palco Giratório, do Sesc, e ao processo do espetáculo *A Fabulosa História do Guri-Árvore*, com visualidades, figurinos e objetos feitos no ateliê do grupo.[^fcms2025]
+Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], a peça foi concebida no projeto "Fulano di Tal – Ato 20", criado em 2023 para os 20 anos da companhia. O diretor do grupo, [[marcelo-leite|Marcelo Leite]], relacionou o trabalho à circulação anterior do grupo pelo Palco Giratório, do Sesc, e ao processo do espetáculo *A Fabulosa História do Guri-Árvore*, com visualidades, figurinos e objetos feitos no ateliê do grupo.[^fcms2025] O *Campo Grande News* registra que a montagem encerra o projeto "Ato 20", adiado pela pandemia.[^cgn2025]
 
-Na peça, uma criatura narradora tenta reconstruir a história de Petúnia, jovem nascida num lugar onde ser feia é destino, entre lembranças da mãe, comadres, um monstro e o amor por uma Criatura Sem Nome.[^fcms2025]
+Na peça, uma criatura narradora tenta reconstruir a história de Petúnia, jovem nascida num lugar onde ser feia é destino, entre lembranças da mãe, comadres, um monstro e o amor por uma Criatura Sem Nome.[^fcms2025][^cgn2025]
 
-Depois de Rochedo, a circulação foi programada para São Gabriel do Oeste, Miranda, Bodoquena, Guia Lopes da Laguna e Campo Grande, onde as sessões estavam marcadas para 13 e 14 de dezembro, no Espaço Fulano di Tal. A circulação teve financiamento do Fundo de Investimentos Culturais de MS.[^fcms2025]
+Depois de Rochedo, a circulação foi programada para São Gabriel do Oeste, Miranda, Bodoquena, Guia Lopes da Laguna e Campo Grande, onde as sessões estavam marcadas para 13 e 14 de dezembro, no Espaço Fulano di Tal. A circulação teve financiamento do Fundo de Investimentos Culturais de MS.[^fcms2025][^cgn2025]
+
+Segundo o *Campo Grande News*, as apresentações eram gratuitas, em espaços públicos, com interpretação em Libras. A agenda publicada pelo jornal previa São Gabriel do Oeste em 8 de dezembro, Miranda no dia 9, Bodoquena no dia 10, na Feira do Produtor Rural, e Guia Lopes da Laguna no dia 11.[^cgn2025]
 
 ## Equipe
 
 - Dramaturgia, direção e produção: [[edner-gustavo|Edner Gustavo]][^fcms2025]
 - Colaboração dramatúrgica: Nicoli Dichoff[^fcms2025]
-- Atuação: Kelly Figueiredo, Luana Vilela e Nicoli Dichoff[^fcms2025]
+- Atuação: Kelly Figueiredo, Luana Vilela e Nicoli Dichoff[^fcms2025][^cgn2025]
 - Assistência de direção e produção: [[marcelo-leite|Marcelo Leite]][^fcms2025]
 - Cenário, figurino e maquiagem: [[douglas-moreira|Douglas Moreira]] e Edner Gustavo[^fcms2025]
 - Iluminação e técnica de palco: Breno Lucas[^fcms2025]
-- Trilha original: [[ewerton-goulart|Ewerton Goulart]][^fcms2025]
+- Trilha original: [[ewerton-goulart|Ewerton Goulart]][^fcms2025][^cgn2025]
+- Interpretação em Libras: Sinalize[^cgn2025]
 
 [^fcms2025]: Fundação de Cultura de Mato Grosso do Sul (reportagem de Aline Lira e Lucas Arruda), ["Estreia de espetáculo teatral 'Petúnia' marca 22 anos do Grupo Fulano di Tal"](https://www.fundacaodecultura.ms.gov.br/estreia-de-espetaculo-teatral-petunia-marca-22-anos-do-grupo-fulano-di-tal/), 8 dez. 2025. Acesso em 4 nov. 2026.
+[^cgn2025]: Thailla Torres, ["Teatro 'Petúnia' inicia circulação gratuita por 6 cidades de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/teatro-petunia-inicia-circulacao-gratuita-por-6-cidades-de-ms), *Campo Grande News*, 8 dez. 2025. Acesso em 4 nov. 2026.
