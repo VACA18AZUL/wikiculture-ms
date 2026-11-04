@@ -41,3 +41,12 @@ Mesmo veículo, autoras diferentes. API da FCMS sem resultado pertinente.
 
 - Segunda fonte independente buscada e não achada. Onde: WebSearch (só Campo Grande News), API A Crítica ("Canto Delas", "Blues Bar cantoras"), API RCN67, API FCMS (nada).
 - Pistas do mesmo veículo, não abertas nesta rodada (não contam como fonte independente): Campo Grande News, "Gabi Barros, Mel Dias e Caramuja entram no festival O Canto Delas"; "Festival O Canto Delas encerra com samba, MPB e rap nesta terça"; "Jacqueline Costa, Pretah e Beca Rodrigues se apresentam em festival". O resumo da busca indica noites extras em agosto de 2023; conferir no texto antes de usar.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas abertas e lidas (API do O Estado MS, "O Canto Delas"), veículo diferente do CGN, com entrevistas próprias:
+- Marcelo Rezende, "Festival começa amanhã promovendo a representatividade feminina em MS", O Estado Online, 10 fev. 2021. Sustenta: 1ª edição a partir de 11 fev. 2021, virtual, 12 cantoras, lives de 50 min no YouTube, Lei Aldir Blanc via Sectur; Bia Blanc abre; Ju Souc participa.
+- Livia Bezerra, "2º Festival 'O Canto Delas' traz vozes femininas", O Estado Online, 4 jul. 2023. Sustenta: idealizador Jerry Espíndola; primeira edição presencial; abertura com Ariadne, Nath Barros e Dany Cristinne; 11 jul. com Jacqueline Costa, Pretah e Beca Rodrigues; programação até 1º ago.
+- "Festival 'O Canto Delas' encerra com as cantoras Karô, Llez e SoulRa", O Estado Online, 1 ago. 2023. Sustenta: encerramento em 1º ago. 2023. Dados pessoais das cantoras (formação, residência, família) ficaram fora.
+- Diferença: o O Estado de 2023 diz que a 2ª edição teria 12 artistas e, na fala de Jerry, 15 artistas; o CGN registra a fala de 15 vozes. Mantida só a versão já citada.
+- Ju Souc está na lista-mestra como grupo (ju-souc); a matéria a trata como cantora. Ariadne não foi ligada (não confirmado se é ariadne-cantu).

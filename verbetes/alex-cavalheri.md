@@ -3,7 +3,7 @@ titulo: Alex Cavalheri
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: "Multi-instrumentista, compositor e produtor musical de Campo Grande; tecladista do Bando do Velho Jack, produziu discos de Dimitri Pellz e faixas de Jerry Espíndola e lançou o show e disco Ecos Urbanos em 2022."
+resumo: "Multi-instrumentista, compositor e produtor musical de Campo Grande; tecladista do Bando do Velho Jack, produziu um disco da banda Dimitri Pellz e faixas de Jerry Espíndola; em 2022 anunciou o primeiro disco, Ecos Urbanos."
 ficha:
   Atividade: "Multi-instrumentista, cantor, compositor e produtor musical"
   Grupos: "Bando do Velho Jack, SuperÁcida"
@@ -15,17 +15,17 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Entrou no Bando do Velho Jack, formado em 1995, depois que Rodrigo Tozzette assumiu os vocais, após a morte do primeiro vocalista, Alex Batata. Em novembro de 2025, na comemoração dos 30 anos do grupo, seguia como tecladista, ao lado de Tozzette, Fábio Terra e Marcos Yallouz.[^cgn2025][^fcms2025] Em 2017, segundo Tozzette, os dois tocavam juntos havia 20 anos; formavam então a banda SuperÁcida, com Leonardo Reis e Adriel Santos; Cavalheri tocava teclados e guitarra e compôs "Carcaça", lançada em clipe pelo grupo naquele ano.[^g1-2017]
+Entrou no Bando do Velho Jack, formado em 1995, depois que Rodrigo Tozzette assumiu os vocais, após a morte do primeiro vocalista, Alex Batata. Em novembro de 2025, na comemoração dos 30 anos do grupo, seguia como tecladista, ao lado de Tozzette, Fábio Terra e Marcos Yallouz.[^cgn2025][^fcms2025] Em fevereiro de 2017, o g1 informou que ele e Tozzette tocavam juntos havia 20 anos e se referiu ao Bando como banda extinta. Os dois formavam então a banda SuperÁcida, com Leonardo Reis e Adriel Santos; Cavalheri tocava teclados e guitarra e era o autor de "Carcaça", cujo clipe o grupo lançaria num show em 10 de fevereiro daquele ano.[^g1-2017]
 
-Como produtor, assinou o disco de 12 faixas que a banda [[dimitri-pellz|Dimitri Pellz]] lançou em 2013.[^cgn2015] Em 2017, [[tete-espindola|Tetê Espíndola]] contou que parte do álbum *Outro Lado* foi gravada com ele em Mato Grosso do Sul.[^cgn2017] No mesmo ano, assinou a direção artística dos shows de samba da comemoração dos 40 anos do estado, no Parque das Nações Indígenas.[^fcms2017] Em 2024, foi responsável pelas gravações do estúdio itinerante do Fesmorena, festival de música para estudantes.[^fcms2024] Foi um dos quatro produtores do álbum *40 Tons*, de [[jerry-espindola|Jerry Espíndola]], com três faixas cada; a chegada às plataformas digitais estava marcada para 27 de fevereiro de 2026.[^fcms2026]
+Como produtor, assinou o disco de 12 faixas que a banda [[dimitri-pellz|Dimitri Pellz]] lançou em 2013.[^cgn2015] Em 2017, [[tete-espindola|Tetê Espíndola]] contou que parte do álbum *Outro Lado* foi gravada com ele em Mato Grosso do Sul.[^cgn2017] No mesmo ano, a Fundação de Cultura o anunciou como diretor artístico dos shows de samba da comemoração dos 40 anos do estado, no Parque das Nações Indígenas.[^fcms2017] Em novembro de 2024, foi anunciado como produtor responsável pelas gravações do estúdio itinerante do Fesmorena, festival de música autoral para estudantes.[^fcms2024] Foi um dos quatro produtores do álbum *40 Tons*, de [[jerry-espindola|Jerry Espíndola]], com três faixas cada; a chegada às plataformas digitais estava marcada para 27 de fevereiro de 2026.[^fcms2026]
 
-Em 6 de novembro de 2022, apresentou no [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], o show *Ecos Urbanos*, em duo com Adriel Santos, com canções inéditas, parcerias com Fábio Terra e releituras. A Fundação de Cultura apresentou o show como lançamento de seu primeiro disco, *Ecos Urbanos*, depois de 20 anos tocando com artistas como Tetê Espíndola, [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]].[^fcms2022]
+Para 6 de novembro de 2022, o [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], anunciou o show *Ecos Urbanos*, em duo com Adriel Santos, com canções inéditas, parcerias com Fábio Terra e releituras. A Fundação de Cultura apresentou o show como lançamento de seu primeiro disco, *Ecos Urbanos*, depois de 20 anos tocando com artistas como Tetê Espíndola, [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]].[^fcms2022]
 
 ## Discografia
 
 - *Ecos Urbanos* — primeiro disco solo, anunciado em 2022.[^fcms2022]
 - Disco da banda Dimitri Pellz (2013), 12 faixas — produção.[^cgn2015]
-- *Outro Lado* (2017), de Tetê Espíndola — gravação em Mato Grosso do Sul.[^cgn2017]
+- *Outro Lado*, de Tetê Espíndola (lançamento anunciado para 1º de setembro de 2017) — parte da gravação, feita em Mato Grosso do Sul.[^cgn2017]
 - *40 Tons* (2026), de Jerry Espíndola — produção de três faixas.[^fcms2026]
 
 ## Videografia

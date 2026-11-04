@@ -51,3 +51,7 @@
 ## Atualização de 2026-11-04
 
 Segunda fonte independente tentada, sem resultado: API da FCMS ("orquestra Três Lagoas"), busca do RCN67 (só os releases já citados), API do site do CPTL/UFMS ("orquestra", "Lucas Osório"), WebSearch ("Orquestra Municipal" "Três Lagoas" "Lucas Osório"). Hoje Mais e Perfil News não responderam à consulta (página de cidade e bloqueio Cloudflare). Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte independente nova. Buscas: Campo Grande News (/buscar?q= "Orquestra Municipal" "Três Lagoas"; orquestra Três Lagoas), API do O Estado MS (só agendas e Semana S, sem a orquestra) e RSS do Google Notícias ("Lucas Osório"; orquestra Três Lagoas): só aparecem textos da própria Prefeitura (2023 a 2025, entre eles o edital de inscrição de ago. 2023), que é a promotora. Nada mudou.

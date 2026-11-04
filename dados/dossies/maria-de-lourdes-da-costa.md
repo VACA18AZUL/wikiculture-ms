@@ -51,3 +51,7 @@ Busca aberta pelos títulos não trouxe outra fonte.
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova aproveitável. Buscas nas páginas de busca do Correio do Estado e da Fundação de Cultura de MS por "Maria de Lourdes da Costa", "Cortina da Alma", "Véu do Luar", "Palavras Além do Tempo", "Academia de Letras de Dourados" e "Felit-MS 2022": resultados sem relação (a busca dos sites é difusa) ou sem menção à autora. Nada mudou no verbete. Pistas: Dourados Agora, site da Academia de Letras de Dourados, catálogo da Vida Produções.
+
+## Atualização de 2026-11-04 (r9)
+
+Buscas: CGN (buscar?q=), API do O Estado MS e do RCN67 ("Cortina da Alma", "Maria de Lourdes da Costa"), RSS do Google Notícias, busca do Dourados Agora (sem resultado) e do Dourados News (403). Google Notícias mostra nota do SINPOL/MS sobre uma escrivã aposentada homônima que recebeu títulos de doutora honoris causa: identidade não provada e link não decodificado (503); fica fora. Nada mudou.

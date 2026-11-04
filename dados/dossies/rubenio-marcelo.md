@@ -28,3 +28,8 @@ Fontes descartadas e o motivo (todas citadas no artigo da Wikipédia):
 - pp2024: *Caminhos: 100 Poemas Escolhidos* lançado na semana de 10 mai. 2024 em Campo Grande, com 20 poemas inéditos; *Vias do Infinito Ser* adotado como leitura obrigatória pela UFMS; membro da ASL.
 - oe2024: *Almar* (Life Ed.), 33 poemas inéditos de temática portuguesa, ensaios de Ana Maria Bernardelli, lançamento marcado para 8 out. 2024 no Sesc Teatro Prosa, com pocket-show do Conjunto Fado Novo de MS.
 - Observação: Rubenio assina coluna no *O Estado MS* (segundo a ASL); a matéria de Juliana Aguiar é texto de redação.
+
+## Atualização de 2026-11-04 (r12)
+
+- Nova, aberta e lida: Da Redação, "Rubenio Marcelo autografa hoje o seu novo livro de poesia", *Correio do Estado*, Correio B, 7 maio 2024, https://correiodoestado.com.br/correio-b/2024/05/07/rubenio-marcelo-autografa-hoje-o-seu-novo-livro-de-poesia.html — cadeira 35 da ASL, secretário-geral; *Caminhos... 100 Poemas Escolhidos* (Life, FIC), 11º livro sem coautorias; poemas desde 2007, inéditos; audiolivro por QR Code; prefácio de Ana Maria Bernardelli, apresentação de Sylvia Cesco, orelha de Raquel Naveira; lançamento anunciado para 7/05/2024 na Faculdade Insted, com Marcelo Fernandes e Lenilde Ramos; 13 livros (3 em coautoria) e 3 CDs; ex-conselheiro estadual de cultura; Noite Nacional da Poesia; homenageado em *Vozes da Literatura* (FCMS).
+- Divergências registradas no verbete: ano de *Vias do Infinito Ser* (2017 na página da ASL; 2021 no Correio); contagem de livros (14 na ASL; 13 com 3 coautorias, ou 11 sem coautorias, no Correio).
