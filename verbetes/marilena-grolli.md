@@ -19,15 +19,15 @@ Formou-se em Artes Visuais pela [[ufms|UFMS]] e é especialista em Arte e Educa�
 
 Foi uma das artistas expostas, por Campo Grande, na mostra Espelho das Artes Plásticas, realizada em 2007 e 2008 na Galeria [[jorapimo|Jorapimo]]. Em 2021, como coordenadora do Núcleo de Artes Visuais, fez um balanço das ações do núcleo na capital, como o Salão de Arte de MS, com seis edições entre 2009 e 2014.[^fcms2021]
 
-Em 2025, como gestora de Artes Visuais da FCMS, apresentou a exposição Elos, com dez artistas selecionados por edital, na [[galeria-wega-nery|Galeria Wega Nery]] do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], durante o Campão Cultural. Segundo ela, era a terceira edição da exposição de artes visuais no festival.[^fcms2025]
+Em 2025, como gestora de Artes Visuais da FCMS, comentou a exposição Elos, com dez artistas selecionados por edital, na [[galeria-wega-nery|Galeria Wega Nery]] do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], durante o Campão Cultural. Segundo ela, era a terceira edição da exposição de artes visuais no festival.[^fcms2025]
 
 Tem experiência com grafite e com o movimento hip-hop. Na parceria com o artista [[fabricio-martins|Fabrício Martins]], que vem da aquarela, ela responde pelo traço mais definido e pelos acabamentos.[^cgn2026]
 
 ## Mural de Bodoquena
 
-Em maio de 2026, a FCMS, a pedido da prefeitura de Bodoquena, ofereceu à cidade um mural em grafite feito por Marilena Grolli e Fabrício Martins, pelos 46 anos do município, completados em 13 de maio. O painel media 96 metros por 2,10 metros e foi feito quase todo com spray. Uma escadaria de 3 por 12 metros foi pintada como uma cachoeira. Os temas, pedidos pela secretaria municipal, foram bichos do Pantanal, Folia de Reis, quedas d'água, aves e a seriema, ave símbolo da cidade.[^fcms2026]
+Em maio de 2026, a FCMS, a pedido da prefeitura de Bodoquena, ofereceu à cidade um mural em grafite feito por Marilena Grolli e Fabrício Martins, pelos 46 anos do município, completados em 13 de maio. O painel media 96 metros por 2,10 metros e foi feito quase todo com spray. Em 7 de maio, os artistas iam começar a pintura de uma escadaria de 3 por 12 metros, como uma cachoeira. Os temas, pedidos pela secretaria municipal, foram bichos do Pantanal, Folia de Reis, quedas d'água, aves e a seriema, ave símbolo da cidade.[^fcms2026]
 
-Segundo o *Campo Grande News*, as pinturas fizeram parte do projeto Ações Culturais Arte nas Ruas, feito com a FCMS e as prefeituras, e Bodoquena foi o primeiro município atendido. O casal passou cerca de 20 dias na cidade entre o fim de abril e o início de maio e fez duas obras: o muro de uma escola, com cerca de 100 metros de comprimento e 210 metros quadrados de pintura, e a escadaria perto do Paço Municipal. A FCMS falava em 16 dias de trabalho até 7 de maio.[^cgn2026][^fcms2026] Os artistas planejavam ao menos quatro intervenções em 2027.[^cgn2026]
+Segundo o *Campo Grande News*, as pinturas fizeram parte do projeto Ações Culturais Arte nas Ruas, feito com a FCMS e as prefeituras, e Bodoquena foi o primeiro município atendido. Os dois artistas passaram cerca de 20 dias na cidade entre o fim de abril e o início de maio e fez duas obras: o muro de uma escola, com cerca de 100 metros de comprimento e 210 metros quadrados de pintura, e a escadaria perto do Paço Municipal. A FCMS falava em 16 dias de trabalho até 7 de maio.[^cgn2026][^fcms2026] Os artistas planejavam ao menos quatro intervenções em 2027.[^cgn2026]
 
 ## Obras
 

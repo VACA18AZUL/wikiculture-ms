@@ -18,9 +18,9 @@ Começou pela pintura digital, passou ao desenho à mão livre, primeiro com mar
 
 A Fundação de Cultura de MS também o apresenta como grafiteiro, com atuação em comunidades periféricas ligada ao movimento hip hop do estado.[^fcmsbodoquena] Em novembro de 2026, o *Campo Grande News* informou que ele trabalhava com arte urbana havia cerca de dois anos.[^cgn2026]
 
-Em março de 2025, durante o Campão Cultural, foi curador da Exposição Urban Sketchers, no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande. A mostra reuniu 36 obras do grupo e 10 dele, com desenhos feitos ao ar livre em Campo Grande e em cidades do interior, como Ponta Porã, Maracaju e Miranda, e ficou em cartaz até 27 de abril.[^fcmsus]
+Em março de 2025, durante o Campão Cultural, foi curador da Exposição Urban Sketchers, no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande. A mostra reuniu 36 obras do grupo e 10 dele, com desenhos feitos ao ar livre em Campo Grande e em cidades do interior, como Ponta Porã, Maracaju e Miranda, com visitação prevista até 27 de abril.[^fcmsus]
 
-No [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]] de 2025, ministrou a Oficina de Sketchers, de 21 a 24 de agosto.[^fcmsfib]
+No [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]] de 2025, ministrou a Oficina de Sketchers, programada para 21 a 24 de agosto.[^fcmsfib][^fcmsbodoquena]
 
 ## Murais em Bodoquena
 
