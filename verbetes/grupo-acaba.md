@@ -22,7 +22,9 @@ Em 1979, o grupo venceu o 1º [[fessul|FESSUL]], festival promovido pela TV More
 
 No 2º FESSUL, em 1980, o grupo ficou em segundo lugar com "Nos Mares de Xaraés", em edição marcada pela saída de artistas que protestaram contra problemas técnicos.[^cae2] No 3º FESSUL, em 1981, obteve o primeiro e o segundo lugares, com "Waradzu" e "Cavalinho de Pau". O autor associa essas vitórias a um desinteresse de outros músicos pelo festival.[^cae3]
 
-Rodrigo Teixeira Gonçalves inclui o grupo entre os artistas reunidos no LP do [[festival-prata-da-casa|Prata da Casa]], de 1982.[^gon]
+Rodrigo Teixeira Gonçalves inclui o grupo entre os artistas reunidos no LP do [[festival-prata-da-casa|Prata da Casa]], de 1982.[^gon] Ian Rari Nogueira Faria também o cita entre os participantes dos shows que deram origem ao disco, que ele data de 1981.[^faria2024]
+
+Para Faria, o ACABA está entre os nomes formados na fase dos festivais iniciada em 1967 e entre os primeiros lembrados quando se fala de música regional sul-mato-grossense. O autor reproduz a letra de "Kananciuê", com data de 1979.[^faria2024]
 
 ## Relação com a política cultural
 
@@ -33,3 +35,4 @@ Caetano associa o ACABA ao entusiasmo pela criação de Mato Grosso do Sul e à 
 [^cae3]: Caetano, 2012, capítulo 1, seção 1.2 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae4]: Caetano, 2012, capítulos 2 e 3 (mesma dissertação). Acesso em 29 out. 2026.
 [^gon]: Rodrigo Teixeira Gonçalves, *O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*, dissertação de mestrado, UFMS, 2014, seção 1.7 ([PDF](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723)). Acesso em 29 out. 2026.
+[^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 55 e 58-60 do PDF. Acesso em 4 nov. 2026.

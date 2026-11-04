@@ -18,11 +18,11 @@ atualizado: 2026-11-04
 
 Segundo o *Campo Grande News*, é natural de Rio Verde, cidade a 207 quilômetros da capital, e vem de uma família de instrumentistas, a maioria de banda militar. Começou a se interessar por música por volta dos 13 anos. Em 2013, tinha 37 anos e era servidor público lotado na [[banda-municipal-maestro-ulisses-conceicao|Banda Municipal de Campo Grande Maestro Ulisses Conceição]].[^cgn2013]
 
-Durante 17 anos tocou na noite, com as bandas Lilás, Realce, Nova Era, Só para Contrariar, Company e D'stak e com a cantora Lya Maio. Fez aberturas de shows de Alexandre Pires, Beth Carvalho, Adriana Ribeiro e É o Tchan. Também se apresenta em casamentos, festas e coquetéis.[^cgn2013]
+Passou 17 anos tocando em bares e casas noturnas, nas bandas Lilás, Realce, Nova Era, Só para Contrariar, Company e D'stak e com a cantora Lya Maio. Fez aberturas de shows de Alexandre Pires, Beth Carvalho, Adriana Ribeiro e É o Tchan. Em 2013, também tocava em casamentos, festas e coquetéis.[^cgn2013]
 
 O primeiro CD, *Rajiv do Sax, o som campo-grandense*, foi feito com recursos do Fundo Municipal de Incentivo à Cultura (Fmic), com músicas antigas, canções internacionais, boleros e mambo. Ao divulgá-lo numa rádio, cerca de cinco anos antes da reportagem de 2013, notou que o público reagia mais aos ritmos regionais, o que orientou o disco seguinte.[^cgn2013]
 
-O segundo CD, *Rajiv Sax "Frontera"*, foi produzido com recursos do Fundo de Investimentos Culturais (FIC) do governo de Mato Grosso do Sul e tem 11 faixas regionais, entre elas "Pé de Cedro", de [[zacarias-mourao|Zacarias Mourão]]. Antes do lançamento, em 19 de janeiro de 2013, no Bar da Madah, o músico apresentou o repertório em frente ao Mercadão Municipal.[^cgn2013]
+O segundo CD, *Rajiv Sax "Frontera"*, foi produzido com recursos do Fundo de Investimentos Culturais (FIC) do governo de Mato Grosso do Sul e tem 11 faixas regionais, entre elas "Pé de Cedro", de [[zacarias-mourao|Zacarias Mourão]]. O lançamento foi em 19 de janeiro de 2013, no Bar da Madah, na Vila Carvalho; cerca de duas semanas antes, o músico tinha apresentado o repertório ao ar livre, em frente ao Mercadão Municipal.[^cgn2013]
 
 Em abril de 2022, o "saxofonista Rajiv Costa" estava na programação da reabertura da Feira da Bolívia, em Campo Grande, organizada pela prefeitura.[^pmcg2022]
 

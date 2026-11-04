@@ -33,6 +33,8 @@
 
 ## Incerto
 
+- Wikipédia: https://pt.wikipedia.org/wiki/Unidos_da_Vila_Carvalho diz "dez títulos do Grupo Especial", contra 23 títulos no Correio do Estado (2026). Registrado no dossiê; não entra no verbete.
+
 - Grafias Vlauer (CE 2017) e Wlauer (FCMS 2026); o verbete usa só Wlauer, citando a FCMS.
 
 ## Veredito

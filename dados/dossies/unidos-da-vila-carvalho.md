@@ -38,3 +38,7 @@ Ficou de fora: pontuações de 2026 (a matéria dá 168,04 para a campeã e 168,
 | mestre-goinha | fundou | cn1-2024 ("ajudou a fundar") |
 | lienca | integrou (escola filiada) | cn1-2024 |
 | feijoada-de-jorge-vila-carvalho | criou/realiza | fcms-feijoada |
+
+## Conferência com a Wikipédia (4 nov. 2026)
+
+- https://pt.wikipedia.org/wiki/Unidos_da_Vila_Carvalho — fundação 15/10/1969 (igual ao CN1). Diz "dez títulos do Grupo Especial" (tricampeã 2005-2007 e 2009-2011, título de 2011 contestado). O Correio do Estado (2026) fala em 23º título e o próprio artigo cita CGN "pela 22ª vez" (2025). Contagens diferentes; a da Wikipédia não entra no verbete (sem fonte aberta). Títulos de 2005-2011 podem entrar se as matérias do CGN citadas pela Wikipédia forem abertas.
