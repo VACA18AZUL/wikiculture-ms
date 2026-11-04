@@ -32,7 +32,7 @@ O filme foi financiado pela Lei Paulo Gustavo, do Ministério da Cultura, por me
 
 ## Lançamento
 
-Em dezembro de 2024, o *Correio do Estado* informou duração de 15 minutos e lançamento previsto para 19 de abril de 2025, Dia dos Povos Indígenas.[^ce2024] A descrição do vídeo no canal do projeto, publicado em 26 de agosto de 2025, diz que o lançamento oficial foi em 15 de agosto de 2025, no Memorial da Cultura Indígena Cacique Enir Terena, no bairro Tiradentes.[^yt2025]
+Em dezembro de 2024, o *Correio do Estado* informou duração de 15 minutos e lançamento previsto para 19 de abril de 2025, Dia Nacional dos Povos Indígenas.[^ce2024] A descrição do vídeo no canal do projeto, publicado em 26 de agosto de 2025, diz que o lançamento oficial foi em 15 de agosto de 2025, no Memorial da Cultura Indígena Cacique Enir Terena, no bairro Tiradentes.[^yt2025]
 
 O canal do projeto no YouTube publicou também vídeos com as entrevistas de moradores, como a de Maria Auxiliadora Bezerra.[^yt2025b]
 

@@ -39,3 +39,18 @@ Fontes descartadas: duas buscas abertas ("Romário Hilário" com teatro/Doravant
 ## Uso no verbete
 
 - Entrou tudo acima, exceto a pós-graduação e o nome das escolas estaduais (resumido). Verbete com fonte única; reforçar.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fontes novas (outros veículos):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2018 | Gisele Colombo, "Boca de Cena transforma espaços públicos em palcos com apresentações gratuitas", FCMS, 21 mar 2018 | https://www.fundacaodecultura.ms.gov.br/boca-de-cena-transforma-espacos-publicos-em-palcos-com-apresentacoes-gratuitas/ | sim |
+| ce2014 | "Mostra de Teatro Regional gratuita vai até domingo", Correio do Estado, 8 ago. 2014 | https://correiodoestado.com.br/correio-b/2014/08/08/mostra-de-teatro-regional-gratuita-vai-ate-domingo.html | sim (só para o espetáculo da trupe) |
+
+Reforço independente: *Meu Mano Humano*, Cia Última Hora (Dourados), 27 mar. 2018, 15h, Teatro Dom Bosco; Romário Hilário no elenco e como preparação corporal (ficha da programação). Confirma o vínculo com a Cia. Última Hora e com a peça, citados só na dissertação.
+Reforço parcial: *Giramundo*, Trupe Arte e Vida, 10 ago. 2014, Parque do Lago, 4ª Mostra Regional de Teatro de Dourados (a matéria não cita Romário; confirma o espetáculo e o grupo, de Naviraí).
+Divergência de datas: a dissertação põe a atuação na Cia. Última Hora em 2015-2017; a programação de 2018 o lista no elenco em março de 2018. Verbete traz as duas versões.
+Lida e fora do verbete: FCMS, 14 mar 2022, projeto OfiCINE.doc (Dourados, Ponta Porã, Jardim): "Assistente de Direção – Romário Hilário". Não identificado como o mesmo artista (a ficha não dá cidade nem vínculo; ele dava aulas no IFMS Corumbá em 2022).
+Não confirmado em segunda fonte: Prêmio Funarte Arte nas Ruas 2012 e Klauss Vianna 2013 da Trupe (busca no site da Funarte não devolveu o nome); Coletivo Clandestino, IFMS Corumbá/IFcênico, UFGD, solo *Doravante*. Buscas por "Romário Hilário", "Contos para flores roxas e murchas" e "Resquícios do Ontem" no Correio do Estado e na FCMS não acharam matérias.

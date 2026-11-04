@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a mesma reportagem, Mongelli foi um dos criadores e integrantes do [[tuc-teatro-universitario-campo-grandense|TUC]] (Teatro Universitário de Campo Grande), com [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], Sílvio Torrecilha, Rafael Cubel Zuriga, [[abilio-leite-de-barros|Abílio Leite de Barros]] e outros, e data a criação do grupo em 1961.[^cgn2018] O artigo de Fabricio Goulart Moser, que relata o ensaio "Teatro", de Sá Rosa, diz que o TUC foi formado em 1967, sob direção de Sílvio Torecilha, sem citar Mongelli.[^moser]
+Segundo a mesma reportagem, Mongelli foi um dos criadores e integrantes do [[tuc-teatro-universitario-campo-grandense|TUC]] (Teatro Universitário de Campo Grande), com [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], Sílvio Torrecilha, Rafael Cubel Zuriga, [[abilio-leite-de-barros|Abílio Leite de Barros]] e outros, e data a criação do grupo em 1961.[^cgn2018] O artigo de Fabricio Goulart Moser, que relata o ensaio "Teatro", de Sá Rosa, diz que o TUC foi formado em 1967, sob direção de Sílvio Torecilha.[^moser]
 
 Na despedida publicada nas redes sociais e reproduzida pela matéria, o diretor [[jair-damasceno|Jair Damasceno]] lembrou que Mongelli foi homenageado em 2011, ao lado de Paulo Corrêa, no lançamento do livro *Vozes do Teatro*, e que foi referência para os grupos surgidos a partir de 1970, entre eles o [[gutac|GUTAC]].[^cgn2018]
 

@@ -12,7 +12,7 @@
 
 | id da nota | Referência | URL | Tipo | Entra? |
 |---|---|---|---|---|
-| caetano | Gilmar Lima Caetano, *A música regional urbana e identidades culturais de Mato Grosso do Sul*, dissertação, UFGD, 2012, p. 34, 43, 48-51 | https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf | acadêmica | sim |
+| caetano | Gilmar Lima Caetano, *A música regional urbana e identidades culturais de Mato Grosso do Sul*, dissertação, UFGD, 2012, p. 34, 43, 48-52 | https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf | acadêmica | sim |
 | ce2012a | Redação, "Morre em Campo Grande o jornalista Onésimo Filho", *Correio do Estado*, 08/08/2012 | https://correiodoestado.com.br/cidades/2012/08/08/morre-em-campo-grande-o-jornalista-onesimo-filho.html | imprensa | sim |
 | ce2012b | "Corpo de jornalista é velado na Capela Campo Grande", *Correio do Estado*, 09/08/2012 | https://correiodoestado.com.br/cidades/2012/08/09/corpo-de-jornalista-e-velado-na-capela-campo-grande.html | imprensa | não (repete ce2012a; traz endereço do velório e circunstâncias da morte, que ficam fora) |
 
@@ -30,9 +30,9 @@ Observação: as falas de Onésimo em Caetano vêm de entrevista concedida a Pau
 - Citado entre os participantes do 1º Festival de Música Popular de Campo Grande (11 a 14/12/1967) [caetano p. 34]
 - No 3º Festival de Música Popular em Campo Grande, era funcionário da TV Morena e concorrente; ficou em 3º lugar com "Rancho da Esperança"; disse que "Norma", de José Roberto Amin (vencedora), era plágio de "Mensagem", de Cícero Cabral [caetano p. 43]
 - Por causa da criação do estado e do interesse dele, funcionário da emissora, em retomar os festivais, a TV Morena decidiu organizar o FESSUL [caetano p. 48]
-- Sobre o 1º FESSUL (1979), segundo ele: patrocínio do governo do estado e da prefeitura; Tony Ramos como atração; vitória do grupo ACABA com "Kananciuê", que ele diz não ter esperado; júri em grande parte de fora, com Ricardo Cravo Albin e Wladimir Soares [caetano p. 48-49]
-- No 2º FESSUL (1980), artistas liderados por Iso e Tato Fischer, com Almir Sater e o grupo Therra, romperam com ele e se retiraram depois de pedirem o adiamento das eliminatórias por problemas de som; ele manteve o cronograma com o aval dos donos da emissora; disse que escolhia ele mesmo os jurados [caetano p. 50]
-- Almir Sater, citado por Caetano, dá versão oposta: o festival teria sido um fracasso artístico e financeiro [caetano p. 51]
+- Sobre o 1º FESSUL (1979), segundo ele: patrocínio do governo do estado e da prefeitura; Tony Ramos como atração; vitória do grupo ACABA com "Kananciuê", que ele diz não ter esperado; júri em grande parte de fora, com Ricardo Cravo Albin e Wladimir Soares [caetano p. 49-50]
+- No 2º FESSUL (1980), artistas liderados por Iso e Tato Fischer, com Almir Sater e o grupo Therra, romperam com ele e se retiraram depois de pedirem o adiamento das eliminatórias por problemas de som; ele manteve o cronograma com o aval dos donos da emissora; disse que escolhia ele mesmo os jurados [caetano p. 50-51]
+- Almir Sater, citado por Caetano, dá versão oposta: o festival teria sido um fracasso artístico e financeiro [caetano p. 52]
 
 ### Ficha (caixa lateral)
 

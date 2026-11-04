@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 O Rolê no Bueiro nasceu, segundo os organizadores, da constatação de que a dança quase nunca é a atração principal dos eventos. Produzido pela Manaká Cultural, teve três edições em Campo Grande, com mais de 900 pessoas no total, e a quarta foi marcada para 22 de setembro de 2023, no [[sucata-cultural|Sucata Cultural]], em Dourados.[^cgn2023]
 
-Em setembro de 2023, estava no elenco de *Chafica*, espetáculo da [[cia-do-mato|Cia do Mato]] em homenagem a Sarah Abussafi Figueiró, com direção e coreografia de [[chico-neller|Chico Neller]] e codireção de Maria Fernanda Figueiró, apresentado no Teatro Glauce Rocha, em Campo Grande.[^fcms2023]
+Em setembro de 2023, estava no elenco de *Chafica*, espetáculo da [[cia-do-mato|Cia do Mato]] em homenagem a Sarah Abussafi Figueiró, com direção e coreografia de [[chico-neller|Chico Neller]] e codireção de Maria Fernanda Figueiró, com sessões marcadas para 29 de setembro no Teatro Glauce Rocha, em Campo Grande.[^fcms2023]
 
-Em maio de 2026, estreou no Hotel Gaspar, em Campo Grande, *Corpo Sobre Penas*, performance de cerca de 40 minutos que parte do projeto *Corpo Fantasma – Protótipo A* e se inspira em *Vidas Secas*, na pintura *Retirantes* e na figura de Frankenstein. A trilha sonora e a direção artística são do paulista Fernando Martins, com quem trabalhou entre Mato Grosso do Sul e São Paulo.[^ce2026]
+Em maio de 2026, o *Correio do Estado* anunciou a estreia, no Hotel Gaspar, em Campo Grande, de *Corpo Sobre Penas*, performance de cerca de 40 minutos que parte do projeto *Corpo Fantasma – Protótipo A* e se inspira em *Vidas Secas*, na pintura *Retirantes* e na figura de Frankenstein. A trilha sonora e a direção artística são do paulista Fernando Martins, e o processo de criação se deu entre Mato Grosso do Sul e São Paulo.[^ce2026]
 
 ## Espetáculos
 
