@@ -20,7 +20,7 @@ Em agosto de 2025, protagonizou com [[gleycielli-nonato-guato|Gleycielli Nonato 
 
 Em setembro de 2025, estava entre as ministrantes do projeto Ocupa Suburbanas, que levou oficinas de hip-hop feminino a escolas de Campo Grande e à Central Única das Favelas (CUFA).[^fcms2025b]
 
-Em abril de 2026, foi selecionada com o quadrinista Fabio Quill para representar Mato Grosso do Sul no projeto Arte da Palavra – Rede Sesc de Leituras, circuito nacional de literatura do Sesc.[^acritica2026] No mesmo ano, foi anunciada como convidada, com Katu Mirim, do show de encerramento da turnê *Ohenoi*, de [[anaranda|MC Anarandà]], em Campo Grande, em 30 de maio.[^fcms2026] Também participa do documentário [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2: Mulheres da Nova Música do MS*]], lançado em outubro de 2026.[^acritica2026b]
+Em abril de 2026, foi selecionada com o artista visual e editor Fabio Quill para representar Mato Grosso do Sul no projeto Arte da Palavra – Rede Sesc de Leituras, circuito nacional de literatura do Sesc.[^acritica2026] No mesmo ano, foi anunciada como convidada, com Katu Mirim, do show de encerramento da turnê *Ohenoi*, de [[anaranda|MC Anarandà]], em Campo Grande, em 30 de maio.[^fcms2026] Também participa do documentário [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2: Mulheres da Nova Música do MS*]], com lançamento anunciado para 29 de outubro de 2026, na Casa de Cultura de Campo Grande.[^acritica2026b]
 
 ## Filmografia
 

@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Black Tropical** é uma banda de rock sul-mato-grossense formada por Braulio Castro (voz e guitarra), Sidney Garcia (bateria) e Lucas Barreto (baixo).[^cgn2019]
+**Black Tropical** é uma banda de rock sul-mato-grossense formada por Braulio Castro, na voz e na guitarra, Sidney Garcia, na bateria, e Lucas Barreto, no baixo.[^cgn2019]
 
 ## Trajetória
 

@@ -3,7 +3,7 @@ titulo: Chokito
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Sambista nascido no Rio de Janeiro que fez carreira em Mato Grosso do Sul, cantou 16 anos no grupo Kytafeito e seguiu em carreira solo, presença frequente no carnaval de rua de Campo Grande.
+resumo: Sambista nascido no Rio de Janeiro que fez carreira em Mato Grosso do Sul, cantou 16 anos no grupo Kytafeito, seguiu em carreira solo e se apresentou em blocos do carnaval de rua de Campo Grande.
 ficha:
   Atividade: Cantor de samba
   Grupos: Kytafeito
@@ -17,11 +17,11 @@ atualizado: 2026-11-04
 
 Cantou por 16 anos no grupo [[kytafeito|Kytafeito]], com o qual lançou dois CDs, e depois seguiu carreira solo. Em 2015, o Campo Grande News o apontou como um dos principais nomes do samba no estado.[^cgn2015]
 
-Para 13 de julho de 2016, estava programado um show dele no Sesc [[morada-dos-bais|Morada dos Baís]], em Campo Grande. Ao jornal, disse que se apresentar ali era uma chance de mostrar que Mato Grosso do Sul tem samba.[^jd12016]
+Para 13 de julho de 2016, estava programado um show dele no Sesc [[morada-dos-bais|Morada dos Baís]], em Campo Grande. Ao jornal, disse que se apresentar ali era uma chance de mostrar que Mato Grosso do Sul tem samba. Segundo o mesmo texto, estudou música a partir de 1988 na escola XV de Novembro, no Rio de Janeiro, mudou-se para Campo Grande em 1991 e preparava o primeiro CD solo.[^jd12016]
 
-No carnaval de rua de Campo Grande, foi atração do bloco [[capivara-blase|Capivara Blasé]] em 2017, ao lado de [[gideao-dias|Gideão Dias]], Negabi e Banda do Jacobina,[^cgn2017] e foi de novo anunciado pela Fundação de Cultura de MS nos dois dias do bloco em 2025, 2 e 3 de março, na Esplanada Ferroviária.[^fcms2025] Também em 2025, cantou no desfile do [[cordao-valu|Cordão Valu]] na Esplanada.[^ce2025]
+No carnaval de rua de Campo Grande, estava na programação do bloco [[capivara-blase|Capivara Blasé]] em 2017, ao lado de [[gideao-dias|Gideão Dias]], Negabi e Banda do Jacobina,[^cgn2017] e foi de novo anunciado pela Fundação de Cultura de MS nos dois dias do bloco em 2025, 2 e 3 de março, na Esplanada Ferroviária.[^fcms2025] Também em 2025, esteve entre as atrações musicais do [[cordao-valu|Cordão Valu]] na Esplanada.[^ce2025]
 
-Em março de 2024, foi anunciado com [[juci-ibanez|Juci Ibanez]] na abertura do show da turnê de 45 anos do grupo Fundo de Quintal no Clube Estoril, em Campo Grande.[^cgn2024]
+Em fevereiro de 2024, foi anunciado com [[juci-ibanez|Juci Ibanez]] para a abertura do show da turnê de 45 anos do grupo Fundo de Quintal, marcado para 9 de março no Clube Estoril, em Campo Grande.[^cgn2024]
 
 [^cgn2015]: ["Samba com Chokito, o carioca que virou sul-mato-grossense no coração"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/samba-com-chokito-o-carioca-que-virou-sul-mato-grossense-no-coracao), *Campo Grande News* (Lado B), 27 ago. 2015. Acesso em 4 nov. 2026.
 [^jd12016]: ["Shows no Sesc Morada começam nesta terça-feira"](https://www.jd1noticias.com/cultura/2016/07/11/shows-no-sesc-morada-comecam-nesta-terca-feira.html), *JD1 Notícias*, 11 jul. 2016. Acesso em 4 nov. 2026.

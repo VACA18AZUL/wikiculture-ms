@@ -3,7 +3,7 @@ titulo: Bela Rabelo
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Cantora campo-grandense que voltou à música em 2025 com um EP e em 2026 fez em Campo Grande o show Minhas Raízes — Uma Essência e lançou o single Onde o Asfalto Termina.
+resumo: Cantora campo-grandense que voltou à música em 2025 com um EP, anunciou para abril de 2026 o show Minhas Raízes — Uma Essência, em Campo Grande, e lançou o single Onde o Asfalto Termina.
 ficha:
   Atividade: Canto; escrita e comunicação
 status: rascunho
@@ -18,11 +18,11 @@ A imprensa a apresenta também como escritora, mentora e comunicadora. A formaç
 
 Participou do programa de Raul Gil e atuou em novela.[^fronteira2025] O *Fronteira News* dá à novela o nome *Na Raiz é Trovão*; o *Enfoque MS* fala em *Ana Raio e Zé Trovão*, da extinta TV Manchete, onde ela teria tido contato com [[almir-sater|Almir Sater]], que cita como referência.[^fronteira2025][^enfoque2026] Viveu muito tempo fora de Mato Grosso do Sul.[^enfoque2026]
 
-Em dezembro de 2025, aos 49 anos, lançou nas plataformas digitais um EP que havia gravado anos antes e deixado guardado; a divulgação ficou com a Agência 3SONS.[^fronteira2025]
+Em dezembro de 2025, aos 49 anos, lançou nas plataformas digitais um EP que havia gravado anos antes e deixado guardado; o lançamento saiu pela Agência 3SONS.[^fronteira2025]
 
-Em 9 de abril de 2026, apresentou o show *Minhas Raízes — Uma Essência* na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], em Campo Grande, divulgado como seu primeiro show na terra natal em 18 anos. O repertório reunia canções ligadas à identidade musical do estado. A direção geral foi de Kel Carelli, a direção musical de Ton Alves e a produção de Renata Sena; o sanfoneiro Renan Nonato, da banda de Almir Sater, foi convidado.[^acritica2026][^boca2026]
+Em 2 de abril de 2026, a imprensa anunciou para o dia 9 o show *Minhas Raízes — Uma Essência*, na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], em Campo Grande, divulgado como sua primeira apresentação na terra natal em 18 anos. A proposta era revisitar canções ligadas à identidade cultural do estado. A direção geral estava a cargo de Kel Carelli, a direção musical de Ton Alves e a produção de Renata Sena; o sanfoneiro Renan Nonato, da banda de Almir Sater, era o músico convidado.[^acritica2026][^boca2026]
 
-Em 4 de setembro de 2026, lançou o single "Onde o Asfalto Termina", composto por Rodrigo Zup, Douglas Paixão, Vini Souza, Tânia Viana e Mafê Borges, com videoclipe gravado numa fazenda.[^enfoque2026]
+Em 4 de setembro de 2026, lançou nas plataformas digitais o single "Onde o Asfalto Termina", composto por Rodrigo Zup, Douglas Paixão, Vini Souza, Tânia Viana e Mafê Borges, com videoclipe gravado numa fazenda.[^enfoque2026]
 
 ## Discografia
 
@@ -31,7 +31,7 @@ Em 4 de setembro de 2026, lançou o single "Onde o Asfalto Termina", composto po
 
 ## Espetáculos
 
-- *Minhas Raízes — Uma Essência* (2026) — show; direção geral de Kel Carelli, direção musical de Ton Alves.[^acritica2026]
+- *Minhas Raízes — Uma Essência* (2026) — show anunciado para 9 de abril; direção geral de Kel Carelli, direção musical de Ton Alves.[^acritica2026]
 
 ## Videografia
 
