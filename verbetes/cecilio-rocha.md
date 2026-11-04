@@ -23,5 +23,5 @@ Em 1940, a revista anunciou que ele assumia a nova seção *Livros em Revista*, 
 
 Lobivar Matos dedicou a ele o poema *O Carnaval*, publicado na Folha da Serra em 1932.[^rodrigues] Um comentário de Cecílio Rocha sobre *Areôtorare*, primeiro livro de Lobivar, está entre as notas da crítica que o poeta reuniu e publicou como anexo de seu segundo livro, em 1936.[^araujo]
 
-[^rodrigues]: Eglem de Oliveira Passone Rodrigues, [*Mulher e educação na revista Folha da Serra*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6054/1/EglemdeOliveiraPassoneRodrigues.pdf), tese de doutorado em Educação, Universidade Federal da Grande Dourados, 2023, p. 218 (nota 159), 234-236 e nota 175. Acesso em 4 nov. 2026.
+[^rodrigues]: Eglem de Oliveira Passone Rodrigues, [*Mulher e educação na revista Folha da Serra (Campo Grande, década de 1930)*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6054/1/EglemdeOliveiraPassoneRodrigues.pdf), tese de doutorado em Educação, Universidade Federal da Grande Dourados, 2023, p. 234-236 e notas 159 e 175. Acesso em 4 nov. 2026.
 [^araujo]: Susylene Dias de Araujo, [*A vida e a obra de Lobivar Matos: o modernista (des)conhecido*](https://repositorio.uel.br/bitstreams/acf051fe-2b05-42d0-93be-a30b3192c120/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2009, p. 24 e 30-32. Acesso em 4 nov. 2026.

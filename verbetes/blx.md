@@ -3,7 +3,7 @@ titulo: BLX
 tipo: grupo
 areas: [musica]
 cidade: Campo Grande
-resumo: "Duo de música eletrônica de Campo Grande formado por André X e Leca Harper (Dark Blue). Teve o EP Feel the Night 2021 anunciado em 2022 e lançou em 2025 o EP Electrosounds, que mistura eletrônica e instrumentos da tradição sul-mato-grossense."
+resumo: "Duo de música eletrônica de Campo Grande formado por André X e Leca Harper (Dark Blue). Teve o EP Feel the Night 2021 anunciado em 2022 e lançou em 2025 o EP Electrosounds, com instrumentos da tradição sul-mato-grossense."
 ficha:
   Integrantes: "André X; Leca Harper (Dark Blue)"
   Gênero: "Música eletrônica"
