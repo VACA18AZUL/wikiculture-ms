@@ -18,3 +18,9 @@
 
 - Tentativa de segunda fonte: busca aberta por "Therezinha Neder" e "Art House" em Campo Grande: nenhum resultado que ligasse a artista ao espaço. A fonte primária citada por Godoi é Menegazzo e Sá Rosa, "Manifestações culturais em Campo Grande: apontamentos para uma história", em *Campo Grande: 100 anos de construção* (Matriz, 1999), p. 195-236, sem cópia on-line encontrada.
 - Resultado: continua com fonte única.
+
+## Atualização de 2026-11-04 (reforço r-1)
+
+- Novas buscas abertas ("Terezinha/Therezinha Neder" com Campo Grande, Art House, galeria, 1991; Menegazzo e Sá Rosa, "Manifestações culturais em Campo Grande"): nenhum resultado liga a artista ou o espaço a outra fonte. A obra de Menegazzo e Sá Rosa (1999) continua sem cópia on-line localizada.
+- Aberta e lida sem relação: dissertação UFMS de Sueli de Souza Zaurisio (2023), sobre cultura terena no ensino de artes visuais; não cita Neder nem Art House.
+- Verbete não mudou; segue com fonte única (Godoi, UFGD, 2020). Pista: acervo impresso (Menegazzo e Sá Rosa, 1999, p. 195-236) ou jornais de Campo Grande de 1991.

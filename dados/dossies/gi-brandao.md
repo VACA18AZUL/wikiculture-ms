@@ -43,7 +43,7 @@ Fontes descartadas e o motivo:
 
 | Identificador do outro nome | Tipo de relação | Fonte | Já tem verbete? | Já está na lista-mestra? |
 |---|---|---|---|---|
-| san-martinez | participou-de (projeto organizado por ele) | cgn2025a | sim | sim |
+| san-martinez | relacionado-a (selecionada para projeto organizado por ele) | cgn2025a | sim | sim |
 | campao-graffiti | participou-de | cgn2025a | não | sim (não confirmado que o "Dia do Graffiti" seja o Campão Graffiti; a matéria só indica o Instagram @campaograffiti) |
 
 ## Divergências entre fontes

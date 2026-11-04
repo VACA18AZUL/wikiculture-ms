@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Aline de Souza da Silva** é uma artista do povo kaiowá-guarani, de Mato Grosso do Sul.[^cgn] Nasceu na aldeia Jaguapiru, em Dourados, e se identifica como guarani-kaiowá. Seu nome indígena é Kunatai yvotyju.[^cgn2]
+**Aline de Souza da Silva** é uma artista do povo kaiowá-guarani, de Mato Grosso do Sul.[^cgn] Nasceu na aldeia Jaguapiru, em Dourados, e se identifica como guarani-kaiowá. Seu nome indígena é Kunatai yvotyju.[^cgn2] A Galeria Macunaíma, loja que vende peças de artistas indígenas, também registra o nome indígena e a apresenta como artista visual, artesã e ativista pelas causas do seu povo.[^gm]
 
 ## Trajetória
 
@@ -26,3 +26,4 @@ Segundo a artista, uma das telas representa a cosmologia kaiowá, na qual o vent
 
 [^cgn]: Thailla Torres, ["Exposição de mulheres indígenas mostra arte 'sagrada' das etnias de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-mulheres-indigenas-mostra-arte-sagrada-das-etnias-de-ms), *Campo Grande News*, 10 nov. 2023. Acesso em 29 out. 2026.
 [^cgn2]: Aletheya Alves, ["Grafismos da pele são levados até para calçados como luta de Aline"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grafismos-da-pele-sao-levados-ate-para-calcados-como-luta-de-aline), *Campo Grande News*, 16 nov. 2023. Acesso em 4 nov. 2026.
+[^gm]: Galeria Macunaíma, ["Chaveiro - Guarani Kaiowá"](https://galeriamacunaima.com.br/produtos/chaveiro-guarani-kaiowa), página de produto da loja virtual, sem data de publicação. Acesso em 4 nov. 2026.

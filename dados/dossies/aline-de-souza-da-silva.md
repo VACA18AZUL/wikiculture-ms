@@ -21,3 +21,10 @@
 - Acrescentados: parágrafo de abertura ampliado e seção "Trajetória"; campo `cidade: Dourados`; Atividade ampliada.
 - Ficou fora: idade, origem étnica mista da família (vida familiar), perfil de Instagram (não aberto nesta sessão).
 - Segunda fonte de domínio diferente não encontrada (busca aberta por nome e nome indígena): o conferir continua contando como fonte única.
+
+## Atualização de 2026-11-04 (reforço, tag r-5)
+
+- Fonte nova aberta e lida: Galeria Macunaíma, página de produto "Chaveiro - Guarani Kaiowá" (https://galeriamacunaima.com.br/produtos/chaveiro-guarani-kaiowa), loja virtual, sem data. Sustenta: nome Aline de Souza da Silva, nome indígena Kunatai Yvotyju, guarani-kaiowá, ativista, artista visual e artesã. Veículo independente do Campo Grande News, mas de natureza comercial.
+- Acrescentada frase com a nota `gm` ao parágrafo de abertura. Citação da própria artista sobre tekoha e juventude ficou de fora.
+- Pista não lida: *Dourados News*, "Acadêmica indígena vai receber o Prêmio Marta Guarani" (https://www.douradosnews.com.br/dourados/academica-indigena-vai-receber-o-premio-marta-guarani/1229341/), 403 ao abrir (anti-bot). Segundo o resumo da busca, trata de estudante de Educação do Campo da UFGD premiada pela Câmara (prêmio Mulher Cidadã - Marta Guarani); não confirmado que é a mesma pessoa nem lido, então não entra.
+- Busca por "Elas em Corumbá" fora do CGN: nenhuma página (Fundação de Cultura, Agência de Notícias, prefeitura de Corumbá) cita a mostra ou as artistas. A exposição de 2023 continua com fonte única.
