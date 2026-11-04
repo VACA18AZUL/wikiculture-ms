@@ -20,3 +20,7 @@ Segunda fonte: não aberta; há pista concreta.
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova. Brave ("Grêmio dos Amadores de Pintura" Campo Grande Ernestina Karan): só uma página de pull request do próprio repositório; FCMS (?s=Ernestina Karan): sem resultado. Continua com a tese de Godoi (UFGD), que cita Menegazzo (1999). Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: CGN busca, O Estado API e Google Notícias ('Ernestina Karan/Karman', 'Grêmio dos Amadores'): nada; portal UFMS (títulos 'arte', 'artes visuais', 'cultura'; PDFs varridos): nenhuma menção ao grêmio. Nada mudou no verbete.

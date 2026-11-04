@@ -66,3 +66,7 @@ Já registradas em dados/relacoes.csv (expos-em, gerido-por, sede-em).
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("In Memorian", "In Memoriam exposição", "Memorial da Cultura exposição artistas falecidos"), UFMS ("In Memorian"), Correio do Estado: sem resultado. Fonte única: Campo Grande News, 2013. Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias RSS (só a própria matéria do CGN de 2013), CGN busca, O Estado API, Correio do Estado busca: nada; portal UFMS ('arte', 'artes visuais'): só dedicatórias 'in memorian'. Nada mudou no verbete.

@@ -21,7 +21,7 @@ Produziu a série documental *Mitos Vivos*, criada e dirigida por Flecha e apres
 
 Produziu o longa *Do Sul, a Vingança*, dirigido por Flecha, que segundo o jornal *O Estado* estreou nos cinemas em 15 de maio de 2025; o *Campo Grande News* data o filme de 2024.[^oestado2025][^cgn2026] Na matéria de *O Estado*, o ator [[espedito-di-montebranco|Espedito Di Montebranco]] a apresenta como produtora executiva.[^oestado2025]
 
-Em janeiro de 2026, o projeto [[rota-cine-ms|Rota Cine MS]] abriu inscrições para oficinas de roteiro no Museu da Imagem e do Som, marcadas para 26 a 30 de janeiro e ministradas por ela e Flecha.[^cgn2026] Em março de 2026, era a produtora executiva do longa *Não Me Lembro*, filmado em Mato Grosso do Sul pela Render Brasil. Ao jornal *O Estado*, contou que o projeto nasceu em 2014 de um argumento do ator Bruno Moser e que ela e Flecha escolheram o elenco nacional, com nomes como Claudia Ohana e Nany People, ao lado de atores do estado.[^oestado2026]
+Em janeiro de 2026, o projeto [[rota-cine-ms|Rota Cine MS]] abriu inscrições para oficinas de roteiro no Museu da Imagem e do Som, marcadas para 26 a 30 de janeiro e ministradas por ela e Flecha.[^cgn2026] Em março de 2026, era a produtora executiva do longa *Não Me Lembro*, que a Render Brasil filmava em Mato Grosso do Sul. Ao jornal *O Estado*, contou que o projeto nasceu em 2014 de um argumento do ator Bruno Moser e que ela e Flecha escolheram o elenco nacional, com nomes como Claudia Ohana e Nany People, ao lado de atores do estado.[^oestado2026]
 
 ## Filmografia
 

@@ -50,3 +50,8 @@ Fontes descartadas: busca na base de filmografia da Cinemateca Brasileira (consu
 ## Uso no verbete
 
 - Entrou tudo acima. Funções não ditas ficaram fora.
+
+## Acréscimo
+
+- silva: Charlei Aparecido da Silva, "Pantanal de Sangue: das linguagens geográficas...", no mesmo livro (Ed. UFGD, 2012), p. 61 e 83: com pouco apoio financeiro, Reynaldo assumiu produção, fotografia e direção; situou a história num Pantanal distante e num período indefinido da 1ª metade do séc. XX para evitar a censura. Entrou no verbete.
+- Ficha da Cinemateca reproduzida no livro (p. 59): diretor de produção Jeremias Moreira Filho; Nolasco (p. 92) cita Duncan: "produção de Ivo Nakau". Não usado no verbete da pessoa (cabe no verbete pantanal-de-sangue).

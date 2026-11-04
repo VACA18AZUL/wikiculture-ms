@@ -53,3 +53,7 @@ Fontes descartadas e o motivo:
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): A Crítica ("Opium grafite"), O Estado Online, FCMS ("Crystofer", "grafite Novos Estados"), BDTD: sem resultado. Resultado só de grafite genérico (FCMS, Dia do Graffiti na Vila Nhanhá, 26 nov. 2025, não cita o coletivo). Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: CGN busca e Google Notícias (só a matéria de 2014), O Estado API ('Crystofer', grafite Novos Estados), Correio do Estado busca, portal UFMS ('grafite'): nada. Nada mudou no verbete.

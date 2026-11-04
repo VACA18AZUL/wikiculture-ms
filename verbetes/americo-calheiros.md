@@ -20,6 +20,8 @@ Formou-se em Letras na antiga Faculdade Dom Aquino de Filosofia, Ciências e Let
 
 Entre 1969 e 1972, o [[festival-estudantil-mato-grossense-de-teatro|Festival Estudantil Mato-grossense de Teatro]] apresentou as peças *Autodissecação* e *Intravagostil*, com texto e direção de Calheiros. O mesmo artigo cita um grupo chamado GUTAC (Grupo de Teatro Amador Campo-grandense) entre os que sobreviveram aos festivais; não afirma que seja o grupo criado por ele.[^moser]
 
+Em trecho de Lemuel de Farias Diniz (2006) citado por Grazielli Alves de Lima (UFGD, 2012), Calheiros aparece entre os professores que, depois da criação de Mato Grosso do Sul, participaram com [[raquel-naveira|Raquel Naveira]] da chamada militância cultural pela preservação do patrimônio de Campo Grande.[^glima2012]
+
 ## Obras
 
 Calheiros publicou em 1984 o ensaio "Um fascínio de trezentos anos", no Boletim Informativo do Instituto Nacional de Artes Cênicas (Rio de Janeiro, n. 7, inverno de 1984). Segundo Moser, o texto situa as origens do teatro sul-mato-grossense no passado teatral de Mato Grosso, inclusive nas vilas auríferas dos séculos XVIII e XIX.[^moser]
@@ -28,3 +30,4 @@ Em 2026, lançou o livro de poemas *Suicígena* (Life Editora), sobre o suicídi
 
 [^ce]: Mariana Piell, ["Suicídio indígena é tema do novo livro do poeta e teatrólogo Américo Calheiros"](https://correiodoestado.com.br/correio-b/suicidio-indigena-e-tema-do-novo-livro-do-poeta-e-teatrologo-americo/467774/), *Correio do Estado*, 8 jun. 2026. Acesso em 29 out. 2026.
 [^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), ABRACE, 2018 (PDF), pp. 1-5. O artigo relata, entre aspas, o ensaio "Teatro", de Maria da Glória Sá Rosa (1992). Acesso em 29 out. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 87 do PDF. Acesso em 4 nov. 2026.

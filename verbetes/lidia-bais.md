@@ -34,6 +34,10 @@ Em 1950 fundou o Museu Baís, em Campo Grande, que não chegou a abrir ao públi
 
 Em 2008 e 2010, reportagens descrevem um museu com o seu nome, instalado na Morada dos Baís, com obras da artista. As fontes lidas não informam quando ele abriu.[^dourados2008][^cgn2010] A matéria de 2025 diz que ela queria abrir um museu e que isso não aconteceu enquanto viveu.[^cgn2025] Morreu em outubro de 1985, em Campo Grande.[^itau][^cgn2010]
 
+A dissertação de Flávia de Araújo Costa (UFMS, 2019), que dá as datas de 1900 e 1985, analisa pela semiótica cinco quadros religiosos da pintora: *A última ceia do Nosso Senhor Jesus Cristo*, *Lídia como Nossa Senhora*, *Composição de quadro profético*, *Alegoria Profética* e *Lídia Baís – simboliza a trindade*. Para a autora, as obras constroem uma Lídia ao mesmo tempo humana e espiritual.[^costa2019]
+
+Grazielli Alves de Lima (UFGD, 2012) data a *Última Ceia de Nosso Senhor Jesus Cristo* de 1928-1929 e reproduz também *Joana D'Arc* e *Pernambuco*, sem data. A autora lista poemas de [[raquel-naveira|Raquel Naveira]] inspirados na pintora, entre eles "Pensão Pimentel" (1989), "Sacristia" (1992) e "Casarão dos Baís" (2001).[^glima2012]
+
 ## Acervo e exposições
 
 O acervo da artista foi doado à [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] por sua sobrinha, Nelly Martins.[^cgn2025][^dourados2008] Em 2008, o acervo somava 65 telas, 45 desenhos e esboços, 28 fotografias, discos com composições musicais e manuscritos.[^dourados2008] Parte das obras integra o acervo do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]].[^cgn2025][^cgn2010] Segundo a mesma reportagem, o MARCO guardava o acervo desde 1991. Em 2008, o Iphan reproduziu doze obras em cartões-postais: nove expostas no MARCO e três no Museu Lídia Baís.[^dourados2008]
@@ -51,3 +55,5 @@ Em maio de 2025, os 125 anos de seu nascimento foram lembrados na exposição "A
 [^cgn2025]: Thailla Torres, ["Exposição homenageia artista Lídia Baís no MIS a partir de 12 de maio"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-homenageia-artista-lidia-bais-no-mis-a-partir-de-12-de-maio), *Campo Grande News*, 7 mai. 2025. Acesso em 12 out. 2026.
 [^overmundo2006]: Rodrigo Teixeira, ["Lídia Baís: Santa ou Pagã"](http://www.overmundo.com.br/overblog/lidia-bais-santa-ou-paga), *Overmundo*, 15 jul. 2006. Acesso em 12 out. 2026.
 [^dourados2008]: ["Obras de Lídia Baís são tema de cartões postais"](http://www.douradosagora.com.br/noticias/entretenimento/obras-de-lidia-bais-sao-tema-de-cartoes-postais), *Dourados Agora*, 22 abr. 2008. Acesso em 12 out. 2026.
+[^costa2019]: Flávia de Araújo Costa, [*A religiosidade na obra da artista sul-mato-grossense Lídia Baís: uma abordagem semiótica*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/7211), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2019, resumo (p. 7 do PDF). Acesso em 4 nov. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 12, 31-32 e 120-122 do PDF. Acesso em 4 nov. 2026.

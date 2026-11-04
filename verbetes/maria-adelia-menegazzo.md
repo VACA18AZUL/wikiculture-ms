@@ -28,6 +28,8 @@ A tese de José Antonio de Souza (Universidade Estadual de Londrina, 2008), sobr
 
 Em 2024, mediou uma conversa com a escritora Socorro Acioli na programação da Feira Literária de Bonito.[^cgn2024] Em 2026, aparece como uma das três acadêmicas que coordenam o clube de leitura Leituras & Conversas, da ASL, junto com [[lenilde-ramos|Lenilde Ramos]] e [[sylvia-cesco|Sylvia Cesco]].[^critica2026]
 
+Na apresentação do livro *Artes plásticas em Mato Grosso do Sul* (2005), de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], Idara Duncan e Yara Penteado, Menegazzo destacou que a obra abria espaço para que as artes plásticas do estado fossem conhecidas e discutidas, segundo a dissertação de Grazielli Alves de Lima (UFGD, 2012), que cita o texto.[^glima2012]
+
 ## Obras
 
 - *Alquimia do verbo e das tintas nas poéticas de vanguarda* (1991) — ensaio; Editora da UFMS e CECITEC.[^asl]
@@ -44,3 +46,4 @@ Em 2024, mediou uma conversa com a escritora Socorro Acioli na programação da 
 [^cgn2024]: Thailla Torres, ["Confira a programação da Feira Literária de Bonito desta sexta-feira"](https://www.campograndenews.com.br/lado-b/diversao/confira-a-programacao-da-feira-literaria-de-bonito-desta-sexta-feira), *Campo Grande News*, 5 jul. 2024. Acesso em 29 out. 2026.
 [^critica2026]: Ricardo Eugenio, ["Clube de leitura da ASL debate Elias Borges nesta quinta (8) em Campo Grande"](https://acritica.net/eventos/academia-letras-clube-leitura-elias-borges-campo-grande/), *A Crítica de Campo Grande*, 5 out. 2026. Acesso em 29 out. 2026.
 [^souza2008]: José Antonio de Souza, [*Literatura e identidade cultural em MS: algumas fronteiras e a (des)identificação com o Pantanal*](https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2008, p. 34-35 (numeração impressa), e referências. Acesso em 4 nov. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 69 do PDF. Acesso em 4 nov. 2026.

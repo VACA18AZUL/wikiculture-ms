@@ -6,3 +6,7 @@ Fonte nova: José Antonio de Souza, *Literatura e identidade cultural em MS: alg
 
 - Acrescentado: citações de Menegazzo (2001, p. 121; 2006, p. 17) resumidas; termo "ditadura da figura" atribuído a ela por Souza.
 - O texto de 2006 citado por Souza não aparece nas referências da tese; as referências trazem textos dela de 2000, 2001 ("Representações literárias de Mato Grosso...", em *Literatura comparada: interfaces e transições*, UCDB/UFMS) e 2003 ("Representações artísticas e limites espaciais: o regionalismo revisitado", em *Ensaios farpados*, UCDB). Não entraram na lista de obras (capítulos, sem conferência em outra fonte).
+
+## Atualização de 2026-11-04 (r11)
+
+- G. Lima (UFGD, 2012), p. 69 do PDF: citação da apresentação de Menegazzo (2005, s/p.) em Artes plásticas em Mato Grosso do Sul.
