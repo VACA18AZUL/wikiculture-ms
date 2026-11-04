@@ -5,7 +5,7 @@ areas: [teatro]
 resumo: Ator e produtor de teatro de Mato Grosso do Sul, do elenco de Uma Moça na Cidade e de outras peças do Grupo UBU e de O Bem-Amado, do Fulano di Tal.
 ficha:
   Atividade: Atuação, produção teatral
-  Grupos: Grupo UBU; Fulano di Tal
+  Grupos: Grupo UBU
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -27,7 +27,7 @@ Em 2025, aparece como produtor e ator do projeto [[escambo-ubu-fronteiras-do-mat
 - [[uma-moca-na-cidade|*Uma Moça na Cidade*]] (circulação de 2023 e 2025) — atuação; em 2025, também produção; Grupo UBU.[^cgn2023a][^cgn2025a]
 - *A Fabulosa História do Guri-Árvore* (apresentações de 2023) — atuação, direção de arte, encenação e maquiagem; direção de Marcelo Leite.[^cgn2023b]
 - [[o-bem-amado-fulano-di-tal|*O Bem-Amado*]] (circulação de 2024; temporada de 2026) — atuação; Fulano di Tal.[^cgn2024][^critica2026]
-- [[pelega-e-a-porca-prenha|*Pelega & Porca Prenha – Episódio: Na Mata do Pequi*]] (2025) — atuação; Grupo UBU.[^cgn2025b]
+- [[pelega-e-a-porca-prenha|*Pelega & Porca Prenha – Episódio: Na Mata do Pequi*]] (2025) — atuação; festival UBU ERÊ.[^cgn2025b]
 
 [^cgn2023a]: Thailla Torres, ["Municípios vão receber espetáculo gratuito 'Uma moça da cidade'"](https://www.campograndenews.com.br/lado-b/diversao/municipios-vao-receber-espetaculo-gratuito-uma-moca-da-cidade), *Campo Grande News*, 28 maio 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Jéssica Fernandes, ["Memórias da infância e Manoel de Barros inspiram espetáculo gratuito"](https://www.campograndenews.com.br/lado-b/diversao/memorias-da-infancia-e-manoel-de-barros-inspiram-espetaculo-gratuito), *Campo Grande News*, 9 set. 2023. Acesso em 4 nov. 2026.

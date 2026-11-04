@@ -7,7 +7,7 @@ resumo: Coletivo e projeto de grafite de Campo Grande, idealizado por San Martin
 ficha:
   Primeira edição: "2023, Vila Marli"
   Periodicidade: Anual, em março (Dia do Graffiti)
-  Realização: San Martinez
+  Idealização: San Martinez
 status: rascunho
 atualizado: 2026-11-04
 ---
