@@ -74,3 +74,7 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou: formação (as duas versões), cargos, projetos de extensão, publicações. Ficou de fora a matéria do Campo Grande News (não lida).
+
+## Revisão de 2026-11-04 (valn-16)
+
+- Conexao relido via WebFetch (Dialnet bloqueia curl). Trechos de credenciais reescritos. Todas as fontes ligadas ao biografado ou à UFMS: falta fonte independente.

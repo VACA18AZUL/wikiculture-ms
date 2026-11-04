@@ -40,7 +40,7 @@ Fontes descartadas e o motivo:
 ### Exposições, apresentações, prêmios
 
 - Homenageada pelos Correios em 24 jun. 2010, na II Oficina de Incentivo à Leitura e à Informação, no Paço Municipal Prefeito Rosário Congro [rcn2010][pmtl2010].
-- Estudo acadêmico: dissertação de mestrado em Letras na UFGD, "Nas águas do tempo: memorialismo em Flora Thomé", de Daura Del Vigna Galvão, orientada por Paulo Bungart Neto (grafia da fonte: "Paulo Bugart Neto"), com foco em *Retratos*; antes, monografia de especialização de 2009, "Flora Thomé, uma flâneuse em Três Lagoas" [rcn2013].
+- Estudo acadêmico: dissertação de mestrado em Letras na UFGD, "Nas águas do tempo: memorialismo em Flora Thomé", de Daura Del Vigna Galvão, orientada por "Paulo Bugart Neto" (grafia da fonte; não conferida), com foco em *Retratos*; antes, monografia de especialização de 2009, "Flora Thomé, uma flâneuse em Três Lagoas" [rcn2013].
 - Anunciada como homenageada da 9ª Feira Literária de Bonito (Flib), 17 a 21 set. 2025 [rcn2025].
 
 ### Ficha (caixa lateral)
@@ -57,7 +57,7 @@ Fontes descartadas e o motivo:
 | academia-sul-mato-grossense-de-letras | integrou | rcn2013 | sim/conferir | sim |
 | emmanuel-marinho | relacionado-a (sucessor na cadeira 33) | asl | sim | sim |
 | feira-literaria-de-bonito-flib | homenageado-por (anúncio) | rcn2025 | sim | sim |
-| branca-emy-tanaka | colaborou-com | rcn2014b | conferir | conferir |
+| branca-emy-tanaka | colaborou-com | rcn2014b | não | não (proposto) |
 
 ## Não confirmado
 

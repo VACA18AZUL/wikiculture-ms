@@ -43,3 +43,7 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo acima, exceto o e-mail (dado pessoal) e o site do Google (sem dados). Verbete curto, fonte única: precisa de reforço.
+
+## Revisão de 2026-11-04 (valn-16)
+
+- O resumo Even3 fala em terceira pessoa de 'um professor'; o verbete agora diz isso, sem afirmar que as aulas e a direção são dele. Fonte única.

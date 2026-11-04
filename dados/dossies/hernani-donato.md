@@ -39,3 +39,7 @@ Wikipédia: https://pt.wikipedia.org/wiki/Hernâni_Donato (lida como conferênci
 ## Uso no verbete
 
 - Entrou: atividade, ASL, Selva Trágica (com as duas datas), viagens, adaptações. Fora: dados de nascimento (só na Wikipédia), lista de obras não ligadas a MS.
+
+## Revisão de 2026-11-04 (valn-17)
+
+- "Paulista" saiu do verbete: nenhuma fonte citada dá o local de nascimento (só a Wikipédia, que não serve de nota).

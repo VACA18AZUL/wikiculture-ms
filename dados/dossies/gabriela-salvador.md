@@ -33,3 +33,7 @@ Buscas sem resultado útil: "Gabriela Salvador" dança UEMS; "Gabriela Di Donato
 ## Fora do verbete
 
 - E-mail e identificação étnica que a autora dá de si (dado pessoal). Ano da estreia tratado como anúncio.
+
+## Revisão de 2026-11-04 (valn-16)
+
+- Citação do CGN e dois trechos da Urdimento parafraseados (estavam copiados).

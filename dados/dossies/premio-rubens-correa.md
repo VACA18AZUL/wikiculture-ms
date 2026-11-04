@@ -21,3 +21,7 @@ Descartadas: "Fundação de Cultura volta atrás e relança os 21 editais promet
 - Primeira edição, periodicidade, outros contemplados, se a edição de 2015/2016 saiu de fato.
 - Quem foi Rubens Corrêa (homenageado): nenhuma fonte aberta nesta sessão; não escrito.
 - Pista: Diário Oficial de MS / site da FCMS (resultados de editais 2011-2016).
+
+## Revisão de 2026-11-04 (valn-16)
+
+- As duas notas são do Campo Grande News; precisa de fonte de outro veículo (FCMS, Diário Oficial).

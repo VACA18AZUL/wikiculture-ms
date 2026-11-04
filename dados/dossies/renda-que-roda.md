@@ -44,3 +44,7 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo acima, exceto nomes dos professores colaboradores (sem verbete; podem entrar na revisão) e o projeto Proec (detalhe administrativo).
+
+## Revisão de 2026-11-04 (valn-16)
+
+- Urdimento p. 7: 'integrante do grupo de pesquisa que coordeno desde 2017' — ambíguo, não entrou. pit2021 não diz que o grupo nasceu da disciplina de Danças Afro-Brasileiras, e sim que a experiência relatada começou ali; verbete corrigido. Independência: urd2024 e pit2021 da coordenadora; barros2025 de integrante orientada por ela; só cgn2025 é externa.

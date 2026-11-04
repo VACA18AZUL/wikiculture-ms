@@ -39,3 +39,7 @@ Wikipédia: sem artigo (pt.wikipedia.org/wiki/Valmir_Batista_Corrêa dá 404).
 ## Uso no verbete
 
 - Entrou formação, carreira universitária, cargos culturais, livros e ASL. Cargos partidários e de governo fora da cultura (PSB, Comércio Exterior) ficaram fora: o verbete trata da atuação cultural e historiográfica. Vida familiar fora; Lúcia Salsa Corrêa só como coautora.
+
+## Revisão de 2026-11-04 (valn-17)
+
+- Divergência acrescentada: 2ª edição de *Coronéis e bandidos em Mato Grosso* em 2006 (ASL) e em 2015 (pergunta da entrevista na Trilhas da História). As duas foram para o verbete.

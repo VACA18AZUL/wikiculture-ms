@@ -41,3 +41,7 @@ Descartadas: artigo da revista Teias (UERJ) que cita o projeto: servidor fora do
 ## Uso no verbete
 
 Tudo acima entrou, exceto área/aparelhos detalhados do CLUCIEFE e razão monitor/criança (excesso de detalhe).
+
+## Revisão de 2026-11-04 (valn-16)
+
+- Inscrições de 2025 agora como anúncio. Páginas do artigo: 1-12. Fontes ligadas à equipe/UFMS.

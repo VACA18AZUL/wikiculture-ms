@@ -57,3 +57,10 @@ Fonte que não abriu: artigo do ENIC/UEMS sobre *Mato Grosso do Sul nas asas do 
 
 - Entrou: tudo acima.
 - Ficou de fora: endereço do local de lançamento (rua de bairro residencial; possível endereço pessoal).
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fonte de outro veículo (aberta e lida): Redação, "Cordelista Aurineide Alencar transforma clássicos da literatura em obras acessíveis", Correio do Estado, 31 jul. 2025. https://correiodoestado.com.br/correio-b/cordelista-aurineide-alencar-transforma-classicos-da-literatura-em/452132/
+Sustenta: naturalidade (Catolé do Rocha, PB); Kombi adaptada como Cordelteca Itinerante / Cantinho do Cordel, em feiras, escolas e exposições; coleção *Cordel Conta o Conto* (10 releituras, vídeos com legendas e Libras), lançamento na Sitioca Cantinho do Cordel, Dourados. Não informa ano de aposentadoria nem tiragem. Notas [^ce2025] em Trajetória e Obras.
+Possível divergência/dúvida: os títulos da coleção de 2025 (Os Três Porquinhos, O Patinho Feio, Chapeuzinho Vermelho, O Gato de Botas) diferem das dez fábulas de 2024 do CGN (A Lebre e a Raposa etc.); o verbete registra que a matéria não esclarece a relação. Mesmo assim, o CGN de 2024 fala em dez fábulas e o Correio de 2025 em dez releituras: podem ser coleções distintas.
+Abertas sem sucesso (503/403): O Progresso (cordelteca; Nas Asas do Cordel; homenagem em festival nacional, abr. 2026), Dourados News. Não abertas: Midiamax, RCN67, Folha de Dourados, Douranews, A Onça (homenagem em festival nacional, abr. 2026), Diário MS News, blog da Academia dos Cordelistas de MS (https://acomsoficial.blogspot.com/p/aurineide-alencar.html). Pista forte para nova rodada: O Progresso "Aurineide Alencar lança Mato Grosso do Sul, Nas Asas do Cordel" (resolve a obra de 2014) e a homenagem de 2026 (Juazeiro do Norte).

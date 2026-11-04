@@ -17,6 +17,8 @@ atualizado: 2026-11-04
 
 Depois de se aposentar, em 2019, montou uma cordelteca itinerante numa Kombi vermelha, com mais de dois mil títulos de cordel, clássicos e contemporâneos, de várias regiões do país. A ação integra o projeto Cordel na Periferia – Cordelteca Itinerante Cantinho do Cordel, que recebeu incentivo da Lei Paulo Gustavo e apoio da Prefeitura de Dourados.[^cgn2024a]
 
+O *Correio do Estado* também a apresenta como nascida em Catolé do Rocha, no sertão da Paraíba, e registra que adaptou uma Kombi para a Cordelteca Itinerante, também chamada Cantinho do Cordel, que circula por feiras, escolas e exposições.[^ce2025]
+
 Em 2022, estava entre os autores anunciados na segunda edição da [[felit-ms|Feira Literária de Mato Grosso do Sul]] (Felit-MS), em Dourados.[^correio2022]
 
 ## Obras
@@ -35,6 +37,9 @@ Em 2024, publicou dez fábulas clássicas recontadas em cordel, com lançamento 
 - *A Pantera e a Raposa* (2024)[^cgn2024a]
 - *Lenda: 700 Luas* (2024), um dos 25 livros do projeto [[palavras-alem-do-tempo|Palavras Além do Tempo]], da editora [[vida-producoes|Vida Produções]], com lançamento conjunto marcado para 23 de dezembro de 2024 na Casa de Cultura, em Campo Grande.[^cgn2024b]
 
+Em matéria de 31 de julho de 2025, o *Correio do Estado* descreveu a coleção *Cordel Conta o Conto*, com dez releituras em cordel de contos clássicos, entre elas "Os Três Porquinhos", "O Patinho Feio", "Chapeuzinho Vermelho" e "O Gato de Botas", todas com vídeos com legendas e Libras. O lançamento ocorreu em Dourados, na Sitioca Cantinho do Cordel. Os títulos citados são diferentes das fábulas de 2024 listadas acima, e a matéria não esclarece a relação entre as duas coleções.[^ce2025]
+
 [^cgn2024a]: Idaicy Solano, ["Aurineide transformou magia de fábulas em literatura de cordel"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aurineide-transformou-magia-de-fabulas-em-literatura-de-cordel), *Campo Grande News*, 31 maio 2024. Acesso em 4 nov. 2026.
 [^cgn2024b]: Thailla Torres, ["Campo Grande recebe lançamento de 25 livros no mesmo dia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/campo-grande-recebe-lancamento-de-25-livros-no-mesmo-dia), *Campo Grande News*, 17 dez. 2024. Acesso em 4 nov. 2026.
 [^correio2022]: Cauê Reis, ["Festival literário segue até quinta e terá lançamento de livros e revista"](https://correiodoestado.com.br/correio-b/festival-literario-segue-ate-quinta-e-tera-lancamento-de-livros-e/407968/), *Correio do Estado*, 29 nov. 2022. Acesso em 4 nov. 2026.
+[^ce2025]: Redação, ["Cordelista Aurineide Alencar transforma clássicos da literatura em obras acessíveis"](https://correiodoestado.com.br/correio-b/cordelista-aurineide-alencar-transforma-classicos-da-literatura-em/452132/), *Correio do Estado*, 31 jul. 2025. Acesso em 4 nov. 2026.

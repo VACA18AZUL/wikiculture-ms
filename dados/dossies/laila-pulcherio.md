@@ -34,3 +34,7 @@ Agente w10-2, 2026-11-04. Situação: rascunho (verbetes/laila-pulcherio.md).
 ## Uso no verbete
 
 Todos os fatos entraram, com verbos de anúncio para eventos futuros à data da fonte (2014 sessões "marcadas"; vivência "receberia"; mostra "marcada").
+
+## Revisão de 2026-11-04 (valn-16)
+
+- Texto da FCMS lido pela API WordPress (página HTML vem sem corpo). Post FCMS de 27 mai. 2024 ('Com recursos do FIC, 8ª Edição da Pantalhaç@s...') a chama de 'produtora cultural' e 'uma das idealizadoras da mostra': pista para atualização, não usada.
