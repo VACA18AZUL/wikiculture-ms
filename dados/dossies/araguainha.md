@@ -22,3 +22,7 @@
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Buscas restritas a FCMS, Agência de Notícias, Correio do Estado, A Crítica, Campo Grande News, Midiamax, Dourados Agora e UFGD por Araguainha, Waldemar e chamamé: nenhum resultado sobre o sanfoneiro (o nome remete ao município de Mato Grosso). Busca pela coletânea "Os Grandes Acordeonistas do MS" e pelo selo Discos Xaraés: nada. Nada alterado. Segue "reforcar".
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: FCMS ("Araguainha") sem resultado. Continua só com as descrições do Acervo Digital Memória Fonográfica de MS.

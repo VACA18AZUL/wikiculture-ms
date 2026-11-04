@@ -22,3 +22,7 @@
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Buscas (Bataclã/Bataclan com Aquidauana, Paulo Corrêa de Oliveira, CERA; também restritas a FCMS, Agência, Correio do Estado, Campo Grande News, UFMS, UEMS): nada sobre o grupo. Resultado relevante ao diretor, já usado em outro verbete: Ziliani (Perspectiva, UFSC, 2016), sobre o Grupo Teatral do CERA (1974 a 2001); não cita o Bataclã. Nada alterado. Segue "reforcar".
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: FCMS ("Grupo Bataclan", "Bataclã") sem resultado. Continua só com Moser (que resume Sá Rosa, 1992).

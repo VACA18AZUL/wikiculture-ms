@@ -20,3 +20,7 @@ Segunda fonte: não encontrada. Nada mudou.
 - Buscas abertas por FESSUL com TV Morena, Kananciuê, ACABA, Almir Sater, boicote: nenhum resultado fora da dissertação de Caetano (UFGD, 2012).
 - Apareceu o artigo de *Música Popular em Revista* (econtents.bc.unicamp.br/inpec/index.php/muspop/article/download/13018/8387/24958); o host não resolve na rede da sessão (precisa ser liberado). Pista forte.
 - Lido: Sotana, "TV Morena, política e a Copa do Mundo de 1970" (anais ANPUH): cobre 1965-1976, não o festival.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: FCMS e Correio do Estado sem matéria sobre o festival de 1979-1981 (acervo digital online só a partir dos anos 2000). Continua com fonte única (Caetano). Sugestão: Simões e Fonseca (UFMS, 1981) ou acervo físico do Correio do Estado.

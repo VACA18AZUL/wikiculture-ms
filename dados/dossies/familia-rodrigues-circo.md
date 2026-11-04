@@ -34,3 +34,7 @@ A matéria se contradiz: Ligia aparece como idosa de Ribas do Rio Pardo que não
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Busca aberta (Boca de Cena 2024, lona, Ribas do Rio Pardo, família Rodrigues): só matérias já conhecidas do CGN e Correio da Manhã/O Estado Online; nenhuma cita a família. Nada mudou.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: FCMS, comunicados da 15ª Mostra Boca de Cena (14 e 15 maio 2024) lidos; não citam a Família Rodrigues. Correio do Estado: sem resultado. O Estado Online e Campo Grande News seguem como fontes. Nada acrescentado.

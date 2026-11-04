@@ -40,3 +40,15 @@ Descartados: IMDb/WatchWhatWhere (outro João Dias, ator de Campinas, 1927-1996)
 ## Uso no verbete
 
 - Entrou tudo acima, sem detalhes familiares. Fontes do mesmo veículo.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fonte nova (outro veículo: portal da Fundação de Cultura de MS):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2021 | Karina Medeiros de Lima, "Projeto Campo Grande em Cena começa nesta quinta-feira...", FCMS, 4 nov 2021 | https://www.fundacaodecultura.ms.gov.br/projeto-campo-grande-em-cena-comeca-nesta-quinta-feira-com-uma-programacao-recheada-de-muita-arte-cultura-e-oficinas/ | sim |
+
+Reforço: *O Fruto*, de João Dias (Dourados), está na programação do Campo Grande em Cena (6 nov. 2021, 19h30, Sesc Cultura); sete espetáculos selecionados por edital, FIC 2019 e parceria do Sesc. Confirma de forma independente a seleção e a cidade (Dourados).
+Pequena divergência interna da fonte: o texto diz "de 04 a 13 de novembro" e, no serviço, "03 a 13 de novembro"; o verbete diz só "novembro de 2021".
+Sem segunda fonte: processo criativo (oficina de 2018 com João Rocha), direção de Társila Bonelli e apresentação no Campão Cultural 2022 (só CGN). A FCMS também lista, na Semana Pra Dança 2018, o solo "Delírios", de Társila Bonelli (Cia Theastai); não entrou, pois não trata de João Dias. Busca no Correio do Estado não retornou resultados úteis.

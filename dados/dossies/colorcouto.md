@@ -49,3 +49,7 @@ Nenhuma.
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Fonte única continua sendo Diehl (UFMS, 2009). Buscas por Alexandre Couto, Reinaldo Dorval, os títulos dos filmes sertanejos, Aljor Filmes e Vídeo Eventos não trouxeram fonte independente. Lido: CGN, Paula Maciulevicius, "Por uma questão de honra, produtores criam petição para ver filme na telona" (10 jul. 2013): trata do longa *Honra* (direção de Alexandre Couto, roteiro e atuação de Reinaldo Dorval, produção executiva de Marcelo Dorval); não cita os filmes sertanejos, as produtoras nem José Piranha Rocha. Não serve de segunda fonte para este verbete. Nada alterado. Segue "reforcar". Pista: acervo do MIS-MS, imprensa de Campo Grande dos anos 1980 e 1990, nova tentativa de abrir a dissertação de Flaviana de Sá (UCDB) e Campestrini (1976).
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: FCMS sem resultado. Continua com fonte única (dissertação de Diehl).

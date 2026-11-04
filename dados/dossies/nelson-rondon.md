@@ -50,3 +50,7 @@ Nenhuma.
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Buscas abertas (Couto, Dorval, filmes sertanejos): só Diehl e matérias do CGN sobre *Honra* (2013) e sobre Couto (2018), que não citam Nelson Rondon.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: FCMS e Correio do Estado sem matéria sobre o ator/técnico. Continua com fonte única (dissertação de Diehl, UFMS). Sugestão: outros trabalhos de Carlos Rodrigo Diehl em periódicos, Cinemateca/MIS-MS.

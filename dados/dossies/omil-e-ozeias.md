@@ -15,3 +15,7 @@ Segunda fonte: não buscada; a cota de buscas na web desta rodada acabou. Pista:
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Busca aberta por "Paizinho e Florito" / "Omil e Ozeas" com LP 1974 e CGS: só duplas homônimas e discos sem relação. Nada mudou.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: FCMS (busca por "Omil") devolve resultados irrelevantes. Continua só com a descrição do Acervo Digital Memória Fonográfica de MS.

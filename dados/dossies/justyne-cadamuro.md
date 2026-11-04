@@ -50,3 +50,7 @@ Já registradas em dados/relacoes.csv (acervo-em marco; premiado-por salao-de-ar
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Buscas abertas (Salão de Artes 2010, prêmio-aquisição MARCO; "Cadamuro" escultura): só o artigo da ANPUH já citado. Sem página de acervo do MARCO ou de Mapas Culturais. Resultado de Pivô sobre outra artista não aproveitado. Nada mudou.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: FCMS (busca por nome, Sarracenia, Salão de Artes): sem resultado; Correio do Estado ("Cadamuro"): sem matéria da artista; Campo Grande News: busca devolve só a página inicial. Continua com fonte única (anais ANPUH). Sugestão: catálogo do MARCO ou do Salão de Artes de MS 2010.
