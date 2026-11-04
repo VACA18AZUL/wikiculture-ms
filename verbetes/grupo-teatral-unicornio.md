@@ -13,7 +13,7 @@ O **Grupo Teatral Unicórnio** é um grupo de teatro infantil de Mato Grosso do 
 
 ## Trajetória
 
-Segundo a Fundação de Cultura de MS, o grupo foi fundado em setembro de 1986, em Campo Grande, e trabalha só com espetáculos para crianças.[^fcms2015amelia] Em 2016, Jair de Oliveira contou que montou o Unicórnio com Ivaldo, amigo que trouxe de São Paulo, e com a atriz Amélia Rocha. Ela aparece no elenco das peças do grupo listadas pela Fundação entre 2015 e 2021, como *A Vassoura da Bruxa*, *A Roupa Nova do Imperador* e *O Elefante Lindinho*.[^fcms2016amelia][^fcms2017amelia][^fcms2021amelia]
+Segundo a Fundação de Cultura de MS, o grupo foi fundado em setembro de 1986, em Campo Grande, e trabalha só com espetáculos para crianças.[^fcms2015amelia] Em 2016, Jair de Oliveira contou que montou o Unicórnio com Ivaldo, amigo que trouxe de São Paulo, e com a atriz Amélia Rocha. Ela aparece no elenco das peças do grupo listadas pela Fundação entre 2015 e 2021, como *A Vassoura da Bruxa*, *A Roupa Nova do Imperador* e *O Sapo Encantado e Outras Histórias*.[^fcms2016amelia][^fcms2017amelia][^fcms2021amelia]
 
 Em janeiro de 2016, o grupo organizou o projeto Temporada Teatral de Férias, apresentado como o início das comemorações de seus 30 anos no teatro infantil do estado. A temporada, em parceria com a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] e com apoio do Sicredi, foi anunciada para os fins de semana de 9 a 31 de janeiro, no auditório do [[marco|Museu de Arte Contemporânea]], com entrada gratuita. Segundo Jair de Oliveira, era a primeira vez que o projeto conseguia ser gratuito.[^sicredi2016]
 

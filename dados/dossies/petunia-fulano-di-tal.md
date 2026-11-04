@@ -39,3 +39,9 @@ Fonte única. Busca na A Crítica sem resultado; Brave com limite (429). Endere�
 ## Uso no verbete
 
 - Tudo acima; circulação após Rochedo dita como programada.
+
+## Atualização de 2026-11-04 (validação valn-25)
+
+- A circulação foi financiada pelo FIC-MS/FCMS: a única nota (FCMS) não conta como fonte independente.
+- Busca de segunda fonte: A Crítica (sem resultado), Midiamax (502), sites das prefeituras de Bodoquena e São Gabriel do Oeste (sem resultado). Nada novo lido.
+- Sugestões: Instagram @fulanodital (perfil do grupo, para links), Campo Grande News e Correio do Estado de dez. 2025, prefeituras de Rochedo, Miranda e Guia Lopes da Laguna.

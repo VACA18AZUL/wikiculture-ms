@@ -10,17 +10,17 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Mel Dias** é uma cantora e compositora sul-mato-grossense de rap, que trabalha como artista independente em Campo Grande.[^cgn2025][^cgn2026]
+**Mel Dias** é uma cantora e compositora sul-mato-grossense de rap, que trabalha como artista independente em Mato Grosso do Sul.[^cgn2025][^cgn2026]
 
 ## Trajetória
 
 Segundo o *Campo Grande News*, Mel Dias começou na música aos 17 anos, depois de conhecer as batalhas de rap de Campo Grande. Suas letras tratam da vida na periferia e das mulheres que nela vivem.[^cgn2026] Entre as canções citadas pelo jornal estão "A Preta Chegou" e "Larica Lírica".[^cgn2025]
 
-Em julho de 2024, apresentou o show *Deusa da Favela* no festival [[o-canto-delas|O Canto Delas]].[^cgn2025] Em 25 de julho de 2025, Dia Internacional da Mulher Negra Latino-Americana e Caribenha, lançou o single "Pimenta", em ritmo de dancehall afro, com produção de Ricky Ivybez e mixagem de Prinssi. A artista anunciou na ocasião mais dois singles, um EP para dezembro de 2025 e um álbum para 2026.[^cgn2025]
+As fontes divergem sobre a estreia do show *Deusa da Favela*: uma reportagem de 2025 diz que ele foi apresentado em julho de 2024, no festival [[o-canto-delas|O Canto Delas]]; outra, de 2026, situa o show em 2023.[^cgn2025][^cgn2026] Em 25 de julho de 2025, Dia Internacional da Mulher Negra Latino-Americana e Caribenha, lançou o single "Pimenta", em ritmo de dancehall afro, com produção de Ricky Ivybez e mixagem de Prinssi. A artista anunciou na ocasião mais dois singles, um EP para dezembro de 2025 e um álbum para 2026.[^cgn2025]
 
 Em junho de 2026, lançou o clipe de "Deusa da Favela", gravado no bairro Dom Antônio Barbosa, em Campo Grande. A canção reúne versos escritos ao longo de anos e chegou à forma final depois do show de mesmo nome. No clipe, a cantora usa o vestido do espetáculo.[^cgn2026]
 
-Em 2026, foi uma das dez artistas entrevistadas no documentário [[cenalternativa-2-mulheres-da-nova-musica|CenAlternativa 2: Mulheres da Nova Música do MS – Parte 1]], do duo Vozmecê, lançado em 29 de outubro na Casa de Cultura de Campo Grande.[^acritica2026]
+Em 2026, foi uma das dez artistas entrevistadas no documentário [[cenalternativa-2-mulheres-da-nova-musica|CenAlternativa 2: Mulheres da Nova Música do MS – Parte 1]], do duo Vozmecê, com lançamento marcado para 29 de outubro na Casa de Cultura de Campo Grande.[^acritica2026]
 
 ## Discografia
 
@@ -29,7 +29,7 @@ Em 2026, foi uma das dez artistas entrevistadas no documentário [[cenalternativ
 
 ## Espetáculos
 
-- *Deusa da Favela* (2024) — show; apresentado no festival O Canto Delas.[^cgn2025]
+- *Deusa da Favela* (2023 ou 2024; as fontes divergem) — show; apresentado no festival O Canto Delas em julho de 2024.[^cgn2025][^cgn2026]
 
 ## Videografia
 

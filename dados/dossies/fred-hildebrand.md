@@ -37,6 +37,8 @@ Descartada: Omelete "Conheça o Homem-Grilo" (só resumo de busca, não lida; di
 
 - FCMS diz que ele é responsável por toda a arte de Homem-Grilo; Omelete (não lida) atribui o desenho a Ricardo Marcelino. No verbete fica a versão da FCMS, atribuída, e a menção do site oficial apenas ao que ele desenhou.
 
+- Wikipédia (pt, aberta em 4 nov. 2026): Patre Primordium "a partir de 2005", com roteiro de Ana Recalde × FCMS: 2009-2012. Wikipédia: arte-final de Hansel & Gretel (2016, NewPOP) e artista oficial de Homem-Grilo desde 2021 (refs. Universo HQ, Campo Grande News 2024, Midiamax 2024, não abertas). Não entram no verbete sem leitura da fonte.
+
 ## Uso no verbete
 
 - Entrou o acima. Ficou fora: valores das oficinas; a HQ extra condicionada à meta (não se sabe se saiu).

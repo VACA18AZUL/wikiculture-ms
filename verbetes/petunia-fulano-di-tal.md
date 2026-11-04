@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Petúnia*** é um espetáculo de teatro do grupo [[fulano-di-tal|Fulano di Tal]], com dramaturgia, direção e produção de [[edner-gustavo|Edner Gustavo]]. Estreou em 7 de dezembro de 2025, no Clube Chicão, em Rochedo, como parte da comemoração dos 22 anos do grupo.[^fcms2025]
+***Petúnia*** é um espetáculo de teatro do grupo [[fulano-di-tal|Fulano di Tal]], escrito, dirigido e produzido por [[edner-gustavo|Edner Gustavo]]. Estreou em 7 de dezembro de 2025, no Clube Chicão, em Rochedo, como parte da comemoração dos 22 anos do grupo.[^fcms2025]
 
 ## Criação e circulação
 

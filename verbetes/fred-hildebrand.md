@@ -7,6 +7,10 @@ resumo: Quadrinista e ilustrador de Campo Grande, formado em artes visuais pela 
 ficha:
   Atividade: Quadrinhos, ilustração, ensino de mangá
   Formação: Artes Visuais (UFMS)
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Fred_Hildebrand
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---
