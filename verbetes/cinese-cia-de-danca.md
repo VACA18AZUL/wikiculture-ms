@@ -3,7 +3,7 @@ titulo: Cinese Cia de Dança
 tipo: grupo
 areas: [danca]
 cidade: Campo Grande
-resumo: "Companhia de dança de Campo Grande; criou Trilhos da Terra, premiado na categoria Novos Criadores do Prêmio Célio Adolfo de Incentivo à Dança 2013, e participou da Semana pra Dança em 2014 e 2015."
+resumo: "Companhia de dança de Campo Grande; criou Trilhos da Terra, premiado na categoria Novos Criadores do Prêmio Célio Adolfo de Incentivo à Dança 2013, e esteve na programação da Semana pra Dança em 2014 e 2015."
 ficha:
   Integrantes citados: "Flávia Laís Alarcon (2015), Eduardo Campos (2016)"
 status: rascunho
@@ -14,9 +14,9 @@ A **Cinese Cia de Dança**, citada também como Cia. Cinese, é uma companhia de
 
 ## Trajetória
 
-Com *Trilhos da Terra*, a companhia foi premiada na categoria Novos Criadores do [[premio-celio-adolfo|Prêmio Célio Adolfo de Incentivo à Dança]] 2013, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. Um trecho do espetáculo foi apresentado no [[mis-ms|Museu da Imagem e do Som]] em 7 de abril de 2014, na abertura da 8ª [[semana-pra-danca|Semana pra Dança]].[^cgn2014]
+Com *Trilhos da Terra*, a companhia foi premiada na categoria Novos Criadores do [[premio-celio-adolfo|Prêmio Célio Adolfo de Incentivo à Dança]] 2013, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. A programação da 8ª [[semana-pra-danca|Semana pra Dança]], divulgada em abril de 2014, previa um trecho do espetáculo no [[mis-ms|Museu da Imagem e do Som]] em 7 de abril, primeiro dia do evento.[^cgn2014]
 
-Em maio de 2015, a companhia integrou a mostra de dança da abertura oficial da Semana pra Dança, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], ao lado de outros grupos de Campo Grande, Corumbá, Dourados e Aquidauana.[^fcms2015a] Na mesma edição, a Fundação de Cultura apresentou Flávia Laís Alarcon, professora de balé, jazz e dança de salão, como integrante da Cia. Cinese.[^fcms2015b] Em agosto de 2016, outra matéria da Fundação citou um jovem que fazia teatro e dança e participava da companhia.[^fcms2016]
+Em maio de 2015, a Fundação de Cultura anunciou a companhia na mostra de dança da abertura oficial da Semana pra Dança, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], ao lado de outros grupos de Campo Grande, Corumbá, Dourados e Aquidauana.[^fcms2015a] Na mesma edição, a Fundação de Cultura apresentou Flávia Laís Alarcon, professora de balé, jazz e dança de salão, como integrante da Cia. Cinese.[^fcms2015b] Em agosto de 2016, outra matéria da Fundação citou um jovem que fazia teatro e dança e participava da companhia.[^fcms2016]
 
 Em março de 2017, o grupo se apresentou no encerramento da Semana do Artesão, na Praça dos Imigrantes, em Campo Grande.[^fcms2017]
 

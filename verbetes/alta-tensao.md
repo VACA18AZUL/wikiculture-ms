@@ -11,19 +11,19 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Alta Tensão** é uma banda de heavy metal de Campo Grande. A imprensa e a Fundação de Cultura de MS (FCMS) a tratam como marco do gênero na cidade.[^cgn2017][^fcms2024a]
+**Alta Tensão** é uma banda de heavy metal de Campo Grande. O *Campo Grande News* a chamou de marco do heavy metal na cidade.[^cgn2017][^cgn2023]
 
 ## Trajetória
 
-Segundo o *Campo Grande News* e a FCMS, a banda foi criada em 1981 pelo guitarrista Edson David, com os irmãos [[adilson-big-fernandes|Adilson Fernandes]] e Marcos Fernandes, que tinham se mudado de São Paulo para Campo Grande.[^cgn2017][^fcms2017] Em 2023, o mesmo jornal disse que Adilson Big Fernandes fundou a banda em meados dos anos 1980.[^cgn2023]
+Segundo o *Campo Grande News* e a Fundação de Cultura de MS (FCMS), a banda foi criada em 1981 pelo guitarrista Edson David, com os irmãos [[adilson-big-fernandes|Adilson Fernandes]] e Marcos Fernandes, que tinham se mudado de São Paulo para Campo Grande.[^cgn2017][^fcms2017] Em 2023, o mesmo jornal disse que Adilson Big Fernandes fundou a banda em meados dos anos 1980.[^cgn2023]
 
-O baterista Bosco entrou em 1984, a convite de Adilson, segundo o *Campo Grande News*; a FCMS o inclui na primeira formação. Depois da saída dos irmãos Fernandes, Alex Batata passou a integrar a banda.[^cgn2017][^fcms2017] A FCMS conta que o [[bando-do-velho-jack|Bando do Velho Jack]] nasceu da união da Blues Band com o Alta Tensão e teve Alex Batata como primeiro vocalista.[^fcms2025]
+O baterista Bosco entrou em 1984, a convite de Adilson, segundo o *Campo Grande News*; a FCMS o inclui na primeira formação. Entre as mudanças de formação, a FCMS cita a saída dos irmãos Fernandes e a entrada de Alex Batata.[^cgn2017][^fcms2017] A FCMS conta que o [[bando-do-velho-jack|Bando do Velho Jack]] nasceu da união da Blues Band com o Alta Tensão e teve Alex Batata como primeiro vocalista.[^fcms2025]
 
 A banda gravou três álbuns. O último, *Nigeria*, saiu em 1990, com a banda em formato de trio. A última apresentação foi em 1993, no Jamaica Bar, em Campo Grande, e o grupo encerrou as atividades.[^cgn2017][^fcms2017] Um flyer de show da banda em 1987 faz parte de um acervo particular sobre a história do rock em Mato Grosso do Sul.[^cgn2026]
 
 Em março de 2017, depois de 24 anos fora dos palcos, a banda voltou com show no Blues Bar, formada por Helder Domingues (guitarra e voz), Neylor Dutra (baixo) e Bosco (bateria). A volta foi motivada pelo relançamento em vinil de *Portal do Inferno* pela Since72 Records.[^cgn2017]
 
-No mesmo ano, *Metalmorfose* foi digitalizado e incluído no acervo do [[mis-ms|Museu da Imagem e do Som]], em projeto financiado pelo Fundo de Investimentos Culturais de MS.[^fcms2017] A banda está entre as retratadas no documentário *Barulho do Mato*, de Lucas Arruda, sobre o heavy metal em Campo Grande, com estreia anunciada para o Dia do Rock de 2024.[^fcms2024a][^fcms2024b]
+No mesmo ano, *Metalmorfose* foi digitalizado e incluído no acervo do [[mis-ms|Museu da Imagem e do Som]], em projeto financiado pelo Fundo de Investimentos Culturais de MS.[^fcms2017] A banda está entre as retratadas no documentário *Barulho do Mato*, dirigido por Lucas Arruda e Mariana Sena, sobre o heavy metal em Campo Grande, com estreia anunciada para o Dia do Rock de 2024.[^fcms2024a][^fcms2024b]
 
 ## Discografia
 

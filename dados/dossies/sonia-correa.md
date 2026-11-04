@@ -38,3 +38,7 @@ Observação: a única fonte fora da FCMS é o Correio do Estado de 2015, cujo t
 ## Uso no verbete
 
 - O telefone publicado em fcms2019 ficou fora. O nome da fazenda ficou fora (vida pessoal); o verbete diz só que ela morou numa fazenda no Pantanal, como ela relaciona isso à obra.
+
+## Atualização de 2026-11-04
+
+- Validação valn-37a: buscas no Campo Grande News (buscar?q=Sônia Corrêa) e na API do O Estado MS sem resultado sobre a artista. Segue fonte única de origem (FCMS; o Correio do Estado 2015 reproduz o release).

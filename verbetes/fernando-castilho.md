@@ -3,7 +3,7 @@ titulo: Fernando Castilho
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: Arquiteto e professor de arquitetura em Campo Grande, coautor da revitalização da Morada dos Baís (1993), que estreou como artista visual em 2026 com a individual A violência nossa de cada dia.
+resumo: Arquiteto e professor de arquitetura em Campo Grande, coautor da revitalização da Morada dos Baís (1993), que teve anunciada para abril de 2026 sua estreia como artista visual, com a individual A violência nossa de cada dia.
 ficha:
   Atividade: Arquitetura, ensino e artes visuais
   Formação: "Arquitetura e urbanismo, Rio de Janeiro (1980)"
@@ -11,19 +11,19 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Fernando Castilho** é um arquiteto e professor de arquitetura de Campo Grande que, em 2026, apresentou sua primeira exposição individual como artista visual.[^cgn2026][^acritica2026]
+**Fernando Castilho** é um arquiteto e professor de arquitetura de Campo Grande cuja primeira exposição individual como artista visual foi anunciada para abril de 2026.[^cgn2026][^acritica2026]
 
 ## Trajetória
 
-Formou-se em arquitetura e urbanismo no Rio de Janeiro, em 1980, e foi aluno das artistas plásticas e carnavalescas Rosa Magalhães e Maria Augusta Rodrigues.[^acritica2026] Deu aulas no curso de arquitetura por mais de três décadas.[^acritica2026][^cgn2026]
+Graduou-se em 1980, no Rio de Janeiro, em arquitetura e urbanismo; entre seus professores estiveram Rosa Magalhães e Maria Augusta Rodrigues, artistas plásticas e carnavalescas.[^acritica2026] Deu aulas no curso de arquitetura por mais de três décadas.[^acritica2026][^cgn2026]
 
-Foi coautor da revitalização da [[morada-dos-bais|Morada dos Baís]] e de seu anexo, em 1993, e integrou a equipe do Plano Local das Zonas de Interesse Cultural do Centro de Campo Grande. Participou da II Bienal de Arquitetura de São Paulo, em 1993, com o trabalho *Fragmentos Neobarroco*, e da exposição *Alterações Climáticas: a paz e os seres vivos*, em 2024, em Campo Grande.[^acritica2026]
+Em 1993, assinou com outros autores a revitalização da [[morada-dos-bais|Morada dos Baís]] e do anexo. Fez parte também do grupo que elaborou o Plano Local das Zonas de Interesse Cultural do Centro de Campo Grande. Participou da II Bienal de Arquitetura de São Paulo, em 1993, com o trabalho *Fragmentos Neobarroco*, e da exposição *Alterações Climáticas: a paz e os seres vivos*, em 2024, em Campo Grande.[^acritica2026]
 
-Em abril de 2026, abriu *A violência nossa de cada dia* na [[galeria-de-vidro|Galeria de Vidro]], na [[plataforma-cultural|Plataforma Cultural]]. A mostra reuniu 20 obras em acrílica sobre papel e partiu da violência contra a mulher para tratar de outras formas de violência do cotidiano.[^cgn2026][^acritica2026] Ficou em cartaz de 15 de abril a 4 de maio.[^cgn2026]
+Em abril de 2026, o *Campo Grande News* e *A Crítica* anunciaram *A violência nossa de cada dia* na [[galeria-de-vidro|Galeria de Vidro]], na [[plataforma-cultural|Plataforma Cultural]], com abertura em 15 de abril e visitação até 4 de maio. A mostra trazia 20 obras em acrílica sobre papel e partia da violência contra a mulher para tratar de outras formas de violência do cotidiano.[^cgn2026][^acritica2026]
 
 ## Exposições
 
-- *A violência nossa de cada dia* (2026) — individual; Galeria de Vidro, Campo Grande.[^cgn2026][^acritica2026]
+- *A violência nossa de cada dia* (2026) — individual, anunciada para 15 de abril a 4 de maio; Galeria de Vidro, Campo Grande.[^cgn2026][^acritica2026]
 - *Alterações Climáticas: a paz e os seres vivos* (2024) — Campo Grande.[^acritica2026]
 - II Bienal de Arquitetura de São Paulo (1993) — com *Fragmentos Neobarroco*.[^acritica2026]
 
