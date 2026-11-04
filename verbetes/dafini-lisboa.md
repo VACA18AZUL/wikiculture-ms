@@ -3,7 +3,7 @@ titulo: Dáfini Lisboa
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: Escritora, revisora de textos e oficineira de escrita criativa nascida em Campo Grande; presidente da UBE-MS e organizadora da Noite da Poesia em 2024 e 2025.
+resumo: Escritora, revisora de textos e oficineira de escrita criativa nascida em Campo Grande; presidente da UBE-MS em 2024 e 2025 e organizadora da Noite da Poesia de 2024.
 ficha:
   Nascimento: "Campo Grande"
   Atividade: "Escritora, revisora de textos, oficineira de escrita criativa"
@@ -24,7 +24,7 @@ O nome Dáfini Lisboa aparece na lista dos 32 autores da antologia *[[tarja-pret
 
 Em agosto de 2024, como presidente da [[ube-ms|União Brasileira de Escritores de Mato Grosso do Sul]] (UBE-MS) e organizadora da [[noite-da-poesia-ube-ms|Noite da Poesia]], comentou o número recorde de 1.669 inscrições no concurso da 36ª edição, que recebeu poemas de outros países de língua portuguesa e da Suíça.[^cgn2024]
 
-Em outubro de 2025, ainda presidente da entidade, falou à imprensa na 37ª Noite da Poesia, realizada na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], que premiou os vencedores das categorias nacional e regional do concurso.[^cgn2025]
+Em outubro de 2025, ainda presidente da entidade, comentou a 37ª Noite da Poesia, que teve como palco a [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]] e premiou os vencedores das categorias nacional e regional do concurso.[^cgn2025]
 
 [^ce2022]: Naiara Camargo, ["Biblioteca Isaías Paim abriga a oficina "Escrita Criativa e Empoderamento", grátis, no sábado"](https://correiodoestado.com.br/correio-b/biblioteca-isaias-paim-abriga-a-oficina-escrita-criativa-e-empoderame/405141/), *Correio do Estado*, 21 set. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Escritores celebram 10 anos de independência literária em MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/escritores-celebram-10-anos-de-independencia-literaria-em-ms), *Campo Grande News*, 8 nov. 2023. Acesso em 4 nov. 2026.
