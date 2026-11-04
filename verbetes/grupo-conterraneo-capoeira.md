@@ -15,7 +15,7 @@ O **Conterrâneo Capoeira** é um grupo de capoeira de Campo Grande, criado em 2
 
 ## Trajetória
 
-Segundo o *G1*, o grupo era novo em 2015, mas reunia um trabalho desenvolvido por Liminha havia mais de duas décadas. Em junho daquele ano, para marcar os 25 anos de trabalho do mestre, o grupo fez seu primeiro batizado e troca de graduação no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^g12015] Em agosto de 2016, a Fundação de Cultura de Mato Grosso do Sul (FCMS) anunciou novo batizado no mesmo centro cultural, com apresentações de Capoeira Angola, Capoeira Regional, Jogo de Iúna e samba de roda.[^fcms2016]
+Em 2015, Liminha disse ao *G1* que o grupo era novo, mas reunia um trabalho desenvolvido havia mais de duas décadas. Em junho daquele ano, o *G1* anunciou que, para marcar os 25 anos de trabalho do mestre, o grupo faria seu primeiro batizado e troca de graduação no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. O site chamou o grupo de Capoeira Conterrâneo.[^g12015] Em agosto de 2016, a Fundação de Cultura de Mato Grosso do Sul (FCMS) anunciou novo batizado no mesmo centro cultural, com apresentações de Capoeira Angola, Capoeira Regional, Jogo de Iúna e samba de roda.[^fcms2016]
 
 Pelo Programa Educativo do Centro Cultural José Octávio Guizzo, Liminha deu a oficina gratuita "Conterrâneo Capoeira", com técnicas de ataque, defesa e acrobacias, canto e instrumentos como berimbau, atabaque, agogô e pandeiro, além da confecção do próprio berimbau pelos alunos. A FCMS abriu inscrições para a oficina em 2016 e em 2018.[^fcms2016b][^fcms2018] Para o fim das aulas de 2017, a FCMS anunciou formatura, troca de graduações e roda de capoeira em 8 de dezembro, no centro cultural.[^fcms2017]
 
