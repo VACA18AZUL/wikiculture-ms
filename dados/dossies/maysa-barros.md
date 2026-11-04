@@ -43,3 +43,19 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete não escrito: fonte única que só registra o cargo em uma data. Melhor como menção no verbete [[marco]].
+
+## Fontes novas (agente d1-1, 2026-11-04, abertas e lidas pela busca da FCMS)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2015 | Daiana Schio, "Aberta 4ª Temporada de Exposições do Marco", FCMS, 9 dez. 2015 | https://www.fundacaodecultura.ms.gov.br/aberta-4-temporada-de-exposicoes-do-marco/ | sim: "diretora do Marco, Maysa de Barros"; balanço de 2015 |
+| fcms2016 | "Aberta nesta terça-feira a 2ª Temporada de Exposições 2016 do Marco", FCMS, jun. 2016 | https://www.fundacaodecultura.ms.gov.br/aberta-nesta-terca-feira-a-2a-temporada-de-exposicoes-2016-do-marco/ | sim: "coordenadora do Marco" |
+| fcms2016a | "Aberta Temporada de Exposições 2016 do Marco", FCMS, 2016 | https://www.fundacaodecultura.ms.gov.br/aberta-temporada-de-exposicoes-2016-do-marco/ | não citada (mesmo cargo, coordenadora) |
+| fcms2016b | "Aberta nesta sexta exposição em homenagem aos 35 anos da Biblioteca Isaias Paim e centenário de Manoel de Barros", FCMS, 2016 | https://www.fundacaodecultura.ms.gov.br/aberta-nesta-sexta-exposicao-em-homenagem-aos-35-anos-da-biblioteca-isaias-paim-e-centenario-de-manoel-de-barros/ | não: traz parentesco com Manoel de Barros (vida familiar, fica fora) |
+
+- ce2016 reaberto nesta sessão (URL nova: https://correiodoestado.com.br/correio-b/2016/11/21/museu-de-arte-contemporanea-abre-ultima-mostra-de-2016.html).
+- Divergência de cargo (diretora × coordenadora) registrada no verbete.
+
+## Uso no verbete (d1-1)
+
+Verbete curto com fcms2015, fcms2016 e ce2016. Início e fim do período no cargo, formação e trajetória anterior: sem fonte. Parentesco fora.

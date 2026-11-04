@@ -21,7 +21,7 @@ O filme estreou em 10 de dezembro de 2025, em duas sessões no Cinemark de Campo
 
 ## Filmografia
 
-- *Mulheres da Fronteira – Uma Comitiva de Sabores pelo Pantanal* (2025) — documentário, 90 min; direção-geral.[^cgn2025][^fcms2025]
+- [[mulheres-da-fronteira-comitiva-de-sabores-pelo-pantanal|*Mulheres da Fronteira – Uma Comitiva de Sabores pelo Pantanal*]] (2025) — documentário, 90 min; direção-geral.[^cgn2025][^fcms2025] [Assistir](https://www.youtube.com/watch?v=fkjeekcJhZo)
 
 [^cgn2025]: Geniffer Valeriano, ["Documentário traz mulheres que preservam a culinária pantaneira"](https://www.campograndenews.com.br/lado-b/sabor/documentario-traz-mulheres-que-preservam-a-culinaria-pantaneira), *Campo Grande News*, 17 nov. 2025. Acesso em 4 nov. 2026.
 [^fcms2025]: Karina Medeiros de Lima, ["Grande estreia de Mulheres da Fronteira surpreende público em duas sessões no Cinemark nesta quarta-feira"](https://www.fundacaodecultura.ms.gov.br/grande-estreia-de-mulheres-da-fronteira-surpreende-publico-em-duas-sessoes-no-cinemark-nesta-quarta-feira/), *Fundação de Cultura de Mato Grosso do Sul*, 11 dez. 2025. Acesso em 4 nov. 2026.

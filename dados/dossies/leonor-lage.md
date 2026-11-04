@@ -43,3 +43,16 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete não redigido: fonte única, curta e quase toda sobre a morte (doença e família ficam fora pela regra de dados pessoais). Precisa de segunda fonte com trajetória artística (catálogos do MARCO, Pinacoteca, Salão de Arte de MS).
+
+## Segunda fonte (d1-2, 2026-11-04)
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| oe2023 | "Guaicurus da ALEMS passam por restauração e celebram história de MS", O Estado MS, 28/07/2023 | https://oestadoonline.com.br/arte-e-lazer/guaicurus-da-alems-passam-por-restauracao-e-celebram-historia-de-ms/ | imprensa | sim |
+
+- oe2023: Leonor Cavalheiro Lage (1947-2018); professora de artes em MS por mais de 20 anos; pioneira no ensino de artes para pessoas com deficiência; cursou Direito; primeiro quadro (natureza-morta) aos 13 anos; em 1993 fez a "Batalha Guaicurus" para o hall de entrada da Assembleia (óleo sobre tela baseado em Debret); restauração em jul. 2023 por Mara Inês da Cruz Silva. Menciona moção de pesar do deputado Zé Teixeira (não aberta).
+- Doença (citada nas duas fontes) e família ficam fora. Pista: "Galeria Leonor Lage" (Portal Itayara), em O Estado MS 08/07/2025, sem dizer se homenageia a artista: não usada.
+
+## Uso no verbete (d1-2)
+
+- Verbete redigido com cgn2018 e oe2023. Fora: doença, local de tratamento, velório, filho.

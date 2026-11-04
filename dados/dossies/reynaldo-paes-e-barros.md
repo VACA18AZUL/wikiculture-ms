@@ -55,3 +55,11 @@ Fontes descartadas: busca na base de filmografia da Cinemateca Brasileira (consu
 
 - silva: Charlei Aparecido da Silva, "Pantanal de Sangue: das linguagens geográficas...", no mesmo livro (Ed. UFGD, 2012), p. 61 e 83: com pouco apoio financeiro, Reynaldo assumiu produção, fotografia e direção; situou a história num Pantanal distante e num período indefinido da 1ª metade do séc. XX para evitar a censura. Entrou no verbete.
 - Ficha da Cinemateca reproduzida no livro (p. 59): diretor de produção Jeremias Moreira Filho; Nolasco (p. 92) cita Duncan: "produção de Ivo Nakau". Não usado no verbete da pessoa (cabe no verbete pantanal-de-sangue).
+
+## Atualização de 2026-11-04 (validação)
+
+- Cinemateca Brasileira, base Filmografia, consultada por código (curl): Pantanal de Sangue (015764), Férias no Sul (017715), Agnaldo – Perigo à Vista (014870), A Noite dos Imorais (025027). Entraram como notas cb-*.
+- Divergências registradas no verbete: Férias no Sul 1966/67 (Neves) × 1967 (CB); Agnaldo 1968 (Neves) × 1969 (CB); A Noite dos Imorais 1978 (Neves) × 1979 (CB, lançamento em 23 jul. 1979). Elenco de Pantanal de Sangue: Francisco de Franco (Neves) × Francisco Di Franco (CB). Antônio Meliande: "colaboração" na fotografia (Neves) × assistente de fotografia e fotografia adicional (CB). Produção de Pantanal de Sangue: CB dá Ivo Nacao e Reynaldo; Nolasco (no mesmo livro, p. 92) cita Duncan: "Ivo Nakau".
+- Processo judicial (cgn2026): retirado do verbete. A matéria trata do processo penal sobre o filme Matem... Os Outros! (denúncia do MPF, condenação em 2021 na 2ª Vara Federal de Dourados, absolvição pela 11ª Turma do TRF3 em 2026), não da trajetória artística. Como o desfecho foi a absolvição e o assunto é processo criminal de pessoa viva, o verbete mantém só o filme, sua sinopse e a autoria (roteiro, direção, produção), da mesma matéria, e a legenda da foto (filmagens em 2014). Decisão final cabe ao Helton.
+- "Seu filme mais citado" saiu (nenhuma fonte diz); "geógrafo" virou "professor de Geografia" (Silva é professor do PPG em Geografia da UFGD, p. 61).
+- Wikipédia: sem artigo (404 em Reynaldo_Paes_de_Barros).

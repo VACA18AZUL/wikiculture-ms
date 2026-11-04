@@ -26,9 +26,9 @@ Antes da estreia, o curta recebeu os prêmios de melhor documentário e melhor d
 
 Em abril de 2025, o filme integrava as cinco obras do Projeto Olubayo, que exibiu cinema em comunidades quilombolas de Mato Grosso do Sul, com recursos da Lei Paulo Gustavo, nas comemorações dos 40 anos do [[grupo-tez|Grupo TEZ]] (Trabalho Estudos Zumbi).[^oestado2025]
 
-O curta faz parte do Memorial Glauce Rocha, aberto pela UFMS em 30 de junho de 2025 no Teatro Glauce Rocha, e foi exibido na solenidade dos 46 anos de federalização da universidade, em 3 de julho de 2025.[^ufms2025a][^ufms2025b] Em setembro de 2025, entrou no circuito audiovisual do Festival Mais Cultura da UFMS.[^ufms2025c]
+O curta faz parte do Memorial Glauce Rocha, aberto pela UFMS em 30 de junho de 2025 no Teatro Glauce Rocha, e foi exibido na solenidade dos 46 anos de federalização da universidade, em 3 de julho de 2025.[^ufms2025a][^ufms2025b] Em setembro de 2025, entrou no circuito audiovisual do Festival Mais Cultura da UFMS.[^ufms2025c] Em outubro, foi selecionado para a mostra competitiva Curta Doc da segunda edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], na lista que dá a direção a Daphyne Schiffer Gonzaga e Rodrigo da Silva Rezende.[^fcms2025]
 
-Em 25 de setembro de 2026, foi exibido no [[autocine-ufms|Autocine da UFMS]], na programação do Festival Mais Cultura, em sessão dupla com *[[higa-ke-olho-por-olho|Higa Ke – Olho por Olho]]*.[^cgn2026]
+Em 25 de setembro de 2026, foi programado no [[autocine-ufms|Autocine da UFMS]], na programação do Festival Mais Cultura, em sessão dupla com *[[higa-ke-olho-por-olho|Higa Ke – Olho por Olho]]*.[^cgn2026]
 
 ## Ficha técnica
 
@@ -41,4 +41,5 @@ Em 25 de setembro de 2026, foi exibido no [[autocine-ufms|Autocine da UFMS]], na
 [^ufms2025a]: Universidade Federal de Mato Grosso do Sul, ["Memorial Glauce Rocha e exposição Itinerâncias abrem as comemorações dos 46 anos de Federal"](https://www.ufms.br/memorial-glauce-rocha-e-exposicao-itinerancias-abrem-as-comemoracoes-dos-46-anos-de-federal/), 30 jun. 2025. Acesso em 4 nov. 2026.
 [^ufms2025b]: Universidade Federal de Mato Grosso do Sul, ["Homenagens a reitores, servidores e egressos marcam celebração aos 46 anos de Federal"](https://www.ufms.br/homenagens-a-reitores-servidores-e-egressos-marcam-celebracao-aos-46-anos-de-federal/), 4 jul. 2025. Acesso em 4 nov. 2026.
 [^ufms2025c]: Universidade Federal de Mato Grosso do Sul, ["Quarta-feira com cosplay, música e pôr do sol no Festival Mais Cultura"](https://www.ufms.br/quarta-feira-com-cosplay-musica-e-por-do-sol-no-festival-mais-cultura/), 24 set. 2025. Acesso em 4 nov. 2026.
+[^fcms2025]: Fundação de Cultura de Mato Grosso do Sul, ["Festival Curta Campo Grande anuncia filmes selecionados para a segunda edição"](https://www.fundacaodecultura.ms.gov.br/festival-curta-campo-grande-anuncia-filmes-selecionados-para-a-segunda-edicao/), 15 out. 2025. Acesso em 4 nov. 2026.
 [^cgn2026]: Thailla Torres, ["Autocine volta a exibir filmes com histórias de Glauce Rocha e Higa"](https://www.campograndenews.com.br/lado-b/diversao/autocine-volta-a-exibir-filmes-com-historias-de-glauce-rocha-e-higa), *Campo Grande News*, 21 set. 2026. Acesso em 4 nov. 2026.

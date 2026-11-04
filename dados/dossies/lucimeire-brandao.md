@@ -33,3 +33,9 @@ A matéria da A Crítica reproduz o mesmo conteúdo do texto da FCMS, publicado 
 ## Não confirmado
 
 - Outras produções ou pesquisas da autora: não encontradas. Uma só obra, e as duas matérias têm o mesmo texto de origem. Sem verbete por ora; o catálogo pode virar verbete próprio (obra) se surgir outra fonte.
+
+## Busca d1-2 (2026-11-04)
+
+- Campo Grande News, Thailla Torres, "Professoras criam catálogo para preservar artesanato indígena", 20/10/2026 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/professoras-criam-catalogo-para-preservar-artesanato-indigena): mesmo conteúdo e mesmas falas do release da FCMS; não independente.
+- API O Estado MS ("Lucimeire Brandão", "Guarani Ñandeva"): nada pertinente. Correio do Estado: nada.
+- Segue dossiê. Se o catálogo ganhar resenha ou outra fonte, pode virar verbete da obra.

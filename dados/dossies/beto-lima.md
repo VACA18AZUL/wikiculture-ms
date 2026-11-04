@@ -43,3 +43,16 @@ Dossiê apoiado em fonte única, com uma frase sobre o artista.
 ## Uso no verbete
 
 - Verbete não escrito: fonte única com uma frase.
+
+## Fontes novas (agente d1-1, 2026-11-04, abertas e lidas; busca do Correio do Estado)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| ce2009 | "Marco abre 3ª edição de exposições nesta quarta-feira", *Correio do Estado*, 24 mar. 2009 | https://correiodoestado.com.br/cidades/2009/03/24/marco-abre-3a-edicao-de-exposicoes-nesta-quarta-feira.html | sim: coletiva de seis artistas do acervo do MARCO (Beto Lima, Ana Ruas, Carlos Nunes, Ovini Rosmarinus, Sandra Vissoto, Tchello), "geração que despontou ... a partir dos anos 90", sala Inês Corrêa da Costa, Centro Cultural José Octávio Guizzo, 25 mar. a 14 jun. 2009 |
+| ce2013 | "Mostra relembra artistas históricos do Estado", *Correio do Estado*, 24 out. 2013 | https://correiodoestado.com.br/cidades/2013/10/24/mostra-relembra-artistas-historicos-do-estado.html | sim: In Memorian, abertura 24 out. 2013, projeto Território Ocupado |
+
+Mesma nota de 22 out. 2013 (https://correiodoestado.com.br/cidades/2013/10/22/mostra-relembra-artistas-que-marcaram-historia.html), não citada por ser repetição.
+
+## Uso no verbete (d1-1)
+
+Verbete curto com ce2009, ce2013 e cgn2013. Datas de vida, cidade e obras continuam sem fonte.

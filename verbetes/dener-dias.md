@@ -2,7 +2,7 @@
 titulo: Dener Dias
 tipo: pessoa
 areas: [musica]
-resumo: "Jornalista e compositor de Mato Grosso do Sul, autor das músicas Poeira Branca, sobre as comitivas pantaneiras, e Canarinho Pantaneiro (2025). Viajou com uma comitiva em 2008 para o trabalho de conclusão de curso na UFMS."
+resumo: "Jornalista e compositor de Mato Grosso do Sul, autor das músicas Poeira Branca, sobre as comitivas pantaneiras, e Canarinho Pantaneiro, apresentada em 2025. Viajou com uma comitiva em 2008 para o trabalho de conclusão de curso na UFMS."
 ficha:
   Atividade: "Jornalista, apresentador e compositor"
 status: rascunho
@@ -20,7 +20,7 @@ Em novembro de 2025, *O Estado de Mato Grosso do Sul* noticiou a canção *Canar
 ## Discografia
 
 - *Poeira Branca* — canção, com videoclipe.[^cabrita]
-- *Canarinho Pantaneiro* (2025) — canção em homenagem a Luciano Leite de Barros.[^oe2025]
+- *Canarinho Pantaneiro* (apresentada em 2025) — canção em homenagem a Luciano Leite de Barros.[^oe2025]
 
 [^cabrita]: Débora Alves Pereira Cabrita, [*Linguagem audiovisual do documentário: o trabalho das comitivas pantaneiras a partir da experiência de uma peoa*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5967), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2018, p. 106, 113, 122-123, 146 e 152. Acesso em 4 nov. 2026.
-[^oe2025]: ["Canarinho Pantaneiro: música celebra a vida de Luciano Leite de Barros"](https://oestadoonline.com.br/arte-e-lazer/canarinhio-pantaneiro-musica-celebra-a-vida-de-luciano-leite-de-barros/), *O Estado de Mato Grosso do Sul*, 29 nov. 2025. Acesso em 4 nov. 2026.
+[^oe2025]: Amanda Ferreira, ["Canarinho Pantaneiro: música celebra a vida de Luciano Leite de Barros"](https://oestadoonline.com.br/arte-e-lazer/canarinhio-pantaneiro-musica-celebra-a-vida-de-luciano-leite-de-barros/), *O Estado de Mato Grosso do Sul*, 29 nov. 2025. Acesso em 4 nov. 2026.

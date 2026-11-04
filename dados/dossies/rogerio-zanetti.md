@@ -41,3 +41,19 @@ Fontes descartadas: Midiamax, "Sonhos Guaranis: minidoc conta a história da mú
 ## Uso no verbete
 
 - Sem verbete: todas as fontes lidas são do Campo Grande News. Falta uma segunda fonte independente (a do Midiamax não abriu).
+
+## Segunda fonte (d1-2, 2026-11-04)
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| oe2020 | "No aniversário da Capital, mais de 10 cantores se apresentam em live...", O Estado MS, 26/08/2020 | https://oestadoonline.com.br/arte-e-lazer/no-aniversario-da-capital/ | imprensa | sim |
+| oe2023 | "Conheça a história da rua mais tradicional de Campo Grande", O Estado MS, 14/07/2023 | https://oestadoonline.com.br/cidades/conheca-a-historia-da-rua-mais-tradicional-de-campo-grande/ | imprensa | sim |
+
+- oe2020: diretor artístico da live da 4ª edição do Viva Campo Grande (26/08/2020), direção executiva de Marcos Roker, canal Mart Music Oficial, em prol do sindicato dos músicos; atrações anunciadas.
+- oe2023: jornalista; produziu o documentário "Inspirados em Construir", sobre a Rua 14 de Julho (ano não dito).
+- Outras pistas não usadas: O Estado 29/07/2025 (campanha pela mudança de local da estátua de Manoel de Barros; ativismo, fora do escopo cultural direto), textos assinados por ele no O Estado (2023) e crônica no CGN (10/07/2025, "Beba das Crônicas"), CGN 2025 (conversa após sessão do Cine Café no MIS).
+- cgn2021 (Zé Pretim) não reaberto: fica fora do verbete.
+
+## Uso no verbete (d1-2)
+
+- Verbete redigido com cgn2014a, cgn2014b, cgn2018, cgn2020, cgn2024, oe2020 e oe2023. Fora: valores por episódio e planos de lançamento (anúncio).

@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo [[miguelito|Miguelito]], que tocou na banda, o Zutrik fez cerca de três décadas de apresentações em casas noturnas, formaturas, bares e casamentos. O grupo juntava dinheiro durante o ano para gravar em São Paulo, e Miguelito o apresenta como a primeira banda de Mato Grosso do Sul a gravar um compacto.[^cgn2018] A Fundação de Cultura de Mato Grosso do Sul citou o Zutrik como a banda mais marcante da carreira de Miguelito.[^fcms2021a]
+Segundo [[miguelito|Miguelito]], que tocou na banda, o Zutrik passou cerca de três décadas tocando em boates, festas de formatura, bares e casamentos. O grupo juntava dinheiro durante o ano para gravar em São Paulo, e Miguelito o apresenta como a primeira banda de Mato Grosso do Sul a gravar um compacto.[^cgn2018] A Fundação de Cultura de Mato Grosso do Sul citou o Zutrik como a banda mais marcante da carreira de Miguelito.[^fcms2021a]
 
 [[luiz-carlos-amarilha|Luiz Carlos Amarilha]] foi o vocalista. Ele conta que as noites da banda eram as mais cheias do Surian e que, depois de um período em São Paulo para gravar um disco solo, voltou ao grupo e cantou nele até os anos 1980.[^cgn2020][^fcms2016] O músico [[ze-pretim|Zé Pretim]] também tocou no Zutrik, antes de passar à banda Euphoria e à carreira solo.[^fcms2017][^fcms2021b]
 

@@ -29,7 +29,7 @@ Miguel Angelo Corrêa, em tese sobre o audiovisual indígena do estado, cita o r
 
 ## Enredo
 
-Em 1778, na região do médio Paraguai, o astrônomo e cartógrafo Diogo chega com um grupo de soldados para fazer um levantamento topográfico para a Coroa portuguesa. A coluna segue para o Forte Coimbra, cercado pelos índios cavaleiros com quem Portugal tenta um acordo de paz. No caminho, os soldados violentam indígenas que se banhavam num rio, o que leva a uma série de conflitos.[^cb][^neves]
+Em 1778, na região do médio Paraguai, o astrônomo e cartógrafo Diogo chega com um grupo de soldados para um levantamento topográfico a serviço da Coroa portuguesa. O grupo segue para o Forte Coimbra, cercado pelos índios cavaleiros com quem Portugal tenta um acordo de paz. No caminho, os soldados violentam indígenas que se banhavam num rio.[^cb] Segundo Neves, a chegada do grupo provoca uma série de conflitos com os indígenas da região.[^neves]
 
 ## Prêmios e desdobramentos
 
@@ -42,6 +42,8 @@ Em 2015, Murat voltou a Mato Grosso do Sul para o documentário *A Nação que N
 - Direção, roteiro e produção: [[lucia-murat|Lúcia Murat]][^cb]
 - Fotografia: [[antonio-luiz-mendes|Antônio Luiz Mendes]][^cb]
 - Música: [[livio-tragtenberg|Lívio Tragtenberg]][^cb]
+- Montagem: Mair Tavares e Cezar Migliorin[^cb]
+- Direção de arte: José Joaquim Salles[^cb]
 - Desenhos de cena: [[carla-de-capua|Carla de Cápua]][^marco]
 - Elenco: [[diogo-infante|Diogo Infante]] (Diogo), [[floriano-peixoto|Floriano Peixoto]] (Capitão Pedro), [[luciana-rigueira|Luciana Rigueira]] (Ánote), [[leonardo-villar|Leonardo Villar]] (Comandante) e membros da comunidade Kadiwéu[^cb][^neves]
 

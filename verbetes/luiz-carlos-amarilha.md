@@ -15,11 +15,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou sozinho, cantando boleros e outras canções nas rádios de Campo Grande, e logo passou a se apresentar todos os fins de semana na cidade. Depois do início solo, foi convidado para o [[mini-boys|Mini Boys]], conjunto de rock da Jovem Guarda que, segundo ele, poucos anos depois passou a se chamar Zutrik, com a mesma formação.[^cgn2020]
+Segundo seu relato, começou sozinho, cantando boleros e outras canções nas rádios de Campo Grande, e logo passou a se apresentar todos os fins de semana na cidade. Depois do início solo, foi convidado para o [[mini-boys|Mini Boys]], conjunto de rock da Jovem Guarda que, segundo ele, poucos anos depois passou a se chamar Zutrik, com a mesma formação.[^cgn2020]
 
 No auge da banda, o produtor [[zacarias-mourao|Zacarias Mourão]] lhe prometeu um LP solo pela gravadora Fermata. Ensaiou em Campo Grande um repertório de canções inéditas e gravou o disco em São Paulo, com orquestra. O LP, *Tenho Mil Noivas*, tinha como faixa principal a canção de mesmo título. Segundo o cantor, a gravadora fechou pouco depois, e ele só conseguiu comprar algumas caixas do disco para vender por conta própria.[^cgn2020]
 
-De volta a Campo Grande, retornou ao Zutrik e cantou no grupo até os anos 1980, quando deixou de se apresentar na noite. Compôs, nos anos 1970, uma canção em homenagem ao clube de futebol Operário, depois aceita como hino do clube; ele segue reconhecido pela torcida.[^cgn2020]
+De volta a Campo Grande, retornou ao Zutrik e cantou no grupo até os anos 1980, quando deixou de se apresentar na noite. Compôs, nos anos 1970, uma canção em homenagem ao clube de futebol Operário, depois aceita como hino do clube; em 2020, dizia ainda ser reconhecido pela torcida.[^cgn2020]
 
 Em setembro de 2016, a Fundação de Cultura de Mato Grosso do Sul o registrou como antigo integrante do Zutrik e informou que ele participou do segundo CD do [[grupo-acaba|Grupo Acaba]], cantando "Canto da alma", de Lúcio Val. Esteve no show de 50 anos do grupo, *Pantanal: Nascentes, Rios e Vertentes*, no Palácio Popular da Cultura.[^fcms2016]
 

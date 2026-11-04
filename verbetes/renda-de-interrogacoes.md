@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Segundo Araujo, o livro reúne 44 poemas divididos em quatro partes, cada uma aberta por uma epígrafe. Em outro trecho da tese, a autora fala em 45 poemas datilografados.[^araujo] Na primeira parte estão poemas como "Minha Mãe", "A minha vida" e "Você é um poema"; a quarta parte inclui "Poema a Campo Grande" e "Crianças pobres do meu bairro humilde". As epígrafes trazem versos atribuídos a nomes como Alberto de Oliveira, Olavo Bilac e Raul Machado, além de pseudônimos do próprio poeta, e as da terceira e da quarta partes servem também de dedicatórias a amigos, como Severino de Queiroz, Isac Pôvoas, Raul Machado e Perí Alves Campos.[^araujo]
 
-O título vem do poema "A minha vida", em que o poeta compara a própria vida a uma renda de interrogações. Araujo lê o livro como obra de um Lobivar lírico, voltado ao amor, diferente da poesia social de *[[saroba-lobivar-matos|Sarobá]]*.[^araujo] A tese reproduz uma foto do livro em anexo.[^araujo]
+No poema "A minha vida", citado por Araujo, o poeta compara a própria vida a uma renda de interrogações. Araujo lê o livro como obra de um Lobivar lírico, voltado ao amor, diferente da poesia social de *[[saroba-lobivar-matos|Sarobá]]*.[^araujo] A tese reproduz uma foto do livro em anexo.[^araujo]
 
 ## Datação
 

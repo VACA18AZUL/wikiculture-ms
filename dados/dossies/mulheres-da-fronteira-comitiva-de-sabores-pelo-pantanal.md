@@ -39,3 +39,19 @@ Pista não lida: FCMS, "Pantanal Film Commission encerra 2025 com avanços estru
 ## Não confirmado
 
 - Fonte independente da FCMS não encontrada nesta sessão. Canal oficial do YouTube não localizado/aberto.
+
+## Segunda fonte (d1-2, 2026-11-04)
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| cgn2025 | Geniffer Valeriano, "Documentário traz mulheres que preservam a culinária pantaneira", Campo Grande News, 17/11/2025 | https://www.campograndenews.com.br/lado-b/sabor/documentario-traz-mulheres-que-preservam-a-culinaria-pantaneira | imprensa (com entrevistas) | sim |
+| oe2026 | "Mesa Ao Vivo pela 1ª vez em CG...", O Estado MS, 21/07/2026 | https://oestadoonline.com.br/arte-e-lazer/mesa-ao-vivo-pela-1a-vez-em-cg-maior-circuito-gastronomico-do-pais-chega-a-ms-com-cozinha-pantaneira-em-destaque/ | imprensa (anúncio) | sim |
+| yt | Vídeo "MULHERES DA FRONTEIRA / Documentário (Pantanal, MS, 2025)", canal @MulheresDaFronteira (conferido por oEmbed) | https://www.youtube.com/watch?v=fkjeekcJhZo | canal oficial do filme | link |
+
+- cgn2025: 90 min; nove meses; entrevistas gravadas em dois meses no ateliê de Lúcia Martins Coelho; fotografia Frico Guimarães; distribuição Mônica Guimarães; 17 horas de material bruto (Loiácono); trilha de Rodrigo Faleiros com viola caipira; Lei Paulo Gustavo; acessibilidade. Pré-estreia anunciada para 08/12 no MIS (anúncio, não usado).
+- O Estado MS 19/05/2026 cita "Jadicelia Miyassato Tamasiro, que integrou o longa-metragem do chef sobre as mulheres da fronteira" (nome civil; não usado).
+- Pista: Estadão (05/03/2026), citado em paulo-machado-diretor, não reaberto.
+
+## Uso no verbete (d1-2)
+
+- Verbete redigido com cgn2025, fcms2025 e oe2026. Ocupações das protagonistas resumidas (nomes de empresas fora). Festivais a partir de 2026 ficaram de fora (plano).

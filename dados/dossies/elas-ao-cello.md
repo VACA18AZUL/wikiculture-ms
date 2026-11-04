@@ -33,3 +33,10 @@ Pista não lida: FCMS, "Projeto Elas ao Cello se apresenta nesta quinta em Brasi
 ## Não confirmado
 
 - Fonte independente da FCMS não encontrada (busca da A Crítica sem resultado; Brave e Campo Grande News sem resposta útil). Cidade-sede do grupo não dita.
+
+## Busca d1-2 (2026-11-04)
+
+- Lidas: FCMS 02/10/2025 ("Projeto Elas ao Cello se apresenta nesta quinta em Brasilândia", https://www.fundacaodecultura.ms.gov.br/projeto-elas-ao-cello-se-apresenta-nesta-quinta-em-brasilandia/): estreia em Nova Andradina em 01/10/2025 com cerca de 260 pessoas; chama a idealizadora de "Mara Martins" (divergência com "Mara Vidal" em fcms2025a).
+- Campo Grande News, Thailla Torres, "Turnê de mulheres no violoncelo começa nesta quarta no interior de MS", 30/09/2025 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/turne-de-mulheres-no-violoncelo-comeca-nesta-quarta-no-interior-de-ms): reescreve o release da FCMS (mesmas falas); acrescenta só que Adriana Holtz é da Osesp. Não independente.
+- O Estado MS, 03/10/2025 (agenda "Estreia da Bienal, shows no interior e circo na praça..."): nota de agenda sobre Inocência, do mesmo release.
+- Sem fonte independente: segue dossiê. Busca CGN, O Estado (API), Correio do Estado.
