@@ -3,14 +3,14 @@ titulo: San Martinez
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: Grafiteiro, tatuador e produtor cultural de Campo Grande, idealizador do Campão Graffiti, projeto de arte urbana que pinta muros em bairros periféricos da capital desde 2023.
+resumo: Grafiteiro e produtor cultural de Campo Grande, idealizador do Campão Graffiti, projeto de arte urbana que pinta muros em bairros periféricos da capital desde 2023.
 ficha:
-  Atividade: Grafite, tatuagem e produção cultural
+  Atividade: Grafite e produção cultural
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**San Martinez** é grafiteiro, tatuador e produtor cultural de Campo Grande. Idealizou o [[campao-graffiti|Campão Graffiti]], projeto de arte urbana ligado ao hip-hop.[^cgn2025c][^cgn2026]
+**San Martinez** é grafiteiro e produtor cultural de Campo Grande. Idealizou o [[campao-graffiti|Campão Graffiti]], projeto de arte urbana ligado ao hip-hop.[^cgn2025b][^cgn2025c]
 
 ## Trajetória
 
@@ -20,9 +20,7 @@ A segunda edição do Dia do Graffiti, organizada pelo Campão Graffiti, foi mar
 
 Em abril de 2024, foi o representante de Mato Grosso do Sul na 9ª edição do Street of Styles, encontro internacional de grafite realizado em Curitiba de 12 a 14 de abril.[^pp2024]
 
-A terceira edição, chamada "Dia do Graffiti: Arte Urbana e Cultura", teve oficinas em escolas municipais nos dias 6 e 7 de março de 2025 e pintura coletiva em 9 de março, na ONG Núcleo Humanitário da Vila Nhanhá. Seis artistas sul-mato-grossenses foram selecionados por edital: [[thalya-ariadna-veron|Thalya Ariadna Veron (Thapz)]], [[gi-brandao|Gislene Brandão (La Bruxa)]], [[karoline-de-souza-krol|Karoline de Souza (Krol)]], [[carlos-henrique-higa-pune|Carlos Henrique Higa (Pune)]], [[felipe-martins-mago-do-pantano|Felipe Martins (Mago do Pântano)]] e [[denis-vitor-de-souza-lessarteiro|Denis Vitor de Souza (Lessarteiro)]]. As oficinas, com o grafiteiro amazonense [[andre-hulk|André Hulk]], aproximaram o grafite urbano do grafismo indígena, em escolas próximas às aldeias urbanas Água Bonita e Darcy Ribeiro.[^fcms2025][^cgn2025a][^cgn2025b] Ao fim, quase todas as casas da Rua do Comércio foram grafitadas. San Martinez disse ter crescido na Vila Nhanhá.[^cgn2025c]
-
-Em 2026, com a produtora cultural Mari Sena, do coletivo [[transcine|TransCine – Cinema em Trânsito]], abriu em Campo Grande um ponto cultural de grafite, tatuagem, música, cinema e hip-hop. Segundo a matéria, desde 2015 ele promove encontros de artistas urbanos para discutir direito à cidade, ocupação do espaço público e preconceito contra a cultura de rua.[^cgn2026]
+A terceira edição, chamada "Dia do Graffiti: Arte Urbana e Cultura", teve oficinas em escolas municipais nos dias 6 e 7 de março de 2025 e pintura coletiva em 9 de março, na ONG Núcleo Humanitário da Vila Nhanhá. Seis artistas sul-mato-grossenses foram selecionados a partir de portfólios enviados: [[thalya-ariadna-veron|Thalya Ariadna Veron (Thapz)]], [[gi-brandao|Gislene Brandão (La Bruxa)]], [[karoline-de-souza-krol|Karoline de Souza (Krol)]], [[carlos-henrique-higa-pune|Carlos Henrique Higa (Pune)]], [[felipe-martins-mago-do-pantano|Felipe Martins (Mago do Pântano)]] e [[denis-vitor-de-souza-lessarteiro|Denis Vitor de Souza (Lessarteiro)]]. As oficinas, com o grafiteiro amazonense [[andre-hulk|André Hulk]], aproximaram o grafite urbano do grafismo indígena, em escolas próximas às aldeias urbanas Água Bonita e Darcy Ribeiro.[^fcms2025][^cgn2025a][^cgn2025b] Ao fim, quase todas as casas da Rua do Comércio foram grafitadas. San Martinez disse ter crescido na Vila Nhanhá.[^cgn2025c]
 
 [^cgn2024]: Jéssica Fernandes, ["Para celebrar Dia do Grafite, artistas criam mural sobre 'Fauna, Flora e Letras'"](https://www.campograndenews.com.br/lado-b/diversao/para-celebrar-dia-do-grafite-artistas-criam-mural-sobre-fauna-flora-e-letras), *Campo Grande News*, 5 mar. 2024. Acesso em 4 nov. 2026.
 [^pp2024]: Renata Fontoura, ["Evento internacional de grafite em Curitiba vai ter artista de MS"](https://primeirapagina.com.br/cultura/evento-internacional-de-graffiti-em-curitiba-vai-ter-artista-de-ms/), *Primeira Página*, 8 abr. 2024. Acesso em 4 nov. 2026.
@@ -30,4 +28,3 @@ Em 2026, com a produtora cultural Mari Sena, do coletivo [[transcine|TransCine �
 [^cgn2025a]: Thailla Torres, ["Projeto de graffiti vai levar cores e cultura urbana para Vila Nhanhá"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/projeto-de-graffiti-vai-levar-cores-e-cultura-urbana-para-vila-nhanha), *Campo Grande News*, 15 fev. 2025. Acesso em 4 nov. 2026.
 [^cgn2025b]: Thailla Torres, ["Campão Graffiti leva arte e cor para bairros de Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/campao-graffiti-leva-arte-e-cor-para-bairros-de-campo-grande), *Campo Grande News*, 5 mar. 2025. Acesso em 4 nov. 2026.
 [^cgn2025c]: Thailla Torres, ["Grafiteiros transformam rua da Vila Nhanhá em galeria de arte ao ar livre"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grafiteiros-transformam-rua-da-vila-nhanha-em-galeria-de-arte-ao-ar-livre), *Campo Grande News*, 10 mar. 2025. Acesso em 4 nov. 2026.
-[^cgn2026]: Clayton Neves, ["Casal abre as portas de casa e cria ponto cultural na periferia"](https://www.campograndenews.com.br/lado-b/arquitetura-23-08-2011-08/casal-abre-as-portas-de-casa-e-cria-ponto-cultural-na-periferia), *Campo Grande News*, 17 jun. 2026. Acesso em 4 nov. 2026.
