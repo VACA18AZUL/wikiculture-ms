@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Colabora com o jornal *Correio do Estado* desde 2006, com artigos de opinião, crônicas e minicontos; segundo a ASL, a colaboração se tornou regular a partir de julho de 2010 e somava 211 textos em 1º de fevereiro de 2018.[^asl]
+Passou a colaborar com o jornal *Correio do Estado* em 2006, com artigos de opinião, crônicas e minicontos; segundo a ASL, a colaboração se tornou regular a partir de julho de 2010 e somava 211 textos em 1º de fevereiro de 2018.[^asl]
 
 Tomou posse na ASL em 23 de fevereiro de 2018, saudado pelo acadêmico [[rubenio-marcelo|Rubenio Marcelo]].[^asl] Em dezembro de 2023, como secretário da academia (grafado Oswaldo Barbosa Almeida), ajudou a conduzir a eleição de [[sylvia-cesco|Sylvia Cesco]] para a cadeira 37.[^cgn2023]
 
