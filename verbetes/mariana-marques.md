@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Seu primeiro curta, *Alegria das Células* (2020), também de animação, foi feito durante a pandemia.[^correio2021]
 
-O segundo, [[cinzas-do-pantanal|Cinzas no Pantanal]], tem três minutos e trata dos incêndios que atingiram o Pantanal em 2020. Mariana escreveu o projeto e dirigiu o filme; a direção de animação é de Tiago Franco. Feito em stop motion, usa cenários e personagens de origami de [[elder-alves-severino|Elder Alves]], com trilha de viola caipira de [[marcos-assuncao|Marcos Assunção]].[^correio2021][^g12021][^diario2021] Segundo Franco, a produção levou mais de 350 horas de trabalho.[^g12021]
+O segundo, [[cinzas-do-pantanal|Cinzas no Pantanal]], tem três minutos e trata dos incêndios que atingiram o Pantanal em 2020. Mariana escreveu o projeto e dirigiu o filme; a direção de animação é de Tiago Franco. Feito em stop motion, usa cenários e personagens de origami de Elder Alves, com trilha de viola caipira de [[marcos-assuncao|Marcos Assunção]].[^correio2021][^g12021][^diario2021] Segundo Franco, a produção levou mais de 350 horas de trabalho.[^g12021]
 
 O curta foi financiado pela Lei Aldir Blanc, pelo edital Morena Cultura e Cidadania da Secretaria Municipal de Cultura e Turismo de Campo Grande, e realizado pela Bicicletaria Filmes com a Marshmelo Filmes. Teve pré-estreia no YouTube em 25 de abril de 2021 e novas exibições on-line em 1º e 2 de maio.[^g12021][^diario2021][^msnoticias2021]
 
