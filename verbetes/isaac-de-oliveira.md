@@ -16,17 +16,19 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Nasceu em Itajuípe, na Bahia, e passou a infância, a adolescência e a juventude em Campinas (SP). Trabalhou como publicitário e foi para Campo Grande em 1978, para abrir uma agência de publicidade. Na cidade, passou a se dedicar à pintura e a vender quadros profissionalmente.[^cehc] As fontes divergem sobre o tempo de residência na cidade: o Correio do Estado, em 2019, fala em mais de 40 anos, e o Campo Grande News, na mesma época, em pouco mais de três décadas.[^cems][^cgn2019b]
+Nasceu em Itajuípe, na Bahia, e passou a infância, a adolescência e a juventude em Campinas (SP). Trabalhou como publicitário e foi para Campo Grande em 1978, para abrir uma agência de publicidade. Na cidade, passou a se dedicar à pintura e a vender quadros profissionalmente.[^cehc][^celegado] As fontes divergem sobre o tempo de residência na cidade: o Correio do Estado, em 2019, fala em mais de 40 anos, e o Campo Grande News, na mesma época, em pouco mais de três décadas.[^cems][^cgn2019b]
 
 Em 2014, o artista estava entre os artistas plásticos selecionados na exposição "Mato Grosso do Sul Visto Pelo Mundo", organizada com a ONU em Nova York. Ele disse que pretendia levar de três a cinco telas, com ipês, e que tinha um acervo de mais de 800 obras.[^cgn2014]
 
-Morreu aos 66 anos, em 23 de setembro de 2019.[^cems][^cgn2019] O velório foi no Museu de Arte Contemporânea de Mato Grosso do Sul, o [[marco|MARCO]].[^cgn2019b]
+Morreu aos 66 anos, em 23 de setembro de 2019.[^cems][^cgn2019][^celegado] O velório foi no Museu de Arte Contemporânea de Mato Grosso do Sul, o [[marco|MARCO]].[^cgn2019b][^celegado]
 
 ## Obra
 
-As telas de Isaac de Oliveira tratam a paisagem regional com cores fortes. Pássaros, peixes, ipês e flores aparecem entre seus temas.[^cems] Segundo o *Correio do Estado*, a partir da década de 1980 ele pintou uma série de indígenas e de animais da região; depois vieram peixes, fauna e flora e, mais tarde, frutas e verduras, pintados a partir da observação direta.[^cehc] O Campo Grande News descreve telas em acrílico dedicadas a Mato Grosso do Sul.[^cgn2019] Uma dissertação de 2015 cita o artista, entre outros, como exemplo de pintura com temática local, com obras no acervo do MARCO.[^amizo]
+As telas de Isaac de Oliveira tratam a paisagem regional com cores fortes. Pássaros, peixes, ipês e flores aparecem entre seus temas.[^cems] Reportagem do caderno Correio B publicada no dia seguinte à morte destaca os ipês, a árvore-símbolo do estado, e as pinturas de pássaros, indígenas, fauna e flora.[^celegado] Segundo o *Correio do Estado*, a partir da década de 1980 ele pintou uma série de indígenas e de animais da região; depois vieram peixes, fauna e flora e, mais tarde, frutas e verduras, pintados a partir da observação direta.[^cehc] O Campo Grande News descreve telas em acrílico dedicadas a Mato Grosso do Sul.[^cgn2019] Uma dissertação de 2015 cita o artista, entre outros, como exemplo de pintura com temática local, com obras no acervo do MARCO.[^amizo]
 
-Segundo *O Estado de Mato Grosso do Sul*, em texto de outubro de 2019 com informações do governo do estado, ele abriu espaço de mercado para a temática regional: as imagens das telas, expostas também no exterior, passaram a estampar canecas, almofadas, abajures e capas de celular e de tablet, o que levou a arte local a públicos que não a consumiam.[^oestado2019]
+Segundo *O Estado de Mato Grosso do Sul*, em texto de outubro de 2019 com informações do governo do estado, ele abriu espaço de mercado para a temática regional: as imagens das telas, expostas também no exterior, passaram a estampar canecas, almofadas, abajures e capas de celular e de tablet, o que levou a arte local a públicos que não a consumiam.[^oestado2019] Na reportagem do Correio B de 2019, [[humberto-espindola|Humberto Espíndola]] aponta como marca de Isaac o impulso ao mercado de arte em Campo Grande, e a coordenadora do MARCO, Lúcia Montserrat, fala em visão empreendedora e em muitos alunos e seguidores.[^celegado]
+
+Fez as ilustrações de *Poemas de Amor e Fúria*, livro de poemas de [[victor-barone|Victor Barone]] com lançamento marcado para 6 de fevereiro de 2019, em Campo Grande.[^cebarone2019]
 
 ## Reconhecimento
 
@@ -34,6 +36,8 @@ Em 22 de julho de 2019, a Universidade Federal de Mato Grosso do Sul (UFMS) conc
 
 [^cehc]: Glaucea Vaccari, ["Artistas recebem pela primeira vez o título de doutor honoris causa"](https://correiodoestado.com.br/correio-b/artistas-recebem-pela-primeira-vez-br-o-titulo-de-doutor-honoris-causa/357287/), *Correio do Estado*, 23 jul. 2019. Acesso em 4 nov. 2026.
 [^cems]: ["Artista plástico Isaac de Oliveira morre aos 66 anos"](https://correiodoestado.com.br/cidades/artista-plastico-isaac-de-oliveira-morre-aos-66-anos/361117/), *Correio do Estado*, 23 set. 2019. Acesso em 4 nov. 2026.
+[^celegado]: Glaucea Vaccari, ["Artista plástico Isaac de Oliveira deixa legado colorido e exuberante"](https://correiodoestado.com.br/correio-b/2019/09/24/artista-plastico-isaac-de-oliveira-deixa-legado-colorido-e-exuberante.html), *Correio do Estado*, caderno Correio B, 24 set. 2019. Acesso em 4 nov. 2026.
+[^cebarone2019]: ["Entre a sensibilidade e a agressividade, jornalista lança livro de poesias nesta quarta"](https://correiodoestado.com.br/correio-b/2019/02/03/entre-a-sensibilidade-e-a-agressividade-jornalista-lanca-livro-de-poesias-nesta-quarta.html), *Correio do Estado*, caderno Correio B, 3 fev. 2019. Acesso em 4 nov. 2026.
 [^cgn2019]: Thailla Torres, ["Sepultamento de Isaac é perto das flores e da natureza que ele amava pintar"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sepultamento-de-isaac-e-perto-das-flores-e-da-natureza-que-ele-amava-pintar), *Campo Grande News*, 24 set. 2019. Acesso em 4 nov. 2026.
 [^cgn2019b]: Thailla Torres, ["A vida é breve, mas a arte de Isaac é longa, declaram amigos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/-a-vida-e-breve-mas-a-arte-de-isaac-e-longa-declaram-amigos), *Campo Grande News*, 23 set. 2019. Acesso em 4 nov. 2026.
 [^cgn2014]: Vinícius Squinelo e Paula Maciulevicius, ["Em Nova Iorque, 12 artistas vão expor a cara de MS na ONU para o mundo"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-nova-iorque-12-artistas-vao-expor-a-cara-de-ms-na-onu-para-o-mundo), *Campo Grande News*, 27 jan. 2014. Acesso em 4 nov. 2026.

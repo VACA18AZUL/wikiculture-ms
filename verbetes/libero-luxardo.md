@@ -34,7 +34,7 @@ Diehl data *Alma do Brasil* de 1930.[^diehl] Castro Neto o data de 1932.[^castro
 Filmes ligados ao período em Mato Grosso, segundo Diehl e Castro Neto:[^diehl][^castro]
 
 - [[alma-do-brasil|Alma do Brasil]] (1930 ou 1932, conforme a fonte) — longa-metragem; codireção com Alexandre Wulfes.[^diehl][^castro]
-- *Caçando Feras* (1936) — musical com imagens filmadas em Mato Grosso, segundo trecho de Borges citado por Diehl; Castro Neto o inclui entre os filmes de Luxardo. Neves atribui a Luxardo a direção geral.[^diehl][^castro][^neves]
+- [[cacando-feras|Caçando Feras]] (1936) — musical com imagens filmadas em Mato Grosso, segundo trecho de Borges citado por Diehl; Castro Neto o inclui entre os filmes de Luxardo. Neves atribui a Luxardo a direção geral.[^diehl][^castro][^neves]
 
 Filmes feitos em Belém, segundo Castro Neto:[^castro]
 

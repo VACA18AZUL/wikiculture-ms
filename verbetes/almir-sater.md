@@ -25,6 +25,8 @@ Participou do [[festival-prata-da-casa|Festival Prata da Casa]], realizado em 19
 
 Em dezembro de 1987, esteve entre os artistas sul-mato-grossenses que se apresentaram no Museu da Imagem e do Som de São Paulo, na primeira edição do evento Pantanal Alerta Brasil.[^caetano2012ufgd]
 
+Débora Cabrita, em dissertação sobre as comitivas pantaneiras, atribui a canção "Comitiva Esperança" a Almir Sater e [[paulo-simoes|Paulo Simões]] e a prevê no roteiro de um documentário, tocando no rádio dos peões.[^cabrita]
+
 ## Viola e estilo
 
 Gonçalves afirma que Sater popularizou a viola de dez cordas no universo regional influenciado pela polca, guarânia e chamamé, e que o rock e o blues aparecem em seu trabalho.[^goncalves2014] Caetano nota que o instrumento não era tradicional em Mato Grosso do Sul, mas que depois de Sater passou a parecer típico.[^caetano2012ufgd] Em entrevista citada por Gonçalves, Sater disse não se considerar sertanejo, mas pop e roqueiro.[^goncalves2014]
@@ -38,10 +40,12 @@ Caetano lista três participações em novelas: *Pantanal* (Rede Manchete, 1990)
 - *Estradeiro* (1981) — disco; Continental.[^caetano2012ufgd]
 - *Doma* (1982) — disco; RGE.[^caetano2012ufgd]
 - *Terra de Sonhos* (1994) — disco; edição em São Paulo, selo não informado.[^caetano2012ufgd]
+- *Sonhos Guaranis* (1992) — CD citado assim por Jorgina Lima, que reproduz a letra da canção [[sonhos-guaranis-cancao|"Sonhos Guaranis"]] em epígrafe; a fonte não dá gravadora.[^jlima2013]
 - *Pirilampo & Saracura* (sem ano na fonte) — disco homônimo da dupla de personagens de *O Rei do Gado*, com Sérgio Reis.[^caetano2012ufgd]
 
 ## Filmografia
 
+- *Caramujo-Flor* (1988) — curta de [[joel-pizzini|Joel Pizzini]] sobre a poesia de [[manoel-de-barros|Manoel de Barros]]; elenco.[^neves][^vicelli]
 - *Pantanal* (1990) — novela; atuação, personagem Trindade.[^caetano2012ufgd]
 - *Ana Raio & Zé Trovão* (1990-1991) — novela; atuação, personagem Zé Trovão.[^caetano2012ufgd]
 - *O Rei do Gado* (1996-1997) — novela; atuação, personagem Pirilampo.[^caetano2012ufgd]
@@ -50,3 +54,7 @@ Caetano lista três participações em novelas: *Pantanal* (Rede Manchete, 1990)
 [^caetano2012nupem]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM*, Campo Mourão, v. 4, n. 6, jan./jul. 2012, seção "Prata da Casa e a consolidação da nova música sul-mato-grossense". Acesso em 29 out. 2026.
 [^goncalves2014]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, seções 1.7 e 1.8. Acesso em 29 out. 2026.
 [^cgn2013]: "Em novo show, ZéDu canta de 'Chalana' ao 'Ai se eu te pego'", [*Campo Grande News*](https://www.campograndenews.com.br/lado-b/diversao/em-novo-show-zedu-canta-de-chalana-ao-ai-se-eu-te-pego), 10 dez. 2013. Acesso em 29 out. 2026.
+[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 52. Acesso em 4 nov. 2026.
+[^vicelli]: Karina Kristiane Vicelli, [*Transgressão e antropofagia: da poesia de Manoel de Barros à poética de Caramujo-flor, de Joel Pizzini Filho*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2125), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2008, p. 129 do PDF (ficha técnica). Acesso em 4 nov. 2026.
+[^cabrita]: Débora Alves Pereira Cabrita, [*Linguagem audiovisual do documentário: o trabalho das comitivas pantaneiras a partir da experiência de uma peoa*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5967), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2018, p. 106 (p. 107 do PDF). Acesso em 4 nov. 2026.
+[^jlima2013]: Jorgina Espindola Ortega de Lima, [*A construção da imagem do índio na poética de Emmanuel Marinho: voz de veludo e dedo na ferida*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/609/1/JorginaEspindolaOrtegadeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2013, p. 13 do PDF. Acesso em 4 nov. 2026.

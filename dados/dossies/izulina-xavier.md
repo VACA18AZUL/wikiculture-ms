@@ -50,3 +50,7 @@
 ## Uso no verbete
 
 - Ficaram fora: endereço da casa, estado de saúde, nomes de marido, pais, filhos e netos, e a morte de familiares (vida familiar).
+
+## Atualização de 2026-11-04 (r12)
+
+- Relida a matéria do Correio B de 16/11/2022 (Alanis Netto), https://correiodoestado.com.br/correio-b/2022/11/16/artista-plastica-autora-do-cristo-rei-do-pantanal-izulina-xavier-falece-aos-97-anos.html. Ela já é a nota ce2022 do verbete e todos os fatos aproveitáveis (nome completo, nascimento, Artizu, Cristo Rei, via-sacra de 72 peças, Cristo de Três Lagoas de 1992, Carnaval de 2003 e 2006, obras na Bolívia) já estão no texto. Nada mudou no verbete.

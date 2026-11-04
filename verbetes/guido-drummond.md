@@ -14,6 +14,8 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
+Também conhecido como Lord Trash, criou o Motirô, projeto coletivo de valorização da arte que começou em Corumbá e chegou a Campo Grande. Em março de 2018, o *Campo Grande News* descreveu o projeto, baseado em voluntariado, com quatro eixos: a implantação da Galeria 118, na esquina da Rua dos Ferroviários com a Avenida Mato Grosso, uma eco-pousada, um laboratório de design e ações de ocupação e revitalização da Orla Ferroviária. O nome vem do tupi e designa a reunião de pessoas que plantam juntas para colher juntas.[^cgn2018]
+
 Em 2019, foi um dos 21 artistas da mostra coletiva *Lídia*, com obras inspiradas em [[lidia-bais|Lídia Baís]], que inaugurou o Espaço Jorapimo da Fundação de Cultura de MS.[^fcms2019][^fcms2021]
 
 Mantinha um ateliê numa casa da época da Noroeste do Brasil, na esquina da Rua dos Ferroviários com a Avenida Mato Grosso, e fazia intervenções na fachada e nos muros. Com a arteterapeuta [[tatiana-de-conto|Tatiana De Conto]], transformou o antigo ateliê 118 no museu Casa Amarela, com abertura ao público marcada para 21 de setembro de 2024 e peças suas entre as obras expostas.[^cgn2024]
@@ -24,6 +26,7 @@ Em março de 2025, a Fundação de Cultura de MS o listou entre os artistas da e
 
 As fontes dão a ele funções diferentes na Casa Amarela: diretor de arte, em dezembro de 2025, gestor ao lado de Tatiana De Conto, em abril de 2026, e coordenador, em agosto de 2026.[^oe2025][^oe2026b][^oe2026c] Em abril de 2026, ele informou que a Casa Amarela estenderia as atividades da Semana dos Museus de 22 de abril a 23 de maio, numa programação sobre Lídia Baís.[^oe2026b]
 
+[^cgn2018]: Thaís Pimenta, ["Motirô é projeto coletivo que valoriza arte e quer fazer Orla Ferroviária vingar"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/motiro-e-projeto-coletivo-que-valoriza-arte-e-quer-fazer-orla-ferroviaria-vingar), *Campo Grande News*, 25 mar. 2018. Acesso em 4 nov. 2026.
 [^cgn2024]: Aletheya Alves, ["Casa centenária foi transformada por dupla que virou até 'pedreiro'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/casa-centenaria-foi-transformada-por-dupla-que-virou-ate-pedreiro), *Campo Grande News*, 21 set. 2024. Acesso em 4 nov. 2026.
 [^fcms2019]: Fundação de Cultura de Mato Grosso do Sul, ["Fundação de Cultura inaugura Espaço Jorapimo com obras inspiradas em Lídia Baís"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-inaugura-espaco-jorapimo-com-obras-inspiradas-em-lidia-bais/), 22 mar. 2019. Acesso em 4 nov. 2026.
 [^fcms2021]: Fundação de Cultura de Mato Grosso do Sul, ["Campo Grande 122 anos: Marilena Grolli relembra ações culturais importantes para o fomento da artes visuais na Capital"](https://www.fundacaodecultura.ms.gov.br/campo-grande-122-anos-marilena-grolli-relembra-acoes-culturais-importantes-para-o-fomento-da-artes-visuais-na-capital/), 28 ago. 2021. Acesso em 4 nov. 2026.

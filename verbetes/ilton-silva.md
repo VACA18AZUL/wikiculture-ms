@@ -2,14 +2,18 @@
 titulo: Ilton Silva
 tipo: pessoa
 areas: [artes-plasticas]
-resumo: Artista plástico de Mato Grosso do Sul, expositor na mostra de 1966 em Campo Grande e presente no acervo do MARCO, com temática regional e indígena.
+resumo: Artista plástico e escultor nascido em Ponta Porã (MS), expositor na mostra de 1966 em Campo Grande e presente no acervo do MARCO. Morreu em 2018, aos 75 anos.
 ficha:
-  Atividade: Artes plásticas
+  Naturalidade: Ponta Porã
+  Morte: "2018"
+  Atividade: Artes plásticas e escultura
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Ilton Silva** é um artista plástico de Mato Grosso do Sul, que aparece na bibliografia sobre as artes visuais do estado desde a década de 1960.[^assis]
+**Ilton Silva** foi um artista plástico de Mato Grosso do Sul, que aparece na bibliografia sobre as artes visuais do estado desde a década de 1960.[^assis]
+
+Nascido em Ponta Porã, era autodidata e morreu em 23 de junho de 2018, aos 75 anos. Vivia havia cerca de 20 anos em Itapoá, Santa Catarina.[^ce2018]
 
 ## Trajetória
 
@@ -17,12 +21,17 @@ Ilton Silva está entre os artistas que expuseram na [[i-exposicao-de-pinturas-a
 
 A dissertação de Rozana Godoi cita, como exemplo de exposições feitas fora de galerias em Campo Grande, uma mostra dos trabalhos de Ilton Silva e de [[conceicao-dos-bugres|Conceição dos Bugres]], organizada por uma professora e pela Associação dos Professores no saguão do jornal Diário da Serra. O texto não dá a data da mostra.[^godoi] A dissertação de Isabella Amizo lista uma *Exposição Ilton e Conceição*, de 1971, na Galeria Hotel Campo Grande.[^amizo] As fontes não dizem se se trata da mesma mostra.
 
+Segundo o obituário publicado pelo Correio do Estado, ele participou da fundação da Associação Mato-Grossense das Artes (AMA), nos anos 1960, e expôs na Argentina, na Alemanha, em Portugal e nos Estados Unidos.[^ce2018]
+
 ## Obra
 
 Assis registra que Ilton Silva, como Mary Slessor, trabalhou com os Guarani-Kaiowá como tema, no período em que o [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]] se voltava para os Mbayá-Guaicuru.[^assis42]
 
 Amizo cita Ilton Silva entre os artistas com temática local cujas obras estão no acervo do [[marco|MARCO]].[^amizo]
 
+O obituário publicado pelo Correio do Estado descreve obras de cores vivas e conteúdo social, com temas como a infância humilde, a natureza e o povo do estado, e registra o uso de carvão, terra e óleo sobre tela, com tampas de caneta e cartões telefônicos no lugar da espátula. A matéria também diz que há obras dele no MARCO.[^ce2018]
+
+[^ce2018]: ["Aos 75 anos, morre o artista plástico Ilton Silva, de Ponta Porã"](https://correiodoestado.com.br/correio-b/2018/06/23/aos-75-anos-morre-o-artista-plastico-ilton-silva-de-ponta-pora.html), *Correio do Estado*, caderno Correio B, 23 jun. 2018. Acesso em 4 nov. 2026.
 [^assis]: Renata Rodrigues de Assis, *A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*, dissertação de mestrado, Universidade Federal da Grande Dourados, 2013. [PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf). Acesso em 29 out. 2026.
 [^assis26]: Assis, 2013, p. 25-26, a partir de Aline Figueiredo (1979). Acesso em 29 out. 2026.
 [^assis42]: Assis, 2013, p. 42. Acesso em 29 out. 2026.

@@ -35,9 +35,9 @@ Nos anos 1970 e 1980, ficou conhecido como "Rei da Pornochanchada" pelos filmes 
 
 Títulos filmados em Mato Grosso do Sul, segundo Diehl:[^diehl]
 
-- *Caingangue, a Pontaria do Diabo* (1973) — dirigido por Carlos Hugo Christensen; produtora Ipanema Filmes.[^diehl]
+- [[caingangue-a-pontaria-do-diabo|Caingangue – a Pontaria do Diabo]] (1973) — dirigido por Carlos Hugo Christensen; produtora Ipanema Filmes.[^diehl] A Cinemateca Brasileira registra Cardoso como ator, no papel-título, e na direção de produção, com a R. F. Farias como produtora e a Ipanema Filmes como distribuidora.[^cinemateca1]
 - *Caçada Sangrenta* (1974) — dirigido por Ozualdo Candeias; produtora DaCar; primeira produção da DACAR, com Cardoso no papel de Nequinho.[^diehl][^neves]
-- *19 Mulheres e 1 Homem* (1977) — direção de Cardoso; produtora DaCar.[^diehl]
+- [[dezenove-mulheres-e-um-homem|19 Mulheres e um Homem]] (1977) — direção de Cardoso; produtora DaCar.[^diehl] Segundo a Cinemateca, Cardoso também assina a produção e o argumento e faz o papel de Rubens.[^cinemateca2]
 - *[[desejo-selvagem-massacre-no-pantanal|Desejo Selvagem]]* (1979) — longa; direção de Cardoso; produtora DaCar. Neves dá o título *Desejo Selvagem – Massacre no Pantanal* e atribui a Cardoso direção, produção e o papel principal.[^diehl][^neves]
 - *Corpo e Alma de Mulher* (1983) — direção de Cardoso; produtora DaCar; Cardoso faz o papel de Rodrigo.[^diehl][^neves]
 
@@ -65,3 +65,5 @@ Outros títulos citados na homenagem de 2012:[^cmsp]
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009. Acesso em 29 out. 2026.
 [^cmsp]: Ericka Perestrelo, ["Uma Noite de Cinema exibe filmes de David Cardozo na CMSP"](https://www.saopaulo.sp.leg.br/blog/galeria-de-audios/uma-noite-de-cinema-exibe-filmes-de-david-cardozo-na-cmsp/), *Câmara Municipal de São Paulo*, 24 set. 2012. Acesso em 4 nov. 2026.
 [^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 43-48, 50 e 55. Acesso em 4 nov. 2026.
+[^cinemateca1]: Cinemateca Brasileira, ["Caingangue e a Pontaria do Diabo"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=ID=003348&format=detailed.pft), base Filmografia Brasileira, registro 003348. Acesso em 4 nov. 2026.
+[^cinemateca2]: Cinemateca Brasileira, ["19 Mulheres e 1 Homem"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=ID=024871&format=detailed.pft), base Filmografia Brasileira, registro 024871. Acesso em 4 nov. 2026.

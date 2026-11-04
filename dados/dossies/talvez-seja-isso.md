@@ -45,3 +45,14 @@ O que mudou: acrescentado parágrafo em Apresentações. O resultado oficial lis
 
 Divergência a registrar em observacoes: ano/natureza do prêmio (2021 ao solo, segundo cgn2025; 2022 ao projeto Singulares, segundo cgn2023 e Funarte). Página institucional da FCMS sobre os 20 anos da Cia. Dançurbana (Cavucada) lista Singulares (2019, reestreia em 2020) no repertório, sem citar o solo: não entra. Fonte independente para a existência, a ficha técnica e a apresentação de 9 set. 2023 do solo segue ausente (só Campo Grande News).
 
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas, abertas e lidas (API do O Estado MS, busca "Jackeline Mourão"):
+
+- João Santana Fernandes (texto de Izabela Cavalcanti), "Cia. Dançurbana apresenta ao vivo espetáculo 'Talvez Seja Isso'", *O Estado Online*, 21 ago. 2020. Reportagem com fala de Marcos Mattos: apresentações on-line em 19-20 e 26-27 ago. 2020 (YouTube da companhia, temporada "Quanto Custa?"); solo do Projeto Singulares – Mostra de Solos, criado entre 2019 e 2020 com seis solos; direção de Marcos Mattos e Renata Leoni; figurino e texto de Maíra Espíndola; apoio no livro *Mulheres que correm com os lobos*. Veículo diferente do Campo Grande News, com texto próprio.
+- "Intérpretes da Cia. Dançurbana farão dois solos com entrada gratuita hoje", *O Estado Online*, 9 set. 2023: anúncio da sessão na Casa de Ensaio, com a mesma ficha da matéria do Campo Grande News de 2023 (parece partir da mesma divulgação).
+
+Divergência registrada: a matéria do Campo Grande News de 2025 data o solo de 2021; a de 2020 do *O Estado* mostra o solo em cena já em agosto de 2020. As duas versões ficam no verbete, sem escolha. Também anotado: em 2020 a direção aparece como de Mattos e Leoni; em 2023, direção e coreografia de Leoni e direção geral de Mattos.
+
+Acrescentados: parágrafo em Criação, parágrafo em Apresentações, frase sobre a data, item Figurino na Equipe.

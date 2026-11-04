@@ -7,3 +7,8 @@ Fonte nova: Ian Rari Nogueira Faria, *Contribuições da música regional...*, d
 - Acrescentado: gravação de "Polka outra vez" (Geraldo Roca) em 1991 (nota 3, p. 51).
 - Acrescentado: texto de Simões de 1996 (Faria cita "Simões, 1996, p. 16"; título da obra não conferido) sobre as origens da música do estado (p. 60). Resumido, sem citação literal.
 - Faria confirma "Trem do Pantanal" (com Roca), "Paiaguás" (com Rondon) e "Sonhos Guaranis" (com Sater) (p. 60) e a presença no Prata da Casa (p. 59).
+
+## Atualização de 2026-11-04 (r11)
+
+- Cabrita (UFMS, 2018), p. 107 do PDF: "Comitiva Esperança", de Almir Sater e Paulo Simões.
+- Ferrari (UFMS, 2011), p. 6 do PDF (lista de ilustrações; o PDF do portal tem só as páginas pré-textuais): foto 14, show de lançamento do 1º CD do Grupo Sarandi Pantaneiro, com Norico Nogueira, Paulo Simões e Inezita Barroso. Ano do CD não consta nessas páginas.

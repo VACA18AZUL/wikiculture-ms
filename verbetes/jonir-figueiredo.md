@@ -23,7 +23,9 @@ Participou do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]], colet
 
 Presidiu a Associação dos Artistas Plásticos de Mato Grosso do Sul em 2008 e 2009.[^assis] Em 2014 foi listado entre os artistas plásticos da exposição "Mato Grosso do Sul Visto Pelo Mundo", organizada com a ONU em Nova York.[^cgn2014]
 
-Morreu em 26 de julho de 2025, em Bonito, onde participava do Festival Bonito Cinesur.[^cgn2025b] A idade varia: a matéria de 26 de julho informa 73 anos em um trecho e 71 em outro, e a de 27 de julho informa 73.[^cgn2025][^cgn2025b]
+Morreu em 26 de julho de 2025, em Bonito, onde participava do Festival Bonito Cinesur.[^cgn2025b] Segundo o *Correio do Estado*, a morte ocorreu de madrugada, horas depois da noite de abertura do 3º Festival de Cinema Sul-Americano de Bonito, do qual era um dos convidados especiais.[^ce2025] A idade varia: a matéria do Campo Grande News de 26 de julho informa 73 anos em um trecho e 71 em outro, a de 27 de julho informa 73, e a do *Correio do Estado* informa 71.[^cgn2025][^cgn2025b][^ce2025]
+
+A naturalidade também diverge. O *Correio do Estado* diz que ele era natural de Campo Grande;[^ce2025] a ficha deste verbete registra Corumbá, a partir das outras fontes.
 
 ## Obra
 
@@ -34,4 +36,5 @@ Em abril de 2025 foi lançado em Campo Grande o livro *Jonir: uma trajetória de
 [^cgn2025]: Clayton Neves, ["Morre aos 73 anos Jonir Figueiredo, ícone das artes visuais de MS"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/morre-aos-73-anos-jonir-figueiredo-icone-das-artes-visuais-de-ms), *Campo Grande News*, 26 jul. 2025. Acesso em 29 out. 2026.
 [^cgn2025b]: ["Adeus a Jonir Figueiredo, artista que ajudou a moldar a identidade cultural de MS"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/adeus-a-jonir-figueiredo-artista-que-ajudou-moldar-a-identidade-cultural-de-ms), *Campo Grande News*, 27 jul. 2025. Acesso em 29 out. 2026.
 [^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, UFGD, 2013, p. 13, 31 e 74–77. Acesso em 29 out. 2026.
+[^ce2025]: Alison Silva, ["Aos 71 anos, morre artista plástico Jonir Figueiredo"](https://correiodoestado.com.br/correio-b/2025/07/26/aos-71-anos-morre-artista-plastico-jonir-figueiredo.html), *Correio do Estado*, caderno Correio B, 26 jul. 2025. Acesso em 4 nov. 2026.
 [^cgn2014]: Vinícius Squinelo e Paula Maciulevicius, ["Em Nova Iorque, 12 artistas vão expor a cara de MS na ONU para o mundo"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-nova-iorque-12-artistas-vao-expor-a-cara-de-ms-na-onu-para-o-mundo), *Campo Grande News*, 27 jan. 2014. Acesso em 29 out. 2026.

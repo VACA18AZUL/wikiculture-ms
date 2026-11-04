@@ -8,3 +8,7 @@ Fonte nova: Cid Nogueira Fidelis, *Cinema Guarani e Kaiowá: um estudo sobre a c
 - Com isso o verbete passa a ter duas fontes de autores diferentes (Corrêa e Fidelis); antes, as duas eram de Corrêa.
 - Fidelis grafa "Ava Marandu" (sem acento) e em uma citação "Avá Marandu". No Apêndice, alguns filmes aparecem com "Pontão de Cultura" sem o nome.
 - *Jakaira* do Ava Marandu (2010, Aldeia Jaguapiru) não é o *Jakaira* (2019) da ASCURI do verbete jakaira; não citado no verbete para evitar confusão.
+
+## Atualização de 2026-11-04 (r11)
+
+- Fidelis (UFMS, dissertação, 2015), p. 119-120 e 134 do PDF: Ava Marandu do Pontão com SID/MinC; produção de Brô Mc's (com Aldeia Jaguapiru) e Jaguapiré na luta (com Aldeias Jaguapiré e Jaguapiré Memby).

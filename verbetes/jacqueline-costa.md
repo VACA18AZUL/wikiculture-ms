@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em outubro de 2014, quando estudava Direito na Uniderp, venceu o 22º [[festival-universitario-da-cancao|Festival Universitário da Canção]], da [[ufms|UFMS]], no Teatro Glauce Rocha, com "Feitiço do Escorpião".[^ce2014] No mesmo ano, lançou o primeiro álbum autoral, com apoio do Fundo de Investimentos Culturais de MS (FIC).[^fcms2024a]
+Em outubro de 2014, quando estudava Direito na Uniderp, venceu o 22º [[festival-universitario-da-cancao|Festival Universitário da Canção]], da [[ufms|UFMS]], no Teatro Glauce Rocha, com "Feitiço do Escorpião".[^ce2014] No mesmo ano, lançou o primeiro álbum autoral, com apoio do Fundo de Investimentos Culturais de MS (FIC).[^fcms2024a] Uma nota do *Campo Grande News* de outubro de 2014 diz que ela entrou em estúdio em outubro de 2012 para gravar o primeiro CD, *Você Pra Vida Inteira*, com nove músicas autorais.[^cgn2014]
 
 Segundo a Fundação de Cultura de MS (FCMS), participou de programas de televisão regionais e apresentou o show *Intimista* no projeto CenaSom. Em 2023, esteve na segunda edição de [[o-canto-delas|O Canto Delas]], projeto voltado a mulheres na música.[^fcms2024a]
 
@@ -28,6 +28,7 @@ Em 3 de fevereiro de 2025, a FCMS anunciou para o dia 5 o lançamento, no YouTub
 
 ## Discografia
 
+- *Você Pra Vida Inteira* — primeiro CD, com nove músicas autorais; gravação iniciada em outubro de 2012.[^cgn2014]
 - Álbum autoral (2014) — com apoio do FIC; inclui "Esperando em MS", "Chuva de Amor" e "Fiz uma Lista".[^fcms2024a]
 - "Desenho em Aquarela" — canção anterior a "É de Bom Tom".[^fcms2025a]
 - "É de Bom Tom" (2025) — single; produção de Fábio Adames.[^fcms2025a]
@@ -37,6 +38,7 @@ Em 3 de fevereiro de 2025, a FCMS anunciou para o dia 5 o lançamento, no YouTub
 - "É de Bom Tom" (2025) — videoclipe produzido pela Produza Projeções.[^fcms2025a]
 
 [^ce2014]: ["Acadêmica de Direito é vencedora do Festival Universitário da Canção"](https://correiodoestado.com.br/correio-b/2014/10/25/academica-de-direito-e-vencedora-do-festival-universitario-da-cancao.html), *Correio do Estado*, 25 out. 2014. Acesso em 4 nov. 2026.
+[^cgn2014]: Eduardo Penedo, ["Leandro Perez e Jacqueline Costa se apresentam na Concha Acústica"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/leandro-perez-e-jacqueline-costa-se-apresentam-na-concha-acustica), *Campo Grande News*, 16 out. 2014. Acesso em 4 nov. 2026.
 [^fcms2024a]: Fundação de Cultura de Mato Grosso do Sul, ["Som da Concha apresenta no próximo domingo Jacqueline Costa e o Coletivo 8 na Concha Acústica Helena Meirelles"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-apresenta-no-proximo-domingo-jacqueline-costa-e-o-coletivo-8-na-concha-acustica-helena-meirelles/), notícia, 26 nov. 2024. Acesso em 4 nov. 2026.
 [^fcms2024b]: Fundação de Cultura de Mato Grosso do Sul, ["Som da Concha com Jacqueline Costa e o Coletivo 8 foi de muita música autoral em Campo Grande"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-com-jacqueline-costa-e-o-coletivo-8-foi-de-muita-musica-autoral-em-campo-grande/), notícia, 2 dez. 2024. Acesso em 4 nov. 2026.
 [^fcms2025a]: Fundação de Cultura de Mato Grosso do Sul, ["Com financiamento da Lei Paulo Gustavo, artista Jacqueline Costa lança novo single enaltecendo o amor e as relações humanas"](https://www.fundacaodecultura.ms.gov.br/com-financiamento-da-lei-paulo-gustavo-artista-jacqueline-costa-lanca-novo-single-enaltecendo-o-amor-e-as-relacoes-humanas/), notícia, 3 fev. 2025. Acesso em 4 nov. 2026.

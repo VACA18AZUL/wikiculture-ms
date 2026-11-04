@@ -21,7 +21,7 @@ Na Bolívia, foi diretor acadêmico da Escola de Cinema e Artes Audiovisuais (EC
 
 ## Em Mato Grosso do Sul
 
-A tese o descreve como coordenador de projetos de treinamento no estado e um dos fundadores da ASCURI, a partir de 2008, segundo o texto de Retina Latina que ela reproduz.[^tese][^retina] Em 2010, no projeto Avá Marandu, dividiu com [[gilmar-galache|Gilmar Galache]] uma das equipes que fizeram 12 oficinas em 7 aldeias ao longo de três meses.[^tese]
+A tese o descreve como coordenador de projetos de treinamento no estado e um dos fundadores da ASCURI, a partir de 2008, segundo o texto de Retina Latina que ela reproduz.[^tese][^retina] Em 2010, no projeto Avá Marandu, dividiu com [[gilmar-galache|Gilmar Galache]] uma das equipes que fizeram 12 oficinas em 7 aldeias ao longo de três meses.[^tese] A dissertação de Cid Nogueira Fidelis, que grafa o nome Ivã Molina, também o lista entre os ministrantes das oficinas de cinema do projeto, dadas entre fevereiro e abril de 2010.[^fidelis2015]
 
 Em 2020, durante a pandemia, supervisionou à distância os curtas *Teko Marangatu*, *Ary Vaí* e *Yvyra Jegua*, feitos pela ASCURI em aldeias, e escreveu os roteiros com [[eliel-benites|Eliel Benites]].[^tese]
 
@@ -29,3 +29,4 @@ A tese atribui a ele uma defesa do cinema feito coletivamente, com participaçã
 
 [^tese]: Miguel Angelo Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*, tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, especialmente a seção 2.2.2.10 ([PDF](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf)). Acesso em 4 nov. 2026.
 [^retina]: ["Iván Molina Velásquez"](https://www.retinalatina.org/person/ivan-molina/), *Retina Latina*. Acesso em 4 nov. 2026.
+[^fidelis2015]: Cid Nogueira Fidelis, [*Cinematografia indígena: a experiência social sob o foco da cultura Guarani-Kaiowá*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4417), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2015, p. 120. Acesso em 4 nov. 2026.

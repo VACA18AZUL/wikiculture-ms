@@ -32,6 +32,8 @@ Com o violeiro mato-grossense João Ormond, apresentou o show *Violas Pantaneira
 
 Em novembro de 2016, o *Correio do Estado* noticiou o livro *Sonhos Guaranis: a poesia de Paulo Simões*, da Editora da UFMS, organizado pelo jornalista Danilo Nuha, com as letras que ele escreveu. O mesmo texto informa que ele tinha então quatro álbuns, uma coletânea e um DVD, sem listá-los.[^ce2016]
 
+Débora Cabrita atribui a Paulo Simões e [[almir-sater|Almir Sater]] a canção "Comitiva Esperança", que ela inclui no roteiro de um documentário sobre as comitivas pantaneiras.[^cabrita] Na dissertação de José Francisco Ferrari sobre o Grupo Sarandi Pantaneiro, a lista de ilustrações registra uma foto do show de lançamento do primeiro CD do grupo com Paulo Simões, Inezita Barroso e o violeiro Norico Nogueira.[^ferrari]
+
 ## Filmografia
 
 - [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de Fábio Flecha; participação especial.[^fcmslendas]
@@ -45,3 +47,5 @@ Em novembro de 2016, o *Correio do Estado* noticiou o livro *Sonhos Guaranis: a 
 [^gon14]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, seção sobre os artistas híbridos e o disco *Prata da Casa*. Acesso em 4 nov. 2026.
 [^fcmslendas]: Fundação de Cultura de MS, ["Lendas Pantaneiras, longa produzido com recursos do FIC, será lançado dia 4 de outubro"](https://www.fundacaodecultura.ms.gov.br/lendas-pantaneiras-longa-produzido-com-recursos-do-fic-sera-lancado-dia-4-de-outubro/), 25 set. 2015. Acesso em 4 nov. 2026.
 [^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 51 (nota 3), 55 e 59-60 do PDF. Acesso em 4 nov. 2026.
+[^cabrita]: Débora Alves Pereira Cabrita, [*Linguagem audiovisual do documentário: o trabalho das comitivas pantaneiras a partir da experiência de uma peoa*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5967), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2018, p. 106 (p. 107 do PDF). Acesso em 4 nov. 2026.
+[^ferrari]: José Francisco Ferrari, [*Sarandi Pantaneiro: uma especificidade da cultura local*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2006), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2011, lista de ilustrações, p. 6 do PDF. Acesso em 4 nov. 2026.

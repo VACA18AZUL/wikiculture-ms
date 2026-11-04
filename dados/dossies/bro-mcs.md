@@ -15,3 +15,7 @@ O que mudou:
 - Fidelis (acrescentado): curta documental *Brô Mc's* (2010), 8'15", Ava Marandu, produção Aldeia Jaguapiru e Pontão de Cultura; realizadores listados no Apêndice 1 (não transcritos no verbete); análise do filme (p. 63-65, 163-166). Concorda com Corrêa, que fala de "videoclipe incipiente" do Ava Marandu.
 - Divergência de datas de formação: Morais situa as duas primeiras músicas e a oficina da CUFA em 2008; R@U (no verbete de Clemerson) dá composições desde 2007 e grupo desde 2009. Não houve conflito direto com o texto deste verbete.
 - Dados pessoais de Morais (casamentos, filhos, pais, trabalho, abandono familiar) ficaram fora.
+
+## Atualização de 2026-11-04 (r11)
+
+- Fidelis (UFMS, dissertação, 2015), p. 120-134 do PDF: análise do curta *Brô Mc's* (2010). Mesmo autor da tese de 2024.

@@ -24,3 +24,7 @@
 - Não entrou: nome civil e idade (dados pessoais), filme biográfico citado sem título legível no texto extraído.
 - Wikipédia: também traz Bela Vista; sem divergência.
 - Pendente: nenhuma fonte lida relata a cerimônia depois de realizada.
+
+## Atualização de 2026-11-04 (r11)
+
+- Vicelli (UFMS, 2008), p. 57-129 do PDF (lidas p. 58, 68, 115 e a ficha técnica na p. 129): Ney Matogrosso representa Manoel de Barros jovem em Caramujo-flor (1988); Rubens Corrêa, o poeta velho. Neves (2012, Ed. UFGD), p. 52: elenco de Caramujo Flor. Item acrescentado à Filmografia.

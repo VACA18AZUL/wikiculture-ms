@@ -20,7 +20,7 @@ A letra, com data de 1979, é transcrita por Ian Rari Nogueira Faria. Ela começ
 
 ## Festival de 1979
 
-O 1º Fessul foi realizado em 1979 no ginásio da União Campo-grandense de Estudantes (UCE), em Campo Grande.[^cgn2021] Segundo o organizador [[onesimo-filho|Onésimo Filho]], em depoimento a Paulo Simões citado por Caetano, a vitória do ACABA o surpreendeu. O júri, em boa parte de fora do estado, com nomes como Ricardo Cravo Albin e Wladimir Soares, entusiasmou-se com o estilo do grupo. "Cartas na Manga", de Matusalém Vieira do Carmo, interpretada por Sidney Rezende, ficou em segundo lugar.[^caetano2012b]
+O 1º Fessul foi realizado em 1979 no ginásio da União Campo-grandense de Estudantes (UCE), em Campo Grande.[^cgn2021] Segundo o organizador [[onesimo-filho|Onésimo Filho]], em depoimento publicado por Paulo Simões em *Festivais de Música em Mato Grosso do Sul* (1981) e citado por Caetano, a vitória do ACABA o surpreendeu. O júri, em boa parte de fora do estado, com nomes como Ricardo Cravo Albin e Wladimir Soares, entusiasmou-se com o estilo do grupo. "Cartas na Manga", de Matusalém Vieira do Carmo, interpretada por Sidney Rezende, ficou em segundo lugar.[^caetano2012b]
 
 Caetano avalia que a canção teve pouco apoio do público, que preferia "Cartas na Manga", e que só a escolha dos jurados contava para o resultado. Para ele, o tema indígena já tinha algo de regionalista, e a vitória provavelmente foi favorecida pelo clima de criação do novo estado.[^caetano2012a] No ano seguinte, o ACABA ficou em segundo lugar no 2º Fessul com "Nos Mares de Xaraés", apostando, segundo Caetano, na mesma fórmula de "Kananciuê".[^caetano2012b]
 

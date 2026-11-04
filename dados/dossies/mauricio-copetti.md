@@ -52,3 +52,7 @@ Fontes descartadas e o motivo:
 - Abertura: 'é um documentarista, diretor e produtor de Planuras, documentário de Campo Grande de 2015'.
 - Origem do diretor; ano de Koi e o Rio; exibição efetiva na Mostra Sesc (texto diz 'programado').
 - Wikipédia pt: sem artigo sobre o verbete.
+
+## Atualização de 2026-11-04 (r11)
+
+- Fidelis (UFMS, dissertação, 2015), p. 120 do PDF: "Maurício Copetti" entre os ministrantes das oficinas de cinema do Ava Marandu (fev.-abr. 2010).

@@ -49,3 +49,7 @@
 ## Uso no verbete
 
 - Entrou tudo acima, menos citação da letra.
+
+## Atualização de 2026-11-04 (r11)
+
+- J. Lima (UFGD, 2013), p. 13 do PDF: letra de "Sonhos Guaranis" em epígrafe do capítulo I, referida como "Almir Sater, Sonhos Guaranis, 1992, CD". Não crava data de composição nem gravação original; registrado como referência da fonte.

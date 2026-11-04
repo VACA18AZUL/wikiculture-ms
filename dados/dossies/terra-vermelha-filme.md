@@ -62,3 +62,8 @@ Descartada: página da Pandora Film citada por Corrêa (https://www.pandorafilm.
 
 - Validação: Alves, Corrêa e Morais conferidos de novo.
 - Conferência com a Wikipédia (https://pt.wikipedia.org/wiki/Terra_Vermelha): lista Lara Fremder como coautora do roteiro (além de Bechis e Bolognesi), chama o personagem de Leonardo Medeiros de "Medeiros" (Alves: "Lucas Moreira") e grafa "Irineu". Fica fora do verbete até haver fonte aberta (a Wikipédia cita CinePlayers, G1, Cinética e Omelete).
+
+## Atualização de 2026-11-04 (r11)
+
+- Alves (UFMS, 2012), p. 7 e 86-88 do PDF relidas: coprodução Brasil/Itália; locações nos arredores de Dourados; ficha técnica (direção Marco Bechis; roteiro Bechis e Luiz Bolognesi; produtores; 2008; drama; 108 min) e elenco. Tudo já estava no verbete com nota [^alves2012]; acrescentada só a variação de grafia "Marcos Bechis" (p. 86).
+- O verbete tem três fontes independentes (Alves 2012; Corrêa 2023; Morais 2013).

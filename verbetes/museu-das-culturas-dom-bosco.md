@@ -36,9 +36,10 @@ O artigo de 2025, com base em trabalho de Ferreira publicado em 2010, contava ce
 
 ## Exposições
 
-Em 2010, o museu recebeu a exposição final do projeto Ava Marandu, do [[pontao-de-cultura-guaicuru|Pontão de Cultura Guaicuru]], com fotografias e filmes feitos por alunos guarani e kaiowá em oficinas nas aldeias, segundo a tese de Cid Nogueira Fidelis.[^fidelis2024]
+Em 2010, o museu recebeu a exposição final do projeto Ava Marandu, do [[pontao-de-cultura-guaicuru|Pontão de Cultura Guaicuru]], com fotografias e filmes feitos por alunos guarani e kaiowá em oficinas nas aldeias, segundo a tese de Cid Nogueira Fidelis.[^fidelis2024] A dissertação de mestrado do mesmo autor, de 2015, registra as mostras de fotografia e cinema do projeto no museu.[^fidelis2015]
 
 [^cde2019]: Aline Oliveira, ["Ampliação do museu Dom Bosco coloca MS em destaque nacional"](https://www.correiodoestado.com.br/cidades/ampliacao-do-museu-dom-bosco-coloca-ms-em-destaque-nacional/351926/), *Correio do Estado*, 26 abr. 2019. Acesso em 4 nov. 2026.
 [^cgn2024]: Thailla Torres, ["Museu completa 73 anos e celebra com visita guiada neste sábado"](https://www.campograndenews.com.br/lado-b/diversao/museu-completa-73-anos-e-celebra-com-visita-guiada-neste-sabado), *Campo Grande News*, 24 out. 2024. Acesso em 4 nov. 2026.
 [^uel2025]: Gláucia Frederico Dutra e Silva e Maria Raquel da Cruz Duran, ["Um estudo comparativo entre os objetos etnográficos Boe (Bororo) e Ejiwajegi (Kadiwéu) no Museu das Culturas Dom Bosco (Campo Grande/MS)"](https://anais.uel.br/portal/index.php/lerr/article/download/4869/4343/14492), *Anais do XI Seminário Internacional Práticas Religiosas no Mundo Contemporâneo*, Universidade Estadual de Londrina, 2025. Acesso em 4 nov. 2026.
 [^fidelis2024]: Cid Nogueira Fidelis, [*Cinema Guarani e Kaiowá: um estudo sobre a construção de sentido em filmes autorais indígenas*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13510), tese de doutorado em Estudos de Linguagens, UFMS, 2024, p. 107-108. Acesso em 4 nov. 2026.
+[^fidelis2015]: Cid Nogueira Fidelis, [*Cinematografia indígena: a experiência social sob o foco da cultura Guarani-Kaiowá*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4417), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2015, p. 119. Acesso em 4 nov. 2026.

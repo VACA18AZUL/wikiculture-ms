@@ -41,6 +41,10 @@ Alan Silus da Cruz Silva dedicou sua dissertação de mestrado em Letras na UEMS
 - *Canção do Amor* (1995) — álbum; JHO Music.[^caetano2012ufgd]
 - *Anhaí* (1998), com Alzira Espíndola — álbum; Dabliú.[^caetano2012ufgd]
 
+## Filmografia
+
+- *Caramujo-Flor* (1988) — curta de [[joel-pizzini|Joel Pizzini]] sobre a poesia de [[manoel-de-barros|Manoel de Barros]]; elenco.[^neves][^vicelli]
+
 ## Videografia
 
 - *Bem-te-vi* (1978) — videoclipe do grupo Tetê e o Lírio Selvagem, produzido pela Rede Globo para o *Fantástico*. Celito Espíndola atribui a direção a Roberto Talma.[^caetano2012nupem][^caetano2012ufgd]
@@ -48,3 +52,5 @@ Alan Silus da Cruz Silva dedicou sua dissertação de mestrado em Letras na UEMS
 [^caetano2012ufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, seção 2.2 e lista de discos. Acesso em 29 out. 2026.
 [^caetano2012nupem]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM*, Campo Mourão, v. 4, n. 6, jan./jul. 2012, seção "Os irmãos Espíndola e o novo som da região sul-mato-grossense". Acesso em 29 out. 2026.
 [^silus2020]: Alan Silus da Cruz Silva, [*Do lírio selvagem ao Piraretã: memória e dialogismo na paisagem sonora de Tetê Espíndola*](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=12756169), dissertação de mestrado, Programa de Pós-Graduação em Letras, Universidade Estadual de Mato Grosso do Sul, 2020, resumo no registro do trabalho na Plataforma Sucupira (CAPES). Acesso em 4 nov. 2026.
+[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 52. Acesso em 4 nov. 2026.
+[^vicelli]: Karina Kristiane Vicelli, [*Transgressão e antropofagia: da poesia de Manoel de Barros à poética de Caramujo-flor, de Joel Pizzini Filho*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2125), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2008, p. 129 do PDF (ficha técnica). Acesso em 4 nov. 2026.

@@ -39,3 +39,9 @@ Descartadas: Monteiro (Moringa, 2025) trata do grupo, não desta peça; busca ab
 O que mudou: acrescentado parágrafo em Apresentações. O texto da FCMS (anúncio, programação "Dia 12/11 – Sesc Cultura, 18h – Gritaram-me Bugra – Grupo de Teatro Liberdade PKR Pa'iKuaraRendy Aldeia (Amambai/MS)") confirma o título e o grupo por fonte de outro veículo e traz uma apresentação anterior às de 2022 (12 nov. 2021, mostra Campo Grande em Cena, 3 a 13 nov. 2021, FIC/MS 2019). Grafia do grupo nessa fonte: "Pa'iKuaraRendy" (sem espaço), a mesma raiz de cgn2022a. A fonte não traz ano de criação, texto, direção ou enredo: esses itens seguem só no Campo Grande News (cgn2022b). Anúncio, não confirma realização.
 
 Observação: a página de busca da FCMS indexa uma imagem "Gritaram-me-Bugra.jpeg" (jun. 2022) anexada à matéria da Boca de Cena de 22 jun. 2022, mas o texto dessa matéria não cita a peça; não usada. Correio do Estado, A Crítica e UFMS sem resultado.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova, aberta e lida (API do O Estado MS, busca "Gritaram-me Bugra"): "Com espetáculos teatrais e documentário, FIB entra no segundo dia de evento", *O Estado Online*, 26 ago. 2022. Anuncia a peça para as 16h30 daquele dia no Festival de Inverno de Bonito, dá o significado da sigla PKR (Pa'i Kuana Rendy, "Raio do Sol") e traz declaração de Duadino Martines sobre os temas do grupo. Veículo diferente do Campo Grande News e da FCMS. Acrescentadas frases ao parágrafo do FIB 2022.
+
+Pistas não abertas: *MS Notícias*, 11 nov. 2021 ("Grupo indígena de Amambai apresenta espetáculo Gritaram-me Bugra no Campo Grande em Cena") e Campo Grande News, 26 jun. 2022 ("Único espetáculo indígena de mostra levou dor e ancestralidade para praça"), achadas pelo Google Notícias.

@@ -3,7 +3,7 @@ titulo: Embaixada Indígena (Campo Grande)
 tipo: espaco
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: "Espaço cultural independente e coletivo dedicado aos povos indígenas, na Rua 14 de Julho, no Centro de Campo Grande; existe desde 2022 e abriu a sede atual em junho de 2024, com graffiti na fachada."
+resumo: "Espaço cultural independente e coletivo dedicado aos povos indígenas, na Rua 14 de Julho, no Centro de Campo Grande; existe desde 2022 e inaugurou em junho de 2024 a sede na Rua 14 de Julho, com graffiti na fachada."
 ficha:
   Criação: "2022; sede na Rua 14 de Julho inaugurada em 8 de junho de 2024"
   Local: "Rua 14 de Julho, esquina com a Rua Maracaju, Centro, Campo Grande"
@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Embaixada Indígena** é um espaço cultural de Campo Grande dedicado às lutas, à memória e à cultura dos povos indígenas. Funciona de forma coletiva e independente, na Rua 14 de Julho, no Centro.[^cgn2024a][^souza2025]
+A **Embaixada Indígena** é um espaço cultural de Campo Grande dedicado às lutas, à memória e às pautas dos povos indígenas. Em 2024 foi descrito como um espaço coletivo e independente, instalado na Rua 14 de Julho, no Centro.[^cgn2024a][^souza2025]
 
 ## História
 
@@ -22,7 +22,7 @@ Na abertura estavam programados o [[teatro-imaginario-maracangalha|Teatro Imagin
 
 ## Programação
 
-A curadoria ficou com Bárbara Albino e Tanaíra Sobrinho, de origem terena. A proposta anunciada incluía rodas de conversa, palestras, exposições, apresentações artísticas, lançamentos de livros, feiras de economia solidária e atividades de formação cultural e política. O espaço abriria de quinta a domingo, com rodas de conversa durante o dia e sarau à noite.[^cgn2024a][^cgn2024b]
+A curadoria ficou com Bárbara Albino e Tanaíra Sobrinho, de origem terena. Para a nova sede foram anunciados debates em rodas de conversa, palestras, mostras, espetáculos, lançamentos de livros, feiras de economia solidária e ações de formação cultural e política. O espaço abriria de quinta a domingo, com rodas de conversa durante o dia e sarau à noite.[^cgn2024a][^cgn2024b]
 
 ## Arte nas paredes
 

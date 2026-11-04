@@ -18,6 +18,10 @@ O **Grupo Casa** é um coletivo de artistas de Campo Grande que funciona como es
 
 Em março de 2024, o *Campo Grande News* noticiou que o grupo completava dez anos. Segundo a reportagem, ele nasceu de uma sala de aulas de poesia, a Casa da Poesia Dra. Alda Garcia, aberta por Nildes Tristão Prieto em 28 de maio de 2013. O espaço virou um teatro de quarenta lugares, e o curso de teatro passou de dez para cem alunos. Mais de mil alunos haviam passado pela escola até então.[^cgn2024a]
 
+Nildes Maria das Graças Tristão Prieto, mãe da fundadora Ligia Tristão Prieto, era dentista e poeta, e dava na sala aulas de criação e declamação de poesia. Ela tinha feito em Campo Grande o curso de poesia da professora Alda Garcia, que deu nome à Casa da Poesia Dr. Alda Garcia, inaugurada em maio de 2013. Depois da morte de Nildes, no mesmo ano, Ligia voltou do Rio de Janeiro e deu continuidade ao espaço, que se transformou no Grupo Casa.[^cgn2024a][^oe2024]
+
+Em 2015 e 2019, a sede do grupo aparece com o nome de Casa de Cultura Nildes Tristão Prieto, onde funcionavam turmas de iniciação teatral.[^fcms2015rj][^cgn2019v]
+
 O grupo ocupou vários endereços da cidade. Desde maio de 2023 tem sede fixa no bairro Amambaí, com ateliê de figurinos, biblioteca e uma sala chamada Caixa Cênica, usada para oficinas e apresentações.[^cgn2024a]
 
 A mesma reportagem atribuiu ao repertório mais de quarenta espetáculos, dos quais mais de trinta para a infância. Pela produtora audiovisual, o grupo previa rodar em 2024 o segundo curta-metragem, *Eleonora*, com roteiro de Lígia Prieto.[^cgn2024a]
@@ -44,3 +48,6 @@ Em fevereiro de 2026, o grupo abriu inscrições para o Curso de Formação Livr
 [^fcms2015zion]: Fundação de Cultura de Mato Grosso do Sul, ["Mostra Grupo Casa apresenta hoje e amanhã 'Amor' e 'Zion – o Planeta dos Carecas' no Centro Cultural"](https://www.fundacaodecultura.ms.gov.br/mostra-grupo-casa-apresenta-hoje-e-amanha-amor-e-zion-o-planeta-dos-carecas-no-centro-cultural/), 9 maio 2015. Acesso em 4 nov. 2026.
 [^fcms2015ferias]: Fundação de Cultura de Mato Grosso do Sul, ["Grupo Casa continua com a temporada 'Férias no Teatro' no Centro Cultural"](https://www.fundacaodecultura.ms.gov.br/grupo-casa-continua-com-a-temporada-ferias-no-teatro-no-centro-cultural/), 22 jul. 2015. Acesso em 4 nov. 2026.
 [^cgn2026]: Thailla Torres, ["Grupo Casa abre inscrições para curso de teatro com bolsas"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grupo-casa-abre-inscricoes-para-curso-de-teatro-com-bolsas), *Campo Grande News*, 24 fev. 2026. Acesso em 4 nov. 2026.
+[^oe2024]: ["Grupo Casa comemora 10 anos de arte e transformação"](https://oestadoonline.com.br/arte-e-lazer/grupo-casa-comemora-10-anos-de-arte-e-transformacao/), *O Estado MS*, 19 mar. 2024. Acesso em 4 nov. 2026.
+[^fcms2015rj]: Gisele Colombo, ["Alunos de Iniciação Teatral da Casa de Cultura Nildes Tristão Prieto estreiam 'Romeu e Julieta'"](https://www.fundacaodecultura.ms.gov.br/alunos-de-iniciacao-teatral-da-casa-de-cultura-nildes-tristao-prieto-estreiam-romeu-e-julieta/), Fundação de Cultura de Mato Grosso do Sul, 29 out. 2015. Acesso em 4 nov. 2026.
+[^cgn2019v]: Alana Portela, ["Grupo faz vaquinha virtual para continuar com encontro de teatro entre crianças"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grupo-faz-vaquinha-virtual-para-continuar-com-encontro-de-teatro-entre-criancas), *Campo Grande News*, 11 set. 2019. Acesso em 4 nov. 2026.

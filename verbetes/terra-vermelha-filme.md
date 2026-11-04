@@ -19,7 +19,7 @@ atualizado: 2026-11-04
 
 Segundo a dissertação de Maria Helena Benites Alves, Bechis pensava num filme sobre um povo isolado, mas durante a pesquisa encontrou os casos de suicídio entre os Kaiowá e Guarani e fez deles o tema. Escolheu indígenas para os papéis indígenas. A maior parte das locações foi nos arredores de Dourados.[^alves2012]
 
-Miguel Angelo Corrêa descreve o filme como produção ítalo-brasileira dirigida pelo chileno-italiano Bechis na região de Dourados, com indígenas na produção e atores e figurantes kaiowá e guarani.[^correa2023] Kênide de Souza Morais, que ouviu moradores da Reserva Indígena de Dourados que atuaram no filme, grafa o nome do diretor como "Marcos Beck" e "Marcos Back".[^morais2013]
+Miguel Angelo Corrêa descreve o filme como produção ítalo-brasileira dirigida pelo chileno-italiano Bechis na região de Dourados, com indígenas na produção e atores e figurantes kaiowá e guarani.[^correa2023] Kênide de Souza Morais, que ouviu moradores da Reserva Indígena de Dourados que atuaram no filme, grafa o nome do diretor como "Marcos Beck" e "Marcos Back".[^morais2013] A própria dissertação de Alves o chama de Marcos Bechis ao abrir a análise do filme e de Marco Bechis na ficha técnica.[^alves2012]
 
 Integrantes do [[bro-mcs|Brô MC's]] acompanharam como observadores a gravação em Dourados.[^correa2023]
 

@@ -40,3 +40,11 @@ Fonte nova aberta e lida:
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova útil. FCMS (?s=Teatro Dom Bosco) listou matérias de 2019 a 2025 sobre espetáculos no teatro; 'Com 112 crianças, a peça As Quatro Estações lotou...' (20 dez. 2019, Gisele Colombo) foi aberta e só diz que o teatro estava lotado, sem endereço, lotação nem histórico. O verbete já tem três domínios (Moser/Abrace, A Crítica, Sympla). Nada mudou.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova lida (portal de trabalhos da pós-graduação da UFMS, busca por "teatro" no título e varredura dos PDFs): Amirtes Menezes de Carvalho e Silva, *A ação pedagógica do teatro*, dissertação de mestrado em Educação, UFMS, 2003, p. 60 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/448). Sustenta: inauguração em 1974; teatro da FUCMT (Faculdades Unidas Católicas de Mato Grosso); localização central; peças *Um Grito Parado no Ar* (Guarnieri) e *Mural Mulher* (João das Neves) vistas ali.
+
+Divergência: a dissertação atribui os 800 lugares só ao Glauce Rocha ("a casa possuía 800 lugares"); Moser, citando Sá Rosa, fala do conjunto. Registrada no verbete, sem escolha. A Wikipédia (600 lugares, sem fonte) e o Sympla (686 lugares, 2022) seguem como antes.
+
+Ressalva: a bibliografia de Amirtes cita Sá Rosa et al., *Memória da arte em MS*, e o trecho histórico provavelmente deriva da mesma base usada por Moser; é obra e autora diferentes, mas não apuração primária. Os festivais da Secretaria Municipal de Educação (1974-1978) continuam só em Moser.

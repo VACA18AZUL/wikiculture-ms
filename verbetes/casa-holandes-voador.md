@@ -12,13 +12,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Holandês Voador** é um espaço da cena underground de Campo Grande, criado por George Van Der Ven. Funcionou como bar aberto a bandas autorais de punk, hardcore e heavy metal e, em 2025, passou a funcionar como casa de ensaios e eventos na Vila Jacy, com o nome de Casa Holandês Voador.[^cgn2016b][^cgn2025]
+O **Holandês Voador** é um espaço da cena underground de Campo Grande, criado por George Van Der Ven. Funcionou como bar com shows de punk, hardcore e heavy metal feitos por bandas autorais e, em 2025, passou a funcionar como casa de ensaios e eventos na Vila Jacy, com o nome de Casa Holandês Voador.[^cgn2016b][^cgn2025]
 
 ## Trajetória
 
 As fontes divergem sobre o início. Em 2016, o *Campo Grande News* escreveu que a casa buscava havia cinco anos incentivar a cultura alternativa.[^cgn2016b] Em abril de 2022, o mesmo jornal noticiou a comemoração dos dez anos do bar.[^cgn2022] Em 2025, informou que o projeto foi criado em 2009.[^cgn2025]
 
-Em maio de 2016, quando ficava na Avenida Calógeras, o bar teve a fachada e o interior pintados por artistas plásticos, tatuadores e grafiteiros, numa ação do movimento Recorte – Colorindo a City, organizado por [[maira-espindola|Maíra Espíndola]] e [[erika-pedraza|Erika Pedraza]]. Participaram, entre outros, [[fernando-anghinoni|Fernando Anghinoni]], e o [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]] fez uma intervenção no encerramento.[^cgn2016a] Em julho do mesmo ano, o bar fechou pela quarta vez, depois de dez meses naquele endereço, por falta de alvará para música ao vivo. Van Der Ven disse então que não queria manter o lugar só como bar, sem shows.[^cgn2016b]
+Em maio de 2016, quando ficava na Avenida Calógeras, a fachada do bar foi pintada por artistas plásticos, tatuadores e grafiteiros, numa ação do movimento Recorte – Colorindo a City, organizado por [[maira-espindola|Maíra Espíndola]] e [[erika-pedraza|Erika Pedraza]]; a organização pretendia pintar também o interior. Entre os participantes, a matéria cita o artista plástico Fernando Anghioni e o tatuador Eduardo Ruiz, o Saravá. O [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]] fez uma intervenção silenciosa no encerramento.[^cgn2016a] Em julho do mesmo ano, o bar fechou pela quarta vez, depois de dez meses naquele endereço, porque não tinha alvará que permitisse música ao vivo. Van Der Ven disse então que não queria manter o lugar só como bar, sem shows.[^cgn2016b]
 
 Depois de três anos fechado, o Holandês Voador comemorou os dez anos em 10 de abril de 2022 com um festival de bandas na Praça do Preto Velho, onde Van Der Ven anunciou a volta do bar. Ele é vocalista da banda O Lixo e a Fúria, que tocou no festival.[^cgn2022]
 

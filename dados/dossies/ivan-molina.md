@@ -13,3 +13,7 @@ Fatos: nascido em 1963; identifica-se como quéchua; sociologia na UMSA e na UCA
 Observação: a tese reproduz este mesmo texto da Retina Latina; a fonte é independente da tese, mas não de Molina (perfil de plataforma, provavelmente com dados fornecidos por ele).
 
 Mudou no verbete: reforço dos parágrafos sobre nascimento/formação e fundação da ASCURI; acréscimo de sociologia e número de títulos.
+
+## Atualização de 2026-11-04 (r11)
+
+- Fidelis (UFMS, dissertação, 2015), p. 120 do PDF: "Ivã Molina" entre os ministrantes das oficinas de cinema do Ava Marandu (fev.-abr. 2010).

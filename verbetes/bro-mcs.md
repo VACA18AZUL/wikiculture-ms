@@ -40,10 +40,12 @@ Corrêa e Álvaro Banducci incluem o Brô MC's, ao lado do coletivo ASCURI, entr
 
 Cid Nogueira Fidelis, em tese de 2024, analisa o curta documental *Brô Mc's*, de 2010, um dos dez filmes do projeto Ava Marandu, realizado pelo [[pontao-de-cultura-guaicuru|Pontão de Cultura Guaicuru]]. O filme acompanha a rotina de dois integrantes do grupo na Aldeia Jaguapiru, com depoimentos sobre a origem do trabalho musical e sobre a marginalização indígena, e usa "Eju Orendive" como trilha. A ficha da tese credita a realização a um coletivo da aldeia. Para Fidelis, o filme quebra estereótipos ao mostrar jovens guarani e kaiowá com roupas contemporâneas cantando em guarani.[^fidelis2024]
 
+Na dissertação de mestrado de 2015, Fidelis já analisava o curta. Ele o descreve como a história de uma dupla de rappers que canta em guarani os desejos e problemas de um povo que vive em condições precárias, e lê o rap do grupo como forma híbrida de protesto.[^fidelis2015]
+
 ## Videografia
 
 - *Eju Orendive* (2010) — videoclipe oficial, resultado de oficina audiovisual da CUFA Dourados.[^c5]
-- [[bro-mcs-documentario-2010|*Brô Mc's*]] (2010) — curta documental, 8 min 15 s, produzido pela Aldeia Jaguapiru e pelo Pontão de Cultura no projeto Ava Marandu; realização coletiva.[^fidelis2024]
+- [[bro-mcs-documentario-2010|*Brô Mc's*]] (2010) — curta documental, 8 min 15 s, produzido pela Aldeia Jaguapiru e pelo Pontão de Cultura no projeto Ava Marandu; realização coletiva.[^fidelis2024][^fidelis2015]
 
 [^c1]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, UFGD, 2023, seção 2.2.2.4, p. 119-123. Acesso em 29 out. 2026.
 [^c2]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 126-127 (entrevista de Dani Guarani Kaiowá). Acesso em 29 out. 2026.
@@ -52,3 +54,4 @@ Cid Nogueira Fidelis, em tese de 2024, analisa o curta documental *Brô Mc's*, d
 [^c5]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 120 e 123. Acesso em 29 out. 2026.
 [^morais2013]: Kênide de Souza Morais, [*"O meu rap está apenas começando": juventude e sustentabilidade cultural na Reserva Indígena de Dourados-MS*](https://repositorio.unb.br/bitstream/10482/15041/1/2013_KenideSouzaMorais.pdf), artigo científico de mestrado profissional em Sustentabilidade junto a Povos e Terras Indígenas, Centro de Desenvolvimento Sustentável, Universidade de Brasília, fev. 2013, p. 38-53. Acesso em 4 nov. 2026.
 [^fidelis2024]: Cid Nogueira Fidelis, [*Cinema Guarani e Kaiowá: um estudo sobre a construção de sentido em filmes autorais indígenas*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13510), tese de doutorado em Estudos de Linguagens, UFMS, 2024, p. 21-22, 63-65, 118, 163-166 e Apêndice 1 (p. 272). Acesso em 4 nov. 2026.
+[^fidelis2015]: Cid Nogueira Fidelis, [*Cinematografia indígena: a experiência social sob o foco da cultura Guarani-Kaiowá*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4417), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2015, p. 120-123. Acesso em 4 nov. 2026.

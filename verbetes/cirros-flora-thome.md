@@ -8,7 +8,7 @@ ficha:
   Autor: "Flora Thomé"
   Ano: "1960 (1ª edição); 1980 (2ª edição)"
   Formato: "Livro de poemas"
-  Edição: "Produção independente, Três Lagoas"
+  Edição: "2ª edição: produção independente, Três Lagoas"
 status: rascunho
 atualizado: 2026-11-04
 ---

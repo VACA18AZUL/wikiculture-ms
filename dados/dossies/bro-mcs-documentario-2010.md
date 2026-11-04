@@ -37,3 +37,7 @@ Tentativa: tese de Miguel Angelo Corrêa (UFGD, 2023) — download não concluiu
 ## Uso no verbete
 
 - Realizadores listados sem link (participantes de oficina, sem outras fontes). Link acrescentado em bro-mcs (Videografia) e pontao-de-cultura-guaicuru (Filmografia).
+
+## Atualização de 2026-11-04 (r11)
+
+- Fidelis (UFMS, dissertação, 2015), p. 120-134 do PDF: ficha técnica (cor, 8'15", 2010, produção Aldeia Jaguapiru e Pontão Guaicuru, 13 realizadores), análise do conteúdo. Mesmo autor da tese de 2024; não é fonte independente. O verbete continua apoiado só em Fidelis (2015 e 2024). Para segunda fonte independente: Corrêa (UFGD, 2023) menciona o videoclipe do Ava Marandu (citado no verbete bro-mcs), mas não foi relido nesta rodada.

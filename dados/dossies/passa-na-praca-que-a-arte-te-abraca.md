@@ -29,3 +29,8 @@ Buscas sem resultado: Google Notícias (RSS) por "Passa na praça" Corumbá; bus
 ## Uso no verbete
 
 - Entrou tudo acima.
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte: o perfil "Corumbaenses que brilham - Benedito Carlos Gonçalves De Lima" (*Correio de Corumbá*, 2020, http://www.correiodecorumba.com.br/?s=noticia&id=21582), citado por Bezerra na p. 58 (no texto como "CORUMBAENSES, 2021"), não abriu: o domínio não resolve e a cópia do archive.org (snapshot de 22 jul. 2022) está bloqueada nesta rede. Google Notícias (RSS) devolveu bloqueio; Brave sem resultado; busca do Diário Corumbaense e da FCMS sem resultado. **Fonte única** mantida.
+- A informação da p. 58 (sábados, origem do projeto, Xadrez Sem Fronteiras) passou a "segundo o *Correio de Corumbá*, citado por Bezerra".

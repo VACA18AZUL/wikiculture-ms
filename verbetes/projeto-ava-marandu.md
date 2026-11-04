@@ -16,15 +16,15 @@ atualizado: 2026-11-04
 
 ## Objetivos e atividades
 
-Segundo Cid Nogueira Fidelis, o projeto queria chamar a atenção para as violações de direitos humanos que atingem os Guarani, Kaiowá e Ñandeva do estado. Promoveu dois concursos abertos a escolas do Brasil e de países do Mercosul com população guarani, sobre cultura e direitos humanos dos povos guarani e sobre a declaração dos direitos dos povos indígenas, com trabalhos de redação, poesia, quadrinhos e desenho. Uma cartilha da declaração foi publicada em guarani, português e espanhol. Houve ainda debates e seminários com instituições de ensino superior de Campo Grande e da região de Dourados.[^fidelis2024]
+Cid Nogueira Fidelis cita texto do Ministério da Cultura, atribuído a Espíndola, então na comunicação da Secretaria da Identidade e da Diversidade Cultural, segundo o qual o projeto queria chamar a atenção para as violações de direitos humanos que atingem os Guarani, Kaiowá e Ñandeva do estado. Promoveu dois concursos abertos a escolas do Brasil e de países do Mercosul com população guarani, sobre cultura e direitos humanos dos povos guarani e sobre a declaração dos direitos dos povos indígenas, com trabalhos de redação, poesia, quadrinhos e desenho. Uma cartilha da declaração foi publicada em guarani, português e espanhol. Houve ainda debates e seminários com instituições de ensino superior de Campo Grande e da região de Dourados.[^fidelis2024]
 
 ## Oficinas e filmes
 
-Entre fevereiro e abril de 2010, 12 oficinas reuniram 240 alunos indígenas de sete aldeias guarani: Guyra Roka e Te'yikue, em Caarapó; Jaguapiru e Panambizinho, em Dourados; Amambai; e Yvy Katu, em Japorã. As oficinas de audiovisual tiveram como professores [[joel-pizzini|Joel Pizzini]], [[mauricio-copetti|Mauricio Copetti]], [[ivan-molina|Iván Molina]] e [[gilmar-galache|Gilmar Galache]]. Galache, citado por Fidelis, conta que passava cerca de uma semana em cada aldeia.[^fidelis2024]
+Entre fevereiro e abril de 2010, 12 oficinas reuniram 240 alunos indígenas de sete aldeias guarani: Guyra Roka e Te'yikue, em Caarapó; Jaguapiru e Panambizinho, em Dourados; Amambai; e Yvy Katu, em Japorã. As oficinas de audiovisual tiveram como professores [[joel-pizzini|Joel Pizzini]], [[mauricio-copetti|Mauricio Copetti]] (grafado Copette na tese), [[ivan-molina|Ivan Molina]] (Ivã Molina, na grafia de Fidelis) e [[gilmar-galache|Gilmar Galache]]. Galache, citado por Fidelis, conta que passava cerca de uma semana em cada aldeia.[^fidelis2024] A dissertação de mestrado do mesmo autor, de 2015, dá a mesma lista de aldeias e de ministrantes de cinema e acrescenta que as aulas de fotografia ficaram com [[elis-regina-nogueira|Elis Regina Nogueira]], [[vania-juca|Vânia Jucá]] e Leonardo Prado. A mostra final teve uma fotografia de cada participante.[^fidelis2015]
 
 Miguel Angelo Corrêa registra também um curta feito na aldeia Jaguapiré, em Tacuru, numa oficina coordenada por Joel Pizzini, Mauricio Copetti, Cristiano Maggi e Nando Mendes. Segundo Corrêa, os integrantes do [[bro-mcs|Brô MC's]] tiveram no projeto um de seus primeiros contatos com o audiovisual, num videoclipe ainda incipiente.[^correa2023]
 
-As oficinas resultaram em dez curtas-metragens feitos por coletivos das aldeias e numa exposição de fotografia e cinema no [[museu-das-culturas-dom-bosco|Museu das Culturas Dom Bosco]], em Campo Grande. Fidelis analisa os dez filmes em sua tese.[^fidelis2024]
+As oficinas resultaram em dez curtas-metragens feitos por coletivos das aldeias e numa exposição de fotografia e cinema no [[museu-das-culturas-dom-bosco|Museu das Culturas Dom Bosco]], em Campo Grande. Fidelis lista os dez filmes num apêndice da tese e analisa parte deles, como *Brô Mc's* e *Jaguapiré, o filme*.[^fidelis2024]
 
 ## Show na Praça do Rádio
 
@@ -35,7 +35,7 @@ Em 15 de maio de 2010, o projeto levou à Praça do Rádio, em Campo Grande, um 
 Curtas de 2010 listados por Fidelis, com as aldeias de produção.[^fidelis2024]
 
 - [[bro-mcs-documentario-2010|*Brô Mc's*]] — documentário; Aldeia Jaguapiru.[^fidelis2024]
-- [[jaguapire-o-filme|*Jaguapiré, o filme*]] — docudrama; Aldeia Jaguapiré.[^fidelis2024]
+- [[jaguapire-o-filme|*Jaguapiré, o filme*]] — docudrama; Aldeia Jaguapiré. Na dissertação de 2015, Fidelis usa o título *Jaguapiré na luta*.[^fidelis2024][^fidelis2015]
 - *Guerreiro Guarani* — ficção; Aldeia Guyra Roka.[^fidelis2024]
 - *Chamiri Jegua* — documentário; Aldeia Guyra Roka.[^fidelis2024]
 - *Jerosy Pukui, Cerimônia do Milho Branco* — documentário; Aldeia Panambizinho.[^fidelis2024]
@@ -45,6 +45,7 @@ Curtas de 2010 listados por Fidelis, com as aldeias de produção.[^fidelis2024]
 - *Jakaira* — documentário; Aldeia Jaguapiru.[^fidelis2024]
 - *Porahey* — documentário; Aldeia Te'yikue.[^fidelis2024]
 
-[^fidelis2024]: Cid Nogueira Fidelis, [*Cinema Guarani e Kaiowá: um estudo sobre a construção de sentido em filmes autorais indígenas*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13510), tese de doutorado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2024, p. 106-107, 254 e 272-275. Acesso em 4 nov. 2026.
+[^fidelis2024]: Cid Nogueira Fidelis, [*Cinema Guarani e Kaiowá: um estudo sobre a construção de sentido em filmes autorais indígenas*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13510), tese de doutorado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2024, p. 106-107, 254 e 272-275 (numeração impressa). Acesso em 4 nov. 2026.
 [^correa2023]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, p. 84, 95 e 123. Acesso em 4 nov. 2026.
 [^midiamax2010]: Jacqueline Lopes, ["Ava Marandu: Espetáculo reúne hip hop guarani e Milton Nascimento"](https://acervo.socioambiental.org/acervo/noticias/ava-marandu-espetaculo-reune-hip-hop-guarani-e-milton-nascimento), *Midiamax*, 16 maio 2010, reproduzido no Acervo do Instituto Socioambiental. Acesso em 4 nov. 2026.
+[^fidelis2015]: Cid Nogueira Fidelis, [*Cinematografia indígena: a experiência social sob o foco da cultura Guarani-Kaiowá*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4417), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2015, p. 119-120 e 134-135. Acesso em 4 nov. 2026.

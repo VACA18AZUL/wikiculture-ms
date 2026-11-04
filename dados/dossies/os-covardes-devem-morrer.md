@@ -65,3 +65,7 @@ A dissertação chama Zeca de herói na sinopse (p. 117) e, na p. 86, diz que o 
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Reinaldo Dorval"), BDTD ("Reinaldo Dorval"; cinema amador sertanejo): só a própria dissertação de Diehl (UFMS, 2009, https://repositorio.ufms.br/handle/123456789/1457). Fonte única. Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova. Buscas: Campo Grande News (/buscar?q= "Covardes Devem Morrer"; "Reinaldo Dorval"; "Alexandre Couto" filme; "Vídeo Eventos"), API do O Estado MS e RSS do Google Notícias. Lidas três matérias do CGN sobre o longa *Honra* (2012-2013), de Alexandre Couto e José Reinaldo Dorval: falam de mais de três décadas de cinema independente dos dois, mas não citam *Os Covardes Devem Morrer*, *Fatalidade* nem a produtora Vídeo Eventos. Nada mudou.

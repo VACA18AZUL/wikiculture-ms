@@ -46,3 +46,7 @@ Descartadas:
 ## Uso no verbete
 
 - Entrou tudo acima; eventos de 2016 (julho) e 2018 redigidos como programados.
+
+## Atualização de 2026-11-04 (r11)
+
+- Fidelis (UFMS, dissertação, 2015), p. 120 do PDF: "Vânia Jucá" entre os fotógrafos que deram as aulas de fotografia do Ava Marandu (2010).

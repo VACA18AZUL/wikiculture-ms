@@ -29,3 +29,7 @@ Tudo acima. Rubens Ramos ficou sem link: o verbete rubens-ramos trata a identida
 
 - Validação valn-36-0: nova busca no Google Notícias ("Alexandre Couto" Honra filme; "Reinaldo Dorval") e na FCMS ("Alexandre Couto") sem fonte nova sobre o filme. Continua fonte única (Campo Grande News).
 - Sessão do MIS (20 ago. 2014) era anúncio do dia; verbete reescrito. A exibição no Senac (ago. 2013) já estava como anúncio.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: RSS do Google Notícias ("Honra" filme "Alexandre Couto"; "João Cigano" filme): só a matéria de 2013 do Campo Grande News, já citada. API do O Estado e busca interna do Campo Grande News: sem resultado. A nota do *O Estado* de 13 jun. 2020 (lives do CineMato) diz que Alexandre Couto dirigiu longas em Campo Grande, sem citar *Honra*; não serve de nota para o filme. A dissertação de Diehl (2009) é anterior ao filme e não o cita.

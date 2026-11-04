@@ -56,3 +56,8 @@
 ## Uso no verbete
 
 - Entrou tudo acima, exceto patrocinadores do banner.
+
+## Atualização de 2026-11-04 (r11)
+
+- Fidelis (UFMS, dissertação, 2015), p. 119-120 e 134-135 do PDF: jan.-jun. 2010; Pontão de Cultura Guaicuru com SID/MinC; 240 alunos de 7 aldeias; 12 oficinas; dez filmes; exposição no Museu das Culturas Dom Bosco; fotografia com Elis Regina Nogueira, Vânia Jucá e Leonardo Prado; cinema com Pizzini, Copetti, Ivã Molina e Galache; aulas de fev. a abr. 2010.
+- Mesmo autor da tese de 2024 já citada: não conta como fonte independente. O verbete já tinha fontes independentes (Fidelis 2024; Corrêa 2023; Midiamax 2010).

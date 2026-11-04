@@ -57,3 +57,8 @@ Fontes novas abertas e lidas (Correio do Estado):
 - Não abertos: Midiamax, "Todo poema dito" (403); Primeira Página (403); A Crítica, "Projeto Poema na Quarentena MS dissemina poesia" (404 na URL do resultado).
 - Nomes novos propostos: Semana On (revista eletrônica); Isaac de Oliveira e L. Rafael Nolli (se ainda não estiverem).
 - Situação: pronto-para-lote.
+
+## Atualização de 2026-11-04 (r12)
+
+- Nova, aberta e lida: Mariana Piell, "Poesia, imagem e som: poeta de MS explora intermidialidade em nova obra", *Correio do Estado*, Correio B, 6 dez. 2024, https://correiodoestado.com.br/correio-b/2024/12/06/poesia-imagem-e-som-poeta-de-ms-explora-intermidialidade-em-nova-obra.html — terceiro livro de poesia, *Todo Poema Dito*, 50 poemas, 110 páginas, e-book, lançamento marcado para 7/12/2024, vídeos de Ligia Tristão Prieto e Vini Willyan, imagens de Jéssica Santos. Reforça o parágrafo de 2024 (nota ce2024 ao lado de cgntodopoema). Fora: contato de WhatsApp do autor (dado pessoal).
+- Relida a matéria de 3/02/2019 (já nota ce2019, em URL antiga do jornal; a nova URL é https://correiodoestado.com.br/correio-b/2019/02/03/entre-a-sensibilidade-e-a-agressividade-jornalista-lanca-livro-de-poesias-nesta-quarta.html). Isaac de Oliveira passou a ser link no verbete.

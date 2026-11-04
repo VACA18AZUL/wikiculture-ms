@@ -46,3 +46,7 @@ Sem link de vídeo verificado (canal da ASCURI citado por Fidelis não conferido
 ## Uso no verbete
 
 - Entraram os fatos acima. Nome do fazendeiro fora (acusação a pessoa privada). Lista de realizadores entra pela grafia de Fidelis, com aviso da divergência.
+
+## Atualização de 2026-11-04 (r11)
+
+- Fidelis (UFMS, dissertação, 2015), p. 72 e 134-151 do PDF: título "Jaguapiré na luta", 10'14", 2010, documentário, 27 realizadores, produção Aldeias Jaguapiré, Jaguapiré Memby e Pontão de Cultura; episódio de 1985. A frase do verbete que já mencionava a dissertação de 2015 ganhou a nota. O nome do fazendeiro citado pela fonte ficou fora (pessoa privada).

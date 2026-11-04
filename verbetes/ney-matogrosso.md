@@ -28,6 +28,7 @@ A entrega foi marcada para 26 de março de 2026, em Campo Grande. A UFMS anuncio
 
 ## Filmografia
 
+- *Caramujo-Flor* (1988) — curta de [[joel-pizzini|Joel Pizzini]] com roteiro feito de poemas de [[manoel-de-barros|Manoel de Barros]]; atuação, como o poeta jovem, enquanto Rubens Corrêa faz o poeta velho, segundo Vicelli.[^vicelli][^neves]
 - [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; atuação, no papel do padre Patanê, segundo o *Campo Grande News*.[^cgn2026lydia]
 - [[quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae|*Quando o Galo Cantar pela Terceira Vez Renegarás tua Mãe*]] (2017) — longa de Aaron Salles Torres; interpretação da música-tema, composta pelo diretor.[^papo2017galo]
 
@@ -36,3 +37,5 @@ A entrega foi marcada para 26 de março de 2026, em Campo Grande. A UFMS anuncio
 [^caetano2012nupem]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM*, Campo Mourão, v. 4, n. 6, jan./jul. 2012. Acesso em 4 nov. 2026.
 [^cgn2026lydia]: Natália Olliver, ["De batina, Ney Matogrosso grava filme sobre Lídia Baís na Capital"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/de-batina-ney-matogrosso-grava-filme-sobre-lidia-bais-na-capital), *Campo Grande News*, 6 jun. 2026. Acesso em 4 nov. 2026.
 [^papo2017galo]: Marcelo Müller, ["Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe :: Entrevista exclusiva com Aaron Salles Torres"](https://www.papodecinema.com.br/entrevistas/quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae-entrevista-exclusiva-com-aaron-salles-torres/), *Papo de Cinema*, 23 nov. 2017. Acesso em 4 nov. 2026.
+[^vicelli]: Karina Kristiane Vicelli, [*Transgressão e antropofagia: da poesia de Manoel de Barros à poética de Caramujo-flor, de Joel Pizzini Filho*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2125), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2008, p. 58, 68, 115 e 129 do PDF. Acesso em 4 nov. 2026.
+[^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 52. Acesso em 4 nov. 2026.
