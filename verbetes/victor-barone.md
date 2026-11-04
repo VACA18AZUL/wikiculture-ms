@@ -7,7 +7,6 @@ resumo: Jornalista e poeta carioca radicado em Campo Grande desde 2000, autor de
 ficha:
   Nascimento: Rio de Janeiro
   Atividade: Jornalismo; poesia
-  Grupos: "[[tarja-preta|Coletivo Tarja Preta]] (antologia de 2023)"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -16,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Com [[fabio-gondim|Fábio Gondim]] e o [[tarja-preta|Coletivo Tarja Preta]], idealizou o projeto Poema na Quarentena, que divulgou poesia sul-mato-grossense em vídeo-poemas durante a pandemia.[^cgntodopoema] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], lançada em novembro de 2023.[^cgntarja]
+Com [[fabio-gondim|Fábio Gondim]] e o [[tarja-preta|Coletivo Tarja Preta]], idealizou o projeto Poema na Quarentena, que divulgou poesia sul-mato-grossense em vídeo-poemas durante a pandemia.[^cgntodopoema] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], com lançamento anunciado para 11 de novembro de 2023.[^cgntarja]
 
 Em 7 de dezembro de 2024, lançou o terceiro livro, *Todo Poema Dito*, em e-book, com 50 poemas escritos entre 2019 e 2024. Cada poema ganhou uma performance em vídeo, feita pela teatróloga e cineasta [[ligia-prieto|Ligia Tristão Prieto]] e pelo poeta [[vini-willyan|Vini Willyan]], para publicação nas redes sociais do livro. Prieto dirigiu os vídeos e Jéssica Santos fez as imagens. O prefácio é de [[fabio-gondim|Fábio Gondim]]. A reportagem informava que a edição impressa sairia no fim daquele mês.[^cgntodopoema]
 

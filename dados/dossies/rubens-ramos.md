@@ -45,3 +45,11 @@ Nenhuma.
 
 - Entraram todos os créditos da ficha e a frase do texto sobre a participação no grupo.
 - Fonte principal única (Diehl); exceção registrada.
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Abertura reescrita conforme Diehl p. 8.
+- Corrigido: *Honra* retirado da Filmografia; frase do texto reescrita como 'um ator de mesmo nome'.
+- Corrigido: Páginas corrigidas (resumo, p. 8 e 155).
+- Atenção: Fonte única (Diehl). Busca de segunda fonte (6 buscas: títulos dos filmes, Couto/Dorval, 'filme sertanejo', revista Rebeca/Socine baixada e conferida): nada além da própria dissertação e da matéria de 2013 sobre *Honra*.
+- Atenção: Homônimo em *Honra* (2013) não confirmado.

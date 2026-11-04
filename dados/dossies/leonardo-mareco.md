@@ -26,3 +26,17 @@
 ## Não confirmado
 
 - Exposição no Museu do Design de Zurique (2026) — só por resumo de busca.
+
+## Atualização de 2026-11-04 (r-3, segunda fonte independente)
+
+| id da nota | Referência | URL | Tipo |
+|---|---|---|---|
+| lima | Fabíola dos Santos Lima, *Das ruas para a escola: a negritude e a poética do grafite*, dissertação (ProfArtes/PPGArtes), UFMS, 2025, 148 p.; p. 58-59 (seção 2.2) | https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15185 | acadêmica |
+
+- Abriu pelo endereço posgraduacao.ufms.br (o repositório.ufms.br do mesmo trabalho, arquivo "LIMA F S_Aquele_Menino_da_Obra.pdf", continua fora do ar; o título real é "Das ruas para a escola", não "Aquele menino da obra").
+- Resolve a incerteza de identidade: a dissertação diz que Leonardo Mareco fundou o Coletivo Enegrecer com outros artistas negros de Campo Grande. Verbete ajustado (a matéria do CGN de 2023 continua sem dizer; a dissertação diz).
+- Reforça: graduação em Artes Visuais na UFMS; lambe-lambe como técnica central. Acrescenta: pesquisa-intervenção com 4º ano de escola pública de Campo Grande, com palestra do artista (2024); três lambe-lambes sem título (2023, 2024, 2025).
+- Fora do verbete por serem dados pessoais ou familiares: naturalidade, tempo de residência, episódio de adolescência, parentesco com outro grafiteiro.
+- Não encontrados na dissertação (busca no texto): Prêmio Megafone, CUÍCA, Zurique, Galeria de Vidro. Esses itens seguem só no CGN (2022) e, quanto a Zurique, só em resumo de busca do Midiamax (403, não lido).
+- Observação para a lista-mestra (via orquestrador): identidade com o fundador do Coletivo Enegrecer agora sustentada por Lima (2025).
+- Midiamax (2026, Zurique) reaberto por WebFetch: 403 de novo; não houve tentativa de contornar o bloqueio.

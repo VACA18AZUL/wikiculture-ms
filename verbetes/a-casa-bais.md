@@ -15,11 +15,11 @@ atualizado: 2026-11-04
 
 ## Conteúdo
 
-O livro retoma a frase atribuída a Lídia, "por minha causa, vocês ficarão para a história". Segundo a sinopse citada pelo *Campo Grande News*, a obra trata de uma vida marcada por mistérios, proibições e busca de emancipação, e de como a história de Lídia ficou apagada pelo patriarcado de sua época e pelo isolamento cultural do Centro-Oeste em relação ao modernismo.[^cgn2024]
+Segundo o *Campo Grande News*, o livro ecoa a frase "por minha causa, vocês ficarão para a história". A síntese da obra citada pelo jornal fala de uma vida marcada por mistérios, proibições e busca de emancipação, e de como a história de Lídia ficou encoberta pelo patriarcado e pela posição geográfica de um Centro-Oeste que não acompanhava o modernismo.[^cgn2024]
 
 ## Recepção
 
-Em 2023, o *Correio do Estado* citou *A Casa Baís* entre as obras de Quill à venda na página de financiamento coletivo de *A Ausente Ordem das Coisas*. Segundo o jornal, *Onírica*, *Amálgama* e *A Casa Baís* renderam ao autor indicações ao Prêmio HQMIX em 2020 e 2022, e ele chegou a finalista. A matéria não diz qual obra foi indicada em cada ano.[^correio2023]
+Em 2023, o *Correio do Estado* citou *A Casa Baís* entre as obras de Quill à venda na página de financiamento coletivo de *A Ausente Ordem das Coisas*. Segundo o jornal, *Onírica*, *Amálgama* e *A Casa Baís* renderam ao autor indicações ao Prêmio HQMIX em 2020 e 2022, e uma delas chegou a finalista.[^correio2023]
 
 Em novembro de 2024, o livro estava numa lista de obras de autores de Mato Grosso do Sul à venda em livrarias de Campo Grande.[^cgn2024]
 

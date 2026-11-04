@@ -42,3 +42,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete curto: só a codireção, com as duas fontes.
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Páginas corrigidas.
+- Atenção: Nada além da codireção de *Alma do Brasil*; Castro Neto só o cita de passagem.
+- Atenção: Ano 1930 x 1932 registrado.

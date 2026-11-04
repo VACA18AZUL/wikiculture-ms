@@ -47,3 +47,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entraram todos os fatos acima, com a divergência de direção. *UFMS – 10 Anos* ficou fora porque Marin não o atribui à Seriema.
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Página corrigida.
+- Corrigido: Linha `cidade` removida.
+- Atenção: Direção de *Conceição dos Bugres*: Fonseca (Diehl) x Guizzo (Marin e Pereira) — registrada no texto.

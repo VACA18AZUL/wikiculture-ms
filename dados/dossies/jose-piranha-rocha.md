@@ -45,3 +45,11 @@ Nenhuma.
 
 - Entraram todos os créditos da ficha e a frase do texto sobre a participação no grupo.
 - Fonte principal única (Diehl); exceção registrada.
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Abertura reescrita.
+- Corrigido: Frase explicita que a reunião das duas formas sob José 'Piranha' Rocha é identificação do verbete.
+- Corrigido: Páginas corrigidas (resumo, p. 8 e 155).
+- Atenção: Fonte única (Diehl). Busca de segunda fonte (6 buscas: títulos dos filmes, Couto/Dorval, 'filme sertanejo', revista Rebeca/Socine baixada e conferida): nada além da própria dissertação e da matéria de 2013 sobre *Honra*.
+- Atenção: Identidade José Piranha = José B. Rocha é suposição editorial.

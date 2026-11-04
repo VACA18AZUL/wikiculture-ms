@@ -37,3 +37,10 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete escrito. Nome da criança protagonista omitido por cautela (menor). Participação no É Tudo Verdade só na Wikipédia, não entrou.
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Exibição reescrita como sessão programada.
+- Corrigido: Acrescentada a menção à duplicidade na lista de premiados.
+- Atenção: Nome da criança protagonista (citado no artigo da Avanca) segue fora, por ser menor.
+- Atenção: Duração e participação no É Tudo Verdade sem fonte aberta.

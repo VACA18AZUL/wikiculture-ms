@@ -49,3 +49,10 @@ Grafia do título: *Vinança maldita* na ficha, *Vingança maldita* no texto (me
 - Verbete apoiado em fonte única (a dissertação). Entraram ficha, sinopse resumida e leitura do autor.
 - Fora: elenco completo nos longas (citado só em parte), descrições de figurino e análise teórica.
 - Pendente fora dos meus arquivos: `alexandre-couto.md` e `reinaldo-dorval.md` listam o filme na Filmografia sem link `[[...]]` (aviso do conferir).
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Páginas corrigidas (56, 85, 101, 133-134, 139, 156).
+- Corrigido: Frase reescrita.
+- Atenção: Fonte única (Diehl). Busca de segunda fonte (6 buscas: títulos dos filmes, Couto/Dorval, 'filme sertanejo', revista Rebeca/Socine baixada e conferida): nada além da própria dissertação e da matéria de 2013 sobre *Honra*.
+- Atenção: Grafia do título na ficha de Diehl: 'Vinança maldita' (registrada no texto).

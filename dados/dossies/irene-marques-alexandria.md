@@ -9,3 +9,7 @@ Fonte reaberta e lida: Fabricio Goulart Moser, "A trajetória conceitual do teat
 Segunda fonte: não encontrada. A cota de buscas na web desta rodada acabou durante o trabalho; não houve busca aberta específica para este nome.
 
 Pista para segunda fonte: o capítulo "Teatro", de Maria da Glória Sá Rosa, em *Memória da arte em Mato Grosso do Sul: histórias de vida* (UFMS, 1992), traz o relato oral de Irene Alexandria. Não há cópia digital aberta nesta sessão.
+
+## Atualização de 2026-11-04 (r-3)
+
+Segunda fonte: não encontrada. Buscas abertas por "Irene Alexandria" / "Irene Marques Alexandria" com Três Lagoas, Teatro da Patota e bonecos não retornaram nenhuma menção (só material geral sobre teatro de bonecos e um espetáculo de outra companhia em Três Lagoas, sem relação). Nada mudou no verbete. Pista mantida: Sá Rosa, *Memória da arte em Mato Grosso do Sul* (1992); Secretaria de Cultura de Três Lagoas.

@@ -55,3 +55,11 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entraram produção, roteiro, elenco principal, filmagem (com divergência), festivais e prêmios citados pela imprensa. Ficaram fora a crítica francesa (citação), a duração e a distribuição.
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Netflix reescrito como anúncio.
+- Corrigido: Prêmios de Lima especificados.
+- Corrigido: Resumo encurtado (Dourados e Bonito → MS; divergência de locais segue no texto).
+- Atenção: Locais de filmagem divergem (Dourados; Dourados e Bonito) — registrado no texto.
+- Atenção: Duração, distribuidora e data de lançamento comercial só na Wikipédia; fora.

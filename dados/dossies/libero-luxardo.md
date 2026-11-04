@@ -46,3 +46,10 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entraram os fatos de Diehl e Castro Neto. A data exata de nascimento e morte e a residência em Campo Grande ficaram fora (só Wikipédia).
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Páginas corrigidas.
+- Corrigido: Atribuição explicitada (trecho de Borges citado por Diehl).
+- Atenção: Ano de *Alma do Brasil*: 1930 (Diehl) x 1932 (Castro Neto) — registrado.
+- Atenção: Wikipédia (sem referências) traz datas completas e residência em Campo Grande; fora.

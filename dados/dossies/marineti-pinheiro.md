@@ -61,3 +61,13 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo o que está acima, menos o FIC e o local da primeira filmagem (detalhes menores).
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Homenagem reescrita como anúncio.
+- Corrigido: *Sala dos Sonhos* reescrito como exibição anunciada; Filmografia 'programado para exibição em 2021'.
+- Corrigido: Resumo: 'sul-mato-grossense'.
+- Corrigido: Acrescentados, com nota nova (cgn-premiados), os prêmios de *A Dama do Rasqueado* no 1º Bonito CineSur (Melhor Filme Sul-Mato-Grossense e Júri Oficial Sul-Mato-Grossense).
+- Corrigido: Página de Diehl corrigida.
+- Atenção: Grafia Marineti/Marinete; título Sala/Salas de Sonhos; ano do filme 2016/2017; cargo coordenadora/diretora (todas registradas no texto).
+- Atenção: Não confirmado se a homenagem de 25 out. 2024 ocorreu.

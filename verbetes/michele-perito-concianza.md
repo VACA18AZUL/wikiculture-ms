@@ -21,7 +21,7 @@ A tese de Miguel Angelo Corrêa a apresenta como representante da segunda geraç
 
 Ministrou oficinas de audiovisual em terras indígenas: com os mbya da aldeia Sapukai (Angra dos Reis, RJ), com os guató da Ilha Ínsua (Corumbá, MS) e com os arará shawãdawa (Acre). Em 2022, deu oficina pelo Instituto Catitu aos shawãdawa da aldeia Foz Nilo, no Acre.[^tese][^katahirine]
 
-Participou do projeto de videocartas *Nhemongueta Kunhã Mbarete*, do Instituto Moreira Salles, com Graciela Guarani, Patrícia Ferreira Pará Yxapy e Sophia Pinheiro. A página do instituto, de 2020, grafa o título *Nhemongueta Kunhã Mbaraete* e descreve o projeto como 16 videocartas feitas em dois meses, durante a pandemia de covid-19.[^ims] É professora na Escola Municipal Pai Chiquito, na aldeia Panambizinho, e integra a Katahirine, rede audiovisual de mulheres indígenas.[^tese]
+Participou do projeto de videocartas *Nhemongueta Kunhã Mbarete*, do Instituto Moreira Salles, com Graciela Guarani, Patrícia Ferreira Pará Yxapy e Sophia Pinheiro.[^tese][^katahirine] A página do instituto, de 2020, grafa o título *Nhemongueta Kunhã Mbaraete* e descreve o projeto como 16 videocartas feitas em dois meses, durante a pandemia de covid-19.[^ims] É professora na Escola Municipal Pai Chiquito, na aldeia Panambizinho, e integra a Katahirine, rede audiovisual de mulheres indígenas.[^tese]
 
 ## Filmografia
 

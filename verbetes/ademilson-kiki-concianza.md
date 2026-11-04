@@ -17,12 +17,13 @@ atualizado: 2026-11-04
 
 Kiki está entre os primeiros e principais membros da ASCURI, fundada no início de 2012.[^c2] Atuou como ator no longa *Terra Vermelha* (2008), em que interpreta o personagem Irineu, e foi apresentado à associação durante o Vídeo Índio Brasil de 2009.[^c3] Sobre o festival, ver [[video-indio-brasil|Vídeo Índio Brasil]].[^c3]
 
-Em 2013, na oficina de audiovisual da aldeia Pirakuá (Bela Vista), foi um dos monitores, ao lado de Gilmar Galache.[^c4] Aparece como cantor no fim do filme [[jepeayta|Jepea'yta – A lenha principal]].[^c5]
+Em 2013, na oficina de audiovisual da aldeia Pirakuá (Bela Vista), foi um dos monitores, ao lado de Gilmar Galache.[^c4] Aparece como cantor no fim do filme [[jepeayta|Jepea'yta – A lenha principal]].[^c5] O catálogo do Fórum.doc.BH também o credita, com o nome Kiki Concianza, na fotografia e na montagem de *Jakaira* (2019), produzido pela ASCURI.[^fdoc]
 
 ## Filmografia
 
 - *Jerosy Puku, O Grande Canto* (2017) — filme da ASCURI dirigido por Kiki Concianza.[^c6]
 - *As aventuras de Perurimã e o Pássaro de ouro* (2013) — curta de comédia feito em oficina na aldeia Pirakuá; Kiki foi monitor, ator e tradutor.[^c4]
+- [[jakaira|*Jakaira*]] (2019) — documentário de 16 minutos, direção coletiva da ASCURI, sobre o ritual do batismo do milho branco (Jerosy Puku) na aldeia Guyra Kambi'y, do povo kaiowá; fotografia de Kiki Concianza, com Gilmar Kiripuku Galache e Renan Braga, e montagem dele e de Galache.[^fdoc]
 - *Pirakuá – Os Guardiões do Rio Apa* (2014) — documentário curto dirigido por [[gilmar-galache|Gilmar Galache]]; imagens e direção de fotografia de Kiki.[^c7]
 - *Tatatĩn Rape, o Caminho da Fumaça* (2022) — direção coletiva; imagens e edição de Ademilson Concianza Verga, entre outros.[^c8]
 
@@ -34,3 +35,4 @@ Em 2013, na oficina de audiovisual da aldeia Pirakuá (Bela Vista), foi um dos m
 [^c6]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 132. Acesso em 29 out. 2026.
 [^c7]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 178-179, nota 373. Acesso em 29 out. 2026.
 [^c8]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 198, nota 416. Acesso em 29 out. 2026.
+[^fdoc]: Fórum.doc.BH, acervo, ["Jakaira (2019)"](https://acervo.forumdoc.org.br/movie/jakaira/), ficha do filme. Acesso em 4 nov. 2026.

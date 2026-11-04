@@ -33,3 +33,10 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete curto escrito com as duas fontes. Ficou de fora: lei de criação, data de criação, mudança de nome (resumo de busca citou "Fundação da Cultura e do Patrimônio Histórico" sem leitura).
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Frase reescrita como programação anunciada.
+- Corrigido: Acrescentado, com nota nova (cgn2024), o nome 'Fundação da Cultura e do Patrimônio Histórico de Corumbá', vinculada à Secretaria Municipal de Governo, usado pelo jornal em 2024 para o órgão que geria o edital da Lei Paulo Gustavo.
+- Atenção: Lei e data de criação não encontradas.
+- Atenção: Identidade entre 'Fundação da Cultura de Corumbá' e 'Fundação da Cultura e do Patrimônio Histórico de Corumbá' é provável, mas o verbete só registra o nome usado pelo jornal.

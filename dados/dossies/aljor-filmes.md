@@ -40,3 +40,8 @@ Nenhuma.
 ## Uso no verbete
 
 - Verbete curto, só com os créditos. Fonte única.
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Páginas corrigidas.
+- Atenção: Fonte única (Diehl, só a filmografia). Busca de segunda fonte (6 buscas: títulos dos filmes, Couto/Dorval, 'filme sertanejo', revista Rebeca/Socine baixada e conferida): nada além da própria dissertação e da matéria de 2013 sobre *Honra*.

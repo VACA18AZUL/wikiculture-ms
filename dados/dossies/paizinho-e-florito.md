@@ -25,3 +25,7 @@ Agente: atualizador + revisor-editorial (validação, bloco val-0). Fonte única
 ### O que mudou no verbete
 
 - Só a data de acesso e `atualizado`.
+
+## Atualização de 2026-11-04 (r-3)
+
+Segunda fonte: não encontrada. Duas buscas abertas ("Paizinho e Florito" / "Paizinho & Florito", com Omil e Ozéias, Discos CGS, LP 1974, rasqueado, sertanejo raiz) não trouxeram nenhuma página sobre a dupla nem sobre o selo. Nada mudou no verbete. Pistas: Discogs, Dicionário Cravo Albin, imprensa de Campo Grande dos anos 1970 (acervos digitais).

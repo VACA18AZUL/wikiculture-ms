@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Idealizou com a preparadora de texto Mayara Dempsey a [[avua-edicoes|Avuá Edições]], selo criado para a produção literária sul-mato-grossense. O primeiro título do selo foi a história em quadrinhos *A Ausente Ordem das Coisas*, lançada em 10 de maio de 2023 no Sesc Cultura, em Campo Grande, com prefácio de [[henrique-komatsu|Henrique Komatsu]], que já havia trabalhado com ele antes.[^cgnhq][^cecghq] Em 2024, assinou com Mayara Dempsey o projeto gráfico de *Eles Vieram Com o Amanhecer*, de [[tania-souza|Tânia Souza]], publicado pela Avuá, com exemplares envelhecidos à mão.[^cgncartas]
+Idealizou com a preparadora de texto Mayara Dempsey a [[avua-edicoes|Avuá Edições]], selo criado para a produção literária sul-mato-grossense. O primeiro título do selo foi a história em quadrinhos *A Ausente Ordem das Coisas*, com lançamento anunciado para 10 de maio de 2023 no Sesc Cultura, em Campo Grande, e prefácio de [[henrique-komatsu|Henrique Komatsu]], que, segundo o *Correio do Estado*, já havia trabalhado com ele antes.[^cgnhq][^cecghq] Em 2024, assinou com Mayara Dempsey o projeto gráfico de *Eles Vieram Com o Amanhecer*, de [[tania-souza|Tânia Souza]], publicado pela Avuá, com exemplares envelhecidos à mão.[^cgncartas]
 
-Segundo o *Correio do Estado*, os quadrinhos *Onírica*, *Amálgama* e [[a-casa-bais|*A Casa Baís*]] renderam a ele indicações ao Prêmio HQMIX em 2020 e em 2022, e ele chegou a finalista.[^cecghq] Integra a coletânea [[quebra-torto|*Quebra Torto*]], com Anderson Barboza, Grippho, Marina Duarte, Neiton Benites e Daniel Sharman, e está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]] (2023).[^cgnautores][^cgntarja]
+Segundo o *Correio do Estado*, as últimas obras de uma lista com *Janela da Alma*, *Onírica*, *Amálgama* e [[a-casa-bais|*A Casa Baís*]] renderam a ele indicações ao Prêmio HQMIX em 2020 e em 2022, e ele chegou a finalista; o jornal não diz quais títulos foram indicados.[^cecghq] Integra a coletânea [[quebra-torto|*Quebra Torto*]], com Anderson Barboza, Grippho, Marina Duarte, Neiton Benites e Daniel Sharman, e está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]] (2023).[^cgnautores][^cgntarja]
 
 ## Obras
 

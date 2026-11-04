@@ -13,3 +13,7 @@ Fatos: o site sarahfigueiro.com.br resulta do projeto Acervo da Dança Sul-Mato-
 Página do acervo reaberta: seis itens confirmados no HTML (1988 Ano V n. 23; 1989 Ano VII; 1991 Ano VIII; 1991 Dançar Press Ano I; 1992 Dançar Press Ano II; Edição Especial), com botão "Carregar mais".
 
 A revista em si continua com uma única fonte (a página do acervo). Busca aberta não foi feita: o limite de buscas da rodada esgotou. Sugestão: abrir os PDFs das edições para expediente (editor, cidade, periodicidade).
+
+## Atualização de 2026-11-04 (r-3)
+
+Segunda fonte: não encontrada. Busca por "Revista Dançar" com ASMPD, Mato Grosso do Sul, Sarah Figueiró só retornou o Correio do Estado (2026, já citado) e matérias sobre Sarah Abussafi. A página do acervo foi reaberta: os seis itens apontam para páginas do mesmo site (sarahfigueiro.com.br/2026/05/25/...), não para fonte externa; as edições digitalizadas não foram abertas nesta rodada (mesma fonte, e podem ser imagens). Nada mudou no verbete.

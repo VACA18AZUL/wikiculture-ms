@@ -15,8 +15,9 @@ A **Família Rodrigues** é uma família circense que, segundo reportagem de 202
 
 Ligia Rosane Rodrigues, apresentada como matriarca, diz que a família passava pelo Rio Grande do Sul e por Santa Catarina e que seus descendentes seguiram no circo, cada ramo com o seu.[^cgn]
 
-Em maio de 2024, durante a [[mostra-boca-de-cena|Boca de Cena]], Ligia disse que era a primeira vez da família em Campo Grande. A matéria informa que a lona montada para a mostra, no Centro, pertencia a um circo em atividade, sem dizer que seja o da família. Moradores idosos de Ribas do Rio Pardo foram convidados para a sessão de abertura.[^cgn]
+Em maio de 2024, durante a [[mostra-boca-de-cena|Boca de Cena]], Ligia disse que era a primeira vez da família em Campo Grande. A matéria informa que a lona montada para a mostra, no Centro, pertencia a um circo em atividade, sem dizer que seja o da família. Moradores idosos de Ribas do Rio Pardo foram convidados para a sessão de abertura.[^cgn] Segundo *O Estado Online*, a mostra de 2024 foi a 15ª edição, de 13 a 19 de maio, e a Lona da Mostra ficava ao lado do Memorial da Cultura. A matéria não cita a família.[^oe]
 
 A matéria tem uma contradição interna: abre dizendo que Ligia, moradora de Ribas do Rio Pardo, não ia ao circo havia mais de 40 anos, e depois a apresenta como matriarca de família circense que roda o interior.[^cgn] A fonte não informa o nome do circo da família. Ramona Rodrigues aparece na equipe do espetáculo de abertura, *Gran Finalle*, responsável por figurino, adereço e materiais de cena, sem que o texto diga se é da mesma família.[^cgn]
 
 [^cgn]: Aletheya Alves, ["Tenda chega ao Centro para alegria de quem não via circo há 40 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/tenda-chega-ao-centro-para-alegria-de-quem-nao-via-circo-ha-40-anos), *Campo Grande News*, 14 maio 2024. Acesso em 29 out. 2026.
+[^oe]: ["15ª Mostra Boca de Cena"](https://oestadoonline.com.br/arte-e-lazer/15a-mostra-boca-de-cena/), *O Estado Online*, 9 maio 2024. Acesso em 4 nov. 2026.

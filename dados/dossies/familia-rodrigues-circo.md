@@ -23,3 +23,10 @@
 ### Observação
 
 A matéria se contradiz: Ligia aparece como idosa de Ribas do Rio Pardo que não ia ao circo havia 40 anos e, depois, como matriarca de família circense itinerante. Registrado no verbete.
+
+## Atualização de 2026-11-04 (reforço, tag r-5)
+
+- Quatro aberturas e uma busca nova. Nenhuma fonte além do CGN cita a Família Rodrigues, Ligia Rodrigues ou o circo da família (nem Ribas do Rio Pardo ligada a circo).
+- Abertas e lidas: *O Estado Online*, "15ª Mostra Boca de Cena", 9 maio 2024 (https://oestadoonline.com.br/arte-e-lazer/15a-mostra-boca-de-cena/); *O Pantaneiro*, "Mostra Boca de Cena terá semana de apresentações gratuitas", 11 maio 2024 (https://www.opantaneiro.com.br/cultura/mostra-boca-de-cena-tera-semana-de-apresentacoes-gratuitas/214557/); Fundação de Cultura de MS, "Mostra Boca de Cena apresenta espetáculos..." (22 jun. 2022, edição de 2022, outra). Só a primeira entrou, como contexto: 15ª edição, 13 a 19 maio 2024, lona ao lado do Memorial da Cultura. O Pantaneiro situa a lona na Av. Fernando Correa da Costa, esquina com a Av. Calógeras. Os dois textos citam como circo apenas *Gran FinaLLe*, da Cia Pisando Alto (13 maio, 14h30), e não citam a família.
+- A frase do CGN sobre a lona "no Centro" e a localização "ao lado do Memorial da Cultura" são compatíveis; não há divergência.
+- O verbete segue com fonte única para a família. Continua válida a recomendação da revisão: considerar se vira menção no verbete da Boca de Cena.

@@ -23,3 +23,7 @@ Fontes descartadas e o motivo:
 
 - Fonte reaberta e conferida; nenhuma segunda fonte confirmada. Continua com fonte única.
 - Pistas: resultados oficiais do Festival de Dança de Joinville 2026; perfil oficial da escola (não localizado).
+
+## Atualização de 2026-11-04 (r-3)
+
+Segunda fonte: não encontrada. Buscas por "Studio 2" / Neide Garrido / Suzana Leite / "A Criação" / Feira da Sapatilha / Joinville 2026 só devolvem a matéria de A Crítica já usada. As reportagens do NSC Total sobre as noites competitivas e a lista de premiados do 43º Festival de Dança de Joinville (nsctotal.com.br) responderam 403 e não foram lidas; o resumo de busca não mostra o Studio 2 nas noites competitivas, mas isso não é leitura. Nada mudou no verbete. Pista: resultados oficiais em festivaldedancadejoinville.com.br.

@@ -11,3 +11,7 @@ Releitura das duas descrições do canal Acervo Digital Memória Fonográfica de
 ## Pistas
 
 - Catálogos do selo California (CL 4245); imprensa de Aquidauana; Lado B (*Campo Grande News*) sobre chamamé em Aquidauana.
+
+## Atualização de 2026-11-04 (r-3)
+
+Segunda fonte: não encontrada. Buscas por "Grupo Especial Chamamezeiro" Aquidauana Mariano e por "Flor de Jardim" / "Tristes Lembranças" / Aquidauana / chamamé / 1976 não trouxeram nada fora do canal Acervo Digital Memória Fonográfica de MS. Nada mudou no verbete. Pistas: catálogo do selo California (CL 4245), imprensa de Aquidauana, Discogs.

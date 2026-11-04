@@ -41,3 +41,8 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete curto, ligado ao filme rodado em MS. Escopo a decidir na revisão: o vínculo com MS é só pela produção de *Madalena*.
+
+## Validação de 2026-11-04 (valn-4)
+
+- Corrigido: Frase reescrita: prêmio Gio de melhor direção em Lima; Mix Brasil mantido.
+- Atenção: Vínculo com MS só pela produção de *Madalena* (filmado em Dourados e Bonito, elenco do estado); o diretor é de Mato Grosso.
