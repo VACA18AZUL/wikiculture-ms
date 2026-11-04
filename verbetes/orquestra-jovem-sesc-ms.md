@@ -11,13 +11,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Orquestra Jovem Sesc MS** é uma orquestra formada por crianças e adolescentes do Sesc Lageado e da região, em Campo Grande, mantida pelo Sesc de Mato Grosso do Sul como projeto de formação musical e inclusão social.[^acritica2026]
+A **Orquestra Jovem Sesc MS** é uma orquestra formada por crianças e adolescentes do Sesc Lageado e da região, mantida pelo Sesc de Mato Grosso do Sul como projeto de formação musical e inclusão social.[^acritica2026]
 
 ## Trajetória
 
-Em 17 de junho de 2026, a orquestra apresentou o concerto gratuito *Clássicos do Brasil e do Mundo* no [[teatro-glauce-rocha|Teatro Glauce Rocha]], dentro da temporada 2026 do projeto Movimento Concerto UFMS, sob regência do maestro convidado [[rodrigo-faleiros|Rodrigo Faleiros]]. O programa tinha obras de Grieg, Mozart, Bizet, Tchaikovsky, Ernani Aguiar e Villa-Lobos, além do *Concerto Lúdico*, composição do próprio Faleiros.[^acritica2026]
+Para 17 de junho de 2026, a orquestra marcou o concerto gratuito *Clássicos do Brasil e do Mundo* no [[teatro-glauce-rocha|Teatro Glauce Rocha]], dentro da temporada 2026 do projeto Movimento Concerto UFMS, sob regência do maestro convidado [[rodrigo-faleiros|Rodrigo Faleiros]]. O programa tinha obras de Grieg, Mozart, Bizet, Tchaikovsky, Ernani Aguiar e Villa-Lobos, além do *Concerto Lúdico*, composição do próprio Faleiros.[^acritica2026]
 
-Em 2 de novembro de 2026, com a cantora [[maria-alice|Maria Alice]], a orquestra apresentou no Teatro Glauce Rocha um concerto gratuito em homenagem a [[geraldo-espindola|Geraldo Espíndola]], com 14 canções do compositor em arranjos orquestrais de Rodrigo Faleiros, que também regeu. O repertório vinha do quarto álbum da cantora, *Maria Alice canta Geraldo Espíndola*, e incluía "Kikio", "Cunhataiporã", "Forasteiro" e "Vida Cigana". O concerto integrou o Projeto Sesc Raízes, em parceria com a [[ufms|UFMS]] pelo Projeto Concertos.[^oestado2026] A Revista Fórum anunciou também a participação especial de [[jerry-espindola|Jerry Espíndola]] e os vocais de [[karla-coronel|Karla Coronel]] e Jool Azul.[^forum2026]
+Para 2 de novembro de 2026, a orquestra e a cantora [[maria-alice|Maria Alice]] anunciaram no Teatro Glauce Rocha um concerto gratuito em homenagem a [[geraldo-espindola|Geraldo Espíndola]], com 14 canções do compositor em arranjos orquestrais de Rodrigo Faleiros, que também regeu. O repertório vinha do quarto álbum da cantora, *Maria Alice canta Geraldo Espíndola*, e incluía "Kikio", "Cunhataiporã", "Forasteiro" e "Vida Cigana". O concerto integrou o Projeto Sesc Raízes, em parceria com a [[ufms|UFMS]] pelo Projeto Concertos.[^oestado2026] A Revista Fórum anunciou também a participação especial de [[jerry-espindola|Jerry Espíndola]] e os vocais de [[karla-coronel|Karla Coronel]] e Jool Azul.[^forum2026]
 
 ## Espetáculos
 

@@ -3,7 +3,7 @@ titulo: Odacil Cânepa
 tipo: pessoa
 areas: [audiovisual, literatura]
 cidade: Aquidauana
-resumo: Jornalista e escritor nascido em Aquidauana, radicado em Brasília. Dirigiu e roteirizou um documentário sobre a Retirada da Laguna e anunciou para novembro de 2024 o lançamento do livro infantil "O Jaú que Comeu a Lua – Fábulas Pantaneiras".
+resumo: Jornalista e escritor nascido em Aquidauana, radicado em Brasília. Dirigiu e roteirizou documentário sobre a Retirada da Laguna e anunciou para novembro de 2024 o lançamento do livro infantil "O Jaú que Comeu a Lua – Fábulas Pantaneiras".
 ficha:
   Atividade: "jornalismo, documentário, literatura infantojuvenil"
 status: rascunho
