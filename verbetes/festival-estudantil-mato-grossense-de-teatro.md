@@ -9,7 +9,7 @@ ficha:
   Periodicidade: Anual, de 1969 a 1972
   Realização: Alunos do Colégio da Faculdade Dom Aquino
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Festival Estudantil Mato-grossense de Teatro** foi um festival realizado de 1969 a 1972 pelos alunos do colégio da Faculdade Dom Aquino, dos padres salesianos, em Campo Grande.[^moser]

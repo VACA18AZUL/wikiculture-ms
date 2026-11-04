@@ -2,12 +2,12 @@
 titulo: Geni Núñez
 tipo: pessoa
 areas: [literatura]
-resumo: "Escritora, psicóloga e ativista guarani, autora de Descolonizando Afetos e do livro infantil Jaxy Jaterê: o saci é guarani, ambos de 2023; passou a infância na fronteira do Paraguai com Mato Grosso do Sul."
+resumo: "Escritora, psicóloga e ativista guarani, autora de Descolonizando Afetos e do livro infantil Jaxy Jaterê: o saci é guarani (2023); passou a infância na fronteira do Paraguai com Mato Grosso do Sul."
 ficha:
   Atividade: Escrita, psicologia, ativismo indígena
   Formação: Doutorado em Psicologia Social (UFSC)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Geni Núñez** é uma escritora, psicóloga e ativista guarani, autora de livros sobre afetos, não monogamia e pensamento indígena.[^folha]
@@ -20,7 +20,7 @@ Em entrevista ao *Brasil de Fato*, em 2024, contou que passou a infância num te
 
 ## Obra
 
-- *Descolonizando Afetos: experimentações sobre outras formas de amar* (2023), Editora Planeta.[^folha]
+- *Descolonizando Afetos: experimentações sobre outras formas de amar*, Editora Planeta; a reportagem de janeiro de 2024 diz que foi lançado "em outubro", sem dar o ano.[^folha]
 - *Jaxy Jaterê: o saci é guarani* (2023), livro infantil, Harper Kids.[^folha]
 
 A reportagem informa que *Descolonizando Afetos* esteve entre os dez livros mais vendidos da Flip e reúne reflexões, poemas e pesquisa histórica sobre a colonização jesuítica.[^folha]

@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Reportagem de 2022 aponta a cor e a geometria como base de sua obra e liga esse interesse à formação em publicidade e design gráfico.[^cgn]
 
-Em setembro de 2022, a Fundação de Cultura de Mato Grosso do Sul o convidou, com outros quatro artistas, a expor e vender obras em feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os demais eram [[mauro-mondine|Mauro Mondine]], Kim Matos, Ryam Paès e Fernando Anghinone.[^cgn]
+Em setembro de 2022, a Fundação de Cultura de Mato Grosso do Sul o convidou, com outros quatro artistas, a expor e vender obras em feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os demais eram [[mauro-mondine|Mauro Mondine]], [[kim-matos|Kim Matos]], [[ryam-paes|Ryam Paès]] e [[fernando-anghinoni|Fernando Anghinone]].[^cgn]
 
 Em junho de 2026, *A Crítica* anunciou seu nome, com os de Mabbi, Patricia Bissoli e Ton Barbosa, numa exposição coletiva de obras inéditas no Slaviero Prime Hotel, em Campo Grande, com abertura marcada para 26 de junho.[^acritica]
 

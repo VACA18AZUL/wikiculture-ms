@@ -9,7 +9,7 @@ ficha:
   Ano: "2020 (Corrêa, 2023); 2019 (Mostra Audiovisual do Fazendo Gênero 12)"
   Título completo: "Kuña Porã: matriarcas Kaiowá e Guarani"
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 *Kuña Porã* é um documentário curto dirigido por [[dani-kaiowa|Dani Kaiowá]] (Daniela Jorge João) e [[fabiana-fernandes|Fabiana Fernandes]], sobre mulheres kaiowá e guarani.[^mostra] O título completo da obra é *Kuña Porã: matriarcas Kaiowá e Guarani*.[^mostra]
@@ -33,5 +33,5 @@ A tese de Corrêa data o filme de 2020.[^correa] A página da 8ª Mostra Audiovi
 - Direção: [[dani-kaiowa|Dani Kaiowá]] (Daniela Jorge João)[^correa]
 - Direção: [[fabiana-fernandes|Fabiana Fernandes]][^correa]
 
-[^correa]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, p. 126-131. Acesso em 29 out. 2026.
-[^mostra]: ["Mostra competitiva"](https://mostravideosfazgen.paginas.ufsc.br/mostra-competitiva/), *Mostra Audiovisual do Fazendo Gênero 12*, UFSC (entrada "Kuña Porã: matriarcas Kaiowá e Guarani"). Acesso em 29 out. 2026.
+[^correa]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, p. 126-131. Acesso em 4 nov. 2026.
+[^mostra]: ["Mostra competitiva"](https://mostravideosfazgen.paginas.ufsc.br/mostra-competitiva/), *Mostra Audiovisual do Fazendo Gênero 12*, UFSC (entrada "Kuña Porã: matriarcas Kaiowá e Guarani"). Acesso em 4 nov. 2026.

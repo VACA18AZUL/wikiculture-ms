@@ -13,14 +13,14 @@ links:
     url: https://pt.wikipedia.org/wiki/Lucilene_Machado
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Lucilene Machado** (Lucilene Machado Garcia Arf, nascida em Terra Rica, Paraná, em 1965) é uma escritora e professora universitária radicada em Campo Grande, ocupante da cadeira 36 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^asl][^acritica]
+**Lucilene Machado** (Lucilene Machado Garcia Arf, nascida em Terra Rica, Paraná, em 1965) é uma escritora e professora universitária radicada em Campo Grande, ocupante da cadeira 36 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^asl] A imprensa a apresenta como escritora e professora universitária de Campo Grande.[^acritica][^oestado]
 
 ## Trajetória
 
-A página da ASL registra a cadeira 36, que pertenceu antes a Alcestre de Castro, e dá como profissão a de professora universitária.[^asl] Reportagens a descrevem como escritora, pesquisadora e professora universitária e como doutora em teoria da literatura pela Unesp.[^acritica][^oestado] Ela afirma, em entrevista de 2023, que começou a publicar por volta dos 30 anos e que escolheu a crônica pelo espaço que os jornais ofereciam. Na mesma entrevista, cita Clarice Lispector como principal leitura e objeto de estudo no mestrado e no doutorado.[^oestado]
+A página da ASL registra a cadeira 36, que pertenceu antes a Alcestre de Castro, e dá como profissão a de professora universitária.[^asl] Reportagens a descrevem como escritora, pesquisadora e professora universitária e como doutora em teoria da literatura pela Unesp.[^acritica][^oestado] *O Estado Online* a chama de "escritora campo-grandense", embora a ASL registre o nascimento em Terra Rica (PR).[^oestado][^asl] Ela afirma, em entrevista de 2023, que começou a publicar por volta dos 30 anos e que escolheu a crônica pelo espaço que os jornais ofereciam. Na mesma entrevista, cita Clarice Lispector como principal leitura e objeto de estudo no mestrado e no doutorado.[^oestado]
 
 Em 2023, era presidente da [[ube-ms|União Brasileira de Escritores de Mato Grosso do Sul]] (UBE-MS) e colunista do jornal *O Estado*.[^cgn2023][^oestado] Nesse cargo, falou sobre o projeto "Conexões Culturais", ligado à [[noite-da-poesia-ube-ms|Noite da Poesia]].[^cgn2023]
 
@@ -39,4 +39,4 @@ Em dezembro de 2023, *O Estado Online* noticiou que o livro de crônicas inédit
 [^asl]: Academia Sul-Mato-Grossense de Letras, ["Lucilene Machado Garcia Arf"](https://acletrasms.org.br/portfolio-item/lucilene-machado-garcia-arf/), *ACLETRAS*. Acesso em 29 out. 2026.
 [^acritica]: Iury de Oliveira, ["André Alvez toma posse na Academia Sul-Mato-Grossense de Letras"](https://acritica.net/cultura/andre-alvez-posse-academia-sul-mato-grossense-letras/), *A Crítica de Campo Grande*, 10 ago. 2026. Acesso em 29 out. 2026.
 [^oestado]: Ana Cavalcante, ["Escritora da Capital ganha prêmio nacional"](https://oestadoonline.com.br/arte-e-lazer/escritora-da-capital-ganha-premio-nacional/), *O Estado Online*, 11 dez. 2023. Acesso em 29 out. 2026.
-[^cgn2023]: ["Pela 1ª vez na Capital, Martha Medeiros participa da 35º Noite da Poesia"](https://www.campograndenews.com.br/lado-b/diversao/pela-1a-vez-na-capital-martha-medeiros-participa-da-35o-noite-da-poesia), *Campo Grande News*, 10 set. 2023. Acesso em 29 out. 2026.
+[^cgn2023]: Jéssica Fernandes, ["Pela 1ª vez na Capital, Martha Medeiros participa da 35º Noite da Poesia"](https://www.campograndenews.com.br/lado-b/diversao/pela-1a-vez-na-capital-martha-medeiros-participa-da-35o-noite-da-poesia), *Campo Grande News*, 10 set. 2023. Acesso em 29 out. 2026.

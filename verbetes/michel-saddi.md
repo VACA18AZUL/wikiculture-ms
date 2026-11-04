@@ -7,7 +7,7 @@ resumo: Produtor campo-grandense que começou a filmar cinejornais em 1956 e fez
 ficha:
   Atividade: Produção de cinejornais
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Michel Saddi** é um produtor de Campo Grande que filmou cinejornais a partir de 1956.[^diehl]

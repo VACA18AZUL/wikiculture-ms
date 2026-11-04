@@ -26,7 +26,7 @@ Data: 2026-11-04. Revisor: agente de validação (val-5).
 
 ## Corrigido
 
-- Frase da exposição de 2026, paráfrase da frase de 2022, ligação para `mauro-mondine`. `atualizado` para 2026-11-04.
+- Frase da exposição de 2026, paráfrase da frase de 2022, ligações para `mauro-mondine`, `kim-matos`, `ryam-paes` e `fernando-anghinoni`. `atualizado` para 2026-11-04.
 
 ## Incerto
 

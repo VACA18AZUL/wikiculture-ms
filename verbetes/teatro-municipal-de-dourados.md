@@ -15,7 +15,7 @@ O **Teatro Municipal de Dourados** é um teatro localizado no Parque dos Ipês, 
 
 ## Programação
 
-Em outubro de 2013, o teatro recebeu a estreia de *Quem Matou o Morto?*, da [[cia-theastai|Cia. Theastai]], segundo relato de Antonio Martins Oliveira Júnior, que assistiu à estreia.[^oliveira] Na mesma dissertação, o autor diz que a Prefeitura de Dourados muitas vezes dificultava o acesso dos artistas da cidade aos espaços públicos de cultura, o que levou a companhia a buscar sede própria em 2017.[^oliveira]
+Em outubro de 2013, o teatro recebeu a estreia de *Quem Matou o Morto?*, da [[cia-theastai|Cia. Theastai]], segundo relato de Antonio Martins Oliveira Júnior, que assistiu à estreia.[^oliveira]
 
 ## Fechamento e reforma
 
@@ -24,4 +24,4 @@ Segundo o Campo Grande News, o teatro está fechado desde 2020 por problemas est
 O investimento noticiado é de quase R$ 9,3 milhões, com recursos de governo federal, Estado, município, bancada federal e financiamento do Fonplata, no Programa Desenvolve Dourados. O projeto prevê melhorias de cenografia, iluminação e climatização, troca das instalações elétricas e hidráulicas, adequação de acessibilidade, novas poltronas e paisagismo do entorno.[^cgn2026]
 
 [^cgn2026]: José Cândido, ["Teatro de Dourados passa por reforma completa após anos fechado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/teatro-de-dourados-passa-por-reforma-completa-apos-anos-fechado), *Campo Grande News*, 17 mar. 2026. Acesso em 4 nov. 2026.
-[^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 80-81 e 88. Acesso em 4 nov. 2026.
+[^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 80-81. Acesso em 4 nov. 2026.

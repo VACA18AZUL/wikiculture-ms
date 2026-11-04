@@ -8,14 +8,14 @@ ficha:
   Atividade: Escritora
   Academia: Cadeira 22 da Academia Sul-Mato-Grossense de Letras
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Oliva Enciso** foi uma escritora corumbaense que ocupou a cadeira 22 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^acritica]
 
 ## Trajetória
 
-Uma dissertação de história da UFGD (2006) registra que Oliva Enciso integrou o grupo que fundou a Academia de Letras e História de Campo Grande, em 1971, e consta da relação de membros reunidos em 13 de novembro daquele ano. Em suas memórias, ela diz ter sido convidada por [[ulisses-serra|Ulysses Serra]], a quem chama de conterrâneo e amigo, e ter passado a frequentar as reuniões em casa dele.[^amarilha]
+Uma dissertação de história da UFGD (2006) registra que Oliva Enciso consta da relação de membros da Academia de Letras e História de Campo Grande composta na reunião de 13 de novembro de 1971, pouco depois da fundação da entidade. Em suas memórias, ela diz ter sido convidada por [[ulisses-serra|Ulysses Serra]], a quem chama de conterrâneo e amigo, e ter passado a frequentar as reuniões em casa dele.[^amarilha]
 
 ## Obra
 

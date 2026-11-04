@@ -17,7 +17,7 @@ O **Mágico Tabajara**, nome artístico de Tabajara Duarte da Silva, foi um arti
 
 ## Trajetória
 
-Segundo reportagem de 2016, começou no circo aos 8 anos, quando morava no Peru, e chegou a Campo Grande a convite de um empresário de circo; a família viveu dez anos sob as lonas armadas em vários pontos da cidade. A mesma matéria diz que ele se formou em Letras pela UFMS.[^cgn2016] O folheto da mostra de 2017 o apresenta como uma das personalidades importantes da cultura sul-mato-grossense e diz que ele morava em Campo Grande havia 30 anos e completava 72 anos de carreira.[^folheto] A reportagem de 2016 também fala em 30 anos na cidade.[^cgn2016]
+Segundo reportagem de 2016, começou no circo aos 8 anos, quando morava no Peru, e chegou a Campo Grande a convite de um empresário de circo; morou dez anos sob lonas armadas em vários pontos da cidade. A mesma matéria diz que ele se formou em Letras pela UFMS.[^cgn2016] O folheto da mostra de 2017 o apresenta como uma das personalidades importantes da cultura sul-mato-grossense e diz que ele morava em Campo Grande havia 30 anos e completava 72 anos de carreira.[^folheto] A reportagem de 2016 também fala em 30 anos na cidade.[^cgn2016]
 
 Na carreira circense, trabalhou em circos como o Tihany, o da Família Robattini e o Stankovitch. Foi mágico, palhaço, contorcionista, saltador, trapezista, domador, artista de globo da morte e equilibrista.[^folheto] A reportagem de 2016 cita contorcionismo, equilibrismo, trapézio e mágica.[^cgn2016]
 

@@ -7,7 +7,7 @@ ficha:
   Realização: UFMS, com a Cia. da Lona (circo) e a Cia. Maria Mole (teatro)
   Período: 2005 a 2008
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Navegando pelo rio dos sonhos** foi um projeto da Universidade Federal de Mato Grosso do Sul (UFMS), desenvolvido entre 2005 e 2008 em parceria com a Cia. Maria Mole, companhia de teatro, e a [[cia-da-lona|Cia. da Lona]], companhia de circo.[^urd]

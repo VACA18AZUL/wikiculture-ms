@@ -6,7 +6,7 @@ resumo: Dupla de música de raiz que dividiu com Omil e Ozeas o LP split de 1974
 ficha:
   Atividade: Dupla de música de raiz
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Paizinho e Florito** é uma dupla de música de raiz que gravou, em 1974, um LP dividido com a dupla [[omil-e-ozeias|Omil e Ozeas]].[^split]
@@ -19,4 +19,4 @@ A descrição do Acervo Digital Memória Fonográfica de MS associa a dupla ao r
 
 - *Paizinho & Florito e Omil & Ozeas* (1974) — LP split, 33 rpm, selo Discos CGS. O lado de Paizinho e Florito traz "Querida Maria", "Amor, Saudade e Ilusão" e "Cidades de Mato Grosso".[^split] [Ouvir no YouTube (Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLMRzpVaulJIM)
 
-[^split]: Acervo Digital Memória Fonográfica de MS, ["Paizinho & Florito e Omil & Ozéias LP Split - 1974"](https://www.youtube.com/playlist?list=PLMRzpVaulJIM), playlist no YouTube, descrição. Acesso em 29 out. 2026.
+[^split]: Acervo Digital Memória Fonográfica de MS, ["Paizinho & Florito e Omil & Ozéias LP Split - 1974"](https://www.youtube.com/playlist?list=PLMRzpVaulJIM), playlist no YouTube, descrição. Acesso em 4 nov. 2026.

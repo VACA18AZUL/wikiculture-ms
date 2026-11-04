@@ -3,17 +3,17 @@ titulo: Festival Sul-Mato-Grossense de Dança
 tipo: evento
 areas: [danca]
 cidade: Campo Grande
-resumo: Festival competitivo de dança promovido em Campo Grande pela Associação Sul-Mato-Grossense dos Profissionais da Dança; teve 13 edições entre 1985 e 1998.
+resumo: Festival competitivo de dança promovido em Campo Grande pela Associação Sul-Mato-Grossense dos Profissionais da Dança; as 13 primeiras edições, entre 1985 e 1998, foram organizadas por Sarah Abussafi Figueiró.
 ficha:
   Primeira edição: "1985"
   Periodicidade: Anual
   Realização: Associação Sul-Mato-Grossense dos Profissionais da Dança
-  Local: Teatro Glauce Rocha
+  Local: Teatro Glauce Rocha (1985, 1986, 1993 e 1994)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-O **Festival Sul-Mato-Grossense de Dança** foi um festival de dança organizado em Campo Grande pela [[asmpd|Associação Sul-Mato-Grossense dos Profissionais da Dança]] (ASMPD). O Correio do Estado registra 13 edições, de 1985 a 1998, em 13 anos consecutivos.[^ce2026]
+O **Festival Sul-Mato-Grossense de Dança** foi um festival de dança organizado em Campo Grande pela [[asmpd|Associação Sul-Mato-Grossense dos Profissionais da Dança]] (ASMPD). O Correio do Estado diz que as 13 primeiras edições foram realizadas entre 1985 e 1998 e fala em 13 anos consecutivos de festivais.[^ce2026] O intervalo de 1985 a 1998 cobre 14 anos; a fonte não explica a diferença.
 
 ## Histórico
 
@@ -23,7 +23,7 @@ A [[sarah-abussafi-figueiro|presidente da associação, Sarah Abussafi Figueiró
 
 ## X Festival (1994)
 
-O X Festival foi realizado de 20 a 22 de outubro de 1994, no Teatro Glauce Rocha, com realização da Secretaria Municipal da Cultura e do Desporto, da UFMS e da associação.[^rev1] A revista registra 25 grupos e duas oficinas, uma de balé clássico e outra de balé moderno.[^rev14] A programação tinha modalidades como clássico livre, neoclássico, dança moderna, contemporânea, popular ou folclórica, dança livre e jazz, em categorias por idade e nível. Entre os grupos de Campo Grande estavam o [[ballet-isadora-duncan|Grupo de Dança Isadora Duncan]], a Ginga Cia de Dança, o Kahunas Grupo de Dança e o Clube Bella Center. Houve também grupos de Dourados, Corumbá, Ponta Porã, Maringá, Rondonópolis e Brasília.[^rev17]
+O X Festival foi realizado de 20 a 22 de outubro de 1994, no Teatro Glauce Rocha, com realização da Secretaria Municipal da Cultura e do Desporto, da UFMS e da associação.[^rev1] A revista registra 25 grupos e duas oficinas, uma de balé clássico e outra de balé moderno.[^rev14] A programação tinha modalidades como clássico livre, neoclássico, dança moderna, contemporânea, popular ou folclórica, dança livre e jazz, em categorias por idade e nível. Entre os grupos de Campo Grande estavam o [[ballet-isadora-duncan|Grupo de Dança Isadora Duncan]], a Ginga Cia de Dança, o Kahunas Grupo de Dança e o Clube Bella Center. Houve também grupos de Dourados, Corumbá, Ponta Porã, Maringá, Rondonópolis e Brasília.[^rev17] Na p. 14, a revista conta 16 grupos campo-grandenses e 9 de outros estados (Paraná, Mato Grosso e Distrito Federal), sem citar os do interior de Mato Grosso do Sul que aparecem no programa.[^rev14]
 
 ## IX Festival (premiados)
 

@@ -8,7 +8,7 @@ ficha:
   Atividade: Pintura, desenho, performance, poesia, vídeo
   Grupos: Descendentes de Lídia
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Kim Matos** é artista visual e arte-educadora, formada em Artes Visuais (licenciatura) pela Universidade Federal de Mato Grosso do Sul.[^gv]
@@ -19,7 +19,7 @@ Seus trabalhos usam pintura, desenho, performance, poesia e vídeo e tratam das 
 
 Expôs no [[marco|Museu de Arte Contemporânea de MS]] com a coletiva [[descendentes-de-lidia|Descendentes de Lídia]].[^gv]
 
-Em setembro de 2022, a Fundação de Cultura de MS a convidou, com outros quatro artistas, para expor e vender obras na feira de artes visuais da 2ª edição do Campão Cultural, no Armazém Cultural. Na ocasião, a matéria cita a videoarte "Invocação – Retomar a terra", apresentada por ela na LCOY.[^campao]
+Em setembro de 2022, foi anunciado que a Fundação de Cultura de MS a convidara, com outros quatro artistas, para expor e vender obras na feira de artes visuais da 2ª edição do Campão Cultural, no Armazém Cultural, marcada para 8 a 15 de outubro. Na ocasião, a matéria cita a videoarte "Invocação – Retomar a terra", apresentada por ela na LCOY.[^campao]
 
 ## Obra
 

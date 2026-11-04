@@ -7,10 +7,10 @@ ficha:
   Atividade: Escrita e organização de livros
   Instituição: "[[ube-ms|União Brasileira de Escritores de MS]]"
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Sylvia Cesco** é uma escritora sul-mato-grossense ligada à [[ube-ms|União Brasileira de Escritores de Mato Grosso do Sul]] (UBE-MS).[^carlos2023]
+**Sylvia Cesco** é uma escritora sul-mato-grossense ligada à [[ube-ms|União Brasileira de Escritores de Mato Grosso do Sul]] (UBE-MS).[^carlos2023] O *Campo Grande News* a apresenta como escritora em 2017.[^cgn2017]
 
 ## Trajetória
 

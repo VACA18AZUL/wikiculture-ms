@@ -22,7 +22,7 @@ Em 1978 pintou a série [[divisao-de-mato-grosso|"Divisão de Mato Grosso"]], so
 
 Em dissertação de 2012, Gilmar Lima Caetano registra que Espíndola ficou conhecido como "pintor dos bois" por usar o boi, desde meados dos anos 1960, para criticar uma sociedade que via como embrutecida. Segundo o autor, o artista mudou de posição mais tarde e passou a atribuir à pecuária o desenvolvimento econômico do estado.[^caetano2012]
 
-Caetano aponta Espíndola como incentivador da geração de músicos de [[paulo-simoes|Paulo Simões]], [[geraldo-roca|Geraldo Roca]] e [[geraldo-espindola|Geraldo Espíndola]]. Roca citou o quadro *Boi-general*, de 1968, como uma crítica à ditadura e à economia que marcou a sua geração. O autor registra ainda que Espíndola trabalhou na Fundação de Cultura de MS nos primeiros anos da entidade.[^caetano2012]
+Caetano aponta Espíndola como incentivador da geração de músicos de [[paulo-simoes|Paulo Simões]], [[geraldo-roca|Geraldo Roca]] e [[geraldo-espindola|Geraldo Espíndola]]. Roca o chamou de "pai" intelectual da sua geração e citou o quadro *Boi-general*, de 1968, como crítica à ditadura e à economia. O autor registra ainda que Espíndola trabalhou na Fundação de Cultura de MS nos primeiros anos da entidade.[^caetano2012]
 
 Obras do artista integram o acervo do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]].[^cgn2023]
 

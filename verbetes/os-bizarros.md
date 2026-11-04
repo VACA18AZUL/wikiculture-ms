@@ -8,7 +8,7 @@ ficha:
   Estreia em festival: "1968"
   Integrantes: Paulo Simões, Geraldo Espíndola, Maurício Almeida, James de Deus e João Batista Clivelarro
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Os Bizarros**, também chamado Os Bizarros, Fetos Paraquedistas da Alfa Centauro, foi um conjunto de Campo Grande ligado ao tropicalismo, liderado por [[paulo-simoes|Paulo Simões]] e [[geraldo-espindola|Geraldo Espíndola]].[^ufms]
@@ -19,7 +19,7 @@ O grupo participou do 2º Festival de Música de Campo Grande, em 1968, com a m�
 
 Segundo Geraldo Espíndola, o nome nasceu de Paulo Simões. Os músicos se vestiam com roupas que Simões chamava de "escalafobéticas" e surgiam como participantes de um show, o que provocava surpresa e humor no público.[^ufms] A dissertação de Caetano diz que o grupo causou estranheza por ser considerado exótico demais para o público campo-grandense, e que também se apresentou em outros eventos.[^ufgd]
 
-Em festival estudantil promovido pelo Clube Surian, o conjunto ficou em segundo lugar com o baião *Porque gosto dela, porque ela gosta de mim*, de Paulo Simões e Geraldo Espíndola.[^ufgd]
+No I Festival Estudantil promovido pelo Clube Surian, em 1970, o conjunto ficou em segundo lugar com o baião *Porque gosto dela, porque ela gosta de mim*, de Paulo Simões e Geraldo Espíndola.[^ufgd]
 
 ## Registros
 

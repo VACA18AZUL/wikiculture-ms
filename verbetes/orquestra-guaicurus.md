@@ -10,9 +10,9 @@ ficha:
 links:
   - tipo: youtube
     url: https://www.youtube.com/playlist?list=PLO-QEpiig_Ig-R4Hl6Akizl0QJz6YjkP5
-    acesso: 2026-10-29
+    acesso: 2026-11-04
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Orquestra Guaicurús** é uma orquestra instrumental conduzida pelo instrumentista Maestro Assis, nome artístico de Francisco Antônio dos Santos, em Campo Grande.[^pl]
@@ -31,4 +31,4 @@ O texto situa Assis como saxofonista, flautista e ocarinista. Informa que ele to
 
 A descrição cita a composição "Samba do Pantanal", enquanto a lista de faixas traz "Pantanal Santuário Ecológico" (faixa 3, classificada como samba). O verbete registra os dois nomes sem decidir se se referem à mesma obra.[^pl]
 
-[^pl]: Acervo Digital Memória Fonográfica de MS, ["Orquestra Guaicurús - Maestro Assis - Tributo a Boa Música - 2003"](https://www.youtube.com/playlist?list=PLO-QEpiig_Ig-R4Hl6Akizl0QJz6YjkP5), playlist e descrição, *YouTube*. Acesso em 29 out. 2026.
+[^pl]: Acervo Digital Memória Fonográfica de MS, ["Orquestra Guaicurús - Maestro Assis - Tributo a Boa Música - 2003"](https://www.youtube.com/playlist?list=PLO-QEpiig_Ig-R4Hl6Akizl0QJz6YjkP5), playlist e descrição, *YouTube*. Acesso em 4 nov. 2026.

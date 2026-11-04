@@ -10,7 +10,7 @@ ficha:
   Atividade: Serigrafia e xilogravura
   Grupos: Movimento Cultural Guaicuru
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Ilca Galvão** é uma artista plástica nascida em Aquidauana, descrita por Renata Assis como uma das pioneiras das artes plásticas de Mato Grosso do Sul.[^assis73]

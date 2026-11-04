@@ -9,7 +9,7 @@ ficha:
   Morte: 7 de outubro de 2025
   Atividade: Viola caipira, canto e composição
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Dito Freitas**, nome artístico de Benedito Rodrigues de Freitas, foi violeiro, cantor e compositor ligado a Dourados.[^som]
@@ -28,4 +28,4 @@ O texto do Acervo Digital Memória Fonográfica de MS chama *Som Pantaneiro* de 
 
 - *Som Pantaneiro – O Violeiro Douradense* (2009) — CD independente (selo Prómix), com 16 faixas em ritmos como queromana, guarânia, rasqueado e cururu; produção musical de Moises M. Silva e arranjos de viola do próprio Dito Freitas.[^som] [Ouvir no YouTube (Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLW2q6eqgteGA)
 
-[^som]: Acervo Digital Memória Fonográfica de MS, ["Dito Freitas - Som Pantaneiro CD - 2009"](https://www.youtube.com/playlist?list=PLW2q6eqgteGA), playlist no YouTube, descrição. Acesso em 29 out. 2026.
+[^som]: Acervo Digital Memória Fonográfica de MS, ["Dito Freitas - Som Pantaneiro CD - 2009"](https://www.youtube.com/playlist?list=PLW2q6eqgteGA), playlist no YouTube, descrição. Acesso em 4 nov. 2026.

@@ -8,14 +8,14 @@ ficha:
   Povo: Terena
   Grupos: ASCURI – Associação Cultural dos Realizadores Indígenas (fundador)
 status: rascunho
-atualizado: 2026-10-31
+atualizado: 2026-11-04
 ---
 
 **Gilmar Galache**, também chamado Gilmar Kiripuku Galache, é um cineasta e videasta terena de Mato Grosso do Sul, fundador da [[ascuri|ASCURI – Associação Cultural dos Realizadores Indígenas]].[^tese-fundacao]
 
 ## Formação e atuação
 
-Galache é graduado em Design, curso que iniciou em 2005 na Universidade Católica Dom Bosco (UCDB), e concluiu em 2017 o mestrado profissional em desenvolvimento sustentável na Universidade de Brasília. Trabalhou no Museu das Culturas Dom Bosco e no Canal do Boi. Participou da gravação do primeiro DVD do Bando do Velho Jack e do primeiro Vídeo Índio Brasil, em 2008, como aluno. Passou depois a atuar como monitor, organizador e palestrante em eventos de formação audiovisual indígena e, em 2010, dividiu com o cineasta quéchua Iván Molina uma das equipes que fizeram 12 oficinas em 7 aldeias.[^tese-fundacao]
+Galache é graduado em Design, curso que iniciou em 2005 na Universidade Católica Dom Bosco (UCDB), e concluiu em 2017 o mestrado profissional em desenvolvimento sustentável na Universidade de Brasília. Trabalhou no Museu das Culturas Dom Bosco e no Canal do Boi. Participou da gravação do primeiro DVD do Bando do Velho Jack e do primeiro Vídeo Índio Brasil, em 2008, como aluno. Passou depois a atuar como monitor, organizador e palestrante em eventos de formação audiovisual indígena e, em 2010, no Avá Marandu, dividiu com o cineasta quéchua Iván Molina uma das equipes que fizeram 12 oficinas em 7 aldeias.[^tese-fundacao]
 
 ## ASCURI
 

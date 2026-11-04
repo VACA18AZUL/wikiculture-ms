@@ -12,7 +12,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Thetis_Selingardi
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Thetis Selingardi** é uma artista plástica nascida em Campo Grande, em atividade há cerca de cinco décadas.[^cgn]
@@ -27,6 +27,6 @@ O mesmo texto associa a produção da artista ao expressionismo abstrato, com pi
 
 ## Exposições
 
-Em janeiro de 2021, o Sesc Cultura, em Campo Grande, recebeu a mostra *Entrega*, com obras produzidas ao longo de quatro décadas. A programação previa a exibição do documentário *Thetis Selingardi na tela*, sobre a trajetória e os processos criativos da artista.[^cgn]
+A partir de 5 de janeiro de 2021, o Sesc Cultura, em Campo Grande, tinha programada a mostra *Entrega*, com obras produzidas ao longo de quatro décadas. A programação previa a exibição do documentário *Thetis Selingardi na tela*, sobre a trajetória e os processos criativos da artista.[^cgn]
 
 [^cgn]: ["Ano começará com exposição e cores de Thetis Selingardi"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ano-comecara-com-exposicao-e-cores-de-thetis-selingardi), *Campo Grande News*, 27 dez. 2020. Acesso em 29 out. 2026.
