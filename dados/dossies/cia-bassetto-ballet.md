@@ -38,3 +38,12 @@
 
 ## Uso no verbete
 - Entrou: definição, local, parceria, coordenador, espetáculo de 2019, números de alunos, divergência de idade. Fora: telefones, nomes de crianças, falas de familiares.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: Alana Portela, "Espetáculo de dança fala sobre as etapas da vida com composições de Vivaldi", *Campo Grande News*, 19 dez. 2019 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/espetaculo-de-danca-fala-sobre-as-etapas-da-vida-com-composicoes-de-vivaldi), achada pela busca interna do site. Texto próprio do jornal, com falas do coordenador.
+- Reforça: projeto de balé clássico para 3 a 15 anos; coordenador Adalton Garcia; 156 alunos; *As Quatro Estações* no Teatro Dom Bosco em 19 dez. 2019, com Cecília Bassetto e Kayke Carvalho; alunos aceitos na escola do Bolshoi em Joinville.
+- Acrescentado: peça inspirada em Vivaldi sobre as etapas da vida; entrada gratuita.
+- Divergência de idade: o próprio texto do Campo Grande News traz "sete anos" (fala do coordenador) e "começou com duas crianças". Registrado no verbete ao lado das versões da FCMS.
+- Descartada: matéria do Campo Grande News de 24 out. 2012 sobre a aprovação de Cecília no Bolshoi (não cita o projeto; trata de criança).
+- Telefone e endereço da fonte ficaram fora.

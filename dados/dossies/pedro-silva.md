@@ -30,3 +30,8 @@ Todas abertas e lidas em 4 nov. 2026 (onda w20-1).
 
 - Idade (71 anos em 2020) e frases sobre a situação financeira na pandemia ficaram fora (dado pessoal).
 - As três fontes são do Campo Grande News (mesma autora em duas). Falta fonte independente.
+
+## Atualização de 2026-11-04 (r8)
+
+- Segunda fonte (veículo diferente): *O Estado de MS*, notas de serviço de 18/1/2026 (Demônios da Garoa, 28/3/2026, Palácio Popular da Cultura), 20/1/2026 (Casa, Comida e Alma Lavada, 31/1/2026, Palácio Popular da Cultura) e 25/3/2026 (Patrulha Canina, 23/5/2026, Teatro Glauce Rocha), todas com "realização"/"produção local" de Pedro Silva Promoções & Jamelão. Confirmam a atividade da empresa com Jamelão em 2026 (shows, teatro e infantil). Telefone e endereço de venda ficaram fora.
+- A biografia (chegada em 1980, 400 peças, Auditório Manoel de Barros etc.) continua só no Campo Grande News. Busca na API do O Estado ("Pedro Silva Promoções"): só notas de serviço.

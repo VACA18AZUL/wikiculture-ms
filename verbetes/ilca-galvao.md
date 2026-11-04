@@ -21,6 +21,8 @@ Formada em arquitetura, Ilca Galvão foi para Cuiabá na década de 1970, para t
 
 Assis inclui seu nome entre os participantes iniciais do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]], criado em 1981.[^assis33]
 
+Em agosto de 2021, o *Campo Grande News* citou Ilca Galvão entre os artistas com obras na exposição virtual permanente do projeto Unidade Guaicuru Viva, que reuniu 69 trabalhos das décadas de 1980 e 1990 ligados ao movimento, com curadoria de Jonir Figueiredo.[^cgn2021] Em abril de 2024, *O Estado* voltou a listar seu nome entre os artistas expostos no site do projeto.[^oe2024]
+
 ## Obra
 
 Depois de entrar no movimento, sua obra em serigrafia e xilogravura passou a tratar da temática kadiwéu, com suas marcas, lendas e iconografia. Assis analisa a gravura *Cigana* (2004, nanquim sobre gravura), em que insígnias e motivos geométricos kadiwéu se sobrepõem a um rosto feminino.[^assis73]
@@ -35,3 +37,5 @@ Ilca Galvão não deve ser confundida com [[galvao-pretto|Galvão Pretto]] (Ilac
 [^assis73]: Assis, 2013, p. 73-74, citando Maria da Glória Sá Rosa (2005). Acesso em 29 out. 2026.
 [^assis33]: Assis, 2013, p. 33. Acesso em 29 out. 2026.
 [^cgn]: Thailla Torres, ["Com arte que valoriza encantos de MS, Galvão Pretto se despede da vida"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-arte-que-valoriza-encantos-de-ms-galvao-pretto-se-despede-da-vida), *Campo Grande News*, 31 jan. 2023. Acesso em 29 out. 2026.
+[^cgn2021]: Thailla Torres, ["Com 69 obras, exposição virtual de movimento artístico oitentista está aberta"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-69-obras-exposicao-virtual-de-movimento-artistico-oitentista-esta-aberta), *Campo Grande News*, 24 ago. 2021. Acesso em 4 nov. 2026.
+[^oe2024]: Carolina Rampi, ["'MS: Nossa arte tem história' irá homenagear Henrique Spengler"](https://oestadoonline.com.br/arte-e-lazer/ms-nossa-arte-tem-historia-ira-homenagear-henrique-spengler/), *O Estado Online*, 25 abr. 2024. Acesso em 4 nov. 2026.

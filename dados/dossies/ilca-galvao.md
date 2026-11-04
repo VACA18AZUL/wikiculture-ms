@@ -25,3 +25,12 @@ Segunda fonte: não encontrada. Nada mudou no verbete.
 Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
 
 Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Ilca Galvão", "Ilca"), A Crítica, O Estado Online, BDTD ("Ilca Galvão"; "Movimento Cultural Guaicuru"): sem resultado. Itaú Cultural devolveu HTTP 403 na busca. Fonte principal continua a dissertação de Assis (2013). Situação: reforcar.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas, abertas e lidas (caminhos novos: busca interna do Campo Grande News e API do O Estado):
+
+- Thailla Torres, "Com 69 obras, exposição virtual de movimento artístico oitentista está aberta", *Campo Grande News*, 24 ago. 2021: cita Ilca Galvão entre os artistas com obras na exposição virtual Unidade Guaicuru Viva (69 obras, décadas de 1980 e 1990, curadoria de Jonir Figueiredo). Veículo independente de Assis.
+- Carolina Rampi, *O Estado Online*, 25 abr. 2024: repete a lista de artistas expostos no site do projeto, incluindo Ilca Galvão.
+
+Acrescentado parágrafo na Trajetória com as duas notas. As fontes novas não confirmam naturalidade, formação nem datas; esses dados seguem só em Assis.
