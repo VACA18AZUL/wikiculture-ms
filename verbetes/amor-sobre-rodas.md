@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Enredo
 
-A história acompanha Filipe, de 20 anos, que trabalha numa floricultura e não sabe o que quer da vida. Ele conhece Bianca, jovem que gosta de livros e vive dúvidas parecidas. Os dois dividem medos, conflitos familiares e as bicicletas que dão nome ao livro.[^correio2019]
+A história acompanha Filipe, de 20 anos, que trabalha numa floricultura e não sabe o que quer da vida. Ele conhece Bianca, jovem que gosta de livros e vive dúvidas parecidas. Os dois dividem medos, conflitos familiares e as bicicletas.[^correio2019]
 
 O livro reconstitui lugares da cidade que já não existem, como a antiga feira próxima à Avenida Mato Grosso que deu origem à Feira Central. Cada capítulo abre com a ilustração de um patrimônio de Campo Grande, como a [[morada-dos-bais|Morada dos Baís]].[^correio2019]
 

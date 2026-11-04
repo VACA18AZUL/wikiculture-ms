@@ -7,6 +7,10 @@ ficha:
   Nome completo: João Bosco de Castro Martins
   Atividade: "jornalismo, literatura"
   Obras: Diálogos do Ócio
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Bosco_Martins
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

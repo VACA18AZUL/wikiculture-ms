@@ -22,3 +22,7 @@ Fontes descartadas: matérias de dez. 2023 (CGN, Dourados News) sobre um lançam
 
 - Entrou: direção da TVE (2015–2021), lançamento na 8ª Flib, Felit-MS 2025, entrevista ao Correio Braziliense e relançamento anunciado pela editora da UFMS.
 - Fora: idade (65 em 2024) e menção ao pai (vida familiar). Participação no show do Dimitri Pellz (2025), já em verbetes/dimitri-pellz.md, não foi conferida nesta sessão.
+
+## Conferência com a Wikipédia
+
+- Há artigo: https://pt.wikipedia.org/wiki/Bosco_Martins (nome profissional de João Bosco de Castro Martins). Traz nascimento em Fernandópolis (SP), 27 abr. 1957, carreira na TV Morena e TV Campo Grande, e o descreve como diretor-presidente da RTVE (dado desatualizado). Divergência: o CE de jul. 2024 dá 65 anos (nascimento em 1958 ou 1959). Data de nascimento fora do verbete; dados de família da Wikipédia ficam fora.

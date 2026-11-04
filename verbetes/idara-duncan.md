@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Idara Duncan** (Idara Negreiros Duncan Rodrigues) é pesquisadora e gestora cultural de Mato Grosso do Sul. É formada em Letras, com especialização em Língua Portuguesa, e associada emérita do [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]] (IHGMS).[^oe2022][^lima]
+**Idara Duncan** (Idara Negreiros Duncan Rodrigues) é pesquisadora e gestora cultural de Mato Grosso do Sul. Graduou-se em Letras, especializou-se em Língua Portuguesa e é associada emérita do [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]] (IHGMS).[^oe2022][^lima]
 
 ## Trajetória
 

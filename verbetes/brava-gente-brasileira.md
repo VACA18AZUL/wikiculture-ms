@@ -23,7 +23,7 @@ atualizado: 2026-11-04
 
 A produção é de fora do estado: a Cinemateca Brasileira registra o filme como produção do Rio de Janeiro, da Taiga Filmes e Vídeo e da RioFilme, com coprodução portuguesa. O elenco reúne atores brasileiros e portugueses e, segundo a ficha, membros da comunidade Kadiwéu, creditados como "Comunidade Kadiwéu" e em papéis de guerreiros, anciãos, mulheres da aldeia e crianças. Uma das fontes citadas pela ficha diz que o filme foi rodado todo no Pantanal.[^cb]
 
-A artista plástica [[carla-de-capua|Carla de Cápua]], que atuou como professora na Universidade Federal de Mato Grosso do Sul, foi chamada para fazer os desenhos de cena do filme por causa de sua pesquisa sobre temas indígenas, segundo o catálogo dos 30 anos do [[marco|MARCO]].[^marco]
+A artista plástica [[carla-de-capua|Carla de Cápua]], ex-professora da Universidade Federal de Mato Grosso do Sul, foi convidada a criar os desenhos de cena do filme por causa de sua pesquisa sobre temas indígenas, segundo o catálogo dos 30 anos do [[marco|MARCO]].[^marco]
 
 Miguel Angelo Corrêa, em tese sobre o audiovisual indígena do estado, cita o realizador terena [[gilmar-galache|Gilmar Galache]], para quem o filme tem grande relevância para Mato Grosso do Sul por contar parte da história do povo Kadiwéu, subgrupo da nação Guaikuru, com atores nacionais, sul-mato-grossenses e kadiwéu no elenco. Galache destaca o kadiwéu Ademir Matchua, que tinha menos de vinte anos e fez o papel de um guerreiro.[^correa] A ficha da Cinemateca grafa o nome como Adenir Matchua, no papel de guerreiro.[^cb]
 

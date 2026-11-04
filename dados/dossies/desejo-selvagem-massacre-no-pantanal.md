@@ -39,3 +39,10 @@ Descartadas: base da Cinemateca Brasileira (consulta automática sem retorno).
 ## Uso no verbete
 
 - Tudo acima entrou; sinopse resumida. Filmografia de david-cardoso ligada ao verbete.
+
+## Atualização de 2026-11-04 (validação)
+
+- cb: Cinemateca Brasileira, Filmografia, código 025013, título "Desejo Selvagem (Massacre no Pantanal)" (achado pela busca livre DESEJO AND SELVAGEM; a busca por título não retorna). Ano 1979; produção Dacar; produção David Cardoso, Gilberto Faria, Gilberto Adrien; direção de produção Alvino Correa; argumento e roteiro Ody Fraga; direção David Cardoso; fotografia e câmera Cláudio Portiolli; montagem Jair Garcia Duarte; trilha Ronaldo Lark; distribuição Ouro Nacional e Art Films; locações Campo Grande, Corumbá, São Paulo; exibido no Marabá em 17 set. 1979.
+- Divergências registradas no verbete: locações (Neves: MS, SP, RJ, Portugal, Peru × CB: Campo Grande, Corumbá, São Paulo); elenco (Gay Lucy em Neves, ausente na CB, que traz Lucey Fairfax; não se afirma que sejam a mesma pessoa); grafias Portioli/Portiolli, Furstenberg/Furstemberg.
+- Sinopse: Neves cita a do INC via Silva Neto (2002); depoimento de Cardoso sobre Ira de Furstenberg é de Sternheim (2004), citado por Neves. Atribuições acrescentadas. Motivo da ausência da atriz (desfile em Roma) ficou fora.
+- Wikipédia: sem artigo localizado.
