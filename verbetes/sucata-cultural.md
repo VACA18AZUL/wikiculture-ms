@@ -9,7 +9,7 @@ ficha:
   Local: Dourados
   Gestão: sócios-fundadores (Cia. Theastai e Circo Le Chapeau)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Sucata Cultural**, nome abreviado do Instituto de Desenvolvimento Artístico e Social Sucata Cultural, é um espaço de teatro, dança e circo em Dourados, criado para ser a sede da [[cia-theastai|Cia. Theastai de Artes Cênicas]] e do [[circo-le-chapeau|Circo Le Chapeau]].[^oliveira]
@@ -28,5 +28,5 @@ A partir de 2017, os festivais de dança antes realizados pela Cia. Theastai pas
 
 Em setembro de 2025, o espaço constava como apoiador da programação do [[festival-internacional-de-teatro-de-dourados|Festival Internacional de Teatro de Dourados]], que incluía a peça *Quem Matou o Morto?*, da Cia. Theastai, apresentada no Sucata Cultural.[^cgn2025]
 
-[^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, seção 3.2, p. 96-106. Acesso em 29 out. 2026.
+[^oliveira]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, seções 3.1 a 3.3, p. 96-107. Acesso em 29 out. 2026.
 [^cgn2025]: Thailla Torres, ["Com espetáculos nacionais, Festival de Teatro divulga programação"](https://www.campograndenews.com.br/lado-b/diversao/com-espetaculos-nacionais-festival-de-teatro-divulga-programacao), *Campo Grande News*, 15 set. 2025. Acesso em 29 out. 2026.

@@ -22,13 +22,13 @@ O livro foi apreendido por ordem judicial em processo movido pela filha do bando
 
 ## Conteúdo
 
-Segundo Santos, Silvino Jacques chegou à fronteira de Mato Grosso com o Paraguai no fim de 1929, vindo do Rio Grande do Sul, e às vezes se apresentava como Valdemar Pereira. Seu corpo foi encontrado em 19 de maio de 1939, no município de Bonito.[^santos2010]
+Segundo Santos, Silvino Jacques chegou à fronteira de Mato Grosso com o Paraguai no fim de 1929, vindo do Rio Grande do Sul, e se apresentava como Valdemar Pereira. Seu corpo foi encontrado em 19 de maio de 1939, no município de Bonito.[^santos2010]
 
 O livro reúne relatos orais e documentos e acrescenta a recriação do autor, que em alguns trechos se coloca como testemunha. Registra a mistura de línguas e costumes da fronteira, com o portunhol, o guarani, os migrantes gaúchos e os paraguaios.[^santos2010]
 
 ## Estudos
 
-No artigo "Silvino Jacques: literatura entre fronteiras reais e imaginadas" (2010), Santos lê o livro ao lado de *Décimas gaúchas*, poema narrativo escrito pelo próprio bandoleiro e publicado em 1978. Para ele, os dois textos ficam entre o relato factual e a ficção. O artigo também registra que o documentário *Silvino Jacques, a saga de um bandoleiro*, exibido na TVE Regional em 15 de janeiro de 2006, contradiz o livro em vários pontos.[^santos2010]
+No artigo "Silvino Jacques: literatura entre fronteiras reais e imaginadas" (2010), Santos lê o livro ao lado de *Décimas gaúchas*, poema narrativo escrito pelo próprio bandoleiro, que Santos leu em versão publicada em 1978. Para ele, os dois textos ficam entre o relato factual e a ficção. O artigo também registra que o documentário *Silvino Jacques, a saga de um bandoleiro*, exibido na TVE Regional em 15 de janeiro de 2006, contradiz o livro em vários pontos.[^santos2010]
 
 A coletânea *Literatura, arte e cultura na fronteira sul-mato-grossense* (2010), organizada por Paulo Nolasco, traz um ensaio de Rafaela Carolina Grance e Nolasco que inclui o romance entre as práticas da cultura de fronteira, ao lado da poesia de Douglas Diegues.[^raido] A reportagem de 2026 diz que o livro é citado em teses e dissertações sobre o discurso de fronteira na literatura sul-mato-grossense.[^posse]
 

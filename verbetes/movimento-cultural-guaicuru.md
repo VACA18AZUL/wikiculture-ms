@@ -9,14 +9,14 @@ ficha:
   Fundadores: "Henrique Spengler (segundo Assis); Jonir Figueiredo é citado como cofundador pelo Campo Grande News"
   Sede: Campo Grande, com filiais em Dourados e Coxim
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Movimento Cultural Guaicuru** (MCG) foi um movimento de artistas plásticos criado em 1981 em Campo Grande, depois da divisão de Mato Grosso, para buscar uma identidade cultural para o novo estado.[^assis]
 
 ## Origem e fundadores
 
-Segundo Renata Assis, o movimento nasceu de encontros de artistas, estudantes e intelectuais na Tainá Tur Galeria, em Campo Grande, e foi criado pelo artista plástico e historiador [[henrique-spengler|Henrique Spengler]], com a participação inicial de [[jonir-figueiredo|Jonir Figueiredo]], [[paulo-rigotti|Paulo Rigotti]], Miska, Adilson Schiffer, Ilca Galvão e outros.[^assis] O *Campo Grande News*, ao noticiar a morte de Jonir Figueiredo em 2025, o chama de cofundador do movimento.[^cgn] As fontes apresentam, portanto, formulações diferentes sobre a autoria da fundação.
+Segundo Renata Assis, o movimento nasceu de encontros de artistas, estudantes e intelectuais na Tainá Tur Galeria, em Campo Grande, e foi criado pelo artista plástico e historiador [[henrique-spengler|Henrique Spengler]], com a participação inicial de [[jonir-figueiredo|Jonir Figueiredo]], [[paulo-rigotti|Paulo Rigotti]], Miska, Adilson Schiffer, Ilca Galvão e outros.[^assis] O *Campo Grande News*, ao noticiar a morte de Jonir Figueiredo em 2025, o chama de cofundador do movimento e diz que ele ajudou a fundá-lo.[^cgn] As fontes apresentam, portanto, formulações diferentes sobre a autoria da fundação.
 
 ## Propostas e atividades
 
@@ -30,5 +30,5 @@ Assis observa que Spengler foi o porta-voz do grupo, mas que seu discurso expres
 
 - Renata Rodrigues de Assis, [dissertação sobre o MCG e os grafismos Kadiwéu](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf) (UFGD, 2013).
 
-[^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2013.
-[^cgn]: Clayton Neves, ["Morre aos 73 anos Jonir Figueiredo, ícone das artes visuais de MS"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/morre-aos-73-anos-jonir-figueiredo-icone-das-artes-visuais-de-ms), *Campo Grande News*, 26 jul. 2025. Acesso em 29 out. 2026.
+[^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2013, p. 35-37 e 72. Acesso em 4 nov. 2026.
+[^cgn]: Clayton Neves, ["Morre aos 73 anos Jonir Figueiredo, ícone das artes visuais de MS"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/morre-aos-73-anos-jonir-figueiredo-icone-das-artes-visuais-de-ms), *Campo Grande News*, 26 jul. 2025. Acesso em 4 nov. 2026.

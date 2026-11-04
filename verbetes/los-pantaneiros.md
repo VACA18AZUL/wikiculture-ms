@@ -7,7 +7,7 @@ resumo: Coletivo circense de universitários da UFMS, Campus do Pantanal, que le
 ficha:
   Vínculo: UFMS, Campus do Pantanal (projeto de extensão)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Los Pantaneiros** é o nome que um grupo de acadêmicos da Universidade Federal de Mato Grosso do Sul (UFMS), Campus do Pantanal, usa quando faz apresentações circenses.[^urd]
@@ -30,4 +30,4 @@ Segundo os autores, a ação de extensão de 2019 foi inspirada em *[[navegando-
 
 - Zaim-de-Melo, Godoy e Santos Rodrigues, "De universitários a 'artistas': a trajetória da trupe Los Pantaneiros no Pantanal Sul-Mato-Grossense", em *Circo e comicidade* (Paco Editorial, 2021) — capítulo sobre o grupo, citado nas referências do artigo da Urdimento; não foi aberto.[^urd]
 
-[^urd]: Rogério Zaim-de-Melo, Luís Bruno de Godoy e Teresa Ontañón Barragán, ["Um barco, um rio, um circo"](https://revistas.udesc.br/index.php/urdimento/article/download/24895/16975), *Urdimento – Revista de Estudos em Artes Cênicas*, v. 2, n. 51, jul. 2024, p. 1-14 e referências. Acesso em 29 out. 2026.
+[^urd]: Rogério Zaim-de-Melo, Luís Bruno de Godoy e Teresa Ontañón Barragán, ["Um barco, um rio, um circo"](https://revistas.udesc.br/index.php/urdimento/article/download/24895/16975), *Urdimento – Revista de Estudos em Artes Cênicas*, v. 2, n. 51, jul. 2024, p. 1-14 e referências. Acesso em 4 nov. 2026.

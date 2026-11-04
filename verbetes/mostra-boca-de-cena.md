@@ -9,7 +9,7 @@ ficha:
   Periodicidade: anual
   Realização: Fundação de Cultura de Mato Grosso do Sul
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena** é um evento de artes cênicas realizado em Campo Grande. Segundo o folheto da edição de 2017, ela é promovida desde 2008 pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^folheto]
@@ -20,7 +20,7 @@ Em 2014, uma reportagem chamou o evento de Festival Boca de Cena e o apresentou 
 
 A edição de 2017 ocorreu de 22 a 27 de maio, com dezessete apresentações teatrais gratuitas, seminários, diálogos cênicos e oficinas. Receberam homenagem o Grupo Palco, o ator e diretor [[edilton-ramos|Edilton Ramos]] e o [[magico-tabajara|Mágico Tabajara]]. A programação incluiu o IV Seminário Estadual de Teatro "Teatro, Circo e Resistência" e, no encerramento, o espetáculo Gran Circo Poropopó Brothers, que reuniu coletivos de circo do estado.[^folheto]
 
-Em maio de 2024, o jornal Correio da Manhã noticiou a abertura da 15ª edição, chamada Semana do Teatro e Circo de Mato Grosso do Sul, no Teatro Aracy Balabanian. A abertura teve espetáculos e homenagens a profissionais de teatro e circo, entre eles a apresentação do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]].[^cm24]
+Em maio de 2024, o jornal Correio da Manhã noticiou a abertura da 15ª edição da Boca de Cena, com o subtítulo Semana do Teatro e Circo de Mato Grosso do Sul, no Teatro Aracy Balabanian. A abertura teve espetáculos e homenagens a profissionais de teatro e circo, entre eles a apresentação de *Tekoha – Ritual de Vida e Morte do Deus Pequeno*, do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]].[^cm24]
 
 ## Grupos em edições documentadas
 
@@ -31,6 +31,6 @@ Em maio de 2024, o jornal Correio da Manhã noticiou a abertura da 15ª edição
 
 - [Folheto da edição de 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf) — programação completa, textos de homenagem e endereços.
 
-[^cgn14]: ["Festival com entrada franca terá nove espetáculos a partir de amanhã"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/festival-com-entrada-franca-tera-nove-espetaculos-a-partir-de-amanha), *Campo Grande News*, 24 mar. 2014. Acesso em 29 out. 2026.
+[^cgn14]: Ângela Kempfer, ["Festival com entrada franca terá nove espetáculos a partir de amanhã"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/festival-com-entrada-franca-tera-nove-espetaculos-a-partir-de-amanha), *Campo Grande News*, 24 mar. 2014. Acesso em 29 out. 2026.
 [^folheto]: Fundação de Cultura de Mato Grosso do Sul, [*Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017*](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), folheto, 2017. Acesso em 29 out. 2026.
 [^cm24]: ["Estado promove semana do teatro e circo"](https://www.correiodamanha.com.br/nacional/centro-oeste/2024/05/132985-estado-promove-semana-do-teatro-e-circo.html), *Correio da Manhã*, 16 mai. 2024. Acesso em 29 out. 2026.
