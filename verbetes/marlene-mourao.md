@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Marlene Mourão**, conhecida como Peninha, é uma artista visual, cronista e escritora radicada em [[corumba|Corumbá]].[^fcms2025a][^ce2008] Nasceu em Coxim e vive em Corumbá desde os anos 1970.[^fcms2025b]
+**Marlene Mourão**, conhecida como Peninha, é uma artista visual, cronista e escritora radicada em Corumbá.[^fcms2025a][^ce2008] Nasceu em Coxim e vive em Corumbá desde os anos 1970.[^fcms2025b]
 
 ## Trajetória
 

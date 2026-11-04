@@ -20,7 +20,7 @@ O roteiro partiu dos relatos de Dona Iara, mãe do companheiro do roteirista, e 
 
 ## Exibições
 
-Em janeiro de 2025 o curta foi um dos cinco filmes escolhidos para o projeto Olubayo – Cinema nas Comunidades Quilombolas, do [[grupo-tez|Grupo TEZ]], com recursos da Lei Paulo Gustavo. O projeto estreou em 1º de fevereiro de 2025 na comunidade quilombola Águas do Miranda, em Bonito, e levou os filmes a outras comunidades e a Dourados.[^fcms2025a][^fcms2025b] Em julho de 2025 *Águas* voltou a ser exibido numa sessão extra do projeto na Comunidade Negra São João Batista.[^fcms2025c]
+Em janeiro de 2025 o curta foi um dos cinco filmes escolhidos para o projeto Olubayo – Cinema nas Comunidades Quilombolas, do [[grupo-tez|Grupo TEZ]], com recursos da Lei Paulo Gustavo. O projeto previa exibições em nove comunidades quilombolas do estado entre fevereiro e abril.[^fcms2025a] A primeira sessão foi marcada para 1º de fevereiro de 2025, na comunidade quilombola Águas do Miranda, em Bonito.[^fcms2025b] Em julho de 2025 *Águas* voltou a ser exibido numa sessão extra do projeto na Comunidade Negra São João Batista.[^fcms2025c]
 
 ## Ficha técnica
 

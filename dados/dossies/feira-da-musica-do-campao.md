@@ -31,3 +31,10 @@ Também lida: FCMS, "Feira da Música do Campão conecta artistas e abre caminho
 ## Não confirmado
 
 - Datas da 1ª e da 2ª edição.
+
+## Atualização de 2026-11-04
+
+- Nova fonte: cgn2026 — Clayton Neves, "Feira da Música abre seleção de artistas com cachê de R$ 4 mil", *Campo Grande News*, 2 nov. 2026, https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/feira-da-musica-abre-selecao-de-artistas-com-cache-de-r-4-mil (lida). Edital: 4 atrações para showcases e 4 para programação noturna, cachê de R$ 4 mil por apresentação, só artistas residentes em MS, inscrições até 6 nov. 2026, 17h.
+- Divergência: FCMS (4 nov. 2026) e A Crítica (2 nov. 2026) dão 17 a 21 de novembro; Campo Grande News dá 19 a 21 de novembro (talvez só os dias de showcases e shows). As duas versões entraram no verbete.
+- A matéria de A Crítica termina com "Com informações da Agência de Notícias do Governo de MS": reproduz release do governo, não conta como fonte independente da FCMS.
+- Midiamax, "Vem aí: Feira da Música de Campão anuncia cinco dias de shows em Campo Grande" (27 out. 2026): HTTP 403, não lida.
