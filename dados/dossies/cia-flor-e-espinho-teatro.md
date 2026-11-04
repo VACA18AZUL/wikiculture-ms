@@ -17,3 +17,7 @@ Fatos novos:
 - Criou a mostra com o Circo do Mato há 17 anos (contados a partir de 2025) [enf2025].
 - Anderson Lima é integrante [enf2025][fcms2025].
 - Espaço próprio no Centro de Campo Grande recebeu oficinas e roda de conversa na IX edição; realização conjunta com o Circo do Mato, PNAB [fcms2025].
+
+## Atualização de 2026-11-04
+
+CGN 16 abr. 2009 reaberta: peça *Sob Controle* (dois palhaços) é atribuída a "Grupo Flor e Espinho", em Três Lagoas, Aparecida do Taboado e Paranaíba, no 9º Circuito Sul-Mato-Grossense de Teatro. A fonte não liga esse grupo à Cia. Flor e Espinho Teatro; por isso a peça não entrou no verbete.

@@ -3,7 +3,7 @@ titulo: Ponto de Cultura Sapicuá Pantaneiro
 tipo: espaco
 areas: [teatro, circo]
 cidade: Aquidauana
-resumo: Ponto de Cultura do bairro Nova Aquidauana, em Aquidauana, que recebeu em 2025 o projeto De Ponto a Ponto, do Circo do Mato.
+resumo: Ponto de Cultura do bairro Nova Aquidauana, em Aquidauana, escolhido em 2025 como sede da etapa de Aquidauana do projeto De Ponto a Ponto, do Circo do Mato.
 ficha:
   Local: Bairro Nova Aquidauana, Aquidauana
   Gestão: Claudia de Medeiros (coordenadora, em 2025)
@@ -15,7 +15,7 @@ O **Ponto de Cultura Sapicuá Pantaneiro** é um espaço cultural do bairro Nova
 
 ## Atividades
 
-Em 2025, foi um dos cinco Pontos de Cultura escolhidos pelo [[circo-do-mato|Circo do Mato]] para o projeto "De Ponto a Ponto", que levou espetáculos, vivências e rodas de conversa a Ponta Porã, Campo Grande, Aquidauana, Corumbá e Ivinhema.[^cgn2025a]
+Em 2025, foi um dos cinco Pontos de Cultura escolhidos pelo [[circo-do-mato|Circo do Mato]] para o projeto "De Ponto a Ponto", que previa levar espetáculos, oficinas e rodas de conversa a Ponta Porã, Campo Grande, Aquidauana, Corumbá e Ivinhema.[^cgn2025a]
 
 A etapa de Aquidauana foi marcada para 3 de maio de 2025, com roda de conversa pela manhã e, à tarde, o espetáculo *O Grandioso Mini Cirquim nas Arábias*, com intérprete de Libras.[^cgn2025b]
 

@@ -20,13 +20,13 @@ Segundo o *Campo Grande News*, ele e o irmão Chico Lacerda nasceram em Corumbá
 
 Nos festivais estudantis de Campo Grande, Gilmar Lima Caetano registra que "Na minha canoa só cabe Lucinda", de Moacir, teria ficado em primeiro lugar num festival estudantil em 1972. No mesmo ano, ele e Constantino Pereira ficaram em segundo lugar no 4º Festival da Música Estudantil com "Presiganga".[^caetano] Em 1973, "Êxodo", dele e de Chico Lacerda, ficou em segundo no 1º Festival Matogrossense de Criatividade Musical (FEMACRIM). Em 1974, no VI Festival de Música Estudantil, ficou em terceiro com "Pachico", parceria com Luiz Porfírio.[^caetano]
 
-Em entrevista de 2024, disse que a canção "As Monções", composta nos anos 1970, deu origem às Rotas Monçoeiras, um roteiro turístico e histórico.[^correio2024] Em 2016, o ACABA tinha 12 integrantes e preparava, para os 50 anos, um disco com mais de 60 músicas.[^cgn2016]
+Em entrevista de 2024, disse que a canção "As Monções", composta nos anos 1970, deu origem às Rotas Monçoeiras, um roteiro turístico e histórico.[^correio2024] Em 2016, o ACABA tinha 12 integrantes e gravava, para os 50 anos, um disco com 60 músicas.[^cgn2016]
 
 Foi um dos músicos entrevistados no livro [[a-musica-de-mato-grosso-do-sul-historias-de-vida|*A Música de Mato Grosso do Sul: histórias de vida*]] (2009), de [[maria-da-gloria-sa-rosa|Glorinha Sá Rosa]] e Idara Duncan, na parte de música urbana.[^silus]
 
 ## Discografia
 
-- *Cabeza de Vaca – Andarilho das Américas* (2023) — álbum duplo com 22 faixas inéditas sobre o explorador espanhol Álvar Núñez Cabeza de Vaca, resultado de pesquisa iniciada em 2018. Entre os convidados estão [[tete-espindola|Tetê Espíndola]], o ACABA, Pedro Ortale, [[raquel-naveira|Raquel Naveira]] e [[aurelio-miranda|Aurélio Miranda]]. A turnê de lançamento passou, em 2023, pela Feira Literária de Bonito, pelo [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de MS]] e pela UFMS.[^correio2023]
+- *Cabeza de Vaca – Andarilho das Américas* (2023) — álbum duplo com 22 faixas inéditas sobre o explorador espanhol Álvar Núñez Cabeza de Vaca, resultado de pesquisa iniciada em 2018. Entre os convidados estão [[tete-espindola|Tetê Espíndola]], o ACABA, Pedro Ortale, [[raquel-naveira|Raquel Naveira]] e [[aurelio-miranda|Aurélio Miranda]]. Em julho de 2023, a turnê de lançamento tinha passado pela Feira Literária de Bonito e pelo [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de MS]], e havia sessão marcada na UFMS.[^correio2023]
 - *Aleixo Garcia – A Jornada Épica* — álbum de 29 faixas sobre o explorador português Aleixo Garcia, gravado no estúdio de Gilson Espíndola, com mais de 40 participantes; em fevereiro de 2024, o lançamento estava previsto para o fim de março daquele ano.[^correio2024]
 
 ## Divergência entre fontes

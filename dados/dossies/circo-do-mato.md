@@ -45,3 +45,7 @@ Fontes descartadas:
 - Espetáculos: *Navalha de Carne* e *Os Corcundas* acrescentados.
 - Ficha: Mauro Guimarães como um dos fundadores.
 - Endereço completo da sede (que as fontes trazem) não entrou: basta o bairro.
+
+## Atualização de 2026-11-04
+
+Fontes reabertas e lidas: CGN 16 abr. 2009 (Circuito Sul-Mato-Grossense de Teatro), CGN 3 abr. 2025 e CGN 1 maio 2025 (De Ponto a Ponto). Entrou no verbete: parágrafo do De Ponto a Ponto (cinco Pontos de Cultura, Lei Paulo Gustavo, coordenação de Laila Pulchério com Mauro Guimarães, sessão de Aquidauana com Libras), item *O Palhaço no ½ da rua* (2009) e item *O Grandioso Mini Cirquim nas Arábias* (2025). A matéria de 3 abr. não diz em quais cidades o *Mini Cirquim* foi apresentado; só a de 1 maio o confirma em Aquidauana, e o verbete limita-se a isso. A matéria de 3 abr. nomeia Casa de Ensaio (Rua Visconde de Taunay, Amambaí); o verbete casa-de-ensaio dá sede no Amambaí, mas a identidade entre os dois não está dita na fonte (link mantido, conferir).

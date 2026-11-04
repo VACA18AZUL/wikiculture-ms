@@ -11,7 +11,7 @@ ficha:
   Coordenação: Andréa Freire
   Premiação: Troféu Pantanal
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Bonito CineSur**, também chamado de Festival de Cinema Sul-Americano de Bonito, é um festival que reúne filmes e profissionais do audiovisual da América do Sul em Bonito.[^ce2024]
@@ -34,6 +34,8 @@ A **terceira edição** foi de 25 de julho a 2 de agosto de 2025. A programaçã
 
 A **quarta edição** foi de 24 de julho a 1º de agosto de 2026, com filmes de dez dos 12 países da América do Sul, cinco mostras competitivas e uma mostra infantojuvenil não competitiva. O número de inscritos subiu, segundo A Crítica, para 905.[^acritica2026a] A abertura ocorreu no Auditório Kadiwéu, no Centro de Convenções de Bonito.[^acritica2026b]
 
+Na categoria Filme Sul-Mato-Grossense da quarta edição, o júri oficial premiou *[[natasha-longa|Natasha]]*, com direção creditada a [[ana-ostapenko|Ana Ostapenko]], Willerson Amorim, Thiago Rotta e Rafael Rotta, e deu menção honrosa a *[[quatro-luas-pantaneiras|Quatro Luas Pantaneiras]]*, de [[ana-carla-loureiro|Ana Carla Loureiro]]. O júri popular escolheu *[[higa-ke-olho-por-olho|Higa Ke – Olho por Olho]]*, de [[conrado-roel|Conrado Roel]].[^cgn2026]
+
 [^ce2024]: Mariana Piell, ["Documentário premiado de diplomata aquidauanense terá estreia nacional em Bonito"](https://correiodoestado.com.br/correio-b/documentario-premiado-de-diplomata-aquidauanense-tera-estreia-nacional/432129/), *Correio do Estado*, 26 jun. 2024. Acesso em 29 out. 2026.
 [^cgn2023]: Thailla Torres, ["Bonito terá Festival de Cinema Sul-americano; veja os selecionados"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bonito-tera-festival-de-cinema-sul-americano-veja-os-selecionados), *Campo Grande News*, 6 out. 2023. Acesso em 29 out. 2026.
 [^cgn2024]: Idaicy Solano, ["Após turnê internacional, Essi Rafael estreia longa no festival Bonito CineSur"](https://www.campograndenews.com.br/lado-b/diversao/apos-turne-internacional-essi-rafael-estreia-longa-no-festival-bonito-cinesur), *Campo Grande News*, 29 jun. 2024. Acesso em 29 out. 2026.
@@ -42,3 +44,4 @@ A **quarta edição** foi de 24 de julho a 1º de agosto de 2026, com filmes de 
 [^acritica2026a]: ["Bonito vira palco do cinema sul-americano a partir desta sexta-feira"](https://acritica.net/entretenimento/bonito-cinesur-2026-comeca-nesta-sexta/), *A Crítica de Campo Grande*, 21 jul. 2026. Acesso em 29 out. 2026.
 [^acritica2026b]: ["Bonito Cinesur abre quarta edição com homenagem a Paulina García e programação até agosto"](https://acritica.net/cultura/bonito-cinesur-2026-homenagem-paulina-garcia/), *A Crítica de Campo Grande*, 25 jul. 2026. Acesso em 29 out. 2026.
 [^acritica2026c]: Rafael Rodrigues, ["Cinema de MS vive fase de expansão com novos editais e mais produções locais"](https://acritica.net/noticias/cinema-de-ms-vive-fase-de-expansao-com-novos-editais-e-mais-producoes-locais/), *A Crítica de Campo Grande*, 20 jun. 2026. Acesso em 29 out. 2026.
+[^cgn2026]: Clayton Neves, ["Conheça os filmes vencedores da 4ª edição do Bonito CineSur"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/conheca-os-filmes-vencedores-da-4a-edicao-do-bonito-cinesur), *Campo Grande News*, 2 ago. 2026. Acesso em 4 nov. 2026.

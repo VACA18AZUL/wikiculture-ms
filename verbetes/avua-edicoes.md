@@ -10,13 +10,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Avuá Edições** é um selo editorial criado para potencializar a produção literária sul-mato-grossense. Foi idealizado pelo artista visual e quadrinista [[fabio-quill|Fábio Quill]] e pela preparadora de texto [[mayara-dempsey|Mayara Dempsey]].[^cgn2023][^ce2023]
+A **Avuá Edições** é um selo editorial voltado à produção literária de Mato Grosso do Sul. Foi idealizado pelo artista visual e quadrinista [[fabio-quill|Fábio Quill]] e pela preparadora de texto [[mayara-dempsey|Mayara Dempsey]].[^cgn2023][^ce2023]
 
 ## Trajetória
 
 O primeiro trabalho do selo foi a história em quadrinhos *A Ausente Ordem das Coisas*, de Fábio Quill, com prefácio de [[henrique-komatsu|Henrique Komatsu]]. O lançamento foi marcado para 10 de maio de 2023, no Sesc Cultura, em Campo Grande. A HQ foi incentivada pelo Fundo de Investimentos Culturais (FIC/MS), e 210 cópias seriam distribuídas a professores e bibliotecas da rede estadual de ensino.[^cgn2023][^ce2023]
 
-Em 2024, a Avuá publicou *Eles Vieram Com o Amanhecer*, de [[tania-souza|Tânia Souza]], conto em forma de carta ambientado na Guerra do Paraguai. O projeto gráfico, de Fabio Quill e Mayara Dempsey, envelheceu cada exemplar à mão. O livro foi lançado em 20 de setembro de 2024, em Campo Grande. A matéria do lançamento informa venda pelo site da editora e retirada gratuita na sede, com agendamento, para leitores de Campo Grande.[^cgn2024]
+Em 2024, a Avuá publicou *Eles Vieram Com o Amanhecer*, de [[tania-souza|Tânia Souza]], conto em forma de carta ambientado na Guerra do Paraguai. O projeto gráfico é de Fabio Quill e Mayara Dempsey, e cada exemplar foi envelhecido à mão. O lançamento foi marcado para 20 de setembro de 2024, em Campo Grande. A matéria que o anunciou informava venda pelo site da editora e retirada gratuita na sede, com agendamento, para leitores de Campo Grande.[^cgn2024]
 
 ## Publicações
 

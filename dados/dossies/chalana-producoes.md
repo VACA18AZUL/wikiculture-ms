@@ -16,3 +16,8 @@
 ## Não confirmado
 
 - Sede, data de fundação e sócios: não informados. Relação societária com Dannon Lacerda: não afirmada pelas fontes.
+
+## Validação de 2026-11-04 (valn-3)
+
+- Fonte nova, aberta nesta sessão: Thailla Torres, "Com jurado famoso, Festival Curta Campo Grande revela vencedores", Campo Grande News, 5 nov. 2024, https://www.campograndenews.com.br/lado-b/diversao/com-jurado-famoso-festival-curta-campo-grande-revela-vencedores. Confirma que a 1ª edição aconteceu de 28 out. a 2 nov. 2024 e teve premiação. Entrou como [^cgnven].
+- Divergência de local registrada no verbete: Correio do Estado (10 out. 2024) anuncia E.E. Maria Constança Barros Machado e C.C. José Octávio Guizzo; Campo Grande News (2 out. 2024) cita C.C. José Octávio Guizzo e Casa de Ensaio.

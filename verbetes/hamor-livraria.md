@@ -5,7 +5,7 @@ areas: [literatura]
 cidade: Campo Grande
 resumo: Livraria independente de Campo Grande, criada como livraria itinerante por Bianca Resende e Felipe Mafra, com selo editorial próprio e eventos de troca de livros.
 ficha:
-  Gestão: Bianca Resende e Felipe Mafra
+  Idealização: Bianca Resende e Felipe Mafra
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -16,11 +16,11 @@ A **Hámor Livraria** é uma livraria independente de Campo Grande. Foi idealiza
 
 Em 2023, a Hámor participava de feiras como a do Bosque da Paz e a da Praça Bolívia e já tinha selo editorial próprio. O catálogo priorizava editoras independentes ou alternativas, como Fósforo, Elefante, Bazar do Tempo, Sobinfluencia e Ubu.[^cgn2023b]
 
-No mesmo ano, a livraria promovia troca-troca de livros na Bem Te Vi Café, no Centro. A edição de 8 de julho de 2023 teve discotecagem de vinil do projeto Rosa Carvão.[^cgn2023a]
+No mesmo ano, a livraria promovia troca-troca de livros na Bem Te Vi Café, no Centro. A edição de 8 de julho de 2023 foi anunciada com discotecagem de vinil do projeto Rosa Carvão.[^cgn2023a]
 
 Em novembro de 2024, o *Campo Grande News* indicou livros de autores de Mato Grosso do Sul, entre eles [[henrique-komatsu|Henrique Komatsu]] e [[fabio-quill|Fábio Quill]], todos à venda na Hámor. Segundo a matéria, parte deles saiu pela editora da livraria.[^cgn2024]
 
-Em maio de 2026, a livraria, então no bairro Monte Castelo, lançou a Feirinha Cambiar, evento de troca de livros entre leitores.[^cgn2026]
+Em maio de 2026, a livraria anunciou a Feirinha Cambiar, evento de troca de livros entre leitores, marcado para 9 de maio no bairro Monte Castelo.[^cgn2026]
 
 [^cgn2023a]: Jéssica Fernandes, ["Livraria promove troca-troca de livros e discotecagem no Centro"](https://www.campograndenews.com.br/lado-b/diversao/livraria-promove-troca-troca-de-livros-e-discotecagem-no-centro), *Campo Grande News*, 5 jul. 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Jéssica Fernandes, ["Saraiva fechou, mas na cidade não faltam livrarias para conhecer"](https://www.campograndenews.com.br/lado-b/consumo/saraiva-fechou-mas-na-cidade-nao-faltam-livrarias-para-conhecer), *Campo Grande News*, 27 set. 2023. Acesso em 4 nov. 2026.

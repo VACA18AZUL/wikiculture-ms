@@ -21,3 +21,7 @@
 ## Uso no verbete
 
 - Idade, nome dos pais e história de casamento do irmão ficaram fora (vida familiar).
+
+## Validação de 2026-11-04 (valn-3)
+
+- As duas fontes não se citam: o Correio do Estado (2019) fala do Top Circo, dos irmãos Hugo e Wagner Perez; o Campo Grande News (2024) fala do Circo do Bolachinha, "comandado pela família Perez", com Wagner Perez como produtor. A identidade é deduzida pelo nome e pela família de circo em Campo Grande; o verbete agora diz isso de forma explícita. Conferir com fonte que ligue Top Circo e Circo do Bolachinha.

@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Cia. da Lona** é uma companhia e escola de circo de Corumbá. A trupe descende da escola de circo Quiprocó, que funcionava no início dos anos 2000.[^cdoe2011]
+**Cia. da Lona** é uma companhia e escola de circo de Corumbá. A trupe descende da escola de circo Quiprocó. Segundo a matéria, os dois primeiros artistas do grupo vieram da escola no início dos anos 2000.[^cdoe2011]
 
 ## Trajetória
 

@@ -20,11 +20,11 @@ Segundo Alan Silus, Higa é bacharel em Piano pelo Conservatório Brasileiro de 
 
 Silus registra que Higa aparece entre os nomes da música clássica no panorama da música de Campo Grande escrito por [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] para o livro *Campo Grande: 100 anos de construção* (1999). Higa também foi entrevistado na parte dedicada à música erudita do livro [[a-musica-de-mato-grosso-do-sul-historias-de-vida|*A Música de Mato Grosso do Sul: histórias de vida*]] (2009), de Maria da Glória Sá Rosa e Idara Duncan, ao lado de [[vitor-diniz|Vitor Diniz]] e [[manoel-rasslan|Manoel Rasslan]].[^silus]
 
-A tese de doutorado, defendida em 2013 no Instituto de Artes da Unesp, em São Paulo, teve orientação de Alberto Tsuyoshi Ikeda. O trabalho analisa gravações em discos de 78 rpm das décadas de 1940 e 1950 e sustenta que a chegada da guarânia paraguaia ao Brasil, na primeira metade do século XX, deu origem ao rasqueado e à moda campera.[^unesp]
+A tese de doutorado, defendida em 2013 no Instituto de Artes da Unesp, em São Paulo, teve orientação de Alberto Tsuyoshi Ikeda. O trabalho analisa gravações em discos de 78 rpm das décadas de 1940 e 1950 e sustenta que a introdução, a apropriação e a hibridação da guarânia paraguaia no Brasil, na primeira metade do século XX, possibilitaram o surgimento do rasqueado e da moda campera.[^unesp]
 
 Em julho de 2022, como professor da Escola de Música da UFMS, foi anunciado como solista ao piano de *Rhapsody in Blue*, de George Gershwin, no concerto da Banda Sinfônica e da Orquestra Comunitária da UFMS no [[teatro-glauce-rocha|Teatro Glauce Rocha]], parte do projeto de extensão Movimento Concerto.[^cgn2022]
 
-Em 2023, foi um dos entrevistados do documentário *Memória e Identidade*, do [[projeto-kzulo|Projeto Kzulo]].[^cgn2023]
+Em agosto de 2023, o anúncio do documentário *Memória e Identidade*, do [[projeto-kzulo|Projeto Kzulo]], citou Higa entre as figuras cujas perspectivas aparecem no filme.[^cgn2023]
 
 ## Publicações
 

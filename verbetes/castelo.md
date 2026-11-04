@@ -7,18 +7,18 @@ resumo: Cantor e compositor de chamamé nascido em Três Lagoas (1951-2023), int
 ficha:
   Nome civil: Antônio Rodrigues de Queiroz
   Nascimento: 12 de maio de 1951, Três Lagoas
-  Morte: julho de 2023
+  Morte: 9 de julho de 2023
   Atividade: Cantor e compositor
   Grupos: Trio Serenata; Os Filhos do Pantanal; Castelo e Mansão
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Castelo**, nome artístico de Antônio Rodrigues de Queiroz (Três Lagoas, 12 de maio de 1951 – 2023), foi um cantor e compositor de chamamé de Mato Grosso do Sul.[^cgn2023] Morreu aos 72 anos; a notícia da morte saiu em 10 de julho de 2023.[^cgn2023]
+**Castelo**, nome artístico de Antônio Rodrigues de Queiroz (Três Lagoas, 12 de maio de 1951 – 2023), foi um cantor e compositor de chamamé de Mato Grosso do Sul.[^cgn2023] Morreu em 9 de julho de 2023, aos 72 anos.[^cgn2023][^mf2019]
 
 ## Trajetória
 
-Começou na música observando o irmão tocar e o pai dançar catira. Em 1964, formou dupla com [[durvalino-de-souza|Durvalino de Souza]]. Depois, a convite do irmão Alex, formou com [[cidinho-castelo|Cidinho Castelo]] o [[trio-serenata|Trio Serenata]], que fez a primeira gravação dele em disco de vinil.[^cgn2023] Nas listas do acervo da Memória Fonográfica de MS, o trio aparece como "Alex, Queiróz e Cidinho Castelo".[^mf1984] Sobre a dupla dos irmãos, ver [[alex-e-queiroz|Alex e Queiroz]].
+Começou na música observando o irmão tocar e o pai dançar catira. Em 1964, formou dupla com [[durvalino-de-souza|Durvalino de Souza]]. Depois, a convite do irmão Alex, formou com [[cidinho-castelo|Cidinho Castelo]] o [[trio-serenata|Trio Serenata]], que fez a primeira gravação dele em disco de vinil.[^cgn2023] Nas listas do acervo da Memória Fonográfica de MS, o trio aparece como "Alex, Queiróz e Cidinho Castelo".[^mf1984]
 
 Na década de 1980, fundou o grupo [[os-filhos-do-pantanal|Os Filhos do Pantanal]] e formou a dupla [[castelo-e-mansao|Castelo e Mansão]], conhecida pela composição "Garça Branca". Participou do programa *Viola, Minha Viola*, da TV Cultura de São Paulo, apresentado por Moraes Sarmento e Inezita Barroso. Apresentou-se no Japão, onde morou um período, e na Argentina, no Paraguai e na Bolívia.[^cgn2023]
 

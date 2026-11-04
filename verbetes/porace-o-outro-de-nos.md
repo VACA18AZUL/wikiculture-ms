@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 A palavra *poracê*, do nheengatu, designa uma dança indígena de celebração, um baile ou arrasta-pé. O espetáculo trata da força do conjunto, da vida em comunidade e dos laços com o território, com questões de diversidade, pertencimento e fronteiras. Os intérpretes-criadores investigam suas identidades, nomes, origens e relações com Mato Grosso do Sul.[^cgn2023]
 
-A direção e a coreografia são de [[marcos-mattos|Marcos Mattos]], [[renata-leoni|Renata Leoni]] e Franciella Cavalheri. Na temporada de 2023, os intérpretes foram Adailson Dagher, Ariane Nogueira, Livia Lopes, Maura Menezes, Rose Mendonça e Wagner Gomes.[^cgn2023]
+A direção e a coreografia são de [[marcos-mattos|Marcos Mattos]], [[renata-leoni|Renata Leoni]] e [[franciella-cavalheri|Franciella Cavalheri]]. Na temporada de 2023, os intérpretes foram Adailson Dagher, Ariane Nogueira, Livia Lopes, Maura Menezes, Rose Mendonça e Wagner Gomes.[^cgn2023]
 
 ## Apresentações
 

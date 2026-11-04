@@ -16,6 +16,8 @@ O **Circo Irmãos Perez** é um circo familiar de Campo Grande, descrito em repo
 
 Segundo a matéria, o grupo é de Campo Grande e conduzido por dois irmãos e suas esposas, com o pai, o palhaço Caroço, na administração. O irmão mais velho atua como palhaço Pitchula e globista.[^cgn]
 
+O pai é identificado na matéria como [[paulo-vitor-palhaco-caroco|Paulo Vitor]], o palhaço Caroço, que tinha 60 anos em 2011.[^cgn]
+
 A rotina descrita era permanecer um mês em cada bairro da cidade. O espetáculo durava duas horas, com cerca de 240 cadeiras e ingresso a R$ 5,00. Os números incluíam palhaços, magia, dança, acrobacia em tecidos e Globo da Morte.[^cgn]
 
 Na época, o circo viajava apenas por bairros de Campo Grande, por considerar as viagens longas muito caras.[^cgn]

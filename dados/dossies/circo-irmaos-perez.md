@@ -17,3 +17,7 @@ Nada mudou no texto. Continua com fonte única (Kempfer e Oliveira, *Campo Grand
 - Nova busca aberta ("Pitchula", Perez, Caroço, circo de bairros): voltam a matéria de 2011 e a de 2024 sobre o Circo do Bolachinha (já descartada). Sem segunda fonte para o Circo Irmãos Perez. Segue "reforcar".
 - Retirada do verbete a frase "A reportagem não informa o ano de fundação nem se há relação com outros circos... É a única fonte consultada" (fica aqui: a matéria de 2011 não dá ano de fundação nem liga o circo ao Circo do Bolachinha; a ligação com o Top Circo e o Bolachinha segue não confirmada).
 - Pista: a matéria de 2024 (CGN) cita a família Perez e Wagner Perez; seria preciso uma fonte que ligue Hugo "Pitchula" ao Irmãos Perez. Buscar Correio do Estado, Midiamax, Mapas da Cultura (Colegiado de Circo).
+
+## Atualização de 2026-11-04
+
+CGN 9 set. 2011 reaberta: o pai é nomeado Paulo Vitor (palhaço Caroço), 60 anos em 2011, "só administra o negócio". Nome e idade acrescentados ao verbete; vida familiar fica fora.
