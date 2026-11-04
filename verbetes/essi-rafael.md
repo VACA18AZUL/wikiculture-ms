@@ -9,14 +9,14 @@ ficha:
   Atividade: Direção de cinema
   Produtora: Casa de Cinema de Aquidauana
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Essi Rafael** é um cineasta natural de Aquidauana, diretor do documentário *As Quatro Estações da Juventude*.[^cgn2024]
 
 ## Trajetória
 
-Essi Rafael produz audiovisual por meio da Casa de Cinema de Aquidauana, empresa que realizou vídeos e curtas-metragens em Aquidauana e em Campo Grande. Os curtas mais conhecidos da produtora, exibidos em festivais nacionais e internacionais, são *Um conto de solidão* (2008), *Ela veio me ver* (2011) e *A TV está ligada* (2014).[^cgn2024] Em 2025, ele lembrou que, cerca de quinze anos antes, quando morava em Campo Grande, fazia curtas na mesma época que outros realizadores do estado.[^ce2025]
+Essi Rafael produz audiovisual por meio da Casa de Cinema de Aquidauana, empresa que realizou vídeos e curtas-metragens em Aquidauana e em Campo Grande. Os curtas mais conhecidos da produtora, exibidos em festivais nacionais e internacionais, são *Um conto de solidão* (2008), *Ela veio me ver* (2011) e *A TV está ligada* (2014).[^cgn2024][^ce2024] Em 2025, ele lembrou que, cerca de quinze anos antes, quando morava em Campo Grande, fazia curtas na mesma época que outros realizadores do estado.[^ce2025]
 
 O primeiro longa-metragem da Casa de Cinema de Aquidauana é *As Quatro Estações da Juventude*.[^cgn2024] O diretor também contribuiu para a produção do filme por meio da empresa.[^ce2024] O longa foi coproduzido por produtoras do interior paulista.[^ce2025]
 

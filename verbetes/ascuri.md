@@ -7,7 +7,7 @@ ficha:
   Fundação: "2012"
   Atividade: Produção audiovisual e oficinas em aldeias
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **ASCURI** (Associação Cultural dos Realizadores Indígenas) é um coletivo de realizadores indígenas de Mato Grosso do Sul, fundado no começo de 2012.[^tese170]
@@ -22,7 +22,7 @@ A relação com o [[fida|Fórum de Discussão sobre Inclusão Digital nas Aldeia
 
 O coletivo passou a organizar o FIDA. A quarta edição, realizada em julho de 2012 na aldeia Panambizinho, em Dourados, foi a primeira autônoma.[^tese173] A ASCURI criou parcerias com instituições como o Programa das Nações Unidas para o Desenvolvimento (PNUD), a UFGD, a UCDB e a Funai.[^tese172]
 
-O coletivo realiza oficinas de audiovisual em aldeias. Em 2013, fez uma oficina de uma semana na Terra Indígena Pirakuá, com apoio de um programa da ONU e do governo brasileiro, que gerou uma série de quatro filmes.[^tese177] Em janeiro de 2013, a convite da associação, um projeto da Universidade Federal Fluminense realizou um seminário e oficinas ligados à UFGD, que resultaram em seis curtas lançados em 25 de maio, no Teatro Municipal de Dourados.[^tese187] Em 2015, houve oficinas na aldeia Pirakuá e na aldeia Babaçu, em Miranda, que produziram dez filmes em quinze dias; em 2016, integrantes foram a La Paz para nova edição do Cine Sin Fronteras.[^tese187]
+O coletivo realiza oficinas de audiovisual em aldeias. Em 2013, fez uma oficina de uma semana na Terra Indígena Pirakuá, com apoio de um programa da ONU e do governo brasileiro, que gerou uma série de quatro filmes.[^tese177] Em janeiro de 2013, a convite da associação, um projeto da Universidade Federal Fluminense realizou um seminário e oficinas ligados à UFGD, que resultaram em seis curtas lançados em 25 de maio, no Teatro Municipal de Dourados.[^tese187] Em 2015, houve oficina na aldeia Pirakuá; outra oficina, na aldeia terena Babaçu, em Miranda, contou com o cineasta Iván Molina, e a tese registra dez filmes produzidos em quinze dias. Em 2016, integrantes foram a La Paz para nova edição do Cine Sin Fronteras.[^tese187]
 
 ## Filmografia
 
@@ -38,16 +38,16 @@ O coletivo realiza oficinas de audiovisual em aldeias. Em 2013, fez uma oficina 
 - [Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf) — tese de doutorado (UFGD, 2023) sobre os filmes da ASCURI.
 - [Corrêa e Banducci, artigo na revista GEMInIS](https://revistageminis.ufscar.br/index.php/geminis/article/download/275/245/984) — análise de *Jepea'yta* e entrevistas com realizadores.
 
-[^tese170]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, p. 170. Acesso em 29 out. 2026.
-[^tese172]: Corrêa, *Achegas*, UFGD, 2023, p. 172-173. Acesso em 29 out. 2026.
-[^tese177]: Corrêa, *Achegas*, UFGD, 2023, p. 177. Acesso em 29 out. 2026.
-[^tese143]: Corrêa, *Achegas*, UFGD, 2023, p. 143. Acesso em 29 out. 2026.
-[^art201]: Miguel Angelo Corrêa e Álvaro Banducci Júnior, ["Convergência midiática e apropriação das novas tecnologias pelos povos indígenas de Mato Grosso do Sul"](https://revistageminis.ufscar.br/index.php/geminis/article/download/275/245/984), *Revista GEMInIS*, ano 7, n. 2, p. 189-214, p. 201. Acesso em 29 out. 2026.
-[^tese173]: Corrêa, *Achegas*, UFGD, 2023, p. 173. Acesso em 29 out. 2026.
-[^tese187]: Corrêa, *Achegas*, UFGD, 2023, p. 186-187. Acesso em 29 out. 2026.
-[^tese167]: Corrêa, *Achegas*, UFGD, 2023, p. 167 (nota 353). Acesso em 29 out. 2026.
-[^art203]: Corrêa e Banducci, *Revista GEMInIS*, ano 7, n. 2, p. 203. Acesso em 29 out. 2026.
-[^tese178]: Corrêa, *Achegas*, UFGD, 2023, p. 178-179. Acesso em 29 out. 2026.
-[^tese213]: Corrêa, *Achegas*, UFGD, 2023, p. 213 (nota 437). Acesso em 29 out. 2026.
-[^tese132]: Corrêa, *Achegas*, UFGD, 2023, p. 132. Acesso em 29 out. 2026.
-[^tese267]: Corrêa, *Achegas*, UFGD, 2023, p. 267 (referências) e p. 225. Acesso em 29 out. 2026.
+[^tese170]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, p. 170. Acesso em 4 nov. 2026.
+[^tese172]: Corrêa, *Achegas*, UFGD, 2023, p. 172-173. Acesso em 4 nov. 2026.
+[^tese177]: Corrêa, *Achegas*, UFGD, 2023, p. 177. Acesso em 4 nov. 2026.
+[^tese143]: Corrêa, *Achegas*, UFGD, 2023, p. 143. Acesso em 4 nov. 2026.
+[^art201]: Miguel Angelo Corrêa e Álvaro Banducci Júnior, ["Convergência midiática e apropriação das novas tecnologias pelos povos indígenas de Mato Grosso do Sul"](https://revistageminis.ufscar.br/index.php/geminis/article/download/275/245/984), *Revista GEMInIS*, ano 7, n. 2, p. 189-214, p. 201. Acesso em 4 nov. 2026.
+[^tese173]: Corrêa, *Achegas*, UFGD, 2023, p. 173. Acesso em 4 nov. 2026.
+[^tese187]: Corrêa, *Achegas*, UFGD, 2023, p. 186-187. Acesso em 4 nov. 2026.
+[^tese167]: Corrêa, *Achegas*, UFGD, 2023, p. 167 (nota 353). Acesso em 4 nov. 2026.
+[^art203]: Corrêa e Banducci, *Revista GEMInIS*, ano 7, n. 2, p. 203. Acesso em 4 nov. 2026.
+[^tese178]: Corrêa, *Achegas*, UFGD, 2023, p. 178-179. Acesso em 4 nov. 2026.
+[^tese213]: Corrêa, *Achegas*, UFGD, 2023, p. 213 (nota 437). Acesso em 4 nov. 2026.
+[^tese132]: Corrêa, *Achegas*, UFGD, 2023, p. 132. Acesso em 4 nov. 2026.
+[^tese267]: Corrêa, *Achegas*, UFGD, 2023, p. 267 (referências) e p. 225. Acesso em 4 nov. 2026.

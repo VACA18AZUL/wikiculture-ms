@@ -2,12 +2,12 @@
 titulo: Amambay e Amambaí
 tipo: grupo
 areas: [musica]
-resumo: Dupla de música de fronteira ativa desde o fim dos anos 1950, que diz ter lançado o chamamé em Campo Grande e foi a primeira a gravar o gênero no Brasil.
+resumo: Dupla de música de fronteira ativa desde o fim dos anos 1950, que diz ter lançado o chamamé em Campo Grande e ter sido a primeira a gravar o gênero no Brasil.
 ficha:
   Fundação: Final da década de 1950
   Integrantes: Amambay (Ermídio Umar) e Amambaí
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Amambay e Amambaí** é uma dupla sul-mato-grossense de música de fronteira, uma das mais antigas em atividade no estado, que começou no final da década de 1950.[^ufms]
@@ -23,7 +23,7 @@ A dupla é reconhecida como intérprete do "chamamé sul-mato-grossense".[^ufms]
 
 ## Observações das fontes
 
-O estudo reproduz a declaração de Amambay sobre ter lançado o gênero em Campo Grande e ressalva que a dupla Jandira e Benites já existia, mas gravava mais música paraguaia.[^ufms] A dissertação de Caetano inclui "Amambai & Amambaí" entre os nomes da música sertaneja de raiz dos anos 1950 a 1970 que, nos anos 1980, foram renegados pela nova geração.[^ufgd]
+Na declaração reproduzida pelo estudo, o próprio Amambay ressalva que a dupla Jandira e Benites já existia, mas gravava mais música paraguaia.[^ufms] A dissertação de Caetano inclui "Amambai & Amambaí" entre os nomes da música sertaneja de raiz dos anos 1950 a 1970 que, nos anos 1980, foram renegados pela nova geração.[^ufgd]
 
-[^ufms]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2014. Acesso em 29 out. 2026.
-[^ufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2012. Acesso em 29 out. 2026.
+[^ufms]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2014, p. 38, citando Rodrigo Teixeira (2009). Acesso em 4 nov. 2026.
+[^ufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2012, p. 33. Acesso em 4 nov. 2026.

@@ -8,14 +8,14 @@ ficha:
   Local: Centro Cultural José Octávio Guizzo, Campo Grande
   Entrada: Gratuita
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Galeria Wega Nery** é um espaço de exposição de artes visuais em Campo Grande, instalado no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^acritica]
 
 ## Histórico
 
-Uma dissertação da UFGD (2020) sobre o curso de Educação Artística da UFMS lista a Galeria Wega Nery entre os espaços culturais de Campo Grande reunidos num quadro dos anos 1980 e do período seguinte. O trabalho não traz data de criação nem descrição da galeria.[^godoi]
+Uma dissertação da UFGD (2020) sobre o curso de Educação Artística da UFMS lista a Galeria Wega Nery num quadro de espaços culturais frequentados em Campo Grande na década de 1980, parte de um levantamento de espaços criados entre 1960 e 2000. O trabalho não traz data de criação nem descrição da galeria.[^godoi]
 
 A mesma dissertação trata da pintora [[wega-nery|Wega Nery]] (1912-2007), homônima da galeria; as fontes lidas não explicam a origem do nome. Ela é descrita como artista que transitou entre desenho e pintura e participou de 12 bienais.[^godoi2]
 

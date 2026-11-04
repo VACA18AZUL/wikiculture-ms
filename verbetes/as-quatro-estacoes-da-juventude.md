@@ -9,7 +9,7 @@ ficha:
   Produção: Casa de Cinema de Aquidauana
   Estreia: Junho de 2024 (Zlin Film Festival, República Tcheca)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 *As Quatro Estações da Juventude* é um documentário em longa-metragem dirigido por [[essi-rafael|Essi Rafael]] e produzido pela [[casa-de-cinema-de-aquidauana|Casa de Cinema de Aquidauana]], de quem é o primeiro longa.[^cgn]
@@ -20,7 +20,7 @@ O filme foi gravado em São Carlos (SP) e acompanha alunos da Universidade Feder
 
 ## Circulação
 
-A turnê internacional começou em 5 de junho de 2024, no Zlin Film Festival (República Tcheca), e passou pelo Philadelphia Latino Arts & Film Festival (EUA), pelo Festival Internacional de Nuevo Cine Independiente (Uruguai) e pelo Vancouver Latin American Film Festival (Canadá), onde concorreu ao prêmio de novos diretores.[^cgn] Em março do ano anterior ao da matéria (2023), o filme recebeu o prêmio WIP Puerto Lab, para filmes em finalização, no Festival Internacional de Cinema de Cartagena (Colômbia).[^cgn]
+A turnê internacional começou em 5 de junho de 2024, no Zlin Film Festival (República Tcheca), e passou pelo Philadelphia Latino Arts & Film Festival (EUA), pelo Festival Internacional de Nuevo Cine Independiente (Uruguai) e pelo Vancouver Latin American Film Festival (Canadá), onde concorreu ao prêmio de novos diretores.[^cgn][^ce2025] Em março do ano anterior ao da matéria (2023), o filme recebeu o prêmio WIP Puerto Lab, para filmes em finalização, no Festival Internacional de Cinema de Cartagena (Colômbia).[^cgn]
 
 A estreia no Brasil foi no [[bonito-cinesur|Bonito CineSur]], entre 19 e 27 de julho de 2024, na disputa por Melhor Filme Sul-Mato-Grossense com outras cinco produções.[^cgn] Segundo o Correio do Estado, o documentário venceu o Júri Popular do festival nessa categoria.[^ce2025]
 

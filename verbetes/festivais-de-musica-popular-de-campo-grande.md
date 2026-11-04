@@ -8,7 +8,7 @@ ficha:
   Primeira edição: "1967"
   Local: Clube Surian; Teatro Glauce Rocha
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 Os **Festivais de Música Popular de Campo Grande** foram uma série de festivais realizada na cidade a partir do fim dos anos 1960, primeiro no Clube Surian e depois no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^gon]
@@ -27,7 +27,7 @@ Em 1973, os festivais estudantis já haviam deixado o Surian e passaram a ter et
 
 ## Divergência sobre o período
 
-As fontes delimitam a série de formas diferentes. Rodrigo Teixeira Gonçalves situa os festivais estudantis em que Paulo Simões e Geraldo Espíndola surgiram entre 1967 e 1974, no Surian e depois no Glauce Rocha.[^gon] Caetano, no mesmo trabalho, data o primeiro festival em 1967,[^cae1] mas também escreve que os festivais "se iniciaram em 1968" e os situa entre 1968 e 1981, até a fase dos festivais televisivos.[^cae5] Outra versão da pesquisa de Caetano, publicada em periódico, não pôde ser consultada.
+As fontes delimitam a série de formas diferentes. Rodrigo Teixeira Gonçalves situa os festivais estudantis em que Paulo Simões e Geraldo Espíndola surgiram entre 1967 e 1974, no Surian e depois no Glauce Rocha.[^gon] Caetano, no mesmo trabalho, data o primeiro festival em 1967,[^cae1] mas também escreve que os festivais "se iniciaram em 1968" e os situa entre 1968 e 1981, até a fase dos festivais televisivos.[^cae5] No artigo publicado no mesmo ano na *Revista NUPEM*, o autor situa os Festivais de Música Popular de Campo Grande entre 1968 e 1972 e anota que festivais competitivos ocorreram na cidade até meados dos anos 1980.[^cae12]
 
 ## Depois dos festivais do Surian
 
@@ -40,3 +40,4 @@ Com a criação do estado, a TV Morena passou a organizar o [[fessul|FESSUL]], F
 [^cae4]: Caetano, 2012, capítulo 1, seção 1.1 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae5]: Caetano, 2012, capítulo 1, seção 1.4 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae6]: Caetano, 2012, capítulo 1, seção 1.2 (mesma dissertação). Acesso em 29 out. 2026.
+[^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99. Acesso em 4 nov. 2026.

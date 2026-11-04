@@ -7,20 +7,22 @@ ficha:
   Atividade: Cerâmica indígena kadiwéu
   Presidente citada: Creuza Vergílio (artigo de 2021)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Associação das Mulheres Artistas Kadiwéu (AMAK)** é uma organização de artesãs do povo kadiwéu, mencionada em um artigo sobre a cerâmica da etnia em Mato Grosso do Sul.[^tellus]
 
 ## Trajetória
 
-Segundo o artigo, a associação tem como preocupação central da direção o aperfeiçoamento dos produtos cerâmicos kadiwéu. Os autores a apontam como responsável por uma tendência de melhoria da cerâmica da etnia.[^tellus]
+Segundo o artigo, a associação tem como preocupação central da direção o aperfeiçoamento dos produtos cerâmicos kadiwéu. Os autores associam à atuação da associação uma tendência de melhoria da cerâmica da etnia, apoiada pelos contatos das artesãs com pesquisadores e artistas plásticos promovidos por um projeto de pesquisa sobre artesanato indígena.[^tellus]
 
 Os kadiwéu vivem em aldeias da reserva situada no município de Porto Murtinho; o artigo cita a aldeia Alves de Barros como um dos principais polos de produção.[^tellus]
 
 A pedido da presidente, Creuza Vergílio, foi realizada uma oficina na aldeia Alves de Barros com a artista plástica Angela Miracema Batista Fernandes. A atividade reuniu mais de quarenta artesãs e levou ao interesse em retomar o uso de contas e missangas nas peças e a pintura em couro.[^tellus]
 
 O artigo relata ainda que, no fim de 2017, Creuza Vergílio produziu peças em que testou a dupla queima e retomou o uso da hematita para obter a cor vermelha.[^tellus]
+
+Em 2021, segundo o site eCycle, a presidente da associação era Creusa Vergílio (grafia do site; o artigo da *Tellus* escreve Creuza). O texto relata que o governo de Mato Grosso do Sul, a Universidade Federal de Mato Grosso do Sul (UFMS) e a Universidade de Manitoba, do Canadá, trabalhavam com a associação em novas formas de venda do trabalho das artesãs, com planos de um centro cultural na aldeia Alves de Barros e de uma loja virtual. O site cita como coordenador do projeto o antropólogo Antônio Hilário Urquiza, professor da UFMS.[^ecycle]
 
 O artigo não informa a data de fundação nem a sede formal da associação.[^tellus]
 
@@ -29,3 +31,4 @@ O artigo não informa a data de fundação nem a sede formal da associação.[^t
 - Gilberto Luiz Alves e Selma Maria Rodrigues, ["Transformações na cerâmica kadiwéu em Mato Grosso do Sul, Brasil"](https://tellus.ucdb.br/tellus/article/download/700/777), *Tellus*, 2021 — artigo que descreve a cerâmica kadiwéu e cita a AMAK.
 
 [^tellus]: Gilberto Luiz Alves e Selma Maria Rodrigues, ["Transformações na cerâmica kadiwéu em Mato Grosso do Sul, Brasil"](https://tellus.ucdb.br/tellus/article/download/700/777), *Tellus* (UCDB), Campo Grande, ano 21, n. 44, jan./abr. 2021, p. 83-112 (AMAK nas p. 106-108). Acesso em 29 out. 2026.
+[^ecycle]: Equipe eCycle, ["A arte como uma estratégia de sobrevivência do Povo Kadiwéu"](https://www.ecycle.com.br/a-arte-como-uma-estrategia-de-sobrevivencia-do-povo-kadiweu/), *eCycle*, 4 jun. 2021. Acesso em 4 nov. 2026.

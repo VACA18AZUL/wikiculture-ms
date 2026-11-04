@@ -9,7 +9,7 @@ ficha:
   Morte: "1995"
   Atividade: Escultura (bugres)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Abílio Antunes** foi um escultor de bugres, as figuras de madeira associadas a [[conceicao-dos-bugres|Conceição dos Bugres]], de quem foi marido.[^amizo]
@@ -30,8 +30,8 @@ Em Assis, o nome de Abílio aparece numa lista de participantes de mostras e sal
 
 - Isabella Banducci Amizo, *Poética dos bugres* (UFMS, 2015) — dissertação com capítulo sobre os continuadores dos bugres.
 
-[^amizo]: Isabella Banducci Amizo, *Poética dos bugres: uma incursão sobre arte, identidade e o outro*, dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2015. [PDF](https://sigpos.ufms.br/portal/trabalho-arquivos/download/2239). Acesso em 29 out. 2026.
-[^amizo13]: Amizo, *Poética dos bugres*, 2015, p. 13. Acesso em 29 out. 2026.
-[^amizo38]: Amizo, *Poética dos bugres*, 2015, p. 38-39, com citação de Rodrigo Teixeira, *Conceição dos Bugres* (2011), e de Maria da Glória Sá Rosa, *Revista ARCA* (1995). Acesso em 29 out. 2026.
-[^amizo39]: Amizo, *Poética dos bugres*, 2015, p. 39, citando entrevista de Mariano a Rodrigo Teixeira (2007). Acesso em 29 out. 2026.
-[^assis]: Renata Rodrigues de Assis, *A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*, dissertação de mestrado, Universidade Federal da Grande Dourados, 2013. [PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf). Acesso em 29 out. 2026.
+[^amizo]: Isabella Banducci Amizo, *Poética dos bugres: uma incursão sobre arte, identidade e o outro*, dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2015. p. 20. [PDF](https://sigpos.ufms.br/portal/trabalho-arquivos/download/2239). Acesso em 4 nov. 2026.
+[^amizo13]: Amizo, *Poética dos bugres*, 2015, p. 12. Acesso em 4 nov. 2026.
+[^amizo38]: Amizo, *Poética dos bugres*, 2015, p. 38-39, com citação de Rodrigo Teixeira, *Conceição dos Bugres* (2011), e de Maria da Glória Sá Rosa, *Revista ARCA* (1995). Acesso em 4 nov. 2026.
+[^amizo39]: Amizo, *Poética dos bugres*, 2015, p. 38, citando entrevista de Mariano a Rodrigo Teixeira (2007). Acesso em 4 nov. 2026.
+[^assis]: Renata Rodrigues de Assis, *A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*, dissertação de mestrado, Universidade Federal da Grande Dourados, 2013. [PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), p. 41. Acesso em 4 nov. 2026.

@@ -8,7 +8,7 @@ ficha:
   Atividade: Cinema amador (direção, produção, fotografia e montagem)
   Produtoras: Aljor Filmes, Colorcouto e Vídeo Eventos
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Alexandre Couto** é um cineasta amador de Campo Grande, autor, com [[reinaldo-dorval|Reinaldo Dorval]], dos chamados filmes sertanejos sul-mato-grossenses.[^diehl]
@@ -17,9 +17,11 @@ atualizado: 2026-10-29
 
 A dissertação de Carlos Rodrigo Diehl identifica Couto e José Reinaldo Dorval como os cineastas que se alternam na direção e na produção de todos os filmes do grupo. Outros amigos participavam como técnicos e atores.[^diehl] Os filmes, feitos entre 1978 e 1985, usam recursos do faroeste para tratar de temas locais, como grilagem de terra, garimpo e vingança.[^diehl]
 
-Em entrevista de 2002 citada por Diehl, Couto contou que começou a fazer filmes porque, em meados de 1968, em Três Lagoas, ele e outras pessoas pintavam cartazes de faroestes. Chamava o resultado de "filme sertanejo".[^diehl]
+Em entrevista de 2002 citada por Diehl, Couto contou que começou a fazer filmes porque, em meados de 1968, em Três Lagoas, ele e outras pessoas faziam cartazes de faroestes. Chamava o resultado de "filme sertanejo".[^diehl]
 
 Diehl situa o grupo no ambiente de cinemas cheios e de suportes de filmagem mais baratos da década de 1970, quando também crescia o cineclubismo na capital.[^diehl]
+
+Em julho de 2013, o *Campo Grande News* registrou que Couto dirigia o longa *Honra*, drama familiar baseado em fatos reais, com roteiro e atuação de Reinaldo Dorval e produção executiva de Marcelo Dorval. Segundo a matéria, Couto também cuidava da edição e do som, tinha mais de três décadas de experiência em cinema, e a equipe se dedicava ao filme desde 2009. Os produtores apresentavam *Honra* como o primeiro longa em HD produzido, filmado e editado em Campo Grande e criaram uma petição para exibi-lo em salas comerciais da cidade.[^cgn-honra]
 
 ## Filmografia
 
@@ -32,4 +34,9 @@ Os seis títulos estudados por Diehl, com as funções de Couto segundo a ficha 
 - *Imprevisto ao acaso* (sem data) — 7 minutos; produção e montagem. Produtora Aljor Filmes.[^diehl]
 - *Liberdade para os inocentes* (sem data) — 93 minutos; câmera e edição. Produtora Vídeo Eventos.[^diehl]
 
+Depois do ciclo estudado por Diehl, segundo o *Campo Grande News*:[^cgn-honra]
+
+- *Honra* (em produção em 2013) — longa; direção, edição e som. Roteiro de Reinaldo Dorval.[^cgn-honra]
+
 [^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009. Acesso em 29 out. 2026.
+[^cgn-honra]: Paula Maciulevicius, ["Por uma questão de 'Honra', produtores criam petição para ver filme na telona"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/por-uma-questao-de-honra-produtores-criam-peticao-para-ver-filme-na-telona), *Campo Grande News*, 10 jul. 2013. Acesso em 4 nov. 2026.

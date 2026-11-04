@@ -6,10 +6,10 @@ resumo: Artista plástica selecionada para a exposição "Mato Grosso do Sul Vis
 ficha:
   Atividade: Artes plásticas
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Claudia Castelão** é uma artista plástica selecionada em 2014 para representar Mato Grosso do Sul em uma exposição em Nova Iorque.[^cgn]
+**Claudia Castelão** (grafada também Cláudia Castelão) é uma artista plástica selecionada em 2014 para representar Mato Grosso do Sul em uma exposição em Nova Iorque.[^cgn]
 
 ## Exposição na ONU
 

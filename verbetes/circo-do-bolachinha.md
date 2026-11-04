@@ -8,14 +8,14 @@ ficha:
   Sede: Campo Grande
   Produção: Wagner Perez
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Circo do Bolachinha** é um circo tradicional de Campo Grande, comandado pela família Perez e descrito pelo *Campo Grande News* em 2024 como um dos últimos representantes dos circos tradicionais de Mato Grosso do Sul.[^cgn2024]
 
 ## Trajetória
 
-Em março de 2022, a programação da 1ª Semana do Teatro e Circo, em Campo Grande, listou o "New York Cirkus", que traz "as atrações do mundo do circo tradicional a céu aberto com Bolachinha e sua trupe", além de um boneco do Incrível Hulk com mais de dois metros de altura. A apresentação estava marcada para a quarta-feira, 23 de março, às 10h, no distrito de Rochedinho, a 29 km da capital.[^cgn2022] Ver [[semana-do-teatro-e-circo-2022|Semana do Teatro e Circo 2022]].
+Em março de 2022, a programação da 1ª [[semana-do-teatro-e-circo-2022|Semana do Teatro e Circo]], em Campo Grande, incluiu o "New York Cirkus", atração de circo tradicional ao ar livre com Bolachinha e sua trupe e um boneco do Incrível Hulk com mais de dois metros. A apresentação foi marcada para a quarta-feira, 23 de março, às 10h, no distrito de Rochedinho, a 29 km da capital.[^cgn2022]
 
 Em outubro de 2024, o circo tinha temporada gratuita anunciada na rua Crispim Moura, na entrada das Moreninhas, em Campo Grande. Estavam previstos espetáculos diários de 1º a 5 de outubro, às 20h, com uma hora e meia de duração, voltados sobretudo ao público infantil.[^cgn2024]
 

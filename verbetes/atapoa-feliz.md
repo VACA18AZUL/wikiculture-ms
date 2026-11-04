@@ -9,7 +9,7 @@ ficha:
   Morte: 6 de outubro de 2021, Campo Grande
   Atividade: Composição, trompete e teclados; magistratura
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Atapoã Feliz** foi compositor e instrumentista (trompete, teclados e clavieta) e desembargador do Tribunal de Justiça de Mato Grosso do Sul.[^instr]

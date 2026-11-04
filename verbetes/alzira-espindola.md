@@ -7,7 +7,7 @@ ficha:
   Atividade: Composição e canto
   Grupos: Tetê e o Lírio Selvagem
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Alzira Espíndola** é uma compositora e cantora sul-mato-grossense, irmã de [[tete-espindola|Tetê]], [[geraldo-espindola|Geraldo]], [[celito-espindola|Celito]] e [[jerry-espindola|Jerry]] Espíndola.[^caeufgd][^gon14]
@@ -18,7 +18,7 @@ Antes do primeiro disco do grupo, morava em Campinas, e as canções de Geraldo 
 
 É autora, com Carlos Rennó, de "Na Catarata", faixa do disco do grupo. Muitos músicos do estado a consideram a primeira polca-rock gravada.[^caeufgd] O riff de abertura não estava no arranjo original: foi criado pela banda de apoio na gravação, segundo Rodrigo Teixeira, citado por Caetano.[^caeufgd][^cae12] Gonçalves também cita a canção como exemplo de aproximação entre a polca paraguaia e o rock em meados dos anos 1970.[^gon14]
 
-Em dezembro de 1987, participou do Pantanal Alerta Brasil, em São Paulo.[^cae12] Com Tetê, gravou o disco *Anhaí* (1998), em que as duas cantam rasqueados, guarânias e polcas.[^gon14]
+Em dezembro de 1987, participou do Pantanal Alerta Brasil, em São Paulo.[^cae12] Com Tetê, gravou um disco de 1998 em que as duas cantam rasqueados, guarânias e polcas.[^gon14] Gonçalves grafa o título como *Anahí*;[^gon14] a lista de discografia de Caetano o registra como *Anhaí*.[^caeufgd]
 
 ## Discografia
 
@@ -26,7 +26,7 @@ Os títulos constam da lista de discografia da dissertação de Caetano, sem out
 
 - *Alzira Espíndola* (1987) — álbum; 3M.[^caeufgd]
 - *AMME* — álbum; Baratos Afins; a fonte não informa o ano.[^caeufgd]
-- *Anhaí* (1998) — álbum com Tetê Espíndola; Dabliú.[^caeufgd]
+- *Anhaí* (1998) — álbum com Tetê Espíndola; Dabliú.[^caeufgd] Gonçalves grafa *Anahí*.[^gon14]
 
 ## Pontos em aberto
 

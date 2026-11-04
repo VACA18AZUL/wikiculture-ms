@@ -10,14 +10,14 @@ ficha:
   Formato: "Livro de crônicas (uma das fontes o chama de livro de contos)"
   Edições: "1971; 1989 (Tribunal de Justiça de MS); 2007 (Academia Sul-Mato-Grossense de Letras)"
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-***Camalotes e guavirais*** é um livro de [[ulisses-serra|Ulisses Serra]], lançado em 13 de outubro de 1971 em Campo Grande, sobre a infância do autor em Corumbá e sobre o início e os personagens da cidade.[^raido]
+***Camalotes e guavirais*** é um livro de [[ulisses-serra|Ulisses Serra]], lançado em 13 de outubro de 1971 em Campo Grande, com lembranças da infância do autor em Corumbá e crônicas sobre o início e os personagens da cidade.[^raido][^amarilha]
 
 ## Conteúdo
 
-O estudo de Bungart Neto classifica o livro como coletânea de crônicas de tom saudosista, que podem ser lidas como textos memorialísticos. Serra tratava do surgimento e do povoamento de Campo Grande, com atenção a episódios e personagens da cidade.[^raido] O título junta o camalote, planta aquática que forma ilhas flutuantes, e a guavira, fruta silvestre comum em Mato Grosso do Sul.[^raido]
+O estudo de Bungart Neto classifica o livro como coletânea de crônicas de tom saudosista, que podem ser lidas como textos memorialísticos. Serra tratava do surgimento e do povoamento de Campo Grande, com atenção a episódios e personagens da cidade.[^raido] O título junta o camalote, planta aquática que forma ilhas flutuantes, e a guavira, fruta amarelada e ácida comum em Mato Grosso do Sul.[^raido]
 
 A primeira crônica, "Motivos de um título", trata de Corumbá e do rio Paraguai. A segunda, "Quem ergueu o primeiro rancho?", conta a fundação de Campo Grande e a disputa pela posse da terra entre os ranchos do Prosa e do Segredo.[^raido]
 
@@ -27,7 +27,7 @@ A segunda edição, de 1989, foi publicada pelo Tribunal de Justiça de Mato Gro
 
 ## Lançamento e criação da academia
 
-Segundo Pontes, citado por Amarilha, o lançamento ocorreu às 20 horas, no Hotel Campo Grande, em noite de autógrafos que reuniu a cidade, e dele surgiram reuniões literárias semanais em casa de Serra.[^amarilha] Dessas reuniões nasceu a Academia de Letras e História de Campo Grande, depois Academia Sul-Mato-Grossense de Letras. A ata de fundação foi registrada em 6 de novembro de 1971.[^amarilha] A instalação solene ocorreu em 13 de outubro de 1972, um ano depois do lançamento do livro.[^raido][^amarilha] Serra morreu em junho de 1972, antes da instalação.[^raido]
+Segundo Pontes, citado por Amarilha, o lançamento ocorreu às 20 horas, no Hotel Campo Grande, em noite de autógrafos muito concorrida, e dele surgiram reuniões literárias semanais em casa de Serra.[^amarilha] Dessas reuniões nasceu a Academia de Letras e História de Campo Grande, depois Academia Sul-Mato-Grossense de Letras. A ata de fundação foi registrada em 6 de novembro de 1971.[^amarilha] A instalação solene ocorreu em 13 de outubro de 1972, um ano depois do lançamento do livro.[^raido][^amarilha] Serra morreu em junho de 1972, antes da instalação.[^raido]
 
 ## Divergência sobre o gênero
 

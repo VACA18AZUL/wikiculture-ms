@@ -2,14 +2,14 @@
 titulo: Mato Grosso do Sul Visto Pelo Mundo (2014)
 tipo: evento
 areas: [artes-plasticas]
-resumo: Exposição de 12 projetos culturais de Mato Grosso do Sul em Nova Iorque, em março de 2014, selecionados entre 35 por organização ligada à ONU.
+resumo: Exposição de 12 projetos culturais de Mato Grosso do Sul em Nova Iorque, em março de 2014, escolhidos pela ONU entre 35 selecionados no estado, segundo a imprensa.
 ficha:
   Primeira edição: "2014"
   Período: 12 a 27 de março de 2014
   Local: Nova Iorque (EUA)
-  Realização: Organização ligada à ONU, segundo a imprensa
+  Realização: ONU, segundo a imprensa
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Mato Grosso do Sul Visto Pelo Mundo** foi uma exposição de projetos culturais sul-mato-grossenses realizada em Nova Iorque, nos Estados Unidos, entre 12 e 27 de março de 2014.[^cgn]
