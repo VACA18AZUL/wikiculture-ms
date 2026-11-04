@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Nasceu em Campo Grande e foi estudar cinema em Curitiba.[^cgn2015] É graduada em cinema e fazia mestrado na área em 2025.[^es2025]
 
-Em 2015 dirigiu o curta *[[a-outra-margem|A Outra Margem]]*, filmado em Campo Grande, com Pepa Quadrini e [[natalia-mazarim|Natália Mazarim]] no elenco. O filme estreou no Festival de Tiradentes. No Festival de Brasília do Cinema Brasileiro recebeu o prêmio Abraccine de melhor direção de curta ou média-metragem, e no Festival de Cinema de Vitória ganhou melhor direção e melhor ator.[^cgn2015]
+Em 2015 dirigiu o curta *[[a-outra-margem|A Outra Margem]]*, filmado em Campo Grande, com Pepa Quadrini e [[natalia-mazarim|Natália Mazarim]] no elenco. O filme estreou no Festival de Tiradentes. Segundo o *Campo Grande News*, ganhou o prêmio da crítica (Abraccine) de direção de curta ou média-metragem no Festival de Brasília do Cinema Brasileiro; em Vitória, levou os prêmios de direção e de ator.[^cgn2015][^es2025]
 
 ## Filmografia
 

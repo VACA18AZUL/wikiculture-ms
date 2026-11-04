@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou em 1969 no jornal Diário da Serra, onde entrou para os serviços gerais e aprendeu fotografia com o fotógrafo [[danton-garro|Danton Garro]]. Em 1973 foi contratado pela Editora Abril, em São Paulo. Dois anos depois voltou a Campo Grande, trabalhou no Jornal da Manhã e mais tarde abriu uma agência de fotojornalismo.[^ce2026]
+Começou em 1969 no jornal Diário da Serra, onde entrou para os serviços gerais e aprendeu fotografia com o fotógrafo [[danton-garro|Danton Garro]]. Em 1973 passou a trabalhar para a Editora Abril, em São Paulo. Dois anos depois estava de volta a Campo Grande, onde atuou no Jornal da Manhã e mais tarde abriu uma agência de fotojornalismo.[^ce2026]
 
 Fotografou a criação de Mato Grosso do Sul, visitas presidenciais e acontecimentos políticos. Suas fotos de lideranças indígenas, em especial do líder guarani Marçal de Souza, circularam fora do Brasil e fizeram parte de exposições sobre a luta dos povos indígenas.[^ce2026]
 
@@ -32,11 +32,11 @@ Foi anunciado entre os cinco homenageados do [[campao-cultural-2022|Campão Cult
 
 Em 4 de agosto de 2026 recebeu da Câmara Municipal de Campo Grande a Medalha Destaques da Década Juvêncio César da Fonseca, proposta pela vereadora Luiza Ribeiro.[^acritica-medalha] Em 25 de agosto de 2026 foi o homenageado especial da sessão solene dos 127 anos da cidade, no Centro de Convenções Rubens Gil de Camilo, onde parte de suas fotos ficou exposta.[^acritica-sessao]
 
-Antes disso, recebeu homenagens da Assembleia Legislativa de Mato Grosso do Sul e do governo do estado.[^ce2026]
+Antes disso, já tinha sido homenageado pela Assembleia Legislativa de Mato Grosso do Sul e pelo governo estadual.[^ce2026]
 
 ## Videografia
 
-- *[[higa-ke-olho-por-olho|Higa Ke – Olho por Olho]]* — documentário sobre o fotógrafo, dirigido por [[conrado-roel|Conrado Roel]] e [[debora-bah|Débora Bah]], com imagens do seu acervo; prêmio do júri popular de melhor filme sul-mato-grossense no [[bonito-cinesur|Bonito CineSur]] de 2026.[^acritica-doc]
+- *[[higa-ke-olho-por-olho|Higa Ke – Olho por Olho]]* — documentário sobre o fotógrafo, dirigido por [[conrado-roel|Conrado Roel]] e [[debora-bah|Débora Bah]], com imagens do seu acervo; prêmio do júri popular de melhor filme sul-mato-grossense no [[bonito-cinesur|Festival de Cinema de Bonito]] de 2026.[^acritica-doc]
 
 [^ce2026]: Mariana Piell, ["Pioneiro no fotojornalismo, Roberto Higa viu Mato Grosso do Sul nascer"](https://correiodoestado.com.br/correio-b/pioneiro-no-fotojornalismo-roberto-higa-viu-mato-grosso-do-sul-nascer/468843/), *Correio do Estado*, 30 jun. 2026. Acesso em 4 nov. 2026.
 [^acritica-medalha]: Redação, ["Roberto Higa será homenageado nos 127 anos de Campo Grande"](https://acritica.net/cultura/roberto-higa-sera-homenageado-nos-127-anos-de-campo-grande/), *A Crítica*, 4 ago. 2026. Acesso em 4 nov. 2026.
