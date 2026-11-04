@@ -17,7 +17,7 @@ links:
     url: https://pt.wikipedia.org/wiki/L%C3%ADdia_Ba%C3%ADs
     acesso: 2026-10-12
 status: rascunho
-atualizado: 2026-10-27
+atualizado: 2026-11-04
 ---
 
 **Lídia Baís** (Campo Grande, 1900 ou 1901 – 1985) foi uma pintora e desenhista sul-mato-grossense, apontada pela imprensa local como uma das artistas mais importantes de Mato Grosso do Sul.[^cgn2025][^overmundo2006][^itau]
@@ -36,7 +36,7 @@ Em 2008 e 2010, reportagens descrevem um museu com o seu nome, instalado na Mora
 
 ## Acervo e exposições
 
-O acervo da artista foi doado à [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] por sua sobrinha, Nelly Martins.[^cgn2025][^dourados2008] Em 2008, o acervo somava 65 telas, 45 desenhos e esboços, 28 fotografias, discos com composições musicais e manuscritos.[^dourados2008] Parte das obras integra o acervo do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]].[^cgn2025][^cgn2010] Em 2008, nove obras estavam no MARCO, e doze obras tinham sido reproduzidas em cartões-postais.[^dourados2008]
+O acervo da artista foi doado à [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] por sua sobrinha, Nelly Martins.[^cgn2025][^dourados2008] Em 2008, o acervo somava 65 telas, 45 desenhos e esboços, 28 fotografias, discos com composições musicais e manuscritos.[^dourados2008] Parte das obras integra o acervo do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]].[^cgn2025][^cgn2010] Segundo a mesma reportagem, o MARCO guardava o acervo desde 1991. Em 2008, o Iphan reproduziu doze obras em cartões-postais: nove expostas no MARCO e três no Museu Lídia Baís.[^dourados2008]
 
 Em maio de 2025, os 125 anos de seu nascimento foram lembrados na exposição "As várias faces de Lídia Baís", montada no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]] com obras do acervo do MARCO, dentro da programação da Semana Nacional de Museus.[^cgn2025]
 
