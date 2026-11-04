@@ -9,7 +9,7 @@ ficha:
   Residência: Campo Grande
   Atividade: Pintura e fotografia
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Wendel Fontes** é artista visual, natural do Rio de Janeiro e radicado em Campo Grande.[^critica-jul]
@@ -18,7 +18,7 @@ atualizado: 2026-10-29
 
 Segundo A Crítica, já expôs no [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul]], na Galeria de Artes Visuais da UFMS e no Centro Cultural Teatro do Mundo, e participou do Campão Cultural e do Festival de Inverno de Bonito. Parte de sua produção integra acervos públicos do estado.[^critica-jul]
 
-Em 2022, o MARCO incluiu o artista na 4ª Temporada de Exposições, aberta até 12 de fevereiro. Sua mostra reunia fotografias e pinturas sobre a vivência de malabaristas de diferentes nacionalidades (Brasil, Argentina e Chile) que passaram por Campo Grande.[^cgn2022]
+O MARCO incluiu o artista na 4ª Temporada de Exposições de 2022; em dezembro daquele ano, a matéria informava que a temporada ficaria aberta até 12 de fevereiro. Sua mostra reunia fotografias e pinturas sobre a vivência de malabaristas de diferentes nacionalidades (Brasil, Argentina e Chile) que passaram por Campo Grande.[^cgn2022]
 
 ## Exposições em 2026
 
@@ -28,6 +28,6 @@ Em 2022, o MARCO incluiu o artista na 4ª Temporada de Exposições, aberta até
 
 A reportagem de outubro afirma que as três individuais, em pouco mais de quatro meses, tratam da infância. O artista diz partir de fotografias próprias, cenas de filmes e imagens da internet, que passam por colagens e rascunhos antes de virar pintura.[^critica-out]
 
-[^critica-jul]: ["Galeria de Vidro recebe exposição gratuita sobre infância e memórias"](https://acritica.net/cultura/galeria-de-vidro-exposicao-olhar-suspenso-wendel-fontes/), *A Crítica de Campo Grande*, 9 jul. 2026. Acesso em 29 out. 2026.
-[^critica-out]: Ricardo Eugenio, ["Exposição de Wendel Fontes abre com visita guiada e oficinas gratuitas em Campo Grande"](https://acritica.net/eventos/exposicao-wendel-fontes-oficinas-gratuitas-libras-audiodescricao-wega-nery/), *A Crítica de Campo Grande*, 1 out. 2026. Acesso em 29 out. 2026.
-[^cgn2022]: Guilherme Correia, ["Marco divulga temporada de exposições gratuitas até 12 de fevereiro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/marco-divulga-temporada-de-exposicoes-gratuitas-ate-12-de-fevereiro), *Campo Grande News*, 4 dez. 2022. Acesso em 29 out. 2026.
+[^critica-jul]: Redação, ["Galeria de Vidro recebe exposição gratuita sobre infância e memórias"](https://acritica.net/cultura/galeria-de-vidro-exposicao-olhar-suspenso-wendel-fontes/), *A Crítica de Campo Grande*, 9 jul. 2026. Acesso em 4 nov. 2026.
+[^critica-out]: Ricardo Eugenio, ["Exposição de Wendel Fontes abre com visita guiada e oficinas gratuitas em Campo Grande"](https://acritica.net/eventos/exposicao-wendel-fontes-oficinas-gratuitas-libras-audiodescricao-wega-nery/), *A Crítica de Campo Grande*, 1 out. 2026. Acesso em 4 nov. 2026.
+[^cgn2022]: Guilherme Correia, ["Marco divulga temporada de exposições gratuitas até 12 de fevereiro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/marco-divulga-temporada-de-exposicoes-gratuitas-ate-12-de-fevereiro), *Campo Grande News*, 4 dez. 2022. Acesso em 4 nov. 2026.

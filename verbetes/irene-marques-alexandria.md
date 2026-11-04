@@ -8,7 +8,7 @@ ficha:
   Atividade: Direção teatral
   Grupos: Teatro da Patota Infantil
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Irene Marques Alexandria** dirigiu o [[teatro-da-patota-infantil|Teatro da Patota Infantil]], de Três Lagoas.[^moser]

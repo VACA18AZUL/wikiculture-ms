@@ -1,0 +1,11 @@
+# Dossiê: irene-marques-alexandria
+
+Dossiê criado na validação de 2026-11-04 (bloco val-4).
+
+## Atualização de 2026-11-04
+
+Fonte reaberta e lida: Fabricio Goulart Moser, "A trajetória conceitual do teatro sul-mato-grossense...", ABRACE (PDF, 6 p.). Confere com o verbete (p. 2, 4 e 5).
+
+Segunda fonte: não encontrada. A cota de buscas na web desta rodada acabou durante o trabalho; não houve busca aberta específica para este nome.
+
+Pista para segunda fonte: o capítulo "Teatro", de Maria da Glória Sá Rosa, em *Memória da arte em Mato Grosso do Sul: histórias de vida* (UFMS, 1992), traz o relato oral de Irene Alexandria. Não há cópia digital aberta nesta sessão.

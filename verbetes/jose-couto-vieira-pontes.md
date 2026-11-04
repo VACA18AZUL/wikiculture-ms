@@ -9,7 +9,7 @@ ficha:
   Atividade: Contista, ensaísta, advogado, professor e juiz de direito
   Instituição: Academia de Letras e História de Campo Grande (depois Academia Sul-Mato-Grossense de Letras)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **José Couto Vieira Pontes** é um escritor e magistrado nascido em Três Lagoas em 1933, fundador e por dez anos presidente da academia de letras que deu origem à [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^amarilha]
