@@ -27,3 +27,8 @@ Pista não aberta: "Ao contar histórias, Jandira brinca de ser a escritora 'imo
 ## Uso no verbete
 
 - Entrou o que está acima, menos dados familiares e idade.
+
+## Validação de 2026-11-04
+
+- Há artigo na Wikipédia (https://pt.wikipedia.org/wiki/Jandira_Mendes_Trindade), apoiado só em matérias de O Pantaneiro; diz convite para a cadeira 19 em junho de 2021 e retorno a Aquidauana em 1950. Não usado como nota.
+- A matéria de 2024 não fala em "causos"; o verbete foi corrigido.

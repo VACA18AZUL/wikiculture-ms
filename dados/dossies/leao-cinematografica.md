@@ -30,3 +30,9 @@ Busca "LEAO FILMES" na Cinemateca trouxe Ícaro (1986, SP) e No Olho da Rua (201
 ## Uso no verbete
 
 - Tudo acima entrou.
+
+## Validação de 2026-11-04
+
+- Link [[vicente-leao]] retirado do verbete: identidade do dono da Leão Cinematográfica com o Vicente Leão de Moser (Cine Lapa) é provável, não confirmada.
+- Os dois filmes da Cinemateca saíram da Filmografia (outros nomes de empresa); ficaram no texto como registro da Cinemateca.
+- Segunda fonte procurada (RCN67, Google Notícias, Brave) sem resultado: fonte única (Neves).

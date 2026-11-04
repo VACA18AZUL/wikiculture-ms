@@ -36,3 +36,8 @@
 ## Uso no verbete
 
 - Tudo entrou, exceto Sergio Medeiros (identidade incerta) e convidados do elenco.
+
+## Validação de 2026-11-04
+
+- No Correio do Estado (2015), "lançado em 1989" está no texto da repórter, sem aspas; atribuído à reportagem.
+- Acrescentados R. H. Jackson (música) e o argumento de Pizzini e Sergio Medeiros (sem link) conforme a Cinemateca.

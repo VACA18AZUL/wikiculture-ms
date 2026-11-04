@@ -25,3 +25,7 @@
 ## Uso no verbete
 
 - Tudo acima entrou. As duas fontes concordam em jornalista + autor de Poeira Branca + viagem pelo Pantanal, o que sustenta ser a mesma pessoa.
+
+## Validação de 2026-11-04
+
+- Autora da matéria do Estado: Amanda Ferreira. A matéria anuncia lançamento futuro de Canarinho Pantaneiro nas plataformas; o verbete fala só em apresentação em 2025.
