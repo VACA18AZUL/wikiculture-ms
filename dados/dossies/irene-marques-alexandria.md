@@ -27,3 +27,7 @@ Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio d
 ## Atualização de 2026-11-04 (r9)
 
 Buscas: CGN, API do O Estado MS e RSS do Google Notícias ("Irene Alexandria"; Teatro Patota Três Lagoas), portal de trabalhos da UFMS: nenhum resultado. Nada mudou.
+
+## Atualização de 2026-11-04 (r9)
+
+Correção do registro acima: a API WordPress do jornal RCN67, de Três Lagoas (https://www.rcn67.com.br/wp-json/wp/v2/posts?search=Patota), trouxe duas matérias, lidas: (1) 24 abr. 2015, "Cultura define programação em comemoração ao aniversário da cidade": exposição de fotos "A Patota Infantil e Irene Marques Alexandria", 10 a 25 ago. 2015, saguão da antiga prefeitura; Irene, professora e pioneira do teatro em Três Lagoas, fundou e manteve por muitos anos o Grupo de Teatro Patota Infantil (texto baseado no Departamento Municipal de Cultura, mas veículo independente do grupo); (2) 13 dez. 2024, sobre a morte de Roberto Figueiredo: ele integrou o TPI (Teatro da Patota Infantil) nos anos 1970 em Três Lagoas e foi para a capital no início dos 1980; Irene, ouvida, diz ter acompanhado o início dele. Fora do verbete: circunstâncias da morte, Sociedade Brasileira de Eubiose e formação de Irene (vida pessoal/religiosa). Novos parágrafos com [^rcn2015] e [^rcn2024]. A exposição de 2015 é programação anunciada; não há confirmação de que ocorreu.

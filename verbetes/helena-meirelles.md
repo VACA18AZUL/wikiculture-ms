@@ -33,7 +33,7 @@ Morreu em Campo Grande, em 28 de setembro de 2005, aos 81 anos, segundo a descri
 
 Em 2014, um documentário sul-mato-grossense sobre ela, intitulado *Flor da Guavira* e dirigido por Rogério Zanetti, estava em produção, com cerca de 50 minutos previstos.[^cgn2014]
 
-Grazielli Alves de Lima (UFGD, 2012) analisa o poema "Helena, a violeira", que [[raquel-naveira|Raquel Naveira]] publicou em *Portão de ferro* (2006) e que descreve uma festa com chamamé, polca e guarânia. A autora cita Idara Duncan (*A música de Mato Grosso do Sul*, 2009), que apresenta Helena como compositora, cantora e instrumentista de violão, rabeca e bandolim, e registra o prêmio Spot Light de revelação e a inclusão dela num pôster dos cem melhores violeiros do mundo.[^glima2012]
+Grazielli Alves de Lima (UFGD, 2012) analisa o poema "Helena, a violeira", que [[raquel-naveira|Raquel Naveira]] publicou em *Portão de ferro* (2006) e que descreve uma festa com chamamé, polca e guarânia. A autora cita Idara Duncan (*A música de Mato Grosso do Sul*, 2009), que apresenta Helena como compositora, cantora e instrumentista de violão, rebeca e bandolim, e registra o prêmio Spot Light de revelação e a inclusão dela num pôster dos cem melhores violeiros do mundo.[^glima2012]
 
 ## Discografia
 

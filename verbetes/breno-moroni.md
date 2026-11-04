@@ -4,12 +4,15 @@ tipo: pessoa
 areas: [teatro, circo, audiovisual]
 resumo: Palhaço, ator e dramaturgo com mais de 40 anos de carreira, autor do texto de "Ponto de Partida" e da peça "Os Corcundas", apresentadas em Campo Grande.
 ficha:
-  Atividade: Palhaço, ator e dramaturgo
+  Naturalidade: Petrópolis (RJ)
+  Atividade: Palhaço, ator, dramaturgo e diretor
 status: rascunho
 atualizado: 2026-11-04
 ---
 
 **Breno Moroni** é palhaço, ator e dramaturgo, com mais de 40 anos de carreira.[^cgn]
+
+Natural de Petrópolis (RJ), morava em Campo Grande havia cinco anos em novembro de 2024, segundo o *Correio do Estado*. A mesma matéria o apresenta também como roteirista, circense e escritor, lembra que foi protagonista do filme *Katharsys* (1990), com Grande Otelo, e cita 90 filmes em 50 anos de carreira.[^ce2024lg]
 
 ## Obra
 
@@ -26,11 +29,14 @@ Em maio de 2024, a abertura da 15ª edição da Ostra Boca de Cena, Semana do Te
 
 ## Filmografia
 
+- *Les Garçons* (curta-metragem de ficção, 15 min; gravado em Corumbá de 19 a 23 de novembro de 2024) — direção. Comédia adaptada de peça escrita e dirigida por Moroni em Portugal, gravada no salão da antiga Beneficência Portuguesa, com Salim Haqzan, autor do projeto aprovado pela Lei Paulo Gustavo, no papel do maître.[^ce2024lg]
+
 - [[carne-amarela|*Carne Amarela*]] (curta-metragem de ficção; filmagens em Coxim, encerradas em 21 de dezembro de 2025) — elenco, em participação especial. O *Correio do Estado* o apresenta como intérprete do Mascarado na novela *A Viagem* (Globo, 1994) e registra o curta como seu 101º trabalho no audiovisual.[^ce2025]
 - [[vemo-um-cotidiano-terena|*Vémo'um*]] (2025) — curta documentário; direção, com [[thais-umar|Thaís Umar]], segundo a descrição do vídeo;[^yt2025] o *Correio do Estado* o apresenta como roteirista e preparador de elenco.[^ce2024] [Assistir no YouTube](https://www.youtube.com/watch?v=v8OSRFKPfRE)
 - [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; elenco.[^jacare2026]
 
 [^cgn]: Thailla Torres, ["Espetáculo gratuito Ponto de Partida retorna a Campo Grande em 1º de agosto"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-ponto-de-partida-retorna-a-campo-grande-com-duas-sessoes), *Campo Grande News*, 1 ago. 2025. Acesso em 4 nov. 2026.
+[^ce2024lg]: Silvio Andrade, ["Corumbá é cenário de 'Les Garçons'"](https://correiodoestado.com.br/correio-b/2024/11/20/corumba-e-cenario-de-les-garcons.html), *Correio do Estado*, caderno Correio B, 20 nov. 2024. Acesso em 4 nov. 2026.
 [^cm]: ["Estado promove semana do teatro e circo"](https://www.correiodamanha.com.br/nacional/centro-oeste/2024/05/132985-estado-promove-semana-do-teatro-e-circo.html), *Correio da Manhã*, 16 mai. 2024. Acesso em 4 nov. 2026.
 [^ce2025]: Marcos Pierry, ["Curta-metragem 'Carne Amarela' transforma a Terra do Pé de Cedro em set de filmagens"](https://correiodoestado.com.br/correio-b/2025/12/22/curta-metragem-carne-amarela-transforma-a-terra-do-pe-de-cedro-em-set-de-filmagens.html), *Correio do Estado*, 22 dez. 2025. Acesso em 4 nov. 2026.
 [^ce2024]: Da Redação, ["Cotidiano Terena"](https://correiodoestado.com.br/correio-b/2024/12/23/cotidiano-terena.html), *Correio do Estado*, 23 dez. 2024. Acesso em 4 nov. 2026.
