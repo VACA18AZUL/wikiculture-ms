@@ -30,4 +30,9 @@ Os espetáculos citados na programação, com os grupos indicados pela matéria:
 
 Em 17 de novembro houve ainda um Encontro de Bonequeiros no Teatral Grupo de Risco.[^cgn2022]
 
+A matéria traz datas, horários e locais anunciados para três dos espetáculos: *Se essa rua não fosse sua*, do [[grupo-chicomaria|Grupo Chicomaria]], em 8 de novembro, às 14h, na Escola Agrícola Barão do Rio Branco; *Pantanália*, do [[grupo-tareco-treco|Grupo Tareco-Treco]] (grafado "tareco- treco"), em 9 de novembro, às 10h, na Escola Municipal José do Patrocínio; e *Manual de barros*, da [[arte-e-riso-cia-de-animacao|Arte e Riso Cia de Animação]], em 10 de novembro, às 15h, no Ateliê Ramona Rodrigues.[^cgn2022]
+
+Outra matéria do jornal, de 5 de novembro de 2022, diz que a exposição de bonecos no Teatral Grupo de Risco, de entrada gratuita e aberta até 4 de dezembro, reunia bonecos de artistas como [[wilson-motta|Wilson Motta]], [[jorge-de-barros|Jorge de Barros]] e [[miska-thome|Miska Thomé]], com técnicas como boneco de luva, marionete, boneco de vara e manipulação direta.[^cgn2022c]
+
+[^cgn2022c]: Aletheya Alves, ["Em mostra de teatro, público irá imergir em mundo de bonecos"](https://www.campograndenews.com.br/lado-b/diversao/em-mostra-de-teatro-publico-ira-imergir-em-mundo-de-bonecos), *Campo Grande News*, 5 nov. 2022. Acesso em 4 nov. 2026.
 [^cgn2022]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 29 out. 2026.

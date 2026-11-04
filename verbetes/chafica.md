@@ -19,7 +19,7 @@ atualizado: 2026-11-04
 
 O título é o nome da mãe de Sarah, Chafica Fatuche Abussafi, imigrante libanesa que deixou Zahlé, no Líbano, aos 14 anos. Segundo a matéria de divulgação, ela participou da Colônia Libanesa e da fundação do Clube Libanês.[^cgn2023]
 
-A obra presta homenagem à ancestralidade libanesa e às mulheres que contribuíram para a cultura de Mato Grosso do Sul.[^cgn2023]
+Além de Sarah e da mãe dela, a obra homenageia a herança libanesa e as mulheres que ajudaram a desenvolver a cultura de Mato Grosso do Sul.[^cgn2023]
 
 Em 2023, durante a pesquisa para a criação do espetáculo, [[maria-fernanda-figueiro|Maria Fernanda Figueiró]], neta de Sarah, encontrou uma reportagem de 2002 sobre a doação de documentos da avó ao Museu da Imagem e do Som.[^ce2026]
 

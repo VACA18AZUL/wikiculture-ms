@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Fábio do Vale**, nome literário de Fábio Pereira do Vale Machado, é escritor, professor e pesquisador nascido em Campo Grande.[^asl]
+**Fábio do Vale** (Fábio Pereira do Vale Machado) é escritor, professor e pesquisador nascido em Campo Grande.[^asl]
 
 ## Trajetória
 

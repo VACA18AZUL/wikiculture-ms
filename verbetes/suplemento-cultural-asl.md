@@ -20,7 +20,7 @@ O **Suplemento Cultural** é uma página de textos literários escritos por memb
 
 ## Trajetória
 
-Segundo o histórico da ASL, o suplemento foi criado nos primeiros anos da academia, por sugestão do fundador, [[ulisses-serra|Ulysses Serra]].[^aslhist] Em artigo de 2024, o presidente da ASL, [[henrique-de-medeiros|Henrique de Medeiros]], escreveu que o suplemento sai sem interrupção desde 1972, no Caderno B do jornal, e que já havia publicado mais de 20 mil textos, a maior parte sobre Mato Grosso do Sul.[^ce2024] Em entrevista de outubro de 2026, ele falou em cerca de 50 anos de publicação semanal e citou a curadoria do suplemento entre as ações de sua gestão.[^ce2026]
+Segundo o histórico da ASL, o suplemento foi criado nos primeiros anos da academia, por sugestão do fundador, [[ulisses-serra|Ulysses Serra]].[^aslhist] Em artigo de 2024, o presidente da ASL, [[henrique-de-medeiros|Henrique de Medeiros]], escreveu que o suplemento sai sem interrupção desde 1972, no Caderno B do jornal, e que já havia publicado mais de 20 mil textos, a maior parte sobre Mato Grosso do Sul.[^ce2024] Em entrevista de outubro de 2026, ele falou em cerca de 50 anos de publicação semanal; o texto da reportagem cita a curadoria do suplemento entre as ações da gestão dele.[^ce2026]
 
 A edição da virada de 2022 para 2023 traz no cabeçalho a responsabilidade da ASL e a coordenação de [[geraldo-ramon-pereira|Geraldo Ramon Pereira]]. Nela saiu um texto de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] sobre Carlos Drummond de Andrade.[^sup2023]
 

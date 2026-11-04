@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Era irmão mais novo do poeta [[manoel-de-barros|Manoel de Barros]]. Em entrevista ao *Campo Grande News* em 2014, aos 85 anos, contou que morou com o irmão no Rio de Janeiro por três ou quatro anos, quando entrou na faculdade, e que, depois de herdar uma fazenda no Pantanal, os dois mantiveram por 11 anos uma sociedade na criação de gado. Disse também que escrevia às escondidas do irmão e que Manoel às vezes lhe pedia opinião sobre seus rascunhos.[^cgn2014]
+Era irmão mais novo do poeta [[manoel-de-barros|Manoel de Barros]]. Em entrevista ao *Campo Grande News* em 2014, aos 85 anos, contou que morou com o irmão no Rio de Janeiro por três ou quatro anos, quando entrou na faculdade, e que, depois que herdaram fazendas no Pantanal com a morte do pai, em 1949, os dois mantiveram por 11 anos uma sociedade, com o gado dos dois na mesma propriedade. Disse também que escrevia sem mostrar ao irmão e que Manoel, antes de publicar um livro, lhe dava os textos para ler e criticar.[^cgn2014]
 
 Segundo reportagem do *Correio do Estado* de 2010, participou do [[cineclube-de-campo-grande|cineclube criado em Campo Grande em 1967]], ao lado de [[jose-octavio-guizzo|José Octávio Guizzo]] e outros.[^ce2010]
 

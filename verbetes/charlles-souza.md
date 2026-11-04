@@ -3,7 +3,7 @@ titulo: Charlles Souza (Palhaço Challito)
 tipo: pessoa
 areas: [circo, teatro]
 cidade: Nova Alvorada do Sul
-resumo: Palhaço de Nova Alvorada do Sul, conhecido como Palhaço Challito, que integrou o Gran Circo Poropopó Brothers no Boca de Cena 2017 e levou "Vendê-Graça" à edição de 2022.
+resumo: Palhaço de Nova Alvorada do Sul conhecido como Palhaço Challito; esteve na programação da mostra Boca de Cena em 2017, no Gran Circo Poropopó Brothers, e em 2022, com "Vendê-Graça".
 ficha:
   Nome artístico: Palhaço Challito
   Atividade: Palhaço
@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2017, participou como artista independente do *[[gran-circo-poropopo-brothers|Gran Circo Poropopó Brothers]]*, espetáculo que reuniu coletivos de circo de Mato Grosso do Sul no encerramento da mostra [[mostra-boca-de-cena|Boca de Cena]]. Estavam com ele os palhaços [[erico-bispo|Erico Bispo]] (Palhaço Jack) e [[marilson-gabriel|Marilson Gabriel]] (Palhaço Gabinete).[^boca2017]
+Em 2017, o folheto da mostra [[mostra-boca-de-cena|Boca de Cena]] o listou como artista independente no *[[gran-circo-poropopo-brothers|Gran Circo Poropopó Brothers]]*, espetáculo programado para encerrar a mostra como um mosaico de coletivos de circo do estado. Na mesma lista estavam os palhaços [[erico-bispo|Erico Bispo]] (Palhaço Jack) e [[marilson-gabriel|Marilson Gabriel]] (Palhaço Gabinete).[^boca2017]
 
 Em junho de 2022, a programação da virada do Boca de Cena na Praça Ary Coelho, em Campo Grande, incluía o espetáculo *Vendê-Graça*, do Palhaço Challito, de Nova Alvorada do Sul.[^cgn2022]
 
