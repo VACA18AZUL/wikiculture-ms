@@ -19,13 +19,15 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Nos anos 1970 fundou a Moderna Associação Campo-grandense de Ensino (Mace) e o Centro de Ensino Superior de Campo Grande (Cesup), que deu origem à Uniderp, universidade da qual foi reitor. Foi senador de 2016 a 2019 e relatou a reforma do Ensino Médio. Ocupa desde 2023 a cadeira 32 da Academia Brasileira de Educação e, em julho de 2026, recebeu da [[ufms|UFMS]] o título de doutor honoris causa.[^acritica-eleicao]
+Uma reportagem de 2026 o apresenta como fundador, nos anos 1970, da Moderna Associação Campo-grandense de Ensino (Mace) e do Centro de Ensino Superior de Campo Grande (Cesup), origem da Uniderp, que ele dirigiu como reitor.[^acritica-eleicao] Outra matéria do mesmo jornal diz que ele esteve na criação das duas instituições.[^acritica-assume] O *Correio do Estado* registra a Mace como fundada em 1969 pelos professores Plínio Mendes dos Santos e Therezinha dos Santos Samways, e a inauguração do Cesup em 25 de fevereiro de 1978.[^ce2024]
 
-Ocupa a cadeira 19 da ASL desde 2017.[^acritica-eleicao][^acritica-posse] Em 1º de outubro de 2026, foi eleito presidente da Academia para o triênio 2026-2029, em sucessão a [[henrique-de-medeiros|Henrique Alberto de Medeiros Filho]]. A posse da nova diretoria foi marcada para 30 de outubro de 2026, data dos 55 anos da instituição. Entre as metas anunciadas estão a digitalização do acervo e uma biblioteca virtual com obras de autores do estado.[^acritica-assume][^acritica-posse]
+Exerceu o mandato de senador entre 2016 e 2019, quando foi relator da reforma do Ensino Médio. Desde 2023 é titular da cadeira 32 da Academia Brasileira de Educação e, em julho de 2026, recebeu da [[ufms|UFMS]] o título de doutor honoris causa.[^acritica-eleicao]
+
+Ocupa a cadeira 19 da ASL desde 2017.[^acritica-eleicao][^acritica-posse] Em 1º de outubro de 2026, foi eleito presidente da Academia para o triênio 2026-2029, em sucessão a [[henrique-de-medeiros|Henrique Alberto de Medeiros Filho]]. A posse da nova diretoria foi marcada para 30 de outubro de 2026, data dos 55 anos da instituição. Entre as metas que anunciou estão digitalizar o acervo da Academia e estudar a criação de uma biblioteca virtual de escritores sul-mato-grossenses.[^acritica-assume][^acritica-posse]
 
 ## Obras
 
-- *Refletindo Sobre o Brasil* — coletânea de artigos, com reflexões do período em que foi senador; lançamento anunciado para 19 de setembro de 2019 em Campo Grande.[^ce2019]
+- *Refletindo Sobre o Brasil* — coletânea de artigos, com reflexões de 2016 a 2018, quando estava no Senado; lançamento anunciado para 19 de setembro de 2019 em Campo Grande.[^ce2019]
 - *Uniderp: Sonhos e Desafios na Construção de um Legado Educacional na Região do Pantanal* — com Therezinha dos Santos Samways; história do Cesup e da Uniderp; lançamento anunciado para 15 de agosto de 2024 em Campo Grande.[^ce2024]
 
 [^acritica-eleicao]: Ricardo Eugenio, ["Pedro Chaves é eleito presidente da ASL e assume no dia dos 55 anos da Academia"](https://acritica.net/cultura/pedro-chaves-presidente-academia-sul-mato-grossense-letras/), *A Crítica*, 2 out. 2026. Acesso em 4 nov. 2026.

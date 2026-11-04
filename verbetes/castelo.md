@@ -32,7 +32,7 @@ O número de álbuns gravados diverge: a reportagem de 2023 fala em mais de 50,[
 - *Castelo e Mansão – Volume 02* (1987) — LP.[^mf1987] [Ouvir no YouTube](https://www.youtube.com/playlist?list=PLO-QEpiig_IipwyXQPu3uOwPMDNsSguh3)
 - *Castelo e Mansão – Volume 03* (1989) — LP.[^mf1989] [Ouvir no YouTube](https://www.youtube.com/playlist?list=PLO-QEpiig_IgFHCXW3wjJS-BmU1pOKDoh)
 - *Castelo e Mansão – Volume 04* (1995).[^mf1995] [Ouvir no YouTube](https://www.youtube.com/playlist?list=PLO-QEpiig_Ii4wqDAQBHDvEfUgo1RzPR7)
-- *Almas Chamamezeiras* (2019) — CD com David Júnior, produzido pelos dois e lançado em agosto de 2019 no Rádio Clube Campo, em Campo Grande.[^mf2019] [Ouvir no YouTube](https://www.youtube.com/playlist?list=PLIoHYEzpn-G0)
+- *Almas Chamamezeiras* (2019) — CD com David Júnior, produzido pelos dois e lançado em agosto de 2019 no Rádio Clube Campo, em Campo Grande. Segundo a descrição do acervo, Castelo assina o violão base, David Júnior toca bandoneón e Geraldo Ramón Jr. faz o baixo.[^mf2019] [Ouvir no YouTube](https://www.youtube.com/playlist?list=PLIoHYEzpn-G0)
 
 [^cgn2023]: Thailla Torres, ["Ícone do chamamé em MS, Castelo morre aos 72 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/icone-do-chamame-em-ms-castelo-morre-aos-72-anos), *Campo Grande News*, 10 jul. 2023. Acesso em 4 nov. 2026.
 [^mf1984]: ["Castelo e Mansão - Volume 01 LP - 1984"](https://www.youtube.com/playlist?list=PLO-QEpiig_IgNjWC83Qz0RwErblqycJ2f), lista de reprodução e descrição (que cita o site Recanto Caipira), *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 4 nov. 2026.
