@@ -3,10 +3,10 @@ titulo: Rodrigo Teixeira
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Jornalista e músico de Campo Grande, autor do livro Os Pioneiros sobre a origem da música sertaneja em Mato Grosso do Sul e do álbum Polck, de 2003.
+resumo: Jornalista e músico de Campo Grande, autor dos livros Os Pioneiros, sobre a origem da música sertaneja em MS, e Grupo Acaba – A História dos Canta-Dores do Pantanal (2024), e do álbum Polck (2003).
 ficha:
   Atividade: Jornalista e músico
-  Obras: Os Pioneiros (livro, 2009); Polck (álbum, 2003)
+  Obras: Os Pioneiros (livro, 2009); Polck (álbum, 2003); Grupo Acaba – A História dos Canta-Dores do Pantanal (livro, 2024)
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -29,8 +29,11 @@ Gonçalves registra que Rodrigo Teixeira lançou em 2003 o álbum *Polck*, ao la
 
 As referências de Caetano listam textos de Rodrigo Teixeira com entrevistas a artistas como [[geraldo-roca|Geraldo Roca]], [[paulo-simoes|Paulo Simões]], [[almir-sater|Almir Sater]] e [[tete-espindola|Tetê Espíndola]], datados de 2007 e 2008.[^cae2]
 
+Em 2024, lançou o livro [[grupo-acaba-a-historia-dos-canta-dores-do-pantanal|*Grupo Acaba – A História dos Canta-Dores do Pantanal*]], sobre mais de cinco décadas do [[grupo-acaba|ACABA]], com financiamento do FIC-MS, prefácio de Pedro Alexandre Sanches, 362 páginas e 227 imagens. O trabalho começou em 2016, quando [[moacir-lacerda|Moacir Lacerda]] o convidou a mapear a trajetória do grupo. O livro tem versão em audiolivro no YouTube.[^oestado2026]
+
 [^ce]: Redação, ["Museu da Imagem e Som reinaugura hoje"](https://correiodoestado.com.br/correio-b/museu-da-imagem-e-som-reinaugura-hoje/109346/), *Correio do Estado*, 3 mai. 2011. Acesso em 29 out. 2026.
 [^gon]: Rodrigo Teixeira Gonçalves, *O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*, dissertação de mestrado, UFMS, 2014, introdução ([PDF](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723)). Acesso em 29 out. 2026.
 [^gon2]: Gonçalves, 2014, seção 1.7 (mesma dissertação). Acesso em 29 out. 2026.
 [^cae]: Gilmar Lima Caetano, *A música regional urbana e identidades culturais de Mato Grosso do Sul*, dissertação, UFGD, 2012, capítulo 3, seção 3.4 ([PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf)). Acesso em 29 out. 2026.
 [^cae2]: Caetano, 2012, referências bibliográficas (mesma dissertação). Acesso em 29 out. 2026.
+[^oestado2026]: Amanda Ferreira, ["Adriano Praça, integrante do Grupo Acaba, morre deixando legado cultural em MS"](https://oestadoonline.com.br/arte-e-lazer/adriano-praca-integrante-do-grupo-acaba-morre-deixando-legado-cultural-em-ms/), *O Estado de Mato Grosso do Sul*, 7 fev. 2026. Acesso em 4 nov. 2026.

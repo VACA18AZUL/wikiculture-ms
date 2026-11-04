@@ -43,7 +43,7 @@ Cid Nogueira Fidelis, em tese de 2024, analisa o curta documental *Brô Mc's*, d
 ## Videografia
 
 - *Eju Orendive* (2010) — videoclipe oficial, resultado de oficina audiovisual da CUFA Dourados.[^c5]
-- *Brô Mc's* (2010) — curta documental, 8 min 15 s, produzido pela Aldeia Jaguapiru e pelo Pontão de Cultura no projeto Ava Marandu; realização coletiva.[^fidelis2024]
+- [[bro-mcs-documentario-2010|*Brô Mc's*]] (2010) — curta documental, 8 min 15 s, produzido pela Aldeia Jaguapiru e pelo Pontão de Cultura no projeto Ava Marandu; realização coletiva.[^fidelis2024]
 
 [^c1]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, UFGD, 2023, seção 2.2.2.4, p. 119-123. Acesso em 29 out. 2026.
 [^c2]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 126-127 (entrevista de Dani Guarani Kaiowá). Acesso em 29 out. 2026.

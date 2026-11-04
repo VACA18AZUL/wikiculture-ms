@@ -57,3 +57,9 @@ Descartada: página em domínio desconhecido com tradução automática (resulta
 
 - Entrou: tudo acima.
 - Ficou de fora: longas falas sobre a história de Cabeza de Vaca e Aleixo Garcia (contexto, não trajetória).
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 18 out. 2022, "Morre publicitário Chico Lacerda, fundador do 'Grupo Acaba'". Chico Lacerda (Corumbá, 1946 – Campo Grande, 18/10/2022, 76 anos); criou com o irmão Moacir a Associação dos Compositores Autônomos do Bairro Amambaí (ACABA) "duas décadas após" 1946; temas de fauna, flora, cultura indígena, folclore pantaneiro. Causa da morte e diagnóstico citados na matéria ficam fora (dado de saúde).
+- Fonte nova: O Estado MS, 7 fev. 2026, Amanda Ferreira, "Adriano Praça, integrante do Grupo Acaba, morre deixando legado cultural em MS". Grupo "fundado em 1972", surgido em Campo Grande a partir de movimentos estudantis de 1968; livro de Rodrigo Teixeira (2024, FIC-MS, 362 p., 227 imagens, prefácio de Pedro Alexandre Sanches, audiobook no YouTube); projeto iniciado em 2016 a convite de Moacir Lacerda; Adriano Praça entrou em 1981 e introduziu sopros (flauta doce, clarinete, sax, pífanos); solos em Pássaro Branco, Waradzu, Fernando Vieira. Dados familiares do velório ficam fora.
+- Fonte nova: O Estado MS, 22 out. 2020, "Orlando Lacerda lança novo disco no domingo": disco "Orlando Lacerda: O Menestrel do Pantanal", 14 faixas, lançamento 25/10/2020; direção de gravação e arranjos de Mestre Galvão; direção artística e produção de Moacir Lacerda; artes de Carlos Vera. Laço de parentesco e telefones da matéria ficam fora.

@@ -22,6 +22,10 @@ Entre junho e novembro de 2010, o Pontão promoveu o curso "Projeto Mídias Cont
 
 Dionédison Terena, liderança terena, contou com apoio do Pontão para participar de um curso intensivo de 40 dias na Universidade Federal de Goiás, em parceria com a Escola de Cinema e Artes Audiovisuais de La Paz.[^tese2]
 
+## Filmografia
+
+- [[bro-mcs-documentario-2010|Brô MC's (documentário, 2010)]] (2010) — curta documentário; produção, com a Aldeia Jaguapiru, no projeto Ava Marandu.[^fidelis2024]
+
 ## Nome
 
 A tese registra também a grafia "Pontão de Cultura Guaikuru", usada em publicações do próprio ponto de cultura.[^tese3]

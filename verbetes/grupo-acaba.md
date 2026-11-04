@@ -12,6 +12,12 @@ atualizado: 2026-11-04
 
 O **ACABA** foi um grupo musical sul-mato-grossense. A sigla corresponde, segundo Gilmar Lima Caetano, a Associação dos Compositores Amadores do Bairro Amambaí, e Moacir de Lacerda é citado como um de seus fundadores.[^cae1]
 
+## Fundação e nome
+
+As datas de fundação divergem na imprensa. Em 2022, *O Estado de Mato Grosso do Sul* escreveu que [[chico-lacerda|Chico Lacerda]], nascido em Corumbá em 1946, criou com [[moacir-lacerda|Moacir Lacerda]] cerca de duas décadas depois a Associação dos Compositores Autônomos do Bairro Amambaí (ACABA).[^oestado2022] Em 2026, o mesmo jornal deu o grupo como fundado em 1972 e surgido em Campo Grande a partir dos movimentos estudantis de 1968.[^oestado2026] A forma "Compositores Autônomos" difere da de Caetano, "Compositores Amadores".[^cae1][^oestado2022]
+
+Segundo *O Estado de Mato Grosso do Sul*, as letras do grupo tratam da fauna, da flora, da cultura indígena e do folclore pantaneiro, com defesa da preservação ambiental, e o grupo se apresenta como "protetor do Pantanal".[^oestado2022][^oestado2026]
+
 ## Trajetória
 
 Caetano registra que, em 1972, a imprensa divulgou como vencedora do 4º Festival da Música Estudantil campo-grandense a canção "Ponha na Sua Cabeça", de [[geraldo-espindola|Geraldo Espíndola]]. Há, segundo ele, registro de que "Na minha canoa só cabe Lucinda", de Moacir de Lacerda, tenha sido a primeira colocada em um festival estudantil no mesmo ano. O autor cita as duas versões sem decidir.[^cae1]
@@ -26,6 +32,12 @@ Rodrigo Teixeira Gonçalves inclui o grupo entre os artistas reunidos no LP do [
 
 Para Faria, o ACABA está entre os nomes formados na fase dos festivais iniciada em 1967 e entre os primeiros lembrados quando se fala de música regional sul-mato-grossense. O autor reproduz a letra de "Kananciuê", com data de 1979.[^faria2024]
 
+## Integrantes e livro
+
+O multi-instrumentista [[adriano-praca|Adriano Praça]] entrou no grupo em 1981 e introduziu instrumentos de sopro, como flauta doce, clarinete, sax e pífanos. Segundo Rodrigo Teixeira, seus solos marcam canções como "Pássaro Branco", "Waradzu" e "Fernando Vieira". Adriano Praça morreu em fevereiro de 2026, e o grupo era então descrito como em atividade havia mais de 50 anos.[^oestado2026]
+
+Em 2024, o jornalista [[rodrigo-teixeira|Rodrigo Teixeira]] lançou o livro [[grupo-acaba-a-historia-dos-canta-dores-do-pantanal|*Grupo Acaba – A História dos Canta-Dores do Pantanal*]], com financiamento do FIC-MS, prefácio de Pedro Alexandre Sanches, 362 páginas e 227 imagens. O projeto começou em 2016, a convite de Moacir Lacerda, e o livro tem versão em audiolivro no YouTube.[^oestado2026]
+
 ## Relação com a política cultural
 
 Caetano associa o ACABA ao entusiasmo pela criação de Mato Grosso do Sul e à valorização da cultura pantaneira. Registra ainda que, em apresentação no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], o grupo criticou a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] por, segundo eles, tratar a música regional com descaso e patrocinar a chamada country music.[^cae4]
@@ -36,3 +48,5 @@ Caetano associa o ACABA ao entusiasmo pela criação de Mato Grosso do Sul e à 
 [^cae4]: Caetano, 2012, capítulos 2 e 3 (mesma dissertação). Acesso em 29 out. 2026.
 [^gon]: Rodrigo Teixeira Gonçalves, *O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*, dissertação de mestrado, UFMS, 2014, seção 1.7 ([PDF](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723)). Acesso em 29 out. 2026.
 [^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 55 e 58-60 do PDF. Acesso em 4 nov. 2026.
+[^oestado2022]: ["Morre publicitário Chico Lacerda, fundador do 'Grupo Acaba'"](https://oestadoonline.com.br/arte-e-lazer/281209/), *O Estado de Mato Grosso do Sul*, 18 out. 2022. Acesso em 4 nov. 2026.
+[^oestado2026]: Amanda Ferreira, ["Adriano Praça, integrante do Grupo Acaba, morre deixando legado cultural em MS"](https://oestadoonline.com.br/arte-e-lazer/adriano-praca-integrante-do-grupo-acaba-morre-deixando-legado-cultural-em-ms/), *O Estado de Mato Grosso do Sul*, 7 fev. 2026. Acesso em 4 nov. 2026.

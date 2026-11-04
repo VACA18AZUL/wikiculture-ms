@@ -24,6 +24,8 @@ Em 2022, a companhia se apresentou em Paris, de 16 a 18 de setembro, em etapa do
 
 Em 2019, apresentou no [[premio-onca-pintada-da-danca|Prêmio Onça Pintada]], realizado no Teatro Glauce Rocha, em Campo Grande, o espetáculo *A Terra sem Males*.[^correio2019] Em 2024, foi a companhia convidada na abertura da [[semana-pra-danca|Semana pra Dança]], em 30 de setembro.[^cgn2024]
 
+Em fevereiro de 2024, os bailarinos Agustín Salcedo e Frantielly Khadija, da companhia, apresentaram a performance "Duo de Onças" no quadro Caldeirola do programa *Caldeirão com Mion*, da TV Globo, exibido no dia 17. O número é um trecho de [[guadakan|*Guadakan*]], espetáculo estreado em 2022. Segundo Márcia Rolon, a produção do programa conheceu o trabalho pelo registro do espetáculo no canal do Moinho no YouTube e chamou a dupla para uma seleção.[^oestado2024]
+
 ## Espetáculos
 
 - *A Terra sem Males* (2019) — apresentado no Prêmio Onça Pintada; a matéria o descreve como peça sobre a questão da terra.[^correio2019]
@@ -33,3 +35,4 @@ Em 2019, apresentou no [[premio-onca-pintada-da-danca|Prêmio Onça Pintada]], r
 [^cgn2022]: Guilherme Correia, ["Durante festival, Companhia de Dança do Pantanal representa MS na França"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/durante-festival-companhia-de-danca-do-pantanal-representa-ms-na-franca), *Campo Grande News*, 15 set. 2022. Acesso em 29 out. 2026.
 [^correio2019]: Glaucea Vaccari, ["Prêmio Onça Pintada reúne diversos grupos de dança da Capital"](https://correiodoestado.com.br/correio-b/premio-onca-pintada-reune-diversos-grupos-de-danca-da-capital/359942/), *Correio do Estado*, 3 set. 2019. Acesso em 29 out. 2026.
 [^cgn2024]: Thailla Torres, ["Semana Pra Dança terá espetáculos, oficinas e ações de graça pela cidade"](https://www.campograndenews.com.br/lado-b/diversao/semana-pra-danca-tera-espetaculos-oficinas-e-acoes-de-graca-pela-cidade), *Campo Grande News*, 25 set. 2024. Acesso em 29 out. 2026.
+[^oestado2024]: Ana Cavalcante, ["Duo Onças: dançarinos de MS apresentam belezas e dilemas do Pantanal"](https://oestadoonline.com.br/arte-e-lazer/duo-oncas-dancarinos-de-ms-apresentam-belezas-e-dilemas-do-pantanal/), *O Estado de Mato Grosso do Sul*, 28 fev. 2024. Acesso em 4 nov. 2026.

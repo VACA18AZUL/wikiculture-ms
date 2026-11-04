@@ -30,11 +30,15 @@ O repertório musical reúne peças do compositor italiano Ezio Bosso.[^ce2023]
 - Narração: Arce Correia[^ce2023]
 - Figurinos: Luiz Gugliatto[^ce2023]
 
+*O Estado de Mato Grosso do Sul* descreve o espetáculo como idealização do coreógrafo Chico Neller, com direção artística de Márcia Rolon. No *Correio do Estado*, Márcia Rolon assina a concepção cênica e a direção-geral, e Chico Neller, a coreografia.[^oestado2024][^ce2023]
+
 ## Apresentações
 
 O espetáculo foi o tema do [[moinho-in-concert|Moinho In Concert]] de 2022, celebração anual de encerramento das atividades do instituto, que naquele ano marcou os 18 anos do Moinho. A divulgação anunciou o formato de aula pública, com quatro sessões em 14 e 15 de dezembro no Centro de Convenções do Pantanal, em Corumbá.[^ce2022] Em abril de 2023, o Correio do Estado informou que a estreia, em dezembro, reuniu público presencial de mais de 2,5 mil pessoas e envolveu mais de 400 integrantes do instituto.[^ce2023]
 
 Em 12 de abril de 2023, a montagem, adaptada para viajar, fez a primeira apresentação presencial fora de Corumbá, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. A mesma reportagem anunciou sessões em Ponta Porã, no dia 14, e em Dourados, no dia 16, na programação do [[festival-de-todos-os-povos-festop|Festival de Todos os Povos]]. A turnê teve apoio da Fapec, da UFMS, da prefeitura de Ponta Porã e da Fundação de Cultura de Mato Grosso do Sul.[^ce2023]
+
+Em fevereiro de 2024, um trecho do espetáculo, a performance "Duo de Onças", com os bailarinos Agustín Salcedo e Frantielly Khadija, foi apresentado no programa *Caldeirão com Mion*, da TV Globo, exibido no dia 17. Segundo a matéria, a performance trata da onça-pintada e das ameaças da caça e das queimadas.[^oestado2024]
 
 Em 27 de março de 2026, uma versão reduzida do espetáculo, com cerca de 20 minutos, seis bailarinos e três músicos, foi apresentada no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande, na programação da COP15, conferência sobre espécies migratórias. A regência foi de [[kaliza-alves|Kaliza Alves]]. Essa versão foi selecionada para a Teia Cultural Nacional, marcada para maio em Aracruz, no Espírito Santo.[^acritica2026b][^cgn2026]
 
@@ -45,3 +49,4 @@ Também em março de 2026, a Cia. de Dança do Pantanal apresentou *Guadakan* e 
 [^acritica2026]: Douglas Vieira, ["Onça-pintada, jacaré e arara-azul invadem a Avenida Paulista: Cia de Dança do Pantanal leva o bioma às ruas e a museu de São Paulo"](https://acritica.net/cultura/onca-pintada-jacare-e-arara-azul-invadem-a-avenida-paulista-cia-de-danca-do-pantanal-leva-o-bioma-as-ruas-e-a-museu-de-sao-paulo/), *A Crítica de Campo Grande*, 16 maio 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Iury de Oliveira, ["'Guadakan' leva música e dança do Pantanal à COP15 em Campo Grande"](https://acritica.net/cultura/cop15-guadakan-espetaculo-pantanal-campo-grande/), *A Crítica de Campo Grande*, 26 mar. 2026. Acesso em 4 nov. 2026.
 [^cgn2026]: Thailla Torres, ["Hoje tem apresentação gratuita do espetáculo 'Guadakan' em Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/hoje-tem-apresentacao-gratuita-do-espetaculo-guadakan-em-campo-grande), *Campo Grande News*, 27 mar. 2026. Acesso em 4 nov. 2026.
+[^oestado2024]: Ana Cavalcante, ["Duo Onças: dançarinos de MS apresentam belezas e dilemas do Pantanal"](https://oestadoonline.com.br/arte-e-lazer/duo-oncas-dancarinos-de-ms-apresentam-belezas-e-dilemas-do-pantanal/), *O Estado de Mato Grosso do Sul*, 28 fev. 2024. Acesso em 4 nov. 2026.

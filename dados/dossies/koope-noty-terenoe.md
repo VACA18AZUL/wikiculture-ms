@@ -34,3 +34,9 @@ Busca restrita a FCMS, Agência, Correio do Estado, A Crítica, Midiamax, prefei
 ## Atualização de 2026-11-04 (r3-2)
 
 Nenhuma fonte de outro veículo cita o grupo. Abertas e lidas: Portal de Aquidauana, 12 set. 2019 (Studio de Dança, 6º Prêmio Onça Pintada, 5 a 8 set., Teatro Glauce Rocha); Missão Salesiana, 13 set. 2019 (Royal Move Crew, mesmo festival e datas); Diário Corumbaense, 11 set. 2019 (sem menção ao grupo nem às datas). Só confirmam o evento e as datas (nota [^pa2019][^ms2019] no verbete, com a ressalva de que não citam o grupo). Busca por "Koope-Noty" achou somente o Correio do Estado (fonte do verbete). Grafia, aldeia e dança do bate-pau continuam em fonte única. Pistas: FCMS "Estão abertas as inscrições para o Prêmio Onça Pintada"; Facebook do prêmio (não serve como fonte de fato).
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova, aberta e lida (busca interna do Campo Grande News, termo "Koope"): Thailla Torres, "Mostra com 6º Prêmio Onça Pintada começa amanhã e recebe 1 mil bailarinos", *Campo Grande News*, 4 set. 2019. Cita o grupo indígena Koope-Noty Terênoe, da aldeia Tereré, em Sidrolândia, entre os convidados que abririam a programação. Texto de repórter, com detalhes que não estão no *Correio do Estado* (distância da aldeia, Cia de Dança do Pantanal); as duas matérias podem partir da mesma divulgação da organização, mas são de veículos diferentes. Também é anterior ao evento: não confirma a apresentação. Observação: o subtítulo da matéria diz 6 a 8 de setembro, e o corpo, 5 a 8.
+
+Buscas sem resultado: API do O Estado e RSS do Google Notícias ("Koope", "Aldeia Tereré dança", "bate-pau Tereré").

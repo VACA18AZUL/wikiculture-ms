@@ -22,7 +22,7 @@ Segundo Cid Nogueira Fidelis, o projeto queria chamar a atenção para as viola�
 
 Entre fevereiro e abril de 2010, 12 oficinas reuniram 240 alunos indígenas de sete aldeias guarani: Guyra Roka e Te'yikue, em Caarapó; Jaguapiru e Panambizinho, em Dourados; Amambai; e Yvy Katu, em Japorã. As oficinas de audiovisual tiveram como professores [[joel-pizzini|Joel Pizzini]], [[mauricio-copetti|Mauricio Copetti]], [[ivan-molina|Iván Molina]] e [[gilmar-galache|Gilmar Galache]]. Galache, citado por Fidelis, conta que passava cerca de uma semana em cada aldeia.[^fidelis2024]
 
-Miguel Angelo Corrêa registra também um curta feito na aldeia Jaguapiré, em Tacuru, numa oficina coordenada por Joel Pizzini, Mauricio Copetti, Cristiano Maggi e Nando Mendes. Segundo Corrêa, os integrantes do [[bro-mcs|Brô MC's]] gravaram durante o projeto um primeiro videoclipe.[^correa2023]
+Miguel Angelo Corrêa registra também um curta feito na aldeia Jaguapiré, em Tacuru, numa oficina coordenada por Joel Pizzini, Mauricio Copetti, Cristiano Maggi e Nando Mendes. Segundo Corrêa, os integrantes do [[bro-mcs|Brô MC's]] tiveram no projeto um de seus primeiros contatos com o audiovisual, num videoclipe ainda incipiente.[^correa2023]
 
 As oficinas resultaram em dez curtas-metragens feitos por coletivos das aldeias e numa exposição de fotografia e cinema no [[museu-das-culturas-dom-bosco|Museu das Culturas Dom Bosco]], em Campo Grande. Fidelis analisa os dez filmes em sua tese.[^fidelis2024]
 

@@ -53,3 +53,11 @@
 - Duração: 16 min (prefeitura) × "aproximadamente 15 minutos" (RCN67, 22 out. 2025). O verbete não dá a duração.
 - Wikipédia: "Cadu Xavier" em pt.wikipedia é homônimo (político do RN), não é a pessoa.
 - Fonte única de fato para a biografia (release da prefeitura reproduzido pelo RCN67).
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: Andressa de Paula, "Curta três-lagoense 'Ponto Final' estreia com entrada gratuita e celebra o poder do cinema local", *Hojemais Três Lagoas*, 16 jun. 2025 (https://www.hojemais.com.br/tres-lagoas/noticia/cultura/curta-treslagoense-ponto-final-estreia-com-entrada-gratuita-e-celebra-o-poder-do-cinema-local), achada pelo RSS do Google Notícias. Texto assinado, diferente do release da prefeitura (traz valor, tamanho da equipe, personagens).
+- Reforça: jornalista, ator e escritor em Três Lagoas desde 2017; *Ponto Final* gravado em fev. 2025, estreia em 18 jun. 2025 no Sest/Senat, Lei Paulo Gustavo.
+- Acrescentado: estreia na direção; personagem Beto (Cadu) e Pedro (Lucas Spirandeli); cerca de R$ 20 mil; cerca de 12 técnicos e 50 participantes.
+- Lado pendente: biografia literária e teatral (antologias, peças) segue só no release reproduzido pelo RCN67. O site de Hojemais é veículo de Três Lagoas; não depende da prefeitura.
+- Para o verbete ponto-final-curta (não editado aqui): mesma fonte serve de reforço.

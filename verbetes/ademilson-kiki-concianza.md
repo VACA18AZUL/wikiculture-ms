@@ -25,6 +25,7 @@ Em fevereiro de 2025, o *Campo Grande News* apresentou Kiki Concianza Kaiowá co
 
 - *Jerosy Puku, O Grande Canto* (2017) — filme da ASCURI dirigido por Kiki Concianza.[^c6]
 - *As aventuras de Perurimã e o Pássaro de ouro* (2013) — curta de comédia feito em oficina na aldeia Pirakuá; Kiki foi monitor, ator e tradutor.[^c4]
+- [[terra-vermelha-filme|*Terra Vermelha*]] (2008) — longa de Marco Bechis; elenco, no papel de Irineu, segundo Corrêa,[^c3] grafado Ireneu por Alves, que credita o ator como Ademilson Concianza Verga.[^alves2012]
 - [[jakaira|*Jakaira*]] (2019) — documentário de 16 minutos, direção coletiva da ASCURI, sobre o ritual do batismo do milho branco (Jerosy Puku) na aldeia Guyra Kambi'y, do povo kaiowá; fotografia de Kiki Concianza, com Gilmar Kiripuku Galache e Renan Braga, e montagem dele e de Galache.[^fdoc]
 - *Pirakuá – Os Guardiões do Rio Apa* (2014) — documentário curto dirigido por [[gilmar-galache|Gilmar Galache]]; imagens e direção de fotografia de Kiki.[^c7]
 - *Ka'a guy jára* (em produção em fev. 2025) — filme com direção de Kiki Concianza Kaiowá e Gee Kaiowá; fotografia de Felipe Bomfim.[^cgn2025]
@@ -40,3 +41,4 @@ Em fevereiro de 2025, o *Campo Grande News* apresentou Kiki Concianza Kaiowá co
 [^c8]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 198, nota 416. Acesso em 29 out. 2026.
 [^fdoc]: Fórum.doc.BH, acervo, ["Jakaira (2019)"](https://acervo.forumdoc.org.br/movie/jakaira/), ficha do filme. Acesso em 4 nov. 2026.
 [^cgn2025]: Aletheya Alves, ["Nada de história importada, MS tem guardião místico que protege a mata"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/nada-de-historia-importada-ms-tem-guardiao-mistico-que-protege-a-mata), *Campo Grande News*, 5 fev. 2025. Acesso em 4 nov. 2026.
+[^alves2012]: Maria Helena Benites Alves, [*Análise da representação dos índios Kaiowá e Guarani no cinema: filme Terra Vermelha*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/1968), dissertação (Mestrado em Estudos de Linguagens), Universidade Federal de Mato Grosso do Sul, 2012, p. 8, 10, 86-89. Acesso em 4 nov. 2026.

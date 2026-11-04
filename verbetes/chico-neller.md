@@ -8,7 +8,7 @@ ficha:
   Atividade: Bailarino, coreógrafo e diretor
   Grupos: Ginga Cia. de Dança; Cia do Mato
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Chico Neller** é bailarino e coreógrafo de Campo Grande, fundador da Cia do Mato.[^cgn2021]
@@ -23,10 +23,13 @@ Em 2014, o *Campo Grande News* registrou que ele dirigia a [[companhia-dancar|Co
 
 Em 2019, assinou a direção artística de *Serenade*, estreado pela Ginga no [[premio-onca-pintada-da-danca|Prêmio Onça Pintada]].[^correio2019]
 
+Em 2024, *O Estado de Mato Grosso do Sul* o apresentou como fundador do Ginga Espaço de Danças, escola de dança de Campo Grande, e como idealizador de [[guadakan|*Guadakan*]], espetáculo de 2022 da [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]], com direção artística de Márcia Rolon. Um trecho da obra foi apresentado naquele ano no programa *Caldeirão com Mion*, da TV Globo.[^oestado2024] A matéria de 2012 do *Campo Grande News* lista outros nomes como fundadores da Ginga Cia. de Dança.[^cgn2012]
+
 ## Obras
 
 - *Superfície do Homem* (2006) — espetáculo com coreografia de Chico Neller, segundo a matéria de 2012. O texto não diz a que grupo pertence.[^cgn2012]
 - *Serenade* (2019) — direção artística; Ginga Cia. de Dança.[^correio2019]
+- [[guadakan|*Guadakan*]] (2022) — idealização, segundo *O Estado de Mato Grosso do Sul*; Cia. de Dança do Pantanal.[^oestado2024]
 
 ## Espetáculos
 
@@ -36,3 +39,4 @@ Em 2019, assinou a direção artística de *Serenade*, estreado pela Ginga no [[
 [^cgn2014]: Fernando Oliveira, ["Na 'garra', dupla de bailarinos é aprovada para Festival de Joinville"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/na-garra-dupla-de-bailarinos-e-aprovada-para-festival-de-joinville), *Campo Grande News*, 28 maio 2014. Acesso em 4 nov. 2026.
 [^cgn2021]: Lucas Mamédio, ["Cia do Mato comemora 20 anos relembrando trajetória no palco"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/cia-do-mato-comemora-20-anos-relembrando-trajetoria-no-palco), *Campo Grande News*, 21 abr. 2021. Acesso em 29 out. 2026.
 [^correio2019]: Naiane Mesquita, ["Prêmio Onça Pintada reúne diversos grupos de dança da Capital"](https://correiodoestado.com.br/correio-b/premio-onca-pintada-reune-diversos-grupos-de-danca-da-capital/359942/), *Correio do Estado*, 3 set. 2019. Acesso em 29 out. 2026.
+[^oestado2024]: Ana Cavalcante, ["Duo Onças: dançarinos de MS apresentam belezas e dilemas do Pantanal"](https://oestadoonline.com.br/arte-e-lazer/duo-oncas-dancarinos-de-ms-apresentam-belezas-e-dilemas-do-pantanal/), *O Estado de Mato Grosso do Sul*, 28 fev. 2024. Acesso em 4 nov. 2026.
