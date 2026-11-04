@@ -31,3 +31,11 @@
 ## Uso no verbete
 
 - Resultado de 2021 não encontrado; fica fora.
+
+## Atualização de 2026-11-04
+
+- Segunda fonte independente (além do Correio do Estado): portal da UFMS.
+  - ufms2025a: "Lançamento do FUC UFMS 2025 destaca parcerias e memórias", UFMS, 22 jul. 2025 (https://www.ufms.br/lancamento-do-fuc-ufms-2025-destaca-parcerias-e-memorias/). Festival desde 1987 (Rozana Valentim); edição anterior em 2023; Canção Popular dividida em Regional e Urbana; Maria Alice: 2º lugar com "Modesta" e melhor intérprete no 3º FUC, 1993.
+  - ufms2025b: Bianka Macário, "Vencedores do FUC UFMS 2025 são anunciados no Teatro Glauce Rocha", UFMS, 10 nov. 2025. Final em 9 nov. 2025; R$ 30 mil; vencedores Insana Corte, Ipê Amarelo (Namaria), Amor Cifrado; melhor intérprete Namaria; melhor compositor Sal dos Santos ("Cérebro"); show dos 30 anos do Bando do Velho Jack.
+  - ufms2026: "Festival Universitário da Canção comemora os 50 anos de Mato Grosso do Sul", UFMS, 6 jul. 2026. Lançamento da edição 2027 (3 jul. 2026), caráter bienal, final prevista para out. 2027 (anúncio).
+- Lido e não citado: G1, 6 nov. 2025 (anúncio da final; dá "sábado (9)", a UFMS dá "domingo, 9"; 9 nov. 2025 foi domingo).

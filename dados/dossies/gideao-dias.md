@@ -64,3 +64,11 @@ Fontes descartadas e o motivo:
 
 - Entraram trajetória (fcms2024), shows realizados (fcms2019, fcms2025) e apresentações anunciadas (Correio do Estado), descritas como anunciadas.
 - Ficou fora: vida familiar; novo álbum anunciado.
+
+## Atualização de 2026-11-04
+
+- Segunda fonte independente lida: Campo Grande News, "Gideão Dias, o sambista que apostou em Campo Grande para lançar o 1º CD", 10 set. 2012 (https://www.campograndenews.com.br/lado-b/artes/gideao-dias-o-sambista-que-apostou-em-campo-grande-para-lancar-o-1-cd) [cgn2012]. Entra.
+- Fatos novos: veio para Campo Grande aos 10 anos; aos 15 já cantava na noite; grupos de samba com amigos; carreira solo havia 7 anos (c. 2005); cerca de 100 composições; influências (Zeca Pagodinho, Arlindo Cruz, Almir Guineto, Dona Ivone); Safra Boa com recursos do FIC, 10 faixas autorais, participações de Fred Camacho e Luiz Ayrão; lançamento anunciado para 17 nov. 2012 no Armazém Cultural (anúncio).
+- Divergências registradas no verbete: mudança para Campo Grande "na adolescência" (fcms2024) × aos 10 anos (cgn2012); participações em Safra Boa: Fred Camacho e Almirzinho (fcms2024) × Fred Camacho e Luiz Ayrão (cgn2012). Cronologia de carreira também difere (17 anos percussionista e 25 anos cantor, fcms2024; 15 anos já cantava na noite, cgn2012).
+- Ficam fora (dados pessoais): circunstâncias da morte do pai, religião da família, filho, idade.
+- Não lida: Top Mídia News, "Empresário de si, Gideão Dias é samba em tempo integral" (403); Midiamax 2022 (Palco Sesc) não aberta.

@@ -49,7 +49,7 @@ Tem também livros em coautoria, como *Uma saga do cotidiano* (2010, novela sat�
 
 ## Videografia
 
-- [[avenida-afonso-pena-clipe|Avenida Afonso Pena (videoclipe)]] (2025) — videoclipe da canção de Marcelo Fernandes; letra.[^cgn2025a]
+- [[avenida-afonso-pena-clipe|Avenida Afonso Pena (videoclipe)]] (2025) — videoclipe da canção de Marcelo Fernandes; letra.[^cgn2025a] [Assistir](https://www.youtube.com/watch?v=0PGgQW0c3Bk)
 
 ## Prêmios e honrarias
 

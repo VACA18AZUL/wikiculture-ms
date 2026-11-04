@@ -31,9 +31,15 @@ A reportagem de 2010 trata do museu "localizado na Morada dos Baís e batizado c
 
 A dissertação de Godoi lista a Morada dos Baís entre os espaços culturais frequentados em Campo Grande na década de 1980.[^godoi2020] Ela relata ainda que o relatório de gestão da UFMS (1996-2000) registra vinte e seis exposições de artes visuais na Pensão Pimentel (Morada dos Baís) em quatro anos.[^godoi2020] A mesma dissertação descreve o local como parceiro do curso de Educação Artística da UFMS, que ali expôs desenhos, pinturas e esculturas a partir da segunda metade dos anos 1990.[^godoi2020]
 
+## Programação
+
+Em outubro de 2026, a Morada dos Baís foi anunciada como sede do Brincando na Morada, tarde gratuita para crianças e famílias marcada para o sábado, 10 de outubro, a partir das 16h30. A programação previa apresentações musicais do Batucanção, com interação com o público, e do Grupo Guavira, com referências da música e da cultura de Mato Grosso do Sul, além de cosplays, passeio no Busão da Alegria e distribuição de pipoca e algodão-doce.[^acritica2026a][^acritica2026b]
+
 ## Para saber mais
 
 - [Lídia Baís: uma mulher à frente de seu tempo](http://www.campograndenoticias.com.br/2010/10/18/lidia-bais-uma-mulher-a-frente-de-seu-tempo/488/) — reportagem de 2010 sobre a artista e o museu.
 
 [^cgn2010]: ["Lídia Baís: uma mulher à frente de seu tempo"](http://www.campograndenoticias.com.br/2010/10/18/lidia-bais-uma-mulher-a-frente-de-seu-tempo/488/), *Campo Grande Notícias*, 18 out. 2010. Acesso em 4 nov. 2026.
 [^godoi2020]: Rozana Vanessa Fagundes Valentim de Godoi, [*O curso de Educação Artística na Universidade Federal de Mato Grosso do Sul (1980-2000): história e memórias*](http://repositorio.ufgd.edu.br/jspui/bitstream/prefix/4524/1/RozanaVanessaFagundesValentimdeGodoi.pdf), dissertação, Universidade Federal da Grande Dourados, 2020. Acesso em 4 nov. 2026.
+[^acritica2026a]: ["Brincando na Morada terá atrações gratuitas neste sábado"](https://acritica.net/cultura/brincando-na-morada-campo-grande/), *A Crítica de Campo Grande*, 5 out. 2026. Acesso em 4 nov. 2026.
+[^acritica2026b]: ["Brincando na Morada tem atrações gratuitas neste sábado"](https://acritica.net/cultura/brincando-na-morada-campo-grande-2/), *A Crítica de Campo Grande*, 10 out. 2026. Acesso em 4 nov. 2026.

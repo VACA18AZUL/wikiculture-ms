@@ -36,7 +36,7 @@ Uma playlist de filmes, documentários, curtas e videodanças reúne 24 vídeos 
 - *De Passagem* (2015) — videodança da [[cia-dancurbana|Cia Dançurbana]], segundo o título do vídeo.[^v3] [Assistir no YouTube](https://www.youtube.com/watch?v=s32-QlEr5N4)
 - *Estudos de Superfície* (2013) — videodança do Ginga, segundo o título do vídeo.[^v4] [Assistir no YouTube](https://www.youtube.com/watch?v=-hgXkjk4C_U)
 - *Plataforme-se: os limites elásticos* (2017) — videodança, segundo o título do vídeo.[^v5] [Assistir no YouTube](https://www.youtube.com/watch?v=SNofVYQMVTU)
-- [[avenida-afonso-pena-clipe|Avenida Afonso Pena (videoclipe)]] (2025) — videoclipe; direção de [[helton-perez|Hélton Perez]], descrito como do grupo Vaca Azul.[^cgn2025a]
+- [[avenida-afonso-pena-clipe|Avenida Afonso Pena (videoclipe)]] (2025) — videoclipe; direção de [[helton-perez|Hélton Perez]], descrito como do grupo Vaca Azul.[^cgn2025a] [Assistir](https://www.youtube.com/watch?v=0PGgQW0c3Bk)
 
 [^canal]: Vaca Azul, ["Sobre"](https://www.youtube.com/@vaca18azul), canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.
 [^pl]: Vaca Azul, ["Filmes | Documentários | Curta-metragens | Videodanças"](https://www.youtube.com/playlist?list=PLkNLlECYU3UlvSjycx3HvbJj5JaFmQfwi), playlist do canal *Vaca Azul* no YouTube. Acesso em 4 nov. 2026.

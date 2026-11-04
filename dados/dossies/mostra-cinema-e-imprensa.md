@@ -39,3 +39,9 @@ Fonte única por veículo (FCMS). Buscas na Correio do Estado sem resultado sobr
 ## Uso no verbete
 
 - Tudo acima, exceto nomes de público.
+
+## Atualização de 2026-11-04 (validação valn-25)
+
+- O MIS é órgão da FCMS: as três notas são da instituição que promove a mostra; não há fonte independente.
+- Busca de segunda fonte: Correio do Estado (busca interna redireciona para a capa), A Crítica (sem resultado), site do Sindjor-MS (conexão recusada, 502), Brave (429). Nada novo lido.
+- Sugestões: site e redes do Sindjor-MS, Campo Grande News e Midiamax de out. 2016 e abr. 2017, Fenaj.
