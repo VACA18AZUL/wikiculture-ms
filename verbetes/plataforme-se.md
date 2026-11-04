@@ -15,15 +15,15 @@ O **Programa Plataforme-se** é um projeto de criação, experimentação e difu
 
 ## Trabalhos
 
-Do programa saíram o espetáculo-intervenção *Deriva*, três videodanças, a Mostra CTA – Corpos Transeuntes em Ação e a série *Fronteiras*, em que artistas locais e de outros estados encenam a cidade e as próprias histórias.[^cgn2023]
+Do programa saíram o espetáculo-intervenção *Deriva*, três videodanças, a Mostra CTA – Corpos Transeuntes em Ação e a série *Fronteiras*, na qual artistas de Campo Grande e de outras partes do país performam a cidade e as próprias trajetórias.[^cgn2023]
 
 ## Circuito Plataforme-se
 
-Em agosto de 2023, o Circuito Plataforme-se reuniu obras de dança e performance em espaços urbanos e alternativos, com entrada gratuita. Em 4 de agosto, *Deriva* foi apresentada na Praça Ary Coelho, e *Fruto*, de [[joao-dias|João Dias]], da [[cia-theastai|Cia Theastai]], de Dourados, na [[casa-de-ensaio|Casa de Ensaio]]. Em 5 de agosto, [[febraro-de-oliveira|Febraro de Oliveira]] fez uma performance na mesma praça, e [[procedimento-6|*Procedimento #6*]], de Mourão e [[reginaldo-borges|Reginaldo Borges]], foi apresentado na Casa de Ensaio.[^cgn2023]
+Para 4 e 5 de agosto de 2023, o Circuito Plataforme-se anunciou uma mostra gratuita de dança e performance em praças e espaços alternativos de Campo Grande. A programação previa, no dia 4, *Deriva* na Praça Ary Coelho e *Fruto*, de [[joao-dias|João Dias]], da [[cia-theastai|Cia Theastai]], de Dourados, na [[casa-de-ensaio|Casa de Ensaio]]; no dia 5, uma performance de [[febraro-de-oliveira|Febraro de Oliveira]] na mesma praça e [[procedimento-6|*Procedimento #6*]], de Mourão e [[reginaldo-borges|Reginaldo Borges]], na Casa de Ensaio.[^cgn2023]
 
 ## Residência Toró
 
-Em 2024, o programa abriu a residência artística *Toró*, apresentada como a primeira proposta por ele em Mato Grosso do Sul. Foram previstas seis vagas, metade para artistas e estudantes da capital e metade para o interior, com mentoria de Janaína Lobo, do Piauí, e Neemias Santana, da Bahia. A residência teve 60 horas em dois meses, entre encontros online e presenciais, e terminaria com a apresentação pública dos trabalhos, solos ou duos, de 8 a 17 de junho. O projeto teve incentivo do Fundo de Investimentos Culturais de Mato Grosso do Sul (FIC) e previa um jornal com versões impressa, em PDF e em áudio.[^cgn2024]
+Em 2024, o programa abriu a residência artística *Toró*, apresentada como a primeira proposta por ele em Mato Grosso do Sul. Foram previstas seis vagas, metade para artistas e estudantes da capital e metade para o interior, com mentoria de Janaína Lobo, do Piauí, e Neemias Santana, da Bahia. O plano era de 60 horas em dois meses: encontros online de 1º de maio a 5 de junho e, de 8 a 17 de junho, encontros presenciais e uma mostra pública dos processos, com trabalhos inéditos em solo ou dupla. O projeto teve incentivo do Fundo de Investimentos Culturais de Mato Grosso do Sul (FIC) e previa um jornal com versões impressa, em PDF e em áudio.[^cgn2024]
 
 ## Videografia
 
