@@ -32,7 +32,7 @@ Em maio de 2026, a [[fundac|Fundação Municipal de Cultura (Fundac)]] anunciou 
 
 De 29 de maio a 3 de julho de 2026, a Casa de Cultura recebeu a exposição *Momentos*, do artista plástico sul-mato-grossense Edino Lima Junior, professor de arte, com pinturas realistas em óleo sobre tela sobre emoções, memórias e cenas do cotidiano. A entrada era gratuita.[^acritica2026m][^pmcg2026m]
 
-De 10 de julho a 21 de agosto de 2026, a casa recebeu *Cartografias do Atravessamento*, primeira exposição individual de [[renan-reis|Renan Reis]] em Campo Grande, com obras em bordado, colagem, pintura e escultura e imagens feitas com inteligência artificial.[^acritica2026r]
+De 10 de julho a 21 de agosto de 2026, a casa recebeu *Cartografias do Atravessamento*, primeira exposição individual de [[renan-reis|Renan Reis]] em Campo Grande, com estudos e obras em bordado, colagem e intervenções ligadas à tecnologia.[^acritica2026r]
 
 Em 4 de setembro de 2026, a Casa de Cultura abriu "Florarium – do nativo ao endêmico", mostra independente com 36 artistas e entusiastas da botânica, inspirada na flora do Cerrado, do Pantanal e da Mata Atlântica em Mato Grosso do Sul. A curadoria coletiva foi de [[addi|Addi]], [[bejona|Bejona]] e [[lumar|Lumar]]. A exposição reuniu pinturas, esculturas, instalações e poemas, além de um painel de tecido pintado em aquarela feito em conjunto, e homenageou o ipê-amarelo. Ficou aberta até 24 de outubro, com entrada gratuita.[^acritica2026f1][^acritica2026f2]
 

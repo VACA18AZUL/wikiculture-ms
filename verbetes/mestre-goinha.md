@@ -23,7 +23,7 @@ Depois de uma temporada no Rio de Janeiro, onde frequentou ensaios de escolas de
 
 As fontes dizem que ele também ajudou a fundar [[os-catedraticos-do-samba|Os Catedráticos do Samba]] e a [[unidos-da-vila-carvalho|Unidos da Vila Carvalho]]. O *CN1 Brasil* situa essa participação na década de 1960, antes da Acadêmicos do Samba;[^cn1-2024] o *Campo Grande News* a põe depois de 1972.[^cgn2019] A Fundação de Cultura de MS data a Vila Carvalho de 1969 e Os Catedráticos de 1974.[^fcms2017]
 
-Em 12 de março de 1981, segundo o *CN1 Brasil*, fundou a União das Entidades Carnavalescas de Campo Grande, que em 1995 passou a se chamar Liga das Entidades Carnavalescas de Campo Grande, a Lienca, tendo ele como primeiro presidente.[^cn1-2024] O *Campo Grande News* situa a criação da primeira união de escolas de samba na década de 1960.[^cgn2019] João Renato Pereira Guedes, o Picolé, fundador da [[unidos-do-cruzeiro|Unidos do Cruzeiro]], desfilou por anos na escola de Goinha.[^cgn2019b]
+Em 12 de março de 1981, segundo o *CN1 Brasil*, fundou a União das Entidades Carnavalescas de Campo Grande, renomeada em 1995 como Liga das Entidades Carnavalescas de Campo Grande (Lienca), tendo ele como primeiro presidente.[^cn1-2024] O *Campo Grande News* situa a criação da primeira união de escolas de samba na década de 1960.[^cgn2019] João Renato Pereira Guedes, o Picolé, fundador da [[unidos-do-cruzeiro|Unidos do Cruzeiro]], desfilou por anos na escola de Goinha.[^cgn2019b]
 
 Goinha escreveu o livro *O sonho de um pantaneiro feliz!*, com memórias sobre o carnaval, o Pantanal e personagens do centro de Campo Grande. Também trabalhou como mestre de obras e participou de duas restaurações do Museu José Antônio Pereira.[^cgn2019]
 

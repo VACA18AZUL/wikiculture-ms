@@ -17,7 +17,7 @@ O filme revisita a obra de cinco realizadores: [[alexandre-couto|Alexandre Couto
 
 A pré-estreia foi em 28 de março de 2016, no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande. Segundo a Fundação de Cultura de MS, o auditório lotou e Alexandre Couto esteve presente.[^cgn2016][^fcms2016]
 
-Durante a produção do documentário, Carol mudou-se para São Paulo para fazer uma especialização do Itaú Cultural. Em 2016, trabalhava ali como assistente de direção e pesquisadora de conteúdo e dirigia projetos próprios; tinha feito pesquisa de conteúdo para a série *Amores Livres*, do canal GNT. Preparava então o média-metragem *Corpo Manifesto*, em que acompanha 16 feministas e atos feministas recentes.[^cgn2016][^fcms2016]
+Durante a produção do documentário, Carol mudou-se para São Paulo para fazer uma especialização do Itaú Cultural. Em 2016, morando em São Paulo, atuava como assistente de direção e pesquisadora de conteúdo e dirigia projetos próprios; pouco antes, tinha pesquisado conteúdo para a série *Amores Livres*, do canal GNT. Naquele ano, anunciava o média-metragem *Corpo Manifesto*, em que acompanha 16 feministas e atos feministas recentes.[^cgn2016] A Fundação de Cultura de MS descreveu o filme como um trabalho sobre manifestos femininos, a ser lançado em breve.[^fcms2016][^cgn2016][^fcms2016]
 
 ## Filmografia
 
