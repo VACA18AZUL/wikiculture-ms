@@ -3,7 +3,7 @@ titulo: Banda BatuqueCanta
 tipo: grupo
 areas: [musica]
 cidade: Campo Grande
-resumo: "Banda de percussão com instrumentos de material reciclável, criada em 2018 no Instituto Projeto Livres, em Campo Grande; criou o show Africanidades em 2025; a terceira edição, de 2026, foi anunciada com repertório inédito da Professora Rô."
+resumo: "Banda de percussão com instrumentos de material reciclável, criada em 2018 no Instituto Projeto Livres, em Campo Grande; estreou em 2025 o show Africanidades."
 ficha:
   Fundação: "2018"
   Sede: "Instituto Projeto Livres, Campo Grande"

@@ -18,9 +18,9 @@ atualizado: 2026-11-04
 
 ## Criação
 
-Segundo o diretor Ricardo Câmara, o roteiro nasceu durante a pandemia, depois que ele teve contato com um livro de imagens da artista. Com a Lei Paulo Gustavo, a equipe viu a chance de fazer seu primeiro longa de ficção.[^cgn2026b] O roteiro reuniu relatos de artistas, pesquisadores e pessoas que conviveram com Lídia, em encontros com nomes como [[humberto-espindola|Humberto Espíndola]] e Júlio Figueiredo. Parte da pesquisa visual foi feita em Assunção, no Paraguai, onde Lídia passou a infância.[^cgn2026b][^acritica2026a]
+Segundo o diretor Ricardo Câmara, o roteiro nasceu durante a pandemia, depois que ele teve contato com um livro de imagens da artista. Com a Lei Paulo Gustavo, a equipe viu a chance de fazer seu primeiro longa de ficção.[^cgn2026b] Para escrever o roteiro, a equipe ouviu histórias de artistas, pesquisadores e conhecidos de Lídia, em reuniões das quais participaram [[humberto-espindola|Humberto Espíndola]] e Júlio Figueiredo. A pesquisa visual passou por Assunção, no Paraguai, cidade da infância da pintora.[^cgn2026b][^acritica2026a]
 
-Em junho de 2026, *O Jacaré* informou que o filme estava orçado em R$ 2,5 milhões e recebera R$ 1 milhão da Lei Paulo Gustavo, e que a produção ainda buscava patrocínio.[^jacare2026] *A Crítica* cita apoio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] e da Fundação Municipal de Cultura de Campo Grande.[^acritica2026b]
+Em junho de 2026, *O Jacaré* informou que o filme estava orçado em R$ 2,5 milhões e recebera R$ 1 milhão da Lei Paulo Gustavo, e que a produção ainda buscava patrocínio.[^jacare2026] *A Crítica* cita apoio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] e da fundação municipal de cultura da capital.[^acritica2026b]
 
 ## Direção
 
@@ -28,7 +28,7 @@ As fontes divergem. O *Campo Grande News*, *O Jacaré* e uma matéria de maio de
 
 ## Gravação
 
-As filmagens começaram em maio de 2026 na Morada dos Baís, cujo interior foi adaptado para reproduzir ambientes da época.[^cgn2026b][^acritica2026c] [[ney-matogrosso|Ney Matogrosso]] chegou a Campo Grande em 5 de junho para gravar suas cenas, na reta final da produção. O convite veio por meio do produtor [[joel-pizzini|Joel Pizzini]].[^cgn2026d] A Morada dos Baís reabriu à visitação em 14 de julho de 2026, depois do fim das gravações.[^acritica2026c]
+As filmagens começaram em maio de 2026 na Morada dos Baís, cujo interior foi adaptado para reproduzir ambientes da época.[^cgn2026b][^acritica2026c] [[ney-matogrosso|Ney Matogrosso]] chegou a Campo Grande em 5 de junho, e suas cenas começaram a ser gravadas nesse dia, na reta final da produção. O convite veio por meio do produtor [[joel-pizzini|Joel Pizzini]].[^cgn2026d][^acritica2026b] A Morada dos Baís reabriu à visitação em 14 de julho de 2026, depois do fim das gravações.[^acritica2026c]
 
 ## Elenco
 

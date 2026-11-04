@@ -3,7 +3,7 @@ titulo: Universidade Estadual de Mato Grosso do Sul (UEMS)
 tipo: espaco
 areas: [teatro, danca]
 cidade: Campo Grande
-resumo: Universidade estadual de MS. Em Campo Grande, mantém formação em artes cênicas e em dança e o projeto de extensão Arrebol Cultural, que montou musicais como Delinha: O Musical (2023).
+resumo: "Universidade estadual de MS. Em Campo Grande, mantém formação em artes cênicas e em dança e o projeto de extensão Arrebol Cultural, que montou musicais como Delinha: O Musical (2023)."
 ficha:
   Atividade: "Ensino superior; cursos de Artes Cênicas e de Dança"
 links:

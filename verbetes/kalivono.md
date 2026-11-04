@@ -26,7 +26,7 @@ O *Campo Grande News* o apresentou como espetáculo de estreia do grupo;[^cgn202
 
 A estreia foi marcada para 1º de outubro de 2025, em ensaio aberto na Caixa Preta da UEMS, em Campo Grande. O projeto previa em seguida apresentações na Escola Municipal Professora Oliva Enciso e na Escola Municipal de Educação Infantil Paulino Romeiro Paré, além de rodas de conversa com professores sobre educação antirracista.[^cgn2025]
 
-Em 18 de dezembro de 2025, o espetáculo esteve na programação Férias no Prosa, do [[sesc-teatro-prosa|Sesc Teatro Prosa]].[^cgn2025b] A UEMS anunciou nova apresentação no mesmo teatro em 2 de maio de 2026, na programação da Semana Mundial da Dança.[^uems2026]
+O espetáculo foi programado para 18 de dezembro de 2025 na série Férias no Prosa, do [[sesc-teatro-prosa|Sesc Teatro Prosa]].[^cgn2025b] A UEMS anunciou nova apresentação no mesmo teatro em 2 de maio de 2026, na programação da Semana Mundial da Dança.[^uems2026]
 
 [^cgn2025]: Thailla Torres, ["Espetáculo infantil de MS leva maracatu e capoeira para o palco"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/espetaculo-infantil-de-ms-leva-maracatu-e-capoeira-para-o-palco), *Campo Grande News*, 30 set. 2025. Acesso em 4 nov. 2026.
 [^cgn2025b]: Natália Olliver, ["Semana será cheia de espetáculos teatrais e dança para criançada"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/semana-sera-cheia-de-espetaculos-teatrais-e-danca-para-criancada), *Campo Grande News*, 14 dez. 2025. Acesso em 4 nov. 2026.
