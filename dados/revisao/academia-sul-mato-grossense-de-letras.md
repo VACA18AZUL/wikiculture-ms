@@ -33,3 +33,14 @@ Data: 2026-11-04 (validação, tag val-1)
 ## Veredito
 
 Devolvido só pelo parágrafo de Maria da Glória Sá Rosa (fonte não aberta nesta sessão). Resto sustentado, com várias fontes. Wikipédia: https://pt.wikipedia.org/wiki/Academia_Sul-Mato-Grossense_de_Letras
+
+## Reconferência 2026-11-04
+
+Agente: reconferência (tag uems).
+
+Fonte reaberta: a dissertação de Adriana Carlos (UEMS, 2023) continua fora do ar em sigpos.uems.br (conexão recusada) e no archive.org, mas o mesmo PDF (DISSERTACAO_ADRIANA_CARLOS.pdf, 369 p.) foi baixado do registro do trabalho na Plataforma Sucupira da CAPES (https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092, "divulgação autorizada") e lido com pdftotext. Página impressa = página do PDF menos 2. A nota passou a apontar para o registro na Sucupira, com as páginas.
+
+- Fundação em 30 out. 1971 por Ulisses Serra, Germano Barros de Souza e Pontes, instalação em 13 out. 1972: OK, p. 64.
+- Sá Rosa convidada para a academia (p. 64), julgadora dos concursos Ulisses Serra (p. 65) e entrega de prêmio em 1979 (p. 66, 19 dez.): OK.
+
+Resultado: notas carlos64 e carlos65 conferidas. Nada retirado.

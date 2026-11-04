@@ -19,7 +19,7 @@ A House of Hands Up foi formada pelo dançarino brasiliense Eduardo Kon Zaion e 
 
 Em novembro de 2023, a participação da performer e hostess [[afrodite-fetake|Afrodite Fetake]], da House Hands Up MS, foi anunciada nas sessões de Corumbá de *Cavucada – a festa não será amanhã*, espetáculo-festa dos 20 anos da [[cia-dancurbana|Cia Dançurbana]], marcadas para 15 e 16 de novembro.[^cgn2023]
 
-Em março de 2026, A Crítica de Campo Grande noticiou a seleção do espetáculo sul-mato-grossense *Peça Única*, da House of Hands Up, para a 28ª edição do Palco Giratório, circuito do Sesc que naquele ano levaria 16 companhias a 113 cidades. A matéria apresenta o coreógrafo [[roger-pacheco|Roger Pacheco]] como mother da casa. Ela usa o nome House of Hands Up, sem "MS", e trata o espetáculo como produção sul-mato-grossense; não diz com todas as letras que se trata da casa criada em 2017.[^acritica2026]
+Em março de 2026, A Crítica de Campo Grande noticiou a seleção do espetáculo sul-mato-grossense *Peça Única*, da House of Hands Up, para a 28ª edição do Palco Giratório, circuito do Sesc que naquele ano levaria 16 companhias a 113 cidades. A matéria apresenta o coreógrafo [[roger-pacheco|Roger Pacheco]] como mother da casa. Ela usa o nome House of Hands Up, sem "MS", e trata o espetáculo como produção sul-mato-grossense; a identificação com a casa criada em 2017 se apoia nesse vínculo com o estado.[^acritica2026]
 
 ## Espetáculos
 

@@ -30,3 +30,16 @@ Data: 2026-11-04 (validação, rodada val-10)
 - Local de nascimento: buscar fonte (Itaú Cultural, Dicionário Cravo Albin).
 
 Veredito: devolvido (só pela nota de Silus, não conferida).
+
+## Reconferência 2026-11-04
+
+Agente: reconferência (tag uems).
+
+Fonte: o resumo de Alan Silus no II SEDIA (anaisonline.uems.br) continua inacessível (conexão recusada em quatro tentativas; archive.org bloqueado nesta sessão). A dissertação do mesmo autor (UEMS, Letras, defendida em 10 mar. 2020) está no catálogo da CAPES, mas sem divulgação autorizada do PDF; o resumo da dissertação foi lido no registro da Plataforma Sucupira (https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=12756169).
+
+- Anos dos LPs: o resumo da dissertação dá 1979 (*Tetê e o Lírio Selvagem*) e 1980 (*Piraretã*). A frase passou a citar a nota nova silus2020.
+- RETIRADO: a afirmação de que o resumo do SEDIA cita 1978 e 1981 mais adiante (só no texto não aberto).
+- RETIRADO: "com base em entrevistas feitas com a cantora em 2018 e 2019" (só no resumo do SEDIA). Ficou: dissertação de mestrado em Letras na UEMS, defendida em 10 mar. 2020, analisa as canções dos dois primeiros LPs com base nas memórias da cantora (resumo na Sucupira).
+- Nota silus2019 removida; nota silus2020 (registro Sucupira) entrou no lugar.
+
+Resultado: nenhuma frase do verbete depende mais de fonte não aberta.

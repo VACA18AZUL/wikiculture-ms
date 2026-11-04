@@ -32,3 +32,18 @@ Data: 2026-11-04. Revisor: agente de validação (onda val-12).
 - O que dependia só da UEMS foi mantido com a nota original e marcado aqui como não conferido.
 
 Veredito: devolvido só para reconferir as frases da nota carlos2023.
+
+## Reconferência 2026-11-04
+
+Agente: reconferência (tag uems).
+
+Fonte reaberta: a dissertação de Adriana Carlos (UEMS, 2023) continua fora do ar em sigpos.uems.br (conexão recusada) e no archive.org, mas o mesmo PDF (DISSERTACAO_ADRIANA_CARLOS.pdf, 369 p.) foi baixado do registro do trabalho na Plataforma Sucupira da CAPES (https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092, "divulgação autorizada") e lido com pdftotext. Página impressa = página do PDF menos 2. A nota passou a apontar para o registro na Sucupira, com as páginas.
+
+- "professora aposentada da UFMS": OK, p. 70, nota 117.
+- Sá Rosa na posse (professora, leitora, escritora, crítica de arte): OK, p. 70; o discurso saiu no "Suplemento Cultural" em 11 dez. 2010 (p. 131).
+- *Memória da Arte em MS*, 1992 na página de rosto e 1993 na orelha de *Contos de hoje e sempre*: OK, p. 258, nota 457 (lançamento em 10 dez. 1993, p. 259).
+- *Antologia de textos da literatura sul-mato-grossense* (2013), com Sá Rosa e Albana Xavier Nogueira: OK, p. 246 e 268.
+- *A crônica dos quatro* (2014), 57 textos, 15 dela, "Correio B", nov. 2012 a set. 2014: OK, p. 269.
+- Divergência pendente do doutorado: a dissertação diz "Doutora em Teoria Literária e Literatura Comparada pela Unesp" (p. 70, nota 117). Não contradiz a ASL (doutorado no PPG em Letras da Unesp-Assis, 1996); as duas descrições ficaram no verbete, cada uma com sua nota.
+
+Resultado: todas as frases da nota carlos2023 conferidas. Nada retirado.

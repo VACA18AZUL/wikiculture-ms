@@ -37,3 +37,16 @@ Data: 2026-11-04. Revisor: agente de validação (onda val-12).
 - O parágrafo apoiado só na dissertação da UEMS precisa ser reconferido quando o servidor voltar.
 
 Veredito: devolvido só para reconferir a nota uems; o restante está sustentado.
+
+## Reconferência 2026-11-04
+
+Agente: reconferência (tag uems).
+
+Fonte reaberta: a dissertação de Adriana Carlos (UEMS, 2023) continua fora do ar em sigpos.uems.br (conexão recusada) e no archive.org, mas o mesmo PDF (DISSERTACAO_ADRIANA_CARLOS.pdf, 369 p.) foi baixado do registro do trabalho na Plataforma Sucupira da CAPES (https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092, "divulgação autorizada") e lido com pdftotext. Página impressa = página do PDF menos 2. A nota passou a apontar para o registro na Sucupira, com as páginas.
+
+- Sá Rosa julgadora dos concursos de contos Ulisses Serra: OK, p. 65.
+- Palestra em 19 dez. 1979 na entrega do prêmio: OK, p. 66.
+- Foto da sessão solene de 1973, com ela como julgadora: OK, mas está na p. 75 (não na p. 134, como dizia a nota); a foto saiu na edição n. 1 da revista da ASL, set. 2003. Página corrigida e origem da foto acrescentada.
+- Convite do "IV Concurso de Contos Ulisses Serra" sem data: OK, p. 330 (lista de convites).
+
+Resultado: parágrafo "Edições antigas" conferido; páginas corrigidas. Nada retirado.

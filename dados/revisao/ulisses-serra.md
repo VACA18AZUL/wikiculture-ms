@@ -31,3 +31,13 @@ Data: 2026-11-04. Revisor: agente de validação (onda val-12).
 - Data de fundação segundo a ASL e registro da ata; criação do concurso em 1972; inclusão de *Camalotes e Guavirais* na Série Historiográfica do TJ (1988).
 
 Veredito: devolvido só para reconferir a frase de 1979 (nota carlos); o restante está sustentado.
+
+## Reconferência 2026-11-04
+
+Agente: reconferência (tag uems).
+
+Fonte reaberta: a dissertação de Adriana Carlos (UEMS, 2023) continua fora do ar em sigpos.uems.br (conexão recusada) e no archive.org, mas o mesmo PDF (DISSERTACAO_ADRIANA_CARLOS.pdf, 369 p.) foi baixado do registro do trabalho na Plataforma Sucupira da CAPES (https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092, "divulgação autorizada") e lido com pdftotext. Página impressa = página do PDF menos 2. A nota passou a apontar para o registro na Sucupira, com as páginas.
+
+- Cerimônia de 1979 no Paço Municipal: OK. P. 66: em 19 dez. 1979, Sá Rosa deu palestra no Paço Municipal na entrega do prêmio do concurso de contos Ulisses Serra. A frase foi precisada com o dia e a palestra.
+
+Resultado: nota carlos conferida. Nada retirado.

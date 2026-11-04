@@ -35,3 +35,18 @@
 ## Veredito
 
 Devolvido: a fonte principal (Carlos, UEMS) não abriu nesta sessão; o resto confere.
+
+## Reconferência 2026-11-04
+
+Agente: reconferência (tag uems).
+
+Fonte reaberta: a dissertação de Adriana Carlos (UEMS, 2023) continua fora do ar em sigpos.uems.br (conexão recusada) e no archive.org, mas o mesmo PDF (DISSERTACAO_ADRIANA_CARLOS.pdf, 369 p.) foi baixado do registro do trabalho na Plataforma Sucupira da CAPES (https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092, "divulgação autorizada") e lido com pdftotext. Página impressa = página do PDF menos 2. A nota passou a apontar para o registro na Sucupira, com as páginas.
+
+- Nascimento em 4 nov. 1927, Mombaça (CE): OK, p. 27 e 243.
+- Letras Neolatinas na PUC-RJ (1949) e volta a Campo Grande em 1950 depois de oito anos fora de MT: OK, p. 41, 44 e 80.
+- Fundações (Aliança Francesa, ACP, Revista de Estudos Universitários da FADAFI, TUC, Cine Clube), honoris causa UCDB e UFMS, 17 livros, coleções didáticas nacionais, "Suplemento Cultural", recorte 1970-1990, acervo na UEMS: OK, resumo (p. 5 do PDF) e p. 121, 85.
+- Cadeira 19 da ASL: OK, p. 63.
+- CORRIGIDO: o verbete dizia que Carlos data *Artes plásticas em Mato Grosso do Sul* de 2003 e o atribui só a Rosa. A dissertação dá 2005 em todas as passagens (p. 53, 78, 162, 263), com coautoria de Idara Duncan e Yara Penteado e lançamento no MARCO em 15 dez. 2005 (p. 263). A frase foi reescrita; a divergência com Moreira deixou de existir (Moreira também dá 2005).
+- ACRESCENTADO: data da morte, 28 jul. 2016, em Campo Grande (p. 78 e 246), na ficha e no texto. Nome do hospital ficou fora.
+
+Resultado: todas as frases da nota carlos conferidas; uma corrigida.

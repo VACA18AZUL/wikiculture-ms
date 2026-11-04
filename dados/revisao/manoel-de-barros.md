@@ -33,3 +33,14 @@ Data: 2026-11-04
 - Depois de confirmada a morte, a abertura deve passar de "é um poeta" para "foi um poeta".
 
 Veredito: devolvido (duas notas não conferidas).
+
+## Reconferência 2026-11-04
+
+Agente: reconferência (tag uems).
+
+Fonte reaberta: a dissertação de Adriana Carlos (UEMS, 2023) continua fora do ar em sigpos.uems.br (conexão recusada) e no archive.org, mas o mesmo PDF (DISSERTACAO_ADRIANA_CARLOS.pdf, 369 p.) foi baixado do registro do trabalho na Plataforma Sucupira da CAPES (https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092, "divulgação autorizada") e lido com pdftotext. Página impressa = página do PDF menos 2. A nota passou a apontar para o registro na Sucupira, com as páginas.
+
+- Anos 1916-2014: OK, p. 55, nota 89. A ficha "Morte: 2014" fica sustentada.
+- Estátua de bronze de Ique Woitschach na avenida Afonso Pena: OK, p. 146, nota 261.
+
+Resultado: notas carlos55 e carlos146 conferidas. Nada retirado.

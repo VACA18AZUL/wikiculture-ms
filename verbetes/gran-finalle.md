@@ -20,7 +20,7 @@ Um casal de velhinhos, ela de memória afiada e ele esquecido, espera os filhos 
 
 ## Apresentações
 
-O espetáculo integrou o projeto Circo.Lação, apoiado pelo Fundo de Investimentos Culturais de Mato Grosso do Sul em 2023, que previa seis apresentações com intérprete de Libras, duas em cada cidade: Campo Grande, Dourados e Corumbá. Previa também exibição no YouTube, com audiodescrição e Libras.[^cgn2023a] Depois de Dourados e Corumbá, a companhia o apresentou em Campo Grande em 16 e 17 de novembro de 2023, na Associação Amigos da Criança e do Adolescente, e anunciou exibições on-line de 1º a 3 de dezembro.[^cgn2023b]
+O espetáculo integrou o projeto Circo.Lação, apoiado pelo Fundo de Investimentos Culturais de Mato Grosso do Sul em 2023, que previa seis apresentações com intérprete de Libras, duas em cada cidade: Campo Grande, Dourados e Corumbá. Previa também exibição no YouTube, com audiodescrição e Libras.[^cgn2023a] Em 15 de novembro de 2023, a produtora Fran Corona disse que as apresentações de Dourados e Corumbá já tinham sido feitas; as de Campo Grande estavam marcadas para 16 e 17 de novembro, na Associação Amigos da Criança e do Adolescente, e as exibições on-line, para 1º a 3 de dezembro.[^cgn2023b]
 
 Em 13 de maio de 2024, abriu a programação circense da [[mostra-boca-de-cena|Boca de Cena]], sob uma lona montada ao lado do Memorial da Cultura, no Centro de Campo Grande.[^cgn2024] Em julho de 2026, A Crítica anunciou uma apresentação para 11 de julho no [[sesc-teatro-prosa|Sesc Teatro Prosa]], numa programação gratuita voltada a crianças e famílias.[^acritica2026]
 
