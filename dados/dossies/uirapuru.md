@@ -21,7 +21,7 @@
 
 ## Atualização de 2026-11-04 (r-3, segunda fonte)
 
-- Fonte nova aberta e lida: Redação, "Sesc show Marlon Maciel e Germano Brandão em Campo Grande", A Crítica de Campo Grande, 8 set. 2026 (https://acritica.net/cultura/sesc-show-marlon-maciel-germano-brandao-campo-grande/). Veículo independente da dissertação UFMS.
+- Fonte nova aberta e lida: Redação, "Sesc celebra 80 anos com noite de música regional em Campo Grande" (tag title da página: "Sesc promove show gratuito de Marlon Maciel e Germano Brandão"), A Crítica de Campo Grande, 8 set. 2026 (https://acritica.net/cultura/sesc-show-marlon-maciel-germano-brandao-campo-grande/). Veículo independente da dissertação UFMS.
 - O que sustenta: Marlon Maciel começou a carreira no Grupo Musical Uirapuru; em 1993 participou da criação do Canto da Terra (11 anos no grupo, sete CDs). Entrou como parágrafo novo na Trajetória, ao lado do depoimento de Victor Hugo da dissertação (que diz que Marlon e outros formaram depois o Uirapuru e O Canto da Terra). Não há divergência.
 - A matéria não informa o ano de fundação do Uirapuru nem o descreve; 1988 e "primeiro grupo baileiro" continuam só em Gonçalves (2014).
 - Pista não aberta: perfil do Campo Grande News sobre Marlon Maciel (matéria de 2018 sobre "30 anos" do Uirapuru e do acordeon), que o resumo de busca aponta mas a URL não foi localizada.

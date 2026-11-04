@@ -3,11 +3,10 @@ titulo: Adrianna Alberti
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: Escritora e pesquisadora de literatura fantástica em Campo Grande, autora de poesia e contos, idealizadora do projeto Expressões do Fantástico e integrante do Coletivo Tarja Preta.
+resumo: Escritora e pesquisadora de literatura fantástica em Campo Grande, autora de poesia e contos, idealizadora do projeto Expressões do Fantástico e uma das autoras da antologia Tarja Preta Segunda Dose.
 ficha:
   Nascimento: "1987, estado de São Paulo"
   Atividade: Escrita (poesia, contos), pesquisa em literatura fantástica, mediação de eventos literários
-  Grupos: "[[tarja-preta|Coletivo Tarja Preta]]"
 links:
   - tipo: wikipedia
     url: https://pt.wikipedia.org/wiki/Adrianna_Alberti
@@ -20,19 +19,19 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2019, era mestranda do Programa de Pós-Graduação em Letras da UEMS, com pesquisa sobre a estética fantástica na linha de historiografia literária, e graduada em psicologia pela [[ufms|UFMS]]. Naquele ano, idealizou o evento Expressões do Fantástico, aberto em 13 de agosto no Museu da Imagem e do Som de Mato Grosso do Sul, com exposições e uma mostra de cinema fantástico.[^cefantastico] Em 2023, o *Campo Grande News* a descreveu como escritora, professora, revisora e consultora acadêmica, e informou que ela mantinha, com Carolina Mancini, o projeto "Expressões do Fantástico", perfil dedicado a divulgar a fantasia na literatura brasileira.[^cgnsolidao] Em 2024, era doutoranda em Estudos de Linguagens.[^cgntambor]
+Em 2019, era mestranda do Programa de Pós-Graduação em Letras da UEMS, com pesquisa sobre a estética fantástica na linha de historiografia literária, e graduada em psicologia pela [[ufms|UFMS]]. Naquele ano, idealizou o evento Expressões do Fantástico, com abertura marcada para 13 de agosto no Museu da Imagem e do Som de Mato Grosso do Sul, com exposições e uma mostra de cinema fantástico.[^cefantastico] Em 2023, o *Campo Grande News* a descreveu como escritora, professora, revisora e consultora acadêmica, e informou que ela mantinha, com Carolina Mancini, o projeto "Expressões do Fantástico", perfil dedicado a divulgar a fantasia na literatura brasileira.[^cgnsolidao] Em 2024, era doutoranda em Estudos de Linguagens.[^cgntambor]
 
-Atua como mediadora de lançamentos. Em março de 2023, mediou o lançamento coletivo de [[flavio-adriano-nantes|Flávio Adriano Nantes]], [[fabio-dobashi|Fabio Dobashi]], [[volmir-cardoso|Volmir Cardoso]] e Ravel Paz no Sesc Cultura, em Campo Grande.[^cgnprofessores][^ceprofessores] Em novembro de 2023, mediou o bate-papo de lançamento de *A Encantada*, de [[tania-souza|Tânia Souza]], na Esplanada Ferroviária.[^cgnencantada]
+Foi anunciada como mediadora de lançamentos. Para 28 de março de 2023, a imprensa anunciou sua mediação no lançamento coletivo de [[flavio-adriano-nantes|Flávio Adriano Nantes]], [[fabio-dobashi|Fabio Dobashi]], [[volmir-cardoso|Volmir Cardoso]] e Ravel Paz no Sesc Cultura, em Campo Grande.[^cgnprofessores][^ceprofessores] Em 17 de novembro de 2023, estava anunciada como mediadora do bate-papo de lançamento de *A Encantada*, de [[tania-souza|Tânia Souza]], na Esplanada Ferroviária.[^cgnencantada]
 
-Para lançar *Outros Silêncios em Vigília*, em setembro de 2023, promoveu dois bate-papos: um com a escritora [[eva-vilma|Eva Vilma]] e outro, "A Solidão da Literatura", na Biblioteca Estadual Dr. Isaías Paim, com [[tania-souza|Tânia Souza]], [[fabio-gondim|Fábio Gondim]] e Leila Aparecida da Silva.[^cgnsolidao] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], lançada pelo [[tarja-preta|Coletivo Tarja Preta]] em novembro de 2023.[^cgntarja]
+Para lançar *Outros Silêncios em Vigília*, em setembro de 2023, anunciou dois bate-papos, marcados para os dias 13 e 16: um com a escritora [[eva-vilma|Eva Vilma]] e outro, "A Solidão da Literatura", na Biblioteca Estadual Dr. Isaías Paim, com [[tania-souza|Tânia Souza]], [[fabio-gondim|Fábio Gondim]] e Leila Aparecida da Silva.[^cgnsolidao] Está entre os 32 autores da antologia [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], do [[tarja-preta|Coletivo Tarja Preta]], com lançamento anunciado para 11 de novembro de 2023.[^cgntarja]
 
 ## Obras
 
 - *O Silêncio nas Pontas dos Dedos* (2021), primeiro livro, selecionado pelo Prêmio Leia MS – Lei Aldir Blanc e publicado só em formato digital.[^cgnsolidao] Outra reportagem grafa o título como *O Silêncio na Ponta dos Dedos*.[^cgntambor]
 - *As Cores na Ponta da Língua* (2022), parte da Coleção III do Mulherio das Letras, pela Editora Venas Abiertas.[^cgnsolidao]
-- *Em Busca da Rainha do Ignoto: a mulher e a transgressão no fantástico* (2022), pela Editora Dialética, originado da dissertação de mestrado; estudo sobre *A Rainha do Ignoto*, de Emília de Freitas. Foi lançado em outubro de 2022 no [[campao-cultural-2022|Campão Cultural]], na Biblioteca Isaías Paim.[^cgnsolidao][^cgnrainha]
+- *Em Busca da Rainha do Ignoto: a mulher e a transgressão no fantástico* (2022), pela Editora Dialética, originado da dissertação de mestrado; estudo sobre *A Rainha do Ignoto*, de Emília de Freitas. Foi lançado em 8 de outubro de 2022 no [[campao-cultural-2022|Campão Cultural]], na Biblioteca Isaías Paim.[^cgnsolidao][^cgnrainha]
 - *Outros Silêncios em Vigília* (2023), poesia, sobre silêncio, solidão e introspecção.[^cgnsolidao]
-- *O Coração no Couro do Tambor* (2024), contos que tratam de memórias de uma casa de santo do candomblé, contemplado pela Lei Paulo Gustavo por meio da Secretaria Municipal de Cultura e Turismo de Campo Grande. Foi lançado em 17 de agosto de 2024, com mediação de Sarah Muricy.[^cgntambor]
+- *O Coração no Couro do Tambor* (2024), contos que tratam de memórias de uma casa de santo do candomblé, contemplado pela Lei Paulo Gustavo por meio da Secretaria Municipal de Cultura e Turismo de Campo Grande. O lançamento foi marcado para 17 de agosto de 2024, com mediação de Sarah Muricy.[^cgntambor]
 
 ## Para saber mais
 

@@ -24,3 +24,15 @@ Fonte nova (agente val-5):
 - Fatos acrescentados: lançada em 2017; cerca de 400 obras licenciadas em oito edições; inscrições da 9ª edição de 4 a 31 mar. 2026; Panorama Brasil (21 filmes), Panorama Estadual, Panorama Infantojuvenil; licenciamentos de até R$ 255 mil.
 - Correção: o verbete tratava a mostra como evento de Campo Grande; é uma mostra nacional do Sesc. As sessões de outubro de 2026 passaram a ser descritas como programação anunciada (a matéria é do dia da abertura).
 - Limite: as duas matérias são do mesmo veículo (RCN67). Segunda fonte de outro veículo não encontrada; a cota de busca aberta da rodada acabou. Sugestão: site nacional do Sesc (sesc.com.br) e Sesc MS.
+
+## Atualização de 2026-11-04 (r-3, segundas fontes de veículos diferentes)
+
+| id da nota | Referência | URL | Tipo |
+|---|---|---|---|
+| acr | Iury de Oliveira, "Mostra Sesc de Cinema exibe 12 filmes gratuitos em Campo Grande", A Crítica de Campo Grande, 9 out. 2026 | https://acritica.net/cultura/mostra-sesc-cinema-campo-grande-filmes-gratuitos/ | imprensa |
+| oimp | Redação, "Inscrições abertas para a 9ª Mostra Sesc de Cinema; premiação soma R$ 255 mil", O Imparcial, 26 mar. 2026 | https://oimparcial.com.br/noticias/2026/03/inscricoes-abertas-para-a-9a-mostra-sesc-de-cinema-premiacao-soma-r-255-mil/ | imprensa (texto de divulgação) |
+
+- Reforça: datas e local em Campo Grande, horário 19h, entrada gratuita (Sympla), 52 filmes entre mais de 1,9 mil, divisão por panoramas, 12 filmes em Campo Grande, quatro sessões; edital (inscrições até 31 mar., filmes finalizados desde 1 jan. 2024); cerca de 400 obras licenciadas até a 8ª edição (O Imparcial, não repetido no verbete, que já tem pela RCN67).
+- Acrescenta: filmes *Hurluberlu* e *Vestigial* na sessão de abertura; *Coragem* (Emy Santos) como destaque estadual; autoria de *Mapago* (Marcus Teles, já com verbete); circulação por 12 meses.
+- Divergência: valor dos licenciamentos, R$ 255 mil (RCN67 de mar. 2026, O Imparcial) x R$ 222 mil (A Crítica, out. 2026). As duas versões estão no verbete.
+- Nenhuma das duas matérias informa o ano de criação da mostra (2017 segue só no RCN67). Pistas: site do Sesc; Bem Paraná e Folha BV sobre a 9ª mostra (não abertos).

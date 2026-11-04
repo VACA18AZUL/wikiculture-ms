@@ -32,7 +32,7 @@ Fontes novas abertas e lidas:
 
 | id da nota | Referência | URL | Tipo |
 |---|---|---|---|
-| abr | Alana Gandra, "Jovens músicos do Pantanal se apresentam com OSB no Rio de Janeiro", Agência Brasil, 10 dez. 2023 | https://agenciabrasil.ebc.com.br/geral/noticia/2023-12/jovens-musicos-do-pantanal-se-apresentam-com-osb-no-rio-de-janeiro | imprensa (agência pública) |
+| abr | Alana Gandra, "Jovens músicos do Pantanal se apresentam com a OSB, no Rio de Janeiro", Agência Brasil, 10 dez. 2023 | https://agenciabrasil.ebc.com.br/geral/noticia/2023-12/jovens-musicos-do-pantanal-se-apresentam-com-osb-no-rio-de-janeiro | imprensa (agência pública) |
 | acr | Iury de Oliveira, "Orquestra de Câmara do Pantanal estreia em festival internacional na Bolívia", A Crítica de Campo Grande, 17 abr. 2026 | https://acritica.net/cultura/orquestra-de-camara-do-pantanal-estreia-em-festival-internacional-na-bolivia/ | imprensa |
 
 - Reforça: vínculo com o Moinho (abr e acr, independentes do Campo Grande News).

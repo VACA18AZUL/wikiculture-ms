@@ -10,13 +10,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**José "Piranha" Rocha** é ator e técnico do grupo de cineastas amadores de Campo Grande que fez os chamados filmes sertanejos, liderado por [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]].[^diehl]
+**José "Piranha" Rocha** é ator e técnico do grupo de cineastas amadores de Campo Grande que fez os chamados filmes sertanejos, no qual [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]] se alternam na direção e na produção.[^diehl]
 
 ## Trajetória
 
 A dissertação de Carlos Rodrigo Diehl cita José "Piranha" Rocha, com Rubens Ramos e Nelson Rondon, entre os que participam da maioria dos filmes do grupo nas principais funções técnicas e como atores.[^diehl]
 
-A ficha técnica da dissertação usa duas grafias: "José Piranha", no elenco de *A Marca do Destino*, e "José B. Rocha", nos créditos de *Liberdade para os Inocentes* e *Os Covardes Devem Morrer*.[^diehl]
+Na ficha técnica da dissertação, os créditos aparecem em duas formas: "José Piranha", no elenco de *A Marca do Destino*, e "José B. Rocha", nos créditos de *Liberdade para os Inocentes* e *Os Covardes Devem Morrer*. Este verbete reúne as duas formas sob o nome usado no texto da dissertação, José "Piranha" Rocha; a ficha não diz que se trata da mesma pessoa.[^diehl]
 
 ## Filmografia
 
@@ -24,4 +24,4 @@ A ficha técnica da dissertação usa duas grafias: "José Piranha", no elenco d
 - [[os-covardes-devem-morrer|Os Covardes Devem Morrer]] (1985) — longa-metragem; efeitos especiais, com Nelson Rondon, e atuação, creditado como José B. Rocha.[^diehl]
 - [[liberdade-para-os-inocentes|Liberdade para os Inocentes]] (sem data) — atuação, creditado como José B. Rocha.[^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 15 e 156. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, resumo e p. 8 e 155. Acesso em 4 nov. 2026.

@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Nelson Rondon** é ator e técnico do grupo de cineastas amadores de Campo Grande que fez os chamados filmes sertanejos, liderado por [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]].[^diehl]
+**Nelson Rondon** é ator e técnico do grupo de cineastas amadores de Campo Grande que fez os chamados filmes sertanejos, no qual [[alexandre-couto|Alexandre Couto]] e [[reinaldo-dorval|Reinaldo Dorval]] se alternam na direção e na produção.[^diehl]
 
 ## Trajetória
 
@@ -20,4 +20,4 @@ A dissertação de Carlos Rodrigo Diehl cita Nelson Rondon, com José "Piranha" 
 
 - [[os-covardes-devem-morrer|Os Covardes Devem Morrer]] (1985) — longa-metragem; efeitos especiais, com [[jose-piranha-rocha|José B. Rocha]], e atuação.[^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 15 e 156. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, resumo e p. 8 e 155. Acesso em 4 nov. 2026.

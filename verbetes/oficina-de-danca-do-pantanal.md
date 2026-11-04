@@ -24,12 +24,12 @@ Em 2006, a Oficina criou o projeto Como Nossos Filhos, com aulas de dança para 
 
 O Correio do Estado registra apresentações dos alunos em cidades de Mato Grosso do Sul, como Campo Grande, Coxim, Bonito, Ponta Porã e Três Lagoas, e na Bolívia, em Puerto Quijarro, Puerto Suárez, Cochabamba, Sucre e Potosí. A Oficina recebeu moções de congratulação das câmaras municipais de Coxim e de Corumbá e, em agosto de 2004, uma homenagem do Tribunal de Contas do Estado. Em 2005, montou o espetáculo *Dança, Brasil!*, com danças tradicionais das cinco regiões do país.[^correio2011]
 
-Em abril de 2018, no Dia Internacional da Dança, a Oficina promoveu o projeto Dança além do Palco, da Prefeitura, com apresentações em centros de educação infantil, unidades de saúde, lar de idosos e nas duas unidades prisionais de regime fechado de Corumbá.[^agepen2018] Em janeiro de 2024, abriu aulas gratuitas de frevo para todas as idades, com os professores Kleber Kosta e Patricia Ximenez, em preparação para o Carnaval.[^cgn2024a]
+Em abril de 2018, no Dia Internacional da Dança, a Oficina promoveu o projeto Dança além do Palco, da Prefeitura, com apresentações em centros de educação infantil, unidades de saúde, lar de idosos e nas duas unidades prisionais de regime fechado de Corumbá.[^agepen2018] Em janeiro de 2024, anunciou aulas gratuitas de frevo para todas as idades a partir do dia 15, com os professores Kleber Kosta e Patricia Ximenez, em preparação para o Carnaval.[^cgn2024a]
 
 ## Espetáculos
 
 - *Dança, Brasil!* (2005) — espetáculo com coreografias das cinco regiões do Brasil, entre elas danças gaúchas, xaxado, frevo, carimbó, lundu, siriri e samba.[^correio2011]
-- *Comitiva Esperança* — apresentado pela Oficina de Dança de Corumbá em 1º de outubro de 2024, no Armazém Cultural, em Campo Grande, na [[semana-pra-danca|Semana pra Dança]].[^cgn2024b]
+- *Comitiva Esperança* — programado pela Oficina de Dança de Corumbá para 1º de outubro de 2024, no Armazém Cultural, em Campo Grande, na [[semana-pra-danca|Semana pra Dança]].[^cgn2024b]
 
 [^correio2011]: Redação, ["Oficina de Dança já está com inscrições abertas"](https://correiodoestado.com.br/cidades/oficina-de-danca-ja-esta-com-inscricoes-abertas/97335/), *Correio do Estado*, 29 jan. 2011. Acesso em 4 nov. 2026.
 [^silva2015]: Denise Pereira da Silva, [*Perfil do estilo de vida em mulheres praticantes de aulas de dança da Oficina de Dança de Corumbá (MS)*](https://cpan.ufms.br/files/2017/04/DENISE-PEREIRA.pdf), monografia (Licenciatura em Educação Física), Universidade Federal de Mato Grosso do Sul, Câmpus do Pantanal, 2015, p. 21. Acesso em 4 nov. 2026.

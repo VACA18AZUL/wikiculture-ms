@@ -32,5 +32,5 @@ Os valores de licenciamento divergem entre as fontes: o RCN67, com informações
 
 [^rcn]: Ana Lorena Franco, ["Mostra Sesc de Cinema exibe 12 produções em Campo Grande até quinta"](https://www.rcn67.com.br/campo-grande/mostra-sesc-de-cinema-exibe-12-producoes-em-campo-grande-ate-quinta/), *RCN67*, 13 out. 2026. Acesso em 29 out. 2026.
 [^rcn2026a]: ["Cineastas de MS podem inscrever filmes na 9ª Mostra Sesc de Cinema"](https://www.rcn67.com.br/campo-grande/cineastas-de-ms-podem-inscrever-filmes-na-9a-mostra-sesc-de-cinema/), *RCN67*, 4 mar. 2026, com informações do Sesc-MS. Acesso em 4 nov. 2026.
-[^acr]: Iury de Oliveira, ["Mostra Sesc de Cinema traz filmes gratuitos a Campo Grande"](https://acritica.net/cultura/mostra-sesc-cinema-campo-grande-filmes-gratuitos/), *A Crítica de Campo Grande*, 9 out. 2026. Acesso em 4 nov. 2026.
+[^acr]: Iury de Oliveira, ["Mostra Sesc de Cinema exibe 12 filmes gratuitos em Campo Grande"](https://acritica.net/cultura/mostra-sesc-cinema-campo-grande-filmes-gratuitos/), *A Crítica de Campo Grande*, 9 out. 2026. Acesso em 4 nov. 2026.
 [^oimp]: Redação, ["Inscrições abertas para a 9ª Mostra Sesc de Cinema; premiação soma R$ 255 mil"](https://oimparcial.com.br/noticias/2026/03/inscricoes-abertas-para-a-9a-mostra-sesc-de-cinema-premiacao-soma-r-255-mil/), *O Imparcial*, 26 mar. 2026. Acesso em 4 nov. 2026.

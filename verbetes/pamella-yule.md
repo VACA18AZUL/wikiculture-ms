@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em *Madalena*, filme rodado em Dourados, interpreta Bianca, uma dos três jovens da trama, ao lado de [[natalia-mazarim|Natália Mazarim]] (Luziane) e [[rafael-de-bona|Rafael de Bona]] (Cristiano).[^cgn2021][^mostra] O filme estreou no Festival Internacional de Cinema de Roterdã, em 2021.[^cgn2021]
+Em *Madalena*, filme rodado em Dourados, interpreta Bianca, uma dos três jovens da trama, ao lado de [[natalia-mazarim|Natália Mazarim]] (Luziane) e [[rafael-de-bona|Rafael de Bona]] (Cristiano).[^cgn2021][^mostra] O filme teve estreia mundial no 50º Festival Internacional de Cinema de Roterdã.[^cgn2022]
 
 No Festival de Cinema de Lima, no Peru, recebeu o prêmio de melhor interpretação, o prêmio Gio, dado pela Crônicas de Diversidade a filmes LGBTIQ+.[^cgn2022]
 
