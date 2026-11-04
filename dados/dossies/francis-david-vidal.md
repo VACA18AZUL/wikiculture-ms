@@ -52,3 +52,8 @@ Fontes descartadas: Campo Grande News, 23/04/2023 ("Antes de camerata, música f
 ## Uso no verbete
 
 - Entrou o acima. Fora: vida conjugal, depoimentos do público, endereços dos locais.
+
+## Atualização de 2026-11-04 (revisão)
+
+- Fontes reabertas. Concertos de Aparecida do Taboado (13/05/2023) e do "Sons do Pantanal" (11 a 13/12/2025) só aparecem em textos de divulgação anteriores às datas; o verbete passou a tratá-los como programados.
+- fcms2025a: byline do site é Marcio Rodrigues Breda, com "reportagem de Aline Lira e Lucas Arruda"; mantida a nota com os repórteres.

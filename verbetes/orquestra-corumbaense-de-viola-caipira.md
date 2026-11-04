@@ -16,7 +16,7 @@ A **Orquestra Corumbaense de Viola Caipira** (OCVC) é um conjunto de viola caip
 
 ## Trajetória
 
-Segundo o maestro [[bibi-do-cavaco|Bibi do Cavaco]], o repertório privilegia músicas ligadas ao estado, com influências do chamamé, do cururu e do vaneirão, além de outras peças do universo da viola caipira.[^fcms2025]
+Segundo o maestro Bibi do Cavaco, o repertório privilegia músicas ligadas ao estado, com influências do chamamé, do cururu e do vaneirão, além de outras peças do universo da viola caipira.[^fcms2025]
 
 Em 16 de maio de 2025, a orquestra, regida por Bibi do Cavaco, abriu o Quebra-Torto com Letras, encontro literário do [[festival-america-do-sul-pantanal|Festival América do Sul]] realizado no [[instituto-moinho-cultural-sul-americano|Moinho Cultural]], em Corumbá.[^fcms2025]
 

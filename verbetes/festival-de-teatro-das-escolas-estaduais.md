@@ -17,7 +17,7 @@ O **MS In Cena** é o Festival de Teatro das Escolas Estaduais de Mato Grosso do
 
 As inscrições foram até 22 de setembro de 2026, com o tema "Educação Fiscal e Cultural: Construindo Cidadania Através da Arte e da Responsabilidade Fiscal". Cada escola podia inscrever até duas peças.[^sed2026] O festival recebeu 37 peças. Em 9 de outubro, uma comissão de profissionais de teatro, educação e educação fiscal avaliou roteiros e vídeos e escolheu dez finalistas.[^ac2026][^cgn2026]
 
-A final foi marcada para 5 de novembro de 2026, às 17h, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande, com entrada gratuita e premiação nas categorias Melhor Peça (três primeiros lugares), Melhor Texto e Melhor Direção.[^ac2026][^cgn2026] O festival teve apoio da Setesc, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], da Sanesul, da Febafams e do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^ac2026]
+A final foi marcada para 5 de novembro de 2026, às 17h, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande, com entrada gratuita e anúncio dos vencedores, depois das apresentações, nas categorias Melhor Peça (três primeiros lugares), Melhor Texto e Melhor Direção.[^ac2026][^cgn2026] O festival anunciou apoio da Setesc, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], da Sanesul, da Febafams e do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^ac2026]
 
 Os dez finalistas foram:[^ac2026][^cgn2026]
 
@@ -27,6 +27,6 @@ Os dez finalistas foram:[^ac2026][^cgn2026]
 - Anastácio: *O Tesouro do Sítio* (Escola Estadual Cívico-Militar Maria Corrêa Dias).
 - Rio Verde de Mato Grosso: *O Casamento de Catarina* (Escola Estadual Vergelino Matheus de Oliveira).
 
-[^sed2026]: Secretaria de Estado de Educação de MS, ["MS In Cena convida estudantes da rede estadual a subirem ao palco"](https://www.sed.ms.gov.br/ms-in-cena-convida-estudantes-da-rede-estadual-a-subirem-ao-palco/), 2026. Acesso em 4 nov. 2026.
+[^sed2026]: Secretaria de Estado de Educação de MS, ["MS In Cena convida estudantes da rede estadual a subirem ao palco"](https://www.sed.ms.gov.br/ms-in-cena-convida-estudantes-da-rede-estadual-a-subirem-ao-palco/), 29 maio 2026. Acesso em 4 nov. 2026.
 [^ac2026]: Pietro Bitencourt, ["Festival de Teatro das Escolas Estaduais reúne 10 finalistas em Campo Grande"](https://acritica.net/cultura/festival-de-teatro-das-escolas-estaduais-reune-10-finalistas-em-campo-grande/), *A Crítica de Campo Grande*, 2 nov. 2026. Acesso em 4 nov. 2026.
 [^cgn2026]: Clayton Neves, ["Estudantes de 10 escolas disputam festival de teatro em Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/estudantes-de-10-escolas-disputam-festival-de-teatro-em-campo-grande), *Campo Grande News*, 2 nov. 2026. Acesso em 4 nov. 2026.

@@ -51,3 +51,12 @@ Lidas e não usadas: FCMS 2019 (FIB 2019, contação de histórias, CMU) e FCMS 
 - cgn2026: Clayton Neves, "Batucando Histórias comemora 9 anos com show de graça para a criançada", Campo Grande News, 17 jul. 2026, https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/batucando-historias-comemora-9-anos-com-show-de-graca-para-a-criancada — grupo sul-mato-grossense de musicalização infantil; 9 anos com show gratuito anunciado para sábado 18 jul. 2026, Estação Cultural Teatro do Mundo; estreia da nova formação (vocalista "Tia Carol", baterista Calebe). Entrou.
 - CGN 17 jan. 2026 (Feira dos Baixinhos, Teatro do Mundo) cita o grupo na programação; não usado.
 - Divergência aparente: show de 9 anos em 18 jul. no Teatro do Mundo [cgn2026] e "Um Novo Ritmo", também pelos 9 anos, em 25 jul. no Sesc Teatro Prosa [acritica2026]: dois eventos distintos; os dois entram.
+
+## Atualização de 2026-11-04 (validação)
+
+- Busca na FCMS (?s=Batucando) achou eventos realizados:
+  - fcms2023: Ana Paula Ostapenco de Souza, "Show com diversas atrações no Parque das Nações Indígenas comemorou os 46 anos de Mato Grosso do Sul", FCMS, 16 out. 2023 — Batucando Histórias foi a primeira atração em 11 out. 2023; a integrante Wancleya Arce diz que a trajetória começou em 2017. Entrou.
+  - fcms2024: Karina Medeiros de Lima, "Último dia da Feira Mãos que Criam e das atrações musicais da Semana do Artesão foi de música para a criançada e muito forró", FCMS, 25 mar. 2024 — atração infantil do domingo (24 mar. 2024); integrante "Wancleia Arce Antonio Lanziani" fala dos bonecos e da caixa de histórias feitos de artesanato. Entrou (só o nome artístico curto).
+- Divergência de grafia: Wancleya (fcms2023) × Wancleia (fcms2024). Registrada no verbete.
+- Outros resultados vistos e não usados: galeria FIB 2019 (contação no CMU, sem texto), Bonitinho do FIB 2024 (programação anunciada para 22 ago.), anúncios da Semana do Artesão 2024.
+- Público citado pelas notícias (nomes, idades, profissões) fica fora.

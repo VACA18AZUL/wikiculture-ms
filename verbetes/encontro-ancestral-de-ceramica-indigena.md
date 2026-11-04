@@ -3,7 +3,7 @@ titulo: Encontro Ancestral de Cerâmica Indígena
 tipo: evento
 areas: [artes-plasticas]
 cidade: Porto Murtinho
-resumo: Intercâmbio entre ceramistas indígenas de Mato Grosso do Sul e de Roraima. A primeira edição foi em 2022, em Roraima; a segunda, em outubro de 2026, na aldeia Kadiwéu Alves de Barros, com bazar em Bodoquena.
+resumo: Intercâmbio entre ceramistas indígenas de Mato Grosso do Sul e de Roraima. A primeira edição foi em 2022, em Roraima; a segunda foi marcada para outubro de 2026, na aldeia Kadiwéu Alves de Barros, com bazar em Bodoquena.
 ficha:
   Primeira edição: "2022 (Terra Indígena Raposa Serra do Sol, Roraima)"
   Realização: "Projeto Vidas e Vozes Kadiwéu, do Instituto Terra Brasilis (2026)"
@@ -19,7 +19,7 @@ A primeira edição, chamada "Encontro Ancestral: Barro, uma linguagem da terra"
 
 ## Segunda edição (2026)
 
-A segunda edição foi de 10 a 12 de outubro de 2026, sediada pelas mulheres Kadiwéu na aldeia Alves de Barros, na Terra Indígena Kadiwéu, em Porto Murtinho, com ceramistas Kadiwéu, Macuxi e Wai Wai. A programação teve um treinamento sobre preços e vendas, um dia dedicado às técnicas de produção e, no feriado de 12 de outubro, um bazar da [[associacao-das-mulheres-artistas-kadiweu|Associação das Mulheres Artistas Kadiwéu (AMAK)]] em Bodoquena, com cerâmicas, cestarias, roupas e biojoias.[^cgn2026][^ac2026] Equipes gravaram o encontro em vídeo de realidade virtual em 360 graus, da coleta do barro à queima e à pintura.[^ac2026]
+A segunda edição foi marcada para 10 a 12 de outubro de 2026, sediada pelas mulheres Kadiwéu na aldeia Alves de Barros, na Terra Indígena Kadiwéu, em Porto Murtinho, com ceramistas Kadiwéu, Macuxi e Wai Wai. A programação anunciada tinha um treinamento sobre preços e vendas, um dia dedicado às técnicas de produção e, no feriado de 12 de outubro, um bazar da [[associacao-das-mulheres-artistas-kadiweu|Associação das Mulheres Artistas Kadiwéu (AMAK)]] em Bodoquena, com cerâmicas, cestarias, roupas e biojoias.[^cgn2026][^ac2026] Estavam previstas gravações em realidade virtual em 360 graus, da coleta do barro à queima e à pintura.[^ac2026]
 
 A edição fez parte do projeto Vidas e Vozes Kadiwéu, do Instituto Terra Brasilis, com patrocínio da Petrobras pelo Programa Petrobras Socioambiental.[^cgn2026][^ac2026] A presidente da AMAK, [[creuza-virgilio|Creuza Vergilio]], ligou a continuidade da cerâmica à preservação dos locais de onde saem o barro, os pigmentos e a resina do pau-santo, árvore chamada Elegigo em língua kadiwéu.[^cgn2026][^ac2026]
 

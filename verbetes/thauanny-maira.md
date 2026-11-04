@@ -10,13 +10,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Thauanny Maíra** é uma cineasta sul-mato-grossense que trabalha como diretora, roteirista e diretora de pós-produção. Em 2026 vivia em São Paulo.[^cgn2026]
+**Thauanny Maíra** é uma cineasta sul-mato-grossense que atua como diretora, roteirista e diretora de pós-produção. Em 2026 vivia em São Paulo.[^cgn2026]
 
 ## Trajetória
 
 Em 2021, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] a apresentou entre os realizadores iniciantes que fizeram filmes sobre Campo Grande com recursos da Lei Aldir Blanc. Ela dirigiu um documentário sobre o bairro Moreninhas, feito com colegas do próprio bairro. Na mesma matéria, contou que começou o curso de Publicidade e Propaganda, sem concluir, e que trabalhou com produção audiovisual em site jornalístico, agência de publicidade, produtora de vídeo e estúdio de fotografia.[^fcms2021a] O *Campo Grande News* dá o título do filme: *A Margem é o Centro*.[^cgn2026]
 
-No mesmo ano, foi assistente de edição e colorização do documentário *Invasão Rap*, sobre a cultura hip hop, feito no II Curso de Documentário MS em Imagem e Som, do [[mis-ms|Museu da Imagem e do Som]] e da TVE Cultura. O filme foi lançado em 12 de outubro de 2021, no Auto Cine da UFMS, nas comemorações dos 44 anos do estado.[^fcms2021b]
+No mesmo ano, foi assistente de edição e colorização do documentário *Invasão Rap*, sobre a cultura hip hop, feito no II Curso de Documentário MS em Imagem e Som, do [[mis-ms|Museu da Imagem e do Som]] e da TVE Cultura. A fundação anunciou o lançamento do filme para 12 de outubro de 2021, no Auto Cine da UFMS, nas comemorações dos 44 anos do estado.[^fcms2021b]
 
 Em 2023, fez a direção, a câmera e a edição da websérie documental *Memória e Identidade*, sobre a turnê do [[projeto-kzulo|Projeto Kzulo]] por três cidades de Mato Grosso do Sul, com produção de Thauanny Filmes.[^cgn2023]
 

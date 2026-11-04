@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Maria Augusta de Castilho** é professora e pesquisadora da Universidade Católica Dom Bosco (UCDB), em Campo Grande, com pós-doutorado em Linguística pela Universidade de São Paulo (USP).[^cordis] É autora de mais de quarenta obras publicadas.[^acritica2026]
+**Maria Augusta de Castilho** é professora e pesquisadora da [[universidade-catolica-dom-bosco|Universidade Católica Dom Bosco (UCDB)]], em Campo Grande, com pós-doutorado em Linguística pela Universidade de São Paulo (USP).[^cordis] É autora de mais de quarenta obras publicadas.[^acritica2026]
 
 ## Trajetória
 

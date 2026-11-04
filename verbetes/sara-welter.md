@@ -15,13 +15,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2023, ainda estudante de artes visuais, contou ao *Campo Grande News* que começou pelo desenho e que já tinha experimentado videoarte, pintura, gravura, cerâmica, fotografia, crochê e tatuagem.[^cgn2023a] No mesmo ano, participou da coletiva *Transvisões*, no [[mis-ms|Museu da Imagem e do Som]], com aquarelas monocromáticas de prédios e fachadas históricas da cidade em abandono.[^cgn2023b]
+Em 2023, ainda estudante de artes visuais, contou ao *Campo Grande News* que começou pelo desenho e que já tinha experimentado videoarte, pintura, gravura, cerâmica, fotografia, crochê e tatuagem.[^cgn2023a] Em junho do mesmo ano, o jornal anunciou a abertura da coletiva *Transvisões*, de nove artistas, no [[mis-ms|Museu da Imagem e do Som]], com obras dela: aquarelas monocromáticas de prédios e fachadas históricas da cidade em abandono.[^cgn2023b]
 
-Em 17 de dezembro de 2024, abriu no MIS a individual *O Tempo Quando Olho*, com desenhos, ilustrações, pinturas e a instalação *Em Algum Lugar Já Não Existo Mais*, resultado do seu trabalho de conclusão do curso de artes visuais.[^fcms2024] Em 2025, expôs na Galeria de Artes Visuais do [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]], ao lado de [[ton-barbosa|Ton Barbosa]] e outros artistas.[^fcms2025a]
+Para 17 de dezembro de 2024, a Fundação de Cultura de Mato Grosso do Sul anunciou a abertura, no MIS, da individual *O Tempo Quando Olho*, com desenhos, ilustrações, pinturas e a instalação *Em Algum Lugar Já Não Existo Mais*, fruto do trabalho final da sua graduação em artes visuais.[^fcms2024] Em 2025, seu nome constava entre os artistas anunciados para a Galeria de Artes Visuais do [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]], ao lado de [[ton-barbosa|Ton Barbosa]] e outros.[^fcms2025a]
 
-Como curadora, organizou no MIS as mostras *Onde Dourados se faz Arte*, aberta em 18 de novembro de 2025, com dez artistas independentes de Dourados,[^fcms2025b] e *O Grito que Ecoa*, de 2026, sobre feminicídio, pensada a partir de conversas com o [[coletivo-dorcelina-folador|coletivo Dorcelina Folador]].[^fcms2026]
+Como curadora, organizou no MIS as mostras *Onde Dourados se faz Arte*, com abertura marcada para 18 de novembro de 2025 e dez artistas independentes de Dourados,[^fcms2025b] e *O Grito que Ecoa*, de 2026, sobre feminicídio, pensada a partir de conversas com o [[coletivo-dorcelina-folador|coletivo Dorcelina Folador]].[^fcms2026]
 
-Em 2026, assinou a cartilha *Resquícios do Tempo: Complexo Ferroviário*, ilustrada em nanquim e carvão, que apresenta doze locais ligados ao antigo complexo da Estrada de Ferro Noroeste do Brasil em Campo Grande. Foi a segunda edição do projeto Resquícios do Tempo. O lançamento foi marcado para 3 de julho de 2026 no Casarão Thomé, com distribuição gratuita a escolas e bibliotecas e exemplares em braille.[^acritica2026a][^acritica2026b]
+Em 2026, assinou a cartilha *Resquícios do Tempo: Complexo Ferroviário*, ilustrada em nanquim e carvão, que apresenta doze locais ligados ao antigo complexo da Estrada de Ferro Noroeste do Brasil em Campo Grande. Foi a segunda edição do projeto Resquícios do Tempo. O lançamento foi marcado para 3 de julho de 2026 no Casarão Thomé; o projeto previa distribuição gratuita a escolas e bibliotecas e exemplares em braille.[^acritica2026a][^acritica2026b]
 
 ## Obras
 
@@ -37,7 +37,7 @@ Em 2026, assinou a cartilha *Resquícios do Tempo: Complexo Ferroviário*, ilust
 - *O Grito que Ecoa* (2026) — curadoria, MIS.[^fcms2026]
 
 [^cgn2023a]: Jéssica Fernandes, ["Sara explora até coração nas mãos para fazer arte com fotografia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sara-explora-ate-coracao-nas-maos-para-fazer-arte-com-fotografia), *Campo Grande News*, 8 fev. 2023. Acesso em 4 nov. 2026.
-[^cgn2023b]: Jéssica Fernandes, ["No MIS, exposição Transvisões celebra produção de nove artistas da Capital"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-mis-exposicao-transvisoes-celebra-producao-de-nove-artistas-da-capital), *Campo Grande News*, 5 jun. 2023. Acesso em 4 nov. 2026.
+[^cgn2023b]: Jéssica Fernandes, ["No MIS, exposição 'Transvisões' celebra produção de nove artistas da Capital"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-mis-exposicao-transvisoes-celebra-producao-de-nove-artistas-da-capital), *Campo Grande News*, 5 jun. 2023. Acesso em 4 nov. 2026.
 [^acritica2026a]: Redação, ["Cartilha sobre história ferroviária de Campo Grande será lançada em julho no Casarão Thomé"](https://acritica.net/cultura/cartilha-historia-ferrovia-campo-grande-lancamento-casarao-thome/), *A Crítica*, 16 jun. 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Redação, ["Cartilha resgata história do Complexo Ferroviário de Campo Grande"](https://acritica.net/cultura/cartilha-resgata-memoria-ferroviaria-campo-grande/), *A Crítica*, 2 jul. 2026. Acesso em 4 nov. 2026.
 [^fcms2024]: Fundação de Cultura de Mato Grosso do Sul, ["Exposição no MIS explora os diversos olhares sobre o conceito de tempo"](https://www.fundacaodecultura.ms.gov.br/exposicao-no-mis-explora-os-diversos-olhares-sobre-o-conceito-de-tempo/), 16 dez. 2024. Acesso em 4 nov. 2026.

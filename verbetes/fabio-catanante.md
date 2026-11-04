@@ -21,7 +21,7 @@ Participou dos quadros "Se Vira nos 30" e "Os Imitadores", do programa *Domingã
 
 ## Acoustic Sessions
 
-Em julho de 2026, *A Crítica* anunciou a gravação do primeiro audiovisual do cantor, *Fábio Catanante – Acoustic Sessions*, para 10 de setembro, no Gran Murano.[^acritica2026a] A data e o local mudaram: a gravação aconteceu em 16 de setembro de 2026, no Palazzo Murano, em Campo Grande, aberta ao público, com abertura do cantor Chicão Castro.[^acritica2026b][^cgn2026][^acritica2026c] O repertório reúne sucessos de rock, pop internacional e música romântica brasileira das décadas de 1970, 1980 e 1990, com canções de Queen, Scorpions, Elvis Presley e Bee Gees.[^acritica2026a][^acritica2026c] No mesmo período, a 3A Produções Artísticas passou a agenciar o cantor.[^cgn2026]
+Em julho de 2026, *A Crítica* anunciou a gravação do primeiro audiovisual do cantor, *Fábio Catanante – Acoustic Sessions*, para 10 de setembro, no Gran Murano.[^acritica2026a] A data e o local mudaram: a gravação aconteceu em 16 de setembro de 2026, no Palazzo Murano, em Campo Grande, aberta ao público, com abertura do cantor [[chicao-castro|Chicão Castro]].[^acritica2026b][^cgn2026][^acritica2026c] O repertório reúne sucessos de rock, pop internacional e música romântica brasileira das décadas de 1970, 1980 e 1990, com canções de Queen, Scorpions, Elvis Presley e Bee Gees.[^acritica2026a][^acritica2026c] No mesmo período, a 3A Produções Artísticas passou a agenciar o cantor.[^cgn2026]
 
 ## Videografia
 
@@ -29,5 +29,5 @@ Em julho de 2026, *A Crítica* anunciou a gravação do primeiro audiovisual do 
 
 [^acritica2026a]: Iury de Oliveira, ["Fábio Catanante grava primeiro audiovisual com clássicos do rock e pop"](https://acritica.net/cultura/fabio-catanante-grava-primeiro-audiovisual-em-campo-grande/), *A Crítica de Campo Grande*, 10 jul. 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Iury de Oliveira, ["Fábio Catanante grava primeiro audiovisual da carreira em Campo Grande"](https://acritica.net/cultura/fabio-catanante-grava-audiovisual-campo-grande/), *A Crítica de Campo Grande*, 3 ago. 2026. Acesso em 4 nov. 2026.
-[^acritica2026c]: ["Cantor Fábio Catanante grava 1º projeto audiovisual em Campo Grande com sucessos de várias décadas"](https://acritica.net/entretenimento/fabio-catanante-audiovisual-campo-grande/), *A Crítica de Campo Grande*, 17 set. 2026. Acesso em 4 nov. 2026.
-[^cgn2026]: ["Fábio Catanante prepara gravação inédita após 30 anos de palco"](https://www.campograndenews.com.br/lado-b/diversao/fabio-catanante-prepara-gravacao-inedita-apos-30-anos-de-palco), *Campo Grande News*, 12 set. 2026. Acesso em 4 nov. 2026.
+[^acritica2026c]: Redação, ["Fábio Catanante grava primeiro audiovisual da carreira em Campo Grande"](https://acritica.net/entretenimento/fabio-catanante-audiovisual-campo-grande/), *A Crítica de Campo Grande*, 17 set. 2026. Acesso em 4 nov. 2026.
+[^cgn2026]: Amanda Ferreira, ["Fábio Catanante prepara gravação inédita após 30 anos de palco"](https://www.campograndenews.com.br/lado-b/diversao/fabio-catanante-prepara-gravacao-inedita-apos-30-anos-de-palco), *Campo Grande News*, 12 set. 2026. Acesso em 4 nov. 2026.

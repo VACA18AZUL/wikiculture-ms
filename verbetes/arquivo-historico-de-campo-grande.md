@@ -28,7 +28,7 @@ O acervo reúne documentos da Intendência, da Prefeitura e da Câmara Municipal
 
 Entre 1990 e 2011, o Arca publicou 15 edições da *Revista Arca*, com temas da história local como ferrovia, imigração, ruas, praças, patrimônio, arquitetura e meio ambiente. O Campo Grande News inclui também música e teatro entre os temas.[^pref2026][^cgn2026] A instituição faz ainda exposições fotográficas, palestras, visitas escolares e guiadas e projetos de educação patrimonial.[^cgn2026]
 
-Em 2026, ao completar 35 anos de criação oficial, o gestor Davi Almeida apontou a digitalização do acervo e a educação patrimonial como os principais desafios da instituição.[^cgn2026]
+Em 2026, ao completar 35 anos de criação oficial, o gestor Davi Almeida citou como desafios fazer a população reconhecer a importância do acervo, o que liga à falta de educação patrimonial, e conservar documentos frágeis. Segundo ele, a digitalização seria a prioridade se houvesse mais recursos.[^cgn2026]
 
 [^pref2026]: Prefeitura de Campo Grande, ["Arca completa 35 anos de criação e preservação da memória da Capital"](https://www.campogrande.ms.gov.br/cgnoticias/noticia/arca-completa-35-anos-de-criacao-e-preservacao-da-memoria-da-capital/), *CGNotícias*, 19 ago. 2026. Acesso em 4 nov. 2026.
 [^ac2026]: Redação, ["Arquivo Histórico de Campo Grande completa 35 anos preservando a memória da Capital"](https://acritica.net/cultura/arquivo-historico-de-campo-grande-completa-35-anos-preservando-a-memoria-da-capital/), *A Crítica de Campo Grande*, 19 ago. 2026. Acesso em 4 nov. 2026.
