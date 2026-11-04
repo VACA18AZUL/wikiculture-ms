@@ -64,3 +64,7 @@ Grafia do título: *Vinança maldita* na ficha, *Vingança maldita* no texto (me
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS e buscas de apoio sem resultado. Continua com fonte única (dissertação de Diehl). Sugestão: acervo do MIS-MS ou artigos de Diehl.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias RSS (título do filme, Reinaldo Dorval, Os Covardes Devem Morrer, nomes): nada; CGN busca: nada pertinente; portal UFMS (títulos 'cinema', 4 páginas, PDFs varridos): só a própria dissertação de Diehl. Nada mudou no verbete.

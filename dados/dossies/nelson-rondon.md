@@ -54,3 +54,7 @@ Segunda fonte: não encontrada. Buscas abertas (Couto, Dorval, filmes sertanejos
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS e Correio do Estado sem matéria sobre o ator/técnico. Continua com fonte única (dissertação de Diehl, UFMS). Sugestão: outros trabalhos de Carlos Rodrigo Diehl em periódicos, Cinemateca/MIS-MS.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias RSS (título do filme, Reinaldo Dorval, Os Covardes Devem Morrer, nomes): nada; CGN busca: nada pertinente; portal UFMS (títulos 'cinema', 4 páginas, PDFs varridos): só a própria dissertação de Diehl. Nada mudou no verbete.

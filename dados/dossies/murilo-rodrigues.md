@@ -23,3 +23,7 @@ Buscas (inclusive restritas a fundacaodecultura.ms.gov.br, agenciadenoticias.ms.
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova. Busca FCMS (?s=Corpocidade): um resultado (espetáculo Huma/, 16 maio 2025), não relacionado; A Crítica (/search/Corpocidade/): sem resultado; Brave (Coletivo Corpocidade Campo Grande Murilo Rodrigues): homônimos e páginas sem relação. Continua fonte única (CGN, mar. 2026; os dois campos de data do coletivo seguem como divergência já registrada).
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias RSS achou HoraMS 27 out. 2026 (Caminhos do Gesto), mesmo release da prefeitura, sem ligação com o Corpocidade; O Estado API e CGN sem resultado. Nada mudou no verbete.

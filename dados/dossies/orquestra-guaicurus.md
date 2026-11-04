@@ -19,3 +19,7 @@ Segunda fonte: não encontrada. Busca aberta ("Maestro Assis", Orquestra Guaicur
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova. Busca FCMS (?s=Maestro Assis): 17 resultados, nenhum com Maestro Assis ou Orquestra Guaicurús nos trechos visíveis (Camerata, Catedral Erudita, bandas e fanfarras, não abertos). Continua fonte única (descrição do Acervo Digital Memória Fonográfica de MS). Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: CGN, O Estado API e Google Notícias ('Orquestra Guaicurús', 'Maestro Assis'): só homônimos (consórcio de ônibus); portal UFMS ('música'): nada. Nada mudou no verbete.

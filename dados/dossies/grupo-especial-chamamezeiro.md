@@ -31,3 +31,7 @@
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova. Busca FCMS por Omil e Ozeias/Chamamezeiro sem resultado; nenhuma busca aberta achou o grupo ou o CD *Festa na Fazenda* fora do Acervo Digital Memória Fonográfica de MS. Continua fonte única. Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: CGN busca e O Estado API ('Chamamezeiro'): só agendas de outros grupos; Google Notícias RSS: nada; portal UFMS ('música', dissertação de R. T. Gonçalves sobre música paraguaia): só menções genéricas a chamamezeiros. Nada mudou no verbete.

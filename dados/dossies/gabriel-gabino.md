@@ -54,3 +54,10 @@ Fonte nova (outro veículo: portal da Fundação de Cultura de MS; busca do site
 
 Reforço: participação no painel de 14 fotógrafos de *Fotografia e Memória* (MIS-MS, abertura 26 fev. 2026, até 30 abr.). A fcms2026 é a divulgação oficial e provavelmente a origem do texto da A Crítica (24 fev.); por isso, reforça a data, mas não conta como terceira apuração independente.
 Sem segunda fonte: biografia (Comunicação Social na UCDB, Ateliê da Imagem, publicações em revistas, 2011 em São Paulo) e a exposição *Pantanais* (6 dez. 2023, Teatro do Mundo). Buscas no Correio do Estado ("Gabriel Gabino fotógrafo", "Gabriel Gabino Pantanais", "Pantanais exposição"), na FCMS e em A Crítica não retornaram menção. Outras exposições de fotografia do Pantanal listadas pelo Correio do Estado (2021, 2024) foram abertas e não citam o nome.
+
+## Atualização de 2026-11-04 (r9)
+
+Fontes novas abertas e lidas (API do O Estado MS, "Gabriel Gabino"):
+- "Fotógrafo campo-grandense traz beleza do Pantanal em exposição", O Estado Online, 5 dez. 2023 (https://oestadoonline.com.br/arte-e-lazer/fotografo-campo-grandense-traz-beleza-do-pantanal-em-exposicao/). Veículo diferente do CGN. Sustenta: "Pantanais" na Estação Cultural Teatro do Mundo, 6 dez. 2023, gratuita, 21 obras; seis anos de registros. Diferença menor: o jornal fala em mosaicos "com 1,80 cm de largura" (provável erro de unidade); o CGN diz até 1,8 metro de altura. Medida do O Estado não usada.
+- João Santana Fernandes (texto de Rafael Belo), "Exposição em Shopping é para conscientizar sobre as Araras", O Estado Online, 24 fev. 2021. Sustenta: participação na coletiva "A Minha Morada é no Bosque", com André Bittar, André Maganha, Bolivar Porto e outros, no Shopping Bosque dos Ipês.
+- Pista não lida: CGN, "Exposição gratuita revela curiosidades sobre as araras de Mato Grosso do Sul".

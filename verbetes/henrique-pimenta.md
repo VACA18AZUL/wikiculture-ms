@@ -18,7 +18,11 @@ atualizado: 2026-11-04
 
 É mestre em Estudos Literários, segundo *A Crítica*; a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] informa que o mestrado em literatura foi feito na [[ufms|UFMS]]. Em 2025, a Fundação o descreveu como professor havia quase três décadas.[^acritica2026b][^fcms2026][^fcms2025b]
 
-O livro de contos *Ele adora a desgraça azul* (2016) recebeu dois prêmios: o Guavira de Literatura, em 2017, e o Leia, em 2020. A Fundação de Cultura registra o primeiro prêmio como Prêmio Guavira Edição Especial MS 40 anos. Segundo o autor, o livro se passa quase todo em cidades de Mato Grosso do Sul.[^acritica2026b][^fcms2025b][^fcms2025a]
+Segundo o *Correio do Estado*, escreve literatura desde os 15 anos, tendo a poesia como base, e só passou a publicar depois de se mudar para Campo Grande. Em 2021, a matéria o apresentava como professor de Língua Portuguesa e Literatura.[^ce2021]
+
+O livro de contos *Ele adora a desgraça azul* (2016) recebeu dois prêmios: o Guavira de Literatura, em 2017, e o Leia, em 2020. A Fundação de Cultura registra o primeiro prêmio como Prêmio Guavira Edição Especial MS 40 anos. Segundo o autor, o livro se passa quase todo em cidades de Mato Grosso do Sul.[^acritica2026b][^fcms2025b][^fcms2025a][^ce2021]
+
+Em março de 2021, lançou *Compêndio de evisceração* (Chiado), com 17 contos trabalhados por cerca de seis anos. Muitos se passam em ambientes confinados e em lugares de Campo Grande, como a avenida Afonso Pena, a praça Itanhangá e a Rua dos Vendas, e alguns misturam técnicas literárias e cinematográficas. O lançamento em Campo Grande foi marcado para 18 de março de 2021, no Sesc Cultura. Na época, o autor disse ter quatro livros publicados.[^ce2021]
 
 Na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] (Flib), deu em 2023 uma oficina de contos para professores do ensino fundamental. Em 2025, organizou e mediou o espaço Dedo de Prosa, em que conversou com 23 escritores.[^acritica2026a][^fcms2023] Em maio de 2025, participou do Quebra-Torto com Letras, no [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, ao lado de Marçal Aquino.[^fcms2025a][^fcms2025b]
 
@@ -30,13 +34,14 @@ Em outubro de 2026, foi anunciado como mediador, no Sesc Teatro Prosa, da conver
 
 ## Obras
 
-- *99 sonetos sacanas e 1 canção de amor* (2012) — poesia.[^fcms2025b][^kdea2026]
+- *99 sonetos sacanas e 1 canção de amor* (2012) — poesia.[^fcms2025b][^kdea2026][^ce2021]
 - *Ele adora a desgraça azul* (2016) — contos.[^fcms2025b][^acritica2026b]
-- *Alcácer-Quibir* (2019).[^fcms2025b][^kdea2026]
-- *Compêndio de evisceração* (2021).[^kdea2026]
+- *Alcácer-Quibir* (2019) — poesia.[^fcms2025b][^kdea2026][^ce2021]
+- *Compêndio de evisceração* (2021) — 17 contos; Chiado.[^kdea2026][^ce2021]
 - *Tríduo rudo* (2025) — poemas.[^acritica2026b][^kdea2026]
 - *Atirei uma pedrinha na lagoa Mansidão* (2026) — contos; Mondrongo.[^acritica2026a][^acritica2026b]
 
+[^ce2021]: Naiane Mesquita, ["Escritor lança livro \"Compêndio de Evisceração\" com 17 contos que abordam confinamento e irresponsabilidade"](https://correiodoestado.com.br/correio-b/2021/03/04/escritor-lanca-livro-compendio-de-evisceracao-com-17-contos-que-abordam-confinamento-e-irresponsabilidade.html), *Correio do Estado*, caderno Correio B, 4 mar. 2021. Acesso em 4 nov. 2026.
 [^acritica2026a]: Ricardo Eugênio, ["Henrique Pimenta lança 6º livro de contos na Feira Literária de Bonito neste sábado"](https://acritica.net/cultura/henrique-pimenta-lanca-livro-contos-feira-literaria-bonito/), *A Crítica de Campo Grande*, 9 jul. 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Iury de Oliveira, ["Henrique Pimenta lança livro sobre o horror urbano de MS em Campo Grande"](https://acritica.net/cultura/henrique-pimenta-lanca-livro-contos-campo-grande/), *A Crítica de Campo Grande*, 4 ago. 2026. Acesso em 4 nov. 2026.
 [^kdea2026]: ["Clube Sesc de Leitura debate obra de Henrique Pimenta sobre medo, absurdo e cotidiano sul-mato-grossense"](https://revistakdea360.com.br/noticia/91147/clube-sesc-de-leitura-debate-obra-de-henrique-pimenta-sobre-medo-absurdo-e-cotidiano-sul-mato-grossense), *Revista Kdea 360*, 23 set. 2026 (texto de divulgação). Acesso em 4 nov. 2026.

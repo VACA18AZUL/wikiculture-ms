@@ -19,3 +19,7 @@ Segunda fonte: não encontrada. Busca aberta por "Paizinho e Florito" / "Omil e 
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS (busca por "Omil") devolve resultados irrelevantes. Continua só com a descrição do Acervo Digital Memória Fonográfica de MS.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: CGN busca, O Estado API e Google Notícias RSS ('Paizinho e Florito', nomes): sem resultado; portal UFMS (títulos 'música', 5 páginas, PDFs varridos): nada. Nada mudou no verbete.

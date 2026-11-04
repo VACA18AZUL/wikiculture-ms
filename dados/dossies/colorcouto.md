@@ -57,3 +57,7 @@ Tentativa r3-3: FCMS sem resultado. Continua com fonte única (dissertação de 
 ## Atualização de 2026-11-04
 
 - Segunda fonte independente buscada e não achada. Onde: API FCMS ("Colorcouto", "Vingança Maldita", "Marca do Destino", "Alexandre Couto", "Aljor"), API RCN67, API A Crítica. A FCMS (28/3/2016, pré-estreia de "Questão de Honra"; 10/6/2020, CineMato) fala do grupo de Alexandre Couto e dos seis filmes, sem citar a Colorcouto nem os títulos; não serve a este verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias RSS (título do filme, Reinaldo Dorval, Os Covardes Devem Morrer, nomes): nada; CGN busca: nada pertinente; portal UFMS (títulos 'cinema', 4 páginas, PDFs varridos): só a própria dissertação de Diehl. Nada mudou no verbete.

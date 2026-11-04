@@ -19,3 +19,7 @@ Segunda fonte: não encontrada. Nada mudou no verbete.
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas no Correio do Estado e na Fundação de Cultura de MS por "Corpocidade": sem resultado. Divergência de ano de criação (abril de 2025 no texto x abril de 2022 no resumo automático da matéria) continua sem segunda fonte. Pistas: perfil do coletivo, matéria sobre o sarau da Consciência Negra de 2025.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: CGN busca (só a matéria original), O Estado API (nada), Google Notícias RSS (só CGN e homônimos). Nada mudou no verbete.

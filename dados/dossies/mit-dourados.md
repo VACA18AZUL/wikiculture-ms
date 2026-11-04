@@ -32,3 +32,7 @@ Buscas restritas a Dourados Agora, Dourados News, UFGD, prefeitura de Dourados, 
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova lida. Brave achou 'Dourados recebe a 2ª Mostra Independente de Teatro' (Amambai Notícias, 26 mar. 2012; https://www.amambainoticias.com.br/2012/03/26/dourados-recebe-a-2-mostra-independente-de-teatro/), mas a página retornou 403 em WebFetch (duas URLs) e o web.archive.org é bloqueado. Pista forte para nova tentativa: confirmaria a 2ª edição em 2012. FCMS e A Crítica sem resultado para o nome da mostra. Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias RSS achou Dourados News 28 mar. 2012 ('MIT: Fala comigo doce como a chuva', https://www.douradosnews.com.br/cultura-lazer/mit-fala-comigo-doce-como-a-chuva-de-tennessee-willians/419094/), mas a página fica atrás de Cloudflare (403) e não tem cópia no archive.org; não lida. CGN e O Estado sem resultado. Nada mudou no verbete.

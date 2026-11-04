@@ -25,3 +25,7 @@ Segunda fonte: não encontrada. Busca por "Revista Dançar" com ASMPD, Mato Gros
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS ("Revista Dançar", "Sarah Figueiró") sem matéria sobre a revista; resultados sobre a Cia do Mato (homenagem a Sarah Abussafi Figueiró, 2023) não abertos. Fontes atuais: acervo Sarah Figueiró e Correio do Estado.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias, O Estado API e portal UFMS ('dança'): nada. Pista: a numeração (Ano V N23 em 1988) sugere revista de circulação nacional e não necessariamente sul-mato-grossense; conferir expediente dos PDFs do acervo. Nada mudou no verbete.

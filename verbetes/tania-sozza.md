@@ -19,16 +19,16 @@ No longa [[lendas-pantaneiras|*Lendas Pantaneiras*]], com lançamento marcado pa
 
 Produziu a série documental *Mitos Vivos*, criada e dirigida por Flecha e apresentada por Gabriel Sater, com 13 episódios sobre mitos do folclore de cidades brasileiras. A pré-estreia foi em 8 de março de 2023, em Campo Grande.[^cgn2023]
 
-Produziu o longa *Do Sul, a Vingança*, dirigido por Flecha, que segundo o jornal *O Estado* estreou nos cinemas em 15 de maio de 2025. Na mesma matéria, o ator [[espedito-di-montebranco|Espedito Di Montebranco]] a apresenta como produtora executiva.[^oestado2025]
+Produziu o longa *Do Sul, a Vingança*, dirigido por Flecha, que segundo o jornal *O Estado* estreou nos cinemas em 15 de maio de 2025; o *Campo Grande News* data o filme de 2024.[^oestado2025][^cgn2026] Na matéria de *O Estado*, o ator [[espedito-di-montebranco|Espedito Di Montebranco]] a apresenta como produtora executiva.[^oestado2025]
 
-Em janeiro de 2026, conduziu com Flecha a oficina de roteiro e projeto que abriu o [[rota-cine-ms|Rota Cine MS]], no Museu da Imagem e do Som.[^cgn2026] Em março de 2026, era a produtora executiva do longa *Não Me Lembro*, filmado em Mato Grosso do Sul pela Render Brasil. Ao jornal *O Estado*, contou que o projeto nasceu em 2014 de um argumento do ator Bruno Moser e que ela e Flecha escolheram o elenco nacional, com nomes como Claudia Ohana e Nany People, ao lado de atores do estado.[^oestado2026]
+Em janeiro de 2026, o projeto [[rota-cine-ms|Rota Cine MS]] abriu inscrições para oficinas de roteiro no Museu da Imagem e do Som, marcadas para 26 a 30 de janeiro e ministradas por ela e Flecha.[^cgn2026] Em março de 2026, era a produtora executiva do longa *Não Me Lembro*, filmado em Mato Grosso do Sul pela Render Brasil. Ao jornal *O Estado*, contou que o projeto nasceu em 2014 de um argumento do ator Bruno Moser e que ela e Flecha escolheram o elenco nacional, com nomes como Claudia Ohana e Nany People, ao lado de atores do estado.[^oestado2026]
 
 ## Filmografia
 
 - *Espera* (2012) — curta; produção independente, com Fábio Flecha.[^fcms2015a] [Assistir no YouTube](https://www.youtube.com/watch?v=8vlbvi2GtQk)
 - [[lendas-pantaneiras|*Lendas Pantaneiras*]] (2015) — longa-metragem de ficção; produção, produção executiva e figurino.[^fcms2015a]
 - *Mitos Vivos* (2023) — série documental, 13 episódios; produção.[^cgn2023]
-- *Do Sul, a Vingança* (2025) — longa-metragem de ficção; produção.[^oestado2025]
+- *Do Sul, a Vingança* — longa-metragem de ficção; produção. Estreia nos cinemas em 15 de maio de 2025 segundo *O Estado*[^oestado2025]; datado de 2024 pelo *Campo Grande News*.[^cgn2026]
 - *Não Me Lembro* — longa-metragem, em filmagem em 2026; produção executiva.[^oestado2026]
 
 [^fcms2015a]: Daiana Schio, ["Lendas Pantaneiras, longa produzido com recursos do FIC, será lançado dia 4 de outubro"](https://www.fundacaodecultura.ms.gov.br/lendas-pantaneiras-longa-produzido-com-recursos-do-fic-sera-lancado-dia-4-de-outubro/), *Fundação de Cultura de MS*, 25 set. 2015. Acesso em 4 nov. 2026.

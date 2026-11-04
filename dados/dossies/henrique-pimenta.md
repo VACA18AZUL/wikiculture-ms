@@ -28,3 +28,8 @@ Não aberta: Midiamax 09/07/2026 (Cloudflare). Pista: MS Notícias 27/01/2020 ("
 ## Uso no verbete
 
 Fora: falas do autor e dos mediadores (opinião). Anos de Compêndio de evisceração (2021) e Tríduo rudo (2025) com kdea2026; o segundo também em acritica2026b.
+
+## Atualização de 2026-11-04 (r12)
+
+- Nova, aberta e lida: Naiane Mesquita, "Escritor lança livro 'Compêndio de Evisceração' com 17 contos que abordam confinamento e irresponsabilidade", *Correio do Estado*, Correio B, 4 mar. 2021, https://correiodoestado.com.br/correio-b/2021/03/04/escritor-lanca-livro-compendio-de-evisceracao-com-17-contos-que-abordam-confinamento-e-irresponsabilidade.html — nascido em Resende (RJ); professor de Língua Portuguesa e Literatura em Campo Grande; escreve desde os 15 anos; quatro livros até 2021; *99 Sonetos Sacanas e 1 Canção de Amor* (2012), *Ele Adora a Desgraça Azul* (2016, Guavira Edição Especial MS 40 anos, 2017), *Alcácer-Quibir* (2019), *Compêndio de Evisceração* (Chiado, 17 contos, ~6 anos de trabalho; lançamento em Campo Grande anunciado para 18/03/2021 no Sesc Cultura).
+- Reforça: Resende, prêmio Guavira, títulos e anos dos livros. Preço e lojas fora.

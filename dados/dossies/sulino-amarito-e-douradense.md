@@ -52,3 +52,7 @@ Entraram trajetória discográfica, integrantes e dados de Douradense. Ficou for
 ## Atualização de 2026-11-04 (r4-1)
 
 Sem fonte nova. Tentativas, todas sem resultado útil: busca do portal da Fundação de Cultura de MS por "Sulino", "Douradense acordeonista", "Eugênio Ceccato", "Quebradas da Noite"; busca do Correio do Estado por "Sulino Amarito", "Eugênio Ceccato", "acordeonista Douradense morre", "Sulino e Marrueiro" (só homônimos: "douradense" como gentílico); BDTD (Ibict) por "Douradense acordeonista chamamé", "Eugênio Ceccato", "Sulino Amarito sertaneja" (nenhum resultado relevante); Discogs devolveu desafio de verificação (403), não acessado; MusicBrainz e Wikipédia pt não trazem o grupo. Verbete segue apoiado só nas descrições do canal Memória Fonográfica de MS.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: CGN, O Estado API e Google Notícias (nomes da dupla/trio): sem resultado; portal UFMS ('música'): nada. Nada mudou no verbete.

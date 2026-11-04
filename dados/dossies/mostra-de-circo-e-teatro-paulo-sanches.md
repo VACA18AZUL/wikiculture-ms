@@ -48,3 +48,7 @@ Observação: a RCN67 reproduz o release da prefeitura; não é apuração indep
 - Segunda fonte independente buscada e não achada. Onde: API da FCMS ("Paulo Sanches", "Mostra de Circo"), API da RCN67 (só o release de 16/10/2023), API da Prefeitura de Três Lagoas (só os quatro textos já citados e um de 24/10/2023 do mesmo release), WebSearch (nada sobre a mostra), anais Even3 sobre circo na escola em Três Lagoas (não cita a mostra).
 - Útil para o verbete do homenageado, não para este: FCMS, "Homenageados do Boca de Cena 2023 falam sobre suas histórias no fazer circense e teatral" (28/3/2023), em que Paulo Sanches diz fazer teatro em Três Lagoas desde 1960; reforça a homenagem pelos 60 anos de carreira, mas não fala da mostra.
 - Nada de 2ª edição encontrado.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: API do O Estado ("Paulo Sanches": só homônimos e matéria sobre Dora Sanches) e RSS do Google Notícias ("Mostra de Circo e Teatro Paulo Sanches", "Mostra Paulo Sanches", "Paulo Sanches" Três Lagoas, "Deia Fernandes" Três Lagoas): só as notícias da Prefeitura de Três Lagoas já citadas. Busca interna do *Hojemais* não responde por termo.

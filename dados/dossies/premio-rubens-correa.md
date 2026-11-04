@@ -41,3 +41,7 @@ Fontes novas abertas e lidas (FCMS e secretaria; outro veículo que o Campo Gran
 
 Divergência de rótulo: "2016" (Circo do Mato, Avatz) x "2015/2016" (Teatral Grupo de Risco). Divergência de grafia: Rubéns/Rubens, Corrêa/Correa/Correia (uma FCMS grafa "Correia"). Possível imprecisão do CGN 2015 ("ambos no valor de R$ 240 mil"): a FCMS dá R$ 240 mil só para o Rubens Corrêa e R$ 590 mil juntos para os dois editais de dança (Célio Adolfo e Circuito Dança no Mato), de modo que não há contradição direta; não escrito no verbete.
 Pistas ainda abertas: *Navalha de Carne* (Circo do Mato) não aparece em nenhum texto da FCMS achado como contemplado de 2013; edições posteriores a 2017; quem foi Rubens Corrêa (homenageado) continua sem fonte aberta. Citado por outras fontes da FCMS (não usadas): Emmanuel Marinho teria recebido o prêmio em 2011 (biografia em release de projeto, autodeclarada). A FCMS (decreto da Lei Aldir Blanc, 1.º out. 2020) lista o prêmio entre os eventos do calendário oficial.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias só devolve notícias da FCMS (promotora); O Estado API e A Crítica: nada; portal UFMS ('teatro', 'cultura'): nada. Nada mudou no verbete.

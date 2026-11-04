@@ -27,3 +27,7 @@ Fonte única: três buscas (grupo + UCDB; Molière + Glauce Rocha + diretor; sit
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas no Correio do Estado ("Molière", "Burguês Fidalgo"), na Fundação de Cultura de MS e no site da UCDB (busca devolve só páginas institucionais): nada sobre a montagem de 2023. A realização da estreia (27/9/2023) segue sem relato posterior. Pistas: portal da UCDB, Instagram do grupo, Teatro Glauce Rocha.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova independente. Caminhos tentados: Google Notícias só achou a notícia da UCDB (promotora, não independente); O Estado API e A Crítica: nada; CGN tem outras matérias sobre o grupo (mesmo veículo); portal UFMS ('teatro'): só menção ao grupo, não à montagem. Nada mudou no verbete.
