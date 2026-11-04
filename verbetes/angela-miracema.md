@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Em 29 de setembro de 2015, abriu no [[marco|Museu de Arte Contemporânea de MS (MARCO)]] a exposição *Mural dos Desejos ou Emergência dos Sonhos*, de colagens, na 3ª Temporada de Exposições do museu.[^fcms2015]
 
-Em 2016, o *Campo Grande News* a apresentou como artista plástica e pesquisadora de elementos indígenas. Ela contou ter mudado o próprio trabalho depois de dar uma oficina de arte para mulheres numa aldeia kadiwéu. Naquele ano, recebeu em seu ateliê, em Campo Grande, a jovem artista kadiwéu Nayokolate, que conheceu por meio do Instituto Cultural Gilberto Luiz Alves.[^cgn2016]
+Em 2016, o *Campo Grande News* a apresentou como artista plástica e pesquisadora de elementos indígenas. Ela contou ter mudado o próprio trabalho depois de dar uma oficina de arte para mulheres numa aldeia kadiwéu. Naquele ano, recebeu em seu ateliê, em Campo Grande, a jovem artista kadiwéu Nayokolate, que conheceu por meio do Instituto Cultural Gilberto Luiz Alves. Nayokolate, da Aldeia Alves de Barros, em Bodoquena, pintava em tela grafismos kadiwéu com pigmentos de resina e argila. A reportagem anunciou a primeira exposição das obras dela no [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]], de 28 a 31 de julho de 2016.[^cgn2016]
 
 Com o pesquisador [[gilberto-luiz-alves|Gilberto Luiz Alves]], teve a ideia de reunir um acervo de obras do gravador [[roberto-de-lamonica|Roberto De Lamônica]]. Segundo Gilberto, ela passou a frequentar leilões, e os dois compraram de 12 a 14 obras, parte delas exposta no MARCO em 2018, na mostra *Cidadão do Mundo*.[^fcms2018]
 

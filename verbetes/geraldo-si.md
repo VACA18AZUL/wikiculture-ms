@@ -3,7 +3,7 @@ titulo: Geraldo Si
 tipo: pessoa
 areas: [danca]
 cidade: Aquidauana
-resumo: "Bailarino e coreógrafo natural de Aquidauana que vive na Alemanha. Iniciou a carreira em MS nos anos 1980, esteve entre os criadores do Pantanáliadança e, segundo o Campo Grande News, entrou em 1990 no Wuppertaler Tanztheater, de Pina Bausch."
+resumo: "Bailarino e coreógrafo de Aquidauana, vive na Alemanha. Iniciou a carreira em MS nos anos 1980, esteve entre os criadores do Pantanáliadança e, segundo o Campo Grande News, entrou em 1990 no Wuppertaler Tanztheater, de Pina Bausch."
 ficha:
   Atividade: "Bailarino e coreógrafo"
   Grupos: "Pantanáliadança; Wuppertaler Tanztheater"

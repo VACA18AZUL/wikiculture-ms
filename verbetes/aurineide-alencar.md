@@ -29,11 +29,10 @@ No mesmo ano, foi uma das 25 coautoras da *Coletânea do Novo Movimento Poético
 
 ## Obras
 
-Em 2024, publicou dez fábulas clássicas recontadas em cordel, com lançamento marcado para 1º de junho, em Dourados. A tiragem prevista era de 500 exemplares por título, com parte destinada a escolas municipais e estaduais e à Secretaria de Cultura de Dourados.[^cgn2024a]
-
 - *Nas Veredas do Cordel*, *Vida em Versos*, *Mato Grosso do Sul nas Asas do Cordel*, *Pescador de Cantos* e *Embrenhando-se em Cordel* — livros anteriores a 2021.[^oestado2021]
-
 - *Semeadora de Cordéis* (2021) — e-book com 26 cordéis; Lei Aldir Blanc, Dourados.[^oestado2021]
+
+Em 2024, publicou dez fábulas clássicas recontadas em cordel, com lançamento marcado para 1º de junho, em Dourados. A tiragem prevista era de 500 exemplares por título, com parte destinada a escolas municipais e estaduais e à Secretaria de Cultura de Dourados.[^cgn2024a]
 
 - *A Lebre e a Raposa* (2024)[^cgn2024a]
 - *O Leão e o Rato* (2024)[^cgn2024a]
