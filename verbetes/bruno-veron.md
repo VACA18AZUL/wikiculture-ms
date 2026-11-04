@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Conheceu o rap ainda criança, por volta de 2000 e 2001, num programa de rádio. A reportagem da Amazônia Real chama o programa de "Ritmos e Batidas", exibido nos fins de semana; a da National Geographic Brasil, de "Ritmos na Batida", e registra que, segundo ele, foi ouvindo "Negro Drama", dos Racionais MC's, que encontrou um meio de dizer o que sentia.[^ihu2022][^natgeo2022]
+Conheceu o rap ainda criança, ouvindo rádio. À *Amazônia Real*, contou que foi em 2000 ou 2001, num programa de fim de semana, "Ritmos e Batidas".[^ihu2022] À *National Geographic Brasil*, deu ao programa o nome "Ritmos na Batida", exibido à tarde, e disse que foi ouvindo nele "Negro Drama", dos Racionais MC's, que encontrou um meio de dizer o que sentia.[^natgeo2022]
 
-Começou a escrever letras e a cantar em escolas, com incentivo de um professor. Clemerson Batista juntou-se a ele, e depois vieram Charles Peixoto, em 2007, e Kelvin Mbaretê, em 2009, formando o Brô MC's.[^natgeo2022]
+Começou a escrever letras e a cantar em escolas, com incentivo de um professor. Clemerson Batista juntou-se a ele, e depois vieram Charles Peixoto (grafado Charlie Peixoto nessa reportagem), em 2007, e Kelvin Mbaretê, em 2009, formando o Brô MC's.[^natgeo2022]
 
 Foi professor na escola Araporã, onde lembrava aos alunos que tinha estudado o guarani pelos livros.[^ihu2022]
 

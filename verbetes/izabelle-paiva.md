@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Entrou no Moinho Cultural em 2008, aos nove anos, para aulas de dança e de música. Fez cursos, festivais e aulas com professores de fora do estado; a reportagem cita Chico Neller, Beatriz de Almeida, Joel de Oliveira, da Cia. de Dança Cisne Negro, Greydson Araújo e Rui Moreira.[^cgn2023]
+Entrou no Moinho Cultural em 2008, aos nove anos, para aulas de dança e de música. Participou de cursos e festivais e fez aulas com nomes da dança brasileira; a reportagem cita Chico Neller, Beatriz de Almeida, Joel de Oliveira, da Cia. de Dança Cisne Negro, Greydson Araújo e Rui Moreira.[^cgn2023]
 
 Em 2023, fez um intercâmbio na Cia. de Dança Deborah Colker, no Rio de Janeiro, onde participou das aulas da companhia e, a convite de Deborah Colker, acompanhou um dia de apresentação na Uerj. No mesmo ano, passou por imersões no Grupo Corpo e com o bailarino e coreógrafo Alex Neoral.[^cgn2023]
 

@@ -3,7 +3,7 @@ titulo: Filipi Silveira
 tipo: pessoa
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Realizador audiovisual de Campo Grande, diretor e roteirista do curta O Florista (2013) e codiretor de Retrato do Artista Quando Coisa, sobre a poesia de Manoel de Barros.
+resumo: Realizador audiovisual de Campo Grande, diretor e roteirista do curta O Florista, selecionado em 2013 para o Short Film Corner de Cannes, e codiretor de Retrato do Artista Quando Coisa, sobre a poesia de Manoel de Barros.
 ficha:
   Atividade: Direção, roteiro e atuação em cinema
 status: rascunho
@@ -22,7 +22,7 @@ Em 2021, a mesma publicação listou dois filmes com participação dele entre c
 
 ## Filmografia
 
-- *O Florista* (2013) — curta-metragem de ficção, 18 min; direção, roteiro, direção de arte, atuação e edição de som.[^cgn2013]
+- *O Florista* — curta-metragem de ficção, 18 min, selecionado em 2013 para o Short Film Corner; direção, roteiro, direção de arte, atuação e edição de som.[^cgn2013]
 - *Ano Que Vem Tem Mais* — filme sobre o carnaval de Campo Grande; produção, com Marineti Pinheiro.[^cgn2021]
 - *Retrato do Artista Quando Coisa* — curta experimental, 4 min; direção, com Larissa Neves. A reportagem de 2021 diz que o filme foi produzido naquele ano;[^cgn2021] a lista de selecionados de Ivinhema o data de 2022.[^cgn2024]
 

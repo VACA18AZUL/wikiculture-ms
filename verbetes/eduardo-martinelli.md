@@ -21,11 +21,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Desde 2005 colabora com a Fundação Barbosa Rodrigues e, a partir do mesmo ano, com o [[instituto-moinho-cultural-sul-americano|Instituto Moinho Cultural Sul-Americano]], em Corumbá. Também atua em projetos da Fundação Ueze Zahran voltados a crianças e adolescentes, entre eles a Orquestra Indígena.[^ce2024b]
+Desde 2005 colabora com a Fundação Barbosa Rodrigues e, a partir do mesmo ano, com o [[instituto-moinho-cultural-sul-americano|Instituto Moinho Cultural Sul-Americano]], em Corumbá. O jornal cita essas instituições e a Fundação Ueze Zahran, da qual ele faz parte, entre seus projetos sociais com crianças e adolescentes de baixa renda. A fundação apoia a Orquestra Indígena de Campo Grande.[^ce2024b]
 
 Lidera o quarteto [[brasil-opus-musica|Brasil Opus Música]], que idealizou e dirige.[^ce2024b][^cgn2024a] Em julho de 2024, o *Campo Grande News* anunciou um concerto do projeto Catedral Erudita no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], com o Brasil Opus Música e o trio francês Parcae. Segundo a reportagem, o projeto havia começado no [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, em novembro de 2023.[^cgn2024a]
 
-Em junho de 2024, regeu a orquestra sinfônica municipal num concerto no [[teatro-glauce-rocha|Teatro Glauce Rocha]], com mais de 800 pessoas na plateia, segundo o *Correio do Estado*.[^ce2024] Na 17ª edição do [[encontro-com-a-musica-classica|Encontro com a Música Clássica]], de 26 a 30 de agosto de 2024, no mesmo teatro, foi apresentado como maestro e diretor artístico do evento.[^cgn2024b]
+Em junho de 2024, regeu a orquestra sinfônica municipal num concerto no [[teatro-glauce-rocha|Teatro Glauce Rocha]], segundo crítica do *Correio do Estado*. A legenda da reportagem fala em mais de 800 pessoas; o texto, em quase 750 lugares ocupados, além de dezenas de espectadores de pé ou no chão.[^ce2024] Na 17ª edição do [[encontro-com-a-musica-classica|Encontro com a Música Clássica]], de 26 a 30 de agosto de 2024, no mesmo teatro, foi apresentado como maestro e diretor artístico do evento.[^cgn2024b]
 
 Em 2023, a organização do [[bonito-cinesur|Bonito Cinesur]] o convidou, com a orquestra Prelúdio, para acompanhar ao vivo a exibição do filme mudo [[alma-do-brasil|Alma do Brasil]].[^cgn2023] Ele está entre os entrevistados do documentário [[dama-do-rasqueado-delinha|A Dama do Rasqueado]], sobre a cantora Delinha.[^cgn2016]
 

@@ -18,10 +18,10 @@ atualizado: 2026-11-04
 
 Descendente de okinawanos, formou-se na Escola de Belas Artes da Universidade Federal do Rio de Janeiro. Vive no Rio de Janeiro desde 1974, onde mantém ateliê.[^marco30]
 
-Segundo o catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contemporânea de MS]], ela restaurou as pinturas de [[lidia-bais|Lídia Baís]], que fazem parte do acervo do museu. O mesmo catálogo registra que ela recebeu prêmios como artista visual, sem listá-los.[^marco30]
+Segundo o catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contemporânea de MS]], ela restaurou as pinturas de [[lidia-bais|Lídia Baís]], que fazem parte do acervo do museu. O mesmo catálogo registra que ela recebeu prêmios como artista visual.[^marco30]
 
 ## Obra
 
 O catálogo descreve sua pintura dos anos 1980 como marcada pela geometrização, com linhas retas, verticais e horizontais, a textura do linho usado nas telas e o uso da cor. Uma obra sua do acervo do MARCO está entre as 30 escolhidas pela equipe do museu para o catálogo de 2021.[^marco30]
 
-[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 15. Acesso em 4 nov. 2026.
+[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 15-16. Acesso em 4 nov. 2026.
