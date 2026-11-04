@@ -43,3 +43,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo. Nomes de professores de fora do estado ficaram fora por não terem relação com MS além da aula.
+
+## Revisão de 2026-11-04 (valn-8)
+
+- As três fontes são anúncios (prévias). A data de 21 ago. 2016 para *Matilha* era dedução ("domingo" na programação): retirada do verbete.
+- Retirada do verbete a frase de desambiguação com o Festival Expressão de Rua ("as fontes lidas não ligam o grupo ao festival"), que falava do que as fontes não dizem. Fica aqui: o Festival Expressão de Rua (hip hop, organizado por Eduardo Miranda, CGN 11 nov. 2023) não aparece ligado ao grupo em nenhuma fonte lida.
+- "encontro tradicional de dança em Campo Grande" está na legenda de foto da edição anterior; o subtítulo fala em "encontro tradicional da Capital".
