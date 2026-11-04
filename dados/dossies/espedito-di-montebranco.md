@@ -40,3 +40,7 @@ E-mail de inscrição (cgn2023a) fica fora. Nome do operador de som "Pedro Monte
 ## Não confirmado
 
 - Data e local de nascimento; edição e ano do 1º Prêmio Campo Grande ao Teatro; resultados de 2023.
+
+## Atualização de 2026-11-04
+
+- Não acrescentado: *Amoitado* (elenco, Duca). Reaberta a matéria do Correio do Estado de 18 out. 2026: o nome aparece só na lista do elenco, sem descrição. Busca interna da FCMS não ligou o nome a cinema. Sem fonte que ligue o ator e diretor teatral de Campo Grande ao elenco do curta, a identidade não está confirmada. O aviso do conferir fica.

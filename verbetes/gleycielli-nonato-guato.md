@@ -21,6 +21,8 @@ Segundo o diretor, no filme o rio representa para ela o elo com a ancestralidade
 ## Filmografia
 
 - [[a-trovadora-e-a-poeta|*A Trovadora e a Poeta*]] (2025) — curta-metragem; roteiro, atuação (Lucila) e produção executiva.[^cc2025]
+- [[carne-amarela|*Carne Amarela*]] (curta-metragem de ficção; filmagens em Coxim, encerradas em 21 de dezembro de 2025) — direção e roteiro, a partir de textos da própria autora.[^ce2025]
 
 [^cc2025]: Da Assessoria, ["Com indígena e idosa, filme 'A Trovadora e a Poeta' é gravado em Campo Grande"](https://www.correiodecorumbapantanal.com.br/cultura/com-indigena-e-idosa-filme-a-trovadora-e-a-poeta-e-gravado-em-campo-grande), *Correio de Corumbá*, 16 out. 2025. Acesso em 4 nov. 2026.
+[^ce2025]: Marcos Pierry, ["Curta-metragem 'Carne Amarela' transforma a Terra do Pé de Cedro em set de filmagens"](https://correiodoestado.com.br/correio-b/2025/12/22/curta-metragem-carne-amarela-transforma-a-terra-do-pe-de-cedro-em-set-de-filmagens.html), *Correio do Estado*, 22 dez. 2025. Acesso em 4 nov. 2026.
 [^cgn2026]: Thailla Torres, ["Aos 77 anos, Terezinha estreia em filme com 'A Trovadora e a Poeta'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aos-77-anos-terezinha-estreia-em-filme-com-a-trovadora-e-a-poeta), *Campo Grande News*, 26 maio 2026. Acesso em 4 nov. 2026.

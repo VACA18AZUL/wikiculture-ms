@@ -36,3 +36,8 @@ Fontes novas abertas e lidas (veículos diferentes de A Crítica):
 - Ficha técnica completa (produção, fotografia, trilha, montagem) está na nota do Correio de Corumbá; não entrou porque o verbete é de pessoa e sem verbete da obra. Candidatos para propostas: obra a-trovadora-e-a-poeta, atriz/roteirista Gleycielli Nonato Guató (também dirige o curta Kaguateka: Aquelas que Resistem, segundo resumo de busca), Terezinha Pantaneira. Ver dados/propostas/nomes-r-1.csv.
 - Não abertos: Campo Grande Notícias (403), Diário Digital, JD1 Notícias, Eu Sou MS (festival).
 - Cidade do diretor segue sem fonte.
+
+## Atualização de 2026-11-04
+
+- Fonte reaberta: Correio do Estado, 22 dez. 2025 (Carne Amarela; nota ce2025). Marcus Teles: produtor executivo, assistente de direção e corroteirista, nascido em Coxim. Item acrescentado em Filmografia.
+- Identidade: a matéria de Carne Amarela não cita A Trovadora e a Poeta. A ligação vem de duas fontes: (1) Carne Amarela o dá como nascido em Coxim e corroteirista com Gleycielli Nonato Guató; (2) o Campo Grande News de 4 nov. 2026 diz que, ao receber o prêmio de Mapago, ele dedicou o prêmio a Coxim e aos Guató, e que Gleycielli é produtora executiva de Mapago. Gleycielli também assina o roteiro de A Trovadora e a Poeta com ele.

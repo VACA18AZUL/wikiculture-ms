@@ -21,8 +21,9 @@ Em março de 2023, o *Campo Grande News* publicou registros seus da cheia do Pan
 
 ## Exposições
 
-A reportagem de *A Crítica* que anunciou a exposição [[fotografia-e-memoria-2026|Fotografia e Memória]], no [[mis-ms|MIS-MS]], em 2026, cita um André Bittar entre os 14 fotógrafos sul-mato-grossenses do painel coletivo previsto para acompanhar as fotos de [[rachid-waqued|Rachid Waqued]].[^acritica2026]
+A reportagem de *A Crítica* que anunciou a exposição [[fotografia-e-memoria-2026|Fotografia e Memória]], no [[mis-ms|MIS-MS]], em 2026, cita um André Bittar entre os 14 fotógrafos sul-mato-grossenses do painel coletivo previsto para acompanhar as fotos de [[rachid-waqued|Rachid Waqued]].[^acritica2026] A Fundação de Cultura de MS, que mantém o museu, publicou a mesma lista de nomes ao anunciar a abertura da mostra em 26 de fevereiro de 2026.[^fcms2026]
 
 [^cgn2022]: Idaicy Solano, ["Fotógrafo sente emoção paralisante ao ficar cara a cara com onça-pintada"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/fotografo-sente-emocao-paralisante-ao-ficar-cara-a-cara-com-onca-pintada), *Campo Grande News*, 6 set. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Perrengue não desanima quem mostra beleza da cheia no Pantanal"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/perrengue-nao-desanima-quem-mostra-beleza-da-cheia-no-pantanal), *Campo Grande News*, 15 mar. 2023. Acesso em 4 nov. 2026.
 [^acritica2026]: Iury de Oliveira, ["MIS reabre com mostra sobre memória da fotografia em Mato Grosso do Sul"](https://acritica.net/cultura/mis-ms-exposicao-fotografia-e-memoria-rachid-waqued/), *A Crítica*, 24 fev. 2026. Acesso em 4 nov. 2026.
+[^fcms2026]: Fundação de Cultura de Mato Grosso do Sul, ["MIS reabre as portas com exposição sobre a memória da fotografia de MS"](https://www.fundacaodecultura.ms.gov.br/mis-reabre-as-portas-com-exposicao-sobre-a-memoria-da-fotografia-de-ms/), notícia institucional, 23 fev. 2026. Acesso em 4 nov. 2026.

@@ -43,3 +43,7 @@ Todas do mesmo veículo (três matérias de autores e anos diferentes). Busca ab
 ## Uso no verbete
 
 - Entrou tudo, exceto nomes de elenco e equipe técnica de O Florista (sem verbete próprio para a obra; ficam aqui para um futuro verbete o-florista-curta, proposto em nomes-w9-2).
+
+## Atualização de 2026-11-04
+
+- Filmografia: *O Florista* passou a ter o link `[[o-florista-curta]]`. Fonte reaberta (cgn2013): confirma direção, roteiro, direção de arte, atuação, som e edição de som. Nada novo.

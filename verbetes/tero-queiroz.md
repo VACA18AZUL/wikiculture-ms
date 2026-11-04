@@ -26,8 +26,8 @@ Em julho de 2020, anunciou o lançamento de *Chinelo de Dedo*, seu segundo rap, 
 ## Filmografia
 
 - *Madalena* — atuação.[^cgn2023a]
-- *Gado Novo* (2023) — curta, doc-ficção, direção de Beto Brant; atuação (protagonista) e assistência de direção.[^cgn2023b]
-- *Amoitado* (2026) — curta; roteiro e direção, codireção de [[aly-freitas|Aly Freitas]].[^ce2026]
+- [[gado-novo|*Gado Novo*]] (2023) — curta, doc-ficção, direção de Beto Brant; atuação (protagonista) e assistência de direção.[^cgn2023b]
+- [[amoitado|*Amoitado*]] (2026) — curta; roteiro e direção, codireção de [[aly-freitas|Aly Freitas]].[^ce2026]
 
 [^ce2020]: Naiane Mesquita, ["Ator de MS investe na música com rap autoral"](https://correiodoestado.com.br/correio-b/ator-de-ms-investe-na-musica-com-rap-autoral/374855), *Correio do Estado*, 19 jul. 2020. Acesso em 4 nov. 2026.
 [^cgn2023a]: Aletheya Alves, ["Depois de Pantanal, ator de MS garante cena em Terra e Paixão"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/depois-de-pantanal-ator-de-ms-garante-cena-em-terra-e-paixao), *Campo Grande News*, 17 maio 2023. Acesso em 4 nov. 2026.

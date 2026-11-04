@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em outubro de 2023, promoveu com a Prefeitura de Três Lagoas, por meio da Secretaria Municipal de Educação e Cultura, a [[mostra-de-circo-e-teatro-paulo-sanches|1ª Mostra de Circo e Teatro Paulo Sanches]], em homenagem ao ator e palhaço [[paulo-sanches|Paulo Sanches]].[^ptl2023a][^rcn2023] Segundo o balanço da prefeitura, a mostra teve 16 apresentações gratuitas entre 21 e 29 de outubro, com 79 artistas, e cerca de 7.600 espectadores, número informado pelos organizadores.[^ptl2023b]
+Em outubro de 2023, promoveu, em parceria com a Secretaria Municipal de Educação e Cultura de Três Lagoas, a [[mostra-de-circo-e-teatro-paulo-sanches|1ª Mostra de Circo e Teatro Paulo Sanches]], em homenagem ao ator e palhaço [[paulo-sanches|Paulo Sanches]].[^ptl2023a][^rcn2023] Segundo o balanço da prefeitura, a mostra teve 16 apresentações gratuitas entre 21 e 29 de outubro, com 79 artistas, e cerca de 7.600 espectadores, número informado pelos organizadores.[^ptl2023b]
 
 A idealizadora da mostra, [[deia-fernandes|Deia Fernandes]], agradeceu à equipe da Educ'Art no balanço divulgado após a mostra.[^ptl2023b] Em 2026, ela foi apresentada pela prefeitura como representante da produtora na delegação de Três Lagoas à Teia Nacional, em Aracruz (ES).[^ptl2026]
 

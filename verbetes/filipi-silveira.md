@@ -22,7 +22,7 @@ Em 2021, a mesma publicação listou dois filmes com participação dele entre c
 
 ## Filmografia
 
-- *O Florista* — curta-metragem de ficção, 18 min, selecionado em 2013 para o Short Film Corner; direção, roteiro, direção de arte, atuação e edição de som.[^cgn2013]
+- [[o-florista-curta|*O Florista*]] — curta-metragem de ficção, 18 min, selecionado em 2013 para o Short Film Corner; direção, roteiro, direção de arte, atuação e edição de som.[^cgn2013]
 - *Ano Que Vem Tem Mais* — filme sobre o carnaval de Campo Grande; produção, com Marineti Pinheiro.[^cgn2021]
 - *Retrato do Artista Quando Coisa* — curta experimental, 4 min; realização, com Larissa Neves (a lista de Ivinhema credita o filme aos dois; a reportagem de 2021 diz que os dois o produziram). A reportagem de 2021 diz que o filme foi produzido naquele ano;[^cgn2021] a lista de selecionados de Ivinhema o data de 2022.[^cgn2024]
 

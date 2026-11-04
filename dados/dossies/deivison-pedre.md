@@ -50,3 +50,7 @@ Todas as fontes usadas são do mesmo veículo (Campo Grande News), em quatro mat
 ## Uso no verbete
 
 - Entrou tudo o que está acima. Fonte única de veículo (quatro matérias do Campo Grande News); IMDb e Midiamax ficaram de fora.
+
+## Atualização de 2026-11-04
+
+- Não acrescentado: *Amoitado* (direção de fotografia). Reaberta a matéria do Correio do Estado de 18 out. 2026: cita "Deivison Pedrê" só na ficha, sem cidade, formação ou outros trabalhos. A Crítica de 22 set. 2026 não cita o nome. Buscas internas (Correio do Estado, A Crítica) sem resultado útil; Brave deu 429. Sem fonte que ligue o diretor de *Ninguém lhe Estenderá a Mão* ao diretor de fotografia de *Amoitado*, a identidade não está confirmada. O aviso do conferir fica.

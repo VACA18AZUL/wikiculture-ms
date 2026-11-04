@@ -44,3 +44,9 @@ Fontes descartadas: vídeos de terceiros no YouTube (UFU, Projeto Língua Viva, 
 ## Uso no verbete
 
 - Entrou tudo acima, menos detalhes de episódios e equipe da série (cabem no verbete futuro-da-terra).
+
+## Revisão de 2026-11-04 (valn-20)
+
+- ce2025 reaberta e conferida. A matéria é de 16 abr. 2025 e anuncia a estreia "nesta sexta-feira": o verbete passou a tratar a estreia como anunciada.
+- ic2017: o oEmbed do YouTube confirma título ("Alberto Alvares – Encontros de Cinema (2016)") e canal (Itaú Cultural, @itaucultural), mas a página do vídeo pediu login de verificação anti-robô e a descrição não pôde ser lida nesta sessão. Os fatos atribuídos a ic2017 (ator em *Como a Noite Apareceu*, aprendizado sem formação formal, depoimento no Mekukradjá em set. 2016, data de publicação 18 set. 2017) ficaram sem conferência.
+- A matéria chama Alvares de "um dos principais nomes do cinema indígena do Brasil"; avaliação não entrou no verbete.

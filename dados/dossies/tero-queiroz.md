@@ -66,3 +66,7 @@ Fontes descartadas:
 - Retirado o link e o 'longa' (texto e Filmografia); ficou '*Madalena* (que a matéria diz estar na Netflix)'.
 - Se o Madalena citado é o longa de Madiano Marcheti; anos das demais obras; resultado de Amoitado no Curta Campo Grande 2026.
 - Wikipédia pt: sem artigo sobre o verbete.
+
+## Atualização de 2026-11-04
+
+- Filmografia: *Gado Novo* e *Amoitado* passaram a ter o link `[[gado-novo]]` e `[[amoitado]]` (aviso do conferir). Nenhuma fonte nova; as notas cgn2023b e ce2026 já estavam. As duas obras são vídeo sem link oficial, então não há "Assistir".

@@ -20,7 +20,7 @@ atualizado: 2026-11-04
 
 ## Criação
 
-O disco nasceu do projeto Sounding Futures, coordenado pelo Multimedia Anthropology Lab da University College London (UCL). Segundo o *Correio do Estado*, o projeto tem parceria com o Instituto para o Desenvolvimento da Arte e da Cultura e com a Universidade Estadual de Mato Grosso do Sul (UEMS). A gravadora informa que o trabalho começou num laboratório de som ambissônico em Londres e seguiu numa sessão de improviso no estúdio de Youth.[^ce2026][^lsd2026]
+O disco nasceu do projeto Sounding Futures. Segundo o *Correio do Estado*, o projeto é feito em parceria entre o Multimedia Anthropology Lab da University College London (UCL), o Instituto para o Desenvolvimento da Arte e da Cultura e a [[uems|Universidade Estadual de Mato Grosso do Sul (UEMS)]]. A gravadora apresenta o laboratório da UCL como coordenador do projeto. A gravadora informa que o trabalho começou num laboratório de som ambissônico em Londres e seguiu numa sessão de improviso no estúdio de Youth.[^ce2026][^lsd2026]
 
 O *Correio do Estado* cita como lideranças espirituais à frente do projeto Nhandesy Roseli, Nhandesy Fausta e Nhanderu Tadeu, que decidem o que pode ser compartilhado. A gravadora fala em três anciãos que acompanharam as mixagens, pediram mudanças e deram nome às faixas. As duas fontes dizem que os cantos sagrados foram mantidos sem edição.[^ce2026][^lsd2026]
 

@@ -3,7 +3,7 @@ titulo: Luiz Cláudio Ferreira
 tipo: pessoa
 areas: [literatura, teatro]
 cidade: Três Lagoas
-resumo: Professor de teatro e autor de Três Lagoas; lançou em 2021 os livros infantis Uma história de Princesa e O menino que virou lagarta, com fomento da Lei Aldir Blanc, e dirige peças escolares no FETRAN.
+resumo: Professor de teatro e autor de Três Lagoas; teve em 2021 os livros infantis Uma história de Princesa e O menino que virou lagarta viabilizados pela Lei Aldir Blanc e dirigiu peças escolares no FETRAN.
 ficha:
   Atividade: "Professor de teatro, dramaturgia escolar, literatura infantil"
 status: rascunho
@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Segundo a prefeitura, chegou à literatura infantil pelo teatro: criou um projeto no qual escreveu e montou cerca de 35 espetáculos educativos, apresentados em festivais e eventos ligados à educação.[^ptl2021a]
 
-Em abril de 2021, lançou suas duas primeiras narrativas, *Uma história de Princesa* e *O menino que virou lagarta*, viabilizadas por edital de fomento da Lei Aldir Blanc da Secretaria Municipal de Educação e Cultura de Três Lagoas. Os livros tratam de temas como autoestima, nutrição e convivência; 50 exemplares de cada título foram destinados à secretaria como contrapartida.[^ptl2021a]
+Em abril de 2021, a prefeitura anunciou o lançamento das duas primeiras narrativas dele, *Uma história de Princesa* e *O menino que virou lagarta*, viabilizadas por edital de fomento da Lei Aldir Blanc da Secretaria Municipal de Educação e Cultura de Três Lagoas. Os livros tratam de temas como autoestima, nutrição e convivência; 50 exemplares de cada título seriam destinados à secretaria como contrapartida.[^ptl2021a]
 
 No mesmo ano, criou e dirigiu *Tudo o que Você Pode Ser*, drama musical encenado por alunos do 4º e 5º anos da Escola Municipal Ramez Tebet na etapa de Três Lagoas do 11º Festival Estudantil Temático de Trânsito (FETRAN), em 29 de outubro de 2021.[^ptl2021b] A peça venceu o festival estadual nas categorias espetáculo infantil e melhor atriz, a primeira vitória de Três Lagoas na competição.[^ptl2021c]
 

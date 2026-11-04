@@ -3,7 +3,7 @@ titulo: Alberto Alvares
 tipo: pessoa
 areas: [audiovisual]
 cidade: Japorã
-resumo: Cineasta guarani nhandewa nascido na aldeia Porto Lindo, em Japorã. Codirigiu com Claudiney Ferreira e fotografou a série documental Futuro da Terra, do Itaú Cultural, lançada em 2025.
+resumo: Cineasta guarani nhandewa nascido na aldeia Porto Lindo, em Japorã. Dirige com Claudiney Ferreira, e fotografa, a série documental Futuro da Terra, do Itaú Cultural, com estreia anunciada para abril de 2025.
 ficha:
   Nascimento: "Aldeia Porto Lindo, Japorã"
   Atividade: "Direção e direção de fotografia (cinema)"
@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Alberto Alvares** é um cineasta do povo Guarani Nhandewa (ou Nhandeva), nascido na aldeia Porto Lindo, em Japorã, município da fronteira de Mato Grosso do Sul com o Paraguai.[^ce2025][^ic2017]
+**Alberto Alvares** é um cineasta do povo Guarani Nhandewa (ou Nhandeva). Nasceu na aldeia Porto Lindo, em Japorã, cidade de Mato Grosso do Sul na fronteira com o Paraguai.[^ce2025][^ic2017]
 
 ## Trajetória
 
@@ -19,12 +19,12 @@ Segundo o Itaú Cultural, começou no cinema como ator principal de *Como a Noit
 
 Em setembro de 2016, gravou um depoimento para a série *Encontros de Cinema*, do Itaú Cultural, durante o evento Mekukradjá – Círculo de Saberes de Escritores e Realizadores Indígenas, em São Paulo.[^ic2017]
 
-Em abril de 2025, estreou na plataforma Itaú Cultural Play a série documental [[futuro-da-terra|*Futuro da Terra*]], produção original do Itaú Cultural. Alvares divide a direção com o jornalista Claudiney Ferreira e assina a direção de fotografia. A primeira temporada tem três episódios, gravados no Distrito Federal, em Mato Grosso, em São Paulo e em Minas Gerais, com entrevistas feitas só com pessoas indígenas. Na época, segundo o *Correio do Estado*, ele fazia mestrado no Rio de Janeiro.[^ce2025]
+Em 16 de abril de 2025, o *Correio do Estado* anunciou para a sexta-feira seguinte a estreia de [[futuro-da-terra|*Futuro da Terra*]] na plataforma gratuita Itaú Cultural Play. A série documental foi produzida pelo próprio Itaú Cultural. Alvares divide a direção com o jornalista Claudiney Ferreira e responde também pela direção de fotografia. Segundo a reportagem, a primeira temporada tem três episódios, com gravações em Minas Gerais, Mato Grosso, São Paulo e no Distrito Federal, e todos os entrevistados são indígenas. Na época, segundo o *Correio do Estado*, ele fazia mestrado no Rio de Janeiro.[^ce2025]
 
 ## Filmografia
 
 - *Como a Noite Apareceu* — filme falado em guarani; atuação (ator principal); direção de Alexandre Perim.[^ic2017]
-- [[futuro-da-terra|*Futuro da Terra*]] (2025) — série documental, três episódios na primeira temporada; direção (com Claudiney Ferreira) e direção de fotografia.[^ce2025]
+- [[futuro-da-terra|*Futuro da Terra*]] (2025, estreia anunciada para abril) — série documental, três episódios na primeira temporada; direção (com Claudiney Ferreira) e direção de fotografia.[^ce2025]
 
 ## Videografia
 

@@ -52,3 +52,11 @@ Fontes descartadas: resumo de busca que datava a matéria da onça de 2011 (erro
 ## Validação de 2026-11-04 (valn-10b)
 
 - Frase passou a "o Campo Grande News publicou registros seus"; painel "previsto".
+
+## Atualização de 2026-11-04 (r4-2)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2026 | FCMS, "MIS reabre as portas com exposição sobre a memória da fotografia de MS", 23 fev. 2026 | https://www.fundacaodecultura.ms.gov.br/mis-reabre-as-portas-com-exposicao-sobre-a-memoria-da-fotografia-de-ms/ | sim (só a lista de nomes) |
+
+O que mudou: segunda nota na frase da exposição Fotografia e Memória. A lista de 14 fotógrafos é a mesma de acritica2026 (provável origem comum no release da FCMS), então não é confirmação independente; só mostra que a instituição organizadora também publicou o nome. A identidade com o fotógrafo do Campo Grande News continua sem fonte (nenhuma das duas matérias descreve o André Bittar da lista). Correio do Estado (busca "André Bittar fotógrafo"), UFMS e A Crítica: sem outra matéria sobre o fotógrafo; o Correio do Estado de 17 out. 2026 sobre foto de onça-pintada trata de outro fotógrafo (não relacionado).

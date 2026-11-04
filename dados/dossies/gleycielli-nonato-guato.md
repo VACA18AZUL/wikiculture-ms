@@ -46,3 +46,8 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 Ficaram fora: nome da avó e trabalhos anteriores em Campo Grande (vida pessoal/familiar).
+
+## Atualização de 2026-11-04
+
+- Fonte reaberta: Correio do Estado, 22 dez. 2025 (Carne Amarela; nota ce2025). Funções: direção e roteiro, a partir do poema "Carne Amarela" e do conto "É Tempo de Ouro no Cerrado", de sua autoria; "uma Guató de Coxim". Item acrescentado em Filmografia.
+- Identidade: mesmo nome completo, mesma etnia (Guató) e atividade de poeta das fontes de A Trovadora e a Poeta (Correio de Corumbá, 16 out. 2025). O Campo Grande News de 4 nov. 2026 (Mapago) cita "Gleycielly Nonato Guató" como produtora executiva e atriz do filme de Marcus Teles.

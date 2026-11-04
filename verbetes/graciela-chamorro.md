@@ -5,11 +5,11 @@ areas: [literatura]
 cidade: Dourados
 resumo: Professora de História Indígena da UFGD, nascida no Paraguai, autora do Dicionário Kaiowá-Português e de estudos sobre os povos guarani e kaiowá. Presidia a Associação Cultural Casulo, em Dourados.
 ficha:
-  Nome completo: Cándida Graciela Chamorro Argüello
+  Nome completo: "Cándida Graciela Chamorro Argüello"
   Nascimento: "6 de junho de 1958, Paraguai"
   Morte: "fevereiro de 2026"
-  Atividade: Professora, pesquisadora e escritora
-  Grupos: Associação Cultural Casulo (presidente desde 2015)
+  Atividade: "Professora, pesquisadora e escritora"
+  Grupos: "Associação Cultural Casulo (presidente desde 2015)"
 status: rascunho
 atualizado: 2026-11-04
 ---
