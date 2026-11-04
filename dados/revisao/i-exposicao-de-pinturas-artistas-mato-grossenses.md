@@ -6,7 +6,7 @@
 ## Fontes abertas
 
 - [^assis] Assis, dissertação UFGD (2013), p. 24-26: ok (iniciativa de Aline Figueiredo e Adelaide Vieira com Humberto Espíndola, negociação com Pietro Bardi, outubro de 1966, Rádio Clube, participantes citados, críticas de Bardi na Mirante das Artes, avaliação dos organizadores como provinciana e primeiro passo).
-- [^godoi] Godoi, dissertação UFGD (2020), p. 90-91 (fonte nova): ok (entrevista de Sá Rosa à ComCultura, 2006: mostra de 1966 organizada por Aline Figueiredo e Adelaide Vieira no Rádio Clube, a mais expressiva antes de 1970).
+- [^godoi] Godoi, tese de doutorado UFGD (2020), p. 90-91 (fonte nova): ok (entrevista de Sá Rosa à ComCultura, 2006: mostra de 1966 organizada por Aline Figueiredo e Adelaide Vieira no Rádio Clube, a mais expressiva antes de 1970).
 
 ## Problemas achados
 

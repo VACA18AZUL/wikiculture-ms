@@ -9,10 +9,10 @@ ficha:
   Integrantes: Jandira; Benites
   Atividade: Música tradicional paraguaia
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Jandira e Benites** foi uma dupla de intérpretes da música tradicional paraguaia, formada em Campo Grande em 1963 e apontada como referência do gênero na cidade.[^gon14]
+**Jandira e Benites** (grafado também Jandira & Benítez)[^cae] foi uma dupla de intérpretes da música tradicional paraguaia, formada em Campo Grande em 1963 e apontada como referência do gênero na cidade.[^gon14]
 
 ## Trajetória
 
@@ -24,4 +24,7 @@ Só gravaram em 1970, convidados por [[ze-correa|Zé Corrêa]] para o LP *O Inim
 
 Depois de uma queda de Jandira no palco, em 1974, deixaram as viagens e abriram a casa La Carreta, que recebia grupos paraguaios de música e dança. Em 1982, transferiram a casa a empresários do Rio de Janeiro e passaram a cantar em outros restaurantes da cidade.[^gon14] A dupla se separou no fim dos anos 1980, e Jandira morreu em 1994.[^gon14]
 
+Em depoimento citado por Gilmar Lima Caetano, [[paulo-simoes|Paulo Simões]] lembra que, na Campo Grande de sua juventude, a música paraguaia ficava restrita a apresentações ao vivo em churrascarias, sobretudo no La Carreta, onde se apresentava a dupla, grafada por ele "Jandira & Benítez", e a festas em fazendas.[^cae]
+
 [^gon14]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014. Acesso em 29 out. 2026.
+[^cae]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, capítulo 1. Acesso em 4 nov. 2026.

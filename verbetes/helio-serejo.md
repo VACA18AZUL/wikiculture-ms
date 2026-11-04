@@ -12,10 +12,10 @@ links:
     url: https://pt.wikipedia.org/wiki/H%C3%A9lio_Serejo
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Hélio Serejo** foi um escritor de Mato Grosso do Sul, classificado pela crítica como regionalista da fronteira entre Brasil e Paraguai, com mais de sessenta volumes publicados.[^raido10]
+**Hélio Serejo** foi um escritor de Mato Grosso do Sul, classificado pela crítica como regionalista da fronteira entre Brasil e Paraguai, com mais de sessenta volumes publicados, segundo Santos;[^raido10] Marin fala em 60 livros.[^raido15]
 
 ## Trajetória
 

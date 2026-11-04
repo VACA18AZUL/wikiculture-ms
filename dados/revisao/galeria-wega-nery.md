@@ -6,7 +6,7 @@
 ## Fontes abertas
 
 - [^acritica] A Crítica, publicada em 1º out. 2026 (UTC; 30 set. no horário local): ok (Centro Cultural José Octávio Guizzo, mostra de Wendel Fontes de 2 a 30 out., 21 pinturas e instalação sonora, oficinas aos sábados, Libras, audiodescrição, PNAB, horários, domingo conforme Teatro Aracy Balabanian, entrada gratuita).
-- [^godoi]/[^godoi2] Godoi, dissertação UFGD (2020): ok (Quadro 5, espaços culturais frequentados em Campo Grande na década de 1980; Wega Nery 1912-2007, desenho e pintura, 12 bienais).
+- [^godoi]/[^godoi2] Godoi, tese de doutorado UFGD (2020): ok (Quadro 5, espaços culturais frequentados em Campo Grande na década de 1980; Wega Nery 1912-2007, desenho e pintura, 12 bienais).
 
 ## Problemas achados
 

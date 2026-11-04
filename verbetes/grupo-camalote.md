@@ -6,7 +6,7 @@ resumo: Grupo de danças parafolclóricas de Mato Grosso do Sul, que se inspira 
 ficha:
   Atividade: Danças parafolclóricas regionais
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Grupo Camalote** é um grupo de danças parafolclóricas baseado em tradições populares regionais de Mato Grosso do Sul, segundo nota de uma dissertação da UFMS.[^costa2023]
@@ -19,6 +19,9 @@ O repertório se inspira no levantamento feito em campo pela professora [[marlei
 
 A autora da dissertação, que dançou no grupo quando cursava Artes Cênicas na UEMS, descreve um repertório de danças regionais no modelo folclorista, com coreografias de palco baseadas no que Sigrist observou em visitas a grupos de diversas localidades. As coreografias são ensinadas de forma oral.[^costa2023]
 
-As fontes lidas não informam a cidade-sede, o ano de fundação nem os integrantes do grupo.[^costa2023]
+Em 2026, o *Campo Grande News* atribuiu a criação do grupo a professoras ligadas à Comissão Sul-Mato-Grossense de Folclore, entre elas Cristiane Aparecida de Luca Lima, Maria Ivonete Simocelli e Lucy Carlos de Andrade. Segundo a reportagem, o objetivo era divulgar as danças tradicionais do estado, pouco ensinadas nas escolas, e o trabalho da comissão se apoia nas pesquisas de Marlei Sigrist.[^cgn2026]
+
+As fontes lidas não informam a cidade-sede nem o ano de fundação do grupo.[^costa2023][^cgn2026]
 
 [^costa2023]: Suzane dos Santos Fernandes Borges Rodrigues da Costa, *Dançando a tradição: uma proposta pedagógica para a dança regional sul-mato-grossense*, dissertação (Mestrado Profissional em Artes, PROF-ARTES), Universidade Federal de Mato Grosso do Sul, Campo Grande, 2023, p. 10-11. [PDF](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/11965). Acesso em 29 out. 2026.
+[^cgn2026]: Natália Olliver, ["Acervo de 4 mil itens sobre folclore de MS não tem lugar para ficar"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/acervo-de-4-mil-itens-sobre-folclore-de-ms-nao-tem-lugar-para-ficar), *Campo Grande News*, 19 mar. 2026. Acesso em 4 nov. 2026.

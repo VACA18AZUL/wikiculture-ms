@@ -13,7 +13,7 @@
 | id da nota | Referência completa | URL | Tipo | Entra? |
 |---|---|---|---|---|
 | assis | Renata Rodrigues de Assis, dissertação UFGD, 2013 | https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf | acadêmica | sim |
-| godoi | Rozana V. F. V. de Godoi, dissertação UFGD, 2020, p. 90-91 | http://repositorio.ufgd.edu.br/jspui/bitstream/prefix/4524/1/RozanaVanessaFagundesValentimdeGodoi.pdf | acadêmica | sim |
+| godoi | Rozana V. F. V. de Godoi, tese de doutorado UFGD, 2020, p. 90-91 | http://repositorio.ufgd.edu.br/jspui/bitstream/prefix/4524/1/RozanaVanessaFagundesValentimdeGodoi.pdf | acadêmica | sim |
 
 ## Atualização de 2026-11-04
 

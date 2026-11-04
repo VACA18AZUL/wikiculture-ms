@@ -1,0 +1,47 @@
+# Dossiê: circo-do-mato
+
+## Identificação
+
+- Nome: Circo do Mato – Grupo de Artes Cênicas; "Circo do Mato"
+- Tipo: grupo
+- Áreas: teatro, circo
+- Cidade: Campo Grande (sede no bairro Amambaí)
+- Linha na lista-mestra: sim
+
+## Atualização de 2026-11-04
+
+Agente: atualizador + revisor-editorial (validação, bloco val-0). O verbete tinha uma fonte principal (Campo Grande News, 2025).
+
+### Fontes novas abertas
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| boca2017 | Folheto da programação da Boca de Cena – Mostra Sul-mato-grossense de Teatro e Circo 2017 (PDF no site da UFMS), p. 5-9 | https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf | institucional | sim |
+| cgn2014 | Elverson Cardozo, "Completando 10 anos em 2014, Circo do Mato apresenta espetáculo inédito", Campo Grande News, 19 mar. 2014 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/completando-10-anos-em-2014-circo-do-mato-apresenta-espetaculo-inedito | imprensa | sim |
+| cgn2020 | Alana Portela, "Sem apoio, Circo do Mato faz vaquinha para não fechar as portas", Campo Grande News, 22 jun. 2020 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sem-apoio-circo-do-mato-faz-vaquinha-para-nao-fechar-as-portas | imprensa | sim |
+| cgn2025a | Thailla Torres, "Circo do Mato estreia espetáculo Ponto de Partida em Campo Grande", Campo Grande News, 17 jan. 2025 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/circo-do-mato-estreia-espetaculo-ponto-de-partida-em-campo-grande | imprensa | sim |
+
+Fontes descartadas:
+
+- Artigo da UEMS (portal.uems.br, PDF de 2017) sobre sustentabilidade artística do grupo: o host não abre nesta sessão (bloqueado na rede). Vale tentar em outra sessão.
+
+### Fatos novos, com fonte
+
+- O grupo completava 10 anos em 2014 [cgn2014]; tinha "15 anos de história" em 2020 [cgn2020]; *Ponto de Partida* seria o primeiro solo "em mais de 20 anos" (2025) [cgn2025a].
+- Mauro Guimarães é um dos fundadores [cgn2020].
+- Espetáculos de teatro e circo, intervenções em eventos, oficinas de circo; Pantalhaços com a Flor e Espinho há dez anos (em 2020) [cgn2020].
+- Vaquinha on-line em 2020, sede fechada desde março, sem apoio emergencial do estado e da prefeitura [cgn2020].
+- *Navalha de Carne* (2014), de Plínio Marcos, direção de Leandro Melo, prêmio Rubens Corrêa 2013 da FCMS [cgn2014].
+- Sede foi local da Boca de Cena 2017; *Os Corcundas*, dramaturgia e direção de Breno Moroni, elenco Luciana Kreutzer e Mauro Guimarães [boca2017].
+- Estreia de *Ponto de Partida* em Campo Grande (17-19 jan. 2025) e Salvador (23-26 jan. 2025); apoio do Programa Funarte Retomada 2023 – Circo [cgn2025a].
+
+### Divergências
+
+- Início do grupo: cerca de 2004 (dez anos em 2014) [cgn2014]; cerca de 2005 (15 anos em 2020) [cgn2020]; "mais de 20 anos" em 2025 [cgn2025a]. As três versões entraram no verbete.
+
+### O que mudou no verbete
+
+- Parágrafos novos sobre início, atuação, sede como espaço de apresentações, pandemia e estreia de 2025.
+- Espetáculos: *Navalha de Carne* e *Os Corcundas* acrescentados.
+- Ficha: Mauro Guimarães como um dos fundadores.
+- Endereço completo da sede (que as fontes trazem) não entrou: basta o bairro.

@@ -10,7 +10,7 @@ ficha:
   Idealização: Dannon Lacerda
   Premiação: Troféu Tuiuiú
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Festival Curta Campo Grande**, também chamado de Curta Campo Grande | Curta MS, é um festival dedicado exclusivamente a curtas-metragens, realizado em Campo Grande desde 2024.[^cgn2024c]
@@ -29,7 +29,7 @@ As fontes divergem sobre quem realiza o festival:[^cgn2024a][^cgn2025][^ac2026b]
 
 ## Edições
 
-A **primeira edição** ocorreu de 28 de outubro a 2 de novembro de 2024, com programação gratuita.[^cgn2024b] Recebeu 1.035 inscrições, 35 delas de Mato Grosso do Sul, e selecionou 41 filmes, distribuídos em seis mostras: Curta Brasil, Curta MS, Hors Concours, Diversidade, Sessão Livre e Mostrinha. A curadoria geral foi de [[andrea-freire|Andréa Freire]], Marcos Pierry e Ricardo Cota.[^cgn2024a] As matérias divergem quanto aos locais: uma cita a Escola Estadual Maria Constança Barros Machado, o Centro Cultural José Octávio Guizzo e a Casa de Cultura,[^cgn2024b] outra cita o Centro Cultural José Octávio Guizzo e a Casa de Ensaio.[^cgn2024a]
+A **primeira edição** ocorreu de 28 de outubro a 2 de novembro de 2024, com programação gratuita.[^cgn2024b] Recebeu 1.035 inscrições, 35 delas de Mato Grosso do Sul, e selecionou 41 filmes, distribuídos em seis mostras: Curta Brasil, Curta MS, Hors Concours, Diversidade, Sessão Livre e Mostrinha. A curadoria geral foi de [[andrea-freire|Andréa Freire]], Marcos Pierry e Ricardo Cota.[^cgn2024a] As matérias divergem quanto aos locais: uma cita a Escola Estadual Maria Constança Barros Machado, o Centro Cultural José Octávio Guizzo e a Casa de Cultura,[^cgn2024b] outra cita o Centro Cultural José Octávio Guizzo e a Casa de Ensaio,[^cgn2024a] e o *Correio do Estado* cita a escola e o Centro Cultural.[^ce2024]
 
 Na premiação, o júri oficial escolheu *[[ninguem-lhe-estendera-a-mao|Ninguém lhe Estenderá a Mão]]*, de Pedrê Deivison, como Melhor Filme Sul-Mato-Grossense. O júri universitário e o voto popular escolheram *Relatos de uma Guerra* na mesma categoria.[^cgn2024c] O Correio do Estado situa esse filme em Dourados.[^ce2024]
 

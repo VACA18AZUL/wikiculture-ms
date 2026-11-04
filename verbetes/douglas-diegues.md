@@ -12,7 +12,7 @@ links:
     url: https://pt.wikipedia.org/wiki/Douglas_Diegues
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Douglas Diegues** (Rio de Janeiro, 1965) é um poeta que escreve em "portunhol selvagem", mistura de português, espanhol e guarani falada informalmente na fronteira entre o Brasil e o Paraguai.[^camargo17]
@@ -27,7 +27,7 @@ Em 2007 fundou a editora cartonera Yiyi Jambo, dedicada a livros em portunhol se
 
 ## Obra
 
-O artigo de 2017 data a estreia na poesia em 2002, com *Dá gusto andar desnudo por estas selvas*, coletânea de sonetos publicada pela Travessa dos Editores.[^camargo17] Uma dissertação de 2024 cita o mesmo livro com a data de 2003.[^dutra] As duas versões constam aqui sem escolha; a conferência da edição fica para o revisor.
+O artigo de 2017 data a estreia na poesia em 2002, com *Dá gusto andar desnudo por estas selvas*, coletânea de sonetos publicada pela Travessa dos Editores.[^camargo17] Uma dissertação de 2024 cita o mesmo livro com a data de 2003.[^dutra] As duas versões ficam registradas.
 
 Também segundo o artigo de 2017, o poeta usa o termo "transdeliração" para suas traduções de obras canônicas ao portunhol selvagem.[^camargo17]
 
