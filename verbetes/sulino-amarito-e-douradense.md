@@ -18,7 +18,7 @@ Segundo o canal, o segundo LP do trio, *Nos Braços da Saudade*, foi gravado em 
 
 O terceiro LP, *Quebradas da Noite*, também saiu pelo selo Asa Branca. A produção foi de Sulino e os arranjos, de Douradense. A faixa-título é um rasqueado de Z. Rodrigues e Prof. Cairo; o disco tem ainda "Ave de Aço", de Sulino, Zé Fortuna e Jair Sanches.[^quebradas]
 
-Os dois discos foram digitalizados pelo Acervo Digital da Memória Fonográfica de Mato Grosso do Sul a partir das coleções de José Pedro Roversi (encartes) e Silvano Fonseca (áudios), com captação e restauro de Idemar Sprandel.[^bracos][^quebradas]
+Os dois discos foram digitalizados pelo Acervo Digital da Memória Fonográfica de Mato Grosso do Sul, com encartes da coleção de José Pedro Roversi e áudios da de Silvano Fonseca; a captação e o restauro foram de Idemar Sprandel.[^bracos][^quebradas]
 
 ## Integrantes
 

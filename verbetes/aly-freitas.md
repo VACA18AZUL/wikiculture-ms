@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-*Amoitado* é um curta de suspense rural sobre o abigeato, o roubo de gado, roteirizado e dirigido por Tero Queiroz, com codireção de Aly Freitas. Foi filmado em Campo Grande entre 26 e 31 de janeiro de 2026, com cerca de 40 profissionais. Ela acompanhou a escrita do roteiro desde 2022.[^ce2026]
+*Amoitado* é um curta de suspense rural sobre o abigeato, o roubo de gado. Tero Queiroz escreveu o roteiro e dirigiu o filme; Aly Freitas assina a codireção. Foi filmado em Campo Grande entre 26 e 31 de janeiro de 2026, com cerca de 40 profissionais. Ela acompanhou a escrita do roteiro desde 2022.[^ce2026]
 
 O filme foi um dos sete selecionados para a mostra competitiva Curta MS da terceira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], de 26 a 31 de outubro de 2026, no Teatro do Mundo.[^acritica2026] A primeira exibição pública estava marcada para 30 de outubro, às 20h.[^ce2026]
 

@@ -11,15 +11,15 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Cia Aplausos**, também chamada Aplausos Cia Teatral, é uma companhia de teatro de Campo Grande.[^folheto2017][^cgn2017]
+A **Cia Aplausos** é uma companhia de teatro de Campo Grande.[^folheto2017] Também aparece com o nome Aplausos Cia Teatral.[^folheto2017][^cgn2017]
 
 ## Trajetória
 
-O espetáculo mais citado da companhia é *Cadê?!*, em que os palhaços Xico e Zureta tentam ajudar a personagem "Coisinha", que desistiu da vida, com brincadeiras infantis, pantomimas e gags clássicas de palhaço.[^cgn2014][^folheto2017] Em março de 2014, a peça estava na programação do Boca de Cena, então chamado Semana de Teatro de Campo Grande, com sessão marcada para 27 de março no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].[^cgn2014] Em abril do mesmo ano, o *Correio do Estado* anunciou apresentações dela pelo [[circuito-sul-mato-grossense-de-teatro|Circuito Sul-Mato-Grossense de Teatro]] em Rio Verde, Coxim e Alcinópolis.[^ce2014]
+A companhia apresentou *Cadê?!*, espetáculo em que os palhaços Xico e Zureta tentam ajudar a personagem "Coisinha", que desistiu da vida, com brincadeiras infantis, pantomimas e gags clássicas de palhaço.[^cgn2014][^folheto2017] Em março de 2014, a peça estava na programação do Festival Boca de Cena, descrito pela reportagem como nova edição da Semana de Teatro de Campo Grande, com sessão marcada para 27 de março no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]] e classificação "adulto".[^cgn2014] Em abril do mesmo ano, o *Correio do Estado* anunciou apresentações dela pelo [[circuito-sul-mato-grossense-de-teatro|Circuito Sul-Mato-Grossense de Teatro]] em Rio Verde, Coxim e Alcinópolis.[^ce2014]
 
 O folheto da [[mostra-boca-de-cena|Mostra Boca de Cena]] de 2017 programou *Cadê?!* para 27 de maio, no Teatro Prosa. A ficha publicada traz direção de [[thathy-dmeo|Thathy d'Meo]], elenco de [[douglas-moreira|Douglas Moreira]], Thathy d'Meo e Glaucia Pires, figurino, cenário e objetos de cena de Douglas Moreira e Thathy d'Meo, e trilha sonora da própria companhia.[^folheto2017] Em outubro de 2017, a peça era a primeira da programação de espetáculos da 5ª [[mostra-de-teatro-infantil-de-ms|Mostra de Teatro Infantil de MS]], promovida pelo ateliê de [[ramona-rodrigues|Ramona Rodrigues]], com sessão marcada para 12 de outubro no espaço do [[grupo-casa|Grupo Casa]].[^cgn2017]
 
-Em junho de 2022, a programação do Boca de Cena anunciou o grupo, com o nome Aplausos e Cia Teatral, na sede do [[teatral-grupo-de-risco|Teatral Grupo de Risco]], com o espetáculo *Lídia Baís: uma mulher à frente de seu tempo*, sobre a artista [[lidia-bais|Lídia Baís]].[^cgn2022]
+Em junho de 2022, a programação do Boca de Cena anunciou o grupo, com o nome Aplausos e Cia Teatral, na sede do [[teatral-grupo-de-risco|Teatral Grupo de Risco]], com o espetáculo *Lídia Baís: uma mulher à frente de seu tempo*, que traz no título o nome de [[lidia-bais|Lídia Baís]].[^cgn2022]
 
 ## Espetáculos
 

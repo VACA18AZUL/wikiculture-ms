@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-A banda tem como referência o blues tradicional das décadas de 1950 e 1960, e o *Campo Grande News* destaca o seu papel na divulgação do gênero em Mato Grosso do Sul. Em novembro de 2026, a formação era Robson Pereira (vocal), Jefferson Pasa (guitarra), Carlos Henrique (bateria) e Alexandre Artioli (baixo).[^cgn2026]
+A banda tem como referência o blues tradicional das décadas de 1950 e 1960, e o *Campo Grande News* destaca o seu papel na difusão do blues no estado. Em novembro de 2026, a formação era Robson Pereira (vocal), Jefferson Pasa (guitarra), Carlos Henrique (bateria) e Alexandre Artioli (baixo).[^cgn2026]
 
 Para comemorar 23 anos, a banda anunciou uma festa em 14 de novembro de 2026, numa cervejaria do bairro Chácara Cachoeira, em Campo Grande, com as bandas Horse Society e Os MalaCabados.[^cgn2026]
 

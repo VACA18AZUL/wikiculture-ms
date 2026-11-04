@@ -3,7 +3,7 @@ titulo: Karla Coronel
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Cantora e compositora sul-mato-grossense; cantou no Festival de Inverno de Bonito de 2022 e criou o projeto Conexão Cultural nas Escolas, em Campo Grande.
+resumo: Cantora e compositora sul-mato-grossense; foi selecionada para o Festival de Inverno de Bonito de 2022 e idealizou o projeto Conexão Cultural nas Escolas, em Campo Grande.
 ficha:
   Atividade: "Cantora e compositora"
 status: rascunho
@@ -22,7 +22,7 @@ Em outubro de 2024, anunciou o projeto "Karla Coronel: Conexão Cultural nas Esc
 
 Em 17 de maio de 2025, nos bastidores do Festival América do Sul, em Corumbá, encontrou a cantora Alcione e cantou para ela um trecho de "Você Me Vira a Cabeça". À reportagem, contou que um vídeo dessa música gravado para o Salão do Groove foi o que deu projeção nacional ao seu trabalho.[^cgn2025]
 
-Para 10 de julho de 2026, o projeto Sexta no Sesc anunciou o espetáculo *Cerradeiros*, criado por ela e pelo cantor [[dovalle|Dovalle]], no Sesc Sabor e Arte – Polo Camillo Boni, em Campo Grande, com repertório de forró, baião, xaxado, chamamé, polca e guarânia.[^acritica2026]
+Para 10 de julho de 2026, o projeto Sexta no Sesc anunciou o espetáculo *Cerradeiros*, dela com o cantor [[dovalle|Dovalle]], no Sesc Sabor e Arte – Polo Camillo Boni, em Campo Grande, com repertório de forró, baião, xaxado, chamamé, polca e guarânia.[^acritica2026]
 
 [^ce2022]: ["Confira as atrações regionais do Festival de Inverno de Bonito 2022"](https://correiodoestado.com.br/correio-b/confira-as-atracoes-regionais-do-festival-de-inverno-de-bonito-2022/403634/), *Correio do Estado*, 12 ago. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Samuel Isidoro, ["Com feat internacional, Karla Coronel é a promessa do pop em MS"](https://www.campograndenews.com.br/lado-b/diversao/com-feat-internacional-karla-coronel-e-a-promessa-do-pop-em-ms), *Campo Grande News*, 28 maio 2023. Acesso em 4 nov. 2026.

@@ -19,7 +19,7 @@ Em julho de 2023, Marcos integrou a delegação do Moinho Cultural no Festival I
 
 Em setembro de 2025, o *Campo Grande News* noticiou que o Moinho levaria o bailarino ao United Dance Festival, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. A programação divulgada incluía a variação masculina de *Esmeralda*, o solo de jazz *Fuga*, que ele dançava desde 2023, e o solo contemporâneo *Ecos do Invisível*.[^cgn2025]
 
-Em julho de 2026, durante o 43º Festival de Dança de Joinville, fez a primeira audição de sua carreira e foi aprovado para o elenco da Curitiba Cia. de Dança a partir de setembro, com estreia numa temporada de *O Quebra-Nozes*. A viagem, de duas semanas, foi custeada pelo Instituto Cultural Vale. No festival, fez quatro cursos, entre eles aulas com [[luiz-ruben|Luiz Rubén]], um dos primeiros professores de ballet do Moinho, e participou de três processos seletivos de companhias.[^acritica2026]
+Em julho de 2026, durante o 43º Festival de Dança de Joinville, fez a primeira audição de sua carreira e foi aprovado para entrar, em setembro, no elenco da Curitiba Cia. de Dança, com estreia numa temporada de *O Quebra-Nozes*. A viagem, de duas semanas, foi custeada pelo Instituto Cultural Vale. No festival, fez quatro cursos, entre eles aulas com [[luiz-ruben|Luiz Rubén]], um dos primeiros professores de ballet do Moinho, e tentou vaga em três companhias profissionais.[^acritica2026]
 
 ## Espetáculos
 

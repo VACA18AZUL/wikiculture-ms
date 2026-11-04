@@ -44,7 +44,7 @@ A mesma página cita dois livros inéditos: *Contrastes da Vida* (1994), de cont
 
 ## Televisão
 
-Com o parceiro musical Adir Guimarães, o Seresteiro, gravou programas na TV Campo Grande (*Domingo Rural*) e na TV Educativa (*Som do Mato* e *Arte e Poesia*), entre outras emissoras.[^asl]
+Com o parceiro musical Adir Guimarães, o Seresteiro, fez gravações para a TV Campo Grande (*Domingo Rural*) e na TV Educativa (*Som do Mato* e *Arte e Poesia*), entre outras emissoras.[^asl]
 
 [^asl]: Academia Sul-Mato-Grossense de Letras, ["Geraldo Ramon Pereira"](https://acletrasms.org.br/portfolio-item/geraldo-ramon-pereira/), página do acadêmico, cadeira 39. Acesso em 4 nov. 2026.
 [^sup2023]: "Suplemento Cultural", [*Correio do Estado*, 31 dez. 2022/1º jan. 2023](https://acletrasms.org.br/wp-content/uploads/2023/01/ASL-SUPLEMENTO-CULTURAL-23-01-01.pdf) (PDF no acervo da ASL). Acesso em 4 nov. 2026.
