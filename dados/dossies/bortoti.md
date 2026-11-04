@@ -28,3 +28,8 @@ Todas as fontes são do mesmo veículo (Campo Grande News): exceção registrada
 ## Não confirmado
 
 - Clipe "A prin e o largado" no canal oficial: sem fonte de ano.
+
+## Atualização de 2026-11-04
+
+- Segunda fonte: *Folha de Campo Grande*, "Shows de Gusttavo Lima, Daniel e Nany People neste final de semana na Capital", 10 abr. 2026 (https://folhacg.com.br/entretenimento/shows-de-gusttavo-lima-daniel-e-nany-people-neste-final-de-semana-na-capital/), agenda: "Clube do Bortoti", mais de 8h de música na Lupland e no Irlandês, com Fino do Fino, Ariadne, Beca Rodrigues, Projeto Millenials, Noah, DJ Magão, DJ Júlio Prodigy. Identidade: "o músico Bortoti", em Campo Grande (nome artístico raro).
+- Buscas sem resultado: Google Notícias (só homônimos), A Crítica (busca interna vazia). A trajetória (origem, EP, single) continua só no Campo Grande News.

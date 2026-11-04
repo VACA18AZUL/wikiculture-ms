@@ -19,6 +19,8 @@ Em matéria de 2012, o Campo Grande News diz que Chico vivia para a dança havia
 
 Em 2021, o jornal o descreveu como um dos maiores profissionais da dança contemporânea do estado e fundador da [[cia-do-mato|Cia do Mato]]. A matéria diz que ele esteve à frente da Ginga Cia. de Dança e que, no 20º ano da Cia do Mato, as coreografias de Chico Neller foram revistas em espetáculo com as obras *Tempos Idos*, *Monólogos da Dor* e *Mudanças*.[^cgn2021]
 
+Em 2014, o *Campo Grande News* registrou que ele dirigia a [[companhia-dancar|Companhia Dançar]] e a Cia do Mato, onde os bailarinos Fanny Cacilie e [[paulo-henrique-oliveira-bailarino|Paulo Henrique Oliveira]] dançaram juntos de 2007 a 2012.[^cgn2014]
+
 Em 2019, assinou a direção artística de *Serenade*, estreado pela Ginga no [[premio-onca-pintada-da-danca|Prêmio Onça Pintada]].[^correio2019]
 
 ## Obras
@@ -31,5 +33,6 @@ Em 2019, assinou a direção artística de *Serenade*, estreado pela Ginga no [[
 - *Tempos Idos*, *Monólogos da Dor* e *Mudanças* — coreografias de Chico Neller reapresentadas pela Cia do Mato em 2021.[^cgn2021]
 
 [^cgn2012]: Ângela Kempfer e Anny Malagolini, ["Chico Neller, uma marca na dança de Mato Grosso do Sul"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/chico-neller-uma-marca-na-danca-de-mato-grosso-do-sul), *Campo Grande News*, 23 nov. 2012. Acesso em 29 out. 2026.
+[^cgn2014]: Fernando Oliveira, ["Na garra, dupla de bailarinos é aprovada para festival de Joinville"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/na-garra-dupla-de-bailarinos-e-aprovada-para-festival-de-joinville), *Campo Grande News*, 28 maio 2014. Acesso em 4 nov. 2026.
 [^cgn2021]: Lucas Mamédio, ["Cia do Mato comemora 20 anos relembrando trajetória no palco"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/cia-do-mato-comemora-20-anos-relembrando-trajetoria-no-palco), *Campo Grande News*, 21 abr. 2021. Acesso em 29 out. 2026.
 [^correio2019]: Naiane Mesquita, ["Prêmio Onça Pintada reúne diversos grupos de dança da Capital"](https://correiodoestado.com.br/correio-b/premio-onca-pintada-reune-diversos-grupos-de-danca-da-capital/359942/), *Correio do Estado*, 3 set. 2019. Acesso em 29 out. 2026.

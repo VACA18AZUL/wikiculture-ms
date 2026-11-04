@@ -20,7 +20,7 @@ Participou do programa de Raul Gil e atuou em novela.[^fronteira2025] O *Frontei
 
 Em dezembro de 2025, aos 49 anos, lançou nas plataformas digitais um EP que havia gravado anos antes e deixado guardado; o lançamento saiu pela Agência 3SONS.[^fronteira2025]
 
-Em 2 de abril de 2026, a imprensa anunciou para o dia 9 o show *Minhas Raízes — Uma Essência*, na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], em Campo Grande, divulgado como sua primeira apresentação na terra natal em 18 anos. A proposta era revisitar canções ligadas à identidade cultural do estado. A direção geral estava a cargo de Kel Carelli, a direção musical de Ton Alves e a produção de Renata Sena; o sanfoneiro Renan Nonato, da banda de Almir Sater, era o músico convidado.[^acritica2026][^boca2026]
+Em 2 de abril de 2026, a imprensa anunciou para o dia 9 o show *Minhas Raízes — Uma Essência*, na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], em Campo Grande, divulgado como sua primeira apresentação na terra natal em 18 anos. Segundo a divulgação, o repertório partia de músicas associadas às raízes culturais de Mato Grosso do Sul. A direção geral estava a cargo de Kel Carelli, a direção musical de Ton Alves e a produção de Renata Sena; o sanfoneiro Renan Nonato, da banda de Almir Sater, era o músico convidado.[^acritica2026][^boca2026]
 
 Em 4 de setembro de 2026, lançou nas plataformas digitais o single "Onde o Asfalto Termina", composto por Rodrigo Zup, Douglas Paixão, Vini Souza, Tânia Viana e Mafê Borges, com videoclipe gravado numa fazenda.[^enfoque2026]
 

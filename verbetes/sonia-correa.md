@@ -12,15 +12,15 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Sônia Corrêa** (também grafada Sonia Correa) é uma artista plástica e fotógrafa nascida em Aquidauana.[^fcms2016b][^ce2015] Formou-se em Educação Artística, com especialização em Artes Plásticas, pela Universidade de Mogi das Cruzes, em São Paulo. Começou na pintura com pastel seco, passou ao óleo sobre tela e, a partir de 1996, também a esculpir com ossos bovinos.[^ce2015][^fcms2015b]
+**Sônia Corrêa** (também grafada Sonia Correa) é uma artista plástica e fotógrafa que se apresentou à Fundação de Cultura como aquidauanense.[^fcms2016b][^ce2015] Formou-se em Educação Artística, com especialização em Artes Plásticas, pela Universidade de Mogi das Cruzes, em São Paulo. Começou na pintura com pastel seco, passou ao óleo sobre tela e, a partir de 1996, também a esculpir com ossos bovinos.[^ce2015][^fcms2015b]
 
 ## Trajetória
 
-Em maio de 2015, durante a Semana de Museus, o [[mis-ms|MIS]] abriu a exposição *Ladrilhos Hidráulicos: Revelando a História de Aquidauana*, com fotografias de ladrilhos que ela fez entre 2009 e 2010 em Aquidauana. Ela assinou a curadoria. A mostra ficou em cartaz até 30 de junho e incluiu amostras de ladrilhos e um vídeo do museu com fabricantes ou descendentes deles.[^fcms2015a][^ce2015][^fcms2015b]
+Em maio de 2015, durante a Semana de Museus, o [[mis-ms|MIS]] abriu a exposição *Ladrilhos Hidráulicos: Revelando a História de Aquidauana*, com fotografias de ladrilhos que ela fez entre 2009 e 2010 em Aquidauana. Ela assinou a curadoria. Em junho, a Fundação de Cultura informou que a mostra seguia até 30 daquele mês, com amostras de ladrilhos e um vídeo do museu com fabricantes ou descendentes deles.[^fcms2015a][^ce2015][^fcms2015b]
 
 Em dezembro de 2016, integrou a mostra *Invencionices*, da [[confraria-sociartista|Confraria Sociartista]], em homenagem ao centenário de [[manoel-de-barros|Manoel de Barros]]. Ilustrou o poema "A Árvore" e contou à Fundação de Cultura que morou oito anos numa fazenda no Pantanal.[^fcms2016a][^fcms2016b]
 
-Em 2017, foi selecionada no programa de Exposições Temporárias do [[marco|MARCO]].[^fcms2017a] Na terceira temporada do museu, aberta em setembro, apresentou *Eu com meus botões*, com 17 obras entre pinturas, assemblagens e esculturas sobre a história do botão. Os quadros usam óleo sobre tela com aplicação de osso e chifre.[^fcms2017b] Em dezembro de 2019, levou ao bazar de aniversário do MARCO o trabalho *Ossos do Pantanal*, com peças em fragmentos ósseos e em cerâmica.[^fcms2019]
+Em 2017, foi selecionada no programa de Exposições Temporárias do [[marco|MARCO]].[^fcms2017a] Para a terceira temporada do museu, anunciada para abrir em 27 de setembro, a Fundação de Cultura divulgou a mostra *Eu com meus botões*, com 17 obras entre pinturas, assemblagens e esculturas sobre a história do botão. Os quadros usam óleo sobre tela com aplicação de osso e chifre.[^fcms2017b] Em dezembro de 2019, foi anunciada no bazar de aniversário do MARCO com o trabalho *Ossos do Pantanal*, em fragmentos ósseos, além de peças em cerâmica.[^fcms2019]
 
 ## Exposições
 

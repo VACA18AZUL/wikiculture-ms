@@ -48,3 +48,9 @@ A Crítica e Boca do Povo parecem partir do mesmo release.
 ## Uso no verbete
 
 - Entrou tudo acima; "aniversário" no dia do show e trechos sobre vida pessoal ficaram fora.
+
+## Atualização de 2026-11-04
+
+- Validação valn-36-0: as quatro fontes saem de material de divulgação. O *Fronteira News* reproduz o release com o bilhete da assessoria ao editor; o *Boca do Povo* reproduz o release do show; o *Enfoque MS* (Redação) também parte de divulgação. Só a *A Crítica* tem texto próprio de repórter, e ela mesma atribui dados "segundo a divulgação". Na prática, fonte única.
+- Show de 9 abr. 2026: só textos anteriores (2 abr.); não há confirmação de que ocorreu. Verbete passou a anúncio.
+- O *Fronteira News* dá participação no Programa Raul Gil em 2008 e um nome artístico anterior: o nome fica fora (mudança de dado pessoal); o ano não entrou no verbete.

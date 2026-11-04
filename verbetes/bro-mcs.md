@@ -18,11 +18,19 @@ atualizado: 2026-11-04
 
 Segundo a tese de Miguel Angelo Corrêa, os integrantes são Bruno Veron, Clemerson Batista, Kelvin Peixoto e Charles Peixoto, com participação eventual da backing vocal Dani Muniz.[^c1] O grupo surgiu articulado à TV Guateka e à Central Única das Favelas em Dourados (CUFA-MS). A tese o descreve como pioneiro do rap indígena no Brasil.[^c1] Em entrevista reproduzida na tese, a videasta [[dani-kaiowa|Dani Guarani Kaiowá]] refere-se a [[fabiana-fernandes|Fabiana Fernandes]] como produtora do grupo.[^c2]
 
-Segundo a tese, o contato prévio de alguns integrantes com o cinema se limitou a acompanhar, como observadores, a gravação de *Terra Vermelha* em Dourados e a um videoclipe incipiente gravado durante o projeto Avá Marandu, em 2010.[^c1]
+Kênide de Souza Morais, em trabalho de mestrado de 2013 baseado em entrevistas com os integrantes, também trata o Brô MC's como o primeiro grupo de rap indígena do país. Segundo os relatos, em 2008 o grupo, ainda sem nome, já tinha duas músicas e participou de uma oficina da CUFA ministrada pelo MC Higor Lobo, em que os integrantes aprenderam a escrever letras e rimas. Depois gravaram de forma artesanal um CD demo.[^morais2013] O nome surgiu na véspera da primeira apresentação: Brô é abreviação de *brother*, irmão em inglês. Opções como Shienk e Nativos foram descartadas.[^morais2013] Ainda segundo Morais, lideranças da aldeia criticaram o grupo no começo, por acharem que ele se afastava da cultura, e mudaram de opinião ao ouvir o CD. Na época da pesquisa, o grupo preparava uma nova demo, *Nhandereko* ("nossa vida").[^morais2013]
+
+Segundo a tese de Corrêa, o contato prévio de alguns integrantes com o cinema se limitou a acompanhar, como observadores, a gravação de *Terra Vermelha* em Dourados e a um videoclipe incipiente gravado durante o projeto Avá Marandu, em 2010.[^c1]
 
 ## Apresentações
 
 A tese cita apresentações no Festival América do Sul (2018), no Rock in Rio (2022), no Festival América do Sul Pantanal (2022) e no Festival de Todos os Povos (2023), além de turnê pela Alemanha a convite de um museu de antropologia e participação na trilha da telenovela *Pantanal*.[^c1] Sobre a edição de 2022 do evento no Pantanal, ver [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^c1]
+
+Em 2013, Kênide de Souza Morais registrou, a partir de entrevistas com os integrantes, que o grupo já havia passado por Brasília, São Paulo e Porto Alegre.[^morais2013]
+
+## Letras
+
+Morais transcreve e comenta as letras de "Eju Orendive" (venha com nós), "Lutar pra Vencer", "Tupã" e "A Vida que Eu Levo". Lê nelas a denúncia da violência interna e do preconceito sofrido na cidade, a criminalização dos jovens indígenas e o apelo para que a comunidade se una.[^morais2013]
 
 ## Audiovisual
 
@@ -39,3 +47,4 @@ Corrêa e Álvaro Banducci incluem o Brô MC's, ao lado do coletivo ASCURI, entr
 [^c3]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 123-124 (entrevista de Higor Lobo Vieira, 2014). Acesso em 29 out. 2026.
 [^c4]: Miguel Angelo Corrêa e Álvaro Banducci Júnior, ["Convergência midiática e apropriação das novas tecnologias pelos povos indígenas de Mato Grosso do Sul"](https://revistageminis.ufscar.br/index.php/geminis/article/download/275/245/984), *Revista GEMInIS*, ano 7, n. 2, 2016, p. 189-214. Acesso em 29 out. 2026.
 [^c5]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 120 e 123. Acesso em 29 out. 2026.
+[^morais2013]: Kênide de Souza Morais, [*"O meu rap está apenas começando": juventude e sustentabilidade cultural na Reserva Indígena de Dourados-MS*](https://repositorio.unb.br/bitstream/10482/15041/1/2013_KenideSouzaMorais.pdf), artigo científico de mestrado profissional em Sustentabilidade junto a Povos e Terras Indígenas, Centro de Desenvolvimento Sustentável, Universidade de Brasília, fev. 2013, p. 38-53. Acesso em 4 nov. 2026.

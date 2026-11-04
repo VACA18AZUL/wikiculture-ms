@@ -26,6 +26,8 @@ Em 2022, lançou o primeiro EP, *#EUsouMS - Sessions*, gravado em fevereiro em C
 
 Em setembro de 2022, estava entre as atrações do Luau da Rádio Reggae Festival, na Estância das Flores, em Campo Grande, ao lado de Chimarruts, Maskavo e [[chicao-castro|Chicão Castro]].[^cgn2022b]
 
+A agenda da *Folha de Campo Grande* de 10 de abril de 2026 anunciou o Clube do Bortoti, noite de mais de oito horas de música na Lupland e no Irlandês, em que o cantor reunia artistas convidados, entre eles o grupo Fino do Fino, Ariadne e Beca Rodrigues.[^folha2026]
+
 ## Discografia
 
 - "Deixa Rolar" (2021) — single, com Dudu Lino e Gabi Porazzi; produção de Guss MC.[^cgn2021]
@@ -37,4 +39,5 @@ Em setembro de 2022, estava entre as atrações do Luau da Rádio Reggae Festiva
 
 [^cgn2021]: Thailla Torres, ["De horóscopo a superstição, Bortoti fala sobre crenças em clipe"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/de-horoscopo-a-supersticao-bortoti-fala-sobre-crencas-em-clipe), *Campo Grande News*, 24 jan. 2021. Acesso em 4 nov. 2026.
 [^cgn2022a]: ["De Corumbá, Bortoti lança EP com 4 faixas que trazem as raízes de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/de-corumba-bortoti-lanca-ep-com-4-faixas-que-trazem-as-raizes-de-ms), *Campo Grande News*, 3 abr. 2022. Acesso em 4 nov. 2026.
+[^folha2026]: ["Shows de Gusttavo Lima, Daniel e Nany People neste final de semana na Capital"](https://folhacg.com.br/entretenimento/shows-de-gusttavo-lima-daniel-e-nany-people-neste-final-de-semana-na-capital/), *Folha de Campo Grande*, 10 abr. 2026. Acesso em 4 nov. 2026.
 [^cgn2022b]: ["Chimarruts e Maskavo voltam com show no Luau da Rádio"](https://www.campograndenews.com.br/lado-b/diversao/chimarruts-e-maskavo-voltam-com-show-no-luau-da-radio), *Campo Grande News*, 12 set. 2022. Acesso em 4 nov. 2026.

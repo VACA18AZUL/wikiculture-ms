@@ -23,6 +23,8 @@ atualizado: 2026-11-04
 
 Desde 2005 colabora com a Fundação Barbosa Rodrigues e, a partir do mesmo ano, com o [[instituto-moinho-cultural-sul-americano|Instituto Moinho Cultural Sul-Americano]], em Corumbá. O jornal cita essas instituições e a Fundação Ueze Zahran, da qual ele faz parte, entre seus projetos sociais com crianças e adolescentes de baixa renda. A fundação apoia a Orquestra Indígena de Campo Grande.[^ce2024b]
 
+Em novembro de 2013, dividiu com Jardel Tatari e Jorge Cáceres a direção e a preparação da orquestra no espetáculo *15 anos de Viver Bem*, no [[teatro-glauce-rocha|Teatro Glauce Rocha]]. O espetáculo comemorava os 15 anos do projeto [[projeto-viver-bem-nova-lima|Viver Bem]], ONG que oferecia aulas gratuitas de balé e de música a crianças e adolescentes no bairro Nova Lima, em Campo Grande. Segundo a reportagem, ele era então um dos responsáveis por várias óperas apresentadas na cidade naquele ano.[^cgn2013]
+
 Lidera o quarteto [[brasil-opus-musica|Brasil Opus Música]], que idealizou e dirige.[^ce2024b][^cgn2024a] Em julho de 2024, o *Campo Grande News* anunciou um concerto do projeto Catedral Erudita no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], com o Brasil Opus Música e o trio francês Parcae. Segundo a reportagem, o projeto havia começado no [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, em novembro de 2023.[^cgn2024a]
 
 Em junho de 2024, regeu a orquestra sinfônica municipal num concerto no [[teatro-glauce-rocha|Teatro Glauce Rocha]], segundo crítica do *Correio do Estado*. A legenda da reportagem fala em mais de 800 pessoas; o texto, em quase 750 lugares ocupados, além de dezenas de espectadores de pé ou no chão.[^ce2024] Na 17ª edição do [[encontro-com-a-musica-classica|Encontro com a Música Clássica]], de 26 a 30 de agosto de 2024, no mesmo teatro, foi apresentado como maestro e diretor artístico do evento.[^cgn2024b]
@@ -41,6 +43,7 @@ Em outubro de 2025, o jornal paraguaio *La Nación* anunciou o concerto "Arapy A
 
 - *Descendo Sarrafo* (2012), álbum do grupo Choro Opus Trio, com obras de Amintas José da Costa; arranjos e produção de Martinelli.[^ce2024b]
 
+[^cgn2013]: Lado B, ["Espetáculo comemora 15 anos de balé e música clássica na rotina do Nova Lima"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/espetaculo-comemora-15-anos-de-bale-e-musica-classica-na-rotina-do-nova-lima), *Campo Grande News*, 3 nov. 2013. Acesso em 4 nov. 2026.
 [^ce2024b]: Da Redação, ["Eduardo Martinelli receberá a comenda da Ordem Guaicurus do Mérito Judiciário do Trabalho"](https://correiodoestado.com.br/correio-b/eduardo-martinelli-recebera-a-comenda-da-ordem-guaicurus-do-merito/437444/), *Correio do Estado*, 9 out. 2024. Acesso em 4 nov. 2026.
 [^ce2024]: Marcos Pierry, ["Orquestra Sinfônica de Campo Grande: um aulão de música no Teatro Glauce Rocha"](https://correiodoestado.com.br/correio-b/publico-lotou-o-teatro-para-aulao-de-musica-da-orquestra-sinfonica-de/432008/), *Correio do Estado*, 19 jun. 2024. Acesso em 4 nov. 2026.
 [^cgn2024a]: Thailla Torres, ["Teatro Aracy Balabanian vai receber concerto do projeto Catedral Erudita"](https://www.campograndenews.com.br/lado-b/diversao/teatro-aracy-balabanian-vai-receber-concerto-do-projeto-catedral-erudita), *Campo Grande News*, 11 jul. 2024. Acesso em 4 nov. 2026.
