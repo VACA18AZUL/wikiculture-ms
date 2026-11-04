@@ -15,6 +15,8 @@ atualizado: 2026-11-04
 
 O **FESTÃO** foi um festival de música sertaneja organizado pela [[tv-morena|TV Morena]], com edições entre 1979 e 1981.[^cae53]
 
+O *Correio do Estado* o chama de Festival de Música Sertaneja e o atribui ao jornalista [[onesimo-filho|Onésimo Filho]], da TV Morena, entre as criações dele, ao lado da Copa Morena. O jornal o descreve como um festival de grande sucesso.[^ce2012]
+
 ## Trajetória
 
 Segundo Gilmar Lima Caetano, a emissora apostou na música sertaneja para alcançar um público mais amplo que o do [[fessul|FESSUL]], seu outro festival, restrito a um público mais cult. Por isso escolheu o estádio Morenão como palco. A final da primeira edição teve público estimado em 30 mil pessoas, apresentação de Lima Duarte e show da dupla Milionário & José Rico, e foi vencida por [[aurelio-miranda|Aurélio Miranda]].[^cae53]
@@ -25,3 +27,4 @@ Caetano considera o período entre o 1º Festival de Música Popular de Campo Gr
 
 [^cae53]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 53, citando Paulo Simões e Cândido Alberto da Fonseca, *Festivais de Música em Mato Grosso do Sul* (UFMS, 1981, p. 27-28). Acesso em 4 nov. 2026.
 [^cae55]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 55. Acesso em 4 nov. 2026.
+[^ce2012]: Redação, ["Morre em Campo Grande o jornalista Onésimo Filho"](https://correiodoestado.com.br/cidades/2012/08/08/morre-em-campo-grande-o-jornalista-onesimo-filho.html), *Correio do Estado*, 8 ago. 2012. Acesso em 4 nov. 2026.

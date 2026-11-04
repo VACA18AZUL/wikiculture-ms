@@ -47,3 +47,10 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete apoiado em fonte única (Caetano, que cita Simões e Fonseca 1981).
+
+## Atualização de 2026-11-04
+
+- Fonte nova: Correio do Estado, "Morre em Campo Grande o jornalista Onésimo Filho", 8 ago. 2012 (https://correiodoestado.com.br/cidades/2012/08/08/morre-em-campo-grande-o-jornalista-onesimo-filho.html). Independente da dissertação de Caetano. Sustenta: "Festão - Festival de Música Sertaneja" como criação de Onésimo Filho, na TV Morena, "de grande sucesso", ao lado da Copa Morena. Não dá datas nem vencedores.
+- Acrescentado parágrafo na abertura. Edições, vencedores, local e público continuam só em Caetano (que cita Simões e Fonseca, 1981).
+- Relação proposta: onesimo-filho criador de festao (dados/propostas/relacoes-r6-1.csv), se ainda não estiver em relacoes.csv.
+- Abertas sem servir: Gonçalves (UFMS, 2014), sem menção ao Festão; artigos sobre TV Morena (UFG 2021; ANPUH 2019) sem menção; API FCMS, API RCN67, API A Crítica, WebSearch.
