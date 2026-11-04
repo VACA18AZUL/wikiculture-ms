@@ -17,11 +17,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Avenida Afonso Pena*** é um videoclipe da canção de mesmo nome, composta por Marcelo Fernandes com letra do poeta [[rubenio-marcelo|Rubênio Marcelo]]. A gravação reúne o violonista [[evandro-dotto|Evandro Dotto]] e as cantoras líricas [[bianca-danzi|Bianca Danzi]] e [[mara-brandao|Mara Brandão]].[^cgn2025a]
+***Avenida Afonso Pena*** é um videoclipe da canção homônima, com música de Marcelo Fernandes e versos do poeta [[rubenio-marcelo|Rubênio Marcelo]]. Interpretam a obra o violonista [[evandro-dotto|Evandro Dotto]] e duas cantoras líricas, [[bianca-danzi|Bianca Danzi]] e [[mara-brandao|Mara Brandão]].[^cgn2025a]
 
 ## Produção
 
-A canção foi escrita para duas vozes femininas. A versão do clipe foi gravada no início de agosto de 2025, em Campo Grande. As imagens combinam cenas urbanas da cidade e a execução da música. O projeto teve recursos da Lei Paulo Gustavo, por meio de edital da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^cgn2025a]
+A canção foi escrita para duas vozes femininas. Segundo reportagem de 2 de agosto de 2025, a versão do clipe, inédita, foi gravada naquela semana. As imagens combinam cenas urbanas da cidade e a execução da música. O projeto foi financiado pela Lei Paulo Gustavo, em edital da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]].[^cgn2025a]
 
 Evandro Dotto e Bianca Danzi integram o trio [[opus-vivare|Opus Vivare]], com o violinista Gabriel Almeida.[^cgn2025b]
 

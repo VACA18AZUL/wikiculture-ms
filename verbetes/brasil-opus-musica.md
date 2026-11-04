@@ -5,7 +5,7 @@ areas: [musica]
 cidade: Campo Grande
 resumo: "Quarteto idealizado e dirigido pelo maestro e violonista Eduardo Martinelli, com repertório de música brasileira, sul-americana e pantaneira; tocou no projeto Catedral Erudita em 2024."
 ficha:
-  Integrantes: "Direção de Eduardo Martinelli"
+  Direção: "Eduardo Martinelli"
   Formação: "Quarteto"
 status: rascunho
 atualizado: 2026-11-04
