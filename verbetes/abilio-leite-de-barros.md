@@ -4,7 +4,7 @@ tipo: pessoa
 areas: [literatura, audiovisual]
 resumo: Escritor sul-mato-grossense, autor de Gente pantaneira (1998), irmão do poeta Manoel de Barros e ocupante da cadeira nº 32 da Academia Sul-Mato-Grossense de Letras. Participou do cineclube criado em Campo Grande em 1967. Morreu em 2019.
 ficha:
-  Morte: 2019
+  Morte: "2019"
   Atividade: Escritor, cronista
   Academia: Academia Sul-Mato-Grossense de Letras, cadeira nº 32
 status: rascunho
