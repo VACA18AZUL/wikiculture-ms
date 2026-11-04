@@ -15,11 +15,11 @@ atualizado: 2026-11-04
 
 ## Origem
 
-Segundo Almir Sater, em depoimento a Maria da Glória Sá Rosa e Idara Duncan citado por Rodrigo Teixeira Gonçalves, a canção nasceu de uma recusa. Sater foi cantar "Trem do Pantanal" no programa de Rolando Boldrin, que a rejeitou por ser guarânia, música de fronteira. Ele e Simões compuseram "Sonhos Guaranis" logo depois, como resposta.[^goncalves2014]
+Segundo Almir Sater, em depoimento publicado por Sá Rosa e Duncan (2009) e citado por Rodrigo Teixeira Gonçalves, a canção nasceu de uma recusa. Sater foi cantar "Trem do Pantanal" no programa de Rolando Boldrin, que a rejeitou por ser guarânia, música de fronteira. Ele e Simões compuseram "Sonhos Guaranis" logo depois, como resposta.[^goncalves2014]
 
 ## A canção
 
-Gonçalves diz que a música mantém os traços da guarânia tradicional. A letra fala de uma mesma raiz entre o povo sul-mato-grossense e o paraguaio e lembra a guerra entre os dois países.[^goncalves2014]
+Gonçalves diz que a música mantém os traços da guarânia tradicional. A letra fala de uma mesma raiz entre o povo sul-mato-grossense e o paraguaio e menciona a guerra.[^goncalves2014]
 
 Foi gravada pela primeira vez no LP [[prata-da-casa-lp-1982|*Prata da Casa*]].[^goncalves2014] Segundo Gilmar Lima Caetano, Paulo Simões a cantou no [[festival-prata-da-casa|festival Prata da Casa]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], e foi muito aplaudido.[^caetano2012]
 

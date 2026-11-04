@@ -28,7 +28,7 @@ Em novembro de 2017, o longa estava entre os inéditos selecionados por Pizzini,
 - Direção: [[aaron-salles-torres|Aaron Salles Torres]][^folha2017][^papo2017]
 - Roteiro: [[aaron-salles-torres|Aaron Salles Torres]][^papo2017]
 - Música-tema: [[aaron-salles-torres|Aaron Salles Torres]] (composição); [[ney-matogrosso|Ney Matogrosso]] (interpretação)[^papo2017]
-- Elenco: Catarina Abdalla, Fernando Alves Pinto, Tio d'Ávila, Lucas Malvacini[^folha2017]
+- Elenco: Catarina Abdalla, Fernando Alves Pinto, Tião d'Ávila, Lucas Malvacini[^folha2017]
 
 [^folha2017]: Lúcia Monteiro, ["Crítica: Suspense e repulsa dão cores, mas longa brasileiro não surpreende"](https://www1.folha.uol.com.br/ilustrada/2017/11/1937301-suspense-e-repulsa-dao-cores-mas-longa-brasileiro-nao-surpreende.shtml), *Folha de S.Paulo*, 23 nov. 2017. Acesso em 4 nov. 2026.
 [^papo2017]: Marcelo Müller, ["Quando o Galo Cantar Pela Terceira Vez Renegarás Tua Mãe :: Entrevista exclusiva com Aaron Salles Torres"](https://www.papodecinema.com.br/entrevistas/quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae-entrevista-exclusiva-com-aaron-salles-torres/), *Papo de Cinema*, 23 nov. 2017. Acesso em 4 nov. 2026.
