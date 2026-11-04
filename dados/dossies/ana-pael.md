@@ -24,3 +24,10 @@ As duas notas partem do mesmo release (texto quase igual); independência limita
 ## Uso no verbete
 
 - Entrou tudo. Telefone fora (dado de contato).
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte sem resultado: API do O Estado MS, busca do Campo Grande News, busca da FCMS, RSS do Google Notícias, API do RCN67, busca do Correio do Estado e Brave ("Ana Pael"). Fonte única (um release, publicado por dois jornais).
+- As duas notas anunciam a abertura de 7 maio 2012 (CGN em 4 maio; Correio em 6 maio, "amanhã"); nenhuma noticia que a mostra aconteceu.
+- Diferença menor: CGN "giz pastel seco"; Correio "giz, pastel seco". O verbete diz "pastel seco".
+- Pistas: catálogo da Morada dos Baís (2006); arquivo da Prefeitura de Campo Grande sobre o Arte e Cores no Paço (2012).

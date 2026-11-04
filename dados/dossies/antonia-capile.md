@@ -41,3 +41,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Sem verbete: fonte única (Moser resumindo Sá Rosa). Frase sugerida, se um verbete sobre teatro em Dourados vier a existir: "Nos anos 1930, segundo Maria da Glória Sá Rosa citada por Fabricio Moser, o grupo de Dona Antônia Capilé, de Dourados, encenava dramas, comédias e tragédias e se apresentava em cidades vizinhas."
+
+## Busca do agente d1-1 (2026-11-04)
+
+Onde busquei: API do O Estado MS ("Antônia Capilé": só ruído), busca do CGN ("Antônia Capilé", "Capilé teatro Dourados"), busca do Correio do Estado ("Capilé"), busca da FCMS ("Capilé"). Nenhuma segunda fonte. Os "Capilé" encontrados em outros dossiês (escola Antônio da Silveira Capilé, produtora Ana Capilé) não têm ligação comprovada.
+
+Decisão: continua dossie. A frase sugerida acima caberia no verbete [[memoria-da-arte-em-ms]] (capítulo "Teatro", de Sá Rosa), mas esse arquivo é de outro agente; fica a sugestão para o editor. Próximo passo: abrir o livro *Memória da Arte em MS* (1992) ou *Dourados e sua Cultura*.

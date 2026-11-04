@@ -46,3 +46,9 @@ Descartadas: Enciclopédia Itaú Cultural (HTTP 403). Wikipédia lida só para c
 - Identidade: nenhuma fonte lida une explicitamente o ator nascido em Aquidauana (Lima, O Estado) ao intérprete do poeta velho em Caramujo-flor (Vicelli, Neves, Cinemateca). Mesmo nome, com acento, e Neves o põe num "elenco experiente". Fica no verbete; precisa de uma fonte que una as duas informações.
 - Páginas corrigidas: Lima p. 129-131 (a morte está na p. 131); Neves p. 52.
 - Itaú Cultural: 403/404 de novo.
+
+## Atualização de 2026-11-04 (r13)
+
+- op2023: Helio Tinoco, *O Pantaneiro*, 26/07/2023 — nascimento em 23/01/1931; formação de ator no Rio em 1951; novelas Mandala (Globo, 1987), Pantanal (Manchete, 1990), O Marajá (Manchete, 1993); filme Lua de Cristal (1990); morte no Rio em 22/01/1996 (reforça Lima); casa da Rua Marechal Malet comprada pela Prefeitura para a Secretaria de Cultura e Turismo (restauração em andamento; mudança prevista para set./out. 2023 — previsão, não entrou).
+- Fora: parentesco com o coronel Estevão Alves Corrêa e morte do pai (vida familiar); número da casa.
+- Wikipédia não usada como fonte.

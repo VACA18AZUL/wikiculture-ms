@@ -48,3 +48,4 @@ O que mudou: novo parágrafo de 2010, campo Gestão na ficha, resumo.
 - op2026a (Sandra Luz, 26/02/2026): exposição *Mulheres*, 05 a 30/03/2026 (anúncio); Rua Cândido Mariano, 468 (endereço institucional; só a rua entrou no verbete).
 - op2026b (Redação, 25/09/2026): mostra do Concurso Artístico e Literário 2026, aberta em 23/09; reforça ac2026 (os dois textos parecem partir do mesmo release da Prefeitura, com a mesma fala do secretário Pepeu Fialho: não contam como fontes independentes entre si).
 - Fora: telefone e e-mail do museu.
+- op2023 (Helio Tinoco, *O Pantaneiro*, 26/07/2023, matéria sobre a casa de Rubens Corrêa): museu fechado por anos, em restauração, reabertura prevista para o fim de agosto de 2023 (previsão, assim registrada no verbete); prédio de 1918; usos anteriores; Antônio Paes de Barros. Número do imóvel: 462 nesta matéria, 468 nas de 2025 e 2026; o verbete traz só a rua.

@@ -14,20 +14,20 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em maio de 2021, participou como intérprete-criador, no estilo neoclássico, de *Fragmentos*, espetáculo da companhia transmitido pelo YouTube, com direção de [[marcia-rolon|Márcia Rolon]] e [[rolando-candia|Rolando Candia]] e coreografia de [[wellington-julio|Wellington Júlio]].[^oestado2021]
+Em maio de 2021, estava entre os intérpretes-criadores, no estilo neoclássico, de *Fragmentos*, espetáculo da companhia anunciado para transmissão pelo YouTube, com direção de [[marcia-rolon|Márcia Rolon]] e [[rolando-candia|Rolando Candia]] e coreografia de [[wellington-julio|Wellington Júlio]].[^oestado2021]
 
 Em setembro de 2022, foi a Paris com Núbia Santos e Wellington Júlio para apresentar [[carne-quebrada|*Carne Quebrada*]] numa etapa do festival [[festival-danca-em-transito|Dança em Trânsito]]. A viagem foi paga com doações.[^cgn2022] Em junho de 2024, viajou à Coreia do Sul para o projeto Rotas, do mesmo festival, em que bailarinos de vários países criam uma performance conjunta. Segundo o jornal *O Estado de Mato Grosso do Sul*, participava do festival desde 2021, sempre pela companhia, com a qual já tinha se apresentado em Portugal e na França.[^oestado2024b]
 
 Em fevereiro de 2024, dançou com Frantielly Khadija a performance *Duo de Onças*, trecho do espetáculo [[guadakan|*Guadakan*]], no quadro Caldeirola do programa *Caldeirão com Mion*, da TV Globo, exibido no dia 17. Na mesma matéria, é apresentado como bailarino e professor.[^oestado2024a]
 
-Em março de 2025, estava no elenco de *Janela do Dia*, apresentado pela companhia no Campão Cultural, em Campo Grande, nos oito anos da Cia de Dança do Pantanal.[^oestado2025] Em fevereiro de 2026, integrou o elenco de *Estado Fantasma II*, no [[sesc-teatro-prosa|Sesc Teatro Prosa]].[^oestado2026a] Para o [[moinho-in-concert|Moinho in Concert]] de 2026, assinou a coreografia da turma em que dá aulas no Moinho Cultural.[^oestado2026b]
+Em março de 2025, estava no elenco de *Janela do Dia*, espetáculo programado pela companhia para o Campão Cultural, em Campo Grande, nos oito anos da Cia de Dança do Pantanal.[^oestado2025] Em fevereiro de 2026, integrou o elenco de *Estado Fantasma II*, no [[sesc-teatro-prosa|Sesc Teatro Prosa]].[^oestado2026a] Para o [[moinho-in-concert|Moinho in Concert]] de 2026, marcado para dezembro em Corumbá, foi anunciado como autor da coreografia da turma em que dá aulas no Moinho Cultural.[^oestado2026b]
 
 ## Espetáculos
 
 - *Fragmentos* (2021) — intérprete-criador; Cia de Dança do Pantanal.[^oestado2021]
 - *[[carne-quebrada|Carne Quebrada]]* — bailarino; apresentado em Paris em 2022.[^cgn2022]
 - *[[guadakan|Guadakan]]* — bailarino no trecho *Duo de Onças*, levado à TV em 2024.[^oestado2024a]
-- *Janela do Dia* (apresentado em 2025) — intérprete-criador; coreografia de Wellington Júlio, grafado Wellington Junior na fonte.[^oestado2025]
+- *Janela do Dia* (2025) — intérprete-criador; coreografia de Wellington Júlio, grafado Wellington Junior na fonte.[^oestado2025]
 - *Estado Fantasma II* (2026) — elenco.[^oestado2026a]
 
 [^oestado2021]: ["Espetáculo 'Fragmentos' acontece neste sábado, em transmissão no Youtube"](https://oestadoonline.com.br/arte-e-lazer/espetaculo-fragmentos-acontece-neste-sabado-em-transmissao-no-youtube/), *O Estado de Mato Grosso do Sul*, 29 maio 2021. Acesso em 4 nov. 2026.
