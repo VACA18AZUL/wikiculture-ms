@@ -50,3 +50,14 @@ Fontes descartadas: Juliana Franke (cantora de Brasília, homônima); resultados
 ## Validação de 2026-11-04 (valn-10b)
 
 - Resumo reescrito com atribuição à imprensa; "daquele ano" retirado; "tarde" virou "programação".
+
+## Atualização de 2026-11-04 (r4-2)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2022a | FCMS, "Som da Concha do próximo domingo terá performance elétrica de Franke e MPB de Renata Sena", 16 nov. 2022 | https://www.fundacaodecultura.ms.gov.br/som-da-concha-do-proximo-domingo-tera-performance-eletrica-de-franke-e-mpb-de-renata-sena/ | só a formação da banda |
+| fcms2022b | FCMS, "Som da Concha com Franke e Renata Sena encantou o público...", 21 nov. 2022 | https://www.fundacaodecultura.ms.gov.br/som-da-concha-com-franke-e-renata-sena-encantou-o-publico-com-cancoes-autorais-que-revelaram-o-amor-a-musica-regional-e-uniao-de-culturas/ | sim |
+
+Atenção: o texto biográfico de fcms2022a (nascido e criado em Campo Grande, Desfazer Nós, Samba do Mato, Ju Souc, polca-rock, Música do Bolso) é praticamente o mesmo de cgn2022: o Campo Grande News reproduziu o release da FCMS. Por isso fcms2022a NÃO conta como segunda fonte para esses fatos (release igual em dois veículos). Conta como segunda fonte: fcms2022b, reportagem própria pós-evento (o show de 20 nov. 2022 aconteceu; estreia no Som da Concha; fala do artista sobre a trajetória e a polca-rock; influência de Ju Souc, Jerry Espíndola e Filho dos Livres), embora seja veículo do organizador do projeto. Ficou fora de fcms2022b: infância, família, instrumentos na infância, fala sobre o mercado autoral e a outra artista do dia.
+
+A ligação "Franke de Campo Grande" × "Franke" do FIB 2022 (ce2022) segue não confirmada. Nome civil não aparece. Correio do Estado e UFMS: sem resultado para Franke/Música do Bolso.
