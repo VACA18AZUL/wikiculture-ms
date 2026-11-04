@@ -9,7 +9,7 @@ ficha:
   Datas: 23 a 27 de março de 2022
   Entrada: Gratuita
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **1ª Semana do Teatro e Circo** foi uma programação gratuita de espetáculos teatrais, circenses e de stand-up em vários pontos de Campo Grande, de 23 a 27 de março de 2022.[^cgn]
@@ -20,7 +20,7 @@ O Campo Grande News informou que a semana foi organizada em razão do Dia Mundia
 
 Entre os grupos anunciados estavam o Grupo Casa, o [[colegiado-de-circo-de-campo-grande|Colegiado de Circo de Campo Grande]], a Cia de Brincantes, o [[fulano-di-tal|Grupo Fulano di Tal]], o [[teatral-grupo-de-risco|Teatral Grupo de Risco]], o [[top-circo|Top Circo]], o [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]] e o Grupo Tereré.[^cgn]
 
-As apresentações de 23 de março ocorreram no distrito de Rochedinho. Nos dias seguintes, a programação passou pela Feira da Orla Morena, pela Plataforma Cultural e pelos altos da Avenida Afonso Pena.[^cgn]
+As apresentações de 23 de março ocorreram no distrito de Rochedinho, onde houve também uma oficina de criação e manipulação de bonecos com Ramona Rodrigues. Nos dias seguintes, a programação passou pela Feira da Orla Morena, pela Plataforma Cultural e pelos altos da Avenida Afonso Pena.[^cgn]
 
 Em 25 de março, a palestra "Evoé: Histórias do Teatro em Campo Grande, MS", de Andreia Freire, tratou da memória do teatro na capital de 1930 aos dias atuais. Em 27 de março, a cerimônia oficial incluiu a exibição do documentário *Evoé* e uma apresentação de stand-up do Grupo Tereré.[^cgn]
 

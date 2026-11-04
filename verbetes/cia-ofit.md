@@ -24,13 +24,13 @@ O projeto Amadores, criado em 2017, reuniu artistas iniciantes e resultou na mon
 
 Entre julho e setembro de 2023, a Ofit realizou o projeto [[cena-aberta-encontros-paralelos|Cena Aberta – Encontros Paralelos]], idealizado por Nill Amaral, com residência artística do dramaturgo pernambucano Newton Moreno e apresentações de grupos sul-mato-grossenses no [[teatro-glauce-rocha|Teatro Glauce Rocha]] e no Sesc Cultura. A reportagem cita como projeto anterior do grupo o [[campo-grande-em-cena|Campo Grande em Cena]], de 2021.[^cgn2023a] *A Crítica* lista também a Mostra OFIT Cena Contemporânea entre as iniciativas da companhia.[^critica2026a]
 
-Em março de 2026, a companhia abriu o workshop *A Expansão da Palavra em Cena*, que serviu de seleção para parte do elenco da remontagem de *Três Vírgula Quatro Graus na Escala Richter*.[^critica2026a][^ce2026] A remontagem integrou o projeto P.E.S.S.O.A.S., financiado pelo [[fomteatro|FomTeatro]], programa da [[fundac|Fundação Municipal de Cultura de Campo Grande]].[^ce2026][^critica2026b]
+Em março de 2026, a companhia abriu o workshop *A Expansão da Palavra em Cena*, que serviu de seleção para parte do elenco da remontagem de *Três Vírgula Quatro Graus na Escala Richter*.[^critica2026a][^ce2026] A remontagem integrou o projeto P.E.S.S.O.A.S., financiado pelo [[fomteatro|FomTeatro]], programa da [[fundac|Fundação Municipal de Cultura de Campo Grande]], com identidade visual da [[vaca-azul|Vaca Azul]].[^ce2026][^critica2026b]
 
 ## Espetáculos
 
 - *Três Vírgula Quatro Graus na Escala Richter* (estreia em 2016; remontagem em 2026) — texto de Éder Rodrigues; direção de Nill Amaral.[^cgn2016][^ce2026]
 - *Pedra Bruta – Ensaio para colher o provisório das coisas* — resultado do projeto Amadores, criado em 2017.[^cgn2023b]
-- *Até que a Morte nos Repare* (2023) — direção de Nill Amaral; consultoria dramatúrgica de Éder Rodrigues; elenco com Lígia Prieto, Karine Araújo e [[vini-willyan|Vini Willyan]], entre outros.[^cgn2023b]
+- *Até que a Morte nos Repare* (2023) — direção de Nill Amaral; consultoria dramatúrgica de Éder Rodrigues; espaço e visualidade da cena coordenados por [[gil-esper|Gil Esper]]; elenco com Lígia Prieto, Karine Araújo e [[vini-willyan|Vini Willyan]], entre outros.[^cgn2023b]
 
 [^ce2026]: Mariana Piell, ["Espetáculo da Cia. Ofit retorna aos palcos em uma nova montagem entre os dias 5 e 7 de agosto"](https://correiodoestado.com.br/correio-b/espetaculo-da-cia-ofit-retorna-aos-palcos-em-uma-nova-montagem-entre/470325/), *Correio do Estado*, 29 jul. 2026. Acesso em 4 nov. 2026.
 [^critica2026a]: Ricardo Eugênio, ["Em Campo Grande, um workshop gratuito procura quem queira pôr a palavra no palco"](https://acritica.net/cultura/em-campo-grande-um-workshop-gratuito-procura-quem-queira-por-a-palavra-no-palco/), *A Crítica de Campo Grande*, 23 mar. 2026. Acesso em 4 nov. 2026.

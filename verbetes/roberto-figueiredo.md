@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 Formado em história, interessou-se por teatro na faculdade. Em 1982, teve a ideia de criar um grupo teatral no Colégio Salesiano Dom Bosco, com as professoras Maria Cristina Aquino e Lígia Velasques. A partir de 1984 ficou só no Dom Bosco, e em 1985 o grupo passou para a Fucmat, depois UCDB.[^cgn2022] Coordenou o livro *Senta que o Leão é Manso da UCDB 40 Anos – O melhor do grupo é o grupo*, com relatos de 110 ex-integrantes, anunciado para setembro de 2022.[^cgn2022]
 
-Em 2023, era responsável pela área de Cultura e Arte, ligada à Pró-Reitoria de Pastoral e Assuntos Comunitários da UCDB.[^cgn2023b] No mesmo ano, foi diretor-geral da encenação da Paixão de Cristo na Cidade da Páscoa, em abril, e dirigiu *O Burguês Fidalgo*, de Molière, que estreou em setembro no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^cgn2023a][^cgn2023b]
+Em 2023, era responsável pela área de Cultura e Arte, ligada à Pró-Reitoria de Pastoral e Assuntos Comunitários da UCDB.[^cgn2023b] No mesmo ano, foi diretor-geral da encenação da Paixão de Cristo na Cidade da Páscoa, em abril, e dirigiu [[o-burgues-fidalgo|*O Burguês Fidalgo*]], de Molière, que estreou em setembro no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^cgn2023a][^cgn2023b]
 
 ## Espetáculos
 

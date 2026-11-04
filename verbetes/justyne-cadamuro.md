@@ -19,4 +19,4 @@ O historiador Emerson Dionisio Gomes de Oliveira lê a obra como referência à 
 
 No mesmo texto, o autor relata que a obra não havia sido exposta pelo museu desde que entrou no acervo, segundo entrevista feita no MARCO em novembro de 2014. Ele a usa como exemplo de peça que não se alinha ao acervo que o museu passou a buscar.[^anpuh]
 
-[^anpuh]: Emerson Dionisio Gomes de Oliveira, ["Patrimônio que incomoda: museus e coleções de arte"](https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945025_fb6237f6542ee315861019a6a0dcfbac.pdf), anais de simpósio da ANPUH, p. 4-5. Acesso em 4 nov. 2026.
+[^anpuh]: Emerson Dionisio Gomes de Oliveira, ["Patrimônio que incomoda: museus e coleções de arte"](https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945025_fb6237f6542ee315861019a6a0dcfbac.pdf), anais de simpósio da ANPUH, p. 4-5 e nota 5. Acesso em 4 nov. 2026.

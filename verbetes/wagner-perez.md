@@ -21,7 +21,5 @@ A mesma reportagem registra que, em fevereiro de 2019, um incêndio atingiu uma 
 
 Em 2024, o *Campo Grande News* o identificou como produtor cultural e responsável pelo [[circo-do-bolachinha|Circo do Bolachinha]], comandado pela família Perez. O circo anunciou temporada gratuita de 1º a 5 de outubro, na entrada das Moreninhas, dentro do projeto [[circo-tradicional-resistencia|Circo Tradicional – Resistência]], apoiado pela Lei Paulo Gustavo de Mato Grosso do Sul. Segundo ele, o espetáculo era voltado sobretudo às crianças.[^cgn2024]
 
-As fontes lidas não dizem se o Top Circo e o Circo do Bolachinha são o mesmo circo.
-
 [^ce2019]: Bruna Aquino, ["Fogo não queimou a magia e circo vai para os bairros"](https://correiodoestado.com.br/correio-b/fogo-nao-queimou-a-magia-br-e-circo-vai-para-os-bairros/348922/), *Correio do Estado*, 13 mar. 2019. Acesso em 4 nov. 2026.
 [^cgn2024]: Thailla Torres, ["Moreninha vai ter temporada gratuita do Circo do Bolachinha"](https://www.campograndenews.com.br/lado-b/diversao/moreninha-vai-ter-temporada-gratuita-do-circo-do-bolachinha), *Campo Grande News*, 29 set. 2024. Acesso em 4 nov. 2026.

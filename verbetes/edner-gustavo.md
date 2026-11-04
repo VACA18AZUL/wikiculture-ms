@@ -22,8 +22,8 @@ Em setembro de 2025, falou como ator de *Seco*, peça do Fulano di Tal sobre rel
 
 ## Espetáculos
 
-- *O Bem-Amado* (circulação em 2024) — atuação; Fulano di Tal.[^cgn2024]
-- *Seco* (apresentação em 2025) — atuação; Fulano di Tal.[^cgn2025b]
+- [[o-bem-amado-fulano-di-tal|*O Bem-Amado*]] (circulação em 2024) — atuação; Fulano di Tal.[^cgn2024]
+- [[seco-fulano-di-tal|*Seco*]] (apresentação em 2025) — atuação; Fulano di Tal.[^cgn2025b]
 
 [^cgn2024]: Thailla Torres, ["Doze cidades de MS recebem espetáculos gratuitos de teatro"](https://www.campograndenews.com.br/lado-b/diversao/doze-cidades-de-ms-recebem-espetaculos-gratuitos-de-teatro), *Campo Grande News*, 10 abr. 2024. Acesso em 4 nov. 2026.
 [^cgn2025a]: Thailla Torres, ["Grupo UBU leva teatro popular para 12 cidades e começa por Corumbá"](https://www.campograndenews.com.br/lado-b/diversao/grupo-ubu-leva-teatro-popular-para-12-cidades-e-comeca-por-corumba), *Campo Grande News*, 7 abr. 2025. Acesso em 4 nov. 2026.

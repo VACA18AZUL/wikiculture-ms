@@ -22,7 +22,7 @@ O nome veio de uma piada contada entre os alunos. Em 2022, a reportagem registra
 
 Para os 40 anos, o grupo programou para 24 de setembro de 2022 *Sonhos de Uma Noite de Verão*, de William Shakespeare, com adaptação de [[marcelo-piccolli|Marcelo Picolli]] (grafia da reportagem) e direção de Figueiredo, no [[armazem-cultural|Armazém Cultural]]. Para a mesma data estava previsto o lançamento do livro *Senta que o Leão é Manso da UCDB 40 Anos – O melhor do grupo é o grupo*, coordenado por Figueiredo, com relatos de 110 ex-integrantes.[^cgn2022]
 
-Em abril de 2023, o grupo encenou pela primeira vez a Paixão de Cristo, na Cidade da Páscoa, em Campo Grande, a convite da prefeitura, com 35 atores, 10 bailarinos e trilha do Coral UCDB.[^cgn2023a][^cgn2023c] Em setembro do mesmo ano estreou *O Burguês Fidalgo*, de Molière, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], com 17 atores; a reportagem diz que o grupo completava 41 anos.[^cgn2023b]
+Em abril de 2023, o grupo encenou pela primeira vez a Paixão de Cristo, na Cidade da Páscoa, em Campo Grande, a convite da prefeitura, com 35 atores, 10 bailarinos e trilha do Coral UCDB.[^cgn2023a][^cgn2023c] Em setembro do mesmo ano estreou [[o-burgues-fidalgo|*O Burguês Fidalgo*]], de Molière, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], com 17 atores; a reportagem diz que o grupo completava 41 anos.[^cgn2023b]
 
 ## Espetáculos
 

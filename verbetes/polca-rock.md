@@ -15,7 +15,7 @@ A **polca-rock** é um gênero musical híbrido surgido em Campo Grande, que fun
 
 ## Origem
 
-Gilmar Lima Caetano situa o surgimento entre o fim dos anos 1980 e o início dos 1990, organizado inicialmente por [[caio-ignacio|Caio Ignácio]], [[jerry-espindola|Jerry Espíndola]] e [[rodrigo-teixeira|Rodrigo Teixeira]].[^cae12] Em outro trecho, cita também Sandro Moreno entre os nomes dessa geração.[^cae12] Rodrigo Teixeira Gonçalves diz que o gênero começou a ser formatado na segunda metade dos anos 1980 e o caracteriza por uma aproximação maior entre a polca paraguaia e o rock'n roll.[^gon56] Na conclusão da dissertação, fala em um movimento que nasce no fim dos anos 1980 e desponta nos anos 2000.[^gon130]
+Gilmar Lima Caetano situa o surgimento entre o fim dos anos 1980 e o início dos 1990, organizado inicialmente por [[caio-ignacio|Caio Ignácio]], [[jerry-espindola|Jerry Espíndola]] e [[rodrigo-teixeira|Rodrigo Teixeira]].[^cae12] Em outro trecho, cita também [[sandro-moreno|Sandro Moreno]] entre os nomes dessa geração.[^cae12] Rodrigo Teixeira Gonçalves diz que o gênero começou a ser formatado na segunda metade dos anos 1980 e o caracteriza por uma aproximação maior entre a polca paraguaia e o rock'n roll.[^gon56] Na conclusão da dissertação, fala em um movimento que nasce no fim dos anos 1980 e desponta nos anos 2000.[^gon130]
 
 Segundo Caetano, a proposta vinha de uma geração mais nova que queria se diferenciar dos artistas do [[festival-prata-da-casa|Prata da Casa]]. Ele cita Rodrigo Teixeira, em entrevista ao livro [[a-musica-de-mato-grosso-do-sul-historias-de-vida|A Música de Mato Grosso do Sul: histórias de vida]], dizendo que a polca-rock surgiu da vontade de regionalizar o som em um momento de poucas bandas.[^cae12][^caeufgd]
 

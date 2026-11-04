@@ -15,7 +15,7 @@ O **Programa Municipal de Fomento ao Teatro (FomTeatro)** é um programa de fina
 
 ## Projetos apoiados
 
-As fontes lidas não informam o ano de criação do programa nem a lei que o instituiu. O registro mais antigo encontrado é de 2014. Naquele ano, o espetáculo *Eu sei que vou te amar*, da [[casa-de-ensaio|Casa de Ensaio]], com os 130 alunos da escola, foi montado com investimento do programa. A direção foi de Carol Dória e a encenação de Laís Dória.[^cgn2014]
+Em 2014, o espetáculo *Eu sei que vou te amar*, da [[casa-de-ensaio|Casa de Ensaio]], com os 130 alunos da escola, foi montado com investimento do programa. A direção foi de Carol Dória e a encenação de Laís Dória.[^cgn2014]
 
 O edital de 2024 contemplou o projeto Fulano di Tal em Ação, do [[fulano-di-tal|Grupo Fulano di Tal]]. Dentro dele, o grupo fez uma temporada gratuita de [[seco-fulano-di-tal|*Seco*]] de 25 a 28 de junho de 2026, na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]].[^acritica-seco]
 
