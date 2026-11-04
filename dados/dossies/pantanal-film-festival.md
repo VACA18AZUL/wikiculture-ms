@@ -35,3 +35,19 @@ Buscas sem resultado em outro veículo: Correio do Estado ("Pantanal Film Festiv
 ## Uso no verbete
 
 - Não redigido: evento da própria FCMS (Pantanal Film Commission), sem fonte independente.
+
+## Segunda fonte (d1-2, 2026-11-04)
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| oe2025 | "Última semana do Campão Cultural tem programação para todos os gostos", O Estado MS, 02/04/2025 | https://oestadoonline.com.br/arte-e-lazer/ultima-semana-do-campao-cultural-tem-programacao-para-todos-os-gostos/ | imprensa (agenda) | sim |
+| oe2026a | "Edital prevê até R$ 900 mil para festivais de cinema à cultura geek", O Estado MS, 12/03/2026 | https://oestadoonline.com.br/arte-e-lazer/edital-preve-ate-r-900-mil-para-festivais-de-cinema-a-cultura-geek/ | imprensa | sim |
+| oe2026b | "Prêmio de cinema oferece R$ 18 mil e recebe inscrições até 25 de outubro em MS", O Estado MS, 12/10/2026 | https://oestadoonline.com.br/arte-e-lazer/premio-de-cinema-oferece-r-18-mil-e-recebe-inscricoes-ate-25-de-outubro-em-ms/ | imprensa | sim |
+| cgn2026 | Thailla Torres, "Prêmio de cinema abre inscrições e vai distribuir R$ 18 mil aos vencedores", Campo Grande News, 10/10/2026 | https://www.campograndenews.com.br/lado-b/diversao/premio-de-cinema-abre-inscricoes-e-vai-distribuir-r-18-mil-aos-vencedores | imprensa | sim |
+
+- Imprensa de outros veículos confirma a 1ª edição (exibições diárias no MIS até 05/04/2025) e a edição de 2026 (chamamento PNAB; Prêmio Guadakan, 1ª edição, nove categorias, R$ 2 mil cada, sessões 9-15/11, entrega 20/11/2026). As matérias se apoiam em informações da FCMS, organizadora.
+- Prêmio Guadakan de Cinema não confundir com o espetáculo [[guadakan]] (Moinho Cultural).
+
+## Uso no verbete (d1-2)
+
+- Verbete redigido. Edição de 2026 descrita só como chamamento, inscrições e datas marcadas (ainda não realizada em 04/11/2026). fcms2025a (ano errado 2024) não citada.
