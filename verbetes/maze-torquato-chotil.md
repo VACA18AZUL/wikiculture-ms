@@ -25,6 +25,8 @@ Morou em Osasco, em São Paulo, e vive em Paris desde 1985.[^unifal1] Reportagem
 
 Em entrevista de 2025, disse que o estado onde nasceu precisa de mais visibilidade literária no país e que por isso escreve com frequência sobre essa ligação. Afirmou ainda que sua obra, exceto as biografias e os trabalhos universitários, é marcada por memórias da própria vivência.[^unifal2]
 
+Segundo *O Estado de Mato Grosso do Sul*, é doutora pela Universidade Paris VIII, fundou e foi a primeira presidente da União Europeia de Escritores de Língua Portuguesa (UEELP) e foi editora da 00h00. A mesma matéria conta 15 livros, cinco deles em francês, e diz que ela divide o tempo entre Paris, São Paulo e Mato Grosso do Sul.[^oestado2026]
+
 ## Obras
 
 Resenha de 2025 conta mais de 14 livros publicados, entre ensaios, romances e estudos memorialísticos, em português, em francês ou em edições bilíngues.[^unifal1] A reportagem de 2026 fala em 15 livros, seis deles em francês.[^ce2026] Títulos citados nas fontes lidas:[^unifal1]
@@ -40,11 +42,14 @@ Resenha de 2025 conta mais de 14 livros publicados, entre ensaios, romances e es
 - *Nascentes vivas*, para os povos Guarani, Kaiowá e Terena da Reserva de Dourados (2022).[^unifal1]
 - *Mares agitados: na periferia dos anos 1970* (2024), romance inspirado na migração de jovens de Mato Grosso do Sul para São Paulo nos anos 1970.[^unifal1][^unifal2]
 
+- *Lucy Citti Ferreira: a pintora esquecida do modernismo* (2026) — biografia da pintora modernista Lucy Citti Ferreira (1911-2008), feita a partir dos arquivos da artista na Pinacoteca de São Paulo e de entrevistas na França e no Brasil. O debate sobre o livro, com mediação de Alan Silus, foi marcado para 14 de abril de 2026 na [[biblioteca-publica-estadual-dr-isaias-paim|Biblioteca Pública Estadual Dr. Isaías Paim]], em Campo Grande.[^oestado2026]
 Em agosto de 2026, o *Correio do Estado* noticiou a chegada ao mercado francês de *Na rota de traficantes de obras de arte*, em tradução pela Hello Éditions, com o título *Au cœur du trafic d'œuvres d'art*.[^ce2026] A protagonista é uma policial federal nascida em Mato Grosso do Sul.[^ce2026]
 
 ## Prêmios
 
-*Mares agitados* recebeu o Prêmio Romance da Academia Internacional de Literatura Brasileira (AILB) em 2025.[^unifal2]
+*Mares agitados* recebeu o Prêmio Romance da Academia Internacional de Literatura Brasileira (AILB) em 2025.[^unifal2][^oestado2026]
+
+*Maria d'Apparecida: negroluminosa voz* recebeu o prêmio de biografia da AILB em 2022. *O Estado de Mato Grosso do Sul* também registra o prêmio de romance de 2025 para *Mares agitados*.[^oestado2026]
 
 ## Para saber mais
 
@@ -53,3 +58,4 @@ Em agosto de 2026, o *Correio do Estado* noticiou a chegada ao mercado francês 
 [^unifal1]: Ítalo Oscar Riccardi León, ["Mazé Torquato Chotil, uma autora de facetas múltiplas"](https://jornal.unifal-mg.edu.br/maze-torquato-chotil-uma-autora-de-facetas-multiplas/), *Jornal UNIFAL-MG*, 5 jun. 2025. Acesso em 4 nov. 2026.
 [^unifal2]: Ana Carolina Araújo, ["Mazé Torquato Chotil fala sobre literatura e migração; obra lançada em visita à UNIFAL-MG é premiada pela Academia Internacional de Literatura Brasileira"](https://jornal.unifal-mg.edu.br/maze-torquato-chotil-fala-sobre-literatura-e-migracao-obra-lancada-em-visita-a-unifal-mg-e-premiada-pela-academia-internacional-de-literatura-brasileira/), *Jornal UNIFAL-MG*, 25 set. 2025. Acesso em 4 nov. 2026.
 [^ce2026]: Mariana Piell, ["Romance com protagonista de Mato Grosso do Sul chega ao mercado francês"](https://correiodoestado.com.br/correio-b/romance-com-protagonista-de-mato-grosso-do-sul-chega-ao-mercado/471273/), *Correio do Estado*, 17 ago. 2026. Acesso em 4 nov. 2026.
+[^oestado2026]: Carolina Rampi, ["História de pintora modernista 'esquecida' é relembrada em novo livro de autora de MS"](https://oestadoonline.com.br/arte-e-lazer/historia-de-pintora-modernista-esquecida-e-relembrada-em-novo-livro-de-autora-de-ms/), *O Estado de Mato Grosso do Sul*, 7 abr. 2026. Acesso em 4 nov. 2026.

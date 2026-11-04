@@ -10,3 +10,8 @@ Fonte nova: José Antonio de Souza, *Literatura e identidade cultural em MS: alg
 - Acrescentado: sentido de "areôtorare" (prefácio do livro, citado por Souza); Sarobá como bairro de Corumbá (p. 53); leitura dos "poemas negros" e "boróros" (p. 53-75); divisão em cinco grupos e contagem dos dez "poemas negros" segundo Araújo (2002), citada por Souza (p. 53-54).
 - Ficha: o campo "Nascimento" já trazia 1915 e Corumbá; nada mudou na ficha.
 - Data de atualização do verbete passada para 2026-11-04.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 20 mar. 2025, "Pesquisadora lança obra com material inédito de grande nome da literatura de MS". Lobivar Matos: Obra Reunida (Life Editora, 2025), org. Susylene Dias de Araujo (pesquisa desde 1999, mestrado UFMS, doutorado UEL); contos inéditos "Cacos de Vida" (título provisório) obtidos via prof. José Pereira Lins; lançamentos 20/03 (IFMS Corumbá) e 22/03 (Café Doce Lembrança, Campo Grande) — anúncios. Areôtorare (1935) e Sarobá (1936); morte aos 32 anos; ida ao Rio aos 18 para cursar Direito (confere com Souza); advogado; apresentou Manoel de Barros em artigo de jornal.
+- Grafia da matéria: "Arêotorare".

@@ -2,7 +2,7 @@
 titulo: Sonhos Guaranis (canção)
 tipo: obra
 areas: [musica]
-resumo: Guarânia de Paulo Simões e Almir Sater, composta no início dos anos 1980 e gravada pela primeira vez no LP Prata da Casa; trata da ligação entre Mato Grosso do Sul e o Paraguai.
+resumo: Guarânia de Paulo Simões e Almir Sater, composta no início dos anos 1980, com primeira gravação no LP Prata da Casa; trata da ligação entre Mato Grosso do Sul e o Paraguai.
 ficha:
   Autor: Paulo Simões e Almir Sater
   Ano: Início da década de 1980
@@ -19,9 +19,9 @@ Segundo Almir Sater, em depoimento publicado por Sá Rosa e Duncan (2009) e cita
 
 ## A canção
 
-Gonçalves diz que a música mantém os traços da guarânia tradicional. A letra fala de uma mesma raiz entre o povo sul-mato-grossense e o paraguaio e menciona a guerra.[^goncalves2014]
+Gonçalves diz que a música mantém os traços da guarânia tradicional. A letra fala de uma raiz comum a sul-mato-grossenses e paraguaios e menciona a guerra.[^goncalves2014]
 
-Foi gravada pela primeira vez no LP [[prata-da-casa-lp-1982|*Prata da Casa*]].[^goncalves2014] Segundo Gilmar Lima Caetano, Paulo Simões a cantou no [[festival-prata-da-casa|festival Prata da Casa]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], e foi muito aplaudido.[^caetano2012]
+A primeira gravação da canção está no LP [[prata-da-casa-lp-1982|*Prata da Casa*]].[^goncalves2014] Segundo Gilmar Lima Caetano, Paulo Simões a cantou no [[festival-prata-da-casa|festival Prata da Casa]], no [[teatro-glauce-rocha|Teatro Glauce Rocha]], e foi muito aplaudido.[^caetano2012]
 
 ## Estudos
 
@@ -29,7 +29,7 @@ Ian Rari Nogueira Faria cita a canção, com "Trem do Pantanal" e "Paiaguás", e
 
 ## Turnê
 
-Em novembro de 2021, Paulo Simões levou a Corumbá, Dourados e Ponta Porã uma turnê com o nome *Sonhos Guaranis*, financiada pelo Fundo de Investimentos Culturais de MS.[^fcms2021]
+Em 8 de novembro de 2021, a Fundação de Cultura de Mato Grosso do Sul anunciou a turnê *Sonhos Guaranis*, de Paulo Simões, com recursos do Fundo de Investimentos Culturais de MS. A programação previa shows gratuitos em Corumbá, em 19 de novembro, e em Dourados e Ponta Porã, nos dias 26 e 27.[^fcms2021]
 
 [^fcms2021]: Gisele Colombo, ["Paulo Simões leva o show 'Sonhos Guaranis' a Corumbá, Dourados e Ponta Porã"](https://www.fundacaodecultura.ms.gov.br/paulo-simoes-leva-o-show-sonhos-guaranis-a-corumba-dourados-e-ponta-pora/), *Fundação de Cultura de Mato Grosso do Sul*, 8 nov. 2021. Acesso em 4 nov. 2026.
 [^goncalves2014]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação (Mestrado em Comunicação), Universidade Federal de Mato Grosso do Sul, 2014, p. 53-55. Acesso em 4 nov. 2026.

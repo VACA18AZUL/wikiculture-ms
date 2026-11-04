@@ -65,3 +65,8 @@ Fontes descartadas: FCMS "Vozes ancestrais da cultura afro ecoam em Corumbá..."
 
 - Entrou: origem e chegada a Campo Grande, livro, curta (roteiro), antologias, Erê Dendê, participações em Flib e FAS, Okan.
 - Ficou fora: religião pessoal da autora e nomes da mãe e do pai de santo (dados pessoais/de terceiros); preço e pré-venda (promocional).
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 24 jun. 2025, Amanda Ferreira, "O Reino Mágico dos Orixás: escritora de MS disputa prêmio literário nacional". Prêmio Erê Dendê (júri + votação popular até 6/07/2025; apoio da UFRB); livro escrito do início a dezembro de 2021, a partir de um conto; FIMIC (grafia da matéria) da prefeitura; sem selo; distribuição independente; protagonista menino de terreiro, médium de umbanda.
+- Divergências: (1) naturalidade — a matéria diz "natural de Campo Grande" e depois "radicada em Campo Grande desde 2008, embora baiana de origem"; o CGN dá Barreiras (BA). Registradas. (2) tempo de escrita — CGN: cerca de seis meses; O Estado: de início a dezembro de 2021. O verbete mantém a do CGN e acrescenta a do O Estado, sem escolher.

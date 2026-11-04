@@ -21,6 +21,8 @@ Segundo o *Campo Grande News*, escreve desde os nove anos e, antes do livro infa
 
 Em 2025, o livro foi finalista do Prêmio Erê Dendê, dedicado à literatura infantojuvenil de temática afrocentrada, com votação aberta ao público até 6 de julho.[^cgn2025]
 
+Segundo *O Estado de Mato Grosso do Sul*, o prêmio tem apoio da Universidade Federal do Recôncavo da Bahia e combina avaliação de júri e votação popular. A autora disse que a obra começou como conto, foi escrita do início a dezembro de 2021 e teve a publicação financiada pelo FMIC, da prefeitura de Campo Grande, sem selo editorial; ela mesma cuida da distribuição, sobretudo em feiras culturais. A matéria a chama numa passagem de natural de Campo Grande e, noutra, de baiana radicada na cidade desde 2008.[^oestado2025]
+
 ## Apresentações
 
 Na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] de 2024, esteve no "Dedo de Prosa" ao lado de Gleycielli Nonato, Isloany Machado e Adrianna Alberti.[^fcms2024] Para 17 de maio de 2025, a programação do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, anunciou uma leitura do livro com dramatização para crianças, conduzida por ela.[^fcms2025a] Na Flib de 2025, integrou a roda de conversa "Enegrecendo a História", sobre literatura negra.[^fcms2025c]
@@ -41,3 +43,4 @@ Na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] de 2024, esteve
 [^fcms2025a]: Fundação de Cultura de Mato Grosso do Sul, ["Documentário sobre fé, doçura e resistência no Pantanal terá premiere no Festival América do Sul"](https://www.fundacaodecultura.ms.gov.br/documentario-sobre-fe-docura-e-resistencia-no-pantanal-tera-premiere-no-festival-america-do-sul/), 16 maio 2025. Acesso em 4 nov. 2026.
 [^fcms2025b]: Fundação de Cultura de Mato Grosso do Sul, ["No Dia Nacional do Escritor, autores sul-mato-grossenses falam de suas experiências na escrita"](https://www.fundacaodecultura.ms.gov.br/no-dia-nacional-do-escritor-autores-sul-mato-grossenses-falam-de-suas-experiencias-na-escrita/), 25 jul. 2025. Acesso em 4 nov. 2026.
 [^fcms2025c]: Fundação de Cultura de Mato Grosso do Sul, ["Flib 2025 traz roda de conversa sobre literatura negra"](https://www.fundacaodecultura.ms.gov.br/58427-2/), 20 set. 2025. Acesso em 4 nov. 2026.
+[^oestado2025]: Amanda Ferreira, ["O Reino Mágico dos Orixás: escritora de MS disputa prêmio literário nacional"](https://oestadoonline.com.br/arte-e-lazer/o-reino-magico-dos-orixas-escritora-de-ms-disputa-premio-literario-nacional/), *O Estado de Mato Grosso do Sul*, 24 jun. 2025. Acesso em 4 nov. 2026.
