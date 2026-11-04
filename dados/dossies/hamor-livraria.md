@@ -13,9 +13,9 @@
 | id | Referência | URL | Tipo | Entra? |
 |---|---|---|---|---|
 | cgn2023a | Jéssica Fernandes, "Livraria promove troca-troca de livros e discotecagem no Centro", *Campo Grande News*, 5 jul. 2023 | https://www.campograndenews.com.br/lado-b/diversao/livraria-promove-troca-troca-de-livros-e-discotecagem-no-centro | imprensa | sim |
-| cgn2023b | "Saraiva fechou, mas na cidade não faltam livrarias para conhecer", *Campo Grande News*, 27 set. 2023 | https://www.campograndenews.com.br/lado-b/consumo/saraiva-fechou-mas-na-cidade-nao-faltam-livrarias-para-conhecer | imprensa | sim |
-| cgn2024 | "Procurando uma nova leitura? Dê uma chance aos autores de MS", *Campo Grande News*, 16 nov. 2024 | https://www.campograndenews.com.br/lado-b/consumo/procurando-uma-nova-leitura-de-uma-chance-aos-autores-de-ms | imprensa | sim |
-| cgn2026 | "Livro parado na estante vira moeda de troca em nova feirinha deste sábado", *Campo Grande News*, 6 maio 2026 | https://www.campograndenews.com.br/lado-b/diversao/livro-parado-na-estante-vira-moeda-de-troca-em-nova-feirinha-deste-sabado | imprensa | sim |
+| cgn2023b | Jéssica Fernandes, "Saraiva fechou, mas na cidade não faltam livrarias para conhecer", *Campo Grande News*, 27 set. 2023 | https://www.campograndenews.com.br/lado-b/consumo/saraiva-fechou-mas-na-cidade-nao-faltam-livrarias-para-conhecer | imprensa | sim |
+| cgn2024 | Aletheya Alves, "Procurando uma nova leitura? Dê uma chance aos autores de MS", *Campo Grande News*, 16 nov. 2024 | https://www.campograndenews.com.br/lado-b/consumo/procurando-uma-nova-leitura-de-uma-chance-aos-autores-de-ms | imprensa | sim |
+| cgn2026 | Natália Olliver, "Livro parado na estante vira moeda de troca em nova feirinha deste sábado", *Campo Grande News*, 6 maio 2026 | https://www.campograndenews.com.br/lado-b/diversao/livro-parado-na-estante-vira-moeda-de-troca-em-nova-feirinha-deste-sabado | imprensa | sim |
 
 Descartadas / não localizadas:
 - Matéria do Lado B de 2022 sobre a origem (citada em cgn2023b): não localizada.

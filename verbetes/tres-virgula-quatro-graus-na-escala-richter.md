@@ -3,12 +3,12 @@ titulo: Três Vírgula Quatro Graus na Escala Richter
 tipo: obra
 areas: [teatro]
 cidade: Campo Grande
-resumo: Peça de Éder Rodrigues dirigida por Nill Amaral para a Cia. Ofit, sobre uma família abalada por uma revelação; estreou em 2016 no Teatro Prosa e ganhou nova montagem em 2026.
+resumo: Peça de Éder Rodrigues dirigida por Nill Amaral para a Cia. Ofit, sobre uma família abalada por uma revelação, com estreia anunciada para 2016 no Teatro Prosa e nova montagem em 2026.
 ficha:
   Autor: Éder Rodrigues
   Direção: Nill Amaral
   Grupo: Cia. Ofit
-  Estreia: "2016"
+  Estreia: fevereiro de 2016 (data anunciada)
 status: rascunho
 atualizado: 2026-11-04
 ---

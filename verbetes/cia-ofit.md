@@ -18,9 +18,9 @@ A **Cia. Ofit** (grafada também Cia OFIT) é uma companhia de teatro de Campo G
 
 Reportagens de 2026 dão 2006 como ano de fundação, em Campo Grande, e tratam a temporada daquele ano como parte da comemoração de 20 anos do grupo.[^ce2026][^critica2026a] *A Crítica* descreve a trajetória como marcada por pesquisa em linguagens cênicas contemporâneas, com dramaturgias próprias, textos de Nelson Rodrigues, Chico Buarque e Paulo Pontes e criações baseadas em obras de Clarice Lispector e Fernando Pessoa.[^critica2026a]
 
-Em 2014, *Três Vírgula Quatro Graus na Escala Richter*, texto do dramaturgo mineiro [[eder-rodrigues|Éder Rodrigues]] dirigido por Nill Amaral, foi contemplado com prêmio da [[funarte|Funarte]] e do Ministério da Cultura. A peça estreou em fevereiro de 2016 no [[sesc-teatro-prosa|Teatro Prosa]], com atores da Ofit no elenco.[^cgn2016] Em 2026 o grupo a remontou; ver [[tres-virgula-quatro-graus-na-escala-richter|Três Vírgula Quatro Graus na Escala Richter]].[^ce2026]
+Em 2014, *Três Vírgula Quatro Graus na Escala Richter*, texto do dramaturgo mineiro [[eder-rodrigues|Éder Rodrigues]] dirigido por Nill Amaral, foi contemplado com prêmio da [[funarte|Funarte]] e do Ministério da Cultura. A estreia foi anunciada para fevereiro de 2016 no [[sesc-teatro-prosa|Teatro Prosa]], com atores da Ofit no elenco.[^cgn2016] Em 2026 o grupo a remontou; ver [[tres-virgula-quatro-graus-na-escala-richter|Três Vírgula Quatro Graus na Escala Richter]].[^ce2026]
 
-O projeto Amadores, criado em 2017, reuniu artistas iniciantes e resultou na montagem *Pedra Bruta – Ensaio para colher o provisório das coisas*, apresentada 20 vezes, segundo o *Campo Grande News*.[^cgn2023b] A segunda edição abriu inscrições para oficina em dezembro de 2022 e levou à estreia de *Até que a Morte nos Repare* em março de 2023, no Sesc Cultura.[^cgn2022][^cgn2023b]
+O projeto Amadores, criado em 2017, reuniu artistas iniciantes e resultou na montagem *Pedra Bruta – Ensaio para colher o provisório das coisas*, apresentada 20 vezes, segundo o *Campo Grande News*.[^cgn2023b] A segunda edição abriu inscrições para oficina em dezembro de 2022 e levou a *Até que a Morte nos Repare*, com estreia marcada para março de 2023 no Sesc Cultura.[^cgn2022][^cgn2023b]
 
 Entre julho e setembro de 2023, a Ofit realizou o projeto [[cena-aberta-encontros-paralelos|Cena Aberta – Encontros Paralelos]], idealizado por Nill Amaral, com residência artística do dramaturgo pernambucano Newton Moreno e apresentações de grupos sul-mato-grossenses no [[teatro-glauce-rocha|Teatro Glauce Rocha]] e no Sesc Cultura. A reportagem cita como projeto anterior do grupo o [[campo-grande-em-cena|Campo Grande em Cena]], de 2021.[^cgn2023a] *A Crítica* lista também a Mostra OFIT Cena Contemporânea entre as iniciativas da companhia.[^critica2026a]
 
@@ -28,7 +28,7 @@ Em março de 2026, a companhia abriu o workshop *A Expansão da Palavra em Cena*
 
 ## Espetáculos
 
-- *Três Vírgula Quatro Graus na Escala Richter* (estreia em 2016; remontagem em 2026) — texto de Éder Rodrigues; direção de Nill Amaral.[^cgn2016][^ce2026]
+- *Três Vírgula Quatro Graus na Escala Richter* (estreia anunciada para 2016; remontagem em 2026) — texto de Éder Rodrigues; direção de Nill Amaral.[^cgn2016][^ce2026]
 - *Pedra Bruta – Ensaio para colher o provisório das coisas* — resultado do projeto Amadores, criado em 2017.[^cgn2023b]
 - *Até que a Morte nos Repare* (2023) — direção de Nill Amaral; consultoria dramatúrgica de Éder Rodrigues; espaço e visualidade da cena coordenados por [[gil-esper|Gil Esper]]; elenco com Lígia Prieto, Karine Araújo e [[vini-willyan|Vini Willyan]], entre outros.[^cgn2023b]
 
