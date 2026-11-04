@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Flor Brilhante e as Cicatrizes da Pedra*** é um documentário sobre uma família de rezadores Guarani-Kaiowá da Reserva de Dourados. A matriarca, Flor Brilhante, tenta manter os conhecimentos e hábitos dos antigos enquanto a família convive com as explosões de uma usina de asfalto que dinamita uma pedra sagrada no território da Aldeia Jaguapiru, explorada havia mais de 40 anos.[^catraca2013][^fcms2015a]
+***Flor Brilhante e as Cicatrizes da Pedra*** é um documentário sobre uma família de rezadores Guarani-Kaiowá da Reserva de Dourados. A matriarca, Flor Brilhante, tenta manter os conhecimentos e hábitos dos antigos enquanto a família vive sob as detonações de uma usina de asfalto que, com dinamite, explora uma pedra sagrada no território da Aldeia Jaguapiru; segundo as fontes, a exploração durava 40 anos (*Catraca Livre*, 2013) ou mais de 40 anos (Fundação de Cultura, 2015).[^catraca2013][^fcms2015a]
 
 ## Produção
 

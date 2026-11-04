@@ -33,3 +33,7 @@ Fontes descartadas: FCMS 10/01/2017 (Som da Concha; só cita banda que tocou no 
 
 - Data de nascimento exata e cidade natal não informadas. Sem perfis oficiais conferidos (facebook.com/sarauzegeral citado em oe2019, não aberto).
 - Wikipédia pt: não procurada a fundo; nenhum artigo conhecido.
+
+## Validação de 2026-11-04
+
+Revisão editorial em `dados/revisao/ze-geral.md`: fontes reabertas e conferidas; correções de anúncio x fato e paráfrases registradas lá.

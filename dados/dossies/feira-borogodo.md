@@ -22,3 +22,7 @@
 - Numeração de edições: Correio do Estado chama a edição de 1º dez. 2024 de sexta; Campo Grande News chama a de 7 dez. 2025 de 18ª. As contas não batem com feira mensal desde jun. 2024; o verbete só reproduz o que cada fonte diz.
 - Campo Grande News (2025) cita "Palhaço Mixirica"; existe o verbete palhaca-mixirica (Kelly Figueiredo). Não liguei por não ter confirmação de que é a mesma personagem.
 - Organização: Tamanduá Café, produção de Felipe Monteiro e Jenny Benitez (cgn2025a). Edição de 2 anos contemplada pela PNAB via FCMS (cr2026, segundo a organização).
+
+## Validação de 2026-11-04
+
+Revisão editorial em `dados/revisao/feira-borogodo.md`: fontes reabertas e conferidas; correções de anúncio x fato e paráfrases registradas lá.

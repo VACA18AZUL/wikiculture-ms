@@ -26,3 +26,9 @@
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas na Fundação de Cultura de MS e no Correio do Estado por "Rodrigues e Rodriguinho"/"Rodriguinho": só homônimos (jogador de futebol). A descrição do LP no canal Acervo Digital Memória Fonográfica de MS segue como fonte principal; a matéria do CGN de 2024 cita só um disco de vinil.
+
+## Atualização de 2026-11-04 (r9)
+
+Fonte nova, aberta e lida (API do O Estado MS, busca "Rodrigues e Rodriguinho"): coluna "Música caipira e patrimônio cultural", *O Estado Online*, 4 out. 2026 (assinatura da página: O Estado Online; o autor fala em primeira pessoa de sua pesquisa de mestrado na USP e doutorado na Unesp). Cita Rodrigues e Rodriguinho como dupla caipira de dois irmãos, ligada à história de Beth e Betinha. Veículo independente do canal de acervo. O trecho sobre casamentos e separações é vida familiar e ficou fora do verbete. Acrescentado um parágrafo na Trajetória.
+
+Outras buscas sem resultado: Campo Grande News ("Rodrigues e Rodriguinho": só ruído); Google Notícias (só o cantor homônimo do BBB).

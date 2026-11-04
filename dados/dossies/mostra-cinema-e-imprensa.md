@@ -45,3 +45,11 @@ Fonte única por veículo (FCMS). Buscas na Correio do Estado sem resultado sobr
 - O MIS é órgão da FCMS: as três notas são da instituição que promove a mostra; não há fonte independente.
 - Busca de segunda fonte: Correio do Estado (busca interna redireciona para a capa), A Crítica (sem resultado), site do Sindjor-MS (conexão recusada, 502), Brave (429). Nada novo lido.
 - Sugestões: site e redes do Sindjor-MS, Campo Grande News e Midiamax de out. 2016 e abr. 2017, Fenaj.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: Thailla Torres, "De graça, mostra fala sobre a imprensa no cinema e promove debates", *Campo Grande News*, 3 abr. 2017 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/de-graca-mostra-fala-sobre-a-imprensa-no-cinema-e-promove-debates), achada pela busca interna do site.
+- Reforça: mostra no MIS, debates com jornalistas convidados pelo Sindjor-MS, abertura em 3 abr. 2017 com *O Mensageiro*, *Ausência de Malícia* e *Veronica Guerin* na programação.
+- Acrescentado: programação dia a dia (inclui *Faces da Verdade* e *Conspiração e Poder*); gratuidade.
+- Divergência registrada no verbete: o CGN chama a edição de 2017 de "3ª"; a FCMS, de "segunda" (e diz que 2016 foi a primeira vez no MIS). O CGN grafa o diretor de *O Mensageiro* como "Michael Costa"; o verbete mantém Michael Cuesta, da FCMS.
+- Sem resultado: API do *O Estado MS*, RSS do Google Notícias; site do Sindjor-MS bloqueado pelo proxy.

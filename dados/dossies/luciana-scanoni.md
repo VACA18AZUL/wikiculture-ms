@@ -26,3 +26,7 @@ Fora do verbete: telefone e relação religiosa ("festeira") citados em oe2026; 
 ## Lacunas
 
 - Ano de *Banho de São João* diverge entre fontes (ver verbete da obra). Data e dia exato da palestra de 2023 não conferidos (festival de 29/06 a 01/07/2023).
+
+## Validação de 2026-11-04
+
+Revisão editorial em `dados/revisao/luciana-scanoni.md`: fontes reabertas e conferidas; correções de anúncio x fato e paráfrases registradas lá.

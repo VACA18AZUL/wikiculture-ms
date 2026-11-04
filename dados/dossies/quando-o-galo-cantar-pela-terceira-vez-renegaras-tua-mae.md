@@ -22,3 +22,7 @@
 - Data do Papo de Cinema: a página não traz data legível no HTML; as imagens são nomeadas 20171123. Mantida a data já usada em aaron-salles-torres.
 - Resultado no Festival do Vale do Ivinhema não verificado. Sem link oficial para assistir.
 - aaron-salles-torres cita o filme sem [[link]] em Cinema/Filmografia; vale trocar pelo link para este verbete.
+
+## Validação de 2026-11-04
+
+Revisão editorial em `dados/revisao/quando-o-galo-cantar-pela-terceira-vez-renegaras-tua-mae.md`: fontes reabertas e conferidas; correções de anúncio x fato e paráfrases registradas lá.
