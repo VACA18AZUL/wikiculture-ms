@@ -48,3 +48,7 @@ Entraram trajetória discográfica, integrantes e dados de Douradense. Ficou for
 - Frase da digitalização reescrita.
 - Nomes civis de Sulino e Amarito, primeiro LP, cidade do trio. Faixas conferidas pelos títulos dos vídeos (gêneros e autores batem com o verbete).
 - Wikipédia pt: sem artigo sobre o verbete.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Sem fonte nova. Tentativas, todas sem resultado útil: busca do portal da Fundação de Cultura de MS por "Sulino", "Douradense acordeonista", "Eugênio Ceccato", "Quebradas da Noite"; busca do Correio do Estado por "Sulino Amarito", "Eugênio Ceccato", "acordeonista Douradense morre", "Sulino e Marrueiro" (só homônimos: "douradense" como gentílico); BDTD (Ibict) por "Douradense acordeonista chamamé", "Eugênio Ceccato", "Sulino Amarito sertaneja" (nenhum resultado relevante); Discogs devolveu desafio de verificação (403), não acessado; MusicBrainz e Wikipédia pt não trazem o grupo. Verbete segue apoiado só nas descrições do canal Memória Fonográfica de MS.

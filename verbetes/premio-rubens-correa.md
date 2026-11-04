@@ -21,14 +21,12 @@ Na própria FCMS, o lançamento dos editais, em 14 de dezembro de 2015, trouxe o
 
 ## Projetos contemplados
 
-Textos da FCMS e de seus parceiros identificam projetos contemplados em edições do prêmio:
-
 - Edição 2013: o espetáculo *Histórias do Meu Quintal*, do [[grupo-teatral-unicornio|Grupo Teatral Unicórnio]], apresentado no MARCO em janeiro de 2016.[^fcms2016b]
 - Edição 2014: *A Tragicomédia de Dom Cristóvão e Sinhá Rosinha*, do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]], em circulação por Campo Grande a partir de maio de 2015.[^fcms2015b]
 - Edição 2016: *João e o Pé de Feijão na Terra do Nunca*, do [[circo-do-mato|Circo do Mato]], em março de 2017, e *Tire-me Daqui*, do grupo Avatz, parte do projeto *Entre Fronteiras*, em Dourados, em junho de 2017.[^fcms2017b][^fcms2017c]
 - Edição 2015/2016: o projeto *A Revolução*, do [[teatral-grupo-de-risco|Teatral Grupo de Risco]], cujo espetáculo *Revolução* estreou em agosto de 2017.[^fcms2017d]
 
-A FCMS usa "2016" para alguns contemplados e "2015/2016" para outro; as notas não dizem se se trata da mesma edição.[^fcms2017b][^fcms2017d]
+Nos textos da FCMS, o prêmio aparece como "2016" para *João e o Pé de Feijão na Terra do Nunca* e *Tire-me Daqui* e como "2015/2016" para *A Revolução*.[^fcms2017b][^fcms2017c][^fcms2017d]
 
 [^cgn2014]: Elverson Cardozo, ["Completando 10 anos em 2014, Circo do Mato apresenta espetáculo inédito"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/completando-10-anos-em-2014-circo-do-mato-apresenta-espetaculo-inedito), *Campo Grande News*, 19 mar. 2014. Acesso em 4 nov. 2026.
 [^cgn2015]: Naiane Mesquita, ["Secretaria de Cultura lança editais de R$ 7 milhões para fechar bem um ano magro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/secretaria-de-cultura-lanca-editais-de-rs-7-milhoes-para-fechar-bem-um-ano-magro), *Campo Grande News*, 13 dez. 2015. Acesso em 4 nov. 2026.
