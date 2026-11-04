@@ -31,7 +31,7 @@ O histórico da ASL registra que ele foi eleito presidente em 11 de fevereiro de
 
 ## Homenagens
 
-Em 2004, seu nome foi dado à Faculdade de Comunicação, Artes e Letras (FACALE) da UFGD; em 2009, a universidade adquiriu sua biblioteca, com mais de oito mil títulos. Recebeu o título de doutor *honoris causa* do Centro Universitário da Grande Dourados (Unigran), em 2005, e o de Cidadão Sul-Mato-Grossense, da Assembleia Legislativa, em 2006.[^silva2017]
+Em 2004, seu nome foi dado à Faculdade de Comunicação, Artes e Letras (FACALE) da UFGD; em 2009, a mesma universidade comprou o acervo de livros dele, de mais de 8 mil títulos. Recebeu o título de doutor *honoris causa* do Centro Universitário da Grande Dourados (Unigran), em 2005, e o de Cidadão Sul-Mato-Grossense, da Assembleia Legislativa, em 2006.[^silva2017]
 
 ## Publicações
 
