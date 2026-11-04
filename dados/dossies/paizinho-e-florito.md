@@ -37,3 +37,7 @@ Buscas abertas por "Paizinho e Florito"/"Paizinho & Florito", Discos CGS e Omil 
 ## Atualização de 2026-11-04 (r3-2)
 
 Sem fonte nova. Buscas feitas: Brave ("Paizinho e Florito" dupla música de raiz MS): sem resultado sobre a dupla (só Matogrosso & Mathias e playlists); FCMS (?s=Omil e Ozeias): sem resultado. Fonte única continua sendo a descrição do Acervo Digital Memória Fonográfica de MS. Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Paizinho e Florito"): ruído, mais duas matérias abertas sem a dupla (prêmio da Assembleia de 2010 cita Florito como parceiro de Ivo de Souza; colecionador Plínio cita "Acir e Florito", outra dupla); API do O Estado ("Paizinho", "Florito") e RSS do Google Notícias ("Paizinho e Florito", Paizinho Florito): sem resultado. Pista: "Acir e Florito" e Ivo de Souza podem envolver o mesmo Florito; sem fonte, nada entra.

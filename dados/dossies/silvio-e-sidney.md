@@ -30,3 +30,7 @@ Segunda fonte: não encontrada. Busca aberta com "Mensageiros de Mato Grosso" e 
 ## Atualização de 2026-11-04 (r3-1)
 
 Tentativa de reforço sem fonte nova. Buscas na Fundação de Cultura de MS e no Correio do Estado por "Silvio e Sidney": nada. Fonte única continua a descrição do LP no canal Acervo Digital Memória Fonográfica de MS. Pistas: Itaú Cultural (403 ao fetch), Dourados Agora, Discogs.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Silvio e Sidney"), API do O Estado e RSS do Google Notícias ("Silvio e Sidney" Dourados): sem resultado pertinente.

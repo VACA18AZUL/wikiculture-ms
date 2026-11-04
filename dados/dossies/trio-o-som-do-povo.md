@@ -49,3 +49,7 @@ Fonte única (as duas descrições são do mesmo canal). Sem segunda fonte indep
 ## Atualização de 2026-11-04 (r5-1)
 
 Sem fonte nova. Tentativas, todas sem resultado sobre o trio, Arizito ou o Studio Musi Art: API da Fundação de Cultura de MS (termos "Trio Som do Povo", "Arizito", "Itaquiraí chamamé", "Musi Art"), Agência de Notícias do Governo de MS, busca do Correio do Estado (Trio Som do Povo, Arizito, Studio Musi Art, Dudu Mota/Tião Correia), A Crítica (?s=), BDTD (Itaquiraí música regional: nenhum registro). Brave devolveu 429; DuckDuckGo e Bing não servem. Prefeitura de Itaquiraí e Naviraí Online não abriram (reset/502). Continua com fonte única (duas descrições do mesmo canal). Sugestão: Instagram/Facebook do trio, programação de festivais de chamamé de Itaquiraí/Naviraí, jornais locais impressos.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Som do Povo Itaquiraí", "Arizito"), API do O Estado ("Itaquiraí trio") e RSS do Google Notícias ("Som do Povo" Itaquiraí): sem resultado pertinente.
