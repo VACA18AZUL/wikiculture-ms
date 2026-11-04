@@ -13,10 +13,10 @@ links:
     url: https://videoindiobrasil.blogspot.com/
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-O **Vídeo Índio Brasil** foi um festival de cinema de temática indígena, com mostras, debates e oficinas, realizado a partir de 2008 em Campo Grande e em outros pontos de Mato Grosso do Sul.[^blog]
+O **Vídeo Índio Brasil** foi um festival de cinema de temática indígena, com mostras, debates e oficinas, realizado a partir de 2008 em Campo Grande e em outros pontos de Mato Grosso do Sul.[^blog][^tese]
 
 ## Edições
 

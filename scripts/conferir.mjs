@@ -52,6 +52,7 @@ for (const arquivo of arquivos) {
       if (!tipo || !endereco) continue; // o build acusa campos ausentes
       if (tipo === 'outro' && !campo('rotulo')) avisos.push(`${arquivo}: link do tipo "outro" sem rotulo -> ${endereco}`);
       if (!campo('acesso')) erros.push(`${arquivo}: link ${endereco} sem data de acesso`);
+      if (!endereco.startsWith('https://')) erros.push(`${arquivo}: link da ficha sem https (o build recusa) -> ${endereco}`);
       if (tipo === 'video') {
         if (!dominioAceito(endereco, DOMINIOS_MIDIA)) erros.push(`${arquivo}: link do tipo "video" fora das plataformas de vídeo -> ${endereco}`);
         videos.push(endereco);

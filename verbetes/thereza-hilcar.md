@@ -15,11 +15,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Nasceu em Lagoa da Prata, Minas Gerais, em 1957, e mudou-se para Campo Grande em 1980. Começou no jornalismo como apresentadora de telejornal na TV Campo Grande e trabalhou depois em jornais, revistas e na TV Caiuás. Em 1989 passou a escrever reportagens para o caderno de cultura do *Correio do Estado*, onde publicou a primeira crônica em 1990; a coluna passou então a sair às terças-feiras. Em 2003 estreou o programa *Conversa de Domingo* na TV Educativa.[^asl]
+Nasceu em Lagoa da Prata, Minas Gerais, em 1957, e mudou-se para Campo Grande em 1980. Começou no jornalismo como apresentadora de telejornal na TV Campo Grande e trabalhou depois em jornais, revistas e na TV Caiuás. Depois de ajudar a criar o jornal *Executivo News*, em 1989, passou a escrever reportagens para o caderno de cultura do *Correio do Estado*, onde publicou a primeira crônica em 1990; a coluna passou então a sair às terças-feiras. Em 2003 estreou o programa *Conversa de Domingo* na TV Educativa.[^asl]
 
-Foi eleita para a ASL em 16 de maio de 2006 e tomou posse em 24 de julho daquele ano, saudada por Maria da Glória Sá Rosa. A página da Academia a dá como ocupante da cadeira 6 e cita Henedina Hugo Rodrigues como antecessora, embora o trecho sobre a antecessora fale em "Cadeira 02".[^asl]
+Foi eleita para a ASL em 16 de maio de 2006 e tomou posse em 24 de julho daquele ano, saudada por [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]]. A página da Academia a dá como ocupante da cadeira 6 e cita Henedina Hugo Rodrigues como antecessora, embora o trecho sobre a antecessora fale em "Cadeira 02".[^asl]
 
-Tomou posse na ASL em 2006 e ocupa a cadeira número 6, cuja antecessora foi Henedina Hugo Rodrigues. A professora [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] fez o discurso de saudação, publicado em 29 de julho de 2006.[^carlos2023]
+A dissertação de Adriana Carlos registra a mesma cadeira e a mesma antecessora, e data de 29 de julho de 2006 a publicação do discurso de saudação de Sá Rosa.[^carlos2023]
 
 Escreveu crônicas semanais no caderno temático "Correio B", do jornal *Correio do Estado*, ao lado de Sá Rosa, de [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] e de Abílio Leite de Barros.[^carlos2023]
 

@@ -17,7 +17,7 @@ links:
     acesso: 2026-10-29
   - tipo: outro
     rotulo: Texto completo no Repositório Institucional da UnB
-    url: http://repositorio.unb.br/bitstream/10482/3753/1/2007_NaineTerenadeJesus.PDF
+    url: https://repositorio.unb.br/bitstream/10482/3753/1/2007_NaineTerenadeJesus.PDF
     acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
@@ -38,5 +38,5 @@ A dissertação tem cinco capítulos: os Terena, a aldeia Limão Verde, a dança
 Não confundir com o curta de ficção *Kohixoti Kipaé* (Dança da Ema), feito em 2009 na Oficina Itinerante de Vídeo Tela Brasil, com colaboração de Sidney de Albuquerque.[^correa]
 
 [^bdtd]: Naine Terena de Jesus, ["Kohixoti-kipáe, a dança da ema: memória, resistência e cotidiano Terena"](https://bdtd.ibict.br/vufind/Record/UNB_a0716fb714f3ec377d9ecff7db04d8fa/Details), dissertação (Mestrado em Artes), Universidade de Brasília, 2007, 132 f., registro na *Biblioteca Digital Brasileira de Teses e Dissertações* (BDTD/Ibict). Acesso em 29 out. 2026.
-[^naine]: Naine Terena de Jesus, [*Kohixoti-kipáe, a dança da ema: memória, resistência e cotidiano Terena*](http://repositorio.unb.br/bitstream/10482/3753/1/2007_NaineTerenadeJesus.PDF), dissertação de mestrado em Artes, Universidade de Brasília, 2007, p. 9-11 e 68. Acesso em 4 nov. 2026.
+[^naine]: Naine Terena de Jesus, [*Kohixoti-kipáe, a dança da ema: memória, resistência e cotidiano Terena*](https://repositorio.unb.br/bitstream/10482/3753/1/2007_NaineTerenadeJesus.PDF), dissertação de mestrado em Artes, Universidade de Brasília, 2007, p. 9-11 e 68. Acesso em 4 nov. 2026.
 [^correa]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, UFGD, 2023, p. 155. Acesso em 4 nov. 2026.

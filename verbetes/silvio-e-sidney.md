@@ -7,7 +7,7 @@ resumo: Dupla sertaneja que começou a carreira profissional em Dourados e gravo
 ficha:
   Atividade: Música sertaneja
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Silvio e Sidney** é uma dupla sertaneja de Mato Grosso do Sul que iniciou a carreira profissional em Dourados.[^lp]
@@ -20,11 +20,11 @@ O LP de 1991 saiu pelo selo Cancan Discos. A descrição cita a direção geral 
 
 ## Discografia
 
-- *Em Algum Lugar do Passado* (1991) — LP, selo Cancan Discos; 10 faixas, entre elas "Em Algum Lugar do Passado", "Eu e Você", "O Caminhão e a Viola" e "Lambando Gostoso". Os gêneros indicados nas faixas vão do balanço ao chamamé, do country à canção rancheira.[^lp] [Ouvir no YouTube (Acervo Digital Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLJCnMna2Fvnw)
+- *Em Algum Lugar do Passado* (1991) — LP, selo Cancan Discos; 10 faixas, entre elas "Em Algum Lugar do Passado", "Eu e Você", "O Caminhão e a Viola" e "Lambando Gostoso". Os gêneros indicados nos títulos das faixas são balanço, canção rancheira, chamamé, country, lambada e xote.[^lp] [Ouvir no YouTube (Acervo Digital Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLJCnMna2Fvnw)
 - Trabalho de 1985 como Silvio, Sidney e Serginho, sob o nome Os Mensageiros de Mato Grosso; título e faixas não constam nas fontes lidas.[^lp]
 
 ## Lacunas
 
 As fontes lidas não trazem sobrenomes, datas de formação ou fim da dupla, nem informam onde o LP foi gravado.[^lp]
 
-[^lp]: ["Silvio e Sidney - Em Algum Lugar do Passado LP - 1991"](https://www.youtube.com/playlist?list=PLJCnMna2Fvnw), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 29 out. 2026.
+[^lp]: ["Silvio e Sidney - Em Algum Lugar do Passado LP - 1991"](https://www.youtube.com/playlist?list=PLJCnMna2Fvnw), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 4 nov. 2026.

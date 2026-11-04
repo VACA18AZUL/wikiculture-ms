@@ -8,6 +8,8 @@ Data: 2026-11-04 (validação, tag val-1)
 - Acervo Sarah Figueiró, página dos festivais: ok. Lista 1993, 1994 e 1996 (com botão "carregar mais").
 - Mariana Piell, *Correio do Estado*, 4 jun. 2026: ok. Confirma Sarah como primeira presidente, 13 anos consecutivos de festivais, grupos de várias regiões (entre eles Grupo Ginga e Nós da Dança), digitalização exclusiva do acervo da ASMPD com registros administrativos.
 
+- *Revista do X Festival Sul-Mato-Grossense de Dança*, 1994 (PDF escaneado, lido como imagem; aberto na revisão de sarah-abussafi-figueiro): p. 9 diz que a associação foi "fundada em 13 de janeiro de 1980"; p. 8, texto de Sarah, diz que ela assumiu a diretoria nessa data.
+
 ## Problemas achados
 
 - Seção "Divergências" registrava a data de fundação, mas só há uma versão (não é divergência); a ficha remetia a ela.
@@ -15,7 +17,7 @@ Data: 2026-11-04 (validação, tag val-1)
 
 ## Correções
 
-- Ficha: `Fundação: "31 de março de 1980"`. Item de data removido de Divergências (a seção continua com o nome).
+- Primeiro a data parecia ter uma só versão; a revista de 1994 trouxe outra (13/1/1980). A seção Divergências passou a registrar as duas datas, com a nota nova `revista1994`, e as grafias do nome na revista. Ficha: `Fundação: "1980 (31 de março ou 13 de janeiro; ver divergências)"`.
 - Frase dos grupos ajustada ao texto da fonte. `atualizado` para 2026-11-04.
 
 ## Observação

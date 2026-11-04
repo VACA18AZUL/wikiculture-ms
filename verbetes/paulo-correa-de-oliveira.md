@@ -9,7 +9,7 @@ ficha:
   Atividade: Arquitetura, magistério, dramaturgia e direção teatral
   Grupos: "[[grupo-teatral-do-cera|Grupo Teatral do CERA]]; [[grupo-bataclan|Grupo Bataclã]]"
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Paulo Corrêa de Oliveira** é um arquiteto, professor e dramaturgo nascido em Aquidauana, idealizador e responsável pelo [[grupo-teatral-do-cera|Grupo Teatral do CERA]].[^ziliani]
@@ -22,7 +22,7 @@ Escreveu e dirigiu as peças do grupo teatral da escola. Segundo Ziliani, só n�
 
 Outra fonte, o artigo de Fabricio Moser, atribui a ele a fundação do [[grupo-bataclan|Grupo Bataclã]] em 1976, formado por 18 profissionais liberais e que usava música e dublagem como linguagem. Moser diz que o grupo se apresentou em Aquidauana, em outras cidades do estado e do país. Ele resume as propostas de Oliveira com o CERA como atividades cênicas integradas à vida social da cidade, com peças baseadas na realidade sul-mato-grossense. As duas informações vêm de relato indireto, a partir do texto de Maria da Glória Sá Rosa.[^moser]
 
-Oliveira deu depoimento sobre seu trabalho no livro *Memória da arte em Mato Grosso do Sul: histórias de vida* (1992), segundo as referências de Ziliani e o texto de Moser.[^moser]
+Oliveira deu depoimento sobre seu trabalho no livro *Memória da arte em Mato Grosso do Sul: histórias de vida* (1992), organizado por Maria da Glória Sá Rosa, segundo as referências de Ziliani.[^ziliani] Moser também cita o livro como base do seu relato.[^moser]
 
 ## Obra
 
@@ -50,5 +50,5 @@ Peças de Oliveira encenadas pelo Grupo Teatral do CERA. O ano é o indicado nas
 
 - Rosemeire de Lourdes Monteiro Ziliani, [artigo sobre o Grupo Teatral do CERA](https://periodicos.ufsc.br/index.php/perspectiva/article/download/2175-795X.2016v34n2p717/32797), *Perspectiva*, 2016 — análise dos textos e folders das 19 peças.
 
-[^ziliani]: Rosemeire de Lourdes Monteiro Ziliani, ["Escritos e invenções da experiência do Grupo Teatral do CERA: outros ditos, outros espaços-tempos"](https://periodicos.ufsc.br/index.php/perspectiva/article/download/2175-795X.2016v34n2p717/32797), *Perspectiva*, Florianópolis, v. 34, n. 2, p. 717–737, maio/ago. 2016 (nota 1 e referências, p. 732–735). Acesso em 29 out. 2026.
-[^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), texto publicado no portal da ABRACE, sem data na cópia aberta, p. 1–2 e 5. Acesso em 29 out. 2026.
+[^ziliani]: Rosemeire de Lourdes Monteiro Ziliani, ["Escritos e invenções da experiência do Grupo Teatral do CERA: outros ditos, outros espaços-tempos"](https://periodicos.ufsc.br/index.php/perspectiva/article/download/2175-795X.2016v34n2p717/32797), *Perspectiva*, Florianópolis, v. 34, n. 2, p. 717–737, maio/ago. 2016 (nota 1 e referências, p. 732–735). Acesso em 4 nov. 2026.
+[^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), texto publicado no portal da ABRACE, sem data na cópia aberta, p. 1–2 e 5. Acesso em 4 nov. 2026.

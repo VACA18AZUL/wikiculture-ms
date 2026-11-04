@@ -5,7 +5,7 @@ areas: [danca]
 cidade: Campo Grande
 resumo: Entidade da classe da dança de Campo Grande, fundada em 1980 e presidida por Sarah Abussafi Figueiró, que promoveu treze edições do Festival Sul-Matogrossense de Dança entre 1985 e 1998.
 ficha:
-  Fundação: "31 de março de 1980"
+  Fundação: "1980 (31 de março ou 13 de janeiro; ver divergências)"
   Presidência: Sarah Abussafi Figueiró (1980 a 1998)
 links:
   - tipo: site
@@ -29,8 +29,11 @@ Em 2002, Sarah doou ao Museu da Imagem e do Som (MIS) parte do acervo da associa
 
 ## Divergências
 
-**Nome.** A entidade aparece com grafias diferentes nas fontes consultadas. O Correio do Estado usa "Associação Sul-Mato-Grossense dos Profissionais da Dança".[^correio] No site do acervo, o título da página e o menu dizem "Associação Sul-Mato-Grossense dos Profissionais de Dança", e o texto da página diz "Associação Sul-Matogrossense dos Profissionais da Dança".[^acervo]
+**Data de fundação.** O site do acervo indica 31 de março de 1980.[^acervo] A revista do X Festival Sul-Mato-Grossense de Dança, de 1994, diz que a associação foi fundada em 13 de janeiro de 1980, data em que Sarah diz ter assumido a diretoria pela primeira vez.[^revista1994]
+
+**Nome.** A entidade aparece com grafias diferentes nas fontes consultadas. O Correio do Estado usa "Associação Sul-Mato-Grossense dos Profissionais da Dança".[^correio] No site do acervo, o título da página e o menu dizem "Associação Sul-Mato-Grossense dos Profissionais de Dança", e o texto da página diz "Associação Sul-Matogrossense dos Profissionais da Dança".[^acervo] A revista de 1994 usa "Associação Sul-mato-grossense de Dança" na página da diretoria e "Associação Sul-mato-grossense dos Profissionais de Dança" no texto de Sarah.[^revista1994]
 
 [^acervo]: Acervo Sarah Figueiró, ["Acervo da Associação Sul-Mato-Grossense dos Profissionais de Dança"](https://sarahfigueiro.com.br/acervo/associacao-ms-danca/), sarahfigueiro.com.br. Acesso em 29 out. 2026.
 [^festivais]: Acervo Sarah Figueiró, ["Acervo dos 13 Primeiros Festivais"](https://sarahfigueiro.com.br/acervo/associacao-ms-danca/acervo-dos-13-primeiros-festivais/), sarahfigueiro.com.br. Acesso em 29 out. 2026.
+[^revista1994]: *Revista do X Festival Sul-Mato-Grossense de Dança*, 1994, p. 8 (texto de Sarah Abussafi de Figueiró) e p. 9 ("Associação Sul-Mato-Grossense de Dança") ([PDF](https://sarahfigueiro.com.br/wp-content/uploads/2026/05/1994-X-FESTIVAL-SUL-MATOGROSSENSE-DE-DANCA.pdf)). Acesso em 4 nov. 2026.
 [^correio]: Mariana Piell, ["Acervo digital de Mato Grosso do Sul preserva legado de Sarah Abussafi"](https://correiodoestado.com.br/correio-b/acervo-digital-de-mato-grosso-do-sul-preserva-legado-de-sarah-abussafi/467620/), *Correio do Estado*, 4 jun. 2026. Acesso em 29 out. 2026.

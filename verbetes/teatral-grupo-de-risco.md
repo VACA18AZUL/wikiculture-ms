@@ -8,7 +8,7 @@ ficha:
   Atuação: "35 anos em 2023; 37 anos em 2025 (segundo a imprensa)"
   Sede: Jardim Paulista, Campo Grande (desde 2023)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Teatral Grupo de Risco** (TGR) é um grupo independente de teatro de Campo Grande.[^cgn2023-sede]
@@ -17,7 +17,7 @@ O **Teatral Grupo de Risco** (TGR) é um grupo independente de teatro de Campo G
 
 As matérias consultadas não informam o ano de fundação. Contam o tempo de atuação: 30 anos em 2018,[^cgn2018] 35 anos em 2023[^cgn2023-guardioes] e 37 anos em 2025.[^cgn2025]
 
-Segundo a matéria de abril de 2023, o grupo foi um dos primeiros a ter sede própria e, até 2022, manteve a história no mesmo local. Em 2023 passou a funcionar em um galpão alugado no Jardim Paulista, adaptado como teatro de bolso para cerca de 100 pessoas. Fernanda Kunzler, Yago Garcia e Lú Bigatão falaram à reportagem sobre a mudança. Por ser independente, o grupo se banca com recursos dos integrantes, além de editais.[^cgn2023-sede]
+Segundo a matéria de abril de 2023, o grupo foi um dos primeiros a ter sede própria e, até 2022, manteve a história no mesmo local. Em 2023 passou a funcionar em um galpão alugado no Jardim Paulista, adaptado como teatro de bolso para cerca de 100 pessoas. Fernanda Kunzler, Yago Garcia e Lú Bigatão falaram à reportagem sobre a mudança. Segundo os entrevistados, o grupo é independente e se sustenta com recursos próprios; Fernanda Kunzler disse que há editais, mas nenhum voltado à manutenção de espaços físicos de teatro.[^cgn2023-sede]
 
 A reabertura teve o projeto "Depois do Fim do Mundo", voltado à manutenção das atividades do grupo.[^cgn2023-guardioes]
 
@@ -35,10 +35,10 @@ Em setembro de 2026, o grupo apresentou em escola municipal de Campo Grande uma 
 - *Revolução* — adaptação de *A Revolução na América do Sul*, de Augusto Boal, apresentada no [[sesc-teatro-prosa|Sesc Teatro Prosa]] em 10 de julho de 2026.[^acritica-revolucao]
 - *Do Jeito que é Hoje em Dia* (adaptação de Virginia Menezes), *Circo do Absurdo* (Ewerton Goulart) e *Impróbitos* (Rodrigo Amém) — integram o repertório de sete espetáculos da mostra de 2025; a matéria não dá ano nem ficha.[^cgn2025]
 
-[^cgn2018]: ["Teatral Grupo de Risco comemora 30 anos com apresentações em feiras livres"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/teatral-grupo-de-risco-comemora-30-anos-com-apresentacoes-em-feiras-livres), *Campo Grande News*, 24 fev. 2018. Acesso em 29 out. 2026.
-[^cgn2022]: ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 29 out. 2026.
-[^cgn2023-sede]: ["Após 35 anos, grupo transforma galpão em teatro na periferia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/apos-35-anos-grupo-transforma-galpao-em-teatro-na-periferia), *Campo Grande News*, 26 abr. 2023. Acesso em 29 out. 2026.
-[^cgn2023-guardioes]: ["Espetáculo gratuito mostra dores de um Pantanal contemporâneo"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-gratuito-mostra-dores-de-um-pantanal-contemporaneo), *Campo Grande News*, 25 abr. 2023. Acesso em 29 out. 2026.
-[^cgn2025]: ["Espetáculos gratuitos iniciam hoje e celebram 37 anos do Grupo de Risco"](https://www.campograndenews.com.br/lado-b/diversao/espetaculos-gratuitos-iniciam-hoje-e-celebram-37-anos-do-grupo-de-risco), *Campo Grande News*, 24 nov. 2025. Acesso em 29 out. 2026.
+[^cgn2018]: Ângela Kempfer, ["Teatral Grupo de Risco comemora 30 anos com apresentações em feiras livres"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/teatral-grupo-de-risco-comemora-30-anos-com-apresentacoes-em-feiras-livres), *Campo Grande News*, 24 fev. 2018. Acesso em 29 out. 2026.
+[^cgn2022]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 29 out. 2026.
+[^cgn2023-sede]: Aletheya Alves, ["Após 35 anos, grupo transforma galpão em teatro na periferia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/apos-35-anos-grupo-transforma-galpao-em-teatro-na-periferia), *Campo Grande News*, 26 abr. 2023. Acesso em 29 out. 2026.
+[^cgn2023-guardioes]: Thailla Torres, ["Espetáculo gratuito mostra dores de um Pantanal contemporâneo"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-gratuito-mostra-dores-de-um-pantanal-contemporaneo), *Campo Grande News*, 25 abr. 2023. Acesso em 29 out. 2026.
+[^cgn2025]: Thailla Torres, ["Espetáculos gratuitos iniciam hoje e celebram 37 anos do Grupo de Risco"](https://www.campograndenews.com.br/lado-b/diversao/espetaculos-gratuitos-iniciam-hoje-e-celebram-37-anos-do-grupo-de-risco), *Campo Grande News*, 24 nov. 2025. Acesso em 29 out. 2026.
 [^acritica-revolucao]: ["Sesc Teatro Prosa terá espetáculos gratuitos com teatro e circo para adultos e famílias"](https://acritica.net/cultura/sesc-teatro-prosa-tera-espetaculos-gratuitos-com-teatro-e-circo-para-adultos-e-familias/), *A Crítica de Campo Grande*, 5 jul. 2026. Acesso em 29 out. 2026.
-[^acritica2026]: ["Projeto leva teatro a escolas de MS para discutir violência doméstica com crianças"](https://acritica.net/educacao/projeto-leva-teatro-a-escolas-de-ms-para-discutir-violencia-domestica-com-criancas/), *A Crítica de Campo Grande*, 15 set. 2026. Acesso em 29 out. 2026.
+[^acritica2026]: Breno Kaoru Tanaka, ["Projeto leva teatro a escolas de MS para discutir violência doméstica com crianças"](https://acritica.net/educacao/projeto-leva-teatro-a-escolas-de-ms-para-discutir-violencia-domestica-com-criancas/), *A Crítica de Campo Grande*, 15 set. 2026. Acesso em 29 out. 2026.

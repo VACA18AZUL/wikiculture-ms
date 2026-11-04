@@ -6,18 +6,18 @@ resumo: Artista visual com experiência em pintura, instalação e performance, 
 ficha:
   Atividade: Pintura, instalação e performance
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Ryam Paès** é artista visual com experiência em pintura, instalação e performance.[^cgn]
 
 ## Trajetória
 
-Em 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] o convidou, com outros quatro artistas, a expor e comercializar obras em uma feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os outros convidados foram Mauro Mondine, [[kim-matos|Kim Matos]], [[carlos-vera|Carlos Vera]] e [[fernando-anghinoni|Fernando Anghinoni]].[^cgn]
+Em 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] convidou Ryam Paès e outros quatro artistas a expor e comercializar obras em uma feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os outros convidados foram [[mauro-mondine|Mauro Mondine]], [[kim-matos|Kim Matos]], [[carlos-vera|Carlos Vera]] e [[fernando-anghinoni|Fernando Anghinoni]] (grafado "Anghinone" na reportagem).[^cgn]
 
 ## Obra
 
-Segundo a reportagem, o artista incorpora signos regionais e mescla fauna e flora a elementos sociais ligados à sua vivência.[^cgn]
+Segundo a reportagem, a obra de Ryam Paès incorpora signos regionais e mescla fauna e flora a elementos sociais ligados à sua vivência.[^cgn]
 
 A fonte não informa a cidade do artista.[^cgn]
 

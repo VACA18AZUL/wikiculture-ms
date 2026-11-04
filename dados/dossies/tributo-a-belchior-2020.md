@@ -1,0 +1,22 @@
+# Dossiê: tributo-a-belchior-2020
+
+## Identificação
+
+- Nome: Tributo a Belchior (live de artistas de MS)
+- Tipo: evento
+- Áreas: musica
+- Cidade: Campo Grande (transmissão pelo Facebook)
+
+## Fontes abertas
+
+| id da nota | Referência completa | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| cgn | Raul Delvizio, "Artistas de MS fazem tributo a Belchior nesta segunda", Campo Grande News, 26 out. 2020 | https://www.campograndenews.com.br/lado-b/diversao/artistas-de-ms-fazem-tributo-a-belchior-nesta-segunda | imprensa | sim |
+
+## Atualização de 2026-11-04
+
+Revisão e busca de segunda fonte (agente val-5):
+
+- Segunda fonte não encontrada: nenhum outro verbete ou dossiê do repositório cita o evento ou Simona Oliveira, e a cota de busca aberta da rodada acabou. A transmissão no Facebook do organizador seria registro primário, mas é perfil pessoal e não foi aberta.
+- Correções: autoria da nota (Raul Delvizio); campo da ficha "Primeira edição" virou "Data" (a fonte não fala em edições); verbos passados para o que a matéria anuncia (é do dia da live).
+- Resultado: continua com fonte única.

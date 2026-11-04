@@ -7,7 +7,7 @@ resumo: "Escritor, advogado e professor, autor de livros de memórias sobre Coru
 ficha:
   Atividade: Escrita, advocacia e magistério
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Renato Báez** é um escritor, advogado e professor ligado a Corumbá, autor de livros de memórias sobre a cidade.[^raido2008]
@@ -20,4 +20,4 @@ Segundo o artigo de Paulo Bungart Neto, a obra alterna poemas e textos em prosa 
 
 O mesmo artigo informa que Báez publicou, no mesmo gênero, o volume *Corumbá: reminiscências e impressões*. As fontes lidas não trazem ano nem editora dessa obra.[^raido2008]
 
-[^raido2008]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do Estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, jan./jun. 2008, p. 80-83. Acesso em 29 out. 2026.
+[^raido2008]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do Estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, jan./jun. 2008, p. 80-83. Acesso em 4 nov. 2026.

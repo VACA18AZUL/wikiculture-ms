@@ -3,20 +3,20 @@ titulo: Therra
 tipo: grupo
 areas: [musica]
 cidade: Campo Grande
-resumo: Grupo campo-grandense dos anos 1970 e 1980 que se aproximou da música andina e participou do festival e do LP Prata da Casa.
+resumo: Grupo campo-grandense ligado à música andina, que participou do LP Prata da Casa, gravado ao vivo em 1982, e deixou o 2º FESSUL, em 1980, em protesto.
 ficha:
   Integrantes: Carlos Colman (citado)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Therra** foi um conjunto de Campo Grande ligado à música andina, citado em estudos sobre a música de Mato Grosso do Sul.[^ufms]
 
 ## Trajetória
 
-Segundo a dissertação de Gonçalves, o Therra foi um exemplo de conjunto campo-grandense que flertou com a música andina de maneira ainda mais profunda do que outros artistas. Essa influência é detectada nos trabalhos do começo dos anos 1970 ao início dos anos 1980.[^ufms] O estudo cita, a partir de José Octávio Guizzo, que a passagem por Campo Grande de grupos como o chileno Água e o Tarancón influenciou o Therra, os irmãos Espíndola e Almir Sater.[^ufms]
+Segundo a dissertação de Gonçalves, o Therra foi um exemplo de conjunto campo-grandense que flertou com a música andina de maneira ainda mais profunda do que outros artistas. Para o autor, a influência andina aparece com mais clareza nos trabalhos dessa geração de compositores do começo dos anos 1970 ao início dos anos 1980.[^ufms] O estudo cita, a partir de José Octávio Guizzo, que a passagem por Campo Grande de grupos como o chileno Água e o Tarancón influenciou o Therra, os irmãos Espíndola e Almir Sater.[^ufms]
 
-O grupo participou do disco [[prata-da-casa-lp-1982|*Prata da Casa*]], junto com [[almir-sater|Almir Sater]], [[tete-espindola|Tetê Espíndola]], [[paulo-simoes|Paulo Simões]], [[guilherme-rondon|Guilherme Rondon]] e [[grupo-acaba|Grupo Acaba]], entre outros.[^ufms]
+O grupo participou do disco [[prata-da-casa-lp-1982|*Prata da Casa*]], gravado ao vivo em 1982, junto com [[almir-sater|Almir Sater]], [[tete-espindola|Tetê Espíndola]], [[paulo-simoes|Paulo Simões]], [[guilherme-rondon|Guilherme Rondon]] e [[grupo-acaba|Grupo Acaba]], entre outros.[^ufms]
 
 ## Festival
 

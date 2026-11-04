@@ -14,7 +14,7 @@ links:
     url: https://pt.wikipedia.org/wiki/S%C3%A9rgio_Medeiros
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Sérgio Medeiros** é um poeta, ensaísta e tradutor natural de Bela Vista, Mato Grosso do Sul, que vive em Santa Catarina e é professor da Universidade Federal de Santa Catarina (UFSC).[^fronteiraz]
@@ -30,8 +30,8 @@ Tem mestrado e doutorado em Letras pela Universidade de São Paulo e estágio de
 Os estudos sobre sua poesia a descrevem como visual e ligada à cultura ameríndia, com atenção ao animismo; em seus poemas aparecem folhas, galhos, rios e animais como protagonistas.[^fronteiraz] Entre os livros citados nas fontes lidas:[^nd]
 
 - *Mais ou menos do que dois* (2001), seu livro de estreia.[^nd]
-- *O sexo vegetal* (2009), finalista dos prêmios Jabuti e Portugal Telecom; ganhou edição em inglês, *Vegetal Sex*, em Nova Orleans, em 2010.[^nd][^ufsc]
-- *Figurantes* (2011), indicado ao Prêmio Portugal Telecom de Literatura em 2012.[^nd]
+- *O sexo vegetal*, seu terceiro livro, pela Iluminuras. Segundo o *ND Online*, foi finalista dos prêmios Jabuti e Portugal Telecom em 2009.[^nd] O resumo biográfico da *Travessia* fala em finalista do Jabuti 2010 e semifinalista do Portugal Telecom 2010, sem dizer o livro.[^ufsc] Ganhou tradução completa em inglês, *Vegetal Sex*, pela Uno Press, em Nova Orleans, em 2010.[^ufsc]
+- *Figurantes* (2011), pela Iluminuras, indicado ao Prêmio Portugal Telecom de Literatura em 2012.[^fronteiraz][^nd]
 - *A idolatria poética ou a febre de imagens*, publicado pela Iluminuras, vencedor do Prêmio Literário Biblioteca Nacional de 2017 na categoria Poesia.[^mf]
 
 Como tradutor, verteu para o português o *Popol Vuh*, publicado pela Iluminuras em 2007 e finalista do Prêmio Jabuti de 2008.[^ufsc]

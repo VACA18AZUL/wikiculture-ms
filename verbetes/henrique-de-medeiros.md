@@ -2,7 +2,7 @@
 titulo: Henrique de Medeiros
 tipo: pessoa
 areas: [literatura]
-resumo: Henrique Alberto de Medeiros Filho, que presidiu a Academia Sul-Mato-Grossense de Letras por nove anos, até a posse de Pedro Chaves, em outubro de 2026.
+resumo: Henrique Alberto de Medeiros Filho presidiu a Academia Sul-Mato-Grossense de Letras por nove anos; em outubro de 2026, Pedro Chaves foi eleito para sucedê-lo.
 ficha:
   Nome completo: Henrique Alberto de Medeiros Filho
   Cargo: Presidente da Academia Sul-Mato-Grossense de Letras (por nove anos, até out. 2026)
@@ -20,7 +20,7 @@ Em agosto de 2026, entregou diploma e colar ao escritor [[andre-alvez|André Alv
 
 Também é citado como presidente nas notícias dos concursos da ASL em 2026: o [[concurso-ulysses-serra|Concurso de Contos Ulysses Serra]] e o [[oliva-enciso|Concurso de Poesias Oliva Enciso]].[^acritica-ulysses][^acritica-enciso] Em outubro de 2026, falou sobre a sessão do clube de leitura "Leituras & Conversas" dedicada ao escritor Elias Borges.[^acritica-clube]
 
-No início de outubro de 2026, a ASL elegeu o escritor Pedro Chaves dos Santos Filho para sucedê-lo na presidência, com mandato até 2029. A posse da nova diretoria foi marcada para 30 de outubro de 2026, data dos 55 anos da Academia.[^acritica-posse]
+No início de outubro de 2026, a ASL elegeu o escritor [[pedro-chaves|Pedro Chaves dos Santos Filho]] para sucedê-lo na presidência, com mandato até 2029. A posse da nova diretoria foi marcada para 30 de outubro de 2026, data dos 55 anos da Academia.[^acritica-posse]
 
 ## Poemas
 
