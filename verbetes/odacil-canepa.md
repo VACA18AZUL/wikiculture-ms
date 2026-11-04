@@ -3,7 +3,7 @@ titulo: Odacil Cânepa
 tipo: pessoa
 areas: [audiovisual, literatura]
 cidade: Aquidauana
-resumo: Jornalista e escritor nascido em Aquidauana, radicado em Brasília. Dirigiu e roteirizou um documentário sobre a Retirada da Laguna e publicou em 2024 o livro infantil "O Jaú que Comeu a Lua – Fábulas Pantaneiras".
+resumo: Jornalista e escritor nascido em Aquidauana, radicado em Brasília. Dirigiu e roteirizou um documentário sobre a Retirada da Laguna e anunciou para novembro de 2024 o lançamento do livro infantil "O Jaú que Comeu a Lua – Fábulas Pantaneiras".
 ficha:
   Atividade: "jornalismo, documentário, literatura infantojuvenil"
 status: rascunho
@@ -14,15 +14,15 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-No início dos anos 2000, quando ainda vivia em Campo Grande, começou a produzir um documentário sobre a Retirada da Laguna, episódio da Guerra do Paraguai narrado por Visconde de Taunay. Escreveu o roteiro a partir do livro de Taunay e dirigiu as gravações em Miranda, Nioaque, Aquidauana, Bela Vista e na fazenda Laguna, no Paraguai. Entre os entrevistados estiveram [[hildebrando-campestrini|Hildebrando Campestrini]] e o escritor Acyr Vargas Guimarães.[^cgn2024]
+No início dos anos 2000, começou a produzir um documentário sobre a Retirada da Laguna, episódio da Guerra do Paraguai narrado por Visconde de Taunay. Escreveu o roteiro a partir do livro de Taunay e dirigiu as gravações em Miranda, Nioaque, Aquidauana, Bela Vista e na fazenda Laguna, no Paraguai. Entre os entrevistados estiveram [[hildebrando-campestrini|Hildebrando Campestrini]] e o escritor Acyr Vargas Guimarães.[^cgn2024]
 
 O filme ficou guardado por mais de uma década. Em junho de 2024, Cânepa anunciou sua exibição na TV Educativa de Mato Grosso do Sul e no Agro Canal, com data ainda a definir.[^cgn2024]
 
-Em novembro de 2024 lançou o livro infantojuvenil *O Jaú que Comeu a Lua – Fábulas Pantaneiras*, ilustrado por Emmanuel Merlotti de Oliveira. A história acompanha o cacique Aruê e o neto Aruá, de uma pequena comunidade guató numa ilha da baía de Uberaba. O autor anunciou a intenção de publicar cinco livros de fábulas pantaneiras.[^ce2024]
+Em novembro de 2024, o *Correio do Estado* anunciou para o dia 28 daquele mês o lançamento, pela Amazon, do livro infantojuvenil *O Jaú que Comeu a Lua – Fábulas Pantaneiras*, de Cânepa, com ilustrações de Emmanuel Merlotti de Oliveira. A história acompanha o cacique Aruê e o neto Aruá, de uma pequena comunidade guató numa ilha da baía de Uberaba. O autor anunciou a intenção de publicar cinco livros de fábulas pantaneiras.[^ce2024]
 
 ## Obras
 
-- *O Jaú que Comeu a Lua – Fábulas Pantaneiras* (2024) — livro infantojuvenil.[^ce2024]
+- *O Jaú que Comeu a Lua – Fábulas Pantaneiras* (lançamento anunciado para 28 nov. 2024) — livro infantojuvenil.[^ce2024]
 
 ## Filmografia
 

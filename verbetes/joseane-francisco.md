@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-É autora do livro *Vozes em mim* e de um capítulo acadêmico sobre fraseologismos no conto "Capitoa", de [[helio-serejo|Hélio Serejo]]. Integra o [[mulherio-das-letras-ms|Mulherio das Letras]] e foi anunciada no Sábado Literário "Vozes femininas da Literatura em MS", na [[biblioteca-publica-estadual-dr-isaias-paim|Biblioteca Isaías Paim]], em março de 2022, com [[tania-souza|Tânia Souza]], [[diana-pilatti|Diana Pilatti]] e [[adrianna-alberti|Adrianna Alberti]].[^fcms2022] Em abril de 2023, foi convidada da mesa "Entre a escrita e o ensino", no evento Escritores-Educadores, na mesma biblioteca.[^fcms2023]
+É autora do livro *Vozes em mim* e de um capítulo acadêmico sobre fraseologismos no conto "Capitoa", de [[helio-serejo|Hélio Serejo]]. Integra o [[mulherio-das-letras-ms|Mulherio das Letras]] e foi anunciada no Sábado Literário "Vozes femininas da Literatura em MS", na [[biblioteca-publica-estadual-dr-isaias-paim|Biblioteca Isaías Paim]], em março de 2022, com [[tania-souza|Tânia Souza]], [[diana-pilatti|Diana Pilatti]] e [[adrianna-alberti|Adrianna Alberti]].[^fcms2022] Em abril de 2023, foi anunciada como convidada da mesa "Entre a escrita e o ensino", marcada para o dia 29 no evento Escritores-Educadores, na mesma biblioteca.[^fcms2023]
 
 Está entre os 32 autores de [[tarja-preta-segunda-dose|*Tarja Preta Segunda Dose*]], antologia do Coletivo Tarja Preta com lançamento marcado para 11 de novembro de 2023.[^cgn2023] Em julho de 2024, participou da roda de conversa "Atravessamentos Poéticos – Mulherio das Letras", no último dia da [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]].[^cgn2024][^fcms2024a]
 
