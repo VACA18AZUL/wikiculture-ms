@@ -25,7 +25,7 @@ Segundo o *Campo Grande News*, o projeto foi contemplado com prêmio da [[funart
 
 A nova montagem teve sessões de 5 a 7 de agosto de 2026 no [[sesc-teatro-prosa|Sesc Teatro Prosa]], como parte das comemorações dos 20 anos da Cia. Ofit e do projeto P.E.S.S.O.A.S., financiado pelo [[fomteatro|FomTeatro]], da [[fundac|Fundação Municipal de Cultura de Campo Grande]].[^ce2026][^critica2026] Parte do elenco foi escolhida no workshop *A Expansão da Palavra em Cena*, realizado em março do mesmo ano.[^critica2026]
 
-## Ficha técnica da montagem de 2026
+## Elenco e equipe da montagem de 2026
 
 - Dramaturgia: [[eder-rodrigues|Éder Rodrigues]][^ce2026]
 - Direção: [[nill-amaral|Nill Amaral]][^ce2026]
