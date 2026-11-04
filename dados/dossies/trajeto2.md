@@ -40,3 +40,4 @@ Observação: as três fontes são do mesmo veículo, mas de autores e anos dife
 ## Atualização de 2026-11-04 (r8)
 
 - Segunda fonte tentada, sem resultado: Google Notícias (banda "Trajeto 2"; Trajeto2 banda Dourados; "Eliezer Rosa"): só Campo Grande News e Dourados News (bloqueado). APIs do O Estado MS, FCMS, A Crítica, RCN67, UFMS, Primeira Página e JD1; busca do Dourados Agora e do O Progresso sem resultado ou fora do ar. Verbete não alterado.
+- Busca na API do RCN67 por "Eliezer Rosa": nota de 23/12/2025 sobre a banda Vokalika (Eliezer Rosa e outros) no Natal Encantado de Dourados, sem menção à Trajeto2; não usada (pode ser homônimo).

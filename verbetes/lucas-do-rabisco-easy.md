@@ -21,7 +21,7 @@ Em outubro de 2025, a [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo
 
 Em agosto de 2026, o mesmo jornal, que o identifica como Lucas Nascimento, o Rabisco Easy, relatou a pintura voluntária de um ponto de ônibus no Jardim Noroeste, em Campo Grande: um cachorro de óculos e fones de ouvido, além da pintura da estrutura e da calçada. Segundo ele, foi o primeiro ponto de ônibus que pintou. A matéria cita ainda murais com músicos como Tim Maia, Zé Ramalho, Jorge Ben e Rita Lee e as pinturas "Caramelo da Copa", na Vila Nasser, e "Torcida Pantaneira".[^oe2026]
 
-Neste verbete, o "Lucas do Rabisco Easy" de 2025 e o Lucas Nascimento que assina Rabisco Easy em 2023 são tratados como a mesma pessoa pelo nome artístico e pela cidade.[^cgn2023][^cgn2025]
+Neste verbete, o "Lucas do Rabisco Easy" de 2025 e o Lucas Nascimento que assina Rabisco Easy em 2023 são tratados como a mesma pessoa pelo nome artístico e pela cidade. Em 2026, o *O Estado MS* liga os dois nomes: Lucas Nascimento, o Rabisco Easy.[^cgn2023][^cgn2025][^oe2026]
 
 [^cgn2023]: Jéssica Fernandes, ["Lucas espalha arte pelo comércio doando painéis de grafite"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/lucas-espalha-arte-pelo-comercio-doando-paineis-de-grafite), *Campo Grande News*, 29 jun. 2023. Acesso em 4 nov. 2026.
 [^cgn2025]: Clayton Neves, ["Artistas do grafite e arte mural participam de encontro cultural"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/artistas-do-grafite-e-arte-mural-participam-de-encontro-cultural), *Campo Grande News*, 26 out. 2025. Acesso em 4 nov. 2026.

@@ -8,6 +8,10 @@ ficha:
   Ano: "1975 (composição)"
   Formato: Canção (guarânia)
   Título original: "Todos os Trilhos da Terra ou Sobre Todos os Trilhos da Terra, conforme a fonte"
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Trem_do_Pantanal_(can%C3%A7%C3%A3o)
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

@@ -38,3 +38,7 @@ Segunda fonte: não encontrada. Busca aberta (Boca de Cena 2024, lona, Ribas do 
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS, comunicados da 15ª Mostra Boca de Cena (14 e 15 maio 2024) lidos; não citam a Família Rodrigues. Correio do Estado: sem resultado. O Estado Online e Campo Grande News seguem como fontes. Nada acrescentado.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News ("Circo Rodrigues", "família circense Ribas do Rio Pardo", "Ligia Rodrigues circo"): sem a família. API do O Estado: abertas as agendas de 2 e 23 ago. 2024 (Circo Astros em Ribas do Rio Pardo; Le Cirque em Campo Grande), sem menção à família Rodrigues. RSS do Google Notícias: só ruído.

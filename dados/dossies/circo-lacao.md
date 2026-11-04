@@ -48,3 +48,7 @@ Fontes novas lidas, todas da Fundação de Cultura de MS (órgão financiador vi
 
 O texto de 14/11 diz que oficinas e apresentações em Dourados e Corumbá "já foram realizadas" (fala de Fran Corona), igual ao CGN; segue sem relato posterior independente.
 Pista: reportagem pós-evento (Correio do Estado, Dourados Agora, Diário Corumbaense).
+
+## Atualização de 2026-11-04 (r9)
+
+Lida O Estado MS, 14 nov. 2023, "Cia Pisando Alto apresenta o espetáculo circense Gran FinaLLe quinta e sexta" (https://oestadoonline.com.br/arte-e-lazer/cia-pisando-alto-apresenta-o-espetaculo-circense-gran-finalle-quinta-e-sexta/): confirma a etapa de Campo Grande (16 e 17 nov., ACA), FIC/FCMS, ficha de Gran FinaLLe e exibições on-line de 1 a 3 dez. Mas o texto termina com "Com informações da assessoria" e repete o release da companhia já usado pelo CGN e pela FCMS: não conta como fonte independente; não acrescentado. Busca CGN (Circo.Lação Pisando Alto): só matérias do próprio CGN. Google Notícias: Midiamax "Campo Grande terá apresentações teatrais e circenses gratuitas" (não aberto; Midiamax dá 403). Pista: imprensa de Dourados e Corumbá (Dourados News, Diário Corumbaense, Correio de Corumbá).

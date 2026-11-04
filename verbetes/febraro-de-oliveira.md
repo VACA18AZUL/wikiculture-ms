@@ -27,6 +27,8 @@ O Teatrine TV informou em 25 nov. 2023 que o livro foi lançado em 17 de novembr
 
 Antes de *Caixa d'água*, Febraro publicou o romance *Uirapuru*, sobre um protagonista LGBTQIA+, Léo, com temas como identidade sexual, gênero, violência policial e abandono.[^cgn2023]
 
+*Uirapuru* foi lançado em 12 de novembro de 2021, no Espaço Refazenda, em Campo Grande, com incentivo do Fundo Municipal de Investimentos Culturais (FMIC) de 2019. Segundo *O Estado de Mato Grosso do Sul*, era o quinto livro e o primeiro romance do autor. O protagonista, Léo, nasce numa rua surgida de uma ocupação e busca entender o que é pertencer. O livro partiu de uma rua real de Campo Grande, sobre a qual o autor ouviu moradores, e levou cinco anos, dois de estudo e três de escrita.[^oestado2021]
+
 ## Teatro
 
 Assina a dramaturgia de *Eu Vou Dançar Seu Ódio!*, solo de [[andre-tristao|André Tristão]] que mistura teatro, dança e performance, com direção artística de Rafaela Sahyoun e direção de movimento de Jussara Miller. A estreia foi marcada para 22 de setembro de 2026, com duas sessões no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande, e outra em 25 de setembro, no Sesc Teatro Prosa.[^cgntristao]
@@ -40,3 +42,4 @@ A página da reportagem traz a data de 27 de novembro de 2022 no corpo do texto,
 [^aboio]: Grupo Aboio, ["#2 Berrante: recomendação de Mariana Carrara, Prêmio Caio Fernando de Abreu e pássaros inteligentes"](https://aboio.substack.com/p/2-berrante-recomendacao-de-mariana), boletim *Berrante*, 27 jun. 2022. Acesso em 4 nov. 2026.
 [^teatrine]: Aly Freitas, ["Com livro sobre invisibilidade pós-morte LGBT, Febraro chega à Flip"](https://www.teatrinetv.com.br/literatura/com-livro-sobre-invisibilidade-lgbt-febraro-chega-a-flip/18362/), *Teatrine TV*, 25 nov. 2023. Acesso em 4 nov. 2026.
 [^cgntristao]: Thailla Torres, ["Tristão tira HIV do silêncio e leva corpo, orgulho e dança para o palco"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/tristao-tira-hiv-do-silencio-e-leva-corpo-orgulho-e-danca-para-o-palco), *Campo Grande News*, 17 set. 2026. Acesso em 4 nov. 2026.
+[^oestado2021]: ["Jovem poeta e escritor prodígio de MS lança romance 'Uirapuru'"](https://oestadoonline.com.br/arte-e-lazer/jovem-poeta-e-escritor-prodigio-de-ms-lanca-romance-uirapuru/), *O Estado de Mato Grosso do Sul*, 8 nov. 2021. Acesso em 4 nov. 2026.

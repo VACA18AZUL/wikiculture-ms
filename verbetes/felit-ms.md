@@ -22,6 +22,8 @@ A editora [[vida-producoes|Vida Produções]] participaria com o lançamento de 
 
 [[mara-calvis|Mara Calvis]], à frente da editora, levaria seus livros infantis. Blanche Torres lançaria as coletâneas de crônicas *Cores da Felicidade* e *Homens, Mulheres e Outros Bichos*.[^ce2022] A matéria cita ainda outros autores e autoras que participariam.[^ce2022]
 
+Segundo *O Estado de Mato Grosso do Sul*, a segunda edição ocupou a Câmara Municipal de Dourados de 29 de novembro a 1º de dezembro de 2022. Na noite de abertura estava marcado o lançamento da *Coletânea do Novo Movimento Poético de Dourados*, com 25 coautores, organização de [[rogerio-fernandes-lemes|Rogério Fernandes Lemes]] e prefácio de Marcos Coelho Cardoso, presidente da [[academia-douradense-de-letras|Academia Douradense de Letras]].[^oestado2022]
+
 ## Quinta edição
 
 A 5ª edição foi anunciada para 4 a 6 de junho de 2025, no auditório da Câmara Municipal de Dourados, das 13h às 22h. A programação teve cerca de 15 lançamentos de livros regionais, exposição e venda de obras, contação de histórias, declamação de poesia, sarau e shows. Entre os autores confirmados estavam Bosco Martins, Rodrigo Teixeira, Odila Lange e Jaminho; o poeta [[emmanuel-marinho|Emmanuel Marinho]] faria uma apresentação especial.[^cgn2025]
@@ -33,3 +35,4 @@ Em fevereiro de 2026, a Assembleia Legislativa de Mato Grosso do Sul aprovou em 
 [^ce2022]: Cauê Reis, ["Festival literário segue até quinta e terá lançamento de livros e revista"](https://correiodoestado.com.br/correio-b/festival-literario-segue-ate-quinta-e-tera-lancamento-de-livros-e/407968/), *Correio do Estado*, 29 nov. 2022. Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Feira Literária de Dourados começa hoje com programação gratuita"](https://www.campograndenews.com.br/lado-b/diversao/feira-literaria-de-dourados-comeca-hoje-com-programacao-gratuita), *Campo Grande News*, 4 jun. 2025. Acesso em 4 nov. 2026.
 [^acritica2026]: Iury de Oliveira, ["Eventos de laço e feira literária integram calendário de eventos de MS"](https://acritica.net/politica/calendario-eventos-ms-laco-comprido-felit/), *A Crítica de Campo Grande*, 26 fev. 2026. Acesso em 4 nov. 2026.
+[^oestado2022]: ["Livro de coletânea histórica é lançado pelo Novo Movimento Poético em Dourados"](https://oestadoonline.com.br/arte-e-lazer/livro-de-coletanea-historica-e-lancado-pelo-novo-movimento/), *O Estado de Mato Grosso do Sul*, 24 nov. 2022. Acesso em 4 nov. 2026.

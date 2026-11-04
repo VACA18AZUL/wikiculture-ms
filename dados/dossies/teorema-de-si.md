@@ -31,3 +31,9 @@ Vista e não usada: CGN, Halloween 2026 (só agenda).
 - Nota cgn2025: título corrigido para o da página ("Hoje tem feira MS+Underground na Praça Cuiabá com entrada gratuita"); texto é agenda da manhã do evento, por isso o verbete diz 'marcada' e 'anunciava'.
 - A Crítica fala em "5ª Feira Underground"; o CGN, em "5ª edição da Feira MS+Underground". Tratadas como o mesmo evento por nome e número; não confirmado.
 - Busca por segunda fonte (Google Notícias, "Teorema de Si"): só CGN (agenda de Halloween e esta). Trajetória, integrantes e discografia dependem de A Crítica.
+
+## Atualização de 2026-11-04 (r8)
+
+- Lida e citada: Sofia Lupaes, "Onde curtir o Halloween no dia 31 na Capital", *Campo Grande News*, 24 out. 2026 (agenda; anuncia show na cervejaria Canalhas em 31 out. 2026). Não sustenta trajetória.
+- Tentada: *O Estado MS*, "Teorema de Si apresenta rock autoral e prepara álbum conceitual", 31 ago. 2026 (https://oestadoonline.com.br/arte-e-lazer/teorema-de-si-apresenta-rock-autoral-e-prepara-album-conceitual/). O corpo publicado, tanto na API quanto na página, é de outra matéria (curta *Cavalo Marinho*): erro do site. Nada aproveitável; vale tentar de novo depois.
+- Trajetória, integrantes e discografia continuam só na *A Crítica*.

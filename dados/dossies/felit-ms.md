@@ -24,3 +24,7 @@ Fatos novos:
 Observação: a 2ª edição (2022) foi em novembro, não em junho; a A Crítica fala em primeira semana de junho como data anual. Registrado no texto sem escolher.
 
 Não foi aberta: a lei estadual resultante (número não confirmado em fonte lida).
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 24 nov. 2022, "Livro de coletânea histórica é lançado pelo Novo Movimento Poético em Dourados". Coletânea do Novo Movimento Poético de Dourados, 25 coautores, 160 p., Biblio Editora, org. Rogério Fernandes Lemes; prefácio de Marcos Coelho Cardoso, presidente da ADL; homenagem a Antonieta de Barros; lançamento 29/11/2022, 20h, na II Felit-MS (29/11 a 1/12/2022, Câmara Municipal de Dourados). O serviço da matéria grafa o título como "Coletânea do Novo Movimento Poético Brasileiro".

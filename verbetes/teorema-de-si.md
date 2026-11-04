@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Nos primeiros shows, o grupo tocava versões de Charlie Brown Jr., Terno Rei e Los Hermanos. As primeiras músicas próprias foram apresentadas na 5ª Feira Underground, e a banda passou a tocar em espaços da música independente da cidade, como A Taberna Rock Pub. Também abriu shows de grupos como Chococorn and The Sugarcanes e participa do projeto de ensaios da Casa Holandês Voador.[^acritica2026]
 
-A programação da 5ª edição da Feira MS+Underground, marcada para 7 de setembro de 2025 na Praça Cuiabá, em Campo Grande, anunciava a Teorema de Si entre as bandas do palco.[^cgn2025]
+A programação da 5ª edição da Feira MS+Underground, marcada para 7 de setembro de 2025 na Praça Cuiabá, em Campo Grande, anunciava a Teorema de Si entre as bandas do palco.[^cgn2025] Em outubro de 2026, o mesmo jornal listou a banda, ao lado de Inccubadora e Elétrons de Valência, na programação de Halloween de 31 de outubro da cervejaria Canalhas, em Campo Grande.[^cgn2026]
 
 O som parte do rock alternativo, com influências de shoegaze, noise rock, midwest emo, hardcore, noise pop e música popular brasileira. O single "Andorinhas", composto por Daniel Prado e produzido por Mateus Capiberibe e Gusthavo Nakayoshi, da Sopa Records, foi incluído em playlists de páginas de rock alternativo de alcance nacional.[^acritica2026]
 
@@ -29,3 +29,4 @@ Em 2026, a banda preparava o primeiro álbum de estúdio, *Monocultura*, disco c
 
 [^acritica2026]: Iury de Oliveira, ["Teorema de Si prepara álbum conceitual após repercussão de 'Andorinhas'"](https://acritica.net/cultura/teorema-de-si-prepara-album-monocultura-campo-grande/), *A Crítica de Campo Grande*, 25 ago. 2026. Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Hoje tem feira MS+Underground na Praça Cuiabá com entrada gratuita"](https://www.campograndenews.com.br/lado-b/diversao/hoje-tem-feira-ms-underground-na-praca-cuiaba-com-entrada-gratuita), *Campo Grande News*, 7 set. 2025. Acesso em 4 nov. 2026.
+[^cgn2026]: Sofia Lupaes, ["Onde curtir o Halloween no dia 31 na Capital"](https://www.campograndenews.com.br/cidades/capital/onde-curtir-o-halloween-no-dia-31-na-capital), *Campo Grande News*, 24 out. 2026. Acesso em 4 nov. 2026.
