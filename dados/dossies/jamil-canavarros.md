@@ -40,3 +40,9 @@ Não lida: "Jamil Canavarros comemora 35 anos de arte com exposição no Sesc Co
 ## Uso no verbete
 
 - Entrou tudo acima, exceto o ponto ambíguo de 2008.
+
+## Revisão de 2026-11-04 (valn-57)
+
+- dc2021: o mural é atribuído a Vitor Hugo Souza, que "conta com a ajuda" de Jamil Canavarros; a homenagem anterior a Agripino Magalhães não é descrita como mural.
+- pmc2026 e cp2026 (Capital do Pantanal) reproduzem o mesmo release da prefeitura; ambos anunciam a vernissage de A-122 para 19 maio 2026, 19h. Só cp2026 diz que é no Museu Casa Dr. Gabi ("o espaço recebe").
+- fcms2019: expositores de 2019-2020 (14 nomes) incluem "Jamil Canavarros (Corumbá – MS)"; mostra até 28 fev. 2020.

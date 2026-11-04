@@ -14,21 +14,21 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em março de 2014, com os artistas Rudy, Helker Ernane, Vitor Hugo e Deiny Taego, fez grafites e pinturas nos tapumes do antigo Grande Hotel, prédio da década de 1940 no centro de Corumbá, com o tema Corumbá. O grupo dividia o material e custeava parte do trabalho.[^dc2014]
+Em março de 2014, com os artistas Rudy, Helker Ernane, Vitor Hugo e Deiny Taego, fez grafites e pinturas nos tapumes do antigo Grande Hotel, prédio da década de 1940 no centro de Corumbá. O proprietário cedeu o espaço com a condição de que o tema fosse Corumbá. Segundo o *Diário Corumbaense*, o grupo dividia o material, buscava apoio e custeava parte do trabalho.[^dc2014]
 
-Em maio de 2021, com o artista plástico Vitor Hugo Souza, concluiu um mural ao ar livre na rua Tiradentes em homenagem a [[izulina-xavier|Izulina Xavier]]. Segundo o *Diário Corumbaense*, os dois já haviam homenageado em mural o cururueiro [[agripino-soares-de-magalhaes|Agripino Magalhães]].[^dc2021]
+Em maio de 2021, ajudou o artista plástico Vitor Hugo Souza a terminar um mural ao ar livre na rua Tiradentes, esquina com a Joaquim Murtinho, em homenagem a [[izulina-xavier|Izulina Xavier]]. Segundo o *Diário Corumbaense*, os dois já haviam homenageado o mestre cururueiro [[agripino-soares-de-magalhaes|Agripino Magalhães]].[^dc2021]
 
 Foi um dos expositores da mostra coletiva *Espelho das Artes Plásticas*, aberta pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] (FCMS) em dezembro de 2019 no Espaço Jorapimo do [[memorial-da-cultura|Memorial da Cultura e Cidadania Apolônio de Carvalho]], em Campo Grande. A mostra retomava o projeto de mesmo nome realizado em 2007 e 2008, que mapeou artistas de oito polos do estado e formou parte do acervo da fundação, e reunia obras desse acervo e de artistas convidados.[^fcms2019][^fcms2021]
 
 Em coluna de 2023 no *Correio de Corumbá*, Rosildo Barcellos o cita, ao lado de [[benedito-c-g-lima|Benedito C. G. Lima]] e outros, entre os criadores do projeto [[passa-na-praca-que-a-arte-te-abraca|Passa na Praça que a Arte te Abraça]].[^barcellos2023]
 
-Em agosto de 2025, teve quadros na exposição de artistas locais organizada pela Escola de Governo da Prefeitura de Corumbá no Paço Municipal.[^pmc2025] Em maio de 2026, na programação da 24ª Semana Nacional de Museus em Corumbá, abriu no [[museu-casa-dr-gabi|Museu Casa Dr. Gabi]] a exposição *A-122*, de esculturas sobre a dignidade feminina e o combate ao feminicídio.[^pmc2026][^cp2026]
+Em agosto de 2025, teve quadros na exposição de artistas locais organizada pela Escola de Governo da Prefeitura de Corumbá no Paço Municipal.[^pmc2025] A programação da 24ª Semana Nacional de Museus em Corumbá, divulgada pela prefeitura em maio de 2026, marcou para 19 de maio, no [[museu-casa-dr-gabi|Museu Casa Dr. Gabi]], a abertura da exposição *A-122*, de esculturas dele sobre a dignidade feminina e o combate ao feminicídio.[^pmc2026][^cp2026]
 
 ## Exposições
 
 - *Espelho das Artes Plásticas* (2019-2020) — coletiva, FCMS, Campo Grande.[^fcms2019]
 - Exposição de artistas locais (agosto de 2025) — coletiva, Paço Municipal de Corumbá.[^pmc2025]
-- *A-122* (2026) — individual, esculturas; Museu Casa Dr. Gabi, Corumbá.[^pmc2026][^cp2026]
+- *A-122* (2026) — esculturas; Museu Casa Dr. Gabi, Corumbá.[^cp2026]
 
 [^dc2014]: ["Projeto dá 'ar colorido' para fachada de prédio histórico"](https://diarionline.com.br/?s=noticia&id=66959), *Diário Corumbaense*, 17 mar. 2014. Acesso em 4 nov. 2026.
 [^dc2021]: Leonardo Cabral, ["Artistas plásticos retratam homenagem à Izulina Xavier em mural ao ar livre"](https://diarionline.com.br/?s=noticia&id=124667), *Diário Corumbaense*, 21 maio 2021. Acesso em 4 nov. 2026.

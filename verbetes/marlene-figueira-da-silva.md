@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 Segundo as reportagens, Marlene escreve versos desde a infância, mas por muito tempo guardou os textos sem publicá-los. Antes da estreia literária, escreveu livros e materiais técnicos ligados à vida profissional, sobre planos de cargos e salários e estatutos.[^correio2026][^oestado2026] O Correio do Estado a apresenta como advogada especialista em Direito Administrativo; *O Estado MS*, como advogada da área cível.[^correio2026][^oestado2026] Em 2026 era secretária de Gestão de Pessoas da Assembleia Legislativa de Mato Grosso do Sul.[^correio2026]
 
-O primeiro livro literário, *Até o Último Dia... Deixa Eu Viver do Meu Jeito! Assim é que Sou Feliz*, saiu em agosto de 2025.[^correio2026] O segundo, *Quando o Coração Escreve*, publicado pela [[life-editora|Life Editora]], reúne poemas, crônicas e textos reflexivos e sobre cidadania. Foi lançado em 24 de setembro de 2026, em evento aberto ao público numa cafeteria.[^correio2026][^oestado2026]
+O primeiro livro literário, *Até o Último Dia... Deixa Eu Viver do Meu Jeito! Assim é que Sou Feliz*, saiu em agosto de 2025.[^correio2026] O segundo, *Quando o Coração Escreve*, publicado pela [[life-editora|Life Editora]], reúne poemas, crônicas e textos reflexivos e sobre cidadania. O lançamento foi anunciado para 24 de setembro de 2026, em evento aberto ao público numa cafeteria; o Correio do Estado a chama de Doces Momentos e *O Estado MS*, de Doce Lembrança.[^correio2026][^oestado2026]
 
 Marlene cita como incentivadora a escritora [[delasnieve-daspet|Delasnieve Daspet]], presidente da [[aflams|Academia Feminina de Letras e Artes de Mato Grosso do Sul]].[^correio2026]
 
