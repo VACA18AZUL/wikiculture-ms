@@ -36,3 +36,11 @@ Descartadas: Midiamax (2026), Top Mídia News, Folha de Campo Grande: só títul
 ## Uso no verbete
 
 - Entrou o acima. Ficaram fora nomes de músicos convidados menores (Da1sho, Skeet etc.) e preço de ingresso.
+
+## Revisão de 2026-11-04 (valn-57)
+
+- Via Morena (9 set. 2025) é nota de assessoria e já chama "Sem Fabios e Os Infelizes" de "bandas"; vocalista Fábio Silva ("Fabinho"), baixista Vitor Alves, produtor Carlos Bagre.
+- O Estado MS (30 set. 2026) e A Crítica (29 set. 2026) reproduzem o mesmo release (mesmas falas): contam como uma fonte.
+- Identidade: nenhuma fonte diz que o "cantor e compositor Sem Fabios" de 2024-mar. 2025 é Fábio Silva. Indícios (não usados como fato): Vitor Alves no baixo no show do EP (O Estado, 27 fev. 2025) e no single de 2025; Carlos Bagre como parceiro nos dois períodos; "A Metamorfose" é faixa 4 do álbum (A Crítica). O verbete mantém os dois usos do nome separados por data.
+- Trajetória anterior (O Estado, 27 fev. 2025): Quadro Força (2015), Tropical Monkeys (2022), solo desde 2023.
+- Lançamentos (EP, single, álbum) só aparecem como anúncio nas fontes; não foi aberta página de streaming.
