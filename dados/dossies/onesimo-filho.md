@@ -63,3 +63,9 @@ Observação: as falas de Onésimo em Caetano vêm de entrevista concedida a Pau
 ## Uso no verbete
 
 - Entrou tudo acima, exceto causa, local e velório da morte (dados de saúde e pessoais).
+
+## Revisão de 2026-11-04 (valn-20)
+
+- ce2012a e a dissertação de Caetano (PDF, p. 34, 42-43, 48-52) reabertas e conferidas.
+- A vitória de "Norma" no 3º festival está na p. 42; nota ajustada para p. 42-43. O ano do 3º festival não aparece na passagem: o resumo deixou de dizer "anos 1960".
+- A bibliografia de Caetano dá a entrevista como publicada em Maria da Glória Sá Rosa (coord.), *Festivais de Música em Mato Grosso do Sul*, UFMS, Projeto Universidade 81, 1981; ligado ao verbete projeto-universidade-81.

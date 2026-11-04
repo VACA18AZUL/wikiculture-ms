@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **MS ao Vivo** é um projeto de shows gratuitos no Parque das Nações Indígenas, em Campo Grande, realizado pelo governo de Mato Grosso do Sul, por meio da Fundação de Cultura, em parceria com o Sesc MS. Na formatação de 2023, o governo oferecia o espaço e a estrutura e o Sesc pagava os cachês. A proposta é juntar atrações nacionais a artistas da região.[^cgn2023]
+O **MS ao Vivo** é um projeto de shows gratuitos no Parque das Nações Indígenas, em Campo Grande, realizado pelo governo de Mato Grosso do Sul, por meio da Fundação de Cultura, em parceria com o Sesc MS. Em 2023, o governo oferecia o espaço e a estrutura e o Sesc pagava os cachês. A proposta é juntar atrações nacionais a artistas da região.[^cgn2023]
 
 ## Edições
 

@@ -19,7 +19,7 @@ Em abril de 2008, o *Correio do Estado* anunciou o Grupo Bailah, da UFMS, com o 
 
 Em maio de 2015, o grupo dançou na mostra de dança da [[semana-pra-danca|Semana pra Dança]], no Teatro Aracy Balabanian, ao lado de outros grupos da capital.[^fcms2015b]
 
-O Bailah esteve no [[circuito-danca-no-mato|Circuito Dança no Mato]], projeto de circulação da Fundação de Cultura pelo interior. Em 7 de outubro de 2016, apresentou-se em Terenos com o Grupo Conexão Urbana e o Studio Mayara Martins. Segundo a fundação, as coreografias, construídas desde 2013 pelo grupo e colaboradores, tratavam de estilos da dança de salão.[^fcms2016a][^fcms2016b]
+O Bailah esteve no [[circuito-danca-do-mato|Circuito Dança no Mato]], projeto de circulação da Fundação de Cultura pelo interior. Em 7 de outubro de 2016, apresentou-se em Terenos com o Grupo Conexão Urbana e o Studio Mayara Martins. Segundo a fundação, as coreografias, construídas desde 2013 pelo grupo e colaboradores, tratavam de estilos da dança de salão.[^fcms2016a][^fcms2016b]
 
 Na programação do [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]] de 2017, dançou na comunidade quilombola Águas de Miranda, numa manhã de sábado.[^fcms2017a][^fcms2017b] No mesmo ano, foi selecionado para a mostra aberta do [[festival-danca-tres|Festival Dança Três]], em Três Lagoas.[^fcms2017c]
 
