@@ -50,3 +50,10 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou o que está em "Fatos".
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fontes novas lidas (Fundação de Cultura de MS):
+- 9 maio 2018 (Daiana Schio), https://www.fundacaodecultura.ms.gov.br/aurelio-miranda-e-tostao-guarany-sobem-ao-palco-para-show-memoravel-no-fasp/: apresentação dele como cantor, compositor e violeiro, 300+ composições, trajetória nos anos 70 (Cruzeiro e Tostão) e 80 (solo), sete obras gravadas, DVD de 40 anos, prêmio de 2003 em Barretos, "Estrada de Chão" como maior sucesso; show Memórias no FASP em 27/5 às 20h, Praça Generoso Ponce. Confirma "Estrada de chão" e a ligação com Tostão e Guarany (fonte ce2011).
+- 13 out. 2017, https://www.fundacaodecultura.ms.gov.br/principais-nomes-da-musica-de-mato-grosso-do-sul-se-reunem-para-comemorar-os-40-anos-do-estado/: elenco do show do sertanejo raiz em 11/10/2017.
+Não abertas: demais resultados da busca da FCMS por "Aurélio Miranda" (Som da Concha 2020, 44 anos de MS 2021, FASP 2019). O ano exato do DVD de 40 anos e dos "sete trabalhos" não consta no texto. Sem divergências.

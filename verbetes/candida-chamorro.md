@@ -28,12 +28,13 @@ Em outubro de 2021, a programação do Festival da Literatura Indígena, feito e
 
 ## Obras
 
-- *Dicionário Kaiowá-Português* — a terceira edição, com projeto aprovado pelo Fundo de Investimentos Culturais de Mato Grosso do Sul, foi lançada pouco antes de sua morte.[^ce2026]
+- *Dicionário Kaiowá-Português* — dicionário colaborativo organizado por ela; a tese de Miguel Angelo Corrêa o cita pela editora Javali, de Belo Horizonte, 2022, então no prelo.[^tese] A terceira edição, com projeto aprovado pelo Fundo de Investimentos Culturais de Mato Grosso do Sul, foi lançada pouco antes de sua morte.[^ce2026]
 - *Kurusu Ñe'ẽngatu* — citado na nota da FCMS.[^ce2026]
-- *Terra Madura – Yvy Araguyje* — citado pelo Cimi; a nota da FCMS o chama de *Terra madura*.[^cimi2026][^ce2026]
+- *Terra Madura – Yvy Araguyje* — citado pelo Cimi; a nota da FCMS o chama de *Terra madura*.[^cimi2026][^ce2026] A tese de Corrêa registra a edição da UFGD, Dourados, 2008, com o subtítulo *fundamento da palavra guarani*.[^tese]
 - *Decir el cuerpo* — citado na nota da FCMS.[^ce2026]
 
 [^ce2026]: Glaucea Vaccari, ["Professora que publicou dicionário Kaiowá-Português morre aos 67 anos"](https://correiodoestado.com.br/cidades/2026/02/10/professora-que-publicou-dicionario-kaiowa-portugues-morre-aos-67-anos.html), *Correio do Estado*, 10 fev. 2026. Acesso em 4 nov. 2026.
 [^cimi2026]: Conselho Indigenista Missionário, ["Nota de pesar: Graciela Chamorro encantou"](https://cimi.org.br/2026/02/nota-graciela-chamorro-encantou/), *Cimi*, 10 fev. 2026. Acesso em 4 nov. 2026.
 [^fcms2018]: Fundação de Cultura de Mato Grosso do Sul, ["Com apoio do FIC, grupo circula o Estado com 'Mborahéi Rapére – Pelas trilhas do canto'"](https://www.fundacaodecultura.ms.gov.br/com-apoio-do-fic-grupo-circula-aldeias-e-palcos-do-estado-com-espetaculo-mborahei-rapere-pelas-trilhas-do-canto/), FCMS, 26 fev. 2018. Acesso em 4 nov. 2026.
 [^fcms2021]: Fundação de Cultura de Mato Grosso do Sul, ["Festival da Literatura Indígena começa hoje com palestras, oficinas e música"](https://www.fundacaodecultura.ms.gov.br/festival-da-literatura-indigena-tera-palestras-oficinas-e-musica/), FCMS, 20 out. 2021. Acesso em 4 nov. 2026.
+[^tese]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, seção 3.4 e referências. Acesso em 4 nov. 2026.

@@ -50,3 +50,10 @@ Descartadas: Wikipédia (API com limite de requisições; não conferida). Porta
 ## Uso no verbete
 
 - Entrou tudo acima, exceto a causa da morte (não divulgada; dado de saúde fica fora de qualquer modo).
+
+## Acréscimo (fonte tese)
+
+| tese | Miguel Angelo Corrêa, tese UFGD 2023, seção 3.4 e referências | https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf | acadêmica | sim |
+
+- Referência: CHAMORRO, Graciela (Org.). Dicionário Kaiowá-Português. Belo Horizonte: Javali, 2022 (no prelo); a seção 3.4 o chama de "dicionário colaborativo organizado pela Professora Dra. Graciela Chamorro" [tese]
+- Referência: CHAMORRO. Terra madura yvy araguyje: fundamento da palavra guarani. Dourados: UFGD, 2008 [tese]

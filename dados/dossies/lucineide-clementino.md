@@ -37,3 +37,7 @@ Fontes novas abertas e lidas:
 - Não abertos: Primeira Página, "Indígena de Sidrolândia conquista Prêmio Sim à Igualdade Racial" (403); páginas da Prefeitura de Sidrolândia sobre atividades com Sol Terena (503). Resumo de busca diz que a Primeira Página e a prefeitura a situam na Aldeia Tereré (Sidrolândia), enquanto a Rádio Terena fala em Córrego do Meio: possível divergência de aldeia, a conferir quando as páginas abrirem.
 - FCMS (programação do Festival América do Sul 2023) e Agência de Notícias: buscas não trouxeram a exposição "Elas em Corumbá" com o nome de Sol Terena; há na pasta de propostas uma linha (programação FAS 2023, PDF) que lista a exposição, sem confirmação do nome de Lucineide.
 - Situação: segue "reforcar" (identidade e exposição de Corumbá só no CGN 2023).
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fonte nova lida: Fundação de Cultura de MS, 8 ago. 2025, https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-apoia-exposicao-inedita-com-obras-de-artistas-indigenas-de-ms/. Cita "Sol Terena" como consultora da exposição Artistas da Natureza (Centro Cultural José Octávio Guizzo, 13/8 a 26/9/2025), sem nome civil; ligação com Lucineide Clementino é por apelido, como nas demais fontes. Já havia fontes de três veículos (Campo Grande News, Rádio Terena, Correio do Estado); a identidade entre "Sol Terena" e Lucineide só é explícita na nota cgn (2023).

@@ -53,3 +53,7 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo acima, sem o endereço do cruzamento (ponto público, mas dispensável).
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: busca no Correio do Estado (sem resultado do grafiteiro) e na FCMS. A FCMS, 7 dez. 2016 (https://www.fundacaodecultura.ms.gov.br/ms-detona-mostra-internacional-de-graffiti-e-street-art-comeca-hoje/), cita "Dubmistah aka Caio Green" em show musical e "DJ Caio Creen" na programação de Campo Grande de 10/12/2016. Não está claro que seja o mesmo Caio Green do verbete (grafiteiro): não usado, não confirmado. Continua com fonte única por veículo (Campo Grande News).

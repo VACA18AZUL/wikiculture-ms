@@ -34,3 +34,10 @@ Segunda fonte jornalística: não encontrada. Nada de novo sustentado.
 - Abertas e sem menção a ela: Samanta Sallum, "Do cerrado ao pantanal, pelo artesanato", Correio Braziliense (blog), 14 ago. 2022; Agência Sebrae, "No Salão do Turismo 2025..." (sobre outra pessoa); Clayton Neves, "Semana do Artesão abre mostrando como tem gente talentosa em MS", CGN, 19 mar. 2026 (cita "Flor de Pequi", não ela).
 - Não abertos (403 ou 404): Midiamax, exposição Florarium (2026); release Sebrae "Curvas Pantaneiras" (docx, 404).
 - Ajuste: removida do verbete a frase sobre o que a matéria de 2014 não informa (cidade e trajetória).
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fontes novas lidas (Fundação de Cultura de MS):
+- 18 mar. 2024, https://www.fundacaodecultura.ms.gov.br/semana-do-artesao-homenageia-artesaos-que-se-destacaram-neste-fazer-artistico/: homenageada da Semana do Artesão; trajetória da Flor de Xaraés; formação em psicopedagogia, natural de São Paulo. Pode compartilhar origem (release) com a matéria do Campo Grande News de mesma data; por isso a FCMS conta aqui como fonte primária do órgão organizador, não como confirmação independente.
+- 24 mar. 2022, https://www.fundacaodecultura.ms.gov.br/rodada-de-negocios-e-oportunidade-de-lojistas-de-outros-estados-conhecerem-artesanato-de-ms/: rodada de negócios do artesanato, citação como artesã com mais de 20 anos de ofício. Fato novo (2022).
+A exposição na ONU (2014) segue só no Campo Grande News; página GlobeIn não confirmada.

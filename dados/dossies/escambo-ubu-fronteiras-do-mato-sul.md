@@ -52,3 +52,12 @@ Todas as fontes são do mesmo veículo e da mesma autora. O resumo gerado por IA
 ## Uso no verbete
 
 - Entrou tudo. Endereço da comunidade (cgn2025d) ficou fora.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fontes novas lidas (Fundação de Cultura de MS, que apoiou o projeto; texto institucional, mas de órgão distinto do Campo Grande News):
+- 25 abr. 2025, https://www.fundacaodecultura.ms.gov.br/com-apoio-da-fcms-escambo-ubu-fronteiras-do-mato-sul-chega-a-chapadao-do-ceu-go/: Chapadão do Céu (GO), Funarte/Rede das Artes/Bolsa Myriam Muniz, apoio FCMS/Setesc, nove cidades listadas, equipe completa com funções.
+- 28 abr. 2025, https://www.fundacaodecultura.ms.gov.br/com-apoio-da-fundacao-de-cultura-projeto-cultural-do-grupo-ubu-chega-a-fronteira-do-parana/: Terra Roxa (PR); 12 cidades em seis estados.
+- 30 maio 2025, https://www.fundacaodecultura.ms.gov.br/escambo-ubu-chega-a-reta-final-com-apresentacoes-em-mato-grosso-do-sul-e-sao-paulo/: lista das 12 cidades (sete em MS, uma em MT, PR, GO, MG, SP); Ponta Porã sem data. O texto traz "segunda-feira, 2 de julho" para Jales, data que não bate com o calendário de 2025; omitida no verbete.
+- 4 ago. 2025, https://www.fundacaodecultura.ms.gov.br/episodio-a-mata-do-pequi-e-atracao-na-comunidade-quilombola-chacara-buriti/: Escambo UBU Erê financiado pelo edital Funarte Retomada 2024.
+Divergências de detalhe registradas no verbete: a lista de cidades muda entre os comunicados (9 cidades em 25 abr. com São Sebastião do Pontal/MG; 12 em 30 maio com Carneirinho/MG); as reportagens do Campo Grande News falam em 12 cidades, de fronteira ou do país. A FCMS de 28 abr. lista Chapadão do Sul, que a de 25 abr. não traz. A lista completa das 12 cidades, antes incerta, agora tem fonte (30 maio). Realização do encerramento em Ponta Porã segue só no Campo Grande News (11 set. 2025).

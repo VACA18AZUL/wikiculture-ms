@@ -48,3 +48,10 @@ Dossiê apoiado em fonte única.
 ## Uso no verbete
 
 - Entrou: eleição, livros, formação e cargos em resumo, títulos. Ficou de fora: empresa em que é diretor técnico e participação em conselhos (dados profissionais sem relação com a literatura).
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fontes novas lidas (Fundação de Cultura de MS):
+- 25 jun. 2025, https://www.fundacaodecultura.ms.gov.br/roda-academica-da-asl-de-junho-homenageia-o-escritor-hernani-donato/: perfil dele na ASL (natural de Belém, em Campo Grande desde 1993, Cadeira 24, UFPA, mestrado UFRJ, especialização em Psiquiatria e Psiquiatria Forense pela ABP e AMB); participa da Roda sobre Hernâni Donato com Paulo Nolasco e Samuel Medeiros. Confirma a posse/ocupação da Cadeira 24 (antes "posse não confirmada": agora há texto dizendo que ocupa a cadeira). Data da posse segue desconhecida.
+- 20 mar. 2025, https://www.fundacaodecultura.ms.gov.br/projeto-da-academia-sul-mato-grossense-de-letras-e-a-academia-brasileira-de-letras-continua-em-2025-e-trara-imortais-a-ms/: cita-o entre os imortais da ASL nas Rodas Acadêmicas de 2025.
+A lista de livros (2010-2021) segue só no Campo Grande News (a FCMS não os nomeia). O texto da FCMS não confirma "psiquiatra da UFMS 1996-2008", cidadania nem Mérito da SENAD. Sem divergências.

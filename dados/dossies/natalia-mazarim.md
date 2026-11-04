@@ -37,3 +37,7 @@ Descartadas: página de agregador de streaming (screensearch.co.uk), vista só e
 ## Uso no verbete
 
 - Entrou tudo. Nascimento e formação não aparecem nas fontes.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fonte nova lida: Karina Medeiros de Lima, "Premiado filme Madalena é retrato da violência com a população LGBTQIA+ no país", Fundação de Cultura de MS, 9 dez. 2021, https://www.fundacaodecultura.ms.gov.br/premiado-filme-madalena-e-retrato-da-violencia-com-a-populacao-lgbtqia-no-pais/. Confirma Luziane como uma das duas protagonistas, elenco, filmagem em 2018 e estreia em Campo Grande no MIS em 8/12/2021. A matéria diz que o filme tem sido premiado sem nomear prêmios. Não aberta: FCMS 7 dez. 2021 (sessão no MIS). O curta A Outra Margem (2015) segue só no Campo Grande News; a cidade (Dourados) continua só na nota cgn2015/cgn2019. Sem divergências.

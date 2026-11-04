@@ -43,3 +43,7 @@ Buscas abertas não trouxeram terceira fonte. Matéria de 2021 sobre "Zé Pelint
 ## Uso no verbete
 
 - Entrou tudo acima.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Tentativa r3-3: buscas no Correio do Estado ("Pivatto"), A Crítica ("Pivatto"), FCMS (Ginga, Diógenes Pivatto): sem matéria sobre ele. Correio do Estado, 12 maio 2026, sobre 40 anos da Ginga Cia. de Dança, cita a importância de Joinville para a companhia, mas não cita Pivatto nem o Omolú; não usada. Ligação Ginga e Studio 2 segue sem fonte única que cite os dois vínculos. Já tem duas fontes de veículos diferentes (Campo Grande News e A Crítica).

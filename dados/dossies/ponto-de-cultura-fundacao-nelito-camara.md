@@ -47,3 +47,10 @@ Descartadas: nenhuma. Não abri cadastro de Pontos de Cultura (Mapas da Cultura)
 ## Uso no verbete
 
 - Entrou tudo das seções de fatos, sem endereço.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fontes novas lidas (Fundação de Cultura de MS):
+- 15 maio 2025, https://www.fundacaodecultura.ms.gov.br/circo-do-mato-encerra-turne-do-projeto-de-ponto-a-ponto-em-ivinhema/: Ponto de Cultura desde 2010; fundada em 2004; Cinelito; Mostra Varilux; Festa Literária; Casa Quintal Manoel de Barros em Campo Grande; parceria com o Circo do Mato. Reforça "2004" (o Campo Grande News também diz 2004) e a condição de Ponto de Cultura (antes só 2025).
+- 23 nov. 2015, https://www.fundacaodecultura.ms.gov.br/celebrando-12-anos-de-existencia-festival-de-cinema-acontece-em-ivinhema-com-apoio-da-fundacao-de-culturac/: 12º festival, tema "10 anos luz", dez anos da fundação em 2015. Obs.: dez anos em 2015 sugere início em 2005, enquanto o Campo Grande News (2022) fala em desde 2004; não é contradição clara (contagem de edições), mas fica anotado para a lista-mestra.
+- 20 maio 2024, https://www.fundacaodecultura.ms.gov.br/com-apoio-da-fundacao-de-cultura-18a-edicao-do-festival-de-cinema-do-vale-do-ivinhema-tera-show-com-chico-cesar/: 18º festival, 10 a 16 ago. 2024. Observação: o texto de 15 maio 2025 fala em "19ª edição" do festival e "12ª edição em 2024" da Festa Literária, inconsistente com o resto; não usado.

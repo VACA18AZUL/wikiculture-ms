@@ -26,3 +26,7 @@ Dossiê criado em 2026-11-04 (reforço r-1), só com o que foi apurado.
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Buscas abertas pelo grupo, por *Cantigas dum Fazedô* e pela mostra de 2016 em Dourados: nenhum resultado. A busca só mostra o FIT Dourados de outros anos (2017, 2019, 2025), com a Cia. Theastai em 2025. Pistas: Prefeitura de Dourados e UFGD (2016), Fundação de Cultura (relatório de 2016). Nada mudou.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fonte nova lida: Gisele Colombo, Fundação de Cultura de MS, 22 mar. 2016, https://www.fundacaodecultura.ms.gov.br/com-11-apresentacoes-mostra-de-teatro-leva-encantamento-ao-publico-de-dourados/. Confirma a participação do Tri-Ato na mostra de Dourados (25 a 27 mar. 2016) e o espetáculo Cantigas dum Fazedô, com datas e locais. Observação de nome: a dissertação chama o evento de Mostra Comemorativa ao Dia Internacional do Teatro e Nacional do Circo; a FCMS, de Mostra Douradense de Teatro. Fundação do grupo e integrantes seguem só na dissertação.
