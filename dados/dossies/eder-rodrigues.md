@@ -37,3 +37,10 @@
 
 - Verbete curto, só com o vínculo de MS.
 - Acrescentado depois: consultoria dramatúrgica de *Até que a Morte nos Repare* (Ofit, 2023), fonte CGN 4 mar. 2023 (https://www.campograndenews.com.br/lado-b/diversao/espetaculo-ate-que-a-morte-nos-repare-estreia-com-artistas-amadores).
+
+## Revisão de 2026-11-04 (valn-8)
+
+- As três fontes são prévias: estreia de 2016, estreia de 2023 e remontagem de 2026 passaram a "anunciadas".
+- cgn2016 não cita "Cia. Ofit" nem atores: diz atores de Campo Grande, alguns da OFIT (Associação Cultural Oficina de Interpretação Teatral).
+- Vínculo com MS (avaliação): não nasceu nem mora em MS nas fontes; o vínculo é de obra e colaboração com a Ofit, de Campo Grande, em três momentos (texto escrito para Nill Amaral/Ofit, estreia em 2016; consultoria em 2023; remontagem em 2026). Vínculo real mas restrito a uma companhia; escopo a decidir pelo Helton.
+- O consultor de 2023 (cgn2023) é identificado como "Éder Rodrigues" num espetáculo da mesma companhia e do mesmo diretor: identidade muito provável, mas sem afirmação explícita na fonte de que é o dramaturgo mineiro. O homônimo baiano (bn2020) continua fora.

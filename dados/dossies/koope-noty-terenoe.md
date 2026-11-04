@@ -26,3 +26,7 @@ Busca de segunda fonte (agente val-5):
 
 - Busca aberta sobre a abertura do 6º Prêmio Onça Pintada (2019) com o grupo, bate-pau e Aldeia Tereré: voltou só a matéria do Correio do Estado já citada; os demais resultados (artigos sobre bate-pau/kipaéxoti na UFMT, UCDB/Tellus, UEMS) não citam o grupo. Segue fonte única; "reforcar". Pistas: Campo Grande News e Midiamax de 4-9 set. 2019; página do Prêmio Onça Pintada; Fundação de Cultura de MS.
 - Retirada do verbete a frase "A reportagem não traz outras informações..." (fica aqui).
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Busca restrita a FCMS, Agência, Correio do Estado, A Crítica, Midiamax, prefeitura de Sidrolândia, UFMS e Campo Grande News: só volta a matéria do Correio do Estado já citada. Correio do Estado (2 jun. 2026), sobre a 10ª edição do Prêmio Onça Pintada: aberta, não cita o grupo. Páginas da Prefeitura de Sidrolândia sobre danças tradicionais na Aldeia Tereré (resumos de busca; não abertas) não citam o grupo. Nada alterado. Segue "reforcar".

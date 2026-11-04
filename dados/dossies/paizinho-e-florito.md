@@ -29,3 +29,7 @@ Agente: atualizador + revisor-editorial (validação, bloco val-0). Fonte única
 ## Atualização de 2026-11-04 (r-3)
 
 Segunda fonte: não encontrada. Duas buscas abertas ("Paizinho e Florito" / "Paizinho & Florito", com Omil e Ozéias, Discos CGS, LP 1974, rasqueado, sertanejo raiz) não trouxeram nenhuma página sobre a dupla nem sobre o selo. Nada mudou no verbete. Pistas: Discogs, Dicionário Cravo Albin, imprensa de Campo Grande dos anos 1970 (acervos digitais).
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Buscas abertas por "Paizinho e Florito"/"Paizinho & Florito", Discos CGS e Omil e Ozeias (também em Correio do Estado, Campo Grande News, FCMS): nenhuma menção. CGN, "Coleção de Carlos recorda música de MS em 600 discos 'perdidos'" (26 fev. 2021), aberta: cita o projeto Memória Fonográfica MS e a digitalização no MIS, sem nomear a dupla nem o selo. Pistas: FCMS, "Projeto Memória Fonográfica faz aquisições de obras raras para preservar a Música de MS" (resumo de busca; confirma o projeto, não a dupla). Nada alterado. Segue "reforcar".

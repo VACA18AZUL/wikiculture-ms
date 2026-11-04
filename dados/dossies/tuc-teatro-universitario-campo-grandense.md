@@ -10,3 +10,10 @@ Busca de segunda fonte:
 - O orçamento de busca na web da sessão se esgotou.
 
 Continua com fonte única.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Fonte nova aberta e lida: Thaís Pimenta, "Referência no teatro sul-mato-grossense, Orlando Mongelli deixa seu legado", Campo Grande News, 7 mai. 2018. Sustenta: TUC (Teatro Universitário de Campo Grande) criado em 1961; criadores: Orlando Mongelli, Maria da Glória Sá Rosa, Sílvio Torrecilha, Rafael Cubel Zuriga, Abílio Leite de Barros e outros. Não traz local nem peças.
+- DIVERGÊNCIA: 1961 (CGN 2018) x 1967 (Moser/Sá Rosa 1992). Registrada no verbete com as duas notas; ficha mantém "1967" e traz a divergência no texto; registrada em observacoes. Grafias: Torecilha (Moser) x Torrecilha (CGN).
+- Resumo de busca (não aberto): dissertação de Rodrigo Teixeira Gonçalves (UFMS, repositório 2756) descreve o TUC como pioneiro que encenou *Arena Conta Zumbi* (1967) e *Liberdade, Liberdade* (1968); servidor 503 nesta sessão. Se aberto, seria segunda fonte independente para as peças. A dissertação de Adriana Carlos (UEMS 2023) continua inacessível (reset/503).
+- O verbete cita CGN e Moser: continua com uma só fonte para os espetáculos, sede e direção. Situação: reforçar.

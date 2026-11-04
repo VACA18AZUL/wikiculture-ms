@@ -41,4 +41,4 @@ Sem artigo.
 
 ## Veredito
 
-Pronto para lote após correções; segunda fonte de outro veículo seria desejável.
+Passa após correções, mas todas as fontes são do mesmo veículo (conferir aponta fonte única): reforçar.

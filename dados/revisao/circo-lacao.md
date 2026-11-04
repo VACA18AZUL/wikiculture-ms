@@ -38,4 +38,4 @@ Sem artigo.
 
 ## Veredito
 
-Pronto para lote após correções; fonte de outro veículo (FCMS, imprensa de Corumbá ou Dourados) seria desejável.
+Passa após correções, mas todas as fontes são do mesmo veículo (conferir aponta fonte única): reforçar com FCMS ou imprensa de Corumbá ou Dourados.

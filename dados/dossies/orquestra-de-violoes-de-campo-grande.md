@@ -25,3 +25,19 @@ Segunda fonte: não encontrada. A busca na web desta sessão esgotou o limite an
 - Indício não confirmado: resumo de busca diz que um programa do Festival Internacional do Violão (UFMS, edição com apoio Fundect PAE 2024) lista "Orquestra de Violões de Campo Grande, sob direção artística de Anderson Francelino" em recital no Teatro Glauce Rocha; a página de origem (noticias-do-brasil.news) devolveu erro 503 e nada foi lido. Pista: programa do festival em festivaldeviolao.ufms.br.
 - Grafia do regente varia nas buscas (Francellino no acervo, Francelino em resumo de busca): registrar quando houver fonte lida.
 - Verbete não mudou; continua com fonte única (descrição do Acervo Memória Fonográfica).
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Fontes novas abertas e lidas:
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| ufms24 | Elton Ricci, com informações da Fundação de Cultura e Esporte do Estado de MS, "Imortal da Academia Brasileira de Letras ministra palestra em evento com parceria da UFMS", UFMS, 25 jul. 2024 | https://www.ufms.br/imortal-da-academia-brasileira-de-letras-ministra-palestra-em-evento-com-parceria-da-ufms/ | sim |
+| festufms | "Currículos", Festival Internacional e Concurso de Violão (UFMS), edição de 2026 | https://festivaldeviolao.ufms.br/releases/ | sim |
+
+- ufms24: orquestra existe desde 1997; Luís César Gonzaga a regeu por 10 anos; em 2024 volta sob Anderson Francellino; muitos egressos da UFMS; pró-reitor a chama de independente; abertura do Chá Acadêmico em 25 jul. 2024 (19h30, auditório da ASL), parte do 7º Festival Internacional de Violão.
+- festufms: Francellino (grafia com dois "l" confirmada) é o regente atual; graduação em música pela UFMS (2006). Não traz fundação nem apresentações.
+- Possível divergência de autoria da criação: descrição do CD atribui a criação a José Maciel; UFMS cita Luís César Gonzaga só como regente por dez anos. Registrado como as duas informações, sem escolha.
+- Não aberto (503): noticias-do-brasil.news (Festival do Violão 2025/2026, programa com a orquestra).
+- Nomes novos propostos: Luís César Gonzaga, José Maciel (regente/criador citados).
+- Situação: pronto-para-lote.

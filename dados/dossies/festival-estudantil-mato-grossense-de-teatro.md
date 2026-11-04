@@ -17,3 +17,7 @@ Nada mudou no texto. Continua com fonte única: Moser (ABRACE, 2018), que resume
 - Dos verbetes vizinhos (gutac, tuc-teatro-universitario-campo-grandense, maria-da-gloria-sa-rosa, americo-calheiros), todos que citam o festival repetem Moser.
 - Pistas: acervo Maria da Glória Sá Rosa (UEMS); dissertação de Adriana Carlos (UEMS, 2023); jornais de 1969-1972.
 - Nada mudou no verbete. Continua com fonte única.
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Buscas restritas a FCMS, Agência, Correio do Estado, A Crítica, UFMS, UEMS, UCDB sobre TUC, GUTAC e festivais estudantis: nada cita o festival. CGN, "Na literatura, música e dança, professora Glorinha se despede deixando história" (28 jul. 2016): diz que Sá Rosa coordenou diversos festivais de teatro e música em Campo Grande e, na Fucmat, respondia pelos festivais de teatro e música do estado; não nomeia este festival. Não entrou (ligação não confirmada). Segue fonte única (Moser). "reforcar".

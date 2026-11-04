@@ -21,9 +21,7 @@ O LP *Flor de Pedra* foi lançado em Campo Grande em 1976, com produção do mú
 
 ## Divergências entre fontes
 
-As fontes divergem sobre quem era chamado de Castelo, sobre as datas de morte e sobre o papel de cada integrante.
-
-Segundo o Campo Grande News, Castelo era o nome artístico de Antônio Rodrigues de Queiroz, irmão de Alex, morto na noite de domingo, 9 de julho de 2023, véspera do velório.[^cgn2023]
+As fontes divergem sobre quem era chamado de Castelo, sobre as datas de morte e sobre o papel de cada integrante. Segundo o Campo Grande News, Castelo era o nome artístico de Antônio Rodrigues de Queiroz, irmão de Alex, morto na noite de domingo, 9 de julho de 2023, véspera do velório.[^cgn2023]
 
 A descrição de *Flor de Pedra* no acervo chama Alex de "Castelo" e diz que ele morreu em 10 de julho de 2023; registra a morte de Queiroz em 28 de dezembro de 2024. O mesmo texto chama Queiroz de "Queiroz Castelo" e Cidinho Castelo de "o lendário Castelo". Ali, Alex aparece no arranjo e nas cordas, Queiroz na voz e na harmonia, com destaque no violão, e Cidinho no acordeom.[^flor]
 

@@ -24,3 +24,7 @@
 
 - Duas buscas novas (nome da mostra com Theastai e anos; Theastai com "Mostra Feita em Casa", *Querô*, João Rocha, protesto): nenhuma página cita a mostra, a categoria "Mostra Feita Em Casa" ou o protesto. Os resultados "MIT" são a Mostra Internacional de Teatro (SP e RJ), sem relação. Matérias do Campo Grande News sobre o FIT Dourados (retorno após seis anos, edição de 2025) não tratam da MIT.
 - Nada mudou no verbete. Continua com fonte única (dissertação de Oliveira Júnior, UFU, 2023). Pistas não abertas: Dourados Agora, O Progresso, portal da UFGD, perfil da Cia. Theastai.
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Buscas restritas a Dourados Agora, Dourados News, UFGD, prefeitura de Dourados, Correio do Estado, FCMS e Midiamax: nenhum resultado cita a MIT, a categoria Mostra Feita (Feito) em Casa de 2011 ou o protesto. Os resultados sobre o 11º FIT Dourados (portal UFGD, Correio do Estado) mostram que a Mostra Feito em Casa existe como seção do festival para grupos locais, mas são de outro ano. FCMS, "Cia Theastai, de Dourados, se apresenta no Boca de Cena..." (31 mar. 2023, aberta): cita João Rocha como fundador da Cia. Theastai e 14 anos de trajetória; não cita a MIT. Nada alterado. Segue fonte única (Oliveira Júnior, UFU, 2023). "reforcar".

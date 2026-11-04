@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em janeiro de 2020, o *Campo Grande News* o apresentou como diretor do coletivo Hands Up MS, dedicado ao vogue e ativo em Campo Grande desde 2017. Segundo a matéria, o grupo tinha 11 integrantes, ensaiava aos domingos em um espaço cedido pelo [[ballet-isadora-duncan|Ballet Isadora Duncan]] e havia vencido três festivais: Big Field Camp (2017), Prêmio Onça Pintada (2018) e Festival Canindé (2019), nas categorias solo e duo. O coletivo foi apadrinhado por Eduarda Kona Zion, fundadora da House of HandsUp, de Brasília.[^cgn2020]
+Em janeiro de 2020, o *Campo Grande News* o apresentou como diretor do coletivo Hands Up MS, dedicado ao vogue e ativo em Campo Grande desde 2017. Segundo a matéria, o grupo tinha 11 integrantes, ensaiava aos domingos em um espaço cedido pelo [[ballet-isadora-duncan|Ballet Isadora Duncan]] e havia vencido três festivais: Big Field Camp (2017), Prêmio Onça Pintada (2018) e Festival Canindé (2019), nas categorias solo e duo. O coletivo foi apadrinhado por Eduarda Kona Zion, fundadora da House of HandsUp.[^cgn2020]
 
-Em fevereiro de 2021, durante a pandemia, deu a aula de vogue do Aulão Exp Modo On, encontro on-line e gratuito do grupo [[expressao-de-rua|Expressão de Rua]]. A matéria que anunciou o aulão o chama de um dos pioneiros do vogue em Mato Grosso do Sul e de criador da primeira house da região, a Hands Up MS.[^cgn2021]
+Em janeiro de 2021, durante a pandemia, foi anunciado como professor da aula de vogue do Aulão Exp Modo On, encontro on-line e gratuito do grupo [[expressao-de-rua|Expressão de Rua]] marcado para fevereiro. A matéria que anunciou o aulão o chama de um dos pioneiros do vogue em Mato Grosso do Sul e de criador da primeira house da região, a Hands Up MS.[^cgn2021]
 
 Em março de 2026, *A Crítica de Campo Grande* noticiou a seleção de *Peça Única*, da House of Hands Up, para a 28ª edição do Palco Giratório, circuito nacional do Sesc. A reportagem apresenta Roger Pacheco como coreógrafo e mother da casa.[^acritica2026] Em setembro de 2026, o espetáculo estava na programação de dança do Palco Giratório em São Luís, no Teatro Sesc.[^imirante2026]
 

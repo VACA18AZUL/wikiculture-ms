@@ -22,7 +22,7 @@ atualizado: 2026-11-04
 
 Cresceu longe da cidade natal. Estudou em colégio interno em Minas Gerais e depois em Porto Alegre, e seguiu para o Rio de Janeiro, onde frequentou o Conservatório Nacional de Teatro.[^cgn2023a][^cgn2023b]
 
-Começou no teatro infantil. A estreia profissional foi na peça *Madame Sans Gene*, em 1952, a convite de Alda Garrido.[^cgn2023a][^cgn2023b] Segundo uma reportagem, voltou a trabalhar com Alda Garrido em *Se o Guilherme Fosse Vivo*.[^cgn2023a] Outra reportagem registra *Se o Guilherme Fosse Vivo* como sua estreia na televisão, em 1952, na TV Tupi.[^cgn2023b]
+Começou no teatro infantil. A estreia profissional foi na peça *Madame Sans Gene*, em 1952, a convite de Alda Garrido.[^cgn2023a][^cgn2023b] Voltou a contracenar com Alda Garrido em *Se o Guilherme Fosse Vivo*, teleteatro exibido pela TV Tupi em 1952.[^cgn2023a] Outra reportagem registra esse trabalho como sua estreia na televisão.[^cgn2023b]
 
 Pela peça *Um Uísque Para o Rei Saul*, de 1968, recebeu o Prêmio Molière de melhor atriz.[^cgn2023b] Fernando Lopes Lima, diretor da Cia Teatro do Mundo, atribui a ela a liderança de movimentos no sindicato da categoria. A mesma reportagem a apresenta como amiga da escritora Clarice Lispector.[^cgn2023a]
 
@@ -32,9 +32,9 @@ Em 1971 fazia a personagem Helena na novela *Hospital*, seu último trabalho.[^c
 
 O [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande, leva o seu nome. Segundo o *Campo Grande News*, foi inaugurado em 1971, ano da morte da atriz.[^cgn2015]
 
-[[jose-octavio-guizzo|José Octávio Guizzo]] pesquisou durante anos a vida e a obra da atriz. A biografia *Glauce Rocha: atriz, mulher, guerreira* saiu em 1996, depois da morte do autor, que morreu em novembro de 1989 durante uma palestra sobre ela na Universidade Federal de Mato Grosso do Sul.[^marin]
+[[jose-octavio-guizzo|José Octávio Guizzo]] dedicou anos de pesquisa à trajetória de Glauce Rocha. A biografia *Glauce Rocha: atriz, mulher, guerreira* saiu em 1996, depois da morte do autor, que morreu em novembro de 1989 durante uma palestra sobre ela na Universidade Federal de Mato Grosso do Sul.[^marin]
 
-Em 2023, a vida da atriz inspirou o espetáculo *Glauce*, estrelado e dirigido por Débora Duboc, em cartaz no Sesc Copacabana, no Rio de Janeiro. A mesma matéria cita *Como Nascem as Estrelas*, peça sobre ela com Laura Santoro.[^cgn2023a]
+Em setembro de 2023, a vida da atriz era tema do espetáculo *Glauce*, estrelado e dirigido por Débora Duboc, em cartaz no Sesc Copacabana, no Rio de Janeiro. A mesma matéria cita *Como Nascem as Estrelas*, peça sobre ela escrita e protagonizada por Laura Santoro, montada pela Cia Teatro do Mundo e lançada em dezembro de 2022.[^cgn2023a]
 
 ## Espetáculos
 

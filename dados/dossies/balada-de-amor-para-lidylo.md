@@ -22,3 +22,7 @@ Dado pessoal: a matéria diz que a renda cobre custos de tratamento da artista. 
 
 - Nova busca ("LidyLo" estilista, show beneficente, Buteco do Miau): só a mesma matéria de A Crítica; outros resultados são matérias do Campo Grande News sobre o Buteco do Miau, sem menção ao evento (não abertas). Sem relato posterior ao evento. Segue fonte única; "reforcar".
 - Ajuste de redação: o verbete passou a tratar o evento como anunciado (a fonte é de 2 out. 2026, antes do evento) e a seção "Observação" perdeu a frase sobre o que as fontes não dizem (fica aqui: não há, entre as fontes abertas, relato de como a noite transcorreu). Pistas: perfis do Buteco do Miau e do Midiamax/Campo Grande News em 10 out. 2026.
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Busca de segunda fonte devolveu duas matérias do Midiamax ("Cena independente une show solidário para apoiar artista LidyLo em Campo Grande" e "Balada e almoço solidário para ajudar artista de Campo Grande acontece no fim de semana"), de 2026. As duas deram 403 ao abrir (pelo WebFetch e por curl simples), por isso nenhuma foi lida e nada entrou no verbete. Pela leitura do resumo de busca, uma delas menciona um evento solidário para a artista em outra data (sábado, 19); a conferir quando abrir. Resumos coincidem com A Crítica nos dados do evento (6 bandas, 9 out., R$ 20). Segue fonte única lida; "reforcar". Pista: abrir as duas matérias do Midiamax por outro meio autorizado.

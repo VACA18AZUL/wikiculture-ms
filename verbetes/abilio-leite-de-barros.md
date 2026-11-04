@@ -2,7 +2,7 @@
 titulo: Abílio Leite de Barros
 tipo: pessoa
 areas: [literatura, audiovisual]
-resumo: Escritor sul-mato-grossense, autor de Gente pantaneira (1998), irmão do poeta Manoel de Barros e ocupante da cadeira nº 32 da Academia Sul-Mato-Grossense de Letras. Participou do cineclube criado em Campo Grande em 1967. Morreu em 2019.
+resumo: Escritor, autor de Gente pantaneira (1998), irmão do poeta Manoel de Barros e ocupante da cadeira nº 32 da Academia Sul-Mato-Grossense de Letras. Participou do cineclube criado em Campo Grande em 1967. Morreu em 2019.
 ficha:
   Morte: "2019"
   Atividade: Escritor, cronista
@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Abílio Leite de Barros** foi um escritor sul-mato-grossense, autor do livro de crônicas *Gente pantaneira*, publicado em Campo Grande em 1998.[^multitemas][^origem2022] Ocupou a cadeira nº 32 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] e morreu em 2019.[^cgn2022]
+**Abílio Leite de Barros** foi um escritor, autor do livro de crônicas *Gente pantaneira*, publicado em Campo Grande em 1998.[^multitemas][^origem2022] Ocupou a cadeira nº 32 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] e morreu em 2019.[^cgn2022]
 
 ## Trajetória
 

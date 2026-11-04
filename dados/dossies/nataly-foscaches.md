@@ -47,3 +47,18 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou: codireção de *Jepea'yta*, pesquisa de mestrado. Agradecimentos ficaram de fora.
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Fonte nova aberta e lida:
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| boell | Fundação Heinrich Böll, escritório de Bruxelas, "Nataly Foscaches", perfil de autora (sem data) | https://eu.boell.org/en/node/7881 | sim, com ressalva (identidade por nome e tema) |
+
+- Sustenta: jornalista e antropóloga de MS; graduação em Jornalismo (UCDB); doutorado e mestrado em Estudos Latino-americanos (antropologia) na Universidade de Salamanca; livro de 2011 sobre racismo contra Kaiowá e Guarani na imprensa (em espanhol); prêmio extraordinário de doutorado da USAL em 2018 (teses de 2016-2017); colaborações com Repórter Brasil, Contag e Contar.
+- O perfil não cita *Jepea'yta* nem Gilmar Galache. A ligação com a diretora do filme vem de Corrêa/Banducci (tema da pesquisa) e do nome.
+- Divergência de ano: mestrado em 2010 (Corrêa 2023, p. 254) x livro de 2011 (Böll). Não é contradição direta (dissertação e livro).
+- Busca por *Jepea'yta* com os dois nomes: sem resultado.
+- Registro CLACSO do livro (biblioteca-repositorio.clacso.edu.ar/handle/CLACSO/240030): 403; não lido.
+- Situação: pronto-para-lote para a pesquisadora; a obra audiovisual segue em Corrêa (UFGD) e Corrêa/Banducci.

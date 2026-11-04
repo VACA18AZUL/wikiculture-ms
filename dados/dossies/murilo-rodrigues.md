@@ -11,3 +11,11 @@ Fonte aberta e não usada no verbete (possível homônimo):
 Fonte aberta e descartada: Evelyn Thamaris, *Correio do Estado*, 7 set. 2026 (exposição na Galeria de Vidro): não cita Murilo Rodrigues.
 
 O que mudou no verbete: registrada a divergência sobre a data de criação do coletivo (abril de 2025 no texto da matéria; abril de 2022 no resumo da página), como já está no verbete do coletivo.
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Buscas (inclusive restritas a fundacaodecultura.ms.gov.br, agenciadenoticias.ms.gov.br, correiodoestado.com.br, acritica.net, campogrande.ms.gov.br): nada novo sobre Murilo Rodrigues e o Corpocidade fora do Campo Grande News.
+
+- Aberta e lida: Prefeitura de Campo Grande, "Exposição gratuita valoriza cultura brasileira na Biblioteca Municipal", 22 out. 2026 (https://www.campogrande.ms.gov.br/cgnoticias/noticia/exposicao-gratuita-valoriza-cultura-brasileira-na-biblioteca-municipal/): traz o mesmo conteúdo da matéria de A Crítica (artista visual sul-mato-grossense Murilo Rodrigues, *Caminhos do Gesto*, até 31 out.); não menciona o Corpocidade. Release de assessoria, não é fonte independente nem liga a pessoa. Não entrou.
+- A Crítica, "Campo Grande recebe duas exposições de artes visuais nesta sexta-feira" (4 set. 2026) aberta: não cita Murilo nem o coletivo.
+- Segue "reforcar".

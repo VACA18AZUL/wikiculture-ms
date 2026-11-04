@@ -24,3 +24,15 @@
 ## Atualização de 2026-11-04 (reforço r-4)
 
 - Duas buscas abertas ("Alma Guarani"; "Manoel menino de Barros" + ZéDu). Só volta a mesma matéria do Campo Grande News (10 dez. 2013). Nada sobre o programa "Alma Guarani" (emissora, período) em outro veículo. Nada alterado no verbete; segue "reforcar". Pistas: Acervo Digital Memória Fonográfica de MS (gravações), Itaú Cultural, Mapas da Cultura.
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Fonte nova aberta e lida:
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms16 | "Chá Acadêmico comemora os 45 anos da Academia Sul-Mato-Grossense de Letras nessa quinta-feira", FCMS, 26 out. 2016 (sem autor) | https://www.fundacaodecultura.ms.gov.br/cha-academico-comemora-os-45-anos-da-academia-sul-mato-grossense-de-letras-nessa-quinta-feira-com-musica-e-lancamento-de-livro/ | sim |
+
+- Sustenta: cantor, compositor e músico; Projeto Pixinguinha; trilhas de teatro e publicidade; apresentou o programa "Alma Guarani" na TV; CD *ZéDu Novo* (20 canções, ano não dado); em MS desde 1985; apresentação no Chá Acadêmico em 27 out. 2016.
+- Resumos de busca (FCMS, Festival Arraial da Concha): citam o projeto Trinka com Fábio Adames e a participação no projeto Vertentes; páginas não abertas, não entraram.
+- Situação: pronto-para-lote.

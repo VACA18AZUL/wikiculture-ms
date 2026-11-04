@@ -21,3 +21,7 @@ Nada mudou no texto. Continua com fonte única (Kempfer e Oliveira, *Campo Grand
 ## Atualização de 2026-11-04
 
 CGN 9 set. 2011 reaberta: o pai é nomeado Paulo Vitor (palhaço Caroço), 60 anos em 2011, "só administra o negócio". Nome e idade acrescentados ao verbete; vida familiar fica fora.
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Buscas restritas a FCMS, Agência, Correio do Estado, A Crítica, Midiamax e prefeitura: nenhuma menção a "Irmãos Perez", Pitchula ou Caroço. Aberto e lido: Correio do Estado, Bruna Aquino, "Fogo não queimou a magia e circo vai para os bairros" (13 mar. 2019): trata do Top Circo (antigo Circo Real Pantanal, segundo a matéria), da família Perez e dos irmãos Hugo e Wagner; não cita Pitchula, Caroço nem "Irmãos Perez". Não serve de segunda fonte para este circo; a relação com Top Circo/Circo do Bolachinha segue não confirmada. Nada alterado. Segue "reforcar".

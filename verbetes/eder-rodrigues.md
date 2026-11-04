@@ -2,7 +2,7 @@
 titulo: Éder Rodrigues
 tipo: pessoa
 areas: [teatro]
-resumo: Dramaturgo mineiro, autor de "Três Vírgula Quatro Graus na Escala Richter", peça escrita para o diretor Nill Amaral e montada pela Cia. Ofit em Campo Grande em 2016 e 2026.
+resumo: Dramaturgo mineiro, autor de "Três Vírgula Quatro Graus na Escala Richter", peça escrita para o diretor Nill Amaral e para a Cia. Ofit, de Campo Grande, com montagens anunciadas em 2016 e 2026.
 ficha:
   Atividade: Dramaturgia
 status: rascunho
@@ -13,11 +13,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o Campo Grande News, escreveu o texto para o diretor [[nill-amaral|Nill Amaral]]. O projeto foi contemplado com um prêmio da Funarte e do Ministério da Cultura em 2014, mas o recurso só saiu em 2015. Nesse intervalo, diretor e dramaturgo se encontraram e adaptaram o texto. A peça estreou em 4 de fevereiro de 2016 no [[sesc-teatro-prosa|Teatro Prosa]], com atores da [[cia-ofit|Cia. Ofit]].[^cgn2016]
+Segundo o Campo Grande News, escreveu o texto para o diretor [[nill-amaral|Nill Amaral]]. O projeto foi contemplado com um prêmio da Funarte e do Ministério da Cultura em 2014, mas o recurso só saiu em 2015. Nesse intervalo, diretor e dramaturgo se encontraram e adaptaram o texto. A reportagem anunciou a estreia para 4 a 6 de fevereiro de 2016 no [[sesc-teatro-prosa|Teatro Prosa]], com atores de Campo Grande, alguns da [[cia-ofit|Ofit]] (Associação Cultural Oficina de Interpretação Teatral).[^cgn2016]
 
-O Correio do Estado informou em 2026 que o texto foi escrito especialmente para a companhia em 2015. A Ofit remontou a peça de 5 a 7 de agosto de 2026, nas comemorações de seus 20 anos.[^ce2026]
+O Correio do Estado informou em 2026 que o texto foi escrito especialmente para a companhia em 2015. O jornal anunciou a remontagem da peça pela Ofit para 5 a 7 de agosto de 2026, nas comemorações dos 20 anos da companhia.[^ce2026]
 
-Em 2023, fez a consultoria dramatúrgica de *Até que a Morte nos Repare*, outro espetáculo da Ofit dirigido por Nill Amaral, que estreou em março no Sesc Cultura.[^cgn2023]
+Em 2023, o Campo Grande News creditou a Éder Rodrigues a consultoria dramatúrgica de *Até que a Morte nos Repare*, outro espetáculo da Ofit dirigido por Nill Amaral, com estreia anunciada para março no Sesc Cultura.[^cgn2023]
 
 ## Espetáculos
 

@@ -41,3 +41,19 @@ Observação: quase tudo vem de uma única matéria (cgntodopoema); a segunda s�
 ## Uso no verbete
 
 - Entrou: tudo acima. Fora: telefone e promoção de venda (dados pessoais e irrelevantes).
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Fontes novas abertas e lidas (Correio do Estado):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| ce2019 | Redação, "Entre a sensibilidade e a agressividade, jornalista lança livro de poesias nesta quarta", Correio do Estado, 3 fev. 2019 | https://correiodoestado.com.br/correio-b/entre-a-sensibilidade-e-a-agressividade-jornalista-lanca-livro-de-poe/346554/ | sim |
+| ce2020 | Naiane Mesquita, "Escritores declamam poesias nas redes sociais", Correio do Estado, 5 maio 2020 | https://correiodoestado.com.br/correio-b/escritores-declamam-poesias-nas-redes-sociais/371639/ | sim |
+
+- ce2019: jornalista, poeta e escritor; carioca; em Campo Grande desde 2000; mestre em Comunicação (UFMS); diretor-executivo da Semana On; blog Escrevinhamentos; *Outros Sentidos* em 2008; *Poemas de Amor e Fúria* (74 poemas, ilustrações de Isaac de Oliveira, prefácio de L. Rafael Nolli), lançamento em 6 fev. 2019 na Leparole.
+- ce2020: Poema na Quarentena MS, 14 poetas, início em 6 maio 2020, ideia de Barone e Fábio Gondim.
+- Divergência: *Outros Sentidos* em 2008 (CE 2019) x 2009 (CGN 2024). Registrada no verbete e no resumo.
+- Não abertos: Midiamax, "Todo poema dito" (403); Primeira Página (403); A Crítica, "Projeto Poema na Quarentena MS dissemina poesia" (404 na URL do resultado).
+- Nomes novos propostos: Semana On (revista eletrônica); Isaac de Oliveira e L. Rafael Nolli (se ainda não estiverem).
+- Situação: pronto-para-lote.

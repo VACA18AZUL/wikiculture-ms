@@ -18,3 +18,7 @@
 - Fonte reaberta: o trecho sobre o Bataclã confere (1976, 18 profissionais liberais, música e dublagem, apresentações em Aquidauana, no estado e no país).
 - Segunda fonte: Ziliani (Perspectiva, UFSC, 2016), já usada em [[paulo-correa-de-oliveira]], foi aberta e não cita o Bataclã. A cota de buscas na web desta rodada acabou antes de nova tentativa; não se achou segunda fonte.
 - Mudanças: ligação a [[paulo-correa-de-oliveira]]; tempo verbal neutro na abertura (a fonte não diz se o grupo acabou); nota acrescentada ao fim do parágrafo; data da nota corrigida (a cópia não traz 2018).
+
+## Atualização de 2026-11-04 (reforço r2-3)
+
+Buscas (Bataclã/Bataclan com Aquidauana, Paulo Corrêa de Oliveira, CERA; também restritas a FCMS, Agência, Correio do Estado, Campo Grande News, UFMS, UEMS): nada sobre o grupo. Resultado relevante ao diretor, já usado em outro verbete: Ziliani (Perspectiva, UFSC, 2016), sobre o Grupo Teatral do CERA (1974 a 2001); não cita o Bataclã. Nada alterado. Segue "reforcar".
