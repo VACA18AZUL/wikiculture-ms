@@ -33,7 +33,7 @@ Descartadas: FCMS 2018 (seleção MARCO 2018), 2022 (lista de filmes do MIS) —
 - Vídeo "Águas que Educam – o Pantanal e sua História na Pintura Sul-Mato-Grossense", exibido na Semana do Meio Ambiente (jun. 2017); nasceu de projeto na UFMS; 66 pinturas e dois desenhos [fcms2017b].
 - Obras de Roberto de Lamônica expostas no MARCO em 2018 pertencem ao seu acervo; reunidas com a artista Angela Miracema em leilões, 12 a 14 obras [fcms2018].
 - Palestra "Cerâmicas Kadiweu, Kinikinau e Terena" na Semana do Patrimônio Cultural Indígena, abr. 2019 [fcms2019a].
-- Documentário "Águas que Encantam" (2019, 20 min), direção com Cândido Alberto da Fonseca, pinturas sul-mato-grossenses; exibido no 15º FASP em Ladário [fcms2019b].
+- Documentário "Águas que Encantam" (2019, 20 min), direção com Cândido Alberto da Fonseca, pinturas sul-mato-grossenses; exibido em Corumbá a alunos de Ladário, na programação do FASP [fcms2019b].
 - Livros lançados em 24 abr. 2025 na Livraria Leitura: *Vivência de um educador caipira* e *Cerâmica indígena contemporânea em Mato Grosso do Sul* (dez anos de pesquisa; Kinikinau, Kadiwéu, Terena) [cgn2025].
 - Coautor de artigo sobre cerâmica kadiwéu na Tellus, 2021 [tellus].
 

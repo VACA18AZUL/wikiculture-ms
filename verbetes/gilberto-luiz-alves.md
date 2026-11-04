@@ -29,7 +29,7 @@ A pesquisa sobre a cerâmica dos povos Kadiwéu, Kinikinau e Terena foi tema de 
 ## Filmografia
 
 - *Águas que Educam – o Pantanal e sua História na Pintura Sul-Mato-Grossense* — vídeo nascido de um projeto na UFMS, com 66 pinturas e dois desenhos; exibido na Semana do Meio Ambiente de 2017; realização.[^fcms2017b]
-- *Águas que Encantam* (2019) — documentário de 20 minutos sobre o Pantanal visto pela pintura sul-mato-grossense; direção, com [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]]. Exibido em Ladário no 15º [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^fcms2019b]
+- *Águas que Encantam* (2019) — documentário de 20 minutos sobre o Pantanal visto pela pintura sul-mato-grossense; direção, com [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]]. Exibido em Corumbá para alunos de uma escola de Ladário, na programação do [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]] de 2019.[^fcms2019b]
 
 [^cgn2023]: Aletheya Alves, ["Coleção de vida faz Gilberto ter obras de arte do quarto ao banheiro"](https://www.campograndenews.com.br/lado-b/arquitetura-23-08-2011-08/colecao-de-vida-faz-gilberto-ter-obras-de-arte-do-quarto-ao-banheiro), *Campo Grande News*, 23 mar. 2023. Acesso em 4 nov. 2026.
 [^cgn2025]: Natália Olliver, ["Gilberto Luiz Alves lança livros sobre educação caipira e cerâmica indígena"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/gilberto-luiz-alves-lanca-livros-sobre-educacao-caipira-e-ceramica-indigena), *Campo Grande News*, 23 abr. 2025. Acesso em 4 nov. 2026.
