@@ -29,7 +29,7 @@ A temporada de 2020 foi feita em transmissões pela internet, por causa da pande
 
 Em 2022, o edital recebeu 177 inscrições e selecionou 24 atrações, com cachês de R$ 3.500 e R$ 7.500. Segundo a fundação, cerca de 8 mil pessoas foram aos shows naquele ano.[^fcms2022]
 
-Não houve edição em 2023. O projeto foi retomado em 2024, com 148 inscrições, 28 atrações e cachês de R$ 5.000 e R$ 8.000. O lançamento foi em 4 de junho, no Memorial da Cultura, e o primeiro show, em 16 de junho, reuniu Alzira E, [[marina-peralta|Marina Peralta]], [[bro-mcs|Brô MC's]] e Hermanos Irmãos no concerto "Fronteira Guarani".[^fcms2024a][^cgn2024] Em 2024, foram 28 shows, em Campo Grande e em Aquidauana, Ponta Porã, Rio Verde, Dourados e Três Lagoas. O encerramento, em 15 de dezembro, teve Gio Resquin e o [[falange-da-rima|Falange da Rima]], que disse ter sido o primeiro grupo de rap a tocar no projeto.[^fcms2024b]
+Não houve edição em 2023. O projeto foi retomado em 2024, com 148 inscrições, 28 atrações e cachês de R$ 5.000 e R$ 8.000. O lançamento foi em 4 de junho, no Memorial da Cultura, e o primeiro show foi anunciado para 16 de junho, com o concerto "Fronteira Guarani", de Alzira E, [[marina-peralta|Marina Peralta]], [[bro-mcs|Brô MC's]] e Hermanos Irmãos.[^fcms2024a][^cgn2024] Em 2024, foram 28 shows, em Campo Grande e em Aquidauana, Ponta Porã, Rio Verde, Dourados e Três Lagoas. O encerramento, em 15 de dezembro, teve Gio Resquin e o [[falange-da-rima|Falange da Rima]], que disse ter sido o primeiro grupo de rap a tocar no projeto.[^fcms2024b]
 
 ## Selecionados de 2016
 
@@ -40,11 +40,14 @@ O resultado do edital de 2016 listou 17 atrações de encerramento e 18 de abert
 
 Algumas noites daquela temporada:[^fcms2016c][^fcms2016e]
 
-- 20 de novembro de 2016: o duo [[xaras-gabriel|Xaras Gabriel]] e Dubmistah, de reggae, dub e dancehall, e a banda gospel LPN, de Caarapó.[^fcms2016c]
+- 20 de novembro de 2016: o duo de reggae Xaras Gabriel e Dubmistah, com participação de Marina Peralta e Vinil Moraes, e a banda gospel LPN, de Caarapó.[^fcms2016c]
+- 29 de janeiro de 2017: anunciada como a última noite da temporada de 2016, com a banda de new metal Opuesto, de Dourados, que até 2015 se chamava Hieron, e o cantor Simona.[^fcms2017]
 - 18 de dezembro de 2016: a banda de metal Tonelada, de Dourados, formada por Jaum Queiroz, Luan Mendes, Paulinho Torrontegui e Renan Gobi, com repertório autoral do EP *Grosso* (2014), e o cantor e violonista Nuno Baez, potiguar de Natal que vive em Campo Grande desde 2004.[^fcms2016d][^fcms2016e]
 
 ## Outras atrações citadas
 
+- 2018: para 6 de maio, a fundação anunciou a banda MPBlues, de Campo Grande, que toca blues em português, e a cantora [[giani-torres|Giani Torres]].[^fcms2018]
+- 2020: em 25 de outubro, a banda de rock Os Walkírias e Lulu Mello tocaram na temporada transmitida pela internet.[^fcms2020e] Para 31 de outubro, foi anunciado o trio Renan and The Kings, com o show "Poesia de Bar".[^fcms2020f]
 - 2020: a banda Pata de Cachorro, de horror punk, criada em 2017 em Campo Grande, ficou em 5º lugar entre os shows de abertura e teve o show "Noite de Terror" programado para 14 de novembro, na temporada transmitida pela internet.[^fcms2020c][^fcms2020d]
 
 [^fcms2015]: Alexander Onça, ["Sectei reúne classe musical do Estado e apresenta edital Som da Concha"](https://www.fundacaodecultura.ms.gov.br/sectei-reune-classe-musical-do-estado-e-apresenta-edital-som-da-concha/), Fundação de Cultura de Mato Grosso do Sul, 2 dez. 2015. Acesso em 4 nov. 2026.
@@ -55,6 +58,10 @@ Algumas noites daquela temporada:[^fcms2016c][^fcms2016e]
 [^fcms2016c]: Fundação de Cultura de Mato Grosso do Sul, ["Xaras Gabriel, Dubmistah e banda LPN celebram união pela música no Som da Concha"](https://www.fundacaodecultura.ms.gov.br/xaras-gabriel-dubmistah-e-banda-lpn-celebram-uniao-pela-musica-no-som-da-concha/), 22 nov. 2016. Acesso em 4 nov. 2026.
 [^fcms2016d]: Fundação de Cultura de Mato Grosso do Sul, ["Do metal à voz e violão: Som da Concha aposta na diversidade de Tonelada e Nuno Baez"](https://www.fundacaodecultura.ms.gov.br/do-metal-a-voz-e-violao-som-da-concha-aposta-na-diversidade-de-tonelada-e-nuno-baez/), 15 dez. 2016. Acesso em 4 nov. 2026.
 [^fcms2016e]: Fundação de Cultura de Mato Grosso do Sul, ["MPB de Nuno Baez e metal da Tonelada traz diversidade de estilos ao Som da Concha"](https://www.fundacaodecultura.ms.gov.br/mpb-de-nuno-baez-e-metal-da-tonelada-traz-diversidade-de-estilos-ao-som-da-concha/), 19 dez. 2016. Acesso em 4 nov. 2026.
+[^fcms2017]: Fundação de Cultura de Mato Grosso do Sul, ["Metal da Opuesto e samba e MPB de Simona fecham temporada do Som da Concha no próximo domingo"](https://www.fundacaodecultura.ms.gov.br/metal-da-banda-opuesto-e-samba-e-mpb-de-simona-fecham-a-temporada-2016-do-som-da-concha-no-proximo-domingo/), 25 jan. 2017. Acesso em 4 nov. 2026.
+[^fcms2018]: Fundação de Cultura de Mato Grosso do Sul, ["Inspirações diversas e talento de sobra: Som da Concha apresenta MPBlues e Giani Torres"](https://www.fundacaodecultura.ms.gov.br/inspiracoes-diversas-e-talento-de-sobra-som-da-concha-apresenta-mpblues-e-giani-torres/), 3 maio 2018. Acesso em 4 nov. 2026.
+[^fcms2020e]: Fundação de Cultura de Mato Grosso do Sul, ["Rock e suingue: Som da Concha ousa com misturas e agito neste domingo"](https://www.fundacaodecultura.ms.gov.br/rock-e-suingue-som-da-concha-ousa-com-misturas-e-agito-neste-domingo/), 25 out. 2020. Acesso em 4 nov. 2026.
+[^fcms2020f]: Fundação de Cultura de Mato Grosso do Sul, ["Som da Concha deste fim de semana traz diversidade de gêneros musicais"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-deste-fim-de-semana-traz-diversidade-de-generos-musicais/), 28 out. 2020. Acesso em 4 nov. 2026.
 [^fcms2020a]: Fundação de Cultura de Mato Grosso do Sul, ["Banda Haiwanna encerra Som da Concha – Lives 2020 com show autoral"](https://www.fundacaodecultura.ms.gov.br/banda-haiwanna-encerra-som-da-concha-lives-2020-com-show-autoral/), 2 dez. 2020. Acesso em 4 nov. 2026.
 [^fcms2020b]: Fundação de Cultura de Mato Grosso do Sul, ["Temporada 2020 do Som da Concha acontece por meio de lives em outubro e novembro"](https://www.fundacaodecultura.ms.gov.br/temporada-2020-do-som-da-concha-acontece-por-meio-de-lives-em-outubro-e-novembro/), 15 out. 2020. Acesso em 4 nov. 2026.
 [^fcms2020c]: Fundação de Cultura de Mato Grosso do Sul, ["Fundação de Cultura divulga selecionados para o projeto Som da Concha"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-divulga-selecionados-para-o-projeto-som-da-concha/), 4 ago. 2020. Acesso em 4 nov. 2026.

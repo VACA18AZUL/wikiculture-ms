@@ -10,13 +10,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Ossuna Braza** é harpista e compositor natural de Jardim, em Mato Grosso do Sul. Também trabalha com artes visuais e cênicas.[^ce2024]
+**Ossuna Braza** é harpista e compositor natural de Jardim, em Mato Grosso do Sul. Tem experiência também em artes visuais e cênicas.[^ce2024]
 
 ## Trajetória
 
 Em junho de 2024, o *Correio do Estado* registrou que ele tocava harpa havia três anos e estava no começo da carreira solo. O show "Una Aza", em trio com baixo e bateria, celebrava o primeiro EP de mesmo nome, com composições próprias para harpa e charango e versões de [[almir-sater|Almir Sater]] e [[paulo-simoes|Paulo Simões]]. Entre as influências citadas estão a música fronteiriça, a [[polca-rock|polca-rock]], o blues, o flamenco, o tango argentino e o joropo venezuelano.[^ce2024]
 
-Em 7 de julho de 2024, abriu a edição instrumental do [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em Campo Grande, antes do show do violeiro [[marcos-assuncao|Marcos Assunção]].[^fcms2024] Em abril de 2025, apresentou-se nos showcases da Feira da Música do Campão Cultural, no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^fcms2025a] No mesmo ano, tocou harpa no EP *Electrosounds*, do duo [[blx|BLX]].[^fcms2025b]
+Em 7 de julho de 2024, abriu a edição instrumental do [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], em Campo Grande, antes do show do violeiro [[marcos-assuncao|Marcos Assunção]].[^fcms2024] Em 2025, apresentou-se nos showcases da Feira da Música do Campão Cultural, no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^fcms2025a] No mesmo ano, tocou harpa no EP *Electrosounds*, do duo [[blx|BLX]].[^fcms2025b]
 
 Em 16 de maio de 2026, a convite do maestro [[eduardo-martinelli|Eduardo Martinelli]], participou do projeto Catedral Erudita no [[festival-america-do-sul-pantanal|Festival América do Sul]], no [[instituto-moinho-cultural-sul-americano|Moinho Cultural]], em Corumbá, ao lado de Marcos Assunção. Tocou seis músicas, cinco delas do seu trabalho autoral, que a Fundação de Cultura de Mato Grosso do Sul grafou como *Una Asa*.[^fcms2026]
 

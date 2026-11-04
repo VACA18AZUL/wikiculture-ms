@@ -18,7 +18,7 @@ A **Barata Tonta** é uma banda de rock de Campo Grande, surgida no fim de 2011,
 
 A banda nasceu de três amigos que tocavam juntos havia mais de dez anos: Marcelo Chaves, Marcos Vital e João Brandes Garcia. Marcos Vital deu lugar a Nilton Gabriel Paiva. Em março de 2014, a banda lançou seu primeiro álbum demo, com músicas próprias, e no mesmo ano foi selecionada para o Kit de Difusão Cultural da Fundação de Cultura.[^fcms2016b]
 
-Ficou em 14º lugar na seleção do [[som-da-concha|Som da Concha]] de 2016.[^fcms2016a] O show, de abertura da noite da banda Hollywood Cowboys, foi anunciado para 6 de novembro de 2016, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]].[^fcms2016b] O relato da Fundação, publicado no dia seguinte, cita as participações do guitarrista Anderson Rocha e do baterista Bosco, ex-integrante do [[bando-do-velho-jack|Bando do Velho Jack]]. O texto de divulgação apresentava Bosco como novo integrante da banda.[^fcms2016b][^fcms2016c]
+Ficou em 14º lugar na categoria Show de Abertura da seleção do [[som-da-concha|Som da Concha]] de 2016.[^fcms2016a] O show, de abertura da noite da banda Hollywood Cowboys, foi anunciado para 6 de novembro de 2016, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]].[^fcms2016b] O relato da Fundação, publicado no dia seguinte, cita as participações do guitarrista Anderson Rocha e do baterista Bosco, ex-integrante do [[bando-do-velho-jack|Bando do Velho Jack]]. O texto de divulgação apresentava Bosco como novo integrante da banda.[^fcms2016b][^fcms2016c]
 
 Os dois textos descrevem o estilo de formas diferentes: o anúncio fala em rock'n'blues, com clássicos nacionais e internacionais, e o relato, em hard rock dos anos 1980.[^fcms2016b][^fcms2016c]
 

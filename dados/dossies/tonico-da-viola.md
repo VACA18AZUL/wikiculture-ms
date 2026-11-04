@@ -34,3 +34,8 @@ Descartadas: FCMS 2015, 2019, 2021, 2025 (falam de Tonico e Tinoco ou Tonico Ben
 ## Uso no verbete
 
 - Tudo de fcms2017/2018; ce2014 fora.
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte independente: WebSearch ("Tonico da Viola" sambista Campo Grande) só trouxe homônimos (Tonico e Tinoco, Tonico da Vila); Brave em limite de requisições (429). Nenhuma fonte nova lida. Fonte única (FCMS).
+- Pistas: acervo do Correio do Estado (2014, Festival América do Sul, já listado acima como homônimo possível); Campo Grande News, editoria Lado B.

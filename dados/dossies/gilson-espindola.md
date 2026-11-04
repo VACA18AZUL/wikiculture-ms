@@ -57,3 +57,8 @@ Descartadas: Midiamax 2019 e 2020 (403/página vazia); Dourados News 2025 (não 
 ## Uso no verbete
 
 - Entraram os fatos acima; shows de 2018, 2023 e 2025 redigidos como anunciados.
+
+## Revisão de 2026-11-04 (valn-26)
+
+- O título "Dois Caminhos" não aparece no ce2019 (que só fala do "primeiro DVD"). Passou a ter nota do canal do artista no YouTube (descrição: "DVD: Dois Caminhos - 40 anos (2019)") e do fcms2018, que em 2018 anunciava a conclusão do "CD Dois Caminhos", autoral. CD (2018, anúncio) x DVD (2019, canal): as duas versões no verbete.
+- Wikipédia lida nesta revisão: dá nascimento em Aquidauana, 19 ago. 1963 (igual ao ce2019), mas a infobox põe "Origem: Campo Grande" e a categoria "Naturais de Campo Grande". Cita também os discos *Espíndola canta* (2003), *O quê virou* (2003) e *GerAções* (2006), com fonte no Portal da Educativa (27 jul. 2019), não aberta: não usados.

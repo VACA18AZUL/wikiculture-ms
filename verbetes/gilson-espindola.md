@@ -19,7 +19,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Gilson Espíndola** é um cantor, compositor e engenheiro de áudio sul-mato-grossense. Nasceu em Aquidauana em 19 de agosto de 1963 e é dono do Estúdio X, de gravação e produção musical.[^ce2019] Mora em Campo Grande desde a infância.[^fcms2018]
+**Gilson Espíndola** é um cantor, compositor e engenheiro de áudio sul-mato-grossense. É natural de Aquidauana, onde nasceu em 19 de agosto de 1963, e tem um estúdio de gravação e produção musical, o Estúdio X.[^ce2019] Mora em Campo Grande desde a infância.[^fcms2018]
 
 ## Trajetória
 
@@ -29,9 +29,9 @@ Em maio de 2003 venceu o 4º Americanta, festival da Prefeitura de Americana (SP
 
 Desde o fim de 2014 toca no grupo [[chalana-de-prata|Chalana de Prata]], com [[celito-espindola|Celito Espíndola]], [[guilherme-rondon|Guilherme Rondon]], [[paulo-simoes|Paulo Simões]] e [[dino-rocha|Dino Rocha]].[^fcms2018] Em julho de 2023, com Celito e Guilherme Rondon, anunciou duas noites do show *Comitiva Pantaneira – Vem pra Cá* na [[estacao-cultural-teatro-do-mundo|Estação Cultural Teatro do Mundo]], em Campo Grande.[^fcms2023]
 
-Em maio de 2019 anunciou a gravação do primeiro DVD, *Dois Caminhos*, pelos 40 anos de carreira, com composições próprias e de parceiros como Alexandre Saad, Gilmar Xavier, Marcos Mendes, Rodrigo Teixeira e Celito Espíndola. Entre elas, "Madre Canaã", parceria com Alexandre Saad gravada pela dupla Américo & Nando. O projeto teve apoio do Fundo Municipal de Incentivo à Cultura de Campo Grande.[^ce2019]
+Em maio de 2019, o *Correio do Estado* anunciou para o dia 29 a gravação do primeiro DVD do músico, pelos 40 anos de carreira, com composições próprias e de parceiros como Alexandre Saad, Gilmar Xavier, Marcos Mendes, Rodrigo Teixeira e Celito Espíndola. Entre elas, "Madre Canaã", parceria com Alexandre Saad gravada pela dupla Américo & Nando. O lançamento estava previsto para o segundo semestre, com apoio do Fundo Municipal de Incentivo à Cultura (FMIC).[^ce2019] Em 2018, a Fundação de Cultura havia anunciado a conclusão de um álbum autoral chamado *Dois Caminhos*, em CD.[^fcms2018] O canal do músico no YouTube registra o DVD *Dois Caminhos – 40 anos* (2019).[^yt]
 
-Em 2025, a UFGD anunciou o show *Violão entre Guitarras – A História da Música Urbana no MS*, de Gilson com o guitarrista Gabriel de Andrade, com participação do poeta [[emmanuel-marinho|Emmanuel Marinho]], na abertura das comemorações dos 20 anos da universidade, em 4 de julho, em Dourados. O repertório relê canções de Paulo Simões, Geraldo Roca e [[geraldo-espindola|Geraldo Espíndola]].[^ufgd2025]
+Em 2025, a UFGD anunciou o show *Violão entre Guitarras – A História da Música Urbana no MS*, de Gilson com o músico Gabriel de Andrade, com participação do poeta [[emmanuel-marinho|Emmanuel Marinho]], na abertura das comemorações dos 20 anos da universidade, em 4 de julho, em Dourados. O repertório relê canções de Paulo Simões, Geraldo Roca e [[geraldo-espindola|Geraldo Espíndola]].[^ufgd2025]
 
 ## Discografia
 
@@ -40,9 +40,10 @@ Em 2025, a UFGD anunciou o show *Violão entre Guitarras – A História da Mús
 
 ## Videografia
 
-- *Dois Caminhos – 40 anos* (2019) — DVD, registro de show; direção musical de Gilson Espíndola e Otávio Neto.[^ce2019]
+- *Dois Caminhos – 40 anos* (2019) — DVD.[^yt] Direção musical de Gilson Espíndola e Otávio Neto, segundo o anúncio da gravação.[^ce2019]
 
 [^ce2019]: Aline Oliveira, ["Gilson Espíndola grava DVD em comemoração a 40 anos de carreira"](https://correiodoestado.com.br/correio-b/gilson-espindola-grava-dvd-em-comemoracao-a-40-anos-de-carreira/353171), *Correio do Estado*, 17 maio 2019. Acesso em 4 nov. 2026.
 [^fcms2018]: Gisele Colombo, ["Som da Concha celebra talento e inspiração com Ton Alves e Gilson Espíndola"](https://www.fundacaodecultura.ms.gov.br/som-da-concha-celebra-talento-e-inspiracao-com-ton-alves-e-gilson-espindola/), *Fundação de Cultura de MS*, 4 abr. 2018. Acesso em 4 nov. 2026.
 [^fcms2023]: Ana Paula Ostapenco de Souza, ["Celito, Gilson Espíndola e Guilherme Rondon promovem show nesta quinta e sexta na Capital"](https://www.fundacaodecultura.ms.gov.br/celito-gilson-espindola-e-guilherme-rondon-promovem-show-nesta-quinta-e-sexta-na-capital/), *Fundação de Cultura de MS*, 20 jul. 2023. Acesso em 4 nov. 2026.
+[^yt]: Gilson Espíndola, [descrição do canal @Gilespindola](https://www.youtube.com/@Gilespindola/about), *YouTube*. Acesso em 4 nov. 2026.
 [^ufgd2025]: ["Show com Gilson Espíndola e Emmanuel Marinho"](https://portal.ufgd.edu.br/coordenadoria/coc/calendario/show-com-gilson-espindola-e-emmanuel-marinho), *UFGD*, 2025. Acesso em 4 nov. 2026.

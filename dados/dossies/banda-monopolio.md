@@ -35,3 +35,9 @@ Descartadas: busca no Correio do Estado, Bing e Brave (429) sem resultado sobre 
 ## Uso no verbete
 
 - Tudo acima, exceto o link do clipe.
+
+## Atualização de 2026-11-04
+
+- Busca de segunda fonte: Brave (429, limite), busca interna do Correio do Estado e do Campo Grande News (resultados carregados por script, nada legível), Diário Corumbaense (falha de conexão). Nenhuma fonte nova lida. Fonte única (FCMS).
+- O 11º lugar de 2016 é na categoria Show de Abertura (FCMS 9 mar. 2016).
+- FCMS 24 out. 2016: "a chuva deu uma trégua" — o verbete dizia "sob chuva"; corrigido.

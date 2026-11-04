@@ -20,19 +20,19 @@ atualizado: 2026-11-04
 
 Pizzini criou em 1987 a produtora Polo MS Cinema e Vídeo. Em 2015, coordenava um núcleo criativo do Centro-Oeste financiado pelo Fundo Setorial do Audiovisual, voltado ao desenvolvimento de cinco projetos de cinema e televisão; a produtora captou R$ 1 milhão e foi a única de Mato Grosso do Sul contemplada na seleção. Entre os projetos estava a série de documentários *Confluência do Prata*, de [[mauricio-copetti|Maurício Copetti]].[^ce2015a]
 
-Em entrevista ao *Correio do Estado*, contou que escrevia poemas e que o filme *Limite*, de Mário Peixoto, mostrou a ele que era possível fazer poesia com imagens. Do contato com Peixoto nasceu o curta *Mar de Fogo*, de cinco minutos, que foi a única produção brasileira na mostra competitiva do Festival de Berlim. Em abril de 2015, viajou a Paris para exibir filmes no Festival de Cinema Brasileiro da Cinemathèque Française.[^ce2015a]
+Em entrevista ao *Correio do Estado*, contou que escrevia poemas e que o filme *Limite*, de Mário Peixoto, mostrou a ele que era possível fazer poesia com imagens. Do contato com Peixoto nasceu o curta *Mar de Fogo*, de cinco minutos, que foi a única produção brasileira na mostra competitiva do Festival de Berlim. Em abril de 2015, o jornal informou que ele havia embarcado para Paris, onde filmes seus seriam exibidos no Festival de Cinema Brasileiro, na Cinemathèque Française.[^ce2015a]
 
-*Caramujo-Flor*, lançado em 1989, parte da obra do poeta [[manoel-de-barros|Manoel de Barros]].[^ce2015b] O filme-ensaio *Olho Nu*, sobre [[ney-matogrosso|Ney Matogrosso]], levou quatro anos de trabalho, foi lançado em 2014, teve 11 mil espectadores e ficou entre os finalistas do Grande Prêmio do Cinema Brasileiro de 2015. Segundo o diretor, reaproveita fragmentos de *Caramujo-Flor* e passa por Bela Vista e Campo Grande.[^ce2015b] Em 2021, lançou *Zimba*, documentário sobre o ator e diretor de teatro Zbigniew Ziembinski, selecionado para a mostra competitiva do 26º É Tudo Verdade; antes, havia finalizado *Rio da Dúvida*, sobre a expedição de Theodore Roosevelt e Cândido Rondon.[^ce2021]
+*Caramujo-Flor*, lançado em 1989, parte da obra do poeta [[manoel-de-barros|Manoel de Barros]].[^ce2015b] O filme-ensaio *Olho Nu*, sobre [[ney-matogrosso|Ney Matogrosso]], levou quatro anos de trabalho, foi lançado em 2014, teve 11 mil espectadores e foi finalista do Grande Prêmio do Cinema Brasileiro em 2015. Segundo o diretor, reaproveita fragmentos de *Caramujo-Flor* e passa por Bela Vista e Campo Grande.[^ce2015b] Em 2021, *Zimba*, documentário de Pizzini sobre o ator e diretor de teatro Zbigniew Ziembinski, foi selecionado para a mostra competitiva do 26º É Tudo Verdade. Quando recebeu o convite para esse projeto, o diretor finalizava *Rio da Dúvida*, sobre a expedição de Theodore Roosevelt e Cândido Rondon.[^ce2021]
 
 A FCMS cita também *Enigma de um Dia*, *Glauces* e *500 Almas* entre os filmes premiados do diretor e registra exibições em festivais como Veneza, Brasília e Mar del Plata.[^fcms2026] Pizzini foi um dos produtores do longa [[madalena-longa|Madalena]], de [[madiano-marcheti|Madiano Marcheti]], pela Pólo Filmes.[^cgn2019]
 
-O [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]] abriu em 16 de novembro de 2009 a Mostra de Cinema Joel Pizzini, com longas, médias e curtas do diretor.[^ce2009] Foi curador do 13º e do 14º [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]], em 2016 e 2017; a programação de 2017 previa também oficinas com ele.[^fcms2016][^fcms2017] Em 2017, *Caramujo-Flor* entrou na mostra de 40 curtas com que o MIS marcou os 40 anos do estado.[^fcms2017b]
+Em 16 de novembro de 2009, o *Correio do Estado* anunciou para aquela semana, de 16 a 20 de novembro, a Mostra de Cinema Joel Pizzini, com longas, médias e curtas do diretor, no [[mis-ms|Museu da Imagem e do Som de Mato Grosso do Sul]].[^ce2009] Foi curador do 13º e do 14º [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]], em 2016 e 2017; a programação de 2017 previa também oficinas com ele.[^fcms2016][^fcms2017] Em 2017, *Caramujo-Flor* estava na programação da mostra de 40 curtas anunciada pelo MIS para os 40 anos do estado.[^fcms2017b]
 
 ## Filmografia
 
 - *Caramujo-Flor* (1989) — curta; direção.[^ce2015b][^fcms2017b]
 - *Mar de Fogo* — curta; direção.[^ce2015a]
-- *Olho Nu* (2014) — longa documental; direção e roteiro.[^ce2015b]
+- *Olho Nu* (2014) — longa, filme-ensaio; direção.[^ce2015b]
 - *Zimba* (2021) — documentário; direção.[^ce2021]
 - *Rio da Dúvida* — documentário; direção.[^ce2021]
 - *[[madalena-longa|Madalena]]* — longa de ficção; produção.[^cgn2019]
