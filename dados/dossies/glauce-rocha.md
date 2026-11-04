@@ -73,3 +73,9 @@ Novelas citadas: Cabocla, Adeus às Armas, Casa de Bonecas, A Noiva do Passado, 
 
 - Entrou: trajetória, filmes da década de 1950, Terra em Transe, peças com prêmio, novelas, homenagens.
 - Fora: Os Cafajestes (ano duvidoso); fatos familiares e causa da morte (estado de saúde), por regra de dados pessoais.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 19 nov. 2024, Amanda Ferreira, sobre o curta "Jardim de Pedra: Vida e Morte de Glauce Rocha" (dir. Daphyne Schiffer e Rodrigo Rezende; TCC de Jornalismo da UFMS; prêmios de melhor documentário e melhor direção na 9ª MAD 2024; estreia 21/11/2024 no Espaço Energia com exposição até a 2ª semana de janeiro de 2025). Traz nascimento em Campo Grande em 16/08/1930 (confere com o verbete), 27 filmes, 64 novelas, 55 peças; Rio 40 Graus (1955), Cinco Vezes Favela (1962), Terra em Transe (1967); oposição à censura na ditadura.
+- A matéria alterna "Glauce" e "Gláucia" e dá o nome completo de registro; não usado. Causa da morte (citada na matéria) fica fora.
+- *Cinco Vezes Favela* (1962) acrescentado à Filmografia só com esta fonte; a matéria não diz o episódio nem o papel.

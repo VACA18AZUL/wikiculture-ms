@@ -60,3 +60,8 @@ Fontes novas (Fundação de Cultura de MS, independente do Campo Grande News):
 - Também aberta: "Reunião no MIS apresenta o Rota Cine..." (15/12/2025), fala de Silveira na reunião; não usada.
 
 Divergência registrada: CGN 2021 diz que Silveira produziu "Ano Que Vem Tem Mais" com Marineti Pinheiro; a FCMS 2026 credita a ele a direção. As duas versões estão no verbete.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 10 maio 2021, Ellen Prudente, "Documentário que resgata carnaval da Capital é destaque em festivais". Ano Que Vem Tem Mais, dos "cineastas campo-grandenses Filipi Silveira e Marineti Pinheiro" ("os diretores"), selecionado para o Festival de Cinema e Memórias Cerratenses e a FeminaCine; um ano de produção; acervo de imagens de vários veículos, inclusive material bruto da TV do jornal O Estado. Filipi descrito com bagagem em ficção; Marineti, veterana de documentário.
+- Créditos de Ano Que Vem Tem Mais agora em três versões: produção dos dois (CGN 2021), direção de Silveira (MIS 2026), direção dos dois (O Estado 2021). Registradas.

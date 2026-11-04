@@ -17,3 +17,7 @@ Continua com fonte única.
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS ("Teatro Palma") devolveu matérias de programação sem relação com o teatro histórico de Dourados (títulos lidos, não abertas). Continua só com Moser.
+
+## Atualização de 2026-11-04 (r9)
+
+Sem fonte nova. Buscas: Campo Grande News (/buscar?q= "Teatro Palma" Dourados; "Grêmio Republicano" Dourados), API do O Estado MS e RSS do Google Notícias: nada sobre o teatro de 1924. Ajuste: removida do verbete a frase sobre o que a fonte não informa (vedada pelas regras).

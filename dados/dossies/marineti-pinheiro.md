@@ -71,3 +71,8 @@ Fontes descartadas e o motivo:
 - Corrigido: Página de Diehl corrigida.
 - Atenção: Grafia Marineti/Marinete; título Sala/Salas de Sonhos; ano do filme 2016/2017; cargo coordenadora/diretora (todas registradas no texto).
 - Atenção: Não confirmado se a homenagem de 25 out. 2024 ocorreu.
+
+## Atualização de 2026-11-04 (r10)
+
+- Fonte nova: O Estado MS, 10 maio 2021, Ellen Prudente, "Documentário que resgata carnaval da Capital é destaque em festivais". Ano Que Vem Tem Mais, dos "cineastas campo-grandenses Filipi Silveira e Marineti Pinheiro" ("os diretores"), selecionado para o Festival de Cinema e Memórias Cerratenses e a FeminaCine; um ano de produção; acervo de imagens de vários veículos, inclusive material bruto da TV do jornal O Estado. Filipi descrito com bagagem em ficção; Marineti, veterana de documentário.
+- Créditos de Ano Que Vem Tem Mais agora em três versões: produção dos dois (CGN 2021), direção de Silveira (MIS 2026), direção dos dois (O Estado 2021). Registradas.
