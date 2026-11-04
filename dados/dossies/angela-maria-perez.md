@@ -73,3 +73,8 @@
 ## Uso no verbete
 
 - Ficaram fora: causa da morte, estado civil, família (mãe), conjecturas sobre vida amorosa a partir dos poemas.
+
+## Atualização de 2026-11-04
+
+- Bezerra (p. 60) cita a matéria da Ecoa ("UM BELO, 2007") para nascimento, morte, alcunhas, entidades e prêmio: nesses pontos as duas fontes não são independentes.
+- Busca de segunda fonte (Campo Grande News, O Estado MS, FCMS): só menções à Escola Municipal Ângela Maria Perez como local de eventos do Festival América do Sul (FCMS, maio de 2025), sem dado sobre a poeta. Não usadas. Fonte única na prática.

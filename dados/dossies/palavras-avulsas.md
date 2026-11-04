@@ -38,3 +38,7 @@
 ## Uso no verbete
 
 - Entrou tudo acima; a análise de cada neologismo ficou resumida.
+
+## Revisão de 2026-11-04
+
+- Ferreira, quadro 1 (p. 45): "não-rima" aparece como derivação prefixal; o texto (p. 46) fala em dois casos de derivação prefixal (desrimando e entreondulo). Divergência interna; o verbete nomeia só os dois do texto.

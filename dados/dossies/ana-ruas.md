@@ -74,3 +74,14 @@ Fontes descartadas e o motivo:
 
 - Entrou: trajetória, catálogo, *Plano B*, *Floresta Encantada*, Pipa, ateliê.
 - Fora: endereço e bairro do ateliê (dado de localização privada); nome da vizinha (não é trajetória); citação de elogio a Isaac.
+
+## Atualização de 2026-11-04 (r12)
+
+Fontes novas abertas e lidas (Correio do Estado, caderno Correio B):
+
+- ce2015: "Artista de Campo Grande vence prêmio de Artes Visuais mais relevante do País", 10 ago. 2015 (sem autor), https://correiodoestado.com.br/correio-b/2015/08/10/artista-de-campo-grande-vence-premio-de-artes-visuais-mais-relevante-do-pais.html — venceu a categoria Pipa Online Popular com 2.184 votos (de 10 mil), à frente de outros 8 concorrentes; seguia para a etapa do júri do Pipa Online (resultado anunciado para 21/08, não verificado). O valor do prêmio citado na matéria ficou fora do verbete.
+- ce2023: Laura Brasil, "Os pássaros no quintal de Ana Ruas", 20 set. 2023, https://correiodoestado.com.br/correio-b/2023/09/20/os-passaros-no-quintal-de-ana-ruas.html — exposição *Aves do Meu Quintal* (serviço grafa "Aves no Meu Quintal") no Espaço Energisa até 20/10/2023; séries desde 2016 (Pessegueiros, Floresta Encantada, Renascer, Persistência); pássaros a partir de 2021; Floresta Encantada (5 × 5 m) também no MACS Sorocaba e no Memorial da América Latina.
+
+Mudanças: resumo (vitória no Pipa Online Popular), parágrafo sobre o prêmio, parágrafo sobre as séries, complemento em Floresta Encantada, item novo em Exposições.
+Divergência leve: CGN 2015 fala em 61 outros artistas na votação popular; o Correio fala em 8 concorrentes (provavelmente etapa final dessa votação; a matéria não explica). Floresta Encantada: série de 2016 (ce2023) x mostra no MARCO em 2017 (cgn2017); não é contradição.
+Fora: família, jardinagem e endereço do espaço.

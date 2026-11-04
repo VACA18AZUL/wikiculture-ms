@@ -1,7 +1,7 @@
 ---
 titulo: Luciana Fisher
 tipo: pessoa
-areas: [musica, artes-plasticas]
+areas: [musica]
 resumo: "Cantora lírica e popular, compositora e regente coral sul-mato-grossense, com os álbuns Ternário, Todos os Lugares e Sou Natureza (2021); solista em concertos de música erudita e regente do Coral Arte Viva."
 ficha:
   Atividade: "Cantora (soprano), compositora, regente coral, curadora"
@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Cantou e regeu corais e, em 2021, fazia shows havia mais de vinte anos em Campo Grande e em São Paulo.[^cgn2021] Em 2016, esteve entre os artistas de abertura do [[som-da-concha|Som da Concha]], em dupla com Ana Paula Soares.[^fcms2016] Em 2019, assinou com Venise Paschoal de Melo a curadoria da [[mostra-de-arte-digital-madi|Mostra de Arte Digital]] no Museu da Imagem e do Som.[^fcms2019]
+Cantou e regeu corais e, em 2021, fazia shows havia mais de vinte anos em Campo Grande e em São Paulo.[^cgn2021] Em 2019, assinou com Venise Paschoal de Melo a curadoria da Mostra de Arte Digital Urbana, com trabalhos de alunos de Artes Visuais da UFMS, no [[mis-ms|Museu da Imagem e do Som]].[^fcms2019]
 
 Em abril de 2021, lançou nas plataformas digitais o álbum *Sou Natureza*, o terceiro da carreira, com 13 canções próprias sobre preservação ambiental, valorização da mulher e pensamento descolonial, e um videoclipe da faixa-título. O disco mistura a MPB, com referências de Tom Jobim, Guinga e Milton Nascimento, a influências da música do Norte e do Nordeste, e foi aprovado no edital Cultura e Cidadania da Secretaria Municipal de Cultura e Turismo de Campo Grande, com recursos da Lei Aldir Blanc. Os álbuns anteriores são *Todos os Lugares* e *Ternário*, este com músicas regionais de Mato Grosso do Sul.[^cgn2021]
 
@@ -32,8 +32,7 @@ Em dezembro de 2025, regia o Coral Arte Viva, do Centro de Arte Viva, que se apr
 
 - "Sou Natureza" (2021) — videoclipe.[^cgn2021]
 
-[^cgn2021]: ["Ao lado das filhas, Luciana Fisher redescobre a MPB e o ser natureza"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ao-lado-das-filhas-luciana-fisher-redescobre-a-mpb-e-o-ser-natureza), *Campo Grande News*, 29 abr. 2021. Acesso em 4 nov. 2026.
-[^fcms2016]: SOMDACONCHA
+[^cgn2021]: ["Ao lado das filhas, Luciana Fisher redescobre a MPB e o 'ser natureza'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ao-lado-das-filhas-luciana-fisher-redescobre-a-mpb-e-o-ser-natureza), *Campo Grande News*, 29 abr. 2021. Acesso em 4 nov. 2026.
 [^fcms2019]: Fundação de Cultura de Mato Grosso do Sul, ["MIS recebe Mostra de Arte Digital Urbana na próxima quarta"](https://www.fundacaodecultura.ms.gov.br/mis-recebe-mostra-de-arte-digital-urbana-na-proxima-quarta/), 17 maio 2019. Acesso em 4 nov. 2026.
 [^fcms2023a]: Fundação de Cultura de Mato Grosso do Sul, ["Fundação de Cultura, Sectur e UFMS realizam Festival de Música Clássica em agosto com entrada gratuita"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-realiza-com-ufms-festival-de-musica-classica-em-agosto-com-entrada-gratuita/), 26 jul. 2023. Acesso em 4 nov. 2026.
 [^fcms2023b]: Fundação de Cultura de Mato Grosso do Sul, ["Projeto Catedral Erudita realiza concertos em igrejas de Campo Grande"](https://www.fundacaodecultura.ms.gov.br/projeto-catedral-erudita-realiza-concertos-em-igrejas-de-campo-grande/), 13 dez. 2023. Acesso em 4 nov. 2026.

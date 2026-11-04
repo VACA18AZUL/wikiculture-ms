@@ -31,6 +31,11 @@ Em junho de 2025, foi selecionada na área de teatro da Bolsa Funarte Brasil Con
 - *O Grito Trans* (2024) — performance; Boca de Cena.[^fcms2024]
 - *[[culto-das-travestis|Culto das Travestis]]* (2024) — idealização, direção e atuação; [[coletivo-de-trans-pra-frente|De Trans pra Frente]].[^cgn2024a][^fcms2025]
 
+## Videografia
+
+- *Coragem* (2025) — curta-metragem sobre o cotidiano de Emy como professora e artista, com direção de [[pedro-alvarenga|Pedro Alvarenga]], feito com recursos da Lei Paulo Gustavo por edital da Fundação de Cultura de MS; estreia anunciada para 20 de agosto de 2025 no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande.[^cgn2025]
+
+[^cgn2025]: Thailla Torres, ["Sem a violência como enredo, filme mostra professora trans com vitórias"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/sem-a-violencia-como-enredo-filme-mostra-professora-trans-com-vitorias), *Campo Grande News*, 20 ago. 2025. Acesso em 4 nov. 2026.
 [^cgn2024a]: Aletheya Alves, ["Trans e travestis foram levadas em carriola pela Rua 14 de Julho"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/trans-e-travestis-foram-levadas-em-carriola-pela-rua-14-de-julho), *Campo Grande News*, 27 ago. 2024. Acesso em 4 nov. 2026.
 [^cgn2024b]: Aletheya Alves, ["Culto das Travestis é grito mostrando o medo e a força do acolhimento"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/culto-das-travestis-e-grito-mostrando-o-medo-e-a-forca-do-acolhimento), *Campo Grande News*, 31 ago. 2024. Acesso em 4 nov. 2026.
 [^fcms2024]: Fundação de Cultura de Mato Grosso do Sul, ["Boca de Cena – Performance: 'O Grito Trans', com Emy Mateus"](https://www.fundacaodecultura.ms.gov.br/boca-de-cena-performance-o-grito-trans-com-emy-mateus/), 16 maio 2024. Acesso em 4 nov. 2026.

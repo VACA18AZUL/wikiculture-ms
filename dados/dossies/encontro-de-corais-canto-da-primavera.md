@@ -46,3 +46,7 @@ Descartadas: "Canto da Primavera" de Pirenópolis (GO), evento homônimo sem rel
 ## Uso no verbete
 
 - Entrou tudo acima, menos a lista nominal completa de corais da abertura (resumida).
+
+## Revisão de 2026-11-04
+
+- A notícia da ALEMS (23 set. 2008) é anúncio da abertura do dia seguinte; o verbete passou a tratá-la assim. Realização da 12ª edição não confirmada por outra fonte.

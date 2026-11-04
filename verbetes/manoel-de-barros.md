@@ -21,6 +21,8 @@ atualizado: 2026-11-04
 
 Uma dissertação de 2023 registra os anos de vida do poeta como 1916 e 2014.[^carlos55] A dissertação de Thalita Melotto (UFMS, 2010) afirma que ele nasceu em 1916 e informa que, durante dez anos, ele trabalhou no Pantanal para administrar os negócios da família e ficou sem escrever poemas. Depois dessa fase, dedicou-se à poesia.[^melotto6]
 
+Foi amigo de infância de [[lobivar-matos|Lobivar Matos]] em Corumbá, e os dois passaram pelo Rio de Janeiro na década de 1930, segundo a tese de Susylene Dias de Araujo (UEL, 2009). A autora diz que o registro de nascimento de Barros é de 1917, o que diverge do ano de 1916 dado pelas outras fontes. Em 1937, no *Annuario Brasileiro de Literatura*, Lobivar o apresentou como Manoel Wenceslau Leite de Barros, "Nequinho", e anunciou um livro de poemas chamado *Muxirúm*; segundo Araujo, esse projeto deu lugar a *Poemas Concebidos sem Pecado*, também de 1937. A tese reproduz uma carta de Barros de 2007 sobre a amizade com Lobivar.[^araujo2009]
+
 Em outubro de 2009, ganhou em Portugal o Grande Prêmio Sophia de Mello Breyner Andresen, pela coletânea *Compêndio para Uso dos Pássaros – Poesia Reunida 1937-2004*, segundo a mesma dissertação.[^melotto3] Em 2010, a editora Leya Brasil lançou três novas obras suas: *Menino do Mato*, *Poesia Completa* e uma reunião das três "infâncias" com o título *Memórias Inventadas – As Infâncias de Manoel de Barros*.[^melotto90]
 
 ## Recepção
@@ -28,6 +30,8 @@ Em outubro de 2009, ganhou em Portugal o Grande Prêmio Sophia de Mello Breyner 
 Um artigo de 2008 afirma que a obra de poetas sul-mato-grossenses como Manoel de Barros e [[lobivar-matos|Lobivar Matos]] só ganhou leitores e estudos críticos no Brasil entre o fim do século XX e o começo do XXI, sobretudo em dissertações e teses.[^raido08] Outro artigo, de 2010, cita Alfredo Bosi (2000): para o crítico, a poesia de Barros nasceu do contato com a paisagem e o homem do Pantanal e, conhecida de poucos por muito tempo, só teve êxito depois que o meio acadêmico passou a se interessar por ecologia e contracultura.[^raido10]
 
 Em 1975, a Academia de Letras e História de Campo Grande, que depois se tornou a [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], promoveu um concurso de biografia sobre Eduardo Olímpio Machado. A comissão julgadora, que decidiu em 8 de agosto de 1975, incluía Manoel de Barros, descrito no texto da época reproduzido por Amarilha (a partir de Lins, 1976) como "um dos literatos de maior projeção da geração atual".[^amarilha135]
+
+Karina Kristiane Vicelli (UFMS, 2008) estudou o curta *Caramujo-Flor* (1988), de [[joel-pizzini|Joel Pizzini]], cujo roteiro é feito de fragmentos de poemas de Barros. No filme, [[ney-matogrosso|Ney Matogrosso]] faz o poeta jovem e Rubens Corrêa, o poeta velho. A autora situa em 1986 o início do reconhecimento de Barros, que publicava desde 1937.[^vicelli]
 
 ## Homenagens
 
@@ -64,3 +68,5 @@ Títulos citados na dissertação de Melotto (2010):[^melotto-ref]
 [^amarilha135]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, UFGD, 2006, p. 134-135, que reproduz trecho de Lins (1976). Acesso em 4 nov. 2026.
 [^carlos146]: Carlos, 2023, p. 146 (nota 261). Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Bienal do Pantanal terá Leandro Karnal, Ana Maria Gonçalves e Almir Sater"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/bienal-do-pantanal-tera-leandro-karnal-ana-maria-goncalves-e-almir-sater), *Campo Grande News*, 9 set. 2025. Acesso em 4 nov. 2026.
+[^araujo2009]: Susylene Dias de Araujo, [*A vida e a obra de Lobivar Matos: o modernista (des)conhecido*](https://repositorio.uel.br/bitstreams/acf051fe-2b05-42d0-93be-a30b3192c120/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2009, p. 36-41 (p. 38-43 do PDF). Acesso em 4 nov. 2026.
+[^vicelli]: Karina Kristiane Vicelli, [*Transgressão e antropofagia: da poesia de Manoel de Barros à poética de Caramujo-flor, de Joel Pizzini Filho*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2125), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2008, p. 9-10, 68 e 129 do PDF. Acesso em 4 nov. 2026.
