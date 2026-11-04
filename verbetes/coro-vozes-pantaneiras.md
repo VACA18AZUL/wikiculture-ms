@@ -16,7 +16,7 @@ O **Coro Vozes Pantaneiras** é um grupo de canto coral de Campo Grande formado 
 
 ## Trajetória
 
-O repertório reúne obras eruditas, música sacra, canções brasileiras para coro e composições ligadas à identidade regional. Em janeiro de 2026, os ensaios eram gratuitos e aconteciam às quartas-feiras à noite. Para entrar, basta uma audição simples; não é preciso ler partitura nem ter experiência.[^cgn2026a]
+O repertório reúne obras eruditas, música sacra, canções brasileiras para coro e composições ligadas à identidade regional. Em janeiro de 2026, os ensaios eram gratuitos e aconteciam às quartas-feiras à noite. Para entrar, bastava uma audição simples; não era preciso ler partitura nem ter experiência.[^cgn2026a]
 
 Em julho de 2026, o coro abriu nova seleção, com audição marcada para 31 de julho no Salão Cultural da Igreja de Jesus Cristo dos Santos dos Últimos Dias, no bairro Monte Líbano. A audição seria conduzida pelos professores e pelo maestro do grupo, Leonardo de Rezende, e incluía o canto de um trecho a cappella.[^cgn2026b][^acritica2026]
 
