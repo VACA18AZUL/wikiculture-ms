@@ -4,7 +4,7 @@ tipo: pessoa
 areas: [artes-plasticas]
 resumo: Fotógrafo formado em publicidade, com atuação em fotojornalismo e fotografia ambiental no Pantanal sul-mato-grossense.
 ficha:
-  Atividade: Fotografia
+  Atividade: "Fotografia"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -21,7 +21,7 @@ Em março de 2023, registrou a cheia do Pantanal, com fotos feitas também com d
 
 ## Exposições
 
-A reportagem de *A Crítica* sobre a exposição [[fotografia-e-memoria-2026|Fotografia e Memória]], no [[mis-ms|MIS-MS]], em 2026, cita um André Bittar entre os 14 fotógrafos sul-mato-grossenses do painel coletivo que acompanhava as fotos de [[rachid-waqued|Rachid Waqued]].[^acritica2026]
+A reportagem de *A Crítica* que anunciou a exposição [[fotografia-e-memoria-2026|Fotografia e Memória]], no [[mis-ms|MIS-MS]], em 2026, cita um André Bittar entre os 14 fotógrafos sul-mato-grossenses do painel coletivo que acompanhava as fotos de [[rachid-waqued|Rachid Waqued]].[^acritica2026]
 
 [^cgn2022]: Idaicy Solano, ["Fotógrafo sente emoção paralisante ao ficar cara a cara com onça-pintada"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/fotografo-sente-emocao-paralisante-ao-ficar-cara-a-cara-com-onca-pintada), *Campo Grande News*, 6 set. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Perrengue não desanima quem mostra beleza da cheia no Pantanal"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/perrengue-nao-desanima-quem-mostra-beleza-da-cheia-no-pantanal), *Campo Grande News*, 15 mar. 2023. Acesso em 4 nov. 2026.

@@ -4,7 +4,7 @@ tipo: pessoa
 areas: [artes-plasticas]
 resumo: Artista plástica citada entre os participantes de mostras e salões do Movimento Cultural Guaicuru; expôs telas em 2012 na mostra Arte e Cores no Paço.
 ficha:
-  Atividade: Artes plásticas
+  Atividade: "Artes plásticas"
 status: rascunho
 atualizado: 2026-11-04
 ---

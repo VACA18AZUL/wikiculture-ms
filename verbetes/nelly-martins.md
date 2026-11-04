@@ -7,7 +7,7 @@ resumo: Escritora e artista plástica de Campo Grande (1923-2003), ocupante da c
 ficha:
   Nascimento: "1923, Campo Grande"
   Morte: "2003, Campo Grande"
-  Atividade: Artes plásticas; literatura
+  Atividade: "Artes plásticas; literatura"
 status: rascunho
 atualizado: 2026-11-04
 ---

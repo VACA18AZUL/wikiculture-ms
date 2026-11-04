@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-*Deus te Salve, João!* é um filme-ensaio de cerca de 17 minutos. Foi um dos 11 curtas selecionados para a mostra competitiva da 18ª edição do [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]], realizada de 10 a 16 de agosto de 2024, em seleção do cineasta Luis Felipe Mendes.[^cgn2024]
+*Deus te Salve, João!* é um filme-ensaio de cerca de 17 minutos. Foi um dos 11 curtas selecionados para a mostra competitiva da 18ª edição do [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]], marcada para 10 a 16 de agosto de 2024, em seleção do cineasta [[luis-felipe-mendes|Luis Felipe Mendes]].[^cgn2024]
 
 No filme, a diretora examina a própria ligação com a festa e acompanha a família de duas sacerdotisas de umbanda, Mãe Nice e Mãe Nina, nas ruas e nos terreiros. Em 25 de março de 2025, o curta foi programado para uma sessão gratuita no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande, dentro do Festival de Cinema do Pantanal, com outros dois documentários sobre festas populares do estado.[^cgn2025]
 

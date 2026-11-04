@@ -1,0 +1,25 @@
+---
+titulo: Dago (Dagoberto Washington Justino Pedroso)
+tipo: pessoa
+areas: [artes-plasticas, teatro]
+cidade: Campo Grande
+resumo: Artista paulista nascido em 1959, radicado em Campo Grande desde 1983, descrito pelo MARCO como multiartista com atuação também no teatro; tem obra no acervo do museu.
+ficha:
+  Nascimento: "23 de abril de 1959"
+  Naturalidade: "estado de São Paulo"
+  Atividade: "Artes plásticas; teatro"
+status: rascunho
+atualizado: 2026-11-04
+---
+
+**Dagoberto Washington Justino Pedroso**, conhecido como **Dago**, é um artista paulista, nascido em 23 de abril de 1959. Em 1983, mudou-se para Campo Grande.[^marco30]
+
+## Trajetória
+
+É graduado em Filosofia pela Universidade Católica Dom Bosco (UCDB) e em Jornalismo pela Universidade de São Paulo (USP). O catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contemporânea de MS]] o descreve como multiartista, com atuação também no teatro.[^marco30]
+
+## Obra
+
+Segundo o catálogo, o artista busca dialogar com o público a partir de relações de respeito e equilíbrio com o meio ambiente e os seres vivos. Uma obra sua está no acervo do MARCO e foi selecionada para o catálogo.[^marco30]
+
+[^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 3-4 e 25. Acesso em 4 nov. 2026.

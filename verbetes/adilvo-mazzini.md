@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Mazzini morou em Rio do Sul até 1966. Mudou-se para Rio Brilhante para dar aulas de educação física e de línguas em um seminário, onde em parte aprendeu música. Depois cursou Letras na Universidade Federal de Mato Grosso do Sul. Tocava violão, violino e trompete e escrevia arranjos e letras.[^cgn2019]
+Mazzini morou em Rio do Sul até 1966. Mudou-se para Rio Brilhante para dar aulas de educação física e de línguas em um seminário. Também fez o curso de Letras na Universidade Federal de Mato Grosso do Sul. Tocava violão, violino e trompete e escrevia arranjos e letras.[^cgn2019]
 
 Fundou e regeu o [[coral-santa-cecilia|Coral Santa Cecília]], de Dourados, e regeu corais em Caarapó e em Rio Brilhante. Foi um dos fundadores do [[centro-cultural-guaraoby|Centro Cultural Guaraoby]] e dirigiu a Fundação Cultural e de Esportes de Dourados (Funced). Integrou por anos o grupo de regentes de corais da Funarte e coordenou em Dourados os projetos Villa-Lobos, de canto coral, Pixinguinha, de música popular, e Rede Nacional da Música, de música erudita. Ajudou a criar o Encontro de Corais de Dourados.[^cgn2019]
 
