@@ -6,9 +6,14 @@ Agente w10-2, 2026-11-04. Situação proposta: dossie (uma fonte lida; a segunda
 
 | id | Referência | URL | Tipo | Entra? |
 |---|---|---|---|---|
-| cgn2025 | Clayton Neves, "Trio resgata tradição e aposta em chorinho com um toque de MS", *Campo Grande News*, 17 jun. 2025 (lida via verbete trio-vibracoes; não reaberta: o site bloqueia curl) | https://www.campograndenews.com.br/lado-b/diversao/trio-resgata-tradicao-e-aposta-em-chorinho-com-um-toque-de-ms | imprensa | — |
+| cgn2025 | Clayton Neves, "Trio resgata tradição e aposta em chorinho com um toque de MS", *Campo Grande News*, 17 jun. 2025 (aberta e lida nesta sessão) | https://www.campograndenews.com.br/lado-b/diversao/trio-resgata-tradicao-e-aposta-em-chorinho-com-um-toque-de-ms | imprensa | sim |
 
-Fatos já no verbete [[trio-vibracoes]]: violão de sete cordas no Trio Vibrações; começou na guitarra, passou ao violão clássico no projeto Musicalizando; mestrado e doutorado em etnomusicologia.
+## Fatos, com fonte
+
+- 35 anos em 2025; começou na guitarra, ouvindo heavy metal; aos 16 conheceu o violão clássico no projeto Musicalizando, em Campo Grande. [cgn2025]
+- Estudou na UFMS; mestrado e doutorado em etnomusicologia. [cgn2025]
+- Violão de sete cordas no Trio Vibrações; frase sobre o sete cordas e a mistura de choro, rasqueado e polca. [cgn2025]
+- Esses fatos já estão em [[trio-vibracoes]].
 
 ## Pistas (não abertas: UFPR com certificado TLS incompleto/503; Bem Paraná e Academia.edu com 403)
 
@@ -19,4 +24,4 @@ Fatos já no verbete [[trio-vibracoes]]: violão de sete cordas no Trio Vibraç�
 
 ## Atenção
 
-- Ligar Júlio Borba (Trio Vibrações) a Júlio César Matos Borba (UFPR) é provável (violão de sete cordas, etnomusicologia, Campo Grande), mas só com fonte aberta que diga. Não escrever antes.
+- Ligar Júlio Borba (Trio Vibrações) a Júlio César Matos Borba (UFPR) é provável (violão de sete cordas, etnomusicologia, Campo Grande; a busca indica autor nascido em 1990, compatível com os 35 anos de 2025), mas só com fonte aberta que diga. Não escrever antes.
