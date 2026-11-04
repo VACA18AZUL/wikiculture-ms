@@ -27,3 +27,7 @@
 ## Uso no verbete
 
 - Entrou tudo. Link criado em emmanuel-marinho (lista de obras).
+
+## Atualização de 2026-11-04 (r11)
+
+- J. Lima (UFGD, 2013), p. 10 e 60-62 do PDF: Caixa de Poemas datado de 2000 (diverge de 1997: ASL e Souza 2008); análise de "Genocíndio" e "O índio e o trator". Divergência registrada no verbete e na ficha. Fonte independente nova; o verbete passa a ter ASL, Souza 2008 e J. Lima 2013.

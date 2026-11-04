@@ -67,3 +67,7 @@ Nada nas matérias confirma nascimento (1959), naturalidade, graduações, 1983 
 ## Atualização de 2026-11-04
 
 Segunda fonte independente tentada, sem resultado: API da FCMS ("Dagoberto Pedroso": só as duas notícias já citadas, do mesmo órgão que publicou o catálogo do MARCO), A Crítica e Correio do Estado ("Dagoberto": só o político homônimo), Campo Grande News (busca não retorna resultados), WebSearch ("Dagoberto Pedroso"/"Dago Pedroso"). Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News e API do O Estado ("Dagoberto Pedroso", "Dago Pedroso"): só homônimos (Dagoberto Nogueira, político). RSS do Google Notícias ("Dago Pedroso") levou a *A Crítica de Campo Grande*, "Monólogo que ficou dez anos em cartaz volta com outro nome e estreia em 5 de novembro no Teatro do Mundo" (30 out. 2026; https://acritica.net/eventos/nos-monologo-isac-zampieri-estacao-cultural-teatro-do-mundo-novembro/), aberta e lida: atribui a "Dagô Pedroso" o texto "Rubens Artaud" (1997), remontado como "Nós" pela Cia Teatro do Mundo, e o lista entre os artistas criadores. A matéria não dá o nome completo nem cita artes plásticas; a identificação com Dagoberto Washington Justino Pedroso não está confirmada na fonte, e por isso nada entrou no verbete. Pista forte para confirmar (Cia Teatro do Mundo, Isac Zampieri).

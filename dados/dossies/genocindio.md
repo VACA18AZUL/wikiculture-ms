@@ -44,3 +44,7 @@
 ## Uso no verbete
 
 - Entraram os fatos acima, sem transcrever versos.
+
+## Atualização de 2026-11-04 (r11)
+
+- J. Lima (UFGD, 2013), p. 60-64 do PDF: análise semiótica; publicação em Caixa de Poemas, datado de 2000. Divergência de publicação: Margem de Papel, 1994 (Saturnino) × Caixa de Poemas, 1997 (Souza, corpus) × Caixa de Poemas, 2000 (J. Lima). As versões estão no verbete; a ficha (1994, Margem de Papel) não foi alterada.

@@ -38,3 +38,8 @@ Fonte única. A cota de buscas da rodada esgotou antes de procurar uma segunda f
 ## Uso no verbete
 
 - Entrou tudo acima.
+
+## Atualização de 2026-11-04 (r9)
+
+- Fonte nova aberta e lida: "Com peça de teatro até no cemitério, Temporada do Chapéu começa dia 24", Campo Grande News (Lado B), 23 out. 2013 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-peca-de-teatro-ate-no-cemiterio-temporada-do-chapeu-comeca-dia-24), achada pela busca interna do CGN. Veículo independente da dissertação (UFU). Sustenta: Trupe Arte e Vida, de Naviraí, com "Contos para flores roxas e murchas" no Cemitério Santo Antônio em 29 out. 2013, na Temporada do Chapéu (Teatro Imaginário Maracangalha, FIC); tema da morte; seis meses de pesquisa com entrevistas.
+- A programação da matéria parece texto de divulgação da mostra, mas a matéria é de veículo diferente e confirma o espetáculo e o ano.

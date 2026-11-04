@@ -35,12 +35,14 @@ Os livros de poesia citados pela Academia e pela UFGD são:[^asl][^ufgd]
 - *Jardim das Violetras* (1983)[^asl]
 - *Margem de Papel* (1994)[^asl]
 - *Satilírico* (1995)[^asl]
-- [[caixa-de-poemas|*Caixa de Poemas*]] (1997), pela Editora Manuscrito; por anos leitura obrigatória em vestibulares de Mato Grosso do Sul[^asl]
-- *Caixa das Delícias* (2003; a Academia não informa o ano)[^asl][^ufgd]
+- [[caixa-de-poemas|*Caixa de Poemas*]] (1997), pela Editora Manuscrito; por anos leitura obrigatória em vestibulares de Mato Grosso do Sul. Jorgina Lima data o livro de 2000.[^asl][^jlima2013]
+- *Caixa das Delícias* (2003; a Academia não informa o ano)[^asl][^ufgd][^jlima2013]
 
 ## Estudos sobre a obra
 
 A tese de doutorado de José Antonio de Souza (Universidade Estadual de Londrina, 2008), que grafa o nome como Emanuel Marinho, analisa poemas de *Caixa de Poemas* (Dourados, Manuscrito, 1997) e o chama de escritor douradense. Souza destaca o poema-imagem "Genocíndio", sobre o genocídio indígena, e um poema concreto sem título sobre o índio e o trator. Vê na obra uma poesia crítica e engajada, que explora o elemento visual.[^souza2008]
+
+A dissertação de mestrado de Jorgina Espindola Ortega de Lima (UFGD, 2013) estuda a imagem do indígena em poemas de Marinho, entre eles [[genocindio|"Genocíndio"]], "O índio e o trator" e "Índia velha". A autora o chama de poeta douradense, lista os mesmos livros, de *Ópera 3* (1980) a *Caixa das Delícias* (2003), e diz que os poemas são muitas vezes interpretados pelo próprio autor em teatros, universidades e eventos. Com base no site do poeta, cita os prêmios Marçal de Souza de 1995 e 1997, o título de Cidadão da Paz (1996) e o Marco Verde pelo disco *Teré*, além de homenagens do Circuito Cultural Banco do Brasil (2002) e dos Correios (2007).[^jlima2013]
 
 ## Discografia
 
@@ -61,3 +63,4 @@ A Academia lista o Prêmio Marçal de Souza (Câmara Municipal de Dourados, 1995
 [^asl]: ["Emmanuel Marinho"](https://acletrasms.org.br/portfolio-item/emmanuel-marinho/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 33. Acesso em 29 out. 2026.
 [^ufgd]: ["Novo imortal da ASL, Emmanuel Marinho é homenageado pela PROEX"](https://portal.ufgd.edu.br/noticias/novo-imortal-da-asl-emmanuel-marinho-e-homenageado-pela-proex), *Portal UFGD*, 4 nov. 2015. Acesso em 29 out. 2026.
 [^souza2008]: José Antonio de Souza, [*Literatura e identidade cultural em MS: algumas fronteiras e a (des)identificação com o Pantanal*](https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2008, p. 12, 81-83 e 115-117 (numeração impressa), e referências. Acesso em 4 nov. 2026.
+[^jlima2013]: Jorgina Espindola Ortega de Lima, [*A construção da imagem do índio na poética de Emmanuel Marinho: voz de veludo e dedo na ferida*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/609/1/JorginaEspindolaOrtegadeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2013, p. 10 e 60-64 do PDF. Acesso em 4 nov. 2026.
