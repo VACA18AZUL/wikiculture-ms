@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 Segundo o resumo de uma entrevista ao podcast B-Cast, do *Campo Grande News*, publicada em maio de 2023, ela começou a cantar na igreja e já tinha uma parceria com artista estrangeiro.[^cgn2023]
 
-Em 2022, foi selecionada pelo edital de música do Festival de Inverno de Bonito para o Palco das Águas, em trio com [[bianca-bacha|Bianca Bacha]] e [[lauren-cury|Lauren Cury]], num repertório de [[alzira-espindola|Alzira E.]] e [[filho-dos-livres|Filho dos Livres]].[^ce2022]
+Em 2022, foi selecionada pelo edital de música do [[festival-de-inverno-de-bonito-2022|Festival de Inverno de Bonito]] para o Palco das Águas, em trio com [[bianca-bacha|Bianca Bacha]] e [[lauren-cury|Lauren Cury]], num repertório de [[alzira-espindola|Alzira E.]] e [[filho-dos-livres|Filho dos Livres]].[^ce2022]
 
-Em outubro de 2024, lançou o projeto "Karla Coronel: Conexão Cultural nas Escolas", financiado pela Lei Paulo Gustavo. A programação previa apresentações de 30 minutos em cinco escolas estaduais de Campo Grande, de 21 a 30 de outubro, com músicas autorais e clássicos de [[almir-sater|Almir Sater]] e [[geraldo-espindola|Geraldo Espíndola]], seguidas de conversa sobre a cultura sul-mato-grossense e a formação acadêmica em música.[^cgn2024]
+Em outubro de 2024, anunciou o projeto "Karla Coronel: Conexão Cultural nas Escolas", financiado pela Lei Paulo Gustavo. A programação previa apresentações de 30 minutos em cinco escolas estaduais de Campo Grande, de 21 a 30 de outubro, com músicas autorais e clássicos de [[almir-sater|Almir Sater]] e [[geraldo-espindola|Geraldo Espíndola]], seguidas de conversa sobre a cultura sul-mato-grossense e a formação acadêmica em música.[^cgn2024]
 
 Em 17 de maio de 2025, nos bastidores do Festival América do Sul, em Corumbá, encontrou a cantora Alcione e cantou para ela um trecho de "Você Me Vira a Cabeça". À reportagem, contou que um vídeo dessa música gravado para o Salão do Groove foi o que deu projeção nacional ao seu trabalho.[^cgn2025]
 

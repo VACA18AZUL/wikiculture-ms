@@ -17,7 +17,7 @@ O **Falange da Rima** é um grupo de rap de Campo Grande, surgido em 1998 e desc
 
 Segundo o *Campo Grande News*, o grupo surgiu oficialmente em 1998, mas seus integrantes já atuavam na cena urbana da capital desde o início da década de 1990.[^cgn2022] O rapper Flynt é apontado como fundador, no fim dos anos 1990.[^cgn2025] Num show de 2018, os integrantes contaram que o grupo começou com jovens do bairro José Abrão, que conheceram o break pela televisão em 1984.[^fcms2018b]
 
-As letras tratam da vida nas periferias, com temas como crime, pobreza, preconceito social e racial, drogas e consciência política.[^fcms2018a][^cgn2022]
+As letras falam do cotidiano das periferias e abordam crime, miséria, racismo e discriminação social, uso de drogas e consciência política.[^fcms2018a][^cgn2022]
 
 A formação mudou ao longo do tempo. Em março de 2018, a Fundação de Cultura listou Flynt, John Geral e Mano Xis, sobre as bases de DJ Magão; no show daquele mês também cantou Mano Cley.[^fcms2018a][^fcms2018b] Em 2022, o *Campo Grande News* citou Flynt, John Geral, Mano Cley e DJ Magão.[^cgn2022] John Geral contou ter entrado no grupo a convite de Flynt, depois de compor "Menos um Guerreiro", e estar nele havia 18 anos em 2025.[^cgn2025]
 

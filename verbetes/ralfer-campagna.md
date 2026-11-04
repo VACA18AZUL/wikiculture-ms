@@ -14,13 +14,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em março de 2014, integrou o elenco de [[se-voce-me-olhasse-nos-olhos|*Se você me olhasse nos olhos*]], espetáculo do Grupo Ginga ([[ginga-cia-de-danca|Ginga Cia. de Dança]]) apresentado no Hangar Live Music.[^cgn2014]
+Em março de 2014, estava entre os oito intérpretes de [[se-voce-me-olhasse-nos-olhos|*Se você me olhasse nos olhos*]], espetáculo do Grupo Ginga ([[ginga-cia-de-danca|Ginga Cia. de Dança]]) anunciado para 13 e 14 de março no Hangar Live Music.[^cgn2014]
 
-O Programa Plataforme-se, criado por ele e Jackeline Mourão em 2017, é um espaço de criação e difusão da dança que pesquisa as relações entre corpo, câmera e cidade. Dele saíram o espetáculo-intervenção *Deriva*, três videodanças, a Mostra CTA – Corpos Transeuntes em Ação e a série *Fronteiras*. No Circuito Plataforme-se, em 4 de agosto de 2023, os dois apresentaram *Deriva* na Praça Ary Coelho. Ralfer anunciou então dois minidocumentários sobre as ações do projeto, com audiodescrição e interpretação em Libras.[^cgn2023c]
+O Programa Plataforme-se, criado por ele e Jackeline Mourão em 2017, é um espaço de criação e difusão da dança que pesquisa as relações entre corpo, câmera e cidade. Dele saíram o espetáculo-intervenção *Deriva*, três videodanças, a Mostra CTA – Corpos Transeuntes em Ação e a série *Fronteiras*. Na programação do Circuito Plataforme-se, *Deriva*, com os dois, foi marcado para 4 de agosto de 2023 na Praça Ary Coelho. Na mesma divulgação, Ralfer anunciou dois minidocumentários sobre as ações do projeto, com audiodescrição e interpretação em Libras.[^cgn2023c]
 
-Na Cia Dançurbana, é um dos doze intérpretes-criadores da estreia de [[cavucada-a-festa-nao-sera-amanha|*Cavucada – a festa não será amanhã*]], em maio de 2023, no Ponto Bar.[^cgn2023a] Seu nome segue nos créditos do espetáculo na programação da MITsp de 2026.[^mitsp2026]
+Na Cia Dançurbana, estava entre os doze intérpretes-criadores anunciados para a estreia de [[cavucada-a-festa-nao-sera-amanha|*Cavucada – a festa não será amanhã*]], marcada para 5 a 7 de maio de 2023 no Ponto Bar.[^cgn2023a] Seu nome segue nos créditos do espetáculo na programação da MITsp de 2026.[^mitsp2026]
 
-Em 9 de setembro de 2023, apresentou o solo *Dançar as fúrias* na [[casa-de-ensaio|Casa de Ensaio]], dentro do projeto [[singulares|Singulares]] da Cia Dançurbana. O texto de divulgação descreve o solo como uma performance sobre um corpo fora dos padrões, que quer se livrar de rótulos.[^cgn2023s]
+Para 9 de setembro de 2023, foi anunciado o solo *Dançar as fúrias* na [[casa-de-ensaio|Casa de Ensaio]], dentro do projeto [[singulares|Singulares]] da Cia Dançurbana. O texto de divulgação descreve o solo como uma performance sobre um corpo fora dos padrões, que quer se livrar de rótulos.[^cgn2023s]
 
 ## Espetáculos
 

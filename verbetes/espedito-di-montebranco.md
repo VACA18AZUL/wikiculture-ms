@@ -19,9 +19,9 @@ Segundo o folheto da [[mostra-boca-de-cena|Mostra Boca de Cena]] de 2017, antes 
 
 Segundo o folheto, à frente do grupo ele venceu na categoria melhor texto o Festival Estadual de Teatro realizado em Bela Vista, com indicação em todas as categorias. Depois da premiação o elenco se desfez, e ele montou *Pobre Diabo Louco e seu Discurso para Moscas*, que completava 20 anos em 2017. Montebranco assina atuação, texto, dramaturgia, iluminação e cenografia, e se descreve como um "Severino das artes".[^folheto]
 
-Em 22 de maio de 2017, na abertura do Boca de Cena, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], o Grupo Palco foi homenageado pelos 25 anos e apresentou *Pobre Diabo Louco e seu Discurso para Moscas*. No espetáculo, o personagem Praculá Makob sonha chegar ao Distrito Federal para falar com o presidente da República.[^folheto]
+A programação do Boca de Cena de 2017 previa, na abertura de 22 de maio no [[teatro-glauce-rocha|Teatro Glauce Rocha]], homenagem ao Grupo Palco pelos 25 anos e sessão de *Pobre Diabo Louco e seu Discurso para Moscas*. No espetáculo, o personagem Praculá Makob sonha chegar ao Distrito Federal para falar com o presidente da República.[^folheto]
 
-Em 2023, organizou o 2º Prêmio Campo Grande ao Teatro, lançado pela Associação Artística Cultural Palco de Artes Cênicas. O festival selecionou dez espetáculos nas categorias adulto, infantil e rua, apresentados de graça de 24 a 26 de abril no Teatro Glauce Rocha e em praças da cidade, e premiou os melhores de cada categoria com R$ 4 mil e troféu.[^cgn2023a][^cgn2023b]
+Em 2023, organizou o 2º Prêmio Campo Grande ao Teatro, lançado pela Associação Artística Cultural Palco de Artes Cênicas. O festival selecionou dez espetáculos nas categorias adulto, infantil e rua, com sessões gratuitas marcadas para 24 a 26 de abril no Teatro Glauce Rocha e em praças da cidade. O edital previa R$ 4 mil e troféu para o melhor de cada categoria.[^cgn2023a][^cgn2023b]
 
 ## Espetáculos
 

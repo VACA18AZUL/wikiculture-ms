@@ -14,7 +14,7 @@ O **Clube Social de Dourados** foi um clube inaugurado em 1953 no centro de Dour
 
 ## História
 
-O clube foi inaugurado num baile de carnaval em 14 de fevereiro de 1953. O terreno, na Avenida Joaquim Teixeira Alves, foi doado por Aral Moreira, e o prédio foi erguido com dinheiro arrecadado pela população em festas e espetáculos. Weimar Gonçalves Torres, fundador do jornal *O Progresso*, está entre os fundadores do clube.[^pinto]
+O clube foi inaugurado num baile de carnaval em 14 de fevereiro de 1953. Aral Moreira doou o terreno, na Avenida Joaquim Teixeira Alves, e o prédio foi erguido com dinheiro arrecadado pela população em festas e espetáculos. Weimar Gonçalves Torres, fundador do jornal *O Progresso*, está entre os fundadores do clube.[^pinto]
 
 Nos anos 1950 e 1960, o Social foi o principal espaço de sociabilidade das classes média e alta da cidade. Uma reportagem de 1984, citada por Pinto, lembra que em seu palco aconteceram os primeiros festivais de música de Dourados e concursos de calouros transmitidos ao vivo pela Rádio Clube de Dourados. Com a abertura do Clube Indaiá, nos anos 1970, a elite deixou de frequentá-lo; em 1984, o prédio estava arrendado para uma discoteca.[^pinto]
 
@@ -24,6 +24,6 @@ Em 1978, o professor [[wilson-biasotto|Wilson Biasotto]] foi demitido da univers
 
 A proposta de tombamento partiu do Centro Acadêmico de Letras de Dourados, da então UFMS, e foi o principal assunto do 1º Encontro Regional de Cultura da cidade, em 11 de agosto de 1984, que aprovou uma moção de apoio. O presidente da Fundação de Cultura de Mato Grosso do Sul, [[jose-octavio-guizzo|José Octávio Guizzo]], apoiou a iniciativa. O presidente do clube se opôs. O grupo queria transformar o prédio num centro cultural, que a cidade não tinha.[^pinto]
 
-O Movimento Independente Pró-Tombamento reuniu professores universitários, estudantes, sócios e artistas, fez abaixo-assinados e, em 1º de maio de 1985, organizou a pintura do muro da Escola Municipal Joaquim Murtinho com artistas como Ilton Antunes da Silva, Mary Slessor, Sônia Giraldi e Alcir de Souza, o Cisinho. Em 2 de outubro de 1986, *O Progresso* noticiou a venda do imóvel, em cujo terreno seria construído um edifício. O centro cultural não foi construído.[^pinto]
+O Movimento Independente Pró-Tombamento reuniu professores universitários, estudantes, sócios e artistas, fez abaixo-assinados e, em 1º de maio de 1985, levou artistas a pintar o muro da Escola Municipal Joaquim Murtinho, entre eles Ilton Antunes da Silva, Mary Slessor, Sônia Giraldi e Alcir de Souza, o Cisinho. Em 2 de outubro de 1986, *O Progresso* noticiou a venda do imóvel, em cujo terreno seria construído um edifício. O centro cultural não foi construído.[^pinto]
 
 [^pinto]: Maiara Laís Pinto, ["O patrimônio histórico-cultural de Dourados em tempos de transformação social e urbana: uma análise através do movimento de preservação do clube social de Dourados (1984-1986)"](https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548953098_59cd1dc4e2d1b63952ffd250d008ee5e.pdf), anais de simpósio da ANPUH, p. 6-11. Acesso em 4 nov. 2026.
