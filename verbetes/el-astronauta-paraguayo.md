@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Publicação
 
-Segundo a dissertação de Greissi Cristina Sousa, o livro saiu pela primeira vez em 2012 pela editora Eloísa Cartonera, de Buenos Aires, e depois passou a ser reproduzido pela [[yiyi-jambo|Yiyi Jambo]], editora cartonera do próprio Diegues em Ponta Porã. A edição tem vinte capítulos em 31 páginas fotocopiadas e costuradas à mão, com capa de papelão pintada à mão.[^sousa] A partir de 2014, a artista plástica [[gisele-francia|Gisele Francia]], formada na UFMS, passou a fazer capas para a editora, entre elas uma de *El Astronauta Paraguayo*.[^sousa]
+Segundo a dissertação de Greissi Cristina Sousa, a primeira edição do livro, de 2012, é da Eloísa Cartonera, editora de Buenos Aires; depois o livro passou a ser reproduzido pela [[yiyi-jambo|Yiyi Jambo]], editora cartonera do próprio Diegues em Ponta Porã. A edição tem vinte capítulos em 31 páginas em fotocópia, costuradas manualmente, com capa de papelão pintada pelo editor.[^sousa] A partir de 2014, a artista plástica [[gisele-francia|Gisele Francia]], formada na UFMS, passou a fazer capas para a editora, entre elas uma de *El Astronauta Paraguayo*.[^sousa]
 
 Thais Ferreira Pompêo de Camargo, em artigo de 2017, data o livro de 2007 no corpo do texto e, nas referências, cita uma edição da Yiyi Jambo, de Ponta Porã, de 2012.[^camargo]
 
