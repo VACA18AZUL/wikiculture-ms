@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 Em novembro de 2021, foi anunciado como mediador, no Centro de Convenções de Ponta Porã, da conversa que acompanhava a turnê *Sonhos Guaranis*, de [[paulo-simoes|Paulo Simões]], realizada com recursos do Fundo de Investimentos Culturais de MS.[^fcms2021]
 
-Segundo a mesma reportagem, canções dele inspiraram um projeto de arte-educação que reuniu música, quadrinhos, literatura, animação e educação ambiental, com foco na valorização dos povos originários, em especial os Guarani-Kaiowá.[^cgn2025]
+Segundo o Campo Grande News, canções dele inspiraram um projeto de arte-educação que reuniu música, quadrinhos, literatura, animação e educação ambiental, com foco na valorização dos povos originários, em especial os Guarani-Kaiowá.[^cgn2025]
 
 Em abril de 2025, anunciou o lançamento nas plataformas digitais de seu primeiro álbum solo, *Na Linha*, sobre o território, a memória e a espiritualidade da fronteira entre Ponta Porã e Pedro Juan Caballero. O disco tem produção de [[antonio-porto|Antônio Porto]], que toca em oito das nove faixas e fez edição e mixagem, e direção musical de [[gleison-derzi|Gleison Derzi]]. A faixa *A Volta Grande da Vida* tem participação de [[marina-peralta|Marina Peralta]].[^cgn2025]
 
