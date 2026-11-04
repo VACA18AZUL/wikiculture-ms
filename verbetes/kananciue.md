@@ -4,7 +4,7 @@ tipo: obra
 areas: [musica]
 resumo: "Canção de temática indígena interpretada pelo grupo ACABA, vencedora do 1º Festival Sul-Mato-Grossense de Música (Fessul), em 1979, por escolha do júri."
 ficha:
-  Autor: "ACABA (Caetano); Moacir Lacerda e J. Luz Bittencourt (Campo Grande News)"
+  Autor: "ACABA (Caetano); Moacir Lacerda e J. Luz Bittencourt (Campo Grande News; O Estado MS)"
   Intérprete: Grupo ACABA
   Ano: "1979"
   Formato: Canção
@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**"Kananciuê"** é uma canção interpretada pelo grupo [[grupo-acaba|ACABA]], vencedora do primeiro [[fessul|Festival Sul-Mato-Grossense de Música (Fessul)]], em 1979.[^caetano2012a][^cgn2021] As fontes divergem quanto à autoria. Gilmar Lima Caetano credita a composição ao próprio ACABA.[^caetano2012a] O *Campo Grande News* a atribui a [[moacir-lacerda|Moacir Lacerda]] e J. Luz Bittencourt.[^cgn2021]
+**"Kananciuê"** é uma canção interpretada pelo grupo [[grupo-acaba|ACABA]], vencedora do primeiro [[fessul|Festival Sul-Mato-Grossense de Música (Fessul)]], em 1979.[^caetano2012a][^cgn2021] As fontes divergem quanto à autoria. Gilmar Lima Caetano credita a composição ao próprio ACABA.[^caetano2012a] O *Campo Grande News* e *O Estado MS*, em textos de 2021 sobre o projeto *Sonoras Imagens de Uma Época*, com canções de festivais interpretadas por [[geraldo-espindola|Geraldo Espíndola]], a atribuem a [[moacir-lacerda|Moacir Lacerda]] e J. Luz Bittencourt.[^cgn2021][^oestado2021]
 
 ## Letra
 
@@ -30,3 +30,4 @@ Faria retoma a análise de Caetano e conclui que a canção campeã foi a que ma
 [^caetano2012b]: Caetano, *A música regional urbana e identidades culturais de Mato Grosso do Sul*, UFGD, 2012, p. 50. Acesso em 4 nov. 2026.
 [^faria2024]: Ian Rari Nogueira Faria, [*Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul: sendas em canções de Geraldo Roca*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682), dissertação de mestrado em Estudos Culturais, UFMS, Aquidauana, 2024, p. 58-59 do PDF. Acesso em 4 nov. 2026.
 [^cgn2021]: Nyelder Rodrigues, ["Festivais que marcaram época em MS são relembrados em filme"](https://www.campograndenews.com.br/lado-b/diversao/festivais-que-marcaram-epoca-em-ms-sao-relembrados-em-filme), *Campo Grande News*, 13 ago. 2021. Acesso em 4 nov. 2026.
+[^oestado2021]: ["Geraldo Espíndola resgata músicas de festivais"](https://oestadoonline.com.br/destaque/geraldo-espindola-resgata-musicas-de-festivais/), *O Estado de Mato Grosso do Sul*, 25 ago. 2021. Acesso em 4 nov. 2026.

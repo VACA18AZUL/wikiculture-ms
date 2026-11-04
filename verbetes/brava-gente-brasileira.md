@@ -25,6 +25,8 @@ A produção é de fora do estado: a Cinemateca Brasileira registra o filme como
 
 A artista plástica [[carla-de-capua|Carla de Cápua]], que atuou como professora na Universidade Federal de Mato Grosso do Sul, foi chamada para fazer os desenhos de cena do filme por causa de sua pesquisa sobre temas indígenas, segundo o catálogo dos 30 anos do [[marco|MARCO]].[^marco]
 
+Miguel Angelo Corrêa, em tese sobre o audiovisual indígena do estado, cita o realizador terena [[gilmar-galache|Gilmar Galache]], para quem o filme tem grande relevância para Mato Grosso do Sul por contar parte da história do povo Kadiwéu, subgrupo da nação Guaikuru, com atores nacionais, sul-mato-grossenses e kadiwéu no elenco. Galache destaca o kadiwéu Ademir Matchua, que tinha menos de vinte anos e fez o papel de um guerreiro.[^correa] A ficha da Cinemateca grafa o nome como Adenir Matchua, no papel de guerreiro.[^cb]
+
 ## Enredo
 
 Em 1778, na região do médio Paraguai, o astrônomo e cartógrafo Diogo chega com um grupo de soldados para fazer um levantamento topográfico para a Coroa portuguesa. A coluna segue para o Forte Coimbra, cercado pelos índios cavaleiros com quem Portugal tenta um acordo de paz. No caminho, os soldados violentam indígenas que se banhavam num rio, o que leva a uma série de conflitos.[^cb][^neves]
@@ -33,7 +35,7 @@ Em 1778, na região do médio Paraguai, o astrônomo e cartógrafo Diogo chega c
 
 No 33º Festival de Brasília, em 2000, Luciana Rigueira recebeu o prêmio de melhor atriz e Lívio Tragtenberg o de melhor trilha musical. O filme teve exibição especial em Toronto, no Canadá, em setembro de 2000.[^cb]
 
-Em 2015, Murat voltou a Mato Grosso do Sul para o documentário *A Nação que Não Esperou por Deus*, que revisita os Kadiwéu quinze anos depois de *Brava Gente Brasileira*.[^cb2]
+Em 2015, Murat voltou a Mato Grosso do Sul para o documentário *A Nação que Não Esperou por Deus*, que revisita os Kadiwéu quinze anos depois de *Brava Gente Brasileira*.[^cb2] Segundo Corrêa, o documentário foi codirigido por Rodrigo Hinrichsen, e Ademir Matchua teve papel de destaque nos dois filmes.[^correa]
 
 ## Ficha técnica
 
@@ -46,4 +48,5 @@ Em 2015, Murat voltou a Mato Grosso do Sul para o documentário *A Nação que N
 [^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 55. Acesso em 4 nov. 2026.
 [^cb]: Cinemateca Brasileira, ["Brava Gente Brasileira"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=BRAVA%20GENTE%20BRASILEIRA&indexSearch=TI&format=detailed.pft), base Filmografia Brasileira, ficha do filme 022815. Acesso em 4 nov. 2026.
 [^cb2]: Cinemateca Brasileira, ["A Nação que Não Esperou por Deus"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=BRAVA%20GENTE%20BRASILEIRA&indexSearch=TI&format=detailed.pft), base Filmografia Brasileira, ficha do filme 046902. Acesso em 4 nov. 2026.
+[^correa]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, p. 105. Acesso em 4 nov. 2026.
 [^marco]: Fundação de Cultura de Mato Grosso do Sul, [*MARCO 30 anos: catálogo comemorativo*](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf), 2021, p. 19. Acesso em 4 nov. 2026.

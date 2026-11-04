@@ -24,6 +24,8 @@ Em setembro de 2024, a livraria inaugurou o primeiro espaço físico, na Rua 13 
 
 Em novembro de 2024, o *Campo Grande News* indicou livros de autores de Mato Grosso do Sul, entre eles [[henrique-komatsu|Henrique Komatsu]] e [[fabio-quill|Fábio Quill]], todos à venda na Hámor. Segundo a matéria, parte deles saiu pela editora da livraria.[^cgn2024]
 
+Em março de 2026, a editora Hámor organizou em Campo Grande o lançamento de *Como se Voassem os Peixes*, livro de poemas de Carlo Fabrizio, procurador do Estado. Os poemas foram escritos a partir de 2021, em cursos de escrita feitos durante a pandemia. O lançamento teve bate-papo mediado por Febraro de Oliveira, editor da Hámor, e por Oslei Bega.[^ce2026]
+
 Em maio de 2026, a livraria anunciou a Feirinha Cambiar, evento de troca de livros entre leitores, marcado para 9 de maio no bairro Monte Castelo.[^cgn2026]
 
 [^cgn2023a]: Jéssica Fernandes, ["Livraria promove troca-troca de livros e discotecagem no Centro"](https://www.campograndenews.com.br/lado-b/diversao/livraria-promove-troca-troca-de-livros-e-discotecagem-no-centro), *Campo Grande News*, 5 jul. 2023. Acesso em 4 nov. 2026.
@@ -32,3 +34,4 @@ Em maio de 2026, a livraria anunciou a Feirinha Cambiar, evento de troca de livr
 [^cgn2026]: Natália Olliver, ["Livro parado na estante vira moeda de troca em nova feirinha deste sábado"](https://www.campograndenews.com.br/lado-b/diversao/livro-parado-na-estante-vira-moeda-de-troca-em-nova-feirinha-deste-sabado), *Campo Grande News*, 6 maio 2026. Acesso em 4 nov. 2026.
 [^ce2024]: Mariana Piell, ["Livraria itinerante de Campo Grande abre espaço físico com café"](https://correiodoestado.com.br/correio-b/livraria-itinerante-de-campo-grande-abre-espaco-fisico-com-cafe/435993/), *Correio do Estado*, 10 set. 2024. Acesso em 4 nov. 2026.
 [^oe2024]: Amanda Ferreira, ["Hámor livraria inaugura novo espaço neste sábado (14) com lançamento de livro e workshop de Mar Becker"](https://oestadoonline.com.br/arte-e-lazer/hamor-livraria-inaugura-novo-espaco-neste-sabado-14-com-lancamento-de-livro-e-workshop-de-mar-becker/), *O Estado Online*, 11 set. 2024. Acesso em 4 nov. 2026.
+[^ce2026]: Mariana Piell, ["Procurador do Estado Carlo Fabrizio lança o livro de poemas 'Como se Voassem os Peixes'"](https://correiodoestado.com.br/correio-b/2026/03/04/procurador-do-estado-carlo-fabrizio-lanca-o-livro-de-poemas-como-se-voassem-os-peixes.html), *Correio do Estado*, 4 mar. 2026. Acesso em 4 nov. 2026.

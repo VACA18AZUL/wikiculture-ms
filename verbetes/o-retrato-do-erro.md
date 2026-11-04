@@ -20,7 +20,7 @@ Os corpos de duas crianças foram encontrados nos fundos da casa de Célia, na V
 
 ## Produção
 
-O projeto partiu da pesquisa de mestrado do historiador João Prestes, que estudou o caso por dois anos e assina o roteiro com Luis Gabriel. O filme é da produtora Misa Filmes, dedicada a documentários sobre casos criminais.[^oe2026][^pp2026] Usa autos do processo, documentos do Tribunal de Justiça, reportagens da época e entrevistas com juiz, delegado, jornalista, psicóloga, historiador e antigos moradores da região. Discute o peso do racismo e da intolerância religiosa contra Célia, praticante de religião de matriz africana, e o papel da imprensa, em especial uma fotografia publicada pelo extinto jornal *Diário da Serra*.[^oe2026][^pp2026]
+O projeto partiu da pesquisa de mestrado do historiador João Prestes, que estudou o caso por dois anos e assina o roteiro com Luis Gabriel. O filme é da produtora Misa Filmes, dedicada a documentários sobre casos criminais.[^oe2026][^pp2026] Usa autos do processo, documentos do Tribunal de Justiça, reportagens da época e entrevistas com juiz, delegado, jornalista, psicóloga, historiador e moradores da região. Segundo a diretora, Célia praticava uma religião de matriz africana, e o filme discute o peso do racismo e da intolerância religiosa no caso, além do papel da imprensa, em especial uma fotografia publicada pelo extinto jornal *Diário da Serra*.[^oe2026][^pp2026]
 
 As fontes divergem quanto ao nome do fundo que financiou o filme: o *O Estado MS* cita o FEMIC (Fundo Municipal de Incentivo à Cultura) e o *Primeira Página*, o FMIC (Fundo Municipal de Investimentos Culturais).[^oe2026][^pp2026] As gravações levaram 15 dias, depois de cerca de um ano de pesquisa e pré-produção. Em julho de 2026, o filme estava em edição final; a primeira exibição seria para convidados do jornalismo e do direito, com lançamento ao público previsto para fevereiro de 2027.[^pp2026]
 
@@ -38,5 +38,5 @@ As fontes divergem quanto ao nome do fundo que financiou o filme: o *O Estado MS
 - Logger: Rafaela Correia[^pp2026]
 - Produtora: Misa Filmes[^pp2026]
 
-[^oe2026]: ["História da 'Bruxa da Sapolândia' ganha documentário sobre caso que chocou o povo"](https://oestadoonline.com.br/arte-e-lazer/historia-da-bruxa-da-sapolandia-ganha-documentario-sobre-caso-que-chocou-o-povo/), *O Estado MS*, 9 jul. 2026. Acesso em 4 nov. 2026.
-[^pp2026]: ["Documentário revela novo lado da 'Bruxa da Sapolândia' e levanta dúvida: ela era inocente?"](https://primeirapagina.com.br/cinema/documentario-revela-novo-lado-da-bruxa-da-sapolandia-e-levanta-duvida-ela-era-inocente/), *Primeira Página*, 27 jul. 2026. Acesso em 4 nov. 2026.
+[^oe2026]: Lívia Medina, ["História da 'Bruxa da Sapolândia' ganha documentário sobre caso que chocou o povo"](https://oestadoonline.com.br/arte-e-lazer/historia-da-bruxa-da-sapolandia-ganha-documentario-sobre-caso-que-chocou-o-povo/), *O Estado MS*, 9 jul. 2026. Acesso em 4 nov. 2026.
+[^pp2026]: Augusto Castro, ["Documentário revela novo lado da 'Bruxa da Sapolândia' e levanta dúvida: ela era inocente?"](https://primeirapagina.com.br/cinema/documentario-revela-novo-lado-da-bruxa-da-sapolandia-e-levanta-duvida-ela-era-inocente/), *Primeira Página*, 27 jul. 2026. Acesso em 4 nov. 2026.

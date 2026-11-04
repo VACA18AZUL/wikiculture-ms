@@ -44,3 +44,15 @@ Dossiê apoiado em fonte única, com uma frase.
 ## Uso no verbete
 
 - Verbete não escrito: fonte única com uma frase.
+
+## Fonte nova (agente d1-1, 2026-11-04, PDF baixado e lido com pdftotext)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| neves | Alexandre Aldo Neves, "Luz, câmera, ação!...", em Ferraz e Neves (org.), *Filmando em Mato Grosso do Sul*, Ed. UFGD, 2012, p. 25 | https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf | sim |
+
+- Neves cita Duncan (2006, p. 116): "A GLORIA FILMES, de Décio Correia de Oliveira criou o CINE-JORNAL DE AQUIDAUANA, produzindo centenas de cines-jornais". Sem ano. Diehl (p. 35-36) não cita Duncan nesse trecho; as duas fontes são de autores diferentes, mas a origem primária de ambas não está clara. Duncan (livro-base FCMS 2006) não foi aberto.
+
+## Uso no verbete (d1-1)
+
+Verbete curto com diehl (ano 1938, Aquidauana, contexto Vargas) e neves (Gloria Filmes, "centenas" de cinejornais, via Duncan). Datas de vida e filmes específicos: sem fonte.

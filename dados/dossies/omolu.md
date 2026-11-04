@@ -39,3 +39,17 @@ Três buscas na web (Omolú + Ginga + Joinville; resultados 2022 danças popular
 ## Uso no verbete
 
 - Não redigido: fonte única. Sugestão: o fato cabe no verbete [[ginga-cia-de-danca]] (Espetáculos), com a nota cgn2022.
+
+## Fonte nova (agente d1-1, 2026-11-04, aberta e lida pela API do O Estado MS)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| oe2022 | "'MS não apoia artistas daqui', diz bicampeão do maior festival de dança do mundo", *O Estado MS*, 25 ago. 2022 | https://oestadoonline.com.br/arte-e-lazer/ms-nao-apoia-artistas-daqui-diz-bicampeao-do/ | sim |
+
+- 39ª edição; grupo grafado "Ginga Espaço de Dança"; coreografia de Diogenes Antonio Pivatto, "bicampeonato na categoria sênior" em 21 jul. 2022; dueto com Frantielly Ycasat; vaga na 40ª edição; terceira vez sem apoio; vaquinha pela segunda vez.
+- Divergência registrada no verbete: modalidade Danças Populares Brasileiras (CGN) × categoria sênior (O Estado). Podem ser modalidade e categoria ao mesmo tempo, mas nenhuma fonte diz isso.
+- Idade de Pivatto (54 anos) e o trecho sobre Silêncio Branco não entraram (não são sobre a obra).
+
+## Uso no verbete (d1-1)
+
+Verbete curto escrito com cgn2022 e oe2022. Resultado oficial do festival continua não aberto.

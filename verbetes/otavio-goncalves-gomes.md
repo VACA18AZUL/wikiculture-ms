@@ -22,7 +22,7 @@ Foi sócio da Academia de Letras e História de Campo Grande desde a fundação 
 
 - *Lampejos* (1972) — poesia; lançado em setembro de 1972, com prefácio de Hugo Pereira do Vale.[^amarilha]
 - *Biografia do Visconde de Taunay* (1973) — texto publicado em *Biografia de Patronos*, da academia de Campo Grande.[^amarilha]
-- *Onde cantam as seriemas* (1975) — memórias.[^raido][^amarilha]
+- [[onde-cantam-as-seriemas|Onde cantam as seriemas]] (1975) — memórias.[^raido][^amarilha]
 - *A poesia de Mato Grosso do Sul* (1983) — antologia, Brasília, Resenha Tributária.[^amarilha]
 
 *Onde cantam as seriemas* reúne capítulos curtos sobre a infância em Ribas do Rio Pardo, à beira da Estrada de Ferro Noroeste do Brasil: a fauna e a flora, a festa de São Sebastião e as pessoas da cidade. O prefácio é de Câmara Cascudo.[^raido] Dayana Lopes Russo (UFGD, 2010) cita o livro, por meio de Edgar Nolasco e de Paulo Bungart Neto, a propósito da seriema: Gomes explica a origem indígena do nome da ave e descreve seu canto.[^russo2010]
