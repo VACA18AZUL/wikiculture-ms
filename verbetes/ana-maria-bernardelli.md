@@ -17,9 +17,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-É formada em Letras em Presidente Prudente (SP) e estudou língua e literatura francesa na Universidade de Nancy, na França. Também tem formação musical e dá aulas de piano.[^aslperfil] [^cgn2020]
+É formada em Letras em Presidente Prudente (SP) e estudou língua e literatura francesa na Universidade de Nancy, na França. Também tem formação musical e dá aulas de piano.[^aslperfil][^cgn2020]
 
-Em Campo Grande, foi professora de língua portuguesa no Colégio Salesiano Dom Bosco de 1994 a 2012 e professora de literatura portuguesa na Universidade Católica Dom Bosco de 2002 a 2004. Integra a [[comissao-sul-mato-grossense-de-folclore|Comissão Sul-Mato-Grossense de Folclore]] e participou da [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] em 2017 e 2021.[^aslperfil]
+Em Campo Grande, deu aulas de língua portuguesa no Colégio Salesiano Dom Bosco entre 1994 e 2012 e professora de literatura portuguesa na Universidade Católica Dom Bosco de 2002 a 2004. Integra a [[comissao-sul-mato-grossense-de-folclore|Comissão Sul-Mato-Grossense de Folclore]] e participou da [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] em 2017 e 2021.[^aslperfil]
 
 Em 2020, contou à imprensa que guardava os poemas para si e que [[rubenio-marcelo|Rubenio Marcelo]], [[raquel-naveira|Raquel Naveira]] e [[fabio-gondim|Fábio Gondim]] a incentivaram a publicá-los.[^cgn2020]
 
@@ -35,7 +35,7 @@ Em 2024, publicou com Rubenio Marcelo o livro *Almar*, pela Life Editora, que re
 - *101 Reinvençõezinhas*, antologia infantil organizada com Fábio Gondim; o perfil da Academia registra 2017 e 2018.[^aslperfil]
 - *Prosas e Segredos da Morena* (2018), coletânea de contos sobre Campo Grande, organizada com Fábio Gondim.[^asleleicao]
 - *Era uma vez* (2019), histórias infantis em verso e prosa.[^aslperfil]
-- *Na Trilha das Formigas* (2020), poemas, Life Editora.[^aslperfil] [^cgn2020]
+- *Na Trilha das Formigas* (2020), poemas, Life Editora.[^cgn2020]
 - *Almar* (2024), com Rubenio Marcelo, Life Editora.[^oe2024]
 
 [^aslperfil]: Academia Sul-Mato-Grossense de Letras, ["Ana Maria Bernardelli"](https://acletrasms.org.br/portfolio-item/ana-maria-bernardelli/), perfil da cadeira 27. Acesso em 4 nov. 2026.

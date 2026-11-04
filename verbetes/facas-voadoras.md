@@ -26,7 +26,7 @@ Segundo o *Campo Grande News*, no fim dos anos 2000 a música "1:54" tocou em vi
 
 O grupo fez uma pausa nos shows quando Schmidt se mudou para Brasília. No início de 2017, voltou com o single "Creatures in the Night", cujo videoclipe, inspirado em filmes de terror, foi produzido pela [[vaca-azul|Vaca Azul]]. Em setembro daquele ano, tocava em Campo Grande cerca de uma vez por mês, para juntar recursos para novos singles e um segundo disco, ainda sem data.[^cgn2017]
 
-Em agosto de 2017, foi anunciada como atração de abertura do show da banda gaúcha Cachorro Grande no 21 Music Bar, em Campo Grande.[^sympla2017]
+Em agosto de 2017, o trio foi anunciado ao lado da banda gaúcha Cachorro Grande em show no 21 Music Bar, em Campo Grande.[^sympla2017]
 
 ## Videografia
 
