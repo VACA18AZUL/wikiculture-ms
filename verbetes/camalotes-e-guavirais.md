@@ -8,7 +8,7 @@ ficha:
   Autor: Ulisses Serra
   Ano: "1971"
   Formato: "Livro de crônicas (uma das fontes o chama de livro de contos)"
-  Edições: "1971; 1989 (Tribunal de Justiça de MS); 2007 (Academia Sul-Mato-Grossense de Letras)"
+  Edições: "1971; 1989 (Tribunal de Justiça de MS); 2007 (Academia Sul-Mato-Grossense de Letras); edição comemorativa de 2006 citada por Russo"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -25,6 +25,8 @@ A primeira crônica, "Motivos de um título", trata de Corumbá e do rio Paragua
 
 A segunda edição, de 1989, foi publicada pelo Tribunal de Justiça de Mato Grosso do Sul, com apresentação de [[elpidio-reis|Elpídio Reis]] e prefácio de [[jose-couto-vieira-pontes|José Couto Vieira Pontes]]. A terceira, de 2007, teve patrocínio da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^raido]
 
+Dayana Lopes Russo (UFGD, 2010) cita uma edição comemorativa do centenário de nascimento de Serra, de 2006, com 175 páginas, publicada em Campo Grande por um instituto que ela chama de Instituto Historiográfico de Mato Grosso do Sul. A capa dessa edição traz flores de guavira e camalotes. Russo também registra que [[raquel-naveira|Raquel Naveira]] homenageou o livro no poema "Guavirais".[^russo2010] A data e a editora dessa edição diferem das da terceira edição citada por Bungart Neto (2007, com patrocínio da Academia).[^raido][^russo2010]
+
 ## Lançamento e criação da academia
 
 Segundo Pontes, citado por Amarilha, o lançamento ocorreu às 20 horas, no Hotel Campo Grande, em noite de autógrafos muito concorrida, e dele surgiram reuniões literárias semanais em casa de Serra.[^amarilha] Dessas reuniões nasceu a Academia de Letras e História de Campo Grande, depois Academia Sul-Mato-Grossense de Letras. A ata de fundação foi registrada em 6 de novembro de 1971.[^amarilha] A instalação solene ocorreu em 13 de outubro de 1972, um ano depois do lançamento do livro.[^raido][^amarilha] Serra morreu em junho de 1972, antes da instalação.[^raido]
@@ -39,3 +41,4 @@ Bungart Neto descreve o livro como coletânea de crônicas.[^raido] Amarilha o c
 
 [^raido]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, p. 77-90, jan./jun. 2008. Acesso em 29 out. 2026.
 [^amarilha]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2006. Acesso em 29 out. 2026.
+[^russo2010]: Dayana Lopes Russo, [*Hélio Serejo: a fábula do erval na literatura sul-mato-grossense*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/593/1/DayanaLopesRusso.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2010, p. 15-16 e 97-98, nota 54 (p. 18-19 e 100-101 do PDF). Acesso em 4 nov. 2026.

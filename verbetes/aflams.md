@@ -21,6 +21,8 @@ Segundo a mesma reportagem, os objetivos da academia incluem o fortalecimento da
 
 A dissertação de Simone Lima Ferreira (UFMS, 2025) cita a Aflams, ao lado da Academia Sul-Mato-Grossense de Letras e da UBE-MS, entre os espaços de circulação literária do estado.[^ferreira2025]
 
+A dissertação de Lise Rossi Jones Lima (UFMS, 2023) registra a escritora aquidauanense Jandira Mendes Trindade como titular da cadeira 19 da Aflams. Segundo a autora, Jandira começou no jornal *O Pantaneiro* e publicou *Meu lugar é aqui* pela Fundação de Cultura de MS em 2008.[^lima2023]
+
 ## Atividades
 
 Para 12 de março de 2026, a Aflams e a [[fundac|Fundação Municipal de Cultura de Campo Grande]] programaram na [[morada-dos-bais|Morada dos Baís]] o encontro "Mulher – Encontro de Gerações", parte do Mês da Mulher. A programação previa leitura de poesias e troca de experiências entre acadêmicas e estudantes da Academia Estudantil de Letras da Escola Estadual Emidgio Campos Vidal.[^acritica2026a]
@@ -31,3 +33,4 @@ Para 28 de maio de 2026, a academia marcou a cerimônia de posse de três novas 
 [^acritica2026a]: Carlos Guilherme, ["Morada dos Baís reúne escritoras e estudantes em encontro sobre literatura feminina"](https://acritica.net/cultura/morada-dos-bais-reune-escritoras-e-estudantes-em-encontro-sobre-literatura-feminina/), *A Crítica de Campo Grande*, 10 mar. 2026. Acesso em 4 nov. 2026.
 [^acritica2026b]: Pietro Bitencourt, ["AFLAMS empossa três novas acadêmicas e amplia representatividade cultural em Mato Grosso do Sul"](https://acritica.net/cultura/aflams-empossa-novas-integrantes-em-mato-grosso-do-sul/), *A Crítica de Campo Grande*, 28 maio 2026. Acesso em 4 nov. 2026.
 [^ferreira2025]: Simone Lima Ferreira, [*Neologismos na literatura feminina sul-mato-grossense contemporânea*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564), dissertação de mestrado em Estudos de Linguagens, UFMS, 2025, p. 36 (numeração impressa). Acesso em 4 nov. 2026.
+[^lima2023]: Lise Rossi Jones Lima, [*Jornal O Pantaneiro: memória, história e cultura*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/11772), dissertação de mestrado em Estudos Culturais (Aquidauana), Universidade Federal de Mato Grosso do Sul, 2023, p. 91, nota 36 (p. 92 do PDF). Acesso em 4 nov. 2026.

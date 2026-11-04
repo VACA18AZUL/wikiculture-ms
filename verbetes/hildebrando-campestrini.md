@@ -19,7 +19,9 @@ atualizado: 2026-11-04
 
 Segundo o artigo de Heitor Freire, diretor do IHGMS, publicado no *Campo Grande News* em 2016, Campestrini lecionou na Universidade Estadual de Mato Grosso, depois federalizada, de 1973 a 1982, e na atual Universidade Católica Dom Bosco, desde o tempo da Fucmat, de 1973 a 1986. Trabalhou por dezenove anos em cargos de direção e assessoramento do Tribunal de Justiça de Mato Grosso do Sul e, em 2016, era professor titular de linguagem jurídica na Escola Superior de Magistratura do estado, cargo que ocupava desde 1986. Foi revisor da Constituição de Mato Grosso do Sul de 1989 e, na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], foi secretário-geral em vários mandatos e presidente. O artigo o apresenta como inspirador e coautor da *Enciclopédia das Águas de Mato Grosso do Sul* e informa que ele doou ao IHGMS os direitos autorais dos livros dele editados pelo instituto.[^freire2016]
 
-Em 2008, organizou a obra completa de [[helio-serejo|Hélio Serejo]], publicada pelo IHGMS.[^raido2011]
+Em 2008, organizou a obra completa de [[helio-serejo|Hélio Serejo]], publicada pelo IHGMS.[^raido2011] A dissertação de Ariane Morales Moreti (UFGD, 2019) credita a ele a sistematização, a revisão e o projeto final dos nove volumes, editados pelo IHGMS com a Gibim.[^moreti2019]
+
+Em trecho de Lemuel de Farias Diniz (2006) citado por Grazielli Alves de Lima, Campestrini aparece entre os professores que, depois da criação do estado, participaram com [[raquel-naveira|Raquel Naveira]] da chamada militância cultural pela preservação do patrimônio de Campo Grande.[^glima2012]
 
 ## Homenagem no Senado
 
@@ -34,3 +36,5 @@ Em discurso de 9 de novembro de 2016, publicado no *Diário do Senado Federal* n
 [^freire2016]: Heitor Freire, ["Testis temporum (*)"](https://www.campograndenews.com.br/artigos/testis-temporum-(*)), *Campo Grande News* (Artigos), 7 mar. 2016. Acesso em 4 nov. 2026.
 [^raido2011]: Maria Adélia Menegazzo, ["Resenha: SANTOS, Paulo Sergio Nolasco dos (org.). Literatura, arte e cultura na fronteira sul-mato-grossense"](https://ojs.ufgd.edu.br/Raido/article/download/1185/818/3766), *Raído*, Dourados, v. 5, n. 9, p. 301-304, jan./jun. 2011. Acesso em 4 nov. 2026.
 [^senado]: Senado Federal, ["Pronunciamento de Simone Tebet (pela ordem), 9 nov. 2016"](https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/427217), homenagem a Hildebrando Campestrini, publicado no *Diário do Senado Federal* de 10 nov. 2016, p. 19. Acesso em 4 nov. 2026.
+[^moreti2019]: Ariane Morales Moreti, [*A representação da mulher e a formação do imaginário fronteiriço na prosa de ficção de Hélio Serejo*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/932/1/ArianeMoralesMoreti.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2019, p. 9 e 103-106 (p. 10 e 49-52 do PDF). Acesso em 4 nov. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 87 do PDF. Acesso em 4 nov. 2026.

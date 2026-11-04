@@ -9,7 +9,7 @@ ficha:
   Atividade: Poeta, memorialista e engenheiro agrônomo
   Instituição: Academia Sul-Mato-Grossense de Letras (presidente, 1982-1985)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Otávio Gonçalves Gomes** é um poeta e memorialista, engenheiro agrônomo, nascido em Coxim, criado em Ribas do Rio Pardo e depois morador de Campo Grande.[^raido]
@@ -25,7 +25,7 @@ Foi sócio da Academia de Letras e História de Campo Grande desde a fundação 
 - *Onde cantam as seriemas* (1975) — memórias.[^raido][^amarilha]
 - *A poesia de Mato Grosso do Sul* (1983) — antologia, Brasília, Resenha Tributária.[^amarilha]
 
-*Onde cantam as seriemas* reúne capítulos curtos sobre a infância em Ribas do Rio Pardo, à beira da Estrada de Ferro Noroeste do Brasil: a fauna e a flora, a festa de São Sebastião e as pessoas da cidade. O prefácio é de Câmara Cascudo.[^raido]
+*Onde cantam as seriemas* reúne capítulos curtos sobre a infância em Ribas do Rio Pardo, à beira da Estrada de Ferro Noroeste do Brasil: a fauna e a flora, a festa de São Sebastião e as pessoas da cidade. O prefácio é de Câmara Cascudo.[^raido] Dayana Lopes Russo (UFGD, 2010) cita o livro, por meio de Edgar Nolasco e de Paulo Bungart Neto, a propósito da seriema: Gomes explica a origem indígena do nome da ave e descreve seu canto.[^russo2010]
 
 ## Para saber mais
 
@@ -33,3 +33,4 @@ Foi sócio da Academia de Letras e História de Campo Grande desde a fundação 
 
 [^raido]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, p. 77-90, jan./jun. 2008. Acesso em 29 out. 2026.
 [^amarilha]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2006. Acesso em 29 out. 2026.
+[^russo2010]: Dayana Lopes Russo, [*Hélio Serejo: a fábula do erval na literatura sul-mato-grossense*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/593/1/DayanaLopesRusso.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2010, p. 98-99 (p. 101-102 do PDF). Acesso em 4 nov. 2026.

@@ -42,3 +42,7 @@ Descartada: crônica no Recanto das Letras (cronicas/6728259) sobre a sessão de
 Fonte nova: Simone Lima Ferreira, *Neologismos na literatura feminina sul-mato-grossense contemporânea*, dissertação, Estudos de Linguagens, UFMS, 2025 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15564). Nota `ferreira2025`. Numeração impressa = página do PDF menos 1. Lida a p. 36.
 
 - Acrescentado: citada entre os espaços de circulação literária do estado, com a ASL e a UBE-MS. Sem data de fundação nem outros dados.
+
+## Atualização de 2026-11-04 (r11)
+
+- Lima (UFMS, 2023), p. 92 do PDF (nota 36): Jandira Mendes Trindade, cadeira 19 da Aflams; colaboradora de O Pantaneiro; Meu lugar é aqui (FCMS, 2008). Nome novo possível: jandira-mendes-trindade (não proposto nesta rodada).

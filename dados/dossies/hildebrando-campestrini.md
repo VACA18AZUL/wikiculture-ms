@@ -53,3 +53,8 @@ Fonte nova aberta e lida: Senado Federal.
 - Efeito no verbete: abertura no passado, seção "Homenagem no Senado", ficha com naturalidade e cadeira.
 - Não usado: sedep.com.br/?p=68087 (nota de morte segundo resumo de busca: 6 maio 1941, Cedro-SC, morte "terça-feira (8)", causa de saúde); a URL abre página comercial, sem texto lido. A data exata (8 nov. 2016?) e o ano de nascimento seguem sem fonte lida. Estado de saúde fica fora de qualquer modo.
 - Correio do Estado e CGN: resultados da busca de óbito eram de outras pessoas.
+
+## Atualização de 2026-11-04 (r11)
+
+- Moreti (UFGD, 2019), p. 10 e 49-52 do PDF: sistematização, revisão e projeto final das Obras Completas de Hélio Serejo (IHGMS/Gibim, 2008, 9 v.).
+- G. Lima (UFGD, 2012), p. 87 do PDF, citando Diniz (2006, p. 21): entre os amigos de "militância cultural" de Raquel Naveira.

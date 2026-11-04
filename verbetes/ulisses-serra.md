@@ -40,6 +40,8 @@ Uma dissertação de 2006 chama o livro de "livro de contos" no corpo do texto, 
 
 O artigo de Bungart Neto classifica as crônicas como memorialísticas: tratam do surgimento e do povoamento de Campo Grande, de ruas, cinemas, bares e restaurantes da cidade.[^raido08]
 
+Dayana Lopes Russo (UFGD, 2010) cita a crônica "Ruínas humanas", em que Serra descreve os ervateiros paraguaios a partir de *Homens de Aço*, de [[helio-serejo|Hélio Serejo]], e lembra o destino de antigos atletas. Russo usa uma edição comemorativa do centenário de nascimento de Serra, de 2006.[^russo2010]
+
 ## Homenagens
 
 O concurso de contos que leva seu nome, o [[concurso-ulysses-serra|Concurso Ulysses Serra]], foi instituído pela Academia em 1972, segundo o histórico da ASL.[^aslhist] Em 19 de dezembro de 1979, a entrega do prêmio do concurso foi feita no Paço Municipal, com palestra de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]].[^carlos]
@@ -53,3 +55,4 @@ O concurso de contos que leva seu nome, o [[concurso-ulysses-serra|Concurso Ulys
 [^amarilha129]: Amarilha, 2006, p. 129, que cita Martins, 1987, p. 10. Acesso em 29 out. 2026.
 [^carlos]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=13947092), dissertação de mestrado, Programa de Pós-Graduação em Educação, Universidade Estadual de Mato Grosso do Sul, Paranaíba, 2023, p. 65-66; PDF anexado ao registro do trabalho na Plataforma Sucupira (CAPES). Acesso em 4 nov. 2026.
 [^aslhist]: Academia Sul-Mato-Grossense de Letras, ["Histórico"](https://acletrasms.org.br/historico/). Acesso em 4 nov. 2026.
+[^russo2010]: Dayana Lopes Russo, [*Hélio Serejo: a fábula do erval na literatura sul-mato-grossense*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/593/1/DayanaLopesRusso.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2010, p. 15-16 e 97-98 (p. 18-19 e 100-101 do PDF). Acesso em 4 nov. 2026.

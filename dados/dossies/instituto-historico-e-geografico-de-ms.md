@@ -84,3 +84,9 @@ Observação: três das fontes (ihglegado, acritica2026, cgn2016) são do mesmo 
 
 - Entrou: fundação, fundador, presidentes, sede, associados, publicações, Sedims, hemeroteca, acervos, distribuição de livros, leitura de Amarilha, divergências.
 - Ficou de fora: telefone e horário (dado de contato), críticas do autor à prefeitura (opinião), detalhes sobre a Praça Ary Coelho e a mangueira (fora do tema).
+
+## Atualização de 2026-11-04 (r11)
+
+- Moreti (UFGD, 2019), p. 49-52 do PDF: Obras Completas de Hélio Serejo, IHGMS/Gibim, 2008, 9 v.
+- Lima (UFMS, 2023), p. 92 do PDF (nota 35): reedição de Morro Azul, de Aglay Trindade Nantes, pelo IHGMS em 2010.
+- Russo (UFGD, 2010), p. 101, nota 54, cita edição comemorativa de Camalotes e guavirais (2006) por um "Instituto Historiográfico de Mato Grosso do Sul": grafia provavelmente errada do IHGMS; não levado a este verbete por não estar confirmado.
