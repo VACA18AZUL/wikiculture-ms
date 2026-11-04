@@ -6,10 +6,10 @@ resumo: Conjunto "baileiro" de Mato Grosso do Sul, surgido nos anos 1990 na onda
 ficha:
   Atividade: Música baileira
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**O Canto da Terra** foi um conjunto "baileiro" de Mato Grosso do Sul, ou seja, um grupo que tocava sobretudo em bailes e misturava o vanerão do Sul do país com a polca paraguaia e o chamamé.[^gon-intro]
+**O Canto da Terra** foi um conjunto "baileiro" de Mato Grosso do Sul, ou seja, um grupo que tocava sobretudo em bailes e misturava o vanerão do Sul do país com a polca paraguaia e o chamamé.[^gon-intro] Gonçalves o põe, com [[tradicao|Tradição]] e [[uirapuru|Uirapuru]], entre os conjuntos baileiros mais conhecidos do estado.[^gon-intro]
 
 ## Contexto
 
