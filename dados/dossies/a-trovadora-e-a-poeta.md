@@ -12,7 +12,7 @@
 |---|---|---|---|---|
 | cc2025 | Da Assessoria, "Com indígena e idosa, filme 'A Trovadora e a Poeta' é gravado em Campo Grande", Correio de Corumbá, 16/10/2025 | https://www.correiodecorumbapantanal.com.br/cultura/com-indigena-e-idosa-filme-a-trovadora-e-a-poeta-e-gravado-em-campo-grande | imprensa (release) | sim |
 | cgn2026 | Thailla Torres, "Aos 77 anos, Terezinha estreia em filme com 'A Trovadora e a Poeta'", Campo Grande News, 26/05/2026 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aos-77-anos-terezinha-estreia-em-filme-com-a-trovadora-e-a-poeta | imprensa | sim |
-| acritica2026 | Redação, "Curta sul-mato-grossense terá pré-estreia gratuita na UFMS", A Crítica, 26/05/2026 | https://acritica.net/cultura/curta-sul-mato-grossense-pre-estreia-ufms/ | imprensa | sim |
+| acritica2026 | Redação, "Curta sul-mato-grossense terá pré-estreia gratuita em Campo Grande", A Crítica, 26/05/2026 | https://acritica.net/cultura/curta-sul-mato-grossense-pre-estreia-ufms/ | imprensa | sim |
 
 ## Fatos
 

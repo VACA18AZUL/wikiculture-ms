@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 O filme foi gravado em cinco dias, na primeira quinzena de outubro de 2025, numa casa de conjunto habitacional do bairro Jardim Monte Alegre, em Campo Grande. Acompanha a amizade entre uma senhora cadeirante que faz poesia e uma jovem que tenta se firmar como artista na cidade. Segundo o diretor, a água e o rio guiam o filme. A produção teve recursos da Política Nacional Aldir Blanc, com edital da Prefeitura de Campo Grande operado pela [[fundac|Fundac]].[^cc2025]
 
-Terezinha interpreta uma versão de si mesma, e Gleycielle Nonato Guató faz Lucila, jovem indígena recém-chegada à capital, nome que, segundo ela, é também o de sua avó. O Campo Grande News apresentou o curta como a estreia de Terezinha no cinema, aos 77 anos.[^cgn2026]
+Terezinha interpreta uma versão de si mesma, e Gleycielle Nonato Guató faz Lucila, jovem indígena recém-chegada à capital. O Campo Grande News apresentou o curta como a estreia de Terezinha no cinema, aos 77 anos.[^cgn2026]
 
 ## Exibição
 
@@ -41,4 +41,4 @@ A pré-estreia gratuita foi anunciada para 28 de maio de 2026, na Casa de Ciênc
 
 [^cc2025]: Da Assessoria, ["Com indígena e idosa, filme 'A Trovadora e a Poeta' é gravado em Campo Grande"](https://www.correiodecorumbapantanal.com.br/cultura/com-indigena-e-idosa-filme-a-trovadora-e-a-poeta-e-gravado-em-campo-grande), *Correio de Corumbá*, 16 out. 2025. Acesso em 4 nov. 2026.
 [^cgn2026]: Thailla Torres, ["Aos 77 anos, Terezinha estreia em filme com 'A Trovadora e a Poeta'"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aos-77-anos-terezinha-estreia-em-filme-com-a-trovadora-e-a-poeta), *Campo Grande News*, 26 maio 2026. Acesso em 4 nov. 2026.
-[^acritica2026]: Redação, ["Curta sul-mato-grossense terá pré-estreia gratuita na UFMS"](https://acritica.net/cultura/curta-sul-mato-grossense-pre-estreia-ufms/), *A Crítica*, 26 maio 2026. Acesso em 4 nov. 2026.
+[^acritica2026]: Redação, ["Curta sul-mato-grossense terá pré-estreia gratuita em Campo Grande"](https://acritica.net/cultura/curta-sul-mato-grossense-pre-estreia-ufms/), *A Crítica*, 26 maio 2026. Acesso em 4 nov. 2026.
