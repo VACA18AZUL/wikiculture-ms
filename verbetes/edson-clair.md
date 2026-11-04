@@ -8,7 +8,7 @@ ficha:
   Atividade: Direção e coreografia de dança urbana
   Grupos: Funk-se
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Edson Clair** é um diretor e coreógrafo de Campo Grande, criador do [[ms-street-dance-fest|MS Street Dance Fest]] e diretor do grupo [[funk-se|Funk-se]].[^cgn2016]

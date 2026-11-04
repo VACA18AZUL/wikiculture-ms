@@ -10,7 +10,7 @@ ficha:
   Atividade: Artes plásticas e história
   Grupos: Movimento Cultural Guaicuru
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Henrique de Melo Spengler** (Campo Grande, 1958 – Coxim, 2003) foi artista plástico e historiador de Mato Grosso do Sul.[^assis]
@@ -29,5 +29,5 @@ Entre os artistas do MCG que se apropriaram dos grafismos Kadiwéu, Assis consid
 
 O acervo que reuniu, com peças de cerâmica kadiwéu e terena, gravuras, livros, fotos e documentos, está no Centro de Documentação Histórica da Região Norte de Mato Grosso do Sul, em Coxim, chamado Memorial Henrique de Melo Spengler.[^assis]
 
-[^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2013.
+[^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2013, p. 37, 64-65. Acesso em 4 nov. 2026.
 [^cgn]: ["Até dia 22 de novembro, mostra reúne os maiores artistas plásticos do Estado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ate-dia-22-de-novembro-mostra-reune-os-maiores-artistas-plasticos-do-estado), *Campo Grande News*, 27 out. 2013. Acesso em 29 out. 2026.
