@@ -32,6 +32,7 @@ Fontes descartadas e o motivo:
 |---|---|---|---|---|
 | fundacao-de-cultura-de-ms | homenageado-por | cgn2013 | sim | sim |
 | memorial-da-cultura | expos-em (póstuma) | cgn2013 | não | sim |
+| in-memorian-2013 | participou-de (homenageado) | cgn2013 | sim | conferir |
 
 ## Divergências entre fontes
 

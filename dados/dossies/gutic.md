@@ -31,6 +31,7 @@ Fontes descartadas e o motivo:
 | Identificador do outro nome | Tipo de relação | Fonte | Já tem verbete? | Já está na lista-mestra? |
 |---|---|---|---|---|
 | maria-da-gloria-sa-rosa | relacionado-a (fonte histórica) | moser | sim | sim |
+| festival-estudantil-mato-grossense-de-teatro | relacionado-a (surgiu dele, segundo a fonte) | moser | sim | conferir |
 
 ## Divergências entre fontes
 

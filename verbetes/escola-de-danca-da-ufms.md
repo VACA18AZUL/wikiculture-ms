@@ -9,7 +9,7 @@ ficha:
   Local: Cidade Universitária da UFMS
   Gestão: Pró-Reitoria de Extensão, Cultura e Esporte (UFMS)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Escola de Dança da UFMS** é um programa de extensão cultural da Universidade Federal de Mato Grosso do Sul que oferece aulas de dança na Cidade Universitária, em Campo Grande.[^cgn]
@@ -18,7 +18,7 @@ A **Escola de Dança da UFMS** é um programa de extensão cultural da Universid
 
 A escola foi fundada em 2012, como resultado das reuniões do [[nedem|Núcleo de Estudos em Dança e Movimento (Nedem)]]. Começou com aulas de sapateado americano, dança do ventre e dança contemporânea e depois passou a ofertar também ballet clássico, danças urbanas e jazz.[^cgn][^ufms]
 
-Em 2019, em parceria com o Nedem, surgiu a [[sinapse-cia-de-danca-contemporanea-ufms|Sinapse Cia de Dança Contemporânea UFMS]].[^cgn]
+Em 2019, em parceria com o Nedem, surgiu a [[sinapse-cia-de-danca-contemporanea-ufms|Sinapse Cia de Dança Contemporânea UFMS]].[^cgn][^ufms]
 
 ## Aulas
 
