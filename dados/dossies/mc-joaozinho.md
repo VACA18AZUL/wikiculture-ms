@@ -17,3 +17,9 @@ Não lidas (Midiamax bloqueia acesso, 403/Cloudflare): "Cria da comunidade do BR
 ## Uso no verbete
 
 Fonte única. De fora: profissão dos pais (vida familiar); link do clipe (canal no YouTube não conferido); nome da produtora (não dito).
+
+## Atualização de 2026-11-04
+
+- Nova fonte lida: Bárbara Cavalcanti, "MCs de Campo Grande realizam sonho e lançam clipes com produtora nacional", Campo Grande News, 22/06/2021, https://www.campograndenews.com.br/lado-b/diversao/mcs-de-campo-grande-realizam-sonho-e-lancam-clipes-com-produtora-nacional — clipe "Fatos Ocorridos" dos Valentins MCs (Igor e Victor Gazula Valentim, bairro Oliveira 3), feito pela MR 10 Filmes, "traz outro campo-grandense, de nome artístico Joãozinho BRT". Identidade: BRT = Buriti, segundo a fala dele na matéria de 2021.
+- Mesmo veículo (Campo Grande News): não conta como fonte independente.
+- Midiamax (12/01/2021 e 15/09/2024) continua bloqueado (403 em curl e WebFetch). Continua fonte única por veículo.

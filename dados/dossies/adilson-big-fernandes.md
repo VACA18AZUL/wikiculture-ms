@@ -31,3 +31,11 @@
 ## Uso no verbete
 
 - Verbete não redigido: citações sem conteúdo biográfico.
+
+## Reabertura (2026-11-04, w22-7)
+
+Fontes lidas: CGN 12 mar. 2017 (Alta Tensão), CGN 17 maio 2023 (Kikiô, perfil "Quem é Big?" com discografia), FCMS 18 set. 2017 (acervo MIS), FCMS 19 out. 2020 (Big Company no Som da Concha), FCMS 23 out. 2023 (série A Alma da Nossa Música, sound design "Adilson Fernandes Big"), FCMS 3 jul. 2025 (EP Electrosounds), FCMS 10 nov. 2025 (Quatro Luas Pantaneiras). Verbete redigido.
+
+- Divergência: fundação da Alta Tensão em 1981 (CGN 2017, FCMS 2017) × meados dos anos 1980 (CGN 2023); data de Metalmorfose 1981 (CGN 2023, FCMS) × logo após 1984 (CGN 2017).
+- Bando do Velho Jack: nenhuma fonte lida liga Adilson ao grupo (só a Alta Tensão, via FCMS 2025). Não ligado.
+- Lançamento efetivo do álbum Equilíbrio não confirmado.

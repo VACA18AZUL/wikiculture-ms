@@ -19,8 +19,12 @@ Começou a cantar aos 11 anos, na quadra da comunidade. Em 2020 foi chamado por 
 
 Em janeiro de 2021, aos 19 anos, lançou o clipe "Favela venceu", o primeiro da carreira, gravado no bairro Buriti, no mesmo lugar onde fez seu primeiro vídeo cantando. A música trata de superação.[^cgn2021]
 
+Em junho de 2021, já com o nome Joãozinho BRT, participou de "Fatos Ocorridos", segundo clipe dos Valentins MCs, dupla de Campo Grande, feito pela produtora paulista MR 10 Filmes.[^cgn2021b]
+
 ## Videografia
 
 - "Favela venceu" (2021) — videoclipe gravado no bairro Buriti, em Campo Grande.[^cgn2021]
+- "Fatos Ocorridos" (2021) — videoclipe dos Valentins MCs, com participação de Joãozinho BRT; produção da MR 10 Filmes.[^cgn2021b]
 
 [^cgn2021]: Thailla Torres, ["'Favela venceu' é parte dos sonhos que MC Joãzinho tem para os pais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/favela-venceu-e-parte-dos-sonhos-que-mc-joazinho-tem-para-os-pais), *Campo Grande News*, 16 jan. 2021. Acesso em 4 nov. 2026.
+[^cgn2021b]: Bárbara Cavalcanti, ["MCs de Campo Grande realizam sonho e lançam clipes com produtora nacional"](https://www.campograndenews.com.br/lado-b/diversao/mcs-de-campo-grande-realizam-sonho-e-lancam-clipes-com-produtora-nacional), *Campo Grande News*, 22 jun. 2021. Acesso em 4 nov. 2026.

@@ -23,7 +23,7 @@ A banda lançou dez videoclipes e tocou em Mato Grosso do Sul, São Paulo, Minas
 
 ## Apresentações
 
-No edital de 2016 do [[som-da-concha|Som da Concha]], a banda ficou em primeiro lugar na lista de shows de encerramento.[^fcms2016a] Tocou no projeto em 29 de maio de 2016, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], depois da abertura do [[codinome-winchester|Codinome Winchester]].[^fcms2016b] No show, Hugo Carneiro, vocalista do [[haiwanna|Haiwanna]], cantou com a banda "Domingo eu Passo Aí".[^fcms2016c]
+No edital de 2016 do [[som-da-concha|Som da Concha]], a banda ficou em primeiro lugar na lista de shows de encerramento.[^fcms2016a] Tocou no projeto em 29 de maio de 2016, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], depois da abertura do [[codinome-winchester|Codinome Winchester]].[^fcms2016b][^fcms2016c] No show, o baixista e vocalista Rodrigo Faleiros conduziu boa parte da apresentação a partir da plateia, e Hugo Carneiro, vocalista do [[haiwanna|Haiwanna]], cantou com a banda "Domingo eu Passo Aí".[^fcms2016c]
 
 Em outubro de 2017, a FCMS a escolheu como suplente do palco alternativo do [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^fcms2017]
 
