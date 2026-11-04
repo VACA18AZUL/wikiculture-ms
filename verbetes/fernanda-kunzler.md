@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Fernanda Kunzler** é atriz e produtora de teatro em Campo Grande. Em 2022, disse trabalhar com teatro de bonecos desde 2005.[^cgn2022]
+**Fernanda Kunzler** é atriz e produtora de teatro em Campo Grande. Segundo o *Campo Grande News*, em 2022, trabalhava com teatro de bonecos desde 2005.[^cgn2022]
 
 ## Trajetória
 

@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Ocupou a cadeira 16 da ASL, cujo patrono é Rosário Congro, depois de Licurgo de Oliveira Bastos. O ocupante atual é Paulo Tadeu Haendchen.[^aslcad]
+Ocupou a cadeira 16 da ASL, cujo patrono é Rosário Congro. Na página de cadeiras da academia, Licurgo de Oliveira Bastos e ele aparecem, nessa ordem, como antecessores do ocupante atual, Paulo Tadeu Haendchen.[^aslcad]
 
 Presidiu o [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]]. Na lista de presidentes do instituto, aparece depois de Paulo Coelho Machado e [[j-barbosa-rodrigues|José Barbosa Rodrigues]] e antes de [[hildebrando-campestrini|Hildebrando Campestrini]].[^ihg2025]
 
@@ -22,7 +22,7 @@ Em 13 de maio de 1994, fez o discurso de apresentação de [[elpidio-reis|Elpíd
 
 ## Obras
 
-A [[serie-historiografica-asl|Série Historiográfica]], iniciada em 1988 com 14 títulos publicados pelo Tribunal de Justiça, inclui dois livros seus, que o histórico da ASL destaca entre os clássicos da bibliografia do estado.[^aslhist]
+A [[serie-historiografica-asl|Série Historiográfica]], surgida em 1988, com 14 títulos publicados pelo Tribunal de Justiça, inclui dois livros seus, que o histórico da ASL destaca entre os clássicos da bibliografia do estado.[^aslhist]
 
 - *Seiscentas léguas a pé* — reeditado pela Biblioteca do Exército.[^aslhist]
 - *História de Mato Grosso do Sul* — com Hildebrando Campestrini.[^aslhist]

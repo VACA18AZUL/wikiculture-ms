@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Lu Bigatão**, também grafada **Lú Bigatão**, **Lu Bigattão** e **Lú Bigatão Rios**, é jornalista e diretora teatral em Campo Grande, ligada ao teatro de bonecos.[^cgn2022c][^cgn2023] As grafias aparecem em fontes diferentes, que este verbete trata como referências à mesma pessoa por citarem o mesmo trabalho em teatro em Campo Grande.[^boca2017][^ce2022][^cgn2022c][^cgn2023]
+**Lu Bigatão**, também grafada **Lú Bigatão**, **Lu Bigattão** e **Lú Bigatão Rios**, é jornalista e diretora teatral em Campo Grande, ligada ao teatro de bonecos.[^cgn2022c][^cgn2023] Cada grafia vem de uma fonte diferente; o verbete as reúne como uma só pessoa porque todas ligam o nome ao teatro em Campo Grande.[^boca2017][^ce2022][^cgn2022c][^cgn2023]
 
 ## Trajetória
 

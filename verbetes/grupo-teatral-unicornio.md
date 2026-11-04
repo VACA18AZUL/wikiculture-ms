@@ -2,7 +2,7 @@
 titulo: Grupo Teatral Unicórnio
 tipo: grupo
 areas: [teatro]
-resumo: Grupo de teatro infantil de Mato Grosso do Sul dirigido por Jair de Oliveira, que em 2016 abriu as comemorações de seus 30 anos com uma temporada de férias no MARCO.
+resumo: Grupo de teatro infantil de Mato Grosso do Sul dirigido por Jair de Oliveira, que programou para janeiro de 2016, no MARCO, uma temporada de férias anunciada como início das comemorações de seus 30 anos.
 ficha:
   Integrantes: "[[jair-de-oliveira|Jair de Oliveira]] (direção e atuação)"
 status: rascunho
@@ -19,10 +19,10 @@ Em junho de 2022, o grupo estava na programação da virada da [[mostra-boca-de-
 
 ## Espetáculos
 
-- *Histórias do Meu Quintal* — na temporada de férias de 2016.[^sicredi2016]
-- *A Roupa Nova do Imperador* — na temporada de férias de 2016.[^sicredi2016]
-- *O Sapo Encantado e Outras Histórias* — na temporada de férias de 2016 e na Boca de Cena de 2022.[^sicredi2016][^cgn2022]
-- *A Vassoura da Bruxa* — na temporada de férias de 2016.[^sicredi2016]
+- *Histórias do Meu Quintal* — programado na temporada de férias de 2016.[^sicredi2016]
+- *A Roupa Nova do Imperador* — programado na temporada de férias de 2016.[^sicredi2016]
+- *O Sapo Encantado e Outras Histórias* — programado na temporada de férias de 2016 e na Boca de Cena de 2022.[^sicredi2016][^cgn2022]
+- *A Vassoura da Bruxa* — programado na temporada de férias de 2016.[^sicredi2016]
 
 [^sicredi2016]: Sicredi União MS/TO e Oeste da Bahia, ["Sicredi apoia peça teatral infantil gratuita"](https://www.sicredi.com.br/coop/uniaomstoeoestedabahia/noticias/institucional/sicredi-apoia-peca-teatral-infantil-gratuita/), 7 jan. 2016. Acesso em 4 nov. 2026.
 [^cgn2022]: Aletheya Alves, ["Dois dias de virada artística terão de palhaçada até peça indígena"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/dois-dias-de-virada-artistica-terao-de-palhacada-ate-peca-indigena), *Campo Grande News*, 21 jun. 2022. Acesso em 4 nov. 2026.

@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Mauricio Copetti** é um documentarista de Mato Grosso do Sul, diretor e produtor de [[planuras|*Planuras*]], documentário de Campo Grande de 2015.[^cgn2023]
+**Mauricio Copetti** é um documentarista, diretor e produtor de [[planuras|*Planuras*]], documentário de Campo Grande de 2015.[^cgn2023]
 
 ## Trajetória
 

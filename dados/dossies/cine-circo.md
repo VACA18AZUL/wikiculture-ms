@@ -13,7 +13,7 @@ Busca por segunda fonte ("Cine Circo" MIS 2015): nada.
 ## Fatos (anunciados, não confirmados como realizados)
 
 - 1º Cine Circo no MIS, Campo Grande, 2 a 4 dez. 2015; realização do Colegiado Setorial de Artes Circenses, apoio da FCMS; filmes sobre circo, debates e performances. [cgn2015]
-- 2/12: abertura com palhaços e malabaristas; curta *Entre Fronteiras – Circo Real Pantanal*, de Luís Nachbin, sobre a família Perez; *The Butterfly Circus*; roda de conversa sobre o futuro do circo na cidade. 3/12: *Garoto Cósmico*; *Hotxuá*. 4/12: *O Grande Truque*. [cgn2015]
+- 2/12: abertura com palhaços e malabaristas; curta *Entre Fronteiras – Circo Real Pantanal*, de Luís Nachbin, sobre a família Perez; *The Butterfly Circus*; roda de conversa sobre o futuro do circo na cidade. 3/12: *Garoto Cósmico*; *Hotxuá* (grafia a conferir). 4/12: *O Grande Truque*. [cgn2015]
 
 ## Frase sugerida (para [[mis-ms]] ou [[entre-fronteiras-circo-real-pantanal]])
 

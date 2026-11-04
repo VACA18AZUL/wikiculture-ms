@@ -20,17 +20,17 @@ atualizado: 2026-11-04
 
 Chegou ao então Mato Grosso para trabalhar como professor e se fixou em Campo Grande. Lecionou na Escola Boa Vista, na região da Mata do Ceroula, para filhos de imigrantes japoneses, e depois na Escola Joaquim Murtinho e na Escola Normal Nossa Senhora Auxiliadora.[^ce2016]
 
-Entrou no jornalismo como zelador do *Jornal do Comércio*, onde passou a publicar artigos. Os textos chamaram a atenção do grupo que tinha acabado de fundar o *Correio do Estado*, que o convidou. Dois anos depois da criação do jornal, comprou-o e se tornou o único dono.[^ce2016]
+Entrou no jornalismo como zelador do *Jornal do Comércio*, onde passou a publicar artigos. Os textos chamaram a atenção do grupo que tinha acabado de fundar o *Correio do Estado*, que o convidou. Dois anos depois da criação do jornal, quando parte dos políticos fundadores perdeu o interesse em mantê-lo, comprou-o e em pouco tempo se tornou o único dono.[^ce2016]
 
 Foi um dos intelectuais incorporados à [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL) logo depois da fundação, em 1971. As dependências do *Correio do Estado* abrigaram uma das primeiras sedes da academia.[^aslhist] Segundo [[jose-couto-vieira-pontes|José Couto Vieira Pontes]], um dos fundadores, foi dele a cessão de espaço no jornal que deu origem ao [[suplemento-cultural-asl|Suplemento Cultural]], publicado aos sábados.[^ce2016]
 
-Presidiu a ASL depois de [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]], que esteve no cargo de 1982 a 1985; em 1988 foi eleito [[elpidio-reis|Elpídio Reis]].[^aslhist] Ocupou a cadeira 13, cujo patrono é Estêvão de Mendonça. Seu sucessor foi Antônio João Hugo Rodrigues, e o ocupante atual é [[brigido-ibanhes|Brígido Ibanhes]].[^aslcad]
+Presidiu a ASL depois de [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]], que esteve no cargo de 1982 a 1985; em 1988 foi eleito [[elpidio-reis|Elpídio Reis]].[^aslhist] Ocupou a cadeira 13, cujo patrono é Estêvão de Mendonça. Na página de cadeiras da ASL, ele e Antônio João Hugo Rodrigues aparecem, nessa ordem, como antecessores do ocupante atual, [[brigido-ibanhes|Brígido Ibanhes]].[^aslcad]
 
 Também presidiu o [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]], o segundo na lista de presidentes, depois de Paulo Coelho Machado.[^ihg2025]
 
 ## Obras
 
-Segundo o *Correio do Estado*, escreveu dez livros, a maior parte sobre a história do estado e de Campo Grande, além de dois livros de poesia em haicais. Escrevia à mão.[^ce2016]
+Segundo o *Correio do Estado*, foi autor de dez obras. Escreveu muito sobre a história do estado e de Campo Grande e dedicou dois livros à poesia, em haicais. Escrevia os textos à mão.[^ce2016]
 
 - *Isto é Mato Grosso do Sul (Estudo histórico e geográfico)*[^ce2016]
 - *História de Campo Grande*[^ce2016]

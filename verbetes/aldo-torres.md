@@ -15,12 +15,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2019, apresentou a exposição *A Revolta da Escultura* na Temporada de Exposições do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul]] (MARCO), em Campo Grande, aberta com entrada gratuita até 1º de setembro. A mostra reunia 18 esculturas e um quadro, feitos entre o fim de 2018 e o começo de 2019.[^cgn2019]
+Em 2019, apresentou a exposição *A Revolta da Escultura* na Temporada de Exposições do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul]] (MARCO), em Campo Grande, aberta com entrada gratuita até 1º de setembro. A mostra reunia 18 esculturas e um quadro, feitos entre o fim de 2018 e o começo de 2019.[^cgn2019] A Fundação de Cultura de Mato Grosso do Sul, ao anunciar a temporada, informou que a abertura ao público seria em 18 de julho, com solenidade na quarta-feira, 17, às 19h30, e que a exposição de Aldo Torres ocupava a sala preta do museu. O texto descreve as esculturas como críticas ao governo e a situações do cotidiano, e diz que o artista tinha participado de várias exposições individuais e coletivas em Campo Grande.[^fcms2019]
 
-Segundo o *Campo Grande News*, o artista partiu dos artesanatos vendidos nas ruas e tratou da realidade do morador de comunidade, com desilusões vividas por ele e por amigos no Bairro Jardim Los Angeles. Na mesma temporada expuseram [[alessandra-cunha|Alessandra Cunha]], [[gabriel-quartin|Gabriel Quartin]] e [[wagner-thomaz|Wagner Thomaz]].[^cgn2019]
+Segundo o *Campo Grande News*, o artista partiu dos artesanatos vendidos nas ruas e tratou da realidade do morador de comunidade, com desilusões vividas por ele e por amigos no Bairro Jardim Los Angeles. Na mesma temporada expuseram [[alessandra-cunha|Alessandra Cunha]], [[gabriel-quartin|Gabriel Quartin]] e [[wagner-thomaz|Wagner Thomaz]].[^cgn2019] O comunicado da Fundação cita as mesmas três mostras, com os títulos *Espectro* (Alessandra Cunha, que ali assina como Ropre), *O problema sem nome* (Gabriel Quartin) e *Paisagem* (Wagner Thomaz).[^fcms2019]
 
 ## Obras
 
 - *A Revolta da Escultura* (2019) — exposição de 18 esculturas e um quadro, MARCO.[^cgn2019]
 
 [^cgn2019]: Thailla Torres, ["No risco das queimadas, exposição fala da “morte” do Cerrado e leva a reflexão"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/no-risco-das-queimadas-exposicao-fala-da-morte-do-cerrado-e-leva-a-reflexao), *Campo Grande News*, 25 ago. 2019. Acesso em 4 nov. 2026.
+[^fcms2019]: Karina Medeiros de Lima, ["MARCO abre 1ª Temporada de Exposições 2019 na quarta-feira"](https://www.fundacaodecultura.ms.gov.br/marco-abre-1a-temporada-de-exposicoes-2019-na-quarta-feira/), Fundação de Cultura de Mato Grosso do Sul, 11 jul. 2019. Acesso em 4 nov. 2026.
