@@ -7,7 +7,7 @@ resumo: Pintora que, com Aline Figueiredo, organizou em Campo Grande mostras de 
 ficha:
   Atividade: Pintura
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Adelaide Vieira** é uma pintora que atuou em Campo Grande na década de 1960 e aparece nas fontes como parceira de [[aline-figueiredo|Aline Figueiredo]] na organização de exposições.[^assis]
@@ -16,11 +16,13 @@ atualizado: 2026-10-29
 
 Segundo Renata Assis, Aline Figueiredo contou com o apoio de Adelaide Vieira para um projeto de animação cultural em Campo Grande. Juntas, realizaram em 1964 a primeira mostra de tendência abstrata na cidade, com obras de técnica texturista. As duas expuseram depois em Corumbá e Cuiabá.[^assis]
 
-Em outubro de 1966, as duas organizaram a [[i-exposicao-de-pinturas-artistas-mato-grossenses|I Exposição de Pinturas dos Artistas Mato-grossenses]], com [[humberto-espindola|Humberto Espíndola]], e viajaram a São Paulo para convidar o crítico Pietro Bardi para o júri.[^assis]
+Como as mostras isoladas tiveram pouca repercussão, as duas decidiram reunir os pintores do estado numa exposição coletiva. Com [[humberto-espindola|Humberto Espíndola]], organizaram a [[i-exposicao-de-pinturas-artistas-mato-grossenses|I Exposição de Pinturas dos Artistas Mato-grossenses]], realizada em outubro de 1966 na Rádio Clube de Campo Grande. Para o júri, negociaram a participação do crítico Pietro Bardi, então diretor do Museu de Arte de São Paulo.[^assis]
+
+Em artigo citado por Assis, Bardi escreveu que "as pintoras Aline e Adelaide" foram a São Paulo convidar Assis Chateaubriand para paraninfo da mostra. O mesmo texto ironizava a exposição.[^assis]
 
 ## Datas das primeiras mostras
 
-Assis data de 1964 a primeira mostra abstrata em Campo Grande e de 1966 a exposição coletiva.[^assis] Na dissertação de Rozana Godoi, uma depoente, Maria da Glória Sá Rosa, diz que a iniciativa mais expressiva da época aconteceu em 1966, organizada por Aline Figueiredo e Adelaide Vieira, no Rádio Clube.[^godoi] As fontes tratam de mostras distintas; não há divergência de data para a mesma exposição.
+Assis data de 1964 a primeira mostra abstrata em Campo Grande e de 1966 a exposição coletiva.[^assis] Rozana Godoi reproduz entrevista de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] à revista *ComCultura*, de 2006, em que ela aponta como iniciativa mais expressiva da época a exposição de 1966 organizada por Aline Figueiredo e Adelaide Vieira no Rádio Clube.[^godoi] As duas fontes concordam quanto ao ano da exposição coletiva.[^assis][^godoi]
 
 [^assis]: Renata Rodrigues de Assis, *A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*, dissertação de mestrado, Universidade Federal da Grande Dourados, 2013. [PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf). Acesso em 29 out. 2026.
 [^godoi]: Rozana Vanessa Fagundes Valentim de Godoi, *O curso de Educação Artística na Universidade Federal de Mato Grosso do Sul (1980-2000): história e memórias*, dissertação de mestrado, Universidade Federal da Grande Dourados, 2020. [PDF](http://repositorio.ufgd.edu.br/jspui/bitstream/prefix/4524/1/RozanaVanessaFagundesValentimdeGodoi.pdf). Acesso em 29 out. 2026.

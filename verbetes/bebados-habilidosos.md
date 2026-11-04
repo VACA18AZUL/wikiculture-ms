@@ -3,11 +3,11 @@ titulo: Bêbados Habilidosos
 tipo: grupo
 areas: [musica]
 cidade: Campo Grande
-resumo: Banda da cena independente de Campo Grande, citada entre os grupos do primeiro pacote do projeto Talentos de Nossa Terra (2011) e no evento Balada de amor para LidyLo (2026).
+resumo: Banda da cena independente de Campo Grande, citada entre os grupos do primeiro pacote do projeto Talentos de Nossa Terra (2011) e anunciada no evento Balada de amor para LidyLo (2026).
 ficha:
   Atividade: Banda
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Bêbados Habilidosos** é uma banda da música independente de Campo Grande.[^acritica]
@@ -16,7 +16,7 @@ atualizado: 2026-10-29
 
 Em 2011, a banda esteve no primeiro pacote do projeto [[talentos-de-nossa-terra|Talentos de Nossa Terra]], da Fundação de Cultura do estado, com seis DVDs de 30 músicos e bandas regionais.[^cgn]
 
-Em 9 de outubro de 2026, participou, no Buteco do Miau, do evento [[balada-de-amor-para-lidylo|Balada de amor para LidyLo]], que reuniu seis bandas da cena independente da capital. Toda a renda de ingressos foi destinada à artista e estilista LidyLo.[^acritica]
+A banda foi anunciada entre as seis atrações do evento [[balada-de-amor-para-lidylo|Balada de amor para LidyLo]], marcado para 9 de outubro de 2026 no Buteco do Miau, com bandas da cena independente da capital. Segundo o anúncio, toda a renda de ingressos seria destinada à artista e estilista LidyLo.[^acritica]
 
 As fontes não informam formação, ano de criação nem discografia.[^acritica]
 

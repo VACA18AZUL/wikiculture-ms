@@ -6,15 +6,15 @@ resumo: Artista plástico que abriu a programação de 2016 do MARCO, em Campo G
 ficha:
   Atividade: Artes plásticas
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Aécio Sarti** é um artista plástico que expôs no [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]] em 2016.[^ce]
 
 ## Exposições
 
-A mostra *Céu de Querubins – Almas Gêmeas* abriu a programação do MARCO em 2016. A diretora do museu, Maysa Barros, disse que ele foi convidado a expor e levou uma lona de 12 metros de largura por oito de altura, toda trabalhada. Ela classificou a exposição como marcante.[^ce]
+A mostra *Céu de Querubins – Almas Gêmeas* abriu a programação do MARCO em 2016. Segundo a diretora do museu, Maysa Barros, o artista expôs a convite do MARCO uma lona trabalhada com 12 metros de largura e oito de altura. Ela citou a mostra entre as que marcaram o ano no museu.[^ce]
 
 A matéria, publicada em novembro de 2016, não informa cidade de origem, formação nem outras obras do artista.[^ce]
 
-[^ce]: Thiago Andrade, ["Museu de Arte Contemporânea abre última mostra de 2016"](https://correiodoestado.com.br/correio-b/museu-de-arte-contemporanea-abre-ultima-mostra-de-2016/291758/), *Correio do Estado*, 21 nov. 2016. Acesso em 29 out. 2026.
+[^ce]: Redação, ["Museu de Arte Contemporânea abre última mostra de 2016"](https://correiodoestado.com.br/correio-b/museu-de-arte-contemporanea-abre-ultima-mostra-de-2016/291758/), *Correio do Estado*, 21 nov. 2016. Acesso em 4 nov. 2026.

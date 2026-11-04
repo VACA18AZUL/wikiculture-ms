@@ -10,7 +10,7 @@ ficha:
   Atividade: Escultura, gravura e pintura
   Grupos: Movimento Cultural Guaicuru
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Adilson Schieffer** (São Manuel, 1957 – 2025) foi um artista plástico que trabalhou como escultor, gravador e pintor e viveu em Campo Grande a partir dos anos 1980.[^assis2013][^cgn2025]
@@ -25,7 +25,7 @@ Morreu em 28 de janeiro de 2025.[^cgn2025]
 
 ## Obra
 
-A dissertação inclui Schieffer entre os artistas que se apropriaram da iconografia e dos grafismos kadiwéu, com a figura da mulher indígena como tema recorrente. Segundo o artista, citado a partir de reportagem do Correio do Estado de 2010, a obra reflete sobre a força das mulheres indígenas, representadas como santas e ceramistas.[^assis2013] O Campo Grande News o descreve como reconhecido pela preservação e promoção da iconografia indígena, com destaque para os kadiwéu, e por projetos de resgate de símbolos arqueológicos.[^cgn2025]
+A dissertação inclui Schieffer entre os artistas que se apropriaram da iconografia e dos grafismos kadiwéu, com a figura da mulher indígena como tema recorrente. Segundo o artista, citado a partir de reportagem do Correio do Estado de 2010, a obra reflete sobre a força das mulheres indígenas, representadas como santas e ceramistas.[^assis2013] Para o Campo Grande News, seu nome ficou associado ao registro e à difusão de motivos indígenas, sobretudo os kadiwéu, e a projetos de recuperação de símbolos arqueológicos da região.[^cgn2025]
 
 Duas telas são reproduzidas na dissertação:[^assis2013]
 

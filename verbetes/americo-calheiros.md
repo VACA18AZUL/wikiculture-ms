@@ -9,7 +9,7 @@ ficha:
   Formação: Letras (Faculdade Dom Aquino); especialização na Escola Martins Pena de Teatro (Rio de Janeiro)
   Grupos: Grupo Teatral Amador Campo-Grandense (Gutac)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Américo Calheiros** é professor, poeta e teatrólogo radicado em Campo Grande.[^ce]
@@ -24,7 +24,7 @@ Entre 1969 e 1972, o [[festival-estudantil-mato-grossense-de-teatro|Festival Est
 
 Calheiros publicou em 1984 o ensaio "Um fascínio de trezentos anos", no Boletim Informativo do Instituto Nacional de Artes Cênicas (Rio de Janeiro, n. 7, inverno de 1984). Segundo Moser, o texto situa as origens do teatro sul-mato-grossense no passado teatral de Mato Grosso, inclusive nas vilas auríferas dos séculos XVIII e XIX.[^moser]
 
-Em 2026, lançou o livro de poemas *Suicígena* (Life Editora), sobre a realidade dos povos indígenas de Mato Grosso do Sul. O lançamento foi na Academia Sul-Mato-Grossense de Letras.[^ce]
+Em 2026, lançou o livro de poemas *Suicígena* (Life Editora), sobre o suicídio entre os povos indígenas de Mato Grosso do Sul. O lançamento foi na Academia Sul-Mato-Grossense de Letras.[^ce]
 
 [^ce]: Mariana Piell, ["Suicídio indígena é tema do novo livro do poeta e teatrólogo Américo Calheiros"](https://correiodoestado.com.br/correio-b/suicidio-indigena-e-tema-do-novo-livro-do-poeta-e-teatrologo-americo/467774/), *Correio do Estado*, 8 jun. 2026. Acesso em 29 out. 2026.
 [^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), ABRACE, 2018 (PDF), pp. 1-5. O artigo relata, entre aspas, o ensaio "Teatro", de Maria da Glória Sá Rosa (1992). Acesso em 29 out. 2026.

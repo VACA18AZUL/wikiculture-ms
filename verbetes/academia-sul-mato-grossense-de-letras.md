@@ -13,14 +13,14 @@ links:
     url: https://pt.wikipedia.org/wiki/Academia_Sul-Mato-Grossense_de_Letras
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **Academia Sul-Mato-Grossense de Letras** (ASL) é uma entidade literária de Campo Grande que, nos moldes da Academia Brasileira de Letras, tem 40 cadeiras vitalícias.[^acritica] Nasceu como **Academia de Letras e História de Campo Grande** e é a sucessora dela.[^amarilha122]
 
 ## Origem
 
-O lançamento do livro *Camalotes e Guavirais*, de [[ulisses-serra|Ulisses Serra]], em 13 de outubro de 1971, no Hotel Campo Grande, é apontado por José Couto Vieira Pontes como o ponto de partida: depois do evento, Serra passou a reunir escritores em sua casa para criar uma academia.[^amarilha123] Os fundadores foram Serra, [[jose-couto-vieira-pontes|José Couto Vieira Pontes]] e Germano Barros de Souza.[^acritica]
+O lançamento do livro *Camalotes e Guavirais*, de [[ulisses-serra|Ulisses Serra]], em 13 de outubro de 1971, no Hotel Campo Grande, é apontado por José Couto Vieira Pontes como o acontecimento que levou à criação da academia.[^amarilha123] Os fundadores foram Serra, [[jose-couto-vieira-pontes|José Couto Vieira Pontes]] e Germano Barros de Souza ("Germano de Souza" na reportagem de 2026).[^acritica][^amarilha125]
 
 As fontes lidas dão datas diferentes para a criação:[^amarilha125][^amarilha122][^amarilha127]
 
@@ -46,7 +46,6 @@ Além dos fundadores e dos presidentes, as fontes lidas confirmam:[^amarilha119]
 - Demosthenes Martins, arrolado entre os fundadores.[^amarilha119]
 - [[oliva-enciso|Oliva Enciso]], ocupante da cadeira n. 22.[^amarilha126]
 - Elpídio Reis, cadeira n. 29.[^amarilha181]
-- Lenilde Ramos, cadeira n. 31.[^ce2025b]
 - [[augusto-cesar-proenca|Augusto César Proença]], cadeira n. 28, hoje de [[andre-alvez|André Alvez]], empossado em 2026.[^acritica]
 
 [^amarilha122]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, UFGD, 2006, p. 122 (texto e notas 113 e 114). Acesso em 29 out. 2026.
@@ -62,8 +61,7 @@ Além dos fundadores e dos presidentes, as fontes lidas confirmam:[^amarilha119]
 [^amarilha181]: Amarilha, 2006, p. 181. Acesso em 29 out. 2026.
 [^acritica]: Iury de Oliveira, ["André Alvez toma posse na Academia Sul-Mato-Grossense de Letras"](https://acritica.net/cultura/andre-alvez-posse-academia-sul-mato-grossense-letras/), *A Crítica de Campo Grande*, 10 ago. 2026. Acesso em 29 out. 2026.
 [^acritica2]: Ricardo Eugenio, ["Academia Sul-Mato-Grossense de Letras debate obra de Elias Borges"](https://acritica.net/eventos/academia-letras-clube-leitura-elias-borges-campo-grande/), *A Crítica de Campo Grande*, 5 out. 2026. Acesso em 29 out. 2026.
-[^ce2025]: Da Redação, ["Academia sul-mato-grossense de Letras recebe o escritor Godofredo de Oliveira Neto"](https://correiodoestado.com.br/correio-b/academia-sul-mato-grossense-de-letras-recebe-o-escritor-godofredo-de/458198/), *Correio do Estado*, 27 nov. 2025. Acesso em 29 out. 2026.
-[^ce2025b]: Mesma matéria do *Correio do Estado* de 27 nov. 2025 (seção sobre o livro do Hospital São Julião). Acesso em 29 out. 2026.
+[^ce2025]: Marcos Pierry, ["Academia sul-mato-grossense de Letras recebe o escritor Godofredo de Oliveira Neto"](https://correiodoestado.com.br/correio-b/academia-sul-mato-grossense-de-letras-recebe-o-escritor-godofredo-de/458198/), *Correio do Estado*, 27 nov. 2025. Acesso em 29 out. 2026.
 [^carlos64]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614), dissertação de mestrado, UEMS, 2023, p. 64. Acesso em 29 out. 2026.
 [^carlos65]: Carlos, 2023, p. 65-66. Acesso em 29 out. 2026.
 [^raido08]: Paulo Bungart Neto, "O memorialismo no Mato Grosso do Sul como testemunho da formação do estado", [*Raído*](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), Dourados, v. 2, n. 3, p. 77-90, jan./jun. 2008. Acesso em 29 out. 2026.
