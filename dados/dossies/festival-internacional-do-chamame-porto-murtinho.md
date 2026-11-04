@@ -52,3 +52,11 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo acima, sem as falas dos políticos.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Fonte nova lida: Redação Pantanal News, "Festival Internacional do Chamamé recebe mais de 8 mil pessoas e movimenta Porto Murtinho", 17 nov. 2022 (https://www.pantanalnews.com.br/festival-internacional-do-chamame-recebe-mais-de-8-mil-pessoas-e-movimenta-porto-murtinho/). Veículo distinto do CGN; pós-evento. Sustenta: realização de 11 a 14/11/2022; público (8 mil presenciais, quase 6 mil online, ambos segundo o diretor-geral); adiamento de parte do domingo por chuva; encerramento na madrugada de 15/11; 37 grupos (7 de dança); destaques; diretor-geral Orivaldo Mengual (Instituto Cultural Chamamé MS). Tom de balanço oficial; possível origem em assessoria, não declarada. Não usadas: falas do prefeito sobre economia (parcialmente usada só a continuidade), número de 800 pessoas envolvidas.
+
+Resolvido: encerramento em 14/11 (antes "só programação"). Edições seguintes: a fonte só diz que se previa continuidade; segue sem confirmação. Pistas: site da Prefeitura de Porto Murtinho (portomurtinho.ms.gov.br) tem busca funcional (posts de 2023 em diante vistos; 2022 não localizado).
+
+Homônimo para cuidado: o "1º Festival Internacional de Chamamé de MS" de 15 a 17 set. 2017, em Campo Grande, Instituto Cultural Chamamé MS (FCMS, 14 set. 2017), e o "Festival Internacional do Chamamé" de Rio Brilhante (6ª edição em 2017). Não confundir com o de Porto Murtinho.

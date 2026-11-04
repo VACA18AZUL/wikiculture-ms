@@ -49,3 +49,11 @@ Fontes descartadas e o motivo:
 - As três fontes são anúncios (prévias). A data de 21 ago. 2016 para *Matilha* era dedução ("domingo" na programação): retirada do verbete.
 - Retirada do verbete a frase de desambiguação com o Festival Expressão de Rua ("as fontes lidas não ligam o grupo ao festival"), que falava do que as fontes não dizem. Fica aqui: o Festival Expressão de Rua (hip hop, organizado por Eduardo Miranda, CGN 11 nov. 2023) não aparece ligado ao grupo em nenhuma fonte lida.
 - "encontro tradicional de dança em Campo Grande" está na legenda de foto da edição anterior; o subtítulo fala em "encontro tradicional da Capital".
+
+## Atualização de 2026-11-04 (r3-4)
+
+Fontes novas lidas (FCMS, WebFetch):
+- "Semana Pra Dança: Espetáculo 'Matiilha' explora o olhar e as conexões humanas", FCMS, 22 ago. 2016 (sem autor; fotos de Edemir Rodrigues), https://www.fundacaodecultura.ms.gov.br/semana-pra-danca-espetaculo-matiilha-explora-o-olhar-e-as-conexoes-humanas/ : grupo Expressão de Rua nascido do projeto "Arte sim, violência não" (Prefeitura de Campo Grande), cerca de dez anos; direção cênica de Marcos Mattos; criação também de Irineu Ruach; elenco Irineu Ruach, Jackeline Mourão, Reginaldo Borges, Roger Pacheco, Thiago Mendes; apresentação em domingo, 21 ago. 2016, pista de skate do Parque das Nações Indígenas. O texto não usa a sigla EXP e não informa a duração. Título com grafia "Matiilha".
+- Gisele Colombo, "Busca intensa pelo ritmo: oficinas de house e hip hop abrem Semana pra Dança", FCMS, 17 ago. 2016: Matilha entre os seis espetáculos de MS selecionados; cita Expressão de Rua, não cita EXP nem Jackeline Mourão.
+Efeito: restitui com fonte a data de 21 ago. 2016 que a revisão valn-8 tinha retirado por ser dedução. A FCMS organizava a Semana pra Dança (texto institucional). Sem fonte fora do CGN/FCMS para os aulões de 2019 e 2021. Situação: pronto-para-lote (confirma 2016 por fonte independente do CGN).
+Identidade: o texto não fala do Aulão EXP; a ligação EXP = Expressão de Rua vem do CGN 2019.

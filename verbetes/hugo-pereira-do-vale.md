@@ -16,13 +16,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Formou-se em Letras, Medicina, Ciências e Direito. Na Segunda Guerra Mundial, integrou a Força Expedicionária Brasileira na Itália e recebeu condecorações militares.[^acritica2026]
+Formou-se em Letras, Medicina, Ciências e Direito. Combateu na Itália, na Segunda Guerra Mundial, como integrante da Força Expedicionária Brasileira, e foi condecorado.[^acritica2026]
 
-Segundo o histórico da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL), foi um dos intelectuais incorporados à academia logo depois da fundação, ao lado de [[j-barbosa-rodrigues|J. Barbosa Rodrigues]], [[julio-alfredo-guimaraes|Júlio Alfredo Guimarães]] e Antônio Lopes Lins.[^aslhist] Ocupou a cadeira 9, que tem como patrono o marechal Mascarenhas de Morais. Foi sucedido por Frei Gregório de Protásio Alves; a ocupante atual é [[maria-adelia-menegazzo|Maria Adélia Menegazzo]].[^aslcad]
+Segundo o histórico da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL), foi um dos intelectuais incorporados à academia logo depois da fundação, ao lado de [[j-barbosa-rodrigues|J. Barbosa Rodrigues]], [[julio-alfredo-guimaraes|Júlio Alfredo Guimarães]] e Antônio Lopes Lins.[^aslhist] Na lista de cadeiras da ASL, ele e Frei Gregório de Protásio Alves aparecem como ocupantes anteriores da cadeira 9, que tem como patrono o marechal Mascarenhas de Morais; a ocupante atual é [[maria-adelia-menegazzo|Maria Adélia Menegazzo]].[^aslcad]
 
 Um artigo de 2021 sobre a crítica de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] o cita entre os poetas de Campo Grande, com [[oliva-enciso|Oliva Enciso]], [[elpidio-reis|Elpídio Reis]] e [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]].[^philologus2021]
 
-Em março de 2026, a ASL anunciou uma Roda Acadêmica em sua homenagem para o dia 26 daquele mês, abrindo o ciclo do ano, com leituras de [[fabio-do-vale|Fábio do Vale]], [[pedro-chaves|Pedro Chaves]] e [[rubenio-marcelo|Rubenio Marcelo]].[^acritica2026]
+Reportagem de 24 de março de 2026 anunciou para o dia 26 daquele mês uma Roda Acadêmica da ASL em sua homenagem, a primeira do ciclo do ano. A programação previa leituras e interpretações a cargo de [[fabio-do-vale|Fábio do Vale]], [[pedro-chaves|Pedro Chaves]] e [[rubenio-marcelo|Rubenio Marcelo]].[^acritica2026]
 
 ## Obras
 

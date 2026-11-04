@@ -46,3 +46,13 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Duas matérias do mesmo veículo (Campo Grande News): segunda fonte independente não encontrada.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Fontes novas lidas, todas do site oficial do 4º Bonito CineSur (organizador do festival; fonte distinta do Campo Grande News):
+
+- https://bonitocinesur.com.br/2026/filmes-peliculas/mostra-filme-sul-mato-grossense/natasha/ : 2026, Brasil, ficção, 116 min; direção Ana Ostapenko, Willerson Amorim, Thiago Rotta e Rafael Rotta; sinopse coerente com o CGN. Cita o Instagram do filme (@natashaofilme), não aberto (perfil de rede social não aberto, não incluído em links).
+- https://bonitocinesur.com.br/2026/filmes-peliculas/mostra-filme-sul-mato-grossense/ : lista de oito filmes da mostra competitiva.
+- https://bonitocinesur.com.br/2026/vencedores-ganadores/ : júri oficial, Natasha; menção honrosa, Quatro Luas Pantaneiras; voto popular, Higa Ke – Olho por Olho.
+
+Mudança: ficha ganhou Duração e Gênero; créditos de direção dos quatro nomes agora têm segunda fonte (festival); a divergência com o CGN (série dirigida por Thiago Rotta, adaptação por Ana Ostapenko) continua só no CGN. Roteiro (Antoni Magalhães) e montagem (Kojiro) continuam só no CGN. Data da premiação (1º ago. 2026) continua só no CGN (a página de vencedores não traz data).

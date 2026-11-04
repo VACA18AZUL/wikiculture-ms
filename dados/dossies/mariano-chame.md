@@ -19,3 +19,9 @@ Segunda fonte: não encontrada. Buscas por "Grupo Especial Chamamezeiro" Aquidau
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Buscas restritas a FCMS, Agência de Notícias, Correio do Estado, A Crítica, Campo Grande News, Pantanal News e prefeitura de Aquidauana por "Grupo Especial Chamamezeiro", Mariano acordeonista e chamamé em Aquidauana: só resultados gerais sobre chamamé (reconhecimento como patrimônio imaterial em 2017 e 2021). Nada sobre o grupo ou o LP *Flor de Jardim*. Nada alterado. Segue "reforcar" (duas descrições do mesmo canal).
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Mariano acordeonista Aquidauana"), BDTD (chamamé, acordeon, Aquidauana): sem resultado. Fonte única: descrições do canal Acervo Digital Memória Fonográfica de MS. Pista: dissertação de Borba (UFPR, 2018) sobre o chamamé instrumental em Campo Grande, não lida (HTTP 503). Situação: reforcar.

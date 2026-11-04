@@ -28,3 +28,7 @@
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Buscas restritas a Dourados Agora, Dourados News, UFGD, prefeitura de Dourados, Correio do Estado, FCMS e Midiamax: nenhum resultado cita a MIT, a categoria Mostra Feita (Feito) em Casa de 2011 ou o protesto. Os resultados sobre o 11º FIT Dourados (portal UFGD, Correio do Estado) mostram que a Mostra Feito em Casa existe como seção do festival para grupos locais, mas são de outro ano. FCMS, "Cia Theastai, de Dourados, se apresenta no Boca de Cena..." (31 mar. 2023, aberta): cita João Rocha como fundador da Cia. Theastai e 14 anos de trajetória; não cita a MIT. Nada alterado. Segue fonte única (Oliveira Júnior, UFU, 2023). "reforcar".
+
+## Atualização de 2026-11-04 (r3-2)
+
+Sem fonte nova lida. Brave achou 'Dourados recebe a 2ª Mostra Independente de Teatro' (Amambai Notícias, 26 mar. 2012; https://www.amambainoticias.com.br/2012/03/26/dourados-recebe-a-2-mostra-independente-de-teatro/), mas a página retornou 403 em WebFetch (duas URLs) e o web.archive.org é bloqueado. Pista forte para nova tentativa: confirmaria a 2ª edição em 2012. FCMS e A Crítica sem resultado para o nome da mostra. Nada mudou no verbete.

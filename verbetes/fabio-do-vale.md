@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Formou-se em Letras e em Pedagogia, fez mestrado em Letras na Universidade Estadual de Mato Grosso do Sul e doutorado em Estudos de Linguagens na Universidade Federal de Mato Grosso do Sul. Pesquisa literatura contemporânea e da América Latina.[^asl]
+Segundo a mesma página, formou-se em Letras e em Pedagogia, fez mestrado em Letras na Universidade Estadual de Mato Grosso do Sul e doutorado em Estudos de Linguagens na Universidade Federal de Mato Grosso do Sul. Pesquisa literatura contemporânea e da América Latina.[^asl]
 
-É fundador e editor-chefe da [[revista-camalotes-recam|RECAM – Revista Camalotes]]. A página da academia registra também sua participação na organização e curadoria da 30ª e da 31ª Noite Nacional da Poesia e na pesquisa das obras sobre os 90 anos da Rádio Difusora, coordenadas por [[hildebrando-campestrini|Hildebrando Campestrini]] pelo Instituto Histórico e Geográfico de Mato Grosso do Sul.[^asl]
+Segundo a página da ASL, é fundador e editor-chefe da [[revista-camalotes-recam|RECAM – Revista Camalotes]]. A mesma página registra sua participação na organização e curadoria da 30ª e da 31ª Noite Nacional da Poesia e na pesquisa das obras sobre os 90 anos da Rádio Difusora, coordenadas por [[hildebrando-campestrini|Hildebrando Campestrini]] pelo Instituto Histórico e Geográfico de Mato Grosso do Sul.[^asl]
 
 Tomou posse na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] em 24 de novembro de 2023, na cadeira 14, saudado por [[pedro-chaves|Pedro Chaves]]. A cadeira foi antes de Jorge Antonio Siufi e de Hermano de Melo.[^asl][^aslcad] Em março de 2026, foi anunciado como um dos leitores da roda acadêmica da ASL em homenagem a [[hugo-pereira-do-vale|Hugo Pereira do Vale]].[^acritica2026]
 

@@ -26,3 +26,9 @@ Dado pessoal: a matéria diz que a renda cobre custos de tratamento da artista. 
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Busca de segunda fonte devolveu duas matérias do Midiamax ("Cena independente une show solidário para apoiar artista LidyLo em Campo Grande" e "Balada e almoço solidário para ajudar artista de Campo Grande acontece no fim de semana"), de 2026. As duas deram 403 ao abrir (pelo WebFetch e por curl simples), por isso nenhuma foi lida e nada entrou no verbete. Pela leitura do resumo de busca, uma delas menciona um evento solidário para a artista em outra data (sábado, 19); a conferir quando abrir. Resumos coincidem com A Crítica nos dados do evento (6 bandas, 9 out., R$ 20). Segue fonte única lida; "reforcar". Pista: abrir as duas matérias do Midiamax por outro meio autorizado.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): A Crítica (única matéria), O Estado Online ("LidyLo", "Buteco do Miau", "Bêbados Habilidosos"), Correio do Estado, FCMS: nenhuma matéria sobre o show. A FCMS tem duas notícias de 2025 sobre a artista (fashion film "Noites de Carmim", 15 abr. 2025, e gravação com recursos da Lei Paulo Gustavo, 26 fev. 2025), que não tratam do evento e não foram lidas. Situação: reforcar.

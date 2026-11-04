@@ -49,3 +49,9 @@ Nenhuma.
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Busca por Vídeo Eventos, Colorcouto e Aljor com *Liberdade para os Inocentes*: só Diehl. As matérias do CGN sobre Couto (2013 e 2018) não citam as produtoras.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): BDTD (cinema amador sertanejo de MS): só a dissertação de Diehl. Fonte única. Situação: reforcar.

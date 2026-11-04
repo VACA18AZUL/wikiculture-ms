@@ -15,3 +15,7 @@ Pistas ainda não tentadas: Discogs/catálogos de selos para "Compact Disc Indus
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Busca aberta ("Maestro Assis", Orquestra Guaicurus, *Tributo à Boa Música*): só homônimos (Victor Assis Brasil, Ordem Guaicurus do Mérito, Orquestra Sinfônica Municipal sob Eduardo Martinelli). Nada mudou.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Sem fonte nova. Busca FCMS (?s=Maestro Assis): 17 resultados, nenhum com Maestro Assis ou Orquestra Guaicurús nos trechos visíveis (Camerata, Catedral Erudita, bandas e fanfarras, não abertos). Continua fonte única (descrição do Acervo Digital Memória Fonográfica de MS). Nada mudou no verbete.

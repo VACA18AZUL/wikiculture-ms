@@ -41,3 +41,10 @@ Exceção: as três são do mesmo veículo, com dois autores diferentes. Buscas 
 ## Uso no verbete
 
 - Entrou tudo, exceto o e-mail de inscrição (dado de contato) e o endereço da ACA.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Fontes novas lidas, todas da Fundação de Cultura de MS (órgão financiador via FIC), 2023: Dourados (14 ago., https://www.fundacaodecultura.ms.gov.br/cia-pisando-alto-apresenta-espetaculo-gran-finalle-em-dourados/), Corumbá (6 set., https://www.fundacaodecultura.ms.gov.br/circo-lacao-cia-pisando-alto-apresenta-espetaculo-gran-finalle-em-corumba-no-domingo/) e Campo Grande (14 nov., https://www.fundacaodecultura.ms.gov.br/45437-2/). Todas são textos de divulgação (assessoria da companhia), anteriores às datas; não são fonte independente nem confirmam a realização. Acrescentam: datas e locais em Dourados (13 a 15/8; IFMS e Feira dos Ipês), horários em Corumbá e Campo Grande, e a mesma ficha técnica de Gran FinaLLe (confere com o CGN). A de 14/11 traz ficha técnica do projeto (produtora, assistente, divulgação, fotógrafo): não incluída. Contatos e endereço do ateliê: fora.
+
+O texto de 14/11 diz que oficinas e apresentações em Dourados e Corumbá "já foram realizadas" (fala de Fran Corona), igual ao CGN; segue sem relato posterior independente.
+Pista: reportagem pós-evento (Correio do Estado, Dourados Agora, Diário Corumbaense).

@@ -30,3 +30,7 @@ Busca de segunda fonte (agente val-5):
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Busca restrita a FCMS, Agência, Correio do Estado, A Crítica, Midiamax, prefeitura de Sidrolândia, UFMS e Campo Grande News: só volta a matéria do Correio do Estado já citada. Correio do Estado (2 jun. 2026), sobre a 10ª edição do Prêmio Onça Pintada: aberta, não cita o grupo. Páginas da Prefeitura de Sidrolândia sobre danças tradicionais na Aldeia Tereré (resumos de busca; não abertas) não citam o grupo. Nada alterado. Segue "reforcar".
+
+## Atualização de 2026-11-04 (r3-2)
+
+Nenhuma fonte de outro veículo cita o grupo. Abertas e lidas: Portal de Aquidauana, 12 set. 2019 (Studio de Dança, 6º Prêmio Onça Pintada, 5 a 8 set., Teatro Glauce Rocha); Missão Salesiana, 13 set. 2019 (Royal Move Crew, mesmo festival e datas); Diário Corumbaense, 11 set. 2019 (sem menção ao grupo nem às datas). Só confirmam o evento e as datas (nota [^pa2019][^ms2019] no verbete, com a ressalva de que não citam o grupo). Busca por "Koope-Noty" achou somente o Correio do Estado (fonte do verbete). Grafia, aldeia e dança do bate-pau continuam em fonte única. Pistas: FCMS "Estão abertas as inscrições para o Prêmio Onça Pintada"; Facebook do prêmio (não serve como fonte de fato).

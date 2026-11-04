@@ -33,3 +33,7 @@ Segunda fonte: não encontrada. Duas buscas abertas ("Paizinho e Florito" / "Pai
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Buscas abertas por "Paizinho e Florito"/"Paizinho & Florito", Discos CGS e Omil e Ozeias (também em Correio do Estado, Campo Grande News, FCMS): nenhuma menção. CGN, "Coleção de Carlos recorda música de MS em 600 discos 'perdidos'" (26 fev. 2021), aberta: cita o projeto Memória Fonográfica MS e a digitalização no MIS, sem nomear a dupla nem o selo. Pistas: FCMS, "Projeto Memória Fonográfica faz aquisições de obras raras para preservar a Música de MS" (resumo de busca; confirma o projeto, não a dupla). Nada alterado. Segue "reforcar".
+
+## Atualização de 2026-11-04 (r3-2)
+
+Sem fonte nova. Buscas feitas: Brave ("Paizinho e Florito" dupla música de raiz MS): sem resultado sobre a dupla (só Matogrosso & Mathias e playlists); FCMS (?s=Omil e Ozeias): sem resultado. Fonte única continua sendo a descrição do Acervo Digital Memória Fonográfica de MS. Nada mudou no verbete.

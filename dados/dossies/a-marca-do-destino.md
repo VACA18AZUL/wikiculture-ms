@@ -61,3 +61,7 @@ Fonte nova aberta e lida: Thaís Pimenta, "Índio é memória viva do cinema, gu
 
 - Sustenta só contexto: Alexandre Couto faz filmes por conta própria desde o fim dos anos 1970; sete trabalhos autoproduzidos e um a caminho. Não cita *A Marca do Destino*, nem Dorval, Rondon ou produtoras. Entrou como seção "Contexto". O filme em si segue com fonte única (Diehl).
 - Paula Maciulevicius, "Por uma questão de honra...", CGN, 10 jul. 2013 (*Honra*): sobre outro filme; não serviu.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Sem fonte nova nesta rodada. O verbete já tem a dissertação de Diehl (UFMS) e a matéria do CGN de 2018 (cartazes pintados); não foi achada terceira fonte.

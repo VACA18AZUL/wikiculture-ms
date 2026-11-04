@@ -19,3 +19,7 @@ Buscas (inclusive restritas a fundacaodecultura.ms.gov.br, agenciadenoticias.ms.
 - Aberta e lida: Prefeitura de Campo Grande, "Exposição gratuita valoriza cultura brasileira na Biblioteca Municipal", 22 out. 2026 (https://www.campogrande.ms.gov.br/cgnoticias/noticia/exposicao-gratuita-valoriza-cultura-brasileira-na-biblioteca-municipal/): traz o mesmo conteúdo da matéria de A Crítica (artista visual sul-mato-grossense Murilo Rodrigues, *Caminhos do Gesto*, até 31 out.); não menciona o Corpocidade. Release de assessoria, não é fonte independente nem liga a pessoa. Não entrou.
 - A Crítica, "Campo Grande recebe duas exposições de artes visuais nesta sexta-feira" (4 set. 2026) aberta: não cita Murilo nem o coletivo.
 - Segue "reforcar".
+
+## Atualização de 2026-11-04 (r3-2)
+
+Sem fonte nova. Busca FCMS (?s=Corpocidade): um resultado (espetáculo Huma/, 16 maio 2025), não relacionado; A Crítica (/search/Corpocidade/): sem resultado; Brave (Coletivo Corpocidade Campo Grande Murilo Rodrigues): homônimos e páginas sem relação. Continua fonte única (CGN, mar. 2026; os dois campos de data do coletivo seguem como divergência já registrada).

@@ -40,3 +40,9 @@ Exceção: as duas fontes são do mesmo veículo e da mesma autora. Uma busca ab
 ## Uso no verbete
 
 - Entrou o resto.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Fonte nova lida (WebFetch): Keyla Santos (créditos finais a Amanda Ferreira e Carolina Rampi), "Show de Toni Garrido no MS ao Vivo e feiras para todos os gostos são atrações para fim de semana do Dia das Mães", O Estado Online, 10 maio 2024, https://oestadoonline.com.br/arte-e-lazer/show-de-toni-garrido-no-ms-ao-vivo-e-feiras-para-todos-os-gostos-sao-atracoes-para-fim-de-semana-do-dia-das-maes/ (nota estado2024). Seção "Domingo (12)": lançamento de *Pequeno ensaio sobre a tessitura de um poema*, 19h, Estação da Cultura; autor descrito como professor formado em Letras pela UCDB, poeta e especialista em língua portuguesa e literatura.
+Confirma data, horário e local do lançamento anunciado e a formação em Letras; é anúncio (não prova que o evento ocorreu). Veículo diferente do Campo Grande News. Situação: pronto-para-lote.
+Buscas sem resultado: FCMS, A Crítica ("Rossine"), O Estado Online ("tessitura").

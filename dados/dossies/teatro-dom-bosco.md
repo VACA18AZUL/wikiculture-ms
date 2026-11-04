@@ -36,3 +36,7 @@ Fonte nova aberta e lida:
 - Divergência: Moser (Sá Rosa 1992) fala em "mais de 800 lugares" para Glauce Rocha e Dom Bosco juntos; Wikipédia (sem referências, não serve de nota) dá 600 lugares e localiza o teatro no Colégio Dom Bosco. Registrar a divergência em `observacoes` da lista-mestra (o agente não edita o arquivo).
 - Aberto sem aproveitamento: Aletheya Alves, CGN, 27 mar. 2023: abertura da Boca de Cena 2023 no Teatro Dom Bosco (só confirma uso em 2023, mesmo veículo do que já se tem de 2024).
 - Inauguração em 1974 e festivais de 1974-1978: continuam só em Moser.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Sem fonte nova útil. FCMS (?s=Teatro Dom Bosco) listou matérias de 2019 a 2025 sobre espetáculos no teatro; 'Com 112 crianças, a peça As Quatro Estações lotou...' (20 dez. 2019, Gisele Colombo) foi aberta e só diz que o teatro estava lotado, sem endereço, lotação nem histórico. O verbete já tem três domínios (Moser/Abrace, A Crítica, Sympla). Nada mudou.

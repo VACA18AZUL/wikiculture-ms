@@ -22,3 +22,9 @@ Segunda fonte: não encontrada. Nada de novo sobre o fato.
 - Duas buscas abertas (Vanuza Jardim; ONU, Nova Iorque, 2014, governo e Fundação de Cultura): só volta o Campo Grande News de 27 jan. 2014. Nenhuma cobertura posterior nem nota do governo do estado.
 - O repositório da UFMS (retrieve/a7f072cc.../23004.pdf) apareceu de novo na busca, mas não foi aberto (servidor instável); permanece pista.
 - Ajuste editorial: a frase "não há aqui confirmação do que foi de fato exposto" foi reescrita em termos factuais (reportagem de janeiro de 2014, anterior à mostra, com a relação prevista de expositores); a cautela fica registrada aqui.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Visto Pelo Mundo", "Cláudia Castelão ONU Nova Iorque"), Correio do Estado: sem resultado. Fonte única, uma reportagem de janeiro de 2014 (previsão, não registro da mostra). Situação: reforcar.

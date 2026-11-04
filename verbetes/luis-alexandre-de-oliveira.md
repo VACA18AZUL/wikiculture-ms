@@ -14,7 +14,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Luís Alexandre de Oliveira**, também grafado **Luiz Alexandre de Oliveira**, foi um educador, advogado e político nascido em Teixeiras, Minas Gerais, em 14 de abril de 1903. Chegou a Mato Grosso em 1913, morou em Aquidauana e Ponta Porã e fixou-se em Campo Grande em 1923. Morreu na cidade em 19 de outubro de 1997.[^amaya]
+**Luís Alexandre de Oliveira**, também grafado **Luiz Alexandre de Oliveira**, foi um educador e advogado nascido em Teixeiras, Minas Gerais, em 14 de abril de 1903. Chegou a Mato Grosso em 1913, morou em Aquidauana e Ponta Porã e fixou-se em Campo Grande em 1923. Morreu na cidade em 19 de outubro de 1997.[^amaya]
 
 ## Educação
 
@@ -26,7 +26,7 @@ Tomou posse na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossen
 
 Publicou em 1986 o livro autobiográfico *O mundo que eu vi*. Foi entrevistado por [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] no livro *Memória da cultura e da educação em Mato Grosso do Sul: histórias de vida* (1990).[^amaya]
 
-Ainda em vida, doou à ASL sua casa na Rua Rui Barbosa, no centro de Campo Grande. Depois de sua morte, a Academia passou a funcionar ali, a partir de 1º de outubro de 1999.[^asl][^amaya] Mais tarde, o imóvel foi vendido para ajudar a custear a mudança para uma nova sede.[^amaya]
+Segundo o histórico da ASL, ele doou à Academia, ainda em vida, sua casa na Rua Rui Barbosa, no centro de Campo Grande; depois de sua morte, a sede passou para lá, em 1º de outubro de 1999.[^asl] A dissertação de 2018 cita também outra versão, de Arassuay Gomes de Castro (2012), segundo a qual o imóvel foi deixado à Academia em testamento.[^amaya] Mais tarde, o imóvel foi vendido para ajudar a custear a mudança para uma nova sede.[^amaya]
 
 ## Obras
 

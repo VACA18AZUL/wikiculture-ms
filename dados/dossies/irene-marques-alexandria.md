@@ -17,3 +17,9 @@ Segunda fonte: não encontrada. Buscas abertas por "Irene Alexandria" / "Irene M
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Nada sobre a diretora fora de Moser. Ajuste: removida do verbete a frase "As fontes consultadas não trazem outros dados sobre a diretora" (regra da onda; informação fica aqui).
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): mesmas buscas do Teatro da Patota Infantil (FCMS, BDTD, Correio do Estado): sem resultado. Fonte única: Moser (Abrace). Situação: reforcar.

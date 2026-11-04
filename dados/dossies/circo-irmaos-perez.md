@@ -25,3 +25,9 @@ CGN 9 set. 2011 reaberta: o pai é nomeado Paulo Vitor (palhaço Caroço), 60 an
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Buscas restritas a FCMS, Agência, Correio do Estado, A Crítica, Midiamax e prefeitura: nenhuma menção a "Irmãos Perez", Pitchula ou Caroço. Aberto e lido: Correio do Estado, Bruna Aquino, "Fogo não queimou a magia e circo vai para os bairros" (13 mar. 2019): trata do Top Circo (antigo Circo Real Pantanal, segundo a matéria), da família Perez e dos irmãos Hugo e Wagner; não cita Pitchula, Caroço nem "Irmãos Perez". Não serve de segunda fonte para este circo; a relação com Top Circo/Circo do Bolachinha segue não confirmada. Nada alterado. Segue "reforcar".
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Circo Perez"): um título de 19 nov. 2019, "Tenda do Rio Paraguai... Breno Moroni e família Perez" (https://www.fundacaodecultura.ms.gov.br/tenda-do-rio-paraguai-vivencia-de-circo-para-criancas-e-circo-maior-espetaculo-da-terra-breno-moroni-e-familia-perez/); o corpo do texto não veio na leitura e nada liga a família ao Circo Irmãos Perez. O Estado Online, agenda de 10 jun. 2023, cita o New York Cirkus, apresentado como da família Perez, circo itinerante de bairros periféricos (assinatura Amanda Ferreira; https://oestadoonline.com.br/arte-e-lazer/agenda-cultural-o-que-fazer-neste-fim-de-semana-em-campo-grande/); não cita o nome "Irmãos Perez", logo a identidade não está confirmada e nada entrou no verbete. Situação: reforcar.

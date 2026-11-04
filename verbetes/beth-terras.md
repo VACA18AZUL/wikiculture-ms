@@ -23,6 +23,8 @@ Mudou-se para Mato Grosso do Sul em 1995. O *Campo Grande News* registra que rec
 
 Em 2002 fundou em Campo Grande a [[adote-escola-e-companhia-de-teatro|ADOTE – Escola e Companhia de Teatro]], voltada à formação de atores, e a dirigia à época de sua morte. Até 2025, a companhia havia montado cerca de 15 espetáculos.[^cgn2024a][^cgn2025]
 
+Em março de 2018, a abertura da [[mostra-boca-de-cena|Mostra Boca de Cena]], no Teatro Dom Bosco, em Campo Grande, homenageou a atriz e diretora Beth Terras, que agradeceu pelo reconhecimento de 39 anos de trabalho. Segundo a notícia da Fundação de Cultura de Mato Grosso do Sul, a companhia dirigida por ela completava 16 anos de atividade em Campo Grande.[^fcms2018]
+
 Em 2018 criou, com Giovanna Zottino e Daniel Smidt, o Festival de Esquetes, promovido pela ADOTE. A quarta edição, marcada para 16 de novembro de 2024, foi anunciada com homenagem a ela.[^cgn2024b]
 
 Morreu em setembro de 2024, aos 65 anos, com 46 anos de carreira. Em abril de 2025, a ADOTE fez o evento *Vale a Pena Ver de Novo* em sua homenagem.[^cgn2024a][^cgn2025]
@@ -30,8 +32,12 @@ Morreu em setembro de 2024, aos 65 anos, com 46 anos de carreira. Em abril de 20
 ## Espetáculos
 
 - *Cama Molhada de Paixão Calada* — atuação.[^cgn2024a]
+- *Arte de Quinta* — show de humor da companhia, anunciado em 2015 para o Teatro Aracy Balabanian, com Beth Terras como diretora do grupo.[^fcms2015]
+- *Que Humilhação* — peça do repertório da companhia, apresentada na abertura do Boca de Cena em 2018.[^fcms2018]
 - Espetáculos da ADOTE, companhia que fundou: *Arte de Quinta*, *Que Humilhação*, *A Morte Vai ao Teatro*, *Por Trás das Luzes* e *Eles Não Usam Black Tie*.[^cgn2025]
 
 [^cgn2024a]: Thailla Torres, ["Aos 65 anos, atriz e diretora Beth Terras morre em Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aos-65-anos-atriz-e-diretora-beth-terras-morre-em-campo-grande), *Campo Grande News*, 20 set. 2024. Acesso em 4 nov. 2026.
 [^cgn2024b]: Thailla Torres, ["Festival de Esquetes destaca novos talentos e homenageia Beth Terras"](https://www.campograndenews.com.br/lado-b/diversao/festival-de-esquetes-destaca-novos-talentos-e-homenageia-beth-terras), *Campo Grande News*, 11 nov. 2024. Acesso em 4 nov. 2026.
 [^cgn2025]: Clayton Neves, ["Companhia Adote homenageia Beth Terras no 1º aniversário sem a atriz"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/companhia-adote-homenageia-beth-terras-no-1o-aniversario-sem-a-atriz), *Campo Grande News*, 28 abr. 2025. Acesso em 4 nov. 2026.
+[^fcms2018]: Fundação de Cultura de Mato Grosso do Sul, ["Noite de homenagens marca abertura oficial da Mostra de Teatro Boca de Cena 2018"](https://www.fundacaodecultura.ms.gov.br/noite-de-homenagens-marca-abertura-oficial-da-mostra-de-teatro-boca-de-cena-2018/), notícia institucional, 28 mar. 2018. Acesso em 4 nov. 2026.
+[^fcms2015]: Fundação de Cultura de Mato Grosso do Sul, ["O lado criança dos adultos é abordado neste sábado no Show de Humor 'Arte de Quinta'"](https://www.fundacaodecultura.ms.gov.br/o-lado-crianca-dos-adultos-sera-abordado-neste-sabado-no-show-de-humor-arte-de-quinta/), notícia institucional, 13 out. 2015. Acesso em 4 nov. 2026.

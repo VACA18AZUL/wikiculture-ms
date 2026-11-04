@@ -24,3 +24,9 @@
 ## Validação de 2026-11-04 (valn-3)
 
 - O parágrafo sobre a exposição coletiva no Slaviero Prime Hotel (A Crítica, 23 jun. 2026, https://acritica.net/cultura/exposicao-leva-arte-sul-mato-grossense-ao-slaviero-prime-hotel-em-campo-grande/) saiu do verbete: a reportagem cita só o nome "Ton Barbosa", sem nada que o ligue ao autor do mural de 2021 (identidade suposta). Além disso, a matéria anuncia a abertura (26 jun.), não confirma a realização. Volta se uma fonte ligar os dois.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Cores e Vias"), A Crítica ("Ton Barbosa"), O Estado Online ("Ton Barbosa"), site da Prefeitura de Campo Grande ("Cores e Vias"): sem resultado. Fonte única (Campo Grande News, duas matérias). Situação: reforcar.

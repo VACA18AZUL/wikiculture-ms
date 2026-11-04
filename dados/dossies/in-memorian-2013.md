@@ -60,3 +60,9 @@ Já registradas em dados/relacoes.csv (expos-em, gerido-por, sede-em).
 ## Atualização de 2026-11-04 (reforço r2-2)
 
 - Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("In Memorian", "In Memoriam exposição", "Memorial da Cultura exposição artistas falecidos"), UFMS ("In Memorian"), Correio do Estado: sem resultado. Fonte única: Campo Grande News, 2013. Situação: reforcar.

@@ -50,3 +50,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou o que está em "Fatos". Grupo Tradição não foi ligado a [[tradicao]] por falta de confirmação de que é o mesmo grupo.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Fonte aberta e lida (órgão público, diferente do Correio do Estado): Daiana Schio, "Aurélio Miranda e Tostão & Guarany sobem ao palco para show memorável no FASP", Fundação de Cultura de MS, 9 maio 2018. https://www.fundacaodecultura.ms.gov.br/aurelio-miranda-e-tostao-guarany-sobem-ao-palco-para-show-memoravel-no-fasp/
+Sustenta: show "Memórias" com Aurélio Miranda em 27/5 (2018), 20h, Praça Generoso Ponce, no FASP; trajetória de Tostão (com Aurélio no grupo Cruzeiro, depois Centavo); dupla formada no fim de 1982; compacto duplo de 1982; DVD; mais de 30 anos de dupla.
+DIVERGÊNCIA: formação 1983 (Correio do Estado, 2011) x fim de 1982 (FCMS, 2018); compacto duplo 1984 (Correio, 2011) x 1982 (FCMS, 2018). Registrado no verbete e na ficha; registrar em observacoes da lista-mestra. O nome do grupo anterior "Cruzeiro" é como a nota grafa ("Aurélio (Cruzeiro)"); não é detalhado.

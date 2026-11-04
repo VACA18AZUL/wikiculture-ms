@@ -59,3 +59,9 @@ A dissertação chama Zeca de herói na sinopse (p. 117) e, na p. 86, diz que o 
 ## Atualização de 2026-11-04 (reforço r2-2)
 
 - Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Reinaldo Dorval"), BDTD ("Reinaldo Dorval"; cinema amador sertanejo): só a própria dissertação de Diehl (UFMS, 2009, https://repositorio.ufms.br/handle/123456789/1457). Fonte única. Situação: reforcar.

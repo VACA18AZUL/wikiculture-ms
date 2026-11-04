@@ -16,3 +16,7 @@ Segunda fonte: não aberta; há pista concreta.
 
 - Busca por "Ernestina Karan" devolveu, só no resumo, uma página do Recanto das Letras (https://www.recantodasletras.com.br/biografias/7457391) com título "Ernestina Karman – exposições" que, segundo o resumo, lista mostras coletivas em Campo Grande em 1950 e 1952 com o Grêmio dos Amadores de Pintura. A página respondeu 403 e não foi lida. Se for aberta, é texto de biografia colaborativa (plataforma de textos de usuários), de valor fraco; a grafia do sobrenome (Karman) diverge da tese de Godoi (Karan): registrar as duas se entrar.
 - Menegazzo e Sá Rosa (1999): não achado online. Buscas e varredura (Varella, UFGD; Gonçalves, UFMS 2014; artigo da Resgate/Unicamp) sem menção ao grêmio.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Sem fonte nova. Brave ("Grêmio dos Amadores de Pintura" Campo Grande Ernestina Karan): só uma página de pull request do próprio repositório; FCMS (?s=Ernestina Karan): sem resultado. Continua com a tese de Godoi (UFGD), que cita Menegazzo (1999). Nada mudou no verbete.

@@ -17,3 +17,9 @@ Continua com fonte única.
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Busca aberta com Três Lagoas e Moacir: nenhum resultado sobre o conjunto. Surge um CGN sobre festival de chamamé com o músico Moacir Saturnino de Lacerda (sem ligação demonstrada com o conjunto; não aberto). Nada mudou.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): FCMS ("Azes do Chamamé"): sem resultado. Fonte única: descrições do canal Acervo Digital Memória Fonográfica de MS. Pista: dissertação de Borba (UFPR, 2018), não lida (HTTP 503). Situação: reforcar.

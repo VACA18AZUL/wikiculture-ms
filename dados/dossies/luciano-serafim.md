@@ -67,3 +67,13 @@ Buscas abertas por títulos (Raiz transeunte, Sururu com Coca-Cola, Arrebol) nã
 
 - Entrou: tudo acima.
 - Ficou de fora: e-mails dos autores do artigo; trecho de poema citado (não copiar).
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fontes novas lidas, todas da Fundação de Cultura de MS (órgão estadual, distinto das fontes já citadas: periódico acadêmico, Correio do Estado, Campo Grande News):
+
+- 6 maio 2026 (Karina Medeiros de Lima), https://www.fundacaodecultura.ms.gov.br/lancamento-em-bonito-inicia-contagem-regressiva-para-a-10a-edicao-da-flib/ e 29 abr. 2026, https://www.fundacaodecultura.ms.gov.br/flib-celebra-10-anos-e-anuncia-edicao-comemorativa-em-bonito/: a 10ª FLIB (2026) homenageia Lygia Fagundes Telles e "o escritor e editor douradense Luciano Serafim, que faleceu em 2025". NOVO FATO: morte em 2025 (data exata não informada). O verbete antigo não trazia a informação. Usado apenas o comunicado de 6 maio.
+- 8 jul. 2019, https://www.fundacaodecultura.ms.gov.br/pavilhao-de-economia-criativa-do-festival-alia-criatividade-e-diversidade-cultural-a-sustentabilidade/: Arrebol Coletivo de Dourados no Pavilhão da Economia Criativa do Festival de Inverno de Bonito 2019 (25 a 28 jul.); livros feitos à mão por Luciano Serafim e Célia Fernanda Ebling.
+- 29 out. 2021, https://www.fundacaodecultura.ms.gov.br/para-incentivar-leitura-aplicativo-ms-digital-disponibiliza-obras-literarias-regionais-a-usuarios/: *Sururu com Coca-Cola* (poesia), autor "Luciano Serafim da Silva", entre as obras do edital do aplicativo MS Digital.
+
+Pendência: a ficha ainda não registra o falecimento (campo sem equivalente); o obituário (Correio do Estado, A Crítica, CGN) não foi aberto. Sugestão: buscar nota de falecimento em 2025 para data e para a participação na FLIB. Sem divergências com as fontes anteriores.

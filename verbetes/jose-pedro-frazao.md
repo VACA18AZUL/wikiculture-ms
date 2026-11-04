@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Estudou em Porto Velho, onde começou a publicar crônicas e poemas no diário *O Guaporé*. Em 1978, mudou-se para Aquidauana, onde gerenciou o jornal *O Pantaneiro* e, depois, a Rádio Difusora. Fundou *O Porta-voz*, o primeiro jornal de Anastácio.[^asl]
+Estudou em Porto Velho, onde começou a publicar crônicas e poemas no diário *O Guaporé*. Em 1978, passou a viver em Aquidauana, onde gerenciou o jornal *O Pantaneiro* e, depois, a Rádio Difusora. Fundou *O Porta-voz*, o primeiro jornal de Anastácio.[^asl]
 
 Formou-se em Letras pela Universidade Federal de Mato Grosso do Sul, em Aquidauana, e lecionou em escola pública. De 1984 a 1987, foi secretário municipal de Educação e Cultura de Anastácio, período em que criou a Casa da Cultura do município.[^asl]
 

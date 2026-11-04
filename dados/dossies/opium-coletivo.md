@@ -47,3 +47,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou o que está em "Fatos". Ficaram fora nomes e idades dos moradores entrevistados e a idade do grafiteiro (dados pessoais sem relevância para o verbete).
+
+## Atualização de 2026-11-04 (r3-4)
+
+Tentativa de reforço com fonte de outro veículo. Nenhuma fonte nova serviu; o verbete não mudou.
+
+Buscas feitas (WebFetch nas páginas de busca; o Campo Grande News e o Correio do Estado não devolvem resultado por termo, a busca da DuckDuckGo e do Bing não está disponível na sessão): A Crítica ("Opium grafite"), O Estado Online, FCMS ("Crystofer", "grafite Novos Estados"), BDTD: sem resultado. Resultado só de grafite genérico (FCMS, Dia do Graffiti na Vila Nhanhá, 26 nov. 2025, não cita o coletivo). Situação: reforcar.

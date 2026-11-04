@@ -45,3 +45,17 @@ Todas as fontes são do mesmo veículo; segunda fonte independente não achada n
 ## Uso no verbete
 
 - Entrou tudo acima, menos causa da morte e família.
+
+## Atualização de 2026-11-04 (r4-2)
+
+Fontes novas (outro veículo: institucional, Fundação de Cultura de MS):
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2018 | FCMS, "Noite de homenagens marca abertura oficial da Mostra de Teatro Boca de Cena 2018", 28 mar. 2018 | https://www.fundacaodecultura.ms.gov.br/noite-de-homenagens-marca-abertura-oficial-da-mostra-de-teatro-boca-de-cena-2018/ | sim |
+| fcms2015 | FCMS, "O lado criança dos adultos é abordado neste sábado no Show de Humor 'Arte de Quinta'", 13 out. 2015 (data da listagem do site; o texto diz só "sábado, 10 de outubro") | https://www.fundacaodecultura.ms.gov.br/o-lado-crianca-dos-adultos-sera-abordado-neste-sabado-no-show-de-humor-arte-de-quinta/ | sim |
+
+O que mudou: acrescentado parágrafo sobre a homenagem no Boca de Cena 2018 (26 mar. 2018, Teatro Dom Bosco; 39 anos de carreira; companhia com 16 anos de trabalho em Campo Grande, coerente com a fundação da Adote em 2002 de cgn2025); espetáculos *Arte de Quinta* (show de humor, direção do grupo por Beth Terras, Teatro Aracy Balabanian, 9º ano da parceria com a FCMS) e *Que Humilhação* (apresentada na abertura de 2018) com segunda fonte.
+
+Observações: a contagem de carreira difere por um ano (39 em 2018, 46 em 2024 segundo cgn2024a), sem divergência de fato relevante. A FCMS repete a origem do nome da companhia (avô): vida familiar, fora. Buscas em A Crítica e Correio do Estado sem resultado pertinente. Segunda fonte independente do veículo CGN obtida para a atuação e a companhia; a morte (2024) segue só no Campo Grande News.
+
