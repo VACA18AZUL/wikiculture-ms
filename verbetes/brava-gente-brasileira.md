@@ -35,7 +35,7 @@ Em 1778, na região do médio Paraguai, o astrônomo e cartógrafo Diogo chega c
 
 No 33º Festival de Brasília, em 2000, Luciana Rigueira recebeu o prêmio de melhor atriz e Lívio Tragtenberg o de melhor trilha musical. O filme teve exibição especial em Toronto, no Canadá, em setembro de 2000.[^cb]
 
-Em 2015, Murat voltou a Mato Grosso do Sul para o documentário *A Nação que Não Esperou por Deus*, que revisita os Kadiwéu quinze anos depois de *Brava Gente Brasileira*.[^cb2] Segundo Corrêa, o documentário foi codirigido por Rodrigo Hinrichsen, e Ademir Matchua teve papel de destaque nos dois filmes.[^correa]
+Em 2015, Murat voltou a Mato Grosso do Sul para o documentário [[a-nacao-que-nao-esperou-por-deus|*A Nação que Não Esperou por Deus*]], que revisita os Kadiwéu quinze anos depois de *Brava Gente Brasileira*.[^cb2] Segundo Corrêa, o documentário foi codirigido por Rodrigo Hinrichsen, e Ademir Matchua teve papel de destaque nos dois filmes.[^correa]
 
 ## Ficha técnica
 

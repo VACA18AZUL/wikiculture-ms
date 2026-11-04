@@ -29,7 +29,7 @@ Neves situa o filme no chamado "western feijoada", faroestes brasileiros dos ano
 
 Caingangue é um justiceiro nascido numa aldeia indígena que chega a Santa Helena, perto da fronteira com o Paraguai. Ele enfrenta os jagunços do latifundiário Dr. Ribeiro, interpretado por Sérgio Britto, em defesa de posseiros expulsos de suas terras. A todos que perguntam quem ele é, responde que está só de passagem.[^souza][^cinemateca]
 
-No livro *Filmando em Mato Grosso do Sul*, o filme tem uma parte própria. Adáuto de Oliveira Souza lê nele o conflito fundiário e a luta pela terra e destaca a montagem de João Ramiro Mello e a fotografia de Antônio Gonçalves.[^souza] Jones Dari Goettert analisa o filme a partir da fronteira como lugar de passagem.[^goettert]
+No livro *Filmando em Mato Grosso do Sul*, o filme tem uma parte própria. Adáuto de Oliveira Souza lê nele o conflito fundiário e a luta pela terra e destaca o trabalho do fotógrafo Antônio Gonçalves e do montador João Ramiro Mello.[^souza] Jones Dari Goettert analisa o filme a partir da fronteira como lugar de passagem.[^goettert]
 
 ## Lançamento e recepção
 

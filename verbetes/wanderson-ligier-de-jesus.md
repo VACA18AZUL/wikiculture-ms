@@ -14,11 +14,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em dezembro de 2022, *O Estado de Mato Grosso do Sul* informou que ele escrevia havia 22 anos. Começou pelos contos de *Crônicas de Uma Terra em Chamas*, passou ao romance em *Elpidio Petra*, à novela em *A Era dos Gigantes* e à poesia em *Venenos que Curam*. O quinto livro, o romance *O Apócrifo de Judas*, foi lançado em 3 de dezembro de 2022 no Sesc Cultura, em Campo Grande. O autor o descreve como um thriller filosófico sobre traição, com estrutura de literatura noir.[^oestado2022]
+Em dezembro de 2022, *O Estado de Mato Grosso do Sul* informou que ele escrevia havia 22 anos. Começou pelos contos de *Crônicas de Uma Terra em Chamas*, passou ao romance em *Elpidio Petra*, à novela em *A Era dos Gigantes* e à poesia em *Venenos que Curam*. O jornal anunciou para 3 de dezembro de 2022, no Sesc Cultura, em Campo Grande, o lançamento do quinto livro, o romance *O Apócrifo de Judas*. O autor o descreve como um thriller filosófico sobre traição, com estrutura de literatura noir.[^oestado2022]
 
-Com o nome Wanderson Ligier, aparece entre os 32 autores da antologia [[tarja-preta-segunda-dose|Tarja Preta Segunda Dose]], do Coletivo Tarja Preta, apresentada em novembro de 2023.[^cgn2023]
+A lista dos 32 escritores sul-mato-grossenses da antologia [[tarja-preta-segunda-dose|Tarja Preta Segunda Dose]], do Coletivo Tarja Preta, com lançamento anunciado para 11 de novembro de 2023, inclui um Wanderson Ligier, sem o sobrenome completo.[^cgn2023]
 
-Em 10 de julho de 2026, participou na 10ª [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] da conversa "Narrativas fronteiriças", com Oslei Bega Jr., [[henrique-komatsu|Henrique Komatsu]] e Jusley Sousa.[^opantaneiro2026] Na Semana Nacional do Patrimônio de Corumbá, em agosto de 2026, a prefeitura programou uma leitura dramatizada do seu conto "Virgínia e Valéria" para o dia 27, no Museu Casa do Dr. Gabi.[^corumba2026]
+A programação da 10ª [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]] para 10 de julho de 2026 incluía a conversa "Narrativas fronteiriças", com ele, Oslei Bega Jr., [[henrique-komatsu|Henrique Komatsu]] e Jusley Sousa.[^opantaneiro2026] Na Semana Nacional do Patrimônio de Corumbá, em agosto de 2026, a prefeitura programou para o dia 27, no Museu Casa do Dr. Gabi, a leitura dramatizada do conto "Virgínia e Valéria", que atribui a Wanderson Ligier.[^corumba2026]
 
 ## Obras
 
@@ -31,4 +31,4 @@ Em 10 de julho de 2026, participou na 10ª [[feira-literaria-de-bonito-flib|Feir
 [^oestado2022]: ["Escritor corumbaense lança 'O Apócrifo de Judas'"](https://oestadoonline.com.br/arte-e-lazer/292815/), *O Estado de Mato Grosso do Sul*, 2 dez. 2022. Acesso em 4 nov. 2026.
 [^cgn2023]: Thailla Torres, ["Escritores celebram 10 anos de independência literária em MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/escritores-celebram-10-anos-de-independencia-literaria-em-ms), *Campo Grande News*, 8 nov. 2023. Acesso em 4 nov. 2026.
 [^opantaneiro2026]: Redação O Pantaneiro, ["FLIB prossegue com oficinas, debates, Itamar Vieira Junior e Sandra de Sá"](https://www.opantaneiro.com.br/bonito/2026/07/10/flib-prossegue-com-oficinas-debates-itamar-vieira-junior-e-sandra-de-sa.html), *O Pantaneiro*, 10 jul. 2026. Acesso em 4 nov. 2026.
-[^corumba2026]: Prefeitura de Corumbá, ["Semana Nacional do Patrimônio terá programação gratuita em Corumbá a partir do dia 17"](https://corumba.ms.gov.br/noticias/semana-nacional-do-patrimonio-tera-programacao-gratuita-em-corumba-a-partir-do-dia-17), ago. 2026. Acesso em 4 nov. 2026.
+[^corumba2026]: Prefeitura de Corumbá, ["Semana Nacional do Patrimônio terá programação gratuita em Corumbá a partir do dia 17"](https://corumba.ms.gov.br/noticias/semana-nacional-do-patrimonio-tera-programacao-gratuita-em-corumba-a-partir-do-dia-17), 14 ago. 2026. Acesso em 4 nov. 2026.

@@ -13,17 +13,17 @@ atualizado: 2026-11-04
 
 ## Tema e recepção
 
-A canção trata das comitivas de peões que conduzem boiadas pelo Pantanal. Numa reportagem de 2024 sobre um musical do Arrebol Cultural, *O Estado MS* abre o texto com um verso da letra e diz que todo sul-mato-grossense conhece a música.[^oestado2024a] Em 2023, o violonista [[marcos-assuncao|Marcos Assunção]] a chamou, ao lado de "Trem do Pantanal", de música símbolo da cultura sul-mato-grossense.[^oestado2023a]
+A letra fala da viagem de uma comitiva por uma estrada boiadeira, sem pressa de chegar.[^cabrita] Numa reportagem de 2024 sobre o musical *Comitiva Esperança*, do Arrebol Cultural, que conta a história de uma tropa de peões, *O Estado MS* abre o texto com um verso da canção e diz que todo sul-mato-grossense a conhece.[^oestado2024a] Em 2023, o violonista [[marcos-assuncao|Marcos Assunção]] a chamou, ao lado de "Trem do Pantanal", de música símbolo da cultura sul-mato-grossense.[^oestado2023a]
 
-A dissertação de Débora Cabrita sobre o trabalho das comitivas pantaneiras inclui a canção no roteiro de um documentário sobre a peoa Mirele Geller, de Bonito. No roteiro, os peões ouvem a música no rádio, e um locutor a dedica aos peões que cruzam o estado.[^cabrita]
+A dissertação de Débora Cabrita sobre o trabalho das comitivas pantaneiras propõe o roteiro de um documentário em que os peões ouvem a canção no rádio. No roteiro, o locutor de um programa sertanejo de Bonito oferece a música a uma peoa da cidade e diz que ela representa os peões que cruzam o estado.[^cabrita]
 
 ## Interpretações
 
 - [[bando-do-velho-jack|O Bando do Velho Jack]] tem uma versão da canção no repertório, citada pela imprensa desde 2020 entre suas releituras de clássicos regionais.[^oestado2020][^oestado2023b][^oestado2025]
-- Em 22 de agosto de 2024, no Festival de Inverno de Bonito, o Bando do Velho Jack e o [[filho-dos-livres|Filho dos Livres]] tocaram a canção no show *Fundição*.[^fcms2024]
+- Em 22 de agosto de 2024, no 23º Festival de Inverno de Bonito, o Bando do Velho Jack e o [[filho-dos-livres|Filho dos Livres]] tocaram a canção, em versão rock, no show *Fundição*.[^fcms2024]
 - Em 2022, [[marcelo-loureiro|Marcelo Loureiro]] abriu seu show no Festival do Chamamé com "Corumbá", "Comitiva Esperança" e "Luzeiro".[^oestado2022b]
-- Em 2023, Marcos Assunção anunciou arranjo inédito da canção para a turnê *Viola e Batuque*.[^oestado2023a]
-- Em julho de 2024, a [[orquestra-de-violoes-de-campo-grande|Orquestra de Violões de Campo Grande]] a incluiu no repertório de uma apresentação na Academia Sul-Mato-Grossense de Letras.[^oestado2024c]
+- Em 2023, Marcos Assunção anunciou um arranjo inédito da canção no repertório do trabalho *Viola e Batuque*, com Marco Lobo.[^oestado2023a]
+- Em 25 de julho de 2024, a canção estava no repertório anunciado da [[orquestra-de-violoes-de-campo-grande|Orquestra de Violões de Campo Grande]] para uma apresentação na Academia Sul-Mato-Grossense de Letras.[^oestado2024c]
 
 [^oestado2021]: ["Paulo Simões leva o show 'Sonhos Guaranis' a Corumbá, Dourados e Ponta Porã"](https://oestadoonline.com.br/arte-e-lazer/paulo-simoes-leva-o-show-sonhos-guaranis-a-corumba-dourados-e-ponta-por/), *O Estado MS*, 10 nov. 2021. Acesso em 4 nov. 2026.
 [^oestado2022]: ["Show do Almir Sater acontece hoje em Dourados"](https://oestadoonline.com.br/manchete/show-do-almir-sater-acontece-hoje-em-dourados/), *O Estado MS*, 1 jul. 2022. Acesso em 4 nov. 2026.

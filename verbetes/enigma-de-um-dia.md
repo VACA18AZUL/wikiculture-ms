@@ -36,7 +36,7 @@ Neves cita ainda prêmios no Festival de Figueira da Foz, em Portugal, no Festiv
 - Montagem: Idê Lacreta[^cinemateca]
 - Direção de arte: Marta Bogéa[^cinemateca]
 - Música: Lívio Tragtenberg[^cinemateca]
-- Elenco: Leonardo Villar[^cinemateca]
+- Elenco: [[leonardo-villar|Leonardo Villar]][^cinemateca]
 
 [^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 53. Acesso em 4 nov. 2026.
 [^cinemateca]: Cinemateca Brasileira, ["Enigma de um Dia"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=ID=021384&format=detailed.pft), base Filmografia Brasileira, registro 021384. Acesso em 4 nov. 2026.

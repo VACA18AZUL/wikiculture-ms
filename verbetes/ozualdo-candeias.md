@@ -23,12 +23,12 @@ Candeias também aparece no elenco de [[dezenove-mulheres-e-um-homem|*19 Mulhere
 
 ## Filmografia
 
-Títulos ligados a Mato Grosso do Sul:
+Títulos ligados a Mato Grosso do Sul:[^cb-cacada][^cb-19]
 
 - [[cacada-sangrenta|*Caçada Sangrenta*]] (1974) — longa-metragem de ficção; direção, argumento e roteiro; produção da DACAR.[^cb-cacada][^neves]
 - [[dezenove-mulheres-e-um-homem|*19 Mulheres e um Homem*]] (1977) — longa-metragem de David Cardoso; atuação.[^cb-19]
 
-Outros títulos citados pelas fontes:
+Outros títulos citados pelas fontes:[^ferraz][^neves]
 
 - *Tambau – Cidade dos Milagres* (1955) — curta-metragem; direção.[^ferraz]
 - *A Margem* (1967) — longa-metragem; direção.[^ferraz][^neves]

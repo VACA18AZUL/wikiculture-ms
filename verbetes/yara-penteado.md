@@ -13,13 +13,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-A dissertação de Grazielli Alves de Lima descreve *Artes plásticas em Mato Grosso do Sul* como uma coletânea de telas de artistas consagrados e novos do estado, feita em parceria pelas críticas Yara Penteado, Idara Duncan e Maria da Glória Sá Rosa. A autora data o livro de 2005 e o considera referência para a produção plástica sul-mato-grossense.[^glima] Um perfil de Idara Duncan publicado pela Fundação de Cultura de Mato Grosso do Sul data o mesmo livro de 2009.[^fcms2019] As duas datas ficam registradas.
+A dissertação de Grazielli Alves de Lima descreve *Artes plásticas em Mato Grosso do Sul* como uma coletânea de telas de artistas consagrados e novos do estado, feita em parceria pelas críticas Yara Penteado, Idara Duncan e Maria da Glória Sá Rosa. A autora data o livro de 2005 e o considera referência para a produção plástica sul-mato-grossense.[^glima] Um perfil de Idara Duncan publicado pela Fundação de Cultura de Mato Grosso do Sul cita o livro com o título *As Artes Plásticas de Mato Grosso do Sul* e o data de 2009.[^fcms2019]
 
-Em 2016, a Fundação de Cultura reproduziu, numa exposição da Biblioteca Isaías Paim, um comentário de Yara Penteado sobre *Pelas Ruas de Campo Grande*, de Paulo Coelho Machado, que ela via como forma singular de narrativa histórica.[^fcms2016b]
+Em 2016, a Fundação de Cultura reproduziu, numa exposição da Biblioteca Isaías Paim, um comentário de Yara Penteado sobre *Pelas Ruas de Campo Grande*, de [[paulo-coelho-machado|Paulo Coelho Machado]], que ela via como forma singular de narrativa histórica.[^fcms2016b]
 
-Em 2017, assinou a curadoria de exposições no Espaço Energia, em Campo Grande: a de Kátia D'Ângelo, aberta em fevereiro, e a de [[ton-barbosa|Ton Barbosa]], aberta em julho.[^cgn2017a][^cgn2017b]
+Em 2017, assinou a curadoria de exposições no Espaço Energia, em Campo Grande: a de Kátia D'Ângelo, com abertura anunciada para 7 de fevereiro, e a de [[ton-barbosa|Ton Barbosa]], com abertura anunciada para 4 de julho.[^cgn2017a][^cgn2017b]
 
-Foi uma das dez pessoas entrevistadas no documentário *Onde você estava?*, de [[roberto-figueiredo|Roberto Figueiredo]], sobre a instalação de Mato Grosso do Sul, lançado em dezembro de 2024 no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].[^fcms2024]
+Foi uma das dez pessoas entrevistadas no documentário *Onde você estava?*, de [[roberto-figueiredo|Roberto Figueiredo]], sobre a divisão de Mato Grosso e a instalação de Mato Grosso do Sul. A Fundação de Cultura anunciou a estreia para 18 de dezembro de 2024, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].[^fcms2024]
 
 Em 2026, ouvida como pesquisadora e agente cultural, disse que a identidade sul-mato-grossense ainda está em formação e citou [[humberto-espindola|Humberto Espíndola]], [[ilton-silva|Ilton Silva]], [[jorapimo|Jorapimo]] e [[conceicao-dos-bugres|Conceição dos Bugres]] entre os nomes centrais das artes visuais do estado.[^oe2026]
 

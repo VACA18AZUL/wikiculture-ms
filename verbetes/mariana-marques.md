@@ -19,9 +19,9 @@ Seu primeiro curta, *Alegria das Células* (2020), também de animação, foi fe
 
 O segundo, [[cinzas-do-pantanal|Cinzas no Pantanal]], tem três minutos e trata dos incêndios que atingiram o Pantanal em 2020. Mariana escreveu o projeto e dirigiu o filme; a direção de animação é de Tiago Franco. Feito em stop motion, usa cenários e personagens de origami de Elder Alves, com trilha de viola caipira de [[marcos-assuncao|Marcos Assunção]].[^correio2021][^g12021][^diario2021] Segundo Franco, a produção levou mais de 350 horas de trabalho.[^g12021]
 
-O curta foi financiado pela Lei Aldir Blanc, pelo edital Morena Cultura e Cidadania da Secretaria Municipal de Cultura e Turismo de Campo Grande, e realizado pela Bicicletaria Filmes com a Marshmelo Filmes. Teve pré-estreia no YouTube em 25 de abril de 2021 e novas exibições on-line em 1º e 2 de maio.[^g12021][^diario2021][^msnoticias2021]
+O curta foi financiado pela Lei Aldir Blanc, pelo edital Morena Cultura e Cidadania da Secretaria Municipal de Cultura e Turismo de Campo Grande, e realizado pela Bicicletaria Filmes com a Marshmelo Filmes. A pré-estreia foi anunciada para 25 de abril de 2021, no canal do projeto no YouTube, com novas exibições on-line em 1º e 2 de maio.[^g12021][^diario2021][^msnoticias2021]
 
-Em novembro de 2021, no Festival Saci – Semana de Animação e Cinema Infantil, em Curitiba, *Cinzas no Pantanal* recebeu o prêmio de melhor curta-metragem de animação do júri da Associação Brasileira de Cinema de Animação (ABCA) e menção honrosa do júri oficial da mostra competitiva.[^correio2021]
+Em novembro de 2021, no Festival Saci – Semana de Animação e Cinema Infantil, em Curitiba, *Cinzas no Pantanal* foi escolhido melhor curta animado pelo júri da Associação Brasileira de Cinema de Animação (ABCA) e ganhou menção honrosa do júri oficial da competição.[^correio2021]
 
 ## Filmografia
 

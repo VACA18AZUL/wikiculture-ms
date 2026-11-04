@@ -7,6 +7,10 @@ resumo: "Violonista e compositor campo-grandense, autor da Cantata de Ano Novo, 
 ficha:
   Nascimento: Campo Grande
   Atividade: Violonista, compositor
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Cyro_Delvizio
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

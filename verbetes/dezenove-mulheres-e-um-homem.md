@@ -20,7 +20,7 @@ atualizado: 2026-11-04
 
 ## Produção
 
-Alexandre Aldo Neves reproduz o relato de Cardoso, publicado na biografia escrita por Henrique Alberto de Medeiros Filho (2006): a ideia surgiu numa viagem de ônibus leito entre São Paulo e Campo Grande, e Cardoso a contou a Ody Fraga. Segundo Neves, Fraga desenvolveu a trama com sequências aéreas, perseguições e tiroteios. O filme foi feito quase todo em locações em Mato Grosso do Sul, em Miranda, Campo Grande e Maracaju, durante dois meses, com equipe de 50 pessoas.[^neves]
+Alexandre Aldo Neves reproduz o relato de Cardoso, publicado na biografia escrita por Henrique Alberto de Medeiros Filho (2006): a ideia surgiu numa viagem de ônibus leito entre São Paulo e Campo Grande, e Cardoso a contou a Ody Fraga. Segundo Neves, Fraga desenvolveu a trama com sequências aéreas, perseguições e tiroteios. O filme foi feito quase todo em locações em Mato Grosso do Sul, em Miranda, Campo Grande e Maracaju. As filmagens duraram dois meses e reuniram uma equipe de 50 pessoas.[^neves]
 
 A Cinemateca registra a produção pela Dacar Produções Cinematográficas, com Cardoso como produtor e autor do argumento. O roteiro e a adaptação são de Ody Fraga, que também foi assistente de direção. O filme tem 88 minutos, em cor, e foi distribuído pela Seleção Ouro.[^cinemateca] Neves registra que a Dacar foi fundada por Cardoso em 1974.[^neves]
 
@@ -41,7 +41,7 @@ A Cinemateca registra o lançamento em Presidente Prudente (SP), em 12 de maio d
 - Fotografia: Antonio Meliande[^cinemateca]
 - Montagem: Walter Vanni[^cinemateca]
 - Música: Ronaldo Lark e Gabino Corrêa[^cinemateca]
-- Elenco: [[david-cardoso|David Cardoso]] (Rubens), Helena Ramos, Aldine Muller, Ozualdo Candeias e outros[^cinemateca]
+- Elenco: [[david-cardoso|David Cardoso]] (Rubens), [[helena-ramos|Helena Ramos]], Aldine Muller, Ozualdo Candeias e outros[^cinemateca]
 
 [^neves]: Alexandre Aldo Neves, ["Luz, câmera, ação! Entre camalotes, jagunços e vaqueiros: a produção cinematográfica em Mato Grosso do Sul"](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/1810/1/filmando-em-mato-grosso-do-sul-o-cinema-popular-e-a-formacao-da-identidade-regional-claudio-benito-o.-ferraz-e-alexandre-a.-neves-org.pdf), em Cláudio Benito O. Ferraz e Alexandre A. Neves (org.), *Filmando em Mato Grosso do Sul: o cinema popular e a formação da identidade regional*, Dourados, Ed. UFGD, 2012, p. 42 e 45-46. Acesso em 4 nov. 2026.
 [^cinemateca]: Cinemateca Brasileira, ["19 Mulheres e 1 Homem"](https://bases.cinemateca.org.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=FILMOGRAFIA&lang=p&nextAction=lnk&exprSearch=ID=024871&format=detailed.pft), base Filmografia Brasileira, registro 024871. Acesso em 4 nov. 2026.

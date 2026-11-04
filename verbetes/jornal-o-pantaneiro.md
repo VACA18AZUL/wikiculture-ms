@@ -26,7 +26,7 @@ Em dezembro de 1975, Aldo Royg vendeu o semanário ao professor José Lima Neto 
 
 ## Cronistas
 
-A dissertação dedica uma parte às primeiras vozes femininas do jornal: Dóris Mendes Trindade, com a coluna *Opinião Feminina*, a escritora Albana Xavier Nogueira e [[dirce-jordao-de-almeida-serra|Dirce Jordão de Almeida Serra]], que assinou a coluna social *Rolê* a partir de 1967.[^lima] Em 1992, o jornal produziu uma revista para o centenário de Aquidauana, com artigo de Albana Xavier Nogueira sobre a ocupação do Pantanal.[^lima]
+A dissertação dedica uma parte às primeiras vozes femininas do jornal: [[doris-mendes-trindade|Dóris Mendes Trindade]], com a coluna *Opinião Feminina*, a escritora Albana Xavier Nogueira e [[dirce-jordao-de-almeida-serra|Dirce Jordão de Almeida Serra]], que assinou a coluna social *Rolê* a partir de 1967.[^lima] Em 1992, o jornal produziu uma revista para o centenário de Aquidauana, com artigo de Albana Xavier Nogueira sobre a ocupação do Pantanal.[^lima]
 
 ## Divulgação cultural
 

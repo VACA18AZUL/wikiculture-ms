@@ -18,9 +18,9 @@ atualizado: 2026-11-04
 
 Em março de 2023, *O Estado MS* anunciou o festival para 29 e 30 de abril, na Praça de Eventos, com entrada franca e direção artística do cantor e produtor [[odon-nacasato|Odon Nacasato]]. A proposta ligava a música da fronteira à Rota Bioceânica, que tem Porto Murtinho como ponto de passagem.[^oe2023a]
 
-A primeira edição aconteceu em 3 e 4 de junho de 2023, na praça de eventos José Barbosa de Souza, dentro da programação dos 111 anos do município.[^oe2023b][^ce2023] Na véspera, a organização previa gravar um DVD ao vivo com 20 músicas e trazer artistas do Paraguai, da Argentina e do Chile a partir da segunda edição.[^oe2023b]
+A primeira edição foi marcada para 3 e 4 de junho de 2023, na praça de eventos José Barbosa de Souza, dentro da programação dos 111 anos do município.[^oe2023b][^ce2023] Dias antes, a organização previa gravar um DVD ao vivo com 20 músicas e trazer artistas do Paraguai, da Argentina e do Chile a partir da segunda edição.[^oe2023b]
 
-Na primeira noite tocaram a Orquestra de Violões, o [[coral-meninas-cantoras-de-porto-murtinho|Coral de Meninas Cantoras]], [[girsel-da-viola|Girsel da Viola]], [[marcelo-loureiro|Marcelo Loureiro]] e [[fabio-kaida|Fábio Kaida]] (Fábio da Harpa) e o Grupo Vozes, de Odon Nacasato. No domingo se apresentaram Maria Cláudia e Marcos Mendes, [[carlos-colman|Carlos Colman]], o violeiro [[aurelio-miranda|Aurélio Miranda]] e o acordeonista Rodrigo Nogueira com seu grupo. O prefeito Nelson Cintra anunciou o festival no calendário anual da cidade.[^ce2023]
+Segundo o *Correio do Estado*, a primeira noite, em 3 de junho, teve a Orquestra de Violões, o [[coral-meninas-cantoras-de-porto-murtinho|Coral de Meninas Cantoras]], [[girsel-da-viola|Girsel da Viola]], [[marcelo-loureiro|Marcelo Loureiro]] e [[fabio-kaida|Fábio Kaida]] (Fábio da Harpa) e o Grupo Vozes, de Odon Nacasato. Para o domingo estavam programados Maria Cláudia e Marcos Mendes, [[carlos-colman|Carlos Colman]], o violeiro [[aurelio-miranda|Aurélio Miranda]] e o acordeonista Rodrigo Nogueira com seu grupo. O prefeito Nelson Cintra anunciou o festival no calendário anual da cidade.[^ce2023]
 
 A prefeitura também realizou em 2022 o [[festival-internacional-do-chamame-porto-murtinho|Festival Internacional do Chamamé]], citado pelo prefeito ao lado do Vozes na Fronteira no calendário de eventos.[^oe2023b]
 

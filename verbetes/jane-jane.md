@@ -14,11 +14,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2012, Jane Jane era baixista e vocalista da banda campo-grandense Rivers, que tocou na primeira edição daquele ano do projeto Só Rock no Horto, no Teatro de Arena do Horto Florestal.[^cgn2012]
+Em 2012, Jane Jane era baixista e vocalista da banda campo-grandense Rivers, formada em 1999. A banda foi anunciada como atração principal da primeira edição daquele ano do projeto Só Rock no Horto, no Teatro de Arena do Horto Florestal, em 15 de abril.[^cgn2012]
 
-Em carreira solo, lançou o primeiro álbum em 2013.[^correio2014][^correio2021] Em 9 de novembro de 2014 apresentou as músicas do disco no [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], com Roger Simmons e Murilo Dichoff nas guitarras e Alex Kundera na bateria; ela tocou baixo e cantou.[^correio2014]
+Em carreira solo, gravou o primeiro álbum em 2013: o Correio do Estado diz em 2014 que o disco foi produzido nesse ano e, em 2021, que foi lançado nesse ano.[^correio2014][^correio2021] Para 9 de novembro de 2014, o jornal anunciou um show com as músicas do disco no [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]]: 13 canções próprias, 11 delas do CD, com Jane Jane no baixo e na voz, Roger Simmons e Murilo Dichoff nas guitarras e Alex Kundera na bateria.[^correio2014]
 
-Em maio de 2021, depois de um período sem shows com banda completa por causa da pandemia, fez a abertura de uma das noites do projeto Vertentes, transmitido da Esplanada Ferroviária pelo YouTube e conduzido por [[jerry-espindola|Jerry Espíndola]] e pelo Coletivo CG de Música. Tocou com Bráulio Castro (bateria), Jony Bobadilha (baixo), Caio Dutra e Ricardo Daniel (guitarras), num repertório de canções do álbum de 2013, como "Anything I Do For You" e "German Boy". Na ocasião, disse ter 22 anos de estrada e preparar músicas para um novo disco.[^correio2021]
+Em maio de 2021, depois de um período sem shows com banda completa por causa da pandemia, foi anunciada para abrir uma das transmissões do projeto Vertentes, feitas da Esplanada Ferroviária pelo YouTube e conduzidas por [[jerry-espindola|Jerry Espíndola]] e pelo Coletivo CG de Música. A banda prevista tinha Bráulio Castro (bateria), Jony Bobadilha (baixo), Caio Dutra e Ricardo Daniel (guitarras), com repertório do álbum de 2013, como "Anything I Do For You" e "German Boy". Na ocasião, disse ter 22 anos de estrada e preparar músicas para um novo disco.[^correio2021]
 
 ## Discografia
 

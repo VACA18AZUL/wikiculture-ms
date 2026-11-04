@@ -5,7 +5,7 @@ areas: [teatro, musica]
 cidade: Aquidauana
 resumo: "Espaço cultural com restaurante e hospedagem em Piraputanga, distrito de Aquidauana, inaugurado em outubro de 2021 e idealizado pelo bonequeiro e produtor cultural Jorge de Barros."
 ficha:
-  Criação: "1º de outubro de 2021"
+  Criação: "outubro de 2021"
   Local: "Piraputanga, distrito de Aquidauana"
   Gestão: "[[jorge-de-barros|Jorge de Barros]] (idealizador)"
 status: rascunho
@@ -16,11 +16,11 @@ O **Espaço Cultural Raiz**, também chamado Espaço Raiz, é um espaço de arte
 
 ## História
 
-O espaço foi inaugurado em 1º de outubro de 2021. *O Pantaneiro* apresentou Jorge de Barros como um dos idealizadores e o local como multifuncional, com restaurante nos fins de semana, hospedaria e apresentações artísticas voltadas ao turismo da região.[^op2021] *O Estado MS* escreveu em 2026 que ele fundou o espaço para valorizar a cultura local e as manifestações culturais do interior.[^oe2026c] Segundo o jornalista Bosco Martins, ouvido pelo jornal, Jorge revitalizou um antigo bolicho com mais de 80 anos para instalar o Espaço Raiz e desejava vê-lo reconhecido como patrimônio histórico e cultural.[^oe2026d]
+A inauguração foi marcada para 1º de outubro de 2021. No dia marcado, *O Pantaneiro* apresentou Jorge de Barros como um dos idealizadores e o local como multifuncional, com restaurante nos fins de semana, hospedaria e apresentações artísticas voltadas ao turismo da região.[^op2021] *O Estado MS* escreveu em 2026 que ele fundou o espaço para valorizar a cultura local e as manifestações culturais do interior.[^oe2026c] No dia seguinte, o mesmo jornal escreveu que Jorge revitalizou um antigo bolicho com mais de 80 anos e o transformou no Espaço Cultural Raiz. Segundo o jornalista Bosco Martins, ouvido pelo jornal, Jorge desejava ver o espaço reconhecido como patrimônio histórico e cultural.[^oe2026d]
 
-A programação de abertura teve uma exposição em memória de [[lino-bambil|Lino Bambil]], palhaçaria de Anderson Lima, poesia com Emanuel Marinho, o Cortejo da Alegria do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]] e uma oficina de brinquedos artesanais com a Cia de Brincantes, de [[ramona-rodrigues|Ramona Rodrigues]].[^op2021]
+A programação anunciada para a abertura incluía uma exposição em memória de [[lino-bambil|Lino Bambil]], palhaçaria de Anderson Lima, poesia com Emanuel Marinho, o Cortejo da Alegria do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]] e uma oficina de brinquedos artesanais com a Cia de Brincantes, de [[ramona-rodrigues|Ramona Rodrigues]].[^op2021]
 
-Em maio de 2022, o espaço anunciava mais um fim de semana cultural gratuito, com a cantora Adélia, um sarau e o músico aquidauanense Edu Arimura. Até então, já havia recebido grupos de teatro, músicos, dançarinos e uma sessão de cinema, e oferecia restaurante, quartos e camping.[^op2022]
+Em maio de 2022, *O Pantaneiro* registrou que o espaço fora inaugurado em outubro do ano anterior e anunciou mais um fim de semana cultural gratuito, com a cantora Adélia, um sarau e o músico aquidauanense Edu Arimura. Até então, já havia recebido grupos de teatro, músicos, dançarinos e uma sessão de cinema, e oferecia restaurante, quartos e camping.[^op2022]
 
 [^op2021]: Kamila Alcântara, ["Fim de semana com programação especial no Espaço Cultural Raiz"](https://www.opantaneiro.com.br/aquidauana/2021/10/01/fim-de-semana-com-programacao-especial-no-espaco-cultural-raiz.html), *O Pantaneiro*, 1º out. 2021. Acesso em 4 nov. 2026.
 [^op2022]: Lucas Arruda, ["Espaço Cultural Raiz tem mais um fim de semana cultural"](https://www.opantaneiro.com.br/cultura/2022/05/06/espaco-cultural-raiz-tem-mais-um-fim-de-semana-cultural.html), *O Pantaneiro*, 6 maio 2022. Acesso em 4 nov. 2026.

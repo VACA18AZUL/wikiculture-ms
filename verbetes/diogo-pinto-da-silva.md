@@ -3,7 +3,7 @@ titulo: Diogo Pinto da Silva
 tipo: pessoa
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: "Produtor, ator e jornalista terena de Campo Grande radicado em Los Angeles; produziu e protagonizou o curta Deconstructing Val, lançado online em 2021."
+resumo: "Produtor, ator e jornalista terena de Campo Grande radicado em Los Angeles; produziu e protagonizou o curta Deconstructing Val, com lançamento on-line marcado para março de 2021."
 ficha:
   Atividade: "Produtor, ator, jornalista"
 status: rascunho
@@ -22,7 +22,7 @@ Na mesma época, *O Estado* informou que ele havia atuado no filme *Magic Hour*,
 
 ## Filmografia
 
-- *Deconstructing Val* (2021) — curta; produção, roteiro e direção com Brandi Self, atuação (Val Brazil).[^oestado2021a][^g12021]
+- *Deconstructing Val* — curta filmado em 2019, com lançamento on-line marcado para 28 mar. 2021; produção, roteiro e direção com Brandi Self, atuação (Val Brazil).[^oestado2021a][^g12021]
 - *Magic Hour* — atuação; em pós-produção em março de 2021.[^oestado2021b]
 - *Mutantes Supercar* — produção; em filmagem em março de 2021.[^oestado2021b]
 

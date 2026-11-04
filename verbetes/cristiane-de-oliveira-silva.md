@@ -11,13 +11,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Cristiane de Oliveira Silva** é uma escritora e professora de Campo Grande, autora da série de livros infantojuvenis *Histórias da Vovó Léla – Contos Pantaneiros*. É pedagoga, mestre em Literatura pela Universidade Estadual de Mato Grosso do Sul (UEMS) e professora de educação infantil da rede municipal de ensino de Campo Grande.[^correio2025][^oestado2025]
+**Cristiane de Oliveira Silva** é uma escritora e professora de Campo Grande, autora da série de livros infantojuvenis *Histórias da Vovó Léla – Contos Pantaneiros*. Formada em Pedagogia, fez mestrado em Literatura na Universidade Estadual de Mato Grosso do Sul (UEMS) e dá aulas na educação infantil da rede municipal da capital.[^correio2025][^oestado2025]
 
 ## Obra
 
-A série reúne lendas e contos do Pantanal que a autora ouviu da avó na infância. O primeiro volume, *Contos Pantaneiros – Juvenil*, saiu em 2023.[^correio2025][^oestado2025] Segundo a autora, o livro foi selecionado em edital para ser distribuído às bibliotecas públicas do estado.[^oestado2025]
+A série reúne lendas e contos do Pantanal que a autora ouviu da avó na infância. O primeiro volume, *Contos Pantaneiros – Juvenil*, saiu em 2023.[^correio2025][^oestado2025] Segundo *O Estado MS*, esse primeiro livro venceu um edital e seria levado a todas as bibliotecas públicas do estado.[^oestado2025]
 
-O segundo título, *O Minhocão*, foi lançado em 15 de maio de 2025 em Campo Grande. Conta a lenda do Minhocão do rio Paraguai, conhecida em Corumbá, a partir do encontro da Vovó Léla, ainda criança, com o ser mítico. O livro tem formato sanfonado, que se abre como o corpo do Minhocão, e ilustrações de Benes. A edição é da [[vida-producoes|Vida Produções]], que levou um ano e meio para viabilizar o projeto gráfico.[^correio2025][^oestado2025]
+O segundo título, *O Minhocão*, teve lançamento anunciado para 15 de maio de 2025, num supermercado de Campo Grande, e já era vendido pela internet. Conta a lenda do Minhocão do rio Paraguai, conhecida em Corumbá, a partir do encontro da Vovó Léla, ainda criança, com o ser mítico. O livro tem formato sanfonado, que se abre como o corpo do Minhocão, e ilustrações de Benes. A edição é da [[vida-producoes|Vida Produções]], que levou um ano e meio para viabilizar o projeto gráfico.[^correio2025][^oestado2025]
 
 Em outubro de 2025, *Histórias da Vovó Léla: Contos Pantaneiros* esteve entre os sete livros do projeto Leia MS, da Fundação de Cultura de Mato Grosso do Sul, apresentados na [[bienal-do-livro-de-ms-bienal-pantanal|1ª Bienal do Pantanal]], em Campo Grande.[^fcms2025]
 

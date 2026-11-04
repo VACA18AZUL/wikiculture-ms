@@ -20,7 +20,7 @@ Segundo o *Campo Grande News*, nasceu em Bataiporã, cresceu em Taquarussu e mud
 
 Como diretor, estreou em 2020 com o espetáculo *Solamentesó*, apresentado na internet. Em 2021, concebeu e protagonizou *Útero, Minha Primeira Morada*.[^cgn2022]
 
-Em fevereiro de 2022, abriu uma oficina gratuita de teatro para pessoas cegas ou com baixa visão no Instituto Sul-Mato-Grossense para Cegos Florivaldo Vargas (Ismac), em Campo Grande. Da oficina saiu o elenco de *O que os Olhos Veem o Coração Sente?*, que estreou em maio de 2022, com pré-estreia em Campo Grande e sessões em Corumbá, e teve patrocínio do Instituto Cultural Vale.[^cgn2022][^oestado2022a][^dc2022]
+Em fevereiro de 2022, abriu inscrições para uma oficina gratuita de teatro para pessoas cegas ou com baixa visão no Instituto Sul-Mato-Grossense para Cegos Florivaldo Vargas (Ismac), em Campo Grande, prevista para 7 a 11 daquele mês. Segundo *O Estado*, os cinco atores de *O que os Olhos Veem o Coração Sente?* foram escolhidos nessa oficina. A peça, patrocinada pelo Instituto Cultural Vale, teve pré-estreia anunciada para 13 de maio de 2022 no Sesc Cultura, em Campo Grande, e foi apresentada em 20 de maio na Praça da República, em Corumbá.[^cgn2022][^oestado2022a][^dc2022]
 
 No 2º [[premio-campo-grande-ao-teatro|Prêmio Campo Grande ao Teatro]], em abril de 2023, a peça, da [[cia-camisa-10|Cia. Camisa 10]], foi eleita o melhor espetáculo de rua, e ele recebeu o troféu de melhor diretor.[^oestado2023b]
 

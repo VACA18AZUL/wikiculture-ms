@@ -36,6 +36,10 @@ Não abertas (Google Notícias com limite de requisições): Concerto (2022, 202
 
 - Nenhuma.
 
+## Conferência com a Wikipédia
+
+- https://pt.wikipedia.org/wiki/Cyro_Delvizio: cita doutorado na ECA/USP (2019, tese sobre os 12 Estudos para violão de Francisco Mignone) e estreia como jurado de samba-enredo no Grupo Especial do Rio (2024). Não entraram: a página de teses da USP não abriu nesta sessão. Sem divergência com as fontes lidas.
+
 ## Uso no verbete
 
 - Idade (36 anos em 2022) ficou fora para não calcular ano de nascimento.

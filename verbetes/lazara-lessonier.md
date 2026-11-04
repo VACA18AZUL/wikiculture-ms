@@ -20,11 +20,11 @@ Funcionária da Secretaria de Estado de Fazenda em Três Lagoas, mudou-se para C
 
 Também em 1985 teve a primeira aula de pintura e fez o primeiro quadro. Estudou com a professora Maria Tezeli e depois no ateliê de [[leonor-lage|Leonor Lage]]. Pinta quase sempre óleo sobre tela, com nuvens, flores, animais e paisagens. Mantém um ateliê com o próprio nome e exposição permanente.[^ce2024]
 
-Em 2020 integrava a diretoria da Associação de Artistas Plásticos Profissionais de MS (AAPMS). Expôs na coletiva *Coletiva 18 Artistas Visuais – Diretoria da AAPMS*, aberta em 5 de fevereiro na [[galeria-wega-nery|Galeria Wega Nery]], do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^fcms2020a][^fcms2020b]
+Em 2020 integrava a diretoria da Associação de Artistas Plásticos Profissionais de MS (AAPMS). Expôs na *Coletiva 18 Artistas Visuais – Diretoria da AAPMS*, aberta em 5 de fevereiro na [[galeria-wega-nery|Galeria Wega Nery]], do [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^fcms2020a][^fcms2020b]
 
 Obras do acervo pessoal dela ilustraram o calendário de 2024 do *Correio do Estado*. Na matéria sobre o calendário, o jornal diz que ela completava duas décadas de artes plásticas naquele ano; na mesma matéria, a artista situa a primeira aula de pintura em 1985.[^ce2024]
 
-Em Inocência, o Centro Cultural Lázara Lessonier recebeu em 4 de outubro de 2025 a turnê do projeto [[elas-ao-cello|Elas ao Cello]].[^fcms2025]
+Em Inocência há um espaço chamado Centro Cultural Lázara Lessonier. Ele estava na agenda da turnê do projeto [[elas-ao-cello|Elas ao Cello]] divulgada em setembro de 2025, com apresentação marcada para 4 de outubro.[^fcms2025]
 
 ## Obras
 

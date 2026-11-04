@@ -21,13 +21,13 @@ Em 2022 lançou a coleção primavera-verão "Mulher da Fronteira", inspirada na
 
 ## Fashion films
 
-Lidiane passou a apresentar suas coleções em curtas-metragens de moda, os fashion films, com roteiros escritos por ela e trilha composta em parceria com a banda [[coquetel-blue|Coquetel Blue]]. Os dois filmes do projeto "Sonhos e Fetiches da Fronteira" foram feitos com recursos da Lei Paulo Gustavo, por edital da Fundação de Cultura de Mato Grosso do Sul.[^oestado2024][^correio2025][^fcms2025a]
+Lidiane passou a apresentar suas coleções em curtas-metragens de moda, os fashion films. Ela escreve os roteiros e as letras das trilhas, que compõe com a banda [[coquetel-blue|Coquetel Blue]]. Os dois filmes do projeto "Sonhos e Fetiches da Fronteira" foram feitos com recursos da Lei Paulo Gustavo, por edital da Fundação de Cultura de Mato Grosso do Sul.[^oestado2024][^correio2025][^fcms2025a]
 
-O primeiro curta, "Sonhos e Fetiches da Fronteira", foi exibido em outubro de 2024 no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], com apresentação da Coquetel Blue. A personagem central era a Dama de Preto. Segundo o Correio do Estado, a protagonista foi a cantora Pretah.[^oestado2024][^correio2025] A Fundação de Cultura de Mato Grosso do Sul chama esse primeiro filme de "Dama de Preto".[^fcms2025b]
+O primeiro curta, "Sonhos e Fetiches da Fronteira", teve como personagem central a Dama de Preto. *O Estado MS* anunciou sua exibição gratuita no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], seguida de show da Coquetel Blue, numa quarta-feira de outubro de 2024; a matéria dá o dia ora como 23, ora como 25.[^oestado2024] Segundo o Correio do Estado, o filme foi lançado em outubro de 2024, com desfile, projeção e show da banda, e teve como protagonista a cantora Pretah.[^correio2025] A Fundação de Cultura de Mato Grosso do Sul chama esse primeiro filme de "Dama de Preto".[^fcms2025b]
 
-O segundo, [[noites-de-carmim|Noites de Carmim]], foi filmado em Campo Grande em fevereiro de 2025 e lançado em 17 de abril de 2025 no Boteco do Miau e no YouTube. A personagem é a Dama de Vermelho, com referências aos quadrinhos de *Sin City*.[^correio2025][^fcms2025a][^fcms2025b]
+O segundo, [[noites-de-carmim|Noites de Carmim]], foi filmado em Campo Grande em fevereiro de 2025 e ficou disponível no YouTube em 17 de abril de 2025, dia para o qual estava anunciada uma sessão de lançamento no Boteco do Miau. A personagem é a Dama de Vermelho, com referências aos quadrinhos de *Sin City*.[^correio2025][^fcms2025a][^fcms2025b]
 
-Em 9 de outubro de 2026, seis bandas da cena independente da capital, entre elas a Coquetel Blue, tocaram no evento [[balada-de-amor-para-lidylo|Balada de amor para LidyLo]], no Buteco do Miau, organizado em apoio à estilista.[^oestado2026]
+*O Estado MS* anunciou para 9 de outubro de 2026, no Buteco do Miau, o evento [[balada-de-amor-para-lidylo|Balada de amor para LidyLo]], com seis bandas da cena independente da capital, entre elas a Coquetel Blue, organizado em apoio à estilista.[^oestado2026]
 
 ## Filmografia
 

@@ -30,3 +30,5 @@ Buscas sem resultado: O Estado (API) "Ipurinã" e "Grupo Ipurã"; FCMS (API); CG
 ## Uso no verbete
 
 - Verbete não escrito: só três menções de passagem em obituários, sem data, cidade, integrantes além de dois nomes ou montagens. Fica para o futuro verbete jorge-de-barros (e wilson-motta), com as duas grafias citadas.
+
+- 2026-11-04 (w28-1): incorporado-em:jorge-de-barros. Frases com as duas grafias e notas [cgn2026][oe2026c][oe2026d] escritas na seção Trajetória do verbete jorge-de-barros.

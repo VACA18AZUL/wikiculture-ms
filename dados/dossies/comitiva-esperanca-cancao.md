@@ -36,3 +36,13 @@
 ## Uso no verbete
 
 - Tudo da seção Fatos entrou.
+
+## Atualização de 2026-11-04 (validação)
+
+- Todas as fontes reabertas (O Estado MS ×9, FCMS 2024, Cabrita).
+- Cabrita: o roteiro é de documentário sobre as comitivas (não sobre a peoa Mirele Geller); a peoa só recebe a dedicatória do locutor (p. 139 do PDF); a letra transcrita no roteiro fala de estrada boiadeira e de viagem sem pressa. Corrigido.
+- Orquestra de Violões (25 jul. 2024): repertório anunciado no dia ("a ser interpretado"); redigido como anúncio.
+- Marcos Assunção (2023): fala de repertório do álbum/turnê com arranjos inéditos; mantido como anúncio.
+- O Estado 3 jan. 2020: Tozzette anuncia EP com a versão do Bando; não usado (anúncio).
+- Wikipédia: sem artigo (404).
+- Ano de composição e de gravação não aparecem nas fontes lidas.

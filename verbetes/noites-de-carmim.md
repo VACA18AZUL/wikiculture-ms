@@ -21,11 +21,11 @@ O filme foi gravado em fevereiro de 2025, em diferentes pontos de Campo Grande, 
 
 O roteiro, de Lidiane Lopes, tem como personagem central a Dama de Vermelho, inspirada nos quadrinhos de *Sin City*, e é dedicado ao que a autora chama de "Marias ancestrais", as mulheres da fronteira. A personagem foi vivida pela modelo e atriz Paty Bogalho. Os figurinos, de corte inspirado nos anos 1950, são da própria estilista.[^correio2025][^fcms2025b]
 
-A música-tema, também chamada "Noites de Carmim", foi escrita por Lidiane a partir do roteiro e arranjada pela banda de rockabilly Coquetel Blue, formada por Bo Loro, Pedro Espíndola, Leotta e Perim. Segundo Bo Loro, a trilha tem um tom mais country que a do primeiro filme. A faixa foi gravada no Estúdio 45, do produtor Anderson Rocha.[^correio2025][^fcms2025b]
+Lidiane escreveu a letra da música-tema, de mesmo nome, com base no roteiro; os arranjos são da banda de rockabilly Coquetel Blue, formada por Bo Loro, Pedro Espíndola, Leotta e Perim. Segundo Bo Loro, a trilha tem um tom mais country que a do primeiro filme. A faixa foi gravada no Estúdio 45, do produtor Anderson Rocha.[^correio2025][^fcms2025b]
 
 ## Lançamento
 
-O curta estreou em 17 de abril de 2025, com sessão gratuita no Boteco do Miau, em Campo Grande, e apresentação ao vivo da trilha pela Coquetel Blue. No mesmo dia foi publicado no YouTube.[^correio2025][^fcms2025b]
+O curta foi publicado no YouTube em 17 de abril de 2025. Para a mesma noite estava anunciada uma sessão gratuita de lançamento no Boteco do Miau, em Campo Grande, com a Coquetel Blue tocando a trilha ao vivo.[^correio2025][^fcms2025b]
 
 ## Ficha técnica
 

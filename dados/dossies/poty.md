@@ -43,3 +43,17 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete não escrito: fonte única, três fatos, todos já presentes nos verbetes [[dani-kaiowa]] e [[michele-perito-concianza]].
+
+## Fonte nova (agente d1-1, 2026-11-04, aberta e lida pela busca da FCMS)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2021 | Karina Medeiros de Lima, "Em comemoração aos 44 anos do Estado, Fundação de Cultura lança documentários no Auto Cine no dia 12", FCMS, 7 out. 2021 | https://www.fundacaodecultura.ms.gov.br/em-comemoracao-aos-44-anos-do-estado-fundacao-de-cultura-lanca-documentarios-no-auto-cine-no-dia-12/ | sim |
+
+- Poty (7'13): sinopse (roupa típica guarani e kaiowá com o poty nos cantos; jovens futuras nhandesy aprendem com as mais velhas; instrumento takapu). Direção/roteiro/câmera/som: Daniele Jorge João e Michele Perito Concianza; edição: Marineti Pinheiro. Produzido no II Curso de Documentário MS em Imagem e Som (MIS + TVE Cultura; Prêmio Darcy Ribeiro/Ibram; coordenação Carlos Diehl e Marineti Pinheiro). Lançamento anunciado para 12 out. 2021 no Auto Cine da UFMS.
+- Grafia: "Daniele Jorge João" (FCMS) × "Daniela Jorge João" (tese, entrevista). Registrado no verbete pela ficha técnica.
+- Tese reaberta nesta sessão (PDF, p. 127).
+
+## Uso no verbete (d1-1)
+
+Verbete escrito com tese e fcms2021. Vídeo continua sem link (canal de terceiro). Parentesco entre as diretoras ficou fora. Avisos do conferir: michele-perito-concianza e marineti-pinheiro não listam Poty em Filmografia (arquivos de outros agentes; não editados).

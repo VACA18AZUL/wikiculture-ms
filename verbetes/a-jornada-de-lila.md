@@ -20,7 +20,7 @@ O filme trata de inclusão, de acessibilidade e das barreiras enfrentadas por pe
 
 ## Exibições
 
-Em fevereiro de 2026, o curta foi um dos selecionados para a segunda edição da [[mostra-de-animacao-regional-ms|Mostra de Animação Regional MS]], da [[transcine|TransCine]], com sessão no [[mis-ms|Museu da Imagem e do Som]].[^oe2026a][^fcms2026a] Em maio do mesmo ano, entrou na programação da mostra MS Memórias Audiovisuais, também no MIS.[^fcms2026b]
+Em fevereiro de 2026, o curta foi um dos selecionados para a segunda edição da [[mostra-de-animacao-regional-ms|Mostra de Animação Regional MS]], da [[transcine|TransCine]], com sessão marcada para 6 de fevereiro no [[mis-ms|Museu da Imagem e do Som]].[^oe2026a][^fcms2026a] Em maio do mesmo ano, a programação anunciada da exposição MS Memórias Audiovisuais, também no MIS, previa uma exibição do curta em 27 de maio.[^fcms2026b]
 
 ## Ficha técnica
 
