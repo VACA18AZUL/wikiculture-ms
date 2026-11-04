@@ -15,13 +15,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Formou-se em Direito pela Faculdade Fluminense, no Rio de Janeiro. Foi professor, promotor, auditor substituto da Justiça Militar e pecuarista, e exerceu dois mandatos de vereador em Campo Grande. Foi membro fundador da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^britez2010]
+Graduado em Direito na Faculdade Fluminense, no Rio de Janeiro, atuou como professor, promotor, auditor substituto da Justiça Militar e pecuarista, e exerceu dois mandatos de vereador em Campo Grande. Foi membro fundador da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^britez2010]
 
 Criou o [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de Mato Grosso do Sul]] em 3 de março de 1978 e é o primeiro nome da lista de presidentes da entidade.[^ihgms2025] Em maio de 1980, escreveu o prefácio das memórias de [[demosthenes-martins|Demosthenes Martins]].[^raido2008]
 
 ## Obra
 
-*Pelas Ruas de Campo Grande* reúne cinco livros, cada um dedicado a uma rua ou avenida do centro, com base sobretudo em relatos orais de antigos moradores. O artigo de Britez e Pereira data a coletânea de 2006 e informa que ela integra a série Banco de Memórias, do Instituto Histórico e Geográfico. A segunda edição, de 2008, foi patrocinada pela Fundação de Cultura de Mato Grosso do Sul e distribuída em escolas de Campo Grande em 2009.[^britez2010] Já o artigo de Castilho e Dal Moro cita os dois primeiros volumes em edições do Tribunal de Justiça de MS, de 1990 e 1991.[^fenix2015]
+*Pelas Ruas de Campo Grande* reúne cinco livros sobre a história de cinco das principais ruas da capital e de seus primeiros moradores; para reunir lembranças, o autor recorre também à tradição oral. O artigo de Britez e Pereira data a coletânea de 2006 e informa que ela integra a série Banco de Memórias, do Instituto Histórico e Geográfico. A segunda edição, de 2008, foi patrocinada pela Fundação de Cultura de Mato Grosso do Sul e distribuída em escolas de Campo Grande em 2009.[^britez2010] Já o artigo de Castilho e Dal Moro cita os dois primeiros volumes em edições do Tribunal de Justiça de MS, de 1990 e 1991.[^fenix2015]
 
 Os pesquisadores Maria Augusta de Castilho e Nataniél Dal Moro o colocam ao lado de Ulisses Serra e Edson Carlos Contar entre os memorialistas que retrataram as pessoas comuns da cidade como "tipos populares".[^fenix2015] Em 2024, reportagem do *Campo Grande News* sobre a história da Rua 14 de Julho usou *A Rua Principal* como referência para os prédios antigos e as figuras populares da rua.[^cgn2024]
 

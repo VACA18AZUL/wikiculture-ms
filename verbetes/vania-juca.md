@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 Em 2013, o Campo Grande News a apresentou como uma das duas fotógrafas sul-mato-grossenses inscritas na mostra do mês da fotografia em Brasília, de 10 a 15 de junho, com o tema do futebol no imaginário popular do Centro-Oeste. O trabalho inscrito mostrava um campo de futebol alagado no Pantanal, com um tuiuiú. A outra inscrita era a fotógrafa Elis Regina.[^cgn2013]
 
-Em 2016, fotografou, com [[marycleide-vasques|Marycleide Vasques]] e Farid Fahed, as imagens da exposição *Mulheres Protagonistas da Nossa História*, com curadoria de Elis Regina Nogueira e idealizada pelo [[mis-ms|MIS-MS]]. A mostra foi inaugurada em 8 de março no Memorial da Cultura e da Cidadania e reaberta em 17 de março no Shopping Bosque dos Ipês, em Campo Grande.[^fcms2016a] No mesmo ano, estava entre os autores das fotos da coletiva *Olhares Criativos na Natureza*, sobre áreas verdes de Campo Grande, com abertura marcada para 8 de julho no MIS-MS.[^fcms2016b]
+Em 2016, fotografou, com [[marycleide-vasques|Marycleide Vasques]] e Farid Fahed, as imagens da exposição *Mulheres Protagonistas da Nossa História*, com curadoria de Elis Regina Nogueira e idealizada pelo [[mis-ms|MIS-MS]]. A mostra foi inaugurada em 8 de março no Memorial da Cultura e da Cidadania e tinha reabertura marcada para 17 de março no Shopping Bosque dos Ipês, em Campo Grande.[^fcms2016a] No mesmo ano, estava entre os autores das fotos da coletiva *Olhares Criativos na Natureza*, sobre áreas verdes de Campo Grande, com abertura marcada para 8 de julho no MIS-MS.[^fcms2016b]
 
 Em agosto de 2018, a programação do Fest Foto Cerrado, na Casa de Arte e Cultura, em Campo Grande, previa um debate dela sobre mulheres na fotografia.[^cgn2018]
 
