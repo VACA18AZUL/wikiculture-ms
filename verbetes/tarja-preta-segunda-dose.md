@@ -3,7 +3,7 @@ titulo: Tarja Preta Segunda Dose
 tipo: obra
 areas: [literatura]
 cidade: Campo Grande
-resumo: Antologia de prosa e poesia do Coletivo Tarja Preta, com textos de 32 escritores de Mato Grosso do Sul, organizada por Fábio Gondim e lançada em novembro de 2023.
+resumo: Antologia de prosa e poesia do Coletivo Tarja Preta, com textos de 32 escritores de Mato Grosso do Sul, organizada por Fábio Gondim, com lançamento marcado para novembro de 2023.
 ficha:
   Organização: Fábio Gondim
   Prefácio: Marcelle Saboya

@@ -29,4 +29,4 @@ Diehl lê o filme como uma história sobre segurança pública, violência e gê
 - Produção: [[reinaldo-dorval|Reinaldo Dorval]][^diehl]
 - Produtora: [[video-eventos|Vídeo Eventos]][^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 57, 87, 102, 126-127, 138-139 e 156. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56, 86, 101, 125-127, 137-138 e 155. Acesso em 4 nov. 2026.

@@ -28,3 +28,4 @@ Fonte aberta sem menção a ele: Aletheya Alves, "Confraria Sociartista fará ex
 - Quatro buscas abertas (Pedro Guilherme + Coxim/Lago do Amor/Piracema/morte). Só apareceu o Campo Grande News (a mesma matéria já citada). Nenhuma nota de Midiamax, Correio do Estado ou Prefeitura foi encontrada.
 - Os resultados de busca indicam outra matéria do Campo Grande News, sobre a morte (quinta-feira, 20 de novembro de 2025), mas a URL não foi localizada nem aberta; mesmo veículo, não serve como fonte independente. Não entrou no verbete.
 - Nada alterado no verbete. Situação: reforçar. Próximo passo: abrir a nota de falecimento do CGN (data exata da morte) e procurar cobertura da Fundação de Cultura de MS ou da Prefeitura.
+- Busca adicional (Lagoa Itatiaia + autoria da escultura): nenhuma fonte fora do CGN liga o peixe da Lagoa Itatiaia a ele; a matéria do CGN sobre a Confraria Sociartista na Lagoa Itatiaia também é do mesmo veículo e não foi aberta.

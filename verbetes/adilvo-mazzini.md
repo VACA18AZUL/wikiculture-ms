@@ -33,7 +33,7 @@ Publicou três livros, segundo o Campo Grande News.[^cgn2019]
 
 ## Discografia
 
-Como regente do [[coral-santa-cecilia|Coral Santa Cecília]]:
+Como regente do [[coral-santa-cecilia|Coral Santa Cecília]]:[^pl]
 
 - *Natal entre os Povos* (1999) — CD.[^pl]
 - *Memória Musical 30 Anos* (2008) — CD com gravações ao vivo, com apoio do Fundo de Investimento à Produção Artística e Cultural de Dourados (FIP).[^pl] [Ouvir no YouTube](https://www.youtube.com/playlist?list=PLO-QEpiig_IgmFHxwQNpOwKfpLV2j8_dy)

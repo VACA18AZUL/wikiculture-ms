@@ -3,7 +3,7 @@ titulo: Sandro Moreno
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Baterista de Campo Grande ligado à geração da polca-rock. Tocou com Zé Ramalho, Dani Black e Almir Sater e integra a banda de Jerry Espíndola.
+resumo: Baterista de Campo Grande ligado à geração da polca-rock. Tocou com Zé Ramalho, Dani Black e Almir Sater; em 2025 foi escalado na banda de Jerry Espíndola.
 ficha:
   Atividade: Bateria
   Grupos: Croa
@@ -19,7 +19,7 @@ Em entrevista ao *Campo Grande News* em 2012, Moreno contou que ganhou um concur
 
 Em 2006, encerrou o contrato com Zé Ramalho para participar de um projeto com [[tete-espindola|Tetê Espíndola]] e o produtor francês Felipe Kadoshi, e morou quatro meses em Paris. Depois de mais dois anos em São Paulo, voltou em 2008 para Campo Grande, sua cidade natal, e começou a tocar com [[almir-sater|Almir Sater]].[^cgn2012]
 
-Na mesma reportagem, seu trabalho principal era com o cantor Dani Black, com quem tocava havia dez anos. Ele também mantinha a banda [[croa|Croa]], criada com os conterrâneos Adriano Magoo (teclado) e Marcelo Ribeiro, o Marcelinho (baixo), e tocava em bares de Campo Grande, como no Jazz de Quinta do Barbaquá.[^cgn2012]
+Na mesma reportagem, seu trabalho principal era com o cantor Dani Black, com quem tocava havia dez anos. Ele também mantinha a banda [[croa|Croa]], criada por ele com Adriano Magoo (teclado) e Marcelo Ribeiro, o Marcelinho (baixo), e tocava em bares de Campo Grande, como no Jazz de Quinta do Barbaquá.[^cgn2012]
 
 ## Polca-rock
 

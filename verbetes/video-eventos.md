@@ -18,4 +18,4 @@ atualizado: 2026-11-04
 - [[liberdade-para-os-inocentes|Liberdade para os Inocentes]] (sem data) — dirigido por Reinaldo Dorval; produtora.[^diehl]
 - [[fatalidade-curta|Fatalidade]] (sem data) — curta-metragem dirigido por Alexandre Couto; produtora.[^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 156-157. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 155-156. Acesso em 4 nov. 2026.

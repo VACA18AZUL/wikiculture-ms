@@ -34,4 +34,4 @@ A dissertação aponta citações do faroeste italiano. O homem que arrasta o ca
 - Elenco: [[reinaldo-dorval|Reinaldo Dorval]], Luis Carlos Mendes, Marilene Oliveira, [[alexandre-couto|Alexandre Couto]], [[jose-piranha-rocha|José B. Rocha]], Líncio Mendes, Juareis Chaves, [[nelson-rondon|Nelson Rondon]] e outros nomes listados na ficha da dissertação[^diehl]
 - Produtora: [[video-eventos|Vídeo Eventos]][^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56, 85-86, 102, 116-125 e 156. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 55, 84-85, 101, 115-122 e 155. Acesso em 4 nov. 2026.

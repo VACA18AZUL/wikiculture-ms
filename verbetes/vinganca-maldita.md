@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Enredo
 
-Martins, um garimpeiro, lembra em flashback a mulher, Geralda, que ficou grávida na cidade quando ele partiu para o garimpo. Ele divide a comida com um andarilho, que descobre seus diamantes, o mata pelas costas e foge. O irmão de Martins chega com uma carta da família, enterra o morto e persegue o assassino. Os dois lutam e morrem. Na agonia, o irmão lembra que a carta trazia a notícia da morte da mulher e do filho de Martins.[^diehl]
+Martins, um garimpeiro, lembra em flashback a mulher, Geralda, e a despedida, quando partiu para o garimpo e a deixou grávida. Ele divide a comida com um andarilho, que descobre seus diamantes, o mata pelas costas e foge. O irmão de Martins chega com uma carta da família, enterra o morto e persegue o assassino. Os dois lutam e morrem. Na agonia, o irmão lembra que a carta trazia a notícia da morte da mulher e do filho de Martins.[^diehl]
 
 ## Análise
 
@@ -29,4 +29,4 @@ Diehl lê o filme como uma história sobre o sonho e as tragédias do garimpo, c
 - Produção: [[alexandre-couto|Alexandre Couto]], [[reinaldo-dorval|Reinaldo Dorval]], L. Martins e J. Benedito[^diehl]
 - Produtoras: [[colorcouto|Colorcouto]] e [[aljor-filmes|Aljor Filmes]][^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56-57, 86, 102, 134-135 e 157. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56, 85, 101, 133-134, 139 e 156. Acesso em 4 nov. 2026.

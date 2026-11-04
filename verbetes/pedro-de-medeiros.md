@@ -30,7 +30,7 @@ Em vida, não reuniu a obra em livro. O volume *Poesias, crônicas, comentários
 
 ## Homenagens e leituras
 
-Em 2017, [[edson-moraes|Edson Moraes]] lançou o livro de poemas *Bugre Rima com Estrelas*. O título remete a Pedro de Medeiros e a "Lenda Bororo".[^cgn2017]
+Em 2017, [[edson-moraes|Edson Moraes]] publicou o livro de poemas *Bugre Rima com Estrelas*. O título remete a Pedro de Medeiros e a "Lenda Bororo".[^cgn2017]
 
 Em setembro de 2026, o *Correio do Estado* publicou poemas de autores de Corumbá em homenagem a Pedro de Medeiros e a [[lobivar-matos|Lobivar de Matos]]. A iniciativa partiu do envio de poemas pelo escritor [[eneo-da-nobrega|Eneo da Nóbrega]], da [[ube-ms|UBE-MS]] e da [[apec|Associação Pantaneira de Escritores]].[^ce2026]
 

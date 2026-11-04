@@ -30,4 +30,4 @@ Para Diehl, o filme parodia um clichê do suspense de Hollywood, a moça indefes
 - Elenco: [[rubens-ramos|Rubens Ramos]], Iraci Ferreira e José Reinaldo[^diehl]
 - Produtora: [[aljor-filmes|Aljor Filmes]][^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 57, 102, 128-129, 137-138 e 156. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56, 101, 127-129, 136-137 e 155. Acesso em 4 nov. 2026.

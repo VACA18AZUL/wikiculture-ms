@@ -31,3 +31,4 @@ Fontes descartadas: Alma Preta, "Mostra Pretou..." (5 maio 2024) — não mencio
 - Alma Preta (5 maio 2024) reaberta: não menciona "Enegrecer".
 - Repositório UFMS (item 14104): 503 ao abrir; não verificado.
 - Nada alterado no verbete. Segue "reforcar". Pistas: perfil do coletivo no Instagram (@enegrecercoletivo, citado na matéria de 2023; não aberto), Fundação de Cultura de MS e MIS-MS (programação nov. 2023), Prêmio Ipê de Artes Visuais (ano).
+- Busca adicional (Prêmio Ipê de Artes Visuais): nenhuma lista oficial de premiados encontrada; resultados do CGN de 2022 e 2023 sobre o 1º Prêmio Ipê (Galeria de Vidro) não abertos. Pista: edital e resultado do Prêmio Ipê (Prefeitura/Fundac, Plataforma Cultural) para dar ano ao prêmio.

@@ -19,5 +19,5 @@ Diehl cita Wulfes e Luxardo como exemplos de técnicos formados pela produção 
 
 - [[alma-do-brasil|Alma do Brasil]] (1930 segundo Diehl; 1932 segundo Castro Neto) — longa-metragem; codireção com Líbero Luxardo.[^diehl][^castro]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 27 e 35. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 26 e 34. Acesso em 4 nov. 2026.
 [^castro]: Advaldo Castro Neto, ["Por uma leitura crítica de Um dia qualquer"](https://anpap.org.br/anais/2012/pdf/simposio11/advaldo_castro_neto.pdf), anais do encontro da ANPAP, 2012, simpósio 11, p. 1881. Acesso em 4 nov. 2026.

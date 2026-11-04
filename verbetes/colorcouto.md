@@ -17,4 +17,4 @@ atualizado: 2026-11-04
 - [[vinganca-maldita|Vingança Maldita]] (1978) — média-metragem dirigido por Reinaldo Dorval; produtora, com a Aljor Filmes.[^diehl]
 - [[a-marca-do-destino|A Marca do Destino]] (1979) — média-metragem dirigido por Alexandre Couto; produtora, com a Aljor Filmes.[^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 156-157. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 155-156. Acesso em 4 nov. 2026.
