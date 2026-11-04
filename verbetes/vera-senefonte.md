@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 Em abril de 2011, expôs pinturas da onça-pintada do Pantanal no gabinete do prefeito de Campo Grande, em edição do projeto Arte & Cores do Paço. O trabalho foi apresentado como defesa da espécie contra a caça ilegal e pela preservação do seu habitat. Na ocasião, a artista disse que a mostra no gabinete lhe rendeu convites para expor na Europa e em países da América.[^jd12011]
 
-Fez exposições individuais e coletivas e participou de duas edições do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá. As pinturas de onça partem de uma fotografia do animal; uma das versões, em Corumbá, ganhou o apelido de "Mona Onça".[^acritica2026]
+Tem no currículo mostras individuais e coletivas e esteve em duas edições do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá. As pinturas de onça partem de uma fotografia do animal; uma das versões, em Corumbá, ganhou o apelido de "Mona Onça".[^acritica2026]
 
 A Série Onça Pintada foi incluída na lista de obras plástico-visuais do Vestibular 2026 da [[ufgd|Universidade Federal da Grande Dourados]] (UFGD).[^acritica2026]
 
