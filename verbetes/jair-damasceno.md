@@ -26,6 +26,8 @@ Seu último trabalho foi *Ensaio sobre a Lua*, que estreou em 12 e 13 de outubro
 
 O MS Dance Fest, festival de dança promovido em Campo Grande pelo Grupo Funk-se, tem uma disputa chamada Prêmio Jair Damasceno. Na 11ª edição, em abril de 2022, ela ocorreu na Concha Acústica Família Espíndola, na Praça do Rádio Clube, com grupos da capital, de outras cidades do estado e do interior paulista.[^cgn2022] A matéria não explica a origem do nome do prêmio.[^cgn2022]
 
+Uma sala da Universidade Estadual de Mato Grosso do Sul (UEMS), em Campo Grande, leva o nome do ator e guarda a biblioteca pessoal que ele deixou. Segundo o *Campo Grande News*, ele pediu que o acervo fosse doado à universidade, onde colaborou com o curso de Artes Cênicas desde o início, em 2010. A sala foi aberta à comunidade acadêmica em novembro de 2022.[^cgn2022b] Um estudo sobre a formação em dança e teatro na UEMS, de 2024, inclui o Acervo Jair Damasceno entre os espaços da sede do curso em Campo Grande, inaugurada em 2013.[^unlp]
+
 ## Espetáculos
 
 - *Sangue Elétrico* — peça em que atuou; ano não informado na fonte.[^cgn2021]
@@ -33,3 +35,5 @@ O MS Dance Fest, festival de dança promovido em Campo Grande pelo Grupo Funk-se
 
 [^cgn2021]: Bárbara Cavalcanti, ["Referência nas artes cênicas, ator Jair Damasceno morre aos 73 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/referencia-nas-artes-cenicas-ator-jair-damasceno-morre-aos-73-anos), *Campo Grande News*, 4 jun. 2021. Acesso em 4 nov. 2026.
 [^cgn2022]: Thailla Torres, ["MS Dance Fest volta de 21 a 24 de abril na Praça do Rádio Clube"](https://www.campograndenews.com.br/lado-b/diversao/ms-dance-fest-volta-de-21-a-24-de-abril-na-praca-do-radio-clube), *Campo Grande News*, 19 abr. 2022. Acesso em 4 nov. 2026.
+[^cgn2022b]: Thailla Torres, ["Jair Damasceno virou sala, que guarda um de seus bens valiosos"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/jair-damasceno-virou-sala-que-guarda-um-de-seus-bens-valiosos), *Campo Grande News*, 5 dez. 2022. Acesso em 4 nov. 2026.
+[^unlp]: Christiane Araújo, "Una década de formación en danza y teatro en MS: una mirada desde las prácticas y residencias obligatorias", [IX Encuentro Nacional y VI Latinoamericano La Universidad como objeto de investigación](https://congresos.fahce.unlp.edu.ar/la-universidad-como-objeto-de-investigacion/ix-encuentro/actas/ponencia-240701120616935822/@@display-file/file/ARAUJOPONmesa%202%20Historia%20de%20las%20universidades%20instituciones%20disciplinas%20y%20sujetos.pdf), Universidad Nacional de La Plata, nov. 2024. Acesso em 4 nov. 2026.

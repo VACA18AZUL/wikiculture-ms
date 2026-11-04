@@ -33,7 +33,7 @@ Fontes descartadas e o motivo:
 - Autores: Anderson Barboza, Grippho, Marina Duarte, Fábio Quill, Neiton Benites, Daniel Sharman [cgn2024]; "Anderson Barboza Grippho, Marina Duarte, Fabio Quill, Neiton Benites e Daniel Shaman" [cgn2023]
 - Grippho é Jaqueline Cabral [acritica2026]
 - Venda também na Banca Modular; contato @hamoredicoes [cgn2023]
-- Quebra Torto On – Formação e Difusão (2026), financiado pelo FIC/MS, amplia a experiência: seleção de oito propostas de autores de MS, formação, mentoria e e-books; Jaqueline Cabral na comissão de seleção, Marina Duarte entre os convidados [acritica2026]
+- Quebra Torto On – Formação e Difusão (2026) amplia a experiência: seleção de oito propostas de autores de MS, formação, mentoria e e-books; Jaqueline Cabral na comissão de seleção, Marina Duarte entre os convidados [acritica2026] (revisão valn-7: a matéria não menciona FIC nem outra origem do apoio de R$ 2,5 mil; "financiado pelo FIC/MS" retirado)
 
 ## Ligações com outros nomes
 

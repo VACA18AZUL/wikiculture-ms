@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em junho de 2008, a dupla se apresentou no 5º Sarau da Praça dos Imigrantes, em Campo Grande, promovido pela Fundação Municipal de Cultura. Na época, estava junta havia 25 anos e preparava a gravação de um CD e DVD ao vivo.[^ce2008]
+Em junho de 2008, a dupla foi anunciada como atração do 5º Sarau da Praça dos Imigrantes, em Campo Grande, promovido pela Fundação Municipal de Cultura, em 5 de junho. Na época, estava junta havia 25 anos e preparava a gravação de um CD e DVD ao vivo.[^ce2008]
 
-Em julho de 2011, foi uma das atrações do programa *Viola, minha viola*, da TV Cultura, apresentado por Inezita Barroso. Segundo o Correio do Estado, a dupla participava do programa havia pelo menos dez anos, a convite da apresentadora. No repertório estavam "Anjo bom", de Guarany, e "Estrada de chão", de [[aurelio-miranda|Aurélio Miranda]].[^ce2011]
+Em julho de 2011, o *Correio do Estado* anunciou a participação da dupla no programa *Viola, minha viola*, da TV Cultura, apresentado por Inezita Barroso, com exibição marcada para 24 de julho. Segundo o Correio do Estado, a dupla participava do programa havia pelo menos dez anos, a convite da apresentadora. No repertório anunciado estavam "Anjo bom", de Guarany, e "Estrada de chão", de [[aurelio-miranda|Aurélio Miranda]].[^ce2011]
 
 A dupla está entre os entrevistados da parte sobre música sertaneja e fronteiriça do livro [[a-musica-de-mato-grosso-do-sul-historias-de-vida|*A Música de Mato Grosso do Sul: histórias de vida*]] (2009), de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e Idara Duncan.[^silus] Em entrevista a Rodrigo Teixeira Gonçalves, o harpista paraguaio Geraldo Ortiz cita a dupla entre os artistas com quem gravou.[^gon14]
 
@@ -32,7 +32,7 @@ A dupla está entre os entrevistados da parte sobre música sertaneja e fronteir
 
 ## Videografia
 
-- *Do caipira ao digital* — DVD comemorativo dos 25 anos de carreira, com participações de Aurélio Miranda, Lígia Mourão, Grupo Tradição e Grupo Seis é D+. Em julho de 2011, o lançamento oficial em Campo Grande estava previsto para o fim daquele ano.[^ce2011]
+- *Do caipira ao digital* — DVD comemorativo dos 25 anos de carreira, com participações de Aurélio Miranda, Lígia Mourão, Délia, Grupo Tradição e Grupo Seis é D+. Em julho de 2011, o lançamento oficial em Campo Grande estava previsto para o fim daquele ano.[^ce2011]
 
 [^silus]: Alan Silus, ["Pelos caminhos da música sul-mato-grossense: um estudo bibliográfico"](https://trilhasdahistoria.ufms.br/index.php/RevTH/article/view/19958/14805), *Revista Trilhas da História* (UFMS), v. 13, n. 27, 2024, p. 335. Acesso em 4 nov. 2026.
 [^ce2008]: Redação, ["Tostão e Guarany fazem show hoje na Praça dos Imigrantes"](https://correiodoestado.com.br/cidades/tostao-e-guarany-fazem-show-hoje-na-praca-dos-imigrantes/73359/), *Correio do Estado*, 5 jun. 2008. Acesso em 4 nov. 2026.

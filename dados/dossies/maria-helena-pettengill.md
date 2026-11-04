@@ -50,3 +50,9 @@
 ## Uso no verbete
 
 - Entrou tudo da seção de fatos, com as duas divergências.
+
+## Revisão de 2026-11-04 (valn-8)
+
+- Todas as fontes de evento são anúncios: cgn2013 (espetáculo de 31 out. e 1º nov. 2013, Teatro Glauce Rocha, verbo no futuro), cgn2016 (bazar "neste sábado e domingo"), cgn2024 (espetáculo de 8 dez. 2024), acritica2026 (apresentação de 28 ago. 2026), ce2026b (viagem e aula "ministrará"). Nenhuma fonte lida confirma a realização; o verbete passou a dizer "anunciado".
+- cgn2013 não diz que o espetáculo "encerrou um período de formação": diz que bailarinos de fora foram convidados para aprimorar a formação do elenco local.
+- ce2026a grafa "Embrujos da España".

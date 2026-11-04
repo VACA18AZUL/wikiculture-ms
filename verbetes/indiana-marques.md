@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 Começou a modelar barro tirado das margens dos rios. Fez peças utilitárias de cerâmica, como travessas e aparelhos de jantar, antes de passar à escultura. Seu trabalho mais conhecido são figuras de mulheres indígenas, que ela chama de "bugras", com tamanhos entre 20 centímetros e um metro e meio.[^interacoes2017]
 
-Em 2006 recebeu o prêmio Sebrae Top 100 de artesanato. Segundo artigo da revista *Interações*, da [[ucdb|UCDB]], suas peças eram vendidas em 30 lojas no país e tinham sido exportadas para Itália, Portugal e outros países da Europa. Os adornos de cabeça das esculturas, pequenas moringas, são feitos por três famílias Terena de Miranda.[^interacoes2017]
+Em 2006 recebeu o prêmio Sebrae Top 100 de artesanato. Segundo artigo da revista *Interações*, da [[universidade-catolica-dom-bosco|UCDB]], suas peças eram vendidas em 30 lojas no país e tinham sido exportadas para Itália, Portugal e outros países da Europa. Os adornos de cabeça das esculturas, pequenas moringas, são feitos por três famílias Terena de Miranda.[^interacoes2017]
 
 O Campo Grande News descreve suas esculturas como figuras regionais, sobretudo da cultura indígena e negra, e fala em mais de 20 anos de trabalho.[^cgn2022] Em 2026, *A Crítica* a apresenta com 40 anos de atuação no artesanato.[^acritica2026]
 
