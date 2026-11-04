@@ -24,7 +24,7 @@ Em artigo de 2017, Ruben Figueiró conta que o comício da candidatura do brigad
 
 ## Música e cinema
 
-A cantora Betinha, da dupla [[beth-e-betinha|Beth e Betinha]], contou que entre 1960 e 1970 a dupla se apresentou várias vezes no Santa Helena e no Alhambra, em sessões lotadas.[^gon32] O músico Paulo Martinz lembra que, quando chegou à cidade em 1972, o cinema ficava em frente à Churrascaria Braseiro, onde tocavam os Irmãos Gonzales.[^gon78]
+A cantora Betinha, da dupla [[beth-e-betinha|Beth e Betinha]], contou que entre 1960 e 1970 a dupla se apresentou várias vezes no Santa Helena e no Alhambra, em sessões lotadas.[^gon32] O músico Paulo Martinz, em entrevista a Gonçalves, lembrou que em 1972 a irmã o levou ao Alhambra, na Avenida Afonso Pena, e que em frente ao cinema ficava a Churrascaria Braseiro, onde tocavam os Irmãos Gonzales.[^gon78]
 
 O longa *[[paralelos-tragicos|Paralelos Trágicos]]*, dos [[irmaos-lahdo|irmãos Lahdo]], foi lançado em 13 de janeiro de 1967 no Cine Alhambra, segundo a Fundação de Cultura de MS.[^fcms2026]
 
@@ -41,4 +41,4 @@ O Alhambra aparece na lista de cinemas extintos da cidade feita por Sá e Castil
 [^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), Portal ABRACE, p. 3. O autor resume Maria da Glória Sá Rosa, "Teatro", em *Memória da arte em Mato Grosso do Sul: histórias de vida*, Editora da UFMS, 1992. Acesso em 4 nov. 2026.
 [^figueiro]: Ruben Figueiró, ["Lembranças que marcam"](https://correiodoestado.com.br/cidades/artigos-e-opiniao/2017/12/19/ruben-figueiro-lembrancas-que-marcam.html), *Correio do Estado*, Artigos e Opinião, 19 dez. 2017. Acesso em 4 nov. 2026.
 [^fcms2026]: Karina Medeiros de Lima, ["MIS recebe lançamento do catálogo digital sobre o filme Paralelos Trágicos"](https://www.fundacaodecultura.ms.gov.br/mis-recebe-lancamento-do-catalogo-digital-sobre-o-filme-paralelos-tragicos/), Fundação de Cultura de Mato Grosso do Sul, 29 abr. 2026. Acesso em 4 nov. 2026.
-[^fcms2022]: Fundação de Cultura de Mato Grosso do Sul, ["Fundação de Cultura recebe projetor de cinema da década de 1970 que estava no Teatro Glauce Rocha"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-recebe-projetor-de-cinema-da-decada-de-1970-que-estava-no-teatro-glauce-rocha/), 23 dez. 2022. Acesso em 4 nov. 2026.
+[^fcms2022]: Karina Medeiros de Lima, ["Fundação de Cultura recebe projetor de cinema da década de 1970 que estava no Teatro Glauce Rocha"](https://www.fundacaodecultura.ms.gov.br/fundacao-de-cultura-recebe-projetor-de-cinema-da-decada-de-1970-que-estava-no-teatro-glauce-rocha/), Fundação de Cultura de Mato Grosso do Sul, 23 dez. 2022. Acesso em 4 nov. 2026.

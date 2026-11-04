@@ -57,3 +57,10 @@ Datas das páginas da FCMS: inferidas da pasta de imagens (uploads/AAAA/MM); as 
 ## Uso no verbete
 
 - Entrou tudo acima, sem as citações longas e sem as falas do público.
+
+## Revisão de 2026-11-04 (valn-20)
+
+- Todas as fontes de texto reabertas e conferidas. Datas exatas das páginas da FCMS: 17 maio 2023, 2 jun. 2023, 8 jul. 2025, 6 ago. 2025, 25 set. 2025 (as três de 2025 por Karina Medeiros de Lima). Notas corrigidas.
+- Divergência nova: FCMS (25 set. 2025) diz que a canção foi escrita para voz e violão e ganhou versão inédita para duas vozes femininas; legenda do Campo Grande News (2 ago. 2025) diz que foi escrita para duas vozes femininas. As duas versões foram para o verbete.
+- FCMS informa lançamento do clipe em 24 set. 2025, no canal de Evandro Dotto.
+- cgn2025 é anúncio (22 set.) do concerto de 23 set. 2025. A confirmação vinha só de yt2025, cuja descrição não abriu (YouTube pediu login anti-robô); o oEmbed confirma título e canal (Evandro Dotto). O verbete passou a tratar o concerto como anunciado e o item de Videografia ficou sem data.

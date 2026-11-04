@@ -34,3 +34,8 @@ Criado em 2026-11-04 (tag w11-2).
 - Corrêa (p. 228) cita "Gilearde Kaiowá" na montagem de um filme de Iulik de Farias; o título não ficou claro nas páginas lidas; não entrou.
 - Dado de vida familiar presente na tese (p. 197) fica fora pela regra de dados pessoais.
 - Lançamento de *Ka'a guy jára* não confirmado (busca no YouTube sem resultado).
+
+## Revisão de 2026-11-04 (valn-18)
+
+- Retirado do verbete o crédito de edição na websérie *Nativas Narrativas*: a tese (p. 197) traz "Gilearde Barbosa" na edição e "Gilearde Barbosa Junior" nas imagens, no mesmo parágrafo; identidade com Gilearde Barbosa Pedro não confirmada.
+- Os três curtas de 2022-2023 foram feitos com a Fiocruz MS (p. 198-199); corrigido "dois deles".

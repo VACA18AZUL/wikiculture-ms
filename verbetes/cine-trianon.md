@@ -3,7 +3,7 @@ titulo: Cine Trianon
 tipo: espaco
 areas: [teatro, audiovisual, musica]
 cidade: Campo Grande
-resumo: Cinema de Campo Grande, de 1929 segundo Maria da Glória Sá Rosa, que recebia teatro, circo e música e de onde a Rádio Difusora (PRI-7) transmitia programas de auditório. Já não existe.
+resumo: Cinema de Campo Grande, de 1929 segundo Sá Rosa (citada por Moser), que recebia teatro, circo e música e de onde a Rádio Difusora (PRI-7) transmitia programas de auditório. Já não existe.
 ficha:
   Outro nome: "Cine Teatro Trianon"
   Criação: "1929 (segundo Sá Rosa, citada por Moser)"
@@ -28,4 +28,4 @@ O Cine Teatro Trianon aparece na lista de cinemas extintos da cidade feita por S
 [^moser]: Fabricio Goulart Moser, ["A trajetória conceitual do teatro sul-mato-grossense: considerações sobre suas origens, apontamentos para novas narrativas históricas"](https://ojs.portalabrace.org/ojs/abrace/article/download/3258/3258-Texto%20do%20artigo-8853-1-10-20181011.pdf), Portal ABRACE, p. 3. O autor resume Maria da Glória Sá Rosa, "Teatro", em *Memória da arte em Mato Grosso do Sul: histórias de vida*, Editora da UFMS, 1992. Acesso em 4 nov. 2026.
 [^cordis250]: Flaviana Miranda da Silva de Sá e Maria Augusta de Castilho, ["Os espaços cinematográficos em Campo Grande – MS"](https://revistas.pucsp.br/index.php/cordis/article/download/28098/19770/74033), *Cordis. História, Cinema e Política*, n. 16, p. 237-268, jan./jun. 2016, p. 250. Acesso em 4 nov. 2026.
 [^cordis255]: Flaviana Miranda da Silva de Sá e Maria Augusta de Castilho, ["Os espaços cinematográficos em Campo Grande – MS"](https://revistas.pucsp.br/index.php/cordis/article/download/28098/19770/74033), *Cordis. História, Cinema e Política*, n. 16, p. 237-268, jan./jun. 2016, p. 255. Acesso em 4 nov. 2026.
-[^gon22]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 22. Acesso em 4 nov. 2026.
+[^gon22]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 22, citando ARCA (2005, p. 11). Acesso em 4 nov. 2026.

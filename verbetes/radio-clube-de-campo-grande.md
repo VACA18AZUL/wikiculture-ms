@@ -20,9 +20,9 @@ Segundo Rodrigo Teixeira Gonçalves, o clube nasceu de encontros de moradores qu
 
 ## Música
 
-Gonçalves aponta o Rádio Clube como pioneiro na música ao vivo e na vinda de artistas de fora para se apresentar na cidade. Além dos bailes de carnaval, o clube serviu de vitrine para músicos locais.[^gon20] Citando a revista do Arquivo Histórico de Campo Grande (ARCA, 2005), o autor informa que o primeiro conjunto de dança da cidade, uma jazz-band organizada e dirigida pelo professor Emygdio Widal, tocou no clube, e que entre os ritmos de dança estavam o samba, o fox, a marchinha e a polca paraguaia.[^gon21]
+Gonçalves aponta o Rádio Clube como pioneiro na música ao vivo e na vinda de artistas de fora para se apresentar na cidade. Além dos bailes de carnaval, o clube serviu de vitrine para músicos locais.[^gon20] Citando a revista do Arquivo Histórico de Campo Grande (ARCA, 2005), o autor informa que o clube recebeu o primeiro conjunto de dança da cidade, uma jazz-band organizada e dirigida pelo professor Emygdio Widal. Segundo relato do historiador Paulo Coelho Machado, citado na mesma passagem, os ritmos preferidos para dançar eram o samba, o fox, a marchinha e a polca paraguaia.[^gon21]
 
-No fim dos anos 1960, o grupo [[os-bizarros|Os Bizarros]] se apresentava em eventos do Rádio Clube, além dos festivais do Clube Surian, segundo depoimento citado por Gilmar Lima Caetano.[^cae41]
+Segundo Gilmar Lima Caetano, além de participar do 2º Festival de Música Popular de Campo Grande, o conjunto [[os-bizarros|Os Bizarros]] se apresentou em eventos do Rádio Clube. Em depoimento a Sá Rosa e Duncan (2009), citado por Caetano, [[geraldo-espindola|Geraldo Espíndola]] lembra que o grupo ia ao Rádio Clube e ao Surian com roupas extravagantes.[^cae41]
 
 ## Artes plásticas
 
@@ -30,7 +30,7 @@ Renata Assis, com base em [[aline-figueiredo|Aline Figueiredo]] (1979), registra
 
 ## Letras
 
-Depois da solenidade de fundação da Academia de Letras e História de Campo Grande, atual [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], no Hotel Campo Grande, os convidados foram recebidos com um banquete no Rádio Clube, segundo Carlos Magno Mieres Amarilha.[^amarilha130]
+Depois da solenidade de fundação da Academia de Letras e História de Campo Grande, atual [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], no Hotel Campo Grande, os convidados foram recebidos com um banquete no Rádio Clube, segundo Carlos Magno Mieres Amarilha, com base em texto do site Clicnews.[^amarilha130]
 
 ## Sede e tombamento
 
@@ -41,8 +41,8 @@ Em novembro de 2017, o *Correio do Estado* noticiou que o prédio tombado sofreu
 [^gon20]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 20-21. Acesso em 4 nov. 2026.
 [^gon21]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 21, citando ARCA (2005, p. 11). Acesso em 4 nov. 2026.
 [^gon45]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 45. Acesso em 4 nov. 2026.
-[^cae41]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 41. Acesso em 4 nov. 2026.
+[^cae41]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012, p. 40-41, citando Geraldo Espíndola em Sá Rosa e Duncan (2009, p. 51). Acesso em 4 nov. 2026.
 [^assis26]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2013, p. 26, citando Aline Figueiredo (1979). Acesso em 4 nov. 2026.
-[^amarilha130]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2006, p. 130. Acesso em 4 nov. 2026.
+[^amarilha130]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2006, p. 130, citando o site Clicnews. Acesso em 4 nov. 2026.
 [^ce2012]: ["Prédio do Rádio Clube vira patrimônio histórico"](https://correiodoestado.com.br/cidades/2012/08/17/predio-do-radio-clube-vira-patrimonio-historico.html), *Correio do Estado*, 17 ago. 2012. Acesso em 4 nov. 2026.
 [^ce2017]: ["Rádio Clube acusa MPE por má estrutura do prédio"](https://correiodoestado.com.br/cidades/2017/11/22/radio-clube-acusa-mpe-brpor-ma-estrutura-do-predio.html), *Correio do Estado*, 22 nov. 2017. Acesso em 4 nov. 2026.

@@ -3,7 +3,7 @@ titulo: Rádio Difusora (PRI-7)
 tipo: espaco
 areas: [musica, teatro]
 cidade: Campo Grande
-resumo: Primeira emissora de rádio de Campo Grande, inaugurada em 1939 e conhecida pelo prefixo PRI-7, com programas de auditório, música e radioteatro; hoje opera como Rádio Difusora Pantanal.
+resumo: Primeira emissora de rádio de Campo Grande, inaugurada em 1939 e conhecida pelo prefixo PRI-7, com programas de auditório, música e radioteatro; em 2019 operava como Rádio Difusora Pantanal.
 ficha:
   Outros nomes: "PRI-7; Rádio Difusora Pantanal"
   Criação: "26 de agosto de 1939"
@@ -19,7 +19,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Rádio Difusora**, conhecida pelo prefixo **PRI-7**, foi a primeira emissora de rádio de Campo Grande, inaugurada em 26 de agosto de 1939.[^gon22] Continua no ar como Rádio Difusora Pantanal.[^ce2019]
+A **Rádio Difusora**, conhecida pelo prefixo **PRI-7**, foi a primeira emissora de rádio de Campo Grande, inaugurada em 26 de agosto de 1939.[^gon22] Em 2019, operava como Rádio Difusora Pantanal.[^ce2019]
 
 ## Trajetória
 
@@ -35,7 +35,7 @@ Em 1976, Hildebrando Campestrini, citado por Carlos Magno Mieres Amarilha, lista
 
 ## Difusora Pantanal
 
-Em 2019, o *Correio do Estado* informou que a emissora, fundada em 1939, operava em FM, na frequência de 101,9 MHz, com programação de música sertaneja. O jornal a chamou de a emissora mais antiga de Mato Grosso e de Mato Grosso do Sul.[^ce2019]
+Em 2019, o *Correio do Estado* informou que a emissora, fundada em 1939, operava em FM, na frequência de 101,9 MHz, com programação de música sertaneja. O jornal informou que ela migrara para o FM em 2015 e a chamou de a emissora mais antiga de Mato Grosso e de Mato Grosso do Sul.[^ce2019]
 
 [^gon22]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 22, citando ARCA (2005, p. 11). Acesso em 4 nov. 2026.
 [^gon31]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 31-32, citando depoimento de Betinha a Rodrigo Teixeira (2009). Acesso em 4 nov. 2026.

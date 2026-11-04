@@ -31,6 +31,10 @@ Em outubro de 2023, como coordenador do projeto, embarcou em Corumbá com acadê
 
 Entre outubro e novembro de 2023, a ação de extensão *O Circo vai a Escola* levou um espetáculo a quatro escolas municipais de Corumbá, duas em bairros periféricos e duas nas áreas alagadas do Pantanal. Nas escolas da cidade, a trupe teve 20 acadêmicos, dez artistas e dez de apoio, e dois artistas convidados. O espetáculo foi anunciado às crianças como obra do coletivo Los Pantaneiros e da [[vivart|Vivart]].[^ac2025]
 
+## Pesquisa sobre circos em Corumbá
+
+Em outubro de 2024, o *Campo Grande News* noticiou que Rogério Zaim de Melo, professor de educação física da UFMS, centra suas pesquisas na cultura lúdica sul-mato-grossense e no circo. A matéria diz que, em jornais digitalizados da Biblioteca Nacional, ele localizou 15 circos que passaram por Corumbá entre 1880 e 1930, entre eles o Circo Alcibíades, em 1920, e que buscava fotografias dessas passagens, trabalho que fazia com o pesquisador Fabrício Mozer.[^cgn2024]
+
 ## Publicações
 
 - "E o palhaço o que é?... Fazedor de risos em uma escola das águas", com Patrick Aparecido Ferreira de Souza e Deyvid Tenner de Souza Rizzo — resumo sobre apresentações de palhaço na [[escola-jatobazinho|Escola Jatobazinho]].[^p37]
@@ -46,3 +50,4 @@ Entre outubro e novembro de 2023, a ação de extensão *O Circo vai a Escola* l
 [^p37]: Patrick Aparecido Ferreira de Souza, Deyvid Tenner de Souza Rizzo e Rogério Zaim-de-Melo, ["E o palhaço o que é?... Fazedor de risos em uma escola das águas"](https://cecpan.ufms.br/files/2019/12/P_37_.pdf), resumo, UFMS/CPAN, ISSN 2596-2531. Acesso em 4 nov. 2026.
 [^ufms2018]: Ariane Comineti, ["Atividades circenses e ginástica geral desenvolvem habilidades motoras e promovem a superação"](https://www.ufms.br/em-corumba-atividades-circenses-e-ginastica-geral-desenvolvem-habilidades-motoras-e-promovem-a-superacao/), Portal da UFMS, 24 jul. 2018. Acesso em 4 nov. 2026.
 [^ufms2025]: Rúbia Pedra, ["Atividades circenses do Câmpus do Pantanal abrem inscrições para crianças de 6 a 10 anos"](https://www.ufms.br/atividades-circenses-do-campus-do-pantanal-abrem-inscricoes-para-criancas-de-6-a-10-anos/), Portal da UFMS, 7 fev. 2025. Acesso em 4 nov. 2026.
+[^cgn2024]: Aletheya Alves, ["Desafio de Rogério é encontrar circos que passaram por Corumbá"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/desafio-de-rogerio-e-encontrar-circos-que-passaram-por-corumba), *Campo Grande News*, 20 out. 2024. Acesso em 4 nov. 2026.

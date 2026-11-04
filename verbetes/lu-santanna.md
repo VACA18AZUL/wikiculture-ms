@@ -19,7 +19,7 @@ atualizado: 2026-11-04
 
 Segundo o catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]], formou-se em Economia pela Universidade da Amazônia. A gravura figurativa é uma de suas linguagens principais, com xilogravura, linóleo e gravura em metal, além da aquarela. O catálogo afirma que seu trabalho já foi premiado em exposições fora do Brasil.[^marco30]
 
-Em abril de 2018, o resultado do edital de Exposições Temporárias do MARCO, publicado no Diário Oficial do Estado e divulgado pela Fundação de Cultura de MS (FCMS), incluiu Lusia da Silva Sant'Anna entre os 12 artistas selecionados para a temporada daquele ano, entre 32 inscrições.[^fcms2018]
+Em abril de 2018, o resultado do edital de Exposições Temporárias do MARCO, publicado no Diário Oficial do Estado e divulgado pela Fundação de Cultura de MS (FCMS), incluiu Lusia da Silva Sant'Anna entre os 12 artistas selecionados para a temporada daquele ano, entre 32 inscrições.[^fcms2018] Em outubro de 2019, texto da Agência de Notícias do Governo de MS sobre as artes plásticas do estado, apoiado em fala da crítica e professora Maria Adélia Menegazzo, cita o nome "Lu Sant'ana" entre os artistas do movimento moderno e contemporâneo de MS, ao lado de [[carlos-nunes|Carlos Nunes]], [[aurea-katsuren|Áurea Katsuren]] e outros.[^ams2019]
 
 ## Obras
 
@@ -27,3 +27,4 @@ Em abril de 2018, o resultado do edital de Exposições Temporárias do MARCO, p
 
 [^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 45-46. Acesso em 4 nov. 2026.
 [^fcms2018]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO divulga selecionados para a temporada de exposições temporárias 2018"](https://www.fundacaodecultura.ms.gov.br/marco-divulga-selecionados-para-a-temporada-de-exposicoes-temporarias-2018/), notícia, 10 abr. 2018. Acesso em 4 nov. 2026.
+[^ams2019]: Theresa Hilcar, ["MS 42 anos: conhecer a arte é saber da história"](https://agenciadenoticias.ms.gov.br/ms-42-anos-conhecer-a-arte-e-saber-da-historia/), Agência de Notícias do Governo de Mato Grosso do Sul, 13 out. 2019. Acesso em 4 nov. 2026.
