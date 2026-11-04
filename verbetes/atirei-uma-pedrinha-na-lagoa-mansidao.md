@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Atirei uma pedrinha na lagoa Mansidão*** é um livro de contos de [[henrique-pimenta|Henrique Pimenta]], publicado pela editora Mondrongo em 2026. É o sexto livro do autor e fecha a chamada "trilogia do horror urbano".[^acritica2026][^sesc2026]
+***Atirei uma pedrinha na lagoa Mansidão*** é um livro de contos de [[henrique-pimenta|Henrique Pimenta]], publicado pela editora Mondrongo em 2026. É o sexto livro do autor e fecha a chamada "trilogia do horror urbano".[^acritica2026][^sesc2026][^oestado2026a] Segundo o autor, o título compara o conto a uma pedrinha lançada na calma do cotidiano, que deixa círculos se espalhando por muito tempo.[^oestado2026a]
 
 ## Conteúdo
 
@@ -21,9 +21,10 @@ Os contos têm como personagens moradores de Mato Grosso do Sul em situações c
 
 ## Lançamento e leituras
 
-O primeiro lançamento foi na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito (FLIB)]]. Em 4 de agosto de 2026, o *A Crítica* anunciou o lançamento em Campo Grande para 7 de agosto, na [[hamor-livraria|Hámor Livraria]], com mediação dos escritores [[isloany-machado|Isloany Machado]] e Flavio Rocha. Na mesma matéria, Isloany apontou a crueza que vira crueldade nos personagens, e Rocha, narradores tão imersos na violência urbana que perdem a noção dos limites éticos.[^acritica2026]
+O primeiro lançamento foi na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito (FLIB)]], marcado pelo jornal *O Estado de Mato Grosso do Sul* para 11 de julho de 2026, na livraria da feira.[^oestado2026a] Em 4 de agosto de 2026, o *A Crítica* anunciou o lançamento em Campo Grande para 7 de agosto, na [[hamor-livraria|Hámor Livraria]], com mediação dos escritores [[isloany-machado|Isloany Machado]] e Flavio Rocha. Na mesma matéria, Isloany apontou a crueza que vira crueldade nos personagens, e Rocha, narradores tão imersos na violência urbana que perdem a noção dos limites éticos.[^acritica2026]
 
 Um texto de divulgação publicado em 23 de setembro de 2026 anunciou o livro como tema do encontro do Clube Sesc de Leitura de 26 de setembro, no foyer do [[sesc-teatro-prosa|Sesc Teatro Prosa]], em Campo Grande.[^sesc2026]
 
 [^acritica2026]: ["Henrique Pimenta lança livro sobre o horror urbano de MS em Campo Grande"](https://acritica.net/cultura/henrique-pimenta-lanca-livro-contos-campo-grande/), *A Crítica*, 4 ago. 2026. Acesso em 4 nov. 2026.
 [^sesc2026]: ["Clube Sesc de Leitura debate obra de Henrique Pimenta sobre medo, absurdo e cotidiano sul-mato-grossense"](https://revistakdea360.com.br/noticia/91147/clube-sesc-de-leitura-debate-obra-de-henrique-pimenta-sobre-medo-absurdo-e-cotidiano-sul-mato-grossense), *Revista Kdea 360*, 23 set. 2026. Acesso em 4 nov. 2026.
+[^oestado2026a]: ["FLIB recebe lançamento do sexto livro de Henrique Pimenta neste sábado"](https://oestadoonline.com.br/arte-e-lazer/flib-recebe-lancamento-do-sexto-livro-de-henrique-pimenta-neste-sabado/), *O Estado de Mato Grosso do Sul*, 9 jul. 2026. Acesso em 4 nov. 2026.

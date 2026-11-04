@@ -42,3 +42,10 @@ Fonte independente (cgn2017) é curta: confirma um cineclube CineCafé criado po
 ## Uso no verbete
 
 - Entraram os fatos acima.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: Marcelo Rezende, "Concurso com inscrições abertas busca repensar o papel do MIS na sociedade", *O Estado MS*, 3 jul. 2021 (https://oestadoonline.com.br/arte-e-lazer/concurso-com-inscricoes-abertas-busca-repensar-o-papel-do-mis-na-sociedade/), lida pela API do site. Assinada por jornalista do veículo (não marcada como assessoria); nomeia o Cine Café do MIS e Kézia Miranda.
+- Acrescentado: reabertura das inscrições do concurso em jul. 2021, categorias, fala de Kézia Miranda. O jornal a chama de "presidente"; a FCMS (2022, 2025), de "diretora". Ambos os termos ficam com suas fontes.
+- Descartada: *O Estado MS*, 9 set. 2019, "CineCafé exibe filme Bossa Nova no MIS" (assinada "Texto: Assessoria": release).
+- Ressalva: o texto do *O Estado* pode ter partido de material de divulgação do MIS; é a fonte não-FCMS mais forte achada. Contatos (telefone, e-mail) fora.

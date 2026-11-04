@@ -9,6 +9,10 @@ ficha:
   Morte: "1963, Três Lagoas"
   Atividade: Poesia, prosa, história local e política
   Instituições: "Academia Mato-Grossense de Letras; patrono da cadeira 16 da Academia Sul-Mato-Grossense de Letras"
+links:
+  - tipo: wikipedia
+    url: https://pt.wikipedia.org/wiki/Ros%C3%A1rio_Congro
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -27,7 +31,7 @@ Em 1980, Congro prefaciou a reedição de *Cirros*, livro de estreia de [[flora-
 
 Souza incluiu Congro entre os quatro poetas centrais de sua tese sobre literatura e identidade em Mato Grosso do Sul, ao lado de [[lobivar-matos|Lobivar Matos]], [[flora-thome|Flora Thomé]] e [[raquel-naveira|Raquel Naveira]], escolhidos a partir da *História da Literatura Sul-Mato-Grossense* de José Couto Vieira Pontes. Congro e Flora Thomé representam, no estudo, a região do Bolsão, perto de São Paulo.[^souza2008a]
 
-Souza lê o poema "Inaiá", sobre uma indígena que se apaixona por um navegador português, como visão tradicional e romântica do indígena, próxima à de José de Alencar e à de Raquel Naveira.[^souza2008c] Nos sonetos "As Garças" e "No Pantanal", o autor vê um tom passadista, com vocabulário raro e idealização romântica da paisagem pantaneira.[^souza2008d]
+Souza lê o poema "Inaiá", sobre uma indígena que se apaixona por um homem branco chegado nas caravelas portuguesas, como visão tradicional e romântica do indígena, próxima à de José de Alencar e à de Raquel Naveira.[^souza2008c] Nos sonetos "As Garças" e "No Pantanal", o autor vê um tom passadista, com vocabulário raro e idealização romântica da paisagem pantaneira.[^souza2008d]
 
 ## Obras
 

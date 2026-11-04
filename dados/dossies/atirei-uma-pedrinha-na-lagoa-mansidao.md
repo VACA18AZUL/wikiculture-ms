@@ -31,3 +31,9 @@ Fontes descartadas: Midiamax (9/7/2026, lançamento na FLIB) — 403.
 ## Uso no verbete
 
 - Entraram os fatos sobre o livro; os da carreira do autor ficam para o verbete henrique-pimenta.
+
+## Atualização de 2026-11-04 (r8)
+
+- Nova fonte (veículo diferente): "FLIB recebe lançamento do sexto livro de Henrique Pimenta neste sábado", *O Estado de MS*, 9/7/2026. Sustenta: sexto livro; Mondrongo; encerra a "trilogia do horror urbano"; lançamento na FLIB em 11/7/2026, 13h30, na livraria da feira (resolve a data que faltava); explicação do título pelo autor.
+- *O Estado de MS*, 25/9/2026 (agenda), confirma o Clube Sesc de Leitura de 26/9 com o livro (mesmo conteúdo do sesc2026; não acrescentado).
+- Quais livros formam a trilogia continua sem fonte.

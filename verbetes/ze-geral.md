@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 Segundo o *O Estado MS*, chegou a Campo Grande em 1989. Nos primeiros contatos com artistas da cidade, aproximou-se de [[miska-thome|Miska]], que o ajudou a vender as telas que pintava, e de Margarida Neder. Conheceu [[geraldo-espindola|Geraldo Espíndola]] num show na Praça do Rádio. A Câmara Municipal concedeu-lhe o título de Cidadão Campo-Grandense.[^oe2023][^oe2019]
 
-Em julho de 2013, ao completar 60 anos, comemorou com um sarau de 12 horas, com mais de 70 artistas confirmados. Na época, dizia ter mil músicas no repertório e queria chegar a 4,5 mil.[^cgn2013]
+Em julho de 2013, para comemorar os 60 anos, programou um sarau de 12 horas num domingo; o *Campo Grande News* anunciou mais de 70 artistas confirmados. Na época, dizia ter mil músicas no repertório e queria chegar a 4,5 mil.[^cgn2013]
 
 Em 2019, lançou "Campo Grande Linda", com letra de Samuel Teodoro, parte do álbum *Pelas Veias do MS*, feito com o mesmo parceiro. O disco tem 14 faixas que percorrem cidades de Mato Grosso do Sul.[^oe2019]
 
@@ -28,7 +28,7 @@ O sarau conta como primeira edição oficial a de 29 de janeiro de 1997. Antes d
 
 As fontes divergem quanto à chegada do sarau à Vila Piratininga, onde ele continuava em 2023. Em 2013, o *Campo Grande News* noticiou que o músico e o sarau tinham se mudado para o bairro no fim do ano anterior, com estreia em 16 de fevereiro.[^cgn2013] Em 2023, o mesmo jornal disse que ele morava ali desde 2010,[^cgn2023] e o *O Estado MS* datou a chegada de março de 2010.[^oe2023]
 
-A milésima edição foi em 31 de agosto de 2023, no quintal da casa, onde o sarau passara a ocorrer aos sábados. Os dois jornais registram que cerca de 2.500 músicos e artistas já tinham passado pelo evento, entre eles [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]], [[paulo-ge|Paulo Gê]], Miska, Caxingue, Lúcio Val, Toniquinho, [[bibi-do-cavaco|Bibi do Cavaco]] e [[jorapimo|Jorapimo]].[^cgn2023][^oe2023] A cantora [[ana-cabral|Ana Cabral]] é uma das que tocaram no sarau, entre outros projetos alternativos da cidade.[^cgn-anacabral]
+A milésima edição foi em 31 de agosto de 2023, no quintal da casa, onde o sarau passara a ocorrer aos sábados. Segundo a contagem do próprio Zé Geral, registrada pelos dois jornais, cerca de 2.500 músicos e artistas já tinham passado pelo evento, entre eles [[geraldo-espindola|Geraldo Espíndola]], [[paulo-simoes|Paulo Simões]], [[paulo-ge|Paulo Gê]], Miska, Caxingue, Lúcio Val, Toniquinho, [[bibi-do-cavaco|Bibi do Cavaco]] e [[jorapimo|Jorapimo]].[^cgn2023][^oe2023] A cantora [[ana-cabral|Ana Cabral]] é uma das que tocaram no sarau, entre outros projetos alternativos da cidade.[^cgn-anacabral]
 
 ## Discografia
 

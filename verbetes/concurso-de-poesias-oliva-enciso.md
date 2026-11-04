@@ -11,11 +11,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Concurso de Poesias Oliva Enciso** é um concurso literário promovido pela [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL), em Campo Grande, com apoio da Secretaria de Estado de Turismo, Esporte e Cultura e da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. O nome homenageia a escritora corumbaense [[oliva-enciso|Oliva Enciso]], que ocupou a cadeira 22 da Academia.[^fcms2025a][^oestado2026a]
+O **Concurso de Poesias Oliva Enciso** é um concurso literário promovido pela [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL), em Campo Grande, com apoio do governo estadual, por meio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. O nome homenageia a escritora corumbaense [[oliva-enciso|Oliva Enciso]], que ocupou a cadeira 22 da Academia.[^fcms2025a][^oestado2026a]
 
 ## Regras
 
-O concurso é aberto a autores com 18 anos ou mais que morem em Mato Grosso do Sul. Cada participante inscreve um único poema, inédito e de tema livre, com até 30 versos, sob pseudônimo. A inscrição é gratuita. Os três primeiros colocados recebem prêmios de R$ 3 mil, R$ 2 mil e R$ 1 mil, e os dez primeiros classificados são lidos por acadêmicos na cerimônia de premiação, no auditório da ASL.[^fcms2025a][^oestado2026a]
+O concurso é aberto a autores com 18 anos ou mais que morem em Mato Grosso do Sul. Cada participante inscreve um único poema, inédito e de tema livre, com até 30 versos, sob pseudônimo. A inscrição é gratuita. Os três primeiros colocados recebem prêmios de R$ 3 mil, R$ 2 mil e R$ 1 mil, e os dez primeiros classificados são lidos por acadêmicos na cerimônia de premiação, no auditório da ASL.[^fcms2025a][^fcms2025b][^oestado2026a]
 
 ## Edições
 
@@ -28,4 +28,4 @@ Na edição de 2026, as inscrições ficaram abertas de 6 a 17 de julho, e o res
 [^fcms2025c]: Daiana Schio, ["Entre 'carne negra mais barata' e 'água era que nem vida', ASL divulga e revela poemas vencedores de Concurso"](https://www.fundacaodecultura.ms.gov.br/entre-carne-negra-mais-barata-e-agua-era-que-nem-vida-asl-divulga-e-revela-poemas-vencedores-de-concurso/), Fundação de Cultura de Mato Grosso do Sul, 23 jul. 2025. Acesso em 4 nov. 2026.
 [^oestado2026a]: ["ASL abre inscrições para o Concurso de Poesias Oliva Enciso"](https://oestadoonline.com.br/arte-e-lazer/asl-abre-inscricoes-para-o-concurso-de-poesias-oliva-enciso/), *O Estado MS*, 7 jul. 2026. Acesso em 4 nov. 2026.
 [^oestado2026b]: ["ASL divulga vencedores do Concurso de Poesias Oliva Enciso ciclo 2026"](https://oestadoonline.com.br/arte-e-lazer/asl-divulga-vencedores-do-concurso-de-poesias-oliva-enciso-ciclo-2026/), *O Estado MS*, 7 ago. 2026. Acesso em 4 nov. 2026.
-[^acritica2026]: ["Concurso Oliva Enciso 2026 revela vencedores e premia destaques da poesia sul-mato-grossense"](https://acritica.net/cultura/concurso-oliva-enciso-2026-divulga-vencedores/), *A Crítica de Campo Grande*, 9 ago. 2026. Acesso em 4 nov. 2026.
+[^acritica2026]: Iury de Oliveira, ["Concurso Oliva Enciso 2026 revela vencedores e premia destaques da poesia sul-mato-grossense"](https://acritica.net/cultura/concurso-oliva-enciso-2026-divulga-vencedores/), *A Crítica de Campo Grande*, 9 ago. 2026. Acesso em 4 nov. 2026.
