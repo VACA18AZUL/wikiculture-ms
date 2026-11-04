@@ -35,4 +35,4 @@ Deu aulas de teatro no projeto Arte em Cada Parte, em Naviraí, em 2015, e de ar
 - *Doravante* — solo.[^ufu2023]
 - *Diário de um preto* — experimento cênico.[^ufu2023]
 
-[^ufu2023]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 42. Acesso em 4 nov. 2026.
+[^ufu2023]: Antonio Martins Oliveira Júnior, [*Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf), dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 42-43. Acesso em 4 nov. 2026.
