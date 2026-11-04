@@ -2,7 +2,7 @@
 titulo: Mapago (curta)
 tipo: obra
 areas: [audiovisual]
-resumo: Curta-metragem dirigido por Marcus Teles sobre mulheres Guató em contexto urbano, filmado em Campo Grande em 2025; melhor curta da Mostra Curta MS no 3º Festival Curta Campo Grande, em 2026.
+resumo: Curta-metragem dirigido por Marcus Teles sobre mulheres Guató em contexto urbano, com filmagens iniciadas em Campo Grande em 2025; melhor curta da Mostra Curta MS no 3º Festival Curta Campo Grande, em 2026.
 ficha:
   Direção: Marcus Teles
   Formato: Curta-metragem
@@ -19,7 +19,7 @@ As filmagens começaram em 3 de agosto de 2025, em Campo Grande, e seguiriam ao 
 
 ## Exibição e prêmio
 
-No 3º [[festival-curta-campo-grande|Festival Curta Campo Grande]], encerrado em 31 de outubro de 2026, *Mapago* recebeu do júri oficial o prêmio de melhor curta da Mostra Curta MS. O diretor dedicou o prêmio a Coxim e ao povo Guató e disse que o filme foi feito com profissionais do interior do estado.[^cgn2026]
+No 3º [[festival-curta-campo-grande|Festival Curta Campo Grande]], encerrado em 31 de outubro de 2026, *Mapago* recebeu do júri oficial o prêmio de melhor curta da Mostra Curta MS. O diretor dedicou o prêmio a Coxim e ao povo Guató e disse que o filme foi feito com profissionais do interior do estado. A matéria grafa o nome da produtora executiva e atriz como Gleycielly Nonato Guató; a Fundação de Cultura de MS, como Gleycielli.[^cgn2026][^fcms2025]
 
 ## Ficha técnica
 

@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Matu Miranda** é um cantor, violonista e compositor de música popular brasileira nascido em Campo Grande.[^fcms2019] Começou a carreira profissional por volta dos 18 anos, tocando violão em festivais e fazendo releituras de intérpretes da música brasileira.[^ce2024]
+**Matu Miranda** é um cantor, violonista e compositor de música popular brasileira nascido em Campo Grande.[^fcms2019] Começou a carreira profissional por volta dos 18 anos, apresentando-se em festivais com violão e repertório de releituras de canções brasileiras.[^ce2024]
 
 ## Trajetória
 
@@ -18,9 +18,9 @@ Em 2019, morava havia seis anos em Fortaleza e apresentava seu primeiro trabalho
 
 Ficou em terceiro lugar na categoria show de encerramento do edital do [[som-da-concha|Som da Concha]] de 2022[^fcms2022a] e se apresentou no projeto naquele ano.[^fcms2022b]
 
-Foi semifinalista do programa *The Voice Brasil*. Segundo o *Correio do Estado*, representou o Brasil no Festival BRICS Young Winds Music Show, em Sochi, na Rússia, e fez shows em Istambul e Lisboa.[^ce2024] Segundo a Fundação de Cultura de MS, ele deixou o Ceará no início da pandemia e passou a se fixar mais no Rio de Janeiro.[^fcms2024a]
+Foi semifinalista do programa *The Voice Brasil*. Segundo o *Correio do Estado*, foi o único brasileiro no Festival BRICS Young Winds Music Show, realizado em Sochi, na Rússia, e fez shows em Istambul e Lisboa.[^ce2024] Segundo a Fundação de Cultura de MS, ele deixou o Ceará no início da pandemia e passou a se fixar mais no Rio de Janeiro.[^fcms2024a]
 
-Em 20 de março de 2024, fez o show de abertura da 16ª Semana do Artesão, na Esplanada Ferroviária, em Campo Grande.[^fcms2024b] Em 15 de maio de 2025, abriu o palco Américas do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, em duo com o acordeonista Bebê Kramer, com canções próprias e de outros compositores.[^fcms2025]
+Em 20 de março de 2024, fez o show da abertura da Feira Mãos que Criam, durante a 16ª Semana do Artesão, na Esplanada Ferroviária de Campo Grande.[^fcms2024b] Em 15 de maio de 2025, abriu o palco Américas do [[festival-america-do-sul-pantanal|Festival América do Sul]], em Corumbá, em duo com o acordeonista Bebê Kramer, com canções próprias e de outros compositores.[^fcms2025]
 
 Em 29 de agosto de 2024, lançou o single "Renova", gravado com Lenine e produzido por ele com Antonio Fischer-Band, último antes do disco de estreia, *Matutando*, anunciado para 20 de setembro daquele ano.[^cgn2024] Em setembro de 2026, o *Campo Grande News* relatou que ele tinha passado cerca de 40 dias na China, gravando um programa de televisão com artistas de outros 11 países.[^cgn2026]
 

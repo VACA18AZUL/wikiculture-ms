@@ -22,7 +22,7 @@ Em maio de 2025, idealizou uma programação de cultura afro-brasileira no Festi
 
 ## Pantanal Negro
 
-O documentário *Pantanal Negro* teve a primeira exibição no Salão do Turismo, em Fortaleza, em 7 de maio de 2026, e a primeira em Mato Grosso do Sul no Festival América do Sul, em Corumbá, em 15 de maio.[^cgn2026][^fcms2026b] As fontes divergem quanto à função de Thayná. A Fundação de Cultura de MS e *A Crítica* atribuem a ela a direção artística e a produção executiva, com direção de Adriana Farias e Maxwell Polimanti.[^fcms2026a][^acritica2026a] O *Campo Grande News* a apresenta como diretora do filme.[^cgn2026] O projeto teve recursos da Lei Paulo Gustavo.[^cgn2026] Em julho de 2026, o filme foi exibido no lançamento das ações estaduais de afroturismo, em Campo Grande.[^acritica2026b]
+O documentário *Pantanal Negro* teve a primeira exibição no Salão do Turismo, em Fortaleza, em 7 de maio de 2026, e a primeira em Mato Grosso do Sul no Festival América do Sul, em Corumbá, em 15 de maio.[^cgn2026][^fcms2026b] As fontes divergem quanto à função de Thayná. A Fundação de Cultura de MS e *A Crítica* atribuem a ela a direção artística e a produção executiva, com direção de Adriana Farias e Maxwell Polimanti.[^fcms2026a][^acritica2026a] O *Campo Grande News* a apresenta como diretora do filme.[^cgn2026] O projeto teve recursos da Lei Paulo Gustavo.[^cgn2026] Em julho de 2026, *A Crítica* anunciou a exibição do filme no lançamento das ações estaduais de afroturismo, no Bioparque Pantanal, em Campo Grande, evento em que a Bela Oyá seria apresentada como uma das contempladas pelo edital Rotas Negras.[^acritica2026b]
 
 ## Filmografia
 
