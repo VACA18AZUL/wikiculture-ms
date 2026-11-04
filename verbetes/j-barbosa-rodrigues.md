@@ -37,7 +37,7 @@ Segundo o *Correio do Estado*, escreveu dez livros, a maior parte sobre a histó
 
 ## Divergências entre fontes
 
-O histórico da ASL só diz que ele sucedeu Otávio Gonçalves Gomes e que Elpídio Reis foi eleito em 1988.[^aslhist] Em 2016, o presidente da academia, [[reginaldo-araujo|Reginaldo Alves de Araújo]], disse que ele presidiu a ASL por dois mandatos.[^ce2016]
+O histórico da ASL só diz que ele sucedeu Otávio Gonçalves Gomes e que Elpídio Reis foi eleito em 1988.[^aslhist] Em 2016, o presidente da academia, [[reginaldo-alves-de-araujo|Reginaldo Alves de Araújo]], disse que ele presidiu a ASL por dois mandatos.[^ce2016]
 
 [^ce2016]: Redação, ["José Barbosa Rodrigues: trajetória marcada pelo pioneirismo"](https://correiodoestado.com.br/correio-b/jose-barbosa-rodrigues-trajetoria-br-marcada-pelo-pioneirismo/281191/), *Correio do Estado*, 30 jun. 2016. Acesso em 4 nov. 2026.
 [^aslhist]: Academia Sul-Mato-Grossense de Letras, ["Histórico"](https://acletrasms.org.br/historico/). Acesso em 4 nov. 2026.

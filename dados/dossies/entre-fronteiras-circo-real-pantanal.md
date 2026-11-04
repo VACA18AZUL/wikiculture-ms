@@ -28,7 +28,7 @@ Fontes descartadas e o motivo:
 ## Não confirmado
 
 - Ano de produção; se é episódio da série *Entre Fronteiras*; onde assistir.
-- Relação da família Perez do Circo Real Pantanal com o [[circo-irmaos-perez]] de Campo Grande (2011): mesmo sobrenome, nenhuma fonte liga. Não se juntam.
+- Relação da família Perez do Circo Real Pantanal com o Circo Irmãos Perez (circo-irmaos-perez) de Campo Grande (2011): mesmo sobrenome, nenhuma fonte liga. Não se juntam.
 
 ## Decisão
 

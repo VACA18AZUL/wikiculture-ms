@@ -20,19 +20,19 @@ O **Museu das Culturas Dom Bosco** (MCDB) é um museu de Campo Grande com acervo
 
 ## Trajetória
 
-O museu foi inaugurado em 27 de outubro de 1951, numa sala do Colégio Dom Bosco, mantido pelos padres salesianos.[^cgn2024] Um artigo acadêmico atribui a fundação à Missão Salesiana de Mato Grosso, com o objetivo de preservar a cultura material dos povos indígenas, em especial dos Boe (Bororo) e dos Xavante, os primeiros com quem os salesianos tiveram contato.[^uel2025]
+O museu foi inaugurado em 27 de outubro de 1951, numa sala do Colégio Dom Bosco, mantido pelos padres salesianos.[^cgn2024] Um artigo acadêmico atribui a fundação à Missão Salesiana de Mato Grosso, que de início queria guardar objetos da cultura indígena. A exposição etnográfica destaca os Boe (Bororo) e os Xavante, os primeiros povos com quem os salesianos tiveram contato.[^uel2025]
 
-Na primeira sede, sob a direção do filólogo Angelo Jaime Venturelli, as coleções etnográficas cresceram. Depois o acervo passou para a Rua Barão do Rio Branco, onde ficou mais de 20 anos sob a direção do naturalista padre João Falco. O *Correio do Estado* dá 1978 como ano da mudança;[^cde2019] o *Campo Grande News* dá 1976.[^cgn2024] Nesse endereço o museu se chamava Museu Dom Bosco.[^uel2025]
+Na primeira sede, quando o filólogo Angelo Jaime Venturelli dirigia o museu, as coleções etnográficas cresceram. Depois o acervo passou para a Rua Barão do Rio Branco, onde o naturalista padre João Falco o dirigiu por mais de duas décadas. O *Correio do Estado* dá 1978 como ano da mudança;[^cde2019] o *Campo Grande News* dá 1976.[^cgn2024] O *Correio do Estado* chama o museu dessa fase de Museu Dom Bosco.[^cde2019]
 
 A [[universidade-catolica-dom-bosco|Universidade Católica Dom Bosco]] (UCDB) administra o museu desde 1996.[^cde2019] Segundo o *Campo Grande News*, ela assumiu a gestão depois da morte do padre João Falco.[^cgn2024]
 
 O museu foi transferido para um prédio no Parque das Nações Indígenas. O artigo acadêmico dá 2005 como ano da mudança;[^uel2025] o *Campo Grande News* dá 2006 e diz que foi então que o museu recebeu o nome atual.[^cgn2024]
 
-Em 2019, o *Correio do Estado* noticiou planos de ampliar o prédio do setor de Ciências Naturais e de reformular o setor de Ciências Humanas, com gestão participativa das comunidades indígenas do estado. O coordenador citado era Dirceu Mauricio van Lonkhuijzen.[^cde2019] Em 2024, ele seguia na coordenação, e o jornal *Campo Grande News* contava mais de 500 mil visitantes ao longo de 73 anos.[^cgn2024]
+Em 2019, o *Correio do Estado* noticiou planos de ampliar o prédio do setor de Ciências Naturais. Segundo o coordenador, a sala de Ciências Humanas já havia sido reformulada e contava com gestão participativa sobretudo das comunidades indígenas do estado. O coordenador citado era Dirceu Mauricio van Lonkhuijzen.[^cde2019] Em 2024, ele seguia na coordenação, e o jornal *Campo Grande News* contava mais de 500 mil visitantes ao longo de 73 anos.[^cgn2024]
 
 ## Acervo
 
-O artigo de 2025, com base em trabalho de Ferreira publicado em 2010, contava cerca de 43.941 peças. São cerca de 10 mil objetos e fotos de etnografia, de povos como Bororo, Xavante, Karajá e Moro, de povos do rio Uaupés e de Mato Grosso do Sul. O restante se divide entre zoologia (cerca de 30 mil espécimes), paleontologia (2.700), mineralogia (783) e arqueologia (458).[^uel2025] O *Correio do Estado* destacou a coleção bororo e uma exposição de borboletas com espécies já extintas.[^cde2019]
+O artigo de 2025, com base em trabalho de Ferreira publicado em 2010, contava cerca de 43.941 peças. São cerca de 10 mil objetos e fotos de etnografia, de povos como Bororo, Xavante, Karajá e Moro, além de etnias do rio Uaupés e de Mato Grosso do Sul. O restante se divide entre zoologia (cerca de 30 mil itens), paleontologia (2.700), mineralogia (783) e arqueologia (458).[^uel2025] O *Correio do Estado* destacou a coleção bororo e uma exposição de borboletas com espécies já extintas.[^cde2019]
 
 [^cde2019]: Aline Oliveira, ["Ampliação do museu Dom Bosco coloca MS em destaque nacional"](https://www.correiodoestado.com.br/cidades/ampliacao-do-museu-dom-bosco-coloca-ms-em-destaque-nacional/351926/), *Correio do Estado*, 26 abr. 2019. Acesso em 4 nov. 2026.
 [^cgn2024]: Thailla Torres, ["Museu completa 73 anos e celebra com visita guiada neste sábado"](https://www.campograndenews.com.br/lado-b/diversao/museu-completa-73-anos-e-celebra-com-visita-guiada-neste-sabado), *Campo Grande News*, 24 out. 2024. Acesso em 4 nov. 2026.

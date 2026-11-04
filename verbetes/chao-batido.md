@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Conteúdo e uso
 
-Segundo uma dissertação de mestrado da UFMS, o livro registra a catalogação feita em campo por Sigrist, que inspira o repertório do [[grupo-camalote|Grupo Camalote]], de danças parafolclóricas.
+Segundo uma dissertação de mestrado da UFMS, o livro registra a catalogação feita em campo por Sigrist, que inspira o repertório do [[grupo-camalote|Grupo Camalote]], de danças parafolclóricas.[^costa2023]
 
 Em 2026, integrantes da [[comissao-sul-mato-grossense-de-folclore|Comissão Sul-Mato-Grossense de Folclore]] disseram ao *Campo Grande News* que tratam o livro como obra de referência para as danças do estado, que a comissão organiza por regiões culturais. A presidente da comissão, [[cristiane-aparecida-de-luca-lima|Cristiane Aparecida de Luca Lima]], citou como exemplos da região do Bolsão o catira, o Engenho de Maromba e o Engenho Novo.[^cgn2026]
 
