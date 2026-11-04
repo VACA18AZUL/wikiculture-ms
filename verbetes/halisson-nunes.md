@@ -2,7 +2,7 @@
 titulo: Halisson Nunes
 tipo: pessoa
 areas: [danca]
-resumo: Bailarino e criador sul-mato-grossense; cocriador do evento de dança Rolê no Bueiro, integrou o elenco de Chafica, da Cia do Mato, e criou o solo Corpo Sobre Penas (2026).
+resumo: Artista da dança sul-mato-grossense; cocriador do evento de dança Rolê no Bueiro, integrou o elenco de Chafica, da Cia do Mato, e criou a performance Corpo Sobre Penas (2026).
 ficha:
   Atividade: "Dança, criação e produção de eventos de dança"
 status: rascunho

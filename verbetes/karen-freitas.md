@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 *Deus te Salve, João!* é um filme-ensaio de cerca de 17 minutos. Foi um dos 11 curtas selecionados para a mostra competitiva da 18ª edição do [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]], marcada para 10 a 16 de agosto de 2024, em seleção do cineasta [[luis-felipe-mendes|Luis Felipe Mendes]].[^cgn2024]
 
-No filme, a diretora examina a própria ligação com a festa e segue Mãe Nice e Mãe Nina, sacerdotisas de umbanda, e a família delas pelas ruas e terreiros. Em 25 de março de 2025, o curta, ali grafado *Deus te Salve João*, foi programado para uma sessão gratuita no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande, dentro do Festival de Cinema do Pantanal, com outros dois documentários sobre festas populares do estado.[^cgn2025]
+No filme, a diretora examina a própria ligação com a festa e segue Mãe Nice e Mãe Nina, sacerdotisas de umbanda, e a família delas pelas ruas e terreiros. Em 25 de março de 2025, o curta, ali grafado *Deus te Salve João*, foi programado para uma sessão gratuita no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande, dentro do Festival de Cinema do Pantanal, com outros dois documentários sobre festas populares do estado.[^cgn2025] A Fundação de Cultura de Mato Grosso do Sul, que divulgou a mesma sessão com o nome Pantanal Film Festival, no Campão Cultural, às 18h, descreve o título como documentário de 17 minutos.[^fcms2025]
 
 ## Filmografia
 
@@ -23,3 +23,4 @@ No filme, a diretora examina a própria ligação com a festa e segue Mãe Nice 
 
 [^cgn2024]: Thailla Torres, ["Festival de Cinema de Ivinhema divulga curtas selecionados; confira"](https://www.campograndenews.com.br/lado-b/diversao/festival-de-cinema-de-ivinhema-divulga-curtas-selecionados-confira), *Campo Grande News*, 31 jul. 2024. Acesso em 4 nov. 2026.
 [^cgn2025]: Jéssica Fernandes, ["Filme sobre Banho de São João chega hoje às telas do MIS"](https://www.campograndenews.com.br/lado-b/diversao/filme-sobre-banho-de-sao-joao-chega-hoje-as-telas-do-mis), *Campo Grande News*, 25 mar. 2025. Acesso em 4 nov. 2026.
+[^fcms2025]: Karina Medeiros de Lima, ["Pantanal Film Festival segue no Campão Cultural com exibições no MIS nesta terça-feira (25)"](https://www.fundacaodecultura.ms.gov.br/pantanal-film-festival-segue-no-campao-cultural-com-exibicoes-no-mis-nesta-terca-feira-25/), Fundação de Cultura de Mato Grosso do Sul, 25 mar 2025. Acesso em 4 nov. 2026.

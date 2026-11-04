@@ -40,3 +40,13 @@ Buscas ("Aurea Katsuren", "Áurea Katsuren" restauradora/pintora, Katsuren + Lí
 ## Validação de 2026-11-04 (valn-10b)
 
 - Trecho retirado; nota passou a p. 3-4 e 15-16.
+
+## Atualização de 2026-11-04 (r4-2)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2022 | FCMS, "Obras de Lídia Baís que estão na Morada passam por higienização", 16 fev. 2022 (o endereço da página termina em "...irao-para-a-reserva-tecnica-do-marco-e-do-mis") | https://www.fundacaodecultura.ms.gov.br/obras-de-lidia-bais-que-estao-na-morada-irao-para-a-reserva-tecnica-do-marco-e-do-mis/ | sim |
+
+O que mudou: acrescentado parágrafo. A coordenadora do MARCO, Lúcia Monte Serrat, diz que o autorretrato "foi restaurado pela Áurea Katsuren" e precisaria de novo restauro. Reforça a restauração das pinturas de Lídia Baís (marco30) e especifica uma obra (o autorretrato); não dá data da restauração. Grafia "Áurea" aqui; "Aurea" na lista-mestra e no catálogo (a ficha mantém a grafia do catálogo).
+
+Limite: as duas fontes são da mesma instituição (Fundação de Cultura de MS), mas são documentos distintos (catálogo de 2021; notícia de 2022 com fala da coordenadora do museu). Nenhuma fonte de outro órgão sobre a artista (nascimento, formação, prêmios, ateliê no Rio). Buscas em Correio do Estado, UFMS, FCMS por "Katsuren" só trouxeram esta matéria.

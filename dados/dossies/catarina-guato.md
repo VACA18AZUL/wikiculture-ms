@@ -14,7 +14,7 @@
 |---|---|---|---|---|
 | ce2023 | Alanis Netto, "Catarina Ramos, artesã indígena da etnia Guató, receberá título Doutor Honoris Causa", Correio do Estado, 26 nov. 2023 | https://correiodoestado.com.br/cidades/2023/11/26/catarina-ramos-artesa-indigena-da-etnia-guato-recebera-titulo-doutor-honoris-causa.html | imprensa | sim |
 | ce2022 | Bianka Macário, "Catarina Guató é destaque em prêmio nacional que prestigia o patrimônio cultural", Correio do Estado, 5 dez. 2022 | https://correiodoestado.com.br/correio-b/2022/12/05/catarina-guato-e-destaque-em-premio-nacional-que-prestigia-o-patrimonio-cultural.html | imprensa | sim |
-| fcms2022 | FCMS, "Artesã Catarina Guató vence prêmio nacional do Iphan", dez. 2022 (data inferida da pasta de imagens do post; a página não mostra data) | https://www.fundacaodecultura.ms.gov.br/artesa-catarina-guato-vence-premio-nacional-do-iphan/ | institucional | sim |
+| fcms2022 | Karina Medeiros de Lima, "Artesã Catarina Guató vence prêmio nacional do Iphan", FCMS, publicado em 6 dez. 2022 (data e autoria conferidas na página em 2026-11-04) | https://www.fundacaodecultura.ms.gov.br/artesa-catarina-guato-vence-premio-nacional-do-iphan/ | institucional | sim |
 
 Fontes descartadas: busca no site da UFMS e do Iphan (resultados bloqueados ou carregados por script); Wikipédia sem consulta concluída (limite de requisições).
 
@@ -54,3 +54,9 @@ Fontes descartadas: busca no site da UFMS e do Iphan (resultados bloqueados ou c
 
 - Entraram trajetória, livro de Pellegrini, prêmio do Iphan e indicação ao honoris causa (tratada como anúncio).
 - Ficaram de fora dados pessoais da matéria de 2023 (escolaridade, violência doméstica, mudança com os filhos, morte da mãe).
+
+## Revisão de 2026-11-04 (valn-20)
+
+- As três fontes foram reabertas e conferidas. A nota da FCMS mostra data (6 dez. 2022) e autora (Karina Medeiros de Lima); a nota foi corrigida.
+- O dado de 50 m de tiras por tapete de 1,2 m está no texto da reportagem, não em trecho atribuído ao livro; o verbete passou a atribuí-lo à reportagem.
+- Texto de ce2022 e fcms2022 é quase igual (provável release do Iphan): são dois veículos, mas a origem do texto é a mesma.

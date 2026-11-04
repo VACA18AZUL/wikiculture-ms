@@ -3,7 +3,7 @@ titulo: Izulina Xavier
 tipo: pessoa
 areas: [artes-plasticas, literatura]
 cidade: Corumbá
-resumo: Escultora e escritora nascida no Piauí e radicada em Corumbá (1925–2022), autora do Cristo Rei do Pantanal e do Cristo de Três Lagoas e de centenas de esculturas em concreto. Dá nome ao Dia Estadual do Artista Visual.
+resumo: Escultora e escritora nascida no Piauí e radicada em Corumbá (1925–2022), autora do Cristo Rei do Pantanal e do Cristo de Três Lagoas e de centenas de esculturas em concreto. É uma das homenageadas do Dia Estadual do Artista Visual.
 ficha:
   Nome completo: "Izulina Gomes Xavier"
   Nascimento: "18 de abril de 1925, Jaicos (PI)"
@@ -17,11 +17,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Nasceu no Piauí e mudou-se para Corumbá quando o marido foi trabalhar na fábrica de armamento.[^fcms2023] Segundo o *Correio do Estado*, ela descobriu o próprio talento ao cumprir uma promessa a São Francisco de Assis: esculpiu em concreto uma imagem do santo e a colocou diante de casa. O interesse das pessoas pela peça levou à criação da Artizu, a casa transformada em museu a céu aberto.[^ce2022]
+Nasceu no Piauí e mudou-se ainda jovem para Corumbá.[^ce2022][^fcms2023] Segundo o *Correio do Estado*, ela descobriu o próprio talento ao cumprir uma promessa a São Francisco de Assis: esculpiu em concreto uma imagem do santo e a colocou diante de casa. O interesse das pessoas pela peça levou à criação da Artizu, a casa transformada em museu a céu aberto.[^ce2022]
 
 Era autodidata e não frequentou escola. Escreveu romances, cordéis, livros de poemas e peças de teatro.[^fcms2023] Também compunha músicas e escrevia histórias infantis.[^fcms2019] Na casa, esculturas, pinturas, móveis, pisos e muros foram trabalhados por ela em cimento, barro e madeira, e alguns poemas dela aparecem nas paredes.[^fcms2019]
 
-No morro do Cruzeiro, ponto mais alto de Corumbá, fez o Cristo Rei do Pantanal e uma via-sacra de 72 peças.[^ce2022][^fcms2023] Em Três Lagoas, fez o Cristo de 15 metros que fica na entrada da cidade, inaugurado em 1992.[^ce2022] As esculturas dela estão em Corumbá, Ladário e cidades bolivianas da fronteira.[^fcms2023]
+No morro do Cruzeiro, ponto mais alto de Corumbá, fez o Cristo Rei do Pantanal e uma via-sacra de 72 peças.[^ce2022][^fcms2023] Em Três Lagoas, fez o Cristo de 15 metros, inaugurado em 1992, que está na entrada da cidade.[^ce2022] As esculturas dela estão em Corumbá, Ladário e cidades bolivianas da fronteira.[^fcms2023]
 
 Morreu em casa, em Corumbá, em 16 de novembro de 2022, aos 97 anos.[^ce2022]
 

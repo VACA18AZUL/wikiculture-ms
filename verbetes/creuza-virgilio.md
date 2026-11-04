@@ -5,9 +5,9 @@ areas: [artes-plasticas]
 cidade: Porto Murtinho
 resumo: Ceramista kadiwéu da aldeia Alves de Barros, em Porto Murtinho, citada como presidente da Associação das Mulheres Artistas Kadiwéu (Amak) entre 2020 e 2022.
 ficha:
-  Povo: Kadiwéu
-  Atividade: Cerâmica kadiwéu
-  Grupos: Associação das Mulheres Artistas Kadiwéu (presidente)
+  Povo: "Kadiwéu"
+  Atividade: "Cerâmica kadiwéu"
+  Grupos: "Associação das Mulheres Artistas Kadiwéu (presidente)"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o Correio do Estado, ela aprendeu o ofício de ceramista aos 15 anos.[^ce2022a] Em 2020, o jornal já a citava como presidente da associação, em reportagem sobre o projeto de pesquisa "Cerâmica e o Fomento da Comunidade e Cultura Kadiwéu no Mato Grosso do Sul", desenvolvido na aldeia Alves de Barros.[^ce2020]
+Segundo o Correio do Estado, ela aprendeu o ofício de ceramista aos 15 anos.[^ce2022a] Em 2020, uma reportagem do mesmo jornal chamou de "dona Creuza" a presidente da associação, ao tratar do projeto de pesquisa "Cerâmica e o Fomento da Comunidade e Cultura Kadiwéu no Mato Grosso do Sul", em curso naquela aldeia.[^ce2020]
 
-O artigo da *Tellus* relata que, a pedido dela, houve uma oficina na aldeia Alves de Barros com a artista plástica Angela Miracema Batista Fernandes, para mais de quarenta artesãs. Segundo os autores, no fim de 2017 ela produziu um conjunto de peças com dupla queima, que melhorou a resistência e fixou os engobos coloridos, e retomou o uso da hematita para o vermelho. O artigo também reproduz uma experiência dela de pintura em couro.[^tellus]
+O artigo da *Tellus* relata que ela, como presidente da Amak, pediu uma oficina com a artista plástica Angela Miracema Batista Fernandes, feita na aldeia Alves de Barros com mais de quarenta artesãs. Segundo os autores, no fim de 2017 ela produziu um conjunto de peças com dupla queima, que melhorou a resistência e fixou os engobos coloridos, e retomou o uso da hematita para o vermelho. O artigo também reproduz uma experiência dela de pintura em couro.[^tellus]
 
 Em outubro de 2022, integrou o grupo de cinco artesãs de Mato Grosso do Sul que foi ao Festival das Panelas de Barro, promovido por indígenas macuxi na Terra Indígena Raposa Serra do Sol, em Normandia (RR), de 4 a 8 de outubro. Do território kadiwéu foram ela e Marilene, da aldeia Alves de Barros, [[zilda-da-silva-kadiweu|Zilda da Silva]], da aldeia São João, e Jussara Derriune, da aldeia Barro Preto. A quinta integrante era a artesã terena Selma Polidório, da aldeia Cachoeirinha, em Miranda. A programação do encontro teve oficinas de cerâmica kadiwéu e terena, e o grupo viajou acompanhado por uma coordenadora da organização Wetlands International Brasil.[^ce2022a]
 

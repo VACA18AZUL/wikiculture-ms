@@ -53,3 +53,14 @@ Fontes descartadas e o motivo:
 - Trecho parafraseado; acrescentada a grafia de cgn2025 no próprio parágrafo, com a nota.
 - Cidade da diretora; relatório da UFMS não lido (servidor fora).
 - Wikipédia pt: sem artigo sobre o verbete.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fonte nova (portal da Fundação de Cultura de MS; achada pela busca do site por "Karen Freitas Banho de São João"):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2025 | Karina Medeiros de Lima, "Pantanal Film Festival segue no Campão Cultural com exibições no MIS nesta terça-feira (25)", FCMS, 25 mar 2025 | https://www.fundacaodecultura.ms.gov.br/pantanal-film-festival-segue-no-campao-cultural-com-exibicoes-no-mis-nesta-terca-feira-25/ | sim, como reforço de data/local |
+
+Atenção: o texto da fcms2025 tem a mesma sinopse do CGN de 25 mar 2025 (release do Campão Cultural). Confirma a sessão (25 mar. 2025, 18h, MIS), o nome do festival (Pantanal Film Festival), o ano e o filme, mas não conta como apuração independente da sinopse. Diferença de rótulo: FCMS diz "documentário de 17 minutos"; CGN 2024 diz "filme-ensaio". Os dois termos aparecem no verbete.
+Não achado em outro veículo: seleção em Ivinhema 2024 (nem no Correio do Estado nem na FCMS); relatório técnico da UFMS (repositorio.ufms.br) segue fora do ar (conexão reiniciada em 4 nov. 2026). Buscas no BDTD por "Deus te Salve João" e "Karen Freitas Banho de São João Corumbá": sem resultados.

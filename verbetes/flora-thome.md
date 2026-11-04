@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Deu aulas por 42 anos em Três Lagoas, no Colégio Estadual 2 de Julho, na Escola Estadual Dom Aquino Correa e na Universidade Federal de Mato Grosso do Sul.[^rcn2013][^rcn2014a] Um ex-aluno contou que ela já lecionava no 3º ano primário da Escola 2 de Julho em 1951.[^rcn2014b] Publicou artigos, crônicas e poemas na imprensa da cidade, entre eles o *Jornal do Povo*.[^rcn2013][^rcn2010]
+Deu aulas por 42 anos em Três Lagoas, no Colégio Estadual 2 de Julho, na Escola Estadual Dom Aquino Correa e na Universidade Federal de Mato Grosso do Sul.[^rcn2013][^rcn2014a] Um ex-aluno contou que ela já lecionava no 3º ano primário da Escola 2 de Julho em 1951.[^rcn2014b] Publicou artigos, crônicas e poemas na imprensa da cidade, entre eles o *Jornal do Povo*.[^rcn2013][^rcn2010][^rcn2014a]
 
 Em 2013 tinha oito livros publicados.[^rcn2013] Entre eles estão *Cirros* (1980), *Cantos e Recantos* (1987), *Retratos* (1993), *Haicais* (1999) e *Nas Águas do Tempo* (2002). Também organizou a *Antologia Dimensional de Poetas Três-lagoenses*.[^rcn2025]
 

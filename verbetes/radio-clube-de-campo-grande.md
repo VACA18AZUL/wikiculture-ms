@@ -3,7 +3,7 @@ titulo: Rádio Clube de Campo Grande
 tipo: espaco
 areas: [musica, artes-plasticas, literatura]
 cidade: Campo Grande
-resumo: Clube social de Campo Grande fundado em 1924, palco de bailes, música ao vivo, festivais estudantis e da primeira exposição coletiva de artistas mato-grossenses; o salão de festas é patrimônio municipal desde 2012.
+resumo: Clube social de Campo Grande fundado em 1924, palco de bailes, música ao vivo e da primeira exposição coletiva de artistas mato-grossenses; o salão de festas da sede é patrimônio municipal desde 2012.
 ficha:
   Fundação: "1924"
   Local: "Centro de Campo Grande"
