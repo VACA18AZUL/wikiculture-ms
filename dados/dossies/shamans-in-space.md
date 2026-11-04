@@ -48,3 +48,9 @@ Descartada: playlist/álbum completo no canal "The Psychedelic Muse" (terceiro, 
 ## Uso no verbete
 
 - Entraram todos os fatos acima, sem a lista de faixas e sem as citações longas.
+
+## Revisão de 2026-11-04 (valn-20)
+
+- ce2026 reaberta e conferida: sustenta lançamento em vinil "no sábado" anterior a 20 abr. 2026, digital marcado para 1º de maio, lideranças, cantos guahu/guaxiré, QR Code, participantes, royalties e parceria do Sounding Futures.
+- lsd2026: oEmbed do YouTube confirma título e canal (Liquid Sound Design, @LiquidSoundDesign), mas a descrição não abriu (verificação anti-robô). Não foram conferidos nesta sessão: laboratório ambissônico em Londres e sessão no estúdio de Youth; "três anciãos" revisando mixagens e nomeando faixas; doação de 100% dos ganhos; formato CD; data de 30 abr. 2026.
+- A frase que apresentava o Sounding Futures como "coordenado pelo Multimedia Anthropology Lab" em voz do verbete foi reescrita: a versão do jornal (parceria) e a da gravadora (coordenação) aparecem atribuídas.
