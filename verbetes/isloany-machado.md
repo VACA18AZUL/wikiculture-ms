@@ -9,7 +9,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Isloany Machado** é uma escritora e psicanalista de Mato Grosso do Sul.[^cgn2023][^cgn2024]
+**Isloany Machado** é uma escritora e psicanalista sul-mato-grossense.[^cgn2023][^cgn2024]
 
 ## Trajetória
 

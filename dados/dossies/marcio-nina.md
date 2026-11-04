@@ -33,3 +33,8 @@
 ## Uso no verbete
 
 - Tudo acima entrou, exceto o excluído por regra.
+
+## Atualização de 2026-11-04 (r3-4)
+
+Fontes novas lidas (FCMS, WebFetch): notícia de 14 set. 2017 (1º Festival Internacional de Chamamé de MS; presidente do instituto citado: Orivaldo Mengual) e de Karina Medeiros de Lima, 18 set. 2019 (3º Festival; 9 a 13 out. 2019). As duas grafam "Instituto Cultural Chamamé MS", o que dá um terceiro nome ao lado de "Instituto do Chamamé de MS" (CGN 2017) e "Instituto Cultural Chamamés de MS" (CGN 2018). Nenhuma das duas cita Márcio Nina, Zé Corrêa nem livro. FCMS 2020 (4º festival virtual, promovido pelo programa A Hora do Chamamé, com o instituto como parceiro): idem, sem Márcio Nina.
+Márcio Nina e o livro seguem com fonte única (CGN). Situação: reforcar. Pistas: Sá Rosa/Duncan; Instituto Cultural Chamamé MS (perfil); programa A Hora do Chamamé.

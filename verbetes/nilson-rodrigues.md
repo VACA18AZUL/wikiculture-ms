@@ -13,9 +13,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o Correio do Estado, concebeu o [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]] e o Festcine Pantanal, em Campo Grande.[^ce2026] O Campo Grande News o apresenta como conhecido em Mato Grosso do Sul pela criação do Festival de Inverno de Bonito, das Temporadas Populares e do [[festival-america-do-sul-pantanal|Festival América do Sul]].[^cgn2023]
+Segundo o Correio do Estado, concebeu o [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]] e o Festcine Pantanal, em Campo Grande.[^ce2026] O Campo Grande News atribui a ele, em Mato Grosso do Sul, a criação do Festival de Inverno de Bonito, das Temporadas Populares e do [[festival-america-do-sul-pantanal|Festival América do Sul]].[^cgn2023]
 
-Em 2003, na quarta edição do Festival de Inverno de Bonito, era diretor do evento e estava à frente da organização desde a primeira edição. O tema daquele ano foi "A Água e o Futuro do Planeta".[^tribuna2003]
+Em 2003, na quarta edição do Festival de Inverno de Bonito, era diretor do evento e cuidava da organização desde a edição inaugural. O tema daquele ano foi "A Água e o Futuro do Planeta".[^tribuna2003]
 
 Fundou o cinema Cine Cultura, em Campo Grande, e depois o Cine Cultura Liberty Mall, em Brasília. Coordenou e dirigiu edições do Festival de Brasília do Cinema Brasileiro. De 2005 a 2009, fez parte da diretoria colegiada da Ancine.[^ce2026]
 
