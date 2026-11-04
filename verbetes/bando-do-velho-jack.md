@@ -20,7 +20,7 @@ Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], a banda sur
 
 Em 1998, antes de lançar o primeiro disco, o grupo venceu a etapa Centro-Oeste e Norte do concurso Skol Rock, ficou entre os sete finalistas do país e tocou em Curitiba, segundo o baixista Marcos Yallouz.[^fcms2025b]
 
-Em outubro de 2010, o *Correio do Estado* anunciou o show de 15 anos da banda no Teatro Glauce Rocha, na UFMS. A matéria cita cinco CDs lançados de forma independente e a formação com Rodrigo Tozzette (guitarra e voz), Marcos Yallouz (baixo), Alex Cavalheri (teclado), João Bosco (bateria) e Fábio Terra (guitarra).[^ce2010]
+Em outubro de 2010, o *Correio do Estado* anunciou o show de 15 anos da banda no [[teatro-glauce-rocha|Teatro Glauce Rocha]], na [[ufms|UFMS]]. A matéria cita cinco CDs lançados de forma independente e a formação com Rodrigo Tozzette (guitarra e voz), Marcos Yallouz (baixo), Alex Cavalheri (teclado), João Bosco (bateria) e Fábio Terra (guitarra).[^ce2010]
 
 O repertório mistura classic rock e música sul-mato-grossense. Tozzette cita como influências [[almir-sater|Almir Sater]], [[paulo-simoes|Paulo Simões]] e [[geraldo-espindola|Geraldo Espíndola]]. Entre as canções do grupo estão "Palavras Erradas", "Gasolina" e uma versão rock de "Trem do Pantanal", que ganhou clipe. A banda tocou em Mato Grosso do Sul, São Paulo, Paraná e Minas Gerais.[^fcms2025a]
 

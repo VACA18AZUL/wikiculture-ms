@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Banda Marcial Cristo Redentor** é uma banda de Três Lagoas que surgiu com a Guarda Mirim da cidade, quando a região ainda pertencia a Mato Grosso. Foi inaugurada em 1º de outubro de 1967.[^pmtl2022][^rcn2023a]
+A **Banda Marcial Cristo Redentor** é uma banda de Três Lagoas que surgiu com a Guarda Mirim da cidade, quando a região ainda pertencia a Mato Grosso. Foi inaugurada em 1º de outubro de 1967.[^pmtl2022][^rcn2023a][^rcn2023b]
 
 ## Trajetória
 
