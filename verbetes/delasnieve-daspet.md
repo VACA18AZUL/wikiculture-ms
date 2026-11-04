@@ -2,7 +2,6 @@
 titulo: Delasnieve Daspet
 tipo: pessoa
 areas: [literatura]
-cidade: Campo Grande
 resumo: Advogada, poeta e escritora sul-mato-grossense, ativista da cultura de paz e fundadora da Academia Feminina de Letras e Artes de Mato Grosso do Sul.
 ficha:
   Atividade: Poesia, advocacia e ativismo pela paz

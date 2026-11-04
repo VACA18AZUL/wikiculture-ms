@@ -9,7 +9,7 @@ ficha:
   Edições: "6"
   Realização: NEPPI/UCDB (três primeiras edições); ASCURI (demais)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Fórum de Discussão sobre a Inclusão Digital nas Aldeias (FIDA)** foi um encontro de indígenas, professores, ativistas e indigenistas para discutir o uso do audiovisual e das tecnologias digitais nas aldeias de Mato Grosso do Sul. Teve seis edições.[^correa]
@@ -32,5 +32,8 @@ A edição mais recente citada, na aldeia Pirajuí (Paranhos), reuniu cerca de 1
 
 Segundo Nogueira (2015), citado por Corrêa, o maior legado do FIDA foi a criação da ASCURI. Galache discorda: afirma que a ideia da associação já existia de forma embrionária e foi sendo lapidada junto com o fórum.[^correa]
 
+Um relato do IV Seminário Povos Indígenas e Sustentabilidade, realizado em agosto de 2011 e publicado na revista *Tellus*, da UCDB, registra que o debate sobre inclusão digital partiu de uma experiência na Terra Indígena Caarapó e que dele surgiu, a partir do fórum chamado FIDA, uma associação de realizadores indígenas de vídeo-documentário. Segundo o relato, o grupo buscava usar as novas tecnologias nas demandas das comunidades e fazer do audiovisual um modo de reflexão, e tinha como desafio conseguir parcerias e financiamento.[^tellus]
+
 [^correa]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, seção 2.2.2.8, p. 142-143. Acesso em 29 out. 2026.
 [^correa2]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), UFGD, 2023, capítulo sobre a ASCURI, p. 172-174. Acesso em 29 out. 2026.
+[^tellus]: Adir Casaro Nascimento, Antonio Jaco Brand, Nádia Heusi Silveira e Neimar Machado de Sousa, ["Relato sobre o IV Seminário Povos Indígenas e Sustentabilidade"](https://tellus.ucdb.br/tellus/article/download/249/285/874), *Tellus*, Campo Grande, ano 11, n. 21, p. 227-232, jul./dez. 2011. Acesso em 4 nov. 2026.

@@ -10,7 +10,7 @@ ficha:
   Atividade: Desenho, gravura, pintura e performance
   Grupos: Movimento Cultural Guaicuru
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Jonir Figueiredo** (Corumbá – Bonito, 2025) foi um artista plástico sul-mato-grossense, desenhista, gravador, pintor, performer e produtor cultural.[^cgn2025][^assis] O nome aparece também como Jonir Figueredo.[^cgn2014]
@@ -27,7 +27,7 @@ Morreu em 26 de julho de 2025, em Bonito, onde participava do Festival Bonito Ci
 
 ## Obra
 
-A obra trata da ancestralidade rupestre, dos mitos da fronteira e da fauna pantaneira. O Campo Grande News destaca a "fase dos jacarés", nos anos 1980, ligada à pauta ambiental.[^cgn2025] Assis cita o jacaré, os grafismos kadiwéu e o rio como signos recorrentes e fala em "Ecologia Pantaneira", expressão do próprio artista para sua temática.[^assis] A tese analisa a tela *Jacaré* (1990, acrílico sobre tela, 30 × 40 cm).[^assis]
+A obra trata da ancestralidade rupestre, dos mitos da fronteira e da fauna pantaneira. O Campo Grande News destaca a "fase dos jacarés", nos anos 1980, ligada à pauta ambiental.[^cgn2025] Assis cita o jacaré, os grafismos kadiwéu e o rio como signos recorrentes e fala em "Ecologia Pantaneira", expressão do próprio artista para sua temática.[^assis] A dissertação analisa a tela *Jacaré* (1990, acrílico sobre tela, 30 × 40 cm).[^assis]
 
 Em abril de 2025 foi lançado em Campo Grande o livro *Jonir: uma trajetória de vida construída com arte*, de Ara de Andrade Martins, com obras de várias fases do artista.[^cgn2025]
 

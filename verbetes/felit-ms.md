@@ -24,7 +24,7 @@ A editora [[vida-producoes|Vida Produções]] participaria com o lançamento de 
 
 ## Quinta edição
 
-A 5ª edição ocorreu de 4 a 6 de junho de 2025, no auditório da Câmara Municipal de Dourados, das 13h às 22h. A programação teve cerca de 15 lançamentos de livros regionais, exposição e venda de obras, contação de histórias, declamação de poesia, sarau e shows. Entre os autores anunciados estavam Bosco Martins, Rodrigo Teixeira, Odila Lange e Jaminho; o poeta Emmanuel Marinho fez uma apresentação.[^cgn2025]
+A 5ª edição foi anunciada para 4 a 6 de junho de 2025, no auditório da Câmara Municipal de Dourados, das 13h às 22h. A programação teve cerca de 15 lançamentos de livros regionais, exposição e venda de obras, contação de histórias, declamação de poesia, sarau e shows. Entre os autores confirmados estavam Bosco Martins, Rodrigo Teixeira, Odila Lange e Jaminho; o poeta [[emmanuel-marinho|Emmanuel Marinho]] faria uma apresentação especial.[^cgn2025]
 
 ## Calendário oficial
 

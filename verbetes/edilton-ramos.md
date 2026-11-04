@@ -3,12 +3,12 @@ titulo: Edilton Ramos
 tipo: pessoa
 areas: [teatro]
 cidade: Campo Grande
-resumo: Ator e diretor teatral, homenageado na Mostra Boca de Cena de 2017, conhecido pela encenação anual da Paixão de Cristo e pelo Grupo Transart.
+resumo: Ator e diretor teatral, homenageado na Mostra Boca de Cena de 2017, ligado à encenação da Paixão de Cristo e criador do Grupo Transart.
 ficha:
   Atividade: Atuação e direção teatral
   Grupos: Grupo Transart
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Edilton Ramos** é ator e diretor teatral, homenageado na Mostra Sul-Mato-Grossense de Teatro e Circo – [[mostra-boca-de-cena|Boca de Cena]] de 2017, em Campo Grande.[^folheto]
