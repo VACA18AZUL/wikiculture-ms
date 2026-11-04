@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Quando o Galo Cantar pela Terceira Vez Renegarás tua Mãe*** é um longa-metragem dirigido por [[aaron-salles-torres|Aaron Salles Torres]], cineasta nascido em Mato Grosso do Sul, que estreou nos cinemas em 23 de novembro de 2017.[^folha2017][^papo2017]
+***Quando o Galo Cantar pela Terceira Vez Renegarás tua Mãe*** é um longa-metragem dirigido por [[aaron-salles-torres|Aaron Salles Torres]], cineasta nascido em Mato Grosso do Sul, lançado em novembro de 2017. Foi o primeiro longa do diretor.[^folha2017][^papo2017]
 
 ## Enredo e produção
 
@@ -19,7 +19,7 @@ O filme se passa no apartamento do zelador de um prédio da zona sul do Rio de J
 
 Segundo o diretor, os diálogos vieram de discussões que ele ouvia de vizinhos. O roteiro levou quase três anos para ser escrito e nasceu como projeto de curta. As filmagens duraram quatro dias, com orçamento baixo, e mais três dias foram filmados depois de um primeiro corte de 46 minutos.[^papo2017]
 
-O título vem de uma frase de Clarice Lispector, que a *Folha* localiza no conto "Feliz Aniversário".[^papo2017][^folha2017] A música-tema, com letra do diretor, foi gravada por [[ney-matogrosso|Ney Matogrosso]]; segundo Torres, a aproximação com o cantor foi feita por [[joel-pizzini|Joel Pizzini]].[^papo2017]
+O título vem de uma frase de Clarice Lispector, que a *Folha* localiza no conto "Feliz Aniversário".[^papo2017][^folha2017] A música-tema, composta pelo diretor, é cantada por [[ney-matogrosso|Ney Matogrosso]]; segundo Torres, a aproximação com o cantor foi feita por [[joel-pizzini|Joel Pizzini]].[^papo2017]
 
 Em novembro de 2017, o longa estava entre os inéditos selecionados por Pizzini, curador do 14º [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]], para a disputa de melhor longa.[^fcms2017]
 

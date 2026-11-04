@@ -22,7 +22,7 @@ Com os espaços públicos fechados na pandemia, a 2ª edição ganhou em outubro
 
 A 4ª edição, chamada Metaverso, foi lançada em 13 de dezembro de 2021 na plataforma virtual Artsteps.[^faalc2021][^fcms2021]
 
-Em novembro de 2024 o MIS recebeu uma edição especial da mostra junto com a 14ª [[mostra-cinema-e-direitos-humanos|Mostra Cinema e Direitos Humanos]], com obras de 15 artistas e dois coletivos. A curadoria foi de Venise Paschoal de Melo e a montagem de Julian Vargas Cubillos.[^fcms2024]
+Em novembro de 2024 o MIS recebeu uma edição especial da mostra junto com a 14ª [[mostra-cinema-e-direitos-humanos|Mostra Cinema e Direitos Humanos]], com obras de 15 artistas e dois coletivos. A curadoria foi de Venise Paschoal de Melo e a montagem de Julian Vargas Cubillos.[^fcms2024] A programação publicada pelo *O Estado MS* pôs a abertura da exposição na noite de 26 de novembro de 2024, junto com a cerimônia de abertura da mostra de cinema, que o jornal apresentou como organizada por Venise Melo e Verônica Lindquist.[^oe2024]
 
 A 7ª edição foi anunciada para 4 e 5 de outubro de 2025, no Espaço Cultural Casarão Thomé, com exposição, oficinas, rodas de conversa e apresentações ao vivo.[^faalc2025]
 
@@ -34,3 +34,4 @@ A 7ª edição foi anunciada para 4 e 5 de outubro de 2025, no Espaço Cultural 
 [^fcms2020b]: Karina Lima e Jefferson Benicio, ["FCMS e UFMS realizam online a 3ª edição da Mostra de Arte Digital no MIS"](https://www.fundacaodecultura.ms.gov.br/fcms-e-ufms-realizam-online-a-3a-edicao-da-mostra-de-arte-digital-360o-no-mis/), Fundação de Cultura de MS, 30 nov. 2020. Acesso em 4 nov. 2026.
 [^fcms2021]: Fundação de Cultura de MS, ["MIS e UFMS realizam a 4ª edição da Mostra de Arte Digital no formato online"](https://www.fundacaodecultura.ms.gov.br/mis-e-ufms-realizam-a-4a-edicao-da-mostra-de-arte-digital-no-formato-online/), 17 dez. 2021. Acesso em 4 nov. 2026.
 [^fcms2024]: Karina Lima (Setesc), ["MIS recebe Mostra de Arte Digital junto com a 14ª Mostra Cinema e Direitos Humanos"](https://www.fundacaodecultura.ms.gov.br/mis-recebe-mostra-de-arte-digital-junto-com-a-14a-mostra-cinema-e-direitos-humanos/), Fundação de Cultura de MS, 28 nov. 2024. Acesso em 4 nov. 2026.
+[^oe2024]: Amanda Ferreira, ["14ª Mostra Cinema e Direitos Humanos"](https://oestadoonline.com.br/arte-e-lazer/14a-mostra-cinema-e-direitos-humanos/), *O Estado MS*, 26 nov. 2024. Acesso em 4 nov. 2026.

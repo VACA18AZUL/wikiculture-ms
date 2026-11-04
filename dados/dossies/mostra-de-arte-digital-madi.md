@@ -42,3 +42,10 @@
 
 ## Uso no verbete
 - Entrou: tudo acima, com a 7ª edição como anúncio. Fora: nomes dos 15 artistas de 2024 (lista longa, sem verbetes), telefones.
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: Amanda Ferreira, "14ª Mostra Cinema e Direitos Humanos", *O Estado MS*, 26 nov. 2024 (https://oestadoonline.com.br/arte-e-lazer/14a-mostra-cinema-e-direitos-humanos/), lida pela API do site. Reportagem própria, com entrevista às organizadoras.
+- Reforça só a edição de 2024: a programação lista a abertura da exposição MADi em 26 nov. 2024, 19h, no MIS, com a abertura da 14ª Mostra. Venise Melo citada como organizadora.
+- Sem resultado: busca interna do *Campo Grande News* ("Mostra de Arte Digital", "MADi arte"), API do *O Estado MS* ("arte digital UFMS", "Venise Paschoal").
+- 1ª edição (2018), 5ª e 6ª e realização da 7ª seguem sem confirmação independente.

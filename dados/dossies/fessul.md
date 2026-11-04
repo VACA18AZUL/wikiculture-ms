@@ -39,3 +39,9 @@ Fonte nova: Ian Rari Nogueira Faria, *Contribuições da música regional...*, d
 - Acrescentada só uma frase com o que é de Faria: primeiro grande evento artístico do novo estado; ginásios lotados (p. 57).
 - Faria transcreve a letra de "Kananciuê" (p. 58-59), creditada ao Grupo Acaba, 1979; não entra (texto integral de letra).
 - Situação continua "reforcar": segunda fonte independente de Caetano ainda falta.
+
+## Atualização de 2026-11-04 (r9)
+
+- Fonte nova aberta e lida: Nyelder Rodrigues, "Festivais que marcaram época em MS são relembrados em filme", Campo Grande News, 13 ago. 2021 (https://www.campograndenews.com.br/lado-b/diversao/festivais-que-marcaram-epoca-em-ms-sao-relembrados-em-filme), achada pela busca interna do CGN ("Fessul"). Independente de Caetano e Faria (reportagem sobre o filme *Sonoras Imagens de Uma Época*, Quiquiho Produções, direção de Dalila Saldanha, com pesquisa de Rodrigo Teixeira e fotos de Roberto Higa). Sustenta: I Fessul em 1979 no Ginásio da UCE; "Kananciuê" (Moacir Lacerda e J. Luz Bittencourt), pelo Grupo Acaba, vencedora.
+- Acrescentado parágrafo em "Edições" com nota `cgn2021`.
+- Vistas e não usadas: O Estado, "Geraldo Espíndola resgata músicas de festivais", 25 ago. 2021 (mesmo texto de divulgação do filme); artigo de opinião no CGN, "A importância do Grupo Acaba..." (lembrança pessoal, grafa "Fesul").

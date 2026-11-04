@@ -35,7 +35,7 @@ Os livros de poesia citados pela Academia e pela UFGD são:[^asl][^ufgd]
 - *Jardim das Violetras* (1983)[^asl]
 - *Margem de Papel* (1994)[^asl]
 - *Satilírico* (1995)[^asl]
-- *Caixa de Poemas* (1997), pela Editora Manuscrito; por anos leitura obrigatória em vestibulares de Mato Grosso do Sul[^asl]
+- [[caixa-de-poemas|*Caixa de Poemas*]] (1997), pela Editora Manuscrito; por anos leitura obrigatória em vestibulares de Mato Grosso do Sul[^asl]
 - *Caixa das Delícias* (2003; a Academia não informa o ano)[^asl][^ufgd]
 
 ## Estudos sobre a obra
