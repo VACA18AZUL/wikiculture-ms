@@ -24,7 +24,7 @@ No carnaval de 2025 a escola desfilou na Praça do Papa com o enredo "Inez: de M
 
 Em 16 de fevereiro de 2026 desfilou com o enredo "Um elo entre Pantanal e Amazônia, um chamado à vida", sobre a arara azul e o corredor ambiental entre os dois biomas. O mestre de bateria era Wlauer Carvalho, no posto havia 36 anos.[^fcms2026] Com esse desfile, a Vila Carvalho conquistou o 23º título do carnaval de Campo Grande, à frente da Deixa Falar.[^ce2026]
 
-A comunidade da escola realiza em sua quadra a [[feijoada-de-jorge-vila-carvalho|Feijoada de Jorge]], festa em louvor a São Jorge com samba e almoço coletivo. Em 2026 a festa teve apoio do [[grupo-tez|Grupo TEZ]].[^fcms-feijoada]
+A comunidade da escola realiza em sua quadra a [[feijoada-de-jorge-vila-carvalho|Feijoada de Jorge]], festa em louvor a São Jorge com samba e almoço coletivo. A Fundação de Cultura anunciou a edição de 19 de abril de 2026 com apoio do [[grupo-tez|Grupo TEZ]].[^fcms-feijoada]
 
 [^cn1-2024]: Waldir Tavares Filho, ["Campo Grande/MS: A resistência do samba no Centro-Oeste, com a Segunda Liga Mais Antiga do Brasil"](https://cn1brasil.com.br/campo-grande-ms-a-resistencia-do-samba-no-centro-oeste-com-a-segunda-liga-mais-antiga-do-brasil/), *CN1 Brasil*, 12 mar. 2024. Acesso em 4 nov. 2026.
 [^ce2017]: Redação, ["Vila Carvalho conquista o carnaval de Campo Grande pelo 2º ano seguido"](https://correiodoestado.com.br/cidades/2017/03/02/vila-carvalho-conquista-o-carnaval-de-campo-grande-pelo-2o-ano-seguido.html), *Correio do Estado*, 1 mar. 2017. Acesso em 4 nov. 2026.

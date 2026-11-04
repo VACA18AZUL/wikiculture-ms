@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-O filme revisita a obra de cinco realizadores: [[alexandre-couto|Alexandre Couto]], [[reinaldo-dorval|José Reinaldo]], [[jose-piranha-rocha|José Piranha]], [[juareis-chaves|Juareis Chaves]] e [[rubens-ramos|Rubens Ramos]].[^cgn2016][^fcms2016] A diretora contou que o contato com o grupo começou em 2010, quando inscreveu o curta em um prêmio da Fundação de Cultura e foi premiada, e que gravou as entrevistas em 2011. Ela prefere chamar o trabalho deles de "cinema de borda", feito à margem do circuito comercial, em vez de cinema amador.[^cgn2016]
+O filme revisita a obra de cinco realizadores: [[alexandre-couto|Alexandre Couto]], José Reinaldo, [[jose-piranha-rocha|José Piranha]], [[juareis-chaves|Juareis Chaves]] e [[rubens-ramos|Rubens Ramos]].[^cgn2016][^fcms2016] A diretora contou que o contato com o grupo começou em 2010, quando inscreveu o curta em um prêmio da Fundação de Cultura e foi premiada, e que gravou as entrevistas em 2011. Ela prefere chamar o trabalho deles de "cinema de borda", feito à margem do circuito comercial, em vez de cinema amador.[^cgn2016]
 
 A pré-estreia foi em 28 de março de 2016, no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande. Segundo a Fundação de Cultura de MS, o auditório lotou e Alexandre Couto esteve presente.[^cgn2016][^fcms2016]
 
