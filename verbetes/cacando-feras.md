@@ -23,7 +23,7 @@ A Cinemateca dá as filmagens entre 19 de junho e 25 de agosto de 1936. O filme 
 
 ## Enredo e leitura
 
-A sinopse publicada em *A Scena Muda* em 1936, reproduzida pela Cinemateca e, via Antônio Leão da Silva Neto (2002), por Neves, acompanha Barbosa Junior, locutor de uma rádio em crise financeira. Para salvar a emissora, ele organiza uma expedição aos pantanais de Mato Grosso para transmitir uma caçada. O filme mistura cenas de natureza e episódios cômicos.[^neves][^cinemateca]
+A sinopse publicada em *A Scena Muda* em 1936, reproduzida pela Cinemateca e, via o *Dicionário de filmes brasileiros* de Antonio L. Silva Neto (2002), por Neves, acompanha Barbosa Junior, locutor de uma rádio em crise financeira. Para salvar a emissora, ele organiza uma expedição aos pantanais de Mato Grosso para transmitir uma caçada. O filme mistura cenas de natureza e episódios cômicos.[^neves][^cinemateca]
 
 Para Neves, o filme mostra o sertão pantaneiro como espetáculo exótico e mítico a ser explorado, visão comum do interior do Brasil até meados do século XX.[^neves]
 
