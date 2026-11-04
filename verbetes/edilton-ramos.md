@@ -27,6 +27,8 @@ Em março de 2016, a FCMS anunciou a *Paixão de Cristo* do Grupo Transart, diri
 
 O folheto atribui a ele a criação, em 1973, do Grupo Transart, que apresentou espetáculos de apelo comercial sobre questões familiares e ambientais, como *Conflitos de Geração* e *Doutor Urubulino Polu*.[^folheto]
 
+Em abril de 2018, o *Campo Grande News* publicou perfil em que ele é apresentado como ator, diretor e produtor que interpretava Jesus Cristo havia 39 anos. Segundo a reportagem, o texto da *Paixão de Cristo*, também chamada *A Vida de Jesus*, foi criado em 1979, a partir de várias edições da Bíblia, e a primeira apresentação foi uma peça sem falas. A matéria diz que *A última noite de Sodoma* foi apresentada no Teatro Aracy Balabanian, desagradou à fundação municipal de cultura e foi censurada em Campo Grande, mas teve público em Dourados e Cuiabá. Na época, o grupo (grafado "Transarte" no texto) seguia em circulação pelo estado com peças como *Conflito de Gerações* e *Lugar ao Sol*.[^cgn2018]
+
 A homenagem ocorreu na abertura oficial da mostra, em 22 de maio de 2017, no Teatro Glauce Rocha, junto com o Grupo Palco e o Mágico Tabajara.[^folheto][^fcms]
 
 Ver também: [[grupo-teatral-palco|Grupo Teatral Palco]].[^folheto]
@@ -34,8 +36,10 @@ Ver também: [[grupo-teatral-palco|Grupo Teatral Palco]].[^folheto]
 ## Espetáculos
 
 - *Paixão de Cristo* (desde 1978, pelo cálculo de 39 anos em 2017; 1979 segundo a FCMS em 2016) — encenação.[^folheto][^fcms2016]
-- *A última noite de Sodoma* (1991) — texto.[^folheto]
+- *A última noite de Sodoma* (1991) — texto.[^folheto][^cgn2018]
+- *Lugar ao Sol* — encenação.[^cgn2018]
 
 [^folheto]: Fundação de Cultura de Mato Grosso do Sul, [folheto da Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), 2017, seções "Homenageados" e programação. Acesso em 29 out. 2026.
+[^cgn2018]: Thaís Pimenta, ["Há 39 anos como Cristo, Edilton já teve peça censurada por falar de Sodoma"](https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/ha-39-anos-como-cristo-edilton-ja-teve-peca-censurada-por-falar-de-sodoma), *Campo Grande News*, 21 abr. 2018. Acesso em 4 nov. 2026.
 [^fcms]: Karina Lima, ["Noite foi de homenagens na abertura do Boca de Cena no Teatro Glauce Rocha"](https://www.fundacaodecultura.ms.gov.br/noite-foi-de-homenagens-na-abertura-do-boca-de-cena-no-teatro-glauce-rocha/), Fundação de Cultura de Mato Grosso do Sul, 23 mai. 2017. Acesso em 4 nov. 2026.
 [^fcms2016]: Fundação de Cultura de Mato Grosso do Sul, ["'A Paixão de Cristo' será encenada em Fátima do Sul e Nova Alvorada com apoio do Governo do Estado"](https://www.fundacaodecultura.ms.gov.br/a-paixao-de-cristo-sera-encenada-em-fatima-do-sul-e-nova-alvorada-com-apoio-do-governo-do-estado/), 15 mar. 2016 (data do cabeçalho da página; a listagem de busca do site mostra 22 abr. 2020). Acesso em 4 nov. 2026.

@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**José Filho** é um ilustrador e tatuador nascido em [[ponta-pora|Ponta Porã]], na fronteira com Pedro Juan Caballero, no Paraguai. É o criador da Capivarinha Pantaneira, personagem de tirinhas sobre situações do cotidiano brasileiro.[^cgn2024][^g12024]
+**José Filho** é um ilustrador e tatuador nascido em Ponta Porã, na fronteira com Pedro Juan Caballero, no Paraguai. É o criador da Capivarinha Pantaneira, personagem de tirinhas sobre situações do cotidiano brasileiro.[^cgn2024][^g12024]
 
 ## Trajetória
 
@@ -19,7 +19,7 @@ Desenha desde a infância. Na faculdade, escolheu o curso de arquitetura por ser
 
 Criou a Capivarinha Pantaneira durante a pandemia. Escolheu a capivara por considerá-la um animal sociável e latino-americano, presente em Mato Grosso do Sul, e a apresentou como uma personagem "sagitariana e latina". As tirinhas tratam de dilemas e brincadeiras do dia a dia e partem de experiências próprias, memes e referências de outros artistas.[^cgn2024] No começo, os desenhos eram vistos só por amigos; as publicações cresceram com comentários e compartilhamentos, e a página passou de 150 mil seguidores em abril de 2024.[^g12024] Segundo o artista, a personagem tinha mais público no Sudeste e no Nordeste do que em Mato Grosso do Sul.[^cgn2024]
 
-A partir da personagem, começou a tatuar, e o *g1* registrou que ele tinha estúdio próprio em [[dourados|Dourados]]. Em 2024, planejava levar a Capivarinha ao vestuário, à estamparia e ao grafite, com referências da cultura da fronteira com o Paraguai e da cultura guarani.[^cgn2024][^g12024]
+A partir da personagem, começou a tatuar, e o *g1* registrou que ele tinha estúdio próprio em Dourados. Em 2024, planejava levar a Capivarinha ao vestuário, à estamparia e ao grafite, com referências da cultura da fronteira com o Paraguai e da cultura guarani.[^cgn2024][^g12024]
 
 ## Obras
 

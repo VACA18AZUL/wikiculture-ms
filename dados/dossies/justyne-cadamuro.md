@@ -54,3 +54,7 @@ Segunda fonte: não encontrada. Buscas abertas (Salão de Artes 2010, prêmio-aq
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS (busca por nome, Sarracenia, Salão de Artes): sem resultado; Correio do Estado ("Cadamuro"): sem matéria da artista; Campo Grande News: busca devolve só a página inicial. Continua com fonte única (anais ANPUH). Sugestão: catálogo do MARCO ou do Salão de Artes de MS 2010.
+
+## Atualização de 2026-11-04 (r9)
+
+Nenhuma fonte nova serviu; o verbete não mudou. Buscas: busca interna do Campo Grande News, API do O Estado, RSS do Google Notícias ("Justyne Cadamuro", "Cadamuro") e API da FCMS (wp-json, "Cadamuro"): nenhum resultado.
