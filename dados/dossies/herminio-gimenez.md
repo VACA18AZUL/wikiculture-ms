@@ -67,3 +67,10 @@ Descartadas: Luis Szarán, "El mundo sonoro de Herminio Giménez" (cópia no arc
 ## Uso no verbete
 
 - Entrou o vínculo com Campo Grande (gon) e um resumo da trajetória (pg).
+
+## Revisão de 2026-11-04 (valn-20)
+
+- pg e gon (PDF, p. 21-22, 141, 152-153) reabertas e conferidas; datas, cidades e obras conferem.
+- Resolvido um ponto de "Não confirmado": na p. 153, Charles Veron diz que o título original de "Meu Primeiro Amor" é "Lejanía" e que Giménez vinha a Campo Grande a passeio, por ter muitos amigos ali. Acrescentado ao verbete (nota gon152, p. 152-153).
+- Xisto Ramirez (nascido perto de Pedro Juan Caballero) e Charles Veron (natural de Luque) são paraguaios segundo a dissertação (p. 70-71): confirma "músicos paraguaios".
+- pg é compilação que reproduz o livro de Torales e Torales (2005) e outros textos; isso está dito na nota.

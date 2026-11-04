@@ -78,3 +78,9 @@ Fontes descartadas e o motivo:
 ## Revisão de 2026-11-04 (valn-16)
 
 - Conexao relido via WebFetch (Dialnet bloqueia curl). Trechos de credenciais reescritos. Todas as fontes ligadas ao biografado ou à UFMS: falta fonte independente.
+
+## Atualização de 2026-11-04 (r5-1)
+
+Fonte independente nova aberta e lida: Aletheya Alves, "Desafio de Rogério é encontrar circos que passaram por Corumbá", Campo Grande News, 20 out. 2024 (https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/desafio-de-rogerio-e-encontrar-circos-que-passaram-por-corumba; URL descoberta por tentativa no padrão do jornal e confirmada: título e data batem com a pista do dossiê). Sustenta: professor de educação física da UFMS; pesquisas na cultura lúdica sul-mato-grossense e no circo; localizou 15 circos em Corumbá entre 1880 e 1930 em jornais da Biblioteca Nacional (entre eles Circo Alcibíades, 1920); busca fotografias, trabalho com o pesquisador Fabrício Mozer. Entrou como seção "Pesquisa sobre circos em Corumbá" (nota cgn2024). Telefone do professor, publicado na matéria, ficou fora.
+
+Também aberto: Primeira Página (primeirapagina.com.br), "Aulas de circo têm inscrições abertas para crianças em Corumbá e Ladário", 7 fev. 2025: mesmo conteúdo e mesma citação do release da UFMS (foto "Divulgação/UFMS"); não conta como fonte independente. Crossref lista outras publicações dele (Circo no Pantanal, 2021; Circo do Xulé, 2024 etc.), todas de autoria própria; não entraram.

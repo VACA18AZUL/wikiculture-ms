@@ -43,3 +43,7 @@
 ## Uso no verbete
 
 - Entrou o acima, sem o conjunto de 2013.
+
+## Revisão de 2026-11-04 (valn-19a)
+
+- Retirado do verbete o parágrafo das inscrições de ago. 2023 da "Orquestra Municipal de Música Popular de Três Lagoas": nenhuma fonte liga esse conjunto à orquestra regida por Lucas Osório de Melo.

@@ -26,9 +26,9 @@ Viveu exilado na Argentina depois da revolução de 1936 e, por mais tempo, depo
 
 ## Em Campo Grande
 
-Segundo Rodrigo Teixeira Gonçalves, o maestro passou a frequentar Campo Grande a partir da década de 1960 e fez amizade com músicos como Elinho do Bandoneon. Acompanhou várias vezes a dupla [[jandira-e-benites|Jandira e Benites]] e, em 1967, assinou a trilha sonora de [[paralelos-tragicos|*Paralelos Trágicos*]], primeiro longa-metragem produzido na cidade pelos [[irmaos-lahdo|irmãos Lahdo]].[^gon21] Uma foto do arquivo de Benites, reproduzida na dissertação, mostra Giménez acompanhando a dupla num bar de Campo Grande.[^gon22]
+Segundo Rodrigo Teixeira Gonçalves, o maestro passou a frequentar Campo Grande a partir da década de 1960 e fez amizade com músicos como Elinho do Bandoneon. Tocou em várias ocasiões com a dupla [[jandira-e-benites|Jandira e Benites]]. Em 1967, fez a trilha de [[paralelos-tragicos|*Paralelos Trágicos*]], primeiro longa-metragem produzido na cidade pelos [[irmaos-lahdo|irmãos Lahdo]].[^gon21] Uma foto do arquivo de Benites, reproduzida na dissertação, mostra Giménez acompanhando a dupla num bar de Campo Grande.[^gon22]
 
-Músicos paraguaios entrevistados por Gonçalves em 2014 lembram o convívio. Xisto Ramirez conta que tocou dois anos com o maestro, a quem conheceu na casa de Elinho.[^gon141] Charles Veron o chama de amigo e de autor de "Meu Primeiro Amor", e diz que Giménez não gostava da versão traduzida da canção.[^gon152]
+Músicos paraguaios entrevistados por Gonçalves em 2014 lembram o convívio. Xisto Ramirez conta que tocou dois anos com o maestro, a quem conheceu na casa de Elinho.[^gon141] Charles Veron o chama de amigo e de autor de "Meu Primeiro Amor", e diz que Giménez não gostava da versão traduzida da canção. Segundo Veron, o título original é "Lejanía", e o maestro vinha a Campo Grande a passeio, porque tinha muitos amigos na cidade.[^gon152]
 
 ## Obras
 
@@ -44,4 +44,4 @@ Músicos paraguaios entrevistados por Gonçalves em 2014 lembram o convívio. Xi
 [^gon21]: Rodrigo Teixeira Gonçalves, *O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*, dissertação de mestrado, UFMS, 2014, p. 21 ([PDF](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723)). Acesso em 4 nov. 2026.
 [^gon22]: Gonçalves, 2014, p. 22, foto 3 (mesma dissertação). Acesso em 4 nov. 2026.
 [^gon141]: Gonçalves, 2014, p. 141, entrevista com Xisto Ramirez (mesma dissertação). Acesso em 4 nov. 2026.
-[^gon152]: Gonçalves, 2014, p. 152, entrevista com Charles Veron (mesma dissertação). Acesso em 4 nov. 2026.
+[^gon152]: Gonçalves, 2014, p. 152-153, entrevista com Charles Veron (mesma dissertação). Acesso em 4 nov. 2026.

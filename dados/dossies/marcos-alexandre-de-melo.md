@@ -35,3 +35,18 @@ Fonte única. Busca de segunda fonte interrompida: a cota de buscas da rodada ac
 ## Uso no verbete
 
 - Tudo acima; sem datas para a mudança.
+
+## Atualização de 2026-11-04 (r5-1)
+
+Fontes novas abertas e lidas (FCMS, texto de assessoria de comunicação, outro veículo que o folheto de 2017 em PDF hospedado na UFMS):
+
+| id da nota | Referência | URL | O que sustenta |
+|---|---|---|---|
+| fcms2017 | Karina Lima, FCMS, "Boca de Cena apresentou dramaturgia de Anton Tchekhov...", 26 maio 2017 | https://www.fundacaodecultura.ms.gov.br/boca-de-cena-apresentou-dramaturgia-de-anton-tchekhov-na-noite-de-quinta-feira/ | Marcos Alexandre é o ator de *Os Malefícios do Tabaco* (Teatro Prosa, 25 maio 2017); curso de Artes Cênicas da UEMS concluído em 2014 (dito por ele); peça estreou em 2014, 9.ª temporada, Fonteatro; Grupo Identidade Teatral existe desde 1994; professor de teatro em duas escolas estaduais de Campo Grande. |
+| fcmsPalco | Karina Lima, FCMS, "Noite foi de homenagens na abertura do Boca de Cena...", 23 maio 2017 | https://www.fundacaodecultura.ms.gov.br/noite-foi-de-homenagens-na-abertura-do-boca-de-cena-no-teatro-glauce-rocha/ | Grupo Palco fundado em 1992 por "Marcos Alexandre de Mello"; em 1995 passou à coordenação de Espedito di Montebranco. Grafia Mello (dois "l"). Dá o ano aproximado da saída do Palco (1995), que o folheto não datava; o verbete não afirma que a mudança para São Paulo foi nesse ano. |
+| fcms2022 | FCMS, "FCMS divulga projetos habilitados no edital FIC/MS 2021", 29 abr. 2022 | https://www.fundacaodecultura.ms.gov.br/fcms-divulga-projetos-habilitados-no-edital-fic-ms-2021/ | Projeto *Ciranda Mitã*, proponente Marcos Alexandre de Melo, Campo Grande/MS. Lista de habilitados (não diz se foi contemplado). Identidade com o ator: só pelo nome completo; o texto não liga ao grupo. |
+| fcms2024 | FCMS, "FIB 2024: peça teatral discute influência do dinheiro nas relações humanas", 25 ago. 2024 | https://www.fundacaodecultura.ms.gov.br/fib-2024-peca-teatral-discute-influencia-do-dinheiro-nas-relacoes-humanas/ | Grupo Identidade Teatral apresenta *O Vil Metal* no 23.º Festival de Inverno de Bonito, em homenagem aos 30 anos de carreira de Marcos Alexandre, Yago Garcia e Fernanda Kunzler; ele é ator e escritor da peça; primeiro festival do grupo em 2001. |
+
+Divergência de grafia: Melo (folheto 2017; FIC 2022) x Mello (FCMS 23 maio 2017). Mantida no texto.
+Não resolvido: quando ele se mudou para São Paulo e se voltou a Campo Grande (a FCMS de 2017 o mostra professor em escolas estaduais de Campo Grande e atuando). Datas da coordenação do Identidade Teatral: sem fonte. Lida e não usada: Correio do Estado, "Cia Identidade Teatral se apresenta hoje", 27 out. 2011 (grupo, *O rei que não sabia rir*, Quinta Cultural na Orla), não cita Marcos.
+Dados pessoais deixados fora: nenhum.

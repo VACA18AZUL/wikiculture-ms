@@ -48,3 +48,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete curto com FONTE ÚNICA (catálogo institucional do MARCO). Segunda fonte independente não encontrada nesta sessão; merece reforço.
+
+## Atualização de 2026-11-04 (r5-1)
+
+Fonte nova aberta e lida: Alline Gois, FCMS, "Faces da América do Sul: pinturas de artistas visuais estão em exposição no 14.º FASP", 25 maio 2018 (https://www.fundacaodecultura.ms.gov.br/faces-da-america-do-sul-pinturas-de-artistas-visuais-estao-em-exposicao-no-14o-fasp/). Sustenta: obras de Abílio Escalante, do acervo do MARCO, na mostra *Matizes da América do Sul* (Casa da Beneficência Portuguesa, Corumbá), recorte do acervo com artistas sul-americanos, curadora Lucia Montserrat. O título da matéria diz "Faces da América do Sul"; a mostra se chama "Matizes". Entrou no verbete como nota fcms2018.
+
+Limite: mesma instituição (FCMS) do catálogo do MARCO; não é fonte independente do objeto. Buscas sem resultado: Correio do Estado, A Crítica, BDTD (nenhum registro), API da FCMS pelo nome completo, Agência de Notícias do Governo de MS. A tese de 2025 da UFMS sobre artistas de Corumbá continua sem abrir (reset de conexão no repositório). A incoerência interna do catálogo (1962 x 1954) segue sem fonte que a resolva.

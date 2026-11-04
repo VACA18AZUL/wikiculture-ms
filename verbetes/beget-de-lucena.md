@@ -29,7 +29,7 @@ Em agosto de 2024, apresentou com [[dovalle|Dovalle]] o show "Cabaret Paixão" n
 
 ## Discografia
 
-- *Cygano* (2019) — álbum; com participação de Ney Matogrosso em "Bolero de Criolo".[^popfantasma2023] [Ouvir no Apple Music](https://music.apple.com/us/album/cygano/1489641630)
+- *Cygano* (2019) — álbum; com participação de Ney Matogrosso em "Bolero de Criolo".[^popfantasma2023]
 - "De primeira" (2023) — single; selo New House; parceria com Kiko Zambianchi.[^popfantasma2023]
 
 ## Espetáculos

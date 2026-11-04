@@ -46,3 +46,17 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete curto com FONTE ÚNICA (catálogo institucional do MARCO). Segunda fonte independente não encontrada nesta sessão; merece reforço.
+
+## Atualização de 2026-11-04 (r5-1)
+
+Fontes novas abertas e lidas (todas da FCMS; mesma instituição do catálogo do MARCO, mas textos de imprensa separados):
+
+| id da nota | Referência | URL | O que sustenta |
+|---|---|---|---|
+| fcms2018 | FCMS, "Festival América do Sul Pantanal promove encontro multicultural com 10 países do continente", 7 maio 2018 | https://www.fundacaodecultura.ms.gov.br/festival-america-do-sul-pantanal-promove-encontro-multicultural-com-10-paises-do-continente/ | Exposição individual do "corumbaense Rubén Darío Román Anez" no Centro de Convenções Miguel Gomez, no 14.º FASP. |
+| fcms2019 | FCMS, "Galeria de Artes Visuais estimulou no Fasp uma releitura dos acervos do Marco", 19 nov. 2019 | https://www.fundacaodecultura.ms.gov.br/galeria-de-artes-visuais-estimulou-no-fasp-uma-releitura-dos-acervos-do-marco/ | "Ruben Dario" entre os artistas bolivianos, ateliê em Corumbá, obras em papelão paraná e giz pastel seco. |
+| fcms2017 | FCMS, "Teatral Grupo de Risco encena Guardiões com apoio do FIC e entrada franca", 13 mar. 2017 | https://www.fundacaodecultura.ms.gov.br/teatral-grupo-de-risco-encena-guardioes-com-apoio-do-fic-e-entrada-franca/ | Ilustrações de "Rubén Dario Román Añez" no espetáculo *Guardiões*. Identidade pelo nome completo. |
+
+DIVERGÊNCIA registrada no verbete: "corumbaense" (FCMS 2018) x artista boliviano (FCMS 2019) x "nasceu na Bolívia, em 1947" (catálogo do MARCO). Registrar em `observacoes` da lista-mestra.
+
+Fora do verbete: Ruberth/Romã Rosário Román Anez (curador do FASP 2019 e ligado ao TGR), outra pessoa; sem relação afirmada nas fontes. Sem resultado: Correio do Estado, A Crítica, BDTD; a tese da UFMS (2025) continua sem abrir.

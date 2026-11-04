@@ -46,3 +46,9 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Verbete curto com FONTE ÚNICA (catálogo institucional do MARCO). Segunda fonte independente não encontrada nesta sessão; merece reforço.
+
+## Atualização de 2026-11-04 (r5-1)
+
+Fonte nova aberta e lida: Theresa Hilcar, Agência de Notícias do Governo de MS, "MS 42 anos: conhecer a arte é saber da história", 13 out. 2019 (https://agenciadenoticias.ms.gov.br/ms-42-anos-conhecer-a-arte-e-saber-da-historia/). Cita "Carlos Nunes" entre os nomes importantes do movimento moderno e contemporâneo das artes plásticas de MS (com Lu Sant'ana, Áurea Katsuren e outros), a partir de fala da crítica Maria Adélia Menegazzo. Só o nome, sem sobrenome completo nem dados de obra: identificação por nome e contexto. Entrou no verbete como nota ams2019 (domínio diferente do catálogo, mas também texto de governo).
+
+Pista descartada: FCMS, nota de pesar de 2 set. 2020, menciona a exposição "Conexões Criativas" (jan. 2020) com "Carlos Nunes" e Edson Castro. Texto de falecimento de outra pessoa e sem certeza de identidade: não entrou. Sem resultado: Correio do Estado, A Crítica, BDTD (homônimos), API da FCMS por "Carlos Alberto Nunes Carneiro".
