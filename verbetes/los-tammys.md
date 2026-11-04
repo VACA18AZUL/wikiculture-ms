@@ -23,9 +23,9 @@ atualizado: 2026-11-04
 
 Segundo a descrição do [[projeto-memoria-fonografica-de-ms|Acervo Digital Memória Fonográfica de MS]], o grupo começou a se formar em 31 de outubro de 1960 e foi fundado oficialmente em 1961, com o nome Los Tammy's Junior.[^mf]
 
-O acervo apresenta o conjunto como a primeira orquestra eletrônica do interior do Paraguai e como pioneiro no uso de instrumentos elétricos. Informa ainda que o grupo recebeu o título de "Embaixador da Música Paraguaia", por mais de 50 anos de atuação na fronteira entre Pedro Juan Caballero e Ponta Porã.[^mf]
+O acervo apresenta o conjunto como a primeira orquestra eletrônica do interior paraguaio e como pioneiro no uso de instrumentos elétricos no país e em Mato Grosso. Informa ainda que o grupo recebeu o título de "Embaixador da Música Paraguaia", por mais de 50 anos de atuação na fronteira entre Pedro Juan Caballero e Ponta Porã.[^mf]
 
-No primeiro LP, *Decide Corazón* (1971), a formação reunia Ramon B. Insfran na direção, no órgão e na guitarra elétrica, Nestor Dacunha, Francisco Solano Alegre no baixo e como tenor, Aldimar Aquino no saxofone, Adolfo Alegre na bateria e Victor Hugo de La Sierra no canto. A produção foi de Insfrán. Participaram da gravação o cantor e compositor N. da Cunha e os irmãos Ojeda, de formações anteriores.[^mf]
+A descrição do primeiro LP, *Decide Corazón* (1971), lista esta formação: Ramon B. Insfran (direção, órgão e guitarra elétrica), Nestor Dacunha, Francisco Solano Alegre (baixo e voz de tenor), Aldimar Aquino (sax), Adolfo Alegre (bateria) e Victor Hugo de La Sierra (vocal). Insfrán conduziu a produção do disco. Participaram da gravação o cantor e compositor N. da Cunha e os irmãos Ojeda, de formações anteriores.[^mf]
 
 ## Discografia
 
