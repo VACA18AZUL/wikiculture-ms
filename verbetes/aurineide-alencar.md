@@ -3,7 +3,7 @@ titulo: Aurineide Alencar
 tipo: pessoa
 areas: [literatura]
 cidade: Dourados
-resumo: Poeta e cordelista paraibana radicada em Dourados, criadora de uma cordelteca itinerante numa Kombi; em 2024 lançou dez fábulas clássicas recontadas em cordel.
+resumo: Poeta e cordelista paraibana radicada em Dourados, criadora de uma cordelteca itinerante numa Kombi; em 2024 publicou dez fábulas clássicas recontadas em cordel.
 ficha:
   Nascimento: Catolé do Rocha (PB)
   Atividade: Poeta, cordelista
@@ -21,7 +21,7 @@ Em 2022, estava entre os autores anunciados na segunda edição da [[felit-ms|Fe
 
 ## Obras
 
-Em 1º de junho de 2024, lançou em Dourados dez fábulas clássicas recontadas em cordel, com tiragem de 500 exemplares por título; parte foi destinada a escolas municipais e estaduais e à Secretaria de Cultura de Dourados.[^cgn2024a]
+Em 2024, publicou dez fábulas clássicas recontadas em cordel, com lançamento marcado para 1º de junho, em Dourados. A tiragem prevista era de 500 exemplares por título, com parte destinada a escolas municipais e estaduais e à Secretaria de Cultura de Dourados.[^cgn2024a]
 
 - *A Lebre e a Raposa* (2024)[^cgn2024a]
 - *O Leão e o Rato* (2024)[^cgn2024a]
@@ -33,7 +33,7 @@ Em 1º de junho de 2024, lançou em Dourados dez fábulas clássicas recontadas 
 - *A Formiga e a Pomba* (2024)[^cgn2024a]
 - *A Lebre e as Rãs* (2024)[^cgn2024a]
 - *A Pantera e a Raposa* (2024)[^cgn2024a]
-- *Lenda: 700 Luas* (2024), um dos 25 livros do projeto Palavras Além do Tempo, da editora [[vida-producoes|Vida Produções]], lançados juntos em 23 de dezembro de 2024 na Casa de Cultura, em Campo Grande.[^cgn2024b]
+- *Lenda: 700 Luas* (2024), um dos 25 livros do projeto [[palavras-alem-do-tempo|Palavras Além do Tempo]], da editora [[vida-producoes|Vida Produções]], com lançamento conjunto marcado para 23 de dezembro de 2024 na Casa de Cultura, em Campo Grande.[^cgn2024b]
 
 [^cgn2024a]: Idaicy Solano, ["Aurineide transformou magia de fábulas em literatura de cordel"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aurineide-transformou-magia-de-fabulas-em-literatura-de-cordel), *Campo Grande News*, 31 maio 2024. Acesso em 4 nov. 2026.
 [^cgn2024b]: Thailla Torres, ["Campo Grande recebe lançamento de 25 livros no mesmo dia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/campo-grande-recebe-lancamento-de-25-livros-no-mesmo-dia), *Campo Grande News*, 17 dez. 2024. Acesso em 4 nov. 2026.

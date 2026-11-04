@@ -12,12 +12,12 @@ ficha:
 links:
   - tipo: itau-cultural
     url: https://enciclopedia.itaucultural.org.br/pessoas/2043-wega-nery
-    acesso: 2026-10-29
+    acesso: 2026-11-04
   - tipo: wikipedia
     url: https://pt.wikipedia.org/wiki/Wega_Nery
-    acesso: 2026-10-29
+    acesso: 2026-11-04
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Wega Nery** (Corumbá, 1912 ou 1913 – Guarujá, SP, 2007) foi uma pintora, desenhista, poeta e professora, nascida em Corumbá e radicada em São Paulo.[^itau]
@@ -38,15 +38,15 @@ A partir dos anos 1960 passou a pintar as "paisagens imaginárias", série que m
 
 O Itaú Cultural registra uma individual na Pinacoteca do Estado de São Paulo em 1993 e uma retrospectiva no Centro Cultural São Paulo em 1994.[^itau] A tela *Freguesia do Ó* (1950), óleo sobre tela, está no acervo do Estado de São Paulo.[^acervosp]
 
-Em Mato Grosso do Sul, o [[marco|MARCO]] foi contemplado na 2.ª edição do Prêmio Marcantonio Vilaça, na categoria aquisição de acervos, com obras de Wega Nery, [[ignes-correa-da-costa|Ignês Corrêa da Costa]] e [[jorapimo|Jorapimo]].[^compocs] Em novembro de 2016, o museu abriu uma exposição de acervo com essas obras.[^ce2016] Em 2013, a Fundação de Cultura incluiu a artista na mostra "In Memorian", na Galeria do Memorial da Cultura, em Campo Grande.[^cgn2013]
+Em Mato Grosso do Sul, o [[marco|MARCO]] foi contemplado na 2.ª edição do Prêmio Marcantonio Vilaça, na categoria aquisição de acervos, com obras de Wega Nery, [[ignes-correa-da-costa|Ignês Corrêa da Costa]] e [[jorapimo|Jorapimo]].[^compocs] Em novembro de 2016, o museu anunciou para o dia seguinte a abertura de uma exposição de acervo com essas obras, dentro da 4.ª Temporada de Exposições do ano.[^ce2016] Em 2013, a Fundação de Cultura incluiu a artista na mostra "In Memorian", na Galeria do Memorial da Cultura, em Campo Grande.[^cgn2013]
 
 ## Para saber mais
 
 - [Territórios imagéticos de Wega Nery](https://anpap.org.br/anais/2010/pdf/chtca/priscila_rosin.pdf) — artigo de Priscila Rosin e Norberto Stori (ANPAP, 2010) sobre as fases da pintora.
 
-[^itau]: Editores da Enciclopédia Itaú Cultural, ["Wega Nery"](https://enciclopedia.itaucultural.org.br/pessoas/2043-wega-nery), *Enciclopédia Itaú Cultural*, última atualização 13 out. 2026. Acesso em 29 out. 2026.
-[^rosin]: Priscila Rosin e Norberto Stori, ["Territórios imagéticos de Wega Nery"](https://anpap.org.br/anais/2010/pdf/chtca/priscila_rosin.pdf), 19.º Encontro da ANPAP, 2010, p. 784–786. Acesso em 29 out. 2026.
-[^acervosp]: Governo do Estado de São Paulo, ["Freguesia do Ó, 1950"](https://www.acervo.sp.gov.br/ObrasAudioteca/WegaNery), *Acervo do Estado de São Paulo*. Acesso em 29 out. 2026.
-[^cgn2013]: ["Até dia 22 de novembro, mostra reúne os maiores artistas plásticos do Estado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ate-dia-22-de-novembro-mostra-reune-os-maiores-artistas-plasticos-do-estado), *Campo Grande News*, 27 out. 2013. Acesso em 29 out. 2026.
-[^compocs]: Catia Regina Madella, Maria Augusta de Castilho e Maria Christina de Lima Félix Santos, ["Atividades educativas não formais realizadas no Museu de Arte Contemporânea – MARCO de Mato Grosso do Sul"](https://periodicos.ufms.br/index.php/compcs/article/view/8034/8829), *Compocs*, v. 1, n. 23, jul.–dez. 2020. Acesso em 29 out. 2026.
-[^ce2016]: ["Museu de Arte Contemporânea abre última mostra de 2016"](https://correiodoestado.com.br/correio-b/museu-de-arte-contemporanea-abre-ultima-mostra-de-2016/291758/), *Correio do Estado*, 21 nov. 2016. Acesso em 29 out. 2026.
+[^itau]: Editores da Enciclopédia Itaú Cultural, ["Wega Nery"](https://enciclopedia.itaucultural.org.br/pessoas/2043-wega-nery), *Enciclopédia Itaú Cultural*, última atualização 13 out. 2026. Acesso em 4 nov. 2026.
+[^rosin]: Priscila Rosin e Norberto Stori, ["Territórios imagéticos de Wega Nery"](https://anpap.org.br/anais/2010/pdf/chtca/priscila_rosin.pdf), 19.º Encontro da ANPAP, 2010, p. 784–786. Acesso em 4 nov. 2026.
+[^acervosp]: Governo do Estado de São Paulo, ["Freguesia do Ó, 1950"](https://www.acervo.sp.gov.br/ObrasAudioteca/WegaNery), *Acervo do Estado de São Paulo*. Acesso em 4 nov. 2026.
+[^cgn2013]: ["Até dia 22 de novembro, mostra reúne os maiores artistas plásticos do Estado"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ate-dia-22-de-novembro-mostra-reune-os-maiores-artistas-plasticos-do-estado), *Campo Grande News*, 27 out. 2013. Acesso em 4 nov. 2026.
+[^compocs]: Catia Regina Madella, Maria Augusta de Castilho e Maria Christina de Lima Félix Santos, ["Atividades educativas não formais realizadas no Museu de Arte Contemporânea – MARCO de Mato Grosso do Sul"](https://periodicos.ufms.br/index.php/compcs/article/view/8034/8829), *Compocs*, v. 1, n. 23, jul.–dez. 2020. Acesso em 4 nov. 2026.
+[^ce2016]: ["Museu de Arte Contemporânea abre última mostra de 2016"](https://correiodoestado.com.br/correio-b/museu-de-arte-contemporanea-abre-ultima-mostra-de-2016/291758/), *Correio do Estado*, 21 nov. 2016. Acesso em 4 nov. 2026.

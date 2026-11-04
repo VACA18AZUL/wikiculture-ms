@@ -3,7 +3,7 @@ titulo: Hildebrando Campestrini
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: Professor e historiador, presidente do Instituto Histórico e Geográfico de Mato Grosso do Sul desde 2002, autor de História de Mato Grosso do Sul e organizador da obra completa de Hélio Serejo (2008).
+resumo: Professor e historiador, presidente do Instituto Histórico e Geográfico de Mato Grosso do Sul desde 2002 (dado de 2016), autor de História de Mato Grosso do Sul e organizador da obra completa de Hélio Serejo (2008).
 ficha:
   Atividade: Docência, história regional, linguagem jurídica, edição
   Instituições: "[[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de MS]] (presidente); [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]]"
@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o artigo de Heitor Freire, diretor do IHGMS, publicado no *Campo Grande News* em 2016, Campestrini lecionou na Universidade Estadual de Mato Grosso, depois federalizada, de 1973 a 1982, e na atual Universidade Católica Dom Bosco, desde o tempo da Fucmat, de 1973 a 1986. Trabalhou por dezenove anos em cargos de direção e assessoramento do Tribunal de Justiça de Mato Grosso do Sul e é professor titular de linguagem jurídica na Escola Superior de Magistratura do estado desde 1986. Foi revisor da Constituição de Mato Grosso do Sul de 1989 e, na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], foi secretário-geral em vários mandatos e presidente. O artigo o apresenta como inspirador e coautor da *Enciclopédia das Águas de Mato Grosso do Sul* e doou ao IHGMS os direitos autorais dos livros dele editados pelo instituto.[^freire2016]
+Segundo o artigo de Heitor Freire, diretor do IHGMS, publicado no *Campo Grande News* em 2016, Campestrini lecionou na Universidade Estadual de Mato Grosso, depois federalizada, de 1973 a 1982, e na atual Universidade Católica Dom Bosco, desde o tempo da Fucmat, de 1973 a 1986. Trabalhou por dezenove anos em cargos de direção e assessoramento do Tribunal de Justiça de Mato Grosso do Sul e, em 2016, era professor titular de linguagem jurídica na Escola Superior de Magistratura do estado, cargo que ocupava desde 1986. Foi revisor da Constituição de Mato Grosso do Sul de 1989 e, na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], foi secretário-geral em vários mandatos e presidente. O artigo o apresenta como inspirador e coautor da *Enciclopédia das Águas de Mato Grosso do Sul* e informa que ele doou ao IHGMS os direitos autorais dos livros dele editados pelo instituto.[^freire2016]
 
 Em 2008, organizou a obra completa de [[helio-serejo|Hélio Serejo]], publicada pelo IHGMS.[^raido2011]
 

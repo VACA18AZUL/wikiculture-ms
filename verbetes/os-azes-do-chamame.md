@@ -5,9 +5,9 @@ areas: [musica]
 cidade: Três Lagoas
 resumo: Conjunto de chamamé que lançou em 1975, em Três Lagoas, o LP "Volume 01", gravado no Estúdio Publisol e editado pelo selo Discos Xaraés.
 ficha:
-  Atividade: Chamamé e polca paraguaia
+  Atividade: Chamamé e polca
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Os Azes do Chamamé** são um conjunto de chamamé de Mato Grosso do Sul, ligado a Três Lagoas, que lançou o LP *Volume 01* em 1975.[^lp]
@@ -20,7 +20,7 @@ O LP saiu pelo selo Discos Xaraés, ligado, segundo o texto, a Alex, da dupla Al
 
 ## Discografia
 
-- *Volume 01* (1975) — LP, Discos Xaraés (LPX 0019); 12 faixas, entre chamamés e polcas, com "Mi Rancho Feliz", "Campos Las Puertas", "Pé de Bode" e "Camperino", além dos títulos citados acima.[^lp] [Ouvir no YouTube (Acervo Digital Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLO-QEpiig_Ii35sSWurgtH085BFLKV5CN)
+- *Volume 01* (1975) — LP, Discos Xaraés (LPX 0019); 12 faixas, entre chamamés, polcas e um xote ("Pé de Bode"), com "Mi Rancho Feliz", "Campos Las Puertas" e "Camperino", além dos títulos citados acima, segundo os títulos dos vídeos da playlist.[^lp] [Ouvir no YouTube (Acervo Digital Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLO-QEpiig_Ii35sSWurgtH085BFLKV5CN)
 
 ## Pontos a conferir
 
@@ -28,5 +28,5 @@ A numeração LPX 0019 do disco de 1975 é maior que a do LP de [[araguainha|Ara
 
 Os nomes de alguns músicos aparecem de forma ilegível ou variável nos créditos de faixa da playlist. Por isso o verbete só usa os nomes da descrição.[^lp]
 
-[^lp]: ["Os Azes do Chamamé Volume 01 LP - 1975"](https://www.youtube.com/playlist?list=PLO-QEpiig_Ii35sSWurgtH085BFLKV5CN), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 29 out. 2026.
-[^ara]: ["Araguainha - Educandário do Chamamé LP - 1982"](https://www.youtube.com/playlist?list=PLSsuqx6va1qM), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 29 out. 2026.
+[^lp]: ["Os Azes do Chamamé Volume 01 LP - 1975"](https://www.youtube.com/playlist?list=PLO-QEpiig_Ii35sSWurgtH085BFLKV5CN), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 4 nov. 2026.
+[^ara]: ["Araguainha - Educandário do Chamamé LP - 1982"](https://www.youtube.com/playlist?list=PLSsuqx6va1qM), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 4 nov. 2026.

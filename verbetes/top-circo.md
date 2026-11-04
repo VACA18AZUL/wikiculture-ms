@@ -8,7 +8,7 @@ ficha:
   Nomes anteriores: Circo Real Pantanal
   Sede: Campo Grande
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Top Circo** é um circo tradicional de Campo Grande, em atividade havia mais de 60 anos em 2019, que já teve o nome de Circo Real Pantanal.[^cdoe2019]
@@ -31,6 +31,6 @@ A matéria de 2019 lista números do espetáculo: globo da morte, trapezistas, t
 
 Uma matéria de 2024 sobre o [[circo-do-bolachinha|Circo do Bolachinha]] também cita a família Perez e o produtor Wagner Perez.[^cgn2024] Nenhuma das fontes lidas diz que Top Circo e Circo do Bolachinha sejam o mesmo circo. A programação de 2022 traz o Top Circo e o "New York Cirkus, com Bolachinha e sua trupe" como atrações separadas.[^cgn2022] A relação entre os dois fica em aberto.
 
-[^cdoe2019]: Paula Maciulevicius Brasil, ["Fogo não queimou a magia e circo vai para os bairros"](https://correiodoestado.com.br/correio-b/fogo-nao-queimou-a-magia-br-e-circo-vai-para-os-bairros/348922/), *Correio do Estado*, 13 mar. 2019. Acesso em 29 out. 2026.
+[^cdoe2019]: Bruna Aquino, ["Fogo não queimou a magia e circo vai para os bairros"](https://correiodoestado.com.br/correio-b/fogo-nao-queimou-a-magia-br-e-circo-vai-para-os-bairros/348922/), *Correio do Estado*, 13 mar. 2019. Acesso em 29 out. 2026.
 [^cgn2022]: Jéssica Fernandes, ["1º Semana do Teatro tem performances e oficinas gratuitas por toda a cidade"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/1o-semana-do-teatro-tem-performances-e-oficinas-gratuitas-por-toda-a-cidade), *Campo Grande News*, 22 mar. 2022. Acesso em 29 out. 2026.
 [^cgn2024]: Thailla Torres, ["Moreninha vai ter temporada gratuita do Circo do Bolachinha"](https://www.campograndenews.com.br/lado-b/diversao/moreninha-vai-ter-temporada-gratuita-do-circo-do-bolachinha), *Campo Grande News*, 29 set. 2024. Acesso em 29 out. 2026.
