@@ -7,7 +7,7 @@ ficha:
   Atividade: Grupo musical
   Nome por extenso: Associação dos Compositores Amadores do Bairro Amambaí
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **ACABA** foi um grupo musical sul-mato-grossense. A sigla corresponde, segundo Gilmar Lima Caetano, a Associação dos Compositores Amadores do Bairro Amambaí, e Moacir de Lacerda é citado como um de seus fundadores.[^cae1]
@@ -26,7 +26,7 @@ Rodrigo Teixeira Gonçalves inclui o grupo entre os artistas reunidos no LP do [
 
 ## Relação com a política cultural
 
-Caetano associa o ACABA ao entusiasmo pela criação de Mato Grosso do Sul e à valorização da cultura pantaneira. Registra ainda que, em apresentação no Teatro Aracy Balabanian, o grupo criticou a Fundação de Cultura de MS por, segundo eles, tratar a música regional com descaso e patrocinar a chamada country music.[^cae4]
+Caetano associa o ACABA ao entusiasmo pela criação de Mato Grosso do Sul e à valorização da cultura pantaneira. Registra ainda que, em apresentação no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], o grupo criticou a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] por, segundo eles, tratar a música regional com descaso e patrocinar a chamada country music.[^cae4]
 
 [^cae1]: Gilmar Lima Caetano, *A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*, dissertação de mestrado, UFGD, 2012, capítulo 1, seção 1.1 ([PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf)). Acesso em 29 out. 2026.
 [^cae2]: Caetano, 2012, capítulo 1, seção 1.2 (mesma dissertação). Acesso em 29 out. 2026.

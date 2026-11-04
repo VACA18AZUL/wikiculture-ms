@@ -9,7 +9,7 @@ ficha:
   Fundadores da escola (2011): Branka Batista, Flávio Bertini e Marcos Tiaen
   Sede: Corumbá
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Cia. da Lona** é uma companhia e escola de circo de Corumbá. A trupe descende da escola de circo Quiprocó, que funcionava no início dos anos 2000.[^cdoe2011]
@@ -30,5 +30,5 @@ Segundo o texto, a Cia. da Lona atuava havia três anos numa academia da cidade,
 
 - [Um barco, um rio, um circo](https://revistas.udesc.br/index.php/urdimento/article/download/24895/16975) — artigo da revista *Urdimento* (2024) que menciona a Cia da Lona na nota sobre o projeto Navegando pelo rio dos sonhos.
 
-[^cdoe2011]: "Escola de circo abre as portas em Corumbá" ([Correio do Estado](https://correiodoestado.com.br/cidades/escola-de-circo-abre-as-portas-em-corumba/112540/), com texto do *Diário de Corumbá*), 29 maio 2011. Acesso em 29 out. 2026.
-[^urdimento2024]: Rogério Zaim-de-Melo, Luís Bruno de Godoy e Teresa Ontañón Barragán, ["Um barco, um rio, um circo"](https://revistas.udesc.br/index.php/urdimento/article/download/24895/16975), *Urdimento – Revista de Estudos em Artes Cênicas*, Florianópolis, v. 2, n. 51, jul. 2024, nota 6, p. 5. Acesso em 29 out. 2026.
+[^cdoe2011]: "Escola de circo abre as portas em Corumbá" ([Correio do Estado](https://correiodoestado.com.br/cidades/escola-de-circo-abre-as-portas-em-corumba/112540/), com texto do *Diário de Corumbá*), 29 maio 2011. Acesso em 4 nov. 2026.
+[^urdimento2024]: Rogério Zaim-de-Melo, Luís Bruno de Godoy e Teresa Ontañón Barragán, ["Um barco, um rio, um circo"](https://revistas.udesc.br/index.php/urdimento/article/download/24895/16975), *Urdimento – Revista de Estudos em Artes Cênicas*, Florianópolis, v. 2, n. 51, jul. 2024, nota 6, p. 5. Acesso em 4 nov. 2026.

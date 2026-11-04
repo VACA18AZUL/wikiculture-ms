@@ -10,7 +10,7 @@ ficha:
   Formação: Letras (graduação); doutorado em Teatro na ECA/USP
   Grupos: GUTAC
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Cristina Mato Grosso**, nome artístico de Maria Cristina Moreira de Oliveira, é atriz, dramaturga e diretora teatral de Mato Grosso do Sul.[^enedino] Moser a identifica como campo-grandense.[^moser]
@@ -19,7 +19,7 @@ atualizado: 2026-10-29
 
 Segundo Enedino e Franco Neto, Cristina é graduada em Letras e fez doutorado em Teatro na Escola de Comunicação e Artes (ECA) da USP. Foi uma das criadoras do [[gutac|GUTAC]], onde trabalhou com teatro de militância, popular e, em outro momento, voltado ao contexto escolar.[^enedino]
 
-Os autores a chamam de "Dama do teatro sul-mato-grossense" e afirmam que, à frente do GUTAC, ela levou o teatro de resistência ao estado. Segundo eles, ela também ficou conhecida fora do país pelo trabalho com mamulengos.[^enedino]
+Os autores registram que ela é considerada a "Dama do teatro sul-mato-grossense" e afirmam que, à frente do GUTAC, ela levou o teatro de resistência ao estado. Segundo eles, ela também ficou conhecida fora do país pelo trabalho com mamulengos.[^enedino]
 
 O artigo descreve seu teatro como popular, de linguagem direta e coloquial, com improvisação, personagens alegóricos, máscaras, bonecos e sombras. Os textos tratam de problemas sociais, como prostituição, exploração de menores e falta de moradia.[^enedino]
 
