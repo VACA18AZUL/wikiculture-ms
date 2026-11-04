@@ -21,11 +21,11 @@ Em 2016, o Campo Grande News registrou que, depois de uma intervenção de rua d
 
 O cortejo é acompanhado por uma charanga aberta, que reúne músicos com instrumentos às vezes improvisados, como panelas e bacias, em encontros nos meses anteriores ao carnaval. Nas matérias de 2024 e 2025 ela aparece com os nomes Anarcocharanga Evoé Baco e Batucada Anarco Xaranga Voe Baco.[^cgn2023b][^cgn2024][^cgn2025] Segundo Fernando Cruz, o bloco procura ocupar lugares pouco usados da cidade.[^cgn2023a][^cgn2023b]
 
-Em 2020, o Evoé Baco abriu a programação oficial de blocos de rua de Campo Grande. A concentração foi na Praça do Administrador, no bairro Amambaí, e o cortejo seguiu até um bar da Rua Barão do Rio Branco, com grupos de tambores e a charanga do Maracangalha. Naquele ano, o tema foi a democracia e a liberdade de expressão, e o bloco recolheu alimentos para povos indígenas de Mato Grosso do Sul.[^cgn2020]
+Em 2020, o Evoé Baco foi anunciado para abrir a programação oficial de blocos de rua de Campo Grande. A concentração estava marcada na Praça do Administrador, no bairro Amambaí, e o cortejo seguiria até um bar da Rua Barão do Rio Branco, com grupos de tambores e a charanga do Maracangalha. O tema anunciado era a democracia e a liberdade de expressão. Segundo a reportagem, o bloco recolhe todos os anos doações de alimentos para povos indígenas de Mato Grosso do Sul.[^cgn2020]
 
-Em 2023, depois de dois anos sem carnaval de rua por causa da pandemia, o bloco voltou a abrir a folia. O cortejo passou pelo bairro São Francisco e terminou na Orla Morena, com DJs convidados.[^cgn2023a][^cgn2023b]
+Em 2023, depois de dois anos sem carnaval de rua por causa da pandemia, o bloco voltou a abrir a folia. O cortejo foi anunciado pelas ruas do bairro São Francisco, e a festa ocorreu na orla do bairro, com DJs convidados.[^cgn2023a][^cgn2023b]
 
-Em 2024 e 2025, o cortejo foi pela Rua 14 de Julho, no centro. Em 2025, saiu da Central de Economia Solidária, homenageou o Bar Tupi e teve a participação do Bloco Voropi, da comunidade terena.[^cgn2024][^cgn2025]
+Em 2024 e 2025, os cortejos foram anunciados pela Rua 14 de Julho, no centro. Em 2025, a saída estava marcada na Central de Economia Solidária, com homenagem ao Bar Tupi e participação prevista do Bloco Voropi, da comunidade terena.[^cgn2024][^cgn2025]
 
 [^cgn2016]: Naiane Mesquita, ["Contra omissão da Justiça, grupo de teatro grita manchetes da vida real"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/contra-omissao-da-justica-grupo-de-teatro-grita-manchetes-da-vida-real), *Campo Grande News*, 4 fev. 2016. Acesso em 4 nov. 2026.
 [^cgn2020]: Thailla Torres, ["No bairro mais antigo da cidade, Carnaval começa hoje com bloco Evoé Baco"](https://www.campograndenews.com.br/lado-b/diversao/no-bairro-mais-antigo-da-cidade-carnaval-comeca-hoje-com-bloco-evoe-baco), *Campo Grande News*, 20 fev. 2020. Acesso em 4 nov. 2026.
