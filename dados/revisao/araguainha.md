@@ -27,6 +27,6 @@ Buscas por "Waldemar Pereira do Carmo" e "Araguainha sanfoneiro chamamé" não a
 
 ## Correções
 
-Nenhuma necessária.
+Acrescentado parágrafo sobre a faixa "Revoada Pantaneira" no vol. 2 de Os Grandes Acordeonistas do MS (2016), com nota [^ga2] do mesmo canal.
 
 Veredito: passa, mas com fonte única (reforçar).

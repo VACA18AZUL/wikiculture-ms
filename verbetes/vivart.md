@@ -9,7 +9,7 @@ ficha:
   Fundador: Mauro Shiroma
   Local: Corumbá
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Vivart** é um espaço de ensino de atividades circenses de Corumbá, fundado em 2016 pelo professor de circo [[mauro-shiroma|Mauro Shiroma]].[^urdimento2024]

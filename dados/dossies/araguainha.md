@@ -16,4 +16,5 @@
 ## Atualização de 2026-11-04
 
 - Fonte reaberta e conferida: descrição e as 12 faixas (A1 a B6) batem com o verbete.
+- Acrescentado: participação no vol. 2 de Os Grandes Acordeonistas do MS (2016), faixa 07 "Revoada Pantaneira" (playlist do mesmo canal, não é fonte independente).
 - Segunda fonte: buscas por "Waldemar Pereira do Carmo" e por "Araguainha sanfoneiro chamamé" sem resultado útil. PDFs do repositório da UFMS (11457.pdf e 3731.pdf) não abriram (conexão recusada e erro 503). Nada mudou no verbete.
