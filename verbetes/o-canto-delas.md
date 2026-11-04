@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 A segunda edição começou em 4 de julho de 2023, com entrada gratuita e apresentações às terças-feiras. Uma das convidadas descreveu o festival como reunião de 15 vozes femininas.[^cgn2023b]
 
-A programação anunciada em julho de 2023 previa, para a terceira noite, em 18 de julho, as cantoras [[marcela-mar|Marcela Mar]], [[namaria-schneider|Namaria]] e [[lauren-cury|Lauren Cury]]. Para 25 de julho estavam anunciadas Gabi Barros, Mel Dias e Caramuja, e para 1º de agosto, Karô Castanha, Llez e SoulRa.[^cgn2023a][^cgn2023b]
+A programação anunciada em julho de 2023 previa, para a terceira noite, em 18 de julho, as cantoras [[marcela-mar|Marcela Mar]], [[namaria-schneider|Namaria]] e [[lauren-cury|Lauren Cury]]. Para 25 de julho estavam anunciadas Gabi Barros, Mel Dias e Caramuja, e para 1º de agosto, Karô Castanha, Llez e Soulrá (grafados LLez e SoulRa na outra reportagem).[^cgn2023a][^cgn2023b]
 
 [^cgn2023a]: Thailla Torres, ["Festival chega à 3ª semana com Marcela Mar, Namaria e Lauren Cury"](https://www.campograndenews.com.br/lado-b/diversao/festival-chega-a-3a-semana-com-marcela-mar-namaria-e-lauren-cury), *Campo Grande News*, 14 jul. 2023. Acesso em 4 nov. 2026.
 [^cgn2023b]: Jéssica Fernandes, ["Criada entre músicos, Marcela Mar é uma das novas vozes do Estado"](https://www.campograndenews.com.br/lado-b/diversao/criada-entre-musicos-marcela-mar-e-uma-das-novas-vozes-do-estado), *Campo Grande News*, 16 jul. 2023. Acesso em 4 nov. 2026.

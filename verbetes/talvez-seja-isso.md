@@ -27,6 +27,8 @@ Em 9 de setembro de 2023, o solo foi programado na [[casa-de-ensaio|Casa de Ensa
 
 Matéria de 2025 sobre Jackeline Mourão diz que ela foi premiada pela Funarte com o solo, datado de 2021.[^cgn2025] A matéria de 2023 registra o Prêmio Funarte Circulação e Difusão de Dança 2022 como dado ao projeto Singulares, que reunia dez apresentações solo em Campo Grande, Dourados, Piracicaba e Ribeirão Preto.[^cgn2023]
 
+A Portaria Funarte nº 522, de 26 de outubro de 2022, que fixou o resultado final do Prêmio Funarte Circulação e Difusão da Dança 2022, lista entre os selecionados da região Centro-Oeste o projeto *Singulares – Solos de dança da Cia Dançurbana*, de Mato Grosso do Sul, em 5º lugar. O documento nomeia o projeto, e não os solos que o compõem.[^funarte2022]
+
 ## Equipe
 
 - Intérprete: [[jackeline-mourao|Jackeline Mourão]][^cgn2023]
@@ -37,3 +39,4 @@ Matéria de 2025 sobre Jackeline Mourão diz que ela foi premiada pela Funarte c
 
 [^cgn2023]: Aletheya Alves, ["Cia Dançurbana leva 'Singulares - Solos de Dança' para a Casa de Ensaio"](https://www.campograndenews.com.br/lado-b/diversao/cia-dancurbana-leva-singulares-solos-de-danca-para-a-casa-de-ensaio), *Campo Grande News*, 8 set. 2023. Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Artista leva a dança de MS para os palcos de Buenos Aires"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/artista-leva-a-danca-de-ms-para-os-palcos-de-buenos-aires), *Campo Grande News*, 6 nov. 2025. Acesso em 4 nov. 2026.
+[^funarte2022]: Fundação Nacional de Artes (Funarte), ["Portaria Funarte nº 522, de 26 de outubro de 2022: resultado final do Prêmio Funarte Circulação e Difusão da Dança 2022"](https://www.gov.br/funarte/pt-br/editais/2022/premio-funarte-circulacao-e-difusao-da-danca-2022/portaria-522-resultado-final-premio-funarte-circulacao-e-difusao-da-danca-2022.pdf) (PDF). Acesso em 4 nov. 2026.
