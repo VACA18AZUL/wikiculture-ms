@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Origem
 
-Segundo a Fundação de Cultura, Denise Silva participou em 2000 da implantação das escolas indígenas de Miranda e, no doutorado e no pós-doutorado, formou professores terena para levar a língua e a cultura do povo ao currículo escolar. Esses professores escreveram os textos da coleção. A organizadora destacou o formato de livro em box, que considerou inédito em língua indígena brasileira. Foram impressos 6 mil exemplares, distribuídos em escolas de Miranda e de outros municípios do estado e do país com presença de povos indígenas.[^fcms2020]
+Segundo a Fundação de Cultura, Denise Silva participou em 2000 da implantação das escolas indígenas de Miranda e, no doutorado e no pós-doutorado, formou professores terena para levar a língua e a cultura do povo ao currículo escolar. Esses professores escreveram os textos da coleção. A organizadora destacou o formato de livro em box, que considerou inédito em língua indígena brasileira. Foram impressos 6 mil exemplares, enviados a escolas de Miranda e a outras cidades de Mato Grosso do Sul e do Brasil com população indígena.[^fcms2020]
 
 Segundo o *Campo Grande News*, os livros tratam dos modos de ser e fazer terena, com culinária, arte, memórias e histórias, e resultaram de um projeto de formação continuada de professores indígenas voltado a levar o conhecimento tradicional ao currículo escolar.[^cgn2020b]
 
@@ -23,7 +23,7 @@ Um dos autores foi o professor terena **Anésio Alfredo Pinto**, apontado pelo *
 
 ## Prêmio Jabuti
 
-Em outubro de 2020, a coleção ficou entre os dez finalistas da 62ª edição do Prêmio Jabuti, no eixo Inovação, categoria Fomento à Leitura, com Denise Silva (Ipedi) como responsável.[^publishnews][^cgn2020a] No mesmo ano, o escritor [[henrique-komatsu|Henrique Komatsu]], também de Mato Grosso do Sul, foi finalista na categoria conto, com *Ototo*.[^cgn2020a]
+Em outubro de 2020, a coleção foi uma das dez finalistas do 62º Prêmio Jabuti, no eixo Inovação, categoria Fomento à Leitura, com Denise Silva (Ipedi) como responsável.[^publishnews][^cgn2020a] No mesmo ano, o escritor [[henrique-komatsu|Henrique Komatsu]], também de Mato Grosso do Sul, foi finalista na categoria conto, com *Ototo*.[^cgn2020a]
 
 [^fcms2020]: Giovanni Dorival, ["Livro sul-mato-grossense publicado com recursos do FIC é um dos finalistas do Prêmio Jabuti"](https://www.fundacaodecultura.ms.gov.br/custeado-pelo-fic-livro-sul-mato-grossense-e-um-dos-finalistas-do-premio-jabuti/), Fundação de Cultura de Mato Grosso do Sul, 23 out. 2020. Acesso em 4 nov. 2026.
 [^cgn2020a]: Adriano Fernandes, ["MS tem 2 finalistas no Prêmio Jabuti, o mais importante da literatura brasileira"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/ms-tem-2-finalistas-no-premio-jabuti-o-mais-importante-da-literatura-brasileira), *Campo Grande News*, 22 out. 2020. Acesso em 4 nov. 2026.

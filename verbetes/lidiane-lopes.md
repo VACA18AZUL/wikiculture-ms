@@ -21,7 +21,7 @@ Em 2022 lançou a coleção primavera-verão "Mulher da Fronteira", inspirada na
 
 ## Fashion films
 
-Lidiane passou a apresentar suas coleções em curtas-metragens de moda, os fashion films, com roteiros escritos por ela e trilha composta em parceria com a banda Coquetel Blue. Os dois filmes do projeto "Sonhos e Fetiches da Fronteira" foram feitos com recursos da Lei Paulo Gustavo, por edital da Fundação de Cultura de Mato Grosso do Sul.[^oestado2024][^correio2025][^fcms2025a]
+Lidiane passou a apresentar suas coleções em curtas-metragens de moda, os fashion films, com roteiros escritos por ela e trilha composta em parceria com a banda [[coquetel-blue|Coquetel Blue]]. Os dois filmes do projeto "Sonhos e Fetiches da Fronteira" foram feitos com recursos da Lei Paulo Gustavo, por edital da Fundação de Cultura de Mato Grosso do Sul.[^oestado2024][^correio2025][^fcms2025a]
 
 O primeiro curta, "Sonhos e Fetiches da Fronteira", foi exibido em outubro de 2024 no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], com apresentação da Coquetel Blue. A personagem central era a Dama de Preto. Segundo o Correio do Estado, a protagonista foi a cantora Pretah.[^oestado2024][^correio2025] A Fundação de Cultura de Mato Grosso do Sul chama esse primeiro filme de "Dama de Preto".[^fcms2025b]
 
