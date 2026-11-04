@@ -3,7 +3,7 @@ titulo: Encontro com a Música Clássica
 tipo: evento
 areas: [musica]
 cidade: Campo Grande
-resumo: Festival de música de concerto de Campo Grande, criado em 2007, com entrada gratuita e participação da Orquestra Sinfônica Municipal de Campo Grande. Chegou à 20ª edição em 2026.
+resumo: Festival de música de concerto de Campo Grande, criado em 2007, com entrada gratuita e participação da Orquestra Sinfônica Municipal de Campo Grande. A 20ª edição foi anunciada para outubro de 2026.
 ficha:
   Primeira edição: "2007"
   Local: Teatro Glauce Rocha (2012, 2023); Teatro Prosa (2015); Teatro Aracy Balabanian (2026)
@@ -15,9 +15,9 @@ O **Encontro com a Música Clássica** é um festival de música de concerto rea
 
 ## Edições
 
-A programação de 2012 foi anunciada para o [[teatro-glauce-rocha|Teatro Glauce Rocha]] de 5 a 8 de novembro e para a Igreja Santo Antônio no dia 9, com entrada gratuita. A [[orquestra-sinfonica-de-campo-grande|Orquestra Sinfônica Municipal de Campo Grande]] abriria a programação com a pianista paulista Regina Schlochauer e tocaria, em outra noite, com a Oficina de Ópera da UFMS. O evento teve apoio da prefeitura, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] e da [[fundac|Fundac]].[^cgn2012]
+A programação de 2012 foi anunciada para o [[teatro-glauce-rocha|Teatro Glauce Rocha]] de 5 a 8 de novembro e para a Igreja Santo Antônio no dia 9, com entrada gratuita. A [[orquestra-sinfonica-de-campo-grande|Orquestra Sinfônica Municipal de Campo Grande]] abriria a programação com a pianista paulista Regina Schlochauer e tocaria, em outra noite, com a Oficina de Ópera da UFMS. O evento tinha apoio da prefeitura, por meio da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] e da Fundação Municipal de Cultura ([[fundac|Fundac]]), segundo a matéria.[^cgn2012]
 
-A 9ª edição foi programada para 8 a 11 de novembro de 2015, às 20 horas, no Teatro Prosa do Horto Florestal, com entrada franca. A programação teve uma noite de temas de filmes da Disney, com direção musical e de cena de [[fabio-bernobic|Fábio Bernobic]] e [[cinara-baccili|Cinara Baccili]] e regência de [[rodrigo-faleiros|Rodrigo Faleiros]]; uma noite de concertos barrocos, com solistas como [[marcelo-geronimo|Marcelo Gerônimo]]; uma noite de música de câmara; e o encerramento com a *Missa Criolla*, de Ariel Ramírez, com os corais de Sidrolândia e do Sindate.[^cgn2015]
+A 9ª edição foi programada para 8 a 11 de novembro de 2015, com sessões às 20 horas no Teatro Prosa, no Horto Florestal, e entrada franca. A programação previa uma noite de temas de filmes da Disney, dirigida, na música e na cena, por [[fabio-bernobic|Fábio Bernobic]] e [[cinara-baccili|Cinara Baccili]] e regência de [[rodrigo-faleiros|Rodrigo Faleiros]]; uma noite de concertos barrocos, com solistas como [[marcelo-geronimo|Marcelo Gerônimo]]; uma noite de música de câmara; e o encerramento com a *Missa Criolla*, de Ariel Ramírez, com os corais de Sidrolândia e do Sindate.[^cgn2015]
 
 A 16ª edição foi marcada para 14 a 18 de agosto de 2023 no Teatro Glauce Rocha, com cerca de 200 artistas. O Campo Grande News chamou o evento de festival de música de concerto mais tradicional do estado. Entre os convidados estavam o acordeonista Renato Borghetti e a violoncelista Kayami Satomi. Grupos de projetos educativos, como a Orquestra Indígena, a Orquestra Sesc Lageado, a Orquestra Filarmônica Jovem do MS e a Orquestra de Violoncelos do MS, tocariam com a Orquestra Sinfônica Municipal.[^cgn2023]
 

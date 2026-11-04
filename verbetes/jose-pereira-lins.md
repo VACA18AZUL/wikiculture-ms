@@ -45,5 +45,5 @@ Em 2004, seu nome foi dado à Faculdade de Comunicação, Artes e Letras (FACALE
 - *As Aves de Arribação* (2006); Ed. Nicanor Coelho, Dourados.[^silva2017]
 - *Panacéia – Máximas, Pensamentos e Paradoxos* (2010); edição do Colégio Osvaldo Cruz, Dourados.[^silva2017]
 
-[^silva2017]: Luciano Primo da Silva, [*No arquivo do professor José Pereira Lins: uma leitura entre vida e obra*](http://repositorio.ufgd.edu.br/jspui/handle/prefix/1219), dissertação (mestrado em Letras), Universidade Federal da Grande Dourados, 2017, resumo, p. 20-23, 51-52 e 181-182. Acesso em 4 nov. 2026.
+[^silva2017]: Luciano Primo da Silva, [*No arquivo do professor José Pereira Lins: uma leitura entre vida e obra*](http://repositorio.ufgd.edu.br/jspui/handle/prefix/1219), dissertação (mestrado em Letras), Universidade Federal da Grande Dourados, 2017, resumo, p. 20-24, 51-52 e 181-182. Acesso em 4 nov. 2026.
 [^aslhist]: Academia Sul-Mato-Grossense de Letras, ["Histórico"](https://acletrasms.org.br/historico/). Acesso em 4 nov. 2026.
