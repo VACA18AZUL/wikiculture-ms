@@ -2,7 +2,7 @@
 titulo: Miya Miyashiro
 tipo: pessoa
 areas: [audiovisual]
-resumo: "Cineasta sul-mato-grossense formada em Audiovisual pela UFMS. Com Isabelle Silva, realizou o documentário Crimes da Cruz, a animação O Cravo e a Rosa e o curta Meu pai não veio; assina a direção de arte de O Retrato do Erro."
+resumo: "Cineasta sul-mato-grossense, egressa do curso de Audiovisual da UFMS. Com Isabelle Silva, realizou o documentário Crimes da Cruz, a animação O Cravo e a Rosa e o curta Meu pai não veio; assina a direção de arte de O Retrato do Erro."
 ficha:
   Atividade: "Cinema (realização, direção de arte)"
   Formação: "Audiovisual (UFMS)"
@@ -10,7 +10,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Miya Miyashiro** é uma cineasta de Mato Grosso do Sul, formada no [[curso-de-audiovisual-da-ufms|curso de Audiovisual]] da [[ufms|UFMS]]. Trabalha em parceria com [[isabelle-silva|Isabelle Silva]].[^cgn2026a][^ufms2026]
+**Miya Miyashiro** é uma cineasta de Mato Grosso do Sul, egressa do [[curso-de-audiovisual-da-ufms|curso de Audiovisual]] da [[ufms|UFMS]]. Trabalha em parceria com [[isabelle-silva|Isabelle Silva]].[^cgn2026a][^ufms2026]
 
 ## Trajetória
 
@@ -30,4 +30,4 @@ No longa documental *O Retrato do Erro – A Bruxa da Sapolândia*, dirigido por
 [^cgn2026a]: Clayton Neves, ["Violência em MS e abandono viram tema de filmes sobre dores sociais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/violencia-em-ms-e-abandono-viram-tema-de-filmes-sobre-dores-sociais), *Campo Grande News*, 26 jan. 2026. Acesso em 4 nov. 2026.
 [^ufms2026]: Universidade Federal de Mato Grosso do Sul, ["Orquestra de Sopros do Pantanal une cinema e concerto no próximo dia 4 no Glauce Rocha"](https://www.ufms.br/orquestra-de-sopros-do-pantanal-une-cinema-e-concerto-no-proximo-dia-4-no-glauce-rocha/), 23 out. 2026. Acesso em 4 nov. 2026.
 [^cgn2026b]: Amanda Ferreira, ["Orquestra de Sopros apresenta trilhas de cinema em concerto gratuito"](https://www.campograndenews.com.br/lado-b/diversao/orquestra-de-sopros-apresenta-trilhas-de-cinema-em-concerto-gratuito), *Campo Grande News*, 24 out. 2026. Acesso em 4 nov. 2026.
-[^pp2026]: ["Documentário revela novo lado da 'Bruxa da Sapolândia' e levanta dúvida: ela era inocente?"](https://primeirapagina.com.br/cinema/documentario-revela-novo-lado-da-bruxa-da-sapolandia-e-levanta-duvida-ela-era-inocente/), *Primeira Página*, 27 jul. 2026. Acesso em 4 nov. 2026.
+[^pp2026]: Augusto Castro, ["Documentário revela novo lado da 'Bruxa da Sapolândia' e levanta dúvida: ela era inocente?"](https://primeirapagina.com.br/cinema/documentario-revela-novo-lado-da-bruxa-da-sapolandia-e-levanta-duvida-ela-era-inocente/), *Primeira Página*, 27 jul. 2026. Acesso em 4 nov. 2026.

@@ -9,7 +9,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Jade Rainho** é a realizadora do documentário *Flor Brilhante e as Cicatrizes da Pedra*, sobre uma família de rezadores Guarani-Kaiowá da Reserva de Dourados.[^catraca2013][^fcms2015b]
+**Jade Rainho** é a realizadora do documentário [[flor-brilhante-e-as-cicatrizes-da-pedra|*Flor Brilhante e as Cicatrizes da Pedra*]], sobre uma família de rezadores Guarani-Kaiowá da Reserva de Dourados.[^catraca2013][^fcms2015b]
 
 ## Trajetória
 
@@ -21,7 +21,7 @@ Em 2017, a fundação anunciou o filme na programação do Curta MS, da TV Educa
 
 ## Filmografia
 
-- *Flor Brilhante e as Cicatrizes da Pedra* (2012 ou 2013, conforme a fonte) — documentário; produção, direção e câmera.[^catraca2013][^fcms2015b][^fcms2015d]
+- [[flor-brilhante-e-as-cicatrizes-da-pedra|*Flor Brilhante e as Cicatrizes da Pedra*]] (2012 ou 2013, conforme a fonte) — documentário; produção, direção e câmera.[^catraca2013][^fcms2015b][^fcms2015d]
 
 [^catraca2013]: Camila Garófalo, ["Documentário sobre a exploração de aldeia Guarani-Kaiowá é disponilizado na rede"](https://catracalivre.com.br/criatividade/documentario-sobre-a-exploracao-de-aldeia-guarani-kaiowa-e-disponilizado-na-rede/), *Catraca Livre*, 11 nov. 2013. Acesso em 4 nov. 2026.
 [^fcms2015a]: Fundação de Cultura de Mato Grosso do Sul, ["Sectei e lideranças se reúnem em plenária para debater o Plano Setorial Estadual para os Povos Indígenas"](https://www.fundacaodecultura.ms.gov.br/sectei-e-liderancas-se-reunem-em-plenaria-para-debater-o-plano-setorial-estadual-para-os-povos-indigenas/), 28 abr. 2015. Acesso em 4 nov. 2026.

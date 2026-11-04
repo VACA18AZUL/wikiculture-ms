@@ -3,18 +3,18 @@ titulo: "L'Existence – Lídia Baís"
 tipo: obra
 areas: [danca]
 cidade: Campo Grande
-resumo: "Espetáculo de dança contemporânea da Cia de Dança Selma Azambuja, inspirado nas pinturas de Lídia Baís, com coreografia de Monique Paes; apresentado em agosto de 2026 no Teatro Glauce Rocha."
+resumo: "Espetáculo de dança contemporânea da Cia de Dança Selma Azambuja, inspirado nas pinturas de Lídia Baís, com coreografia de Monique Paes; anunciado para 4 de agosto de 2026 no Teatro Glauce Rocha."
 ficha:
   Formato: Espetáculo de dança contemporânea
   Companhia: "[[cia-selma-azambuja|Cia de Dança Selma Azambuja]]"
   Coreografia: "[[monique-paes|Monique Paes]]"
-  Estreia: "4 de agosto de 2026, Teatro Glauce Rocha, Campo Grande"
+  Estreia: "4 de agosto de 2026 (data anunciada), Teatro Glauce Rocha, Campo Grande"
   Financiamento: Fundo de Investimentos Culturais (FIC)
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-***L'Existence – Lídia Baís*** é um espetáculo de dança contemporânea inspirado na vida e nas pinturas de [[lidia-bais|Lídia Baís]]. Foi realizado pela [[cia-selma-azambuja|Cia de Dança Selma Azambuja]] e teve apresentação única em 4 de agosto de 2026, às 20h, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], no campus da UFMS em Campo Grande.[^acritica2026][^pp2026][^rcn2026]
+***L'Existence – Lídia Baís*** é um espetáculo de dança contemporânea inspirado na vida e nas pinturas de [[lidia-bais|Lídia Baís]]. É uma montagem da [[cia-selma-azambuja|Cia de Dança Selma Azambuja]], anunciada para apresentação única em 4 de agosto de 2026, às 20h, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], no campus da UFMS em Campo Grande.[^acritica2026][^pp2026][^rcn2026]
 
 ## Criação
 

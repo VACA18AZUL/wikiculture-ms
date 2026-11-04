@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Laís Fujiyama** (também grafada Lais) é uma violonista e cantora de Campo Grande. Forma com [[naria-santos|Nária Santos]] o duo [[femme-lounge|Femme Lounge]].[^cgn2021][^fcms2021]
+**Laís Fujiyama** (também grafada Lais) é uma violonista e cantora de Campo Grande. Em 2020, criou com [[naria-santos|Nária Santos]] o duo [[femme-lounge|Femme Lounge]].[^cgn2021][^fcms2021]
 
 ## Trajetória
 

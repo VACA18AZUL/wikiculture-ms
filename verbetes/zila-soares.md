@@ -15,9 +15,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em novembro de 2013, a [[morada-dos-bais|Morada dos Baís]] abriu uma exposição de desenhos e pinturas de Zilá Soares e do artista [[alvaro-azzan|Álvaro Azzan]], que ficou em cartaz até 1º de dezembro.[^cgn2013]
+Em 3 de novembro de 2013, o *Campo Grande News* anunciou que a [[morada-dos-bais|Morada dos Baís]] abriria no dia 5 uma exposição de desenhos e pinturas de Zilá Soares e do artista [[alvaro-azzan|Álvaro Azzan]], com visitação prevista até 1º de dezembro.[^cgn2013]
 
-Está entre os artistas do acervo do Coletivo Terra Vermelha, exposto em setembro de 2016 nas galerias do curso de Artes Visuais da [[ufms|UFMS]]. O acervo reúne 22 obras de temática indígena; 18 delas foram pintadas ao vivo em 2012, numa manifestação do coletivo contra o genocídio dos povos indígenas, e as outras foram doadas depois pelos artistas.[^ufms2016]
+Está entre os 21 artistas do acervo do Coletivo Terra Vermelha, cuja exposição a UFMS anunciou para 16 de setembro de 2016 nas galerias do curso de Artes Visuais da [[ufms|UFMS]]. O acervo reúne 22 obras de temática indígena; 18 delas foram pintadas ao vivo em 2012, numa manifestação do coletivo contra o genocídio dos povos indígenas, e as outras foram doadas depois pelos artistas.[^ufms2016]
 
 Em março de 2018, participou de duas mostras de mulheres artistas. No [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], esteve na coletiva "Arte {substantivo feminino}", com 14 acadêmicas e egressas do curso de Artes Visuais da UFMS e curadoria de [[priscilla-pessoa|Priscilla Pessoa]].[^fcms2018] Na Casa de Arte e Cultura (CAC), aberta pela jornalista Marilu Guimarães, expôs quadros na mostra "Mulheres que Fazem Arte", ao lado de Erika Pedraza e [[patricia-helney|Patricia Helney]].[^cgn2018]
 

@@ -25,6 +25,8 @@ Com o [[choro-opus-trio|Choro Opus Trio]], tocou bandolim. Em 22 de novembro de 
 
 No grupo autoral Iucatan, atuou como diretor, arranjador, compositor e instrumentista e gravou o álbum *Sinalizadores*, patrocinado pela Fundação de Cultura de MS.[^fcms2022a]
 
+Em 17 de maio de 2015, o show *Sinalizadores*, da banda Iucatan, encerrou a Noite dos Museus da 13ª Semana Nacional de Museus, no Memorial da Cultura Apolônio de Carvalho, em Campo Grande. A Fundação de Cultura de MS descreveu o espetáculo como conceitual, com poesias e reflexões.[^fcms2015a][^fcms2015b]
+
 ## Carreira solo
 
 As fontes divergem quanto à data do primeiro disco solo. A Fundação de Cultura de MS informa que o álbum autoral *Ivan Cruz* saiu em 2015.[^fcms2022a] Em dezembro de 2018, o *Campo Grande News* noticiou que o músico divulgava o primeiro CD solo, quase todo de composições próprias.[^cgn2018]
@@ -41,5 +43,7 @@ Em 27 de novembro de 2022, fez o show de encerramento do [[som-da-concha|Som da 
 
 [^cgn2014]: Elverson Cardozo, ["Grupo de choro vai usar Kombi como palco para fazer shows em 5 cidades"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/grupo-de-choro-vai-usar-kombi-como-palco-para-fazer-shows-em-5-cidades), *Campo Grande News*, 22 nov. 2014. Acesso em 4 nov. 2026.
 [^cgn2018]: Ricardo Oliveira, ["Multi-instrumentista, Ivan Cruz lança 1º CD solo, feito de músicas autorais"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/multi-instrumentista-ivan-cruz-lanca-1o-cd-solo-feito-de-musicas-autorais), *Campo Grande News*, 5 dez. 2018. Acesso em 4 nov. 2026.
+[^fcms2015a]: ["Museus terão programação especial com pedal, mostras noturnas e shows"](https://www.fundacaodecultura.ms.gov.br/museus-do-estado-terao-programacao-especial-com-pedal-mostras-noturnas-e-shows-2/), *Fundação de Cultura de MS*, 12 maio 2015. Acesso em 4 nov. 2026.
+[^fcms2015b]: ["Em noite cultural, público explora e se apropria da história na abertura da Semana de Museus"](https://www.fundacaodecultura.ms.gov.br/em-noite-cultural-publico-explora-e-se-apropria-da-historia-na-abertura-da-semana-de-museus/), *Fundação de Cultura de MS*, 18 maio 2015. Acesso em 4 nov. 2026.
 [^fcms2022a]: ["MC Anarandà e o multi-instrumentista Ivan Cruz sobem ao palco do Som da Concha domingo"](https://www.fundacaodecultura.ms.gov.br/mc-anaranda-e-o-multi-instrumentista-ivan-cruz-sobem-ao-palco-do-som-da-concha-domingo/), *Fundação de Cultura de MS*, 23 nov. 2022. Acesso em 4 nov. 2026.
 [^fcms2022b]: ["Música indígena e instrumental encerram o Som da Concha 2022 com a diversidade musical de MS"](https://www.fundacaodecultura.ms.gov.br/musica-indigena-e-instrumental-encerram-o-som-da-concha-2022-com-a-diversidade-musical-de-ms/), *Fundação de Cultura de MS*, 28 nov. 2022. Acesso em 4 nov. 2026.

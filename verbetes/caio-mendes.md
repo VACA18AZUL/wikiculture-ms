@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2022, contou à Fundação que aprendeu a tocar ouvindo e vendo os avós. Em 2017 montou uma dupla sertaneja com um amigo, que não seguiu adiante. Depois passou a compor no pop e, entre 2019 e 2020, decidiu seguir esse caminho. Em abril de 2020 lançou a primeira música de trabalho, "Madalena".[^fcms2022b]
+Em 2022, contou à Fundação que aprendeu a tocar de ouvido, na infância. Em 2017 montou uma dupla sertaneja com um amigo, que não seguiu adiante. Depois passou a compor no pop e, entre 2019 e 2020, decidiu seguir esse caminho. Em abril de 2020 lançou a primeira música de trabalho, "Madalena".[^fcms2022b]
 
 Em 22 de janeiro de 2021, lançou com [[chicao-castro|Chicão Castro]] a canção "Nada Mais que Amor", sobre relações sem compromisso que viram sentimentos mais fortes. A faixa foi produzida pela 3Sons e ganhou um videoclipe gravado numa chácara de Campo Grande, com cenário de luau.[^cgn2021]
 

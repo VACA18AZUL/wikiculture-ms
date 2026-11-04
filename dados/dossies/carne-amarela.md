@@ -51,3 +51,11 @@ Buscas sem resultado: Correio do Estado (busca interna), FCMS (?s=Carne+Amarela)
 - ce2025 reaberta e conferida. A informação dos oito moradores estreantes é do produtor Marcus Teles, não da diretora: corrigido.
 - A matéria diz só que as filmagens terminaram em 21 dez. 2025 ("ontem"); não diz quando começaram. Ficha e resumo ajustados.
 - Continua fonte única (Correio do Estado).
+
+## Atualização de 2026-11-04 (r8)
+
+- Fonte nova: Amanda Ferreira, "Carne Amarela! Filme é gravado em Coxim com atores locais", *O Estado MS*, 27 dez. 2025 (https://oestadoonline.com.br/arte-e-lazer/carne-amarela-filme-e-gravado-em-coxim-com-atores-locais/), lida pela API do site. Veículo diferente, com entrevista própria da diretora.
+- Reforça: direção e produção, realizadores nascidos em Coxim, filmagem integral na cidade com elenco local e estreantes, roteiro a partir do poema e do conto, pequi, temas (queimadas, desmatamento, territórios), público infantil, cargos de direção só de mulheres, Breno Moroni (101º trabalho), Maria Agripina como Zoraide, Pnab.
+- Acrescentado: depoimento da diretora sobre seleção da equipe, paleta de cores e locações; intenção de circular por festivais.
+- Possível divergência não levada ao verbete: o texto do *O Estado* (publicado sábado, 27 dez.) diz que Coxim é cenário do filme "até este domingo", sem data; o *Correio do Estado* dá o fim das filmagens em 21 dez. 2025. Parece texto de divulgação escrito antes; mantida a data do Correio.
+- Dado pessoal (parentesco da atriz com a diretora) segue fora.

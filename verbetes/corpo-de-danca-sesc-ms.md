@@ -2,7 +2,7 @@
 titulo: Corpo de Dança Sesc MS
 tipo: grupo
 areas: [danca]
-resumo: "Grupo de dança do Sesc MS. Estreou Te Amo em 2026 no Sesc Teatro Prosa e se apresentou no Festival de Dança de Joinville e no Festival de Inverno de Bonito."
+resumo: "Grupo de dança do Sesc MS. Em 2026 anunciou o espetáculo Te Amo no Sesc Teatro Prosa, foi selecionado para a mostra do Festival de Dança de Joinville e esteve na programação do Festival de Inverno de Bonito."
 ficha:
   Vínculo: Sesc MS
 status: rascunho
@@ -13,11 +13,11 @@ O **Corpo de Dança Sesc MS** é um grupo de dança ligado ao Sesc de Mato Gross
 
 ## Trajetória
 
-Em junho de 2026, o grupo apresentou o espetáculo *Te Amo* nos dias 10 e 11, com entrada gratuita, no [[sesc-teatro-prosa|Sesc Teatro Prosa]]. A criação e as coreografias são de Karine Wosniak, e a direção, de [[chico-neller|Chico Neller]]. O espetáculo parte de cartas e memórias afetivas e não usa palavras em cena.[^dd2026]
+Em junho de 2026, o grupo anunciou seu novo espetáculo, *Te Amo*, para os dias 10 e 11, com entrada gratuita, no [[sesc-teatro-prosa|Sesc Teatro Prosa]]. A criação e as coreografias são de Karine Wosniak, e a direção, de [[chico-neller|Chico Neller]]. O espetáculo parte de cartas e memórias afetivas e não usa palavras em cena.[^dd2026]
 
-Em julho de 2026, foi um dos cinco grupos de Mato Grosso do Sul selecionados para a 43ª edição do Festival de Dança de Joinville, em Santa Catarina. Participou dos espaços não competitivos, de caráter de mostra.[^acritica2026]
+Em julho de 2026, foi um dos cinco grupos de Mato Grosso do Sul selecionados para a 43ª edição do Festival de Dança de Joinville, em Santa Catarina. A seleção foi para os espaços não competitivos, de caráter de mostra.[^acritica2026]
 
-No [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]] de 2026, apresentou *Te Amo* no Palco Sol na noite de abertura, 26 de agosto, e uma mostra de coreografias no mesmo palco no último dia, 30 de agosto.[^cgn2026a][^cgn2026b]
+A programação do [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]] de 2026 trazia o grupo com *Te Amo* no Palco Sol na noite de abertura, 26 de agosto, e com uma mostra de coreografias no mesmo palco no último dia, 30 de agosto.[^cgn2026a][^cgn2026b]
 
 ## Espetáculos
 

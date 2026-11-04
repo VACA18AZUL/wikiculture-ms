@@ -57,3 +57,12 @@ Fontes descartadas: página do Iphan não localizada pela busca do gov.br; Wikip
 
 - Todas as fontes reabertas e conferidas. Corrigida ligação errada: "Corumbá" no primeiro parágrafo apontava para fundacao-da-cultura-de-corumba; a ligação foi para a frase de 2026, em que a prefeitura diz que realizou o arraial por meio da Fundação da Cultura.
 - fcms2023 menciona também a inscrição estadual no Livro das Celebrações (Lei estadual nº 3.522/2008); não entrou.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Rafael Nagy Ramos, *Práticas semióticas no Banho de São João: patrimônio cultural imaterial em Corumbá-MS*, dissertação, Estudos de Linguagens, UFMS, 2025 (https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15518). Nota `ramos2025`. Numeração impressa = página do PDF. Lidas as p. 16-17, 28-29, 38-40 e as referências.
+
+- Acrescentado: elementos da festa (missa, procissões, descida dos andores pela Ladeira Cunha e Cruz, banho no Rio Paraguai como ponto alto); sincretismo (Souza, Santos e Barros 2015; Morais 2014, citados por Ramos); crença de que o rio baixa depois do banho (Freitas 2023, citado por Ramos); cantigas analisadas a partir da cartilha *Corumbá e o Banho de São João: história e cultura* (2023) e do documentário.
+- Acrescentado: distinção entre o Arraial (prefeitura, turismo) e a tradição (Santos, Jesus e Gonçalves 2021, citados); presença na programação municipal desde os anos 1980 (Iphan 2019, citado por Ramos, p. 39).
+- Ramos situa a celebração na Ladeira Cunha e Cruz e no Porto Geral (Souza, Santos e Barros 2015, p. 38); compatível com o verbete.
+- Pesquisa feita com fontes secundárias (sites e YouTube), sem trabalho de campo (p. 25-26 do PDF, trecho lido ao procurar a referência).

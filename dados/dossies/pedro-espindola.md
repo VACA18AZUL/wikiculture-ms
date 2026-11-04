@@ -20,3 +20,8 @@ Descartada: FCMS 11 jun. 2018 (resultado do show; menciona ausência, motivo de 
 ## Uso no verbete
 
 Fora: todo o relato de saúde, tratamento e família além do vínculo artístico (pai e tios no Lírio Selvagem; pai toca contrabaixo numa faixa). Qual dos irmãos é o pai: a fonte não diz. Identidade entre o Pedro da FCMS (2017-2023) e o do CGN presumida por nome, cidade e repertório.
+
+## Revisão de 2026-11-04
+
+- FCMS 11 jun. 2018 (https://www.fundacaodecultura.ms.gov.br/som-da-concha-deste-domingo-foi-de-muito-samba-de-qualidade-e-energias-positivas-com-tonico-da-viola/) diz que o show de abertura de 10 jun. 2018 foi cancelado. Passou a ser usada só para o cancelamento; o motivo (saúde) fica fora.
+- Trio de Bolso: a FCMS 2019 o lista entre os trabalhos de Chicão Castro ("Trio de Bolso com Pedro Espíndola e Thayson Gimenez"); Matheus Loubet aparece em outro parágrafo e não integra o trio.

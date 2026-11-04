@@ -22,13 +22,16 @@ Participam do documentário parceiros como [[tete-espindola|Tetê Espíndola]], 
 
 ## Exibição
 
-A estreia foi marcada para 18 de março de 2021, em sessão on-line do 22º Buenos Aires Festival Internacional de Cine Independiente (Bafici).[^g12021] O filme venceu o festival In-Edit Brasil de 2021.[^rdc2022] Teve pré-estreia no Itaú Cultural, em São Paulo, em 30 de agosto de 2022, com sessão on-line na plataforma IC Play, e chegou aos cinemas em 8 de setembro de 2022, com distribuição da Descoloniza Filmes.[^cgn2022][^rdc2022]
+A estreia foi marcada para 18 de março de 2021, em sessão on-line do 22º Buenos Aires Festival Internacional de Cine Independiente (Bafici).[^g12021] A *Revista de Cinema* registra a estreia mundial no Bafici e a passagem por outros festivais, entre eles o In-Edit Brasil de 2021, em que recebeu o prêmio de melhor filme.[^rdc2022]
+
+O *Campo Grande News* anunciou a pré-estreia para 30 de agosto de 2022, no Itaú Cultural, em São Paulo, com sessão on-line na plataforma IC Play.[^cgn2022] A *Revista de Cinema* anunciou a chegada aos cinemas para 8 de setembro de 2022, com distribuição da Descoloniza Filmes.[^rdc2022]
 
 ## Ficha técnica
 
 - Direção: [[marina-thome|Marina Thomé]][^g12021][^rdc2022]
 - Roteiro: [[dellani-lima|Dellani Lima]][^g12021]
 - Produção: [[marcia-mansur|Marcia Mansur]] (Estúdio Crua)[^g12021][^rdc2022]
+- Montagem: [[marina-thome|Marina Thomé]][^rdc2022]
 - Distribuição: Descoloniza Filmes[^rdc2022]
 
 [^g12021]: Mauro Ferreira, ["Alzira E revê em documentário o curso contínuo do rio que banha vida e obra da artista"](https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2021/03/13/alzira-e-reve-em-documentario-o-curso-continuo-do-rio-que-banha-vida-e-obra-da-artista.ghtml), *g1*, 13 mar. 2021. Acesso em 4 nov. 2026.

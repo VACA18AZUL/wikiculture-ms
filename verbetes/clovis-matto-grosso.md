@@ -3,18 +3,18 @@ titulo: Clóvis Matto Grosso
 tipo: pessoa
 areas: [literatura]
 cidade: Campo Grande
-resumo: "Empresário, comunicador e escritor. Estreou na literatura em 2026 com O Menino do Canto da Parede (Life Editora), lançado em Campo Grande e primeiro livro de uma trilogia."
+resumo: "Empresário, comunicador e escritor. Estreou na literatura em 2026 com O Menino do Canto da Parede (Life Editora), com lançamento marcado em Campo Grande; primeiro livro de uma trilogia."
 ficha:
   Atividade: "Escritor; empresário; comunicador"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Clóvis Matto Grosso** é empresário, comunicador e escritor. Estreou na literatura em 2026 com *O Menino do Canto da Parede*, lançado em Campo Grande.[^acritica2026][^cgn2026]
+**Clóvis Matto Grosso** é empresário, comunicador e escritor. Estreou na literatura em 2026 com *O Menino do Canto da Parede*, com lançamento marcado em Campo Grande.[^acritica2026][^cgn2026]
 
 ## O Menino do Canto da Parede
 
-O livro saiu pela Life Editora e foi lançado em 23 de maio de 2026, com entrada gratuita, na cafeteria Doce Lembrança, no centro de Campo Grande.[^acritica2026][^cgn2026] A narrativa acompanha Rafael, um menino que cresce entre o fim dos anos 1970 e o início dos anos 1980 e enfrenta dificuldades de aprendizagem num tempo em que temas como o TDAH não eram discutidos. O livro trata de identidade, relações familiares, espiritualidade e perdão.[^acritica2026][^cgn2026] Segundo o autor, a maior parte da história parte de fatos reais, com acréscimos de ficção.[^acritica2026]
+O livro saiu pela Life Editora, com lançamento marcado para 23 de maio de 2026, com entrada gratuita, na cafeteria Doce Lembrança, no centro de Campo Grande.[^acritica2026][^cgn2026] A narrativa acompanha Rafael, um menino que cresce entre o fim dos anos 1970 e o início dos anos 1980 e enfrenta dificuldades de aprendizagem num tempo em que temas como o TDAH não eram discutidos. O livro trata de identidade, relações familiares, espiritualidade e perdão.[^acritica2026][^cgn2026] Segundo o autor, a maior parte da história parte de fatos reais, com acréscimos de ficção.[^acritica2026]
 
 Segundo *A Crítica*, o projeto virou uma trilogia, com os dois livros seguintes em produção e ligados a cidades, à natureza e ao cotidiano de Mato Grosso do Sul.[^acritica2026]
 

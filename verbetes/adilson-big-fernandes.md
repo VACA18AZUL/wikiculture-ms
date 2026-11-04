@@ -15,17 +15,17 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o *Campo Grande News* e a Fundação de Cultura de MS (FCMS), Adilson e o irmão Marcos Fernandes se mudaram de São Paulo para Campo Grande e formaram, com o guitarrista Edson David, a banda de heavy metal [[alta-tensao|Alta Tensão]], criada em 1981. Em 1984, Adilson convidou o baterista Bosco para a banda. Os irmãos depois deixaram o grupo.[^cgn2017][^fcms2017] Em 2023, o *Campo Grande News* disse que ele fundou a banda em meados dos anos 1980.[^cgn2023]
+Segundo o *Campo Grande News* e a Fundação de Cultura de MS (FCMS), Adilson e o irmão Marcos Fernandes se mudaram de São Paulo para Campo Grande e formaram, com o guitarrista Edson David, a banda de heavy metal [[alta-tensao|Alta Tensão]], criada em 1981.[^cgn2017][^fcms2017] As duas fontes divergem sobre o baterista Bosco: a reportagem de 2017 diz que ele entrou em 1984, a convite de Adilson;[^cgn2017] a FCMS o inclui na primeira formação.[^fcms2017] Os irmãos depois deixaram o grupo.[^fcms2017] Em 2023, o *Campo Grande News* disse que ele fundou a banda em meados dos anos 1980.[^cgn2023]
 
 Em 1993, com Marcos Bezerra, criou a banda Lilás, do estilo banda-show, voltada para formaturas, casamentos e festas. Em 1996, passou a gerir e produzir a [[banda-big-company|Banda Big Company]], do mesmo segmento. Como instrumentista, tocou com [[carlos-colman|Carlos Colman]], [[celito-espindola|Celito Espíndola]], [[tostao-e-guarany|Tostão & Guarani]] e [[geraldo-espindola|Geraldo Espíndola]]. Em 2023, era gestor e instrumentista das bandas Company Trio e Four Sounds e do projeto Encontros de Quarentena.[^cgn2023]
 
 Em outubro de 2020, apresentou-se com a Big Company no [[som-da-concha|Som da Concha]], na Concha Acústica Helena Meirelles, em Campo Grande.[^fcms2020]
 
-Em maio de 2023, lançou uma versão pop-rock de [[kikio-cancao|Kikiô]], canção de Geraldo Espíndola. Segundo o músico, a releitura surgiu em meados dos anos 1990, quando ele tocava com o autor. A gravação foi a primeira faixa divulgada do álbum *Equilíbrio*, projeto financiado pelo Fundo de Investimentos Culturais de MS (FIC).[^cgn2023]
+Em maio de 2023, o *Campo Grande News* anunciou para o dia 20 o lançamento de sua versão pop-rock de [[kikio-cancao|Kikiô]], canção de Geraldo Espíndola. Segundo o músico, a releitura surgiu em meados dos anos 1990, quando ele tocava com o autor. A gravação seria a primeira faixa divulgada do álbum *Equilíbrio*, então em finalização, projeto financiado pelo Fundo de Investimentos Culturais de MS (FIC).[^cgn2023]
 
 Tocou berrante no EP *Electrosounds*, do duo [[blx|BLX]], formado por André X e [[leca-harper|Leca Harper]], lançado em 2025.[^fcms2025a]
 
-No audiovisual, fez o sound design do primeiro episódio da série documental *A Alma da Nossa Música*, sobre [[marcelo-loureiro|Marcelo Loureiro]], dirigida por [[ana-carla-loureiro|Ana Carla Loureiro]] e lançada em 2023.[^fcms2023] Com Gabriel Lucena, assinou o sound design do longa documental [[quatro-luas-pantaneiras|Quatro Luas Pantaneiras]], da mesma diretora, com estreia anunciada para 12 de novembro de 2025.[^fcms2025b]
+No audiovisual, fez o sound design do primeiro episódio da série documental *A Alma da Nossa Música*, sobre [[marcelo-loureiro|Marcelo Loureiro]], dirigida por [[ana-carla-loureiro|Ana Carla Loureiro]], com estreia para convidados anunciada para 25 de outubro de 2023.[^fcms2023] Com Gabriel Lucena, assinou o sound design do longa documental [[quatro-luas-pantaneiras|Quatro Luas Pantaneiras]], da mesma diretora, com estreia anunciada para 12 de novembro de 2025.[^fcms2025b]
 
 ## Discografia
 
