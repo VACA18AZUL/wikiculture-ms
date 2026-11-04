@@ -29,3 +29,11 @@ Fonte aberta sem menção a ele: Aletheya Alves, "Confraria Sociartista fará ex
 - Os resultados de busca indicam outra matéria do Campo Grande News, sobre a morte (quinta-feira, 20 de novembro de 2025), mas a URL não foi localizada nem aberta; mesmo veículo, não serve como fonte independente. Não entrou no verbete.
 - Nada alterado no verbete. Situação: reforçar. Próximo passo: abrir a nota de falecimento do CGN (data exata da morte) e procurar cobertura da Fundação de Cultura de MS ou da Prefeitura.
 - Busca adicional (Lagoa Itatiaia + autoria da escultura): nenhuma fonte fora do CGN liga o peixe da Lagoa Itatiaia a ele; a matéria do CGN sobre a Confraria Sociartista na Lagoa Itatiaia também é do mesmo veículo e não foi aberta.
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Fonte nova independente aberta e lida: Laura Brasil, "Artista Plástico que tinha o Pantanal como inspiração morre aos 58 anos", Correio do Estado, 21 nov. 2025 (https://correiodoestado.com.br/correio-b/artista-plastico-que-tinha-o-pantanal-como-inspiracao-morre-aos-58/457896/). Sustenta: morte em 20 nov. 2025, aos 58 anos; natural de Coxim; *O Beijo* (2008, concreto armado, Lago do Amor); *Os Dourados* (Praça do Pescador, Coxim); peixe cará de ~6 m na Lagoa Itatiaia; inspiração pantaneira e indígena; idealizador e fundador da Confraria "Socioartista". Não traz formação, exposições nem docência.
+- Efeito: ficha Morte = 20 de novembro de 2025; parágrafo novo em "Obra"; reforço da fundação da Confraria e da morte em nov. 2025; fecha a autoria da escultura da Lagoa Itatiaia (pendência do r-4).
+- Divergência de grafia: Correio do Estado "Góis"; CGN (homenagem) "Góes". Registrada no verbete e em observacoes.
+- Não aberto (403): Midiamax, "Pedro Guilherme expõe no Espaço Aberto da Câmara Municipal de Campo Grande" (2011). Nota de pesar da Prefeitura de Coxim e da Confraria: citadas só em resumo de busca, não abertas.
+- Quanto às demais afirmações (1967, mudança na infância, autodidata, Salão de Santos, docência, Piracema), só o CGN. Nascimento em 1967 é coerente com 58 anos em nov. 2025.

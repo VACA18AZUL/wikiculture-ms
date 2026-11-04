@@ -11,3 +11,9 @@ Nada mudou no conteúdo por fonte nova. Ajuste de redação na abertura: a fonte
 ## Atualização de 2026-11-04 (reforço r-4)
 
 - Nova busca aberta por "Apres Gomes" artista plástico Campo Grande: só a mesma matéria do Campo Grande News (4 jul. 2023). Nenhuma fonte independente (Fundação de Cultura, Prefeitura de Campo Grande, UFMS) apareceu. Nada alterado no verbete; segue "reforcar".
+
+## Atualização de 2026-11-04 (reforço r2-2)
+
+- Fonte nova aberta e lida: "Espaço Arte leva exposições de artistas regionais para o Paço Municipal", CG Notícias (Prefeitura de Campo Grande), 3 jul. 2023, sem autoria. Sustenta: formação (licenciatura Leonardo da Vinci, bacharelado UFMS), atuação, mostra *Momentos* (4 a 30 jul. 2023, 11 quadros, óleo, acrílico e sanguínea, tema Pantanal), projeto Espaço Arte da Sectur, obras à venda; acrescenta: conselheiro municipal de cultura por quatro mandatos.
+- Limite: o texto do CGN de 4 jul. 2023 repete quase a mesma redação; provável origem comum (release da Prefeitura). Por isso NÃO conta como fonte independente. O verbete agora cita a fonte primária ao lado da matéria. O e-mail de contato do release ficou fora. O texto não informa naturalidade nem cidade de atuação; `cidade` continua vazio.
+- Situação: reforçar (sem fonte independente da prefeitura).

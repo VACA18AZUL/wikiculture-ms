@@ -25,7 +25,7 @@ Atuou como professor e, segundo a reportagem, ajudou a formar e incentivar outro
 
 Era conhecido pelos peixes, que aparecem em pinturas, murais e esculturas. A reportagem diz que ele transformou em obra memórias da infância, experiências às margens do Rio Taquari e referências ao universo subaquático. Entre as obras mais conhecidas estão as esculturas instaladas na Lagoa Itatiaia e no Lago do Amor.[^cgn]
 
-Segundo o *Correio do Estado*, *O Beijo* é uma escultura de concreto armado, de 2008, no Lago do Amor. A matéria lista também *Os Dourados*, monumento na Praça Francisco Mendes da Rocha (Praça do Pescador), em Coxim, e uma escultura do peixe cará, com cerca de 6 metros de comprimento, na Lagoa Itatiaia. O texto descreve sua obra como inspirada pelo Pantanal e por influências indígenas.[^ce] O jornal grafa o sobrenome como "Góis", e a reportagem do *Campo Grande News* como "Góes".[^ce]
+Segundo o *Correio do Estado*, *O Beijo* é uma escultura de concreto armado, de 2008, no Lago do Amor. A matéria lista também *Os Dourados*, monumento na Praça Francisco Mendes da Rocha (Praça do Pescador), em Coxim, e uma escultura do peixe cará, com cerca de 6 metros de comprimento, na Lagoa Itatiaia. O texto descreve sua obra como inspirada pelo Pantanal e por influências indígenas.[^ce] O jornal grafa o sobrenome como "Góis", e a reportagem do *Campo Grande News* como "Góes".[^ce][^cgn]
 
 ## Homenagem
 
