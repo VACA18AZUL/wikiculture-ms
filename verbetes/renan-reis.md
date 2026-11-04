@@ -11,11 +11,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Renan Reis** é um artista visual, curador, educador e arteterapeuta formado em Artes Visuais pela [[ufms|UFMS]], que trabalha com políticas públicas de cultura na [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^cgn2026]
+**Renan Reis** é um artista visual, curador, educador e arteterapeuta. Graduou-se em Artes Visuais na [[ufms|UFMS]] e trabalha com políticas públicas de cultura na [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]].[^cgn2026]
 
 ## Trajetória
 
-Segundo a Fundação de Cultura, tem experiência na condução de ateliês e processos educativos no Sesc Pompeia e no Sesi da Avenida Paulista e foi coordenador pedagógico e de exposições na ABRA. É coautor do livro *ENTRE: Materialidades e Afetos*.[^fcms2026a]
+Segundo a Fundação de Cultura, conduziu ateliês e ações educativas no Sesc Pompeia e no Sesi da Avenida Paulista e coordenou a parte pedagógica e as exposições da ABRA. É coautor do livro *ENTRE: Materialidades e Afetos*.[^fcms2026a]
 
 Em agosto de 2025, a Fundação o apresentou como gestor cultural e coordenador de Artes Visuais do [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]]. A galeria do festival, prevista para abrir em 20 de agosto, teria obras de artistas do projeto de pintura em tela da Educação Especial, educadores e recursos de acessibilidade. A matéria o chama de Renan Reis Braz.[^fcms2025] Em 2026, como gerente de Políticas Públicas e Fomento Cultural, escreveu o *Manual Técnico de Museografia e Mediação Cultural*, distribuído de graça pela Fundação a artistas e ao público.[^fcms2026a]
 

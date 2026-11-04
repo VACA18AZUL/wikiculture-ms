@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 O *Campo Grande News* data a fundação de 2023; em julho de 2024, o site *Primeira Página* disse que o grupo tinha nascido dois anos antes.[^cgn2024a][^pp2024] O coletivo trabalha com teatro, dança, performances, intervenções urbanas e ações sociais gratuitas, além de encontros como o "piquenique trans" e atividades ligadas à cultura ballroom.[^pp2024][^cgn2025] Os ensaios, antes feitos em praças e casas das integrantes, passaram para um espaço no [[grupo-casa|Grupo Casa]].[^cgn2024a]
 
-Em agosto de 2024, o grupo fez uma intervenção em procissão pela Rua 14 de Julho e pela Feira Central, carregando uma das integrantes em uma carriola, em referência ao assassinato de Dandara, no Ceará, em 2017.[^cgn2024a]
+Em 2024, antes da estreia do primeiro espetáculo, o grupo fez a performance *Coragem*, uma intervenção em procissão pela Rua 14 de Julho e pela Feira Central, carregando uma das integrantes em uma carriola, em referência ao assassinato de Dandara, no Ceará, em 2017.[^cgn2024a][^cgn2025]
 
 O primeiro espetáculo, *[[culto-das-travestis|Culto das Travestis]]*, partiu de pesquisas de Emy Mateus Santos. Estreou em 30 de agosto de 2024, com as intérpretes instaladas na Esplanada Ferroviária e um cortejo até o [[armazem-cultural|Armazém Cultural]], onde houve sessões até 1º de setembro.[^cgn2024b][^g12024] A montagem teve recursos da Lei Paulo Gustavo, por meio da Fundação de Cultura de MS.[^cgn2025]
 

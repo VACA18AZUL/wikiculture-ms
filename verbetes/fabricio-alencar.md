@@ -3,7 +3,7 @@ titulo: Fabrício Alencar
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: "Artista plástico, ilustrador e designer natural de Santarém (PA) e radicado em Campo Grande, com obras expostas em Dubai, Londres e Paris."
+resumo: "Artista plástico, ilustrador e designer natural de Santarém (PA) e radicado em Campo Grande; participou da World Art Dubai em 2025 e teve obras selecionadas para mostras em Londres e Paris em 2026."
 ficha:
   Atividade: Pintura, ilustração, direção de arte e design
 status: rascunho
@@ -20,11 +20,11 @@ Em 2025 participou da World Art Dubai. Recebeu também moção de congratulaçõ
 
 Em março de 2026, o *Campo Grande News* anunciou que ele levaria a pintura *Madona (dos trópicos)* à exposição coletiva "HER shaping the world", de 4 a 20 de março, no Sfumato Art Studio, em Londres. A tela, em acrílico, de 70 cm por 1 m, faz uma releitura da imagem de Nossa Senhora com o menino Jesus, representada por uma mulher indígena brasileira que amamenta o filho.[^cgn2026]
 
-Em outubro de 2026, o *Correio do Estado* noticiou que a pintura *Psyche*, acrílico sobre tela em técnica mista, foi escolhida por Patricia Evangelista, curadora do Sfumato Art Studio, para a 20ª edição de um evento de arte no Carrousel du Louvre, em Paris.[^ce2026]
+Em outubro de 2026, o *Correio do Estado* noticiou que a pintura *Psyche*, acrílico sobre tela em técnica mista, foi escolhida por Patricia Evangelista, curadora do Sfumato Art Studio, para a 20ª edição de um evento de arte no Carrousel du Louvre, em Paris, marcada para os dias 24 e 25 daquele mês.[^ce2026]
 
 ## Obras
 
-- *Madona (dos trópicos)* — acrílico sobre tela, 70 × 100 cm; levada à exposição "HER shaping the world", em Londres, em 2026.[^cgn2026]
+- *Madona (dos trópicos)* — acrílico sobre tela, 70 × 100 cm; anunciada para a exposição "HER shaping the world", em Londres, em março de 2026.[^cgn2026]
 - *Psyche* — acrílico sobre tela, técnica mista; selecionada para o Carrousel du Louvre em 2026.[^ce2026]
 - Séries *Passarada* (aquarela), *Haras* (cavalos) e *Sagrados* (temas cristãos, com obras como *Sagrado Coração de Jesus*, *O Peregrino* e *Sagrado Coração de Maria*).[^ce2026]
 
