@@ -15,7 +15,7 @@ A **Leão Cinematográfica** foi uma produtora de cinema sediada em Três Lagoas
 
 ## Trajetória
 
-Neves inclui a produtora entre as empresas de cinejornais do antigo Mato Grosso, ao lado da Lahdo Produções Cinematográficas, dos [[irmaos-lahdo|irmãos Lahdo]], e da Gloria Filmes, de Aquidauana. Cita Idara Duncan, para quem os cinejornais ganharam força no Estado Novo, filmando festas cívicas, religiosas e populares. Segundo Neves, essa produção foi documentada por José Octávio Guizzo no livro *Esboço Histórico do Cinema em Mato Grosso*.[^neves]
+Neves inclui a produtora entre as empresas de cinejornais do antigo Mato Grosso, ao lado da Lahdo Produções Cinematográficas, dos [[irmaos-lahdo|irmãos Lahdo]], e da [[gloria-filmes|Gloria Filmes]], de Aquidauana. Cita Idara Duncan, para quem os cinejornais ganharam força no Estado Novo, filmando festas cívicas, religiosas e populares. Segundo Neves, essa produção foi documentada por [[jose-octavio-guizzo|José Octávio Guizzo]] no livro *Esboço Histórico do Cinema em Mato Grosso*.[^neves]
 
 A Cinemateca Brasileira registra o cinejornal *Terra e Gente n. 116*, de 1980, sobre aspectos da cidade de Três Lagoas, produzido e distribuído pela Leão Filmes Jornais Cinematográficos e dirigido por Vicente Leão. Registra também o curta documental *Terra e Gente*, de 1983, da Cinematográfica Leão Filmes Ltda., com produção executiva de Vicente Leão e direção e fotografia de Joel Leão.[^cb]
 

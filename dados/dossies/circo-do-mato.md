@@ -49,3 +49,14 @@ Fontes descartadas:
 ## Atualização de 2026-11-04
 
 Fontes reabertas e lidas: CGN 16 abr. 2009 (Circuito Sul-Mato-Grossense de Teatro), CGN 3 abr. 2025 e CGN 1 maio 2025 (De Ponto a Ponto). Entrou no verbete: parágrafo do De Ponto a Ponto (cinco Pontos de Cultura, Lei Paulo Gustavo, coordenação de Laila Pulchério com Mauro Guimarães, sessão de Aquidauana com Libras), item *O Palhaço no ½ da rua* (2009) e item *O Grandioso Mini Cirquim nas Arábias* (2025). A matéria de 3 abr. não diz em quais cidades o *Mini Cirquim* foi apresentado; só a de 1 maio o confirma em Aquidauana, e o verbete limita-se a isso. A matéria de 3 abr. nomeia Casa de Ensaio (Rua Visconde de Taunay, Amambaí); o verbete casa-de-ensaio dá sede no Amambaí, mas a identidade entre os dois não está dita na fonte (link mantido, conferir).
+
+## Atualização de 2026-11-04 (r12)
+
+Fontes novas abertas e lidas (Correio do Estado, caderno Correio B):
+
+- ce2017: "Circo do Mato estreia espetáculo que aborda temas políticos de forma lúdica", 3 mar. 2017 (sem autor), https://correiodoestado.com.br/correio-b/2017/03/03/circo-do-mato-estreia-espetaculo-que-aborda-temas-politicos-de-forma-ludica.html — *João e o Pé de Feijão na Terra do Nunca*: estreou "ontem" (2/03/2017) no Teatro Prosa do Sesc Horto; dramaturgia e direção de Anderson Bosh; produtora Laila Pulchério; Prêmio Rubens Corrêa de Teatro (recebido em novembro, provavelmente 2016); produção iniciada no começo de 2016.
+- ce2025: Da Redação, "Circo de MS se apresenta em Campo Grande e também na Bahia", 13 jan. 2025, https://correiodoestado.com.br/correio-b/2025/01/13/circo-de-ms-se-apresenta-em-campo-grande-e-tambem-na-bahia.html — reforça *Ponto de Partida* (João Lima, Breno Moroni, Mauro Guimarães; Funarte Retomada Circo 2023; Campo Grande 17 a 19/01 e Salvador 23 a 26/01/2025, anúncio); 10 anos até a montagem; grupo "ativo desde os anos 1990", Ponto de Cultura em 2011, festivais em seis países (segundo Laila Pulchério).
+
+Divergência nova: início do grupo — "anos 1990" (ce2025) x dez anos em 2014 (cgn2014) x 15 anos em 2020 (cgn2020) x "mais de 20 anos" (Mauro Guimarães, 2025). Registrada no verbete; sugerir em `observacoes` da lista-mestra.
+Anderson Bosh e Laila Pulchério: nomes possíveis para a lista-mestra (não propostos aqui).
+Fora: endereços da sede e dos teatros de Salvador.

@@ -21,3 +21,8 @@
 - Acrescentados dois parágrafos na seção "Obra".
 - Não entrou: avaliação crítica de Caetano sobre o texto de Sá Rosa (1985) e sobre a imprensa.
 - Pendências: cidade e data de nascimento seguem sem fonte lida (a Wikipédia traz Campo Grande e 1943; não usada). Pistas na lista-mestra: Correio do Estado 2019 (honoris causa UFMS), Revista Raído 2011.
+
+## Atualização de 2026-11-04 (r11)
+
+- G. Lima (UFGD, 2012), p. 93-98 do PDF: série Cupins (2001 e 2002, legendas das figuras 10-12, a partir do site do artista); poema "Cupins" de Raquel Naveira (2006) dedicado a ele; Sá Rosa (2002) sobre a série.
+- Vicelli (UFMS, 2008), p. 92 do PDF: a obra de Espíndola mudou a imagem do boi na arte sul-mato-grossense; cita Rosa (2006, p. 52), que o dá como nascido em Campo Grande.

@@ -39,3 +39,7 @@ Descartadas: FCMS 2023-09-06 (lista de adesões ao Prêmio Glorinha de Sá Rosa,
 ## Uso no verbete
 
 - Tudo entrou. O título da mostra de 2024 foi mantido com a grafia da fonte.
+
+## Atualização de 2026-11-04 (r11)
+
+- G. Lima (UFGD, 2012), p. 69-70 do PDF: "pintor de Amambaí", tela de 1999 reproduzida de Rosa (2005). Amambai não posto como cidade na ficha (a fonte não diz se é naturalidade ou residência).

@@ -36,6 +36,8 @@ Os bugres são esculpidos em troncos de árvore. O Masp cita o uso de machadinha
 
 Amizo descreve uma mudança de estatuto: de peça de artesanato, os bugres passaram a ser tratados como obra de arte, ao entrar em museus e galerias.[^amizo] A tese de Assis, sobre o Movimento Cultural Guaicuru, cita os bugres como exemplo do esforço de instituições culturais para criar símbolos da identidade sul-mato-grossense.[^assis] Amizo acrescenta que a imagem do bugre aparece em publicidade e em materiais do poder público.[^amizo]
 
+Grazielli Alves de Lima (UFGD, 2012) reproduz uma escultura *Bugre* datada de 1983 e analisa o poema "Conceição dos bugres", de [[raquel-naveira|Raquel Naveira]] (1991), que descreve a escultora trabalhando a madeira e a cera de abelha. A autora cita [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] (2010), para quem o primeiro boneco foi feito de uma raiz de mandioca.[^glima2012]
+
 ## Acervo e exposições
 
 Segundo Amizo, os bugres integraram, entre outras, as mostras "5 Artistas de Mato Grosso" (Rio de Janeiro, 1971), a Bienal Nacional de São Paulo (1974), uma individual no Museu de Arte e Cultura Popular da UFMT (Cuiabá, 1975), a Mostra do Redescobrimento Brasil+500 (São Paulo, 2000) e "Conceição e sua gente" (MARCO, Campo Grande, 2004).[^amizo] Obras suas estão no acervo do [[marco|MARCO]].[^amizo]
@@ -53,3 +55,4 @@ De 14 de maio de 2021 a 30 de janeiro de 2022, o Museu de Arte de São Paulo (Ma
 [^amizo]: Isabella Banducci Amizo, [*Poética dos Bugres: uma incursão sobre arte, identidade e o outro*](https://sigpos.ufms.br/portal/trabalho-arquivos/download/2239), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2015, introdução e cap. 1. Acesso em 29 out. 2026.
 [^masp]: Masp, ["Conceição dos Bugres: tudo é da natureza do mundo"](https://masp.org.br/exposicoes/conceicao-dos-bugres), *Museu de Arte de São Paulo*, 2021–2022. Acesso em 29 out. 2026.
 [^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, UFGD, 2013, p. 31. Acesso em 29 out. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 115-117 do PDF. Acesso em 4 nov. 2026.

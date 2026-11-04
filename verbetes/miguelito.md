@@ -7,20 +7,20 @@ resumo: "Músico multi-instrumentista de Campo Grande, Jaime Miguel Barrera, bat
 ficha:
   Nome: "Jaime Miguel Barrera"
   Atividade: "Bateria, piano, composição"
-  Grupos: "[[mini-boys|Mini Boys]], [[zutrik|Zutrik]], Time Travelers, Beatles Maníacos"
+  Grupos: "[[mini-boys|Mini Boys]], [[zutrik|Zutrik]], Time Travelers, [[beatles-maniacos|Beatles Maníacos]]"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Miguelito**, nome artístico de Jaime Miguel Barrera, é um músico multi-instrumentista de Campo Grande. Toca bateria, piano e outros instrumentos e, depois de décadas no rock da noite da cidade, passou a compor música erudita.[^cgn2018][^fcms2021]
+**Miguelito**, nome artístico de Jaime Miguel Barrera, é um músico multi-instrumentista de Campo Grande. Toca bateria, piano e outros instrumentos e, depois de décadas no rock da noite da cidade, passou a se dedicar à música erudita.[^cgn2018][^fcms2021]
 
 ## Trajetória
 
-Segundo o *Campo Grande News*, começou na bateria aos nove anos e formou o [[mini-boys|Mini Boys]], que tocava pelas ruas de Campo Grande antes da divisão do estado. Aos 14 anos passou a estudar violão clássico e aos 19 ganhou dos pais o primeiro piano. Cursou engenharia elétrica, mas ficou com a música.[^cgn2018] A Fundação de Cultura de MS diz que ele começou aos sete anos, na bateria, e que passou a estudar piano aos 18, com a professora Zelita Ignacio, além de escrita musical com o maestro Agapito Ribeiro.[^fcms2021]
+Segundo o *Campo Grande News*, começou na bateria aos nove anos e formou o [[mini-boys|Mini Boys]], que tocava pelas ruas de Campo Grande antes da divisão do estado. Passou ao violão clássico aos 14 anos e recebeu dos pais o primeiro piano aos 19. Chegou a cursar engenharia elétrica, mas seguiu na música.[^cgn2018] A Fundação de Cultura de MS diz que ele começou aos sete anos, na bateria, que iniciou o estudo de piano aos 18 e que estudou música clássica com a professora Zelita Ignacio e escrita musical com o maestro Agapito Ribeiro, época em que compôs as primeiras peças eruditas para piano.[^fcms2021]
 
-Nos anos 1970 integrou o [[zutrik|Zutrik]], que tocou por cerca de três décadas no Clube Surian, em boates, festas e casamentos. O jornal o apresenta como a primeira banda de Mato Grosso do Sul a gravar um compacto. Miguelito também fundou o Beatles Maníacos, no qual toca bateria.[^cgn2018] A fundação lista ainda as bandas Time Travelers, No Smoking, Miguelito Jazz Band, Maraffo e James Rock.[^fcms2021]
+Nos anos 1970 tocava nos bailes do Clube Surian com o [[zutrik|Zutrik]], banda com a qual se apresentou por três décadas em casas noturnas, formaturas, bares e casamentos. Em depoimento ao jornal, disse que o grupo foi o primeiro de Mato Grosso do Sul a gravar um compacto. Miguelito também fundou o [[beatles-maniacos|Beatles Maníacos]], no qual toca bateria.[^cgn2018] A fundação lista ainda as bandas Time Travelers, No Smoking, Miguelito Jazz Band, Maraffo e James Rock.[^fcms2021]
 
-Em 2018, então com 64 anos, compunha peças eruditas em parceria com o violinista Petar Krastanov e tinha se apresentado com ele e o violoncelista Marcelo Gerônimo no [[sesc-teatro-prosa|Teatro Prosa]]. Preparava o projeto *Miguelito 50 anos de música*, no Sesc Cultura.[^cgn2018] A fundação anunciou para 19 de setembro de 2021 o show *Miguelito Erudito*, no [[som-da-concha|Som da Concha]], com composições autorais de música instrumental erudita e arranjos do violinista búlgaro, grafado ali Peter Krastanov.[^fcms2021]
+Em 2018, então com 64 anos, compunha peças eruditas em parceria com o violinista Petar Krastanov e tinha se apresentado com ele e o violoncelista [[marcelo-geronimo|Marcelo Gerônimo]] no [[sesc-teatro-prosa|Teatro Prosa]]. O jornal registra ainda o projeto de música autoral erudita *Miguelito 50 anos de música*, realizado no Sesc Cultura.[^cgn2018] A fundação anunciou para 19 de setembro de 2021 o show *Miguelito Erudito*, no [[som-da-concha|Som da Concha]], com composições autorais de música instrumental erudita e arranjos do violinista búlgaro, grafado ali Peter Krastanov.[^fcms2021]
 
 ## Discografia
 

@@ -40,3 +40,7 @@ Verbete segue apoiado só em Assis (2013, citando Bardi 1967). Identidade com "M
 ## Atualização de 2026-11-04 (r9)
 
 Nenhuma fonte nova serviu; o verbete não mudou. Buscas: RSS do Google Notícias ("Miguel Peres" pintor), API do O Estado ("Fábrica de Quadros") e busca interna do Campo Grande News: sem resultado. Portal de trabalhos da pós-graduação da UFMS: achada a dissertação de Paulo Roberto Rigotti, "As artes plásticas em Mato Grosso e Mato Grosso do Sul e a presença da modernidade nas produções pictóricas de Lídia Baís", sem arquivo para download no portal; pista para biblioteca.
+
+## Atualização de 2026-11-04 (r11)
+
+- G. Lima (UFGD, 2012), p. 70 do PDF: citação de Aline Figueiredo (1979, p. 171): Miguel Peres e Lídia Baís em Campo Grande; escolas de pintura de Miguel Peres e Antonio Burgos em suas casas. Fonte acadêmica nova e independente de Assis (2013), mas as duas dependem de Aline Figueiredo (1979): Assis via o artigo de Bardi reproduzido por Figueiredo; Lima, via o texto da própria Figueiredo. Por isso a situação fica em "reforcar".

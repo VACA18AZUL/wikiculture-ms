@@ -23,3 +23,7 @@ O que mudou no verbete:
 - Ficha: Naturalidade, Morte, Atividade (escultura). Resumo reescrito.
 - Fora do verbete por serem dados pessoais: causa da internação e estado de saúde citados na matéria.
 - A matéria não dá a data de nascimento. A fonte usa a sigla AMA como "Associação Mato-Grossense das Artes"; não há verbete da associação.
+
+## Atualização de 2026-11-04 (r11)
+
+- G. Lima (UFGD, 2012), p. 100-102 do PDF: Série Litoral (2007); poema "Piraputanga" (Casa de tecla, 1998); exposição de 1986 com 70 quadros (via Rosa 2005, p. 59).

@@ -11,9 +11,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Aurineide Alencar** é uma poeta, cordelista e professora aposentada nascida em Catolé do Rocha, no sertão da Paraíba, que mora em Dourados, Mato Grosso do Sul, há mais de vinte anos.[^cgn2024a]
+**Aurineide Alencar** é uma poeta, cordelista e professora aposentada nascida em Catolé do Rocha, no sertão da Paraíba, que mora em Dourados, Mato Grosso do Sul, há mais de vinte anos.[^cgn2024a] As fontes divergem sobre o tempo de residência: em 2022, o *Correio do Estado* informou que ela chegou ao estado em agosto de 1983, por Deodápolis, e que vivia em Dourados havia quase 40 anos.[^ce2022]
 
 ## Trajetória
+
+Segundo o *Correio do Estado*, aprendeu a ler com folhetos de cordel ainda na infância. Formou-se em Letras em Dourados e deu aulas por 29 anos, usando o cordel em sala; defendeu o tema numa dissertação de mestrado. Passou a publicar em 2010, com o folheto *A Escolhida*, homenagem a Dourados, e até o início de 2022 somava 111 folhetos, parte deles reunidos em cinco livros e dois e-books. É uma das fundadoras da Associação dos Cordelistas de Mato Grosso do Sul (Acoms) e integra o movimento Cordel das Rosas. Tem obras publicadas também no Paraguai e na Argentina.[^ce2022]
 
 Depois de se aposentar, em 2019, montou uma cordelteca itinerante numa Kombi vermelha, com mais de dois mil títulos de cordel, clássicos e contemporâneos, de várias regiões do país. A ação integra o projeto Cordel na Periferia – Cordelteca Itinerante Cantinho do Cordel, que recebeu incentivo da Lei Paulo Gustavo e apoio da Prefeitura de Dourados.[^cgn2024a]
 
@@ -30,7 +32,8 @@ No mesmo ano, foi uma das 25 coautoras da *Coletânea do Novo Movimento Poético
 ## Obras
 
 - *Nas Veredas do Cordel*, *Vida em Versos*, *Mato Grosso do Sul nas Asas do Cordel*, *Pescador de Cantos* e *Embrenhando-se em Cordel* — livros anteriores a 2021.[^oestado2021]
-- *Semeadora de Cordéis* (2021) — e-book com 26 cordéis; Lei Aldir Blanc, Dourados.[^oestado2021]
+- *A Escolhida* (2010) — primeiro folheto, homenagem a Dourados.[^ce2022]
+- *Semeadora de Cordéis* (2021) — e-book com 26 cordéis; Lei Aldir Blanc, Dourados; Editora Arrebol.[^oestado2021][^ce2022]
 
 Em 2024, publicou dez fábulas clássicas recontadas em cordel, com lançamento marcado para 1º de junho, em Dourados. A tiragem prevista era de 500 exemplares por título, com parte destinada a escolas municipais e estaduais e à Secretaria de Cultura de Dourados.[^cgn2024a]
 
@@ -51,6 +54,7 @@ Em matéria de 31 de julho de 2025, o *Correio do Estado* descreveu a coleção 
 [^cgn2024a]: Idaicy Solano, ["Aurineide transformou magia de fábulas em literatura de cordel"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/aurineide-transformou-magia-de-fabulas-em-literatura-de-cordel), *Campo Grande News*, 31 maio 2024. Acesso em 4 nov. 2026.
 [^cgn2024b]: Thailla Torres, ["Campo Grande recebe lançamento de 25 livros no mesmo dia"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/campo-grande-recebe-lancamento-de-25-livros-no-mesmo-dia), *Campo Grande News*, 17 dez. 2024. Acesso em 4 nov. 2026.
 [^correio2022]: Cauê Reis, ["Festival literário segue até quinta e terá lançamento de livros e revista"](https://correiodoestado.com.br/correio-b/festival-literario-segue-ate-quinta-e-tera-lancamento-de-livros-e/407968/), *Correio do Estado*, 29 nov. 2022. Acesso em 4 nov. 2026.
+[^ce2022]: Naiara Camargo, ["Conheça a escritora que viaja todo o Mato Grosso do Sul para divulgar cordel"](https://correiodoestado.com.br/correio-b/2022/01/13/conheca-a-escritora-que-viaja-todo-o-mato-grosso-do-sul-para-divulgar-cordel.html), *Correio do Estado*, caderno Correio B, 13 jan. 2022. Acesso em 4 nov. 2026.
 [^ce2025]: Redação, ["Cordelista Aurineide Alencar transforma clássicos da literatura em obras acessíveis"](https://correiodoestado.com.br/correio-b/cordelista-aurineide-alencar-transforma-classicos-da-literatura-em/452132/), *Correio do Estado*, 31 jul. 2025. Acesso em 4 nov. 2026.
 [^oestado2021]: Rafael Belo, ["Cordelista premiada de Dourados lança 6º livro"](https://oestadoonline.com.br/arte-e-lazer/cordelista-premiada-de-dourados-lanca-6o-livro/), *O Estado de Mato Grosso do Sul*, 20 jan. 2021. Acesso em 4 nov. 2026.
 [^oestado2022]: ["Livro de coletânea histórica é lançado pelo Novo Movimento Poético em Dourados"](https://oestadoonline.com.br/arte-e-lazer/livro-de-coletanea-historica-e-lancado-pelo-novo-movimento/), *O Estado de Mato Grosso do Sul*, 24 nov. 2022. Acesso em 4 nov. 2026.

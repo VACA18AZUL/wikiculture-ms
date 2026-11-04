@@ -7,19 +7,19 @@ resumo: "Curta-metragem do concurso Revelando os Brasis, roteirizado e dirigido 
 ficha:
   Direção: Sebastião de Souza Brandão
   Ano: "2014 (filmagem)"
-  Formato: "Curta-metragem, cerca de 15 minutos"
+  Formato: "Curta-metragem, previsto com 15 minutos"
   Realização: "Concurso Revelando os Brasis (Instituto Marlin Azul)"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Nos Trilhos do Trem Fantasma*** é um curta-metragem sobre uma lenda contada por ferroviários da Estrada de Ferro Noroeste do Brasil, com roteiro e direção de [[sebastiao-de-souza-brandao|Sebastião de Souza Brandão]], ex-ferroviário, artesão e cururueiro de Ladário.[^cgn2014a][^cgn2014b]
+***Nos Trilhos do Trem Fantasma*** é um curta-metragem sobre uma lenda contada por ferroviários da Estrada de Ferro Noroeste do Brasil, com roteiro e direção de [[sebastiao-de-souza-brandao|Sebastião de Souza Brandão]], ex-ferroviário, artesão e cururueiro de Ladário.[^cgn2014a][^cgn2014b][^fcms2024]
 
 ## Produção
 
-Em 2014, a história de Brandão foi uma das 20 selecionadas, entre 951 inscritas, no concurso nacional Revelando os Brasis, voltado a municípios de até 20 mil habitantes e patrocinado pela Petrobras. Foi a única do Centro-Oeste. Para escrever e dirigir o filme, ele fez um curso de cinema de duas semanas na Universidade do Estado do Rio de Janeiro (UERJ).[^cgn2014a][^cgn2014b] A Fundação de Cultura de MS atribui o edital ao Instituto Marlin Azul.[^fcms2024]
+Em 2014, a história de Brandão foi uma das 20 selecionadas, entre 951 inscritas, no concurso nacional Revelando os Brasis, voltado a municípios de até 20 mil habitantes e patrocinado pela Petrobras. Foi a única do Centro-Oeste. Para escrever e dirigir o filme, ele fez um curso de cinema de duas semanas na UERJ, no Rio de Janeiro.[^cgn2014a][^cgn2014b] A Fundação de Cultura de MS atribui o edital ao Instituto Marlin Azul.[^fcms2024]
 
-A lenda trata de luzes e do som de uma locomotiva que aparecia à noite nos trilhos da região de Porto Esperança e nunca chegava. Brandão, que dizia ter duvidado da história até ver o trem com quatro colegas, contou que ela circulava entre os ferroviários nos anos 1980.[^cgn2014a] Segundo a Fundação de Cultura, a locomotiva saía da estação Agente Inocêncio e não chegava à de Porto Esperança.[^fcms2024]
+A lenda trata de luzes e do som de uma locomotiva que aparecia à noite nos trilhos da região de Porto Esperança e nunca chegava. Segundo o *Campo Grande News*, nos anos 1980 a história assustava muitos ferroviários. Brandão contou que duvidava dela até ver o fenômeno, junto com quatro colegas.[^cgn2014a] Segundo a Fundação de Cultura, a locomotiva saía da estação Agente Inocêncio e não chegava à de Porto Esperança.[^fcms2024]
 
 Em março de 2014, o plano era filmar em quatro dias nos trilhos de Ladário.[^cgn2014a] Em agosto, o *Campo Grande News* informou que, sem liberação das linhas originais, as filmagens duraram seis dias e foram feitas nos trilhos da fronteira entre Corumbá e Puerto Quijarro, na Bolívia. O filme mistura depoimentos de ferroviários e encenações, e a trilha foi feita por 15 cururueiros com suas violas.[^cgn2014b]
 

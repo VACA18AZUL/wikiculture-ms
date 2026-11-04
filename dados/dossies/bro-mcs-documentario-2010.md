@@ -41,3 +41,10 @@ Tentativa: tese de Miguel Angelo Corrêa (UFGD, 2023) — download não concluiu
 ## Atualização de 2026-11-04 (r11)
 
 - Fidelis (UFMS, dissertação, 2015), p. 120-134 do PDF: ficha técnica (cor, 8'15", 2010, produção Aldeia Jaguapiru e Pontão Guaicuru, 13 realizadores), análise do conteúdo. Mesmo autor da tese de 2024; não é fonte independente. O verbete continua apoiado só em Fidelis (2015 e 2024). Para segunda fonte independente: Corrêa (UFGD, 2023) menciona o videoclipe do Ava Marandu (citado no verbete bro-mcs), mas não foi relido nesta rodada.
+
+## Atualização de 2026-11-04 (valn-49)
+
+- Corrêa (UFGD, 2023) baixado e lido nesta sessão. p. 84, nota 121: Avá Marandu de janeiro a junho de 2010, realizado pelo Pontão de Cultura Guaicuru, resultou na produção de dez curtas por indígenas, em sua maioria kaiowá e guarani. Entrou como segunda fonte para o contexto do projeto.
+- p. 84, nota 119 (citando Corrêa, 2017): coordenadores da oficina do Avá Marandu em Tacuru: Joel Pizzini, Mauricio Copetti, Cristiano Maggi e Nando Mendes. Fidelis (2024, p. 107) lista Pizzini, Copette, Molina e Galache para as oficinas de audiovisual em geral. Não entrou no verbete (Corrêa trata da oficina de Tacuru, não da de Jaguapiru).
+- p. 123: integrantes do grupo Brô MC's tiveram como contato prévio com o audiovisual "um videoclipe incipiente gravado durante o Avá Marandu (2010)". Não fica claro se é o mesmo filme; não entrou no verbete.
+- O filme em si continua descrito só por Fidelis (2015 e 2024, mesmo autor).

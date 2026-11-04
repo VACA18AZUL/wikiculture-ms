@@ -38,3 +38,9 @@ Fontes novas abertas e lidas (achadas pela API do O Estado MS, busca "Ton Barbos
 - Brenda Leitte, "Arte sul-mato-grossense ganha destaque em exposição inédita no Slaviero Prime Hotel Campo Grande", O Estado Online, 23 jun. 2026. Sustenta: coletiva com Carlos Vera, Mabbi e Patricia Bissoli, abertura em 26 jun. 2026.
 - Vista e não usada: O Estado, 1 fev. 2022, sobre o viaduto da UFMS (frase ambígua sobre a autoria).
 - Pistas não lidas: CGN, "Com traços fortes e retratos, exposição do artista Ton Barbosa abre hoje", 4 jul. 2017; Midiamax, 23 jul. 2021 (bloqueado).
+
+## Atualização de 2026-11-04 (r12)
+
+- Nova, aberta e lida: "Começa hoje exposição do artista plástico Ton Barbosa", *Correio do Estado*, Correio B, 26 nov. 2014 (sem autor), https://correiodoestado.com.br/correio-b/2014/11/26/comeca-hoje-exposicao-do-artista-plastico-ton-barbosa.html — exposição na Galeria de Vidro da Esplanada Ferroviária, abertura em 26/11/2014 (anúncio do dia), promovida pela Fundac; sul-mato-grossense, autodidata; desenho, acrílico sobre tela, técnicas mistas, escultura em madeira, metal e cerâmica. A matéria não dá o título da mostra.
+- Identidade: deduzida por nome, cidade (Campo Grande) e área (artes plásticas), como nas demais fontes; nenhuma fonte cita outra. Ficou no verbete com a atribuição ao jornal.
+- Com CGN (2021), O Estado (2021, 2026) e Correio do Estado (2014), o verbete tem três veículos independentes.

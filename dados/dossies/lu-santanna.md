@@ -55,3 +55,9 @@ Fontes novas abertas e lidas:
 - Theresa Hilcar, Agência de Notícias do Governo de MS, "MS 42 anos: conhecer a arte é saber da história", 13 out. 2019 (https://agenciadenoticias.ms.gov.br/ms-42-anos-conhecer-a-arte-e-saber-da-historia/). Cita "Lu Sant’ana" entre os nomes do movimento moderno e contemporâneo das artes plásticas de MS. Só o nome.
 
 Limite: ambas são do governo estadual; o edital é do mesmo museu do catálogo. Não são fonte jornalística independente. API da FCMS por "Lu Sant'Anna" (apóstrofo reto) não devolveu nada; com apóstrofo curvo ("Sant’Anna") achou a nota de 2018. Sem resultado: Correio do Estado, A Crítica, BDTD. Os prêmios no exterior seguem sem nome ou fonte.
+
+## Atualização de 2026-11-04 (r9)
+
+- Fonte nova aberta e lida: Paula Vitorino, "Morada dos Baís abre nova exposição de arte nesta terça-feira", Campo Grande News, 5 set. 2011 (https://www.campograndenews.com.br/lado-b/artes/morada-dos-bais-abre-nova-exposicao-de-arte-nesta-terca-feira), achada pela busca interna do CGN ("Lusia" Santanna). Veículo diferente da FCMS. Sustenta: exposição com Fortunato na Morada dos Baís a partir de 6 set. 2011 (Fundac); nome completo e Bragança; linguagens (pintura, desenho, gravura, escultura, ikebana, cerâmica de alta temperatura).
+- DIVERGÊNCIA: a matéria diz que ela morou em Campo Grande de 1983 a 2007; o catálogo MARCO 30 anos (2021) diz que vive em Campo Grande desde 1983. As duas versões no verbete; registrar em `observacoes` da lista-mestra (pelo orquestrador).
+- Grafia na matéria: "Lú Santana".

@@ -33,7 +33,7 @@ Os livros de poesia citados pela Academia e pela UFGD são:[^asl][^ufgd]
 - *Ópera 3* (1980)[^asl]
 - *Cantos de Terra* (1982), reeditado em 2016[^asl]
 - *Jardim das Violetras* (1983)[^asl]
-- *Margem de Papel* (1994)[^asl]
+- *Margem de Papel* (1994)[^asl] — Dourados, Manuscrito Edições; traz o poema [[genocindio|"Genocíndio"]], segundo a dissertação de Alzira Facco Saturnino.[^saturnino2005]
 - *Satilírico* (1995)[^asl]
 - [[caixa-de-poemas|*Caixa de Poemas*]] (1997), pela Editora Manuscrito; por anos leitura obrigatória em vestibulares de Mato Grosso do Sul. Jorgina Lima data o livro de 2000.[^asl][^jlima2013]
 - *Caixa das Delícias* (2003; a Academia não informa o ano)[^asl][^ufgd][^jlima2013]
@@ -64,3 +64,4 @@ A Academia lista o Prêmio Marçal de Souza (Câmara Municipal de Dourados, 1995
 [^ufgd]: ["Novo imortal da ASL, Emmanuel Marinho é homenageado pela PROEX"](https://portal.ufgd.edu.br/noticias/novo-imortal-da-asl-emmanuel-marinho-e-homenageado-pela-proex), *Portal UFGD*, 4 nov. 2015. Acesso em 29 out. 2026.
 [^souza2008]: José Antonio de Souza, [*Literatura e identidade cultural em MS: algumas fronteiras e a (des)identificação com o Pantanal*](https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download), tese de doutorado em Letras, Universidade Estadual de Londrina, 2008, p. 12, 81-83 e 115-117 (numeração impressa), e referências. Acesso em 4 nov. 2026.
 [^jlima2013]: Jorgina Espindola Ortega de Lima, [*A construção da imagem do índio na poética de Emmanuel Marinho: voz de veludo e dedo na ferida*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/609/1/JorginaEspindolaOrtegadeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2013, p. 10 e 60-64 do PDF. Acesso em 4 nov. 2026.
+[^saturnino2005]: Alzira Facco Saturnino, *[Isotopias em "Genocíndio" de Emmanuel Marinho](https://repositorio.unesp.br/server/api/core/bitstreams/82d4c456-217b-43c7-8c03-0085f8fafe23/content)*, dissertação (Mestrado em Letras), Universidade Estadual Paulista, Faculdade de Ciências e Letras de Assis, 2005, p. 11 e 165. Acesso em 4 nov. 2026.

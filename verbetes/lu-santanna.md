@@ -21,10 +21,13 @@ Segundo o catálogo comemorativo dos 30 anos do [[marco|Museu de Arte Contempor�
 
 Em abril de 2018, o resultado do edital de Exposições Temporárias do MARCO, publicado no Diário Oficial do Estado e divulgado pela Fundação de Cultura de MS (FCMS), incluiu Lusia da Silva Sant'Anna entre os 12 artistas selecionados para a temporada daquele ano, entre 32 inscrições.[^fcms2018] Em outubro de 2019, texto da Agência de Notícias do Governo de MS sobre as artes plásticas do estado, apoiado em fala da crítica e professora Maria Adélia Menegazzo, cita o nome "Lu Sant'ana" entre os artistas do movimento moderno e contemporâneo de MS, ao lado de [[carlos-nunes|Carlos Nunes]], [[aurea-katsuren|Áurea Katsuren]] e outros.[^ams2019]
 
+Em setembro de 2011, o *Campo Grande News* anunciou uma exposição de obras de Lú Santana, grafia usada pela matéria, e do artista Fortunato na Morada dos Baís, aberta em 6 de setembro, dentro da série de exposições da Fundação Municipal de Cultura (Fundac). A matéria a identifica como Lusia da Silva Sant'Anna, de Bragança, e cita pintura, desenho, gravura, escultura, ikebana e cerâmica de alta temperatura entre suas linguagens. Segundo esse texto, ela morou em Campo Grande de 1983 a 2007; o catálogo de 2021 do MARCO diz que vive na cidade desde 1983. As duas versões ficam registradas.[^cgn2011][^marco30]
+
 ## Obras
 
 - *Verão* (1992) — gravura em metal, 17 x 12 cm; acervo do MARCO, selecionada para o catálogo comemorativo de 30 anos do museu.[^marco30]
 
 [^marco30]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO 30 anos: catálogo comemorativo"](https://www.fundacaodecultura.ms.gov.br/wp-content/uploads/2021/12/MARCO-30-ANOS-Catalogo-Comemorativo.pdf) (PDF), 2021, p. 45-46. Acesso em 4 nov. 2026.
+[^cgn2011]: Paula Vitorino, ["Morada dos Baís abre nova exposição de arte nesta terça-feira"](https://www.campograndenews.com.br/lado-b/artes/morada-dos-bais-abre-nova-exposicao-de-arte-nesta-terca-feira), *Campo Grande News*, 5 set. 2011. Acesso em 4 nov. 2026.
 [^fcms2018]: Fundação de Cultura de Mato Grosso do Sul, ["MARCO divulga selecionados para a temporada de exposições temporárias 2018"](https://www.fundacaodecultura.ms.gov.br/marco-divulga-selecionados-para-a-temporada-de-exposicoes-temporarias-2018/), notícia, 10 abr. 2018. Acesso em 4 nov. 2026.
 [^ams2019]: Theresa Hilcar, ["MS 42 anos: conhecer a arte é saber da história"](https://agenciadenoticias.ms.gov.br/ms-42-anos-conhecer-a-arte-e-saber-da-historia/), Agência de Notícias do Governo de Mato Grosso do Sul, 13 out. 2019. Acesso em 4 nov. 2026.

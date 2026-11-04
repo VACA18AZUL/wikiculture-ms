@@ -27,6 +27,8 @@ Morreu em 26 de julho de 2025, em Bonito, onde participava do Festival Bonito Ci
 
 A naturalidade também diverge: o Campo Grande News diz que ele nasceu em Corumbá,[^cgn2025] e o *Correio do Estado*, que era natural de Campo Grande.[^ce2025]
 
+Grazielli Alves de Lima (UFGD, 2012) analisa a tela *Colete de Jacaré-Export Brazil* (2000), em que o couro do jacaré aparece sobre fundo vermelho com uma etiqueta, como denúncia da exploração do animal. Ela a aproxima do poema "Acasalamento ao Luar", de [[raquel-naveira|Raquel Naveira]], e cita Maria da Glória Sá Rosa, segundo quem o artista fez do jacaré o representante de sua proposta ecológica e social.[^glima2012]
+
 ## Obra
 
 A obra trata da ancestralidade rupestre, dos mitos da fronteira e da fauna pantaneira. O Campo Grande News destaca a "fase dos jacarés", nos anos 1980, ligada à pauta ambiental.[^cgn2025] Assis cita o jacaré, os grafismos kadiwéu e o rio como signos recorrentes e fala em "Ecologia Pantaneira", expressão do próprio artista para sua temática.[^assis] A dissertação analisa a tela *Jacaré* (1990, acrílico sobre tela, 30 × 40 cm).[^assis]
@@ -38,3 +40,4 @@ Em abril de 2025 foi lançado em Campo Grande o livro *Jonir: uma trajetória de
 [^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, UFGD, 2013, p. 13, 31 e 74–77. Acesso em 29 out. 2026.
 [^ce2025]: Alison Silva, ["Aos 71 anos, morre artista plástico Jonir Figueiredo"](https://correiodoestado.com.br/correio-b/2025/07/26/aos-71-anos-morre-artista-plastico-jonir-figueiredo.html), *Correio do Estado*, caderno Correio B, 26 jul. 2025. Acesso em 4 nov. 2026.
 [^cgn2014]: Vinícius Squinelo e Paula Maciulevicius, ["Em Nova Iorque, 12 artistas vão expor a cara de MS na ONU para o mundo"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/em-nova-iorque-12-artistas-vao-expor-a-cara-de-ms-na-onu-para-o-mundo), *Campo Grande News*, 27 jan. 2014. Acesso em 29 out. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 102-104 do PDF. Acesso em 4 nov. 2026.

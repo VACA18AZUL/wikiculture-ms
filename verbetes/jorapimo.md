@@ -28,6 +28,8 @@ Em 2013, o Campo Grande News incluiu o artista entre os que "já se foram" na mo
 
 O Campo Grande News o classifica como expressionista, com obras sobre a arquitetura antiga e a flora e a fauna do Pantanal.[^cgn2013] O Correio do Estado fala em pinturas que misturam impressionismo, abstracionismo e, às vezes, arte naïf, com elementos da vida corumbaense.[^ce2016] As duas descrições de estilo diferem.
 
+Grazielli Alves de Lima (UFGD, 2012) o chama de pintor corumbaense, dá o nome José Ramão Pinto de Moraes e analisa as telas *Canoeiro* (2006), da série "Águas do Pantanal", *Barco no Camalote* (1985) e *Pássaros e camalotes* (1983), que ela aproxima dos poemas "Camalotes" e "Garça", de [[raquel-naveira|Raquel Naveira]]. Para a autora, o homem pantaneiro e seus ofícios são tema constante das séries do pintor.[^glima2012]
+
 ## Acervo e exposições
 
 O [[marco|MARCO]] foi contemplado na 2.ª edição do Prêmio Marcantonio Vilaça, na categoria aquisição de acervos, com obras de Jorapimo, [[wega-nery|Wega Nery]] e [[ignes-correa-da-costa|Ignês Corrêa da Costa]].[^compocs] Em novembro de 2016, o *Correio do Estado* anunciou a abertura de uma exposição de acervo do museu com essas obras.[^ce2016] Uma dissertação de 2015 o cita entre os artistas de temática local com obras no acervo do museu.[^amizo]
@@ -37,3 +39,4 @@ O [[marco|MARCO]] foi contemplado na 2.ª edição do Prêmio Marcantonio Vilaç
 [^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, UFGD, 2013, p. 25–26. Acesso em 4 nov. 2026.
 [^compocs]: Catia Regina Madella, Maria Augusta de Castilho e Maria Christina de Lima Félix Santos, ["Atividades educativas não formais realizadas no Museu de Arte Contemporânea – MARCO de Mato Grosso do Sul"](https://periodicos.ufms.br/index.php/compcs/article/view/8034/8829), *Compocs*, v. 1, n. 23, jul.–dez. 2020. Acesso em 4 nov. 2026.
 [^amizo]: Isabella Banducci Amizo, [*Poética dos Bugres: uma incursão sobre arte, identidade e o outro*](https://sigpos.ufms.br/portal/trabalho-arquivos/download/2239), dissertação de mestrado, UFMS, 2015, cap. 3, p. 113. Acesso em 4 nov. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 104-112 do PDF. Acesso em 4 nov. 2026.

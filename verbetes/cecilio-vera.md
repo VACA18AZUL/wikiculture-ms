@@ -24,6 +24,8 @@ Em 2020, integrava a diretoria da Associação de Artistas Plásticos Profission
 
 Em novembro de 2024, expôs com Ana Oiticica, Lúcio Laranjeira e Sonia Maria na mostra *Um visão NAIF do nosso MS* (grafia da fonte), do projeto Arte na Academia, na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^fcms2024] Em dezembro do mesmo ano, participou da coletiva sobre alterações climáticas, paz e seres vivos na galeria da [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]].[^oe2024b]
 
+Grazielli Alves de Lima (UFGD, 2012) o chama de pintor de Amambai e reproduz uma tela dele de 1999 incluída no livro *Artes plásticas em Mato Grosso do Sul* (2005), de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], Idara Duncan e Yara Penteado.[^glima2012]
+
 ## Exposições
 
 - *Invencionices* (2016) — coletiva da Confraria Sociartista; Galeria Wega Nery.[^fcms2016a]
@@ -42,3 +44,4 @@ Em novembro de 2024, expôs com Ana Oiticica, Lúcio Laranjeira e Sonia Maria na
 [^oe2024a]: ["2º Mostra de Arte Ingênua"](https://oestadoonline.com.br/arte-e-lazer/2o-mostra-de-arte-ingenua/), *O Estado MS*, 23 maio 2024. Acesso em 4 nov. 2026.
 [^fcms2024]: ["Em parceria com a Fundação de Cultura, Chá Acadêmico da Academia Sul-Mato-Grossense de Letras traz palestra do imortal João Almino"](https://www.fundacaodecultura.ms.gov.br/em-parceria-com-a-fundacao-de-cultura-cha-academico-da-academia-sul-mato-grossense-de-letras-traz-palestra-do-imortal-joao-almino/), *Fundação de Cultura de MS*, 28 nov. 2024. Acesso em 4 nov. 2026.
 [^oe2024b]: ["Exposição na Casa de Cultura traz reflexão artística sobre o meio ambiente"](https://oestadoonline.com.br/arte-e-lazer/exposicao-na-casa-de-cultura-traz-reflexao-artistica-sobre-o-meio-ambiente/), *O Estado MS*, 19 dez. 2024. Acesso em 4 nov. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 69-70 do PDF. Acesso em 4 nov. 2026.

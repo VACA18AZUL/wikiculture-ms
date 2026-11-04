@@ -33,6 +33,8 @@ Morreu em Campo Grande, em 28 de setembro de 2005, aos 81 anos, segundo a descri
 
 Em 2014, um documentário sul-mato-grossense sobre ela, intitulado *Flor da Guavira* e dirigido por Rogério Zanetti, estava em produção, com cerca de 50 minutos previstos.[^cgn2014]
 
+Grazielli Alves de Lima (UFGD, 2012) analisa o poema "Helena, a violeira", que [[raquel-naveira|Raquel Naveira]] publicou em *Portão de ferro* (2006) e que descreve uma festa com chamamé, polca e guarânia. A autora cita Idara Duncan (*A música de Mato Grosso do Sul*, 2009), que apresenta Helena como compositora, cantora e instrumentista de violão, rabeca e bandolim, e registra o prêmio Spot Light de revelação e a inclusão dela num pôster dos cem melhores violeiros do mundo.[^glima2012]
+
 ## Discografia
 
 Uma matéria de 2014 lista quatro álbuns gravados por ela, com os títulos e anos abaixo.[^cgn2014]
@@ -48,3 +50,4 @@ Uma matéria de 2014 lista quatro álbuns gravados por ela, com os títulos e an
 [^cgn2014]: Paula Maciulevicius, ["Produzido na Capital, documentário narra vida e obra de Helena Meirelles"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/produzido-na-capital-documentario-narra-vida-e-obra-de-helena-meirelles), *Campo Grande News*, 15 fev. 2014. Acesso em 4 nov. 2026.
 [^flor2009]: Acervo Digital Memória Fonográfica de MS, ["Helena Meirelles - Flor de Guavira CD - 2009 - Regravação"](https://www.youtube.com/playlist?list=PLO-QEpiig_Ih6ntxypVdM2OyYp0ogDY-y), playlist no YouTube, descrição. Acesso em 4 nov. 2026.
 [^visitms]: ["Museu Municipal Helena Meirelles"](https://www.visitms.com.br/en/destino/mais-destinos-do-ms/museu-municipal-helena-meirelles/), *Visit MS*. Acesso em 4 nov. 2026.
+[^glima2012]: Grazielli Alves de Lima, [*Chão cultural naveiriano: composições da paisagem pantaneira*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/364/1/GrazielliAlvesdeLima.pdf), dissertação de mestrado em Letras, Universidade Federal da Grande Dourados, 2012, p. 117-119 do PDF. Acesso em 4 nov. 2026.
