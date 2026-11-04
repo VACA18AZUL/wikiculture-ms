@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Montagem
 
-A peça se passa na França de 1670 e acompanha o senhor Jourdain, um burguês enriquecido que tenta imitar a nobreza. Para o diretor [[roberto-figueiredo|Roberto Figueiredo]], responsável pela área de Cultura e Arte da UCDB, o texto continua atual ao mostrar novos ricos que copiam os defeitos dos ricos tradicionais.[^cgn2023]
+A peça se passa na França de 1670 e acompanha um burguês enriquecido pelo comércio do pai que tenta subir de posição social. Para o diretor [[roberto-figueiredo|Roberto Figueiredo]], responsável pela área de Cultura e Arte da UCDB, o texto continua atual ao mostrar novos ricos que copiam os defeitos dos ricos tradicionais.[^cgn2023]
 
 O elenco teve 17 atores, entre acadêmicos e ex-acadêmicos da universidade. Na estreia, o grupo completava 41 anos.[^cgn2023]
 

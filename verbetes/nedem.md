@@ -16,11 +16,9 @@ O **Núcleo de Estudos em Dança e Movimento (Nedem)** é um núcleo de dança d
 
 A [[escola-de-danca-da-ufms|Escola de Dança da UFMS]] foi fundada em 2012, a partir das reuniões do núcleo. A ideia era levar à comunidade universitária os estilos que o Nedem estudava; as primeiras aulas foram de sapateado americano, dança do ventre e dança contemporânea.[^cgn][^ufms]
 
-Em 2019, a Escola de Dança e o Nedem lançaram uma companhia de dança da UFMS, voltada a formação, pesquisa e inovação, hoje chamada [[sinapse-cia-de-danca-contemporanea-ufms|Sinapse Cia de Dança Contemporânea UFMS]].[^cgn][^ufms]
+Em 2019, a Escola de Dança e o Nedem lançaram uma companhia de dança da UFMS, voltada a formação, pesquisa e inovação, a [[sinapse-cia-de-danca-contemporanea-ufms|Sinapse Cia de Dança Contemporânea UFMS]].[^cgn][^ufms]
 
 Em 2024, a Pró-reitoria de Extensão, Cultura e Esporte (Proece) da UFMS publicou edital de vagas oferecidas pelo NEX/Cênicas, núcleo de extensão em artes cênicas da universidade, e pelo NEDeM, para aulas de dança contemporânea e de teatro no primeiro semestre.[^proece2024]
-
-As fontes consultadas não informam a data de criação do núcleo nem sua coordenação.[^cgn]
 
 [^cgn]: Gabriela Couto, ["Escola de Dança da UFMS abre inscrições para ballet, dança do ventre e mais"](https://www.campograndenews.com.br/educacao-e-tecnologia/de-ballet-infantil-a-danca-do-ventre-escola-de-danca-da-ufms-abre-inscricoes), *Campo Grande News*, 29 mar. 2025. Acesso em 4 nov. 2026.
 [^ufms]: Ariane Comineti, ["Escola de Dança da UFMS retoma atividades com aulas na Cidade Universitária"](https://www.ufms.br/escola-de-danca-da-ufms-retoma-atividades-com-aulas-na-cidade-universitaria/), UFMS, 26 mar. 2025. Acesso em 4 nov. 2026.
