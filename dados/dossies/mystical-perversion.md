@@ -21,3 +21,8 @@
 ## Lacunas
 
 - Integrantes, ano de formação e cidade-sede não citados. Verbete curto.
+
+## Atualização de 2026-11-04 (revisão)
+
+- Fontes reabertas. As matérias usadas são de divulgação, publicadas antes das datas dos shows; o verbete passou a tratar as apresentações como programadas ou anunciadas, salvo o que fonte posterior confirma.
+- topmidia2026 é assinada por Brenda Souza (lida por WebFetch; curl dá 403). A matéria só diz que as bandas tocam composições autorais.

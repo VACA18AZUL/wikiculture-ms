@@ -32,7 +32,7 @@ Os 30 anos foram comemorados em 30 de novembro de 2025, na [[concha-acustica-hel
 
 ## Videografia
 
-- *Noites em Claro – Palavras do Bando do Velho Jack* (2024) — documentário curta, 15 minutos; direção de Gabriela Dias.[^fcms2024b]
+- *Noites em Claro – Palavras do Bando do Velho Jack* (2024) — documentário curta, 15 minutos; direção de Gabriela Dias, roteiro e produção executiva de Felipe Mesquita Duarte, narração de Clayton Sales; produção independente com recursos da Lei Paulo Gustavo, via Prefeitura de Campo Grande.[^fcms2024b]
 
 [^ce2010]: ["Bando do Velho Jack realiza show amanhã"](https://correiodoestado.com.br/correio-b/2010/10/27/bando-do-velho-jack-realiza-show-amanha.html), *Correio do Estado*, 27 out. 2010. Acesso em 4 nov. 2026.
 [^fcms2024a]: Fundação de Cultura de Mato Grosso do Sul, ["FIB 2024: Filho dos Livres e Bando do Velho Jack revivem clássicos regionais em show inédito"](https://www.fundacaodecultura.ms.gov.br/fib-2024-filho-dos-livres-e-bando-do-velho-jack-revivem-classicos-regionais-em-show-inedito/), 23 ago. 2024. Acesso em 4 nov. 2026.

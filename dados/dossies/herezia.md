@@ -24,3 +24,7 @@
 ## Lacunas
 
 - Títulos dos três singles anteriores não citados; função de cada integrante só parcialmente (Angelo é guitarrista, segundo a fala atribuída "conta o guitarrista" — ambíguo, não usado).
+
+## Atualização de 2026-11-04 (revisão)
+
+- Fontes reabertas. As matérias usadas são de divulgação, publicadas antes das datas dos shows; o verbete passou a tratar as apresentações como programadas ou anunciadas, salvo o que fonte posterior confirma.

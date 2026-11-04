@@ -28,7 +28,7 @@ A entrega foi marcada para 26 de março de 2026, em Campo Grande. A UFMS anuncio
 
 ## Filmografia
 
-- [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; atuação, no papel do padre Patanê.[^cgn2026lydia]
+- [[lydia-filme|*Lydia*]] (gravado em 2026) — longa de ficção sobre Lídia Baís; atuação, no papel do padre Patanê, segundo o *Campo Grande News*.[^cgn2026lydia]
 
 [^acritica]: Ricardo Eugênio, ["UFMS homenageia Ney Matogrosso com título de Doutor Honoris Causa"](https://acritica.net/cultura/ufms-homenageia-ney-matogrosso-com-titulo-de-doutor-honoris-causa/), *A Crítica de Campo Grande*, 26 mar. 2026. Acesso em 29 out. 2026.
 [^ufms2026]: Universidade Federal de Mato Grosso do Sul, ["Ney Matogrosso receberá título Doutor Honoris Causa nesta quinta no Glauce Rocha"](https://www.ufms.br/ney-matogrosso-recebera-titulo-doutor-honoris-causa-nesta-quinta-no-glauce-rocha/), 24 mar. 2026. Acesso em 4 nov. 2026.

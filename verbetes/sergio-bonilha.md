@@ -18,11 +18,11 @@ atualizado: 2026-11-04
 
 Segundo o curso de Artes Visuais da UFMS, sua produção em dupla com [[luciana-ohira|Luciana Ohira]] começou em 2005 e se caracteriza pela experimentação poética com dispositivos tecnológicos e conceituais. A dupla participou de residências artísticas e de exposições no Brasil e no exterior.[^gav2022]
 
-Em 2016, os dois apresentaram no [[marco|MARCO]] a mostra *Ondulações*, com imagens fixas e em movimento produzidas pela repetição de um método descrito em 1980 pelo pesquisador Klaus Schreiber, ligado à transcomunicação instrumental. A Fundação de Cultura identificou a dupla como de Campo Grande.[^fcms2016a][^fcms2016b] No mesmo ano, como representante da UFMS, integrou a comissão julgadora do concurso de desenho Verbal da Imagem, em homenagem a [[manoel-de-barros|Manoel de Barros]].[^fcms2016c]
+Em 2016, os dois apresentaram no [[marco|MARCO]] a mostra *Ondulações*, com imagens fixas e em movimento produzidas pela repetição de um método descrito em 1980 pelo pesquisador Klauss Schreiber (grafia da fonte), ligado à transcomunicação instrumental. A Fundação de Cultura identificou a dupla como de Campo Grande.[^fcms2016a][^fcms2016b] No mesmo ano, como representante da UFMS, integrou a comissão julgadora do concurso de desenho Verbal da Imagem, em homenagem a [[manoel-de-barros|Manoel de Barros]].[^fcms2016c]
 
 Em 2018, participou da coletiva *Desenhos*, de docentes e alunos de Artes Visuais da UFMS, na [[galeria-de-vidro|Galeria de Vidro]] da [[plataforma-cultural|Plataforma Cultural]].[^ufms2018] Em 2019, coordenou com Constança Lucas a Feira Capivara, de trabalhos de estudantes do curso, no Festival Mais Cultura da UFMS.[^ufms2019]
 
-Em abril de 2022, esteve entre os professores que conduziram a criação da Galeria de Artes Visuais (GAV) da UFMS e expôs na mostra de abertura, *4MÚLTIPLOS*, com Constança Lucas, Isaac Camargo e [[rafael-maldonado|Rafael Maldonado]].[^ufms2022][^oe2022] Em setembro e outubro do mesmo ano, participou da coletiva *Conexão Artista Professor(a)*, também na GAV.[^gav2022b]
+Em abril de 2022, esteve entre os professores que conduziram a criação da Galeria de Artes Visuais (GAV) da UFMS e expôs na mostra de abertura, *4MÚLTIPLOS*, com Constança Lucas, Isaac Camargo e [[rafael-maldonado|Rafael Maldonado]].[^ufms2022][^oe2022] No mesmo ano, participou da coletiva *Conexão Artista Professor(a)*, também na GAV, em cartaz até 28 de outubro.[^gav2022b]
 
 ## Exposições
 
@@ -39,4 +39,4 @@ Em abril de 2022, esteve entre os professores que conduziram a criação da Gale
 [^gav2022]: Curso de Artes Visuais da UFMS, ["Inauguração da Galeria de Artes Visuais (GAV) na UFMS"](https://artesvisuais-faalc.ufms.br/inauguracao-da-galeria-de-artes-visuais-gav-na-ufms/), 12 abr. 2022. Acesso em 4 nov. 2026.
 [^ufms2022]: ["Galeria de Artes Visuais é inaugurada na Cidade Universitária"](https://www.ufms.br/galeria-de-artes-visuais-e-inaugurada-na-cidade-universitaria/), *UFMS*, 18 abr. 2022. Acesso em 4 nov. 2026.
 [^oe2022]: Carolina Rampi, ["UFMS inaugura Galeria de Artes Visuais com exposições gratuitas para o público"](https://oestadoonline.com.br/arte-e-lazer/ufms-inaugura-galeria-de-artes-visuais-com-exposicoes-gratuitas-para-o-publico/), *O Estado MS*, 19 abr. 2022. Acesso em 4 nov. 2026.
-[^gav2022b]: Curso de Artes Visuais da UFMS, ["Galeria de Artes Visuais (GAV): Conexão Artista Professora"](https://artesvisuais-faalc.ufms.br/galeria-de-artes-visuais-gav-conexao-artista-professora/), 29 set. 2022. Acesso em 4 nov. 2026.
+[^gav2022b]: Curso de Artes Visuais da UFMS, ["Galeria de Artes Visuais (GAV) – Conexão Artista Professor(a)"](https://artesvisuais-faalc.ufms.br/galeria-de-artes-visuais-gav-conexao-artista-professora/), 29 set. 2022. Acesso em 4 nov. 2026.

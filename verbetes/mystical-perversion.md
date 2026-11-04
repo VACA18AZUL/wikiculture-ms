@@ -7,7 +7,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Mystical Perversion** é uma banda da cena independente de Mato Grosso do Sul. O repertório reúne punk, grunge, indie e rock nacional, em músicas próprias e versões, e a formação conta com três mulheres.[^acritica2026]
+**Mystical Perversion** é uma banda da cena independente sul-mato-grossense. Toca punk, grunge, indie e rock nacional, entre composições próprias e versões, e tem três mulheres na formação.[^acritica2026]
 
 ## Trajetória
 

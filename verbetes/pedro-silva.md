@@ -3,7 +3,7 @@ titulo: Pedro Silva
 tipo: pessoa
 areas: [teatro, musica]
 cidade: Campo Grande
-resumo: "Produtor cultural que traz espetáculos de teatro, humor e música a Campo Grande desde 1983, à frente da Pedro Silva Promoções, hoje com o filho, conhecido como Jamelão."
+resumo: "Produtor cultural que traz espetáculos de teatro, humor e música a Campo Grande desde 1983, à frente da Pedro Silva Promoções; em 2026 trabalhava com o filho, conhecido como Jamelão."
 ficha:
   Atividade: "Produção de espetáculos de teatro, humor e shows"
 status: rascunho
@@ -20,7 +20,7 @@ Em reportagem de 2020, o mesmo jornal o apresentou como produtor com 52 anos de 
 
 A mesma reportagem lista artistas que ele trouxe à cidade, entre eles Jô Soares, Chico Anysio, Dercy Gonçalves, Marisa Monte, Ney Matogrosso, Gilberto Gil, Cauby Peixoto, Xuxa, Mamonas Assassinas e Caetano Veloso. Em 2020, com a pandemia, ele adiou os shows previstos para o primeiro semestre.[^cgn2020]
 
-Em 2026, trabalhava com o filho, conhecido como Jamelão, numa média de 18 a 20 eventos por ano, entre shows, teatro e atrações infantis, e calculava que cerca de 95% dos ingressos eram vendidos pela internet.[^cgn2026] A empresa Pedro Silva Promoções, com Jamelão, assinou a realização da temporada de dezembro de 2026 do espetáculo *Eu Sou Minha Própria Mulher*, com Edwin Luisi, no Teatro Glauce Rocha.[^cgn2026b]
+Em 2026, trabalhava com o filho, conhecido como Jamelão, numa média de 18 a 20 eventos por ano, entre shows, teatro e atrações infantis, e calculava que cerca de 95% dos ingressos eram vendidos pela internet.[^cgn2026] Em outubro de 2026, o jornal anunciou a Pedro Silva Promoções e Jamelão como realizadores das apresentações de *Eu Sou Minha Própria Mulher*, com Edwin Luisi, marcadas para 12 e 13 de dezembro daquele ano no Teatro Glauce Rocha.[^cgn2026b]
 
 [^cgn2020]: Thailla Torres, ["Fotos antigas emocionam quem viu cidade ter o que fazer"](https://www.campograndenews.com.br/lado-b/diversao/fotos-antigas-emocionam-quem-viu-cidade-ter-o-que-fazer), *Campo Grande News*, 4 jun. 2020. Acesso em 4 nov. 2026.
 [^cgn2026]: Thailla Torres, ["Dos ingressos de papel às redes, Pedro viu o público de Campo Grande mudar"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/dos-ingressos-de-papel-as-redes-pedro-viu-o-publico-de-campo-grande-mudar), *Campo Grande News*, 23 set. 2026. Acesso em 4 nov. 2026.

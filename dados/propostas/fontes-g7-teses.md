@@ -26,3 +26,4 @@ Formato: id; referência; páginas
 - paulo-coelho-machado; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 51-52 do PDF (memorialista; A rua velha, 1990; A grande avenida, 2000)
 - onesimo-filho; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 55 e 57-58 do PDF (funcionário da TV Morena que retomou os festivais com o Fessul)
 - celito-espindola; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 59-61 do PDF
+- festival-campao-cultural; Souza, Diana Cler Rodrigues de. Acervos urbanos: a paisagem como galeria de arte - uma cartografia de Campo Grande (MS) (dissertação, Estudos de Linguagens, UFMS, 2025), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/15504; p. 45-46 (edições anuais desde 2021; 1ª edição de 22/11 a 5/12/2021, criada pelo Governo de MS, mais de 150 atrações)

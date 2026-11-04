@@ -16,7 +16,7 @@ A **Comunidade Quilombola Tia Eva**, também chamada Comunidade Remanescente de 
 
 ## História
 
-Tia Eva nasceu em Mineiros, em Goiás, e chegou em 1905 à região de Campos de Vacaria, hoje Campo Grande, onde trabalhou como lavadeira, parteira, cozinheira e benzedeira.[^fcms2015] Os descendentes ocupam o local desde então. Em 26 de abril de 2008, a Fundação Cultural Palmares deu à comunidade a certidão de autodefinição como remanescente de quilombo.[^fcms2021]
+Tia Eva nasceu em Mineiros, em Goiás, e chegou em 1905 à região de Campos de Vacaria, hoje Campo Grande, onde trabalhou como lavadeira, parteira, cozinheira e benzedeira.[^fcms2015] Os descendentes ocupam o local desde então. A certidão de autodefinição como remanescente de quilombo foi concedida aos descendentes pela Fundação Cultural Palmares em 26 de abril de 2008.[^fcms2021]
 
 ## Igreja de São Benedito
 
@@ -26,7 +26,7 @@ A igreja foi tombada pelo município em 1996 e, em 5 de maio de 1998, pelo Estad
 
 ## Festa de São Benedito
 
-A Festa de São Benedito nasceu da mesma promessa e é mantida pelos descendentes.[^fcms2015] Em 2026, quando a Fundação de Cultura de MS contou 107 anos de festa, a programação foi anunciada para 8 a 17 de maio, com missas, terços, procissão, levantamento do mastro, rodas de samba, shows de pagode, bailes, torneios de futebol e almoço comunitário gratuito. Teve apoio do [[grupo-tez|Grupo TEZ]], pelo projeto Festividades Religiosas: Saberes e Ancestralidade, com recursos da Política Nacional Aldir Blanc.[^fcms2026a] Depois dos dias de reza, a descida do terço, que fecha o ciclo, foi marcada para 23 de maio, 11º dia da festa.[^fcms2026b]
+A Festa de São Benedito nasceu da mesma promessa e é mantida pelos descendentes.[^fcms2015] Em 2026, quando a Fundação de Cultura de MS contou 107 anos de festa, a programação foi anunciada para 8 a 17 de maio, com missas, terços, procissão, levantamento do mastro, rodas de samba, shows de pagode, bailes, torneios de futebol e almoço comunitário gratuito. Teve apoio do [[grupo-tez|Grupo TEZ]], pelo projeto Festividades Religiosas: Saberes e Ancestralidade, com recursos da Política Nacional Aldir Blanc.[^fcms2026a] Outro texto da Fundação, de 22 de maio, marcou para o dia 23, que chamou de 11º dia da festa, o rito que fecha o ciclo de rezas, chamado no mesmo texto de descida do terço e de descida do mastro.[^fcms2026b]
 
 Em 14 de maio de 2026, logo após o terço do mês de São Benedito, o centro comunitário recebeu a primeira sessão do [[rota-cine-ms|Rota Cine MS]] Povos Tradicionais, com o curta [[as-marias|*As Marias*]] e roda de conversa com os moradores.[^acritica2026]
 

@@ -26,3 +26,8 @@ Descartadas: Campo Grande News "conteúdo patrocinado" (publicidade); Midiamax (
 ## Lacunas
 
 - Data e local da 1ª edição não encontrados.
+
+## Atualização de 2026-11-04 (revisão)
+
+- Fontes reabertas. As matérias usadas são de divulgação, publicadas antes das datas dos shows; o verbete passou a tratar as apresentações como programadas ou anunciadas, salvo o que fonte posterior confirma.
+- A Crítica (24/08/2026) confirma que a edição de maio de 2026 aconteceu, com Frejat e Clemente Nascimento. Terceira edição e Araruna Show Bar sem confirmação posterior.

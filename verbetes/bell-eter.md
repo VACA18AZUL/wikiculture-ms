@@ -19,7 +19,7 @@ Segundo a Fundação Clóvis Salgado, de Belo Horizonte, construiu a carreira em
 
 Em 2025, participou do *The Voice Brasil*, no SBT. Nas audições às cegas, cantou uma música de Adele e escolheu o time de Duda Beat, depois de ter virado as cadeiras dela, de Mumuzinho e de Péricles. Na semifinal, cantou "Flutua", de Liniker e Johnny Hooker, e foi escolhida por Duda Beat para a final.[^sbt2026][^cgn2025] A final foi ao vivo em 22 de dezembro de 2025, e o título ficou com Thiago Garcia.[^cgn2025][^sbt2026]
 
-Em 2026, circulou com o show *Bell Éter canta Grandes Vozes*, com releituras de artistas brasileiros e estrangeiros, como Maria Bethânia, Marília Mendonça, Djavan, Liniker, Whitney Houston e Sam Smith. Em Campo Grande, fez apresentação gratuita no [[sesc-teatro-prosa|Sesc Teatro Prosa]] em 8 de maio.[^acritica2026] Em Belo Horizonte, a apresentação na Sala Juvenal Dias do Palácio das Artes foi adiada para 19 de setembro de 2026, em formato de voz, violão e piano, com canções autorais no repertório. Segundo a Fundação Clóvis Salgado, o show já tinha passado por São Paulo e Campo Grande.[^fcs2026]
+Em 2026, circulou com o show *Bell Éter canta Grandes Vozes*, com releituras de artistas brasileiros e estrangeiros, como Maria Bethânia, Marília Mendonça, Djavan, Liniker, Whitney Houston e Sam Smith. Em Campo Grande, uma apresentação gratuita foi marcada no [[sesc-teatro-prosa|Sesc Teatro Prosa]] para 8 de maio.[^acritica2026] Em Belo Horizonte, a apresentação na Sala Juvenal Dias do Palácio das Artes foi adiada para 19 de setembro de 2026, em formato de voz, violão e piano, com canções autorais no repertório. Segundo a Fundação Clóvis Salgado, o show já tinha passado por São Paulo e Campo Grande.[^fcs2026]
 
 ## Espetáculos
 
