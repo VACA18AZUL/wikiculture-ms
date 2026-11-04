@@ -3,7 +3,7 @@ titulo: Tetê Espíndola
 tipo: pessoa
 areas: [musica]
 cidade: Campo Grande
-resumo: Cantora e compositora de Campo Grande, integrante do grupo Tetê e o Lírio Selvagem e vencedora do Festival dos Festivais da Rede Globo, em 1985, com "Escrito nas Estrelas".
+resumo: Cantora e compositora sul-mato-grossense, integrante do grupo Tetê e o Lírio Selvagem e vencedora do Festival dos Festivais da Rede Globo, em 1985, com "Escrito nas Estrelas".
 ficha:
   Atividade: Canto e composição
   Grupos: Tetê e o Lírio Selvagem (antes LuzAzul)
@@ -12,10 +12,10 @@ links:
     url: https://pt.wikipedia.org/wiki/Tet%C3%AA_Esp%C3%ADndola
     acesso: 2026-10-29
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
-**Tetê Espíndola** é uma cantora e compositora nascida em Campo Grande, que integrou o grupo Tetê e o Lírio Selvagem, formado com os irmãos Alzira, Celito e [[geraldo-espindola|Geraldo Espíndola]], e depois seguiu carreira solo.[^caetano2012ufgd]
+**Tetê Espíndola** é uma cantora e compositora sul-mato-grossense que, depois de deixar Campo Grande rumo a São Paulo, integrou o grupo Tetê e o Lírio Selvagem, formado com os irmãos Alzira, Celito e [[geraldo-espindola|Geraldo Espíndola]], e depois seguiu carreira solo.[^caetano2012ufgd]
 
 ## Trajetória
 
@@ -25,7 +25,7 @@ O grupo se chamava LuzAzul. Segundo Caetano, o nome foi trocado por Tetê e o L�
 
 As fontes divergem sobre o ano do disco. O artigo de Caetano na *Revista NUPEM* e a lista de discos da dissertação do mesmo autor dão 1978.[^caetano2012nupem][^caetano2012ufgd] O texto principal da dissertação e a legenda da capa dão 1979.[^caetano2012ufgd] O resumo de Silus cita 1979 e 1980 para os dois primeiros LPs na introdução e 1978 e 1981 mais adiante, no mesmo texto.[^silus2019]
 
-O grupo não passou do primeiro disco. Tetê conta, em entrevista citada por Caetano, que o conjunto durou cerca de oito meses e que houve desentendimento entre os irmãos. Como tinha contrato para dois discos, a gravadora lhe pediu um segundo trabalho, já em nome próprio, que foi *Piraretã* (1980).[^caetano2012ufgd] Na mesma entrevista, ela diz considerar *Pássaros na Garganta* o seu primeiro disco.[^caetano2012ufgd]
+O grupo não passou do primeiro disco. Em entrevista a Ana Carolina Murgel (2005), reproduzida por Caetano, Tetê conta que o conjunto durou cerca de oito meses e que houve desentendimento entre os irmãos. Como tinha contrato para dois discos, a gravadora lhe pediu um segundo trabalho, já em nome próprio, que foi *Piraretã* (1980).[^caetano2012ufgd] Na mesma entrevista, ela diz considerar *Pássaros na Garganta* o seu primeiro disco.[^caetano2012ufgd]
 
 Nos anos seguintes, Tetê atuou na Vanguarda Paulista. Tocou com Arrigo Barnabé na banda Suave Veneno, e ele assina com Paulo Barnabé a canção "Tamarana", do disco *Piraretã*.[^caetano2012ufgd] Em 1985, venceu o Festival dos Festivais da Rede Globo, cantando "Escrito nas Estrelas", que se tornou sucesso nacional e lhe abriu contrato com uma gravadora de grande porte.[^caetano2012ufgd]
 

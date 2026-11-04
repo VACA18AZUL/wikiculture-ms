@@ -26,7 +26,7 @@ Foi um dos músicos entrevistados no livro [[a-musica-de-mato-grosso-do-sul-hist
 
 ## Discografia
 
-- *Cabeza de Vaca – Andarilho das Américas* (2023) — álbum duplo com 22 faixas inéditas sobre o explorador espanhol Álvar Núñez Cabeza de Vaca, resultado de pesquisa iniciada em 2018. Entre os convidados estão [[tete-espindola|Tetê Espíndola]], o ACABA, Pedro Ortale, [[raquel-naveira|Raquel Naveira]] e Aurélio Miranda. A turnê de lançamento passou, em 2023, pela Feira Literária de Bonito, pelo [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de MS]] e pela UFMS.[^correio2023]
+- *Cabeza de Vaca – Andarilho das Américas* (2023) — álbum duplo com 22 faixas inéditas sobre o explorador espanhol Álvar Núñez Cabeza de Vaca, resultado de pesquisa iniciada em 2018. Entre os convidados estão [[tete-espindola|Tetê Espíndola]], o ACABA, Pedro Ortale, [[raquel-naveira|Raquel Naveira]] e [[aurelio-miranda|Aurélio Miranda]]. A turnê de lançamento passou, em 2023, pela Feira Literária de Bonito, pelo [[instituto-historico-e-geografico-de-ms|Instituto Histórico e Geográfico de MS]] e pela UFMS.[^correio2023]
 - *Aleixo Garcia – A Jornada Épica* — álbum de 29 faixas sobre o explorador português Aleixo Garcia, gravado no estúdio de Gilson Espíndola, com mais de 40 participantes; em fevereiro de 2024, o lançamento estava previsto para o fim de março daquele ano.[^correio2024]
 
 ## Divergência entre fontes

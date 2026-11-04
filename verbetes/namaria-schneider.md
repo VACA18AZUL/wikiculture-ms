@@ -15,11 +15,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-O Vozmecê mistura polca paraguaia, psicodelia, baião, rock e axé. Em março de 2026, o duo se despediu de Campo Grande, antes de mudar para São Paulo, com um evento no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]] que teve a exibição de dois documentários e um pocket show.[^crit2026a]
+O Vozmecê mistura polca paraguaia, psicodelia, baião, rock e axé. Em março de 2026, antes de uma mudança para São Paulo, o duo anunciou uma despedida de Campo Grande no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], marcada para 13 de março, com a exibição de dois documentários e um pocket show.[^crit2026a]
 
-Um dos filmes exibidos foi [[tropicapolca-documentario|*TropicaPolca – Produção Musical Independente no MS*]], dirigido por Namaria. O documentário, de 30 minutos e contemplado pela Lei Paulo Gustavo, mostra bastidores da produção musical independente no estado, a partir do álbum *TropicaPolca*, lançado pelo duo em 2024.[^crit2026a]
+Um dos filmes programados era [[tropicapolca-documentario|*TropicaPolca – Produção Musical Independente no MS*]], dirigido por Namaria. O documentário, de 30 minutos e contemplado pela Lei Paulo Gustavo, mostra bastidores da produção musical independente no estado, a partir do álbum *TropicaPolca*, lançado pelo duo em 2024.[^crit2026a]
 
-Com [[pedro-fattori|Pedro Fattori]], dirigiu [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2: Mulheres da Nova Música do MS – Parte 1*]], lançado em 29 de outubro de 2026 na Casa de Cultura de Campo Grande. No filme, ela conduz as conversas com as artistas e assina também a produção executiva, o roteiro e a pesquisa.[^crit2026b]
+Com [[pedro-fattori|Pedro Fattori]], dirigiu [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2: Mulheres da Nova Música do MS – Parte 1*]], com estreia anunciada para 29 de outubro de 2026 na Casa de Cultura de Campo Grande. No filme, ela conduz as conversas com as artistas e assina também a produção executiva, o roteiro e a pesquisa.[^crit2026b]
 
 ## Videografia
 

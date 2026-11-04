@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 *Ninguém lhe Estenderá a Mão*, curta de ficção de 14 minutos, foi selecionado para a mostra Curta MS da primeira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], em 2024.[^lista] O júri técnico deu ao filme o prêmio de Melhor Filme Sul-Mato-Grossense.[^vencedores]
 
-No mesmo ano, o curta concorreu a Melhor Filme Sul-Mato-Grossense no [[bonito-cinesur|Bonito CineSur]][^cinesur] e foi exibido pelo [[cineclube-macaco-da-noite|Cineclube Macaco da Noite]] no Hotel Virgínia, em Corumbá, em 12 de setembro de 2024.[^corumba]
+No mesmo ano, o curta estava entre os cinco filmes regionais selecionados para disputar o prêmio de Melhor Filme Sul-Mato-Grossense no [[bonito-cinesur|Bonito CineSur]], de 19 a 27 de julho.[^cinesur] Em setembro, o [[cineclube-macaco-da-noite|Cineclube Macaco da Noite]] anunciou sua exibição no Hotel Virgínia, em Corumbá, para 12 de setembro de 2024.[^corumba]
 
 ## Filmografia
 
