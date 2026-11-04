@@ -26,6 +26,7 @@ As fontes divergem sobre quem realiza o festival:[^cgn2024a][^cgn2025][^ac2026b]
 - Em 2024, o Campo Grande News e o Correio do Estado descreveram o evento como iniciativa da Chalana Produções, com recursos da Lei Paulo Gustavo por edital da Secretaria Municipal de Cultura e Turismo (Sectur). A mostra Curta MS foi selecionada pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]] pela mesma lei.[^cgn2024a][^ce2024]
 - Em 2025, o Campo Grande News afirmou que o festival é realizado pela [[corixo-producoes|Corixo Produções]], com investimento da Política Nacional Aldir Blanc e execução da Prefeitura de Campo Grande por meio da Fundac, e com apoio da Fundação de Turismo de MS (Fundtur).[^cgn2025]
 - Em 2026, A Crítica registrou que o festival é realizado pela Fundtur, conforme informado pelo próprio festival em agosto, e observou que em junho a mesma organização descrevia a Fundtur e o governo estadual como apoiadores, e não como realizadores.[^ac2026b]
+- Em novembro de 2026, ao noticiar os vencedores da terceira edição, o Campo Grande News informou que o festival é realizado pela [[corixo-producoes|Corixo Produções]], com apoio de instituições públicas e parceiros culturais.[^cgn2026]
 
 ## Edições
 
@@ -37,6 +38,8 @@ A **segunda edição** foi de 11 a 15 de novembro de 2025, com cerca de 50 curta
 
 A **terceira edição** foi programada para 26 a 31 de outubro de 2026, no Teatro do Mundo. Em setembro, A Crítica informou 1.233 inscrições e 61 filmes selecionados, dez deles de Mato Grosso do Sul. As mostras competitivas são Curta MS, Curta Brasil, Curta Doc e Curta Internacional, esta criada nessa edição, e os filmes concorrem ao Troféu Tuiuiú.[^ac2026b] Na Curta MS estão *Amoitado*, *Candomblé por elas*, *Coragem*, *Kaguateka*, *Khaos – Sobrevivendo na Escola*, *Mapago* e *Viva a capoeira – A história do mestre Guerreiro*.[^ac2026b]
 
+A terceira edição terminou em 31 de outubro de 2026, com a entrega do Troféu Tuiuiú. Na Mostra Curta MS, o júri oficial escolheu *[[mapago|Mapago]]*, de [[marcus-teles|Marcus Teles]], como melhor curta. O voto popular premiou *Candomblé por Elas*, de Elis Regina Nogueira, e Emy Santos recebeu menção honrosa pelo documentário *Coragem*, de [[pedro-alvarenga|Pedro Alvarenga]], produzido com edital de fomento da Política Nacional Aldir Blanc.[^cgn2026]
+
 Sobre a numeração, as fontes lidas são coerentes: 1ª edição em 2024,[^cgn2024c] 2ª em 2025[^cgn2025] e 3ª em 2026.[^ac2026b]
 
 [^cgn2024a]: Thailla Torres, ["Veja todos os filmes selecionados para o Festival Curta Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/veja-todos-os-filmes-selecionados-para-o-festival-curta-campo-grande), *Campo Grande News*, 2 out. 2024. Acesso em 29 out. 2026.
@@ -44,4 +47,5 @@ Sobre a numeração, as fontes lidas são coerentes: 1ª edição em 2024,[^cgn2
 [^cgn2024c]: Thailla Torres, ["Com jurado famoso, Festival Curta Campo Grande revela vencedores"](https://www.campograndenews.com.br/lado-b/diversao/com-jurado-famoso-festival-curta-campo-grande-revela-vencedores), *Campo Grande News*, 5 nov. 2024. Acesso em 29 out. 2026.
 [^ce2024]: Mariana Piell, ["A força do filme curto"](https://correiodoestado.com.br/correio-b/a-forca-do-filme-curto/437506/), *Correio do Estado*, 10 out. 2024. Acesso em 29 out. 2026.
 [^cgn2025]: Thailla Torres, ["Festival Curta Campo Grande começa na terça com filmes de todo o Brasil"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/festival-curta-campo-grande-comeca-na-terca-com-filmes-de-todo-o-brasil), *Campo Grande News*, 6 nov. 2025. Acesso em 29 out. 2026.
+[^cgn2026]: Thailla Torres, ["Filmes de MS levam três prêmios no Festival Curta Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filmes-de-ms-levam-tres-premios-no-festival-curta-campo-grande), *Campo Grande News*, 4 nov. 2026. Acesso em 4 nov. 2026.
 [^ac2026b]: Ricardo Eugenio, ["Curta Campo Grande seleciona 61 de 1.233 filmes inscritos, e dez são de MS"](https://acritica.net/cultura/curta-campo-grande-61-filmes-selecionados-outubro-2026/), *A Crítica de Campo Grande*, 22 set. 2026. Acesso em 29 out. 2026.

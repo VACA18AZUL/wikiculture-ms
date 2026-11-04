@@ -42,3 +42,7 @@ Descartadas: anúncios menores (Proler 2016, Páscoa 2023, Festival da Carne 202
 ## Uso no verbete
 
 - Tudo, exceto nome do amigo coautor de "Chorume" (vida pessoal).
+
+## Atualização de 2026-11-04
+
+- Revisão: show do Som da Concha de 7 ago. 2016 só tem anúncio (FCMS 5 ago., CE 6 ago., que reproduz o release); reescrito como anúncio. Live de 29 abr. 2020: matéria do próprio dia ("realiza na noite de hoje"); reescrita como anúncio. O CE 2020 diz que a iniciativa já havia arrecadado 1.600 cestas básicas antes da live (não entrou).

@@ -33,6 +33,8 @@ O museu foi criado pelo Decreto nº 6.266, de 17 de dezembro de 1991. A primeira
 
 Durante a pandemia de covid-19, o museu ficou dois anos fechado ao público, com atividades internas e ações virtuais. Reabriu em 23 de março de 2022, ano em que completava 30 anos, com a 1ª Temporada de Exposições.[^cgn2022]
 
+A 1ª Temporada reuniu *Xilos*, xilogravuras de [[arlete-santarosa|Arlete Santarosa]]; *Varais*, fotografias de [[patricia-pontes|Patrícia Pontes]]; *Portunhol Selvagem Feminista*, fotografias de [[mariana-arndt|Mariana Arndt]]; e *Entre Territórios*, de [[maria-angelica-chiang|Maria Chiang]], Julián Vargas, Miguel Benavides e Poppy Carpio, artistas vindos da Argentina, da Colômbia e da Venezuela.[^cgn2022] A 2ª Temporada, aberta em 15 de junho de 2022 com artistas selecionados por edital antes da pandemia, teve *Desvios Portáteis*, de Felipe Siqueira; *Liberdade Assistida*, de Finok; *OCUPA DODO*, do Coletivo DODO; e *A tua cultura é o meu patrimônio*, de [[jo-aquino|Jó Aquino]].[^fcms2022t2]
+
 Em 6 de outubro de 2023, com o prédio fechado à visitação, o museu abriu o projeto CineMARCO, de exibições gratuitas ao ar livre projetadas na parede externa. A primeira sessão mostrou o documentário *Flores de Bálsamo*, sobre a comunidade okinawana, seguido de conversa com os realizadores Henrique Arakaki, Lucas Miyahira e Karen Freitas.[^fcms2023cine]
 
 ## Para saber mais
@@ -46,3 +48,4 @@ Em 6 de outubro de 2023, com o prédio fechado à visitação, o museu abriu o p
 [^cgn2023]: Thailla Torres, ["MIS realiza exposição gratuita com obras de Humberto Espíndola"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/mis-realiza-exposicao-gratuita-com-obras-de-humberto-espindola), *Campo Grande News*, 13 abr. 2023. Acesso em 8 out. 2026.
 [^cgn2022]: Adriano Fernandes, ["Após 2 anos fechado ao público, Marco reabre com a 1ª temporada de exposições"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/apos-2-anos-fechado-ao-publico-marco-reabre-com-a-1a-temporada-de-exposicoes), *Campo Grande News*, 15 mar. 2022. Acesso em 4 nov. 2026.
 [^fcms2023cine]: Fundação de Cultura de Mato Grosso do Sul, ["Projeto CineMARCO foi aberto nesta sexta com filme sobre a comunidade okinawana"](https://www.fundacaodecultura.ms.gov.br/projeto-cinemarco-foi-aberto-nesta-sexta-com-filme-sobre-a-comunidade-okinawana/), 9 out. 2023. Acesso em 4 nov. 2026.
+[^fcms2022t2]: ["Diversidade de linguagens é característica da 2ª temporada de exposições do MARCO"](https://www.fundacaodecultura.ms.gov.br/diversidade-de-linguagens-e-caracteristica-da-2a-temporada-de-exposicoes-do-marco/), *Fundação de Cultura de MS*, 15 jun. 2022. Acesso em 4 nov. 2026.
