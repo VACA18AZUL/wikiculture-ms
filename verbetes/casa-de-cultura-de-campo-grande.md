@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Casa de Cultura de Campo Grande** (também chamada Casa da Cultura) é um espaço cultural mantido pela Prefeitura de Campo Grande na Avenida Afonso Pena, no Centro. Foi inaugurado na noite de 19 de setembro de 2024, e o atendimento ao público começou em 23 de setembro.[^cgn2024a]
+A **Casa de Cultura de Campo Grande** (também chamada Casa da Cultura) é um espaço cultural mantido pela Prefeitura de Campo Grande na Avenida Afonso Pena, no Centro. Foi inaugurado na noite de 19 de setembro de 2024, no prédio conhecido como Mello e Cáceres; na inauguração, o funcionamento foi anunciado para a semana seguinte, a partir de 23 de setembro.[^cgn2024a]
 
 ## O prédio
 
@@ -26,7 +26,7 @@ Na inauguração, o térreo tinha biblioteca e espaço de leitura, sala para art
 
 Em dezembro de 2024, a editora [[vida-producoes|Vida Produções]], da escritora [[mara-calvis|Mara Calvis]], anunciou para 23 de dezembro, na Casa de Cultura, o lançamento simultâneo de 25 livros de 25 autores, pelo projeto Palavras Além do Tempo.[^cgn2024b]
 
-Em outubro de 2025, a Casa de Cultura anunciou a primeira edição do projeto Troca de Saberes Culturais, série de encontros entre artistas e público. O primeiro, marcado para 29 de outubro, teve como tema a arte urbana e como convidados [[lucas-do-rabisco-easy|Lucas do Rabisco Easy]], [[leonardo-mareco|Leonardo Mareco]] e [[caio-green|Caio Green]].[^cgn2025]
+Em outubro de 2025, a Casa de Cultura anunciou a primeira edição do projeto Troca de Saberes Culturais, série de encontros entre artistas e público. O primeiro foi marcado para 29 de outubro, com o tema arte urbana e com os convidados [[lucas-do-rabisco-easy|Lucas do Rabisco Easy]], [[leonardo-mareco|Leonardo Mareco]] e [[caio-green|Caio Green]].[^cgn2025]
 
 Em maio de 2026, a [[fundac|Fundação Municipal de Cultura (Fundac)]] anunciou para a Casa de Cultura a programação da 24ª Semana Nacional dos Museus, de 19 a 22 de maio, com palestras e debates e uma exposição do acervo pessoal do professor Roberto Figueiredo.[^acritica2026]
 

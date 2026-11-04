@@ -3,9 +3,9 @@ titulo: Prêmio Campo Grande ao Teatro
 tipo: evento
 areas: [teatro]
 cidade: Campo Grande
-resumo: Festival competitivo de teatro de Campo Grande, lançado pela Associação Artística Cultural Palco de Artes Cênicas e organizado por Espedito di Montebranco; a 2ª edição foi marcada para abril de 2023.
+resumo: Festival competitivo de teatro de Campo Grande organizado por Espedito di Montebranco; a 2ª edição, com edital da Associação Artística Cultural Palco de Artes Cênicas, foi marcada para abril de 2023.
 ficha:
-  Realização: "Associação Artística Cultural Palco de Artes Cênicas"
+  Edital de 2023: "Associação Artística Cultural Palco de Artes Cênicas"
   Organização: "Espedito di Montebranco"
   Local: "Teatro Glauce Rocha e ruas de Campo Grande (2023)"
 status: rascunho
@@ -24,7 +24,7 @@ Em abril, foram anunciados dez espetáculos selecionados, com apresentações gr
 
 - Infantil: *A Borboleta Mais Velha do Mundo*, *Navegantes*, *Pelega e Porca Prenha na Mata do Pequi* e *A Onça Pintada Põe as Patas na Estrada*.[^cgn2023b]
 - Adulto: *Uma Moça da Cidade*, *Seco*, *Eu Preciso que Vocês me Escutem* e *Como Nascem as Estrelas*.[^cgn2023b]
-- Rua: *O que os Olhos Veem o Coração Sente?* e *As Miragens no Asfalto*.[^cgn2023b]
+- Rua: *O que os Olhos Veem o Coração Sente?* e *As Miragens no Asfalto* (grafado também *As Miragens do Asfalto* na programação).[^cgn2023b]
 
 A programação distribuía as sessões entre o Teatro Glauce Rocha, a Praça Ary Coelho e a Esplanada Ferroviária.[^cgn2023b]
 
