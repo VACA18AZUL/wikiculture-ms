@@ -3,7 +3,7 @@ titulo: Trupe Bobos da Plebe
 tipo: grupo
 areas: [teatro, circo]
 cidade: Campo Grande
-resumo: Trupe de palhaços de Campo Grande, com espetáculos infantis apresentados em projetos da prefeitura desde pelo menos 2013. O ator e palhaço Pietro Lara é integrante.
+resumo: Trupe de palhaços de Campo Grande, com espetáculo infantil apresentado em projeto da prefeitura em 2013. Teve entre os integrantes o ator e palhaço Pietro Lara.
 ficha:
   Integrantes: "Pietro Lara, Tamara Prantl"
 status: rascunho
@@ -16,7 +16,7 @@ A **Trupe Bobos da Plebe** é um grupo de palhaços de Campo Grande.[^tmn2013][^
 
 Em novembro de 2013, a trupe apresentou o espetáculo infantil *Contos e Magia* na primeira edição do projeto Arte nos Parques, no Parque Tarsila do Amaral, em Campo Grande. O projeto era da [[fundac|Fundação Municipal de Cultura]] (Fundac) e levava atrações gratuitas aos bairros. A matéria descreve a peça como uma mistura da arte dos palhaços com situações que envolvem o público infantil.[^tmn2013]
 
-Em setembro de 2014, [[pietro-lara|Pietro Lara]] e Tamara Prantl, apresentados como integrantes da trupe, representaram São Cosme e São Damião na festa dedicada aos santos num templo de umbanda do bairro Pioneiros, em Campo Grande. Os dois eram também médiuns da casa.[^cgn2014]
+Em setembro de 2014, [[pietro-lara|Pietro Lara]] e Tamara Prantl, apresentados como integrantes da trupe, contaram a história de São Cosme e São Damião, no papel dos dois santos, na festa dedicada a eles no Templo de Umbanda Pai Oxalá, em Campo Grande.[^cgn2014]
 
 Em 2018, o *Correio do Estado* apresentou Pietro Lara como ator, produtor e palhaço da trupe, ao reproduzir a homenagem que ele publicou a [[orlando-mongelli|Orlando Mongelli]].[^ce2018]
 
