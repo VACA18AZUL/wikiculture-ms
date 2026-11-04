@@ -29,7 +29,7 @@ A dissertação compara a cena em que o fazendeiro chicoteia uma menina amarrada
 
 - Direção: [[reinaldo-dorval|Reinaldo Dorval]][^diehl]
 - Câmera e edição: [[alexandre-couto|Alexandre Couto]][^diehl]
-- Elenco: [[reinaldo-dorval|Reinaldo Dorval]], Ana Cristina, [[jose-piranha-rocha|José B. Rocha]], Claudinéia Leonel, Líncio Mendes, Juareis Chaves e outros oito nomes listados na ficha da dissertação[^diehl]
+- Elenco: [[reinaldo-dorval|Reinaldo Dorval]], Ana Cristina, [[jose-piranha-rocha|José B. Rocha]], Claudinéia Leonel, Líncio Mendes, Juareis Chaves e outros nomes listados na ficha da dissertação[^diehl]
 - Produtora: [[video-eventos|Vídeo Eventos]][^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 55, 85-86, 101, 105-115 e 155. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56, 86-87, 102, 106-116 e 156. Acesso em 4 nov. 2026.

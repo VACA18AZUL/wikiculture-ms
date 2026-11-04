@@ -7,14 +7,14 @@ resumo: Artesão de Campo Grande citado em 2014 como autor de trabalho com Conce
 ficha:
   Atividade: Artesanato (bugres)
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Mariano Monteiro** é um artista de Campo Grande cujo trabalho com os bugres de Conceição dos Bugres foi citado em 2014 pelo Campo Grande News.[^cgn]
 
 ## Trajetória
 
-A reportagem informa que a exposição *Mato Grosso do Sul Visto Pelo Mundo*, organizada com a ONU em Nova York, entre 12 e 27 de março de 2014, teria 12 expositores do estado, escolhidos entre 35 projetos. Entre eles, a matéria lista "o trabalho de Mariano Monteiro com Conceição dos Bugres", de Campo Grande.[^cgn]
+A reportagem, de janeiro de 2014, informa que a exposição *Mato Grosso do Sul Visto Pelo Mundo*, na sede da ONU em Nova York, entre 12 e 27 de março, teria 12 expositores do estado, escolhidos pela ONU entre 35 projetos pré-selecionados em Mato Grosso do Sul. Entre eles, a matéria lista "o trabalho de Mariano Monteiro com Conceição dos Bugres", de Campo Grande.[^cgn]
 
 ## Identidade
 

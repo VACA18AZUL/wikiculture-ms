@@ -31,4 +31,4 @@ Diehl aponta como temas a degeneração dos laços familiares, a segurança púb
 - Elenco: [[rubens-ramos|Rubens Ramos]], José Reinaldo, Rutieri Baes, [[jose-piranha-rocha|José Piranha]], Elizabeth Cristina, Manuel Ramos e M. Gertrudes[^diehl]
 - Produtoras: [[colorcouto|Colorcouto]] e [[aljor-filmes|Aljor Filmes]][^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 55, 101, 130-132 e 155. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56, 102, 131-132, 139-140 e 156. Acesso em 4 nov. 2026.

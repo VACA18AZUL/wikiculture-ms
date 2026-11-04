@@ -17,7 +17,7 @@ atualizado: 2026-11-04
 
 ## Enredo
 
-O filme abre com o massacre de uma família de agricultores numa festa de casamento, atravessado por uma figura feminina que encarna a morte. Um homem de preto, com cicatriz no rosto, arrasta um caixão e caça pessoas por dinheiro. Zeca e o filho enfrentam peões num bar de beira de estrada. O vilão, Chicão, é um grileiro que expulsa pequenos agricultores para ampliar suas terras. A história termina numa luta entre Zeca e Chicão.[^diehl]
+O filme abre com o massacre de uma família de agricultores numa festa de casamento, atravessado por uma figura feminina que encarna a morte. Um homem de preto com cicatriz no rosto, chamado Caçador, arrasta um caixão onde guarda prisioneiros e aceita dinheiro para capturar o herói. Zeca e o filho enfrentam peões num bar de beira de estrada. O vilão, Chicão, é um grileiro que expulsa pequenos agricultores para ampliar suas terras. A história termina numa luta entre Zeca e Chicão.[^diehl]
 
 ## Análise
 
@@ -31,7 +31,7 @@ A dissertação aponta citações do faroeste italiano. O homem que arrasta o ca
 - Fotografia, produção, trilha sonora e edição: [[alexandre-couto|Alexandre Couto]][^diehl]
 - Iluminação: Neusa Paiva Couto[^diehl]
 - Efeitos especiais: [[jose-piranha-rocha|José B. Rocha]] e [[nelson-rondon|Nelson Rondon]][^diehl]
-- Elenco: [[reinaldo-dorval|Reinaldo Dorval]], Luis Carlos Mendes, Marilene Oliveira, [[alexandre-couto|Alexandre Couto]], [[jose-piranha-rocha|José B. Rocha]], Líncio Mendes, Juareis Chaves, [[nelson-rondon|Nelson Rondon]] e outros 23 nomes listados na ficha da dissertação[^diehl]
+- Elenco: [[reinaldo-dorval|Reinaldo Dorval]], Luis Carlos Mendes, Marilene Oliveira, [[alexandre-couto|Alexandre Couto]], [[jose-piranha-rocha|José B. Rocha]], Líncio Mendes, Juareis Chaves, [[nelson-rondon|Nelson Rondon]] e outros nomes listados na ficha da dissertação[^diehl]
 - Produtora: [[video-eventos|Vídeo Eventos]][^diehl]
 
-[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 55, 84-85, 101, 115-125 e 155-156. Acesso em 4 nov. 2026.
+[^diehl]: Carlos Rodrigo Diehl, [*Filme sertanejo: o cinema amador sul-mato-grossense*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/2063), dissertação de mestrado em Estudos de Linguagens, Universidade Federal de Mato Grosso do Sul, 2009, p. 56, 85-86, 102, 116-125 e 156. Acesso em 4 nov. 2026.
