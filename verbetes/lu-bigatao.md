@@ -25,6 +25,11 @@ Durante a [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teat
 - *Os Guardiões* ou *Guardiões* — dramaturgia; Teatral Grupo de Risco.[^boca2017][^cgn2023]
 - [[navegantes-deslimites|*Navegantes – uma viagem pelos rios brasileiros*]] — listado em seu nome na seleção do Festival de Inverno de Bonito de 2022; Grupo Deslimites.[^ce2022]
 
+## Filmografia
+
+- [[caa-a-forca-da-erva|*Caá a Força da Erva*]] — filme; direção; produção do [[teatral-grupo-de-risco|Teatral Grupo de Risco]], exibido na Semana de Risco, em agosto de 2015. A programação do evento grafa o nome Lú Bigattão.[^cgn2015]
+
+[^cgn2015]: Lucas Arruda, ["Com filmes, espetáculos e oficinas, grupo de teatro comemora 27 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/com-filmes-espetaculos-e-oficinas-grupo-de-teatro-comemora-27-anos), *Campo Grande News*, 24 ago. 2015. Acesso em 4 nov. 2026.
 [^boca2017]: Fundação de Cultura de Mato Grosso do Sul, [folheto da Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), 2017. Acesso em 4 nov. 2026.
 [^ce2022]: Valesca Consolaro, ["Confira as atrações regionais do Festival de Inverno de Bonito 2022"](https://correiodoestado.com.br/correio-b/confira-as-atracoes-regionais-do-festival-de-inverno-de-bonito-2022/403634/), *Correio do Estado*, 12 ago. 2022. Acesso em 4 nov. 2026.
 [^cgn2022b]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 4 nov. 2026.

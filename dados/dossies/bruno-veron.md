@@ -34,3 +34,12 @@ Descartadas: goethe.de (página não carregou texto via curl); resumo de busca c
 ## Uso no verbete
 
 - Entraram os fatos acima, sem os dados de família.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Kênide de Souza Morais, *"O meu rap está apenas começando"...*, artigo de mestrado, CDS/UnB, 2013 (https://repositorio.unb.br/bitstream/10482/15041/1/2013_KenideSouzaMorais.pdf). Lidas as p. 39-46 e 53. Nota `morais2013`.
+
+- Identidade: Morais entrevista "Bruno Veron, Guarani Kaiowá", MC Nil, integrante e fundador do Brô MC's. Mesma pessoa do verbete.
+- Acrescentado: apelido MC Nil; fundador do grupo; nascido na Aldeia Bororó (RID); começou a cantar na escola antes do grupo; cuidava dos convites e ensaios (p. 42-43); relato de Charlie de que Bruno já cantava antes da formação (p. 39).
+- Morais diz que Bruno tinha 20 anos em 2013; fora do verbete (idade/dado pessoal sem necessidade). Casamento, filha e pais (atores em *Terra Vermelha*) também fora (vida familiar).
+- Divergência leve: a National Geographic (no verbete) põe Clemerson como o primeiro a se juntar a Bruno; Morais, pelo relato de Bruno, diz que no início eram ele e Clemerson. Compatível.

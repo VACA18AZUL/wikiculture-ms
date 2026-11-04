@@ -3,7 +3,7 @@ titulo: Walter Lambert
 tipo: pessoa
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: Artista visual e designer que faz instalações com sucata eletrônica e materiais reaproveitados. Expôs no MARCO em 2017, com a instalação Sonho de consumo e pesadelo, e em coletivas em Campo Grande.
+resumo: Artista visual e designer que faz instalações com sucata eletrônica e materiais reaproveitados. Foi selecionado pelo MARCO em 2017, com a instalação Sonho de consumo e pesadelo, e expôs em coletivas em Campo Grande.
 ficha:
   Atividade: Artista visual e designer; instalação
 status: rascunho
@@ -14,11 +14,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2017, foi um dos artistas selecionados pelo programa de Exposições Temporárias do [[marco|MARCO]].[^fcms2017a] Na terceira temporada de exposições do museu naquele ano, aberta em setembro, apresentou a instalação *Sonho de consumo e pesadelo*, que reaproveita descartes tecnológicos para tratar de redes, contatos e obsolescência. A Fundação de Cultura o identificou como artista de Campo Grande na lista de selecionados de abril e como artista de São Paulo no texto de setembro.[^fcms2017a][^fcms2017b]
+Em 2017, foi um dos artistas selecionados pelo programa de Exposições Temporárias do [[marco|MARCO]].[^fcms2017a] Para a terceira temporada de exposições do museu naquele ano, anunciada para abrir em 27 de setembro, a Fundação de Cultura divulgou a instalação *Sonho de consumo e pesadelo*, que reaproveita descartes tecnológicos para tratar de redes, contatos e obsolescência. A Fundação de Cultura o identificou como artista de Campo Grande na lista de selecionados de abril e como artista de São Paulo no texto de setembro.[^fcms2017a][^fcms2017b]
 
-Em outubro de 2023, falou à Fundação de Cultura na abertura do projeto CineMARCO e se referiu a Campo Grande como sua cidade.[^fcms2023b] Em maio daquele ano, o MARCO publicou on-line, na Semana Nacional de Museus, uma oficina a partir da obra e do processo criativo dele.[^fcms2023a]
+Em outubro de 2023, falou à Fundação de Cultura na abertura do projeto CineMARCO e se referiu a Campo Grande como sua cidade.[^fcms2023b] Em maio daquele ano, a programação anunciada do MARCO para a Semana Nacional de Museus previa uma oficina virtual, no Instagram do museu, a partir da obra e do processo criativo dele.[^fcms2023a]
 
-Em dezembro de 2024, participou de uma coletiva de artistas visuais e poetas sobre alterações climáticas, paz e seres vivos na galeria da [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]].[^oe2024] Em 2025, uma instalação sua feita com canos, aros de bicicleta e outros materiais reciclados integrou a coletiva *Elos*, na [[galeria-wega-nery|Galeria Wega Nery]], durante o Campão Cultural.[^fcms2025a] Em novembro de 2025, participou do projeto Arte na Academia, da [[confraria-sociartista|Confraria Sociartista]], na [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]].[^fcms2025b][^oe2025]
+Em dezembro de 2024, participou de uma coletiva de artistas visuais e poetas sobre alterações climáticas, paz e seres vivos na galeria da [[casa-de-cultura-de-campo-grande|Casa de Cultura de Campo Grande]].[^oe2024] Em 2025, como Walter Antonio Lambert, foi um dos dez artistas selecionados por edital para a coletiva *Elos*; uma instalação sua feita com canos, aros de bicicleta e outros materiais reciclados estava na mostra, aberta na [[galeria-wega-nery|Galeria Wega Nery]] durante o Campão Cultural.[^fcms2025a] Em novembro de 2025, a Fundação de Cultura o anunciou no Chá Acadêmico de 27 de novembro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], que tinha ações do projeto Arte na Academia, da [[confraria-sociartista|Confraria Sociartista]]; o *O Estado MS* publicou o mesmo texto.[^fcms2025b][^oe2025]
 
 ## Exposições
 

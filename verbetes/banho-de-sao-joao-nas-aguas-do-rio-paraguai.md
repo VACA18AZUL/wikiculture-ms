@@ -16,9 +16,9 @@ atualizado: 2026-11-04
 
 ## Produção
 
-Segundo o *Campo Grande News*, o filme foi produzido em 2018, com direção de Elis Regina Nogueira, apresentada como produtora audiovisual, e produção da professora Luciana Scanoni. A pesquisa saiu de uma parceria entre a superintendência do Iphan em Mato Grosso do Sul e a [[ufms|UFMS]], coordenada pelo professor Álvaro Banducci Júnior.[^cgn2023] A Fundação de Cultura de MS também atribui o documentário a Elis Regina e a pesquisa a Banducci.[^fcms2023] A programação do [[mis-ms|Museu da Imagem e do Som]] de 2026 o data de 2019.[^fcms2026]
+Segundo o *Campo Grande News*, o filme foi produzido em 2018, com direção de Elis Regina Nogueira, apresentada como produtora audiovisual, e com a professora Luciana Scanoni na produção. A pesquisa que deu base ao filme resultou de um acordo entre o Iphan em Mato Grosso do Sul e a [[ufms|UFMS]], sob coordenação do professor Álvaro Banducci Júnior.[^cgn2023] A Fundação de Cultura de MS também atribui o documentário a Elis Regina e a pesquisa a Banducci.[^fcms2023] A programação do [[mis-ms|Museu da Imagem e do Som]] de 2026 o data de 2019.[^fcms2026]
 
-O documentário reúne depoimentos de festeiras e festeiros, os responsáveis pela festa, que contam milagres, rezas, novenas e os cortejos que levam os andores de São João das casas e terreiros até a margem do Rio Paraguai.[^cgn2023]
+O documentário reúne depoimentos de festeiras e festeiros, os responsáveis pela festa, que relatam milagres, orações e novenas e descrevem os cortejos em que os andores do santo saem de casas e terreiros rumo ao Rio Paraguai.[^cgn2023]
 
 ## Exibições
 

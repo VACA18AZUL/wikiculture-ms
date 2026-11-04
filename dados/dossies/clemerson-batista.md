@@ -46,3 +46,13 @@ Descartadas: National Geographic Brasil (ago. 2022) — página aberta, mas o te
 ## Uso no verbete
 
 - Entrou o acima, sem parentesco nem nome da companheira.
+
+## Atualização de 2026-11-04 (r7)
+
+Fonte nova: Kênide de Souza Morais, *"O meu rap está apenas começando"...*, artigo de mestrado, CDS/UnB, 2013 (https://repositorio.unb.br/bitstream/10482/15041/1/2013_KenideSouzaMorais.pdf). Lidas as p. 39-52. Nota `morais2013`.
+
+Identidade: o pedido marcava "confirmar". Morais entrevista, como um dos integrantes do Brô MC's, "Clemerson", grafado "Clermeserson Veron" no título da seção (p. 49) e "Clermerson" no texto, chamado MC Taz Mania; Bruno o cita como "Clemerson, o Mc Tas Mania" (p. 43) e Kelvim também o cita entre os integrantes (p. 46). O grupo tem um só Clemerson em todas as fontes (Corrêa, R@U, IHU, CGN, Morais). Considero confirmado que é a mesma pessoa; o sobrenome diverge (Veron em Morais, Batista nas demais fontes). A divergência ficou no verbete.
+
+- Acrescentado: apelido MC Taz Mania; grafia Veron; fala sobre o efeito das letras na aldeia e sobre ser visto como artista (p. 49).
+- Fora (dados pessoais): aldeia onde mora, companheira, trabalho fora da música e horário, parentesco com Bruno.
+- Sugestão para a lista-mestra (observacoes): sobrenome Veron em Morais (UnB 2013); apelido MC Taz Mania.

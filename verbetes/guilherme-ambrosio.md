@@ -10,13 +10,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Guilherme Ambrósio** é um fotógrafo nascido no Rio de Janeiro e radicado em Corumbá. Em 2023, trabalhava com fotografia havia 12 anos e se definia como fotógrafo documental.[^cgn2023b]
+**Guilherme Ambrósio** é um fotógrafo carioca que vive na região pantaneira de Corumbá. Em 2023, trabalhava com fotografia havia 12 anos e se definia como fotógrafo documental.[^cgn2023b][^pp2023]
 
 ## Trajetória
 
 Ambrósio se mudou para a região do Pantanal em 2017 e passou a fazer ali um trabalho documental, que depois ampliou para as manifestações culturais e o modo de vida da região. Cita como referências os fotógrafos Sebastião Salgado e Araquém Alcântara.[^cgn2023b]
 
-Em maio de 2023, registrou a mortandade de peixes causada pela decoada no Porto da Manga, em Corumbá, durante passagem pela Estrada Parque. As imagens foram publicadas pela imprensa de Mato Grosso do Sul, que o apresentou como fotógrafo de natureza e vida selvagem.[^cgn2023a][^pp2023]
+Em maio de 2023, registrou a mortandade de peixes causada pela decoada no Porto da Manga, em Corumbá, durante passagem pela Estrada Parque. As imagens saíram na imprensa de Mato Grosso do Sul; o *Campo Grande News* o apresentou como fotógrafo especializado em natureza e vida selvagem.[^cgn2023a][^pp2023]
 
 ## Prêmios
 

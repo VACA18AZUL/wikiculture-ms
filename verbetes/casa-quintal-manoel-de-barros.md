@@ -15,17 +15,17 @@ A **Casa Quintal Manoel de Barros** é uma casa-museu e espaço cultural de Camp
 
 ## Abertura
 
-A casa abriu ao público em 19 de outubro de 2022, apresentada como polo cultural com espaços sobre a memória do escritor e áreas de interação para crianças. A noite de abertura teve a exibição de uma entrevista que a atriz Bruna Lombardi fez com o poeta na própria casa, para a televisão, nos anos 1990.[^g1-out2022]
+A casa passou a receber o público em 19 de outubro de 2022, numa noite de abertura com ingressos à venda; segundo o *G1*, a visitação regular começaria na semana seguinte. O espaço foi apresentado como polo cultural, com ambientes sobre a memória do escritor e áreas de interação para crianças. A programação anunciada para a abertura previa a exibição, pela atriz Bruna Lombardi, de uma entrevista que ela fez com o poeta na própria casa, para a televisão, nos anos 1990.[^g1-out2022]
 
 ## Acervo
 
 O acervo inclui manuscritos, fotografias, a máquina de escrever, um bloco de anotações, a escrivaninha, móveis e objetos pessoais do poeta, além da biblioteca. O escritório que ele chamava de "Lugar de Ser Inútil", onde escreveu a maior parte dos poemas, faz parte da visita.[^g1-out2022][^g1-dez2022] Em dezembro de 2022, o *Jornal Nacional* citou entre as peças uma caderneta com um poema inédito.[^g1-dez2022]
 
-Uma sala imersiva, concebida pelo artista visual Ivan Soares, mostra imagens de Manoel de Barros e trechos dos filmes *Caramujo-Flor*, de [[joel-pizzini|Joel Pizzini]], e *[[planuras|Planuras]]*, de [[mauricio-copetti|Maurício Copetti]].[^g1-out2022] Segundo o idealizador da casa, Ricardo Câmara, a biblioteca reúne também livros, teses, dissertações e trabalhos de conclusão de curso sobre a obra do poeta, para consulta de pesquisadores.[^g1-dez2022]
+Uma sala imersiva, concebida pelo artista visual Ivan Soares, mostra imagens de Manoel de Barros e trechos dos filmes *Caramujo-Flor*, de [[joel-pizzini|Joel Pizzini]], e *[[planuras|Planuras]]*, de [[mauricio-copetti|Maurício Copetti]].[^g1-out2022] Segundo o idealizador da casa, Ricardo Câmara, a casa estava reunindo na biblioteca, além dos livros do poeta, teses, dissertações e trabalhos de conclusão de curso sobre a obra dele, para consulta de pesquisadores.[^g1-dez2022]
 
 ## Programação
 
-Em 19 de dezembro de 2025, a casa recebeu uma programação pelos 109 anos de nascimento do poeta, com o show "Raphael Vital – Voz e Cordas", de [[raphael-vital|Raphael Vital]], o Varal de Poesias da arte-educadora [[ramona-rodrigues|Ramona Rodrigues]] e uma intervenção da artista visual Isabê.[^cgn2025]
+Para 19 de dezembro de 2025, o *Campo Grande News* anunciou na casa uma programação pelos 109 anos de nascimento do poeta, com o show "Raphael Vital – Voz e Cordas", de [[raphael-vital|Raphael Vital]], o Varal de Poesias da arte-educadora [[ramona-rodrigues|Ramona Rodrigues]] e uma intervenção da artista visual Isabê.[^cgn2025]
 
 Em setembro de 2026, o *Campo Grande News* informou que o projeto [[o-centro-dentro-de-nos|O Centro Dentro de Nós]], criado em 2023 pela professora e pesquisadora [[isadora-bacha|Isadora Bacha]], estava integrado à exposição permanente da casa com o título "O Centro Dentro de Nós: Entre Miudezas". O projeto parte de antigas caixas de correspondência de um prédio de Campo Grande, transformadas em pequenos cenários sobre a memória da cidade. Para a casa, a artista fez versões dos cenários em caixas de fósforo, uma delas dedicada a Manoel de Barros.[^cgn2026]
 
