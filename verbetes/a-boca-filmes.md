@@ -15,11 +15,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a Fundação de Cultura de Mato Grosso do Sul (FCMS), o coletivo foi criado em 2022 e mantém ciclos de cineclubes temáticos e projetos de ensino na capital. A atividade, chamada Cineclube da Boca, começou em março de 2022, com programações semestrais de filmes que não chegam ao circuito comercial da cidade. [^fcms2023][^fcms2024a] Nas sessões, um mediador apresenta o filme e conduz um debate depois da exibição.[^fcms2024b]
+Segundo a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] (FCMS), o coletivo foi criado em 2022 e mantinha, em 2023, ciclos de cineclubes temáticos e projetos de ensino na capital. O Cineclube da Boca, feito por alunos e ex-alunos do curso desde março de 2022, organiza programações semestrais de filmes que não chegam ao circuito comercial da cidade.[^fcms2023][^fcms2024a] Nas sessões, um mediador apresenta o filme e conduz um debate depois da exibição.[^fcms2024b]
 
 Em junho de 2023, o coletivo levou ao [[mis-ms|Museu da Imagem e do Som]] o cineclube temático "Era uma vez o faroeste", com seis sessões. Era a segunda parceria do grupo com o museu.[^fcms2023]
 
-A quinta edição do cineclube, "Eles voltam na noite", foi programada de 9 de abril a 29 de junho de 2024, com 13 filmes de terror em espaços como o MIS e a [[casa-de-ensaio|Casa de Ensaio]]. A produção foi de João Pelosi e Aram Amorim, e a curadoria, de Felipe Feitosa.[^fcms2024a] Em setembro de 2024, o grupo fez na Casa de Ensaio a segunda "sessão da meia-noite", com *À meia-noite levarei sua alma*, de José Mojica Marins, em projeto financiado pela Lei Paulo Gustavo.[^fcms2024b] Em novembro do mesmo ano, o cineclube "Filmes do 3º Mundo" programou no MIS a exibição de *O Amuleto de Ogum*, de Nelson Pereira dos Santos.[^fcms2024c]
+A quinta edição do cineclube, "Eles voltam na noite", foi programada de 9 de abril a 29 de junho de 2024, com 13 filmes de terror em espaços como o MIS e a [[casa-de-ensaio|Casa de Ensaio]]. A produção foi de João Pelosi e Aram Amorim, e a curadoria, de Felipe Feitosa.[^fcms2024a] Para 27 de setembro de 2024, o grupo anunciou na Casa de Ensaio a segunda "sessão da meia-noite", com *À meia-noite levarei sua alma*, de José Mojica Marins, em projeto financiado pela Lei Paulo Gustavo.[^fcms2024b] Em novembro do mesmo ano, o cineclube "Filmes do 3º Mundo" programou no MIS a exibição de *O Amuleto de Ogum*, de Nelson Pereira dos Santos.[^fcms2024c]
 
 ## Filmografia
 

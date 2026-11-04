@@ -1,5 +1,4 @@
 origem,relacao,destino,fonte,url_fonte,observacoes
-serena-mc,participou-de,mapago,A Crítica (06/07/2026),https://acritica.net/cultura/mapago-vence-premio-filme-mato-grosso-cinemato/,atriz
 serena-mc,participou-de,arte-da-palavra-sesc,A Crítica (29/04/2026),https://acritica.net/cultura/artistas-de-ms-selecionados-arte-da-palavra-sesc-2026/,selecionada para 2026
 fabio-quill,participou-de,arte-da-palavra-sesc,A Crítica (29/04/2026),https://acritica.net/cultura/artistas-de-ms-selecionados-arte-da-palavra-sesc-2026/,selecionado para 2026
 aaron-salles-torres,fundou,georgois-livros,A Crítica (27/02/2026),https://acritica.net/cultura/dissecado-expoe-o-luto-de-um-pai-em-sociedade-que-nao-permite-perdao/,em 2022
@@ -22,7 +21,6 @@ fernando-castilho,expos-em,galeria-de-vidro,A Crítica (14/04/2026),https://acri
 fernando-castilho,relacionado-a,morada-dos-bais,A Crítica (14/04/2026),https://acritica.net/cultura/exposicao-de-fernando-castilho-estreia-com-reflexao-sobre-violencias-do-cotidiano/,coautor da revitalização da Morada dos Baís e Anexo (1993)
 wendel-fontes,expos-em,galeria-de-vidro,A Crítica (09/07/2026),https://acritica.net/cultura/galeria-de-vidro-exposicao-olhar-suspenso-wendel-fontes/,"Olhar Suspenso, julho de 2026"
 wendel-fontes,expos-em,estacao-cultural-teatro-do-mundo,A Crítica (09/07/2026),https://acritica.net/cultura/galeria-de-vidro-exposicao-olhar-suspenso-wendel-fontes/,a matéria grafa Centro Cultural Teatro do Mundo
-gisele-mendonca,participou-de,confraria-sociartista,A Crítica (24/03/2026),https://acritica.net/cultura/academia-de-letras-transforma-memoria-em-encontro-e-revisita-a-trajetoria-de-hugo-pereira-do-vale-em-campo-grande/,"pintou ao vivo no projeto Arte na Academia; a matéria de 25/5/2026 liga o Arte na Academia à Confraria Sociartista, a de 24/3 não; conferir"
 joel-mendes-violonista,integrou,orquestra-de-violoes-de-campo-grande,A Crítica (25/05/2026),https://acritica.net/cultura/asl-homenageia-nelly-martins-em-roda-academica-em-campo-grande/,
 edilson-aspet-de-azambuja,dirigiu,banda-sinfonica-municipal-maestro-ulisses-conceicao,A Crítica (24/04/2026),https://acritica.net/cultura/banda-sinfonica-municipal-abre-temporada-2026-com-concerto-pelos-50-anos/,maestro e diretor artístico
 edilson-aspet-de-azambuja,dirigiu,concertos-no-paco,A Crítica (25/05/2026),https://acritica.net/cultura/coro-lirico-cantarte-teatro-paco/,diretor artístico
@@ -43,7 +41,7 @@ lidia-bais,homenageado-por,lydia-filme,A Crítica (10/05/2026),https://acritica.
 melina-dalboni,dirigiu,lydia-filme,A Crítica (05/06/2026),https://acritica.net/cultura/ney-matogrosso-grava-filme-lidia-bais-campo-grande/,divergência: matéria de 10/5/2026 dá a direção a Ricardo Câmara
 mariana-villas-boas,dirigiu,lydia-filme,A Crítica (05/06/2026),https://acritica.net/cultura/ney-matogrosso-grava-filme-lidia-bais-campo-grande/,divergência: matéria de 10/5/2026 dá a direção a Ricardo Câmara
 ricardo-camara,relacionado-a,lydia-filme,A Crítica (10/05/2026),https://acritica.net/cultura/filme-sobre-lidia-bais-inicia-gravacoes-na-morada-dos-bais/,diretor segundo a matéria de 10/5/2026; ator (Padre Patanê) segundo a de 5/6/2026. Confirmar se é o mesmo ricardo-camara de Koi e o Rio
-polo-filme,relacionado-a,lydia-filme,A Crítica (05/06/2026),https://acritica.net/cultura/ney-matogrosso-grava-filme-lidia-bais-campo-grande/,produtora
+polofilme,relacionado-a,lydia-filme,A Crítica (05/06/2026),https://acritica.net/cultura/ney-matogrosso-grava-filme-lidia-bais-campo-grande/,produtora; a matéria grafa Pólo Filme
 ney-matogrosso,participou-de,lydia-filme,A Crítica (05/06/2026),https://acritica.net/cultura/ney-matogrosso-grava-filme-lidia-bais-campo-grande/,elenco
 alzira-espindola,participou-de,lydia-filme,A Crítica (10/05/2026),https://acritica.net/cultura/filme-sobre-lidia-bais-inicia-gravacoes-na-morada-dos-bais/,interpreta Lídia na fase madura; a matéria de 5/6/2026 grafa Alzira E.
 beatrice-sayd,participou-de,lydia-filme,A Crítica (10/05/2026),https://acritica.net/cultura/filme-sobre-lidia-bais-inicia-gravacoes-na-morada-dos-bais/,interpreta Lídia jovem

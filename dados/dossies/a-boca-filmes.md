@@ -58,3 +58,7 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou: trajetória, cineclubes, Macário. Ficou de fora: telefones; sessão de 23 maio 2024 (data contraditória).
+
+## Atualização de 2026-11-04
+
+- Revisão: sessão da meia-noite de 27 set. 2024 só anunciada (FCMS 23 set.); reescrita. Cineclube "desde março de 2022 por alunos e ex-alunos" (FCMS 9 abr. 2024) x coletivo "formado por ex-estudantes" (FCMS 2023): ambas no verbete. Telefones dos integrantes nas fontes ficaram fora.

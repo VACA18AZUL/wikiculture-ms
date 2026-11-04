@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Filmografia
 
-- *Mapago* — curta; direção. Selecionado para a mostra competitiva Curta MS da terceira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], programada para 26 a 31 de outubro de 2026. O regulamento aceitava filmes finalizados em 2025 ou 2026.[^curta] Em 4 de novembro de 2026, o *Campo Grande News* informou que *Mapago* foi o melhor curta da mostra Curta MS, escolhido pelo júri oficial, na terceira edição do festival, cujo encerramento a matéria situa no sábado (31). A participação, antes só anunciada, ficou confirmada pelo prêmio.[^cgnprem]
+- [[mapago|*Mapago*]] — curta; direção. Selecionado para a mostra competitiva Curta MS da terceira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], programada para 26 a 31 de outubro de 2026. O regulamento aceitava filmes finalizados em 2025 ou 2026.[^curta] Em 4 de novembro de 2026, o *Campo Grande News* informou que *Mapago* foi o melhor curta da mostra Curta MS, escolhido pelo júri oficial, na terceira edição do festival, cujo encerramento a matéria situa no sábado (31). A participação, antes só anunciada, ficou confirmada pelo prêmio.[^cgnprem]
 - [[carne-amarela|*Carne Amarela*]] (curta-metragem de ficção; filmagens em Coxim, encerradas em 21 de dezembro de 2025) — produção executiva, assistência de direção e roteiro, com [[gleycielli-nonato-guato|Gleycielli Nonato Guató]], que dirige o filme.[^ce2025]
 - [[a-trovadora-e-a-poeta|*A Trovadora e a Poeta*]] (2026) — curta; direção. Teve pré-estreia gratuita em 28 de maio de 2026, na Casa de Ciência e Cultura da UFMS, em Campo Grande, com cine-debate.[^trovadora][^cgn2026]
 

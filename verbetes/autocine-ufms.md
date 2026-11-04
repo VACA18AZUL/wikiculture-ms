@@ -22,7 +22,7 @@ Embora ficasse dentro da UFMS, o Autocine pertenceu de início à Rede Pedutti, 
 
 Em junho de 2020, durante a pandemia de covid-19, a Fundação de Cultura, a UFMS e a Prefeitura de Campo Grande, por meio da Sectur e da Sisep, retomaram as sessões, gratuitas e com número limitado de carros.[^fcms2020a] A primeira, com o filme *Eu e meu guarda-chuva*, foi marcada para 28 de junho; a procura por ingressos levou a uma sessão extra no mesmo dia.[^fcms2020a][^fcms2020b] As sessões de 19 e 26 de julho foram adiadas por um decreto municipal contra aglomerações.[^fcms2020c]
 
-Em 26 de agosto, aniversário de Campo Grande, estavam programados os documentários *Beth e Betinha*, sobre a dupla [[beth-e-betinha|Beth e Betinha]], e [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]], de [[marineti-pinheiro|Marinete Pinheiro]].[^fcms2020d] A última sessão do ano, em 29 de novembro, exibiu *Nosso Lar*. A realização era também apoiada pelo Sesc.[^fcms2020e] No balanço da Fundação, foram 13 sessões em 2020, com espaço para 70 carros cada, a maioria com filmes infantis.[^fcms2020f]
+Em 26 de agosto, aniversário de Campo Grande, estavam programados os documentários *Beth e Betinha*, sobre a dupla [[beth-e-betinha|Beth e Betinha]], e [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]], de [[marineti-pinheiro|Marinete Pinheiro]].[^fcms2020d] Para a última sessão do ano, em 29 de novembro, a Fundação anunciou *Nosso Lar*. A realização era também apoiada pelo Sesc.[^fcms2020e] No balanço da Fundação, foram 13 sessões em 2020, com espaço para 70 carros cada, a maioria com filmes infantis.[^fcms2020f]
 
 ## Depois de 2020
 

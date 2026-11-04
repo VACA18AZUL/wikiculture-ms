@@ -45,3 +45,8 @@ Descartadas: anúncios semanais de filmes de 2020 (repetitivos).
 ## Uso no verbete
 
 - Tudo, com anúncios marcados como tal.
+
+## Atualização de 2026-11-04
+
+- Revisão: sessão de *Nosso Lar* (29 nov. 2020) só anunciada (FCMS 26 nov.); reescrita. O balanço da FCMS (30 nov. 2020) dá 13 sessões realizadas.
+- CE 2026: editais de 2019 e 2020 sem continuidade; contrato em 2023; obras desde out. 2024; investimento da bancada federal (R$ 6,6 milhões). Reabertura anunciada para o fim de março de 2026; realização não confirmada.

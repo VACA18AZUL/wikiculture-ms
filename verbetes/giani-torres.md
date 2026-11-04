@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo a Fundação de Cultura, viveu em São Paulo até os 14 anos, quando voltou à cidade natal. A primeira experiência como cantora foi em 1998, e ela participou do Festival Universitário da Canção em 2000. Venceu o Festival Sesi Música em 2009, com "Finita Água", e em 2010, com "Princesa da Janela".[^fcms2016a]
+Segundo a Fundação de Cultura, viveu em São Paulo até os 14 anos, quando voltou à cidade natal. Começou a cantar em 1998, quando cursava Direito, e esteve no Festival Universitário da Canção de 2000. Venceu o Festival Sesi Música em 2009, com "Finita Água", e em 2010, com "Princesa da Janela".[^fcms2016a]
 
 O primeiro disco, *Pra falar de coisas simples*, foi gravado em 2011, com direção de Adriano Magoo, onze faixas autorais e participação de Zeca Baleiro.[^ce2012][^fcms2016a] Em março de 2012, o *Correio do Estado* anunciou um show dela com [[juci-ibanez|Juci Ibanez]] no [[som-da-concha|Som da Concha]], em homenagem às mulheres.[^ce2012]
 
