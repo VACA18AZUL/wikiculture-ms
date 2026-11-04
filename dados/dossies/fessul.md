@@ -23,4 +23,4 @@ Segunda fonte: não encontrada. Nada mudou.
 
 ## Atualização de 2026-11-04 (r3-3)
 
-Tentativa r3-3: FCMS e Correio do Estado sem matéria sobre o festival de 1979-1981 (acervo digital online só a partir dos anos 2000). Continua com fonte única (Caetano). Sugestão: Simões e Fonseca (UFMS, 1981) ou acervo físico do Correio do Estado.
+Tentativa r3-3: FCMS e Correio do Estado sem matéria sobre o festival de 1979-1981. Continua com fonte única (Caetano). Sugestão: Simões e Fonseca (UFMS, 1981) ou acervo físico do Correio do Estado.

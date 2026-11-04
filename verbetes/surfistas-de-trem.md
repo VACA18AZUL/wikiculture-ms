@@ -5,8 +5,8 @@ areas: [musica]
 cidade: Ponta Porã
 resumo: Banda de Ponta Porã que faz pop autoral sobre a fronteira com o Paraguai, cantado em português, espanhol e guarani; lançou o álbum Moderna Música da Fronteira em 2015.
 ficha:
-  Integrantes: "João Caetano (vocal), Renan Dorta (baixo), Jean Caetano, Clayton (ou Cleyto) Vieira, Jorge Pará (ou George Parah)"
-  Sede: "Ponta Porã"
+  Integrantes: "João Caetano, Renan Dorta, Jean Caetano e outros (formação variou)"
+  Origem: "Ponta Porã"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -19,7 +19,7 @@ As fontes divergem sobre a idade da banda: em novembro de 2018, a Fundação de 
 
 O primeiro álbum, *Moderna Música da Fronteira*, foi gravado em 2014 em Campo Grande, com produção musical de Alex Cavalheri e recursos do Fundo de Investimentos Culturais (FIC) do estado. O lançamento foi anunciado para 2 de outubro de 2015, em Amambai, e 4 de outubro, no Teatro Municipal de Dourados, e o disco foi disponibilizado para download gratuito.[^fcms2015]
 
-Em 11 de novembro de 2018, a banda abriu o projeto Som da Concha, na Concha Acústica Helena Meirelles, em Campo Grande, com músicas do álbum e participação do saxofonista Mayson Lucas.[^fcms2018] Segundo o *Campo Grande News*, também tocou no MS Canta Brasil, no [[festival-america-do-sul-pantanal|Festival América do Sul]] e em festivais do lado paraguaio da fronteira.[^cgn2025]
+Em 11 de novembro de 2018, a banda abriu a apresentação do projeto Som da Concha, na Concha Acústica Helena Meirelles, em Campo Grande, com músicas do álbum e participação do saxofonista Mayson Lucas.[^fcms2018] Segundo o *Campo Grande News*, também tocou no MS Canta Brasil, no [[festival-america-do-sul-pantanal|Festival América do Sul]] e em festivais do lado paraguaio da fronteira.[^cgn2025]
 
 ## Integrantes
 
