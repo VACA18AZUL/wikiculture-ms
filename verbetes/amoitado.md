@@ -19,6 +19,8 @@ atualizado: 2026-11-04
 
 O curta foi filmado inteiramente em Campo Grande, de 26 a 31 de janeiro de 2026, a maior parte das gravações à noite. O roteiro tem 22 páginas e 52 cenas, e a produção empregou cerca de 40 profissionais do audiovisual. Aly Freitas acompanhou a escrita do roteiro desde 2022.[^ce2026]
 
+Segundo o *Diário Digital*, o curta é produção da Bolt Realizações em parceria com a [[plural-cine|Plural Cine]].[^dd2025] O *Campo Grande News* apresenta [[juliana-morais|Juliana Morais]], responsável pela produção executiva, como integrante da Plural Cine.[^cgn2026am]
+
 ## Exibição
 
 *Amoitado* foi selecionado para a mostra competitiva Curta MS do 3º [[festival-curta-campo-grande|Festival Curta Campo Grande]], ao lado de outros seis filmes de Mato Grosso do Sul.[^acritica2026][^ce2026] A primeira exibição pública foi marcada para 30 de outubro de 2026, às 20h, na Associação Cultural Teatro do Mundo, como último filme da sessão.[^ce2026]
@@ -47,5 +49,7 @@ O curta foi filmado inteiramente em Campo Grande, de 26 a 31 de janeiro de 2026,
 - Finalização e cor: [[benedito-estudio|Benedito Estúdio]][^ce2026]
 - Elenco: [[douglas-caetano|Douglas Caetano]] (Carlos), [[renato-passos|Renato Passos]] (Coxim), Espedito Di Montebranco (Duca), [[leandro-faria|Leandro Faria Lelo]] (Klaubo), [[guilherme-godoy|Guilherme Godoy]] (Mascado), [[vinicius-lima|Vinícius Lima]] (Mascado criança), [[arthur-benites|Arthur Benites]] (Nathan), [[andre-luis|André Luís]] (peão 2), [[carlos-eduardo-lotfi|Carlos Eduardo Lotfi]] (Tonhão), [[mariana-castro|Mariana Castro]] (Tena), [[sueli-de-jesus-santana|Sueli De Jesus Santana]] (mãe), [[anderson-lima-farin|Anderson Lima Farin]] (pai), [[henryl-chavier|Henryl Chavier]] (criança), [[lourenco-vilarim|Lourenço Vilarim]] (Irã), [[fania-martins|Fânia Martins]] (Melina)[^ce2026]
 
+[^dd2025]: Redação, ["Filme sobre 'roubo de gado' abre seleção de elenco na Capital de MS"](https://www.diariodigital.com.br/geral/filme-sobre-roubo-de-gado-abre-selecao-de-elenco-na-capital-de-ms), *Diário Digital*, 30 dez. 2025. Acesso em 4 nov. 2026.
+[^cgn2026am]: Amanda Ferreira, ["Filme sobre roubo de gado estreia em festival de cinema na Capital"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filme-sobre-roubo-de-gado-estreia-em-festival-de-cinema-na-capital), *Campo Grande News*, 24 out. 2026. Acesso em 4 nov. 2026.
 [^ce2026]: Leo Ribeiro, ["Suspense rural que aborda roubo de gado, 'Amoitado' estreia em festival"](https://correiodoestado.com.br/correio-b/suspense-rural-que-aborda-roubo-de-gado-amoitado-estreia-em/474989/), *Correio do Estado*, 18 out. 2026. Acesso em 4 nov. 2026.
 [^acritica2026]: Ricardo Eugenio, ["Curta Campo Grande seleciona 61 de 1.233 filmes; dez são de MS"](https://acritica.net/cultura/curta-campo-grande-61-filmes-selecionados-outubro-2026/), *A Crítica*, 22 set. 2026. Acesso em 4 nov. 2026.

@@ -16,3 +16,13 @@ Formato: id; referência; páginas
 - jose-couto-vieira-pontes; Souza (UEL, 2008), https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download; p. 11 (História da Literatura Sul-Mato-Grossense, 1981)
 - maria-adelia-menegazzo; Souza (UEL, 2008), https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download; p. 34-35 (crítica da 'ditadura da figura' pantaneira)
 - maria-da-gloria-sa-rosa; Souza (UEL, 2008), https://repositorio.uel.br/bitstreams/233728de-337f-414c-8f40-e1595d9dbf8f/download; p. 32 (citada como crítica)
+- geraldo-roca; Faria, Ian Rari Nogueira. Contribuições da música regional na construção da identidade histórico-cultural do Mato Grosso do Sul (dissertação, Estudos Culturais, UFMS/Aquidauana, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; capítulo 3 inteiro, p. 61-90 do PDF (carioca, chegou a Campo Grande; banda The Yellow Bird no Rio; primeiro compacto pela Bandeirantes Discos nos anos 1970, p. 64)
+- festival-prata-da-casa; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 59 do PDF (dois shows no Teatro Glauce Rocha em 1981 que geraram o disco; Neder, citado na p. 66, data o LP de 1980; o registro prata-da-casa-lp-1982 traz 1982: divergência)
+- prata-da-casa-lp-1982; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 59 e 66 do PDF (LP datado de 1981 por Faria e de 1980 por Neder 2014: divergência com o registro)
+- fessul; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 56-59 do PDF (1º Fessul, 1979, TV Morena, ginásios da UCE e da UFMS, vitória de Kananciuê do Grupo Acaba)
+- grupo-acaba; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 58-60 do PDF
+- paulo-simoes; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 55, 59-60 do PDF
+- festivais-de-musica-popular-de-campo-grande; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 53-55 do PDF (1º Festival de 11 a 14/12/1967: Jornal do Comércio, Rádio Educação Rural, Aliança Francesa e Clube Surian)
+- paulo-coelho-machado; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 51-52 do PDF (memorialista; A rua velha, 1990; A grande avenida, 2000)
+- onesimo-filho; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 57-58 do PDF (funcionário da TV Morena que retomou os festivais com o Fessul)
+- celito-espindola; Faria (UFMS, 2024), https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/13682; p. 59-61 do PDF

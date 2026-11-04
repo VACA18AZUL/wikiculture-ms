@@ -3,7 +3,7 @@ titulo: Araruna Fest
 tipo: evento
 areas: [musica]
 cidade: Campo Grande
-resumo: Festival de rock de Campo Grande realizado pela 93 Produções, com atrações nacionais e da cena sul-mato-grossense; a segunda edição, em maio de 2026, teve Frejat, e a terceira, em agosto de 2026, os Titãs.
+resumo: Festival de rock de Campo Grande realizado pela 93 Produções, com atrações nacionais e da cena sul-mato-grossense; a segunda edição, em maio de 2026, teve Frejat; a terceira foi marcada para agosto de 2026, com os Titãs.
 ficha:
   Realização: 93 Produções
 status: rascunho
@@ -14,11 +14,11 @@ O **Araruna Fest** é um festival de música de Campo Grande realizado pela 93 P
 
 ## Edições
 
-A segunda edição ocorreu em 30 de maio de 2026, no Bosque Expo, no Shopping Bosque dos Ipês. O show de encerramento foi de Frejat, e a programação incluiu [[bando-do-velho-jack|O Bando do Velho Jack]], [[erica-espindola|Erica Espíndola]], a banda School of Rock, Alec Haiat, da formação clássica do Metrô, e Clemente Nascimento, das bandas Plebe Rude e Inocentes.[^acritica2026a][^g12026]
+A segunda edição foi em 30 de maio de 2026, no Bosque Expo, no Shopping Bosque dos Ipês, com Frejat como atração principal.[^acritica2026a][^acritica2026b] A programação anunciada previa o show de Frejat no encerramento e incluía [[bando-do-velho-jack|O Bando do Velho Jack]], [[erica-espindola|Erica Espíndola]], a banda School of Rock, Alec Haiat, da formação clássica do Metrô, e Clemente Nascimento, das bandas Plebe Rude e Inocentes.[^acritica2026a][^g12026]
 
-A terceira edição ocorreu em 29 de agosto de 2026, com show dos Titãs, que revisitaram o álbum *Cabeça Dinossauro*. A noite foi aberta pelo MetrôVox, projeto de Alec Haiat, em estreia oficial; o tecladista Daniel Aigner participou da apresentação.[^acritica2026b][^pp2026]
+A terceira edição foi marcada para 29 de agosto de 2026, com show dos Titãs dedicado ao álbum *Cabeça Dinossauro*. A abertura anunciada era a estreia oficial do MetrôVox, projeto de Alec Haiat, com participação do tecladista Daniel Aigner.[^acritica2026b][^pp2026]
 
-Na véspera da terceira edição, em 28 de agosto de 2026, a 93 Produções abriu o Araruna Show Bar, na Cervejaria Canalhas, com shows de [[guga-borba|Guga Borba]] e do grupo Violões em Fúria. Segundo o diretor da produtora, Patrick Gontier, a casa foi criada para manter programação contínua além do festival anual.[^acritica2026b]
+Para a véspera da terceira edição, 28 de agosto de 2026, a 93 Produções anunciou a estreia do Araruna Show Bar, na Cervejaria Canalhas, com shows de [[guga-borba|Guga Borba]] e do grupo Violões em Fúria. Segundo o diretor da produtora, Patrick Gontier, a casa foi criada para manter programação contínua além do festival anual.[^acritica2026b]
 
 [^acritica2026a]: Iury de Oliveira, ["Festival no Bosque dos Ipês movimenta economia local com shows, turismo e consumo"](https://acritica.net/cultura/araruna-fest-movimenta-economia-campo-grande/), *A Crítica de Campo Grande*, 18 maio 2026. Acesso em 4 nov. 2026.
 [^g12026]: Joaquim Padilha, ["Revoada Cultural, festivais e muito rock com Frejat: veja o que fazer no fim de semana em Campo Grande"](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/05/29/revoada-cultural-festivais-e-muito-rock-com-frejat-veja-o-que-fazer-no-fim-de-semana-em-campo-grande.ghtml), *g1 MS*, 29 maio 2026. Acesso em 4 nov. 2026.

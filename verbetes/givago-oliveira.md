@@ -19,7 +19,7 @@ Em 2016, dois curtas dirigidos por ele e por [[mariana-sena|Mariana Sena]], *Vid
 
 *T'amo na Rodoviária* trata do Centro Comercial Condomínio Terminal do Oeste, a antiga rodoviária de Campo Grande, no bairro Amambaí, onde Givago morava havia muitos anos. O trabalho começou em 2011, feito por um grupo de profissionais do audiovisual com recursos próprios, e foi aprovado em edital do governo do estado em 2016. A estreia foi num corredor do antigo terminal, em dezembro de 2018, no mês do aniversário do bairro, com cortejo de abertura do grupo Imaginário Maracangalha.[^cgn2018] O filme mistura depoimentos com poesia, teatro e dança; atores encenaram os relatos de quem não quis aparecer.[^cgn2018] Em 2019, entrou na programação de cinema do [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]], em Corumbá.[^fcms2019]
 
-Segundo o *Campo Grande News*, ele também encabeçou, com outros artistas, um festival e projetos que levaram cinema a praças e periferias de Campo Grande. O artista [[isac-zampieri|Isac Zampieri]] lembrou que os dois fizeram ensaios de cinema e um projeto do Ministério da Cultura numa escola de periferia.[^cgn2021]
+Segundo o *Campo Grande News*, ele também encabeçou, com outros artistas, um festival e projetos que levaram cinema a praças e periferias de Campo Grande. O artista Isac Zampieri lembrou que os dois fizeram ensaios de cinema e um projeto do Ministério da Cultura numa escola de periferia.[^cgn2021]
 
 ## Homenagens
 

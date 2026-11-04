@@ -5,14 +5,14 @@ areas: [audiovisual]
 cidade: Corumbá
 resumo: "Documentário dirigido por Elis Regina Nogueira sobre o Banho de São João de Corumbá e Ladário, a partir de pesquisa do Iphan-MS e da UFMS coordenada por Álvaro Banducci Júnior. As fontes o datam de 2018 ou de 2019."
 ficha:
-  Direção: "[[elis-regina-nogueira|Elis Regina Nogueira]]"
+  Direção: "Elis Regina Nogueira"
   Ano: "2018 ou 2019 (as fontes divergem)"
   Formato: "Documentário"
 status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Banho de São João – nas águas do Rio Paraguai*** é um documentário sobre o [[banho-de-sao-joao-de-corumba|Banho de São João]] de Corumbá e Ladário, dirigido por [[elis-regina-nogueira|Elis Regina Nogueira]].[^cgn2023][^fcms2023]
+***Banho de São João – nas águas do Rio Paraguai*** é um documentário sobre o [[banho-de-sao-joao-de-corumba|Banho de São João]] de Corumbá e Ladário, dirigido por Elis Regina Nogueira.[^cgn2023][^fcms2023]
 
 ## Produção
 
@@ -26,7 +26,7 @@ Em junho de 2023, na semana do Banho de São João, a Fundação de Cultura de M
 
 ## Ficha técnica
 
-- Direção: [[elis-regina-nogueira|Elis Regina Nogueira]][^cgn2023][^fcms2026]
+- Direção: Elis Regina Nogueira[^cgn2023][^fcms2026]
 - Produção: [[luciana-scanoni|Luciana Scanoni]][^cgn2023]
 - Coordenação da pesquisa: [[alvaro-banducci-junior|Álvaro Banducci Júnior]][^cgn2023][^fcms2023]
 
