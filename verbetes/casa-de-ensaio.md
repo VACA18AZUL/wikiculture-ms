@@ -22,7 +22,7 @@ O jornal O Estado Online, em maio de 2024, também a descreve como organização
 
 ## Direção
 
-A fundadora é [[lais-doria|Laís Dória]].[^cgn2012] O site da entidade e O Estado Online dizem que ela criou a Casa em 1996 junto com Artur Monteiro de Barros (o site grafa Arthur).[^site][^oe2024] Em outubro de 2022, ela dirigia a Casa havia 26 anos e foi homenageada naquele ano no Campão Cultural.[^cgn2022]
+A fundadora é [[lais-doria|Laís Dória]].[^cgn2012] O site da entidade e O Estado Online dizem que ela criou a Casa em 1996 junto com [[artur-monteiro-de-barros|Artur Monteiro de Barros]] (o site grafa Arthur).[^site][^oe2024] Em outubro de 2022, ela dirigia a Casa havia 26 anos e foi homenageada naquele ano no Campão Cultural.[^cgn2022]
 
 ## Trajetória
 

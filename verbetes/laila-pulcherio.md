@@ -15,11 +15,11 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em março de 2014, assinou a produção de *Navalha de Carne*, texto de Plínio Marcos montado pelo Circo do Mato com direção de [[leandro-melo|Leandro Melo]] e contemplado pelo [[premio-rubens-correa|prêmio Rubéns Corrêa]] de 2013, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]]. As sessões estavam marcadas para 22, 23, 29 e 30 de março, na sede do grupo.[^cgn2014]
+Em março de 2014, assinou a produção de *Navalha de Carne*, texto de Plínio Marcos montado pelo Circo do Mato com direção de [[leandro-melo|Leandro Melo]] e contemplado pelo [[premio-rubens-correa|prêmio Rubéns Corrêa]] de 2013, da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]]. As sessões estavam marcadas para 22, 23, 29 e 30 de março.[^cgn2014]
 
 Na programação da [[mostra-boca-de-cena|Boca de Cena]] de 2017, aparece na ficha de *Os Corcundas*, do Circo do Mato, com dramaturgia e direção de [[breno-moroni|Breno Moroni]] e elenco formado por Luciana Kreutzer e [[mauro-guimaraes|Mauro Guimarães]]. Coube a ela a produção executiva, a operação de luz e som e, com outra pessoa, a fotografia. O espetáculo estava programado para a Praça Ari Coelho.[^boca2017]
 
-Entre abril e maio de 2025, dividiu com Mauro Guimarães a coordenação do projeto De Ponto a Ponto, do Circo do Mato, que levou espetáculo, oficinas e rodas de conversa a Pontos de Cultura de Mato Grosso do Sul. Em reportagem sobre a etapa de Aquidauana, disse que o espetáculo é só uma parte do projeto e que o mais importante são as trocas entre as pessoas.[^cgn2025a]
+Em 2025, dividiu com Mauro Guimarães a coordenação do projeto De Ponto a Ponto, do Circo do Mato, que buscava fortalecer os Pontos de Cultura do estado. Em reportagem de maio sobre a etapa de Aquidauana, no [[ponto-de-cultura-sapicua-pantaneiro|Ponto de Cultura Sapicuá Pantaneiro]], disse que o espetáculo é só uma parte do projeto e que o mais importante são o encontro e as trocas entre as pessoas.[^cgn2025a]
 
 Em junho de 2025, como produtora cultural do grupo, falou à imprensa sobre a vivência circense que a sede do Circo do Mato receberia, em 18 de junho, com artistas da Trupe Circus e da Escola Pernambucana de Circo, de Recife, dentro do projeto Circo Science – do Mangue ao Picadeiro.[^cgn2025b]
 

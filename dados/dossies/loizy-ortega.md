@@ -10,7 +10,7 @@
 | id da nota | Referência completa | URL | Tipo | Entra? |
 |---|---|---|---|---|
 | acritica2026 | Iury de Oliveira, "Bailarinos de Aquidauana ficam em 2º lugar em festival internacional em Florianópolis", A Crítica de Campo Grande, 17 mai. 2026 | https://acritica.net/noticias/bailarinos-de-aquidauana-ficam-em-2-lugar-no-premio-desterro-em-florianopolis/ | imprensa | sim |
-| cgn2023 | "Grupo levará dança para espaços públicos de Aquidauana", Campo Grande News | https://www.campograndenews.com.br/lado-b/diversao/grupo-levara-danca-para-espacos-publicos-de-aquidauana | imprensa | não (não cita Loizy) |
+| cgn2023 | Thailla Torres, "Grupo levará dança para espaços públicos de Aquidauana", Campo Grande News, 17 dez. 2023 | https://www.campograndenews.com.br/lado-b/diversao/grupo-levara-danca-para-espacos-publicos-de-aquidauana | imprensa | não (não cita Loizy) |
 
 ## Fatos, com fonte
 

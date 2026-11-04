@@ -20,7 +20,7 @@ Segundo o Correio do Estado, a Oficina nasceu com o objetivo de resgatar a cultu
 
 Em 2011, o projeto era conduzido pela Fundação de Cultura e Turismo do Pantanal, atendia cerca de 600 alunos por ano e teria 20 turmas e sete profissionais. Havia turmas de balé, a partir dos três anos, e de street dance, a partir dos 11.[^correio2011] Em 2015, a monografia registrava mais de 500 alunos matriculados em estilos como jazz, street dance e balé.[^silva2015]
 
-Em 2006, a Oficina criou o projeto Como Nossos Filhos, com aulas de dança para as mães e avós que esperavam os alunos. O grupo começou com 30 mulheres e se apresenta em festas juninas e nos espetáculos de fim de ano, com coreografias do bailarino e professor Kleber Kosta.[^silva2015]
+Em 2006, a Oficina criou o projeto Como Nossos Filhos, com aulas de dança para as mães e avós que esperavam os alunos. O grupo começou com 30 mulheres e se apresenta em festas juninas e nos espetáculos de fim de ano, com coreografias do bailarino e professor [[kleber-kosta|Kleber Kosta]].[^silva2015]
 
 O Correio do Estado registra apresentações dos alunos em cidades de Mato Grosso do Sul, como Campo Grande, Coxim, Bonito, Ponta Porã e Três Lagoas, e na Bolívia, em Puerto Quijarro, Puerto Suárez, Cochabamba, Sucre e Potosí. A Oficina recebeu moções de congratulação das câmaras municipais de Coxim e de Corumbá e, em agosto de 2004, uma homenagem do Tribunal de Contas do Estado. Em 2005, montou o espetáculo *Dança, Brasil!*, com danças tradicionais das cinco regiões do país.[^correio2011]
 
