@@ -19,7 +19,7 @@ Segundo *A Crítica*, a realização levou mais de dez anos. O filme usa imagens
 
 ## Exibição e prêmios
 
-Na 4ª edição do [[bonito-cinesur|Bonito CineSur]], em 2026, o documentário recebeu o prêmio de melhor filme sul-mato-grossense do júri popular.[^cgn2026][^acritica2026]
+Na 4ª edição do [[bonito-cinesur|Bonito CineSur]], em 2026, o documentário recebeu o prêmio de melhor filme sul-mato-grossense do júri popular. A lista de vencedores do *Campo Grande News* dá a direção só a Conrado Roel; *A Crítica* cita Roel e Débora Bah.[^cgn2026][^acritica2026]
 
 Teve sessão gratuita marcada para 25 de setembro de 2026 no Autocine da [[ufms|UFMS]], em Campo Grande, dentro do Festival Mais Cultura 2026.[^acritica2026]
 
