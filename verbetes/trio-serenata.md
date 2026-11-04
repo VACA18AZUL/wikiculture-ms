@@ -17,11 +17,17 @@ O **Trio Serenata** é um grupo de música regional de Mato Grosso do Sul. As li
 
 Segundo o Campo Grande News, o cantor [[castelo|Castelo]], nome artístico de Antônio Rodrigues de Queiroz, formou o trio a convite do irmão Alex, com [[cidinho-castelo|Cidinho Castelo]], depois de uma dupla com Durvalino de Souza iniciada em 1964. O trio fez a primeira gravação de Castelo em disco de vinil.[^cgn2023] A descrição de *Índio Velho* trata Alex e Queiroz como uma dupla à qual se somou o acordeom de Cidinho Castelo; sobre a dupla, ver [[alex-e-queiroz|Alex e Queiroz]].[^indio]
 
-O LP *Flor de Pedra* foi lançado em Campo Grande em 1976, com produção do músico Elinho e participação de Ado e Mauricio Marin. A contracapa traz um texto de [[delio-e-delinha|Délio e Delinha]].[^flor] *Índio Velho*, de 1978, também lançado em Campo Grande, foi produzido por Dino Franco e teve Ado, Mauricio Marin e Elinho como convidados. A descrição do acervo o chama de quinto volume, sem explicar a contagem.[^indio] Os dois discos foram digitalizados a partir do acervo particular de [[carlos-luz|Carlos Luz]].[^flor][^indio]
+O LP *Flor de Pedra* foi lançado em Campo Grande em 1976, com produção do músico Elinho e participação de Ado e Mauricio Marin. A contracapa traz um texto de [[delio-e-delinha|Délio e Delinha]].[^flor] *Índio Velho*, de 1978, também lançado em Campo Grande, foi produzido por Dino Franco e teve Ado, Mauricio Marin e Elinho como convidados. A descrição do acervo o chama de quinto volume.[^indio]
 
 ## Divergências entre fontes
 
-O Campo Grande News identifica Castelo como Antônio Rodrigues de Queiroz, morto em julho de 2023.[^cgn2023] As descrições do acervo atribuem a morte de 10 de julho de 2023 a Alex e registram a de Queiroz em 28 de dezembro de 2024. Também divergem entre si sobre quem era chamado de "Castelo" e sobre o instrumento de cada integrante.[^flor][^indio]
+As fontes divergem sobre quem era chamado de Castelo, sobre as datas de morte e sobre o papel de cada integrante.
+
+Segundo o Campo Grande News, Castelo era o nome artístico de Antônio Rodrigues de Queiroz, irmão de Alex, morto na noite de domingo, 9 de julho de 2023, véspera do velório.[^cgn2023]
+
+A descrição de *Flor de Pedra* no acervo chama Alex de "Castelo" e diz que ele morreu em 10 de julho de 2023; registra a morte de Queiroz em 28 de dezembro de 2024. O mesmo texto chama Queiroz de "Queiroz Castelo" e Cidinho Castelo de "o lendário Castelo". Ali, Alex aparece no arranjo e nas cordas, Queiroz na voz e na harmonia, com destaque no violão, e Cidinho no acordeom.[^flor]
+
+A descrição de *Índio Velho* chama Queiroz de "Castelo" e dá a morte dele em 28 de dezembro de 2024; a de Alex, em 10 de julho de 2023. Nesse texto, Alex é a voz principal, Queiroz faz as harmonias e os contrapontos vocais e Cidinho Castelo toca acordeom.[^indio]
 
 ## Discografia
 

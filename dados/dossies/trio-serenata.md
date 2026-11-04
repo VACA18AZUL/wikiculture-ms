@@ -42,3 +42,13 @@
 ## Uso no verbete
 
 - Entrou o essencial; adjetivos das descrições do acervo ficaram de fora. Datas de morte só na seção de divergência, por serem conflitantes.
+
+## Revisão de 2026-11-04 (valn-8)
+
+- Descrições das duas listas lidas por inteiro (HTML da playlist, campo de descrição). Versões, sem escolher:
+  - cgn2023: Castelo = Antônio Rodrigues de Queiroz, irmão de Alex; morreu "na noite deste domingo" (reportagem de 10 jul. 2023, velório "segunda-feira, dia 10"): 9 jul. 2023. Não cita instrumentos.
+  - flor: Alex "Castelo" morreu em 10 jul. 2023; Queiroz em 28 dez. 2024; também "Queiroz Castelo" e Cidinho "o lendário Castelo", com quase 60 anos de carreira. Alex: arranjo e cordas; Queiroz: voz e harmonia (texto fala do violão); Cidinho: acordeom.
+  - indio: Queiroz "Castelo" morreu em 28 dez. 2024; Alex em 10 jul. 2023. Alex: voz principal; Queiroz: harmonias vocais; Cidinho: acordeom.
+- O parágrafo padrão das duas descrições diz que o item veio do acervo particular de Carlos Luz, mas nomeia outros discos ("Meu Ranchinho", LP.MR-003; "Rosicleir", 2.12-407-294): parece texto reaproveitado. A frase sobre Carlos Luz saiu do verbete até haver confirmação.
+- Retirada do verbete a ressalva "sem explicar a contagem" (quinto volume): frase sobre o que a fonte não diz.
+- A descrição traz e-mail de pix do canal: não entra.
