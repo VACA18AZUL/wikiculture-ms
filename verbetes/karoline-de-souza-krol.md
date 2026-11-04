@@ -2,7 +2,7 @@
 titulo: Karoline de Souza (Krol)
 tipo: pessoa
 areas: [artes-plasticas]
-resumo: Grafiteira de Mato Grosso do Sul, conhecida como Krol, selecionada em 2025 para o projeto "Dia do Graffiti: Arte Urbana e Cultura", na Vila Nhanhá, em Campo Grande.
+resumo: 'Grafiteira de Mato Grosso do Sul, conhecida como Krol, selecionada em 2025 para o projeto "Dia do Graffiti: Arte Urbana e Cultura", na Vila Nhanhá, em Campo Grande.'
 ficha:
   Atividade: Grafite
 status: rascunho

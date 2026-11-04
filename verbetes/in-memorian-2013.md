@@ -3,11 +3,11 @@ titulo: In Memorian (exposição de 2013)
 tipo: evento
 areas: [artes-plasticas]
 cidade: Campo Grande
-resumo: Exposição da Fundação de Cultura de MS na Galeria do Memorial da Cultura, em Campo Grande, em outubro e novembro de 2013, com obras de artistas plásticos do estado já falecidos.
+resumo: Exposição da Fundação de Cultura de MS na Galeria do Memorial da Cultura, em Campo Grande, aberta em outubro de 2013, com obras de artistas plásticos já falecidos ligados a Mato Grosso do Sul.
 ficha:
   Realização: Fundação de Cultura de Mato Grosso do Sul
   Local: Galeria do Memorial da Cultura, Campo Grande
-  Edição: Outubro a novembro de 2013
+  Abertura: Outubro de 2013
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## A mostra
 
-A exposição foi organizada por ocasião dos 36 anos de criação do estado. A visitação era de segunda a sexta, das 7h30 às 17h30, com entrada franca, e a mostra ficava aberta até 22 de novembro.[^cgn2013]
+A exposição foi organizada por ocasião dos 36 anos de criação do estado. A matéria que a anunciou informava visitação de segunda a sexta, das 7h30 às 17h30, com entrada franca, e encerramento previsto para 22 de novembro.[^cgn2013]
 
 Foram homenageados [[beto-lima|Beto Lima]], [[henrique-spengler|Henrique Spengler]], [[jorapimo|Jorapimo]], [[lidia-bais|Lídia Baís]], [[ovini-rosmarinus|Óvini Rosmarinus]], [[paulo-rigotti|Paulo Rigotti]], [[vania-pereira|Vânia Pereira]] e [[wega-nery|Wega Nery]], artistas ligados a Corumbá, Coxim, Campo Grande, Dourados e a outros estados.[^cgn2013]
 

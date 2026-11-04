@@ -8,7 +8,7 @@ ficha:
   Estreia: "2022"
   Atividade: Slam de poesia
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Slam Plural** é um coletivo de slam de Campo Grande pensado para mulheres e pessoas LGBTQIA+.[^cgn2022]
@@ -27,5 +27,5 @@ Em julho de 2023, o grupo se apresentou na [[feira-literaria-de-bonito-flib|Feir
 
 Luanna contou ainda que atua na cena cultural da capital desde 2014, quando criou o sarau Ziriguidum com a irmã Marina Peralta.[^cgn2023]
 
-[^cgn2022]: ["Slam Plural é grito de liberdade para artistas independentes"](https://www.campograndenews.com.br/lado-b/diversao/slam-plural-e-grito-de-liberdade-para-artistas-independentes), *Campo Grande News*, 14 out. 2022. Acesso em 29 out. 2026.
-[^cgn2023]: ["Performance de Slam Plural é acolhimento e alerta em feira literária"](https://www.campograndenews.com.br/lado-b/diversao/performance-de-slam-plural-e-acolhimento-e-alerta-em-feira-literaria), *Campo Grande News*, 9 jul. 2023. Acesso em 29 out. 2026.
+[^cgn2022]: Jéssica Fernandes, ["Slam Plural é grito de liberdade para artistas independentes"](https://www.campograndenews.com.br/lado-b/diversao/slam-plural-e-grito-de-liberdade-para-artistas-independentes), *Campo Grande News*, 14 out. 2022. Acesso em 29 out. 2026.
+[^cgn2023]: Rodrigo Teixeira, ["Performance de Slam Plural é acolhimento e alerta em feira literária"](https://www.campograndenews.com.br/lado-b/diversao/performance-de-slam-plural-e-acolhimento-e-alerta-em-feira-literaria), *Campo Grande News*, 9 jul. 2023. Acesso em 29 out. 2026.
