@@ -14,12 +14,13 @@ A **Trupe Japuka** é um grupo circense de Dourados, apresentado pela imprensa d
 
 ## Trajetória
 
-A matéria do Campo Grande News de 29 de outubro de 2025 anunciava a apresentação de *Em busca do Japuka* na Praça do Leão, em Campo Grande, no sábado seguinte (1º de novembro), às 19h, com entrada gratuita. O espetáculo integrou o projeto Minha Praça é um Circo, da [[cia-pisando-alto|Cia. Pisando Alto]].[^cgn]
+A matéria do Campo Grande News de 29 de outubro de 2025 anunciava a apresentação de *Em busca do Japuka* na Praça do Leão, em Campo Grande, no sábado seguinte (1º de novembro), às 19h, com entrada gratuita. O espetáculo integrou o projeto Minha Praça é um Circo, da [[cia-pisando-alto|Cia. Pisando Alto]].[^cgn] O *Correio do Estado*, em 31 de outubro de 2025, também anunciou a apresentação para o dia seguinte, a partir das 19h, na Praça do Leão, com a Trupe Japuka, de Dourados, e citou os mesmos cinco nomes no elenco. A matéria diz que o projeto tinha recursos da Fundac e da PNAB.[^ce]
 
 A matéria cita no elenco Ludmila Lopes, Kelly Figueiredo, Junior de Oliveira, Wesley Prado e Nilce Maciel.[^cgn]
 
 ## Espetáculos
 
-- *Em busca do Japuka* (data de estreia não informada) — três palhaças e dois palhaços partem em busca de um tesouro, o Japuka, e descobrem a amizade e a alegria.[^cgn]
+- *Em busca do Japuka* (data de estreia não informada) — três palhaças e dois palhaços partem em busca de um tesouro, o Japuka, e descobrem a amizade e a alegria.[^cgn][^ce]
 
 [^cgn]: Thailla Torres, ["Espetáculo circense 'Em busca do Japuka' leva aventura à praça"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-circense-em-busca-do-japuka-leva-aventura-a-praca), *Campo Grande News*, 29 out. 2025. Acesso em 4 nov. 2026.
+[^ce]: Marcos Pierry, ["Com espetáculo circense e curtas de animação, a gurizada leva a melhor entre as opções gratuitas"](https://correiodoestado.com.br/correio-b/com-espetaculo-circense-e-curtas-de-animacao-a-gurizada-leva-a-melhor/456811/), *Correio do Estado*, 31 out. 2025. Acesso em 4 nov. 2026.

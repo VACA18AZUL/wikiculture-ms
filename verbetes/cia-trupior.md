@@ -12,13 +12,14 @@ A **Cia. TruPior** (também grafada **TruPior**) é uma companhia de palhaçaria
 
 ## Trajetória
 
-Em 2024, a companhia integrou a programação da mostra de palhaçaria [[mostra-de-palhacos-do-pantanal|Pantalhaços]], em Campo Grande, com o espetáculo *Pipockét Pernalhaça*. A apresentação estava marcada para 30 de maio, às 17h, no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^cgn2024]
+Em 2024, a companhia integrou a programação da mostra de palhaçaria [[mostra-de-palhacos-do-pantanal|Pantalhaços]], em Campo Grande, com o espetáculo *Pipockét Pernalhaça*. A apresentação estava marcada para 30 de maio, às 17h, no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]].[^cgn2024] A Fundação de Cultura de MS, em nota de 27 de maio de 2024, também listou a TruPior, de Dourados, com o mesmo espetáculo na quinta-feira, 30 de maio, às 17h, no Centro Cultural José Octávio Guizzo, dentro da 8ª edição da mostra, de 29 de maio a 2 de junho, com 13 espetáculos.[^fcms2024]
 
 Em junho de 2026, a TruPior foi citada, junto com o [[circo-le-chapeau|Circo Le Chapeau]], como grupo de Dourados que integra o [[coletivo-circo-estrada|Coletivo Circo Estrada]], criador do espetáculo *Do Céu ao Rio – Da Seca à Cheia*.[^cgn2026]
 
 ## Espetáculos
 
-- *Pipockét Pernalhaça* (programado para 30 de maio de 2024, na mostra Pantalhaços, em Campo Grande).[^cgn2024]
+- *Pipockét Pernalhaça* (programado para 30 de maio de 2024, na mostra Pantalhaços, em Campo Grande).[^cgn2024][^fcms2024]
 
 [^cgn2024]: Thailla Torres, ["Com 13 espetáculos, cidade será tomada por Festival de Palhaços"](https://www.campograndenews.com.br/lado-b/diversao/com-13-espetaculos-cidade-sera-tomada-por-festival-de-palhacos), *Campo Grande News*, 29 mai. 2024. Acesso em 4 nov. 2026.
+[^fcms2024]: Karina Medeiros de Lima, ["Com recursos do FIC, 8ª Edição da Pantalhaç@s retorna à Capital com cinco dias de muita arte e diversão"](https://www.fundacaodecultura.ms.gov.br/com-recursos-do-fic-8a-edicao-da-pantalhacs-retorna-a-capital-com-cinco-dias-de-muita-arte-e-diversao/), site da Fundação de Cultura de MS, 27 mai. 2024. Acesso em 4 nov. 2026.
 [^cgn2026]: Clayton Neves, ["Coletivo de circo leva lendas do Pantanal para bairros de Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/coletivo-de-circo-leva-lendas-do-pantanal-para-bairros-de-campo-grande), *Campo Grande News*, 18 jun. 2026. Acesso em 4 nov. 2026.

@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Curta de animação de Ara Martins sobre uma menina e o avô que a ensina a amar a natureza do Pantanal, exibido em escolas de Campo Grande em 2023 e selecionado para o Festival Curta Campo Grande de 2024.
 ficha:
   Direção: Ara Martins
-  Ano: "2023"
+  Primeira exibição: novembro de 2023
   Formato: Curta de animação, 10 min
 status: rascunho
 atualizado: 2026-11-04
