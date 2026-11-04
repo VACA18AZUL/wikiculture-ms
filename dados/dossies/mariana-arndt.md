@@ -52,3 +52,16 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Entrou tudo o que está em "Fatos". A citação da professora foi resumida, sem trechos literais. Ficaram fora formação e nome completo (não lidos).
+
+## Atualização de 2026-11-04 (r3-1)
+
+Fontes novas lidas (Fundação de Cultura de MS, órgão que administra o MARCO; veículo diferente do Campo Grande News):
+
+- Fundação de Cultura de MS, "Museu de Arte Contemporânea de MS reabre com a 1ª Temporada de Exposições 2022" (https://www.fundacaodecultura.ms.gov.br/museu-de-arte-contemporanea-de-ms-reabre-com-a-1a-temporada-de-exposicoes-2022/). Texto de divulgação idêntico ao da matéria do CGN nos trechos sobre a artista (citação de Kaimoti e fala da artista). Não conta como segunda fonte independente; entra como nota de reforço, com essa ressalva.
+- Karina Medeiros de Lima, "Noite de reabertura do MARCO foi de emoção com a 1ª Temporada de Exposições 2022", FCMS, 24 mar. 2022 (https://www.fundacaodecultura.ms.gov.br/noite-de-reabertura-do-marco-foi-de-emocao-com-a-1a-temporada-de-exposicoes-2022/). Reportagem do evento: reabertura em 24/03/2022; Mariana Arndt presente, com exposição de fotografias e instalações; inspiração em Douglas Diegues; relato de que, ao morar em Ponta Porã, observou violência contra a mulher e reuniu notícias; visitação até 5/6/2022.
+
+Mudança no verbete: a exposição deixou de ser só "anunciada" e passou a constar como aberta em 24/03/2022. Divergência de grafia: "Portunhol Selvagem Feminista" (CGN e divulgação) x "Portunhol Selvagens Feministas" (reportagem da abertura); registrada no verbete.
+
+Resolvido: realização da exposição (antes "incerto"). Continua incerto: cidade atual de atuação (a fonte só diz que morou em Ponta Porã), nome completo e formação (Escavador não lido). Telefone do programa educativo e demais dados de contato não usados.
+
+Busca no Correio do Estado por "Mariana Arndt": nada relevante.

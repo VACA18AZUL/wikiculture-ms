@@ -47,3 +47,9 @@ Dossiê apoiado em fonte única.
 ## Uso no verbete
 
 - Entrou tudo acima. Verbete curto por fonte única.
+
+## Atualização de 2026-11-04 (r3-3)
+
+Fonte nova lida: Karina Medeiros de Lima, "MARCO abre 1ª Temporada de Exposições 2019 na quarta-feira", Fundação de Cultura de MS, 11 jul. 2019, https://www.fundacaodecultura.ms.gov.br/marco-abre-1a-temporada-de-exposicoes-2019-na-quarta-feira/. É texto institucional (órgão gestor do MARCO), distinto do Campo Grande News. Sustenta: nome do artista e título da mostra, curso de Artes Visuais na UFMS, sala preta do MARCO, abertura em 18/7 (solenidade 17/7, 19h30), até 1º/9, entrada gratuita, esculturas de crítica ao governo e ao cotidiano, outras três mostras da temporada com títulos. Não informa o número de obras (o número 18 segue só na fonte do Campo Grande News). Sem divergências.
+
+Buscas feitas: Correio do Estado ("Aldo Torres": sem resultado do artista); FCMS ("Revolta da Escultura": uma matéria, a lida acima).

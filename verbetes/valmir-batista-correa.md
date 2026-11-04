@@ -19,7 +19,7 @@ atualizado: 2026-11-04
 
 Formou-se em História pela PUC-SP e fez mestrado (1976) e doutorado (1982) em História Econômica na USP.[^asl][^trilhas2015] A página da Academia dá 1970 como ano de conclusão da graduação; na entrevista à revista *Trilhas da História*, ele conta que ingressou na PUC-SP em 1970.[^asl][^trilhas2015]
 
-No começo dos anos 1970 foi contratado pelo Centro Pedagógico de Corumbá, da antiga Universidade Estadual de Mato Grosso. Aposentou-se como docente da Universidade Federal de Mato Grosso do Sul.[^trilhas2015] No campus de Corumbá, chefiou departamentos e coordenou o curso de História entre 1980 e 1996.[^asl]
+No começo dos anos 1970 foi contratado pelo Centro Pedagógico de Corumbá, da antiga Universidade Estadual de Mato Grosso. Aposentou-se como docente da Universidade Federal de Mato Grosso do Sul.[^trilhas2015] Em Corumbá, chefiou departamentos da universidade entre 1975 e 1996 e coordenou o curso de História.[^asl]
 
 Foi secretário municipal de Educação e Cultura de Corumbá entre 1979 e 1980, conselheiro estadual de Cultura em 1980-1981 e 1984-1985, e vereador em Corumbá de 1983 a 1992. Presidiu a Fundação Estadual Jornalista Luiz Chagas (Fertel), de rádio e TV educativa, em 2001 e 2002.[^asl][^trilhas2015]
 

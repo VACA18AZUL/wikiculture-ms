@@ -17,7 +17,7 @@ Em março de 2022, o *Campo Grande News* incluiu Mariana Arndt na 1ª Temporada 
 
 O museu reabriu na noite de 24 de março de 2022, e a Fundação de Cultura registrou a presença de Mariana Arndt na abertura, com a exposição de fotografias e instalações. A reportagem do órgão manteve a visitação até 5 de junho de 2022.[^fcms-noite]
 
-Ela apresentaria a exposição de fotografias "Portunhol Selvagem Feminista", descrita como série em construção. Para Ana Paula Macedo Cartapatti Kaimoti, professora do IFMS em Ponta Porã, a série retoma a geografia poética de [[douglas-diegues|Douglas Diegues]] sob uma perspectiva de gênero e troca as alusões à potência masculina da poesia dele por um mosaico de corpos e referências do qual surge a mulher da fronteira.[^cgn2022][^fcms-prog]
+Na divulgação, a exposição de fotografias "Portunhol Selvagem Feminista" foi descrita como série em construção. Para Ana Paula Macedo Cartapatti Kaimoti, professora do IFMS em Ponta Porã, a série retoma a geografia poética de [[douglas-diegues|Douglas Diegues]] sob uma perspectiva de gênero e troca as alusões à potência masculina da poesia dele por um mosaico de corpos e referências do qual surge a mulher da fronteira.[^cgn2022][^fcms-prog]
 
 Na noite de abertura, a artista disse que se inspirou em Douglas Diegues, poeta que mistura guarani, espanhol e português. Contou que, ao morar em Ponta Porã, notou muita violência contra a mulher e impunidade, e que reuniu notícias sobre o tema; segundo ela, os versos dialogam com as fotografias na exposição.[^fcms-noite]
 

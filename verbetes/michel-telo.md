@@ -16,13 +16,13 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Michel Teló** é um cantor, compositor e sanfoneiro nascido em Medianeira (PR), em 21 de janeiro de 1981. Ainda pequeno, mudou-se com a família para Campo Grande.[^cravo]
+**Michel Teló** é um cantor, compositor e sanfoneiro nascido em Medianeira (PR), em 21 de janeiro de 1981. Ainda criança, foi morar em Campo Grande.[^cravo]
 
 ## Trajetória
 
 Segundo o *Dicionário Cravo Albin da Música Popular Brasileira*, começou a cantar profissionalmente aos doze anos, no Grupo Guri, com o músico e produtor Ivan Myazato. Integrou também o Grupo Bailanta, que tocava música tradicional do Sul no Paraná e em Santa Catarina, e, ainda adolescente, montou com Myazato a banda Santo Chão, em Campo Grande.[^cravo]
 
-Em seguida entrou para o [[tradicao|Grupo Tradição]], de Campo Grande, como vocalista, sanfoneiro e compositor. O dicionário registra que ele ficou doze anos no grupo, foi responsável pela produção musical de todos os seus discos e compôs canções como "O caldeirão", "Pra sempre minha vida", "A brasileira" e "Eu quero você". No mesmo período, manteve um estúdio em Campo Grande, onde produzia discos de outros artistas.[^cravo]
+Em seguida entrou para o [[tradicao|Grupo Tradição]], de Campo Grande, como vocalista, sanfoneiro e compositor. O dicionário registra que ele ficou doze anos no grupo, produziu musicalmente todos os discos do conjunto e compôs canções como "O caldeirão", "Pra sempre minha vida", "A brasileira" e "Eu quero você". No mesmo período, manteve um estúdio em Campo Grande, onde produzia discos de outros artistas.[^cravo]
 
 Em entrevista reproduzida na dissertação de Rodrigo Teixeira Gonçalves, Teló conta que a ideia de misturar vanerão e axé surgiu a partir do primeiro CD ao vivo do Tradição, com a percussão de Wlajones de Carvalho. A dissertação registra que ele foi um dos sócios da gravadora Panttanal e que, em 2009, deixou o grupo para seguir carreira solo, mantendo a mesma fórmula, que chama de "vanerão pop", em músicas como "Ei, Psiu, Beijo Me Liga", "Fugidinha" e "Ai Se Eu Te Pego". O autor aponta Michel Teló e Gerson Douglas como sanfoneiros de destaque do grupo.[^ufms]
 
@@ -53,4 +53,4 @@ O disco *Baile do Teló* (2015) teve participação de ex-integrantes do Tradiç
 - *Bem sertanejo – o musical* (2017) — atuação; direção, texto e roteiro musical de Gustavo Gasparani.[^cravo]
 
 [^cravo]: ["Michel Teló"](https://dicionariompb.com.br/artista/michel-telo/), *Dicionário Cravo Albin da Música Popular Brasileira*, Instituto Cultural Cravo Albin, sem data na página. Acesso em 4 nov. 2026.
-[^ufms]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2014, p. 59-60 e 69. Acesso em 4 nov. 2026.
+[^ufms]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2014, p. 60-61 e 69. Acesso em 4 nov. 2026.

@@ -18,7 +18,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2017, os integrantes se mudaram para São Paulo. Durante a pandemia, parte deles voltou a Campo Grande, e em 2022 dois moravam na capital sul-mato-grossense e três em São Paulo. A banda passou a se reunir em viagens para compor e fazer shows, e a gravar parte do trabalho em estúdio caseiro.[^cgn2022]
+Em 2017, os integrantes se mudaram para São Paulo. Durante a pandemia, parte deles voltou a Campo Grande, e em 2022 dois moravam na capital sul-mato-grossense e três em São Paulo. Segundo o baterista, as viagens a São Paulo servem para compor e produzir, as vindas a Campo Grande, para marcar shows, e um estúdio em casa evita que a banda dependa de tocar sempre reunida.[^cgn2022]
 
 Na mesma reportagem, o grupo aparece produzindo no Estúdio 45 o EP *Fase Cinza*, com lançamento anunciado e temas ligados à pandemia. O texto diz que a banda completava dez anos em 2022; a legenda da foto fala em nove anos.[^cgn2022]
 

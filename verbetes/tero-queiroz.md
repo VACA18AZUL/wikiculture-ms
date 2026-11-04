@@ -13,7 +13,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Começou no cinema aos 17 anos. Atuou em *A Vez de Matar, a Vez de Morrer*, [[madalena-longa|*Madalena*]] e *Não Devore Meu Coração*, e fez o personagem Well na série *Insustentáveis*. Na TV Globo, interpretou um peão na novela *Pantanal* e apareceu no oitavo capítulo de *Terra e Paixão*, exibido em 16 de maio de 2023, como funcionário de fazenda numa cena com Cauã Reymond.[^cgn2023a]
+Começou no cinema aos 17 anos. Atuou em *A Vez de Matar, a Vez de Morrer*, *Madalena* (que a matéria diz estar na Netflix) e *Não Devore Meu Coração*, e fez o personagem Well na série *Insustentáveis*. Na TV Globo, interpretou um peão na novela *Pantanal* e apareceu no oitavo capítulo de *Terra e Paixão*, exibido em 16 de maio de 2023, como funcionário de fazenda numa cena com Cauã Reymond.[^cgn2023a]
 
 Em 2023, protagonizou e foi assistente de direção de *Gado Novo*, curta do diretor paulista Beto Brant filmado em Costa Rica (MS) e desenvolvido em parceria com Tero. O filme mistura documentário e ficção: histórias de mulheres do campo e de conflitos entre peões e ladrões de gado ao lado do drama de um jovem que foge de um passado violento. Estreou no 34º Festival Internacional de Curtas Metragens de São Paulo, o Curta Kinoforum.[^cgn2023b]
 
@@ -25,7 +25,7 @@ Em julho de 2020, anunciou o lançamento de *Chinelo de Dedo*, seu segundo rap, 
 
 ## Filmografia
 
-- [[madalena-longa|*Madalena*]] — longa; atuação.[^cgn2023a]
+- *Madalena* — atuação.[^cgn2023a]
 - *Gado Novo* (2023) — curta, doc-ficção, direção de Beto Brant; atuação (protagonista) e assistência de direção.[^cgn2023b]
 - *Amoitado* (2026) — curta; roteiro e direção, codireção de [[aly-freitas|Aly Freitas]].[^ce2026]
 
