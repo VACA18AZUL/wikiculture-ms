@@ -23,7 +23,7 @@ A produção envolveu diretamente mais de 60 profissionais, todos de Mato Grosso
 
 ## Exibição
 
-O filme foi lançado em 4 de outubro de 2015, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], no Parque das Nações Indígenas, com público estimado pela FCMS em cerca de 200 pessoas.[^fcms2015b] No mesmo ano, foi exibido no [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema de Ivinhema]].[^fcms2015c] Em 2016, foi selecionado na categoria longa-metragem para o [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^fcms2016]
+O filme foi lançado em 4 de outubro de 2015, na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], no Parque das Nações Indígenas, com público estimado pela FCMS em cerca de 200 pessoas.[^fcms2015b] No mesmo ano, foi exibido no festival de cinema de Ivinhema, que comemorava 12 anos.[^fcms2015c] Em 2016, foi selecionado na categoria longa-metragem para o [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^fcms2016]
 
 Em agosto de 2019, teve sessão no Cinépolis do Shopping Norte Sul Plaza, em Campo Grande, dentro do projeto "Escola e Cinema", dos produtores.[^fcms2019] Em agosto de 2026, alunos de 8 a 12 anos da Escola Municipal Professor Licurgo de Oliveira Bastos assistiram ao filme em sessões gratuitas no mesmo cinema, pelo projeto Lendas Pantaneiras Escola & Cinema, contemplado pelo Fundo Municipal de Investimentos Culturais (FMIC/2024).[^acritica2026]
 
@@ -37,7 +37,7 @@ Em agosto de 2019, teve sessão no Cinépolis do Shopping Norte Sul Plaza, em Ca
 - Direção de fotografia: [[marcio-padilha|Márcio Padilha]][^fcms2015a]
 - Edição e efeitos visuais: [[flavio-sobreira|Flávio Sobreira]] e [[kojiro|Kojiroh]][^fcms2015a]
 - Trilha sonora: [[marcelo-loureiro|Marcelo Loureiro]], [[yan-braga|Yan Braga]], [[adilson-silva|Adilson Silva]], [[bruno-sutter|Bruno Sutter]] e [[anderson-black|Anderson Black]][^fcms2015a]
-- Elenco: [[thiago-moura|Thiago Moura]] (Valdevino), [[isac-zampieri|Isac Zampieri]] (Zé Gomes), [[espedito-di-montebranco|Espedito Di Montebranco]], [[bruno-moser|Bruno Moser]], [[anderson-black|Anderson Black]], [[philipe-faria|Philipe Faria]], [[yan-braga|Yan Braga]], [[jurema-de-castro|Jurema de Castro]], [[renata-macedo|Renata Macedo]], [[priscila-godoy|Priscila Godoy]], [[leandro-marques|Leandro Marques]] e outros[^fcms2015a]
+- Elenco: [[thiago-moura|Thiago Moura]] (Valdevino), [[isac-zampieri|Isac Zampieri]] (Zé Gomes), [[espedito-di-montebranco|Espedito Di Montebranco]], [[bruno-moser|Bruno Moser]], [[anderson-black|Anderson Black]], Philipe Faria, [[yan-braga|Yan Braga]], [[jurema-de-castro|Jurema de Castro]], [[renata-macedo|Renata Macedo]], [[priscila-godoy|Priscila Godoy]], [[leandro-marques|Leandro Marques]] e outros[^fcms2015a]
 - Participação especial: [[marcelo-loureiro|Marcelo Loureiro]], [[paulo-simoes|Paulo Simões]], [[marcio-de-camillo|Márcio De Camillo]], Douglas Santos, Loester Souza e Stephan Hoffman[^fcms2015a]
 - Produtora: [[render-brasil-producoes|Render Brasil Produções]][^fcms2015a]
 

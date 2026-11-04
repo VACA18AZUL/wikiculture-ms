@@ -36,3 +36,8 @@
 ## Uso no verbete
 
 - Tudo; elenco como o da 2ª temporada.
+
+## Atualização de 2026-11-04
+
+- Revisão: o relato FCMS de 4 maio 2018 escreve "estreou na noite desta quinta-feira (04.05)"; o anúncio de 26 abr. marcava a estreia para quinta (3). A quinta-feira era 3 de maio; a data "04.05" parece erro do texto. O verbete cita as duas versões, sem escolher.
+- Foyer: era descrição do diretor no anúncio (FCMS 26 abr. 2018); atribuído.

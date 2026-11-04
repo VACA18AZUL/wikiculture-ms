@@ -23,7 +23,7 @@ O espetáculo, de cerca de 45 minutos, é formado por quadros sobre intolerânci
 
 ## Temporadas
 
-A estreia foi no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. O anúncio marcava a primeira sessão para 3 de maio de 2018, com apresentações até o dia 6; o relato publicado pela Fundação em 4 de maio diz que a peça estreou "nesta quinta-feira (04.05)", embora a quinta-feira daquela semana fosse 3 de maio.[^fcms2018a][^fcms2018b]
+A estreia foi no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. O anúncio marcava a primeira sessão para 3 de maio de 2018, com apresentações até o dia 6; o relato publicado pela Fundação em 4 de maio diz que a peça estreou "nesta quinta-feira (04.05)".[^fcms2018a][^fcms2018b]
 
 A segunda temporada foi anunciada para 7 a 10 de novembro de 2018, no Teatro Prosa do Sesc Horto, com entrada gratuita, em parceria com o Sesc Mato Grosso do Sul. O elenco divulgado era formado por Amanda Dim, Alexandre Melo, Daniele Samara, Leandro Faria, Ethieny Karen, Richard Lima e João Arce, com a voz de Aline Duenha.[^fcms2018c] Segundo o *Campo Grande News*, o espetáculo foi apresentado 20 vezes.[^cgn2023]
 
