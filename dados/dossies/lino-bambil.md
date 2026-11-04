@@ -16,7 +16,9 @@
 | fcms2019 | FCMS, "Pavilhão de Economia Criativa do Festival alia diversidade cultural à sustentabilidade", 8 jul. 2019 | https://www.fundacaodecultura.ms.gov.br/pavilhao-de-economia-criativa-do-festival-alia-criatividade-e-diversidade-cultural-a-sustentabilidade/ | institucional | sim |
 | opantaneiro2021 | Kamila Alcântara, "Fim de semana com programação especial no Espaço Cultural Raiz", O Pantaneiro, 1º out. 2021 | https://www.opantaneiro.com.br/aquidauana/2021/10/01/fim-de-semana-com-programacao-especial-no-espaco-cultural-raiz.html | imprensa | sim |
 
-Fontes não abertas: Correio do Estado, Correio B, 30 maio 2020 (obituário, url_fonte da lista-mestra) — HTTP 500 em curl e WebFetch nesta sessão. Data de morte, idade, TVE/Fertel desde 1998, entalhe em madeira e Praça dos Imigrantes ficam fora até a matéria abrir.
+| ce2020 | Daiany Albuquerque, "Artista plástico e cinegrafista da TVE morre na Capital", Correio do Estado, Correio B, 30 maio 2020 | https://correiodoestado.com.br/correio-b/2020/05/30/artista-plastico-e-cinegrafista-da-tve-morre-na-capital.html | imprensa | sim (aberta por WebFetch após HTTP 500 inicial; frases literais) |
+
+ce2020: nome completo Lino Bambil Vergilino Lopes; 59 anos; morreu em 29 maio 2020 em Campo Grande; artesão, artista plástico, repórter cinematográfico da TVE Cultura MS; arte há mais de 40 anos; expunha na Praça dos Imigrantes; obras talhadas em madeira com fauna sul-mato-grossense; servidor de carreira do governo desde 1998. Filhas: fora (família).
 
 ## Fatos, com fonte
 

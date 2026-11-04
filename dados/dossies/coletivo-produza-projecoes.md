@@ -34,3 +34,17 @@ Pista não independente: O Pantaneiro (https://www.opantaneiro.com.br/bonito/col
 ## Situação
 
 - Só fontes do governo do estado. Falta segunda fonte de outro veículo; verbete não redigido.
+
+## Segunda fonte (d1-2, 2026-11-04)
+
+| id | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| oe2020 | Leo Ribeiro, "Gravação do DVD de Renatto Jackson aconte no domingo (2)", O Estado MS, 31/01/2020 | https://oestadoonline.com.br/arte-e-lazer/gravacao-de-dvd-de-renatto-jackson-aconte-no-domingo-2/ | imprensa (entrevista própria) | sim |
+
+- oe2020: Renatto Jackson cita "o Buguinha, do Produza" entre os que trabalharam no CD/DVD Verão e "a Produza, que é o pessoal que grava"; gravação marcada para 02/02/2020 no pub Paraíba 73 (anúncio: o verbete diz "marcada").
+- O Estado MS, 23/08/2025 (Carolina Rampi, "Coletivo Produza Projeções celebra 10 anos!") e 27/08/2021 reproduzem os textos da FCMS (mesmas falas): não independentes, não citados.
+- Busca CGN ("Produza", "Buguinha", "Produza Projeções") e A Crítica: nada pertinente. Buguinha Dub (produtor do BaianaSystem) é outra pessoa.
+
+## Uso no verbete (d1-2)
+
+- Verbete redigido com oe2020 (fonte independente) e fcms2021, fcms2025a-c. Fundador "Cleverson de Oliveira" e videomaker "Cleverson Rojas" mantidos separados, cada um com sua fonte. Os quatro atos de comemoração (Japa Conveniência, Feira Ziriguidum, Degrau Estúdio) ficaram de fora: anúncio.

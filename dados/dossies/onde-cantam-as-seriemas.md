@@ -25,3 +25,8 @@
 ## Uso no verbete
 
 O resto entrou.
+
+## Atualização de 2026-11-04 (validação)
+
+- amarilha: Carlos Magno Mieres Amarilha, Os intelectuais e o poder, dissertação UFGD 2006, p. 136 (PDF p. 137), https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf — relação das obras dos sócios da ALH-CG feita por Otávio Gonçalves Gomes: "Onde Cantam as Seriemas", memórias, regionalismo, 1975. Entrou no verbete como "segundo Gomes, citado por Amarilha".
+- Russo cita Bungart Neto por um capítulo de livro de 2009 (não pelo artigo da Raído de 2008); verbete ajustado.
