@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***Cordilheira de Amora II*** é um curta-metragem de [[jamille-fortunato|Jamille Fortunato]]. Segundo artigo acadêmico de 2021, foi produzido em 2015 na vila indígena de Amambai, em Mato Grosso do Sul, e tem como personagem principal uma menina Guarani Kaiowá, Carine Martines.[^avanca]
+***Cordilheira de Amora II*** é um curta-metragem de [[jamille-fortunato|Jamille Fortunato]]. Segundo artigo acadêmico de 2021, foi produzido em 2015 na vila indígena de Amambai, em Mato Grosso do Sul, e tem como personagem principal uma menina Guarani Kaiowá.[^avanca]
 
 ## Sobre o filme
 
@@ -29,5 +29,5 @@ O artigo de Gregorio Galvão de Albuquerque, publicado na revista *Avanca | Cine
 
 [^avanca]: Gregorio Galvão de Albuquerque, ["Cordilheira de amoras II e o extracampo imaginário social no exercicio da fotografia do invisivel"](https://publication.avanca.org/index.php/avancacinema/article/download/287/560), *Avanca | Cinema*, 2021. Acesso em 4 nov. 2026.
 [^uai2016]: ["'Chatô - O rei do Brasil' recebe cinco troféus no Grande Prêmio do Cinema Brasileiro"](https://www.uai.com.br/app/noticia/cinema/2016/10/05/noticias-cinema,195174/conheca-os-vencedores-do-grande-premio-brasil-do-cinema-brasileiro.shtml), *Uai*, 5 out. 2016. Acesso em 4 nov. 2026.
-[^cgn2023]: Thailla Torres, ["Confira os premiados do primeiro festival de cinema de Bonito"](https://www.campograndenews.com.br/lado-b/diversao/confira-os-premiados-do-primeiro-festival-de-cinema-de-bonito), *Campo Grande News*, 13 nov. 2023. Acesso em 4 nov. 2026.
+[^cgn2023]: Thailla Torres, ["Confira os premiados do primeiro Festival de Cinema de Bonito"](https://www.campograndenews.com.br/lado-b/diversao/confira-os-premiados-do-primeiro-festival-de-cinema-de-bonito), *Campo Grande News*, 13 nov. 2023. Acesso em 4 nov. 2026.
 [^cgn2024]: Thailla Torres, ["Cineclube anuncia oficinas pela retomada do cinema em Corumbá"](https://www.campograndenews.com.br/lado-b/diversao/cineclube-anuncia-oficinas-pela-retomada-do-cinema-em-corumba), *Campo Grande News*, 11 set. 2024. Acesso em 4 nov. 2026.

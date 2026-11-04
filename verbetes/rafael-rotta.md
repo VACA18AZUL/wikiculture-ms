@@ -2,7 +2,7 @@
 titulo: Rafael Rotta
 tipo: pessoa
 areas: [audiovisual]
-resumo: Realizador de Mato Grosso do Sul, um dos diretores de Natasha, premiado no Bonito CineSur 2026, e corealizador, com Thiago Rotta, do curta Viva a capoeira – A história do mestre Guerreiro.
+resumo: Realizador audiovisual, um dos diretores do filme sul-mato-grossense Natasha, premiado no Bonito CineSur 2026, e corealizador, com Thiago Rotta, do curta Viva a capoeira – A história do mestre Guerreiro.
 ficha:
   Atividade: Cinema
 status: rascunho

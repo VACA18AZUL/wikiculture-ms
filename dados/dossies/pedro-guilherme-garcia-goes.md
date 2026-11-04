@@ -22,3 +22,9 @@ Fonte aberta sem menção a ele: Aletheya Alves, "Confraria Sociartista fará ex
 - Exposição *Piracema*: a matéria é do dia da abertura e a anuncia; texto mudou de "foi realizada" para "foi marcada".
 - Links internos para confraria-sociartista e o-beijo-escultura.
 - Segunda fonte não encontrada; a cota de buscas na web da rodada se esgotou. Procurar notas de falecimento (nov. 2025) no Correio do Estado, Midiamax e na Prefeitura de Campo Grande.
+
+## Atualização de 2026-11-04 (reforço r-4)
+
+- Quatro buscas abertas (Pedro Guilherme + Coxim/Lago do Amor/Piracema/morte). Só apareceu o Campo Grande News (a mesma matéria já citada). Nenhuma nota de Midiamax, Correio do Estado ou Prefeitura foi encontrada.
+- Os resultados de busca indicam outra matéria do Campo Grande News, sobre a morte (quinta-feira, 20 de novembro de 2025), mas a URL não foi localizada nem aberta; mesmo veículo, não serve como fonte independente. Não entrou no verbete.
+- Nada alterado no verbete. Situação: reforçar. Próximo passo: abrir a nota de falecimento do CGN (data exata da morte) e procurar cobertura da Fundação de Cultura de MS ou da Prefeitura.
