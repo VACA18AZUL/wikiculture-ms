@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***O Cravo e a Rosa*** é uma animação de [[isabelle-silva|Isabelle Silva]] e [[miya-miyashiro|Miya Miyashiro]], cineastas formadas no [[curso-de-audiovisual-da-ufms|curso de Audiovisual]] da [[ufms|UFMS]]. O título aparece nas fontes como *O Cravo e a Rosa*, *Cravo e a Rosa* e *Craveiro Rosa*.[^cgn2026a][^ufms2026][^cgn2026b]
+***O Cravo e a Rosa*** é uma animação de [[isabelle-silva|Isabelle Silva]] e [[miya-miyashiro|Miya Miyashiro]], cineastas egressas do [[curso-de-audiovisual-da-ufms|curso de Audiovisual]] da [[ufms|UFMS]]. O título aparece nas fontes como *O Cravo e a Rosa*, *Cravo e a Rosa* e *Craveiro Rosa*.[^cgn2026a][^ufms2026][^cgn2026b]
 
 ## Produção
 

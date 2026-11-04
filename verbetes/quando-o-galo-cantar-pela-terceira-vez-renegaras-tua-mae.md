@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Enredo e produção
 
-O filme se passa no apartamento do zelador de um prédio da zona sul do Rio de Janeiro. Zaira, vivida por Catarina Abdalla, cuida do marido doente e entra em conflito com o filho, Inácio, porteiro do mesmo prédio, vivido por Fernando Alves Pinto. A *Folha de S.Paulo* classificou o longa como suspense e o avaliou como ruim.[^folha2017]
+O filme se passa no apartamento do zelador de um prédio da zona sul do Rio de Janeiro. Zaira, vivida por Catarina Abdalla, vive em conflito com o filho, Inácio, porteiro do mesmo prédio, vivido por Fernando Alves Pinto. A *Folha de S.Paulo* descreveu o longa como suspense e o avaliou como ruim.[^folha2017] O diretor diz ter optado pelo suspense por gosto pelo gênero.[^papo2017]
 
 Segundo o diretor, os diálogos vieram de discussões que ele ouvia de vizinhos. O roteiro levou quase três anos para ser escrito e nasceu como projeto de curta. As filmagens duraram quatro dias, com orçamento baixo, e mais três dias foram filmados depois de um primeiro corte de 46 minutos.[^papo2017]
 
