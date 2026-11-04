@@ -16,7 +16,7 @@ O **Encontro do Proler** é um evento anual de Campo Grande ligado ao Programa N
 
 ## Organização
 
-Em 2009, o *Correio do Estado* informou que o encontro era feito pelo Comitê do Proler, formado pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] em convênio com a Fundação Biblioteca Nacional.[^ce2009] Em 2016, a Fundação descreveu o comitê como um grupo de voluntários, entre professores universitários, bibliotecários e instituições, que atuava havia 17 anos no estado.[^fcms2016a] Nos anos 2010 e 2020, a coordenação esteve com Melly Sena, do núcleo de livro, leitura e literatura da Fundação.[^fcms2018][^fcms2024]
+Em 2009, o *Correio do Estado* informou que o encontro era feito pelo Comitê do Proler, formado pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] em convênio com a Fundação Biblioteca Nacional.[^ce2009] Em 2016, a Fundação descreveu o comitê como um grupo de voluntários, entre professores universitários, bibliotecários e instituições, que atuava havia 17 anos no estado.[^fcms2016a] Em 2018 e em 2024, a coordenação do comitê era de Melly Sena, da Fundação de Cultura.[^fcms2018][^fcms2024]
 
 O encontro costuma ocorrer junto com o Encontro Estadual do Sistema de Bibliotecas Públicas.[^ce2008][^fcms2015][^fcms2019]
 

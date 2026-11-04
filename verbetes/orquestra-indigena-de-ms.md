@@ -22,7 +22,7 @@ Em agosto de 2023, o [[encontro-com-a-musica-classica|Encontro com a Música Cl�
 
 Em agosto de 2024, no Festival de Inverno de Bonito, a orquestra tocou com 18 integrantes no projeto Catedral Erudita, do lado de fora da Igreja Matriz de Bonito, em uma noite fria. O programa abriu com o poema sinfônico *Uirapuru*, de Heitor Villa-Lobos, e incluiu *Trem do Pantanal*, de [[paulo-simoes|Paulo Simões]] e [[geraldo-roca|Geraldo Roca]], *Chalana* e *Mercedita*, além de canções de Dorival Caymmi, Baden Powell e Luiz Gonzaga. Os instrumentos iam do violino ao berimbau, com violão, pandeiro, tambor e chocalho.[^fcms2024]
 
-Em abril de 2025, a orquestra se apresentou no Teatro Aracy Balabanian, no Centro Cultural José Octávio Guizzo, em Campo Grande, em uma etapa da criação de *Arapy Aguasu – Sinfonia entre Dois Mundos*, espetáculo idealizado por Martinelli e pelo madeirense Norberto Cruz com músicos da Ilha da Madeira. Na data, a fundação anunciava uma turnê por Lisboa, Madeira e Barcelona entre agosto e setembro de 2025.[^fcms2025a]
+Para 16 de abril de 2025, a Fundação de Cultura anunciou uma apresentação da orquestra no Teatro Aracy Balabanian, no Centro Cultural José Octávio Guizzo, em Campo Grande, como etapa da criação de *Arapy Aguasu – Sinfonia entre Dois Mundos*, espetáculo idealizado por Martinelli e pelo madeirense Norberto Cruz com músicos da Ilha da Madeira. Na data, a fundação anunciava uma turnê por Lisboa, Madeira e Barcelona entre agosto e setembro de 2025.[^fcms2025a]
 
 Em setembro de 2025, a orquestra participou do videoclipe de *Mãe*, da cantora guarani kaiowá [[anaranda|MC Anarandà]], sob regência de Martinelli, que assinou os arranjos com instrumentistas terena do grupo.[^fcms2025b]
 
