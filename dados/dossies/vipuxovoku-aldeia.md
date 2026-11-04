@@ -12,7 +12,7 @@
 
 | id da nota | Referência completa | URL | Tipo | Entra? |
 |---|---|---|---|---|
-| cgn2025 | Thailla Torres, "Filme indígena de MS é selecionado para prestigiado festival no Rio de Janeiro", Campo Grande News, 10 abr. 2025 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filme-de-ms-e-selecionado-para-um-dos-maiores-festivais-da-america-latina | imprensa | sim |
+| cgn2025 | Thailla Torres, "Filme de MS é selecionado para um dos maiores festivais da América Latina", Campo Grande News, 10 abr. 2025 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filme-de-ms-e-selecionado-para-um-dos-maiores-festivais-da-america-latina | imprensa | sim |
 | curtacinema2025 | Curta Cinema, página do filme "Vípuxovoku – Aldeia", 34ª edição (2025) | https://curtacinema.com.br/vipuxovoku-aldeia/ | institucional | sim |
 
 Fontes descartadas e o motivo:

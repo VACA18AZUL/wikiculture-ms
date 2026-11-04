@@ -3,10 +3,10 @@ titulo: A Menina e a Árvore (animação)
 tipo: obra
 areas: [audiovisual]
 cidade: Campo Grande
-resumo: Curta de animação de Ara Martins sobre uma menina e o avô que a ensina a amar a natureza do Pantanal, exibido em escolas de Campo Grande em 2023 e selecionado para o Festival Curta Campo Grande de 2024.
+resumo: Curta de animação de Ara Martins sobre uma menina e o avô que a ensina a amar a natureza do Pantanal, com exibições anunciadas em escolas de Campo Grande em 2023 e selecionado para o Festival Curta Campo Grande de 2024.
 ficha:
   Direção: Ara Martins
-  Primeira exibição: novembro de 2023
+  Ano: "2023"
   Formato: Curta de animação, 10 min
 status: rascunho
 atualizado: 2026-11-04
@@ -16,7 +16,7 @@ atualizado: 2026-11-04
 
 ## Exibições
 
-Em novembro de 2023, o filme circulou por duas escolas da Rede Municipal de Ensino de Campo Grande na Semana Manoel de Barros, de 20 a 24 de novembro, com atividades sobre poemas do autor e distribuição de sementes de árvores nativas do Pantanal. A obra tem Libras, audiodescrição e legendas descritivas. O projeto foi financiado pelo Fundo Municipal de Investimentos Culturais (FMIC), da Secretaria de Cultura e Turismo de Campo Grande.[^cgn2023]
+Em novembro de 2023, o Campo Grande News anunciou sessões do filme em duas escolas da Rede Municipal de Ensino de Campo Grande durante a Semana Manoel de Barros, de 20 a 24 de novembro, com atividades sobre poemas do autor e distribuição de sementes de árvores nativas do Pantanal. A obra tem Libras, audiodescrição e legendas descritivas. O projeto foi financiado pelo Fundo Municipal de Investimentos Culturais (FMIC), da Secretaria de Cultura e Turismo de Campo Grande.[^cgn2023]
 
 Em outubro de 2024, o curta, com 10 minutos, foi selecionado para a mostra Curta MS do 1º [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^cgn2024][^ce2024]
 

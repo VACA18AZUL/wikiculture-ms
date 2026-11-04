@@ -13,3 +13,7 @@ Busca de segunda fonte: o orçamento de busca na web da sessão se esgotou antes
 Sugestões: Rodrigo Teixeira Gonçalves (UFMS, 2014) sobre música paraguaia em MS; imprensa de Três Lagoas; acervo de Ramão Martins (origem do disco digitalizado).
 
 Continua com fonte única.
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Busca aberta com Três Lagoas e Moacir: nenhum resultado sobre o conjunto. Surge um CGN sobre festival de chamamé com o músico Moacir Saturnino de Lacerda (sem ligação demonstrada com o conjunto; não aberto). Nada mudou.

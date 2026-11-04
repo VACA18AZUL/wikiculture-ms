@@ -11,3 +11,7 @@ Busca de segunda fonte: não feita; o limite de buscas da rodada esgotou antes d
 Quatro buscas abertas ("Orquestra Guaicurus" / "Orquestra Guaicurús" com "Maestro Assis"; "Maestro Assis" com nome civil, saxofone, flauta e Banda da PM; títulos "Tributo à Boa Música" e "Play Five Instruments"): nenhum resultado sobre a orquestra ou o maestro. Só homônimos (Consórcio Guaicurus, Ordem Guaicurus do Mérito, Victor Assis Brasil, Assis Brasil). O verbete continua com fonte única (descrição e playlist do Acervo Digital Memória Fonográfica de MS). Nada mudou no texto.
 
 Pistas ainda não tentadas: Discogs/catálogos de selos para "Compact Disc Industrial MA 002 - Elohim"; arquivos de jornal de Campo Grande de 2003 (lançamento do CD); Banda da Polícia Militar de MS e Orquestra Sinfônica de Campo Grande (histórico institucional, para o vínculo de Assis).
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Busca aberta ("Maestro Assis", Orquestra Guaicurus, *Tributo à Boa Música*): só homônimos (Victor Assis Brasil, Ordem Guaicurus do Mérito, Orquestra Sinfônica Municipal sob Eduardo Martinelli). Nada mudou.

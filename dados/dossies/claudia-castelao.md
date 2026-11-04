@@ -25,3 +25,12 @@ Fontes novas abertas e lidas:
 - Deixados de fora por serem dados pessoais: local de nascimento e família, que a página da loja traz.
 - Não serviram: MS Notícias (22 nov. 2013, Brasil Original/Sebrae) só cita "Flor de Xaraés" numa legenda, sem o nome dela; artenata.com.br não resolve na rede da sessão; resultados sobre a mostra "Mulher Artesã Brasileira" na ONU referem-se a outro evento (Abexa), sem ligação com ela.
 - Continua sem segunda fonte jornalística sobre a mostra "MS Visto Pelo Mundo" em Nova Iorque (2014).
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte jornalística: não encontrada. Nada de novo sustentado.
+
+- Buscas abertas (Flor de Xaraés; Semana do Artesão 2024; fundação de cultura): só voltam as matérias do Campo Grande News já citadas e a página GlobeIn/Novica.
+- Abertas e sem menção a ela: Samanta Sallum, "Do cerrado ao pantanal, pelo artesanato", Correio Braziliense (blog), 14 ago. 2022; Agência Sebrae, "No Salão do Turismo 2025..." (sobre outra pessoa); Clayton Neves, "Semana do Artesão abre mostrando como tem gente talentosa em MS", CGN, 19 mar. 2026 (cita "Flor de Pequi", não ela).
+- Não abertos (403 ou 404): Midiamax, exposição Florarium (2026); release Sebrae "Curvas Pantaneiras" (docx, 404).
+- Ajuste: removida do verbete a frase sobre o que a matéria de 2014 não informa (cidade e trajetória).

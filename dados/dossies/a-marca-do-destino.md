@@ -54,3 +54,10 @@ Nenhuma.
 
 - Corrigido: Páginas corrigidas (55, 101, 130-131, 138, 155).
 - Atenção: Fonte única (Diehl). Busca de segunda fonte (6 buscas: títulos dos filmes, Couto/Dorval, 'filme sertanejo', revista Rebeca/Socine baixada e conferida): nada além da própria dissertação e da matéria de 2013 sobre *Honra*.
+
+## Atualização de 2026-11-04 (r2-1)
+
+Fonte nova aberta e lida: Thaís Pimenta, "Índio é memória viva do cinema, guardada em cada cartaz de filme pintado por ele", CGN, 15 abr. 2018 (https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/indio-e-memoria-viva-do-cinema-guardada-em-cada-cartaz-de-filme-pintado-por-ele).
+
+- Sustenta só contexto: Alexandre Couto faz filmes por conta própria desde o fim dos anos 1970; sete trabalhos autoproduzidos e um a caminho. Não cita *A Marca do Destino*, nem Dorval, Rondon ou produtoras. Entrou como seção "Contexto". O filme em si segue com fonte única (Diehl).
+- Paula Maciulevicius, "Por uma questão de honra...", CGN, 10 jul. 2013 (*Honra*): sobre outro filme; não serviu.

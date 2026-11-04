@@ -11,3 +11,7 @@ Segunda fonte: não buscada; a cota de buscas na web desta rodada acabou. Pista:
 ## Atualização de 2026-11-04 (reforço r-4)
 
 - Duas buscas abertas (variações de grafia do nome e "Paizinho e Florito LP 1974 Discos CGS"): nenhum resultado sobre a dupla ou o selo fora do acervo já citado. Nada alterado no verbete; segue "reforcar". Pistas: discogs/colecionadores de discos regionais, acervo Memória Fonográfica (outra playlist, de 1988, citada na lista-mestra), pesquisas da UFMS sobre música regional.
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Busca aberta por "Paizinho e Florito" / "Omil e Ozeas" com LP 1974 e CGS: só duplas homônimas e discos sem relação. Nada mudou.

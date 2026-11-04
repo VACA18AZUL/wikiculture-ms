@@ -22,3 +22,7 @@ Dossiê criado em 2026-11-04 (reforço r-1), só com o que foi apurado.
 - Resultados lidos só no resumo e sem relação: festivais de teatro de Dourados (FIT, 2019 e 2025), Núcleo de Artes Cênicas da UFGD.
 - Verbete não mudou; segue com fonte única (dissertação de integrante do elenco).
 - Pistas: grafias alternativas "Triato" e "Tri Ato"; Instagram @culturaufgd; PROEX/UFGD; imprensa de Dourados (Dourados Agora, O Progresso) de março de 2016; FCMS.
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Buscas abertas pelo grupo, por *Cantigas dum Fazedô* e pela mostra de 2016 em Dourados: nenhum resultado. A busca só mostra o FIT Dourados de outros anos (2017, 2019, 2025), com a Cia. Theastai em 2025. Pistas: Prefeitura de Dourados e UFGD (2016), Fundação de Cultura (relatório de 2016). Nada mudou.

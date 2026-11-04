@@ -40,3 +40,16 @@ Fontes descartadas: sedep.com.br/?p=68087 (nota de morte, segundo resumo de busc
 ## Uso no verbete
 
 - Entrou: tudo acima. Fora: elogios do artigo (opinião).
+
+## Atualização de 2026-11-04 (r2-1)
+
+Fonte nova aberta e lida: Senado Federal.
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| senado | Simone Tebet, discurso "pela ordem" de 9 nov. 2016, publicado no DSF de 10 nov. 2016, p. 19 (homenagem a Hildebrando Campestrini) | https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/427217 | institucional (registro oficial) | sim |
+
+- Sustenta (independente da biografia de Heitor Freire): voto de pesar pela morte; membro da ASL, cadeira 31; nascido em Santa Catarina; educador, filósofo, historiador e estudioso das artes e letras; a senadora foi aluna dele.
+- Efeito no verbete: abertura no passado, seção "Homenagem no Senado", ficha com naturalidade e cadeira.
+- Não usado: sedep.com.br/?p=68087 (nota de morte segundo resumo de busca: 6 maio 1941, Cedro-SC, morte "terça-feira (8)", causa de saúde); a URL abre página comercial, sem texto lido. A data exata (8 nov. 2016?) e o ano de nascimento seguem sem fonte lida. Estado de saúde fica fora de qualquer modo.
+- Correio do Estado e CGN: resultados da busca de óbito eram de outras pessoas.

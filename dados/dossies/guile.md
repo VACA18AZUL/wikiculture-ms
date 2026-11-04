@@ -31,3 +31,10 @@ Resumo e abertura passam a datar a residência em Campo Grande (2020), porque h�
 - Acrescentadas duas frases com a nota `dz`.
 - Bem Paraná, "Dois Lados de um Rio une Jerry Espíndola e Guilé em show que atravessa fronteiras" e "Paiol Musical: espetáculo Dois Lados de um Rio reúne Guilé Silveira e Jerry Espíndola": ambas devolveram 403 (também a versão amp), não lidas. O resumo de busca indica show no Teatro Paiol (Curitiba) em julho e que o artista prepara segundo álbum. Dependem de abrir; sem leitura, a residência atual (Curitiba?) segue sem fonte. Last.fm continua descartada.
 - Continua sem segunda fonte jornalística para a trajetória (saraus desde 2017, produção, participações).
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte para a trajetória: não encontrada.
+
+- Busca aberta pelo título do álbum: voltam o CGN de 2020 e a página do Deezer (já citados) e páginas de plataformas.
+- Show *Dois Lados de um Rio* (Guilé e Jerry Espíndola, Teatro Paiol, Curitiba, 25 e 26 jul. 2026, Paiol Musical, Fundação Cultural de Curitiba): três páginas do Bem Paraná (varredura de resumo) o anunciam; todas respondem 403 e não foram lidas, e o resumo é de anúncio. Segue sem leitura, portanto sem frase no verbete. Se abrir, poderia sustentar a mudança de residência (Curitiba) e o nome civil/artístico. Também aparece a Tribuna PR (agenda), não aberta.

@@ -34,5 +34,5 @@ O filme foi selecionado para a 34ª edição do Festival Curta Cinema, no Rio de
 - Produção: [[bianca-machado|Bianca Machado]][^cgn2025]
 - Atuação (Ailton): [[anderson-terena|Anderson Terena]][^cgn2025]
 
-[^cgn2025]: Thailla Torres, ["Filme indígena de MS é selecionado para prestigiado festival no Rio de Janeiro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filme-de-ms-e-selecionado-para-um-dos-maiores-festivais-da-america-latina), *Campo Grande News*, 10 abr. 2025. Acesso em 4 nov. 2026.
+[^cgn2025]: Thailla Torres, ["Filme de MS é selecionado para um dos maiores festivais da América Latina"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/filme-de-ms-e-selecionado-para-um-dos-maiores-festivais-da-america-latina), *Campo Grande News*, 10 abr. 2025. Acesso em 4 nov. 2026.
 [^curtacinema2025]: Curta Cinema, ["Vípuxovoku – Aldeia"](https://curtacinema.com.br/vipuxovoku-aldeia/), página do filme na 34ª edição, 2025. Acesso em 4 nov. 2026.

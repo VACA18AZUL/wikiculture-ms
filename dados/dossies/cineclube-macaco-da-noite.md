@@ -26,3 +26,7 @@
 - Diário Digital, "Cineclube anuncia oficinas pela retomada do cinema em Corumbá" (https://www.diariodigital.com.br/geral/cineclube-anuncia-oficinas-pela-retomada-do-cinema-em-corumba): 403, não lida. Pelo título idêntico ao do CGN, provavelmente é republicação; mesmo que se abra, pode não valer como veículo independente.
 - Aberta e descartada: Correio de Corumbá, resultado preliminar dos editais da Lei Paulo Gustavo (20 fev. 2024); descreve o processo e não lista projetos, não cita o cineclube.
 - Sem registro de 2025 ou 2026 sobre o cineclube. Continua com fonte única. Pistas: Fundação da Cultura e do Patrimônio Histórico de Corumbá (resultado final dos editais 018 e 019/2023), Correio de Corumbá, perfil do cineclube (não serve de fonte para fatos).
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Buscas abertas (cineclube, Hotel Virgínia, Conselho Nacional de Cineclubes, Bianca Machado): só o CGN de 11 set. 2024. Nada mudou.

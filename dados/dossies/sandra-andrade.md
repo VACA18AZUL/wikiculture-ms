@@ -30,3 +30,10 @@ Agente: atualizador + revisor-editorial (validação, bloco val-0). As duas font
 ## Atualização de 2026-11-04 (r-3)
 
 Segunda fonte: não encontrada. Buscas por "Sandra Andrade" com Leninha, Noite Nacional de Poesia, "Que Vida Boa", FMIC/Fundac, Correio do Estado, Campo Grande News e Midiamax só devolvem as duas matérias de A Crítica já usadas. O Midiamax sobre o resultado dos editais da Fundac (FMIC, Edital 03/2026) apareceu em resumo de busca, mas responde 403 e não foi lido. Nada mudou no verbete.
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada.
+
+- Buscas abertas: A Crítica (as duas matérias já citadas) e resultados do edital 03/2026 do FMIC (Midiamax, 403, não lido; busca devolve só a menção da ata nº 006/2026 e da lista de aprovados, sem leitura). Prefeitura e Fundac: sem página localizada.
+- Ajuste: removida a frase "Não foi localizada lista completa dos 22 títulos" do verbete.

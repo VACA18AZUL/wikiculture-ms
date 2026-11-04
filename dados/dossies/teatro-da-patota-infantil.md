@@ -26,3 +26,7 @@
 
 - Uma busca aberta ("Patota Infantil" teatro de bonecos Três Lagoas Irene Alexandria): nenhum resultado cita o grupo. Segue fonte única, de segunda mão; "reforcar".
 - Retirada do verbete a frase "A fonte não informa repertório nem o período de atividade" (regra da onda; informação fica aqui). Pistas: livro *Memória da arte em Mato Grosso do Sul* (Sá Rosa, UFMS, 1992); Jornal do Povo; Prefeitura de Três Lagoas; Fundação de Cultura.
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Busca aberta (teatro de bonecos, Três Lagoas, Patota, Irene Alexandria): nada sobre o grupo. Só material geral de teatro de bonecos e um espetáculo atual de outra companhia. Nada mudou.

@@ -25,3 +25,7 @@ Revisão e busca de segunda fonte (agente val-5):
 
 - Duas buscas novas (evento; organizador "Manoel Sotero"/"Simona Oliveira"). Nenhum outro veículo noticiou a live, nem antes nem depois. A única mídia que aparece além da matéria de 26 out. 2020 é o próprio Campo Grande News, com outras matérias sobre Simona (2011, 2015, 2018, "Único disco gravado em 50 anos..."; não abertas, mesmo veículo), que poderiam reforçar a frase sobre os mais de 50 anos de atuação, mas não servem de segunda fonte independente.
 - Nada mudou no verbete. Continua com fonte única. Pista: registro primário da transmissão no Facebook do organizador (perfil pessoal, não aberto).
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Busca aberta com o organizador (Manoel Sotero, Simona Oliveira) e a live: só o CGN de 26 out. 2020 e matérias antigas do mesmo veículo sobre Simona. Nada mudou.

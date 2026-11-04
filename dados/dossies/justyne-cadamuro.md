@@ -46,3 +46,7 @@ Já registradas em dados/relacoes.csv (acervo-em marco; premiado-por salao-de-ar
 ## Uso no verbete
 
 - Entrou tudo acima, resumido. Nome de Fabiana Castanho fica de fora (dado de método da fonte, não da artista).
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Buscas abertas (Salão de Artes 2010, prêmio-aquisição MARCO; "Cadamuro" escultura): só o artigo da ANPUH já citado. Sem página de acervo do MARCO ou de Mapas Culturais. Resultado de Pivô sobre outra artista não aproveitado. Nada mudou.

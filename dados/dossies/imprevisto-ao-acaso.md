@@ -54,3 +54,7 @@ Nenhuma.
 
 - Corrigido: Páginas corrigidas (56, 101, 127-129, 136-137, 155).
 - Atenção: Fonte única (Diehl). Busca de segunda fonte (6 buscas: títulos dos filmes, Couto/Dorval, 'filme sertanejo', revista Rebeca/Socine baixada e conferida): nada além da própria dissertação e da matéria de 2013 sobre *Honra*.
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Ver a atualização de a-marca-do-destino: a matéria do CGN de 2018 sobre Couto não cita este curta nem Dorval, por isso não entrou aqui.

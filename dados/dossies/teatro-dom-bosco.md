@@ -23,3 +23,16 @@ Fontes novas abertas e lidas:
 - Lotação: um resumo de busca cita 686 lugares numa página Sympla de 2022, não aberta; a Wikipédia dá 600 (sem referências); Moser fala de "mais de 800 lugares" para os dois teatros. Nada disso entrou; registrar quando houver fonte lida.
 - Vínculo com o Colégio Salesiano Dom Bosco (mesma avenida, número 227 em outro cadastro): nenhuma fonte aberta o declara.
 - Buscas por histórico do teatro (inauguração, Salesianos) não acharam fonte. Os fatos centrais continuam só em Moser (Sá Rosa 1992).
+
+## Atualização de 2026-11-04 (r2-1)
+
+Fonte nova aberta e lida:
+
+| id da nota | Referência | URL | Tipo | Entra? |
+|---|---|---|---|---|
+| sympla | Sympla, "Aos Porcos", ADOTE Cia. Teatral Ator Domingos Terras, evento de 23 jul. 2022 (encerrado) | https://www.sympla.com.br/evento/lgc/1632422 | página de venda de ingressos (dado informado pelo organizador) | sim, só endereço e lotação |
+
+- Sustenta: Teatro Dom Bosco, Avenida Mato Grosso, 225, Centro, Campo Grande; 686 lugares (2022). Entrou na ficha ("Lotação") e em parágrafo da seção "Situação em 2026".
+- Divergência: Moser (Sá Rosa 1992) fala em "mais de 800 lugares" para Glauce Rocha e Dom Bosco juntos; Wikipédia (sem referências, não serve de nota) dá 600 lugares e localiza o teatro no Colégio Dom Bosco. Registrar a divergência em `observacoes` da lista-mestra (o agente não edita o arquivo).
+- Aberto sem aproveitamento: Aletheya Alves, CGN, 27 mar. 2023: abertura da Boca de Cena 2023 no Teatro Dom Bosco (só confirma uso em 2023, mesmo veículo do que já se tem de 2024).
+- Inauguração em 1974 e festivais de 1974-1978: continuam só em Moser.

@@ -13,3 +13,7 @@ Pista para segunda fonte: o capítulo "Teatro", de Maria da Glória Sá Rosa, em
 ## Atualização de 2026-11-04 (r-3)
 
 Segunda fonte: não encontrada. Buscas abertas por "Irene Alexandria" / "Irene Marques Alexandria" com Três Lagoas, Teatro da Patota e bonecos não retornaram nenhuma menção (só material geral sobre teatro de bonecos e um espetáculo de outra companhia em Três Lagoas, sem relação). Nada mudou no verbete. Pista mantida: Sá Rosa, *Memória da arte em Mato Grosso do Sul* (1992); Secretaria de Cultura de Três Lagoas.
+
+## Atualização de 2026-11-04 (r2-1)
+
+Segunda fonte: não encontrada. Nada sobre a diretora fora de Moser. Ajuste: removida do verbete a frase "As fontes consultadas não trazem outros dados sobre a diretora" (regra da onda; informação fica aqui).

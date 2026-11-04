@@ -12,7 +12,7 @@
 
 | id da nota | Referência completa | URL | Tipo | Entra? |
 |---|---|---|---|---|
-| ce2022 | Correio do Estado, "Confira as atrações regionais do Festival de Inverno de Bonito 2022", 2022 | https://correiodoestado.com.br/correio-b/confira-as-atracoes-regionais-do-festival-de-inverno-de-bonito-2022/403634/ | imprensa | sim |
+| ce2022 | Correio do Estado, "Confira as atrações regionais do Festival de Inverno de Bonito 2022", 12/08/2022 | https://correiodoestado.com.br/correio-b/confira-as-atracoes-regionais-do-festival-de-inverno-de-bonito-2022/403634/ | imprensa | sim |
 | cgn2023 | Samuel Isidoro, "Com feat internacional, Karla Coronel é a promessa do pop em MS", Campo Grande News (B-Cast), 28/05/2023 | https://www.campograndenews.com.br/lado-b/diversao/com-feat-internacional-karla-coronel-e-a-promessa-do-pop-em-ms | imprensa (podcast) | sim |
 | cgn2024 | Thailla Torres, "Cantora vai às escolas mostrar que MS também sabe fazer música", Campo Grande News, 18/10/2024 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/cantora-vai-as-escolas-mostrar-que-ms-tambem-sabe-fazer-musica | imprensa | sim |
 | cgn2025 | Thailla Torres, "Cantora de MS realiza sonho de infância ao cantar para Alcione", Campo Grande News, 21/05/2025 | https://www.campograndenews.com.br/lado-b/diversao/cantora-de-ms-realiza-sonho-de-infancia-ao-cantar-para-alcione | imprensa | sim |
