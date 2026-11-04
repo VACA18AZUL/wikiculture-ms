@@ -8,14 +8,14 @@ ficha:
   Atividade: Escrita e poesia
   Instituição: "[[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], cadeira 29 (posse em 1982)"
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Elpídio Reis** é um escritor natural de Ponta Porã, membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^amarilha2006]
 
 ## Trajetória
 
-Em 1947, como vice-presidente da Associação Pró-Restauração do Território Federal de Ponta Porã, fez na capital federal uma palestra em defesa da recriação do território, extinto em 1945. Na fala, descreveu a carência de escolas e serviços na região de fronteira.[^amarilha2006]
+Em 1947, como vice-presidente da Associação Pró-Restauração do Território Federal de Ponta Porã, fez na capital federal, em 24 de outubro de 1947, uma palestra em defesa da recriação do território, que havia existido de 1943 a 1946 e foi extinto pela Constituição de 1946. Na fala, descreveu a carência de escolas e serviços na região de fronteira.[^amarilha2006]
 
 Tomou posse na cadeira 29 da ASL em 1982, em cerimônia realizada em Ponta Porã. O presidente da ASL, [[otavio-goncalves-gomes|Otávio Gonçalves Gomes]], disse na ocasião que a Academia o buscou no Rio de Janeiro, onde residia, para representar a terra natal.[^amarilha2006]
 
@@ -29,6 +29,6 @@ Publicou *Ponta Porã antes, durante e depois* (Campo Grande: Instituto Históri
 
 Escreveu a apresentação da segunda edição (1989, Tribunal de Justiça de MS) de *Camalotes e guavirais*, de [[ulisses-serra|Ulisses Serra]].[^raido2008] Um poema seu sobre Ponta Porã e outro em três tempos sobre Dourados constam em *Corumbá: memórias e notícias*, de [[renato-baez|Renato Báez]] (1977).[^raido2008]
 
-[^amarilha2006]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2006. Acesso em 29 out. 2026.
-[^vilela2017]: Adrielly Ferreira Vilela, [*Entre fronteiras e balaios: a literatura bugresca de Hélio Serejo*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5313), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2017. Acesso em 29 out. 2026.
-[^raido2008]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do Estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, jan./jun. 2008, p. 80-83. Acesso em 29 out. 2026.
+[^amarilha2006]: Carlos Magno Mieres Amarilha, [*Os intelectuais e o poder: história, divisionismo e identidade em Mato Grosso do Sul*](https://www.ppghufgd.com/wp-content/uploads/2017/04/Disserta%C3%A7%C3%A3o-Mestrado-Hist%C3%B3ria-2006-Carlos-Magno-Mieres-Amarilha.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2006. Acesso em 4 nov. 2026.
+[^vilela2017]: Adrielly Ferreira Vilela, [*Entre fronteiras e balaios: a literatura bugresca de Hélio Serejo*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5313), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2017. Acesso em 4 nov. 2026.
+[^raido2008]: Paulo Bungart Neto, ["O memorialismo no Mato Grosso do Sul como testemunho da formação do Estado"](https://ojs.ufgd.edu.br/Raido/article/download/92/99/271), *Raído*, Dourados, v. 2, n. 3, jan./jun. 2008, p. 80-83. Acesso em 4 nov. 2026.

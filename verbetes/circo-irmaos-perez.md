@@ -7,7 +7,7 @@ resumo: Circo familiar de Campo Grande que, em 2011, montava a lona por um mês 
 ficha:
   Atividade: Circo itinerante de bairros
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Circo Irmãos Perez** é um circo familiar de Campo Grande, descrito em reportagem de 2011 que o encontrou no bairro Tiradentes.[^cgn]

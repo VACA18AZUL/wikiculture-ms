@@ -9,7 +9,7 @@ ficha:
   Local: Rádio Clube, Campo Grande
   Realização: Aline Figueiredo, Adelaide Vieira e Humberto Espíndola
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 A **I Exposição de Pinturas dos Artistas Mato-grossenses** foi uma mostra coletiva realizada em outubro de 1966 no Rádio Clube de Campo Grande.[^assis]
@@ -17,6 +17,8 @@ A **I Exposição de Pinturas dos Artistas Mato-grossenses** foi uma mostra cole
 ## Organização
 
 Segundo Renata Assis, a exposição surgiu da iniciativa de [[aline-figueiredo|Aline Figueiredo]] e [[adelaide-vieira|Adelaide Vieira]], que precisaram localizar os pintores do estado e convidaram [[humberto-espindola|Humberto Espíndola]] a participar da organização. Houve longa negociação para que o crítico Pietro Bardi, então diretor do Museu de Arte de São Paulo, integrasse o júri.[^assis]
+
+Em entrevista de 2006 à revista *ComCultura*, reproduzida por Rozana Godoi, a professora [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] apontou essa mostra de 1966 no Rádio Clube, organizada por Aline Figueiredo e Adelaide Vieira, como a iniciativa de exposição mais expressiva em Campo Grande antes dos anos 1970.[^godoi]
 
 ## Participantes
 
@@ -26,4 +28,5 @@ Assis cita como participantes artistas que já atuavam profissionalmente em Cuia
 
 Em artigo na revista paulista *Mirante das Artes*, Pietro Bardi criticou o nível da mostra e ironizou o cerimonial. Citado por Assis a partir de Aline Figueiredo, ele aponta que um grupo de ação poderia criar ambiente favorável à arte.[^assis] Os organizadores avaliaram a exposição como provinciana, mas como um primeiro passo para organizar o setor.[^assis]
 
+[^godoi]: Rozana Vanessa Fagundes Valentim de Godoi, *O curso de Educação Artística na Universidade Federal de Mato Grosso do Sul (1980-2000): história e memórias*, dissertação de mestrado, Universidade Federal da Grande Dourados, 2020, p. 90-91. [PDF](http://repositorio.ufgd.edu.br/jspui/bitstream/prefix/4524/1/RozanaVanessaFagundesValentimdeGodoi.pdf). Acesso em 4 nov. 2026.
 [^assis]: Renata Rodrigues de Assis, *A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*, dissertação de mestrado, Universidade Federal da Grande Dourados, 2013. [PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf). Acesso em 29 out. 2026.

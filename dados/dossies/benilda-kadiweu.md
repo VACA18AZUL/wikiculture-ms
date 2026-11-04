@@ -14,6 +14,7 @@
 | jabuti | Aletheya Alves, Campo Grande News, 12 dez. 2023 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/indigena-de-ms-ganha-maior-premio-de-literatura-com-poema-sonhado | imprensa | sim |
 | elas-corumba | Thailla Torres, Campo Grande News, 10 nov. 2023 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-mulheres-indigenas-mostra-arte-sagrada-das-etnias-de-ms | imprensa | sim |
 | elas-rj | Thailla Torres, Campo Grande News, 23 jul. 2023 | https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/coletivo-de-ms-esta-entre-8-artistas-de-exposicao-no-rio-de-janeiro | imprensa | sim |
+| ea2024 | Gonçalves e Uzeda, Espaço Ameríndio, v. 18, n. 2, 2024 (confirma Benilda e o Coletivo Kadiwéu em Elas Indígenas, 22 jul. a 10 set. 2023) | https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/136368 | acadêmica | sim |
 | iuvaro | Fabiola Iuvaro, "A criatividade artística Kadiwéu: entrevista com Benilda Vergílio", Espaço Ameríndio (UFRGS), v. 6, n. 1, p. 69-96, 2012 | https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/26642 | acadêmica | sim |
 
 ## Atualização de 2026-11-04

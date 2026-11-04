@@ -8,7 +8,7 @@ ficha:
   Fundador: Junior De Oliveira
   Sede: Sucata Cultural, Dourados
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Circo Le Chapeau** é um grupo de circo de Mato Grosso do Sul, fundado pelo artista circense Junior De Oliveira. O grupo está hoje ligado a Dourados.[^oliveira]
@@ -27,6 +27,6 @@ Em junho de 2026, o Circo Le Chapeau, identificado como grupo de Dourados, apare
 
 - *Tradicional Pocket Show* (apresentado em 2016, em Dourados).[^oliveira]
 
-[^oliveira]: Antonio Martins Oliveira Júnior, *Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*, dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 94-101. [PDF](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf). Acesso em 29 out. 2026.
+[^oliveira]: Antonio Martins Oliveira Júnior, *Pensando o e a artista-docente em teatro: expressões e sensibilidades na trajetória de egressos e egressas do curso de licenciatura em Artes Cênicas (UFGD)*, dissertação de mestrado, Universidade Federal de Uberlândia, 2023, p. 93-101. [PDF](https://repositorio.ufu.br/bitstream/123456789/42221/1/Disserta%c3%a7%c3%a3o.pdf). Acesso em 29 out. 2026.
 [^boca]: Fundação de Cultura de Mato Grosso do Sul, [folheto da Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena 2017](https://www.ufms.br/wp-content/uploads/2017/05/BocaDeCena-Folheto-1.pdf), 2017. Acesso em 29 out. 2026.
 [^cgn2026]: Clayton Neves, ["Coletivo de circo leva lendas do Pantanal para bairros de Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/coletivo-de-circo-leva-lendas-do-pantanal-para-bairros-de-campo-grande), *Campo Grande News*, 18 jun. 2026. Acesso em 29 out. 2026.

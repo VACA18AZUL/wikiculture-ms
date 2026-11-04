@@ -26,7 +26,7 @@ Na reportagem sobre a exposição "Elas em Corumbá", ela se apresenta como do p
 
 Em novembro de 2023, participou da exposição "Elas em Corumbá – Mulheres Indígenas Artistas", dentro do Festival América do Sul, de 9 a 12 de novembro. Disse que sua criação representa mulheres de sua comunidade e que o trabalho traz as cores e os grafismos kadiwéu. A reportagem grafa "Kadwéu".[^elas-corumba]
 
-Em julho de 2023, a exposição "Elas Indígenas", na Escola de Artes Visuais do Parque Lage, no Rio de Janeiro, reuniu 50 obras de oito mulheres indígenas, entre elas Benilda Kadiwéu e o [[coletivo-kadiweu|Coletivo Kadiwéu]]. Foi aberta em 22 de julho e ficou até 10 de setembro.[^elas-rj]
+Em julho de 2023, a exposição "Elas Indígenas", na Escola de Artes Visuais do Parque Lage, no Rio de Janeiro, reuniu 50 obras de oito mulheres indígenas, entre elas Benilda Kadiwéu e o [[coletivo-kadiweu|Coletivo Kadiwéu]]. Foi aberta em 22 de julho e ficou até 10 de setembro.[^elas-rj][^ea2024]
 
 ## Literatura
 
@@ -36,3 +36,4 @@ Benilda é uma das coautoras do *Álbum Guerreiras da Ancestralidade*, organizad
 [^elas-corumba]: Thailla Torres, ["Exposição de mulheres indígenas mostra arte 'sagrada' das etnias de MS"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/exposicao-de-mulheres-indigenas-mostra-arte-sagrada-das-etnias-de-ms), *Campo Grande News*, 10 nov. 2023. Acesso em 29 out. 2026.
 [^elas-rj]: Thailla Torres, ["Coletivo de MS está entre 8 artistas de exposição no Rio de Janeiro"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/coletivo-de-ms-esta-entre-8-artistas-de-exposicao-no-rio-de-janeiro), *Campo Grande News*, 23 jul. 2023. Acesso em 29 out. 2026.
 [^iuvaro]: Fabiola Iuvaro, ["A criatividade artística Kadiwéu: entrevista com Benilda Vergílio"](https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/26642), *Espaço Ameríndio*, Porto Alegre, v. 6, n. 1, p. 69-96, jan./jun. 2012. Acesso em 4 nov. 2026.
+[^ea2024]: Pedro Marco Gonçalves e Helena Cunha de Uzeda, ["Fruição e possibilidade no palácio-floresta: o olhar museológico e a presença indígena na Escola de Artes Visuais do Parque Lage"](https://seer.ufrgs.br/index.php/EspacoAmerindio/article/view/136368), *Espaço Ameríndio*, Porto Alegre, v. 18, n. 2, p. 322-339, maio/ago. 2024. Acesso em 4 nov. 2026.

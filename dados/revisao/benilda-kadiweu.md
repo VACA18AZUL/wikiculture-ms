@@ -8,6 +8,7 @@ Data: 2026-11-04 (validação, rodada val-10)
 - [^elas-corumba] Campo Grande News, 10 nov. 2023: ok, lida.
 - [^elas-rj] Campo Grande News, 23 jul. 2023: ok, lida.
 - [^iuvaro] Iuvaro, Espaço Ameríndio, 2012 (nova): página do artigo e PDF lidos.
+- [^ea2024] Gonçalves e Uzeda, Espaço Ameríndio, 2024 (nova): PDF lido; reforça o parágrafo da mostra Elas Indígenas.
 
 ## Pontos conferidos
 

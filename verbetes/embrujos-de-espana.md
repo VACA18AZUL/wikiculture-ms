@@ -7,7 +7,7 @@ resumo: Grupo de dança de Campo Grande, ligado à coreógrafa Maria Helena Pett
 ficha:
   Coreografia: Maria Helena Pettengill Fernandes
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 O **Embrujos de España** é um grupo de dança de Campo Grande, com coreografias de Maria Helena Pettengill Fernandes, que participou do [[festival-sul-mato-grossense-de-danca|Festival Sul-Mato-Grossense de Dança]].[^revista]
@@ -23,8 +23,7 @@ O programa do X Festival, de 20 a 22 de outubro de 1994, registra apresentaçõe
 ## Espetáculos
 
 - *Fiesta Flamenca* (1994) — apresentada no X Festival; coreografia de Maria Helena Pettengill Fernandes e Lucyanna Pettengill.[^revista]
-- *El Pasodoble* (1994) — apresentada no X Festival; coreografia de Maria Helena Pettengill Fernandes.[^revista]
 - *As damas de Sevilha* (1994) — apresentada no X Festival pelo grupo juvenil; coreografia de Maria Helena Pettengill Fernandes.[^revista]
 
-[^revista]: Associação Sul-Mato-Grossense de Dança, [*Revista do X Festival Sul-Mato-Grossense de Dança*](https://sarahfigueiro.com.br/wp-content/uploads/2026/05/1994-X-FESTIVAL-SUL-MATOGROSSENSE-DE-DANCA.pdf), 1994, lista de premiados do IX Festival e programa de 20 a 22 out. (PDF digitalizado em imagem, lido página a página). Acesso em 29 out. 2026.
-[^ce2026]: ["Acervo digital de Mato Grosso do Sul preserva legado de Sarah Abussafi Figueiró"](https://correiodoestado.com.br/correio-b/acervo-digital-de-mato-grosso-do-sul-preserva-legado-de-sarah-abussafi/467620/), *Correio do Estado*, 4 jun. 2026. Acesso em 29 out. 2026.
+[^revista]: Associação Sul-Mato-Grossense de Dança, [*Revista do X Festival Sul-Mato-Grossense de Dança*](https://sarahfigueiro.com.br/wp-content/uploads/2026/05/1994-X-FESTIVAL-SUL-MATOGROSSENSE-DE-DANCA.pdf), 1994, lista de premiados do IX Festival e pp. 11 e 21-22 (PDF digitalizado em imagem, lido página a página). Acesso em 4 nov. 2026.
+[^ce2026]: Mariana Piell, ["Acervo digital de Mato Grosso do Sul preserva legado de Sarah Abussafi Figueiró"](https://correiodoestado.com.br/correio-b/acervo-digital-de-mato-grosso-do-sul-preserva-legado-de-sarah-abussafi/467620/), *Correio do Estado*, 4 jun. 2026. Acesso em 4 nov. 2026.
