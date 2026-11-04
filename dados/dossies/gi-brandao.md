@@ -58,3 +58,14 @@ Fontes descartadas e o motivo:
 
 - Entrou: trajetória, cidades, temas, assinatura, projeto de 2025.
 - Ficou de fora: idade, data de aniversário, casamento, filhos e morte do companheiro (vida familiar).
+
+## Atualização de 2026-11-04 (r3-1)
+
+Fontes novas lidas (Fundação de Cultura de MS, veículo diferente do Campo Grande News):
+
+- Karina Medeiros de Lima, "Divulgados os nomes dos selecionados para o projeto Dia do Graffiti...", FCMS, 14 fev. 2025 (https://www.fundacaodecultura.ms.gov.br/divulgados-os-nomes-dos-selecionados-para-o-projeto-dia-do-graffiti-com-recursos-da-lei-paulo-gustavo/). Mesma seleção de seis artistas, com "Gislene Brandão (La Bruxa/Dourados)"; encerra com "com informações da assessoria" (texto de divulgação do projeto, como o do CGN). Cachê de artista e contatos não usados.
+- Karina Medeiros de Lima, "Em projeto da Lei Paulo Gustavo, grafiteiros transformam rua da Vila Nhanhá em uma galeria de arte a céu aberto", FCMS, 11 mar. 2025 (https://www.fundacaodecultura.ms.gov.br/em-projeto-da-lei-paulo-gustavo-grafiteiros-transformam-rua-da-vila-nhanha-em-uma-galeria-de-arte-a-ceu-aberto/). Reportagem posterior ao evento: Campão Graffiti: Arte Urbana e Cultura, 6 a 9/3/2025; Gi Brandão, "grafiteira pioneira de Dourados", selecionada e com fala na reportagem; financiamento Lei Paulo Gustavo via edital da FCMS.
+
+Resolvido: o "Dia do Graffiti" de 2025 é o Campão Graffiti (a própria reportagem da FCMS o chama assim) e foi realizado. Ligação com [[campao-graffiti]] feita no verbete. A relação gi-brandao participou-de campao-graffiti pode entrar em relacoes.csv (fonte: FCMS 11 mar. 2025).
+
+Continua só no CGN: biografia (São Paulo, Jorge Antas, Speto, 12 anos em Dourados, "La Bruxa" de apelido de infância). Busca por "La Bruxa grafite Dourados" no Correio do Estado e no Dourados Agora: sem resultado pertinente.
