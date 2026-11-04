@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Beth e Betinha**, conhecidas como **Princesinhas da Fronteira**, são uma dupla de irmãs nascidas em Rio Brilhante, intérpretes de música sertaneja e de música tradicional paraguaia.[^gon14][^cgn2016] O Campo Grande News as aponta como a primeira dupla musical feminina de Mato Grosso do Sul.[^cgn2025a]
+**Beth e Betinha**, conhecidas como **Princesinhas da Fronteira**, são uma dupla de irmãs nascidas em Rio Brilhante, intérpretes de música sertaneja e de música tradicional paraguaia.[^gon14][^cgn2016][^cgn2018] O Campo Grande News as aponta como a primeira dupla musical feminina de Mato Grosso do Sul.[^cgn2025a]
 
 ## Trajetória
 
@@ -30,7 +30,7 @@ Em 2016, a dupla estava sem shows.[^cgn2016] Em dezembro de 2018, cantou no proj
 
 ## Videografia
 
-- *Beth e Betinha* (2019) — documentário de cerca de 30 minutos, dirigido por [[marineti-pinheiro|Marinete Pinheiro]]. Foi lançado em 23 de fevereiro de 2019 no Sesc Cultura, em Campo Grande, depois de um ano de produção. A diretora conta que a ideia surgiu após [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]].[^cgn2019][^cgn2025a]
+- *Beth e Betinha* (2019) — documentário de cerca de 30 minutos, dirigido por [[marineti-pinheiro|Marinete Pinheiro]]. Foi lançado em 23 de fevereiro de 2019 no Sesc Cultura, em Campo Grande, depois de um ano de produção. Antes, a diretora tinha feito [[dama-do-rasqueado-delinha|*A Dama do Rasqueado*]] (2016); o nome da dupla foi sugerido a ela por Marcos Roker.[^cgn2019][^cgn2025a]
 
 [^silus]: Alan Silus, ["Pelos caminhos da música sul-mato-grossense: um estudo bibliográfico"](https://trilhasdahistoria.ufms.br/index.php/RevTH/article/view/19958/14805), *Revista Trilhas da História* (UFMS), v. 13, n. 27, 2024, p. 335. Acesso em 4 nov. 2026.
 [^gon14]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014, p. 30-31, citando Rodrigo Teixeira, *Os Pioneiros* (2009). Acesso em 4 nov. 2026.

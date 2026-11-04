@@ -3,7 +3,7 @@ titulo: Se você me olhasse nos olhos
 tipo: obra
 areas: [danca]
 cidade: Campo Grande
-resumo: Espetáculo de dança contemporânea do Grupo Ginga, de Campo Grande, baseado em Amor Líquido, de Zygmunt Bauman; estreou em março de 2014 e foi premiado no Prêmio Célio Adolfo 2013.
+resumo: Espetáculo de dança contemporânea do Grupo Ginga, de Campo Grande, baseado em Amor Líquido, de Zygmunt Bauman; teve estreia anunciada para março de 2014 e foi premiado no Prêmio Célio Adolfo 2013.
 ficha:
   Autor: Ginga Cia. de Dança
   Ano: "2014"
@@ -27,7 +27,7 @@ O projeto foi contemplado pelo [[premio-celio-adolfo|Prêmio Célio Adolfo de In
 
 A estreia foi anunciada para 13 e 14 de março de 2014, com duas sessões por dia e entrada gratuita, no Hangar Live Music, uma casa de shows. Renata Leoni explicou que o local, um espaço de encontros de uma noite, servia de cenário ao tema.[^cgn2014a]
 
-Em 13 de abril de 2014, o espetáculo encerrou a programação de espetáculos da 8ª [[semana-pra-danca|Semana pra Dança]], no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].[^cgn2014b]
+O espetáculo foi programado para 13 de abril de 2014, último dia da 8ª [[semana-pra-danca|Semana pra Dança]], no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]].[^cgn2014b]
 
 ## Criação e elenco
 

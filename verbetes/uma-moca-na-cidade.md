@@ -19,11 +19,11 @@ atualizado: 2026-11-04
 
 Em 2023, o Campo Grande News o apresentou como o principal espetáculo do grupo, então na sexta versão da encenação. Segundo a matéria, a peça completaria 23 anos em agosto daquele ano e era considerada de médio porte pelos cenários, adereços, figurinos, iluminação e música original. O elenco reunia Anderson Bosh, [[douglas-moreira|Douglas Moreira]] e [[edner-gustavo|Edner Gustavo]], com técnica de Douglas Caetano e música original de [[ewerton-goulart|Ewerton Goulart]]. Naquele ano, circulou por cidades das regiões Norte e Nordeste de Mato Grosso do Sul no projeto Teatro Interior – 2ª Fase, que incluía oficinas de práticas cênicas a partir da peça.[^cgn2023]
 
-Em 2024, foi encenada no projeto itinerante UBU Trans Erê – Identidades em Trânsito, em bairros da periferia de Campo Grande, com sessões em julho na Comunidade Terapêutica Antônio Pio da Silva e no Espaço Cultural Fulano di Tal.[^cgn2024]
+Em 2024, estava no projeto itinerante UBU Trans Erê – Identidades em Trânsito, que já tinha passado por bairros da periferia de Campo Grande. Em julho, foram anunciadas sessões na Comunidade Terapêutica Antônio Pio da Silva e no Espaço Cultural Fulano di Tal.[^cgn2024]
 
-Em 2025, integrou o repertório da turnê [[escambo-ubu-fronteiras-do-mato-sul|Escambo UBU – Fronteiras do Mato Sul]], apoiada pela Bolsa Myriam Muniz de Teatro, da Funarte. A turnê começou em Corumbá, em abril, e terminou em Ponta Porã, em 11 de setembro, com apresentação da peça na Praça Pedro Manvailer.[^cgn2025a][^cgn2025b]
+Em 2025, integrou o repertório da turnê [[escambo-ubu-fronteiras-do-mato-sul|Escambo UBU – Fronteiras do Mato Sul]], apoiada pela Bolsa Myriam Muniz de Teatro, da Funarte. A turnê começou em Corumbá, em abril, e teve o encerramento marcado para Ponta Porã, em 11 de setembro, com apresentação da peça na Praça Pedro Manvailer.[^cgn2025a][^cgn2025b]
 
-Uma peça chamada *Uma moça da cidade*, com a mesma personagem Ambrosina, foi apresentada em 26 de março de 2022 na Plataforma Cultural, durante a [[semana-do-teatro-e-circo-2022|1ª Semana do Teatro e Circo]]. A matéria não nomeia o grupo responsável.[^cgn2022]
+Uma peça chamada *Uma moça da cidade*, sobre Ambrosina, jovem do interior que vai para a cidade grande, estava programada para 26 de março de 2022 na Plataforma Cultural, durante a [[semana-do-teatro-e-circo-2022|1ª Semana do Teatro e Circo]]. O título e a personagem coincidem com os do espetáculo do Grupo UBU.[^cgn2022]
 
 ## Equipe
 

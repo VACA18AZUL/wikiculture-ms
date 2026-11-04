@@ -21,6 +21,14 @@ Márcio diz ter composto com Roca a canção "Hermanos Irmãos", em parceria com
 
 Em maio de 2025, dividiu com [[geraldo-espindola|Geraldo Espíndola]] o espetáculo *Música Poética*, com a [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]] e a Companhia de Dança do Pantanal. As apresentações foram programadas para Dourados, Campo Grande e Corumbá, entre 7 e 13 de maio. O projeto é do [[instituto-moinho-cultural-sul-americano|Instituto Moinho Cultural Sul-Americano]].[^cgn2025]
 
+## Crianceiras
+
+Segundo um estudo da UFMS de 2016, Márcio de Camillo lançou em 2012 o álbum *Crianceiras*, com dez poemas de [[manoel-de-barros|Manoel de Barros]] musicados. Nas faixas, ele canta com mais de quinze crianças nos vocais. O disco foi indicado entre os três melhores álbuns infantis de 2012 no Prêmio da Música Brasileira. A mesma fonte diz que o espetáculo teatral e musical, organizado com Luiz André Cherubini, se inspirou nas iluminuras de Martha Barros.[^papeis]
+
+## Discografia
+
+- *Crianceiras* (2012) — álbum com dez poemas de Manoel de Barros musicados.[^papeis]
+
 ## Espetáculos
 
 - *Crianceiras Manoel de Barros* (2012) — espetáculo cênico-musical; direção de Luiz André Cherubini.[^cgn2024]
@@ -30,3 +38,4 @@ Em maio de 2025, dividiu com [[geraldo-espindola|Geraldo Espíndola]] o espetác
 
 [^cgn2024]: Thailla Torres, ["Márcio de Camillo faz homenagem a Geraldo Roca em novo show"](https://www.campograndenews.com.br/lado-b/diversao/marcio-de-camillo-faz-homenagem-a-geraldo-roca-em-novo-show), *Campo Grande News*, 22 set. 2024. Acesso em 4 nov. 2026.
 [^cgn2025]: Thailla Torres, ["Espetáculo une música, poesia e dança com entrada gratuita em três cidades de MS"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-une-musica-poesia-e-danca-com-entrada-gratuita-em-tres-cidades-de-ms), *Campo Grande News*, 6 mai. 2025. Acesso em 4 nov. 2026.
+[^papeis]: Tamires Dantas Pereira Cândido e Maria Luceli Faria Batistote, ["Poemas de Manoel de Barros em Crianceiras, de Márcio de Camillo: uma leitura semiótica"](https://periodicos.ufms.br/index.php/papeis/article/download/3440/4224), *Revista Papéis* (UFMS), v. 20, n. 39, 2016, pp. 21-22. Acesso em 4 nov. 2026.
