@@ -61,3 +61,8 @@ Fontes descartadas: páginas de consulta de CNPJ (Casa dos Dados, CnpjCheck, Di�
 ## Uso no verbete
 
 - Entraram: fundação, mudança de nome, presidentes, locais de desfile, filiadas, 2026, 45 anos e sorteio, repasse para 2027. Ficaram fora: valores de investimento de 2024, falas de autoridades, Rei Momo e rainha.
+
+## Revisão de 2026-11-04 (valn-26)
+
+- Margem do título de 2026: cgn2026 dá 178,04 x 178,03 ("um centésimo"); o "Leia também" da mesma página aponta para matéria intitulada "Vila Carvalho vence Carnaval de Campo Grande por um décimo" (não aberta). O verbete segue a pontuação de cgn2026.
+- Resumo de IA do Campo Grande News (cgn2026) fala em "oito escolas"; o texto da matéria lista sete. Não usado.

@@ -58,3 +58,7 @@ Descartadas: site marcosassuncaomusic.com.br (erro 406 ao abrir); Jornal da USP 
 ## Uso no verbete
 
 - Tudo acima, com divergências registradas.
+
+## Atualização de 2026-11-04 (validação valn-25)
+
+- Divergência nova: a FCMS (8 jul. 2024) diz que os shows de Ossuna Braza e Marcos Assunção em 7 jul. 2024 "deram início à volta do Som da Concha"; a própria FCMS (4 jun. 2024) e o Campo Grande News (5 jun. 2024) anunciaram o primeiro show de 2024 para 16 jun. (Fronteira Guarani). O verbete deixou de dizer que ele "abriu a temporada" e registra as duas informações.

@@ -39,3 +39,9 @@ Descartadas: CE 2008 (Mata do Jacinto) sem menção legível ao grupo; notícias
 ## Uso no verbete
 
 - Tudo.
+
+## Atualização de 2026-11-04
+
+- Incorporação de vir-tu-eu (INCORP-VALN): FCMS, "Divulgadas as atrações selecionadas para o 12ª Semana Pra Dança 2018", 27 mar. 2018 (https://www.fundacaodecultura.ms.gov.br/divulgadas-as-atracoes-selecionadas-para-o-12a-semana-pra-danca-2018/): 3º lugar entre os espetáculos, "Vir(tu)Eu" do "Grupo Street Pop". FCMS 20 abr. 2018: 25 abr., 20h30, Teatro Prosa/Sesc Horto, 50 min. Link [[vir-tu-eu]] retirado do verbete.
+- Datas da 12ª Semana pra Dança divergem entre os textos da FCMS: 29 abr. a 1º maio (27 mar.) x 24 abr. a 1º maio (20 abr.). O verbete não dá o período.
+- Grafias: "Streetpop", "Street Pop" (CE 2008, FCMS 2018).

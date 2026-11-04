@@ -19,11 +19,11 @@ atualizado: 2026-11-04
 
 A peça resultou do projeto "Amadores – O que você gostaria de dizer através do teatro e não teve oportunidade?", da OFIT, concebido em 2017.[^cgn2023] No início de 2018, o projeto foi realizado com recursos do Fundo de Apoio ao Teatro de Campo Grande (FomTeatro), da prefeitura, e apoio da Fundação de Cultura de Mato Grosso do Sul, da Secretaria Estadual de Cultura e Cidadania, do Centro Cultural José Octávio Guizzo e do curso de Artes Cênicas da UFGD. Dos cem inscritos, 22 participaram de um workshop e oito foram escolhidos para o elenco, que reuniu amadores e profissionais.[^fcms2018a][^fcms2018b]
 
-O espetáculo, de cerca de 45 minutos, é formado por quadros sobre intolerância, juventude e pequenas violências do dia a dia, e também discute o próprio fazer teatral. Na primeira temporada, as cenas aconteciam no foyer do teatro, a poucos metros do público.[^fcms2018a][^fcms2018c]
+O espetáculo, de cerca de 45 minutos, é formado por quadros sobre intolerância, juventude e pequenas violências do dia a dia, e também discute o próprio fazer teatral. No anúncio da primeira temporada, o diretor disse que as cenas se passavam no foyer do teatro, a poucos metros do público.[^fcms2018a][^fcms2018c]
 
 ## Temporadas
 
-A estreia foi no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. O anúncio marcava a primeira sessão para 3 de maio de 2018, com apresentações até o dia 6; o relato publicado pela Fundação em 4 de maio dá a estreia como 4 de maio.[^fcms2018a][^fcms2018b]
+A estreia foi no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. O anúncio marcava a primeira sessão para 3 de maio de 2018, com apresentações até o dia 6; o relato publicado pela Fundação em 4 de maio diz que a peça estreou "nesta quinta-feira (04.05)", embora a quinta-feira daquela semana fosse 3 de maio.[^fcms2018a][^fcms2018b]
 
 A segunda temporada foi anunciada para 7 a 10 de novembro de 2018, no Teatro Prosa do Sesc Horto, com entrada gratuita, em parceria com o Sesc Mato Grosso do Sul. O elenco divulgado era formado por Amanda Dim, Alexandre Melo, Daniele Samara, Leandro Faria, Ethieny Karen, Richard Lima e João Arce, com a voz de Aline Duenha.[^fcms2018c] Segundo o *Campo Grande News*, o espetáculo foi apresentado 20 vezes.[^cgn2023]
 

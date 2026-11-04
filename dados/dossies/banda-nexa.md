@@ -32,3 +32,9 @@ Descartadas: galeria de fotos de 22 jul. 2019 (sem texto). Facebook da banda cit
 
 - "Varal" e "Astral": ano exato de lançamento; links.
 - "Te quero", "A Vida Dela", "Para Pra Pensar": só anunciadas.
+
+## Atualização de 2026-11-04
+
+- Segunda fonte: *Campo Grande News*, Aletheya Alves, "Fim de semana tem Raça Negra, Arraial da Concha e evento científico", 19 jul. 2019 (https://www.campograndenews.com.br/lado-b/diversao/fim-de-semana-tem-raca-negra-arraial-da-concha-e-evento-cientifico): lista "Nexa" no domingo 21 jul. do Arraial da Concha. Só agenda; reforça o anúncio.
+- O título da FCMS de 14 fev. 2020 fala em "primeira edição da Quarta Cultural", mas a FCMS já anunciava a Quarta Cultural na Feira Central em ago. 2019 (Jeitão Pantaneiro, 7 ago. 2019). Provavelmente primeira edição de 2020; o verbete não usa "primeira edição".
+- Formação de 2019 (Gabriel de Britto, Felipe Soares, Caio Lucera, Iuri Martins) x 2020 (Gabriel Britto, Gabriel Andrade, Afonso Flash, Rafael Barros): ambas no verbete com o ano.

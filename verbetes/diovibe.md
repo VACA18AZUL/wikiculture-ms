@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Segundo o *Diário Corumbaense*, a banda começou com o guitarrista Petterson Souza e o vocalista Maxwell Melo, e depois recebeu o baterista e o baixista. O nome junta "Dio", Deus em italiano, e "Vibe", vibração em inglês. O grupo quer levar a mensagem cristã para fora das igrejas por meio do rock.[^dc2018] Em 2016, a formação era Maxwel Melo (voz e guitarra), Petterson Souza (guitarra), Douglas Andrade (baixo) e Jhonatan Nascimento (bateria). A banda cita como influências Oficina G3, Resgate e Fruto Sagrado, e toca de rockabilly a metal moderno.[^fcms2016a]
+Segundo o *Diário Corumbaense*, a banda começou com Petterson Souza (guitarra) e Maxwell Melo (voz) e depois recebeu o baterista e o baixista. O nome junta "Dio", Deus em italiano, e "Vibe", vibração em inglês. O grupo quer levar a mensagem cristã para fora das igrejas por meio do rock.[^dc2018] Em 2016, a formação era Maxwel Melo (voz e guitarra), Petterson Souza (guitarra), Douglas Andrade (baixo) e Jhonatan Nascimento (bateria). A banda cita como influências Oficina G3, Resgate e Fruto Sagrado, e toca de rockabilly a metal moderno.[^fcms2016a]
 
 No edital de 2016 do [[som-da-concha|Som da Concha]], ficou em 7º lugar entre os shows de abertura.[^fcms2016r] Em 24 de julho de 2016, abriu a noite de [[guga-borba|Guga Borba]] no projeto, na Concha Acústica Helena Meirelles, em Campo Grande. O vocalista disse que o público era maior que o habitual da banda.[^fcms2016b]
 
