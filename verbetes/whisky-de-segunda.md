@@ -25,7 +25,7 @@ Reportagens de outros veículos acompanham a banda em anos anteriores. O *Correi
 ## Videografia
 
 - *From Campo Grande to Chicago* — vídeo da banda publicado pelo canal [[vaca-azul|Vaca Azul]].[^vaca] [Assistir no YouTube](https://www.youtube.com/watch?v=DsCb5ZcyQlI) Um clipe com esse título é citado em reportagem de 14 de dezembro de 2018 entre os lançados pela banda desde agosto daquele ano.[^ce2018b]
-- *Crying Like I Never Cried Before* — videoclipe, com lançamento anunciado para 18 de agosto de 2018, no Blues Bar, em Campo Grande; direção e produção de [[larissa-neves|Larissa Neves]]; participação da cantora Marta Cel.[^ce2018a]
+- *Crying Like I Never Cried Before* — videoclipe, com lançamento anunciado para 18 de agosto de 2018, no Blues Bar, em Campo Grande; direção e produção de Larissa Neves; participação da cantora Marta Cel.[^ce2018a]
 - *Crazy Girl* — videoclipe, lançado em 14 de dezembro de 2018 junto com a cerveja de mesmo nome; as imagens são de Larissa Neves, e o gaitista Ivan Márcio faz participação.[^ce2018b]
 
 [^cgn2026]: Clayton Neves, ["Whisky de Segunda comemora 23 anos com festa em Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/whisky-de-segunda-comemora-23-anos-com-festa-em-campo-grande), *Campo Grande News*, 4 nov. 2026. Acesso em 4 nov. 2026.

@@ -47,3 +47,25 @@ Entraram formação, gênero, integrantes, anúncio da festa e o vídeo do Vaca 
 - Festa de 14 nov. 2026 é evento futuro (já escrito como anúncio).
 - Ano e conteúdo do vídeo From Campo Grande to Chicago.
 - Wikipédia pt: sem artigo sobre o verbete.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fontes novas (outros veículos: Correio do Estado e portal da Fundação de Cultura de MS):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| ce2018a | "Whisky de Segunda encoraja mulheres a soltarem a voz", Correio do Estado, 18 ago. 2018 | https://correiodoestado.com.br/cidades/2018/08/18/whisky-de-segunda-encoraja-mulheres-a-soltarem-a-voz.html | sim (só título do clipe, data, direção) |
+| ce2018b | "Whisky de Segunda encerra 15 anos com lançamento de clipe e cerveja 'Crazy Girl'", Correio do Estado, 14 dez. 2018 | https://correiodoestado.com.br/cidades/2018/12/14/whisky-de-segunda-encerra-15-anos-com-lancamento-de-clipe-e-cerveja-crazy-girl.html | sim |
+| fcms2016 | "Comando Pérola e Whisky de Segunda levantam o público do Som da Concha para dançar", FCMS, 26 set 2016 | https://www.fundacaodecultura.ms.gov.br/comando-perola-e-whisky-de-segunda-levantam-o-publico-do-som-da-concha-para-dancar/ | sim |
+| fcms2020 | Karina Medeiros de Lima, "Blues e Rock embalam as lives do Som da Concha deste fim de semana", FCMS, 25 nov 2020 | https://www.fundacaodecultura.ms.gov.br/blues-e-rock-embalam-o-som-da-concha-deste-fim-de-semana/ | sim |
+| fcms2022 | Gisele Colombo, "Black Music e Blues de Alex Silveira e Whisky de Segunda levantam o público do Som da Concha neste domingo", FCMS, 14 nov 2022 | https://www.fundacaodecultura.ms.gov.br/black-music-e-blues-de-alex-silveira-e-whisky-de-segunda-levantam-o-publico-do-som-da-concha-neste-domingo/ | sim |
+
+Lida e usada só como contexto: FCMS, 8 nov 2022 (anúncio do mesmo show; texto sobre Alex Silveira).
+
+Reforço independente: fundação em 2003 (15 anos em 2018 e 17 em 2020, ambos compatíveis); estilo blues tradicional 1950-60 (fcms2020); Jefferson Pasa na guitarra e Robson no vocal em 2016/2022; clipe *From Campo Grande to Chicago* citado em dez. 2018 (também resolve o ano do vídeo do Vaca Azul apenas como "mesmo título", sem provar que é o mesmo arquivo).
+Divergências registradas no verbete:
+- Nome do vocalista: "Robson Pereira" (CGN 2026 e FCMS 2016) x "Robson Rodrigues" (FCMS 2022 e CE 2018 no trecho do dueto).
+- Formação: em 2022, baixo Caue Fava e bateria Rick Drummer; em 2026, bateria Carlos Henrique e baixo Alexandre Artioli (mudança no tempo, não conflito).
+- Origem dos dois integrantes no curso de Arquitetura (CGN 2026): sem segunda fonte.
+Fora do verbete: tema do clipe *Crying Like I Never Cried Before* (violência sexual; só título, data, direção e participação); site da banda (whiskydesegunda.com.br) citado na matéria de 2022, não aberto.
+Larissa Neves: nome sem ligação a [[larissa-neves]] (identidade com a cineasta da lista-mestra não provada pelas matérias).

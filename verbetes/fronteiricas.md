@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Tema
 
-O filme acompanha o cotidiano de mulheres que vivem no antigo assentamento hoje chamado Distrito de Nova Itamarati, em Ponta Porã, na fronteira entre o Brasil e o Paraguai. Segundo o *Correio do Estado*, foi um dos maiores assentamentos da América Latina.[^ce2026] Com entrevistas, material de arquivo e uma roda de conversa, o documentário trata da condição da mulher do campo numa fronteira marcada por disputas de terra e por trocas culturais e econômicas entre os dois países.[^ce2026]
+O filme acompanha o cotidiano de mulheres que vivem no antigo assentamento hoje chamado Distrito de Nova Itamarati, em Ponta Porã, na fronteira entre o Brasil e o Paraguai. O *Correio do Estado* o descreve como um dos maiores assentamentos da América Latina.[^ce2026] Com entrevistas, material de arquivo e uma roda de conversa, o documentário trata da condição da mulher do campo numa fronteira marcada por disputas de terra e por trocas culturais e econômicas entre os dois países.[^ce2026]
 
 ## Exibição
 
