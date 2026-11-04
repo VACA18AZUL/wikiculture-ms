@@ -3,7 +3,7 @@ titulo: "Laura Santoro"
 tipo: pessoa
 areas: [teatro]
 cidade: Campo Grande
-resumo: "Atriz e autora de teatro de Campo Grande. Escreveu e protagoniza Como Nascem as Estrelas, peça sobre Glauce Rocha dirigida por Fernando Lopes Lima e lançada em dezembro de 2022."
+resumo: "Atriz e autora de teatro de Campo Grande. Escreveu e protagonizou Como Nascem as Estrelas, peça sobre Glauce Rocha dirigida por Fernando Lopes Lima e lançada em dezembro de 2022."
 ficha:
   Atividade: "Atriz; dramaturgia"
 status: rascunho
