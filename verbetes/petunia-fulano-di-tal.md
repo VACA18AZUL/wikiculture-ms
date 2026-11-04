@@ -25,7 +25,7 @@ Depois de Rochedo, a circulação foi programada para São Gabriel do Oeste, Mir
 
 - Dramaturgia, direção e produção: [[edner-gustavo|Edner Gustavo]][^fcms2025]
 - Colaboração dramatúrgica: Nicoli Dichoff[^fcms2025]
-- Atuação: [[kelly-figueiredo|Kelly Figueiredo]], Luana Vilela e Nicoli Dichoff[^fcms2025]
+- Atuação: Kelly Figueiredo, Luana Vilela e Nicoli Dichoff[^fcms2025]
 - Assistência de direção e produção: [[marcelo-leite|Marcelo Leite]][^fcms2025]
 - Cenário, figurino e maquiagem: [[douglas-moreira|Douglas Moreira]] e Edner Gustavo[^fcms2025]
 - Iluminação e técnica de palco: Breno Lucas[^fcms2025]
