@@ -21,8 +21,6 @@ Fechada no início da pandemia de covid-19, reabriu em 31 de agosto de 2021, com
 
 Em 2022, a Fundação Japão doou mangás à biblioteca. Segundo a coordenadora, a coleção do gênero passou de cerca de 30 para 1.030 títulos; 792 já tinham sido entregues quando o *Correio do Estado* publicou a reportagem.[^ce2022] Em 2024, o coordenador Aparecido Melchiades relatou o aumento de frequentadores que usavam a biblioteca para estudar para concursos e trabalhar.[^ce2024] Em abril de 2026, o acervo infantil recebeu cerca de 600 livros novos.[^acr2026]
 
-O [[encontro-do-proler|Encontro do Proler]] teve edições abertas na biblioteca.[^fcms2023b]
-
 [^ce2008]: Emilia Chacom, ["Biblioteca Isaías Paim completa 22 anos hoje"](https://correiodoestado.com.br/cidades/2008/02/17/biblioteca-isaias-paim-completa-22-anos-hoje.html), *Correio do Estado*, 17 fev. 2008. Acesso em 4 nov. 2026.
 [^ce2017]: Aline Oliveira, ["Biblioteca Isaías Paim abrirá aos sábados com sarau cultural"](https://correiodoestado.com.br/correio-b/2017/11/01/biblioteca-isaias-paim-abrira-aos-sabados-com-sarau-cultural.html), *Correio do Estado*, 1 nov. 2017. Acesso em 4 nov. 2026.
 [^ce2021]: Alex Nantes, ["Biblioteca Estadual reabre ao público nesta terça-feira (31)"](https://correiodoestado.com.br/cidades/2021/08/31/biblioteca-estadual-reabre-ao-publico-nesta-terca-feira-31.html), *Correio do Estado*, 31 ago. 2021. Acesso em 4 nov. 2026.

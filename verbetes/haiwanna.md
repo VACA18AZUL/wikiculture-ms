@@ -14,9 +14,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em 2014 a banda foi uma das cinco atrações escolhidas por edital da Fundação de Cultura para o 11º [[festival-america-do-sul-pantanal|Festival América do Sul]].[^ce2014a] O *Correio do Estado* registrou a banda entre os shows que antecederam o de Maria Gadú no festival, na Praça Generoso Ponce, em 3 de maio.[^ce2014c]
+Em 2014 a banda foi uma das cinco atrações escolhidas por edital da Fundação de Cultura para o 11º [[festival-america-do-sul-pantanal|Festival América do Sul]].[^ce2014a] O *Correio do Estado* registrou a banda entre os shows que antecederam, em 3 de maio, o de Maria Gadú no festival, na Praça Generoso Ponce.[^ce2014c]
 
-Em 4 de setembro de 2016 fez o show de encerramento do [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], a sexta participação no projeto. A formação era Hugo Carneiro (voz), Diegomar Ciaparini (guitarra), Danilo Lopes (baixo) e Walter Duailibi (bateria). O vocalista disse que a banda tinha feito mais de 120 shows naquele ano.[^fcms2016b] No show foram apresentadas quatro canções de um novo trabalho, *Contradições*.[^fcms2016a]
+Em 4 de setembro de 2016 fez o show de encerramento do [[som-da-concha|Som da Concha]], na [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]], a sexta participação no projeto. A formação era Hugo Carneiro (voz), Diegomar Ciaparini (guitarra), Danilo Lopes (baixo) e Walter Duailibi (bateria). O vocalista disse que a banda tinha feito mais de 120 shows naquele ano.[^fcms2016b] Na divulgação do show, o vocalista anunciou quatro canções de um novo trabalho, *Contradições*.[^fcms2016a]
 
 Em dezembro de 2020 a Fundação de Cultura anunciou a banda como encerramento do Som da Concha – Lives 2020, com repertório autoral e músicas do EP *Contradições*. A formação anunciada tinha Maykon Skudeller na bateria.[^fcms2020]
 
