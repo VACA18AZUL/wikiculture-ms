@@ -20,11 +20,11 @@ Em agosto de 2025, protagonizou com [[gleycielli-nonato-guato|Gleycielli Nonato 
 
 Em setembro de 2025, estava entre as ministrantes do projeto Ocupa Suburbanas, que levou oficinas de hip-hop feminino a escolas de Campo Grande e à Central Única das Favelas (CUFA).[^fcms2025b]
 
-Em abril de 2026, foi selecionada com o artista visual e editor Fabio Quill para representar Mato Grosso do Sul no projeto Arte da Palavra – Rede Sesc de Leituras, circuito nacional de literatura do Sesc.[^acritica2026] No mesmo ano, foi anunciada como convidada, com Katu Mirim, do show de encerramento da turnê *Ohenoi*, de [[anaranda|MC Anarandà]], em Campo Grande, em 30 de maio.[^fcms2026] Também participa do documentário [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2: Mulheres da Nova Música do MS*]], com lançamento anunciado para 29 de outubro de 2026, na Casa de Cultura de Campo Grande.[^acritica2026b]
+Em abril de 2026, foi selecionada com o artista visual e editor Fabio Quill para representar Mato Grosso do Sul no projeto Arte da Palavra – Rede Sesc de Leituras, circuito nacional de literatura do Sesc.[^acritica2026] No mesmo ano, foi anunciada como convidada, com Katu Mirim, do show da turnê *Ohenoi*, de [[anaranda|MC Anarandà]], marcado para 30 de maio em Campo Grande, última data da programação divulgada.[^fcms2026] Também participa do documentário [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2: Mulheres da Nova Música do MS*]], com lançamento anunciado para 29 de outubro de 2026, na Casa de Cultura de Campo Grande.[^acritica2026b]
 
 ## Filmografia
 
-- [[mapago|*Mapago*]] (2025) — curta-metragem; atuação.[^fcms2025a]
+- [[mapago|*Mapago*]] (filmagens em 2025) — curta-metragem; atuação.[^fcms2025a]
 - [[cenalternativa-2-mulheres-da-nova-musica|*CenAlternativa 2: Mulheres da Nova Música do MS – Parte 1*]] (2026) — documentário; depoimento.[^acritica2026b]
 
 [^fcms2025a]: Karina Medeiros de Lima, ["Mapago inicia filmagens e traz protagonismo indígena urbano para o cinema brasileiro"](https://www.fundacaodecultura.ms.gov.br/mapago-inicia-filmagens-e-traz-protagonismo-indigena-urbano-para-o-cinema-brasileiro/), Fundação de Cultura de MS, 4 ago. 2025. Acesso em 4 nov. 2026.
