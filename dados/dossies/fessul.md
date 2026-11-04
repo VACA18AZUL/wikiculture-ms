@@ -24,3 +24,9 @@ Segunda fonte: não encontrada. Nada mudou.
 ## Atualização de 2026-11-04 (r3-3)
 
 Tentativa r3-3: FCMS e Correio do Estado sem matéria sobre o festival de 1979-1981. Continua com fonte única (Caetano). Sugestão: Simões e Fonseca (UFMS, 1981) ou acervo físico do Correio do Estado.
+
+## Atualização de 2026-11-04
+
+- Segunda fonte independente buscada e não achada. Onde: API FCMS ("FESSUL", "Kananciuê", "Waradzu", "Festival Sul-Mato-Grossense"; o único resultado, de 2017, só lista "Kananciuê" no show dos 40 anos do estado), API RCN67, API A Crítica, busca do Correio do Estado (sem resultado real), busca do Campo Grande News (sem resultado), WebSearch (duas tentativas), Gonçalves (UFMS, 2014: sem FESSUL), Silus (Trilhas da História/UFMS: estudo bibliográfico, sem FESSUL), artigos sobre a TV Morena (UFG 2021; ANPUH 2019: sem FESSUL), Caetano em artigo da Unespar (mesmo autor, não independente).
+- O obituário de Onésimo Filho no Correio do Estado (8/8/2012) cita o Festão, mas não o FESSUL.
+- Pista ainda não aberta: Simões e Fonseca, *Festivais de Música em Mato Grosso do Sul* (UFMS, 1982), sem cópia digital localizada.
