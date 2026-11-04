@@ -44,3 +44,8 @@ Fontes descartadas e o motivo:
 ## Uso no verbete
 
 - Ficaram fora: idade (26), ocupação fora da arte, números de seguidores.
+
+## Atualização de 2026-11-04 (r3-2)
+
+Sem fonte independente lida. Busca (Brave) achou matérias do Midiamax (2023, 2025, 2026), G1 (18 ago. 2026, ponto de ônibus), Jornal OSM, Primeira Página, A Gazeta de Dourados, FatimaTem, mas: Midiamax (403/bloqueado), G1 (bloqueado), OSM (403), Primeira Página (403), FatimaTem (500) não abriram. A Gazeta de Dourados (8 out. 2026) abriu, mas credita a reportagem ao Campo Grande News (republicação; não conta). A página do YouTube "Rabisco Easy" abriu, sem descrição útil (perfil do próprio artista; não é fonte de fato).
+Pistas para nova tentativa: Midiamax "Artista de Campo Grande viraliza com 'grafite de presente' em pequenos negócios" (2025) e "Para pagar apartamento, casal grafita..." (2023; trata de vida pessoal, evitar); G1 MS 18/8/2026 sobre mural de ponto de ônibus. Sem mudança no verbete.
