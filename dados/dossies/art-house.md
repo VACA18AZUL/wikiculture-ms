@@ -39,3 +39,7 @@ Fontes novas abertas e lidas (Agência de Notícias do Governo de MS):
 - Frase removida do verbete: "A fonte não traz endereço, programação nem data de encerramento" (fica aqui: a tese não dá endereço, programação nem encerramento).
 - Não aberto: catálogo MARCO 30 anos (PDF, apareceu na busca; não aberto, sem indício de menção).
 - Situação: segue "reforcar" para o espaço.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova sobre o espaço. Buscas em Correio do Estado, Fundação de Cultura de MS (busca do site) e Itaú Cultural (403 ao fetch) por "Therezinha Neder"/"Art House": nada pertinente. Pistas: Menegazzo e Sá Rosa (fontes primárias da tese de Godoi), jornais de Campo Grande dos anos 1990.

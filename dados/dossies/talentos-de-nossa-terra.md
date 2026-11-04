@@ -29,3 +29,7 @@ Agente: atualizador + revisor-editorial (validação, bloco val-0). Fonte única
 ## Atualização de 2026-11-04 (reforço r2-2)
 
 - Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova. Buscas na Fundação de Cultura de MS e no Correio do Estado por "Talentos de Nossa Terra", "Estúdio 104" e kits de DVD: nada pertinente (busca do Itaú Cultural devolve 403). Pistas: TV Educativa/Fundação Estadual de Rádio e TV, Diário Oficial de MS (convênios), catálogo dos DVDs.

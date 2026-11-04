@@ -57,3 +57,7 @@ Nenhuma.
 ## Atualização de 2026-11-04 (reforço r2-2)
 
 - Nova rodada de buscas (abertas e em domínios oficiais: Prefeitura, Fundação de Cultura, Agência de Notícias, UFMS, Correio do Estado, Midiamax, A Crítica). Nenhuma fonte nova aberta e lida sustenta o tema; nada mudou no verbete. Continua com a(s) fonte(s) anterior(es).
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova. Buscas no Correio do Estado ("Dorval" etc.), Fundação de Cultura de MS e Crossref: nada além de Diehl (2009) e da matéria do CGN de 2013 sobre Honra. Identidade com o ator de Honra (2013) segue não confirmada.

@@ -29,3 +29,7 @@ Revisão e busca de segunda fonte (agente val-5):
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Busca aberta com o organizador (Manoel Sotero, Simona Oliveira) e a live: só o CGN de 26 out. 2020 e matérias antigas do mesmo veículo sobre Simona. Nada mudou.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova. Buscas no Correio do Estado ("Belchior", "Simona") e na Fundação de Cultura de MS: nada sobre a transmissão de 26/10/2020. Segue sem confirmação da realização. Pistas: perfil de Manoel Sotero de Oliveira (Simona) no Facebook/YouTube, outros veículos de MS de out. 2020.

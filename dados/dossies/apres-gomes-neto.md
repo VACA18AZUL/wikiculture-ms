@@ -17,3 +17,7 @@ Nada mudou no conteúdo por fonte nova. Ajuste de redação na abertura: a fonte
 - Fonte nova aberta e lida: "Espaço Arte leva exposições de artistas regionais para o Paço Municipal", CG Notícias (Prefeitura de Campo Grande), 3 jul. 2023, sem autoria. Sustenta: formação (licenciatura Leonardo da Vinci, bacharelado UFMS), atuação, mostra *Momentos* (4 a 30 jul. 2023, 11 quadros, óleo, acrílico e sanguínea, tema Pantanal), projeto Espaço Arte da Sectur, obras à venda; acrescenta: conselheiro municipal de cultura por quatro mandatos.
 - Limite: o texto do CGN de 4 jul. 2023 repete quase a mesma redação; provável origem comum (release da Prefeitura). Por isso NÃO conta como fonte independente. O verbete agora cita a fonte primária ao lado da matéria. O e-mail de contato do release ficou fora. O texto não informa naturalidade nem cidade de atuação; `cidade` continua vazio.
 - Situação: reforçar (sem fonte independente da prefeitura).
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova. Buscas em Correio do Estado e Fundação de Cultura de MS (páginas de busca) por "Apres Gomes Neto" e "Espaço Arte Paço Municipal": sem resultado pertinente. As duas notas atuais (CGN 4 jul. 2023 e CG Notícias/Prefeitura 3 jul. 2023) têm informações semelhantes e a segunda parece release; não contam como fontes independentes. Pistas: perfil do artista, Sectur/Fundac, Conselho Municipal de Cultura.

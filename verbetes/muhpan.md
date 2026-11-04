@@ -8,6 +8,10 @@ ficha:
   Criação: "2008"
   Local: "Casario do Porto, Corumbá"
   Gestão: "Fundação Barbosa Rodrigues"
+links:
+  - tipo: wikipedia
+    url: "https://pt.wikipedia.org/wiki/Museu_de_Hist%C3%B3ria_do_Pantanal"
+    acesso: 2026-11-04
 status: rascunho
 atualizado: 2026-11-04
 ---

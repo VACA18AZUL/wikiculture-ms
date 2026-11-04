@@ -33,6 +33,7 @@ Fontes descartadas e o motivo:
 ## Não confirmado
 
 - Se o museu segue aberto hoje e quem o administra atualmente (a FCMS em 2025 o cita como atração).
+- Wikipédia (conferência, não fonte): criado pelo professor Carlos Etchevarne, projeto expográfico de Nivaldo Vitorino, em funcionamento desde 2008, reforma em 2017 com recursos da Caixa; rua Manoel Cavassa, Porto Geral. Sem divergência com as fontes lidas; esses fatos não entram sem fonte aberta.
 - Cidade de Edson Castro.
 
 ## Ligações com outros nomes

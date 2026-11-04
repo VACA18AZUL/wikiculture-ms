@@ -21,3 +21,7 @@ Nada mudou no texto. Continua com fonte única: Moser (ABRACE, 2018), que resume
 ## Atualização de 2026-11-04 (reforço r2-3)
 
 Buscas restritas a FCMS, Agência, Correio do Estado, A Crítica, UFMS, UEMS, UCDB sobre TUC, GUTAC e festivais estudantis: nada cita o festival. CGN, "Na literatura, música e dança, professora Glorinha se despede deixando história" (28 jul. 2016): diz que Sá Rosa coordenou diversos festivais de teatro e música em Campo Grande e, na Fucmat, respondia pelos festivais de teatro e música do estado; não nomeia este festival. Não entrou (ligação não confirmada). Segue fonte única (Moser). "reforcar".
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova. Crossref: busca por título do festival, Faculdade Dom Aquino e teatro mato-grossense devolve o artigo "Teatro mato-grossense: história, cultura e ideologia" (Revista Conexão Letras, 2015, https://doi.org/10.22456/2594-8962.55603), não lido nesta rodada. Fonte única continua Moser (ABRACE, 2018), que relata Maria da Glória Sá Rosa (1992). Pista: ler esse artigo e o ensaio de Sá Rosa.

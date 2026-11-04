@@ -28,3 +28,7 @@ Dossiê criado em 2026-11-04 no reforço r-4, só com o que foi apurado nesta ro
 - DIVERGÊNCIA (possível): Bijou funcionando c. 1905 (Correio, 2010) x fundado em 1919 (Rosa, citada por Moser). Não se pode afirmar que seja o mesmo espaço; o verbete registra as duas versões, com a ressalva. Moser já dizia que a data de 1919 precisa ser discutida.
 - Outras buscas (domínios de Corumbá, Correio, CGN, UFMS): matérias sobre a reabertura do cinema em Corumbá (2025) sem relação com o Bijou. Scielo "O cinema silencioso e o som no Brasil (1894-1920)" cita Bijou do Rio de Janeiro; descartado.
 - Situação: reforçar. Pista: Hemeroteca Digital, jornais de Corumbá c. 1905-1919.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova. Abertos e sem menção ao Bijou: artigo de História em Reflexão (UFGD, 2025, doi 10.30612/rehr.v21i41.20224) sobre lazer fluvial em Corumbá. Busca no Crossref por Bijou/Odeon Corumbá sem acerto; Fundação de Cultura sem resultado. Segue a divergência já registrada (1919 segundo Sá Rosa via Moser; cerca de 1905 segundo o Correio do Estado, 2010). Pista: capítulo "O porto: lazer e urbanidade em Corumbá" (RFB Editora, 2026, doi 10.46898/rfb.0d97db7b86f4), não aberto.

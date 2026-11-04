@@ -58,3 +58,7 @@ Nenhuma.
 ## Atualização de 2026-11-04 (r2-1)
 
 Segunda fonte: não encontrada. Ver a atualização de a-marca-do-destino: a matéria do CGN de 2018 sobre Couto não cita este curta nem Dorval, por isso não entrou aqui.
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova. Buscas no Correio do Estado, Fundação de Cultura de MS e Crossref por Reinaldo Dorval/filme sertanejo/cinema amador: nada além de Diehl (UFMS, 2009).

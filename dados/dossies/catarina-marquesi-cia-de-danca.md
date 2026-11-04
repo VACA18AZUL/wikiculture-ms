@@ -15,3 +15,7 @@ O que mudou no verbete: autora acrescentada à nota `cgn`. Continua com fonte ú
 - Cinco buscas novas (incl. domínios da Prefeitura, FCMS, Midiamax, Correio do Estado, A Crítica). Nenhuma fonte fora do CGN cita a companhia ou o CIAD 2024 dela.
 - Abertas e descartadas: CGN, Gabi Cenciarelli, "Dançarinas de MS ganham 13 prêmios em concurso internacional na Argentina" (23 set. 2024) e CGN, Idaicy Solano, "Balé de MS fala da luta de mulheres..." (6 jun. 2024): tratam do Espaço de Dança Suzana Leite (grupos Sanssouci e Prelúdio) no mesmo CIAD; não citam Catarina Marquesi. Não usar.
 - Continua com fonte única (CGN, Thailla Torres, 29 set. 2024).
+
+## Atualização de 2026-11-04 (r3-1)
+
+Tentativa de reforço sem fonte nova. Buscas no Correio do Estado ("Marquesi", "CIAD") e na Fundação de Cultura de MS: nada. Perfil de Instagram pedido por curl abre só a tela de login; não lido, não incluído. Pistas: organização do CIAD 2024 (resultados), Ginga Espaço de Dança.
