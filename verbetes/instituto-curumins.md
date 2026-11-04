@@ -2,7 +2,7 @@
 titulo: Instituto Curumins
 tipo: grupo
 areas: [audiovisual, literatura]
-resumo: Organização da sociedade civil que realizou a Bienal Pantanal em 2025, com o Instituto Ímole, e executa com a Fundação de Cultura de MS o projeto Rota Cine MS.
+resumo: Instituto que realizou a Bienal Pantanal em 2025, com o Instituto Ímole, e executa com a Fundação de Cultura de MS o projeto Rota Cine MS.
 ficha:
   Atividade: Realização de projetos culturais
 status: rascunho
@@ -17,7 +17,7 @@ O instituto aparece entre os realizadores da [[bienal-do-livro-de-ms-bienal-pant
 
 Em novembro de 2025, o instituto realizou a oficina "Contos e Cantigas", de narração oral com música, conduzida por Marta Cel e Conceição Leite na Casa de Cultura, em Campo Grande, com recursos da Política Nacional Aldir Blanc (PNAB) repassados pela prefeitura.[^fcms2025b]
 
-O instituto executa com a Fundação de Cultura de Mato Grosso do Sul (FCMS) o projeto [[rota-cine-ms|Rota Cine MS]], pelo Termo de Fomento nº 5499/2025, com recursos da PNAB.[^fcms2026a][^acritica2026] Dentro do projeto, o [[mis-ms|Museu da Imagem e do Som]] reabriu em fevereiro de 2026 com a exposição [[fotografia-e-memoria-2026|Fotografia e Memória]].[^acritica2026] Em abril, o projeto abriu um formulário de diagnóstico do audiovisual do estado,[^fcms2026c] e em maio abriu no MIS a mostra "MS Memórias Audiovisuais".[^fcms2026d]
+O instituto executa com a Fundação de Cultura de Mato Grosso do Sul (FCMS) o projeto [[rota-cine-ms|Rota Cine MS]], pelo Termo de Fomento nº 5499/2025, com recursos da PNAB.[^fcms2026a][^acritica2026] O [[mis-ms|Museu da Imagem e do Som]] reabriu em 26 de fevereiro de 2026 com a exposição [[fotografia-e-memoria-2026|Fotografia e Memória]], que integra o projeto.[^fcms2026a][^acritica2026] Em abril, o projeto abriu um formulário de diagnóstico do audiovisual do estado,[^fcms2026c] e em maio abriu no MIS a mostra "MS Memórias Audiovisuais".[^fcms2026d]
 
 A FCMS também apresentou o instituto como realizador do Festival da Juventude 2026, em parceria com a [[ufms|UFMS]], programado para 26 a 28 de março de 2026.[^fcms2026b]
 

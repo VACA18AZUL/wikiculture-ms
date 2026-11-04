@@ -12,11 +12,11 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **MS ao Vivo** é um projeto de shows gratuitos no Parque das Nações Indígenas, em Campo Grande, realizado pelo governo de Mato Grosso do Sul, por meio da Fundação de Cultura, em parceria com o Sesc MS. Em 2023, o governo oferecia o espaço e a estrutura e o Sesc pagava os cachês. A proposta é juntar atrações nacionais a artistas da região.[^cgn2023]
+O **MS ao Vivo** é um projeto do governo estadual, executado pela Fundação de Cultura de MS com o Sesc MS, que leva shows de entrada franca ao Parque das Nações Indígenas, em Campo Grande. Em 2023, o governo oferecia o espaço e a estrutura e o Sesc pagava os cachês. A proposta é juntar atrações nacionais a artistas da região.[^cgn2023]
 
 ## Edições
 
-A primeira edição foi em 16 de julho de 2023, com a banda Natiruts e abertura de [[karla-coronel|Karla Coronel]]. O *Campo Grande News* registrou que os shows gratuitos voltavam ao parque quase dez anos depois do fim do MS Canta Brasil, encerrado em 2014.[^cgn2023] Ainda em 2023, segundo a Fundação de Cultura, passaram pelo palco Anavitória, Rubel, Forró Ipê de Serra, Criolo e outros.[^fcms2025]
+A primeira edição foi em 16 de julho de 2023, com a banda Natiruts e abertura de [[karla-coronel|Karla Coronel]]; a Fundação estimou o público em 20 mil pessoas.[^fcms2025] No dia do show, o *Campo Grande News* registrou que os shows gratuitos voltavam ao parque quase dez anos depois do fim do MS Canta Brasil, encerrado em 2014.[^cgn2023] Ainda em 2023, segundo a Fundação de Cultura, passaram pelo palco Anavitória, Rubel, Forró Ipê de Serra, Criolo e outros.[^fcms2025]
 
 A temporada de 2024 abriu em 10 de março com o trio Elllas e participação de [[tete-espindola|Tetê Espíndola]], depois que a cantora Margareth Menezes cancelou a apresentação. No mesmo ano houve shows de Marina Sena, em setembro, e Jota Quest, em 13 de outubro, e Dudu Nobre foi anunciado para novembro no lugar de Alcione, cujo show foi cancelado.[^ce2024] A Fundação lista ainda Falamansa, Toni Garrido, Zeca Baleiro e Chico César, com abertura de [[jerry-espindola|Jerry Espíndola]], Diogo Nogueira e Lenine com o maestro Spok, e soma mais de 100 mil pessoas nas nove edições do ano.[^fcms2025]
 

@@ -45,3 +45,9 @@ Lidas e não usadas: FCMS 2019 (FIB 2019, contação de histórias, CMU) e FCMS 
 
 - Entrou: proposta, apresentações anunciadas 2021, 2025, 2026.
 - Fora: adjetivos ("referência"), primeiros nomes dos novos integrantes sem sobrenome.
+
+## Acréscimo (Campo Grande News)
+
+- cgn2026: Clayton Neves, "Batucando Histórias comemora 9 anos com show de graça para a criançada", Campo Grande News, 17 jul. 2026, https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/batucando-historias-comemora-9-anos-com-show-de-graca-para-a-criancada — grupo sul-mato-grossense de musicalização infantil; 9 anos com show gratuito anunciado para sábado 18 jul. 2026, Estação Cultural Teatro do Mundo; estreia da nova formação (vocalista "Tia Carol", baterista Calebe). Entrou.
+- CGN 17 jan. 2026 (Feira dos Baixinhos, Teatro do Mundo) cita o grupo na programação; não usado.
+- Divergência aparente: show de 9 anos em 18 jul. no Teatro do Mundo [cgn2026] e "Um Novo Ritmo", também pelos 9 anos, em 25 jul. no Sesc Teatro Prosa [acritica2026]: dois eventos distintos; os dois entram.

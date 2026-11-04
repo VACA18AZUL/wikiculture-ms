@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-A **Orquestra Corumbaense de Viola Caipira** (OCVC) é um conjunto de viola caipira de [[corumba|Corumbá]]. Nasceu a partir de 2010 no Instituto Acaia de Corumbá, que transferiu o trabalho para o Sesc depois que a entidade se instalou na cidade.[^fcms2025]
+A **Orquestra Corumbaense de Viola Caipira** (OCVC) é um conjunto de viola caipira de Corumbá. Nasceu a partir de 2010 no Instituto Acaia de Corumbá, que transferiu o trabalho para o Sesc depois que a entidade se instalou na cidade.[^fcms2025]
 
 ## Trajetória
 

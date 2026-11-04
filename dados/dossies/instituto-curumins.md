@@ -47,3 +47,8 @@ Fontes descartadas: nenhuma.
 ## Uso no verbete
 
 - Entrou tudo acima; Festival da Juventude como anúncio.
+
+## Atualização de 2026-11-04
+
+- Revisão: nenhuma fonte lida descreve a natureza jurídica do instituto ("organização da sociedade civil" saiu do resumo). Reabertura do MIS em 26 fev. 2026 (A Crítica, relato); a FCMS (23 fev.) diz que a exposição integra o Rota Cine MS.
+- Festival da Juventude 2026: só anúncio (FCMS 20 fev. 2026).
