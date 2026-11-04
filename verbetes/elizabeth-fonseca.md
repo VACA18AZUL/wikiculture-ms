@@ -22,7 +22,7 @@ atualizado: 2026-11-04
 
 Formou-se em declamação no Curso Maria Sabina Arte de Dizer, em 1997. Em 2003, fundou o Curso Arte de Dizer Castro Alves, no qual dá aulas e com o qual faz recitais anuais. Tem graduação em Ciências Contábeis e especialização em Literatura e Língua Portuguesa Contemporânea pela Universidade Católica Dom Bosco (UCDB).[^asl]
 
-Tomou posse na Academia em 25 de setembro de 2012.[^asl] Em 2020, lançou com [[guimaraes-rocha|Guimarães Rocha]], [[henrique-de-medeiros|Henrique de Medeiros]], [[ileides-muller|Ileides Muller]] e [[rubenio-marcelo|Rubenio Marcelo]] o livro coletivo *Vertentes: nossos poemas*, da Life Editora. O lançamento foi marcado para 10 de março de 2020, na sede da Academia, em Campo Grande. A matéria descreve os versos dela como objetivos e voltados a pessoas, fatos e lugares.[^dn2020]
+Tomou posse na Academia em 25 de setembro de 2012.[^asl] Em 2020, foi anunciado o lançamento do livro coletivo que assina com [[guimaraes-rocha|Guimarães Rocha]], [[henrique-de-medeiros|Henrique de Medeiros]], [[ileides-muller|Ileides Muller]] e [[rubenio-marcelo|Rubenio Marcelo]], *Vertentes: nossos poemas*, da Life Editora. A noite de autógrafos foi marcada para 10 de março de 2020, na sede da Academia, em Campo Grande. Segundo a matéria, o prefaciador Geraldo Ramon Pereira descreve os versos dela como objetivos e voltados a pessoas, fatos e lugares.[^dn2020]
 
 Recebeu o certificado Amigo da Cultura, da Fundac, em 2005, 2006 e 2007, e o prêmio Mérito Literário da IV Femerco – Feira do Livro do Mercosul, em Campo Grande, em 2007.[^asl]
 
@@ -31,7 +31,7 @@ Recebeu o certificado Amigo da Cultura, da Fundac, em 2005, 2006 e 2007, e o pr�
 - *Sonhos Azuis* (1991) — poesias e crônicas.[^asl]
 - *Retalhos da Vida* (1999) — poesias e crônicas.[^asl]
 - *Além da Janela* (2008) — poesias e crônicas.[^asl]
-- *Contexto poético de Castro Alves e Thiago de Mello* — sem ano na fonte.[^asl]
+- *Contexto poético de Castro Alves e Thiago de Mello – Subsídios para uma declamação comentada*.[^asl]
 - *Vertentes: nossos poemas* (2020) — poesia, em coautoria; Life Editora.[^asl][^dn2020]
 
 [^asl]: ["Elizabeth Fonseca"](https://acletrasms.org.br/portfolio-item/elizabeth-fonseca/), *Academia Sul-Mato-Grossense de Letras*, página dos acadêmicos, cadeira 25. Acesso em 4 nov. 2026.
