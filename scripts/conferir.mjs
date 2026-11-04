@@ -2,6 +2,7 @@
 //   ERRO  -> impede a publicação (o comando termina com falha)
 //   AVISO -> não impede, mas merece atenção
 import { readdirSync, readFileSync } from 'node:fs';
+import { parseDocument } from 'yaml';
 import { TIPOS_LINK, DOMINIOS_MIDIA, SECOES_MIDIA, RASTREIO, dominioAceito } from '../src/lib/links.mjs';
 
 const PASTA = './verbetes';
@@ -10,6 +11,7 @@ const ids = new Set(arquivos.map((f) => f.replace(/\.md$/, '')));
 const erros = [];
 const avisos = [];
 const desejados = new Set();
+const fonteUnica = [];
 // Produções audiovisuais e suas equipes, para conferir os verbetes de quem fez cada obra.
 const producoes = new Map();
 const obrasNaTrajetoria = new Map();
@@ -23,6 +25,16 @@ for (const arquivo of arquivos) {
   }
   const ficha = partes[1];
   const corpo = partes[2];
+
+  // YAML da ficha, lido com as mesmas opções do Astro (@astrojs/internal-helpers/yaml).
+  const doc = parseDocument(ficha, { customTags: ['timestamp'], merge: true, schema: 'core' });
+  if (doc.errors.length) {
+    for (const e of doc.errors) {
+      const linha = (e.linePos?.[0]?.line ?? 0) + 1; // +1 pela linha do --- inicial
+      erros.push(`${arquivo}:${linha}: YAML inválido na ficha -> ${e.message.split('\n')[0].replace(/ at line \d+, column \d+:?$/, '')}`);
+    }
+    continue;
+  }
 
   const id = arquivo.replace(/\.md$/, '');
   const videos = [];
@@ -38,6 +50,7 @@ for (const arquivo of arquivos) {
       const tipo = campo('tipo');
       const endereco = campo('url');
       if (!tipo || !endereco) continue; // o build acusa campos ausentes
+      if (tipo === 'outro' && !campo('rotulo')) avisos.push(`${arquivo}: link do tipo "outro" sem rotulo -> ${endereco}`);
       if (!campo('acesso')) erros.push(`${arquivo}: link ${endereco} sem data de acesso`);
       if (tipo === 'video') {
         if (!dominioAceito(endereco, DOMINIOS_MIDIA)) erros.push(`${arquivo}: link do tipo "video" fora das plataformas de vídeo -> ${endereco}`);
@@ -109,6 +122,20 @@ for (const arquivo of arquivos) {
   for (const n of definidas) if (!usadas.has(n)) avisos.push(`${arquivo}: nota [^${n}] definida mas não usada`);
   if (definidas.size === 0) erros.push(`${arquivo}: nenhuma fonte citada`);
 
+  // Fonte única: todas as notas apontam para o mesmo domínio (nota sem link conta como fonte própria).
+  const origens = new Set();
+  for (const m of corpo.matchAll(/^\[\^([^\]]+)\]:(.*)$/gm)) {
+    const url = m[2].match(/https?:\/\/[^\s)"'>\]]+/)?.[0];
+    let chave = `nota:${m[1]}`;
+    if (url) {
+      try {
+        chave = new URL(url).hostname.replace(/^www\./, '');
+      } catch {}
+    }
+    origens.add(chave);
+  }
+  if (origens.size === 1) fonteUnica.push(id);
+
   const titulo = ficha.match(/^titulo:\s*(.+)$/m)?.[1].trim().replace(/^["']|["']$/g, '') ?? id;
   if (equipe.size) producoes.set(id, { titulo, equipe, videos });
   obrasNaTrajetoria.set(id, trechoObras);
@@ -138,6 +165,9 @@ for (const [obra, { titulo, equipe, videos }] of producoes) {
 
 console.log(`${arquivos.length} verbetes conferidos.`);
 if (desejados.size) console.log(`Verbetes desejados (citados, ainda sem página): ${[...desejados].sort().join(', ')}`);
+if (fonteUnica.length) {
+  avisos.push(`verbetes com fonte única (todas as notas no mesmo domínio; merecem segunda fonte): ${fonteUnica.sort().join(', ')}`);
+}
 for (const a of avisos) console.log(`AVISO  ${a}`);
 for (const e of erros) console.log(`ERRO   ${e}`);
 if (erros.length) {

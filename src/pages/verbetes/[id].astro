@@ -64,7 +64,7 @@ const correcao =`${REPO}/issues/new?title=${encodeURIComponent('Correção: ' + 
       <h2 class="secao">Ligações externas</h2>
       <ul>
         {links.map((l) => (
-          <li><a href={l.url} rel="noopener">{l.rotulo ?? TIPOS_LINK[l.tipo].rotulo}</a></li>
+          <li><a href={l.url} rel="noopener">{l.rotulo ?? TIPOS_LINK[l.tipo].rotulo ?? new URL(l.url).hostname.replace(/^www\./, '')}</a></li>
         ))}
       </ul>
     </section>
