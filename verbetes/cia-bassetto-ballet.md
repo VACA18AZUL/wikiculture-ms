@@ -12,24 +12,25 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Cia Bassetto Ballet**, também chamada Bassetto Ballet, é um projeto social de Campo Grande que dá aulas gratuitas de balé clássico a crianças e adolescentes de 3 a 15 anos, no contraturno escolar.[^fcms2020][^ce2020]
+**Cia Bassetto Ballet**, também chamada Bassetto Ballet, é um projeto social de Campo Grande que dá aulas gratuitas de balé clássico a crianças e adolescentes de 3 a 15 anos, no contraturno escolar.[^fcms2020][^ce2020][^cgn2019]
 
 ## Trajetória
 
-As aulas acontecem no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], unidade da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], que apoia o projeto.[^fcms2019a][^fcms2020] O coordenador é Adalton Garcia.[^fcms2019b]
+As aulas acontecem no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]], unidade da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], que apoia o projeto.[^fcms2019a][^fcms2020] O coordenador é Adalton Garcia.[^fcms2019b][^cgn2019]
 
-Segundo o coordenador, o nome homenageia Cecília Bassetto, primeira aluna do projeto aprovada na escola do Teatro Bolshoi no Brasil, em Joinville (SC). Ele contou que outras três crianças do projeto foram aprovadas em 2013 e que outros alunos foram admitidos depois na mesma escola.[^fcms2019b]
+Segundo o coordenador, o nome homenageia Cecília Bassetto, primeira aluna do projeto aprovada na escola do Teatro Bolshoi no Brasil, em Joinville (SC). Ele contou que outras três crianças do projeto foram aprovadas em 2013 e que outros alunos foram admitidos depois na mesma escola.[^fcms2019b] Ao *Campo Grande News*, em dezembro de 2019, ele também disse que alunos do projeto já tinham sido aceitos na escola do Bolshoi em Joinville.[^cgn2019]
 
-As fontes trazem duas idades para o projeto. Em julho de 2019 a Fundação de Cultura escreveu que ele completava sete anos de atividade, número repetido pelo coordenador em dezembro.[^fcms2019a][^fcms2019b] No mesmo período, o coordenador disse que o Bassetto Ballet começou havia dois anos, com dois alunos.[^fcms2019c][^fcms2020]
+As fontes trazem duas idades para o projeto. Em julho de 2019 a Fundação de Cultura escreveu que ele completava sete anos de atividade, número repetido pelo coordenador em dezembro.[^fcms2019a][^fcms2019b] No mesmo período, o coordenador disse que o Bassetto Ballet começou havia dois anos, com dois alunos.[^fcms2019c][^fcms2020] O *Campo Grande News* registra as duas informações no mesmo texto: o coordenador fala em sete anos de projeto, e o jornal diz que ele começou com duas crianças.[^cgn2019]
 
-Em julho de 2019 o Centro Cultural abriu inscrições para 48 vagas em seis turmas, com aulas previstas para os bailarinos Bárbara Martins e João Vitor Rodrigues da Fonseca.[^fcms2019a] Em dezembro do mesmo ano o projeto tinha 156 alunos.[^fcms2019b] Em janeiro de 2020 abriu mais 110 vagas; o coordenador anunciou que, com elas, o projeto passaria de 8 para 18 turmas.[^fcms2020][^ce2020]
+Em julho de 2019 o Centro Cultural abriu inscrições para 48 vagas em seis turmas, com aulas previstas para os bailarinos Bárbara Martins e João Vitor Rodrigues da Fonseca.[^fcms2019a] Em dezembro do mesmo ano o projeto tinha 156 alunos.[^fcms2019b][^cgn2019] Em janeiro de 2020 abriu mais 110 vagas; o coordenador anunciou que, com elas, o projeto passaria de 8 para 18 turmas.[^fcms2020][^ce2020]
 
 ## Espetáculos
 
-- *As Quatro Estações* (2019) — espetáculo com 112 alunos, apresentado em 19 de dezembro no [[teatro-dom-bosco|Teatro Dom Bosco]], com músicas de Vivaldi. Teve a participação do ator Leo Ribeiro, como o Senhor do Tempo, e dos bailarinos Cecília Bassetto e Kayke Carvalho, do Ballet Bolshoi Brasil.[^fcms2019b][^fcms2019c]
+- *As Quatro Estações* (2019) — espetáculo com 112 alunos, apresentado em 19 de dezembro no [[teatro-dom-bosco|Teatro Dom Bosco]], com músicas de Vivaldi. Teve a participação do ator Leo Ribeiro, como o Senhor do Tempo, e dos bailarinos Cecília Bassetto e Kayke Carvalho, do Ballet Bolshoi Brasil. Segundo o coordenador, a peça, inspirada em Vivaldi, trata das etapas da vida; a entrada foi gratuita.[^fcms2019b][^fcms2019c][^cgn2019]
 
 [^ce2020]: Naiane Mesquita, ["Projeto social que ensina balé para crianças está com inscrições abertas"](https://correiodoestado.com.br/correio-b/2020/01/19/projeto-social-que-ensina-bale-para-criancas-esta-com-inscricoes-abertas.html), *Correio do Estado*, 19 jan. 2020. Acesso em 4 nov. 2026.
 [^fcms2019a]: Fundação de Cultura de MS, ["Centro Cultural abre inscrições gratuitas para curso de Ballet"](https://www.fundacaodecultura.ms.gov.br/24422-2/), 18 jul. 2019. Acesso em 4 nov. 2026.
 [^fcms2019b]: Fundação de Cultura de MS, ["Cia Bassetto Ballet apresenta espetáculo As Quatro Estações no próximo dia 19, no Teatro Dom Bosco"](https://www.fundacaodecultura.ms.gov.br/cia-bassetto-ballet-apresenta-espetaculo-as-quatro-estacoes-no-proximo-dia-19-no-teatro-dom-bosco/), 9 dez. 2019. Acesso em 4 nov. 2026.
 [^fcms2019c]: Fundação de Cultura de MS, ["Teatro Dom Bosco apresenta 'As Quatro Estações', da Cia Bassetto Ballet"](https://www.fundacaodecultura.ms.gov.br/com-112-criancas-a-peca-as-quatro-estacoes-lotou-publico-presente-no-teatro-dom-bosco/), 20 dez. 2019. Acesso em 4 nov. 2026.
 [^fcms2020]: Fundação de Cultura de MS, ["Bassetto Ballet abre 110 novas vagas de balé clássico gratuito para crianças e adolescentes"](https://www.fundacaodecultura.ms.gov.br/bassetto-ballet-abre-110-novas-vagas-de-bale-classico-gratuito-para-criancas-e-adolescentes/), 17 jan. 2020. Acesso em 4 nov. 2026.
+[^cgn2019]: Alana Portela, ["Espetáculo de dança fala sobre as etapas da vida com composições de Vivaldi"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/espetaculo-de-danca-fala-sobre-as-etapas-da-vida-com-composicoes-de-vivaldi), *Campo Grande News*, 19 dez. 2019. Acesso em 4 nov. 2026.

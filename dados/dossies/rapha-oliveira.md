@@ -31,3 +31,9 @@ cgn2025 lista um professor "Rapha Oliveira" na Adote – Cia Teatral Ator Doming
 
 - *A Fabulosa Homenagem aos Grandes Ícones da Música Brasileira, ou Quase Isso*: o g1 diz que Eduardo e Mônica surgiu desse espetáculo, mas não diz que ele é de Rapha Oliveira. Item retirado da lista de Espetáculos até haver fonte de autoria.
 - Busca por segunda fonte (Google Notícias, "Rapha Oliveira" teatro): só as matérias já usadas e a da Adote Cia (cgn2025), que não liga o professor homônimo a ele. Trajetória depende do g1.
+
+## Atualização de 2026-11-04 (r8)
+
+- Nova fonte independente: Amanda Ferreira, "Jovens atores do Grupo Diga Sim apresentam releituras", *O Estado de MS*, 26/11/2025 (https://oestadoonline.com.br/arte-e-lazer/jovens-atores-do-grupo-diga-sim-apresentam-releituras/), entrevista própria do jornal. Sustenta: diretor do Grupo/Teatro Diga Sim; curso Laboratório de Atuação Teatral; festival de releituras de 28/11/2025 no Teatro Allan Kardec (16 alunos, cinco grupos); trilogia do grupo (2019 tributo a TV e cinema; 2022 *A Fabulosa Homenagem...*; 2025 *A Formidável Exaltação...*). Identidade: mesmo nome, mesma cidade, mesma área, e o repertório cita *Eduardo e Mônica*; a autoria pessoal de *A Fabulosa Homenagem* continua sem fonte (o jornal atribui ao grupo).
+- Nova: agenda do *O Estado de MS*, 30/1/2026: *Monólogos da Madrugada*, alunos do Diga Sim, direção de Rapha Oliveira, Teatro Aracy Balabanian, 31/1/2026.
+- Não usada: *O Estado de MS*, 26/4/2026, "Atriz de Quinta – Beth Terras Por Trás das Luzes" (monólogo da ADOTE com direção de "Rapha Oliveira"): nenhuma fonte liga o diretor da ADOTE ao do Diga Sim; mantida a cautela do cgn2025.
