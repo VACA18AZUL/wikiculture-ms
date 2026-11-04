@@ -6,7 +6,7 @@ cidade: Campo Grande
 resumo: Radialista e advogado de Campo Grande, diretor da Rádio Educação Rural e um dos organizadores dos festivais de música popular da cidade a partir de 1967. Morreu em 2012.
 ficha:
   Outra grafia: "Aílton Guerra"
-  Morte: "17 de abril de 2012, Campo Grande"
+  Morte: "17 de abril de 2012"
   Atividade: "Radialista; advogado"
 status: rascunho
 atualizado: 2026-11-04

@@ -8,7 +8,7 @@ ficha:
   Direção: "Tero Queiroz"
   Codireção: "Aly Freitas"
   Ano: "2026"
-  Formato: "Curta-metragem de ficção"
+  Formato: "Curta-metragem, drama de suspense rural"
 status: rascunho
 atualizado: 2026-11-04
 ---
@@ -21,7 +21,7 @@ O curta foi filmado inteiramente em Campo Grande, de 26 a 31 de janeiro de 2026,
 
 ## Exibição
 
-*Amoitado* foi selecionado para a mostra competitiva Curta MS do 3º [[festival-curta-campo-grande|Festival Curta Campo Grande]], ao lado de outros seis filmes de Mato Grosso do Sul.[^acritica2026] A primeira exibição pública foi marcada para 30 de outubro de 2026, às 20h, na Associação Cultural Teatro do Mundo, como último filme da sessão.[^ce2026]
+*Amoitado* foi selecionado para a mostra competitiva Curta MS do 3º [[festival-curta-campo-grande|Festival Curta Campo Grande]], ao lado de outros seis filmes de Mato Grosso do Sul.[^acritica2026][^ce2026] A primeira exibição pública foi marcada para 30 de outubro de 2026, às 20h, na Associação Cultural Teatro do Mundo, como último filme da sessão.[^ce2026]
 
 ## Ficha técnica
 
@@ -45,7 +45,7 @@ O curta foi filmado inteiramente em Campo Grande, de 26 a 31 de janeiro de 2026,
 - Montagem e colorização: [[dimitre-lucho|Dimitre Lucho]][^ce2026]
 - Edição de som, desenho sonoro e finalização de áudio: [[diego-techera|Diego Techera]][^ce2026]
 - Finalização e cor: [[benedito-estudio|Benedito Estúdio]][^ce2026]
-- Elenco: [[douglas-caetano|Douglas Caetano]] (Carlos), [[renato-passos|Renato Passos]] (Coxim), [[espedito-di-montebranco|Espedito Di Montebranco]] (Duca), [[leandro-faria-lelo|Leandro Faria Lelo]] (Klaubo), [[guilherme-godoy|Guilherme Godoy]] (Mascado), [[vinicius-lima|Vinícius Lima]] (Mascado criança), [[arthur-benites|Arthur Benites]] (Nathan), [[andre-luis|André Luís]] (peão 2), [[carlos-eduardo-lotfi|Carlos Eduardo Lotfi]] (Tonhão), [[mariana-castro|Mariana Castro]] (Tena), [[sueli-de-jesus-santana|Sueli De Jesus Santana]] (mãe), [[anderson-lima-farin|Anderson Lima Farin]] (pai), [[henryl-chavier|Henryl Chavier]], [[lourenco-vilarim|Lourenço Vilarim]] (Irã), [[fania-martins|Fânia Martins]] (Melina)[^ce2026]
+- Elenco: [[douglas-caetano|Douglas Caetano]] (Carlos), [[renato-passos|Renato Passos]] (Coxim), [[espedito-di-montebranco|Espedito Di Montebranco]] (Duca), [[leandro-faria-lelo|Leandro Faria Lelo]] (Klaubo), [[guilherme-godoy|Guilherme Godoy]] (Mascado), [[vinicius-lima|Vinícius Lima]] (Mascado criança), [[arthur-benites|Arthur Benites]] (Nathan), [[andre-luis|André Luís]] (peão 2), [[carlos-eduardo-lotfi|Carlos Eduardo Lotfi]] (Tonhão), [[mariana-castro|Mariana Castro]] (Tena), [[sueli-de-jesus-santana|Sueli De Jesus Santana]] (mãe), [[anderson-lima-farin|Anderson Lima Farin]] (pai), [[henryl-chavier|Henryl Chavier]] (criança), [[lourenco-vilarim|Lourenço Vilarim]] (Irã), [[fania-martins|Fânia Martins]] (Melina)[^ce2026]
 
 [^ce2026]: Leo Ribeiro, ["Suspense rural que aborda roubo de gado, 'Amoitado' estreia em festival"](https://correiodoestado.com.br/correio-b/suspense-rural-que-aborda-roubo-de-gado-amoitado-estreia-em/474989/), *Correio do Estado*, 18 out. 2026. Acesso em 4 nov. 2026.
 [^acritica2026]: Ricardo Eugenio, ["Curta Campo Grande seleciona 61 de 1.233 filmes; dez são de MS"](https://acritica.net/cultura/curta-campo-grande-61-filmes-selecionados-outubro-2026/), *A Crítica*, 22 set. 2026. Acesso em 4 nov. 2026.

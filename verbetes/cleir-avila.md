@@ -27,10 +27,10 @@ Em 2024, restaurou em Dourados dois painéis seus, a *Arara-Vermelha* e o *Papag
 - *Painel do Homem Pantaneiro* (2003) — mural; Sindicato Rural de Corumbá.[^ce2024b]
 - *Monumento Pantanal de Corumbá* (2004) — escultura; Aeroporto Internacional de Corumbá.[^ce2024b]
 - Monumento das Piraputangas (2007) — esculturas em argamassa; Praça da Liberdade, Bonito.[^ce2021]
-- Painéis *Arara-Vermelha* e *Papagaio* — pintura em edifícios; Dourados; restaurados em 2024.[^ce2024a]
+- Painéis *Arara-Vermelha* e *Papagaio* (2000) — pintura em edifícios; Dourados; restaurados em 2024.[^ce2024a]
 - Painel da onça-pintada (2020) — Asilo São João Bosco.[^ce2023]
 
 [^ce2021]: ["Esculturas de peixe na praça de Bonito são revitalizadas pelo artista plástico Cleir Ávila"](https://correiodoestado.com.br/correio-b/2021/09/27/esculturas-de-peixe-na-praca-de-bonito-sao-revitalizadas-pelo-artista-plastico-cleir-avila.html), *Correio do Estado*, 27 set. 2021. Acesso em 4 nov. 2026.
 [^ce2023]: ["Asilo São João Bosco completa centenário e ganha tela de Cleir"](https://correiodoestado.com.br/correio-b/2023/07/03/asilo-sao-joao-bosco-completa-centenario-e-ganha-tela-de-cleir.html), *Correio do Estado*, 3 jul. 2023. Acesso em 4 nov. 2026.
 [^ce2024a]: ["Com ajuda de grafiteira, Cleir revitaliza painéis da Arara Vermelha e Papagaio"](https://correiodoestado.com.br/correio-b/2024/11/28/com-ajuda-de-grafiteira-cleir-revitaliza-paineis-da-arara-vermelha-e-papagaio.html), *Correio do Estado*, 28 nov. 2024. Acesso em 4 nov. 2026.
-[^ce2024b]: ["Presentes para Corumbá"](https://correiodoestado.com.br/correio-b/presentes-para-corumba/436535/), *Correio do Estado*, 21 set. 2024. Acesso em 4 nov. 2026.
+[^ce2024b]: ["Presentes para Corumbá"](https://correiodoestado.com.br/correio-b/2024/09/21/presentes-para-corumba.html), *Correio do Estado*, 21 set. 2024. Acesso em 4 nov. 2026.

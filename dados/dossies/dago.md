@@ -51,3 +51,15 @@ Fontes descartadas: três buscas abertas ("Dagoberto Pedroso", "Dago Pedroso", "
 ## Validação de 2026-11-04 (valn-10b)
 
 - Frase parafraseada; nota passou a p. 3-4 e 25-26.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fontes novas (outro veículo: portal da Fundação de Cultura de MS; busca do site por "Dagoberto Pedroso"):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2020 | "Associação realiza exposição coletiva com 18 Artistas Visuais no Centro Cultural", FCMS, 3 fev 2020 | https://www.fundacaodecultura.ms.gov.br/associacao-realiza-exposicao-coletiva-com-18-artistas-visuais-no-centro-cultural/ | sim (com ressalva) |
+| fcms2024 | Karina Medeiros de Lima, "Centro Cultural promove exposição coletiva ... sul-mato-grossenses", FCMS, 17 abr 2024 | https://www.fundacaodecultura.ms.gov.br/centro-cultural-promove-exposicao-coletiva-com-trabalhos-de-artistas-visuais-sul-mato-grossenses/ | sim (com ressalva) |
+
+Ressalva de identidade: as duas matérias dizem "Dagoberto Pedroso", sem o nome completo (Dagoberto Washington Justino Pedroso) nem o apelido Dago. A ligação com este verbete é por nome e área (artes visuais, Campo Grande). Revisor deve confirmar.
+Nada nas matérias confirma nascimento (1959), naturalidade, graduações, 1983 em Campo Grande, atuação no teatro ou obra no acervo do MARCO: continuam só no catálogo MARCO 30 anos. Buscas por "Dago artista plástico Campo Grande", "Dagoberto Washington Justino Pedroso" no Correio do Estado devolveram só homônimos (político e jogador).

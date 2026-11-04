@@ -14,7 +14,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-No curso gratuito de pintura do Núcleo de Artes Plásticas, que em 2025 tinha três turmas, ela conduziu em agosto daquele ano uma oficina com 40 alunos, que pintaram cenas do fundo do mar em telhas com tinta acrílica e textura.[^tl2025] Em setembro de 2025, como responsável pelo núcleo, apresentou a exposição *Bicho que voa*, no Paço Municipal, com peças de cerâmica feitas por alunos de 10 a 85 anos sobre a fauna regional.[^rcn2025]
+No curso gratuito de pintura do Núcleo de Artes Plásticas, que em 2025 tinha três turmas, ela conduziu em agosto daquele ano uma oficina com 40 alunos, que pintaram cenas do fundo do mar em telhas com tinta acrílica e textura.[^tl2025] Em setembro de 2025, o Paço Municipal recebeu a exposição *Bicho que voa*, com peças de cerâmica sobre a fauna regional feitas por alunos do núcleo, de 10 a 85 anos; segundo a RCN67, Rute era a professora responsável pelo núcleo.[^rcn2025]
 
 Em abril de 2026, deu com Vera Dutra uma oficina de bonecas de pano do núcleo de artesanato da Secretaria Municipal de Turismo e Cultura.[^rcn2026a] Em outubro de 2026, foi anunciada como responsável por um workshop sobre reaproveitamento de CDs na exposição *Arte que Renasce*, do Núcleo de Artes.[^rcn2026b]
 

@@ -16,7 +16,7 @@ O **Festival de Todos os Povos (Festop)** é um festival gratuito realizado na P
 
 ## Primeira edição (2023)
 
-A primeira edição ocorreu de 14 a 16 de abril de 2023, financiada pelo Fundo de Investimentos Culturais (FIC) da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], com patrocínio da Prefeitura de Dourados. Segundo a organização, cerca de 20 mil pessoas passaram pela praça nos três dias.[^fcms2023b]
+A primeira edição ocorreu de 14 a 16 de abril de 2023, financiada pelo Fundo de Investimentos Culturais (FIC) da [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], com patrocínio da Prefeitura de Dourados. Segundo a organização, cerca de 20 mil pessoas passaram pela praça nos três dias.[^fcms2023b][^ce2024]
 
 Segundo o balanço da Fundação de Cultura, na sexta-feira se apresentaram Giani Torres, Forrodiando, Kléber e Kleberson e Caio Borda. No sábado, Miliano, Soul Ra, [[bro-mcs|Brô MC's]] e o grupo de pagode Não Tem Hora. No domingo, o grupo campo-grandense Sampri, Made in 90 e Dagata e Os Pé Vermeio. A Tenda de Literatura, coordenada por Carlos Amarilha, reuniu 37 escritores, com lançamentos de livros e sarau. Depois do festival, o presidente da Câmara Municipal protocolou pedido para incluir o Festop no calendário oficial de Dourados.[^fcms2023b] A apresentação do Brô MC's no festival também consta de tese sobre o audiovisual indígena de MS.[^correa]
 

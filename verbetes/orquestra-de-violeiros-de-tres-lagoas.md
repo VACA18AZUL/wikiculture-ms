@@ -5,8 +5,8 @@ areas: [musica]
 cidade: Três Lagoas
 resumo: Orquestra de viola caipira de Três Lagoas ligada ao setor de cultura da prefeitura, com repertório de música de raiz brasileira e sul-mato-grossense.
 ficha:
-  Regência: "Cidinha Mariano (2009 a 2013)"
-  Ensaios: "Saguão da antiga Prefeitura de Três Lagoas"
+  Regência: "Cidinha Mariano (citada em 2009 e 2013)"
+  Ensaios: "Saguão da antiga Prefeitura de Três Lagoas (2011)"
 status: rascunho
 atualizado: 2026-11-04
 ---

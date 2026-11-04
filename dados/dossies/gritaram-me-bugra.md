@@ -29,3 +29,13 @@ Descartadas: Monteiro (Moringa, 2025) trata do grupo, não desta peça; busca ab
 ## Uso no verbete
 
 - Tudo de Fatos entrou.
+
+## Atualização de 2026-11-04 (r4-2)
+
+| id | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2021 | FCMS, "Projeto Campo Grande em Cena começa nesta quinta-feira com uma programação recheada de muita arte, cultura e oficinas", 4 nov. 2021 | https://www.fundacaodecultura.ms.gov.br/projeto-campo-grande-em-cena-comeca-nesta-quinta-feira-com-uma-programacao-recheada-de-muita-arte-cultura-e-oficinas/ | sim |
+
+O que mudou: acrescentado parágrafo em Apresentações. O texto da FCMS (anúncio, programação "Dia 12/11 – Sesc Cultura, 18h – Gritaram-me Bugra – Grupo de Teatro Liberdade PKR Pa'iKuaraRendy Aldeia (Amambai/MS)") confirma o título e o grupo por fonte de outro veículo e traz uma apresentação anterior às de 2022 (12 nov. 2021, mostra Campo Grande em Cena, 3 a 13 nov. 2021, FIC/MS 2019). Grafia do grupo nessa fonte: "Pa'iKuaraRendy" (sem espaço), a mesma raiz de cgn2022a. A fonte não traz ano de criação, texto, direção ou enredo: esses itens seguem só no Campo Grande News (cgn2022b). Anúncio, não confirma realização.
+
+Observação: a página de busca da FCMS indexa uma imagem "Gritaram-me-Bugra.jpeg" (jun. 2022) anexada à matéria da Boca de Cena de 22 jun. 2022, mas o texto dessa matéria não cita a peça; não usada. Correio do Estado, A Crítica e UFMS sem resultado.

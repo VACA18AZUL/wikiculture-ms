@@ -43,3 +43,14 @@
 ## Validação de 2026-11-04 (valn-10b)
 
 - Frase passou a "listou o nome Gabriel Gabino", sem afirmar além da lista.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Fonte nova (outro veículo: portal da Fundação de Cultura de MS; busca do site por "Gabriel Gabino fotógrafo"):
+
+| id da nota | Referência | URL | Entra? |
+|---|---|---|---|
+| fcms2026 | Karina Medeiros de Lima, "MIS reabre as portas com exposição sobre a memória da fotografia de MS", FCMS, 23 fev 2026 | https://www.fundacaodecultura.ms.gov.br/mis-reabre-as-portas-com-exposicao-sobre-a-memoria-da-fotografia-de-ms/ | sim |
+
+Reforço: participação no painel de 14 fotógrafos de *Fotografia e Memória* (MIS-MS, abertura 26 fev. 2026, até 30 abr.). A fcms2026 é a divulgação oficial e provavelmente a origem do texto da A Crítica (24 fev.); por isso, reforça a data, mas não conta como terceira apuração independente.
+Sem segunda fonte: biografia (Comunicação Social na UCDB, Ateliê da Imagem, publicações em revistas, 2011 em São Paulo) e a exposição *Pantanais* (6 dez. 2023, Teatro do Mundo). Buscas no Correio do Estado ("Gabriel Gabino fotógrafo", "Gabriel Gabino Pantanais", "Pantanais exposição"), na FCMS e em A Crítica não retornaram menção. Outras exposições de fotografia do Pantanal listadas pelo Correio do Estado (2021, 2024) foram abertas e não citam o nome.

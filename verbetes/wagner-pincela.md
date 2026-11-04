@@ -3,7 +3,7 @@ titulo: Wagner Pincela
 tipo: pessoa
 areas: [teatro, circo]
 cidade: Três Lagoas
-resumo: Ator e professor de teatro de Três Lagoas. Atuou no grupo municipal Libertarte e no grupo Nem Nome Tem e escreveu, com Lucas Spirandeli, peças do Núcleo de Teatro da cidade.
+resumo: Ator e professor de teatro de Três Lagoas. Atuou no grupo municipal Libertarte e no grupo Nem Nome Tem e escreveu, com Lucas Spirandeli, uma peça do Núcleo de Teatro da cidade.
 ficha:
   Atividade: "Ator, professor de teatro"
 status: rascunho
@@ -16,16 +16,16 @@ atualizado: 2026-11-04
 
 Em 2012 integrava o elenco de *O Casamento de Maria Feira*, comédia de Rutinaldo Miranda dirigida por [[paulo-sanches|Paulo Sanches]] no grupo municipal [[libertarte-grupo-de-teatro|Libertarte]], ao lado de Daiane Colino, Juliana Pelição e Rodolfo Colino. Também assinou a criação gráfica e a trilha sonora da montagem, que tinha apresentação marcada para 8 de agosto daquele ano na praça Senador Ramez Tebet.[^rcn2012]
 
-Em 2016 fazia parte do grupo de teatro Nem Nome Tem, que programou para 15 de outubro, no galpão da antiga NOB, o espetáculo infantil *Se essa rua fosse minha*. O texto era uma releitura feita pelo grupo de uma peça nascida em oficina de [[jair-de-oliveira|Jair de Oliveira]].[^rcn2016]
+Em 2016 integrava o elenco do grupo de teatro Nem Nome Tem e assinou a trilha sonora de *Se essa rua fosse minha*, espetáculo infantil do grupo programado para 15 de outubro no galpão da antiga NOB. O texto era uma releitura feita pelo grupo de uma peça nascida em oficina de [[jair-de-oliveira|Jair de Oliveira]].[^rcn2016]
 
 Com [[lucas-spirandeli|Lucas Spirandeli]], escreveu *Click, diversão fora da tela*, peça do Núcleo de Teatro do Departamento de Cultura de Três Lagoas, encenada por nove jovens atores e programada para 13 de dezembro de 2024 no Galpão da NOB.[^rcn2024]
 
-Em dezembro de 2025, os dois representaram Três Lagoas na IX [[mostra-de-palhacos-do-pantanal|Pantalhaç@s – Mostra de Palhaç@s do Pantanal]], em Campo Grande, com *TICTAC – Um Esquete sobre o Tempo*, inspirado no poema "O Tempo", de Mário Quintana.[^pmtl2025] A programação da mostra marcou o esquete para 8 e 9 de dezembro.[^fcms2025]
+Em dezembro de 2025, segundo a prefeitura, os dois representaram Três Lagoas na IX [[mostra-de-palhacos-do-pantanal|Pantalhaç@s – Mostra de Palhaç@s do Pantanal]], em Campo Grande, com *TICTAC – Um Esquete sobre o Tempo*, inspirado no poema "O Tempo", de Mário Quintana.[^pmtl2025] A programação da mostra marcou o esquete para 8 e 9 de dezembro.[^fcms2025]
 
 ## Espetáculos
 
 - *O Casamento de Maria Feira* (2012) — atuação, criação gráfica e trilha sonora; grupo Libertarte.[^rcn2012]
-- *Se essa rua fosse minha* (2016) — atuação; grupo Nem Nome Tem.[^rcn2016]
+- *Se essa rua fosse minha* (2016) — trilha sonora; grupo Nem Nome Tem.[^rcn2016]
 - *Click, diversão fora da tela* (2024) — texto, com Lucas Spirandeli; Núcleo de Teatro de Três Lagoas.[^rcn2024]
 - *TICTAC – Um Esquete sobre o Tempo* (2025) — com Lucas Spirandeli.[^pmtl2025]
 

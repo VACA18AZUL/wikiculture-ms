@@ -28,3 +28,11 @@
 ## Uso no verbete
 
 - Entrou: participação de 1966 e descrição de Bardi, atribuída a ele. Ficou de fora: cgn2024 (identidade), cidade.
+
+## Atualização de 2026-11-04 (r4-1)
+
+Sem fonte nova que sustente o verbete. Tentativas:
+- Busca do portal da FCMS e do Correio do Estado por "Miguel Peres pintor", "Rádio Clube exposição pinturas 1966", "Fábrica de Quadros Campo Grande": só homônimos ou assuntos sem relação.
+- BDTD (Ibict): "Miguel Peres pintor espanhol Campo Grande" e "Exposição de Pinturas dos Artistas Mato-grossenses 1966": sem resultados.
+- Tese de Rozana Godoi (UFGD, 2020, 300 p., PDF baixado e lido por busca de texto): cita a mostra de 1966 (p. 90-91), mas não menciona Miguel Peres.
+Verbete segue apoiado só em Assis (2013, citando Bardi 1967). Identidade com "Miguel Perez" (fotógrafo/pintor de Corumbá, CGN 2024) continua não confirmada e fora do verbete.

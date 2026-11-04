@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-O **Festival de Inverno de Bonito 2024** foi a 23ª edição do [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]], realizada de 21 a 25 de agosto de 2024 com o tema "Da Terra Viva, Nossa Arte Vibra".[^fcms2024a][^ce2024] A programação diária somava cerca de 15 horas, com teatro, circo, literatura e shows; a organização estimava público de 120 mil pessoas nos cinco dias.[^ce2024]
+O **Festival de Inverno de Bonito 2024** foi a 23ª edição do [[festival-de-inverno-de-bonito|Festival de Inverno de Bonito]], realizada de 21 a 25 de agosto de 2024 com o tema "Da Terra Viva, Nossa Arte Vibra".[^fcms2024a][^ce2024] A programação diária somava cerca de 15 horas, com teatro, circo, literatura e shows; a estimativa de público divulgada antes da abertura era de 120 mil pessoas nos cinco dias.[^ce2024]
 
 ## Programação
 

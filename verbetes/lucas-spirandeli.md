@@ -20,7 +20,7 @@ No audiovisual, interpretou Pedro, protagonista de *Ponto Final*, primeiro curta
 
 Em setembro de 2025, a prefeitura informou que ele atuava como um dos soldados da guarda pessoal do personagem de Fábio Assunção no longa *Nosso Lar 3 – Vida Eterna*, dirigido por Wagner de Assis.[^tl2025a]
 
-Em novembro de 2025, ele e Wagner Pincela escreveram e dirigiram *O Melhor Espetáculo do Mundo*, montagem do Núcleo de Teatro Adulto da Diretoria de Cultura sobre uma trupe de circo em decadência, apresentada no dia 10 no anfiteatro do Câmpus II da UFMS para mais de 200 pessoas.[^tl2025c] No mês seguinte, os dois representaram Três Lagoas na IX [[mostra-de-palhacos-do-pantanal|Pantalhaç@s – Mostra de Palhaç@s do Pantanal]], em Campo Grande, com *TICTAC – Um Esquete sobre o Tempo*, inspirado no poema "O Tempo", de Mario Quintana.[^tl2025b] A programação da mostra marcou o esquete para 8 e 9 de dezembro.[^fcms2025]
+Em novembro de 2025, ele e Wagner Pincela escreveram e dirigiram *O Melhor Espetáculo do Mundo*, montagem do Núcleo de Teatro Adulto da Diretoria de Cultura sobre uma trupe de circo em decadência, apresentada no dia 10 no anfiteatro do Câmpus II da UFMS para mais de 200 pessoas.[^tl2025c] Em dezembro, a prefeitura noticiou que os dois representavam Três Lagoas na IX [[mostra-de-palhacos-do-pantanal|Pantalhaç@s – Mostra de Palhaç@s do Pantanal]], em Campo Grande, com *TICTAC – Um Esquete sobre o Tempo*, inspirado no poema "O Tempo", de Mario Quintana.[^tl2025b] A programação da mostra marcou o esquete para 8 e 9 de dezembro.[^fcms2025]
 
 ## Espetáculos
 

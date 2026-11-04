@@ -17,7 +17,7 @@ Em 2023, a Manaká Cultural fez em Mato Grosso do Sul a produção da circulaç�
 
 No mesmo ano, assinou a produção de *Chafica*, espetáculo da [[cia-do-mato|Cia do Mato]] em homenagem a [[sarah-abussafi-figueiro|Sarah Abussafi Figueiró]], com direção e coreografia de Chico Neller e sessões marcadas para 29 de setembro de 2023 no Teatro Glauce Rocha.[^fcms2023b]
 
-Também produz o [[role-no-bueiro|Rolê no Bueiro]], evento de dança e música criado por [[halisson-nunes|Halisson Nunes]] e [[maria-fernanda-figueiro|Maria Fernanda Figueiró]]. Até setembro de 2023, o evento tinha feito três edições em Campo Grande, com mais de 900 pessoas no total, e anunciava a quarta no Sucata Cultural, em Dourados.[^cgn2023]
+Em 2023 também era a produtora do [[role-no-bueiro|Rolê no Bueiro]], evento de dança e música criado por [[halisson-nunes|Halisson Nunes]] e [[maria-fernanda-figueiro|Maria Fernanda Figueiró]]. Até setembro de 2023, o evento tinha feito três edições em Campo Grande, com mais de 900 pessoas no total, e anunciava a quarta no Sucata Cultural, em Dourados.[^cgn2023]
 
 ## Produções
 

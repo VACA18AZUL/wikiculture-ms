@@ -15,7 +15,7 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em junho de 2011, o grupo apresentou o espetáculo infantil *A Floresta do Raio Vermelho* no 10º Festival de Teatro Amador da Estância Turística de Tupã (FESTAETT), em São Paulo, e recebeu três prêmios na categoria infantil: melhor maquiagem, melhor atriz coadjuvante e menção honrosa de incentivo cultural.[^rcn2011]
+Em junho de 2011, o grupo levou a peça infantil *A Floresta do Raio Vermelho* no 10º Festival de Teatro Amador da Estância Turística de Tupã (FESTAETT), em São Paulo, e ganhou três prêmios entre os infantis: menção honrosa de incentivo cultural, melhor atriz coadjuvante e melhor maquiagem.[^rcn2011]
 
 Em 2013, o grupo anunciou temporada gratuita do infantil *Chuvisco, Chuva, Chuvarada…* no anfiteatro da UFMS em outubro, em parceria com a universidade e a prefeitura.[^rcn2013a] No mesmo ano, remontou o espetáculo de rua *Retirantes*, drama de teatro popular sobre quem deixa a terra natal em busca de vida melhor, e anunciou para 18 de dezembro a última apresentação do ano, na Praça Ramez Tebet. A nova montagem teve direção de Leandro Cazula e orientação cênica e musical do autor, Daniel Dhemes, do Rio de Janeiro. Na época, o grupo planejava uma Escola Municipal de Teatro em Três Lagoas.[^rcn2013b]
 

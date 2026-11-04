@@ -6,7 +6,7 @@ cidade: Três Lagoas
 resumo: Poeta, declamador e servidor do Departamento de Cultura de Três Lagoas, onde idealizou a Noite de Talentos da Feira Noturna; morreu em 2010.
 ficha:
   Nascimento: "21 de julho de 1944"
-  Morte: "7 de novembro de 2010, Três Lagoas"
+  Morte: "7 de novembro de 2010"
   Atividade: "Poesia, declamação, rádio, produção cultural"
 status: rascunho
 atualizado: 2026-11-04
@@ -16,13 +16,13 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-As fontes divergem sobre a cidade natal. A prefeitura e a RCN67 informaram que ele era natural de João Pessoa, na Paraíba.[^tl2010][^rcn2010a] Outra reportagem da RCN67, do dia seguinte, diz que nasceu em 21 de julho de 1944 em "São Luiz, Maceió".[^rcn2010b]
+As fontes divergem sobre a cidade natal. A prefeitura e a RCN67 informaram que ele era natural de João Pessoa, na Paraíba.[^tl2010][^rcn2010a] Outra reportagem da RCN67, publicada no mesmo dia, diz que nasceu em 21 de julho de 1944 em "São Luiz, Maceió".[^rcn2010b]
 
 Segundo a RCN67, começou a carreira artística aos 17 anos, no circo, morava em Três Lagoas havia mais de 30 anos e apresentou por mais de 20 anos o programa *Eu, você e o amor*, na Rádio Difusora. Era servidor da prefeitura desde 1997.[^rcn2010b] A prefeitura disse que ele atuava havia mais de 15 anos no cenário cultural da cidade, incentivando e criando projetos.[^tl2010] A diretora de Cultura Vickie Vituri destacou seu trabalho como declamador.[^rcn2010b]
 
 Teve 16 poemas na antologia *Negras Raízes Pantaneiras*, organizada por José Mauro Messias Silva, o Poeta das Moreninhas, com poetas negros de Mato Grosso do Sul. O lançamento do livro em Três Lagoas foi marcado para julho de 2005, no Centro Cultural Irene Marques Alexandria.[^tl2005] A RCN67 cita *Negras raízes pantaneiras* como poema dele publicado numa coletânea de poetas do estado, e o livro *É impossível alcançar uma estrela* como de sua autoria.[^rcn2010b]
 
-Morreu em 7 de novembro de 2010, em Três Lagoas, e foi sepultado no dia seguinte no Cemitério Municipal Santo Antônio.[^tl2010][^rcn2010b]
+Morreu em 7 de novembro de 2010 e foi sepultado no dia seguinte no Cemitério Municipal Santo Antônio, em Três Lagoas.[^tl2010][^rcn2010b]
 
 ## Obras
 

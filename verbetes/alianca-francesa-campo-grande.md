@@ -1,7 +1,7 @@
 ---
 titulo: Aliança Francesa de Campo Grande
 tipo: espaco
-areas: [musica, artes-plasticas, audiovisual]
+areas: [musica, artes-plasticas]
 cidade: Campo Grande
 resumo: Unidade da Aliança Francesa em Campo Grande, ativa desde 1961, com cursos de francês e programação cultural; em 1967 ajudou a promover o 1º Festival de Música Popular de Campo Grande.
 ficha:
