@@ -8,7 +8,7 @@ ficha:
   Atividade: Câmera, edição e direção audiovisual
   Grupos: ASCURI
 status: rascunho
-atualizado: 2026-10-29
+atualizado: 2026-11-04
 ---
 
 **Ademilson "Kiki" Concianza** (também grafado Admilson ou Ademilson Concianza Verga) é um realizador audiovisual kaiowá da aldeia Panambizinho, em Dourados, e membro da [[ascuri|ASCURI]].[^c1]
@@ -28,9 +28,9 @@ Em 2013, na oficina de audiovisual da aldeia Pirakuá (Bela Vista), foi um dos m
 
 [^c1]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, UFGD, 2023, p. 132 (Panambizinho em Dourados: p. 173). Acesso em 29 out. 2026.
 [^c2]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 170. Acesso em 29 out. 2026.
-[^c3]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, trecho de Gilmar Galache citado na análise do filme *Jepea'yta*. Acesso em 29 out. 2026.
+[^c3]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 205 (trecho de Gilmar Galache citado na análise do filme *Jepea'yta*) e p. 273 (*Terra Vermelha*, 2008). Acesso em 29 out. 2026.
 [^c4]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 178, nota 371. Acesso em 29 out. 2026.
-[^c5]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, análise do filme *Jepea'yta*. Acesso em 29 out. 2026.
+[^c5]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 203-205, análise do filme *Jepea'yta*. Acesso em 29 out. 2026.
 [^c6]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 132. Acesso em 29 out. 2026.
 [^c7]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 178-179, nota 373. Acesso em 29 out. 2026.
 [^c8]: Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS*, UFGD, 2023, p. 198, nota 416. Acesso em 29 out. 2026.
