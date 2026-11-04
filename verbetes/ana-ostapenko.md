@@ -19,7 +19,7 @@ O longa parte do roteiro de Antoni Magalhães e acompanha três amigas que atrav
 
 ## Filmografia
 
-- [[natasha-longa|*Natasha*]] (2026) — longa-metragem adaptado da série de 2017; adaptação, com Kojiro, segundo uma matéria, e direção, com Willerson Amorim, Thiago Rotta e Rafael Rotta, segundo outra. Melhor Filme Sul-Mato-Grossense no 4º Bonito CineSur.[^cgn2026a][^cgn2026b]
+- [[natasha-longa|*Natasha*]] — longa-metragem adaptado da série de 2017, premiado em 2026; adaptação, com Kojiro, segundo uma matéria, e direção, com Willerson Amorim, Thiago Rotta e Rafael Rotta, segundo outra. Melhor Filme Sul-Mato-Grossense no 4º Bonito CineSur.[^cgn2026a][^cgn2026b]
 
 [^cgn2026a]: Thailla Torres, ["'Natasha' vence prêmio de melhor filme sul-mato-grossense no Bonito Cinesur"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/natasha-vence-premio-de-melhor-filme-sul-mato-grossense-no-bonito-cinesur), *Campo Grande News*, 2 ago. 2026. Acesso em 4 nov. 2026.
 [^cgn2026b]: Clayton Neves, ["Conheça os filmes vencedores da 4ª edição do Bonito CineSur"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/conheca-os-filmes-vencedores-da-4a-edicao-do-bonito-cinesur), *Campo Grande News*, 2 ago. 2026. Acesso em 4 nov. 2026.
