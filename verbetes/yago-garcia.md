@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-**Yago Garcia** é ator e dramaturgo de Campo Grande, integrante do elenco do [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^cgn2023a] Em 2023, falou à imprensa em nome do grupo sobre a mudança da sede para um galpão no Jardim Paulista.[^cgn2023b]
+**Yago Garcia** é ator e dramaturgo de Campo Grande, integrante do elenco do [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^cgn2023a] Em 2023, esteve entre os integrantes que falaram à imprensa sobre a mudança da sede do grupo para um galpão no Jardim Paulista.[^cgn2023b]
 
 ## Trajetória
 

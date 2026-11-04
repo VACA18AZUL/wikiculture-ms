@@ -18,7 +18,7 @@ Fonte única. Busca de segunda fonte interrompida: a cota de buscas da rodada ac
 
 ## Fatos, com fonte
 
-- Coordenava o Grupo Identidade Teatral e o Grupo Palco quando Espedito di Montebranco chegou ao grupo, por intermédio de Marcelo Mesquita, que contracenava com Marcos; Espedito ganhou uma cena em "Noivo por encomenda" [folheto2017]
+- Coordenava (tempo passado no texto) o Grupo Identidade Teatral e o Grupo Palco quando Espedito di Montebranco chegou ao grupo, por intermédio de Marcelo Mesquita, que contracenava com Marcos; Espedito ganhou uma cena em "Noivo por encomenda" [folheto2017]
 - Algum tempo depois mudou-se para São Paulo e deixou o Grupo Palco sob responsabilidade de Espedito [folheto2017]
 - Boca de Cena 2017: *Os Malefícios do Tabaco*, Grupo Identidade Teatral (Campo Grande/MS), Teatro Prosa, 12 anos; adaptação, atuação e cenografia de Marcos Alexandre; figurino de Yago Garcia; trilha de Jonas Feliz; iluminação de Camila Jordão; adapta duas obras de Tchekhov; personagem Ivan Ivánovitch [folheto2017]
 - Boca de Cena 2017: Diálogo Cênico "Experimento Prático (Concentração e integração no processo teatral)", Sala Rubens Correa (CCJOG), ministrado por Marcos Alexandre Melo, Grupo Identidade Teatral [folheto2017]
