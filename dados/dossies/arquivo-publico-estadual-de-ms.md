@@ -48,3 +48,9 @@ Fonte lida e não usada: FCMS 2019 ("leva exposições itinerantes a alunos Facs
 
 - Entrou: atribuição, acervos, 30 anos, exposições 2024-2026, digitalização.
 - Fora: contatos, nomes de servidores (fora do escopo), falas.
+
+## Atualização de 2026-11-04 (validação)
+
+- Busca de segunda fonte independente: Campo Grande News (busca interna sem resultado útil) e Correio do Estado (busca). Achado: Correio do Estado, ""Arquivos Acessíveis" é o tema da 8ª Semana Nacional de Arquivos", 29 maio 2024, https://correiodoestado.com.br/correio-b/2024/05/29/arquivos-acessiveis-e-o-tema-da-8a-semana-nacional-de-arquivos.html — programação do Arquivo para a Semana Nacional de Arquivos (3 a 12 jun. 2024), exposição sobre a Festa do Divino da comunidade quilombola Santa Tereza (Figueirão), acervo da Matte Larangeira, sede no 2º andar do Memorial. Texto de anúncio, com cara de release; não entrou.
+- cgn2025 e acritica2026 repetem frases dos textos da FCMS (release). Na prática, todo o verbete se apoia na FCMS, que é a gestora do próprio Arquivo: fonte única.
+- Ajustes: revista de 2017 era projeto com lançamento previsto; os 91 trabalhos foram achados no acervo do Arquivo e em outros acervos, no Concurso Nacional de Símbolos de 1978.

@@ -19,7 +19,7 @@ A casa abriu ao público em 19 de outubro de 2022, apresentada como polo cultura
 
 ## Acervo
 
-O acervo inclui manuscritos, fotografias, a máquina de escrever, cadernos de anotações, a escrivaninha, móveis e objetos pessoais do poeta, além da biblioteca. O escritório que ele chamava de "Lugar de Ser Inútil", onde escreveu a maior parte dos poemas, faz parte da visita.[^g1-out2022][^g1-dez2022] Em dezembro de 2022, o *Jornal Nacional* citou entre as peças uma caderneta com um poema inédito.[^g1-dez2022]
+O acervo inclui manuscritos, fotografias, a máquina de escrever, um bloco de anotações, a escrivaninha, móveis e objetos pessoais do poeta, além da biblioteca. O escritório que ele chamava de "Lugar de Ser Inútil", onde escreveu a maior parte dos poemas, faz parte da visita.[^g1-out2022][^g1-dez2022] Em dezembro de 2022, o *Jornal Nacional* citou entre as peças uma caderneta com um poema inédito.[^g1-dez2022]
 
 Uma sala imersiva, concebida pelo artista visual Ivan Soares, mostra imagens de Manoel de Barros e trechos dos filmes *Caramujo-Flor*, de [[joel-pizzini|Joel Pizzini]], e *[[planuras|Planuras]]*, de [[mauricio-copetti|Maurício Copetti]].[^g1-out2022] Segundo o idealizador da casa, Ricardo Câmara, a biblioteca reúne também livros, teses, dissertações e trabalhos de conclusão de curso sobre a obra do poeta, para consulta de pesquisadores.[^g1-dez2022]
 
@@ -27,7 +27,7 @@ Uma sala imersiva, concebida pelo artista visual Ivan Soares, mostra imagens de 
 
 Em 19 de dezembro de 2025, a casa recebeu uma programação pelos 109 anos de nascimento do poeta, com o show "Raphael Vital – Voz e Cordas", de [[raphael-vital|Raphael Vital]], o Varal de Poesias da arte-educadora [[ramona-rodrigues|Ramona Rodrigues]] e uma intervenção da artista visual Isabê.[^cgn2025]
 
-Em 2026, o projeto [[o-centro-dentro-de-nos|O Centro Dentro de Nós]], criado em 2023 pela professora e pesquisadora [[isadora-bacha|Isadora Bacha]], foi integrado à exposição permanente da casa com o título "O Centro Dentro de Nós: Entre Miudezas". O projeto parte de antigas caixas de correspondência de um prédio de Campo Grande, transformadas em pequenos cenários sobre a memória da cidade. Para a casa, a artista fez versões dos cenários em caixas de fósforo, uma delas dedicada a Manoel de Barros.[^cgn2026]
+Em setembro de 2026, o *Campo Grande News* informou que o projeto [[o-centro-dentro-de-nos|O Centro Dentro de Nós]], criado em 2023 pela professora e pesquisadora [[isadora-bacha|Isadora Bacha]], estava integrado à exposição permanente da casa com o título "O Centro Dentro de Nós: Entre Miudezas". O projeto parte de antigas caixas de correspondência de um prédio de Campo Grande, transformadas em pequenos cenários sobre a memória da cidade. Para a casa, a artista fez versões dos cenários em caixas de fósforo, uma delas dedicada a Manoel de Barros.[^cgn2026]
 
 [^g1-out2022]: G1 MS, ["Casa de Manoel de Barros recebe público para visitação a partir desta quarta"](https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/10/19/casa-de-manoel-de-barros-recebe-publico-para-visitacao-a-partir-desta-quarta-feira.ghtml), *G1*, 19 out. 2022. Acesso em 4 nov. 2026.
 [^g1-dez2022]: Jornal Nacional, ["Casa onde viveu escritor Manoel de Barros vira museu em Campo Grande"](https://g1.globo.com/jornal-nacional/noticia/2022/12/28/casa-onde-viveu-escritor-manoel-de-barros-vira-museu-em-campo-grande.ghtml), *G1*, 28 dez. 2022. Acesso em 4 nov. 2026.

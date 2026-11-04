@@ -13,9 +13,9 @@ atualizado: 2026-11-04
 
 ## Trajetória
 
-Em dezembro de 2015, a banda fez o show Reviva, que, segundo o vocalista André Stábile, mostrou que o público ainda esperava pela sua música. Em março de 2016, o grupo ensaiava o repertório do disco para remontar o show e previa uma estreia em abril.[^cgn2016]
+Em dezembro de 2015, a banda fez o show Reviva, que, segundo o vocalista André Stábile, mostrou que o público ainda esperava pela sua música. Em março de 2016, o grupo ensaiava o repertório do disco para remontar o show e esperava ter em abril uma data de estreia.[^cgn2016]
 
-Da formação antiga ficaram Stábile, então com 29 anos, o guitarrista Lean Kominato e o percussionista Rodrigo Shimabukuro. Entraram Rafael Coelho, no violão, que antes tinha sido produtor da banda; Thayson Ginmenez, no baixo; e Mateus Yule, na bateria, que vinha da banda [[dombraz|Dombráz]].[^cgn2016]
+Da formação antiga ficaram Stábile, então com 29 anos, o guitarrista Lean Kominato e o percussionista Rodrigo Shimabukuro. Os novos integrantes eram Rafael Coelho (violão), antigo produtor da banda, Thayson Ginmenez (baixo) e Mateus Yule (bateria), que tinha tocado na banda [[dombraz|Dombráz]].[^cgn2016]
 
 No edital do [[som-da-concha|Som da Concha]] de 2022, o resultado provisório pôs a Curimba em 16º lugar, como suplente, na categoria de shows de encerramento.[^fcms2022a] A banda acabou subindo ao palco da [[concha-acustica-helena-meirelles|Concha Acústica Helena Meirelles]] naquela temporada, numa noite dividida com Fred Oliveira; a Fundação de Cultura publicou a galeria de fotos do show em 19 de setembro de 2022.[^fcms2022b][^fcms2022c]
 

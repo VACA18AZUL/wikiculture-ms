@@ -13,7 +13,7 @@ status: rascunho
 atualizado: 2026-11-04
 ---
 
-***De Tanto Olhar o Céu Gastei Meus Olhos*** é um curta-metragem de ficção dirigido por [[nathalia-tereza|Nathália Tereza]] e filmado em Campo Grande. Conta a história dos irmãos Luana e Wagner, que recebem uma carta do pai depois de anos de abandono: Wagner acredita que o pai pode ter mudado, Luana não.[^fcms2017][^jc2018]
+***De Tanto Olhar o Céu Gastei Meus Olhos*** é um curta-metragem de ficção dirigido por [[nathalia-tereza|Nathália Tereza]] e filmado em Campo Grande. Os protagonistas são os irmãos Luana e Wagner. Anos depois de abandonados pelo pai, recebem dele uma carta; Wagner crê numa mudança do pai, e Luana duvida.[^fcms2017][^jc2018]
 
 ## Produção
 
@@ -23,9 +23,9 @@ O *Jornal do Comércio* data o curta de 2017; o catálogo da IC Play, do Itaú C
 
 ## Circulação e prêmios
 
-Foi o único filme de Mato Grosso do Sul entre os 45 selecionados para a Mostra Brasil do 28º Festival Internacional de Curtas-Metragens de São Paulo, onde recebeu o Prêmio Aquisição do Canal Curta e do Porta Curtas.[^fcms2017] Em outubro de 2017 foi anunciado na seleção para a competitiva nacional da 13ª edição do Panorama Internacional Coisa de Cinema.[^bahiaba2017]
+Na Mostra Brasil do 28º Festival Internacional de Curtas-Metragens de São Paulo, que reuniu 45 filmes, foi o único representante do estado e recebeu o Prêmio Aquisição do Canal Curta e do Porta Curtas.[^fcms2017] Em outubro de 2017 foi anunciado na seleção para a competitiva nacional da 13ª edição do Panorama Internacional Coisa de Cinema.[^bahiaba2017]
 
-Em 22 de fevereiro de 2018, a Cinemateca Capitólio Petrobras exibiu o curta numa sessão com outros dois filmes da diretora, *A Casa Sem Separação* e *[[a-outra-margem|A Outra Margem]]*, seguida de debate.[^jc2018] Em julho de 2025 entrou no catálogo da IC Play, plataforma gratuita de streaming do Itaú Cultural.[^itau2025]
+Para 22 de fevereiro de 2018, a Cinemateca Capitólio Petrobras programou o curta numa sessão com outros dois filmes da diretora, *A Casa Sem Separação* e *[[a-outra-margem|A Outra Margem]]*, seguida de debate.[^jc2018] Em julho de 2025 entrou no catálogo da IC Play, plataforma gratuita de streaming do Itaú Cultural.[^itau2025]
 
 ## Ficha técnica
 
