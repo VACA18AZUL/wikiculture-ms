@@ -88,6 +88,9 @@ async function main() {
       if (!titulo) continue;
 
       const slugAlbum = slugify(titulo);
+      if (!slugAlbum || ['shorts', 'desconhecido'].includes(slugAlbum) || titulo.toLowerCase().includes('#shorts')) {
+        continue;
+      }
       // Idempotência: verifica se o título do álbum já consta no corpo do Markdown
       const regexExistencia = new RegExp(`\\*${titulo.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\*`, 'i');
       if (regexExistencia.test(novoBody)) {
