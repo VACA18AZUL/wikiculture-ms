@@ -8,7 +8,10 @@
     "build": "astro build",
     "preview": "astro preview",
     "conferir": "node scripts/conferir.mjs",
-    "links": "node scripts/links.mjs"
+    "links": "node scripts/links.mjs",
+    "fono:discografia": "node scripts/fonografico/01-enriquecer-discografia.mjs",
+    "fono:minerar": "node scripts/fonografico/02-minerar-artistas.mjs",
+    "fono:relacoes": "node scripts/fonografico/03-extrair-relacoes.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.2",
