@@ -18,6 +18,9 @@ A dupla é reconhecida como intérprete do "chamamé sul-mato-grossense".[^ufms]
 
 ## Discografia
 
+- *Mato Grosso do Som* (CD, 1994, Coletânea Tripla). [Escuta oficial](https://www.youtube.com/watch?v=dOCA2F-80Ug). [^fn-fonografico-mato-grosso-do-som-1994]
+- *Kit Difusão - 1ª Edição* (CD, 2009, N/I). [Escuta oficial](https://www.youtube.com/watch?v=3po5XMOhgKc). [^fn-fonografico-kit-difusao-1-edicao-2009]
+
 - *Os Mensageiros do Oeste* (1969) — disco gravado em São Paulo com [[ze-correa|Zé Corrêa]]. A dissertação o aponta como grande influência para a popularização do chamamé no então Mato Grosso uno e para a passagem dos conjuntos de duplas a trios.[^ufms]
 - Disco de 1977 pela gravadora Continental — segundo Amambay, trouxe "Villa Guilhermina", que ele diz ser o primeiro chamamé em castelhano gravado no Brasil. O título do disco não consta na fonte.[^ufms]
 
@@ -27,3 +30,6 @@ O estudo reproduz a declaração de Amambay sobre ter lançado o gênero em Camp
 
 [^ufms]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2014. Acesso em 29 out. 2026.
 [^ufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2012. Acesso em 29 out. 2026.
+
+[^fn-fonografico-mato-grosso-do-som-1994]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Mato Grosso do Som* (CD, 1994, Coletânea Tripla). Fonte física: Idemar Sprandel. Disponível em: https://www.youtube.com/watch?v=dOCA2F-80Ug.
+[^fn-fonografico-kit-difusao-1-edicao-2009]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Kit Difusão - 1ª Edição* (CD, 2009, N/I). Fonte física: N/I. Disponível em: https://www.youtube.com/watch?v=3po5XMOhgKc.
