@@ -15,7 +15,7 @@ O **Bijou Teatro** foi um espaço de apresentações teatrais e cinematográfica
 
 ## Histórico
 
-Segundo o ensaio de Fabricio Goulart Moser, que resume o texto de Maria da Glória Sá Rosa (1992), o Bijou foi fundado em 1919 como espaço precursor. Rosa o descreve como casa que recebia peças e filmes, com palco suficiente para companhias de opereta, zarzuela e comédia.[^moser]
+Segundo o ensaio de Fabricio Goulart Moser, que resume o texto de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] (1992), o Bijou foi fundado em 1919 como espaço precursor. Rosa o descreve como casa que recebia peças e filmes, com palco suficiente para companhias de opereta, zarzuela e comédia.[^moser]
 
 No mesmo ensaio, Moser afirma que a proposta de Rosa traz informações que precisam ser discutidas e atualizadas, e cita como exemplo a data de fundação do Bijou. Ele não indica outra data.[^moser2]
 

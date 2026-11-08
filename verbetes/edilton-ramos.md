@@ -23,7 +23,7 @@ Em 1991, Ramos criou o texto *A última noite de Sodoma*, a partir do episódio 
 
 O folheto atribui a ele a criação, em 1973, do Grupo Transart, que apresentou espetáculos de apelo comercial sobre questões familiares e ambientais, como *Conflitos de Geração* e *Doutor Urubulino Polu*.[^folheto]
 
-A homenagem ocorreu na abertura oficial da mostra, em 22 de maio de 2017, no Teatro Glauce Rocha, junto com o Grupo Palco e o Mágico Tabajara.[^folheto]
+A homenagem ocorreu na abertura oficial da mostra, em 22 de maio de 2017, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], junto com o Grupo Palco e o [[magico-tabajara|Mágico Tabajara]].[^folheto]
 
 Ver também: [[grupo-teatral-palco|Grupo Teatral Palco]].[^folheto]
 

@@ -14,7 +14,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Revista Dançar** é uma publicação sobre dança cujos exemplares estão digitalizados no acervo de [[sarah-abussafi-figueiro|Sarah Figueiró]], na seção dedicada à [[asmpd|Associação Sul-Mato-Grossense dos Profissionais de Dança]] (ASMPD).[^acervo]
+**Revista Dançar** é uma publicação sobre dança cujos exemplares estão digitalizados no acervo de [[sarah-abussafi-figueiro|Sarah Figueiró]], na seção dedicada à [[asmpd|Associação Sul-Mato-Grossense dos Profissionais de Dança]] ([[asmpd|ASMPD]]).[^acervo]
 
 ## Exemplares no acervo
 

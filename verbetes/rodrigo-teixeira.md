@@ -16,13 +16,13 @@ atualizado: 2026-10-29
 
 O *Correio do Estado* o descreveu em 2011 como jornalista e músico com três discos lançados.[^ce] Uma exposição audiovisual baseada em seu livro foi lançada no Museu da Imagem e do Som em 3 de maio de 2011.[^ce]
 
-Em dissertação de mestrado defendida na UFMS em 2014, Rodrigo Teixeira Gonçalves descreve *Os Pioneiros*, lançado em 2009, como livro "de minha autoria". A identificação entre o autor da dissertação e o autor do livro se apoia nessa passagem e no título da obra.[^gon]
+Em dissertação de mestrado defendida na [[ufms|UFMS]] em 2014, Rodrigo Teixeira Gonçalves descreve *Os Pioneiros*, lançado em 2009, como livro "de minha autoria". A identificação entre o autor da dissertação e o autor do livro se apoia nessa passagem e no título da obra.[^gon]
 
 ## Música
 
 Caetano o inclui, ao lado de Caio Ignácio e de [[jerry-espindola|Jerry Espíndola]], entre os artistas mais significativos da [[polca-rock-cd-jerry-espindola|polca-rock]], conceito estético que começou a ser desenvolvido entre o fim dos anos 1980 e o início dos anos 1990.[^cae]
 
-Gonçalves registra que Rodrigo Teixeira lançou em 2003 o álbum *Polck*, ao lado de *Polca-rock*, de Jerry Espíndola & Croa, como um dos dois discos autorais voltados inteiramente ao gênero.[^gon2]
+Gonçalves registra que Rodrigo Teixeira lançou em 2003 o álbum *Polck*, ao lado de *Polca-rock*, de [[jerry-espindola|Jerry Espíndola]] & Croa, como um dos dois discos autorais voltados inteiramente ao gênero.[^gon2]
 
 ## Pesquisa e escrita
 

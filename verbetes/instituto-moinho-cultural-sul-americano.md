@@ -17,7 +17,7 @@ O **Instituto Moinho Cultural Sul-Americano**, ou Moinho Cultural, é uma Organi
 
 Em 2022, a diretora-executiva, Márcia Rolon, disse que o Moinho nasceu 18 anos antes na fronteira entre o Brasil e a Bolívia.[^cgn2022] Segundo a matéria, mais de 23 mil crianças e adolescentes já tinham sido atendidos desde o início das atividades, com formação continuada de até oito anos.[^cgn2022]
 
-Além das aulas, o instituto forma intérpretes criadores jovens e adultos por meio da [[cia-de-danca-do-pantanal|Cia de Dança do Pantanal]], da Orquestra de Câmara do Pantanal e de um Núcleo de Tecnologia.[^cgn2022] Em 2022, a companhia, ligada ao instituto, viajou a Paris para o festival Dança em Trânsito com o espetáculo *Carne Quebrada*.[^cgn2022]
+Além das aulas, o instituto forma intérpretes criadores jovens e adultos por meio da [[cia-de-danca-do-pantanal|Cia de Dança do Pantanal]], da [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]] e de um Núcleo de Tecnologia.[^cgn2022] Em 2022, a companhia, ligada ao instituto, viajou a Paris para o festival Dança em Trânsito com o espetáculo *Carne Quebrada*.[^cgn2022]
 
 Em 2024, Márcia Rolon foi apresentada como fundadora do Moinho Cultural e diretora artística da companhia, que existe desde 2017 e abriu a [[semana-pra-danca|Semana pra Dança]] daquele ano.[^cgn2024]
 

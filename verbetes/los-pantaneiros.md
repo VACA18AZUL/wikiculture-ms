@@ -10,21 +10,21 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Los Pantaneiros** é o nome que um grupo de acadêmicos da Universidade Federal de Mato Grosso do Sul (UFMS), Campus do Pantanal, usa quando faz apresentações circenses.[^urd]
+**Los Pantaneiros** é o nome que um grupo de acadêmicos da [[ufms|Universidade Federal de Mato Grosso do Sul]] ([[ufms|UFMS]]), Campus do Pantanal, usa quando faz apresentações circenses.[^urd]
 
 ## Trajetória
 
 O grupo se liga ao projeto de extensão *Redescobrindo o circo como recurso pedagógico*, do curso de Educação Física, coordenado pelo professor Rogério Zaim-de-Melo. Os encontros reúnem estudantes em atividades como acrobacias, malabarismo, equilíbrio e uso de minitrampolim.[^urd]
 
-Em 2019, uma ação de extensão da UFMS, *O Circo vai a uma escola das águas*, já havia levado circo a uma escola das águas. Ela foi interrompida pela pandemia e retomada quatro anos depois.[^urd]
+Em 2019, uma ação de extensão da [[ufms|UFMS]], *O Circo vai a uma escola das águas*, já havia levado circo a uma escola das águas. Ela foi interrompida pela pandemia e retomada quatro anos depois.[^urd]
 
 ## Viagem de 2023
 
-Em outubro de 2023, uma trupe de um professor universitário, um professor de circo e oito acadêmicos subiu o rio Paraguai, a partir de Corumbá, para apresentar um espetáculo a crianças de duas escolas das águas, Jatobazinho e Paraguai Mirim. O professor de circo era [[mauro-shiroma|Mauro Shiroma]], da Vivart.[^urd]
+Em outubro de 2023, uma trupe de um professor universitário, um professor de circo e oito acadêmicos subiu o rio Paraguai, a partir de Corumbá, para apresentar um espetáculo a crianças de duas escolas das águas, Jatobazinho e Paraguai Mirim. O professor de circo era [[mauro-shiroma|Mauro Shiroma]], da [[vivart|Vivart]].[^urd]
 
 O espetáculo durou 45 minutos e teve 10 números, entre eles duo acrobático, valsa dos palhaços, malabarismo, equilibrismo e bambolês. Levou cerca de 45 dias para ser preparado. A viagem começou em 31 de outubro. Na escola Jatobazinho, o grupo se apresentou ao fim do dia, depois de um cortejo; segundo o artigo, foi a estreia oficial em picadeiro dos acadêmicos presentes. Um problema no barco que leva os alunos impediu a ida à Paraguai Mirim naquele dia, e a apresentação nessa escola ocorreu em 1º de novembro.[^urd]
 
-Segundo os autores, a ação de extensão de 2019 foi inspirada em *[[navegando-pelo-rio-dos-sonhos|Navegando pelo rio dos sonhos]]*, projeto que a UFMS desenvolveu entre 2005 e 2008.[^urd]
+Segundo os autores, a ação de extensão de 2019 foi inspirada em *[[navegando-pelo-rio-dos-sonhos|Navegando pelo rio dos sonhos]]*, projeto que a [[ufms|UFMS]] desenvolveu entre 2005 e 2008.[^urd]
 
 ## Para saber mais
 

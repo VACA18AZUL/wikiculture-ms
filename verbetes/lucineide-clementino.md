@@ -15,7 +15,7 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Em novembro de 2023, Lucineide participou da exposição "Elas em Corumbá – Mulheres Indígenas Artistas", realizada dentro do Festival América do Sul, de 9 a 12 de novembro. A mostra reuniu obras de mulheres indígenas de Mato Grosso do Sul; entre as demais artistas citadas pela reportagem estão [[benilda-kadiweu|Benilda Kadiwéu]] e Aline de Souza da Silva, do povo kaiowá-guarani.[^cgn]
+Em novembro de 2023, Lucineide participou da exposição "Elas em Corumbá – Mulheres Indígenas Artistas", realizada dentro do [[festival-america-do-sul-pantanal|Festival América do Sul]], de 9 a 12 de novembro. A mostra reuniu obras de mulheres indígenas de Mato Grosso do Sul; entre as demais artistas citadas pela reportagem estão [[benilda-kadiweu|Benilda Kadiwéu]] e [[aline-de-souza-da-silva|Aline de Souza da Silva]], do povo kaiowá-guarani.[^cgn]
 
 Na reportagem, a artista disse fazer parte do coletivo Grafismo Indígena, que trabalha com expressões artísticas e mensagens indígenas, inclusive em estampas de camisetas.[^cgn]
 

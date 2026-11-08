@@ -13,9 +13,9 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Segundo a dissertação de Rodrigo Teixeira Gonçalves, Dino Rocha é uma referência do chamamé do Brasil desde a década de 1970. Teria dado continuidade à escola de chamamé do sul do antigo Mato Grosso, popularizada por [[ze-correa|Zé Corrêa]].[^ufms] O mesmo estudo o classifica, junto com Zé Corrêa, entre os intérpretes tradicionalistas e compositores pioneiros. Os dois teriam criado um jeito próprio de tocar o acordeão, que modernizou o chamamé no começo dos anos 1970.[^ufms]
+Segundo a dissertação de [[rodrigo-teixeira|Rodrigo Teixeira]] Gonçalves, Dino Rocha é uma referência do chamamé do Brasil desde a década de 1970. Teria dado continuidade à escola de chamamé do sul do antigo Mato Grosso, popularizada por [[ze-correa|Zé Corrêa]].[^ufms] O mesmo estudo o classifica, junto com [[ze-correa|Zé Corrêa]], entre os intérpretes tradicionalistas e compositores pioneiros. Os dois teriam criado um jeito próprio de tocar o acordeão, que modernizou o chamamé no começo dos anos 1970.[^ufms]
 
-A pesquisa aponta Zé Corrêa e Dino Rocha como os dois ídolos do acordeão no estado.[^ufms]
+A pesquisa aponta [[ze-correa|Zé Corrêa]] e Dino Rocha como os dois ídolos do acordeão no estado.[^ufms]
 
 ## Discografia
 

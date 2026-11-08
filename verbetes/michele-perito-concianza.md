@@ -25,8 +25,8 @@ Participou do projeto de videocartas *Nhemongueta Kunhã Mbarete*, do Instituto 
 
 ## Filmografia
 
-- *Poty* (2021) — minidocumentário; codireção com [[dani-kaiowa|Dani Kaiowá]].[^tese]
-- *Jerosy Puku, O Grande Canto* (2017) — filme da ASCURI dirigido por Ademilson "Kiki" Concianza; Michele participou.[^tese]
+- *[[poty|Poty]]* (2021) — minidocumentário; codireção com [[dani-kaiowa|Dani Kaiowá]].[^tese]
+- *Jerosy Puku, O Grande Canto* (2017) — filme da [[ascuri|ASCURI]] dirigido por [[ademilson-kiki-concianza|Ademilson "Kiki" Concianza]]; Michele participou.[^tese]
 - *Experiência Indígena Pngati Guarani Kaiowá* (2022) — curta de 12 minutos, direção de Michele Kaiowá; exibido na Mostra Paralela do I Festival de Cinema e Cultura Indígena.[^tese]
 
 [^tese]: Miguel Angelo Corrêa, *Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*, tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, seções 2.2.2.5 e 2.2.2.12 ([PDF](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf)). Acesso em 29 out. 2026.

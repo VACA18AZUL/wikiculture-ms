@@ -14,7 +14,7 @@ O **Arado Cultural** é um coletivo de Campo Grande que atua em dança e artes c
 
 O Arado Cultural realiza o [[festival-danca-tres|Festival Dança Três]], em Três Lagoas. Em 2022, a reportagem citava edições anteriores em 2013, 2014 e 2017 e a edição daquele ano, de 2 a 5 de junho, com inscrições abertas para uma Mostra Aberta de grupos de MS e SP.[^d3]
 
-Em 2024, a Associação Arado Cultural e o [[colegiado-estadual-de-danca-de-ms|Colegiado Estadual de Dança de MS]] realizaram a [[semana-pra-danca|Semana Pra Dança]], de 30 de setembro a 6 de outubro, com sessões no Teatro Aracy Balabanian e em outros espaços da cidade, com investimento da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. A programação previa 16 espetáculos, oficinas e ações de mediação.[^sem]
+Em 2024, a Associação Arado Cultural e o [[colegiado-estadual-de-danca-de-ms|Colegiado Estadual de Dança de MS]] realizaram a [[semana-pra-danca|Semana Pra Dança]], de 30 de setembro a 6 de outubro, com sessões no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]] e em outros espaços da cidade, com investimento da [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]]. A programação previa 16 espetáculos, oficinas e ações de mediação.[^sem]
 
 Em março de 2026, o coletivo foi convidado para a MITsp 2026 (Mostra Internacional de Teatro de São Paulo), na seleção "Conexões Centro-Oeste" do Itaú Cultural. Apresentou *Cabeça de Toco, Aqui Tudo É Mato* nos dias 14 e 15 de março, na Sala Itaú Cultural.[^mitsp]
 

@@ -15,7 +15,7 @@ A **Semana pra Dança** é um evento de dança realizado em Campo Grande, com es
 
 ## Edições
 
-A 8ª edição ocorreu de 7 a 13 de abril de 2014, no Teatro Aracy Balabanian e no [[mis-ms|Museu da Imagem e do Som]], com atividades gratuitas. A programação teve espetáculos de grupos de Mato Grosso do Sul, São Paulo e Rio de Janeiro, mostra de videodanças, a 4ª MS Mostra de Videodança, palestras e um curso de videodança. A matéria diz que a realização era da Fundação de Cultura do Estado. Entre as companhias sul-mato-grossenses estavam a Cinese Cia de Dança, a [[cia-dancurbana|Cia. Dançurbana]] e a [[ginga-cia-de-danca|Ginga Cia de Dança]].[^cgn2014]
+A 8ª edição ocorreu de 7 a 13 de abril de 2014, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]] e no [[mis-ms|Museu da Imagem e do Som]], com atividades gratuitas. A programação teve espetáculos de grupos de Mato Grosso do Sul, São Paulo e Rio de Janeiro, mostra de videodanças, a 4ª MS Mostra de Videodança, palestras e um curso de videodança. A matéria diz que a realização era da Fundação de Cultura do Estado. Entre as companhias sul-mato-grossenses estavam a Cinese Cia de Dança, a [[cia-dancurbana|Cia. Dançurbana]] e a [[ginga-cia-de-danca|Ginga Cia de Dança]].[^cgn2014]
 
 Em 2024, a Semana pra Dança foi de 30 de setembro a 6 de outubro. A matéria de agosto de 2024 diz que a edição retomava as atividades alusivas ao Dia Internacional da Dança, em 29 de abril. O Colegiado Estadual de Dança afirmou que o evento resulta de uma luta da classe por valorização, visibilidade e formação de público.[^cgn2024b]
 

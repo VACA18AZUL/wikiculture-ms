@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-***Cena Alternativa MS – Geração 20*** é um documentário de 45 minutos dirigido por Pedro Fattori, integrante do duo [[vozmece|Vozmecê]].[^crit]
+***Cena Alternativa MS – Geração 20*** é um documentário de 45 minutos dirigido por [[pedro-fattori|Pedro Fattori]], integrante do duo [[vozmece|Vozmecê]].[^crit]
 
 ## Sobre o filme
 
@@ -22,7 +22,7 @@ Entre os entrevistados estão Beca Rodrigues, Silveira, [[projeto-kzulo|Projeto 
 
 ## Exibição
 
-A matéria de A Crítica anuncia a exibição, como obra inédita, junto com [[tropicapolca-documentario|TropicaPolca – Produção Musical Independente no MS]], em 13 de março de 2026, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande. A sessão marcou a despedida do Vozmecê antes da mudança do duo para São Paulo. A matéria não informa onde assistir ao filme depois da sessão.[^crit]
+A matéria de A Crítica anuncia a exibição, como obra inédita, junto com [[tropicapolca-documentario|TropicaPolca – Produção Musical Independente no MS]], em 13 de março de 2026, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande. A sessão marcou a despedida do [[vozmece|Vozmecê]] antes da mudança do duo para São Paulo. A matéria não informa onde assistir ao filme depois da sessão.[^crit]
 
 ## Ficha técnica
 

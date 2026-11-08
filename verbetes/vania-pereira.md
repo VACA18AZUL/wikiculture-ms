@@ -13,7 +13,7 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Em 2013, seu nome integrou a exposição "In Memorian", da Fundação de Cultura de MS, na Galeria do Memorial da Cultura, em Campo Grande. A mostra homenageou artistas já falecidos, entre eles [[lidia-bais|Lídia Baís]] e Wega Nery.[^cgn]
+Em 2013, seu nome integrou a exposição "[[in-memorian-2013|In Memorian]]", da Fundação de Cultura de MS, na Galeria do Memorial da Cultura, em Campo Grande. A mostra homenageou artistas já falecidos, entre eles [[lidia-bais|Lídia Baís]] e [[wega-nery|Wega Nery]].[^cgn]
 
 Uma dissertação sobre o [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]] cita uma "Vânia Pereira" entre os artistas que participaram de mostras e salões ligados ao movimento. O texto não dá mais dados sobre ela, e a identidade com a gravadora acima não está declarada nas fontes.[^assis]
 

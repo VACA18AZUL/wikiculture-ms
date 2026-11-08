@@ -20,9 +20,9 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-O Correio do Estado o descreve como um dos pioneiros da arte no estado, que abriu um dos primeiros ateliês de pintura da região.[^ce2016] Segundo a mesma reportagem, esteve ligado à Primeira Exposição de Artistas Mato-Grossenses, em 1964, e à criação da Associação Mato-Grossense de Artes, em 1967.[^ce2016] Assis também registra a presença de Jorapimo na Primeira Exposição de Pinturas dos Artistas Mato-grossenses, na Rádio Clube de Campo Grande, mas data a mostra de outubro de 1966.[^assis] As duas datas não foram conciliadas.
+O Correio do Estado o descreve como um dos pioneiros da arte no estado, que abriu um dos primeiros ateliês de pintura da região.[^ce2016] Segundo a mesma reportagem, esteve ligado à [[primeira-exposicao-artistas-mato-grossenses-1964|Primeira Exposição de Artistas Mato-Grossenses]], em 1964, e à criação da Associação Mato-Grossense de Artes, em 1967.[^ce2016] Assis também registra a presença de Jorapimo na Primeira Exposição de Pinturas dos Artistas Mato-grossenses, na Rádio Clube de Campo Grande, mas data a mostra de outubro de 1966.[^assis] As duas datas não foram conciliadas.
 
-Em 2013, o Campo Grande News incluiu o artista entre os que "já se foram" na mostra "In Memorian", da Fundação de Cultura, na Galeria do Memorial da Cultura, em Campo Grande.[^cgn2013]
+Em 2013, o Campo Grande News incluiu o artista entre os que "já se foram" na mostra "[[in-memorian-2013|In Memorian]]", da Fundação de Cultura, na Galeria do Memorial da Cultura, em Campo Grande.[^cgn2013]
 
 ## Obra
 

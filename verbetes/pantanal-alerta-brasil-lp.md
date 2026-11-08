@@ -24,7 +24,7 @@ A primeira edição incluiu apresentações no Museu da Imagem e do Som de São 
 
 O registro das apresentações foi um trabalho produzido por [[guilherme-rondon|Guilherme Rondon]]. Segundo Caetano, as canções do disco não trazem grande novidade: os ritmos vão da guarânia ao arrasta-pé. A exceção é "Na Chapada", gravada antes por [[tete-espindola|Tetê Espíndola]], que não participou do evento; [[celito-espindola|Celito Espíndola]] a interpretou em homenagem a ela.[^cae93]
 
-O autor considera o disco um dos quatro que marcam fases da música regional sul-mato-grossense depois de 1977, junto com *Tetê e o Lírio Selvagem* (1978), [[prata-da-casa-lp-1982|*Prata da Casa*]] (1982) e [[polca-rock-cd-jerry-espindola|*Polca-Rock*]] (2002).[^cae-intro]
+O autor considera o disco um dos quatro que marcam fases da música regional sul-mato-grossense depois de 1977, junto com *[[tete-e-o-lirio-selvagem-lp|Tetê e o Lírio Selvagem]]* (1978), [[prata-da-casa-lp-1982|*Prata da Casa*]] (1982) e [[polca-rock-cd-jerry-espindola|*Polca-Rock*]] (2002).[^cae-intro]
 
 A referência bibliográfica do artigo indica a edição como *Pantanal Alerta Brasil*, São Paulo, Reserva Nacional, 1988, um LP.[^cae-ref]
 

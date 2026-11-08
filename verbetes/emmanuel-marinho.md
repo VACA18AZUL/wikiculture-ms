@@ -40,7 +40,7 @@ Os livros de poesia citados pela Academia são:[^asl]
 
 ## Discografia
 
-- *Teré* — disco que reúne participações de Itamar Assumpção, Paulo Lepetit, Toninho Ferragguti, Alzira Espíndola e Pedro Luís e a Parede, entre outros; recebeu o prêmio Marco Verde.[^asl]
+- *Teré* — disco que reúne participações de Itamar Assumpção, Paulo Lepetit, Toninho Ferragguti, [[alzira-espindola|Alzira Espíndola]] e Pedro Luís e a Parede, entre outros; recebeu o prêmio Marco Verde.[^asl]
 
 ## Espetáculos
 

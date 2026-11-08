@@ -17,7 +17,7 @@ O **Link Off** é um projeto musical solo de Campo Grande, idealizado pelo produ
 
 O projeto se filia à música industrial e ao electro-industrial, com sonoridades eletrônicas densas e temas de crítica social.[^recon]
 
-Participou do projeto Som da Concha, na Concha Acústica Helena Meirelles, no Parque das Nações Indígenas, divulgado pela Fundação de Cultura de Mato Grosso do Sul. A descrição também cita apresentações em eventos como Tatoofest, Artground, Destrua Torre, Fogo no Cerrado, Playmorock e Bigornada.[^recon]
+Participou do projeto Som da Concha, na Concha Acústica [[helena-meirelles|Helena Meirelles]], no Parque das Nações Indígenas, divulgado pela [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]]. A descrição também cita apresentações em eventos como Tatoofest, Artground, Destrua Torre, Fogo no Cerrado, Playmorock e Bigornada.[^recon]
 
 ## Discografia
 

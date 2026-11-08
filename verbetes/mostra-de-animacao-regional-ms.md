@@ -17,11 +17,11 @@ A **Mostra de Animação Regional MS** é uma iniciativa da [[transcine|TransCin
 
 A segunda edição foi de 5 a 7 de fevereiro de 2026, com entrada franca. A abertura foi no Teatro de Arena da Orla Morena, em 5 de fevereiro. No dia 6, a sessão no [[mis-ms|Museu da Imagem e do Som]] teve a presença dos diretores. Em 7 de fevereiro houve oficina de animação em flipbook para crianças, na ONG Núcleo Humanitário da Nhanhá.[^tt]
 
-A mostra foi realizada com recursos da Política Nacional Aldir Blanc, por execução da Prefeitura de Campo Grande via Fundação Municipal de Cultura. Mariana Sena é a coordenadora da TransCine. Cada diretor recebeu R$ 500,00 pela exibição.[^tt]
+A mostra foi realizada com recursos da Política Nacional Aldir Blanc, por execução da Prefeitura de Campo Grande via Fundação Municipal de Cultura. [[mariana-sena|Mariana Sena]] é a coordenadora da TransCine. Cada diretor recebeu R$ 500,00 pela exibição.[^tt]
 
 Dez filmes, escolhidos pela curadoria da TransCine, foram exibidos:[^tt]
 
-- *+ Forte*, direção de Ara Martins.[^tt]
+- *+ Forte*, direção de [[ara-martins|Ara Martins]].[^tt]
 - *A jornada de Lila*, Jorge de Barros.[^tt]
 - *Carlos*, Suzana Nellis.[^tt]
 - *Cinema, futebol e os visitantes*, Acir Alves.[^tt]

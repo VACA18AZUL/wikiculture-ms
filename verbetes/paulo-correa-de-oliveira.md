@@ -20,7 +20,7 @@ Nasceu em Aquidauana em 21 de outubro de 1936. Participou das atividades do Cent
 
 Escreveu e dirigiu as peças do grupo teatral da escola. Segundo Ziliani, só não participou da primeira, de 1977, feita dentro de um projeto de arte do CERA. De 1978 a 1997, o grupo montou 19 peças, uma por ano.[^ziliani]
 
-Outra fonte, o artigo de Fabricio Moser, atribui a ele a fundação do [[grupo-bataclan|Grupo Bataclã]] em 1976, formado por 18 profissionais liberais e que usava música e dublagem como linguagem. Moser diz que o grupo se apresentou em Aquidauana, em outras cidades do estado e do país. Ele resume as propostas de Oliveira com o CERA como atividades cênicas integradas à vida social da cidade, com peças baseadas na realidade sul-mato-grossense. As duas informações vêm de relato indireto, a partir do texto de Maria da Glória Sá Rosa.[^moser]
+Outra fonte, o artigo de Fabricio Moser, atribui a ele a fundação do [[grupo-bataclan|Grupo Bataclã]] em 1976, formado por 18 profissionais liberais e que usava música e dublagem como linguagem. Moser diz que o grupo se apresentou em Aquidauana, em outras cidades do estado e do país. Ele resume as propostas de Oliveira com o CERA como atividades cênicas integradas à vida social da cidade, com peças baseadas na realidade sul-mato-grossense. As duas informações vêm de relato indireto, a partir do texto de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]].[^moser]
 
 Oliveira deu depoimento sobre seu trabalho no livro *Memória da arte em Mato Grosso do Sul: histórias de vida* (1992), segundo as referências de Ziliani e o texto de Moser.[^moser]
 
@@ -30,7 +30,7 @@ Os textos tratam de episódios e figuras da história regional. Entre eles estã
 
 ## Espetáculos
 
-Peças de Oliveira encenadas pelo Grupo Teatral do CERA. O ano é o indicado nas referências do artigo de Ziliani (folder ou texto da peça).[^ziliani]
+Peças de Oliveira encenadas pelo [[grupo-teatral-do-cera|Grupo Teatral do CERA]]. O ano é o indicado nas referências do artigo de Ziliani (folder ou texto da peça).[^ziliani]
 
 - *Estamos aí* (1978) — texto que deu voz aos estudantes do CERA.[^ziliani]
 - *Retirada da Laguna* (1979) — segunda peça do grupo, a partir do livro de Taunay.[^ziliani]

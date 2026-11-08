@@ -15,7 +15,7 @@ atualizado: 2026-10-29
 ## Filmografia
 
 - *Mapago* (2026) — curta; direção. Integrou a mostra competitiva Curta MS do [[festival-curta-campo-grande|Festival Curta Campo Grande]], de 26 a 31 de outubro de 2026.[^curta]
-- *A Trovadora e a Poeta* (2026) — curta; direção. Teve pré-estreia gratuita em 28 de maio de 2026, na Casa de Ciência e Cultura da UFMS, em Campo Grande, com cine-debate.[^trovadora]
+- *A Trovadora e a Poeta* (2026) — curta; direção. Teve pré-estreia gratuita em 28 de maio de 2026, na Casa de Ciência e Cultura da [[ufms|UFMS]], em Campo Grande, com cine-debate.[^trovadora]
 
 ## Sobre *A Trovadora e a Poeta*
 

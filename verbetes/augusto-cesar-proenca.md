@@ -21,17 +21,17 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Proença foi membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL) e integrante do Sindicato dos Escritores do Rio de Janeiro.[^cgn2023] Em 2022, foi um dos homenageados da 16.ª edição do [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^cgn2023]
+Proença foi membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] ([[academia-sul-mato-grossense-de-letras|ASL]]) e integrante do Sindicato dos Escritores do Rio de Janeiro.[^cgn2023] Em 2022, foi um dos homenageados da 16.ª edição do [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^cgn2023]
 
-Morreu em 11 de junho de 2023, aos 85 anos. A Fundação de Cultura e do Patrimônio Histórico de Corumbá e a Fundação de Cultura de Mato Grosso do Sul divulgaram notas de pesar. A fundação corumbaense disse que, por meio de seus textos, ele registrou o Pantanal, com seus costumes, falares e lendas, e que recebeu prêmios e teve obras adaptadas para o audiovisual.[^cgn2023]
+Morreu em 11 de junho de 2023, aos 85 anos. A Fundação de Cultura e do Patrimônio Histórico de Corumbá e a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] divulgaram notas de pesar. A fundação corumbaense disse que, por meio de seus textos, ele registrou o Pantanal, com seus costumes, falares e lendas, e que recebeu prêmios e teve obras adaptadas para o audiovisual.[^cgn2023]
 
-Em agosto de 2026, o escritor André Alvez tomou posse na cadeira 28 da ASL, antes ocupada por Proença.[^acritica] Ver [[andre-alvez|André Alvez]]. Em 2025, a ASL incluiu Proença entre os "imortais" lembrados em suas rodas acadêmicas do ano.[^ce2025]
+Em agosto de 2026, o escritor [[andre-alvez|André Alvez]] tomou posse na cadeira 28 da [[academia-sul-mato-grossense-de-letras|ASL]], antes ocupada por Proença.[^acritica] Ver [[andre-alvez|André Alvez]]. Em 2025, a [[academia-sul-mato-grossense-de-letras|ASL]] incluiu Proença entre os "imortais" lembrados em suas rodas acadêmicas do ano.[^ce2025]
 
 ## Obras
 
 A matéria de 2023 diz que ele escreveu dez livros e cita os títulos abaixo.[^cgn2023]
 
-- *Gente Tradição e História* (1993) — livro.[^cgn2023]
+- *Gente [[tradicao|Tradição]] e História* (1993) — livro.[^cgn2023]
 - *Corumbá de Todas as Graças* (2003) — livro.[^cgn2023]
 - *Memória Pantaneira* (2004) — livro.[^cgn2023]
 - *Raízes do Pantanal* (1989) — novela.[^cgn2023]

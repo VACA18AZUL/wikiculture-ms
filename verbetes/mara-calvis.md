@@ -20,7 +20,7 @@ Estava prevista a presença dela na 2ª edição da [[felit-ms|Felit-MS]], em Do
 
 ## Palavras Além do Tempo
 
-Em dezembro de 2024, o Campo Grande News informou que a Vida Produções, "da escritora Mara Calvis", organizava o lançamento simultâneo de 25 livros individuais de 25 autores, selecionados pelo projeto Palavras Além do Tempo. O lançamento foi marcado para 23 de dezembro, na Casa de Cultura, com entrada gratuita. Mara é citada como organizadora do projeto. Depois do evento, os livros ficariam disponíveis para leitura e download no site Mais Um Saber.[^cgn2024]
+Em dezembro de 2024, o Campo Grande News informou que a [[vida-producoes|Vida Produções]], "da escritora Mara Calvis", organizava o lançamento simultâneo de 25 livros individuais de 25 autores, selecionados pelo projeto Palavras Além do Tempo. O lançamento foi marcado para 23 de dezembro, na Casa de Cultura, com entrada gratuita. Mara é citada como organizadora do projeto. Depois do evento, os livros ficariam disponíveis para leitura e download no site Mais Um Saber.[^cgn2024]
 
 Entre os livros do lançamento está *Sementes de Novos Leitores*, assinado por ela.[^cgn2024]
 

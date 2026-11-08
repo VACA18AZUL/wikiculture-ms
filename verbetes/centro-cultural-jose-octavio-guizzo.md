@@ -17,7 +17,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-O **Centro Cultural José Octávio Guizzo** (CCJOG) é um espaço de Campo Grande dedicado à geração, formação e difusão da cultura sul-mato-grossense.[^cgn2024]
+O **Centro Cultural [[jose-octavio-guizzo|José Octávio Guizzo]]** (CCJOG) é um espaço de Campo Grande dedicado à geração, formação e difusão da cultura sul-mato-grossense.[^cgn2024]
 
 ## Estrutura
 
@@ -31,7 +31,7 @@ Em outubro de 2026, o teatro do centro foi anunciado como sede do espetáculo *V
 
 ## Nome
 
-O centro homenageia José Octávio Guizzo, descrito na matéria de 2024 como advogado, historiador, estudioso do folclore, cineasta, produtor cultural, músico, poeta e ex-presidente da [[fundacao-de-cultura-de-ms|Fundação de Cultura do Estado]].[^cgn2024]
+O centro homenageia [[jose-octavio-guizzo|José Octávio Guizzo]], descrito na matéria de 2024 como advogado, historiador, estudioso do folclore, cineasta, produtor cultural, músico, poeta e ex-presidente da [[fundacao-de-cultura-de-ms|Fundação de Cultura do Estado]].[^cgn2024]
 
 ## Endereço e grafia
 

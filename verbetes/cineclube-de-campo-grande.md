@@ -15,7 +15,7 @@ O **Cineclube de Campo Grande** surgiu em 1967 e foi dirigido pela professora [[
 
 ## Atividades
 
-Diehl situa o cineclube no crescimento do cineclubismo na capital durante a década de 1970. A dissertação diz que o movimento criou uma geração de cinéfilos e de produtores, entre eles [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]], diretor do curta *Conceição dos Bugres*.[^diehl]
+Diehl situa o cineclube no crescimento do cineclubismo na capital durante a década de 1970. A dissertação diz que o movimento criou uma geração de cinéfilos e de produtores, entre eles [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]], diretor do curta *[[conceicao-dos-bugres|Conceição dos Bugres]]*.[^diehl]
 
 Citando Pinheiro e Fischer (2008), Diehl afirma que, além das exibições, o cineclube abrigava cursos de cinema, em que os participantes estudavam técnicas e o funcionamento das produções. Muitos cineclubistas passaram depois a produzir filmes, exibidos em salas de cinema, e a organizar mostras de países com forte atividade cinematográfica.[^diehl]
 

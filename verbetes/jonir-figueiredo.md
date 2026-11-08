@@ -19,9 +19,9 @@ atualizado: 2026-10-29
 
 Começou a carreira nos anos 1970 e é citado como representante da chamada "geração da divisão", que tomou a criação do estado de Mato Grosso do Sul como tema.[^cgn2025]
 
-Participou do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]], coletivo de artistas voltado à identidade cultural do estado. As fontes divergem sobre a origem do grupo. Assis diz que foi criado em 1981 pelo artista Henrique Spengler, com a participação inicial de Jonir e de outros artistas, e chama Jonir de um dos fundadores.[^assis] O Campo Grande News de 2025 o apresenta como cofundador e, em outra reportagem, situa a fundação nos anos 1970.[^cgn2025][^cgn2025b]
+Participou do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]], coletivo de artistas voltado à identidade cultural do estado. As fontes divergem sobre a origem do grupo. Assis diz que foi criado em 1981 pelo artista [[henrique-spengler|Henrique Spengler]], com a participação inicial de Jonir e de outros artistas, e chama Jonir de um dos fundadores.[^assis] O Campo Grande News de 2025 o apresenta como cofundador e, em outra reportagem, situa a fundação nos anos 1970.[^cgn2025][^cgn2025b]
 
-Presidiu a Associação dos Artistas Plásticos de Mato Grosso do Sul em 2008 e 2009.[^assis] Em 2014 foi listado entre os artistas plásticos da exposição "Mato Grosso do Sul Visto Pelo Mundo", organizada com a ONU em Nova York.[^cgn2014]
+Presidiu a Associação dos Artistas Plásticos de Mato Grosso do Sul em 2008 e 2009.[^assis] Em 2014 foi listado entre os artistas plásticos da exposição "[[mato-grosso-do-sul-visto-pelo-mundo|Mato Grosso do Sul Visto Pelo Mundo]]", organizada com a ONU em Nova York.[^cgn2014]
 
 Morreu em 26 de julho de 2025, em Bonito, onde participava do Festival Bonito Cinesur.[^cgn2025b] A idade varia: a matéria de 26 de julho informa 73 anos em um trecho e 71 em outro, e a de 27 de julho informa 73.[^cgn2025][^cgn2025b]
 

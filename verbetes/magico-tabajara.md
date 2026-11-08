@@ -22,7 +22,7 @@ Segundo o texto, também participou do Programa Silvio Santos e trabalhou por do
 
 ## Homenagem
 
-Na abertura do [[mostra-boca-de-cena|Boca de Cena]] de 2017, no Teatro Glauce Rocha, houve homenagem ao Grupo Palco, a Edilton Ramos e ao Mágico Tabajara.[^folheto]
+Na abertura do [[mostra-boca-de-cena|Boca de Cena]] de 2017, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], houve homenagem ao Grupo Palco, a [[edilton-ramos|Edilton Ramos]] e ao Mágico Tabajara.[^folheto]
 
 O folheto não traz o nome civil do artista nem datas de nascimento. Os detalhes biográficos pessoais do texto foram deixados de fora.[^folheto]
 

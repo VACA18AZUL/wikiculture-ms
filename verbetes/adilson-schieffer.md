@@ -19,7 +19,7 @@ atualizado: 2026-10-29
 
 A dissertação de Renata Assis informa que ele nasceu em 1957 e residia em Campo Grande desde 1982. Formou-se em Arte-Educação pela Faculdade de Avaré (SP), teve obra premiada em diversos salões e foi curador da Galeria de Arte da TVE Regional MS de 2002 a 2007.[^assis2013] A reportagem de 2025 diz que ele se mudou para a capital na década de 1980 e foi cenógrafo da TV Educativa por sete anos.[^cgn2025]
 
-Assis o apresenta como um dos fundadores do Movimento Cultural Guaicuru (MCG), ao lado de Henrique Spengler, e membro da Associação dos Artistas Plásticos de Mato Grosso do Sul.[^assis2013] O Campo Grande News diz que ele fundou a Unidade Guaicuru de Cultura. As fontes lidas não esclarecem se são a mesma entidade.[^cgn2025]
+Assis o apresenta como um dos fundadores do [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]] ([[movimento-cultural-guaicuru|MCG]]), ao lado de [[henrique-spengler|Henrique Spengler]], e membro da Associação dos Artistas Plásticos de Mato Grosso do Sul.[^assis2013] O Campo Grande News diz que ele fundou a [[unidade-guaicuru-de-cultura|Unidade Guaicuru de Cultura]]. As fontes lidas não esclarecem se são a mesma entidade.[^cgn2025]
 
 Morreu em 28 de janeiro de 2025.[^cgn2025]
 
@@ -30,7 +30,7 @@ A dissertação inclui Schieffer entre os artistas que se apropriaram da iconogr
 Duas telas são reproduzidas na dissertação:[^assis2013]
 
 - *Madona Kadiwéu* (1992), acrílica sobre tela, 60 x 70 cm.[^assis2013]
-- *A Ceramista* (1995), técnica mista sobre tela, 40 x 54 cm; a legenda cita o MARCO como fonte.[^assis2013]
+- *A Ceramista* (1995), técnica mista sobre tela, 40 x 54 cm; a legenda cita o [[marco|MARCO]] como fonte.[^assis2013]
 
 ## Grafias do nome
 

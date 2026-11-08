@@ -18,7 +18,7 @@ atualizado: 2026-10-08
 
 As telas usam a figura do boi e seu simbolismo, que ganharam importância na cultura sul-mato-grossense.[^cgn2023]
 
-Oito pinturas da série pertencem ao acervo do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]] e foram expostas em abril de 2023 no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande, na mostra "Marco visita o MIS – Humberto Espíndola".[^cgn2023]
+Oito pinturas da série pertencem ao acervo do [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul (MARCO)]] e foram expostas em abril de 2023 no [[mis-ms|Museu da Imagem e do Som]], em Campo Grande, na mostra "Marco visita o [[mis-ms|MIS]] – [[humberto-espindola|Humberto Espíndola]]".[^cgn2023]
 
 ## Obras
 

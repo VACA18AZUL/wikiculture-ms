@@ -15,7 +15,7 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-A dissertação de Carlos Rodrigo Diehl identifica Couto e José Reinaldo Dorval como os cineastas que se alternam na direção e na produção de todos os filmes do grupo. Outros amigos participavam como técnicos e atores.[^diehl] Os filmes, feitos entre 1978 e 1985, usam recursos do faroeste para tratar de temas locais, como grilagem de terra, garimpo e vingança.[^diehl]
+A dissertação de Carlos Rodrigo Diehl identifica Couto e José [[reinaldo-dorval|Reinaldo Dorval]] como os cineastas que se alternam na direção e na produção de todos os filmes do grupo. Outros amigos participavam como técnicos e atores.[^diehl] Os filmes, feitos entre 1978 e 1985, usam recursos do faroeste para tratar de temas locais, como grilagem de terra, garimpo e vingança.[^diehl]
 
 Em entrevista de 2002 citada por Diehl, Couto contou que começou a fazer filmes porque, em meados de 1968, em Três Lagoas, ele e outras pessoas pintavam cartazes de faroestes. Chamava o resultado de "filme sertanejo".[^diehl]
 

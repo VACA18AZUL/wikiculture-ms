@@ -20,7 +20,7 @@ Segundo a dissertação de Antonio Martins Oliveira Júnior, João Rocha fundou 
 
 Oliveira Júnior, que também integrou a companhia, escreve que conheceu João Rocha como estudante da licenciatura e que, na época, ele era o artista mais atuante de Dourados fora do âmbito da universidade. Esse exemplo o levou a pensar em seguir ao mesmo tempo a docência e o teatro.[^oliveira]
 
-Em 2011, o espetáculo *Querô* não foi aprovado no edital do Festival Internacional de Teatro de Dourados (FIT Dourados), produzido pela UFGD. Os espetáculos locais reprovados foram convidados para uma categoria sem pagamento de cachê, a Mostra Feita Em Casa. A dissertação atribui a João Rocha a indignação com essa postura e diz que dela nasceu a [[mit-dourados|Mostra Independente de Teatro de Dourados]] (MIT Dourados), feita como protesto. A Cia. Theastai produziu as edições de 2011 e 2012.[^oliveira]
+Em 2011, o espetáculo *Querô* não foi aprovado no edital do Festival Internacional de Teatro de Dourados ([[festival-internacional-de-teatro-de-dourados|FIT Dourados]]), produzido pela UFGD. Os espetáculos locais reprovados foram convidados para uma categoria sem pagamento de cachê, a Mostra Feita Em Casa. A dissertação atribui a João Rocha a indignação com essa postura e diz que dela nasceu a [[mit-dourados|Mostra Independente de Teatro de Dourados]] ([[mit-dourados|MIT Dourados]]), feita como protesto. A Cia. Theastai produziu as edições de 2011 e 2012.[^oliveira]
 
 Em 2016, a companhia produziu o 2º Festival Luzes do Balé, com adaptação de *Os Saltimbancos*, de Chico Buarque. João Rocha atuou como o Burro.[^oliveira]
 

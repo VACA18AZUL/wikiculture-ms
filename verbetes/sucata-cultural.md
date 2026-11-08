@@ -16,7 +16,7 @@ O **Sucata Cultural**, nome abreviado do Instituto de Desenvolvimento Artístico
 
 ## Origem
 
-Segundo Antonio Martins Oliveira Júnior, um dos sócios-fundadores, a Cia. Theastai convidou em 2017 Junior De Oliveira, do Circo Le Chapeau, de Campo Grande, para se mudar a Dourados e abrir com ela uma sede conjunta. O grupo alugou um galpão próximo ao centro da cidade e o reformou. A justificativa apresentada foi a falta de um espaço próprio para ensaios e pesquisa, já que a prefeitura dificultava o acesso dos artistas aos espaços públicos. Oliveira afirma que o projeto não tinha subsídio público nem privado.[^oliveira]
+Segundo Antonio Martins Oliveira Júnior, um dos sócios-fundadores, a Cia. Theastai convidou em 2017 Junior De Oliveira, do [[circo-le-chapeau|Circo Le Chapeau]], de Campo Grande, para se mudar a Dourados e abrir com ela uma sede conjunta. O grupo alugou um galpão próximo ao centro da cidade e o reformou. A justificativa apresentada foi a falta de um espaço próprio para ensaios e pesquisa, já que a prefeitura dificultava o acesso dos artistas aos espaços públicos. Oliveira afirma que o projeto não tinha subsídio público nem privado.[^oliveira]
 
 A legenda de uma imagem do trabalho cita um convite para a inauguração em 20 de junho de 2017. Os sócios-fundadores são Társila Bonelli, [[joao-rocha|João Rocha]], Junior De Oliveira e o próprio autor da dissertação.[^oliveira]
 

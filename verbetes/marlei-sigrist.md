@@ -10,11 +10,11 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Marlei Sigrist** foi professora da Universidade Federal de Mato Grosso do Sul (UFMS), mestre em Educação e pesquisadora da cultura popular e do folclore de Mato Grosso do Sul.[^costa2023]
+**Marlei Sigrist** foi professora da [[ufms|Universidade Federal de Mato Grosso do Sul]] ([[ufms|UFMS]]), mestre em Educação e pesquisadora da cultura popular e do folclore de Mato Grosso do Sul.[^costa2023]
 
 ## Obra
 
-Uma dissertação da UFMS a apresenta como autora dos livros *Chão Batido* e *Mestres do Sagrado*.[^costa2023] A referência completa de *Chão Batido: a cultura popular em Mato Grosso do Sul: folclore, tradição* é a 2ª edição revista e ampliada, publicada em Campo Grande em 2008.[^costa2023]
+Uma dissertação da [[ufms|UFMS]] a apresenta como autora dos livros *Chão Batido* e *Mestres do Sagrado*.[^costa2023] A referência completa de *Chão Batido: a cultura popular em Mato Grosso do Sul: folclore, tradição* é a 2ª edição revista e ampliada, publicada em Campo Grande em 2008.[^costa2023]
 
 Sua catalogação de danças em campo inspira o repertório do [[grupo-camalote|Grupo Camalote]], de danças parafolclóricas.[^costa2023]
 

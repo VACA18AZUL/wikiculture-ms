@@ -15,7 +15,7 @@ atualizado: 2026-10-29
 
 O texto de *Ponto de Partida* é de Moroni. O espetáculo, do Circo do Mato - Grupo de Artes Cênicas, tem direção de João Lima e atuação de Mauro Guimarães, que faz ali sua primeira atuação solo. Conta a história de um palhaço idoso, de linhagem circense tradicional, que espera por uma última apresentação. A dramaturgia homenageia palhaços tradicionais brasileiros, como Carequinha e Picolino. Em agosto de 2025, o espetáculo teve sessões na sede do grupo, em Campo Grande.[^cgn]
 
-Em maio de 2024, a abertura da 15ª edição da Ostra Boca de Cena, Semana do Teatro e Circo de Mato Grosso do Sul, no Teatro Aracy Balabanian, terminou com a peça *Os Corcundas*, de Moroni.[^cm]
+Em maio de 2024, a abertura da 15ª edição da Ostra Boca de Cena, Semana do Teatro e Circo de Mato Grosso do Sul, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], terminou com a peça *Os Corcundas*, de Moroni.[^cm]
 
 ## Espetáculos
 

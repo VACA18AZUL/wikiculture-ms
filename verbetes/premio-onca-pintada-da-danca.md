@@ -12,15 +12,15 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-O **Prêmio Onça Pintada da Dança MS** é um festival de dança com mostra competitiva realizado no Teatro Glauce Rocha, em Campo Grande.[^acritica]
+O **Prêmio Onça Pintada da Dança MS** é um festival de dança com mostra competitiva realizado no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande.[^acritica]
 
 ## Edições
 
-**2019.** A 6ª edição ocorreu de 5 a 8 de setembro. A coordenadora, [[neide-garrido|Neide Garrido]], disse ao Correio do Estado que o evento acontece desde 2012. Eram esperados cerca de 30 grupos e 186 coreografias, e mais de mil bailarinos. Naquele ano não houve investimento de fundos de incentivo à cultura, e o custeio vinha da taxa de inscrição. A abertura teve o grupo indígena Koope-Noty Terênoe, da Aldeia Tereré, em Sidrolândia, com a dança do bate-pau. Entre os grupos, a [[ginga-cia-de-danca|Ginga Cia. de Dança]] apresentou *Serenade* e *Velado*, e a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]] apresentou *A Terra sem Males*.[^correio2019]
+**2019.** A 6ª edição ocorreu de 5 a 8 de setembro. A coordenadora, [[neide-garrido|Neide Garrido]], disse ao Correio do Estado que o evento acontece desde 2012. Eram esperados cerca de 30 grupos e 186 coreografias, e mais de mil bailarinos. Naquele ano não houve investimento de fundos de incentivo à cultura, e o custeio vinha da taxa de inscrição. A abertura teve o grupo indígena [[koope-noty-terenoe|Koope-Noty Terênoe]], da Aldeia Tereré, em Sidrolândia, com a dança do bate-pau. Entre os grupos, a [[ginga-cia-de-danca|Ginga Cia. de Dança]] apresentou *Serenade* e *Velado*, e a [[cia-de-danca-do-pantanal|Cia. de Dança do Pantanal]] apresentou *A Terra sem Males*.[^correio2019]
 
 **2025.** O Campo Grande News chamou o evento de 9ª edição, de 18 a 22 de junho. Segundo a matéria, havia 1.640 bailarinos em 180 grupos, com Mostra Comentada, sem prêmio em dinheiro, e Mostra Competitiva, com premiação de R$ 30 mil, e participantes da Bolívia e do Paraguai. A matéria não informa os organizadores.[^cgn2025]
 
-**2026.** A Crítica de Campo Grande noticiou a 10ª edição, de 3 a 7 de junho, coordenada por Neide Garrido, com Mostra Competitiva e Mostra Paralela, grupos do Paraguai, Argentina, Mato Grosso, São Paulo e outras regiões, e categorias do infantil ao 40+.[^acritica]
+**2026.** A Crítica de Campo Grande noticiou a 10ª edição, de 3 a 7 de junho, coordenada por [[neide-garrido|Neide Garrido]], com Mostra Competitiva e Mostra Paralela, grupos do Paraguai, Argentina, Mato Grosso, São Paulo e outras regiões, e categorias do infantil ao 40+.[^acritica]
 
 ## Numeração das edições
 

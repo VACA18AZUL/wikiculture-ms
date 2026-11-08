@@ -22,11 +22,11 @@ atualizado: 2026-10-29
 
 ## Volume 1 (2011)
 
-A descrição do acervo diz que o disco foi lançado em Campo Grande em 2011, com produção de Imar Lopes Pekois. Participam Cidinho Castelo, Gerson Douglas, Maciel Corrêa, Dino Rocha, Tili Gomes, Borginho, Abel Baez, Nilsinho, Mariano, José Rosa, Estevam Aguero e Silvano Nogueira, com convidados especiais.[^v1] A playlist tem 15 faixas, a maioria de chamamé e algumas de polca, entre elas "Um Toque Malicioso", "Angola Faceira", "Orgulho Pantaneiro" e "Roda de Tereré".[^v1]
+A descrição do acervo diz que o disco foi lançado em Campo Grande em 2011, com produção de Imar Lopes Pekois. Participam Cidinho Castelo, Gerson Douglas, Maciel Corrêa, [[dino-rocha|Dino Rocha]], Tili Gomes, Borginho, Abel Baez, Nilsinho, [[mariano-chame|Mariano]], José Rosa, Estevam Aguero e Silvano Nogueira, com convidados especiais.[^v1] A playlist tem 15 faixas, a maioria de chamamé e algumas de polca, entre elas "Um Toque Malicioso", "Angola Faceira", "Orgulho Pantaneiro" e "Roda de Tereré".[^v1]
 
 ## Volume 2 (2016)
 
-A descrição do volume 2 atribui a Wagner Pekois a produção, os arranjos e a execução do disco, gravado em estúdio independente. Cita como participantes Lucas Gabriel, Juninho Montiel, Danilo da Gaita, Evaldo Dias, Davi Júnior, Rivelino Jatobá, Araguainha, Luciene Chamamezeira, Dom Ramon, Moacir, Loty e Luizinho, além de Sergio Dutra e Selvino Soares.[^v2] A playlist tem 15 faixas, entre elas "Pai Ubre", "Notas Floridas" e "Fazenda Serra Dourada".[^v2]
+A descrição do volume 2 atribui a Wagner Pekois a produção, os arranjos e a execução do disco, gravado em estúdio independente. Cita como participantes Lucas Gabriel, Juninho Montiel, Danilo da Gaita, Evaldo Dias, Davi Júnior, Rivelino Jatobá, [[araguainha|Araguainha]], Luciene Chamamezeira, Dom Ramon, Moacir, Loty e Luizinho, além de Sergio Dutra e Selvino Soares.[^v2] A playlist tem 15 faixas, entre elas "Pai Ubre", "Notas Floridas" e "Fazenda Serra Dourada".[^v2]
 
 ## Observação sobre as fontes
 

@@ -23,13 +23,13 @@ Segundo reportagem de 2010, [[lidia-bais|Lídia Baís]] morou no casarão da Ave
 
 Uma tese da UFGD identifica o prédio como a antiga Pensão Pimentel. O mesmo trabalho diz que ele guarda parte do acervo da artista e mostra alguns de seus pertences em um quarto que representa o lugar onde ela viveu e produziu.[^godoi2020]
 
-## Museu Lídia Baís
+## Museu [[lidia-bais|Lídia Baís]]
 
-A reportagem de 2010 trata do museu "localizado na Morada dos Baís e batizado com o nome da artista plástica". A responsável pelo museu, Janine Tortorelli, é citada na matéria como curadora. Segundo o texto, quadros e painéis de Lídia Baís podem ser vistos na Morada dos Baís e no museu, além do [[marco|Museu de Arte Contemporânea (MARCO)]].[^cgn2010] As fontes lidas não informam a data de abertura do museu.
+A reportagem de 2010 trata do museu "localizado na Morada dos Baís e batizado com o nome da artista plástica". A responsável pelo museu, Janine Tortorelli, é citada na matéria como curadora. Segundo o texto, quadros e painéis de [[lidia-bais|Lídia Baís]] podem ser vistos na Morada dos Baís e no museu, além do [[marco|Museu de Arte Contemporânea (MARCO)]].[^cgn2010] As fontes lidas não informam a data de abertura do museu.
 
 ## Uso como espaço de exposições
 
-A tese de Godoi lista a Morada dos Baís entre os espaços culturais frequentados em Campo Grande na década de 1980.[^godoi2020] Ela relata ainda que o relatório de gestão da UFMS (1996-2000) registra vinte e seis exposições de artes visuais na Pensão Pimentel (Morada dos Baís) em quatro anos.[^godoi2020] A mesma tese descreve o local como parceiro do curso de Educação Artística da UFMS, que ali expôs desenhos, pinturas e esculturas a partir da segunda metade dos anos 1990.[^godoi2020]
+A tese de Godoi lista a Morada dos Baís entre os espaços culturais frequentados em Campo Grande na década de 1980.[^godoi2020] Ela relata ainda que o relatório de gestão da [[ufms|UFMS]] (1996-2000) registra vinte e seis exposições de artes visuais na Pensão Pimentel (Morada dos Baís) em quatro anos.[^godoi2020] A mesma tese descreve o local como parceiro do curso de Educação Artística da [[ufms|UFMS]], que ali expôs desenhos, pinturas e esculturas a partir da segunda metade dos anos 1990.[^godoi2020]
 
 ## Para saber mais
 

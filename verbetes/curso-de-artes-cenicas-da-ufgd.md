@@ -29,7 +29,7 @@ No quarto semestre, cada turma monta um espetáculo no "Projetão", projeto inte
 
 A primeira turma apresentou *Greve do Sexo* (2009), que ainda não tinha o nome de Projetão. Depois vieram *Sonho de uma noite de verão* (2011), *A alma Boa de Setsuan* (2012), *Marat Sade* (2013), *Um chapéu de palha na Itália* (2014), *Liberdade, Liberdade* (2016), *Auto da Compadecida* (2017), *O Silêncio de Ophelia* (2018), *Este lugar está ocupado?* (2018), *A vida de Galileu* (2019), *Viúva, porém honesta* (2022), *Este lado para cima* (2022) e *O Rei Leão br-py* (2023).[^souza]
 
-A dissertação de Souza estuda o *Auto da Compadecida*, montado pela sétima turma sob direção de Marcos Machado Chaves, professor do curso e integrante da [[cia-ultima-hora|Cia. Última Hora]], de Dourados.[^souza]
+A dissertação de Souza estuda o *Auto da Compadecida*, montado pela sétima turma sob direção de [[marcos-machado-chaves|Marcos Machado Chaves]], professor do curso e integrante da [[cia-ultima-hora|Cia. Última Hora]], de Dourados.[^souza]
 
 ## Relação com a cena local
 

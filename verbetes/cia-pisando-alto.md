@@ -29,7 +29,7 @@ Em julho de 2026, *Gran Finalle* foi apresentado no [[sesc-teatro-prosa|Sesc Tea
 ## Espetáculos
 
 - *Gran Finalle* — espetáculo circense sobre um casal de idosos que, esperando filhos e netos, relembra a vida no circo. Direção e dramaturgia de [[breno-moroni|Breno Moroni]]; elenco com Fran Corona e Moreno Mourão. A grafia varia nas fontes (*Finalle*, *Finale*).[^cgn2024]
-- *Gran Finalle* no Sesc Teatro Prosa — apresentação de 11 de julho de 2026, às 16h.[^acritica]
+- *Gran Finalle* no [[sesc-teatro-prosa|Sesc Teatro Prosa]] — apresentação de 11 de julho de 2026, às 16h.[^acritica]
 
 [^cgn2023]: Campo Grande News, ["Cidade ganha oficina de acrobacia com artista circense famoso"](https://www.campograndenews.com.br/lado-b/diversao/cidade-ganha-oficina-de-acrobacia-com-artista-circense-famoso), 3 jun. 2023. Acesso em 29 out. 2026.
 [^cgn2024]: Campo Grande News, ["Tenda chega ao Centro para alegria de quem não via circo há 40 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/tenda-chega-ao-centro-para-alegria-de-quem-nao-via-circo-ha-40-anos), 14 mai. 2024. Acesso em 29 out. 2026.

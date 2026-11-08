@@ -23,13 +23,13 @@ A tese o descreve de duas formas: no texto, como diretor da Faculdade Intercultu
 
 ## Audiovisual
 
-Em 2008, Benites participou, na Bolívia, de uma oficina de audiovisual conduzida por Iván Molina, onde se aproximou de [[gilmar-galache|Gilmar Galache]]. A ideia de uma associação de realizadores nasceu ali.[^correa3] A ASCURI foi fundada no início de 2012, e Benites está entre seus primeiros membros.[^correa4]
+Em 2008, Benites participou, na Bolívia, de uma oficina de audiovisual conduzida por [[ivan-molina|Iván Molina]], onde se aproximou de [[gilmar-galache|Gilmar Galache]]. A ideia de uma associação de realizadores nasceu ali.[^correa3] A [[ascuri|ASCURI]] foi fundada no início de 2012, e Benites está entre seus primeiros membros.[^correa4]
 
 Coordenou, com Galache, a edição mais recente do [[fida|FIDA]] citada na tese, em Paranhos.[^correa5]
 
 ## Filmografia
 
-- *Pirakuá – Os Guardiões do Rio Apa* (2014) — documentário curto, direção de Gilmar Galache; tradução de Eliel Benites.[^correa6]
+- *Pirakuá – Os Guardiões do Rio Apa* (2014) — documentário curto, direção de [[gilmar-galache|Gilmar Galache]]; tradução de Eliel Benites.[^correa6]
 - *Tatatĩn Rape, o Caminho da Fumaça* (2022) — direção coletiva; roteiro de Eliel Benites e Gilearde Barbosa.[^correa7]
 - *Mitã karai: batismo da criança* (2023) — direção coletiva; roteiro de Eliel Benites e Gilearde Barbosa.[^correa8]
 

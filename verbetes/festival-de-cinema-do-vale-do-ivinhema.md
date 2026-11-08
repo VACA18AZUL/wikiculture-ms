@@ -15,7 +15,7 @@ O **Festival de Cinema do Vale do Ivinhema** é um festival de cinema sediado em
 
 ## Edição de 2024
 
-O festival divulgou 11 curtas-metragens para a mostra competitiva, selecionados pelo cineasta Luis Felipe Mendes, de várias regiões do país. O vencedor receberia R$ 2 mil.[^cgn] Quatro filmes eram de Mato Grosso do Sul: *As Marias*, de [[dannon-lacerda|Dannon Lacerda]]; *O Retrato do Artista Quando Coisa*, de Filipi Silveira e Larissa Neves; *A Mágica da Foto Lambe-lambe*, de Marineti Pinheiro; e *Deus te Salve, João!*, de Karen Freitas.[^cgn]
+O festival divulgou 11 curtas-metragens para a mostra competitiva, selecionados pelo cineasta Luis Felipe Mendes, de várias regiões do país. O vencedor receberia R$ 2 mil.[^cgn] Quatro filmes eram de Mato Grosso do Sul: *[[as-marias|As Marias]]*, de [[dannon-lacerda|Dannon Lacerda]]; *O Retrato do Artista Quando Coisa*, de Filipi Silveira e Larissa Neves; *A Mágica da Foto Lambe-lambe*, de Marineti Pinheiro; e *Deus te Salve, João!*, de Karen Freitas.[^cgn]
 
 O tema da edição foi "Rio Ivinhema – 25 anos do Parque". A programação incluiu mostra competitiva de longas-metragens, oficinas, apresentações culturais e exposição itinerante de fotos, com ações também em Nova Andradina, Angélica, Novo Horizonte do Sul, Campo Grande e no Parque Estadual das Várzeas do Rio Ivinhema, em Jateí.[^cgn] A violeira [[helena-meirelles|Helena Meirelles]], cujo centenário se celebrava em 2024, foi a grande homenageada, e o ator Antônio Pitanga também foi celebrado.[^cgn]
 

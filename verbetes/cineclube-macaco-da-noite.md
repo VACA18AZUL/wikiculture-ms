@@ -22,7 +22,7 @@ A ideia é de Bianca Machado, da Cia. de Teatro Maria Mole e integrante do Conse
 
 ## Oficina de 2024
 
-Em 12 de setembro de 2024, o cineclube exibiu quatro curtas no Hotel Virgínia: *Ninguém Lhe Estenderá a Mão* (direção de Deivison Pedrê), *Cordilheira de Amora II* (Jamille Fortunato), *The Beginning* (Alexandre Basso) e *A Casa das Sete Portas* (Bianca Machado).[^cgn]
+Em 12 de setembro de 2024, o cineclube exibiu quatro curtas no Hotel Virgínia: *Ninguém Lhe Estenderá a Mão* (direção de [[deivison-pedre|Deivison Pedrê]]), *Cordilheira de Amora II* (Jamille Fortunato), *The Beginning* (Alexandre Basso) e *A Casa das Sete Portas* (Bianca Machado).[^cgn]
 
 Nos dias 13, 14 e 15 de setembro, ofereceu oficina de 24 horas conduzida por Cátia Santos, para 30 participantes a partir de 13 anos, sobre roteiro, filmagem e edição com celulares. O projeto foi contemplado no edital da Lei Paulo Gustavo de Corumbá, e os filmes feitos na oficina seriam exibidos em uma noite de estreia.[^cgn]
 

@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Leonardo Mareco**, também chamado **Léo Mareco**, é artista urbano de Campo Grande, formado em Artes Visuais (licenciatura) pela Universidade Federal de Mato Grosso do Sul.[^gv]
+**Leonardo Mareco**, também chamado **Léo Mareco**, é artista urbano de Campo Grande, formado em Artes Visuais (licenciatura) pela [[ufms|Universidade Federal de Mato Grosso do Sul]].[^gv]
 
 ## Trajetória
 

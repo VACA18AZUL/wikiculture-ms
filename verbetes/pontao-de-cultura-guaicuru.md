@@ -14,7 +14,7 @@ O **Pontão de Cultura Guaicuru** é uma iniciativa de Campo Grande que promoveu
 
 O **Avá Marandu – Os Guarani convidam** ocorreu de janeiro a junho de 2010 em Mato Grosso do Sul. Foi descrito como uma ação cultural ampla voltada aos guarani e a não indígenas e resultou na produção de dez curtas por indígenas, a maioria kaiowá e guarani. Entre eles está *Jaguapiré na luta*, feito na aldeia Jaguapiré, em Tacuru.[^tese]
 
-As edições do Vídeo Índio Brasil foram realizadas pelo antigo cinema CineCultura, pela Associação de Amigos do CineCultura ou pelo Pontão, em parceria com outras organizações.[^gem] A tese menciona quatro edições a partir de 2008 e não confirmou uma quarta edição restrita em 2011, citada por alguns entrevistados.[^tese]
+As edições do [[video-indio-brasil|Vídeo Índio Brasil]] foram realizadas pelo antigo cinema CineCultura, pela Associação de Amigos do CineCultura ou pelo Pontão, em parceria com outras organizações.[^gem] A tese menciona quatro edições a partir de 2008 e não confirmou uma quarta edição restrita em 2011, citada por alguns entrevistados.[^tese]
 
 Dionédison Terena, liderança terena, contou com apoio do Pontão para participar de um curso intensivo de 40 dias na Universidade Federal de Goiás, em parceria com a Escola de Cinema e Artes Audiovisuais de La Paz.[^tese2]
 

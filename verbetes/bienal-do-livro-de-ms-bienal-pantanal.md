@@ -19,11 +19,11 @@ A **Bienal Pantanal**, também chamada de 1ª Bienal do Livro de Mato Grosso do 
 
 Em dezembro de 2024, o *Campo Grande News* noticiou que o projeto da bienal fora publicado no Diário Oficial, com investimento previsto de R$ 3.042.045,77 e prazo de captação de recursos até 31 de dezembro daquele ano. A matéria atribuía a organização ao Instituto Imole.[^cgn2024]
 
-Em setembro de 2025, o *Correio do Estado* descreveu a bienal como realização do Instituto Ímole, do Instituto Curumins e do governo federal, com apoio da Assembleia Legislativa e da Câmara Federal. Pedro Ortale aparece como coordenador.[^ce2025] O catálogo do evento traz, na ficha técnica, a direção-geral de Pedro Ortale e Carlos Porto e a curadoria de Maria Adélia Menegazzo, Sylvia Cesco e Raquel Anderson.[^cat]
+Em setembro de 2025, o *Correio do Estado* descreveu a bienal como realização do Instituto Ímole, do Instituto Curumins e do governo federal, com apoio da Assembleia Legislativa e da Câmara Federal. Pedro Ortale aparece como coordenador.[^ce2025] O catálogo do evento traz, na ficha técnica, a direção-geral de Pedro Ortale e Carlos Porto e a curadoria de [[maria-adelia-menegazzo|Maria Adélia Menegazzo]], [[sylvia-cesco|Sylvia Cesco]] e Raquel Anderson.[^cat]
 
 ## Programação
 
-O catálogo organiza a primeira edição em dois eixos: "Territórios: culturas e geopolítica", que tem o Pantanal como ponto de partida e [[manoel-de-barros|Manoel de Barros]] como figura homenageada, e "Tecnologias digitais, sociedade e mercado". Previa feira de livros, conferências de escritores nacionais, internacionais e regionais, lançamentos, mostras de cinema, seminário e atividades de música, teatro e dança.[^cat] A abertura, em 4 de outubro, incluiu uma homenagem a Manoel de Barros e show de Almir Sater, segundo o catálogo.[^cat]
+O catálogo organiza a primeira edição em dois eixos: "Territórios: culturas e geopolítica", que tem o Pantanal como ponto de partida e [[manoel-de-barros|Manoel de Barros]] como figura homenageada, e "Tecnologias digitais, sociedade e mercado". Previa feira de livros, conferências de escritores nacionais, internacionais e regionais, lançamentos, mostras de cinema, seminário e atividades de música, teatro e dança.[^cat] A abertura, em 4 de outubro, incluiu uma homenagem a [[manoel-de-barros|Manoel de Barros]] e show de [[almir-sater|Almir Sater]], segundo o catálogo.[^cat]
 
 O *Correio do Estado* informou 72 convidados de dez estados e de dois países sul-americanos, além de participantes de Mato Grosso do Sul, com nomes como Leandro Karnal e Ana Maria Gonçalves.[^ce2025]
 

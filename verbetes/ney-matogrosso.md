@@ -11,9 +11,9 @@ atualizado: 2026-10-29
 
 **Ney Matogrosso** é um cantor brasileiro, apresentado pela imprensa de Campo Grande como artista que leva o nome de Mato Grosso do Sul ao país e ao mundo.[^acritica]
 
-## Homenagem da UFMS
+## Homenagem da [[ufms|UFMS]]
 
-Em 26 de março de 2026, a Universidade Federal de Mato Grosso do Sul (UFMS) programou a entrega do título de Doutor Honoris Causa ao cantor, durante o Festival da Juventude 2026, no campus da universidade, em Campo Grande. A matéria, publicada na manhã do mesmo dia, usa o futuro e não relata a cerimônia depois de realizada.[^acritica]
+Em 26 de março de 2026, a [[ufms|Universidade Federal de Mato Grosso do Sul]] ([[ufms|UFMS]]) programou a entrega do título de Doutor Honoris Causa ao cantor, durante o Festival da Juventude 2026, no campus da universidade, em Campo Grande. A matéria, publicada na manhã do mesmo dia, usa o futuro e não relata a cerimônia depois de realizada.[^acritica]
 
 O programa previa sessão solene, discurso do homenageado e, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], uma palestra-show gratuita, com músicas intercaladas por conversa com o público.[^acritica]
 

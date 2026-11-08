@@ -17,7 +17,7 @@ atualizado: 2026-10-29
 
 ## Sobre o filme
 
-O lançamento gratuito foi marcado para 29 de outubro de 2026, às 19h, na Casa de Cultura de Campo Grande.[^acritica] A produção é do duo [[vozmece|Vozmecê]], formado por Namaria Schneider e Pedro Fattori, em parceria com Manu Komiyama, da KPROD Produções. O filme dá continuidade ao documentário *CenAlternativa – MS Geração 20*.[^acritica]
+O lançamento gratuito foi marcado para 29 de outubro de 2026, às 19h, na Casa de Cultura de Campo Grande.[^acritica] A produção é do duo [[vozmece|Vozmecê]], formado por [[namaria-schneider|Namaria Schneider]] e [[pedro-fattori|Pedro Fattori]], em parceria com [[manu-komiyama|Manu Komiyama]], da KPROD Produções. O filme dá continuidade ao documentário *CenAlternativa – MS Geração 20*.[^acritica]
 
 Namaria conduz as conversas com Mel Dias, Ariadne, Erica Espíndola, Paula Fregatto, Leca Harper, Serena MC, Bell Éter, Bianca Bacha, Ana Ferreira (da banda Urbem) e Nana Coloral. Os depoimentos tratam de processo criativo, profissionalização, circulação e gestão da carreira.[^acritica]
 
@@ -31,6 +31,6 @@ O filme tem interpretação em Libras e legendas, além de uma versão com audio
 - Direção de som: [[pedro-fattori|Pedro Fattori]][^acritica]
 - Acessibilidade: [[jesse-macedo|Jessé Macedo]][^acritica]
 
-A matéria diz ainda que Namaria Schneider, Manu Komiyama e Pedro Fattori dividem a operação e a assistência de câmera.[^acritica]
+A matéria diz ainda que [[namaria-schneider|Namaria Schneider]], [[manu-komiyama|Manu Komiyama]] e [[pedro-fattori|Pedro Fattori]] dividem a operação e a assistência de câmera.[^acritica]
 
 [^acritica]: ["Documentário reúne gerações de mulheres da música autoral sul-mato-grossense"](https://acritica.net/cultura/cenalternativa-2-mulheres-musica-ms-estreia-campo-grande/), *A Crítica de Campo Grande*, 23 out. 2026. Acesso em 29 out. 2026.

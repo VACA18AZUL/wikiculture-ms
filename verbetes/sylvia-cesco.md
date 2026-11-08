@@ -10,13 +10,13 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Sylvia Cesco** é uma escritora sul-mato-grossense ligada à [[ube-ms|União Brasileira de Escritores de Mato Grosso do Sul]] (UBE-MS).[^carlos2023]
+**Sylvia Cesco** é uma escritora sul-mato-grossense ligada à [[ube-ms|União Brasileira de Escritores de Mato Grosso do Sul]] ([[noite-da-poesia-ube-ms|UBE-MS]]).[^carlos2023]
 
 ## Trajetória
 
 Foi aluna da professora [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] e participou do caderno temático "Vida Universitária", do *Jornal do Comércio*, de eventos culturais, do Teatro Universitário Campo-grandense e de festivais de música. Foi entrevistada no livro *Projeto Universidade 81: festivais de música em Mato Grosso do Sul* (1981).[^carlos2023]
 
-A dissertação a apresenta como diretora cultural da UBE-MS em 2020 e, em outra passagem, como presidente da entidade.[^carlos2023]
+A dissertação a apresenta como diretora cultural da [[noite-da-poesia-ube-ms|UBE-MS]] em 2020 e, em outra passagem, como presidente da entidade.[^carlos2023]
 
 Em 2026, aparece entre as três acadêmicas que coordenam o clube de leitura Leituras & Conversas, da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], com [[lenilde-ramos|Lenilde Ramos]] e [[maria-adelia-menegazzo|Maria Adélia Menegazzo]].[^critica2026]
 

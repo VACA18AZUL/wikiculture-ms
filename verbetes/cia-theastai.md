@@ -20,16 +20,16 @@ Segundo a dissertação de Antonio Martins Oliveira Júnior, a companhia nasceu 
 
 Em 2011, depois que o espetáculo *Querô* foi reprovado na seleção do Festival Internacional de Teatro de Dourados, a companhia criou a Mostra Independente de Teatro de Dourados ([[mit-dourados|MIT Dourados]]), com edições em 2011 e 2012. Em 2016, produziu em Dourados, com a [[fundacao-de-cultura-de-ms|Fundação de Cultura de MS]], a Mostra Comemorativa ao Dia Internacional do Teatro e Nacional do Circo.[^oliveira]
 
-Em 2017, a Theastai e o Circo Le Chapeau, de Campo Grande, abriram em Dourados o [[sucata-cultural|Sucata Cultural]], pensado como sede das duas companhias.[^oliveira]
+Em 2017, a Theastai e o [[circo-le-chapeau|Circo Le Chapeau]], de Campo Grande, abriram em Dourados o [[sucata-cultural|Sucata Cultural]], pensado como sede das duas companhias.[^oliveira]
 
-Em maio de 2024, a companhia apresentou *O Grande Salto* no festival de palhaçaria Pantalhaços, em Campo Grande.[^pant24] Em setembro de 2025, apresentou *Balança, Mas Não Cai* e *Quem Matou o Morto?* no Festival Internacional de Teatro de Dourados; a segunda peça foi encenada na Sucata Cultural.[^fit25]
+Em maio de 2024, a companhia apresentou *O Grande Salto* no festival de palhaçaria Pantalhaços, em Campo Grande.[^pant24] Em setembro de 2025, apresentou *Balança, Mas Não Cai* e *Quem Matou o Morto?* no Festival Internacional de Teatro de Dourados; a segunda peça foi encenada na [[sucata-cultural|Sucata Cultural]].[^fit25]
 
 ## Espetáculos
 
 - *Querô – Uma reportagem maldita* (2010) — texto de Plínio Marcos; estreia da companhia, remontado e reestreado em junho de 2018. Recebeu prêmios no extinto FESMAT, em 2010.[^oliveira]
-- *Quem Matou o Morto?* (2013) — texto e direção de Breno Moroni; estreou em outubro de 2013 no Teatro Municipal de Dourados. A [[mostra-boca-de-cena|Boca de Cena]] de 2017 listou João Rocha, Michel Stevan e Társila Bonelli no elenco.[^oliveira][^folheto]
+- *Quem Matou o Morto?* (2013) — texto e direção de [[breno-moroni|Breno Moroni]]; estreou em outubro de 2013 no [[teatro-municipal-de-dourados|Teatro Municipal de Dourados]]. A [[mostra-boca-de-cena|Boca de Cena]] de 2017 listou [[joao-rocha|João Rocha]], Michel Stevan e Társila Bonelli no elenco.[^oliveira][^folheto]
 - *Dandys Acrobático* (2013-2017) — espetáculo de circo de rua escrito e dirigido por [[breno-moroni|Breno Moroni]].[^oliveira]
-- *O Grande Salto* (2021) — solo de palhaçaria e acrobacias de João Rocha, que estreou em formato digital.[^oliveira]
+- *O Grande Salto* (2021) — solo de palhaçaria e acrobacias de [[joao-rocha|João Rocha]], que estreou em formato digital.[^oliveira]
 
 ## Observação sobre a linguagem
 

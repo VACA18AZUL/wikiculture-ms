@@ -14,7 +14,7 @@ O **TUD (Teatro Universitário de Dourados)** foi um grupo de teatro de Dourados
 
 ## Trajetória
 
-A estreia foi com a peça *O Jumento e o Capataz*, de Antônio Rodrigues de Oliveira. Sem apoio, o grupo teria sobrevivido por quatro anos, "por obra e graça de seus diretores e atores", segundo Maria da Glória Sá Rosa. Fabricio Moser, que relata o texto, afirma que essa informação sobre a duração do TUD precisa ser discutida e atualizada.[^moser]
+A estreia foi com a peça *O Jumento e o Capataz*, de Antônio Rodrigues de Oliveira. Sem apoio, o grupo teria sobrevivido por quatro anos, "por obra e graça de seus diretores e atores", segundo [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]]. Fabricio Moser, que relata o texto, afirma que essa informação sobre a duração do TUD precisa ser discutida e atualizada.[^moser]
 
 ## Espetáculos
 

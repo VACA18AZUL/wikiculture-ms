@@ -28,6 +28,6 @@ Os espetáculos citados na programação, com os grupos indicados pela matéria:
 - *Pantanália* — Grupo Tareco-Treco.[^cgn2022]
 - *Manual de barros: concerto a céu aberto para solos de objeto* — Arte e Riso Cia de Animação.[^cgn2022]
 
-Em 17 de novembro houve ainda um Encontro de Bonequeiros no Teatral Grupo de Risco.[^cgn2022]
+Em 17 de novembro houve ainda um Encontro de Bonequeiros no [[teatral-grupo-de-risco|Teatral Grupo de Risco]].[^cgn2022]
 
 [^cgn2022]: Aletheya Alves, ["Capital recebe Mostra de Teatro de Bonecos com espetáculos gratuitos"](https://www.campograndenews.com.br/lado-b/diversao/capital-recebe-mostra-de-teatro-de-bonecos-com-espetaculos-gratuitos), *Campo Grande News*, 2 nov. 2022. Acesso em 29 out. 2026.

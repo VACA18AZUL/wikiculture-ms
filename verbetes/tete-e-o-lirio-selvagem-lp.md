@@ -22,7 +22,7 @@ O ano diverge. O artigo de 2012 cita 1978 no texto e 1979 na legenda de uma figu
 
 ## Faixas e elementos citados
 
-Caetano cita "Bem-te-vi", de Geraldo Espíndola, e "Na Catarata", de Alzira Espíndola e Carlos Rennó. A introdução desta última, que mistura rock e música paraguaia, foi criada pela banda de apoio na gravação.[^cae12] A dissertação lista ainda "Rio de Luar", "Andorinha Manca", "É Necessário", "Caucaia" e "Pássaro Sobre o Cerrado".[^caeufgd] "Caucaia" e "Pássaro Sobre o Cerrado" têm letra de Carlos Rennó.[^caeufgd]
+Caetano cita "Bem-te-vi", de [[geraldo-espindola|Geraldo Espíndola]], e "Na Catarata", de [[alzira-espindola|Alzira Espíndola]] e Carlos Rennó. A introdução desta última, que mistura rock e música paraguaia, foi criada pela banda de apoio na gravação.[^cae12] A dissertação lista ainda "Rio de Luar", "Andorinha Manca", "É Necessário", "Caucaia" e "Pássaro Sobre o Cerrado".[^caeufgd] "Caucaia" e "Pássaro Sobre o Cerrado" têm letra de Carlos Rennó.[^caeufgd]
 
 Segundo Tetê, em entrevista citada por Caetano, o grupo durou cerca de oito meses; a dissertação atribui o fim a desentendimentos entre os irmãos.[^caeufgd]
 

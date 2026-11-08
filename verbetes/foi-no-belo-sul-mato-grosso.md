@@ -24,12 +24,12 @@ Os autores do artigo notam que as personagens são chamadas só por apelidos, no
 
 Segundo o artigo, a peça partiu de uma notícia de jornal local sobre um fato ocorrido em Naviraí: uma empregada doméstica que deu à luz em condições precárias, num buraco usado como fossa.[^enedino]
 
-O texto recebeu classificação de censura para maiores de 18 anos. O artigo afirma que foi a primeira peça de Cristina Mato Grosso encenada em âmbito nacional, pelo [[gutac|GUTAC]], e a considera um divisor de águas na história do teatro do Centro-Oeste, pela linguagem irreverente e coloquial e pela atenção a quem vive à margem da sociedade organizada.[^enedino]
+O texto recebeu classificação de censura para maiores de 18 anos. O artigo afirma que foi a primeira peça de [[cristina-mato-grosso|Cristina Mato Grosso]] encenada em âmbito nacional, pelo [[gutac|GUTAC]], e a considera um divisor de águas na história do teatro do Centro-Oeste, pela linguagem irreverente e coloquial e pela atenção a quem vive à margem da sociedade organizada.[^enedino]
 
 O artigo cita ainda uma reportagem de Flora Thomé no *Jornal do Povo*, de Três Lagoas, em 1980. Ela descreve a peça como um retrato da luta pela sobrevivência de classes sem proteção e da exploração de uns por outros.[^enedino]
 
 ## Para saber mais
 
-- Wagner Corsino Enedino e Elisângela Rozendo São José, *Cristina Mato Grosso: traços e contornos de uma dramaturgia transcultural* (Pedro & João Editores, 2011), livro citado no artigo como fonte sobre a autora.
+- Wagner Corsino Enedino e Elisângela Rozendo São José, *[[cristina-mato-grosso|Cristina Mato Grosso]]: traços e contornos de uma dramaturgia transcultural* (Pedro & João Editores, 2011), livro citado no artigo como fonte sobre a autora.
 
 [^enedino]: Wagner Corsino Enedino e Bruna Franco Neto, ["O intelectual sul-mato-grossense em cena: o papel de Cristina Mato Grosso na dramaturgia brasileira"](https://sou.ucs.br/etc/revistas/index.php/antares/article/download/2020/1331/7333), *Antares*, v. 5, n. 9, jan./jun. 2013, p. 232–244 (sobre a peça, p. 240–242). O artigo cita o texto da peça sem local nem data de publicação. Acesso em 29 out. 2026.

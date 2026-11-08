@@ -14,7 +14,7 @@ O **Koope-Noty Terênoe** é um grupo indígena de dança da Aldeia Tereré, no 
 
 ## Trajetória
 
-O grupo foi convidado para a abertura do 6º [[premio-onca-pintada-da-danca|Prêmio Onça Pintada]], realizado de 5 a 8 de setembro de 2019 no Teatro Glauce Rocha, em Campo Grande. Na ocasião, apresentou a dança do bate-pau, nomeada na matéria como *kipaéxoti, hiyokena terênoe*.[^ce2019]
+O grupo foi convidado para a abertura do 6º [[premio-onca-pintada-da-danca|Prêmio Onça Pintada]], realizado de 5 a 8 de setembro de 2019 no [[teatro-glauce-rocha|Teatro Glauce Rocha]], em Campo Grande. Na ocasião, apresentou a dança do bate-pau, nomeada na matéria como *kipaéxoti, hiyokena terênoe*.[^ce2019]
 
 A reportagem não traz outras informações sobre a formação do grupo, seus integrantes ou sua história.[^ce2019]
 

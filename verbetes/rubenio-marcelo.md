@@ -22,7 +22,7 @@ atualizado: 2026-10-29
 
 É advogado, formado pela Universidade Católica Dom Bosco, e engenheiro agrônomo, formado pela Universidade Federal do Ceará.[^asl] Ocupa a cadeira 35 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], da qual é secretário-geral, e é membro correspondente da Academia Mato-Grossense de Letras e da Academia Lavrense de Letras.[^asl] Foi conselheiro estadual de cultura de Mato Grosso do Sul.[^asl]
 
-Idealizou o Concurso de Poesias Oliva Enciso, da Academia, cuja primeira edição foi em 2012.[^asl] Escreve para o suplemento cultural do *Correio do Estado* e para a coluna Ex Libris do jornal *O Estado MS*.[^asl] Em março de 2018, esteve na Universidade de Aveiro, em Portugal, onde lançou *Vias do infinito ser* e o CD *Parcerias*.[^asl]
+Idealizou o Concurso de Poesias [[oliva-enciso|Oliva Enciso]], da Academia, cuja primeira edição foi em 2012.[^asl] Escreve para o suplemento cultural do *Correio do Estado* e para a coluna Ex Libris do jornal *O Estado MS*.[^asl] Em março de 2018, esteve na Universidade de Aveiro, em Portugal, onde lançou *Vias do infinito ser* e o CD *Parcerias*.[^asl]
 
 ## Obras
 
@@ -35,7 +35,7 @@ A página da Academia lista 14 livros. Entre eles:[^asl]
 - *Horizontes d'Versos* (2009)[^asl]
 - *Voo de polens: 100 sonetos e outros rebentos poéticos* (2012)[^asl]
 - *Veleiros da essência* (2014)[^asl]
-- *Vias do infinito ser* (2017), indicado pela UFMS como leitura para os vestibulares de 2021 a 2023[^asl]
+- *Vias do infinito ser* (2017), indicado pela [[ufms|UFMS]] como leitura para os vestibulares de 2021 a 2023[^asl]
 - *Palavras em plenitude*, prosa e crítica cultural (2018)[^asl]
 - *Caminhos: 100 poemas escolhidos* (2024)[^asl]
 
@@ -45,7 +45,7 @@ Tem também livros em coautoria, como *Uma saga do cotidiano* (2010, novela sat�
 
 - *A música de Rubenio Marcelo* — CD.[^asl]
 - *A arte maior de Rubenio Marcelo & Jorge Sales* — CD.[^asl]
-- *Parcerias: na poética musical de Rubenio Marcelo* (2018) — CD lançado em 20 fev. 2018 no Sesc Morada dos Baís, em Campo Grande.[^asl]
+- *Parcerias: na poética musical de Rubenio Marcelo* (2018) — CD lançado em 20 fev. 2018 no Sesc [[morada-dos-bais|Morada dos Baís]], em Campo Grande.[^asl]
 
 ## Prêmios e honrarias
 

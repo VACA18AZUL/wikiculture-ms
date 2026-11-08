@@ -14,7 +14,7 @@ A **Vida Produções** é uma editora sul-mato-grossense. À frente dela está a
 
 ## Trajetória
 
-Em novembro de 2022, o Correio do Estado dizia que a editora tinha mais de 13 anos de trajetória e que Mara Calvis já publicara mais de 25 obras por ela. Desde o ano anterior, a editora aceitava publicar livros de qualquer escritor interessado.[^ce2022]
+Em novembro de 2022, o Correio do Estado dizia que a editora tinha mais de 13 anos de trajetória e que [[mara-calvis|Mara Calvis]] já publicara mais de 25 obras por ela. Desde o ano anterior, a editora aceitava publicar livros de qualquer escritor interessado.[^ce2022]
 
 Na 2ª edição da [[felit-ms|Felit-MS]], em Dourados, a Vida Produções anunciou o lançamento de *Cortina da Alma* e *Véu do Luar*, de Maria de Lourdes da Costa, e a revista literária *Senhorinha*, de Jaminho.[^ce2022]
 

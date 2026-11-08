@@ -21,7 +21,7 @@ O grupo foi idealizado por Luana, Sarah e Júlia Peralta, Ale Coelho, Cel Ventor
 
 O grupo estreou em 13 de outubro de 2022, na Praça do Rádio, com o "Slam Plural – Voz para todas, todos e todes", primeiro slam por edital do Festival Campão Cultural. Vinte e cinco poetas se inscreveram para a competição, que premiou os três primeiros colocados. Houve também discotecagem e apresentações de vogue e drag queen.[^cgn2022]
 
-## Feira Literária de Bonito
+## [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]]
 
 Em julho de 2023, o grupo se apresentou na [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]], na Praça da Liberdade, com uma intervenção de cerca de 15 minutos criada para a feira. Segundo Luanna Peralta, foi a segunda apresentação do coletivo, e o grupo também se apresentava no Laricas, em Campo Grande.[^cgn2023]
 

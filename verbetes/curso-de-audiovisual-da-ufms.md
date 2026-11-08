@@ -16,11 +16,11 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-O **curso de Audiovisual da UFMS** é um bacharelado da Universidade Federal de Mato Grosso do Sul, oferecido em Campo Grande.[^tese]
+O **curso de Audiovisual da [[ufms|UFMS]]** é um bacharelado da [[ufms|Universidade Federal de Mato Grosso do Sul]], oferecido em Campo Grande.[^tese]
 
 ## Organização
 
-O curso aparece no portal da Faculdade de Artes, Letras e Comunicação (FAALC) entre os cursos de graduação da unidade, ao lado de Artes Visuais, Jornalismo, Letras e Música. A página de estrutura curricular lista o Projeto Pedagógico de Curso 11/2022 e as resoluções nº 79-AUD/FAALC/UFMS (16 nov. 2022), nº 624-COGRAD/UFMS (22 nov. 2022) e nº 885-COGRAD/UFMS (12 jun. 2023), além de uma versão atualizada do PPC (12/2025).[^faalc]
+O curso aparece no portal da Faculdade de Artes, Letras e Comunicação (FAALC) entre os cursos de graduação da unidade, ao lado de Artes Visuais, Jornalismo, Letras e Música. A página de estrutura curricular lista o Projeto Pedagógico de Curso 11/2022 e as resoluções nº 79-AUD/FAALC/[[ufms|UFMS]] (16 nov. 2022), nº 624-COGRAD/[[ufms|UFMS]] (22 nov. 2022) e nº 885-COGRAD/[[ufms|UFMS]] (12 jun. 2023), além de uma versão atualizada do PPC (12/2025).[^faalc]
 
 O portal do curso traz ainda áreas para laboratório, projetos de extensão e de pesquisa, grupo de pesquisa e trabalhos de conclusão. O Cineclube Audiovisual consta entre as iniciativas da FAALC.[^faalc]
 

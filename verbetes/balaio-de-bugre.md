@@ -15,7 +15,7 @@ atualizado: 2026-10-29
 
 ## Edição
 
-O historiador Jérri Roberto Marin cita a obra na edição de 2008, o volume 7 das *Obras completas de Hélio Serejo*, publicadas em Campo Grande pelo Instituto Histórico e Geográfico de Mato Grosso do Sul.[^marin] A dissertação de Adrielly Ferreira Vilela, por sua vez, lista o livro sem data de publicação.[^vilela]
+O historiador Jérri Roberto Marin cita a obra na edição de 2008, o volume 7 das *Obras completas de [[helio-serejo|Hélio Serejo]]*, publicadas em Campo Grande pelo Instituto Histórico e Geográfico de Mato Grosso do Sul.[^marin] A dissertação de Adrielly Ferreira Vilela, por sua vez, lista o livro sem data de publicação.[^vilela]
 
 ## Título
 
@@ -23,13 +23,13 @@ Segundo Vilela, Serejo conta que viajou pelo sul de Mato Grosso ajudando o pai n
 
 ## Na pesquisa acadêmica
 
-A dissertação de Vilela (UFMS, 2017) estuda a obra de Serejo a partir das noções de fronteira, crioulismo e paisagem. Dá destaque a *Balaio de Bugre* e a *Contos Crioulos* (1997).[^vilela] A autora lê o balaio como uma espécie de arquivo da cultura local sul-mato-grossense.[^vilela]
+A dissertação de Vilela ([[ufms|UFMS]], 2017) estuda a obra de Serejo a partir das noções de fronteira, crioulismo e paisagem. Dá destaque a *Balaio de Bugre* e a *Contos Crioulos* (1997).[^vilela] A autora lê o balaio como uma espécie de arquivo da cultura local sul-mato-grossense.[^vilela]
 
 Marin usa passagens do livro, ao lado do romance *Selva Trágica*, de Hernâni Donato, para tratar do trabalho nos ervais e da presença, da venda e do aluguel de mulheres na fronteira de Mato Grosso com o Paraguai.[^marin]
 
 ## Para saber mais
 
-- Adrielly Ferreira Vilela, *Entre fronteiras e balaios: a literatura bugresca de Hélio Serejo*, dissertação de mestrado, UFMS, 2017. Disponível no [portal da pós-graduação da UFMS](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5313).
+- Adrielly Ferreira Vilela, *Entre fronteiras e balaios: a literatura bugresca de [[helio-serejo|Hélio Serejo]]*, dissertação de mestrado, [[ufms|UFMS]], 2017. Disponível no [portal da pós-graduação da UFMS](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5313).
 
 [^marin]: Jérri Roberto Marin, ["Venda e aluguel de mulheres na fronteira do Brasil com o Paraguai: limiares entre história e ficção nas narrativas de Hernâni Donato e Hélio Serejo"](https://ojs.ufgd.edu.br/Raido/article/download/4205/2464/14527), *Raído* (UFGD), Dourados, v. 9, n. 20, jul./dez. 2015. Acesso em 29 out. 2026.
 [^vilela]: Adrielly Ferreira Vilela, ["Entre fronteiras e balaios: a literatura bugresca de Hélio Serejo"](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/5313), dissertação de mestrado, Programa de Pós-Graduação em Estudos de Linguagens, UFMS, Campo Grande, agosto de 2017. Acesso em 29 out. 2026.

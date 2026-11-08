@@ -18,11 +18,11 @@ Lenilde Ramos aparece entre os artistas que passaram a atuar em Campo Grande dep
 
 Nos festivais estudantis seguintes, ficou em quinto lugar com *Presença* e, em 1974, no VI Festival de Música Estudantil, em primeiro lugar com *Recado*.[^ufgd]
 
-Em meados dos anos 1980, integrou o [[poranguete|Poranguetê]], grupo do chamado "rock de botina".[^nupem] Foi também uma das artistas que a pesquisa associa à Fundação de Cultura de Mato Grosso do Sul, ao lado de Humberto Espíndola.[^nupem]
+Em meados dos anos 1980, integrou o [[poranguete|Poranguetê]], grupo do chamado "rock de botina".[^nupem] Foi também uma das artistas que a pesquisa associa à [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]], ao lado de [[humberto-espindola|Humberto Espíndola]].[^nupem]
 
-## Prata da Casa
+## [[prata-da-casa-lp-1982|Prata da Casa]]
 
-Em 1982, participou do festival [[festival-prata-da-casa|Prata da Casa]], produzido pela UFMS e pela TV Morena no Teatro Glauce Rocha.[^nupem] No registro em disco ([[prata-da-casa-lp-1982|LP *Prata da Casa*]]), tocou a sanfona na gravação de *Quiquiô*, de Geraldo Espíndola, apresentada como reggae.[^ufgd]
+Em 1982, participou do festival [[festival-prata-da-casa|Prata da Casa]], produzido pela [[ufms|UFMS]] e pela TV Morena no [[teatro-glauce-rocha|Teatro Glauce Rocha]].[^nupem] No registro em disco ([[prata-da-casa-lp-1982|LP *Prata da Casa*]]), tocou a sanfona na gravação de *Quiquiô*, de [[geraldo-espindola|Geraldo Espíndola]], apresentada como reggae.[^ufgd]
 
 ## Depoimentos
 

@@ -16,13 +16,13 @@ O **Grupo Especial Chamamezeiro** é um conjunto de música de raiz de Mato Gros
 
 Segundo a descrição do CD no Acervo Digital Memória Fonográfica de MS, o grupo se apresenta em quermesses, bailes, eventos sociais, exposições e rodeios em Aquidauana e região, com chamamé, polca paraguaia e rasqueado.[^cham]
 
-O disco de estreia, *Festa na Fazenda*, foi gravado em 2009 em Campo Grande, no S.I. Studio. Mariano assina a produção musical e os arranjos, com acompanhamento dos músicos Narciso, Amado e Cezar.[^cham]
+O disco de estreia, *Festa na Fazenda*, foi gravado em 2009 em Campo Grande, no S.I. Studio. [[mariano-chame|Mariano]] assina a produção musical e os arranjos, com acompanhamento dos músicos Narciso, Amado e Cezar.[^cham]
 
 ## Discografia
 
 - *Festa na Fazenda* (2009) — CD independente, gravado no S.I. Studio; 14 faixas, entre elas "O Vento Murmura o Nome Dela", "Festa na Fazenda", "O Cobertor", "Aniversário Feliz", "O Grilo Cantor" e "Estou Apaixonado".[^cham] [Ouvir no YouTube (Acervo Digital Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLfMEFpPVVGSc)
 
-## Identidade de Mariano
+## Identidade de [[mariano-chame|Mariano]]
 
 A descrição do canal liga o líder do grupo ao autor do LP *Flor de Jardim* (1976), tratado em [[mariano-chame|Mariano (acordeonista)]]. Nas fontes lidas não há confirmação independente dessa ligação, nem o sobrenome do músico.[^cham]
 

@@ -21,19 +21,19 @@ Em março de 2026, a companhia foi uma das duas de Mato Grosso do Sul convidadas
 
 O espetáculo levado a São Paulo, "CAVUCADA – a festa não será amanhã", marca os dez anos do grupo. Os dançarinos revisitam coreografias da trajetória da companhia, com hip-hop, vogue, dança contemporânea e passos populares das redes sociais.[^critica2026]
 
-Antes disso, a companhia já aparecia na programação da [[semana-pra-danca|Semana pra Dança]]. Na 8ª edição, em abril de 2014, apresentou "Singulares" no Teatro Aracy Balabanian. A matéria diz que a obra foi premiada na categoria Circulação do Prêmio Célio Adolfo de Incentivo à Dança 2013, da Fundação de Cultura do Estado, e aprovada no Prêmio Funarte Klauss Vianna de Dança 2011. Segundo o texto, a criação partiu de questões particulares de cada dançarino e chegou aos encontros entre essas histórias.[^cgn2014]
+Antes disso, a companhia já aparecia na programação da [[semana-pra-danca|Semana pra Dança]]. Na 8ª edição, em abril de 2014, apresentou "Singulares" no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]]. A matéria diz que a obra foi premiada na categoria Circulação do Prêmio Célio Adolfo de Incentivo à Dança 2013, da Fundação de Cultura do Estado, e aprovada no Prêmio Funarte Klauss Vianna de Dança 2011. Segundo o texto, a criação partiu de questões particulares de cada dançarino e chegou aos encontros entre essas histórias.[^cgn2014]
 
-Em 2 de outubro de 2024, na Semana pra Dança, o grupo apresentou "R.U.I.A – Realidade Ultrassônica de Invasão Aleatória" para alunos de uma escola municipal de Campo Grande.[^cgn2024]
+Em 2 de outubro de 2024, na [[semana-pra-danca|Semana pra Dança]], o grupo apresentou "R.U.I.A – Realidade Ultrassônica de Invasão Aleatória" para alunos de uma escola municipal de Campo Grande.[^cgn2024]
 
 ## Espetáculos
 
-- *Singulares* — espetáculo apresentado em 12 de abril de 2014, na 8ª Semana pra Dança.[^cgn2014]
-- *R.U.I.A – Realidade Ultrassônica de Invasão Aleatória* — apresentado em 2 de outubro de 2024, na Semana pra Dança.[^cgn2024]
+- *Singulares* — espetáculo apresentado em 12 de abril de 2014, na 8ª [[semana-pra-danca|Semana pra Dança]].[^cgn2014]
+- *R.U.I.A – Realidade Ultrassônica de Invasão Aleatória* — apresentado em 2 de outubro de 2024, na [[semana-pra-danca|Semana pra Dança]].[^cgn2024]
 - *CAVUCADA – a festa não será amanhã* — espetáculo dos dez anos da companhia, apresentado na MITsp 2026.[^critica2026]
 
 ## Videografia
 
-- *De Passagem* (2015) — videodança, com título e ano indicados no canal Vaca Azul.[^yt] [Assistir no YouTube](https://www.youtube.com/watch?v=s32-QlEr5N4)
+- *De Passagem* (2015) — videodança, com título e ano indicados no canal [[vaca-azul|Vaca Azul]].[^yt] [Assistir no YouTube](https://www.youtube.com/watch?v=s32-QlEr5N4)
 
 [^critica2026]: Iury de Oliveira, ["Teatro e dança de MS atravessam o país para festival em São Paulo"](https://acritica.net/cultura/grupos-ms-participam-mitsp-2026-sao-paulo/), *A Crítica de Campo Grande*, 5 mar. 2026. Acesso em 29 out. 2026.
 [^cgn2014]: Elverson Cardozo, ["'Semana pra Dança' terá espetáculos, mostra de filmes, curso e palestras"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/-semana-pra-danca-tera-espetaculos-mostra-de-filmes-curso-e-palestras), *Campo Grande News*, 5 abr. 2014. Acesso em 29 out. 2026.

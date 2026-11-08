@@ -10,15 +10,15 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Henrique de Medeiros**, nome completo Henrique Alberto de Medeiros Filho, é presidente da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^acritica-andre]
+**Henrique de Medeiros**, nome completo Henrique Alberto de Medeiros Filho, é presidente da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] ([[academia-sul-mato-grossense-de-letras|ASL]]).[^acritica-andre]
 
-## Na presidência da ASL
+## Na presidência da [[academia-sul-mato-grossense-de-letras|ASL]]
 
-Em novembro de 2025, o Correio do Estado o citou como presidente da ASL ao tratar do projeto "ABL na ASL: Palestras Imortais", feito com a Fundação de Cultura de Mato Grosso do Sul. Ele disse que o projeto trouxe ações de educação, cultura e literatura para a Academia ao longo do ano.[^ce2025]
+Em novembro de 2025, o Correio do Estado o citou como presidente da [[academia-sul-mato-grossense-de-letras|ASL]] ao tratar do projeto "ABL na [[academia-sul-mato-grossense-de-letras|ASL]]: Palestras Imortais", feito com a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]]. Ele disse que o projeto trouxe ações de educação, cultura e literatura para a Academia ao longo do ano.[^ce2025]
 
 Em agosto de 2026, entregou diploma e colar ao escritor [[andre-alvez|André Alvez]] na posse dele na cadeira 28. Na cerimônia, destacou a trajetória do novo acadêmico como cronista, contista e articulista.[^acritica-andre]
 
-Também é citado como presidente nas notícias dos concursos da ASL em 2026: o [[concurso-ulysses-serra|Concurso de Contos Ulysses Serra]] e o [[oliva-enciso|Concurso de Poesias Oliva Enciso]].[^acritica-ulysses][^acritica-enciso] Em outubro de 2026, falou sobre a sessão do clube de leitura "Leituras & Conversas" dedicada ao escritor Elias Borges.[^acritica-clube]
+Também é citado como presidente nas notícias dos concursos da [[academia-sul-mato-grossense-de-letras|ASL]] em 2026: o [[concurso-ulysses-serra|Concurso de Contos Ulysses Serra]] e o [[oliva-enciso|Concurso de Poesias Oliva Enciso]].[^acritica-ulysses][^acritica-enciso] Em outubro de 2026, falou sobre a sessão do clube de leitura "Leituras & Conversas" dedicada ao escritor Elias Borges.[^acritica-clube]
 
 ## Poemas
 

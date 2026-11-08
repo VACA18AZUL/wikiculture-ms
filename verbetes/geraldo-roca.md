@@ -26,7 +26,7 @@ Morreu em 2015.[^cgn2024]
 
 ## Obra
 
-"Trem do Pantanal", composta em 1975 com Paulo Simões, é uma guarânia. [[almir-sater|Almir Sater]] a gravou no LP *Prata da Casa* (1982) e, no mesmo ano, em um disco solo.[^goncalves2014] A canção é tratada como hino não oficial sul-mato-grossense.[^goncalves2014] Roca afirmou que muita gente a toma por elegia ao Pantanal, mas que a letra fala de um homem que foge de uma ditadura. Caetano observa que, a partir dos anos 1980, ela passou mesmo a ser recebida como elegia.[^caetano2012ufgd]
+"Trem do Pantanal", composta em 1975 com [[paulo-simoes|Paulo Simões]], é uma guarânia. [[almir-sater|Almir Sater]] a gravou no LP *[[prata-da-casa-lp-1982|Prata da Casa]]* (1982) e, no mesmo ano, em um disco solo.[^goncalves2014] A canção é tratada como hino não oficial sul-mato-grossense.[^goncalves2014] Roca afirmou que muita gente a toma por elegia ao Pantanal, mas que a letra fala de um homem que foge de uma ditadura. Caetano observa que, a partir dos anos 1980, ela passou mesmo a ser recebida como elegia.[^caetano2012ufgd]
 
 "Polca Outra Vez" é uma canção satírica sobre um jovem que sai da capital e entra no mundo rural do Centro-Oeste. Para Roca, tratava-se de rock em compasso ternário.[^caetano2012ufgd] Sá Rosa e Duncan a leem como exemplo da influência paraguaia, leitura que Caetano considera questionável.[^caetano2012ufgd] A canção também é apontada como uma das matrizes da polca-rock.[^caetano2012ufgd][^caetano2012nupem]
 
@@ -34,7 +34,7 @@ Roca idealizou o projeto *Novidade Nativa*, que reuniria vários artistas em um 
 
 ## Homenagem
 
-Em 2024, [[marcio-de-camillo|Márcio de Camillo]] estreou o show "Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca", com direção de Luiz André Cherubini. A UFMS programou ainda uma mesa-redonda sobre o legado do compositor.[^cgn2024]
+Em 2024, [[marcio-de-camillo|Márcio de Camillo]] estreou o show "Do Litoral Central do Brasil: [[marcio-de-camillo|Márcio de Camillo]] canta Geraldo Roca", com direção de Luiz André Cherubini. A [[ufms|UFMS]] programou ainda uma mesa-redonda sobre o legado do compositor.[^cgn2024]
 
 ## Discografia
 

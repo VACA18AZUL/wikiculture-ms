@@ -16,7 +16,7 @@ atualizado: 2026-10-29
 
 A descrição do LP no Acervo Digital Memória Fonográfica de MS diz que o disco foi lançado em Três Lagoas, em 1975, e gravado no Estúdio Publisol, antes da criação do estado de Mato Grosso do Sul. O conjunto era liderado pelo acordeonista Moacir. A formação do disco reunia Moacir (bandoneon e acordeom), Herrera (harpa), Júlio e Alvaro (violões), Adão (baixo) e Mosay (voz).[^lp]
 
-O LP saiu pelo selo Discos Xaraés, ligado, segundo o texto, a Alex, da dupla Alex e Queiroz. A descrição destaca no repertório "Sapateando Estrela Del Litoral", "El Ligador", "Pago San Cosmo" e "La Puerta".[^lp]
+O LP saiu pelo selo Discos Xaraés, ligado, segundo o texto, a Alex, da dupla [[alex-e-queiroz|Alex e Queiroz]]. A descrição destaca no repertório "Sapateando Estrela Del Litoral", "El Ligador", "Pago San Cosmo" e "La Puerta".[^lp]
 
 ## Discografia
 

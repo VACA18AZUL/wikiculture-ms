@@ -14,7 +14,7 @@ O **Embrujos de España** é um grupo de dança de Campo Grande, com coreografia
 
 ## Trajetória
 
-Uma reportagem de 2026 sobre o [[acervo-da-danca-sul-mato-grossense|Acervo da Dança Sul-Mato-Grossense]] cita Maria Helena Pettengill e o grupo, grafado "Embrujos da España", entre os personagens presentes nos documentos da Associação Sul-Mato-Grossense dos Profissionais da Dança.[^ce2026]
+Uma reportagem de 2026 sobre o [[acervo-da-danca-sul-mato-grossense|Acervo da Dança Sul-Mato-Grossense]] cita Maria Helena Pettengill e o grupo, grafado "Embrujos da España", entre os personagens presentes nos documentos da [[asmpd|Associação Sul-Mato-Grossense dos Profissionais da Dança]].[^ce2026]
 
 A revista do X Festival (1994), publicada pela associação, traz o grupo na lista de premiados do IX Festival: "Grupo Embrujos de España", de Campo Grande, em segundo lugar em Dança Popular, categoria Amador II.[^revista] A grafia varia na revista: aparece também "Embrujos de Espanã", no grupo juvenil.[^revista]
 

@@ -15,15 +15,15 @@ atualizado: 2026-10-31
 
 ## Trajetória
 
-Em outubro de 2024, Lacerda dizia ter dirigido sete curtas-metragens e estar montando o oitavo, *Caído do Céu*. Também dirigiu um longa-metragem, *Copa 181* (2017). Segundo a mesma matéria, *As Marias* (2023) foi premiado em festivais brasileiros e no Canadá e esteve na Première Brasil do Festival do Rio.[^ce2024]
+Em outubro de 2024, Lacerda dizia ter dirigido sete curtas-metragens e estar montando o oitavo, *Caído do Céu*. Também dirigiu um longa-metragem, *Copa 181* (2017). Segundo a mesma matéria, *[[as-marias|As Marias]]* (2023) foi premiado em festivais brasileiros e no Canadá e esteve na Première Brasil do Festival do Rio.[^ce2024]
 
-*As Marias* é um documentário de 16 minutos sobre três irmãs trigêmeas de Guia Lopes da Laguna. Foi selecionado para a mostra competitiva de curtas da 18ª edição do Festival de Cinema do Vale do Ivinhema, em agosto de 2024.[^cgn-ivinhema] A lista de selecionados do primeiro Bonito CineSur, em 2023, informa a produção de Chalana Produções e Cabaré Filmes.[^cgn-cinesur2023]
+*[[as-marias|As Marias]]* é um documentário de 16 minutos sobre três irmãs trigêmeas de Guia Lopes da Laguna. Foi selecionado para a mostra competitiva de curtas da 18ª edição do [[festival-de-cinema-do-vale-do-ivinhema|Festival de Cinema do Vale do Ivinhema]], em agosto de 2024.[^cgn-ivinhema] A lista de selecionados do primeiro [[bonito-cinesur|Bonito CineSur]], em 2023, informa a produção de Chalana Produções e Cabaré Filmes.[^cgn-cinesur2023]
 
-## Festival Curta Campo Grande
+## [[festival-curta-campo-grande|Festival Curta Campo Grande]]
 
 A primeira edição do festival ocorreu de 28 de outubro a 2 de novembro de 2024, com seis mostras, entre elas duas competitivas (brasileira e sul-mato-grossense). Lacerda foi o idealizador, atuou como coordenador de curadoria e assinou a seleção da mostra Diversidade. A curadoria geral ficou com [[andrea-freire|Andréa Freire]], Marcos Pierry e Ricardo Cota.[^cgn-selecionados] O festival é uma iniciativa da Chalana Produções, com recursos da Lei Paulo Gustavo.[^ce2024]
 
-Lacerda explicou que a ideia foi dar a Campo Grande um festival voltado só ao curta-metragem, ao lado do Bonito CineSur e do Festival de Ivinhema, e contribuir com a formação de profissionais e de plateia num momento de crescimento da produção local.[^ce2024]
+Lacerda explicou que a ideia foi dar a Campo Grande um festival voltado só ao curta-metragem, ao lado do [[bonito-cinesur|Bonito CineSur]] e do Festival de Ivinhema, e contribuir com a formação de profissionais e de plateia num momento de crescimento da produção local.[^ce2024]
 
 Em junho de 2026, ele afirmou que a última edição do festival recebeu 32 inscrições de curtas sul-mato-grossenses produzidos em 2024 e 2025, e que antes da pandemia o número dificilmente passava de cinco por ano.[^acritica2026]
 

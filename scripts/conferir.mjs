@@ -2,6 +2,7 @@
 //   ERRO  -> impede a publicação (o comando termina com falha)
 //   AVISO -> não impede, mas merece atenção
 import { readdirSync, readFileSync } from 'node:fs';
+import { parse as parseYaml } from 'yaml';
 import { TIPOS_LINK, DOMINIOS_MIDIA, SECOES_MIDIA, RASTREIO, dominioAceito } from '../src/lib/links.mjs';
 
 const PASTA = './verbetes';
@@ -23,6 +24,14 @@ for (const arquivo of arquivos) {
   }
   const ficha = partes[1];
   const corpo = partes[2];
+
+  // Validação YAML estrita: detecta erros de sintaxe (ex.: ":" sem aspas) antes de qualquer processamento.
+  try {
+    parseYaml(ficha);
+  } catch (e) {
+    erros.push(`${arquivo}: YAML inválido na ficha — ${e.message}`);
+    continue;
+  }
 
   const id = arquivo.replace(/\.md$/, '');
   const videos = [];

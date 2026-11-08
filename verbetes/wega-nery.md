@@ -38,7 +38,7 @@ A partir dos anos 1960 passou a pintar as "paisagens imaginárias", série que m
 
 O Itaú Cultural registra uma individual na Pinacoteca do Estado de São Paulo em 1993 e uma retrospectiva no Centro Cultural São Paulo em 1994.[^itau] A tela *Freguesia do Ó* (1950), óleo sobre tela, está no acervo do Estado de São Paulo.[^acervosp]
 
-Em Mato Grosso do Sul, o [[marco|MARCO]] foi contemplado na 2.ª edição do Prêmio Marcantonio Vilaça, na categoria aquisição de acervos, com obras de Wega Nery, [[ignes-correa-da-costa|Ignês Corrêa da Costa]] e [[jorapimo|Jorapimo]].[^compocs] Em novembro de 2016, o museu abriu uma exposição de acervo com essas obras.[^ce2016] Em 2013, a Fundação de Cultura incluiu a artista na mostra "In Memorian", na Galeria do Memorial da Cultura, em Campo Grande.[^cgn2013]
+Em Mato Grosso do Sul, o [[marco|MARCO]] foi contemplado na 2.ª edição do Prêmio Marcantonio Vilaça, na categoria aquisição de acervos, com obras de Wega Nery, [[ignes-correa-da-costa|Ignês Corrêa da Costa]] e [[jorapimo|Jorapimo]].[^compocs] Em novembro de 2016, o museu abriu uma exposição de acervo com essas obras.[^ce2016] Em 2013, a Fundação de Cultura incluiu a artista na mostra "[[in-memorian-2013|In Memorian]]", na Galeria do Memorial da Cultura, em Campo Grande.[^cgn2013]
 
 ## Para saber mais
 

@@ -18,11 +18,11 @@ atualizado: 2026-10-29
 
 A página da Mostra Audiovisual do Fazendo Gênero 12 descreve o filme como "documentário de escuta, amor e resistência", concebido em conjunto com as protagonistas: anciãs, parteiras, rezadoras, artesãs, agentes de saúde e professoras. Elas falam de lutas coletivas e do cotidiano de ser mulher kaiowá e guarani em aldeias e acampamentos do cone sul de Mato Grosso do Sul.[^mostra] A página lista a duração em 23 minutos.[^mostra]
 
-Em entrevista citada na tese de Miguel Angelo Corrêa, Dani Kaiowá afirma que o trabalho começou com visitas às aldeias, sem gravação marcada, e que o grupo decidiu fazer o documentário quando saiu um edital, em 2014. As filmagens pararam por um tempo e o filme foi terminado entre 2019 e 2020.[^correa] Em outro trecho, ela descreve o filme como um documentário "sobre roupa típica".[^correa]
+Em entrevista citada na tese de Miguel Angelo Corrêa, [[dani-kaiowa|Dani Kaiowá]] afirma que o trabalho começou com visitas às aldeias, sem gravação marcada, e que o grupo decidiu fazer o documentário quando saiu um edital, em 2014. As filmagens pararam por um tempo e o filme foi terminado entre 2019 e 2020.[^correa] Em outro trecho, ela descreve o filme como um documentário "sobre roupa típica".[^correa]
 
 ## Direção e premiação
 
-Segundo a tese, Dani Kaiowá figura como diretora e Fabiana Fernandes como codiretora, parceria que vem desde 2014.[^correa] A página da mostra credita os dois nomes como autores.[^mostra] A tese chama o curta de "premiado" e diz que Fabiana dividiu com Dani a premiação por *Kuña Porã*, sem detalhar qual prêmio.[^correa]
+Segundo a tese, [[dani-kaiowa|Dani Kaiowá]] figura como diretora e [[fabiana-fernandes|Fabiana Fernandes]] como codiretora, parceria que vem desde 2014.[^correa] A página da mostra credita os dois nomes como autores.[^mostra] A tese chama o curta de "premiado" e diz que Fabiana dividiu com Dani a premiação por *Kuña Porã*, sem detalhar qual prêmio.[^correa]
 
 ## Divergência sobre o ano
 

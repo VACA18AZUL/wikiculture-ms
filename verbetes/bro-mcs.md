@@ -22,13 +22,13 @@ Segundo a tese, o contato prévio de alguns integrantes com o cinema se limitou 
 
 ## Apresentações
 
-A tese cita apresentações no Festival América do Sul (2018), no Rock in Rio (2022), no Festival América do Sul Pantanal (2022) e no Festival de Todos os Povos (2023), além de turnê pela Alemanha a convite de um museu de antropologia e participação na trilha da telenovela *Pantanal*.[^c1] Sobre a edição de 2022 do evento no Pantanal, ver [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^c1]
+A tese cita apresentações no [[festival-america-do-sul-pantanal|Festival América do Sul]] (2018), no Rock in Rio (2022), no [[festival-america-do-sul-pantanal|Festival América do Sul]] Pantanal (2022) e no Festival de Todos os Povos (2023), além de turnê pela Alemanha a convite de um museu de antropologia e participação na trilha da telenovela *Pantanal*.[^c1] Sobre a edição de 2022 do evento no Pantanal, ver [[festival-america-do-sul-pantanal|Festival América do Sul Pantanal]].[^c1]
 
 ## Audiovisual
 
 O videoclipe oficial de "Eju Orendive" nasceu de uma oficina audiovisual da CUFA de Dourados. Higor Lobo Vieira, coordenador da oficina, em entrevista de 2014, relata que a ideia foi construída com o grupo, que acompanhou o processo, exceto a edição.[^c3] A TV Guateka, nome formado pelas sílabas iniciais de guarani, terena e kaiowá, é um projeto de formação audiovisual de jovens da Reserva de Dourados, cujos trabalhos Vieira chama de autorais.[^c3] Ele cita ainda um videoclipe de "Terra Vermelha", em edição quando da entrevista, gravado em oficina com o fotojornalista Yann Gross.[^c3]
 
-Corrêa e Álvaro Banducci incluem o Brô MC's, ao lado do coletivo ASCURI, entre os grupos indígenas de Mato Grosso do Sul que talvez façam um trabalho que se poderia qualificar como experimental ou diferenciado, mais "orgânico" e menos institucional.[^c4]
+Corrêa e Álvaro Banducci incluem o Brô MC's, ao lado do coletivo [[ascuri|ASCURI]], entre os grupos indígenas de Mato Grosso do Sul que talvez façam um trabalho que se poderia qualificar como experimental ou diferenciado, mais "orgânico" e menos institucional.[^c4]
 
 ## Videografia
 

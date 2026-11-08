@@ -15,7 +15,7 @@ A **Mostra Independente de Teatro de Dourados (MIT Dourados)** é uma mostra cri
 
 ## Origem
 
-Em 2011, o espetáculo *Querô* foi reprovado no edital do [[festival-internacional-de-teatro-de-dourados|Festival Internacional de Teatro de Dourados]] (FIT Dourados), produzido pela Coordenadoria de Cultura da UFGD. A universidade criou então, dentro do festival, a categoria Mostra Feita Em Casa para os trabalhos não aprovados, sem pagamento de cachê aos artistas locais. Segundo o relato de Antonio Martins Oliveira Júnior, o ator e diretor [[joao-rocha|João Rocha]] ficou indignado com essa condição, e a companhia criou o MIT como forma de protesto.[^oliveira]
+Em 2011, o espetáculo *Querô* foi reprovado no edital do [[festival-internacional-de-teatro-de-dourados|Festival Internacional de Teatro de Dourados]] ([[festival-internacional-de-teatro-de-dourados|FIT Dourados]]), produzido pela Coordenadoria de Cultura da UFGD. A universidade criou então, dentro do festival, a categoria Mostra Feita Em Casa para os trabalhos não aprovados, sem pagamento de cachê aos artistas locais. Segundo o relato de Antonio Martins Oliveira Júnior, o ator e diretor [[joao-rocha|João Rocha]] ficou indignado com essa condição, e a companhia criou o MIT como forma de protesto.[^oliveira]
 
 ## Edições
 

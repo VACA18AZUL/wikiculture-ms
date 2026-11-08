@@ -20,7 +20,7 @@ Participou da Primeira Exposição de Pinturas dos Artistas Mato-grossenses, em 
 
 ## Acervo
 
-O *Compocs* descreve uma coleção especial do MARCO com o acervo (diários, fotografias, pinturas e documentos) de [[lidia-bais|Lídia Baís]] e de Ignês Corrêa da Costa.[^compocs] Obras suas, junto com as de Jorapimo e Wega Nery, foram adquiridas pelo Prêmio Marcantonio Vilaça e mostradas em exposição de acervo do museu em 2016.[^compocs][^ce]
+O *Compocs* descreve uma coleção especial do [[marco|MARCO]] com o acervo (diários, fotografias, pinturas e documentos) de [[lidia-bais|Lídia Baís]] e de Ignês Corrêa da Costa.[^compocs] Obras suas, junto com as de [[jorapimo|Jorapimo]] e [[wega-nery|Wega Nery]], foram adquiridas pelo Prêmio Marcantonio Vilaça e mostradas em exposição de acervo do museu em 2016.[^compocs][^ce]
 
 [^ce]: Thiago Andrade, ["Museu de Arte Contemporânea abre última mostra de 2016"](https://correiodoestado.com.br/correio-b/museu-de-arte-contemporanea-abre-ultima-mostra-de-2016/291758/), *Correio do Estado*, 21 nov. 2016. Acesso em 29 out. 2026.
 [^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2013.

@@ -18,9 +18,9 @@ Assis e o artigo da revista *Compocs* afirmam que os salões de arte ocorreram a
 
 ## Retomada e edições recentes
 
-Segundo Oliveira, os salões saíram da agenda do museu e foram retomados em 2009, dez anos depois. O autor observa que a premiação passou a favorecer obras em linguagens comuns na arte contemporânea.[^anpuh] Uma obra de Justyne Cadamuro foi incorporada ao acervo como prêmio-aquisição do salão de 2010.[^anpuh]
+Segundo Oliveira, os salões saíram da agenda do museu e foram retomados em 2009, dez anos depois. O autor observa que a premiação passou a favorecer obras em linguagens comuns na arte contemporânea.[^anpuh] Uma obra de [[justyne-cadamuro|Justyne Cadamuro]] foi incorporada ao acervo como prêmio-aquisição do salão de 2010.[^anpuh]
 
-O 4º Salão de Arte de Mato Grosso do Sul foi aberto no MARCO em 30 de outubro de 2012 e ficou em cartaz até 23 de fevereiro. Foram selecionados 20 artistas. Camila Jordão (*In-Cardume*) e Priscilla de Paula Pessoa (*Fábula*) receberam R$ 6 mil cada e tiveram as obras incorporadas ao acervo; os demais receberam R$ 1 mil.[^cgn]
+O 4º Salão de Arte de Mato Grosso do Sul foi aberto no [[marco|MARCO]] em 30 de outubro de 2012 e ficou em cartaz até 23 de fevereiro. Foram selecionados 20 artistas. Camila Jordão (*In-Cardume*) e Priscilla de Paula Pessoa (*Fábula*) receberam R$ 6 mil cada e tiveram as obras incorporadas ao acervo; os demais receberam R$ 1 mil.[^cgn]
 
 [^assis]: Renata Rodrigues de Assis, [*A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2013.
 [^compocs]: Catia Regina Madella, Maria Augusta de Castilho e Maria Christina de Lima Félix Santos, ["Atividades educativas não formais realizadas no Museu de Arte Contemporânea – MARCO de Mato Grosso do Sul"](https://periodicos.ufms.br/index.php/compcs/article/view/8034/8829), *Compocs*, v. 1, n. 23, jul.-dez. 2020. Acesso em 29 out. 2026.

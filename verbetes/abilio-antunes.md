@@ -18,11 +18,11 @@ atualizado: 2026-10-29
 
 Segundo Isabella Amizo, Abílio nasceu em Amambai em 1913 e conheceu Conceição no município de Ponta Porã, onde se casaram.[^amizo]
 
-Depois da morte de Conceição, em 1984, a produção dos bugres continuou com ele e com um neto do casal, Mariano. As peças dos continuadores seguem um formato padrão, entalhadas em eucalipto e variando apenas no tamanho, ao contrário das de Conceição, que mudavam de uma figura para outra.[^amizo13]
+Depois da morte de Conceição, em 1984, a produção dos bugres continuou com ele e com um neto do casal, [[mariano-chame|Mariano]]. As peças dos continuadores seguem um formato padrão, entalhadas em eucalipto e variando apenas no tamanho, ao contrário das de Conceição, que mudavam de uma figura para outra.[^amizo13]
 
 ## Os bugres de Abílio
 
-A autora reúne versões diferentes sobre o início dessa produção. Segundo o jornalista Rodrigo Teixeira, que ouviu uma nora do casal, Abílio já fazia seus próprios bugres quando Conceição era viva e continuou até a morte, em 1995.[^amizo38] Já Maria da Glória Sá Rosa, em texto de 1995 citado pela autora, diz que ele passou a esculpir depois da morte da esposa, para suprir a falta dela.[^amizo38] O neto Mariano, citado por Teixeira, afirma que o avô continuou a produção por mais dez anos depois da morte de Conceição.[^amizo39]
+A autora reúne versões diferentes sobre o início dessa produção. Segundo o jornalista [[rodrigo-teixeira|Rodrigo Teixeira]], que ouviu uma nora do casal, Abílio já fazia seus próprios bugres quando Conceição era viva e continuou até a morte, em 1995.[^amizo38] Já [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], em texto de 1995 citado pela autora, diz que ele passou a esculpir depois da morte da esposa, para suprir a falta dela.[^amizo38] O neto [[mariano-chame|Mariano]], citado por Teixeira, afirma que o avô continuou a produção por mais dez anos depois da morte de Conceição.[^amizo39]
 
 Em Assis, o nome de Abílio aparece numa lista de participantes de mostras e salões ligados ao [[movimento-cultural-guaicuru|Movimento Cultural Guaicuru]].[^assis] A dissertação não esclarece se se trata da mesma pessoa; a identificação precisa ser confirmada.[^assis]
 

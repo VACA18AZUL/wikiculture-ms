@@ -26,11 +26,11 @@ O fórum surgiu como resposta às iniciativas externas de inclusão digital dos 
 
 O Núcleo de Estudos e Pesquisas das Populações Indígenas (NEPPI/UCDB) ajudou a organizar as três primeiras edições, e as seguintes ficaram a cargo da [[ascuri|ASCURI]].[^correa] A quarta edição, em julho de 2012, na aldeia Panambizinho (Dourados), foi a primeira autônoma.[^correa2]
 
-A edição mais recente citada, na aldeia Pirajuí (Paranhos), reuniu cerca de 150 participantes, entre jovens kaiowá, guarani e terena, lideranças do Aty Guasu e anciãos. Foi coordenada por [[eliel-benites|Eliel Benites]] e Gilmar Galache, com professores da Universidade Federal Fluminense e os bolivianos Iván Molina e Luiz Peláez, e realizada pela ASCURI.[^correa] A tese não informa o ano dessa edição.[^correa]
+A edição mais recente citada, na aldeia Pirajuí (Paranhos), reuniu cerca de 150 participantes, entre jovens kaiowá, guarani e terena, lideranças do Aty Guasu e anciãos. Foi coordenada por [[eliel-benites|Eliel Benites]] e [[gilmar-galache|Gilmar Galache]], com professores da Universidade Federal Fluminense e os bolivianos [[ivan-molina|Iván Molina]] e Luiz Peláez, e realizada pela [[ascuri|ASCURI]].[^correa] A tese não informa o ano dessa edição.[^correa]
 
-## Relação com a ASCURI
+## Relação com a [[ascuri|ASCURI]]
 
-Segundo Nogueira (2015), citado por Corrêa, o maior legado do FIDA foi a criação da ASCURI. Galache discorda: afirma que a ideia da associação já existia de forma embrionária e foi sendo lapidada junto com o fórum.[^correa]
+Segundo Nogueira (2015), citado por Corrêa, o maior legado do FIDA foi a criação da [[ascuri|ASCURI]]. Galache discorda: afirma que a ideia da associação já existia de forma embrionária e foi sendo lapidada junto com o fórum.[^correa]
 
 [^correa]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS: a etno-historiofotia nos filmes da ASCURI*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), tese de doutorado em História, Universidade Federal da Grande Dourados, 2023, seção 2.2.2.8, p. 142-143. Acesso em 29 out. 2026.
 [^correa2]: Miguel Angelo Corrêa, [*Achegas para uma história do audiovisual autoral dos povos indígenas de MS*](https://repositorio.ufgd.edu.br/jspui/bitstream/prefix/6129/1/MiguelAngeloCorrea.pdf), UFGD, 2023, capítulo sobre a ASCURI, p. 172-174. Acesso em 29 out. 2026.

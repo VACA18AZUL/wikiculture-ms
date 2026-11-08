@@ -15,7 +15,7 @@ O **Grêmio dos Amadores de Pintura de Campo Grande** foi um grupo de pintura fu
 
 ## Histórico
 
-Segundo uma tese sobre o curso de Educação Artística da UFMS, que cita Maria Adélia Menegazzo (1999), o grêmio reunia trinta participantes e era liderado por Ernestina Karan. Fez uma primeira exposição no Círculo Militar, com a produção dos integrantes.[^godoi]
+Segundo uma tese sobre o curso de Educação Artística da [[ufms|UFMS]], que cita [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] (1999), o grêmio reunia trinta participantes e era liderado por Ernestina Karan. Fez uma primeira exposição no Círculo Militar, com a produção dos integrantes.[^godoi]
 
 A autora observa que o nome "Amadores de Pintura" remete ao envolvimento pessoal e afetivo com a arte numa época ainda sem profissionalização do artista e do professor de arte.[^godoi]
 

@@ -19,7 +19,7 @@ As fontes consultadas não trazem o sobrenome do músico. Por isso o verbete usa
 
 A descrição do LP no Acervo Digital Memória Fonográfica de MS diz que o disco foi lançado em Aquidauana, em 1976, pelo selo California, e que foi o primeiro LP do artista. A direção artística teria sido de Mário Vieira, e o acompanhamento, de Julião e Conjunto Califórnia. Mariano assina as 12 faixas, entre chamamés e polcas.[^flor]
 
-A descrição do CD do Grupo Especial Chamamezeiro, no mesmo acervo, trata esse Mariano como idealizador e líder do [[grupo-especial-chamamezeiro|Grupo Especial Chamamezeiro]]. Segundo ela, ele integrou antes o trio Alvino, Alvanei e Mariano, que gravou o LP *Tristes Lembranças* em 1972. A mesma descrição afirma que o grupo toca em quermesses, bailes, exposições e rodeios em Aquidauana e região.[^cham]
+A descrição do CD do [[grupo-especial-chamamezeiro|Grupo Especial Chamamezeiro]], no mesmo acervo, trata esse Mariano como idealizador e líder do [[grupo-especial-chamamezeiro|Grupo Especial Chamamezeiro]]. Segundo ela, ele integrou antes o trio Alvino, Alvanei e Mariano, que gravou o LP *Tristes Lembranças* em 1972. A mesma descrição afirma que o grupo toca em quermesses, bailes, exposições e rodeios em Aquidauana e região.[^cham]
 
 A ligação entre o autor de *Flor de Jardim* e o líder do Chamamezeiro vem apenas dessas duas descrições do canal. A segunda diz que o líder lançou o LP *Flor de Jardim* em 1976 em carreira solo.[^cham]
 

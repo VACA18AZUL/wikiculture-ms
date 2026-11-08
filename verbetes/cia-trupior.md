@@ -18,7 +18,7 @@ Em junho de 2026, a TruPior foi citada, junto com o [[circo-le-chapeau|Circo Le 
 
 ## Espetáculos
 
-- *Pipockét Pernalhaça* (apresentado em 2024, na Mostra de Palhaços do Pantanal, em Campo Grande).[^cgn2024]
+- *Pipockét Pernalhaça* (apresentado em 2024, na [[mostra-de-palhacos-do-pantanal|Mostra de Palhaços do Pantanal]], em Campo Grande).[^cgn2024]
 
 [^cgn2024]: Thailla Torres, ["Com 13 espetáculos, cidade será tomada por Festival de Palhaços"](https://www.campograndenews.com.br/lado-b/diversao/com-13-espetaculos-cidade-sera-tomada-por-festival-de-palhacos), *Campo Grande News*, 29 mai. 2024. Acesso em 29 out. 2026.
 [^cgn2026]: Clayton Neves, ["Coletivo de circo leva lendas do Pantanal para bairros de Campo Grande"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/coletivo-de-circo-leva-lendas-do-pantanal-para-bairros-de-campo-grande), *Campo Grande News*, 18 jun. 2026. Acesso em 29 out. 2026.

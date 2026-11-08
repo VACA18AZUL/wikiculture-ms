@@ -21,9 +21,9 @@ Na Bolívia, foi diretor acadêmico da Escola de Cinema e Artes Audiovisuais (EC
 
 ## Em Mato Grosso do Sul
 
-A tese o descreve como coordenador de projetos de treinamento no estado e um dos fundadores da ASCURI, a partir de 2008, segundo o texto de Retina Latina que ela reproduz.[^tese] Em 2010, no projeto Avá Marandu, dividiu com [[gilmar-galache|Gilmar Galache]] uma das equipes que fizeram 12 oficinas em 7 aldeias ao longo de três meses.[^tese]
+A tese o descreve como coordenador de projetos de treinamento no estado e um dos fundadores da [[ascuri|ASCURI]], a partir de 2008, segundo o texto de Retina Latina que ela reproduz.[^tese] Em 2010, no projeto Avá Marandu, dividiu com [[gilmar-galache|Gilmar Galache]] uma das equipes que fizeram 12 oficinas em 7 aldeias ao longo de três meses.[^tese]
 
-Em 2020, durante a pandemia, supervisionou à distância os curtas *Teko Marangatu*, *Ary Vaí* e *Yvyra Jegua*, feitos pela ASCURI em aldeias, e escreveu os roteiros com [[eliel-benites|Eliel Benites]].[^tese]
+Em 2020, durante a pandemia, supervisionou à distância os curtas *Teko Marangatu*, *Ary Vaí* e *Yvyra Jegua*, feitos pela [[ascuri|ASCURI]] em aldeias, e escreveu os roteiros com [[eliel-benites|Eliel Benites]].[^tese]
 
 A tese atribui a ele uma defesa do cinema feito coletivamente, com participação das comunidades, e da autonomia de povos indígenas para produzir os próprios filmes.[^tese]
 

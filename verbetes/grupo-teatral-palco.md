@@ -21,7 +21,7 @@ Espedito di Montebranco dirigiu o grupo nos 22 anos anteriores. O folheto conta 
 
 Segundo o folheto, uma montagem do grupo venceu como melhor texto o Festival Estadual de Teatro realizado em Bela Vista e foi indicada em todas as categorias. Depois da premiação o elenco se desfez, e Montebranco montou *Pobre Diabo Louco e seu Discurso para Moscas*, que em 2017 completava 20 anos. Ele costuma assinar texto, dramaturgia, atuação, iluminação e cenografia.[^folheto]
 
-Na abertura oficial da mostra, em 22 de maio de 2017, no Teatro Glauce Rocha, o grupo foi homenageado e apresentou esse espetáculo, com texto, direção, cenografia, sonoplastia e atuação de Montebranco.[^folheto]
+Na abertura oficial da mostra, em 22 de maio de 2017, no [[teatro-glauce-rocha|Teatro Glauce Rocha]], o grupo foi homenageado e apresentou esse espetáculo, com texto, direção, cenografia, sonoplastia e atuação de Montebranco.[^folheto]
 
 Na mesma noite foi homenageado o ator e diretor [[edilton-ramos|Edilton Ramos]].[^folheto]
 

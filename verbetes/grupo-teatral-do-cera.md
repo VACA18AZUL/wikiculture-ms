@@ -23,7 +23,7 @@ O idealizador e responsável pelo grupo foi [[paulo-correa-de-oliveira|Paulo Cor
 
 Os textos tratam da história e da identidade de Mato Grosso do Sul, após a divisão do estado de Mato Grosso. Ziliani aponta como temas a fundação de Aquidauana, a cidade de Santiago de Xerez, a retirada da Laguna, a presença dos Terena e o suicídio de jovens indígenas na reserva Kaiowá.[^ziliani]
 
-Moser, resumindo o capítulo de Maria da Glória Sá Rosa (1992) sobre o teatro no estado, escreve que Paulo Corrêa de Oliveira desenvolvia, junto ao CERA e a partir de 1974, propostas que integrariam as atividades cênicas à vida social da cidade, com peças baseadas na realidade sul-mato-grossense. Essa informação é indireta.[^moser] Ziliani, por sua vez, data o grupo a partir de 1978.[^ziliani]
+Moser, resumindo o capítulo de [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] (1992) sobre o teatro no estado, escreve que [[paulo-correa-de-oliveira|Paulo Corrêa de Oliveira]] desenvolvia, junto ao CERA e a partir de 1974, propostas que integrariam as atividades cênicas à vida social da cidade, com peças baseadas na realidade sul-mato-grossense. Essa informação é indireta.[^moser] Ziliani, por sua vez, data o grupo a partir de 1978.[^ziliani]
 
 ## Espetáculos
 

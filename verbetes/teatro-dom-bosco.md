@@ -15,7 +15,7 @@ O **Teatro Dom Bosco** é um teatro de Campo Grande inaugurado em 1974.[^moser]
 
 ## Histórico
 
-A inauguração do Dom Bosco, um ano depois da do [[teatro-glauce-rocha|Teatro Glauce Rocha]] (1973), atraiu grandes companhias teatrais, que confiavam nas condições técnicas e nos mais de 800 lugares, segundo Maria da Glória Sá Rosa, relatada por Fabricio Moser.[^moser]
+A inauguração do Dom Bosco, um ano depois da do [[teatro-glauce-rocha|Teatro Glauce Rocha]] (1973), atraiu grandes companhias teatrais, que confiavam nas condições técnicas e nos mais de 800 lugares, segundo [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], relatada por Fabricio Moser.[^moser]
 
 De 1974 a 1978, o teatro sediou um festival promovido pela Secretaria Municipal de Educação, que valorizava a criação dos alunos. Professores davam forma teatral a textos de Chico Buarque, Caetano Veloso e Fernando Pessoa, a partir de temas da periferia. O festival deixou de ocorrer em 1978: o secretário municipal de Educação teria interrompido e encerrado a apresentação de *Vila nhanha toda vila tem uma história pra contar*, que questionava o sistema educacional da época.[^moser]
 

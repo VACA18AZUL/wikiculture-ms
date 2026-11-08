@@ -21,11 +21,11 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Segundo o Correio do Estado, foi a primeira presidente da ASMPD e da Associação Artística e Cultural de Mato Grosso do Sul, fundou a Associação dos Pintores de Porcelana e presidiu a Associação dos Artistas Plásticos de Mato Grosso do Sul. Participou ainda da fundação da Rede Feminina de Combate ao Câncer de Campo Grande e recebeu o título de Delegada da Associação Interamericana de Dança.[^ce2026]
+Segundo o Correio do Estado, foi a primeira presidente da [[asmpd|ASMPD]] e da Associação Artística e Cultural de Mato Grosso do Sul, fundou a Associação dos Pintores de Porcelana e presidiu a Associação dos Artistas Plásticos de Mato Grosso do Sul. Participou ainda da fundação da Rede Feminina de Combate ao Câncer de Campo Grande e recebeu o título de Delegada da Associação Interamericana de Dança.[^ce2026]
 
-A revista do X Festival, de 1994, traz um texto assinado por ela. Nele, Sarah diz que assumiu a diretoria da então Associação Sul-Mato-Grossense dos Profissionais da Dança em 13 de janeiro de 1980, quando a entidade ainda se estruturava, e que a primeira Mostra de Dança Sul-Mato-Grossense cresceu até se tornar o [[festival-sul-mato-grossense-de-danca|Festival Sul-Mato-Grossense de Dança]]. A lista de diretoria da revista a registra como presidente da associação.[^revista8][^revista9]
+A revista do X Festival, de 1994, traz um texto assinado por ela. Nele, Sarah diz que assumiu a diretoria da então [[asmpd|Associação Sul-Mato-Grossense dos Profissionais da Dança]] em 13 de janeiro de 1980, quando a entidade ainda se estruturava, e que a primeira Mostra de Dança Sul-Mato-Grossense cresceu até se tornar o [[festival-sul-mato-grossense-de-danca|Festival Sul-Mato-Grossense de Dança]]. A lista de diretoria da revista a registra como presidente da associação.[^revista8][^revista9]
 
-O Correio do Estado atribui a ela a organização dos 13 primeiros festivais, realizados de 1985 a 1998.[^ce2026] Um texto da coordenação de cultura da UFMS, na mesma revista, descreve o festival como fruto do esforço pessoal dela, de professores e alunos de dança e das instituições que o apoiaram.[^revista6]
+O Correio do Estado atribui a ela a organização dos 13 primeiros festivais, realizados de 1985 a 1998.[^ce2026] Um texto da coordenação de cultura da [[ufms|UFMS]], na mesma revista, descreve o festival como fruto do esforço pessoal dela, de professores e alunos de dança e das instituições que o apoiaram.[^revista6]
 
 ## Acervo
 

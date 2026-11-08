@@ -19,9 +19,9 @@ Duas fontes dão referências diferentes. Reportagem de 2022 diz que a galeria f
 
 ## Exposições
 
-- Novembro de 2022: mostra com lambe-lambe e registros fotográficos de Léo Mareco, da série "Intervenções Pandêmicas", e pinturas a óleo de Kim Matos, da coleção "Alumia". A exposição começou em 29 de novembro.[^cgn2022]
+- Novembro de 2022: mostra com lambe-lambe e registros fotográficos de Léo Mareco, da série "Intervenções Pandêmicas", e pinturas a óleo de [[kim-matos|Kim Matos]], da coleção "Alumia". A exposição começou em 29 de novembro.[^cgn2022]
 - Julho de 2026: "Olhar Suspenso", de [[wendel-fontes|Wendel Fontes]], de 8 a 22 de julho, com pinturas sobre infância e memória.[^critica2026]
-- Setembro de 2026: "Fragmentos e Cicatrizes da Arquitetura Urbana", de Gisele Della Barba e [[fernando-anghinoni|Fernando Anghinoni]], inaugurada em 1º de setembro e aberta até 13 de setembro.[^correio2026]
+- Setembro de 2026: "Fragmentos e Cicatrizes da Arquitetura Urbana", de [[gisele-della-barba|Gisele Della Barba]] e [[fernando-anghinoni|Fernando Anghinoni]], inaugurada em 1º de setembro e aberta até 13 de setembro.[^correio2026]
 
 [^cgn2022]: Thailla Torres, ["Nova exposição da Galeria de Vidro une fotografia, lambe-lambe e pintura"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/nova-exposicao-da-galeria-de-vidro-une-fotografia-lambe-lambe-e-pintura), *Campo Grande News*, 30 nov. 2022. Acesso em 29 out. 2026.
 [^correio2026]: ["Exposição gratuita é opção para quem gosta de arte em Campo Grande"](https://correiodoestado.com.br/cidades/exposicao-gratuita-e-opcao-para-quem-gosta-de-arte-em-campo-grande/472337/), *Correio do Estado*, 7 set. 2026. Acesso em 29 out. 2026.

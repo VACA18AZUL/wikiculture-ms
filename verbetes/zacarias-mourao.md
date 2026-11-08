@@ -17,7 +17,7 @@ atualizado: 2026-10-29
 
 Seu nome mais lembrado é o da canção *A Mato-grossense*, escrita em parceria com Flor da Serra. A canção foi gravada por [[ze-correa|Zé Corrêa]] e é considerada um dos mais marcantes "chamamés sul-mato-grossenses". A dissertação de Gonçalves a descreve como um dos maiores clássicos da música do estado.[^ufms]
 
-Caetano o cita, ao lado de [[delio-e-delinha|Délio & Delinha]] e Zé Corrêa, entre os nomes da música sertaneja de raiz que foram referência na região desde meados do século XX.[^nupem] Na dissertação, o nome aparece entre os artistas dos anos 1950 a 1970 que, nos anos 1980, foram deixados de lado pela geração que passou a representar a música regional.[^ufgd]
+Caetano o cita, ao lado de [[delio-e-delinha|Délio & Delinha]] e [[ze-correa|Zé Corrêa]], entre os nomes da música sertaneja de raiz que foram referência na região desde meados do século XX.[^nupem] Na dissertação, o nome aparece entre os artistas dos anos 1950 a 1970 que, nos anos 1980, foram deixados de lado pela geração que passou a representar a música regional.[^ufgd]
 
 ## Festivais
 

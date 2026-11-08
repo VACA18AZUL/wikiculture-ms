@@ -21,7 +21,7 @@ Segundo a matéria de abril de 2023, o grupo foi um dos primeiros a ter sede pr�
 
 A reabertura teve o projeto "Depois do Fim do Mundo", voltado à manutenção das atividades do grupo.[^cgn2023-guardioes]
 
-Em novembro de 2022, a Mostra Campo Grande de Teatro de Bonecos, organizada pela Deslimites com a Secretaria Municipal de Cultura e Turismo, abriu no espaço do grupo.[^cgn2022]
+Em novembro de 2022, a [[mostra-campo-grande-de-teatro-de-bonecos|Mostra Campo Grande de Teatro de Bonecos]], organizada pela Deslimites com a Secretaria Municipal de Cultura e Turismo, abriu no espaço do grupo.[^cgn2022]
 
 Em 2025, o projeto "TGR: Riso, Risco e Resistência" levou sete espetáculos do repertório a estudantes de escolas públicas, projetos sociais e ONGs, com visita à sede e acessibilidade em Libras.[^cgn2025]
 

@@ -13,7 +13,7 @@ atualizado: 2026-10-29
 
 ## Exposições
 
-A mostra *Céu de Querubins – Almas Gêmeas* abriu a programação do MARCO em 2016. A diretora do museu, Maysa Barros, disse que ele foi convidado a expor e levou uma lona de 12 metros de largura por oito de altura, toda trabalhada. Ela classificou a exposição como marcante.[^ce]
+A mostra *Céu de Querubins – Almas Gêmeas* abriu a programação do [[marco|MARCO]] em 2016. A diretora do museu, [[maysa-barros|Maysa Barros]], disse que ele foi convidado a expor e levou uma lona de 12 metros de largura por oito de altura, toda trabalhada. Ela classificou a exposição como marcante.[^ce]
 
 A matéria, publicada em novembro de 2016, não informa cidade de origem, formação nem outras obras do artista.[^ce]
 

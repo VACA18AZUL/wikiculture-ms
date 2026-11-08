@@ -24,7 +24,7 @@ Seu último trabalho foi *Ensaio sobre a Lua*, que estreou em 12 e 13 de outubro
 
 ## Homenagens
 
-O MS Dance Fest, festival de dança promovido em Campo Grande pelo Grupo Funk-se, tem uma disputa chamada Prêmio Jair Damasceno. Na 11ª edição, em abril de 2022, ela ocorreu na Concha Acústica Família Espíndola, na Praça do Rádio Clube, com grupos da capital, de outras cidades do estado e do interior paulista.[^cgn2022] A matéria não explica a origem do nome do prêmio.[^cgn2022]
+O MS Dance Fest, festival de dança promovido em Campo Grande pelo Grupo [[funk-se|Funk-se]], tem uma disputa chamada Prêmio Jair Damasceno. Na 11ª edição, em abril de 2022, ela ocorreu na Concha Acústica Família Espíndola, na Praça do Rádio Clube, com grupos da capital, de outras cidades do estado e do interior paulista.[^cgn2022] A matéria não explica a origem do nome do prêmio.[^cgn2022]
 
 ## Espetáculos
 

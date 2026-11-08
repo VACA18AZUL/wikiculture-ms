@@ -10,11 +10,11 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Mauro Mondine** é artista visual, professor e arte terapeuta, formado em Artes Visuais pela UFMS.[^cgn]
+**Mauro Mondine** é artista visual, professor e arte terapeuta, formado em Artes Visuais pela [[ufms|UFMS]].[^cgn]
 
 ## Trajetória
 
-Em 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] o convidou, com outros quatro artistas, a expor e comercializar obras em uma feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os outros convidados foram [[kim-matos|Kim Matos]], [[carlos-vera|Carlos Vera]], Ryam Paès e [[fernando-anghinoni|Fernando Anghinoni]].[^cgn]
+Em 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] o convidou, com outros quatro artistas, a expor e comercializar obras em uma feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os outros convidados foram [[kim-matos|Kim Matos]], [[carlos-vera|Carlos Vera]], [[ryam-paes|Ryam Paès]] e [[fernando-anghinoni|Fernando Anghinoni]].[^cgn]
 
 ## Obra
 

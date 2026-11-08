@@ -13,7 +13,7 @@ atualizado: 2026-10-29
 
 ## Acervo e exposições
 
-Em novembro de 2023, expôs cinco obras na mostra "Elas em Corumbá – Mulheres Indígenas Artistas", parte do Festival América do Sul (9 a 12 de novembro), com [[benilda-kadiweu|Benilda Kadiwéu]] e Lucineide Clementino (Sol Terena). Duas das telas medem 1,2 m por 90 cm.[^cgn]
+Em novembro de 2023, expôs cinco obras na mostra "Elas em Corumbá – Mulheres Indígenas Artistas", parte do [[festival-america-do-sul-pantanal|Festival América do Sul]] (9 a 12 de novembro), com [[benilda-kadiweu|Benilda Kadiwéu]] e [[lucineide-clementino|Lucineide Clementino]] (Sol Terena). Duas das telas medem 1,2 m por 90 cm.[^cgn]
 
 ## Obra
 

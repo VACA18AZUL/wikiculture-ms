@@ -21,15 +21,15 @@ atualizado: 2026-10-31
 
 Antes da polca-rock, integrou entre 1983 e 1990 a banda paulistana Os Incontroláveis, segundo reportagem de Carlos Calado, da *Folha de S.Paulo*, citada por Caetano.[^cae12]
 
-A polca-rock foi organizada inicialmente por Caio Ignácio, Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]], entre o fim dos anos 1980 e o início dos 1990.[^cae12] Caetano considera "Colisão", de Jerry e Ciro Pinheiro, a primeira canção declarada como polca-rock.[^caeufgd] Gonçalves a data de 1985.[^gon14] Caetano a coloca por volta de 1985 e a primeira gravação no disco *Polca-Rock*.[^cae12] A dissertação do mesmo autor a registra também no disco *Pop Pantanal*.[^caeufgd]
+A polca-rock foi organizada inicialmente por Caio Ignácio, Jerry Espíndola e [[rodrigo-teixeira|Rodrigo Teixeira]], entre o fim dos anos 1980 e o início dos 1990.[^cae12] Caetano considera "Colisão", de Jerry e Ciro Pinheiro, a primeira canção declarada como polca-rock.[^caeufgd] Gonçalves a data de 1985.[^gon14] Caetano a coloca por volta de 1985 e a primeira gravação no disco *[[polca-rock-cd-jerry-espindola|Polca-Rock]]*.[^cae12] A dissertação do mesmo autor a registra também no disco *Pop Pantanal*.[^caeufgd]
 
 Depois, promoveu oficinas sobre a música e a cultura do estado, com ênfase nos ritmos ternários.[^caeufgd]
 
-Em 26 de fevereiro de 2026, apresentou no Sesc Teatro Prosa, em Campo Grande, o show "40 Tons". A reportagem diz que o show celebra 43 anos de carreira e marca seu 12º álbum, somando discos solo e coletivos.[^acritica]
+Em 26 de fevereiro de 2026, apresentou no [[sesc-teatro-prosa|Sesc Teatro Prosa]], em Campo Grande, o show "40 Tons". A reportagem diz que o show celebra 43 anos de carreira e marca seu 12º álbum, somando discos solo e coletivos.[^acritica]
 
 ## Discografia
 
-- *Pop Pantanal* — álbum solo. A dissertação de Caetano indica 2000 (Pantanal Discos); o relato de Rodrigo Teixeira que ela cita fala em lançamento em 2001.[^caeufgd]
+- *Pop Pantanal* — álbum solo. A dissertação de Caetano indica 2000 (Pantanal Discos); o relato de [[rodrigo-teixeira|Rodrigo Teixeira]] que ela cita fala em lançamento em 2001.[^caeufgd]
 - [[polca-rock-cd-jerry-espindola|*Polca-Rock*]] — álbum. Caetano indica 2002 (Elo Music); Gonçalves indica 2003, atribuído a Jerry Espíndola & Croa.[^cae12][^caeufgd][^gon14]
 
 ## Filmografia

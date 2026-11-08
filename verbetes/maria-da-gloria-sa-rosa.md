@@ -19,19 +19,19 @@ atualizado: 2026-10-29
 
 Nasceu em 4 de novembro de 1927, em Mombaça, no Ceará. Formou-se em Letras Neolatinas na PUC do Rio de Janeiro e voltou a Campo Grande em 1950, depois de oito anos fora do então estado de Mato Grosso.[^carlos]
 
-Segundo a dissertação de Adriana Carlos, a professora fundou a Aliança Francesa, a Associação Campo-grandense de Professores, a Revista de Estudos Universitários da Faculdade Dom Aquino de Filosofia, Ciências e Letras, o Teatro Universitário Campo-grandense e o Cine Clube de Campo Grande.[^carlos] Ocupou a cadeira 19 da Academia Sul-Mato-Grossense de Letras e recebeu o título de doutora honoris causa da Universidade Católica Dom Bosco e da Universidade Federal de Mato Grosso do Sul.[^carlos] A mesma dissertação conta 17 livros publicados, coleções didáticas de circulação nacional e artigos no "Suplemento Cultural" do *Correio do Estado*.[^carlos] Ela morreu em 2016.[^godoi]
+Segundo a dissertação de Adriana Carlos, a professora fundou a Aliança Francesa, a Associação Campo-grandense de Professores, a Revista de Estudos Universitários da Faculdade Dom Aquino de Filosofia, Ciências e Letras, o Teatro Universitário Campo-grandense e o Cine Clube de Campo Grande.[^carlos] Ocupou a cadeira 19 da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] e recebeu o título de doutora honoris causa da Universidade Católica Dom Bosco e da [[ufms|Universidade Federal de Mato Grosso do Sul]].[^carlos] A mesma dissertação conta 17 livros publicados, coleções didáticas de circulação nacional e artigos no "Suplemento Cultural" do *Correio do Estado*.[^carlos] Ela morreu em 2016.[^godoi]
 
 ## Artes plásticas
 
 Em entrevista de 2006 à revista *ComCultura*, descreveu o cenário artístico de Campo Grande antes de 1970 e disse que, nas décadas anteriores, as exposições aconteciam em colégios e no saguão de um jornal.[^godoi] Segundo Godoi, a primeira exposição realizada na Fundação de Cultura, inaugurada em 1979, foi organizada por ela e reuniu obras da série "Divisão do Estado", de [[humberto-espindola|Humberto Espíndola]] (ver [[divisao-de-mato-grosso|Divisão de Mato Grosso]]).[^godoi]
 
-Godoi lista entre as publicações sobre arte e cultura do estado *Artes plásticas em Mato Grosso do Sul*, com autoria atribuída a Maria da Glória Sá Rosa, Idara Duncan e Yara Penteado.[^godoi] Adriana Carlos data esse livro de 2003 e o atribui a Rosa.[^carlos] Godoi também a inclui entre os autores de *Memória da Arte em MS: História de Vida*, ao lado de Yara Negreiros Duncan Rodrigues e Maria Adélia Menegazzo, e informa que ela integrou a Associação Brasileira de Críticos de Arte.[^godoi]
+Godoi lista entre as publicações sobre arte e cultura do estado *Artes plásticas em Mato Grosso do Sul*, com autoria atribuída a Maria da Glória Sá Rosa, Idara Duncan e Yara Penteado.[^godoi] Adriana Carlos data esse livro de 2003 e o atribui a Rosa.[^carlos] Godoi também a inclui entre os autores de *Memória da Arte em MS: História de Vida*, ao lado de Yara Negreiros Duncan Rodrigues e [[maria-adelia-menegazzo|Maria Adélia Menegazzo]], e informa que ela integrou a Associação Brasileira de Críticos de Arte.[^godoi]
 
 ## Teatro e cinema
 
 Fabricio Moser cita o capítulo "Teatro", dela, em *Memória da Arte em MS: histórias de vida* (1992).[^moser] Moser descreve o Teatro Universitário Campo-grandense (TUC) como grupo formado em 1967 na Faculdade Dom Aquino, sob direção de [[silvio-torecilha|Sílvio Torecilha]], e diz que a última encenação, em 1970, foi *Diadorim meu Sertão*, adaptação de *Grande Sertão: Veredas*, dirigida e produzida por Maria da Glória Sá Rosa.[^moser] Adriana Carlos, por outro lado, diz que o TUC foi fundado por ela.[^carlos] Ver [[tuc-teatro-universitario-campo-grandense|TUC]].
 
-Carlos Rodrigo Diehl registra que o cineclubismo de Campo Grande surgiu em 1967, dirigido por ela, e formou cinéfilos e produtores como Cândido Alberto da Fonseca.[^diehl] Ver [[cineclube-de-campo-grande|Cineclube de Campo Grande]].
+Carlos Rodrigo Diehl registra que o cineclubismo de Campo Grande surgiu em 1967, dirigido por ela, e formou cinéfilos e produtores como [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]].[^diehl] Ver [[cineclube-de-campo-grande|Cineclube de Campo Grande]].
 
 ## Livros sobre a memória cultural
 

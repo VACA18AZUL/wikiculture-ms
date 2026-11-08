@@ -20,10 +20,10 @@ Segundo Renata Assis, a exposição surgiu da iniciativa de [[aline-figueiredo|A
 
 ## Participantes
 
-Assis cita como participantes artistas que já atuavam profissionalmente em Cuiabá, Campo Grande e cidades do interior sul de Mato Grosso, entre eles Ignez Correa da Costa, Antônio Burgos, Humberto Espíndola, Miguel Peres, Reginaldo Araújo, Fausto Furlan, Sila Passareli, Dalva Maria de Barros, Flávio Taveira, [[jorapimo|Jorapimo]] e [[ilton-silva|Ilton Silva]].[^assis] A lista é apresentada como exemplo, não como relação completa, e a fonte não informa a cidade de cada um.[^assis]
+Assis cita como participantes artistas que já atuavam profissionalmente em Cuiabá, Campo Grande e cidades do interior sul de Mato Grosso, entre eles Ignez Correa da Costa, Antônio Burgos, [[humberto-espindola|Humberto Espíndola]], Miguel Peres, [[reginaldo-araujo|Reginaldo Araújo]], Fausto Furlan, Sila Passareli, Dalva Maria de Barros, Flávio Taveira, [[jorapimo|Jorapimo]] e [[ilton-silva|Ilton Silva]].[^assis] A lista é apresentada como exemplo, não como relação completa, e a fonte não informa a cidade de cada um.[^assis]
 
 ## Recepção
 
-Em artigo na revista paulista *Mirante das Artes*, Pietro Bardi criticou o nível da mostra e ironizou o cerimonial. Citado por Assis a partir de Aline Figueiredo, ele aponta que um grupo de ação poderia criar ambiente favorável à arte.[^assis] Os organizadores avaliaram a exposição como provinciana, mas como um primeiro passo para organizar o setor.[^assis]
+Em artigo na revista paulista *Mirante das Artes*, Pietro Bardi criticou o nível da mostra e ironizou o cerimonial. Citado por Assis a partir de [[aline-figueiredo|Aline Figueiredo]], ele aponta que um grupo de ação poderia criar ambiente favorável à arte.[^assis] Os organizadores avaliaram a exposição como provinciana, mas como um primeiro passo para organizar o setor.[^assis]
 
 [^assis]: Renata Rodrigues de Assis, *A apropriação dos grafismos Kadiwéu pelos artistas plásticos do Movimento Cultural Guaicuru*, dissertação de mestrado, Universidade Federal da Grande Dourados, 2013. [PDF](https://www.ppghufgd.com/wp-content/uploads/2017/06/RENATA-RODRIGUES-DE-ASSIS.pdf). Acesso em 29 out. 2026.

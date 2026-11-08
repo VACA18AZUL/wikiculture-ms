@@ -27,7 +27,7 @@ A segunda edição, de 1989, foi publicada pelo Tribunal de Justiça de Mato Gro
 
 ## Lançamento e criação da academia
 
-Segundo Pontes, citado por Amarilha, o lançamento ocorreu às 20 horas, no Hotel Campo Grande, em noite de autógrafos que reuniu a cidade, e dele surgiram reuniões literárias semanais em casa de Serra.[^amarilha] Dessas reuniões nasceu a Academia de Letras e História de Campo Grande, depois Academia Sul-Mato-Grossense de Letras. A ata de fundação foi registrada em 6 de novembro de 1971.[^amarilha] A instalação solene ocorreu em 13 de outubro de 1972, um ano depois do lançamento do livro.[^raido][^amarilha] Serra morreu em junho de 1972, antes da instalação.[^raido]
+Segundo Pontes, citado por Amarilha, o lançamento ocorreu às 20 horas, no Hotel Campo Grande, em noite de autógrafos que reuniu a cidade, e dele surgiram reuniões literárias semanais em casa de Serra.[^amarilha] Dessas reuniões nasceu a Academia de Letras e História de Campo Grande, depois [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]]. A ata de fundação foi registrada em 6 de novembro de 1971.[^amarilha] A instalação solene ocorreu em 13 de outubro de 1972, um ano depois do lançamento do livro.[^raido][^amarilha] Serra morreu em junho de 1972, antes da instalação.[^raido]
 
 ## Divergência sobre o gênero
 

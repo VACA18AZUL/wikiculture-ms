@@ -13,7 +13,7 @@ atualizado: 2026-10-29
 
 ## Exposições
 
-A diretora do museu, Maysa Barros, citou "Formas d'Água – Integração por Dispersão" entre os destaques da programação de 2016. A reportagem descreve a mostra como um intercâmbio entre Santiago e Bonito, por meio da exploração das possibilidades estéticas da água.[^ce]
+A diretora do museu, [[maysa-barros|Maysa Barros]], citou "Formas d'Água – Integração por Dispersão" entre os destaques da programação de 2016. A reportagem descreve a mostra como um intercâmbio entre Santiago e Bonito, por meio da exploração das possibilidades estéticas da água.[^ce]
 
 A matéria não traz datas da exposição, técnica das obras nem outros dados biográficos da artista.[^ce]
 

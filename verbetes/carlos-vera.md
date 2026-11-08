@@ -16,7 +16,7 @@ atualizado: 2026-10-29
 
 Reportagem de 2022 diz que cores e formas geométricas são elementos fundamentais em sua obra e que a formação gráfica, como publicitário e designer, orienta o jogo com formas e cores.[^cgn]
 
-Em setembro de 2022, a Fundação de Cultura de Mato Grosso do Sul o convidou, com outros quatro artistas, a expor e vender obras em feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os demais eram Mauro Mondine, Kim Matos, Ryam Paès e Fernando Anghinone.[^cgn]
+Em setembro de 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] o convidou, com outros quatro artistas, a expor e vender obras em feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os demais eram [[mauro-mondine|Mauro Mondine]], [[kim-matos|Kim Matos]], [[ryam-paes|Ryam Paès]] e Fernando Anghinone.[^cgn]
 
 Em 2026, participou de exposição coletiva de obras inéditas, com Mabbi, Patricia Bissoli e Ton Barbosa, aberta em 26 de junho no Slaviero Prime Hotel, em Campo Grande.[^acritica]
 

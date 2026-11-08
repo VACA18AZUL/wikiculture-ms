@@ -16,13 +16,13 @@ O **Movimento Cultural Guaicuru** (MCG) foi um movimento de artistas plásticos 
 
 ## Origem e fundadores
 
-Segundo Renata Assis, o movimento nasceu de encontros de artistas, estudantes e intelectuais na Tainá Tur Galeria, em Campo Grande, e foi criado pelo artista plástico e historiador [[henrique-spengler|Henrique Spengler]], com a participação inicial de [[jonir-figueiredo|Jonir Figueiredo]], [[paulo-rigotti|Paulo Rigotti]], Miska, Adilson Schiffer, Ilca Galvão e outros.[^assis] O *Campo Grande News*, ao noticiar a morte de Jonir Figueiredo em 2025, o chama de cofundador do movimento.[^cgn] As fontes apresentam, portanto, formulações diferentes sobre a autoria da fundação.
+Segundo Renata Assis, o movimento nasceu de encontros de artistas, estudantes e intelectuais na Tainá Tur Galeria, em Campo Grande, e foi criado pelo artista plástico e historiador [[henrique-spengler|Henrique Spengler]], com a participação inicial de [[jonir-figueiredo|Jonir Figueiredo]], [[paulo-rigotti|Paulo Rigotti]], Miska, Adilson Schiffer, [[ilca-galvao|Ilca Galvão]] e outros.[^assis] O *Campo Grande News*, ao noticiar a morte de [[jonir-figueiredo|Jonir Figueiredo]] em 2025, o chama de cofundador do movimento.[^cgn] As fontes apresentam, portanto, formulações diferentes sobre a autoria da fundação.
 
 ## Propostas e atividades
 
 Os artistas do MCG tomaram o universo indígena como referência, sobretudo os padrões gráficos dos Kadiwéu, remanescentes dos Mbayá-Guaicuru. Com o tempo, o movimento passou a abrigar outros temas e técnicas.[^assis] Para ampliar o alcance fora da capital, criou filiais em Dourados e Coxim.[^assis]
 
-As atividades incluíram mostras de teatro e de artes plásticas, artesanato, saraus, performances e palestras. As Mostras Guaicuru de Artes Plásticas eram itinerantes, alternando capital e interior, e, a partir de 1992, a mostra passou a integrar o calendário da Uniarte, evento da Unigran, em Dourados.[^assis] Entre os participantes de mostras e salões, a autora cita Anelise Godoy, Carlos Cabral, Carminha Missio, Nelly Guimarães, Miska e Paulo Rigotti.[^assis]
+As atividades incluíram mostras de teatro e de artes plásticas, artesanato, saraus, performances e palestras. As Mostras Guaicuru de Artes Plásticas eram itinerantes, alternando capital e interior, e, a partir de 1992, a mostra passou a integrar o calendário da Uniarte, evento da Unigran, em Dourados.[^assis] Entre os participantes de mostras e salões, a autora cita Anelise Godoy, Carlos Cabral, Carminha Missio, Nelly Guimarães, Miska e [[paulo-rigotti|Paulo Rigotti]].[^assis]
 
 Assis observa que Spengler foi o porta-voz do grupo, mas que seu discurso expressava mais suas próprias interpretações do que uma visão coletiva.[^assis] A autora aponta ainda que a produção escrita sobre o MCG é escassa e que a maior parte das informações está em folhetos, catálogos e na revista *MS Cultura*.[^assis]
 

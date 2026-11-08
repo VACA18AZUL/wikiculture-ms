@@ -16,11 +16,11 @@ Os **Irmãos Lahdo**, Bernardo e Abud, foram produtores cinematográficos de Cam
 
 ## Trajetória
 
-A produtora dos irmãos Lahdo começou a atuar com uma série de cinejornais sob o título *Mato Grosso em Marcha*, segundo citação de Campestrini (1976) no trabalho de Diehl.[^diehl36] Diehl situa os cinejornais dos irmãos a partir de 1958 e calcula cerca de 70, número menor que o de Michel Saddi, que filmou cerca de 100 a partir de 1956.[^diehl36]
+A produtora dos irmãos Lahdo começou a atuar com uma série de cinejornais sob o título *Mato Grosso em Marcha*, segundo citação de Campestrini (1976) no trabalho de Diehl.[^diehl36] Diehl situa os cinejornais dos irmãos a partir de 1958 e calcula cerca de 70, número menor que o de [[michel-saddi|Michel Saddi]], que filmou cerca de 100 a partir de 1956.[^diehl36]
 
-Com dificuldade para obter recursos, mas com mobilização da sociedade campo-grandense, os irmãos gravaram na cidade o longa-metragem de ficção *Paralelos Trágicos*.[^diehl37] Sá e Castilho os destacam como os primeiros a produzir um filme com equipe totalmente da cidade.[^sa246]
+Com dificuldade para obter recursos, mas com mobilização da sociedade campo-grandense, os irmãos gravaram na cidade o longa-metragem de ficção *[[paralelos-tragicos|Paralelos Trágicos]]*.[^diehl37] Sá e Castilho os destacam como os primeiros a produzir um filme com equipe totalmente da cidade.[^sa246]
 
-Os irmãos também fundaram dois cinemas em Campo Grande, o Cine Acapulco e o Cine Jalisco.[^sa246] Segundo Diehl, a cópia original de *Paralelos Trágicos* derreteu no incêndio do Cine Acapulco, em 2000; a família guarda partes da película e uma cópia incompleta em 16 mm.[^diehl37]
+Os irmãos também fundaram dois cinemas em Campo Grande, o Cine Acapulco e o Cine Jalisco.[^sa246] Segundo Diehl, a cópia original de *[[paralelos-tragicos|Paralelos Trágicos]]* derreteu no incêndio do Cine Acapulco, em 2000; a família guarda partes da película e uma cópia incompleta em 16 mm.[^diehl37]
 
 A grafia do sobrenome varia na própria bibliografia: Diehl usa "Lahdo" no texto, mas reproduz citação que escreve "Ladho" e nomeia "Abboud".[^diehl37]
 

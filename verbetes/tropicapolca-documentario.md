@@ -12,7 +12,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-***TropicaPolca – Produção Musical Independente no MS*** é um documentário de 30 minutos dirigido por Namaria Schneider, integrante do duo [[vozmece|Vozmecê]].[^crit]
+***TropicaPolca – Produção Musical Independente no MS*** é um documentário de 30 minutos dirigido por [[namaria-schneider|Namaria Schneider]], integrante do duo [[vozmece|Vozmecê]].[^crit]
 
 ## Sobre o filme
 
@@ -22,7 +22,7 @@ A produção foi contemplada pela Lei Paulo Gustavo.[^crit]
 
 ## Exibição
 
-A matéria de A Crítica anuncia a exibição, como obra inédita, junto com o documentário [[cena-alternativa-ms-geracao-20|Cena Alternativa MS – Geração 20]], em 13 de março de 2026, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande. A sessão marcou a despedida do Vozmecê antes da mudança do duo para São Paulo e foi seguida de um pocket show. A matéria não informa o ano de conclusão do filme nem onde assisti-lo depois.[^crit]
+A matéria de A Crítica anuncia a exibição, como obra inédita, junto com o documentário [[cena-alternativa-ms-geracao-20|Cena Alternativa MS – Geração 20]], em 13 de março de 2026, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande. A sessão marcou a despedida do [[vozmece|Vozmecê]] antes da mudança do duo para São Paulo e foi seguida de um pocket show. A matéria não informa o ano de conclusão do filme nem onde assisti-lo depois.[^crit]
 
 ## Ficha técnica
 

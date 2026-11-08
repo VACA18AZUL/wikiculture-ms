@@ -18,7 +18,7 @@ O **Bonito CineSur**, também chamado de Festival de Cinema Sul-Americano de Bon
 
 ## Origem e organização
 
-A primeira edição foi anunciada em outubro de 2023. O diretor do festival é Nilson Rodrigues, apontado pela imprensa como criador do Festival de Inverno de Bonito, das Temporadas Populares e do Festival América do Sul. A curadoria desse primeiro ano ficou com José Geraldo Couto.[^cgn2023] Em 2026, [[andrea-freire|Andréa Freire]] aparece como coordenadora do festival.[^acritica2026b][^acritica2026c]
+A primeira edição foi anunciada em outubro de 2023. O diretor do festival é Nilson Rodrigues, apontado pela imprensa como criador do Festival de Inverno de Bonito, das Temporadas Populares e do [[festival-america-do-sul-pantanal|Festival América do Sul]]. A curadoria desse primeiro ano ficou com José Geraldo Couto.[^cgn2023] Em 2026, [[andrea-freire|Andréa Freire]] aparece como coordenadora do festival.[^acritica2026b][^acritica2026c]
 
 Segundo uma matéria de 2024, o festival conta com a participação de 26 instituições públicas e privadas na realização.[^ce2024] Em 2026, constam patrocínio de instituições públicas e privadas e apoio da Prefeitura de Bonito, da Fundtur e do governo estadual.[^acritica2026a]
 
@@ -28,7 +28,7 @@ A imprensa varia no nome: o Correio do Estado e o Campo Grande News (2023 e 2025
 
 A **primeira edição** (2023) recebeu 657 filmes inscritos, segundo o Campo Grande News,[^cgn2023] enquanto A Crítica, em 2026, fala em 600 inscritos naquele ano.[^acritica2026a] O festival teve três categorias competitivas (curta, longa e mostra sul-mato-grossense) e premiação em dinheiro e com o Troféu Pantanal, definida por júri oficial e júri popular.[^cgn2023] O Correio do Estado registra 45 filmes de 12 países na programação de 2023.[^ce2024]
 
-Em **2024**, o festival ocorreu de 19 a 27 de julho.[^cgn2024] Seis filmes disputaram o prêmio de Melhor Filme Sul-Mato-Grossense: *O Formoso*, *A Voz de Guadakan*, *Rotas Monçoeiras – A História de Um Rio e Seu Povo*, *[[ninguem-lhe-estendera-a-mao|Ninguém lhe Estenderá a Mão]]*, *In Útero* e *As Quatro Estações da Juventude*, de [[essi-rafael|Essi Rafael]].[^cgn2024] O Correio do Estado informa que o filme de Essi Rafael venceu o Júri Popular nessa categoria.[^ce2025]
+Em **2024**, o festival ocorreu de 19 a 27 de julho.[^cgn2024] Seis filmes disputaram o prêmio de Melhor Filme Sul-Mato-Grossense: *O Formoso*, *A Voz de Guadakan*, *Rotas Monçoeiras – A História de Um Rio e Seu Povo*, *[[ninguem-lhe-estendera-a-mao|Ninguém lhe Estenderá a Mão]]*, *In Útero* e *[[as-quatro-estacoes-da-juventude|As Quatro Estações da Juventude]]*, de [[essi-rafael|Essi Rafael]].[^cgn2024] O Correio do Estado informa que o filme de [[essi-rafael|Essi Rafael]] venceu o Júri Popular nessa categoria.[^ce2025]
 
 A **terceira edição** foi de 25 de julho a 2 de agosto de 2025. A programação teve as mostras Sul-Americana, Ambiental, MS, Infantojuvenil e da Comunidade, além de oficinas gratuitas e sessões em praças públicas.[^cgn2025]
 

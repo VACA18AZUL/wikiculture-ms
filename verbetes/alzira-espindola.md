@@ -16,9 +16,9 @@ atualizado: 2026-10-29
 
 Antes do primeiro disco do grupo, morava em Campinas, e as canções de Geraldo já eram cantadas por ela e por Tetê em apresentações em São Paulo e Campinas.[^caeufgd] Entrou no conjunto que passou a se chamar [[tete-e-o-lirio-selvagem-lp|Tetê e o Lírio Selvagem]].[^caeufgd] Segundo Caetano, ela e Tetê desenvolveram depois trabalhos ligados à Vanguarda Paulista.[^caeufgd]
 
-É autora, com Carlos Rennó, de "Na Catarata", faixa do disco do grupo. Muitos músicos do estado a consideram a primeira polca-rock gravada.[^caeufgd] O riff de abertura não estava no arranjo original: foi criado pela banda de apoio na gravação, segundo Rodrigo Teixeira, citado por Caetano.[^caeufgd][^cae12] Gonçalves também cita a canção como exemplo de aproximação entre a polca paraguaia e o rock em meados dos anos 1970.[^gon14]
+É autora, com Carlos Rennó, de "Na Catarata", faixa do disco do grupo. Muitos músicos do estado a consideram a primeira polca-rock gravada.[^caeufgd] O riff de abertura não estava no arranjo original: foi criado pela banda de apoio na gravação, segundo [[rodrigo-teixeira|Rodrigo Teixeira]], citado por Caetano.[^caeufgd][^cae12] Gonçalves também cita a canção como exemplo de aproximação entre a polca paraguaia e o rock em meados dos anos 1970.[^gon14]
 
-Em dezembro de 1987, participou do Pantanal Alerta Brasil, em São Paulo.[^cae12] Com Tetê, gravou o disco *Anhaí* (1998), em que as duas cantam rasqueados, guarânias e polcas.[^gon14]
+Em dezembro de 1987, participou do [[pantanal-alerta-brasil-lp|Pantanal Alerta Brasil]], em São Paulo.[^cae12] Com Tetê, gravou o disco *Anhaí* (1998), em que as duas cantam rasqueados, guarânias e polcas.[^gon14]
 
 ## Discografia
 
@@ -26,7 +26,7 @@ Os títulos constam da lista de discografia da dissertação de Caetano, sem out
 
 - *Alzira Espíndola* (1987) — álbum; 3M.[^caeufgd]
 - *AMME* — álbum; Baratos Afins; a fonte não informa o ano.[^caeufgd]
-- *Anhaí* (1998) — álbum com Tetê Espíndola; Dabliú.[^caeufgd]
+- *Anhaí* (1998) — álbum com [[tete-espindola|Tetê Espíndola]]; Dabliú.[^caeufgd]
 
 ## Pontos em aberto
 

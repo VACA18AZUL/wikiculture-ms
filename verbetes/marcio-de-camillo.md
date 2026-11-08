@@ -13,9 +13,9 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Em setembro de 2024, estreou no Teatro Glauce Rocha, da UFMS, o show "Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca", em homenagem a [[geraldo-roca|Geraldo Roca]]. Dirigido por Luiz André Cherubini, do Grupo Sobrevento, o show tem Márcio no violão, na viola caipira e na voz.[^cgn2024]
+Em setembro de 2024, estreou no [[teatro-glauce-rocha|Teatro Glauce Rocha]], da [[ufms|UFMS]], o show "Do Litoral Central do Brasil: Márcio de Camillo canta [[geraldo-roca|Geraldo Roca]]", em homenagem a [[geraldo-roca|Geraldo Roca]]. Dirigido por Luiz André Cherubini, do Grupo Sobrevento, o show tem Márcio no violão, na viola caipira e na voz.[^cgn2024]
 
-Segundo a reportagem, era o terceiro espetáculo do músico dirigido por Cherubini. A parceria começou em 2012, com o espetáculo cênico-musical "Crianceiras Manoel de Barros", e seguiu em 2018 com "Crianceiras Mário Quintana".[^cgn2024]
+Segundo a reportagem, era o terceiro espetáculo do músico dirigido por Cherubini. A parceria começou em 2012, com o espetáculo cênico-musical "Crianceiras [[manoel-de-barros|Manoel de Barros]]", e seguiu em 2018 com "Crianceiras Mário Quintana".[^cgn2024]
 
 Márcio diz ter composto com Roca a canção "Hermanos Irmãos", em parceria com outros compositores, e ter dividido com ele uma faixa do CD *Gerações MS*, "Lá vem você de novo".[^cgn2024]
 
@@ -23,10 +23,10 @@ Em maio de 2025, dividiu com [[geraldo-espindola|Geraldo Espíndola]] o espetác
 
 ## Espetáculos
 
-- *Crianceiras Manoel de Barros* (2012) — espetáculo cênico-musical; direção de Luiz André Cherubini.[^cgn2024]
+- *Crianceiras [[manoel-de-barros|Manoel de Barros]]* (2012) — espetáculo cênico-musical; direção de Luiz André Cherubini.[^cgn2024]
 - *Crianceiras Mário Quintana* (2018) — espetáculo cênico-musical; direção de Luiz André Cherubini.[^cgn2024]
-- *Do Litoral Central do Brasil: Márcio de Camillo canta Geraldo Roca* (2024) — show; direção de Luiz André Cherubini.[^cgn2024]
-- *Música Poética* (2025) — show com Geraldo Espíndola.[^cgn2025]
+- *Do Litoral Central do Brasil: Márcio de Camillo canta [[geraldo-roca|Geraldo Roca]]* (2024) — show; direção de Luiz André Cherubini.[^cgn2024]
+- *Música Poética* (2025) — show com [[geraldo-espindola|Geraldo Espíndola]].[^cgn2025]
 
 [^cgn2024]: Thailla Torres, ["Márcio de Camillo faz homenagem a Geraldo Roca em novo show"](https://www.campograndenews.com.br/lado-b/diversao/marcio-de-camillo-faz-homenagem-a-geraldo-roca-em-novo-show), *Campo Grande News*, 22 set. 2024. Acesso em 29 out. 2026.
 [^cgn2025]: Thailla Torres, ["Espetáculo une música, poesia e dança com entrada gratuita em três cidades de MS"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-une-musica-poesia-e-danca-com-entrada-gratuita-em-tres-cidades-de-ms), *Campo Grande News*, 6 mai. 2025. Acesso em 29 out. 2026.

@@ -19,7 +19,7 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Uma dissertação de 2023 registra os anos de vida do poeta como 1916 e 2014.[^carlos55] A dissertação de Thalita Melotto (UFMS, 2010) afirma que ele nasceu em 1916 e informa que, durante dez anos, ele trabalhou no Pantanal para administrar os negócios da família e ficou sem escrever poemas. Depois dessa fase, dedicou-se à poesia.[^melotto6]
+Uma dissertação de 2023 registra os anos de vida do poeta como 1916 e 2014.[^carlos55] A dissertação de Thalita Melotto ([[ufms|UFMS]], 2010) afirma que ele nasceu em 1916 e informa que, durante dez anos, ele trabalhou no Pantanal para administrar os negócios da família e ficou sem escrever poemas. Depois dessa fase, dedicou-se à poesia.[^melotto6]
 
 Em outubro de 2009, ganhou em Portugal o Grande Prêmio Sophia de Mello Breyner Andresen, pela coletânea *Compêndio para Uso dos Pássaros – Poesia Reunida 1937-2004*, segundo a mesma dissertação.[^melotto3] Em 2010, a editora Leya Brasil lançou três novas obras suas: *Menino do Mato*, *Poesia Completa* e uma reunião das três "infâncias" com o título *Memórias Inventadas – As Infâncias de Manoel de Barros*.[^melotto90]
 
@@ -27,11 +27,11 @@ Em outubro de 2009, ganhou em Portugal o Grande Prêmio Sophia de Mello Breyner 
 
 Um artigo de 2008 diz que, só no final do século XX e no início do XXI, poetas como Manoel de Barros e [[lobivar-matos|Lobivar Matos]] passaram a receber a atenção de leitores e da crítica brasileira, em estudos como dissertações e teses.[^raido08] Outro artigo, de 2010, cita Alfredo Bosi (2000): para o crítico, a poesia de Barros nasceu do contato com a paisagem e o homem do Pantanal e, conhecida de poucos por muito tempo, só teve êxito depois que o meio acadêmico passou a se interessar por ecologia e contracultura.[^raido10]
 
-Em 1975, a Academia de Letras e História de Campo Grande, que depois se tornou a [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], promoveu um concurso de biografia sobre Eduardo Olímpio Machado. A comissão julgadora, que decidiu em 8 de agosto de 1975, incluía Manoel de Barros, descrito por José Couto Vieira Pontes como "um dos literatos de maior projeção da geração atual".[^amarilha135]
+Em 1975, a Academia de Letras e História de Campo Grande, que depois se tornou a [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]], promoveu um concurso de biografia sobre Eduardo Olímpio Machado. A comissão julgadora, que decidiu em 8 de agosto de 1975, incluía Manoel de Barros, descrito por [[jose-couto-vieira-pontes|José Couto Vieira Pontes]] como "um dos literatos de maior projeção da geração atual".[^amarilha135]
 
 ## Homenagens
 
-Em Campo Grande há uma estátua de bronze do poeta, obra do artista plástico Ique Woitschach, na avenida Afonso Pena.[^carlos146] Manoel de Barros foi o homenageado da primeira edição da Bienal Pantanal, a 1.ª Bienal do Livro de Mato Grosso do Sul, realizada de 4 a 12 de outubro de 2025 no Centro de Convenções Rubens Gil de Camillo, em Campo Grande.[^cgn2025] Ver [[bienal-do-livro-de-ms-bienal-pantanal|Bienal Pantanal]].
+Em Campo Grande há uma estátua de bronze do poeta, obra do artista plástico Ique Woitschach, na avenida Afonso Pena.[^carlos146] Manoel de Barros foi o homenageado da primeira edição da [[bienal-do-livro-de-ms-bienal-pantanal|Bienal Pantanal]], a 1.ª Bienal do Livro de Mato Grosso do Sul, realizada de 4 a 12 de outubro de 2025 no Centro de Convenções Rubens Gil de Camillo, em Campo Grande.[^cgn2025] Ver [[bienal-do-livro-de-ms-bienal-pantanal|Bienal Pantanal]].
 
 ## Obras
 
@@ -50,7 +50,7 @@ Títulos citados na dissertação de Melotto (2010):[^melotto-ref]
 
 ## Para saber mais
 
-- Thalita Melotto, [*Memórias vividas e inventadas nas infâncias sedutoras de Manoel de Barros*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/6720), dissertação de mestrado, UFMS, 2010 — estudo da trilogia das infâncias e do mercado editorial da obra do poeta.
+- Thalita Melotto, [*Memórias vividas e inventadas nas infâncias sedutoras de Manoel de Barros*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/6720), dissertação de mestrado, [[ufms|UFMS]], 2010 — estudo da trilogia das infâncias e do mercado editorial da obra do poeta.
 
 [^melotto15]: Thalita Melotto, [*Memórias vividas e inventadas nas infâncias sedutoras de Manoel de Barros*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/6720), dissertação de mestrado, UFMS, 2010, p. 15 (data de nascimento) e p. 3 (relevo na crítica acadêmica). Acesso em 29 out. 2026.
 [^carlos55]: Adriana Carlos, [*A produção de Maria da Glória Sá Rosa para a educação e a cultura sul-mato-grossense e brasileira (1970-1990)*](https://sigpos.uems.br/uems-sigpos/portal/trabalho-arquivos/download/3614), dissertação de mestrado, UEMS, 2023, p. 55 (nota 89). Acesso em 29 out. 2026.

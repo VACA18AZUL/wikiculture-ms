@@ -20,7 +20,7 @@ Uma matéria de 2021 sobre a morte de [[jair-damasceno|Jair Damasceno]] informa 
 
 ## Espetáculos
 
-- *Ponto de Partida* (apresentado em 2025) — história de um palhaço idoso que espera a sua última apresentação; direção de João Lima, texto de Breno Moroni, atuação de Mauro Guimarães, em sua primeira atuação solo.[^cgn2025]
+- *Ponto de Partida* (apresentado em 2025) — história de um palhaço idoso que espera a sua última apresentação; direção de João Lima, texto de [[breno-moroni|Breno Moroni]], atuação de Mauro Guimarães, em sua primeira atuação solo.[^cgn2025]
 
 [^cgn2025]: Thailla Torres, ["Espetáculo 'Ponto de Partida' retorna a Campo Grande com duas sessões"](https://www.campograndenews.com.br/lado-b/diversao/espetaculo-ponto-de-partida-retorna-a-campo-grande-com-duas-sessoes), *Campo Grande News*, 1 ago. 2025. Acesso em 29 out. 2026.
 [^cgn2021]: Bárbara Cavalcanti, ["Referência nas artes cênicas, ator Jair Damasceno morre aos 73 anos"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/referencia-nas-artes-cenicas-ator-jair-damasceno-morre-aos-73-anos), *Campo Grande News*, 4 jun. 2021. Acesso em 29 out. 2026.

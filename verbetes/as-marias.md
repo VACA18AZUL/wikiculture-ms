@@ -17,7 +17,7 @@ atualizado: 2026-10-29
 
 ## Exibição
 
-O filme consta entre os selecionados da mostra sul-mato-grossense do festival de Bonito, ao lado de outros títulos do estado, como *A Dama do Rasqueado, Delinha*.[^cgn] A reportagem não traz sinopse nem ficha técnica além da direção e das produtoras.
+O filme consta entre os selecionados da mostra sul-mato-grossense do festival de Bonito, ao lado de outros títulos do estado, como *[[dama-do-rasqueado-delinha|A Dama do Rasqueado, Delinha]]*.[^cgn] A reportagem não traz sinopse nem ficha técnica além da direção e das produtoras.
 
 ## Ficha técnica
 

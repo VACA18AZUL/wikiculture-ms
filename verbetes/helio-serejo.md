@@ -38,7 +38,7 @@ Em 2008 saíram as *Obras completas de Hélio Serejo*, em nove volumes, com sist
 - *Fiapos de regionalismo* (2004) — o resumo do mesmo artigo grafa "Fiapos de regionalismos"[^raido10obras]
 - *Contos crioulos* (1998) — a introdução da dissertação de Vilela dá 1997, e a lista de referências dela dá 1998[^vilelaref]
 - *Homens de aço*[^raido08]
-- *Balaio de bugre* — sem ano nas referências de Vilela;[^vilelaref] Marin cita seu prefácio no volume 7 das *Obras completas* (2008)[^raido15]
+- *[[balaio-de-bugre|Balaio de bugre]]* — sem ano nas referências de Vilela;[^vilelaref] Marin cita seu prefácio no volume 7 das *Obras completas* (2008)[^raido15]
 - *Surrão crioulo* — coleção de cinco livros[^raido10obras]
 
 [^raido10]: Paulo Sérgio Nolasco dos Santos, "Viventes dos pantanais e cerrados", [*Raído*](https://ojs.ufgd.edu.br/Raido/article/download/1380/792/3739), Dourados, v. 4, n. 8, p. 93-108, jul./dez. 2010. Acesso em 29 out. 2026.

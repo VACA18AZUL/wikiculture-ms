@@ -12,19 +12,19 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-*Ninguém lhe Estenderá a Mão* é um curta-metragem de ficção de 14 minutos, dirigido por Deivison Pedrê de Souza e ligado a Campo Grande.[^lista]
+*Ninguém lhe Estenderá a Mão* é um curta-metragem de ficção de 14 minutos, dirigido por [[deivison-pedre|Deivison Pedrê]] de Souza e ligado a Campo Grande.[^lista]
 
 ## Exibições e prêmios
 
-O filme integrou a mostra Curta MS da primeira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], realizada de 28 de outubro a 2 de novembro de 2024.[^lista] No resultado, o júri técnico deu ao curta o prêmio de Melhor Filme Sul-Mato-Grossense. O júri universitário e o voto popular escolheram, nessa categoria, *Relatos de uma Guerra*.[^vencedores]
+O filme integrou a mostra Curta MS da primeira edição do [[festival-curta-campo-grande|Festival Curta Campo Grande]], realizada de 28 de outubro a 2 de novembro de 2024.[^lista] No resultado, o júri técnico deu ao curta o prêmio de Melhor Filme Sul-Mato-Grossense. O júri universitário e o voto popular escolheram, nessa categoria, *[[relatos-de-uma-guerra|Relatos de uma Guerra]]*.[^vencedores]
 
 Em julho de 2024, o filme estava entre as seis produções que concorriam ao prêmio de Melhor Filme Sul-Mato-Grossense no [[bonito-cinesur|Bonito CineSur]], ao lado de [[as-quatro-estacoes-da-juventude|*As Quatro Estações da Juventude*]], de [[essi-rafael|Essi Rafael]], e de outros quatro títulos regionais.[^cinesur]
 
-Em 12 de setembro de 2024, o curta foi exibido em Corumbá, no Hotel Virgínia, numa sessão do Cineclube Macaco da Noite com quatro curtas, que antecedeu uma série de oficinas de audiovisual.[^corumba]
+Em 12 de setembro de 2024, o curta foi exibido em Corumbá, no Hotel Virgínia, numa sessão do [[cineclube-macaco-da-noite|Cineclube Macaco da Noite]] com quatro curtas, que antecedeu uma série de oficinas de audiovisual.[^corumba]
 
 ## Nome do diretor
 
-As fontes grafam o nome do diretor de três formas: "Deivison Pedrê de Souza" na lista oficial de selecionados,[^lista] "Pedrê Deivison" no texto sobre os vencedores[^vencedores] e "Deivison Pedrê" nas matérias sobre o Bonito CineSur e sobre a sessão em Corumbá.[^cinesur][^corumba]
+As fontes grafam o nome do diretor de três formas: "[[deivison-pedre|Deivison Pedrê]] de Souza" na lista oficial de selecionados,[^lista] "Pedrê Deivison" no texto sobre os vencedores[^vencedores] e "[[deivison-pedre|Deivison Pedrê]]" nas matérias sobre o [[bonito-cinesur|Bonito CineSur]] e sobre a sessão em Corumbá.[^cinesur][^corumba]
 
 ## Ficha técnica
 

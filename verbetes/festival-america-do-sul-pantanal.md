@@ -18,7 +18,7 @@ O **Festival América do Sul Pantanal** é um evento cultural que ocorre em Coru
 
 ## Edição de 2016
 
-A edição de 2016 começou em 11 de novembro e foi até 14 de novembro. Na programação do segundo dia havia circo (Dandus Acrobático, da Cia. Theastai, em Ladário) e teatro (*Filhotes do Brasil – Buzum!*, no lado boliviano da fronteira). No terceiro dia, o Ginga Cia. de Dança apresentou *Se você me olhasse nos olhos*, na praça Generoso Ponce.[^cgn2016]
+A edição de 2016 começou em 11 de novembro e foi até 14 de novembro. Na programação do segundo dia havia circo (Dandus Acrobático, da Cia. Theastai, em Ladário) e teatro (*Filhotes do Brasil – Buzum!*, no lado boliviano da fronteira). No terceiro dia, o [[ginga-cia-de-danca|Ginga Cia. de Dança]] apresentou *Se você me olhasse nos olhos*, na praça Generoso Ponce.[^cgn2016]
 
 ## Edição de 2026
 

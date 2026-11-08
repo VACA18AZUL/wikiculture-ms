@@ -26,7 +26,7 @@ Em setembro de 2025, *Tekoha* integrou a programação do Festival Internacional
 
 ## Espetáculos
 
-- *Areôtorare* — espetáculo de rua que, segundo a reportagem, revisita as obras *Areôtorare* (1935) e *Sarobá* (1936), de Lobivar Matos, nascido em Corumbá; apresentado em 2014.[^cgn14]
+- *Areôtorare* — espetáculo de rua que, segundo a reportagem, revisita as obras *Areôtorare* (1935) e *Sarobá* (1936), de [[lobivar-matos|Lobivar Matos]], nascido em Corumbá; apresentado em 2014.[^cgn14]
 - *Tekoha – Ritual de Vida e Morte do Deus Pequeno* — conta a trajetória do líder guarani Marçal de Souza e sua resistência na luta pela terra. Direção e dramaturgia de Fernando Cruz, em processo colaborativo com o grupo (ficha de 2017).[^folheto]
 - *Contos da Cantuária* — apresentado em Dourados em 2016.[^oliveira]
 

@@ -13,7 +13,7 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Em 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] o convidou, com outros quatro artistas, a expor e comercializar obras em uma feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os outros convidados foram Mauro Mondine, [[kim-matos|Kim Matos]], [[carlos-vera|Carlos Vera]] e [[fernando-anghinoni|Fernando Anghinoni]].[^cgn]
+Em 2022, a [[fundacao-de-cultura-de-ms|Fundação de Cultura de Mato Grosso do Sul]] o convidou, com outros quatro artistas, a expor e comercializar obras em uma feira de artes visuais no Armazém Cultural, durante a segunda edição do Campão Cultural, realizada de 8 a 15 de outubro. Os outros convidados foram [[mauro-mondine|Mauro Mondine]], [[kim-matos|Kim Matos]], [[carlos-vera|Carlos Vera]] e [[fernando-anghinoni|Fernando Anghinoni]].[^cgn]
 
 ## Obra
 

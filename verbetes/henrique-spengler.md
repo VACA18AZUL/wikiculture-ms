@@ -23,7 +23,7 @@ Escreveu com o escritor Marcos Paulo Carlito o livro *Porto Murtinho: história 
 
 ## Obra
 
-Entre os artistas do MCG que se apropriaram dos grafismos Kadiwéu, Assis considera Spengler o que produziu obras mais próximas desses padrões, assimilando o repertório sem imitá-lo.[^assis] Em 2013, suas obras estiveram na exposição "In Memorian", da [[fundacao-de-cultura-de-ms|Fundação de Cultura]], no Memorial da Cultura, em Campo Grande.[^cgn]
+Entre os artistas do [[movimento-cultural-guaicuru|MCG]] que se apropriaram dos grafismos Kadiwéu, Assis considera Spengler o que produziu obras mais próximas desses padrões, assimilando o repertório sem imitá-lo.[^assis] Em 2013, suas obras estiveram na exposição "[[in-memorian-2013|In Memorian]]", da [[fundacao-de-cultura-de-ms|Fundação de Cultura]], no Memorial da Cultura, em Campo Grande.[^cgn]
 
 ## Acervo
 

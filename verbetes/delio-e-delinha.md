@@ -22,7 +22,7 @@ atualizado: 2026-10-29
 
 Gonçalves dá duas datas para o começo da dupla. Em um trecho, diz que ela surgiu em 1958. Em outro, que a carreira em disco começou em 1959.[^goncalves2014] Os dois foram, segundo a mesma fonte, os primeiros a gravar discos, a se apresentar em rádios importantes de São Paulo e a ser reconhecidos como autores na cidade.[^goncalves2014] Caetano também cita a dupla entre os primeiros artistas da região a gravar, ainda nos anos 1950, e observa que ir a São Paulo para gravar era o caminho de quem queria fazer disco.[^caetano2012ufgd]
 
-A produção em disco durou até a morte de Délio, em 2010. Gonçalves, apoiado em Rodrigo Teixeira, soma 14 discos de 78 rotações, 19 LPs, quatro CDs e um DVD, com mais de 200 músicas autorais.[^goncalves2014] Caetano, citando o mesmo Teixeira, fala em mais de vinte títulos entre compactos e LPs, número que não coincide com o de Gonçalves.[^caetano2012ufgd]
+A produção em disco durou até a morte de Délio, em 2010. Gonçalves, apoiado em [[rodrigo-teixeira|Rodrigo Teixeira]], soma 14 discos de 78 rotações, 19 LPs, quatro CDs e um DVD, com mais de 200 músicas autorais.[^goncalves2014] Caetano, citando o mesmo Teixeira, fala em mais de vinte títulos entre compactos e LPs, número que não coincide com o de Gonçalves.[^caetano2012ufgd]
 
 Entre os sucessos citados por Gonçalves estão os rasqueados "Criador de Gado Bom" (1968) e "O Sol e a Lua" (1981).[^goncalves2014] Caetano lembra "Prazer de Fazendeiro", cantada pela dupla, que ele chama de "casal de Onças de Mato Grosso".[^caetano2012ufgd] O acordeonista [[ze-correa|Zé Corrêa]] gravou com a dupla o disco *Gosto Tanto de Você*, e Gonçalves vê nisso um impulso para a carreira dele.[^goncalves2014]
 
@@ -30,7 +30,7 @@ Entre os sucessos citados por Gonçalves estão os rasqueados "Criador de Gado B
 
 Delinha disse em entrevista, citada por Gonçalves, que a dupla faz rasqueado e que não se considera sertaneja de raiz nem caipira. Ela afirmou que não foi a dupla quem implantou o gênero, e citou Mário Zan e Nhô Pai e Nhô Fio como referências.[^goncalves2014]
 
-Sobre a origem do gênero há duas leituras na fonte. Gonçalves o descreve como adaptação da polca paraguaia e da guarânia, criada nos anos 1930 e 1940 por músicos do interior paulista.[^goncalves2014] Ele cita José Octávio Guizzo, que descreve o rasqueado como ritmo intermediário entre a polca paraguaia e a guarânia e afirma que não se trata de influência paraguaia, mas de herança cultural guarani. Gonçalves contesta essa tese.[^goncalves2014]
+Sobre a origem do gênero há duas leituras na fonte. Gonçalves o descreve como adaptação da polca paraguaia e da guarânia, criada nos anos 1930 e 1940 por músicos do interior paulista.[^goncalves2014] Ele cita [[jose-octavio-guizzo|José Octávio Guizzo]], que descreve o rasqueado como ritmo intermediário entre a polca paraguaia e a guarânia e afirma que não se trata de influência paraguaia, mas de herança cultural guarani. Gonçalves contesta essa tese.[^goncalves2014]
 
 ## Discografia
 

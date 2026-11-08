@@ -20,7 +20,7 @@ Em maio, o jornal anunciou uma semana de programação gratuita, de 13 a 16 de m
 
 Em julho, para os dias 10 e 11, o teatro anunciou *Revolução*, adaptação do [[teatral-grupo-de-risco|Teatral Grupo de Risco]] de *A Revolução na América do Sul*, de Augusto Boal, e o espetáculo de circo *Gran Finalle*, da [[cia-pisando-alto|Cia Pisando Alto]]. A entrada era gratuita, com ingressos retirados com antecedência pelo Sympla.[^julho]
 
-Em outubro, o teatro anunciou, para o dia 3, o espetáculo infantil *A Fabulosa História do Guri-Árvore*, do grupo [[fulano-di-tal|Fulano di Tal]], inspirado na obra do poeta Manoel de Barros. A peça cita personagens ligadas à cultura de Mato Grosso do Sul, como as artistas Lídia Baís e Wega Nery.[^outubro]
+Em outubro, o teatro anunciou, para o dia 3, o espetáculo infantil *A Fabulosa História do Guri-Árvore*, do grupo [[fulano-di-tal|Fulano di Tal]], inspirado na obra do poeta [[manoel-de-barros|Manoel de Barros]]. A peça cita personagens ligadas à cultura de Mato Grosso do Sul, como as artistas [[lidia-bais|Lídia Baís]] e [[wega-nery|Wega Nery]].[^outubro]
 
 [^maio]: ["Teatro Prosa terá semana gratuita com teatro, música e atrações"](https://acritica.net/cultura/teatro-prosa-tera-semana-gratuita-com-teatro-musica-e-atracoes/), *A Crítica de Campo Grande*, 10 mai. 2026. Acesso em 29 out. 2026.
 [^julho]: ["Sesc Teatro Prosa terá espetáculos gratuitos com teatro e circo para adultos e famílias"](https://acritica.net/cultura/sesc-teatro-prosa-tera-espetaculos-gratuitos-com-teatro-e-circo-para-adultos-e-familias/), *A Crítica de Campo Grande*, 5 jul. 2026. Acesso em 29 out. 2026.

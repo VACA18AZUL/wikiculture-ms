@@ -18,7 +18,7 @@ Segundo a reportagem de 2013, Zédu musicou peças de teatro infantis e adultas 
 
 ## Show de 2013
 
-Em 10 de dezembro de 2013, lançou no auditório do CREA-MS, em Campo Grande, a temporada 2014 de um show descrito por ele como "uma viagem musical através dos compositores e poetas de Mato Grosso do Sul". O repertório trazia músicas de sua autoria, como "Manoel menino de Barros", em homenagem ao poeta Manoel de Barros, e "Nossa Música é Assim". Incluía ainda "Sonhos Guaranis", de [[paulo-simoes|Paulo Simões]] e [[almir-sater|Almir Sater]], "Chalana", de Mário Zan, e o sucesso "Ai Se Eu Te Pego".[^cgn]
+Em 10 de dezembro de 2013, lançou no auditório do CREA-MS, em Campo Grande, a temporada 2014 de um show descrito por ele como "uma viagem musical através dos compositores e poetas de Mato Grosso do Sul". O repertório trazia músicas de sua autoria, como "Manoel menino de Barros", em homenagem ao poeta [[manoel-de-barros|Manoel de Barros]], e "Nossa Música é Assim". Incluía ainda "Sonhos Guaranis", de [[paulo-simoes|Paulo Simões]] e [[almir-sater|Almir Sater]], "Chalana", de Mário Zan, e o sucesso "Ai Se Eu Te Pego".[^cgn]
 
 No palco estavam Zédu (violão e voz), Fábio Adames (violões e direção musical), Romário Amorim, Leonardo Galeano, um baixista e Marcus Loyola.[^cgn]
 

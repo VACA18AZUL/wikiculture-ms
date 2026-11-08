@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Kim Matos** é artista visual e arte-educadora, formada em Artes Visuais (licenciatura) pela Universidade Federal de Mato Grosso do Sul.[^gv]
+**Kim Matos** é artista visual e arte-educadora, formada em Artes Visuais (licenciatura) pela [[ufms|Universidade Federal de Mato Grosso do Sul]].[^gv]
 
 ## Trajetória
 

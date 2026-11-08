@@ -28,8 +28,8 @@ Os itens vêm da dissertação de Gonçalves, que cita os discos no texto e os o
 - *O Acordeonista Orgulho de Mato Grosso* (1968) — primeiro disco solo.[^gon14]
 - *O Ídolo de Mato Grosso* (1969) — segundo disco solo.[^gon14]
 - *O Rei do Chamamé* (1969) — terceiro disco solo, lançado pela gravadora Califórnia; deu a ele o apelido.[^gon14]
-- *Gosto Tanto de Você* (1968) — disco gravado com Délio e Delinha.[^gon14]
-- *Os Mensageiros do Oeste* (1969) — gravado em São Paulo com a dupla [[amambay-e-amambai|Amambay e Amambaí]]; inclui "A Mato-grossense", de Zacarias Mourão.[^gon14]
+- *Gosto Tanto de Você* (1968) — disco gravado com [[delio-e-delinha|Délio e Delinha]].[^gon14]
+- *Os Mensageiros do Oeste* (1969) — gravado em São Paulo com a dupla [[amambay-e-amambai|Amambay e Amambaí]]; inclui "A Mato-grossense", de [[zacarias-mourao|Zacarias Mourão]].[^gon14]
 - *O Inimitável* (1970) — quarto LP, com participação de [[jandira-e-benites|Jandira e Benites]].[^gon14]
 
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99. Acesso em 29 out. 2026.

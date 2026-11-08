@@ -15,13 +15,13 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Kiki está entre os primeiros e principais membros da ASCURI, fundada no início de 2012.[^c2] Atuou como ator no longa *Terra Vermelha* (2008), em que interpreta o personagem Irineu, e foi apresentado à associação durante o Vídeo Índio Brasil de 2009.[^c3] Sobre o festival, ver [[video-indio-brasil|Vídeo Índio Brasil]].[^c3]
+Kiki está entre os primeiros e principais membros da [[ascuri|ASCURI]], fundada no início de 2012.[^c2] Atuou como ator no longa *Terra Vermelha* (2008), em que interpreta o personagem Irineu, e foi apresentado à associação durante o [[video-indio-brasil|Vídeo Índio Brasil]] de 2009.[^c3] Sobre o festival, ver [[video-indio-brasil|Vídeo Índio Brasil]].[^c3]
 
-Em 2013, na oficina de audiovisual da aldeia Pirakuá (Bela Vista), foi um dos monitores, ao lado de Gilmar Galache.[^c4] Aparece como cantor no fim do filme [[jepeayta|Jepea'yta – A lenha principal]].[^c5]
+Em 2013, na oficina de audiovisual da aldeia Pirakuá (Bela Vista), foi um dos monitores, ao lado de [[gilmar-galache|Gilmar Galache]].[^c4] Aparece como cantor no fim do filme [[jepeayta|Jepea'yta – A lenha principal]].[^c5]
 
 ## Filmografia
 
-- *Jerosy Puku, O Grande Canto* (2017) — filme da ASCURI dirigido por Kiki Concianza.[^c6]
+- *Jerosy Puku, O Grande Canto* (2017) — filme da [[ascuri|ASCURI]] dirigido por Kiki Concianza.[^c6]
 - *As aventuras de Perurimã e o Pássaro de ouro* (2013) — curta de comédia feito em oficina na aldeia Pirakuá; Kiki foi monitor, ator e tradutor.[^c4]
 - *Pirakuá – Os Guardiões do Rio Apa* (2014) — documentário curto dirigido por [[gilmar-galache|Gilmar Galache]]; imagens e direção de fotografia de Kiki.[^c7]
 - *Tatatĩn Rape, o Caminho da Fumaça* (2022) — direção coletiva; imagens e edição de Ademilson Concianza Verga, entre outros.[^c8]

@@ -23,7 +23,7 @@ A dupla é reconhecida como intérprete do "chamamé sul-mato-grossense".[^ufms]
 
 ## Observações das fontes
 
-O estudo reproduz a declaração de Amambay sobre ter lançado o gênero em Campo Grande e ressalva que a dupla Jandira e Benites já existia, mas gravava mais música paraguaia.[^ufms] A dissertação de Caetano inclui "Amambai & Amambaí" entre os nomes da música sertaneja de raiz dos anos 1950 a 1970 que, nos anos 1980, foram renegados pela nova geração.[^ufgd]
+O estudo reproduz a declaração de Amambay sobre ter lançado o gênero em Campo Grande e ressalva que a dupla [[jandira-e-benites|Jandira e Benites]] já existia, mas gravava mais música paraguaia.[^ufms] A dissertação de Caetano inclui "Amambai & Amambaí" entre os nomes da música sertaneja de raiz dos anos 1950 a 1970 que, nos anos 1980, foram renegados pela nova geração.[^ufgd]
 
 [^ufms]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado, Universidade Federal de Mato Grosso do Sul, 2014. Acesso em 29 out. 2026.
 [^ufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado, Universidade Federal da Grande Dourados, 2012. Acesso em 29 out. 2026.

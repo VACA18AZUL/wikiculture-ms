@@ -14,7 +14,7 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Segundo reportagem de 2023, é graduado em Artes Visuais, com licenciatura pelo Centro Universitário Leonardo da Vinci e bacharelado pela Universidade Federal de Mato Grosso do Sul. Atua ainda em comunicação visual, desenho de criação e estética.[^cgn]
+Segundo reportagem de 2023, é graduado em Artes Visuais, com licenciatura pelo Centro Universitário Leonardo da Vinci e bacharelado pela [[ufms|Universidade Federal de Mato Grosso do Sul]]. Atua ainda em comunicação visual, desenho de criação e estética.[^cgn]
 
 ## Exposições
 

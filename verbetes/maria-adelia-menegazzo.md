@@ -10,15 +10,15 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Maria Adélia Menegazzo** é uma escritora, crítica de arte e professora aposentada da Universidade Federal de Mato Grosso do Sul (UFMS), membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] (ASL).[^carlos2023]
+**Maria Adélia Menegazzo** é uma escritora, crítica de arte e professora aposentada da [[ufms|Universidade Federal de Mato Grosso do Sul]] ([[ufms|UFMS]]), membro da [[academia-sul-mato-grossense-de-letras|Academia Sul-Mato-Grossense de Letras]] ([[academia-sul-mato-grossense-de-letras|ASL]]).[^carlos2023]
 
 ## Trajetória
 
-Nasceu em Apucarana (PR). É licenciada em Letras e doutora em Teoria Literária e Literatura Comparada pela Unesp. Começou a dar aulas na UFMS em 1981.[^carlos2023]
+Nasceu em Apucarana (PR). É licenciada em Letras e doutora em Teoria Literária e Literatura Comparada pela Unesp. Começou a dar aulas na [[ufms|UFMS]] em 1981.[^carlos2023]
 
-Tomou posse na ASL em 2010, na cadeira 9. [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] discursou na cerimônia e a descreveu como professora, leitora, escritora e crítica de arte.[^carlos2023]
+Tomou posse na [[academia-sul-mato-grossense-de-letras|ASL]] em 2010, na cadeira 9. [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]] discursou na cerimônia e a descreveu como professora, leitora, escritora e crítica de arte.[^carlos2023]
 
-Em 2024, mediou uma conversa com a escritora Socorro Acioli na programação da Feira Literária de Bonito.[^cgn2024] Em 2026, aparece como uma das três acadêmicas que coordenam o clube de leitura Leituras & Conversas, da ASL, junto com [[lenilde-ramos|Lenilde Ramos]] e [[sylvia-cesco|Sylvia Cesco]].[^critica2026]
+Em 2024, mediou uma conversa com a escritora Socorro Acioli na programação da [[feira-literaria-de-bonito-flib|Feira Literária de Bonito]].[^cgn2024] Em 2026, aparece como uma das três acadêmicas que coordenam o clube de leitura Leituras & Conversas, da [[academia-sul-mato-grossense-de-letras|ASL]], junto com [[lenilde-ramos|Lenilde Ramos]] e [[sylvia-cesco|Sylvia Cesco]].[^critica2026]
 
 ## Obras
 

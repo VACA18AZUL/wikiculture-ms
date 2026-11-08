@@ -16,15 +16,15 @@ O **Festival Estudantil Mato-grossense de Teatro** foi um festival realizado de 
 
 ## Histórico
 
-Segundo Maria da Glória Sá Rosa, relatada por Fabricio Moser, o festival ocorria no final de cada ano e reunia peças originais em competição. De suas montagens teriam surgido diversos grupos de teatro do então estado de Mato Grosso. Alguns tiveram vida curta, como os de Valer Rondon e José Carlos Vila; outros permaneceram, como o GUTAC (Grupo de Teatro Amador Campo-grandense) e o GUTIC.[^moser]
+Segundo [[maria-da-gloria-sa-rosa|Maria da Glória Sá Rosa]], relatada por Fabricio Moser, o festival ocorria no final de cada ano e reunia peças originais em competição. De suas montagens teriam surgido diversos grupos de teatro do então estado de Mato Grosso. Alguns tiveram vida curta, como os de Valer Rondon e José Carlos Vila; outros permaneceram, como o [[gutac|GUTAC]] (Grupo de Teatro Amador Campo-grandense) e o [[gutic|GUTIC]].[^moser]
 
 ## Peças citadas
 
-- *Oxil*, de Cândido Alberto da Fonseca.[^moser]
+- *Oxil*, de [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]].[^moser]
 - *Autodissecação* e *Intravagostil* — texto e direção de [[americo-calheiros|Américo Calheiros]].[^moser]
 - *A Palavra*, de Afonso Romando de Sant'Ana — direção de Marília Beatriz Figueiredo Leite, com o Grupo GT-1, de Cuiabá.[^moser]
 - *Hotel das Estrelas*, de Clóvis Irigaray.[^moser]
-- *Noite Inaugural*, de Cândido Alberto da Fonseca e Paulo Simões.[^moser]
+- *Noite Inaugural*, de [[candido-alberto-da-fonseca|Cândido Alberto da Fonseca]] e [[paulo-simoes|Paulo Simões]].[^moser]
 - *Todo o fim é bom*, adaptação de um conto de Guimarães Rosa — direção de Marly Amarilha.[^moser]
 
 A fonte não informa o ano de cada peça.[^moser]

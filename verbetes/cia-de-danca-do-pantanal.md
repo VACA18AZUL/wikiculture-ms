@@ -28,7 +28,7 @@ Em 2019, apresentou no [[premio-onca-pintada-da-danca|Prêmio Onça Pintada]], e
 
 - *A Terra sem Males* (2019) — apresentado no Prêmio Onça Pintada; a matéria o descreve como peça sobre a questão da terra.[^correio2019]
 - *Carne Quebrada* (2022) — apresentado em Paris; a matéria diz que se inspira no romance *A Carne*, de Júlio Ribeiro, publicado em 1888.[^cgn2022]
-- *Janela do Dia* (2024) — apresentado em 30 de setembro de 2024, às 20h30, no Teatro Aracy Balabanian, em Campo Grande.[^cgn2024]
+- *Janela do Dia* (2024) — apresentado em 30 de setembro de 2024, às 20h30, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], em Campo Grande.[^cgn2024]
 
 [^cgn2022]: Guilherme Correia, ["Durante festival, Companhia de Dança do Pantanal representa MS na França"](https://www.campograndenews.com.br/lado-b/artes-23-08-2011-08/durante-festival-companhia-de-danca-do-pantanal-representa-ms-na-franca), *Campo Grande News*, 15 set. 2022. Acesso em 29 out. 2026.
 [^correio2019]: Naiane Mesquita, ["Prêmio Onça Pintada reúne diversos grupos de dança da Capital"](https://correiodoestado.com.br/correio-b/premio-onca-pintada-reune-diversos-grupos-de-danca-da-capital/359942/), *Correio do Estado*, 3 set. 2019. Acesso em 29 out. 2026.

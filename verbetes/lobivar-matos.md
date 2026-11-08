@@ -18,7 +18,7 @@ atualizado: 2026-10-29
 
 Registrado como Lobivar Matos de Barros, abreviou a assinatura poética para Lobivar Matos. Seu registro de nascimento é de 1915. Foi amigo de infância, em Corumbá, do poeta [[manoel-de-barros|Manoel de Barros]], e os dois passaram pelo Rio de Janeiro na década de 1930.[^araujo2008]
 
-Em 1936, apresentou Manoel de Barros como um novo poeta. Em 1937, resumiu o movimento intelectual mato-grossense no *Annuario Brasileiro de Literatura*, publicado no Rio de Janeiro.[^araujo2008]
+Em 1936, apresentou [[manoel-de-barros|Manoel de Barros]] como um novo poeta. Em 1937, resumiu o movimento intelectual mato-grossense no *Annuario Brasileiro de Literatura*, publicado no Rio de Janeiro.[^araujo2008]
 
 Morreu em outubro de 1947, aos 32 anos.[^araujo2008]
 
@@ -28,7 +28,7 @@ Escreveu na juventude *Areôtorare: poemas boróros* e *Sarobá: poemas*.[^leite
 
 ## Recepção
 
-Em 2008, um artigo sobre o memorialismo no estado observou que a obra de poetas como Lobivar Matos e Manoel de Barros só passou a receber atenção da crítica e dos leitores no fim do século XX e no início do XXI, em dissertações e teses.[^raido2008] Os livros tiveram comentários de amigos e críticos na época de sua publicação, analisados em estudo de 2026.[^leite2026]
+Em 2008, um artigo sobre o memorialismo no estado observou que a obra de poetas como Lobivar Matos e [[manoel-de-barros|Manoel de Barros]] só passou a receber atenção da crítica e dos leitores no fim do século XX e no início do XXI, em dissertações e teses.[^raido2008] Os livros tiveram comentários de amigos e críticos na época de sua publicação, analisados em estudo de 2026.[^leite2026]
 
 ## Para saber mais
 

@@ -20,7 +20,7 @@ Ela deixou a aldeia Alves de Barros, em Porto Murtinho, para continuar os estudo
 
 ## Artes visuais
 
-Em novembro de 2023, participou da exposição "Elas em Corumbá – Mulheres Indígenas Artistas", dentro do Festival América do Sul, de 9 a 12 de novembro. Disse que sua criação representa mulheres de sua comunidade e que o trabalho traz as cores e os grafismos kadiwéu. A reportagem grafa "Kadwéu".[^elas-corumba]
+Em novembro de 2023, participou da exposição "Elas em Corumbá – Mulheres Indígenas Artistas", dentro do [[festival-america-do-sul-pantanal|Festival América do Sul]], de 9 a 12 de novembro. Disse que sua criação representa mulheres de sua comunidade e que o trabalho traz as cores e os grafismos kadiwéu. A reportagem grafa "Kadwéu".[^elas-corumba]
 
 Em julho de 2023, a exposição "Elas Indígenas", na Escola de Artes Visuais do Parque Lage, no Rio de Janeiro, reuniu 50 obras de oito mulheres indígenas, entre elas Benilda Kadiwéu e o [[coletivo-kadiweu|Coletivo Kadiwéu]]. Foi aberta em 22 de julho e ficou até 10 de setembro.[^elas-rj]
 

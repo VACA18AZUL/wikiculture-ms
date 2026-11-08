@@ -18,11 +18,11 @@ A reportagem descreve uma mostra competitiva de curtas-metragens de universidade
 
 O cineasta Adirley Queirós foi o homenageado, com retrospectiva, aula magna na abertura e oficina de direção. A atriz e preparadora de elenco Maria Beta Perez também ministrou oficinas.[^cgn]
 
-Houve ainda uma Mostra de Cinema Indígena, com obras do povo Maxakali, e uma sessão para alunos de três escolas estaduais de Campo Grande, com filmes do curso de audiovisual da UFMS e conversa com os diretores.[^cgn]
+Houve ainda uma Mostra de Cinema Indígena, com obras do povo Maxakali, e uma sessão para alunos de três escolas estaduais de Campo Grande, com filmes do curso de audiovisual da [[ufms|UFMS]] e conversa com os diretores.[^cgn]
 
-## Ligação com a UFMS
+## Ligação com a [[ufms|UFMS]]
 
-O site da Faculdade de Artes, Letras e Comunicação (FAALC) da UFMS, na página da estrutura curricular do curso de Audiovisual, lista o Festival Desver entre os projetos e links da faculdade.[^faalc] A fonte não diz quem organiza o festival; para o curso, ver [[curso-de-audiovisual-da-ufms|Curso de Audiovisual da UFMS]].[^faalc]
+O site da Faculdade de Artes, Letras e Comunicação (FAALC) da [[ufms|UFMS]], na página da estrutura curricular do curso de Audiovisual, lista o Festival Desver entre os projetos e links da faculdade.[^faalc] A fonte não diz quem organiza o festival; para o curso, ver [[curso-de-audiovisual-da-ufms|Curso de Audiovisual da UFMS]].[^faalc]
 
 [^cgn]: Thailla Torres, ["Festival de Cinema Desver começa dia 1° com programação gratuita"](https://www.campograndenews.com.br/lado-b/diversao/festival-de-cinema-desver-comeca-dia-1-com-programacao-gratuita), *Campo Grande News*, 26 set. 2024. Acesso em 29 out. 2026.
 [^faalc]: UFMS/FAALC, ["Estrutura curricular – Audiovisual"](https://faalc.ufms.br/estrutura-curricular-audiovisual-2/), *Faculdade de Artes, Letras e Comunicação da UFMS*. Acesso em 29 out. 2026.

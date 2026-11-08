@@ -15,7 +15,7 @@ A **Art House** foi um espaço de arte criado em 1991 em Campo Grande por Therez
 
 ## Histórico
 
-Segundo uma tese sobre o curso de Educação Artística da UFMS, Therezinha Neder criou o espaço a partir de 1991, em sua própria residência. A autora cita um comentário de Maria Adélia Menegazzo sobre o lugar, que reflete o olhar da artista em cada detalhe e o modo de receber os visitantes.[^godoi]
+Segundo uma tese sobre o curso de Educação Artística da [[ufms|UFMS]], Therezinha Neder criou o espaço a partir de 1991, em sua própria residência. A autora cita um comentário de [[maria-adelia-menegazzo|Maria Adélia Menegazzo]] sobre o lugar, que reflete o olhar da artista em cada detalhe e o modo de receber os visitantes.[^godoi]
 
 A fonte não traz endereço, programação nem data de encerramento.[^godoi]
 

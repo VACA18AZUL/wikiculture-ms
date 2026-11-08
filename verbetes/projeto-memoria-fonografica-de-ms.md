@@ -34,11 +34,11 @@ Em maio de 2011, a matéria falava em 30 mil músicas catalogadas, de obras dos 
 
 No canal, as playlists seguem o padrão "artista, título, formato e ano". Entre as listadas na página inicial estão a de [[delio-e-delinha|Délio e Delinha]], com o LP *Gosto Tanto de Você* (1971), e a do Trio Mato Grosso, com o LP *Nossa Felicidade* (1988).[^canal-pl]
 
-## Exposições e doação ao MIS
+## Exposições e doação ao [[mis-ms|MIS]]
 
-Em 3 de maio de 2011, a trilha sonora da exposição audiovisual *Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul*, baseada em livro de [[rodrigo-teixeira|Rodrigo Teixeira]], integrava o projeto. A mostra marcou a reinauguração do Museu da Imagem e do Som (MIS), em Campo Grande.[^ce2011]
+Em 3 de maio de 2011, a trilha sonora da exposição audiovisual *Os Pioneiros: a origem da música sertaneja de Mato Grosso do Sul*, baseada em livro de [[rodrigo-teixeira|Rodrigo Teixeira]], integrava o projeto. A mostra marcou a reinauguração do Museu da Imagem e do Som ([[mis-ms|MIS]]), em Campo Grande.[^ce2011]
 
-Em setembro de 2014, a Fundação de Cultura, por meio do [[mis-ms|MIS]], abriu a exposição *Memória Fonográfica*, com discos gravados a partir da década de 1960. A matéria diz que a mostra se faz a partir do acervo doado ao MIS pelo projeto homônimo, idealizado por Carlos Luz e financiado pelo FIC.[^cgn2014]
+Em setembro de 2014, a Fundação de Cultura, por meio do [[mis-ms|MIS]], abriu a exposição *Memória Fonográfica*, com discos gravados a partir da década de 1960. A matéria diz que a mostra se faz a partir do acervo doado ao [[mis-ms|MIS]] pelo projeto homônimo, idealizado por Carlos Luz e financiado pelo FIC.[^cgn2014]
 
 ## Para saber mais
 

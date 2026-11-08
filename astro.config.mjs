@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import { unified } from '@astrojs/markdown-remark';
 import wikilinks from './src/plugins/wikilinks.mjs';
 import notas from './src/plugins/notas.mjs';
 
@@ -11,8 +12,10 @@ export default defineConfig({
   base,
   trailingSlash: 'always',
   markdown: {
-    remarkPlugins: [[wikilinks, { base, pasta: './verbetes' }], notas],
-    // As notas de rodapé do Markdown ([^1]) viram a seção "Fontes" do verbete.
-    remarkRehype: { footnoteLabel: 'Fontes', footnoteBackLabel: 'Voltar ao texto' },
+    processor: unified({
+      remarkPlugins: [[wikilinks, { base, pasta: './verbetes' }], notas],
+      // As notas de rodapé do Markdown ([^1]) viram a seção "Fontes" do verbete.
+      remarkRehype: { footnoteLabel: 'Fontes', footnoteBackLabel: 'Voltar ao texto' },
+    }),
   },
 });

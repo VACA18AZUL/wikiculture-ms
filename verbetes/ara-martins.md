@@ -21,13 +21,13 @@ O mesmo curta foi selecionado para a mostra sul-mato-grossense do primeiro [[bon
 
 Em outubro de 2024, *A Menina e a Árvore*, animação de 10 minutos dirigida por Ara de Andrade Martins, foi selecionada para a mostra Curta MS do [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^selecionados]
 
-*+ Forte* (2025) foi selecionado para a Mostra Itinerante Cinema de Sala 2026, com exibições em janeiro de 2026 na fronteira de Corumbá,[^cinemadesala] e consta entre os dez filmes da Mostra de Animação Regional MS 2026, da [[transcine|TransCine]], realizada de 5 a 7 de fevereiro.[^teatrine]
+*+ Forte* (2025) foi selecionado para a Mostra Itinerante Cinema de Sala 2026, com exibições em janeiro de 2026 na fronteira de Corumbá,[^cinemadesala] e consta entre os dez filmes da [[mostra-de-animacao-regional-ms|Mostra de Animação Regional MS]] 2026, da [[transcine|TransCine]], realizada de 5 a 7 de fevereiro.[^teatrine]
 
 ## Filmografia
 
-- *Adão e Eva do Pantanal Sul* (2023) — curta documental; direção. A matéria de 2023 grafa o título como *O Adão e a Eva do Pantanal Sul*.[^sessao] Lista do Bonito CineSur: direção e produção.[^cinesur2023]
+- *Adão e Eva do Pantanal Sul* (2023) — curta documental; direção. A matéria de 2023 grafa o título como *O Adão e a Eva do Pantanal Sul*.[^sessao] Lista do [[bonito-cinesur|Bonito CineSur]]: direção e produção.[^cinesur2023]
 - *A Menina e a Árvore* — curta de animação, 10 min; direção.[^selecionados]
-- *+ Forte* (2025) — filme selecionado para a Mostra Itinerante Cinema de Sala 2026; direção.[^cinemadesala] Também consta na Mostra de Animação Regional MS 2026.[^teatrine]
+- *+ Forte* (2025) — filme selecionado para a Mostra Itinerante Cinema de Sala 2026; direção.[^cinemadesala] Também consta na [[mostra-de-animacao-regional-ms|Mostra de Animação Regional MS]] 2026.[^teatrine]
 
 [^selecionados]: Thailla Torres, ["Veja todos os filmes selecionados para o Festival Curta Campo Grande"](https://www.campograndenews.com.br/lado-b/diversao/veja-todos-os-filmes-selecionados-para-o-festival-curta-campo-grande), *Campo Grande News*, 2 out. 2024. Acesso em 29 out. 2026.
 [^sessao]: Thailla Torres, ["Sessão gratuita de cinema tem estreia de 4 curtas-metragens"](https://www.campograndenews.com.br/lado-b/diversao/sessao-gratuita-de-cinema-tem-estreia-de-4-curtas-metragens), *Campo Grande News*, 15 dez. 2023. Acesso em 29 out. 2026.

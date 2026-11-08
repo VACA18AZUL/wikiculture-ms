@@ -14,7 +14,7 @@ O **Tradição** é um grupo baileiro de Campo Grande (MS), um dos mais conhecid
 
 ## Trajetória
 
-Os grupos baileiros mesclam o vanerão do Sul com a polca paraguaia e o chamamé. O Tradição aparece, com o [[uirapuru|Uirapuru]] e [[o-canto-da-terra|O Canto da Terra]], entre os mais conhecidos de Mato Grosso do Sul.[^ufms] A dissertação reproduz um trecho de Sá Rosa e Duncan (2009) segundo o qual grupos como o Tradição, O Canto da Terra e Alma Serrana teriam vendido dezenas de milhares de discos e o Tradição se destacou no mercado pelo profissionalismo dos integrantes e pela organização dos empresários.[^ufms]
+Os grupos baileiros mesclam o vanerão do Sul com a polca paraguaia e o chamamé. O Tradição aparece, com o [[uirapuru|Uirapuru]] e [[o-canto-da-terra|O Canto da Terra]], entre os mais conhecidos de Mato Grosso do Sul.[^ufms] A dissertação reproduz um trecho de Sá Rosa e Duncan (2009) segundo o qual grupos como o Tradição, [[o-canto-da-terra|O Canto da Terra]] e Alma Serrana teriam vendido dezenas de milhares de discos e o Tradição se destacou no mercado pelo profissionalismo dos integrantes e pela organização dos empresários.[^ufms]
 
 ## Discografia
 

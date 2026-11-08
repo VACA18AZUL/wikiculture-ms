@@ -9,7 +9,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-**Grupo Camalote** é um grupo de danças parafolclóricas baseado em tradições populares regionais de Mato Grosso do Sul, segundo nota de uma dissertação da UFMS.[^costa2023]
+**Grupo Camalote** é um grupo de danças parafolclóricas baseado em tradições populares regionais de Mato Grosso do Sul, segundo nota de uma dissertação da [[ufms|UFMS]].[^costa2023]
 
 ## Trajetória
 

@@ -14,11 +14,11 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Em 1968, ele e [[paulo-simoes|Paulo Simões]] lideraram o conjunto [[os-bizarros|Os Bizarros]], que se apresentou no 2º Festival de Música Popular de Campo Grande com a canção "2001", dos Mutantes.[^cae12] Segundo Gonçalves, o grupo usou o nome completo Os Bizarros, Fetos Paraquedistas da Alfa Centauro.[^gon14]
+Em 1968, ele e [[paulo-simoes|Paulo Simões]] lideraram o conjunto [[os-bizarros|Os Bizarros]], que se apresentou no 2º Festival de Música Popular de Campo Grande com a canção "2001", dos Mutantes.[^cae12] Segundo Gonçalves, o grupo usou o nome completo [[os-bizarros|Os Bizarros]], Fetos Paraquedistas da Alfa Centauro.[^gon14]
 
 No fim dos anos 1970 integrou, com os irmãos [[tete-espindola|Tetê]], [[alzira-espindola|Alzira]] e [[celito-espindola|Celito]], o grupo [[tete-e-o-lirio-selvagem-lp|Tetê e o Lírio Selvagem]].[^cae12] Em 1978, o grupo apareceu no programa *Fantástico*, da Rede Globo, com o videoclipe de "Bem-te-vi", canção dele.[^cae12] Depois do fim do grupo, os irmãos passaram a se apresentar em trabalhos individuais.[^cae12]
 
-Em 1982 participou do [[festival-prata-da-casa|Prata da Casa]], tocando contrabaixo e apresentando "Quiquiô", em ritmo de reggae, com a sanfona de [[lenilde-ramos|Lenilde Ramos]].[^caeufgd] Também esteve em dezembro de 1987 no evento Pantanal Alerta Brasil, em São Paulo.[^cae12]
+Em 1982 participou do [[festival-prata-da-casa|Prata da Casa]], tocando contrabaixo e apresentando "Quiquiô", em ritmo de reggae, com a sanfona de [[lenilde-ramos|Lenilde Ramos]].[^caeufgd] Também esteve em dezembro de 1987 no evento [[pantanal-alerta-brasil-lp|Pantanal Alerta Brasil]], em São Paulo.[^cae12]
 
 Em maio de 2025, apresentou o espetáculo *Música Poética* com Márcio De Camillo, acompanhado pela [[orquestra-de-camara-do-pantanal|Orquestra de Câmara do Pantanal]] e pela [[cia-de-danca-do-pantanal|Companhia de Dança do Pantanal]], em Dourados, Campo Grande e Corumbá. O repertório incluía "Quiquiô", "É Necessário" e "Vida Cigana".[^cgn2025]
 

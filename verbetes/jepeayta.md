@@ -18,13 +18,13 @@ atualizado: 2026-10-29
 
 ## Origem
 
-Segundo o pesquisador Miguel Angelo Corrêa, que resume o relato de Galache, a ASCURI precisava de registro formal para concorrer a editais e não encontrou apoio para isso. Um edital do Programa das Nações Unidas para o Desenvolvimento (PNUD), voltado à segurança alimentar de comunidades indígenas, serviu de saída. A ideia de usar o fogo e a lenha como mote veio de [[eliel-benites|Eliel Benites]], para ligar o tema à falta de lenha de qualidade e às histórias contadas à noite.[^tese]
+Segundo o pesquisador Miguel Angelo Corrêa, que resume o relato de Galache, a [[ascuri|ASCURI]] precisava de registro formal para concorrer a editais e não encontrou apoio para isso. Um edital do Programa das Nações Unidas para o Desenvolvimento (PNUD), voltado à segurança alimentar de comunidades indígenas, serviu de saída. A ideia de usar o fogo e a lenha como mote veio de [[eliel-benites|Eliel Benites]], para ligar o tema à falta de lenha de qualidade e às histórias contadas à noite.[^tese]
 
 As filmagens começaram em 2011. Sem recursos para oficinas ou compra de equipamentos, o filme foi concluído só no início de 2012.[^tese]
 
 ## Conteúdo
 
-Corrêa descreve uma parte ficcional que abre o filme: jovens indígenas que trabalham numa lavoura são chamados por um ancião, que os manda buscar um tipo específico de lenha. Em seguida vêm depoimentos de realizadores, filmados quase sempre em plano muito fechado. No fim, o professor Eliel Benites explica a importância do fogo e os jovens dançam em volta de uma fogueira. Admilson "Kiki" Concianza aparece como cantor nessa cena final.[^tese]
+Corrêa descreve uma parte ficcional que abre o filme: jovens indígenas que trabalham numa lavoura são chamados por um ancião, que os manda buscar um tipo específico de lenha. Em seguida vêm depoimentos de realizadores, filmados quase sempre em plano muito fechado. No fim, o professor [[eliel-benites|Eliel Benites]] explica a importância do fogo e os jovens dançam em volta de uma fogueira. Admilson "Kiki" Concianza aparece como cantor nessa cena final.[^tese]
 
 O autor afirma que o filme dá voz às preocupações dos realizadores no momento em que foi feito, entre elas a relação com instituições e projetos externos. Diz também que é difícil enquadrá-lo em um gênero e o trata como possível obra híbrida.[^tese] O mesmo autor já havia publicado análise do filme em artigo de 2016, escrito com Álvaro Banducci Júnior.[^gemi]
 

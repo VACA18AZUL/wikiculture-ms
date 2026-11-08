@@ -13,7 +13,7 @@ A **ADOTE – Escola e Companhia de Teatro** é uma escola e companhia de teatro
 
 ## Atividades
 
-Em reportagem de 7 de outubro de 2026, o jornal *A Crítica de Campo Grande* informou que a ADOTE realizaria o espetáculo em 15 de outubro, às 19h30, no Teatro Aracy Balabanian, no Centro Cultural José Octávio Guizzo. A direção é de Giovanna Zottino e a produção, de Daniel Smidt.[^acritica]
+Em reportagem de 7 de outubro de 2026, o jornal *A Crítica de Campo Grande* informou que a ADOTE realizaria o espetáculo em 15 de outubro, às 19h30, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], no [[centro-cultural-jose-octavio-guizzo|Centro Cultural José Octávio Guizzo]]. A direção é de Giovanna Zottino e a produção, de Daniel Smidt.[^acritica]
 
 A reportagem diz que o espetáculo reúne 14 monólogos, interpretados por alunos-atores, sobre a trajetória de artistas do teatro, do cinema e da televisão brasileiros.[^acritica]
 

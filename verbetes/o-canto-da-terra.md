@@ -13,11 +13,11 @@ atualizado: 2026-10-29
 
 ## Contexto
 
-Segundo a dissertação de Rodrigo Teixeira Gonçalves, o primeiro grupo baileiro do estado, o [[uirapuru|Uirapuru]], surgiu em 1988. O sucesso dele teria gerado, nos anos 1990, duas outras bandas do gênero: O Canto da Terra e o Zíngaro.[^gon57]
+Segundo a dissertação de [[rodrigo-teixeira|Rodrigo Teixeira]] Gonçalves, o primeiro grupo baileiro do estado, o [[uirapuru|Uirapuru]], surgiu em 1988. O sucesso dele teria gerado, nos anos 1990, duas outras bandas do gênero: O Canto da Terra e o Zíngaro.[^gon57]
 
 Uma citação de Sá Rosa e Duncan reproduzida no mesmo trabalho inclui o Canto da Terra, ao lado de [[tradicao|Tradição]] e Alma Serrana, entre os grupos que teriam vendido "dezenas de milhares de discos" por gravadoras locais.[^gon59]
 
-Um músico entrevistado por Gonçalves, Victor Hugo de La Sierra, conta que músicos que pediam para participar de bailes em que ele tocava, em Campo Grande, formaram depois o Uirapuru e O Canto da Terra. Ele afirma que os grupos baileiros prejudicaram a música paraguaia tradicional.[^gon104]
+Um músico entrevistado por Gonçalves, Victor Hugo de La Sierra, conta que músicos que pediam para participar de bailes em que ele tocava, em Campo Grande, formaram depois o [[uirapuru|Uirapuru]] e O Canto da Terra. Ele afirma que os grupos baileiros prejudicaram a música paraguaia tradicional.[^gon104]
 
 ## Lacunas
 

@@ -11,7 +11,7 @@ status: rascunho
 atualizado: 2026-10-29
 ---
 
-A **Sinapse Cia de Dança Contemporânea UFMS** é uma companhia de dança da Universidade Federal de Mato Grosso do Sul, criada em 2019.[^cgn]
+A **Sinapse Cia de Dança Contemporânea [[ufms|UFMS]]** é uma companhia de dança da [[ufms|Universidade Federal de Mato Grosso do Sul]], criada em 2019.[^cgn]
 
 ## Trajetória
 

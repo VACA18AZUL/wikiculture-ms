@@ -21,9 +21,9 @@ atualizado: 2026-10-29
 
 No começo da carreira, tocou charango no grupo Tupiara, em meio ao interesse da cena campo-grandense pela música andina nos anos 1970.[^goncalves2014] Mais tarde, foi convidado a integrar o grupo [[tete-espindola|Tetê e o Lírio Selvagem]].[^caetano2012ufgd]
 
-Participou do [[festival-prata-da-casa|Festival Prata da Casa]], realizado em 1982 pela UFMS e pela TV Morena, e do [[prata-da-casa-lp-1982|LP]] que registrou o evento.[^caetano2012nupem] Nesse disco tocou charango em uma faixa e gravou "Trem do Pantanal", de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]].[^goncalves2014] A canção "Sonhos Guaranis", de Simões e Sater, foi gravada pela primeira vez no mesmo LP. Sater conta que a compuseram em resposta ao apresentador Rolando Boldrin, que rejeitara "Trem do Pantanal" num programa, dizendo que guarânia e música de fronteira não serviam ali.[^goncalves2014] Uma matéria de 2013 também atribui "Sonhos Guaranis" a Simões e Sater.[^cgn2013]
+Participou do [[festival-prata-da-casa|Festival Prata da Casa]], realizado em 1982 pela [[ufms|UFMS]] e pela TV Morena, e do [[prata-da-casa-lp-1982|LP]] que registrou o evento.[^caetano2012nupem] Nesse disco tocou charango em uma faixa e gravou "Trem do Pantanal", de [[geraldo-roca|Geraldo Roca]] e [[paulo-simoes|Paulo Simões]].[^goncalves2014] A canção "Sonhos Guaranis", de Simões e Sater, foi gravada pela primeira vez no mesmo LP. Sater conta que a compuseram em resposta ao apresentador Rolando Boldrin, que rejeitara "Trem do Pantanal" num programa, dizendo que guarânia e música de fronteira não serviam ali.[^goncalves2014] Uma matéria de 2013 também atribui "Sonhos Guaranis" a Simões e Sater.[^cgn2013]
 
-Em dezembro de 1987, esteve entre os artistas sul-mato-grossenses que se apresentaram no Museu da Imagem e do Som de São Paulo, na primeira edição do evento Pantanal Alerta Brasil.[^caetano2012ufgd]
+Em dezembro de 1987, esteve entre os artistas sul-mato-grossenses que se apresentaram no Museu da Imagem e do Som de São Paulo, na primeira edição do evento [[pantanal-alerta-brasil-lp|Pantanal Alerta Brasil]].[^caetano2012ufgd]
 
 ## Viola e estilo
 

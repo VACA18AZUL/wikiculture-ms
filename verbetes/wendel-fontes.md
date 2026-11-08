@@ -16,9 +16,9 @@ atualizado: 2026-10-29
 
 ## Trajetória
 
-Segundo A Crítica, já expôs no [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul]], na Galeria de Artes Visuais da UFMS e no Centro Cultural Teatro do Mundo, e participou do Campão Cultural e do Festival de Inverno de Bonito. Parte de sua produção integra acervos públicos do estado.[^critica-jul]
+Segundo A Crítica, já expôs no [[marco|Museu de Arte Contemporânea de Mato Grosso do Sul]], na Galeria de Artes Visuais da [[ufms|UFMS]] e no Centro Cultural Teatro do Mundo, e participou do Campão Cultural e do Festival de Inverno de Bonito. Parte de sua produção integra acervos públicos do estado.[^critica-jul]
 
-Em 2022, o MARCO incluiu o artista na 4ª Temporada de Exposições, aberta até 12 de fevereiro. Sua mostra reunia fotografias e pinturas sobre a vivência de malabaristas de diferentes nacionalidades (Brasil, Argentina e Chile) que passaram por Campo Grande.[^cgn2022]
+Em 2022, o [[marco|MARCO]] incluiu o artista na 4ª Temporada de Exposições, aberta até 12 de fevereiro. Sua mostra reunia fotografias e pinturas sobre a vivência de malabaristas de diferentes nacionalidades (Brasil, Argentina e Chile) que passaram por Campo Grande.[^cgn2022]
 
 ## Exposições em 2026
 

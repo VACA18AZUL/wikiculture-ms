@@ -24,7 +24,7 @@ O pesquisador Miguel Angelo Corrêa conta quatro edições a partir de 2008, em 
 
 Corrêa não conseguiu confirmar a informação de entrevistados de que houve uma edição restrita em 2011. A edição de 2014 teve versão completa em dezembro daquele ano no CineCultura Liberty Mall, em Brasília, e uma versão reduzida em Campo Grande, de 27 a 31 de maio de 2015, no Armazém Cultural Helena Meireles.[^tese]
 
-O blog do festival registra que a edição de 2009 ocorreu de 10 a 16 de agosto, em diversas localidades do estado, e foi organizada pelo Pontão de Cultura Guaicuru. Uma comissão de nove pessoas escolheu 13 dos 28 filmes inscritos. [[eliel-benites|Eliel Benites]] fazia parte dela.[^blog]
+O blog do festival registra que a edição de 2009 ocorreu de 10 a 16 de agosto, em diversas localidades do estado, e foi organizada pelo [[pontao-de-cultura-guaicuru|Pontão de Cultura Guaicuru]]. Uma comissão de nove pessoas escolheu 13 dos 28 filmes inscritos. [[eliel-benites|Eliel Benites]] fazia parte dela.[^blog]
 
 ## Efeitos
 

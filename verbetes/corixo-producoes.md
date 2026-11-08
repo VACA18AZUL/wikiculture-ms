@@ -12,7 +12,7 @@ atualizado: 2026-10-29
 
 A **Corixo Produções** é apontada pelo jornal *O Estado Online* como realizadora do [[festival-curta-campo-grande|Festival Curta Campo Grande]].[^estado]
 
-## Festival Curta Campo Grande
+## [[festival-curta-campo-grande|Festival Curta Campo Grande]]
 
 Segundo *O Estado Online*, a terceira edição do festival ocorreu de 26 a 31 de outubro de 2026, na Associação Cultural Teatro do Mundo, em Campo Grande, e é realizada pela Corixo Produções.[^estado]
 

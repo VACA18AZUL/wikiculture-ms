@@ -18,14 +18,14 @@ A **Mostra Sul-Mato-Grossense de Teatro e Circo – Boca de Cena** é um evento 
 
 Em 2014, uma reportagem chamou o evento de Festival Boca de Cena e o apresentou como mais uma edição da "Semana de Teatro de Campo Grande". Foram nove espetáculos gratuitos, de 25 a 28 de março, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]], com apresentações de rua na Praça do Rádio e na Praça Ary Coelho. A reportagem atribui a realização ao Colegiado Setorial de Teatro, com apoio da Fundação de Cultura.[^cgn14] O folheto de 2017, por sua vez, atribui a promoção da mostra à própria Fundação.[^folheto]
 
-A edição de 2017 ocorreu de 22 a 27 de maio, com dezessete apresentações teatrais gratuitas, seminários, diálogos cênicos e oficinas. Receberam homenagem o Grupo Palco, o ator e diretor [[edilton-ramos|Edilton Ramos]] e o [[magico-tabajara|Mágico Tabajara]]. A programação incluiu o IV Seminário Estadual de Teatro "Teatro, Circo e Resistência" e, no encerramento, o espetáculo Gran Circo Poropopó Brothers, que reuniu coletivos de circo do estado.[^folheto]
+A edição de 2017 ocorreu de 22 a 27 de maio, com dezessete apresentações teatrais gratuitas, seminários, diálogos cênicos e oficinas. Receberam homenagem o Grupo Palco, o ator e diretor [[edilton-ramos|Edilton Ramos]] e o [[magico-tabajara|Mágico Tabajara]]. A programação incluiu o IV Seminário Estadual de Teatro "Teatro, Circo e Resistência" e, no encerramento, o espetáculo [[gran-circo-poropopo-brothers|Gran Circo Poropopó Brothers]], que reuniu coletivos de circo do estado.[^folheto]
 
-Em maio de 2024, o jornal Correio da Manhã noticiou a abertura da 15ª edição, chamada Semana do Teatro e Circo de Mato Grosso do Sul, no Teatro Aracy Balabanian. A abertura teve espetáculos e homenagens a profissionais de teatro e circo, entre eles a apresentação do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]].[^cm24]
+Em maio de 2024, o jornal Correio da Manhã noticiou a abertura da 15ª edição, chamada Semana do Teatro e Circo de Mato Grosso do Sul, no [[teatro-aracy-balabanian|Teatro Aracy Balabanian]]. A abertura teve espetáculos e homenagens a profissionais de teatro e circo, entre eles a apresentação do [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]].[^cm24]
 
 ## Grupos em edições documentadas
 
 - 2014: Grupo de Teatro Identidade (Três Lagoas), [[fulano-di-tal|Fulano di Tal]], Prisma Grupo de Teatro, Cia de Teatro Circo M'Boitatá, Grupo Unicórnio, Cia Aplausos, Flor e Espinho e [[teatro-imaginario-maracangalha|Imaginário Maracangalha]].[^cgn14]
-- 2017: entre os grupos do estado, Grupo Palco, Grupo Arte Viva (Jardim), Grupo Casa, [[cia-theastai|Cia Theastai]] e Teatro Imaginário Maracangalha, além de convidados de São Paulo, do Maranhão e da Argentina.[^folheto]
+- 2017: entre os grupos do estado, Grupo Palco, Grupo Arte Viva (Jardim), Grupo Casa, [[cia-theastai|Cia Theastai]] e [[teatro-imaginario-maracangalha|Teatro Imaginário Maracangalha]], além de convidados de São Paulo, do Maranhão e da Argentina.[^folheto]
 
 ## Para saber mais
 

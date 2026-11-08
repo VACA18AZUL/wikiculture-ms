@@ -33,7 +33,7 @@ Também segundo o artigo de 2017, o poeta usa o termo "transdeliração" para su
 
 ## Estudos sobre a obra
 
-A dissertação *O portunhol selvagem de Douglas Diegues: no delírio, a busca pelo sentido* (UFMS, 2016) é inteiramente dedicada a ele.[^camargo16] A dissertação de Dutra (2024) analisa dois poemas sem título do livro e propõe uma sequência didática sobre o portunhol selvagem de Diegues, ao lado de outros autores de Mato Grosso do Sul.[^dutra]
+A dissertação *O portunhol selvagem de Douglas Diegues: no delírio, a busca pelo sentido* ([[ufms|UFMS]], 2016) é inteiramente dedicada a ele.[^camargo16] A dissertação de Dutra (2024) analisa dois poemas sem título do livro e propõe uma sequência didática sobre o portunhol selvagem de Diegues, ao lado de outros autores de Mato Grosso do Sul.[^dutra]
 
 ## Para saber mais
 
