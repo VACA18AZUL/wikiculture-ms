@@ -2,6 +2,7 @@
 //   ERRO  -> impede a publicação (o comando termina com falha)
 //   AVISO -> não impede, mas merece atenção
 import { readdirSync, readFileSync } from 'node:fs';
+import { parse as parseYaml } from 'yaml';
 import { TIPOS_LINK, DOMINIOS_MIDIA, SECOES_MIDIA, RASTREIO, dominioAceito } from '../src/lib/links.mjs';
 
 const PASTA = './verbetes';
@@ -23,6 +24,26 @@ for (const arquivo of arquivos) {
   }
   const ficha = partes[1];
   const corpo = partes[2];
+
+  // A ficha é YAML. Um valor com ":" sem aspas (ex.: "titulo: A: B") quebra o parse e, com ele,
+  // o build. Conferir aqui evita que o erro só apareça na hora de gerar o site.
+  let fichaValida = null;
+  try {
+    fichaValida = parseYaml(ficha);
+  } catch (e) {
+    erros.push(`${arquivo}: YAML da ficha inválido -> ${String(e.message).split('\n')[0]}`);
+  }
+  if (fichaValida && typeof fichaValida === 'object' && !Array.isArray(fichaValida)) {
+    const t = (v) => (v === null || v === undefined ? '' : String(v));
+    const tipos = ['pessoa', 'grupo', 'obra', 'espaco', 'evento'];
+    const areas = ['teatro', 'danca', 'circo', 'literatura', 'artes-plasticas', 'audiovisual', 'musica'];
+    if (!t(fichaValida.titulo)) erros.push(`${arquivo}: ficha sem titulo`);
+    if (!tipos.includes(fichaValida.tipo)) erros.push(`${arquivo}: ficha com tipo inválido -> ${t(fichaValida.tipo) || '(vazio)'}`);
+    if (!Array.isArray(fichaValida.areas) || !fichaValida.areas.length) erros.push(`${arquivo}: ficha sem areas`);
+    else for (const a of fichaValida.areas) if (!areas.includes(a)) erros.push(`${arquivo}: area inválida -> ${t(a)}`);
+    if (fichaValida.status !== undefined && !['rascunho', 'revisado'].includes(fichaValida.status)) erros.push(`${arquivo}: status deve ser "rascunho" ou "revisado" -> ${t(fichaValida.status)}`);
+    if (fichaValida.atualizado === undefined || fichaValida.atualizado === null) erros.push(`${arquivo}: ficha sem data de atualizado`);
+  }
 
   const id = arquivo.replace(/\.md$/, '');
   const videos = [];

@@ -99,20 +99,14 @@ A lista-mestra vem antes da redação porque pesquisa é a parte que mais consom
 
 ## Pendências após o merge dos PRs da Fase 2 e da Fase 3
 
-Quando os PRs forem mesclados em `main`, o `npm run conferir` avisa que faltam linhas de Filmografia. Adicionar, com a nota de fonte de cada obra:
+Resolvidas (conferido em `main`, 09/11/2026):
 
-- `dannon-lacerda`: *As Marias* (`[[as-marias|As Marias]]`, direção).
-- `casa-de-cinema-de-aquidauana`: *As Quatro Estações da Juventude* (produção); `essi-rafael` também deve listá-lo.
-- `jerry-espindola`: *A Dama do Rasqueado, Delinha* (produção).
-- `gilmar-galache`: *Jepea'yta – A lenha principal* (direção).
-- `fabiana-fernandes`: *Kuña Porã* (direção).
-- `irmaos-lahdo`: *Paralelos Trágicos* (realização).
+- Linhas de Filmografia das seis produções foram adicionadas com nota de fonte: `dannon-lacerda` (*As Marias*), `casa-de-cinema-de-aquidauana` e `essi-rafael` (*As Quatro Estações da Juventude*), `jerry-espindola` (*A Dama do Rasqueado, Delinha*), `gilmar-galache` (*Jepea'yta – A lenha principal*), `fabiana-fernandes` (*Kuña Porã*) e `irmaos-lahdo` (*Paralelos Trágicos*).
+- `kohixoti-kipae` com `links` `tipo: outro` e `rotulo`: o esquema aceita (o campo `rotulo` é opcional no `content.config.ts` e o tipo `outro` está em `TIPOS_LINK`).
+- O `conferir` agora valida o YAML da ficha (e campos básicos: `titulo`, `tipo`, `areas`, `status`, `atualizado`), avisando antes do build quando um valor com `:` sem aspas quebra o cabeçalho.
 
-Outras pendências:
+Ainda abertas:
 
-- Trocar a base dos PRs para `main` depois do merge do #75.
 - Verbetes com escopo duvidoso para decidir: `heitor-ferreira-lima`, `geni-nunez`, `ney-matogrosso` (fonte prévia, superficial), `curso-de-audiovisual-da-ufms` (sem fonte sobre criação) e `conjunto-ponta-pora` (vínculo com MS frágil).
 - Conferência com a Wikipédia: só os verbetes que têm link `wikipedia` foram marcados na lista-mestra; os demais seguem "a conferir" (a API da Wikipédia limitou as consultas).
-- `kohixoti-kipae` usa `links` com `tipo: outro` e `rotulo`; conferir se o esquema aceita o campo.
 - Verbetes que dependem só de Moser/Sá Rosa (fonte secundária) ou só de descrições do canal Memória Fonográfica merecem segunda fonte.
-- O `conferir` ainda não valida o YAML do cabeçalho; quatro verbetes com `:` sem aspas quebraram o build na integração e foram corrigidos. Vale incluir essa checagem no script.
