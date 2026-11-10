@@ -1,0 +1,372 @@
+---
+// src/pages/acervo-fonografico.astro
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { parseCSV, slugify, sanitizePersonalData } from '../../scripts/fonografico/utils.mjs';
+
+// 1. Leitura e agregação em Build-Time (Server-Side / SSG)
+const discosRaw = await fs.readFile(path.resolve('dados/memoria-fonografica/acervo_discos_ms.csv'), 'utf-8');
+const faixasRaw = await fs.readFile(path.resolve('dados/memoria-fonografica/acervo_completo_ms.csv'), 'utf-8');
+const verbetesFiles = await fs.readdir(path.resolve('verbetes')).catch(() => []);
+const verbetesExistentes = new Set(verbetesFiles.map(f => f.replace(/\.md$/, '')));
+
+const discos = parseCSV(discosRaw);
+const faixas = parseCSV(faixasRaw);
+
+// Mapeia gêneros e lista de faixas por álbum (Artista + Disco)
+const metaPorDisco = new Map();
+for (const f of faixas) {
+  const chave = `${slugify(f['Intérprete'])}__${slugify(f['Disco'])}`;
+  if (!metaPorDisco.has(chave)) {
+    metaPorDisco.set(chave, { generos: new Set(), faixas: [] });
+  }
+  const entry = metaPorDisco.get(chave);
+  if (f['Gênero'] && f['Gênero'] !== 'N/I') entry.generos.add(f['Gênero'].trim());
+  entry.faixas.push({
+    num: f['Faixa'] || '-',
+    titulo: f['Música'] || 'Sem título',
+    autor: f['Autor(es)'] || 'N/I',
+    link: f['Link'] || ''
+  });
+}
+
+// Extrai o ID de vídeo ou playlist do YouTube para o player embed
+function extractYoutubeEmbedUrl(url) {
+  if (!url) return '';
+  const listMatch = url.match(/[?&]list=([a-zA-Z0-9_-]+)/);
+  if (listMatch) return `https://www.youtube-nocookie.com/embed/videoseries?list=${listMatch[1]}`;
+  const videoMatch = url.match(/(?:v=|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+  if (videoMatch) return `https://www.youtube-nocookie.com/embed/${videoMatch[1]}`;
+  return '';
+}
+
+const catalogoClient = discos
+  .filter(d => {
+    const tit = (d['Disco'] || '').toLowerCase();
+    return tit && !tit.includes('#shorts') && tit !== 'shorts';
+  })
+  .map((d, idx) => {
+    const artista = d['Artista']?.trim() || 'Artista Desconhecido';
+    const slugArtista = slugify(artista);
+    const titulo = d['Disco']?.trim() || 'Sem Título';
+    const chave = `${slugArtista}__${slugify(titulo)}`;
+    const extra = metaPorDisco.get(chave) || { generos: new Set(), faixas: [] };
+
+    const anoNum = parseInt(d['Ano'], 10);
+    const decada = !isNaN(anoNum) && anoNum >= 1900 ? `${Math.floor(anoNum / 10) * 10}s` : 'N/I';
+    const formato = (d['Formato']?.trim() || 'N/I').toUpperCase();
+    const linkOficial = d['Link da Playlist']?.trim() || extra.faixas.find(x => x.link)?.link || '';
+
+    return {
+      id: idx + 1,
+      artista,
+      slugArtista,
+      temVerbete: verbetesExistentes.has(slugArtista),
+      titulo,
+      formato,
+      ano: d['Ano']?.trim() || 'N/I',
+      decada,
+      gravadora: d['Gravadora']?.trim() || 'N/I',
+      catalogo: d['Catálogo']?.trim() || '',
+      totalFaixas: parseInt(d['Total Faixas'], 10) || extra.faixas.length || 0,
+      generos: Array.from(extra.generos),
+      ficha: sanitizePersonalData(d['Ficha Técnica e Histórico'] || ''),
+      link: linkOficial,
+      embedUrl: extractYoutubeEmbedUrl(linkOficial),
+      faixas: extra.faixas.slice(0, 30)
+    };
+  });
+
+// Listas únicas para popular os <select> de filtros facetados
+const todosGeneros = [...new Set(catalogoClient.flatMap(d => d.generos))].sort();
+const todasDecadas = [...new Set(catalogoClient.map(d => d.decada))].filter(d => d !== 'N/I').sort();
+const todosFormatos = [...new Set(catalogoClient.map(d => d.formato))].filter(Boolean).sort();
+---
+
+<!DOCTYPE html>
+<html lang="pt-BR" class="bg-stone-950 text-stone-100">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Acervo Memória Fonográfica de MS | WikiCulture MS</title>
+</head>
+<body class="min-h-screen font-sans antialiased selection:bg-amber-500 selection:text-stone-950">
+  <main class="max-w-7xl mx-auto px-4 py-10">
+    <!-- Cabeçalho Institucional -->
+    <header class="border-b border-stone-800 pb-8 mb-8">
+      <div class="flex flex-wrap items-center justify-between gap-4">
+        <div>
+          <span class="text-xs uppercase tracking-widest text-amber-400 font-semibold">
+            WikiCulture MS • Base Documental Integrada
+          </span>
+          <h1 class="text-3xl md:text-4xl font-bold mt-1 text-white">
+            Acervo Digital Memória Fonográfica de MS
+          </h1>
+          <p class="text-stone-400 mt-2 max-w-3xl text-sm md:text-base">
+            Catálogo interativo com <strong>{catalogoClient.length} álbuns</strong> e <strong>{faixas.length.toLocaleString('pt-BR')} faixas</strong> digitalizadas e catalogadas pelo pesquisador <strong>Idemar Sprandel</strong>.
+          </p>
+        </div>
+        <a
+          href="https://www.youtube.com/@memoriafonograficadeMS"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-2 px-4 py-2.5 rounded-lg bg-stone-900 border border-stone-700 hover:border-amber-500 text-xs font-medium text-stone-200 transition"
+        >
+          Canal Oficial no YouTube ↗
+        </a>
+      </div>
+    </header>
+
+    <!-- Barra de Filtros Facetados -->
+    <section aria-label="Filtros do Acervo" class="bg-stone-900/80 border border-stone-800 rounded-xl p-4 mb-8 sticky top-2 z-20 backdrop-blur">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">
+        <div class="lg:col-span-2">
+          <label for="busca-input" class="block text-xs text-stone-400 mb-1">Buscar por Artista, Álbum, Selo ou Ficha Técnica</label>
+          <input
+            id="busca-input"
+            type="search"
+            placeholder="Ex: Almir Sater, Chamamé, Sapukay, Dino Rocha..."
+            class="w-full bg-stone-950 border border-stone-700 rounded-lg px-3 py-2 text-sm text-white placeholder-stone-500 focus:outline-none focus:border-amber-500"
+          />
+        </div>
+
+        <div>
+          <label for="filtro-genero" class="block text-xs text-stone-400 mb-1">Gênero Musical</label>
+          <select id="filtro-genero" class="w-full bg-stone-950 border border-stone-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-amber-500">
+            <option value="">Todos os gêneros ({todosGeneros.length})</option>
+            {todosGeneros.map(g => <option value={g}>{g}</option>)}
+          </select>
+        </div>
+
+        <div>
+          <label for="filtro-decada" class="block text-xs text-stone-400 mb-1">Década</label>
+          <select id="filtro-decada" class="w-full bg-stone-950 border border-stone-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-amber-500">
+            <option value="">Todas as décadas</option>
+            {todasDecadas.map(d => <option value={d}>{d}</option>)}
+            <option value="N/I">Ano N/I</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="filtro-formato" class="block text-xs text-stone-400 mb-1">Formato Físico</label>
+          <select id="filtro-formato" class="w-full bg-stone-950 border border-stone-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-amber-500">
+            <option value="">Todos (LP, CD, K7...)</option>
+            {todosFormatos.map(f => <option value={f}>{f}</option>)}
+          </select>
+        </div>
+      </div>
+
+      <div class="flex items-center justify-between mt-3 pt-3 border-t border-stone-800/80 text-xs text-stone-400">
+        <span id="contador-resultados">Exibindo {catalogoClient.length} álbuns</span>
+        <button id="btn-limpar" type="button" class="text-amber-400 hover:underline hidden">
+          Limpar filtros
+        </button>
+      </div>
+    </section>
+
+    <!-- Grid de Álbuns -->
+    <section id="grid-discos" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></section>
+
+    <div id="paginacao-container" class="mt-8 text-center">
+      <button
+        id="btn-carregar-mais"
+        type="button"
+        class="px-6 py-2.5 rounded-lg bg-stone-800 hover:bg-stone-700 text-sm font-medium text-stone-200 transition"
+      >
+        Carregar mais álbuns
+      </button>
+    </div>
+  </main>
+
+  <!-- Modal de Escuta e Ficha Técnica -->
+  <dialog id="modal-player" class="bg-stone-900 text-stone-100 border border-stone-700 rounded-2xl max-w-3xl w-full p-0 backdrop:bg-black/80">
+    <div class="p-5 border-b border-stone-800 flex items-start justify-between gap-4">
+      <div>
+        <span id="modal-formato-ano" class="text-xs font-mono uppercase text-amber-400"></span>
+        <h2 id="modal-titulo" class="text-xl font-bold text-white mt-0.5"></h2>
+        <p id="modal-artista" class="text-sm text-stone-300"></p>
+      </div>
+      <button id="modal-fechar" type="button" class="text-stone-400 hover:text-white text-xl leading-none px-2 py-1">✕</button>
+    </div>
+
+    <div class="p-5 space-y-4 max-h-[80vh] overflow-y-auto">
+      <div id="modal-iframe-wrapper" class="aspect-video w-full bg-black rounded-lg overflow-hidden hidden">
+        <iframe
+          id="modal-iframe"
+          class="w-full h-full"
+          src=""
+          title="Reprodutor oficial do Acervo Memória Fonográfica de MS"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+
+      <div id="modal-ficha-box" class="bg-stone-950 border border-stone-800 rounded-lg p-3.5 text-xs text-stone-300 leading-relaxed hidden">
+        <strong class="block text-stone-400 uppercase tracking-wider mb-1">Ficha Técnica & Histórico Documental:</strong>
+        <p id="modal-ficha-texto" class="whitespace-pre-line"></p>
+      </div>
+
+      <div>
+        <h3 class="text-xs font-semibold uppercase tracking-wider text-stone-400 mb-2">Faixas Catalogadas</h3>
+        <ol id="modal-lista-faixas" class="divide-y divide-stone-800/60 text-xs"></ol>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- Payload serializado em Build-Time -->
+  <script id="catalogo-json" type="application/json" set:html={JSON.stringify(catalogoClient)}></script>
+
+  <script>
+    const catalogo = JSON.parse(document.getElementById('catalogo-json').textContent);
+    const grid = document.getElementById('grid-discos');
+    const inputBusca = document.getElementById('busca-input');
+    const selGenero = document.getElementById('filtro-genero');
+    const selDecada = document.getElementById('filtro-decada');
+    const selFormato = document.getElementById('filtro-formato');
+    const contador = document.getElementById('contador-resultados');
+    const btnLimpar = document.getElementById('btn-limpar');
+    const btnMais = document.getElementById('btn-carregar-mais');
+
+    const modal = document.getElementById('modal-player');
+    const modalIframe = document.getElementById('modal-iframe');
+    const modalIframeWrapper = document.getElementById('modal-iframe-wrapper');
+
+    let resultadosFiltrados = [...catalogo];
+    let limiteExibicao = 36;
+
+    function normalizar(str) {
+      return (str || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    }
+
+    function aplicarFiltros() {
+      const termo = normalizar(inputBusca.value);
+      const genero = selGenero.value;
+      const decada = selDecada.value;
+      const formato = selFormato.value;
+
+      resultadosFiltrados = catalogo.filter(item => {
+        if (genero && !item.generos.includes(genero)) return false;
+        if (decada && item.decada !== decada) return false;
+        if (formato && item.formato !== formato) return false;
+        if (termo) {
+          const alvo = normalizar(`${item.artista} ${item.titulo} ${item.gravadora} ${item.ficha}`);
+          if (!alvo.includes(termo)) return false;
+        }
+        return true;
+      });
+
+      limiteExibicao = 36;
+      const temFiltroAtivo = termo || genero || decada || formato;
+      btnLimpar.classList.toggle('hidden', !temFiltroAtivo);
+      renderizarGrid();
+    }
+
+    function renderizarGrid() {
+      contador.textContent = `Exibindo ${Math.min(limiteExibicao, resultadosFiltrados.length)} de ${resultadosFiltrados.length} álbuns encontrados`;
+      btnMais.classList.toggle('hidden', limiteExibicao >= resultadosFiltrados.length);
+
+      const fatia = resultadosFiltrados.slice(0, limiteExibicao);
+      grid.innerHTML = fatia.map(d => `
+        <article class="bg-stone-900 border border-stone-800 hover:border-stone-700 rounded-xl p-4 flex flex-col justify-between transition">
+          <div>
+            <div class="flex items-center justify-between gap-2 text-xs text-stone-400 mb-1.5">
+              <span class="px-2 py-0.5 rounded bg-stone-800 text-amber-400 font-mono font-semibold">${d.formato} • ${d.ano}</span>
+              <span class="truncate">${d.gravadora !== 'N/I' ? d.gravadora : ''}</span>
+            </div>
+            <h2 class="text-base font-bold text-white leading-snug">${d.titulo}</h2>
+            <p class="text-sm text-stone-300 mt-0.5">
+              ${d.temVerbete
+                ? `<a href="/verbetes/${d.slugArtista}" class="text-amber-400 hover:underline">${d.artista}</a>`
+                : d.artista}
+            </p>
+            ${d.generos.length > 0 ? `
+              <div class="flex flex-wrap gap-1 mt-2.5">
+                ${d.generos.slice(0, 3).map(g => `<span class="text-[11px] px-2 py-0.5 rounded-full bg-stone-950 border border-stone-800 text-stone-300">${g}</span>`).join('')}
+              </div>
+            ` : ''}
+          </div>
+
+          <div class="mt-4 pt-3 border-t border-stone-800/80 flex items-center justify-between gap-2">
+            <span class="text-xs text-stone-400">${d.totalFaixas} faixas</span>
+            <div class="flex items-center gap-2">
+              <button
+                type="button"
+                data-album-id="${d.id}"
+                class="btn-abrir-modal px-3 py-1.5 rounded-lg bg-amber-500 hover:bg-amber-400 text-stone-950 font-semibold text-xs transition"
+              >
+                ${d.embedUrl ? '▶ Ouvir / Detalhes' : 'Ver Faixas'}
+              </button>
+              ${d.link ? `<a href="${d.link}" target="_blank" rel="noopener noreferrer" class="text-xs text-stone-400 hover:text-white px-2 py-1" title="Abrir no YouTube">↗</a>` : ''}
+            </div>
+          </div>
+        </article>
+      `).join('');
+    }
+
+    grid.addEventListener('click', (e) => {
+      const btn = e.target.closest('.btn-abrir-modal');
+      if (!btn) return;
+      const id = parseInt(btn.dataset.albumId, 10);
+      const album = catalogo.find(x => x.id === id);
+      if (!album) return;
+
+      document.getElementById('modal-formato-ano').textContent = `${album.formato} • ${album.ano} • ${album.gravadora}`;
+      document.getElementById('modal-titulo').textContent = album.titulo;
+      document.getElementById('modal-artista').textContent = album.artista;
+
+      if (album.embedUrl) {
+        modalIframe.src = album.embedUrl;
+        modalIframeWrapper.classList.remove('hidden');
+      } else {
+        modalIframe.src = '';
+        modalIframeWrapper.classList.add('hidden');
+      }
+
+      const fichaBox = document.getElementById('modal-ficha-box');
+      if (album.ficha) {
+        document.getElementById('modal-ficha-texto').textContent = album.ficha;
+        fichaBox.classList.remove('hidden');
+      } else {
+        fichaBox.classList.add('hidden');
+      }
+
+      const listaFaixas = document.getElementById('modal-lista-faixas');
+      listaFaixas.innerHTML = album.faixas.map(f => `
+        <li class="py-2 flex items-center justify-between gap-2">
+          <div>
+            <span class="text-stone-500 font-mono mr-2">${f.num}.</span>
+            <strong class="text-stone-200">${f.titulo}</strong>
+            <span class="text-stone-400 ml-1">(${f.autor})</span>
+          </div>
+          ${f.link ? `<a href="${f.link}" target="_blank" rel="noopener noreferrer" class="text-amber-400 hover:underline shrink-0">Ouvir ↗</a>` : ''}
+        </li>
+      `).join('');
+
+      modal.showModal();
+    });
+
+    document.getElementById('modal-fechar').addEventListener('click', () => {
+      modalIframe.src = '';
+      modal.close();
+    });
+
+    inputBusca.addEventListener('input', aplicarFiltros);
+    selGenero.addEventListener('change', aplicarFiltros);
+    selDecada.addEventListener('change', aplicarFiltros);
+    selFormato.addEventListener('change', aplicarFiltros);
+    btnLimpar.addEventListener('click', () => {
+      inputBusca.value = '';
+      selGenero.value = '';
+      selDecada.value = '';
+      selFormato.value = '';
+      aplicarFiltros();
+    });
+    btnMais.addEventListener('click', () => {
+      limiteExibicao += 36;
+      renderizarGrid();
+    });
+
+    renderizarGrid();
+  </script>
+</body>
+</html>
