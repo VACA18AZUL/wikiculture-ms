@@ -21,7 +21,7 @@ atualizado: 2026-11-10
 
 ## Trajetória
 
-A Vaca Azul se apresenta como produtora de cinema e vídeo de Campo Grande. O canal da produtora e o currículo de Helton dizem que ela atua em Mato Grosso do Sul desde 2007; uma reportagem do *Correio do Estado* de 2012 diz que ele atua pela Vaca Azul desde 2006.[^sobre][^cv][^correio] A descrição do canal informa que todos os seus conteúdos são dirigidos por Helton Pérez.[^sobre] A mesma reportagem e o currículo descrevem o trabalho dele em vídeo, animação, ilustração, design, web design e fotografia, em registros, peças publicitárias e produtos ligados a música, dança, teatro e histórias em quadrinhos.[^correio][^cv]
+A Vaca Azul se apresenta como produtora de cinema e vídeo de Campo Grande. Helton atua por ela desde 2006.[^sobre][^correio][^helton] A descrição do canal da produtora informa que os seus conteúdos são dirigidos por Helton Pérez; *À Procura de Marçal*, *Promidal* e *Argento*, publicados no canal, são de outros diretores.[^sobre][^helton] A mesma reportagem e o currículo descrevem o trabalho dele em vídeo, animação, ilustração, design, web design e fotografia, em registros, peças publicitárias e produtos ligados a música, dança, teatro e histórias em quadrinhos.[^correio][^cv]
 
 Com Rodolfo Ikeda, dirigiu e produziu o filme e videoinstalação *A História de T. Lídia Baís*, baseado na vida e na obra de [[lidia-bais|Lídia Baís]], exposto no Museu da Imagem e do Som de Mato Grosso do Sul durante a 5ª Primavera dos Museus, em setembro de 2011.[^f-lidia] Dirigiu, fotografou e editou o documentário *Ginga Documenta: cultura bovina em trânsito*, sobre a turnê de 2009 da [[ginga-cia-de-danca|Ginga Cia de Dança]] pelo Palco Giratório do Sesc. O filme foi exibido em setembro de 2012 no Centro Cultural José Octávio Guizzo, em Campo Grande.[^f-ginga][^cv][^correio]
 
@@ -31,13 +31,13 @@ Entre 2016 e 2019, segundo o currículo, fez a direção de fotografia de *A Dam
 
 Entre 2020 e 2021, segundo o currículo, dirigiu o filme *Mudança*, da Cia de Mato, o curta *Mesmo no Deserto* e o minidocumentário *18 Anos EnCena*, do [[fulano-di-tal|Fulano di Tal]]. Fez a direção de fotografia da websérie *Evoé*, de [[andrea-freire|Andréa Freire]], e a direção de fotografia e a montagem do curta *Presente Especial*, de Marcio Veiga.[^cv][^f-deserto][^f-encena]
 
-A partir de 2022, o currículo registra a direção de fotografia do Festival Universitário da Canção da UFMS (2022) e a cobertura em foto e vídeo de festivais como o [[festival-america-do-sul-pantanal|Festival América do Sul]], o Festival de Inverno de Bonito e o Festival Campão Cultural. Registra também a cobertura de espetáculos da Ginga Cia de Dança, do [[arado-cultural|Arado Cultural]], da Arrebol Cultural, do Fulano di Tal, da [[cia-dancurbana|Cia Dançurbana]] e do [[circo-do-mato|Circo do Mato]]. Em 2025, fez a direção de fotografia, a edição e a finalização do documentário *Ao Sul de Sol*, de Rodolfo Ikeda; em 2026, a direção de fotografia e a captação de imagens do filme *Higa Ke – Olho por Olho*.[^cv]
+A partir de 2022, o currículo registra a direção de fotografia do Festival Universitário da Canção da UFMS (2022) e a cobertura em foto e vídeo de festivais como o [[festival-america-do-sul-pantanal|Festival América do Sul]], o Festival de Inverno de Bonito e o Festival Campão Cultural. Registra também a cobertura de espetáculos da Ginga Cia de Dança, do [[arado-cultural|Arado Cultural]], da Arrebol Cultural, do Fulano di Tal, da [[cia-dancurbana|Cia Dançurbana]] e do [[circo-do-mato|Circo do Mato]]. Em 2025, fez a direção de fotografia, a edição e a finalização do documentário *Ao Sul de Sol*, de Rodolfo Ikeda; em 2026, a direção de fotografia e a captação de imagens do filme *Higa Ke – Olho por Olho*, de Conrado Roel e Débora Bah.[^cv][^helton]
 
 Pela Vaca Azul, dirigiu, fotografou e editou videoclipes e registros de música de artistas de Mato Grosso do Sul, entre eles [[guilherme-rondon|Guilherme Rondon]], [[paulo-simoes|Paulo Simões]], [[jerry-espindola|Jerry Espíndola]], Codinome Winchester e Maria Alice.[^c-rondon-vem][^c-simoes][^c-minutinho][^c-acido][^c-maria-ndeve]
 
 ## Filmografia
 
-- *Higa Ke – Olho por Olho* (2026) — filme de Conrado Roel; direção de fotografia e captação de imagens.[^cv]
+- *Higa Ke – Olho por Olho* (2026) — filme de Conrado Roel e Débora Bah; direção de fotografia e captação de imagens.[^cv][^helton]
 - *Ao Sul de Sol* (2025) — documentário de Rodolfo Ikeda; direção de fotografia, edição e finalização.[^cv]
 - *Mudança* (2020 ou 2021) — filme da Cia de Mato; direção geral e fotografia.[^cv]
 - *Presente Especial* (2020 ou 2021) — curta de Marcio Veiga; direção de fotografia e montagem.[^cv]
@@ -52,11 +52,11 @@ Pela Vaca Azul, dirigiu, fotografou e editou videoclipes e registros de música 
 - *A Dama do Rasqueado* (2016 ou 2017) — filme de Marinete Pinheiro; direção de fotografia.[^cv]
 - *Plataforme-se: Os limites elásticos* (2017) — videodança; direção, segundo a descrição do canal.[^f-plataforme1][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=SNofVYQMVTU)
 - *Plataforme-se: Estamos ao vivo* (2017) — videodança; direção, segundo a descrição do canal.[^f-plataforme2][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=h7s3vdiUwdM)
-- *À Procura de Marçal* (2016) — documentário. O título do vídeo atribui a direção a Natalia Moraes e Carol Caco; a descrição do canal atribui todos os conteúdos a Helton Pérez.[^f-marcal][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=YLHEAs1XNt0)
-- *Promidal* (2015) — curta. O título do vídeo atribui a direção a José Roberto Bastos; a descrição do canal atribui todos os conteúdos a Helton Pérez.[^f-promidal][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=uwMAYGKqCjc)
+- *À Procura de Marçal* (2016) — documentário dirigido por Natalia Moraes e Carol Caco; edição.[^f-marcal][^helton] [Assistir no YouTube](https://www.youtube.com/watch?v=YLHEAs1XNt0)
+- *Promidal* (2015) — curta dirigido por José Roberto Bastos; direção de fotografia e edição.[^f-promidal][^helton] [Assistir no YouTube](https://www.youtube.com/watch?v=uwMAYGKqCjc)
 - *Como Nasce uma Estrela* (2015) — vídeo do [[ballet-isadora-duncan|Ballet Isadora Duncan]]; direção, segundo a descrição do canal.[^f-estrela][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=ggcZM5V652Q)
 - *De Passagem* (2015) — videodança da [[cia-dancurbana|Cia Dançurbana]]; direção, segundo a descrição do canal.[^f-passagem][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=s32-QlEr5N4)
-- *Argento* — curta de Mariana Sena; direção de fotografia e edição. A descrição do vídeo diz que o filme foi escrito e dirigido por Mariana Sena; a descrição do canal atribui todos os conteúdos a Helton Pérez.[^f-argento][^cv][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=Gb3OVozqZ6w)
+- *Argento* — curta escrito e dirigido por Mariana Sena; direção de fotografia e edição.[^f-argento][^cv][^helton] [Assistir no YouTube](https://www.youtube.com/watch?v=Gb3OVozqZ6w)
 - *Nós,o(u)tros* — curta independente; direção geral, direção de fotografia e edição.[^cv][^f-nos] [Assistir no YouTube](https://www.youtube.com/watch?v=E_HHsjMirvE)
 - *A TV está Ligada* (2014) — curta de Essi Rafael, produzido pela [[casa-de-cinema-de-aquidauana|Casa de Cinema de Aquidauana]] em coprodução com a Vaca Azul, lançado em novembro de 2014; direção de fotografia.[^f-tv][^pantaneiro] [Assistir no YouTube](https://www.youtube.com/watch?v=CIzm8x0nCWY)
 - *Estudos de Superfície* (2013) — videodança da Ginga Cia de Dança; direção, segundo a descrição do canal.[^f-superficie][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=-hgXkjk4C_U)
@@ -101,7 +101,7 @@ Pela Vaca Azul, dirigiu, fotografou e editou videoclipes e registros de música 
 - Jerry e Barbados, *Lambendo a Ferida* — videoclipe; direção, segundo a descrição do canal.[^c-lambendo][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=GX7mTe2oJ1w)
 - Jerry e Barbados, *Caia no Samba* — vídeo; direção, segundo a descrição do canal.[^c-caia][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=bb4oku3MZgI)
 - Quebra-Torto, *Vendi a Minha Alma* e *Vadia* (2015) — registro ao vivo no Blues Bar de músicas dos Bêbados Habilidosos; direção, segundo a descrição do canal.[^c-quebra][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=0cqcwLKMG-s)
-- Jerry Espíndola e Pétalas de Pixe, *Minutinho* (2014) — videoclipe; direção geral, roteiro e edição (com Rodolfo Ikeda) e direção de fotografia. O currículo registra o clipe como "Dá um Minuto".[^c-minutinho][^cv] [Assistir no YouTube](https://www.youtube.com/watch?v=jNFEtvaG5so)
+- Jerry Espíndola e Pétalas de Pixe, *Me dá um Minuto* (2014) — videoclipe da canção "Minutinho", título com que aparece no YouTube; direção geral, roteiro e edição (com Rodolfo Ikeda) e direção de fotografia.[^c-minutinho][^cv][^helton] [Assistir no YouTube](https://www.youtube.com/watch?v=jNFEtvaG5so)
 - Jennifer Magnética, *Atrá(z) do Muro* (entre 2007 e 2015) — videoclipe; direção, fotografia e edição.[^cv]
 - Bianca Bacha, *Reaction* (2014) — vídeo; direção, segundo a descrição do canal.[^c-bianca][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=gM840RPAZhs)
 - FOLK4, *Pássaro Branco* — vídeo; direção, segundo a descrição do canal.[^c-folk-passaro][^sobre] [Assistir no YouTube](https://www.youtube.com/watch?v=G5cdgOhyHRw)
@@ -114,6 +114,7 @@ Pela Vaca Azul, dirigiu, fotografou e editou videoclipes e registros de música 
 
 [^sobre]: Vaca Azul, ["Sobre"](https://www.youtube.com/@vaca18azul), canal *Vaca Azul* no YouTube ("Todos os conteúdos dirigidos por Helton Pérez"). Acesso em 10 nov. 2026.
 [^cv]: Helton Pérez, *Helton Pérez – Currículo* e *Portfolio Helton Pérez – Vaca Azul*, versões atualizadas em 14 ago. 2026; documentos do autor, não publicados, cedidos ao projeto. Acesso em 10 nov. 2026.
+[^helton]: Helton Pérez, informações prestadas ao projeto em 10 nov. 2026: início da atuação pela Vaca Azul em 2006; direção e funções em *À Procura de Marçal*, *Promidal* e *Argento*; título *Me dá um Minuto*; grafia do nome de Débora Bah (o currículo traz "Barbara Bah").
 [^correio]: ["Documentário de jornalista é exibido hoje"](https://correiodoestado.com.br/cidades/documentario-de-jornalista-e-exibido-hoje/161447/), *Correio do Estado*, 28 set. 2012. Acesso em 10 nov. 2026.
 [^pantaneiro]: ["Curta de cineasta aquidauanense estreia neste fim de semana"](https://www.opantaneiro.com.br/aquidauana/curta-de-cineasta-aquidauanense-estreia-neste-fim-de-semana/119039/), *O Pantaneiro*, 7 nov. 2014. Acesso em 10 nov. 2026.
 [^f-encena]: Fulano di Tal, ["Fulano Di Tal - 18 Anos EnCena (MiniDoc)"](https://www.youtube.com/watch?v=qMjQDdHip3s), descrição do vídeo no canal *Fulano di Tal* no YouTube (direção, fotografia e edição da Vaca Azul; trajetória do grupo de 2003 a 2021). Acesso em 10 nov. 2026.
