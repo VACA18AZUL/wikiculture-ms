@@ -27,3 +27,21 @@ Em dezembro de 1987, participou do Pantanal Alerta Brasil, em São Paulo, e inte
 [^cae12]: Gilmar Lima Caetano, ["A música regional urbana de Mato Grosso do Sul"](https://periodicos.unespar.edu.br/nupem/article/download/5328/3356/14306), *Revista NUPEM* (UNESPAR), v. 4, n. 6, jan./jul. 2012, p. 83-99. Acesso em 29 out. 2026.
 [^caeufgd]: Gilmar Lima Caetano, [*A música regional urbana e identidades culturais de Mato Grosso do Sul: questões a partir da musicologia histórica*](https://www.ppghufgd.com/wp-content/uploads/2017/06/GILMAR-LIMA-CAETANO.pdf), dissertação de mestrado em História, Universidade Federal da Grande Dourados, 2012. Acesso em 29 out. 2026.
 [^gon14]: Rodrigo Teixeira Gonçalves, [*O lugar da música tradicional paraguaia no cenário cultural de Campo Grande (MS)*](https://posgraduacao.ufms.br/portal/trabalho-arquivos/download/4723), dissertação de mestrado em Comunicação, Universidade Federal de Mato Grosso do Sul, 2014. Acesso em 29 out. 2026.
+
+## Discografia
+
+- *Prata da Casa* (LP, 1982, UF-LP-001- WEA Discos). [Escuta oficial](https://www.youtube.com/watch?v=3T4cvMDyqCA). [^fn-fonografico-prata-da-casa-1982]
+- *Single Compacto* (EP, 1985, Musicanto). [Escuta oficial](https://www.youtube.com/playlist?list=PLO-QEpiig_IjidGpLlBNMavk-bofuUMdF). [^fn-fonografico-single-compacto-1985]
+- *Volume 01* (CD, 1996, Paradoxx). [Escuta oficial](https://www.youtube.com/playlist?list=PLO-QEpiig_IiGixz7kAGBvLxhC0ZPLK9P). [^fn-fonografico-volume-01-1996]
+- *O Que Virou* (CD, 2003, N/I). [Escuta oficial](https://www.youtube.com/watch?v=DkXGdAYyfu8). [^fn-fonografico-o-que-virou-2003]
+- *Sertanejo de Coração* (CD, 2005, Nordeste Digital). [Escuta oficial](https://www.youtube.com/watch?v=ok0Hvjpdvyk). [^fn-fonografico-sertanejo-de-coracao-2005]
+- *Música e Sons - Música Urbana* (CD, 2012, Criatto Produções). [Escuta oficial](https://www.youtube.com/watch?v=5iR3E8Crz3s). [^fn-fonografico-musica-e-sons-musica-2012]
+- *A Chama da Paz* (DVD, 2021, Compact Disc). [Escuta oficial](https://www.youtube.com/watch?v=6Q6nRIJWkYQ). [^fn-fonografico-a-chama-da-paz-2021]
+
+[^fn-fonografico-prata-da-casa-1982]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Prata da Casa* (LP, 1982, UF-LP-001- WEA Discos). Fonte física: Carlos Luz. Disponível em: https://www.youtube.com/watch?v=3T4cvMDyqCA.
+[^fn-fonografico-single-compacto-1985]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Single Compacto* (EP, 1985, Musicanto). Fonte física: Carlos Luz. Disponível em: https://www.youtube.com/playlist?list=PLO-QEpiig_IjidGpLlBNMavk-bofuUMdF.
+[^fn-fonografico-volume-01-1996]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Volume 01* (CD, 1996, Paradoxx). Fonte física: N/I. Disponível em: https://www.youtube.com/playlist?list=PLO-QEpiig_IiGixz7kAGBvLxhC0ZPLK9P.
+[^fn-fonografico-o-que-virou-2003]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *O Que Virou* (CD, 2003, N/I). Fonte física: N/I. Disponível em: https://www.youtube.com/watch?v=DkXGdAYyfu8.
+[^fn-fonografico-sertanejo-de-coracao-2005]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Sertanejo de Coração* (CD, 2005, Nordeste Digital). Fonte física: Idemar Sprandel. Disponível em: https://www.youtube.com/watch?v=ok0Hvjpdvyk.
+[^fn-fonografico-musica-e-sons-musica-2012]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Música e Sons - Música Urbana* (CD, 2012, Criatto Produções). Fonte física: N/I. Disponível em: https://www.youtube.com/watch?v=5iR3E8Crz3s.
+[^fn-fonografico-a-chama-da-paz-2021]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *A Chama da Paz* (DVD, 2021, Compact Disc). Fonte física: N/I. Disponível em: https://www.youtube.com/watch?v=6Q6nRIJWkYQ.

@@ -22,6 +22,8 @@ Em 1982, lançou o LP *Educandário do Chamamé*, gravado em Campo Grande pelo s
 
 ## Discografia
 
+- *Os Grandes Acordeonistas do MS Vol. 02* (CD, 2016, Universo Music). [Escuta oficial](https://www.youtube.com/watch?v=4lVdtSPV7K8). [^fn-fonografico-os-grandes-acordeoni-2016]
+
 - *Educandário do Chamamé* (1982) — LP, Discos Xaraés (LPX 0003); 12 faixas, entre elas "Choro Correntino", "Estrada Pantaneira", "Pomba Choca", "O Cascalho", "Marca Passo" e "Canoeiro de São Lourenço".[^lp] [Ouvir no YouTube (Acervo Digital Memória Fonográfica de MS)](https://www.youtube.com/playlist?list=PLSsuqx6va1qM)
 
 ## Divergência a conferir
@@ -29,3 +31,5 @@ Em 1982, lançou o LP *Educandário do Chamamé*, gravado em Campo Grande pelo s
 A descrição do LP cita como destaques do repertório "Dom Valdimar", "Revoada Pantaneira" e "Rio Verde Minha Terra". A lista de faixas da própria playlist não traz os dois primeiros títulos e traz "Rio Verde é Assim". Não foi possível saber se são nomes alternativos.[^lp]
 
 [^lp]: ["Araguainha - Educandário do Chamamé LP - 1982"](https://www.youtube.com/playlist?list=PLSsuqx6va1qM), lista de reprodução e descrição, *Acervo Digital Memória Fonográfica de MS* (YouTube). Acesso em 29 out. 2026.
+
+[^fn-fonografico-os-grandes-acordeoni-2016]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Os Grandes Acordeonistas do MS Vol. 02* (CD, 2016, Universo Music). Fonte física: Valdinei dos Santos. Disponível em: https://www.youtube.com/watch?v=4lVdtSPV7K8.
