@@ -25,6 +25,8 @@ Dessa história saiu também o Coral do Centro Cultural Guaraoby, segundo a mesm
 
 ## Discografia
 
+- *Memoria Musical 30 Anos* (CD, 2008, Compact Disc). [Escuta oficial](https://www.youtube.com/playlist?list=PLO-QEpiig_IgmFHxwQNpOwKfpLV2j8_dy). [^fn-fonografico-memoria-musical-30-a-2008]
+
 - *Natal entre os Povos* (1999) — CD com canções natalinas de tradições de nove idiomas.[^pl]
 - *Memória Musical 30 Anos* (2008) — CD de gravações ao vivo feitas ao longo dos anos, lançado no início das comemorações dos 30 anos do grupo, com projeto aprovado no FIP (Fundo de Investimento à Produção Artística e Cultural de Dourados). A playlist traz 18 faixas, entre elas "Romaria", "Tocando em Frente", "A Banda" e "Hino a Dourados".[^pl] [Ouvir no YouTube](https://www.youtube.com/playlist?list=PLO-QEpiig_IgmFHxwQNpOwKfpLV2j8_dy)
 
@@ -33,3 +35,5 @@ Dessa história saiu também o Coral do Centro Cultural Guaraoby, segundo a mesm
 - [Playlist do CD no canal Memória Fonográfica de MS](https://www.youtube.com/playlist?list=PLO-QEpiig_IgmFHxwQNpOwKfpLV2j8_dy) — faixas, ficha de origem do CD e texto sobre o grupo.
 
 [^pl]: Acervo Digital Memória Fonográfica de MS, ["Coral Santa Cecília - Memoria Musical 30 Anos CD - 2008"](https://www.youtube.com/playlist?list=PLO-QEpiig_IgmFHxwQNpOwKfpLV2j8_dy), playlist e descrição, *YouTube*. Acesso em 29 out. 2026.
+
+[^fn-fonografico-memoria-musical-30-a-2008]: Acervo Digital Memória Fonográfica de MS (Curadoria: Idemar Sprandel). Álbum *Memoria Musical 30 Anos* (CD, 2008, Compact Disc). Fonte física: N/I. Disponível em: https://www.youtube.com/playlist?list=PLO-QEpiig_IgmFHxwQNpOwKfpLV2j8_dy.
